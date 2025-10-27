@@ -1,0 +1,129 @@
+<title>Spooky Halloween Lock Screen Wallpapers for iPad</title>
+                    <meta name="description" content="Discover the best Halloween lock screen wallpapers for your iPad! Explore a variety of spooky designs that will enhance your device's look this Halloween season. Perfect for adding a festive touch, these wallpapers will keep you in the spooky spirit all month long!">
+                    <meta name="keywords" content="lock screen halloween wallpaper ipad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-halloween-wallpaper-ipad">
+                            <span itemprop="name">lock screen halloween wallpaper ipad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Lock Screen Wallpapers for iPad</h1>
+                <p>Transform your iPad with spooky and vibrant Halloween lock screen wallpapers! Choose from haunting ghosts, eerie pumpkins, and creepy creatures that embody the Halloween spirit. These wallpapers not only give your device a festive look but also set the perfect mood for the season. Get into the Halloween vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Halloween lock screen ideas | fall wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f3/2c/71/f32c71503606bcf526d98adbb2f5df16.jpg' alt='8 Best Halloween lock screen ideas | fall wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f3/2c/71/f32c71503606bcf526d98adbb2f5df16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy October & Halloween Wallpaper Backgrounds For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/67/03/2b/67032b0b774a9aac72f9f5dcb79d549d.jpg' alt='Trendy October & Halloween Wallpaper Backgrounds For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/67/03/2b/67032b0b774a9aac72f9f5dcb79d549d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spooky Background iPad Wallpaper| Pink Aesthetic | Ghost and Pumpkin  Halloween Screen Saver | Instant Download | iPad Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22145127/r/il/111f48/5349660332/il_fullxfull.5349660332_cr12.jpg' alt='Cute Spooky Background iPad Wallpaper| Pink Aesthetic | Ghost and Pumpkin  Halloween Screen Saver | Instant Download | iPad Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22145127/r/il/111f48/5349660332/il_fullxfull.5349660332_cr12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boo. Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/7e/f6/447ef6e597994a4f16f8e388baf42acd.jpg' alt='Boo. Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/7e/f6/447ef6e597994a4f16f8e388baf42acd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Lockscreen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/halloween-lockscreen-6cauwkxvru86s2uc.jpg' alt='100+] Halloween Lockscreen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/halloween-lockscreen-6cauwkxvru86s2uc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' alt='Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✧lockscreens✧ — Halloween lock-screens.">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/97d17419cf5212656ff760f5a648d158/dba86045c8f0df9f-00/s2048x3072/79385483aa739d057b590b04f931c5c50becc39a.jpg' alt='✧lockscreens✧ — Halloween lock-screens.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="✧lockscreens✧ - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/97d17419cf5212656ff760f5a648d158/dba86045c8f0df9f-00/s2048x3072/79385483aa739d057b590b04f931c5c50becc39a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Ipad Wallpaper, Ipad Background for Halloween">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/5b/10/055b10abcb8aaaba230d91ef0c2e0647.jpg' alt='Halloween Ipad Wallpaper, Ipad Background for Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/5b/10/055b10abcb8aaaba230d91ef0c2e0647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Lockscreen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/enchanted-halloween-pumpkin-forest-lockscreen-jpg-mrbjjcholc7dhyh4.jpg' alt='100+] Halloween Lockscreen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/enchanted-halloween-pumpkin-forest-lockscreen-jpg-mrbjjcholc7dhyh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

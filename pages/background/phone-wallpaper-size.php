@@ -1,0 +1,129 @@
+<title>Perfect Phone Wallpaper Sizes for Every Device</title>
+                    <meta name="description" content="Discover the ideal phone wallpaper sizes to enhance your device's display. Learn the best resolutions like 1080x1920 for Full HD and 1440x2560 for vibrant visuals. Elevate your phone's look with perfectly sized wallpapers tailored for any screen!">
+                    <meta name="keywords" content="phone wallpaper size">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/phone-wallpaper-size">
+                            <span itemprop="name">phone wallpaper size</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Phone Wallpaper Sizes for Every Device</h1>
+                <p>When choosing a phone wallpaper, size matters! Typically, wallpapers should match the resolution of your phone's screen for optimal display. Common sizes include 1080x1920 pixels for Full HD and 1440x2560 for Quad HD. Selecting the correct size ensures vibrant colors and sharp images, enhancing your phone's aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper size and layout for 1280×800 Android tablet | Rarst.net">
+                                <img itemprop="contentUrl url" src='https://www.rarst.net/images/android-tablet-wallpaper-size/android_wallpaper_template_1920x1408.png' alt='Wallpaper size and layout for 1280×800 Android tablet | Rarst.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rarst.net" />
+                                </span>
+                                <a href='https://www.rarst.net/images/android-tablet-wallpaper-size/android_wallpaper_template_1920x1408.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upgrade Your Screen Size with These Large Phone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/2zgo8Zz.jpg' alt='Upgrade Your Screen Size with These Large Phone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker" />
+                                </span>
+                                <a href='http://i.imgur.com/2zgo8Zz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Dimensions - SimplyMac">
+                                <img itemprop="contentUrl url" src='https://www.simplymac.com/wp-content/uploads/iphone-wallpaper1.webp' alt='iPhone Wallpaper Dimensions - SimplyMac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyMac" />
+                                </span>
+                                <a href='https://www.simplymac.com/wp-content/uploads/iphone-wallpaper1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I hope this is okay as a post, here is the phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5xx3q4lfjqb71.jpg' alt='I hope this is okay as a post, here is the phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1668">
+                                <meta itemprop="height" content="2990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5xx3q4lfjqb71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="phone wallpaper size iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/9f/d8/e39fd82fe705a20065793a2021356002.jpg' alt='phone wallpaper size iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/9f/d8/e39fd82fe705a20065793a2021356002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design DIY Wallpaper for Your Phone | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2021-06-Step-1-Image.jpg?auto=avif,webp&format=jpg&width=944' alt='How to Design DIY Wallpaper for Your Phone | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2021-06-Step-1-Image.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Stars Wallpaper for Phone (Resolution: 1080x2340 Original ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j7ldjnurlto91.png' alt='Night Stars Wallpaper for Phone (Resolution: 1080x2340 Original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j7ldjnurlto91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image6_img&flp=1653391406-1806393765628cc02eaef1d2-94248577.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image6_img&flp=1653391406-1806393765628cc02eaef1d2-94248577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

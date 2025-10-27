@@ -1,0 +1,129 @@
+<title>Vibrant Orange Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant orange heart wallpapers that add a touch of warmth and love to your device. Perfect for expressing your personality, these wallpapers are designed to brighten your day. Explore now and find the perfect heart design to match your style!">
+                    <meta name="keywords" content="orange heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/orange-heart-wallpaper">
+                            <span itemprop="name">orange heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Heart Wallpapers for Your Device</h1>
+                <p>Brighten up your device with stunning orange heart wallpaper! Perfect for those who love vibrant colors and heartfelt designs, these wallpapers are a perfect blend of warmth and joy. Whether you want to uplift your mood or express your feelings, our collection features a variety of beautiful patterns to choose from.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange heart by y2krevival | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/de/56/1ade56291708dfc5573d68b4367d6f96.jpg' alt='orange heart by y2krevival | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/de/56/1ade56291708dfc5573d68b4367d6f96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange heart aura wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/8a/14/cb8a1406a1020bcb0e6674a06bd5dfdf.jpg' alt='orange heart aura wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/8a/14/cb8a1406a1020bcb0e6674a06bd5dfdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Vibrant Orange Heart on a Dark Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/orange-heart-2418-x-3345-wallpaper-lpdfxc56taxdmaw9.jpg' alt='Download A Vibrant Orange Heart on a Dark Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1388">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/orange-heart-2418-x-3345-wallpaper-lpdfxc56taxdmaw9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange heart wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/5b/5c/e45b5cb74c4df8e57caab320a2c4f1f0.jpg' alt='orange heart wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/5b/5c/e45b5cb74c4df8e57caab320a2c4f1f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Heart Tunnel | Orange Heart Background Video Loop | Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yTwVmK8j-dM/sddefault.jpg' alt='Neon Heart Tunnel | Orange Heart Background Video Loop | Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yTwVmK8j-dM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange heart, emoji, iphone, love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/620/98/HD-wallpaper-orange-heart-emoji-iphone-love.jpg' alt='Orange heart, emoji, iphone, love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/620/98/HD-wallpaper-orange-heart-emoji-iphone-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Orange Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/orange-heart-900-x-1404-wallpaper-magl9v1m6w2gzhrb.jpg' alt='Download Vibrant Orange Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/orange-heart-900-x-1404-wallpaper-magl9v1m6w2gzhrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Heart Background - Orange Heart Background Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/backgrounds/hearts/orange-heart-background.gif' alt='Orange Heart Background - Orange Heart Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/backgrounds/hearts/orange-heart-background.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Heart Background Screensaver Loop 1 Hour 1080p HD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NFxdSHLZTeM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIWGIrTzeHwOdBAWhLQiyHCRExbA' alt='Orange Heart Background Screensaver Loop 1 Hour 1080p HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NFxdSHLZTeM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIWGIrTzeHwOdBAWhLQiyHCRExbA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween heart orange by y2krevival | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/90/88/3a90888a39b1e69ec6feaa0603dd8a1d.jpg' alt='halloween heart orange by y2krevival | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/90/88/3a90888a39b1e69ec6feaa0603dd8a1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

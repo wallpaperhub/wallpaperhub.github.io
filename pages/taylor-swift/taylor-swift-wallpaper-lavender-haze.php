@@ -1,0 +1,129 @@
+<title>Taylor Swift Lavender Haze Wallpapers: Dreamy & Aesthetic Designs</title>
+                    <meta name="description" content="Explore our collection of Taylor Swift "Lavender Haze" wallpapers! Perfect for fans seeking aesthetic and dreamy designs that resonate with the enchanting vibes of her music. Download now to enhance your device's look!">
+                    <meta name="keywords" content="taylor swift wallpaper lavender haze">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-wallpaper-lavender-haze">
+                            <span itemprop="name">taylor swift wallpaper lavender haze</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Lavender Haze Wallpapers: Dreamy & Aesthetic Designs</h1>
+                <p>Transform your device with stunning Taylor Swift "Lavender Haze" wallpapers! Capture the enchanting vibes of her latest album with vibrant colors and soft aesthetics that evoke the dreamy energy of the song. Perfect for fans looking to personalize their screens and celebrate Swift's artistry. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Haze phone wallpaper I made that even has a cute 1950's ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uiuildl5mnz91.png' alt='Lavender Haze phone wallpaper I made that even has a cute 1950's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uiuildl5mnz91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Lavender Haze music video wallpaper    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-lavender-haze-music-video-wallpaper-v0-rai8hkf20pea1.jpg?width=640&crop=smart&auto=webp&s=0bbe9822e95d0cb936b7a1fe72af2951f00a6f4f' alt='I made a Lavender Haze music video wallpaper    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-lavender-haze-music-video-wallpaper-v0-rai8hkf20pea1.jpg?width=640&crop=smart&auto=webp&s=0bbe9822e95d0cb936b7a1fe72af2951f00a6f4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lavender Haze phone wallpaper | Brittany Blevins">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/6c/c9/316cc9b7ff00ec66dd000fe4e8e76a4d.jpg' alt='Taylor Swift Lavender Haze phone wallpaper | Brittany Blevins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/6c/c9/316cc9b7ff00ec66dd000fe4e8e76a4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April's color of the month is swiftly taking over local stores ...">
+                                <img itemprop="contentUrl url" src='https://s42173.pcdn.co/wp-content/uploads/2023/03/taylor-swift-lavender-haze-video-012723-bc08e25b6c84461795837b6b75f40226.jpg.optimal.jpg' alt='April's color of the month is swiftly taking over local stores ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="inRegister" />
+                                </span>
+                                <a href='https://s42173.pcdn.co/wp-content/uploads/2023/03/taylor-swift-lavender-haze-video-012723-bc08e25b6c84461795837b6b75f40226.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift in 4k on X: "Taylor Swift - Lavender Haze (Music ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FneWXxGaYAA-Ohj?format=jpg&name=4096x4096' alt='Taylor Swift in 4k on X: "Taylor Swift - Lavender Haze (Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3276">
+                                <meta itemprop="height" content="1843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FneWXxGaYAA-Ohj?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Haze phone wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lavender-haze-phone-wallpaper-v0-vf2toi3v9bea1.png?width=640&crop=smart&auto=webp&s=c4f1374f40e2482f2b0972646e825fc4f0dfcbce' alt='Lavender Haze phone wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lavender-haze-phone-wallpaper-v0-vf2toi3v9bea1.png?width=640&crop=smart&auto=webp&s=c4f1374f40e2482f2b0972646e825fc4f0dfcbce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lavender haze taylor swift">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/35/67/0a3567d272daac228ea6abd7765ab130.jpg' alt='lavender haze taylor swift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/35/67/0a3567d272daac228ea6abd7765ab130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor swift - Lavender haze wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/90/cf/7b90cf9b8b6e4aaf186021f2a454b127.jpg' alt='Taylor swift - Lavender haze wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/90/cf/7b90cf9b8b6e4aaf186021f2a454b127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lavender haze wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/92/e7/d192e7301e7893a95fba0e42267a90df.jpg' alt='lavender haze wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/92/e7/d192e7301e7893a95fba0e42267a90df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out hayleythehatter's Shuffles lavender haze #taylorswift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/01/c6/1001c697b5ed52b8d1ed9bea15000756.jpg' alt='Check out hayleythehatter's Shuffles lavender haze #taylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/01/c6/1001c697b5ed52b8d1ed9bea15000756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

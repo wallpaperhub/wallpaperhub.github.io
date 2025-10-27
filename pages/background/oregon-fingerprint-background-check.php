@@ -1,0 +1,129 @@
+<title>Oregon Fingerprint Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover essential information about Oregon fingerprint background checks. Learn how they work, their importance for employers and organizations, and the step-by-step process to obtain your check. Ensure a safe environment by understanding your criminal history! Perfect for job seekers and volunteers alike.">
+                    <meta name="keywords" content="oregon fingerprint background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oregon-fingerprint-background-check">
+                            <span itemprop="name">oregon fingerprint background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Oregon Fingerprint Background Checks: What You Need to Know</h1>
+                <p>Oregon fingerprint background checks are essential for various purposes, including employment, licensing, and volunteering. These checks utilize biometric data to ensure thorough vetting of individuals. The process involves submitting fingerprints to the Oregon State Police, which then crosschecks them against national databases, providing vital insights into a person's criminal history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police : Firearms Instant Check System (FICS ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/osp/Docs/Fingerprint_Instructions.jpg' alt='Oregon State Police : Firearms Instant Check System (FICS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/osp/Docs/Fingerprint_Instructions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pricing">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/10/fbi-background-check-hillsboor-oregon.png' alt='Pricing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/10/fbi-background-check-hillsboor-oregon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Board of Nursing : Fingerprint Requirements : State ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/osbn/PublishingImages/dashboard_link.jpg' alt='Oregon State Board of Nursing : Fingerprint Requirements : State ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/osbn/PublishingImages/dashboard_link.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pricing">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/10/Need-Fingerprinring-for-FDLE-Background-Check_-PDX-Fingerprinting-Can-Help.png' alt='Pricing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/10/Need-Fingerprinring-for-FDLE-Background-Check_-PDX-Fingerprinting-Can-Help.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Services In Oregon | PDX Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2022/11/FBI-Background-Check.png' alt='FBI Background Check Services In Oregon | PDX Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2022/11/FBI-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Background Check Form - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/16/719/16719079.png' alt='Oregon Background Check Form - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/16/719/16719079.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink & Roll Fingerprinting Services | PDX Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2023/02/FD-258-Card1.webp' alt='Ink & Roll Fingerprinting Services | PDX Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdxfingerprinting.com" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2023/02/FD-258-Card1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How PDX Fingerprinting can speed up background checks | PDX ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQHr6KdPBClbFQ/feedshare-shrink_800/feedshare-shrink_800/0/1724098585335?e=2147483647&v=beta&t=b0bhZgZKmhtXCncS6EKtI55KHjU36A1tTAczh5Twz5s' alt='How PDX Fingerprinting can speed up background checks | PDX ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQHr6KdPBClbFQ/feedshare-shrink_800/feedshare-shrink_800/0/1724098585335?e=2147483647&v=beta&t=b0bhZgZKmhtXCncS6EKtI55KHjU36A1tTAczh5Twz5s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSBN Fingerprint Form - oregon: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/719/100719222/large.png' alt='OSBN Fingerprint Form - oregon: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/719/100719222/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Oregon for Immigration | PDX Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/03/criminal-background-check.png' alt='FBI Background Check Oregon for Immigration | PDX Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/03/criminal-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Total War: Warhammer II Backgrounds Explored</title>
+                    <meta name="description" content="Dive into the rich backgrounds of Dark Total War: Warhammer II. Discover the compelling landscapes and lore that define this epic fantasy strategy game. Uncover secrets and strategies hidden within the immersive settings that enhance your gaming experience.">
+                    <meta name="keywords" content="dark total war warhammer ii backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-total-war-warhammer-ii-backgrounds">
+                            <span itemprop="name">dark total war warhammer ii backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Total War: Warhammer II Backgrounds Explored</h1>
+                <p>Dark Total War: Warhammer II backgrounds immerse players in a richly detailed universe filled with conflict and intrigue. From the dark, grim landscapes of the Old World to the vibrant yet dangerous realms of the Mortal Empires, each backdrop enriches the narrative. Experience fierce battles, daunting foes, and strategic depth in an epic fantasy saga.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greatest Total War: WARHAMMER 2 wallpaper! :] : r/totalwar">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hdnay6NXj9DEia9Zcu_3u1Hy2YNcyculF3alS1RpXnA.jpg?auto=webp&s=b1463a71fd12abc353fee7ec269edc7433dd6b13' alt='Greatest Total War: WARHAMMER 2 wallpaper! :] : r/totalwar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hdnay6NXj9DEia9Zcu_3u1Hy2YNcyculF3alS1RpXnA.jpg?auto=webp&s=b1463a71fd12abc353fee7ec269edc7433dd6b13' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Warhammer, army, hydra, Total Warhammer II Was, Age of ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/2/46/total-war-warhammer-ii-dark-elves-age-of-sigmar-hydra-army-w.jpg' alt='Wallpaper Warhammer, army, hydra, Total Warhammer II Was, Age of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/2/46/total-war-warhammer-ii-dark-elves-age-of-sigmar-hydra-army-w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Total War Warhammer Ii Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-total-war-warhammer-ii-background-lqnth2x46khin9ha.jpg' alt='100+] Hd Total War Warhammer Ii Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-total-war-warhammer-ii-background-lqnth2x46khin9ha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Days of Total War - The Shadow & The Blade Live Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://content.totalwar.com/total-war/com.totalwar.www2019/uploads/2019/12/20160310/SB.jpg' alt='12 Days of Total War - The Shadow & The Blade Live Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total War" />
+                                </span>
+                                <a href='https://content.totalwar.com/total-war/com.totalwar.www2019/uploads/2019/12/20160310/SB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer II Wallpapers? : r/totalwar">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/Z3lWau1.jpg' alt='Warhammer II Wallpapers? : r/totalwar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/Z3lWau1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new Dark Elves posters from Total War Access. Enjoy! : r/totalwar">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Fd5OlDEpC-JX74auP_CNAprk9mUbnen6zy3MmCMPWjM.jpg?width=1080&crop=smart&auto=webp&s=adbd39fdef2ce3178c6577ae463972d611a3caae' alt='The new Dark Elves posters from Total War Access. Enjoy! : r/totalwar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Fd5OlDEpC-JX74auP_CNAprk9mUbnen6zy3MmCMPWjM.jpg?width=1080&crop=smart&auto=webp&s=adbd39fdef2ce3178c6577ae463972d611a3caae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Total War: WARHAMMER II - Rakarth - Main Menu background">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/047/315/176/large/simon-urban-wh-dark-elves-menu-wip15-portfolio-l.jpg?1647301236' alt='ArtStation - Total War: WARHAMMER II - Rakarth - Main Menu background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/047/315/176/large/simon-urban-wh-dark-elves-menu-wip15-portfolio-l.jpg?1647301236' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total War: Warhammer 2 announces The Shadow & The Blade | Rock ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/total-warhammer-2-shadow-and-blade-a.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Total War: Warhammer 2 announces The Shadow & The Blade | Rock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/total-warhammer-2-shadow-and-blade-a.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Total War Warhammer Ii Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-total-war-warhammer-ii-background-7bcmmp8xft1xfm0k.jpg' alt='100+] Hd Total War Warhammer Ii Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-total-war-warhammer-ii-background-7bcmmp8xft1xfm0k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underappreciated Warhammer 2 pictures. Enjoy. : r/totalwar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5q8zpz0l3d471.jpg' alt='Underappreciated Warhammer 2 pictures. Enjoy. : r/totalwar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5q8zpz0l3d471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

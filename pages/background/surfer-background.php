@@ -1,0 +1,129 @@
+<title>Embracing the Surfer Lifestyle: A Deep Dive into Surf Culture</title>
+                    <meta name="description" content="Explore the vibrant world of surfers and their diverse backgrounds. Discover how culture, environment, and community shape the surfer lifestyle, fostering a love for the ocean and adventure. Join us as we dive into the heart of surf culture and what it means to be part of this thrilling journey.">
+                    <meta name="keywords" content="surfer background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/surfer-background">
+                            <span itemprop="name">surfer background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embracing the Surfer Lifestyle: A Deep Dive into Surf Culture</h1>
+                <p>Surfers often come from diverse backgrounds, typically drawn to the ocean and its exhilarating waves. Many start surfing in youth, inspired by their environment, family, or friends. Commonly associated with beach culture, surfers share a love for nature, adventure, and a laid-back lifestyle. The surfer community fosters camaraderie, respect for the ocean, and a passion for the sport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="252,000+ Surfing Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/134134047/photo/surfer.jpg?s=612x612&w=0&k=20&c=4qKo9XxX0l6sMaL7cMkjIbiEraOm2sABwqgPer2d5zM=' alt='252,000+ Surfing Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/134134047/photo/surfer.jpg?s=612x612&w=0&k=20&c=4qKo9XxX0l6sMaL7cMkjIbiEraOm2sABwqgPer2d5zM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfing Background" Images – Browse 120 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/20/11/81/360_F_920118160_KMpfSDZ1vduwA9owE17CWDkcVi86rqAV.jpg' alt='Surfing Background" Images – Browse 120 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/20/11/81/360_F_920118160_KMpfSDZ1vduwA9owE17CWDkcVi86rqAV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_9:10/MTk2Mjc2ODcwMTAyNzIxODQw/1508wall-04-miguelpupo-jimmicane.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="4267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.surfer.com" />
+                                </span>
+                                <a href='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_9:10/MTk2Mjc2ODcwMTAyNzIxODQw/1508wall-04-miguelpupo-jimmicane.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Surf Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1502680390469-be75c86b636f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3VyZnxlbnwwfHwwfHx8MA%3D%3D' alt='1500+ Surf Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1502680390469-be75c86b636f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3VyZnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfing Photos, Download The BEST Free Surfing Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?cs=srgb&dl=pexels-pixabay-390051.jpg&fm=jpg' alt='Surfing Photos, Download The BEST Free Surfing Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2885">
+                                <meta itemprop="height" content="1664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?cs=srgb&dl=pexels-pixabay-390051.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Surfer">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/78932/sunset-surfer.jpg?h=699&q=85' alt='Sunset Surfer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/78932/sunset-surfer.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SURFING Wallpaper: Issue 12, 2015">
+                                <img itemprop="contentUrl url" src='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_43:25/MTk2Mjc3MDg3MjY5ODI0MDI3/scottdennis.jpg' alt='SURFING Wallpaper: Issue 12, 2015'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SURFER Magazine" />
+                                </span>
+                                <a href='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_43:25/MTk2Mjc3MDg3MjY5ODI0MDI3/scottdennis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cold Water Surf">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0524/5225/files/Surfing_Waves_in_Southern_California.jpg?v=1692312647' alt='Cold Water Surf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1094">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everyday California" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0524/5225/files/Surfing_Waves_in_Southern_California.jpg?v=1692312647' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surf Photos, Download The BEST Free Surf Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1122413/pexels-photo-1122413.jpeg?cs=srgb&dl=pexels-ollivves-1122413.jpg&fm=jpg' alt='Surf Photos, Download The BEST Free Surf Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3987">
+                                <meta itemprop="height" content="5980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1122413/pexels-photo-1122413.jpeg?cs=srgb&dl=pexels-ollivves-1122413.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Surf Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/479/296/small/ai-generated-ai-generative-big-sea-ocean-wave-surfing-background-vacation-adventure-travel-tropical-extreme-surfing-sport-vibe-graphic-art-photo.jpg' alt='Tropical Surf Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/479/296/small/ai-generated-ai-generative-big-sea-ocean-wave-surfing-background-vacation-adventure-travel-tropical-extreme-surfing-sport-vibe-graphic-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

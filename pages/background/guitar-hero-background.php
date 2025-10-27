@@ -1,0 +1,129 @@
+<title>Guitar Hero: The Ultimate Rock Experience</title>
+                    <meta name="description" content="Explore the electrifying world of Guitar Hero, the iconic rhythm game that revolutionized music gaming! Join the fun, master your favorite songs, and jam with friends. Discover why Guitar Hero remains a standout in gaming history with its engaging gameplay and dynamic music library.">
+                    <meta name="keywords" content="guitar hero background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/guitar-hero-background">
+                            <span itemprop="name">guitar hero background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Guitar Hero: The Ultimate Rock Experience</h1>
+                <p>Guitar Hero is a hugely popular music rhythm game franchise that debuted in 2005, allowing players to simulate playing rock music using a guitar-shaped controller. Initially developed by Harmonix, it captivated audiences with engaging gameplay, a vast library of songs, and multiplayer modes, making it a cultural phenomenon in gaming.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guitar Hero 2 Practice Background - background post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/H8NQ8syg.jpg' alt='Guitar Hero 2 Practice Background - background post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/H8NQ8syg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Guitar Hero">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/779611380267132448/5E13A76EA8C7D88B17CC838622150C537C037F2A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Guitar Hero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/779611380267132448/5E13A76EA8C7D88B17CC838622150C537C037F2A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Guitar Hero: World Tour HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/671/671836.jpg' alt='Download Video Game Guitar Hero: World Tour HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/671/671836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guitar Hero III: Legends of Rock Official Guitar Hero III: Legends ...">
+                                <img itemprop="contentUrl url" src='https://gamefragger.com/images/wallpaper/12_30.jpg' alt='Guitar Hero III: Legends of Rock Official Guitar Hero III: Legends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameFragger.com" />
+                                </span>
+                                <a href='https://gamefragger.com/images/wallpaper/12_30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvaged Guitar Hero Wallpapers">
+                                <img itemprop="contentUrl url" src='https://archives.somnolescent.net/web/gh_wallpapers/basement_1024x768.jpg' alt='Salvaged Guitar Hero Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Somnolescent Archives" />
+                                </span>
+                                <a href='https://archives.somnolescent.net/web/gh_wallpapers/basement_1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guitar Hero World Tour HD Wallpaper: Rock Your Screen">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/246/thumb-1920-246544.jpg' alt='Guitar Hero World Tour HD Wallpaper: Rock Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/246/thumb-1920-246544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philza guitar hero background (+ a minimalistic version) : r/Philza">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xh9tlmia46y61.jpg' alt='Philza guitar hero background (+ a minimalistic version) : r/Philza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xh9tlmia46y61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I need help with Guitar Hero 3. The fret board is cut off by the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-need-help-with-guitar-hero-3-the-fret-board-is-cut-off-by-v0-3ek7ju2h2vlc1.png?width=640&crop=smart&auto=webp&s=c06ea11824df13238528b1efbc507810ed207c31' alt='I need help with Guitar Hero 3. The fret board is cut off by the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-need-help-with-guitar-hero-3-the-fret-board-is-cut-off-by-v0-3ek7ju2h2vlc1.png?width=640&crop=smart&auto=webp&s=c06ea11824df13238528b1efbc507810ed207c31' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Guitar Hero Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/guitar-hero-arcade-cabinet-9ut8d534dbenz1vj.jpg' alt='100+] Guitar Hero Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/guitar-hero-arcade-cabinet-9ut8d534dbenz1vj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: guitar hero">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/f0/5b/3ef05b75201661022a940764203a3e57.jpg' alt='HD wallpaper: guitar hero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/f0/5b/3ef05b75201661022a940764203a3e57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

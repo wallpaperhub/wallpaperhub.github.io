@@ -1,0 +1,129 @@
+<title>Stay Updated with ESPN: Your Ultimate Sports Hub</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="espn">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/espn">
+                            <span itemprop="name">espn</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Updated with ESPN: Your Ultimate Sports Hub</h1>
+                <p>ESPN is the go-to destination for sports fans, offering live sports coverage, the latest news, expert analysis, and exclusive interviews. With a variety of channels and online streaming options, fans can stay connected to their favorite teams and events anytime, anywhere. Experience sports like never before with ESPN.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN - Serving Sports Fans. Anytime. Anywhere.">
+                                <img itemprop="contentUrl url" src='https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png' alt='ESPN - Serving Sports Fans. Anytime. Anywhere.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.espn.com" />
+                                </span>
+                                <a href='https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN Press Room - for Media Professionals (formerly ESPN MediaZone)">
+                                <img itemprop="contentUrl url" src='https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg' alt='ESPN Press Room - for Media Professionals (formerly ESPN MediaZone)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="espnpressroom.com" />
+                                </span>
+                                <a href='https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN - SportsPro">
+                                <img itemprop="contentUrl url" src='https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo.png' alt='ESPN - SportsPro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SportsPro" />
+                                </span>
+                                <a href='https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Sports Streaming, Original Shows & Award-Winning ...">
+                                <img itemprop="contentUrl url" src='https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original' alt='Live Sports Streaming, Original Shows & Award-Winning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for ESPN">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=820203396141933' alt='Profile for ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=820203396141933' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN's Has Billion-Dollar Interests Riding On College Football Season">
+                                <img itemprop="contentUrl url" src='https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg?w=1280&h=720&crop=1' alt='ESPN's Has Billion-Dollar Interests Riding On College Football Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportico.com" />
+                                </span>
+                                <a href='https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg?w=1280&h=720&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN Classic - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/800px-ESPN_Classic_Logo.svg.png' alt='ESPN Classic - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/800px-ESPN_Classic_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN+ to Launch April 12, Bringing Sports Fans More Live Sports ...">
+                                <img itemprop="contentUrl url" src='https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy.jpg' alt='ESPN+ to Launch April 12, Bringing Sports Fans More Live Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="2488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN Press Room" />
+                                </span>
+                                <a href='https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside ESPN's survival plan under Jimmy Pitaro">
+                                <img itemprop="contentUrl url" src='https://images.axios.com/8WAJUvl8ll-SuQ1jSfMW4ncheQE=/1920x1920/smart/2024/08/29/1724939520401.jpg' alt='Inside ESPN's survival plan under Jimmy Pitaro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Axios" />
+                                </span>
+                                <a href='https://images.axios.com/8WAJUvl8ll-SuQ1jSfMW4ncheQE=/1920x1920/smart/2024/08/29/1724939520401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN FC - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_m9M03AM9MAPhowS2oDLOamub1K-6D4mlzMYY0I44Sn4bY=s900-c-k-c0x00ffffff-no-rj' alt='ESPN FC - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_m9M03AM9MAPhowS2oDLOamub1K-6D4mlzMYY0I44Sn4bY=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

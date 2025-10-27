@@ -1,0 +1,129 @@
+<title>Top Jing Yuan Wallpapers for Honkai Star Rail</title>
+                    <meta name="description" content="Explore the best Jing Yuan wallpapers from Honkai Star Rail! Download high-quality images to personalize your devices with stunning visuals. Transform your backgrounds and immerse yourself deeper into the game with these captivating designs. Perfect for every fan!">
+                    <meta name="keywords" content="honkai star rail jing yuan wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/honkai-star-rail-jing-yuan-wallpaper">
+                            <span itemprop="name">honkai star rail jing yuan wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Jing Yuan Wallpapers for Honkai Star Rail</h1>
+                <p>Discover stunning Honkai Star Rail Jing Yuan wallpapers that bring your favorite character to life. Elevate your device's aesthetics with high-quality images showcasing Jing Yuan in action and breathtaking scenery. Perfect for fans of the game, these wallpapers will enhance your experience and keep you inspired.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jing Yuan - Honkai Star Rail - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Jing.Yuan.full.3893914.png' alt='Jing Yuan - Honkai Star Rail - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Jing.Yuan.full.3893914.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jing Yuan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/21/e6/e321e69e12d3120861237e54f1e1b570.jpg' alt='Jing Yuan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/21/e6/e321e69e12d3120861237e54f1e1b570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jing Yuan Video Game Honkai: Star Rail 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/129/1299535.jpg' alt='Download Jing Yuan Video Game Honkai: Star Rail 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6344">
+                                <meta itemprop="height" content="3771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/129/1299535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jing Yuan - Honkai Star Rail - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Jing.Yuan.full.3881747.jpg' alt='Jing Yuan - Honkai Star Rail - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Jing.Yuan.full.3881747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jing Yuan Yanqing (Honkai: Star Rail) Video Game Honkai ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/132/1326566.jpeg' alt='Download Jing Yuan Yanqing (Honkai: Star Rail) Video Game Honkai ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/132/1326566.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail - Jing Yuan [ Live Wallpaper ]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/c5aVFwO8neI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgYig9MA8=&rs=AOn4CLBe7j-_2esSLHyoc4LQuTW4CCbJ_g' alt='Honkai Star Rail - Jing Yuan [ Live Wallpaper ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/c5aVFwO8neI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgYig9MA8=&rs=AOn4CLBe7j-_2esSLHyoc4LQuTW4CCbJ_g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jing Yuan Honkai Star Rail 4K Wallpaper iPhone HD Phone #8891k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/jing-yuan-honkai-star-rail-889@1@k-phone-4k.jpg' alt='Jing Yuan Honkai Star Rail 4K Wallpaper iPhone HD Phone #8891k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/jing-yuan-honkai-star-rail-889@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Honkai: Star Rail Jing Yuan 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/135/1350876.png' alt='Download Honkai: Star Rail Jing Yuan 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/135/1350876.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="daily blade on X: "My two absolute favourites        ️ 10 hours ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FuktNJjagAATx8v.jpg:large' alt='daily blade on X: "My two absolute favourites        ️ 10 hours ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FuktNJjagAATx8v.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JING YUAN WALLPAPERS Honkai: Star Rail | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2023/02/20/148060784/d3ac4f06c65d0dea1773ceefa0b96bbd_7697460168284860262.jpg' alt='JING YUAN WALLPAPERS Honkai: Star Rail | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2023/02/20/148060784/d3ac4f06c65d0dea1773ceefa0b96bbd_7697460168284860262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

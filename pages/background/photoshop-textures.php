@@ -1,0 +1,129 @@
+<title>Enhance Your Designs with Photoshop Textures</title>
+                    <meta name="description" content="Discover the power of Photoshop textures to elevate your digital artwork. Learn how to effectively use different textures to add depth and realism, enhancing the visual appeal of your designs effortlessly. Ideal for graphic designers and artists looking to transform their projects!">
+                    <meta name="keywords" content="photoshop textures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photoshop-textures">
+                            <span itemprop="name">photoshop textures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Designs with Photoshop Textures</h1>
+                <p>Photoshop textures are essential tools for enhancing digital designs, providing depth and realism to images. These versatile elements can transform simple graphics into stunning visuals, making them invaluable for artists, graphic designers, and photographers. Explore various textures like wood, metal, fabric, and more to elevate your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Best Photoshop Textures (Free & Pro) | Design Shack">
+                                <img itemprop="contentUrl url" src='https://designshack.net/wp-content/uploads/Free-Grunge-Wall-Texture-for-Photoshop.jpg' alt='20+ Best Photoshop Textures (Free & Pro) | Design Shack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Shack" />
+                                </span>
+                                <a href='https://designshack.net/wp-content/uploads/Free-Grunge-Wall-Texture-for-Photoshop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture Overlays: Adding Texture to Photos | Make it with Adobe ...">
+                                <img itemprop="contentUrl url" src='https://makeitcenter.adobe.com/content/dam/edu-hub-assets/blog2/118_02_article.jpg' alt='Texture Overlays: Adding Texture to Photos | Make it with Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make it with Adobe Creative Cloud - Adobe" />
+                                </span>
+                                <a href='https://makeitcenter.adobe.com/content/dam/edu-hub-assets/blog2/118_02_article.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Turn a Photo into a Seamless, Tileable Texture in Photoshop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WjDxwh2y8yY/maxresdefault.jpg' alt='How to Turn a Photo into a Seamless, Tileable Texture in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WjDxwh2y8yY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Texture in Photoshop (Step by Step)">
+                                <img itemprop="contentUrl url" src='https://cms.expertphotography.com/wp-content/uploads/2018/09/photoshop-textures-cover-1.jpg' alt='How to Add Texture in Photoshop (Step by Step)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expert Photography" />
+                                </span>
+                                <a href='https://cms.expertphotography.com/wp-content/uploads/2018/09/photoshop-textures-cover-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Library of 100 Downloadable Photoshop Textures | ArchDaily">
+                                <img itemprop="contentUrl url" src='https://images.adsttc.com/media/images/5be7/3822/08a5/e549/e300/0797/newsletter/26519540325_01d332ae9a_k.jpg?1541879835' alt='A Library of 100 Downloadable Photoshop Textures | ArchDaily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArchDaily" />
+                                </span>
+                                <a href='https://images.adsttc.com/media/images/5be7/3822/08a5/e549/e300/0797/newsletter/26519540325_01d332ae9a_k.jpg?1541879835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Easy Ways to Add Distressed Textures to Your Work in ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/RetroSupplyCo/Freebies/RSCO-Grunge-Overlay-1.jpg' alt='Three Easy Ways to Add Distressed Textures to Your Work in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RetroSupply Co." />
+                                </span>
+                                <a href='https://s3.amazonaws.com/RetroSupplyCo/Freebies/RSCO-Grunge-Overlay-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add texture in Photoshop - Practical guide 2024 - HYTRAPE">
+                                <img itemprop="contentUrl url" src='http://hytrape.com/cdn/shop/articles/Ajouter_de_la_texture_dans_Photoshop_-_Guide_pratique_fdb3f9a6-f611-4be1-8339-d10472495891.jpg?v=1720647698' alt='Add texture in Photoshop - Practical guide 2024 - HYTRAPE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HYTRAPE" />
+                                </span>
+                                <a href='http://hytrape.com/cdn/shop/articles/Ajouter_de_la_texture_dans_Photoshop_-_Guide_pratique_fdb3f9a6-f611-4be1-8339-d10472495891.jpg?v=1720647698' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Black And White Texture For Photoshop (Grunge-And-Rust ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/grunge-black-and-white-texture-for-photoshop-thumb44.jpg' alt='Grunge Black And White Texture For Photoshop (Grunge-And-Rust ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/grunge-black-and-white-texture-for-photoshop-thumb44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Library of 100 Downloadable Photoshop Textures | ArchDaily">
+                                <img itemprop="contentUrl url" src='https://images.adsttc.com/media/images/5be7/387d/08a5/e549/e300/079a/newsletter/43173659600_612d58c379_k.jpg?1541879926' alt='A Library of 100 Downloadable Photoshop Textures | ArchDaily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArchDaily" />
+                                </span>
+                                <a href='https://images.adsttc.com/media/images/5be7/387d/08a5/e549/e300/079a/newsletter/43173659600_612d58c379_k.jpg?1541879926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Textures, Tutorials, and More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/53/da/7553da1bc45c9f54c7fc538db7d3f4fa.jpg' alt='Free Textures, Tutorials, and More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/53/da/7553da1bc45c9f54c7fc538db7d3f4fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

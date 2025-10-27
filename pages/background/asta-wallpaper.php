@@ -1,0 +1,129 @@
+<title>Asta Wallpaper: Elevate Your Space with Style</title>
+                    <meta name="description" content="Discover Asta wallpaper for a trendy and elegant home makeover. With diverse patterns and colors, it reflects your personal style while enhancing any room's ambiance. Explore our unique designs to transform your interior effortlessly.">
+                    <meta name="keywords" content="asta wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/asta-wallpaper">
+                            <span itemprop="name">asta wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Asta Wallpaper: Elevate Your Space with Style</h1>
+                <p>Asta wallpaper combines elegance and style, transforming any space with its striking designs and rich textures. Available in various patterns and colors, it allows you to express your unique personality and aesthetic. Whether you're redecorating a room or looking for a statement piece, Asta wallpaper offers the perfect solution to elevate your interior décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Asta ideas | black clover anime, black clover manga, black bull">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c9/e0/b7/c9e0b7a7c168b62c0071653f82a16370.png' alt='32 Asta ideas | black clover anime, black clover manga, black bull'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c9/e0/b7/c9e0b7a7c168b62c0071653f82a16370.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta wallpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4c/89/4f/4c894f45d8cc0e2040bbe55ce095e009.jpg' alt='Asta wallpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4c/89/4f/4c894f45d8cc0e2040bbe55ce095e009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Asta Manga Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/asta-manga-0p6h1q994ginietg.jpg' alt='100+] Asta Manga Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/asta-manga-0p6h1q994ginietg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD asta wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta-thumbnail.jpg' alt='HD asta wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Demon Wallpaper 4K, Black Clover, Silhouette">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1284x2778-11222.png' alt='Asta Demon Wallpaper 4K, Black Clover, Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1284x2778-11222.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Mobile Wallpaper by TheBJO13 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c24aed1e-c5ee-4504-a657-6ebff55849b7/ddz9z4m-77462dc2-dc37-4625-9091-c202623bdbb3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyNGFlZDFlLWM1ZWUtNDUwNC1hNjU3LTZlYmZmNTU4NDliN1wvZGR6OXo0bS03NzQ2MmRjMi1kYzM3LTQ2MjUtOTA5MS1jMjAyNjIzYmRiYjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q8_Jr7-J1HZHAtc9T-AFNpbIDT24W10iqhdVfaxwkGE' alt='Asta Mobile Wallpaper by TheBJO13 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c24aed1e-c5ee-4504-a657-6ebff55849b7/ddz9z4m-77462dc2-dc37-4625-9091-c202623bdbb3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyNGFlZDFlLWM1ZWUtNDUwNC1hNjU3LTZlYmZmNTU4NDliN1wvZGR6OXo0bS03NzQ2MmRjMi1kYzM3LTQ2MjUtOTA5MS1jMjAyNjIzYmRiYjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q8_Jr7-J1HZHAtc9T-AFNpbIDT24W10iqhdVfaxwkGE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Black Clover Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/4f/af/bd4faf4bc9979df013084eff361c2f2f.jpg' alt='Asta Black Clover Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/4f/af/bd4faf4bc9979df013084eff361c2f2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Demon Asta (Black Clover) Anime Black Clover HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/112/thumb-1920-1125440.jpg' alt='Download Demon Asta (Black Clover) Anime Black Clover HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/112/thumb-1920-1125440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black clover asta 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-clover-asta-h7lfewa43xju3kei.jpg' alt='Black clover asta 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-clover-asta-h7lfewa43xju3kei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Wallpaper 4K, Black Clover">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/asta-black-clover-3840x2160-12455.jpeg' alt='Asta Wallpaper 4K, Black Clover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/asta-black-clover-3840x2160-12455.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Fun & Creative Gender Reveal Invitation Templates</title>
+                    <meta name="description" content="Discover delightful gender reveal invitation templates that are easy to personalize. Perfect for creating excitement around your party while ensuring all loved ones are invited to share in the joy! Explore our unique designs for a memorable celebration of your little one's arrival.">
+                    <meta name="keywords" content="gender reveal invitation template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gender-reveal-invitation-template">
+                            <span itemprop="name">gender reveal invitation template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun & Creative Gender Reveal Invitation Templates</h1>
+                <p>Celebrate the excitement of your upcoming bundle of joy with our gender reveal invitation template! Customize your design with playful colors, fun themes, and personal touches to invite family and friends to this thrilling moment. Make your reveal party memorable with a beautifully crafted invitation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom printable gender reveal invitation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGGG28ZI24/1/0/1135w/canva-blue-and-pink-watercolor-gender-reveal-invitation-RFIy340n3Rs.jpg' alt='Free custom printable gender reveal invitation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGGG28ZI24/1/0/1135w/canva-blue-and-pink-watercolor-gender-reveal-invitation-RFIy340n3Rs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Reveal Invitations Template, Editable Baby Reveal Invite ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8862703/r/il/27e35b/2216932486/il_fullxfull.2216932486_tiqd.jpg' alt='Gender Reveal Invitations Template, Editable Baby Reveal Invite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8862703/r/il/27e35b/2216932486/il_fullxfull.2216932486_tiqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Reveal Invitation Template | Modern Gender Neutral Reveal Invite">
+                                <img itemprop="contentUrl url" src='https://wildbloomdesignstudio.com/cdn/shop/products/il_fullxfull.5175855022_mc8p_800x.jpg?v=1699661996' alt='Gender Reveal Invitation Template | Modern Gender Neutral Reveal Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wild Bloom Design Studio" />
+                                </span>
+                                <a href='https://wildbloomdesignstudio.com/cdn/shop/products/il_fullxfull.5175855022_mc8p_800x.jpg?v=1699661996' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Reveal Invitation Template, Elephant Gender Reveal ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36460306/r/il/c79d17/4162280643/il_570xN.4162280643_nxn1.jpg' alt='Gender Reveal Invitation Template, Elephant Gender Reveal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36460306/r/il/c79d17/4162280643/il_570xN.4162280643_nxn1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Editable PDF) Cutesy Gender Reveal Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/aa/c4/06aac49facf09333a9d37a877207506e.jpg' alt='Free Editable PDF) Cutesy Gender Reveal Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/aa/c4/06aac49facf09333a9d37a877207506e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Gender Reveal Invitation Templates - PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/gender-reveal-party-invitation-template-orpyemd75b5c42.webp' alt='30+ Free Gender Reveal Invitation Templates - PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/gender-reveal-party-invitation-template-orpyemd75b5c42.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom printable gender reveal invitation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFqgNOkrwQ/1/0/1143w/canva-pink-and-blue-cute-gender-reveal-invitation-B3ySSQrbHR0.jpg' alt='Free custom printable gender reveal invitation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFqgNOkrwQ/1/0/1143w/canva-pink-and-blue-cute-gender-reveal-invitation-B3ySSQrbHR0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Reveal Invitation Printable - Invitation-World.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/80/9d/57809d5661e01ce8327f43503ac59418.jpg' alt='Gender Reveal Invitation Printable - Invitation-World.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/80/9d/57809d5661e01ce8327f43503ac59418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Reveal Invitation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-gender-reveal-party-invitation-template-with-pink-blue-balloons-with-gap-filling_648830-152.jpg?semt=ais_hybrid' alt='Gender Reveal Invitation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-gender-reveal-party-invitation-template-with-pink-blue-balloons-with-gap-filling_648830-152.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oh Baby, Pink Blue Smoke Gold Confetti Gender Reveal Invitation ...">
+                                <img itemprop="contentUrl url" src='https://artfullifedesigns.com/cdn/shop/products/GR226InvALIST8_1200x.jpg?v=1675885503' alt='Oh Baby, Pink Blue Smoke Gold Confetti Gender Reveal Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artful Life Designs" />
+                                </span>
+                                <a href='https://artfullifedesigns.com/cdn/shop/products/GR226InvALIST8_1200x.jpg?v=1675885503' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

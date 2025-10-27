@@ -1,0 +1,129 @@
+<title>Stunning 4K Hatsune Miku Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of beautiful 4K Hatsune Miku wallpapers that transform your devices. Perfect for fans, our high-resolution images showcase vibrant artwork, ensuring your screen always looks its best. Download and enjoy the magic of Miku today!">
+                    <meta name="keywords" content="hatsune miku wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/hatsune-miku-wallpaper-4k">
+                            <span itemprop="name">hatsune miku wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Hatsune Miku Wallpapers for Your Device</h1>
+                <p>Discover stunning Hatsune Miku wallpapers in 4K resolution that elevate your device's aesthetic! Immerse yourself in vibrant colors and captivating designs featuring your favorite vocaloid. Perfect for fans and enthusiasts alike, these high-quality wallpapers bring Miku to life on your screen, making every glance a joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku: Project DIVA Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/c/733202-3840x2160-desktop-4k-hatsune-miku-wallpaper-image.jpg' alt='Hatsune Miku: Project DIVA Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/c/733202-3840x2160-desktop-4k-hatsune-miku-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku Wallpaper 4K, Listening music, Headphones">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hatsune-miku-2560x1080-15479.jpg' alt='Hatsune Miku Wallpaper 4K, Listening music, Headphones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hatsune-miku-2560x1080-15479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hatsune Miku Anime Vocaloid 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/119/1196928.jpg' alt='Download Hatsune Miku Anime Vocaloid 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4094">
+                                <meta itemprop="height" content="2467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/119/1196928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hatsune Miku Anime Vocaloid 4k Ultra HD Wallpaper by 白雪とわ">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/110/1100118.png' alt='Download Hatsune Miku Anime Vocaloid 4k Ultra HD Wallpaper by 白雪とわ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4138">
+                                <meta itemprop="height" content="2707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/110/1100118.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku Wallpaper 4K, War, Japanese girl, Anime girl">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hatsune-miku-war-2880x1800-15553.jpg' alt='Hatsune Miku Wallpaper 4K, War, Japanese girl, Anime girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hatsune-miku-war-2880x1800-15553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Pfp Hatsune Miku Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-pfp-hatsune-miku-kvsjgeqwqjq0v3m1.jpg' alt='4k Pfp Hatsune Miku Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4837">
+                                <meta itemprop="height" content="3023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-pfp-hatsune-miku-kvsjgeqwqjq0v3m1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku Anime Girl 4K Wallpaper iPhone HD Phone #2085b">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/hatsune-miku-anime-girl-208@5@b-phone-4k.jpg' alt='Hatsune Miku Anime Girl 4K Wallpaper iPhone HD Phone #2085b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/hatsune-miku-anime-girl-208@5@b-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku in 4K: Enchanting Vocaloid Vision by CrystalHerb">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/105/1053832.jpg' alt='Hatsune Miku in 4K: Enchanting Vocaloid Vision by CrystalHerb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/105/1053832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: hatsune miku, peace gesture, smiling, happy face ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3e/dd/56/3edd564daea1d498edc71f14100caf82.jpg' alt='HD wallpaper: hatsune miku, peace gesture, smiling, happy face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3e/dd/56/3edd564daea1d498edc71f14100caf82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hatsune Miku HD Vocaloid Wallpaper, HD Anime 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/hatsune-miku-hd-vocaloid_bWdqbGyUmZqaraWkpJRnaGtnrWZraGs.jpg' alt='Hatsune Miku HD Vocaloid Wallpaper, HD Anime 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2362">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/hatsune-miku-hd-vocaloid_bWdqbGyUmZqaraWkpJRnaGtnrWZraGs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

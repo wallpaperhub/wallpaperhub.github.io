@@ -1,0 +1,129 @@
+<title>Stunning HD 4K Moon Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking moon wallpapers in HD 4K quality! Elevate your device's aesthetic with serene lunar scenes that captivate and inspire. Perfect for any moon enthusiast looking to add a touch of celestial beauty to their screen. Download now and transform your mobile experience!">
+                    <meta name="keywords" content="moon wallpaper hd 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/moon-wallpaper-hd-4k">
+                            <span itemprop="name">moon wallpaper hd 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD 4K Moon Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning moon wallpaper in HD 4K quality. Immerse yourself in the tranquil beauty of the lunar landscape, featuring vibrant colors and intricate details. Perfect for nature lovers and dreamers, these wallpapers will evoke serenity and wonder every time you glance at your device. Experience the magic of the moon today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpaper 4K, Aesthetic, Night, Landscape, Lake">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/moon-aesthetic-3840x2160-12004.jpg' alt='Moon Wallpaper 4K, Aesthetic, Night, Landscape, Lake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/moon-aesthetic-3840x2160-12004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/e/d/185748-1125x2436-iphone-hd-moon-wallpaper-image.jpg' alt='Moon Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/e/d/185748-1125x2436-iphone-hd-moon-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/d/a/171773-3840x2160-desktop-4k-moonlight-wallpaper.jpg' alt='Moonlight Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/d/a/171773-3840x2160-desktop-4k-moonlight-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1527842891421-42eec6e703ea?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9vbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Moon Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1527842891421-42eec6e703ea?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9vbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Moon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-moon-cval4u1dyiy223ch.jpg' alt='100+] 4k Moon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-moon-cval4u1dyiy223ch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD full moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/323/583/HD-wallpaper-blue-moon-full-moon-sky.jpg' alt='HD full moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/323/583/HD-wallpaper-blue-moon-full-moon-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moon - Free 4k Wallpapers - 40.000+ Free 4k Wallpapers - Pixel4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/22/97/fe229742b3ac60a66f869f74e15d7af2.jpg' alt='Dark Moon - Free 4k Wallpapers - 40.000+ Free 4k Wallpapers - Pixel4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/22/97/fe229742b3ac60a66f869f74e15d7af2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpaper Photos, Download The BEST Free Moon Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1302434/pexels-photo-1302434.jpeg?cs=srgb&dl=pexels-alexfu-1302434.jpg&fm=jpg' alt='Moon Wallpaper Photos, Download The BEST Free Moon Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2981">
+                                <meta itemprop="height" content="3726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1302434/pexels-photo-1302434.jpeg?cs=srgb&dl=pexels-alexfu-1302434.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Wallpaper Photos, Download The BEST Free Moon Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?cs=srgb&dl=pexels-rok-romih-1746122-3489072.jpg&fm=jpg' alt='Moon Wallpaper Photos, Download The BEST Free Moon Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="5264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?cs=srgb&dl=pexels-rok-romih-1746122-3489072.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full moon Wallpaper 4K, Forest, Night, Dark, Starry sky">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/full-moon-forest-night-dark-starry-sky-5k-8k-1242x2208-1684.jpg' alt='Full moon Wallpaper 4K, Forest, Night, Dark, Starry sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/full-moon-forest-night-dark-starry-sky-5k-8k-1242x2208-1684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

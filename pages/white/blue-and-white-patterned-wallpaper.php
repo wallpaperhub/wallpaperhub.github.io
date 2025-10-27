@@ -1,0 +1,129 @@
+<title>Stunning Blue and White Patterned Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover beautiful blue and white patterned wallpaper that elevates your home decor. Perfect for all styles, our wallpaper adds charm and sophistication to any space while being easy to apply. Transform your walls effortlessly with these elegant designs that suit every taste.">
+                    <meta name="keywords" content="blue and white patterned wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-patterned-wallpaper">
+                            <span itemprop="name">blue and white patterned wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue and White Patterned Wallpaper for Every Room</h1>
+                <p>Blue and white patterned wallpaper brings a timeless elegance to any room. Whether you choose floral designs, geometric patterns, or classic stripes, this color combination adds a serene and airy feel. Perfect for both modern and traditional spaces, it enhances decor while creating a focal point. Transform your walls with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safiyya Peel and Stick Wallpaper Floral Contact Paper Modern Wallpaper for  Bedroom Blue and White Removable Wallpaper Self Adhesive Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71UxD+18ugL.jpg' alt='Safiyya Peel and Stick Wallpaper Floral Contact Paper Modern Wallpaper for  Bedroom Blue and White Removable Wallpaper Self Adhesive Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71UxD+18ugL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper Non-Pasted  Wallpaper Roll G56647 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_1000.jpg' alt='Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper Non-Pasted  Wallpaper Roll G56647 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, Light Blue & White Plums and Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' alt='Blue, Light Blue & White Plums and Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Garden Flowers">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/711959/pr22/1/1280/blue-white-garden-flowers-blue-floral-wallpaper.jpg' alt='Blue and White Garden Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/711959/pr22/1/1280/blue-white-garden-flowers-blue-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' alt='Indigo Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Hydrangea Wallpaper - Blue & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RI5143_1707c783-9c52-4099-a99b-f55b50fbf5e2.jpg?v=1593725977' alt='Rifle Paper Co. Hydrangea Wallpaper - Blue & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RI5143_1707c783-9c52-4099-a99b-f55b50fbf5e2.jpg?v=1593725977' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild & Wonderful">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0541_1s_Peony-bouquet-blue-beige-white-blossom-seamless-wallpaper-Wild-_-Wonderful_Repeating-Pattern-Sample-1.jpg?v=1734716305' alt='Wild & Wonderful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0541_1s_Peony-bouquet-blue-beige-white-blossom-seamless-wallpaper-Wild-_-Wonderful_Repeating-Pattern-Sample-1.jpg?v=1734716305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ashford House Old World Toile Blue/White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6710804414510.jpg?v=1712805026' alt='Ashford House Old World Toile Blue/White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6710804414510.jpg?v=1712805026' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Navy Blue Lattice Geometric Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-navy-blue-lattice-geometric-wallp-hecv-l.jpg' alt='White & Navy Blue Lattice Geometric Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-navy-blue-lattice-geometric-wallp-hecv-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Blue White - Buy Online at Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/57778/vintage_wallpaper_blue_white_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Vintage Wallpaper Blue White - Buy Online at Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/57778/vintage_wallpaper_blue_white_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

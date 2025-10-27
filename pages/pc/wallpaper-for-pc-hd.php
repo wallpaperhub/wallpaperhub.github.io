@@ -1,0 +1,129 @@
+<title>HD Wallpapers for PC: Stunning Backgrounds to Enhance Your Screen</title>
+                    <meta name="description" content="Discover amazing HD wallpapers for your PC! Browse our extensive collection of high-quality backgrounds perfect for personalizing your workspace. Enjoy breathtaking visuals that inspire creativity and enhance your digital experience. Download your favorites today!">
+                    <meta name="keywords" content="wallpaper for pc hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/wallpaper-for-pc-hd">
+                            <span itemprop="name">wallpaper for pc hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>HD Wallpapers for PC: Stunning Backgrounds to Enhance Your Screen</h1>
+                <p>Transform your PC experience with stunning HD wallpapers! Explore a wide range of high-definition options, from breathtaking landscapes to artistic designs. Whether you're looking to personalize your workspace or ignite creativity, our collection offers something for everyone. Download now and elevate your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Hd Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lakeside-car-full-desktop-screen-hd-ffduevjvagzqhrhy.jpg' alt='Full Screen Hd Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lakeside-car-full-desktop-screen-hd-ffduevjvagzqhrhy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Scary HD Wallpapers 1080p on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/ae/3f/bfae3fa83ae7efd6b7b56c3df0fac9bf.jpg' alt='   Scary HD Wallpapers 1080p on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/ae/3f/bfae3fa83ae7efd6b7b56c3df0fac9bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Windows Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-windows-desktop-b6yb6qpq6ndvo3k6.jpg' alt='400+] Windows Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-windows-desktop-b6yb6qpq6ndvo3k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4300+] Nature Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg' alt='4300+] Nature Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/640781/pexels-photo-640781.jpeg?cs=srgb&dl=pexels-eberhardgross-640781.jpg&fm=jpg' alt='60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5496">
+                                <meta itemprop="height" content="3670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/640781/pexels-photo-640781.jpeg?cs=srgb&dl=pexels-eberhardgross-640781.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg' alt='Desktop Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=pexels-eberhardgross-443446.jpg&fm=jpg' alt='60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5266">
+                                <meta itemprop="height" content="3403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=pexels-eberhardgross-443446.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: pc hd 1080p nature 1920x1080">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/d9/cc/98d9cc35f5b599ebff353ca816fb6a06.jpg' alt='HD wallpaper: pc hd 1080p nature 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/d9/cc/98d9cc35f5b599ebff353ca816fb6a06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful pc wallpaper hd 4k 8k - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWggydbURs_UalBwspdrnY4qiSohHeUM9eA_Wz2zWMHqbPTePtzdU7IuSpYGwALe5Yc4F4myzZDBZV2TdC3yRdPdxyoLa8Lps8WLbfyexTxZvs7WnT2bIzvdNiBY_QSLCCCkAF1g8acBgs/d/v2-Minimal-view-wallpaper-pc-hd.png' alt='Beautiful pc wallpaper hd 4k 8k - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWggydbURs_UalBwspdrnY4qiSohHeUM9eA_Wz2zWMHqbPTePtzdU7IuSpYGwALe5Yc4F4myzZDBZV2TdC3yRdPdxyoLa8Lps8WLbfyexTxZvs7WnT2bIzvdNiBY_QSLCCCkAF1g8acBgs/d/v2-Minimal-view-wallpaper-pc-hd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD background wallpaper - free pc desktop nature wallpaper… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4259/35741177571_4c7a52cc0a_h.jpg' alt='HD background wallpaper - free pc desktop nature wallpaper… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4259/35741177571_4c7a52cc0a_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

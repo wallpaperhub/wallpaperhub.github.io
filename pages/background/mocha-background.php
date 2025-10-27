@@ -1,0 +1,129 @@
+<title>Mocha Background: A Warm and Inviting Color</title>
+                    <meta name="description" content="Explore the beauty of mocha background, a cozy blend of coffee and chocolate hues that enhances interiors, fashion, and graphics. Discover how this versatile color creates a soothing ambiance and complements diverse decor styles, perfect for adding warmth and comfort to any setting.">
+                    <meta name="keywords" content="mocha background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mocha-background">
+                            <span itemprop="name">mocha background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mocha Background: A Warm and Inviting Color</h1>
+                <p>Mocha background is a rich, warm color often associated with coffee and chocolate. It offers a soothing ambiance, making it a popular choice for interior design, fashion, and graphics. This versatile hue complements various decor styles, from modern to rustic, and can evoke feelings of comfort and coziness in any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Mocha Brown Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/18307263/p/f/m/YOMUsozN7FjCavnwGHLcu0JFp439B_ldpD6019dihhUm1L2Rr9xit10/Solid%20Mocha%20Mousse%20(A47864).jpg' alt='Solid Mocha Brown Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/18307263/p/f/m/YOMUsozN7FjCavnwGHLcu0JFp439B_ldpD6019dihhUm1L2Rr9xit10/Solid%20Mocha%20Mousse%20(A47864).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocha Color Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/smooth-golden-wave-wallpaper_23-2148818024.jpg' alt='Mocha Color Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/smooth-golden-wave-wallpaper_23-2148818024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocha Brown Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L2NvbG9yLWJyb3duLWFlLTAxNi1iLmpwZw.jpg' alt='Mocha Brown Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L2NvbG9yLWJyb3duLWFlLTAxNi1iLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savage 107" x 12yds Background Paper (#76 Mocha)">
+                                <img itemprop="contentUrl url" src='https://www.samys.com/images/product/main/SAVA7612x1000.jpg' alt='Savage 107" x 12yds Background Paper (#76 Mocha)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samy's Camera" />
+                                </span>
+                                <a href='https://www.samys.com/images/product/main/SAVA7612x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63,100+ Mocha Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2188789375/vector/metallic-background-with-curved-shiny-lines-in-trendy-color-shades-mocha-mousse-of-2025.jpg?s=612x612&w=0&k=20&c=luhYgDtvVsG6OmpMfkUTU10f3dyG_LIclk5egYV5zOk=' alt='63,100+ Mocha Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2188789375/vector/metallic-background-with-curved-shiny-lines-in-trendy-color-shades-mocha-mousse-of-2025.jpg?s=612x612&w=0&k=20&c=luhYgDtvVsG6OmpMfkUTU10f3dyG_LIclk5egYV5zOk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocha Color Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/background-tamplate_125964-699.jpg' alt='Mocha Color Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/background-tamplate_125964-699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savage #76 Mocha Seamless Background Paper (26" x 36')">
+                                <img itemprop="contentUrl url" src='https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/Savage_76_2612_Widetone_Seamless_Background_Paper_1232668763_244179.jpg' alt='Savage #76 Mocha Seamless Background Paper (26" x 36')'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="B&H Photo" />
+                                </span>
+                                <a href='https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/Savage_76_2612_Widetone_Seamless_Background_Paper_1232668763_244179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocha">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/SLD1215x5.jpg?v=1624901119' alt='Mocha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/SLD1215x5.jpg?v=1624901119' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="608,001 Mocha Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/grainy-gradient-background-trendy-mocha-260nw-2555061445.jpg' alt='608,001 Mocha Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/grainy-gradient-background-trendy-mocha-260nw-2555061445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocha aesthetic wallpaper (iPad)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/03/ea/e303ead8de22791f1ce667c7b651f4cc.jpg' alt='Mocha aesthetic wallpaper (iPad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/03/ea/e303ead8de22791f1ce667c7b651f4cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

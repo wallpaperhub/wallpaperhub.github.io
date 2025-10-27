@@ -1,0 +1,129 @@
+<title>Discover the Allure of Abandoned Factories</title>
+                    <meta name="description" content="Explore the haunting beauty of abandoned factories. Uncover their rich history and architectural decay, and experience the enigmatic charm that captivates urban explorers and photographers alike. Join us on a journey to reveal the stories behind these forgotten sites.">
+                    <meta name="keywords" content="abandoned factory background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abandoned-factory-background">
+                            <span itemprop="name">abandoned factory background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Abandoned Factories</h1>
+                <p>Abandoned factories often evoke a sense of nostalgia and intrigue. Overgrown, crumbling structures stand as remnants of a bustling past, where dreams and hard work came together. These sites are now haunted by memories, often drawing urban explorers and photographers eager to capture their beauty. Each rusted machine tells a story waiting to be uncovered.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/161821892/photo/old-industrial-building.jpg?s=612x612&w=0&k=20&c=1t78PtbkMzjwO6pl2ME1Qxf1BvrT_3T0o4A-tsp2HPg=' alt='58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/161821892/photo/old-industrial-building.jpg?s=612x612&w=0&k=20&c=1t78PtbkMzjwO6pl2ME1Qxf1BvrT_3T0o4A-tsp2HPg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71,235 Abandoned Factory Background Images, Stock Photos, 3D ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/interior-machine-hall-abandoned-industrial-600nw-67243492.jpg' alt='71,235 Abandoned Factory Background Images, Stock Photos, 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/interior-machine-hall-abandoned-industrial-600nw-67243492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/509863421/photo/abandoned-factory.jpg?s=612x612&w=0&k=20&c=OU1FV3k6fXrkgESSC5Qat23E70LcU71woUlEfdLUVxs=' alt='58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/509863421/photo/abandoned-factory.jpg?s=612x612&w=0&k=20&c=OU1FV3k6fXrkgESSC5Qat23E70LcU71woUlEfdLUVxs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abandoned Factory Building">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/73368/abandoned-factory-building.jpg?h=699&q=85' alt='Abandoned Factory Building'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/73368/abandoned-factory-building.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INT. ABANDONED FACTORY 1 – DAY – Episode Life">
+                                <img itemprop="contentUrl url" src='http://episodelife.com/backgrounds/INT_ABANDONED_FACTORY1_DAY.jpg' alt='INT. ABANDONED FACTORY 1 – DAY – Episode Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Episode Life" />
+                                </span>
+                                <a href='http://episodelife.com/backgrounds/INT_ABANDONED_FACTORY1_DAY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Empty Abandoned Warehouse Building or Factory Workshop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/1a/82/f91a82c0ea70e811991a740a7f7e4e90.jpg' alt='Large Empty Abandoned Warehouse Building or Factory Workshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/1a/82/f91a82c0ea70e811991a740a7f7e4e90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/507838414/photo/old-abandoned-factory.jpg?s=612x612&w=0&k=20&c=u_lq6sLomScwAxyGWuW3eMPR1IjGyi7vVKj7P-fygVY=' alt='58,000+ Abandoned Factory Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/507838414/photo/old-abandoned-factory.jpg?s=612x612&w=0&k=20&c=u_lq6sLomScwAxyGWuW3eMPR1IjGyi7vVKj7P-fygVY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Industrial building backdrop. Interior of ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/industrial-building-backdrop-interior-abandoned-factory-with-stained-concrete-walls-bricked-windows-pieces-old-equipment_124717-762.jpg' alt='Premium Photo | Industrial building backdrop. Interior of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/industrial-building-backdrop-interior-abandoned-factory-with-stained-concrete-walls-bricked-windows-pieces-old-equipment_124717-762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night scene of an abandoned factory">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/297/705/original/night-scene-of-an-abandoned-factory-video.jpg' alt='Night scene of an abandoned factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/297/705/original/night-scene-of-an-abandoned-factory-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abandoned Factory Stock Illustrations – 7,825 Abandoned Factory ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abandoned-factory-ruins-ai-generated-industrial-image-338041790.jpg' alt='Abandoned Factory Stock Illustrations – 7,825 Abandoned Factory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abandoned-factory-ruins-ai-generated-industrial-image-338041790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

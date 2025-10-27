@@ -1,0 +1,129 @@
+<title>Generate Unique Patterns Effortlessly</title>
+                    <meta name="description" content="Discover the power of pattern generators! Create stunning, unique designs for art, graphics, and more with easy-to-use tools that unleash your creativity. Perfect for hobbyists and professionals alike, explore endless possibilities in pattern creation today!">
+                    <meta name="keywords" content="pattern generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pattern-generator">
+                            <span itemprop="name">pattern generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Generate Unique Patterns Effortlessly</h1>
+                <p>A pattern generator is a powerful tool that creates sequences or designs based on predefined algorithms or rules. Often used in mathematics, art, and computer graphics, it can produce intricate patterns and visual effects. These generators can help designers, developers, and hobbyists create unique patterns for diverse applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Generator: Make free patterns online with AI | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/2cd653d8-8520-4cf7-bd3e-a0b177add90d/feature_pattern-generator_promo-showcase_01.jpg' alt='Pattern Generator: Make free patterns online with AI | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/2cd653d8-8520-4cf7-bd3e-a0b177add90d/feature_pattern-generator_promo-showcase_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Free Pattern Generators for Repetitive Pattern Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/free-pattern-generators/gerstnerizer.jpg' alt='8 Free Pattern Generators for Repetitive Pattern Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/free-pattern-generators/gerstnerizer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VISWIG - Vector pattern generator - Awwwards">
+                                <img itemprop="contentUrl url" src='https://assets.awwwards.com/awards/external/2021/04/60880b8c3784e002375351.jpg' alt='VISWIG - Vector pattern generator - Awwwards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Awwwards" />
+                                </span>
+                                <a href='https://assets.awwwards.com/awards/external/2021/04/60880b8c3784e002375351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Pattern Generator - Lucky Resistor">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/luckyresistor.me/wp-content/uploads/2020/10/circle-pattern-generator.jpg?ssl=1' alt='Circle Pattern Generator - Lucky Resistor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2586">
+                                <meta itemprop="height" content="1964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucky Resistor" />
+                                </span>
+                                <a href='https://i0.wp.com/luckyresistor.me/wp-content/uploads/2020/10/circle-pattern-generator.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern generator by Super designer">
+                                <img itemprop="contentUrl url" src='https://superdesigner.co/img/svg_backgrounds.png' alt='Pattern generator by Super designer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super designer" />
+                                </span>
+                                <a href='https://superdesigner.co/img/svg_backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An improved graphic pattern generator #ArtTuesday #Art « Adafruit ...">
+                                <img itemprop="contentUrl url" src='https://cdn-blog.adafruit.com/uploads/2024/03/Screenshot-2024-01-22-111822-7.png' alt='An improved graphic pattern generator #ArtTuesday #Art « Adafruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adafruit Blog" />
+                                </span>
+                                <a href='https://cdn-blog.adafruit.com/uploads/2024/03/Screenshot-2024-01-22-111822-7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern maker: create seamless and geometric designs – Repper app">
+                                <img itemprop="contentUrl url" src='https://repper.app/_next/static/media/collection_patterns_text_top.caacf7c1.png' alt='Pattern maker: create seamless and geometric designs – Repper app'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1002">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="repper.app" />
+                                </span>
+                                <a href='https://repper.app/_next/static/media/collection_patterns_text_top.caacf7c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustrator Tutorial - Using the Pattern Generator">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GBbL9_4ktKw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGF0gXShdMA8=&rs=AOn4CLBjb5zDnziEfbY-_ImkUEpf7eYQxg' alt='Illustrator Tutorial - Using the Pattern Generator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GBbL9_4ktKw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGF0gXShdMA8=&rs=AOn4CLBjb5zDnziEfbY-_ImkUEpf7eYQxg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern maker: create seamless and geometric designs – Repper app">
+                                <img itemprop="contentUrl url" src='https://repper.app/_next/static/media/repper_og_image.686d999f.jpg' alt='Pattern maker: create seamless and geometric designs – Repper app'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="repper.app" />
+                                </span>
+                                <a href='https://repper.app/_next/static/media/repper_og_image.686d999f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-Fi Pattern Generator for Substance">
+                                <img itemprop="contentUrl url" src='https://cdn.80.lv/api/upload/content/2f/5d2c3af280be9.jpg' alt='Sci-Fi Pattern Generator for Substance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="80 Level" />
+                                </span>
+                                <a href='https://cdn.80.lv/api/upload/content/2f/5d2c3af280be9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

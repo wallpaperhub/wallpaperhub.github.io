@@ -1,0 +1,129 @@
+<title>Stunning Sigma Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a vibrant collection of sigma wallpapers for iPhone. Enhance your device's style with unique designs that reflect your personality. Perfect for anyone looking to elevate their phone's aesthetic. Discover your perfect wallpaper today!">
+                    <meta name="keywords" content="sigma wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sigma-wallpaper-iphone">
+                            <span itemprop="name">sigma wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sigma Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning sigma wallpapers! Featuring intricate designs and vibrant colors, these wallpapers enhance your device's aesthetic while expressing your unique style. Perfect for tech enthusiasts and art lovers alike, elevate your iPhone experience with our collection of captivating sigma wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some sigma phone backgrounds. Constantly remind yourself ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-adnvceapyb2a1.jpg?width=640&format=pjpg&auto=webp&s=a5bd10f286eabaf6fe996c2ac0bc4b839a1222d2' alt='Here are some sigma phone backgrounds. Constantly remind yourself ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-adnvceapyb2a1.jpg?width=640&format=pjpg&auto=webp&s=a5bd10f286eabaf6fe996c2ac0bc4b839a1222d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring Sigma Wallpaper Inspired by American Psycho | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7192701382149803270&location=0&aid=1988' alt='Exploring Sigma Wallpaper Inspired by American Psycho | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7192701382149803270&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some sigma phone backgrounds. Constantly remind yourself ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-4q5hxivpyb2a1.png?width=700&format=png&auto=webp&s=e5c713065b949c72f674b7a820f197cd6ba917c8' alt='Here are some sigma phone backgrounds. Constantly remind yourself ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-4q5hxivpyb2a1.png?width=700&format=png&auto=webp&s=e5c713065b949c72f674b7a820f197cd6ba917c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some sigma phone backgrounds. Constantly remind yourself ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-smczq9epyb2a1.jpg?width=640&format=pjpg&auto=webp&s=6d65f6349dbc43297f96f8fe860058fd3aacbee3' alt='Here are some sigma phone backgrounds. Constantly remind yourself ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-smczq9epyb2a1.jpg?width=640&format=pjpg&auto=webp&s=6d65f6349dbc43297f96f8fe860058fd3aacbee3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some sigma phone backgrounds. Constantly remind yourself ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-5equg3hpyb2a1.jpg?width=1080&format=pjpg&auto=webp&s=c8b4243efede24d218cc4b6f74136b44594c11a8' alt='Here are some sigma phone backgrounds. Constantly remind yourself ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-are-some-sigma-phone-backgrounds-constantly-remind-v0-5equg3hpyb2a1.jpg?width=1080&format=pjpg&auto=webp&s=c8b4243efede24d218cc4b6f74136b44594c11a8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 22 Best Sigma Male Wallpapers [ HQ ]">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/wp-content/uploads/2023/10/Sigma-Male-Wallpaper.jpg' alt='Top 22 Best Sigma Male Wallpapers [ HQ ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/wp-content/uploads/2023/10/Sigma-Male-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sigma male, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/158/843/HD-wallpaper-sigma-male.jpg' alt='Sigma male, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/158/843/HD-wallpaper-sigma-male.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sigma wallpaper (by grapeyguts) [1286x2788] : r/SigmaMains">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yq7k0agx8qsa1.jpg' alt='Sigma wallpaper (by grapeyguts) [1286x2788] : r/SigmaMains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="2788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yq7k0agx8qsa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper #sigma #sigmamales #iphone #fyp #fypシ | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7172659984495430913&location=0&aid=1988' alt='wallpaper #sigma #sigmamales #iphone #fyp #fypシ | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7172659984495430913&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 25 Best Sigma Male iPhone Wallpapers [ 4k & HD Quality ]">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/10/Sigma-Male-iPhone-Home-Screen-Wallpaper-scaled.jpg' alt='Top 25 Best Sigma Male iPhone Wallpapers [ 4k & HD Quality ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/10/Sigma-Male-iPhone-Home-Screen-Wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Night Anime Scenery Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of breathtaking night anime scenery wallpapers. Perfect for anime enthusiasts, these beautiful visuals will enhance your screens with enchanting landscapes and magical atmospheres. Discover the perfect wallpaper to reflect your love for anime and nightlife. Download now for an immersive experience!">
+                    <meta name="keywords" content="night anime scenery wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/night-anime-scenery-wallpaper">
+                            <span itemprop="name">night anime scenery wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Night Anime Scenery Wallpapers for Your Device</h1>
+                <p>Transform your device with captivating night anime scenery wallpapers. Immerse yourself in enchanting landscapes filled with starry skies, glowing cityscapes, and tranquil nature scenes. Each wallpaper invites you to escape into a dreamy world, perfect for anime lovers seeking unique and beautiful visuals. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Night Stunning Scenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-night-stunning-scenery-uhjxyz7qtngf297c.jpg' alt='Anime Night Stunning Scenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-night-stunning-scenery-uhjxyz7qtngf297c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Night Sky Anime Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/city-night-sky-anime-phone-q7anj64nbgv39u8c.webp' alt='City Night Sky Anime Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/city-night-sky-anime-phone-q7anj64nbgv39u8c.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Scenery At Night HD Wallpaper | 1920x1080 | ID:55454 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/85/b5/9585b518b11a9388541cdb0f24471041.jpg' alt='Anime Scenery At Night HD Wallpaper | 1920x1080 | ID:55454 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/85/b5/9585b518b11a9388541cdb0f24471041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Japanese Wind Bells Night Anime Scenery Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/japanese-wind-bells-night-anime-scenery-avasie663iucp9ek.jpg' alt='Download Japanese Wind Bells Night Anime Scenery Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/japanese-wind-bells-night-anime-scenery-avasie663iucp9ek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Night Sky City Wallpaper Pc - Penelusuran Google">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/5a/00/355a00da38e0b55998aaf0d39125ce9a.jpg' alt='Anime Night Sky City Wallpaper Pc - Penelusuran Google'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/5a/00/355a00da38e0b55998aaf0d39125ce9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Night Scenery Lonely Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-night-scenery-lonely-90haa9kqylndu4ey.jpg' alt='Anime Night Scenery Lonely Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-night-scenery-lonely-90haa9kqylndu4ey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Starry Night Reflection - HD Wallpaper by smile">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/792/792513.jpg' alt='Anime Starry Night Reflection - HD Wallpaper by smile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/792/792513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet night anime scenery HD [1920 × 1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/z9k9ltr.jpg' alt='Sweet night anime scenery HD [1920 × 1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/z9k9ltr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime night wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/562/860/HD-wallpaper-anime-landscape-stars-night-scenic-anime-thumbnail.jpg' alt='HD anime night wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/562/860/HD-wallpaper-anime-landscape-stars-night-scenic-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] Anime-styled Night Sky [6348x3632] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jgha3z774qz41.jpg' alt='OC] Anime-styled Night Sky [6348x3632] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6348">
+                                <meta itemprop="height" content="3632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jgha3z774qz41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

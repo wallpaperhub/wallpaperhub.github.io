@@ -1,0 +1,129 @@
+<title>Glam Up Your Space: Glitter Pink Wallpaper</title>
+                    <meta name="description" content="Discover the perfect blend of elegance and whimsy with our glitter pink wallpaper! Ideal for any room, this wallpaper adds a sparkling touch to your decor. Easy to apply, it transforms your space and creates a cheerful ambiance. Perfect for both modern and classic interiors!">
+                    <meta name="keywords" content="glitter pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/glitter-pink-wallpaper">
+                            <span itemprop="name">glitter pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glam Up Your Space: Glitter Pink Wallpaper</h1>
+                <p>Transform your space with stunning glitter pink wallpaper! Perfect for adding a touch of glam and sparkle to any room, this wallpaper is ideal for bedrooms, living areas, or even feature walls. Its unique shimmer catches the light beautifully, creating a warm and inviting atmosphere. Easy to install and stylish, it brings a modern flair to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/rose-gold-glitter-vertical-texture-with-color-gradient_522680-399.jpg?semt=ais_hybrid' alt='Pink Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/rose-gold-glitter-vertical-texture-with-color-gradient_522680-399.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pink Glitter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-glitter-r7thsvoqwunp5h95.jpg' alt='200+] Pink Glitter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-glitter-r7thsvoqwunp5h95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Pink Glitter Wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hjAeTo1fL.jpg' alt='HD Pink Glitter Wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hjAeTo1fL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b7/4e/2e/b74e2e69576dc59bf3cad2473ad80c51.jpg' alt='20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b7/4e/2e/b74e2e69576dc59bf3cad2473ad80c51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHIHUT Hot Pink Glitter Peel and Stick Wallpaper Sparkly Pink Contact Paper  for Cabinets Walls Removable Decorative Glitter Wall Paper Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/CHIHUT-Hot-Pink-Glitter-Peel-Stick-Wallpaper-Sparkly-Contact-Paper-Cabinets-Walls-Removable-Decorative-Wall-Self-Adhesive-Textured-Fabric-Roll-DIY-Cr_a1c58909-a344-40f0-806d-b10a643b1d8d.40424d41b0e10f06511ccba222e8f56c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='CHIHUT Hot Pink Glitter Peel and Stick Wallpaper Sparkly Pink Contact Paper  for Cabinets Walls Removable Decorative Glitter Wall Paper Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/CHIHUT-Hot-Pink-Glitter-Peel-Stick-Wallpaper-Sparkly-Contact-Paper-Cabinets-Walls-Removable-Decorative-Wall-Self-Adhesive-Textured-Fabric-Roll-DIY-Cr_a1c58909-a344-40f0-806d-b10a643b1d8d.40424d41b0e10f06511ccba222e8f56c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/d8/9e/b4d89ef6b176f107a3e9167a01ca1ac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Pink Glitters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bright-pink-glitters-27qfb3axcts5ejwf.jpg' alt='Bright Pink Glitters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bright-pink-glitters-27qfb3axcts5ejwf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Background Images – Browse 923,624 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/10/94/49/360_F_110944977_9CJLfJb4f9cboO6Egot5ZqZqF4oWnpsn.jpg' alt='Pink Glitter Background Images – Browse 923,624 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/10/94/49/360_F_110944977_9CJLfJb4f9cboO6Egot5ZqZqF4oWnpsn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter With Rose Gold Colors Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-glitter-with-rose-gold-colors-rhvdp0b6hvsiegcw.jpg' alt='Pink Glitter With Rose Gold Colors Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1052">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-glitter-with-rose-gold-colors-rhvdp0b6hvsiegcw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Butterfly Wallpaper iPhone Wallpaper Glitter Wallpaper Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39426941/r/il/cf1204/5894692851/il_fullxfull.5894692851_dng4.jpg' alt='Pink Butterfly Wallpaper iPhone Wallpaper Glitter Wallpaper Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39426941/r/il/cf1204/5894692851/il_fullxfull.5894692851_dng4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

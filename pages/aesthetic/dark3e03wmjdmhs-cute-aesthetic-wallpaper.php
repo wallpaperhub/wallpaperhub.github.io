@@ -1,0 +1,129 @@
+<title>Adorable Dark Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a curated selection of cute dark aesthetic wallpapers to personalize your screens. Ideal for anyone looking for a unique blend of charm and elegance in their device's background. Explore our collection to find the perfect vibe that resonates with your style!">
+                    <meta name="keywords" content="dark:3e03wmjdmhs= cute aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dark3e03wmjdmhs-cute-aesthetic-wallpaper">
+                            <span itemprop="name">dark:3e03wmjdmhs= cute aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dark Aesthetic Wallpapers for Your Device</h1>
+                <p>Elevate your device's look with a collection of cute aesthetic wallpapers in dark themes. Perfect for those who adore cozy vibes and soft aesthetics, these wallpapers blend whimsy with elegance. Transform your screens with charming designs that inspire joy and creativity, making even the darkest moments feel warm and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cute Aesthetic Dark Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-cute-aesthetic-dark-theme-dm9j4sm5pf2klcpd.jpg' alt='Dark Cute Aesthetic Dark Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-cute-aesthetic-dark-theme-dm9j4sm5pf2klcpd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin van helin op profil | Iphone achtergrond, Achtergronden ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' alt='Pin van helin op profil | Iphone achtergrond, Achtergronden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cute Three Small Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-cute-three-small-flowers-0toyiid3mxo1razt.jpg' alt='Dark Cute Three Small Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-cute-three-small-flowers-0toyiid3mxo1razt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Black Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-black-snow-aesthetic-z63btemsd7focwug.jpg' alt='100+] Cute Black Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-black-snow-aesthetic-z63btemsd7focwug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300 Dark aesthetics~ ｡：ﾟ(｡ﾉω＼｡)ﾟ・｡ ideas | black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/31/70/c7/3170c762f0bb21f55f7cea8dd9fbb56e.jpg' alt='300 Dark aesthetics~ ｡：ﾟ(｡ﾉω＼｡)ﾟ・｡ ideas | black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/31/70/c7/3170c762f0bb21f55f7cea8dd9fbb56e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f9/34/d5/f934d551eccdbd1d81bdf00e8bd0ab1a.jpg' alt='22 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f9/34/d5/f934d551eccdbd1d81bdf00e8bd0ab1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300 Dark aesthetics~ ｡：ﾟ(｡ﾉω＼｡)ﾟ・｡ ideas | black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/46/e8/91/46e89178d7e292125eea50452dd6b8c4.jpg' alt='300 Dark aesthetics~ ｡：ﾟ(｡ﾉω＼｡)ﾟ・｡ ideas | black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/46/e8/91/46e89178d7e292125eea50452dd6b8c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Free Black Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/52/79/fd5279f9c5116cac8f7129592ef0a8f3.jpg' alt='45+ Free Black Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/52/79/fd5279f9c5116cac8f7129592ef0a8f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Gothic Ghosts Black Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-gothic-3nd0t9ws4wjxkz2h.jpg' alt='Download Cute Gothic Ghosts Black Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-gothic-3nd0t9ws4wjxkz2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/8b/e4/548be4d6d5758465d98fa93d3d1f3f7d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/8b/e4/548be4d6d5758465d98fa93d3d1f3f7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

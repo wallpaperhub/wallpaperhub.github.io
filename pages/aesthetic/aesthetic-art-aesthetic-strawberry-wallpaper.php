@@ -1,0 +1,129 @@
+<title>Aesthetic Strawberry Wallpaper: A Sweet Touch for Your Space</title>
+                    <meta name="description" content="Discover the charm of aesthetic strawberry wallpaper! Perfect for brightening up your home, this delightful design combines art and nature. Ideal for adding a playful, vibrant atmosphere to any room, it's a beautiful choice for those wanting to express their unique style.">
+                    <meta name="keywords" content="aesthetic art aesthetic strawberry wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-art-aesthetic-strawberry-wallpaper">
+                            <span itemprop="name">aesthetic art aesthetic strawberry wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Strawberry Wallpaper: A Sweet Touch for Your Space</h1>
+                <p>Aesthetic art strawberry wallpaper adds a playful and vibrant touch to any space. With soft pinks and fresh red hues, these wallpapers evoke feelings of summer and joy. Perfect for bedrooms or playful living areas, they blend art and nature beautifully, creating an inviting atmosphere that encourages creativity and warmth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/e7/e1/45e7e187f68338eb9828742c8cc89a8d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/e7/e1/45e7e187f68338eb9828742c8cc89a8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Background Art | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1704181364.8715/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Strawberry Background Art | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1704181364.8715/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Aesthetic Strawberry Desktop Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-aesthetic-strawberry-desktop-mlnfwdx8dayv5zct.jpg' alt='Download Cute Aesthetic Strawberry Desktop Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6667">
+                                <meta itemprop="height" content="4167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-aesthetic-strawberry-desktop-mlnfwdx8dayv5zct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry patch desktop and iPad wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/strawberry_desktopwallpaper_blogpic.jpg' alt='Strawberry patch desktop and iPad wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2508">
+                                <meta itemprop="height" content="3511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/strawberry_desktopwallpaper_blogpic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Wallpapers Strawberry Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-fruit-floral-pattern_23-2149456870.jpg' alt='Cute Aesthetic Wallpapers Strawberry Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-fruit-floral-pattern_23-2149456870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper White Strawberry Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220725/original/pngtree-wallpaper-white-strawberry-picture-image_1752564.jpg' alt='Wallpaper White Strawberry Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220725/original/pngtree-wallpaper-white-strawberry-picture-image_1752564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic strawberry wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/97/11/d89711db914a58444274be83fa69b5fe.jpg' alt='aesthetic strawberry wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/97/11/d89711db914a58444274be83fa69b5fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Strawberry Aesthetic Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/strawberries-background-l9953qjhwngxn0nx.jpg' alt='100+] Strawberry Aesthetic Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/strawberries-background-l9953qjhwngxn0nx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Strawberry Aesthetic ideas | strawberry, fruit, fruit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a7/06/30/a7063007d8835a1bab5f39b206b082b8.jpg' alt='50 Strawberry Aesthetic ideas | strawberry, fruit, fruit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a7/06/30/a7063007d8835a1bab5f39b206b082b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Strawberry Kawaii iPhone Lock Screen | Pink Aesthetic Wallpaper -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' alt='Cute Pink Strawberry Kawaii iPhone Lock Screen | Pink Aesthetic Wallpaper -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

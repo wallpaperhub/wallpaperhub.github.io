@@ -1,0 +1,129 @@
+<title>Eiffel Tower: Iconic Beauty on White</title>
+                    <meta name="description" content="Discover the elegance of the Eiffel Tower set against a stunning white background. Perfect for photography enthusiasts, this backdrop enhances the iconic structure's beauty. Explore how this minimalist view showcases the architectural masterpiece in a unique and striking way!">
+                    <meta name="keywords" content="eiffel tower white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eiffel-tower-white-background">
+                            <span itemprop="name">eiffel tower white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eiffel Tower: Iconic Beauty on White</h1>
+                <p>The Eiffel Tower, an iconic symbol of Paris, stands majestically against a white background, accentuating its architectural beauty. Its intricate iron lattice design and towering presence create a stunning visual contrast, making for a perfect backdrop. Ideal for photography, this minimalist approach highlights the tower's elegance and grace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Eiffel Tower Images – Browse 34,560 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/23/83/60/360_F_223836048_eOTkJ5D0e5ibAM25MYEXUfDUURGxSvOx.jpg' alt='White Eiffel Tower Images – Browse 34,560 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/23/83/60/360_F_223836048_eOTkJ5D0e5ibAM25MYEXUfDUURGxSvOx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustration of the Eiffel Tower on a white background by Artpics">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/illustration-of-the-eiffel-tower-on-a-white-background-artpics.jpg' alt='Illustration of the Eiffel Tower on a white background by Artpics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/illustration-of-the-eiffel-tower-on-a-white-background-artpics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel Tower in Paris on white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/E4YW15/eiffel-tower-in-paris-on-white-background-E4YW15.jpg' alt='Eiffel Tower in Paris on white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1119">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/E4YW15/eiffel-tower-in-paris-on-white-background-E4YW15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel Tower over white background. Paris, France Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/04/64/82/1000_F_104648210_IkDQ2YYMEzyux0M817LKuKaxJTuhOkvW.jpg' alt='Eiffel Tower over white background. Paris, France Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/04/64/82/1000_F_104648210_IkDQ2YYMEzyux0M817LKuKaxJTuhOkvW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Eiffel Tower golden isolated on a white background, 30x40 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/13/38/86/1000_F_213388622_8EWRms3a4TTcgS9M8rbZpj4w2w6eYDlX.jpg' alt='Poster, Print Eiffel Tower golden isolated on a white background, 30x40 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/13/38/86/1000_F_213388622_8EWRms3a4TTcgS9M8rbZpj4w2w6eYDlX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker Eiffel tower isolated on a white background.">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/83/98/70/39/700_FO83987039_0ad24039ae10f77e8efe2c775418fbbc.jpg,700,601,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,551,jpg)/stickers-eiffel-tower-isolated-on-a-white-background.jpg.jpg' alt='Sticker Eiffel tower isolated on a white background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/83/98/70/39/700_FO83987039_0ad24039ae10f77e8efe2c775418fbbc.jpg,700,601,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,551,jpg)/stickers-eiffel-tower-isolated-on-a-white-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Eiffel tower in paris with a white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/eiffel-tower-paris-with-white-background_710688-4.jpg' alt='Premium Photo | Eiffel tower in paris with a white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/eiffel-tower-paris-with-white-background_710688-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel Tower On White Images – Browse 34,553 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/49/81/71/360_F_749817175_Q0R1Bpw0nt7Z8zFiLYSSrcY5b3tEfHVD.jpg' alt='Eiffel Tower On White Images – Browse 34,553 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/49/81/71/360_F_749817175_Q0R1Bpw0nt7Z8zFiLYSSrcY5b3tEfHVD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel tower symbol on a white background 45914483 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/045/914/483/non_2x/eiffel-tower-symbol-on-a-white-background-vector.jpg' alt='Eiffel tower symbol on a white background 45914483 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/045/914/483/non_2x/eiffel-tower-symbol-on-a-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel Tower White Background — Stock Photo © mattiamarty ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/2544459/19208/i/1600/depositphotos_192089444-stock-photo-eiffel-tower-white-background.jpg' alt='Eiffel Tower White Background — Stock Photo © mattiamarty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/2544459/19208/i/1600/depositphotos_192089444-stock-photo-eiffel-tower-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

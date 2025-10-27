@@ -1,0 +1,129 @@
+<title>Transform Your Space with Solid Color Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the convenience of solid color peel and stick wallpaper. Easily update your home with vibrant hues, perfect for any room. Quick to apply and remove, it’s a stress-free solution for adding a fresh touch to your decor. Perfect for renters and DIY lovers alike!">
+                    <meta name="keywords" content="solid color peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/solid-color-peel-and-stick-wallpaper">
+                            <span itemprop="name">solid color peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Solid Color Peel and Stick Wallpaper</h1>
+                <p>Solid color peel and stick wallpaper is a versatile and stylish choice for transforming your space effortlessly. Perfect for renters or DIY enthusiasts, this wallpaper is easy to apply and remove, allowing for quick updates without commitment. Available in a wide range of colors, it’s ideal for accent walls or complete makeovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D426">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5268075405_iy1c.jpg?v=1707009799&width=1946' alt='Almond Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D426'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5268075405_iy1c.jpg?v=1707009799&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Gray Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D421">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5217773486_rtrx.jpg?v=1719913416&width=1946' alt='Middle Gray Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D421'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5217773486_rtrx.jpg?v=1719913416&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Soft Green Solid Color, Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22296004/r/il/a82273/2711608518/il_570xN.2711608518_i4i4.jpg' alt='Peel and Stick Wallpaper Soft Green Solid Color, Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22296004/r/il/a82273/2711608518/il_570xN.2711608518_i4i4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D446">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5642734785_qhtr.jpg?v=1717331955&width=1946' alt='Navy Blue Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D446'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5642734785_qhtr.jpg?v=1717331955&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Peel and Stick Wallpaper / One Color Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_fullxfull.2111424606_n4jh.jpg' alt='Solid Color Peel and Stick Wallpaper / One Color Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_fullxfull.2111424606_n4jh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarla - Plain Solid Color Wallpaper">
+                                <img itemprop="contentUrl url" src='http://peelandpaper.com/cdn/shop/files/SolidColorWallpaperInFarmhouseLivingRoomWithNeutralColoredInterior_BeigeSofaandFireplaceFullOfChoppedWoodcopy.jpg?v=1736948865' alt='Sarla - Plain Solid Color Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2655">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='http://peelandpaper.com/cdn/shop/files/SolidColorWallpaperInFarmhouseLivingRoomWithNeutralColoredInterior_BeigeSofaandFireplaceFullOfChoppedWoodcopy.jpg?v=1736948865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D474">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5242929208_4hoc.jpg?v=1709585738&width=1946' alt='Sage Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D474'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5242929208_4hoc.jpg?v=1709585738&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoroom Grasscloth Peel and Stick Wallpaper 17.71”×393.7” Textured  Wallpaper Beige Linen Self-Adhesive Removable DIY Contact Paper Vinyl Film  Solid ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71F2sgR1RCL.jpg' alt='Decoroom Grasscloth Peel and Stick Wallpaper 17.71”×393.7” Textured  Wallpaper Beige Linen Self-Adhesive Removable DIY Contact Paper Vinyl Film  Solid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71F2sgR1RCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oxley Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D468">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5290000593_hilk.jpg?v=1725094151&width=1946' alt='Oxley Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D468'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5290000593_hilk.jpg?v=1725094151&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Yards Solid Color Lake Blue Wallpaper, Peel and Stick Contact Paper,  Thickened Textured Waterproof Removable, Colored Wall Paper Self-adhesive  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Z2aDpEtUL._AC_UF894,1000_QL80_.jpg' alt='11 Yards Solid Color Lake Blue Wallpaper, Peel and Stick Contact Paper,  Thickened Textured Waterproof Removable, Colored Wall Paper Self-adhesive  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Z2aDpEtUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

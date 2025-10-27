@@ -1,0 +1,129 @@
+<title>Spooky Halloween Demon Slayer Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best Halloween Demon Slayer wallpapers to decorate your device this spooky season. Featuring iconic characters and eerie designs, these wallpapers are perfect for fans looking to celebrate Halloween in style. Download your favorites and let the spirit of Demon Slayer enliven your screen!">
+                    <meta name="keywords" content="halloween demon slayer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer">
+                            <span itemprop="name">Demon Slayer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer/halloween-demon-slayer-wallpaper">
+                            <span itemprop="name">halloween demon slayer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Demon Slayer Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Halloween Demon Slayer wallpapers! Celebrate the spooky season with vibrant artwork featuring your favorite characters from Demon Slayer. Perfect for every fan, these wallpapers bring a hauntingly beautiful atmosphere to your screen. Get ready for a frightfully good time!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper (official Ufotable art) : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rdaleclt2pg81.jpg' alt='Halloween Wallpaper (official Ufotable art) : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rdaleclt2pg81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Chibi Halloween HD Wallpaper by TAYA">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/cb/16/a8cb16b726af32f851b3eedfffd29d58.jpg' alt='Demon Slayer Chibi Halloween HD Wallpaper by TAYA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/cb/16/a8cb16b726af32f851b3eedfffd29d58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 cUte 2 Spook (Demon Slayer wallpaper) by EndlessSorcerer on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b187ce8-6a29-4a5d-8781-6915cee6ff88/ddj01b1-ef355815-68da-4883-a300-1cd5a3c21208.png/v1/fill/w_1024,h_576,q_80,strp/2_cute_2_spook__demon_slayer_wallpaper__by_endlesssorcerer_ddj01b1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2IxODdjZTgtNmEyOS00YTVkLTg3ODEtNjkxNWNlZTZmZjg4XC9kZGowMWIxLWVmMzU1ODE1LTY4ZGEtNDg4My1hMzAwLTFjZDVhM2MyMTIwOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8QpmgZ7W4B1_tf23MSuGZcdC4WoFF_9s5nCXlO8IuS8' alt='2 cUte 2 Spook (Demon Slayer wallpaper) by EndlessSorcerer on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b187ce8-6a29-4a5d-8781-6915cee6ff88/ddj01b1-ef355815-68da-4883-a300-1cd5a3c21208.png/v1/fill/w_1024,h_576,q_80,strp/2_cute_2_spook__demon_slayer_wallpaper__by_endlesssorcerer_ddj01b1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2IxODdjZTgtNmEyOS00YTVkLTg3ODEtNjkxNWNlZTZmZjg4XC9kZGowMWIxLWVmMzU1ODE1LTY4ZGEtNDg4My1hMzAwLTFjZDVhM2MyMTIwOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8QpmgZ7W4B1_tf23MSuGZcdC4WoFF_9s5nCXlO8IuS8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2021/22 Happy Halloween! (Ufotable) : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2021-22-happy-halloween-ufotable-v0-keak6td9n7x91.jpg?width=640&crop=smart&auto=webp&s=de2c96b3250c38420ff555995d347080bceda5a1' alt='2021/22 Happy Halloween! (Ufotable) : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2021-22-happy-halloween-ufotable-v0-keak6td9n7x91.jpg?width=640&crop=smart&auto=webp&s=de2c96b3250c38420ff555995d347080bceda5a1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Melon Patch — ~I made a Halloween KNY wallpaper! Its a little...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/a420ecd2d2b42edca1eeab92dea7c862/587498c3d99b7781-35/s1280x1920/a039a03ab55e0e4c83d12206520b878eeb5c3342.jpg' alt='The Melon Patch — ~I made a Halloween KNY wallpaper! Its a little...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Melon Patch - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/a420ecd2d2b42edca1eeab92dea7c862/587498c3d99b7781-35/s1280x1920/a039a03ab55e0e4c83d12206520b878eeb5c3342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Halloween Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7652590.jpg' alt='Demon Slayer Halloween Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2953">
+                                <meta itemprop="height" content="1954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7652590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Demon Slayer Nezuko Kamado Halloween Costume Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-demon-slayer-nezuko-kamado-halloween-costume-bgcwlwd88x50lyx8.jpg' alt='Cute Demon Slayer Nezuko Kamado Halloween Costume Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-demon-slayer-nezuko-kamado-halloween-costume-bgcwlwd88x50lyx8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Offers Halloween Treats With New Art, Merchandise">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/Demon-Slayer-Halloween.jpg' alt='Demon Slayer Offers Halloween Treats With New Art, Merchandise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/Demon-Slayer-Halloween.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Demon slayer ideas | slayer, demon, slayer anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7b/20/e8/7b20e896bd02c8e00d88f01f31f5ffaf.png' alt='900+ Demon slayer ideas | slayer, demon, slayer anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7b/20/e8/7b20e896bd02c8e00d88f01f31f5ffaf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Demon slayer Halloween pfp/photos/wallpapers ideas | demon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/3e/d2/7d3ed2d2bf6584502db512b0247180b6.jpg' alt='13 Demon slayer Halloween pfp/photos/wallpapers ideas | demon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/3e/d2/7d3ed2d2bf6584502db512b0247180b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

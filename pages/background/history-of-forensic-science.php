@@ -1,0 +1,129 @@
+<title>History of Forensic Science: From Ancient Roots to Modern Techniques</title>
+                    <meta name="description" content="Explore the fascinating history of forensic science, from its ancient origins to modern advancements. Discover how scientific techniques have evolved to aid in crime-solving and justice. A must-read for true crime enthusiasts and those curious about the intersection of science and law enforcement!">
+                    <meta name="keywords" content="history of forensic science">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-forensic-science">
+                            <span itemprop="name">history of forensic science</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of Forensic Science: From Ancient Roots to Modern Techniques</h1>
+                <p>Forensic science has roots dating back to ancient civilizations, where techniques like fingerprinting and toxicology began. The discipline evolved significantly in the 19th century with developments by pioneers like Alphonse Bertillon and Hans Gross. Today, forensic science encompasses various fields, aiding law enforcement in solving crimes through scientific evidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forensic Science Timeline: Evolution of Investigation">
+                                <img itemprop="contentUrl url" src='https://cdn-ilbjbhl.nitrocdn.com/FyaMYitqUPNTCnovJEDCVNCvhqDiYUgo/assets/images/optimized/rev-fa1b7fc/simplyforensic.com/wp-content/uploads/2024/09/Real-Estate-Illustrated-Timeline-Infographic-1.png' alt='Forensic Science Timeline: Evolution of Investigation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Forensic" />
+                                </span>
+                                <a href='https://cdn-ilbjbhl.nitrocdn.com/FyaMYitqUPNTCnovJEDCVNCvhqDiYUgo/assets/images/optimized/rev-fa1b7fc/simplyforensic.com/wp-content/uploads/2024/09/Real-Estate-Illustrated-Timeline-Infographic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2.2a History of Forensic Science PT 1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sGkRVJE_bSc/maxresdefault.jpg' alt='2.2a History of Forensic Science PT 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sGkRVJE_bSc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Forensic Science Student Notesheet">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/History-of-Forensic-Science-Student-Notesheet-10420422-1714164835/original-10420422-1.jpg' alt='History of Forensic Science Student Notesheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/History-of-Forensic-Science-Student-Notesheet-10420422-1714164835/original-10420422-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bilal Hassan on LinkedIn: The history of forensic science is rich ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D22AQEst3S4Ilgpsw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706072197171?e=2147483647&v=beta&t=dY0dORjcIMhfIRv-qjJUg069jfb0zipV9WEorA1XWV8' alt='Bilal Hassan on LinkedIn: The history of forensic science is rich ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D22AQEst3S4Ilgpsw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706072197171?e=2147483647&v=beta&t=dY0dORjcIMhfIRv-qjJUg069jfb0zipV9WEorA1XWV8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SOLUTION: Forensic 1 intro to forensic science university of the ...">
+                                <img itemprop="contentUrl url" src='https://sp-uploads.s3.amazonaws.com/uploads%2Fservices%2F5703264%2F20221220064858_63a15adaafbf5_forensic_1_intro_to_forensic_science__university_of_the_cordilleras____history_of_forensic_science_timelinepage0.jpg' alt='SOLUTION: Forensic 1 intro to forensic science university of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studypool" />
+                                </span>
+                                <a href='https://sp-uploads.s3.amazonaws.com/uploads%2Fservices%2F5703264%2F20221220064858_63a15adaafbf5_forensic_1_intro_to_forensic_science__university_of_the_cordilleras____history_of_forensic_science_timelinepage0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Forensic Science - MozartCultures">
+                                <img itemprop="contentUrl url" src='https://mozartcultures.com/en/wp-content/uploads/2022/08/history-of-Forensic-Science.png' alt='A Brief History of Forensic Science - MozartCultures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MozartCultures" />
+                                </span>
+                                <a href='https://mozartcultures.com/en/wp-content/uploads/2022/08/history-of-Forensic-Science.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HISTORY AND DEVELOPMENT OF FORENSIC SCIENCE||Forensic Science||History||">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WU1xM2BKOIo/maxresdefault.jpg' alt='HISTORY AND DEVELOPMENT OF FORENSIC SCIENCE||Forensic Science||History||'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WU1xM2BKOIo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Forensic Science by on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/oft7juuswxq5ycximf3ui2kg736jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='History of Forensic Science by on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/oft7juuswxq5ycximf3ui2kg736jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History And Evolution Of Forensic Techniques: From Ancient Clues ...">
+                                <img itemprop="contentUrl url" src='https://edinbox.com/images/oldfinger.png' alt='History And Evolution Of Forensic Techniques: From Ancient Clues ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edinbox" />
+                                </span>
+                                <a href='https://edinbox.com/images/oldfinger.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Father of Forensics: The Groundbreaking Cases of Sir Bernard ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309198031i/386961.jpg' alt='The Father of Forensics: The Groundbreaking Cases of Sir Bernard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309198031i/386961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

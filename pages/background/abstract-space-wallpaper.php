@@ -1,0 +1,129 @@
+<title>Stunning Abstract Space Wallpaper for Your Device</title>
+                    <meta name="description" content="Explore the beauty of the cosmos with our collection of abstract space wallpaper. Perfect for adding a unique touch to your desktop or mobile background, these vibrant designs will inspire your creativity and awe. Download your favorite cosmic art now to transform your digital space!">
+                    <meta name="keywords" content="abstract space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abstract-space-wallpaper">
+                            <span itemprop="name">abstract space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Abstract Space Wallpaper for Your Device</h1>
+                <p>Transform your device's background with stunning abstract space wallpaper! These cosmic designs feature vibrant colors and intricate patterns inspired by the vastness of the universe. Perfect for anyone who loves art and astronomy, abstract space wallpaper adds a touch of mystery and wonder to your home or office screen. Dive into a celestial experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1614540648095-3b1a0bf29570?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJzdHJhY3QlMjBzcGFjZXxlbnwwfHwwfHx8MA%3D%3D' alt='Abstract Space Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1614540648095-3b1a0bf29570?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJzdHJhY3QlMjBzcGFjZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Abstract Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/captivating-space-nebula-l4v9u3zd7xune6bg.jpg' alt='100+] Abstract Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/captivating-space-nebula-l4v9u3zd7xune6bg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space [2880 × 1800] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zypgbct91rvy.jpg' alt='Abstract Space [2880 × 1800] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zypgbct91rvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/451/649/small/galaxy-and-nebula-abstract-space-background-endless-universe-with-stars-and-galaxies-in-outer-space-cosmos-art-generative-ai-photo.jpg' alt='Abstract Space Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/451/649/small/galaxy-and-nebula-abstract-space-background-endless-universe-with-stars-and-galaxies-in-outer-space-cosmos-art-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space Wallpaper For Iphone #sc8 | Kenikin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/60/02/6c60029f8b67498231509f1cdcf19c29.jpg' alt='Abstract Space Wallpaper For Iphone #sc8 | Kenikin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/60/02/6c60029f8b67498231509f1cdcf19c29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract space wallpaper. Black hole with nebula over colorful ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/30/17/26/1000_F_230172622_1pflTlhvkKOyz286RhH2L3Ed4HnwEPB6.jpg' alt='Abstract space wallpaper. Black hole with nebula over colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/30/17/26/1000_F_230172622_1pflTlhvkKOyz286RhH2L3Ed4HnwEPB6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract space wallpaper by Only-unnamed on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33f8d817-a125-4572-bba6-3cc8924bc6db/d7cq1hw-8cbeb2a6-5098-4e8a-bbfe-a6716fc80f7c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzZjhkODE3LWExMjUtNDU3Mi1iYmE2LTNjYzg5MjRiYzZkYlwvZDdjcTFody04Y2JlYjJhNi01MDk4LTRlOGEtYmJmZS1hNjcxNmZjODBmN2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J9oVzDI3X2aKQKVQtKb9XKSCwNzf8jIvjjiSHqeV7wo' alt='Abstract space wallpaper by Only-unnamed on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33f8d817-a125-4572-bba6-3cc8924bc6db/d7cq1hw-8cbeb2a6-5098-4e8a-bbfe-a6716fc80f7c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzZjhkODE3LWExMjUtNDU3Mi1iYmE2LTNjYzg5MjRiYzZkYlwvZDdjcTFody04Y2JlYjJhNi01MDk4LTRlOGEtYmJmZS1hNjcxNmZjODBmN2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J9oVzDI3X2aKQKVQtKb9XKSCwNzf8jIvjjiSHqeV7wo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space Desktop Wallpaper - OpenDesktop.org">
+                                <img itemprop="contentUrl url" src='https://images.hdqwalls.com/download/hope-everything-right-4k-5l-1920x1080.jpg' alt='Abstract Space Desktop Wallpaper - OpenDesktop.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenDesktop.org" />
+                                </span>
+                                <a href='https://images.hdqwalls.com/download/hope-everything-right-4k-5l-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Space Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/051/198/969/non_2x/abstract-cosmic-background-with-multicolored-glimmering-lights-photo.jpg' alt='Abstract Space Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/051/198/969/non_2x/abstract-cosmic-background-with-multicolored-glimmering-lights-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black hole over star field in outer space, abstract space ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/62/39/57/1000_F_362395740_s9dfMzdT2ZtgYvvqmy1XerekIHtEIEH1.jpg' alt='Black hole over star field in outer space, abstract space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/62/39/57/1000_F_362395740_s9dfMzdT2ZtgYvvqmy1XerekIHtEIEH1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

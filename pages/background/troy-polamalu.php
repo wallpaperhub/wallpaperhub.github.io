@@ -1,0 +1,129 @@
+<title>Troy Polamalu: NFL Legend and Safety Icon</title>
+                    <meta name="description" content="Discover the legacy of Troy Polamalu, the NFL's iconic safety known for his game-changing plays and two Super Bowl victories. Learn about his career highlights, unique style, and impact on the Pittsburgh Steelers and the game of football.">
+                    <meta name="keywords" content="troy polamalu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/troy-polamalu">
+                            <span itemprop="name">troy polamalu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Troy Polamalu: NFL Legend and Safety Icon</h1>
+                <p>Troy Polamalu, a legendary safety for the Pittsburgh Steelers, revolutionized the position with his dynamic playmaking ability and unmatched agility. Known for his signature long hair and powerful hits, he was a two-time Super Bowl champion and eight-time Pro Bowler. Polamalu's instincts on the field made him a defensive icon in the NFL.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy Polamalu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Troy_Polamalu_2013.jpg' alt='Troy Polamalu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="1615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/84/Troy_Polamalu_2013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview: NFL Hall of Famer Troy Polamalu on Confidence, Respect ...">
+                                <img itemprop="contentUrl url" src='https://www.victormacias.com/content/images/size/w1200/2023/02/troy-polamalu.png' alt='Interview: NFL Hall of Famer Troy Polamalu on Confidence, Respect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Victor Macias" />
+                                </span>
+                                <a href='https://www.victormacias.com/content/images/size/w1200/2023/02/troy-polamalu.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dude With the Million Dollar Hair Gets Wad: Talking to Troy ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/558352693655c24c6c9629a7/master/pass/style-blogs-the-gq-eye-Troy2.jpg' alt='The Dude With the Million Dollar Hair Gets Wad: Talking to Troy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/558352693655c24c6c9629a7/master/pass/style-blogs-the-gq-eye-Troy2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veteran Steelers safety Troy Polamalu retires from NFL - St. Louis ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2015/04/d920d1ece2a55fb4f499305533750f8e.jpg?w=780&ssl=1' alt='Veteran Steelers safety Troy Polamalu retires from NFL - St. Louis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Louis American" />
+                                </span>
+                                <a href='https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2015/04/d920d1ece2a55fb4f499305533750f8e.jpg?w=780&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy Polamalu Highlights Hall of Fame Class - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/02/01/sports/01nfl-halloffame/merlin_26728327_a25b88b8-9228-41dc-b44a-ce1fc94233f7-superJumbo.jpg' alt='Troy Polamalu Highlights Hall of Fame Class - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/02/01/sports/01nfl-halloffame/merlin_26728327_a25b88b8-9228-41dc-b44a-ce1fc94233f7-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy Polamalu (@tpolamalu) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515009964001051009' alt='Troy Polamalu (@tpolamalu) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515009964001051009' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy Polamalu, "Troy Soldier" 24x36 AUTO AROC, L.E. 43">
+                                <img itemprop="contentUrl url" src='https://faranofineart.com/cdn/shop/products/Troy_Polamalu_01_-_Auto_AROC_-_New_QR.jpg?v=1704740295' alt='Troy Polamalu, "Troy Soldier" 24x36 AUTO AROC, L.E. 43'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="970">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Farano Fine Art" />
+                                </span>
+                                <a href='https://faranofineart.com/cdn/shop/products/Troy_Polamalu_01_-_Auto_AROC_-_New_QR.jpg?v=1704740295' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy being Troy: Polamalu carves singular path to Hall | The ...">
+                                <img itemprop="contentUrl url" src='https://images.seattletimes.com/wp-content/uploads/2021/07/urn-publicid-ap-org-3e0bd7fd523bc3fa82db04a219c5998fHall_of_Fame_Polamalu_Football_17806.jpg?d=780x520' alt='Troy being Troy: Polamalu carves singular path to Hall | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://images.seattletimes.com/wp-content/uploads/2021/07/urn-publicid-ap-org-3e0bd7fd523bc3fa82db04a219c5998fHall_of_Fame_Polamalu_Football_17806.jpg?d=780x520' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SI's Best Photos of Troy Polamalu - Sports Illustrated">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/t_share/MTY4MTczMTUyNjQzMDY1MTA1/2005-1102-troy-polamalu-014438112jpg.jpg' alt='SI's Best Photos of Troy Polamalu - Sports Illustrated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/t_share/MTY4MTczMTUyNjQzMDY1MTA1/2005-1102-troy-polamalu-014438112jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troy Polamalu Highlights | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=406417620930561&get_thumbnail=1' alt='Troy Polamalu Highlights | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=406417620930561&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

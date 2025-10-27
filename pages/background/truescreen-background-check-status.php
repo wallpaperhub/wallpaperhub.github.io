@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="truescreen background check status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/truescreen-background-check-status">
+                            <span itemprop="name">truescreen background check status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truescreen Directions for Submitting “myRapid Requests” and ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///41829fa9e5bb5b5300951a7f84897808b054d77860c7f28f9e68a59d478eded5' alt='Truescreen Directions for Submitting “myRapid Requests” and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="797">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="media.clemson.edu" />
+                                </span>
+                                <a href='x-raw-image:///41829fa9e5bb5b5300951a7f84897808b054d77860c7f28f9e68a59d478eded5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Interpret Candidate Results in Truescreen">
+                                <img itemprop="contentUrl url" src='x-raw-image:///c9949c530c0ccb35da0a4feda9cf0768f311f04209847546e6e7f9791da992ad' alt='How to Interpret Candidate Results in Truescreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="138">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="media.clemson.edu" />
+                                </span>
+                                <a href='x-raw-image:///c9949c530c0ccb35da0a4feda9cf0768f311f04209847546e6e7f9791da992ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="myTruescreen.com">
+                                <img itemprop="contentUrl url" src='https://www.truescreen.com/globalassets/vs-redesign-icons/truescreen/products/mytruescreen.jpg' alt='myTruescreen.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Truescreen" />
+                                </span>
+                                <a href='https://www.truescreen.com/globalassets/vs-redesign-icons/truescreen/products/mytruescreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening solution by Truescreen | iCIMS Marketplace">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/167500/feature/img7884881301559541955.png' alt='Background Screening solution by Truescreen | iCIMS Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCIMS Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/167500/feature/img7884881301559541955.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Don't Let Truescreen Background Check Mistakes Ruin Your Career ...">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2Feogh4w34hb4.webp&w=1920&q=75' alt='Don't Let Truescreen Background Check Mistakes Ruin Your Career ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2Feogh4w34hb4.webp&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4-H Volunteer Background Investigation Instructions">
+                                <img itemprop="contentUrl url" src='x-raw-image:///4bbfcfbebc4623268da58a79b6583456f9061584ad9139c977bdee37817c9cd2' alt='4-H Volunteer Background Investigation Instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="extension.msstate.edu" />
+                                </span>
+                                <a href='x-raw-image:///4bbfcfbebc4623268da58a79b6583456f9061584ad9139c977bdee37817c9cd2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Statuses – ProScreening">
+                                <img itemprop="contentUrl url" src='https://proscreening.zendesk.com/hc/en-us/article_attachments/207290257/4.png' alt='Background Check Statuses – ProScreening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1129">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProScreening - Zendesk" />
+                                </span>
+                                <a href='https://proscreening.zendesk.com/hc/en-us/article_attachments/207290257/4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Service Criminal History Check Exemption Period- Common ...">
+                                <img itemprop="contentUrl url" src='https://content.govdelivery.com/attachments/fancy_images/USCNCS/2019/05/2584943/thumbnail-image002_original.png' alt='National Service Criminal History Check Exemption Period- Common ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GovDelivery" />
+                                </span>
+                                <a href='https://content.govdelivery.com/attachments/fancy_images/USCNCS/2019/05/2584943/thumbnail-image002_original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truescreen Guide - Youth Protection">
+                                <img itemprop="contentUrl url" src='x-raw-image:///9aaaa79aa2253d9404384812bfe730e094dd7fde93db4a330c1bccaa3b570760' alt='Truescreen Guide - Youth Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.auburn.edu" />
+                                </span>
+                                <a href='x-raw-image:///9aaaa79aa2253d9404384812bfe730e094dd7fde93db4a330c1bccaa3b570760' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truescreen Guide - Youth Protection">
+                                <img itemprop="contentUrl url" src='x-raw-image:///089b19ccdbc4f149d05072c08ce3755b8951808764631c1a746c16c57edd2430' alt='Truescreen Guide - Youth Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.auburn.edu" />
+                                </span>
+                                <a href='x-raw-image:///089b19ccdbc4f149d05072c08ce3755b8951808764631c1a746c16c57edd2430' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

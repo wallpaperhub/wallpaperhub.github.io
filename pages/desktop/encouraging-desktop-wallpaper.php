@@ -1,0 +1,129 @@
+<title>Boost Your Motivation with Encouraging Desktop Wallpapers</title>
+                    <meta name="description" content="Discover inspiring and encouraging desktop wallpapers that uplift your spirits and enhance productivity. Choose from a variety of motivational quotes and beautiful images to create a workspace that inspires you daily. Perfect for anyone looking to inject positivity into their routine!">
+                    <meta name="keywords" content="encouraging desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/encouraging-desktop-wallpaper">
+                            <span itemprop="name">encouraging desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boost Your Motivation with Encouraging Desktop Wallpapers</h1>
+                <p>Transform your workspace with an encouraging desktop wallpaper! Infuse your daily routine with positivity, motivation, and inspiration. Choose captivating images or quotes that uplift your spirit. Let each glance at your screen remind you of your goals and dreams. Create an environment that fuels your productivity and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-3HQ1FVw/1/0/1600w/canva-pink-sassy-watercolor-motivational-quote-desktop-wallpaper-zNWkR5vntk4.jpg' alt='Free custom motivational desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-3HQ1FVw/1/0/1600w/canva-pink-sassy-watercolor-motivational-quote-desktop-wallpaper-zNWkR5vntk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free inspirational desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFE19ehj2s/1/0/1600w/canva-pastel-pink-soft-gradient-feminine-motivational-quote-desktop-wallpaper-l_kAr-1tMUg.jpg' alt='Free inspirational desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFE19ehj2s/1/0/1600w/canva-pastel-pink-soft-gradient-feminine-motivational-quote-desktop-wallpaper-l_kAr-1tMUg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Quote Desktop Wallpapers | Free HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDItYmFubmVyLTA3LWwwYWl4eWVmLmpwZw.jpg' alt='Inspirational Quote Desktop Wallpapers | Free HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDItYmFubmVyLTA3LWwwYWl4eWVmLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Encouragement Desktop Wallpapers | Fox + Hazel">
+                                <img itemprop="contentUrl url" src='https://3.bp.blogspot.com/-5-UA7DOTmuo/WE2_YzlybSI/AAAAAAAACc4/TOWdPqlvElE7J-5_GR2iixIdneKLbTyxQCLcB/s1600/You%2527ve%2BGot%2BThis%2B-%2BP%25E2%2580%258Cink-Post%2BImage.jpg' alt='Free Encouragement Desktop Wallpapers | Fox + Hazel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox + Hazel" />
+                                </span>
+                                <a href='https://3.bp.blogspot.com/-5-UA7DOTmuo/WE2_YzlybSI/AAAAAAAACc4/TOWdPqlvElE7J-5_GR2iixIdneKLbTyxQCLcB/s1600/You%2527ve%2BGot%2BThis%2B-%2BP%25E2%2580%258Cink-Post%2BImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Free Motivational Desktop Wallpapers + Phone Wallpapers | Fox + ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/f5/d8/f8f5d82e2fe70e7d7e800f20c719e4c1.jpg' alt='4 Free Motivational Desktop Wallpapers + Phone Wallpapers | Fox + ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/f5/d8/f8f5d82e2fe70e7d7e800f20c719e4c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGCsaWAsk/1/0/1600w/canva-brown-minimalist-tree-on-white-background-positive-declaration-desktop-wallpaper-QF82b2-oC2U.jpg' alt='Free custom motivational desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGCsaWAsk/1/0/1600w/canva-brown-minimalist-tree-on-white-background-positive-declaration-desktop-wallpaper-QF82b2-oC2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspiring Desktop Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://missdetails.com/wp-content/uploads/2020/09/MDD_Mark-Twain-quote-Feb-2016.jpg' alt='Inspiring Desktop Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Details" />
+                                </span>
+                                <a href='https://missdetails.com/wp-content/uploads/2020/09/MDD_Mark-Twain-quote-Feb-2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Peak Inspirational Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mountain-peak-inspirational-desktop-8d0gy4byuz71knec.jpg' alt='Mountain Peak Inspirational Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mountain-peak-inspirational-desktop-8d0gy4byuz71knec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motivational Wallpapers | 90+ Inspirational Wallpaper Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/fa/df/2bfadf65e1857111935b4a1ba084bab7.jpg' alt='Motivational Wallpapers | 90+ Inspirational Wallpaper Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/fa/df/2bfadf65e1857111935b4a1ba084bab7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Wallpaper | Free Download for Desktop & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-dos1319s/product_images/uploaded_images/1600x900-desktop-01.jpg' alt='Inspirational Wallpaper | Free Download for Desktop & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6667">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifetime Creations" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-dos1319s/product_images/uploaded_images/1600x900-desktop-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

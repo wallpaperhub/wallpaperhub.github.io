@@ -1,0 +1,129 @@
+<title>Ultimate Miami Heat iPhone Wallpapers: Boost Your Team Spirit!</title>
+                    <meta name="description" content="Discover the best Miami Heat wallpapers for your iPhone! Elevate your device's style while showcasing your team's pride. Explore vibrant designs featuring players and logos for a personalized touch that any Heat fan will love. Perfect for fans on the go!">
+                    <meta name="keywords" content="miami heat wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/miami-heat-wallpaper-iphone">
+                            <span itemprop="name">miami heat wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Miami Heat iPhone Wallpapers: Boost Your Team Spirit!</h1>
+                <p>Transform your iPhone with stunning Miami Heat wallpapers! Show off your love for the team with vibrant designs featuring iconic players, the team logo, and memorable moments. Perfect for fans looking to personalize their devices, these wallpapers combine style with team spirit, making every glance at your phone a win.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miami Heat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ea/57/75/ea5775c35d94358da70388491e2bfbb7.jpg' alt='Miami Heat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ea/57/75/ea5775c35d94358da70388491e2bfbb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a phone wallpaper for every NBA team, here is the one I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5b6witcbpo971.png?auto=webp&s=2aaaf278870b04f2519d16821526f17e343a1070' alt='I made a phone wallpaper for every NBA team, here is the one I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5b6witcbpo971.png?auto=webp&s=2aaaf278870b04f2519d16821526f17e343a1070' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miami Heat Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/0/0/244511-2160x3840-phone-4k-miami-heat-wallpaper-photo.jpg' alt='Miami Heat Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/0/0/244511-2160x3840-phone-4k-miami-heat-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miami Heat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/eb/fd/f2/ebfdf2c11a0889a56b0f8da03473b3d3.jpg' alt='Miami Heat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/eb/fd/f2/ebfdf2c11a0889a56b0f8da03473b3d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miami Heat "VICE" (NBA) iPhone 6/7/8 Lock Screen Wallpaper… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/50251081106_f7a261b6de_b.jpg' alt='Miami Heat "VICE" (NBA) iPhone 6/7/8 Lock Screen Wallpaper… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/50251081106_f7a261b6de_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Miami Heat - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/viKBltLp0ZKH-uK-7WF31JppL9OJb7BOaoyIkkOVccs0zf_LFiyQmqMPduJCT1_u_A=w526-h296-rw' alt='Wallpapers Miami Heat - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/viKBltLp0ZKH-uK-7WF31JppL9OJb7BOaoyIkkOVccs0zf_LFiyQmqMPduJCT1_u_A=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD miami heat wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/263/263/HD-wallpaper-jimmy-butler-22-good-hero-jimmy-butler-luck-miami-miami-heat-miami-vice-nba-soul.jpg' alt='HD miami heat wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/263/263/HD-wallpaper-jimmy-butler-22-good-hero-jimmy-butler-luck-miami-miami-heat-miami-vice-nba-soul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miami Heat (NBA) iPhone 6/7/8 Lock Screen Wallpaper | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/49587657597_9d010e3078_b.jpg' alt='Miami Heat (NBA) iPhone 6/7/8 Lock Screen Wallpaper | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/49587657597_9d010e3078_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster Basketball Miami Heat #1 iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/1-poster-basketball-miami-heat-leith-huber.jpg' alt='Poster Basketball Miami Heat #1 iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/1-poster-basketball-miami-heat-leith-huber.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Just Posted A Miami Heat Basketball Team Wallpaper And I Hope You  Guys Like It And I Got This Miami Heat Basketbal Wallpaper On My Homescreen.">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7224244106942270763&location=0&aid=1988' alt='Kevin Just Posted A Miami Heat Basketball Team Wallpaper And I Hope You  Guys Like It And I Got This Miami Heat Basketbal Wallpaper On My Homescreen.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7224244106942270763&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

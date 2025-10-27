@@ -1,0 +1,129 @@
+<title>Chinoiserie: The Allure of Eastern Aesthetics in Western Design</title>
+                    <meta name="description" content="Explore the captivating world of chinoiserie, where Eastern influences meet Western design. Discover its rich history, intricate motifs, and how this unique style transforms interiors into exotic, enchanting spaces. Perfect for lovers of art and culture!">
+                    <meta name="keywords" content="chinoiserie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chinoiserie-background">
+                            <span itemprop="name">chinoiserie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chinoiserie: The Allure of Eastern Aesthetics in Western Design</h1>
+                <p>Chinoiserie is an artistic style that reflects a Western interpretation of Chinese and East Asian aesthetics, characterized by intricate designs, exotic motifs, and vibrant colors. Originating in the 17th century, this decorative art often incorporates elements like pagodas, dragons, and delicate flora, creating a whimsical blend of East and West in interior design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Wallpaper • Classic Florals & Birds • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Chinoiserie-Aqua-1.jpg' alt='Chinoiserie Wallpaper • Classic Florals & Birds • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Chinoiserie-Aqua-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHINOISERIE Coconut Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20464-chinoiserie-coconut.jpg' alt='CHINOISERIE Coconut Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20464-chinoiserie-coconut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC61812 Blue Colette Chinoiserie Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/FC61812_d10c286b-1438-43be-abec-fddb0436c98f.webp?v=1709766397' alt='FC61812 Blue Colette Chinoiserie Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/FC61812_d10c286b-1438-43be-abec-fddb0436c98f.webp?v=1709766397' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Images – Browse 24,304 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/19/54/13/360_F_519541365_eojM0vE2diHuyaUogl3TfooQpw67FRDC.jpg' alt='Chinoiserie Images – Browse 24,304 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/19/54/13/360_F_519541365_eojM0vE2diHuyaUogl3TfooQpw67FRDC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Hall by Sanderson - Chinese Green/Lotus Pink - Wallpaper -  217110">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/190610/main/sanderson-chinoiserie-hall-chinese-green-lotus-pink-wallpaper-1@lg.webp?v=1693835968' alt='Chinoiserie Hall by Sanderson - Chinese Green/Lotus Pink - Wallpaper -  217110'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/190610/main/sanderson-chinoiserie-hall-chinese-green-lotus-pink-wallpaper-1@lg.webp?v=1693835968' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 292780402 Beaufort Light Blue Peony Chinoiserie Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/227463.jpg' alt='A Street Prints 292780402 Beaufort Light Blue Peony Chinoiserie Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/227463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanderson Chinoiserie Hall Blueberry/Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6760011431982.jpg?v=1735581287' alt='Sanderson Chinoiserie Hall Blueberry/Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6760011431982.jpg?v=1735581287' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Murals – Designer Wallcoverings and Fabrics">
+                                <img itemprop="contentUrl url" src='https://www.designerwallcoverings.com/cdn/shop/collections/Screen_Shot_2024-06-11_at_2.32.09_PM_1024x1024.png?v=1718141622' alt='Chinoiserie Murals – Designer Wallcoverings and Fabrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Wallcoverings" />
+                                </span>
+                                <a href='https://www.designerwallcoverings.com/cdn/shop/collections/Screen_Shot_2024-06-11_at_2.32.09_PM_1024x1024.png?v=1718141622' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 40.5 sq. ft. Navy Blue Jasmine Chinoiserie Vinyl Peel and Stick  Wallpaper Roll NW43402">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/d36c6072-f862-4ba2-88bf-85dbc95a6952/svn/nextwall-wallpaper-rolls-nw43402-64_600.jpg' alt='NextWall 40.5 sq. ft. Navy Blue Jasmine Chinoiserie Vinyl Peel and Stick  Wallpaper Roll NW43402'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/d36c6072-f862-4ba2-88bf-85dbc95a6952/svn/nextwall-wallpaper-rolls-nw43402-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanderson Chinoiserie Hall Linen Chintz Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.ladesignconcepts.com/sanderson/DWAW217113.jpg' alt='Sanderson Chinoiserie Hall Linen Chintz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://images.ladesignconcepts.com/sanderson/DWAW217113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

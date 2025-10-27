@@ -1,0 +1,129 @@
+<title>Festive Dog-Themed Christmas Wallpapers</title>
+                    <meta name="description" content="Explore our charming collection of Christmas wallpapers showcasing cute dogs in holiday settings. Perfect for spreading festive cheer, these wallpapers will bring warmth and joy to your devices. Download your favorite and celebrate the season with your furry friends!">
+                    <meta name="keywords" content="christmas wallpaper dogs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-dogs">
+                            <span itemprop="name">christmas wallpaper dogs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Dog-Themed Christmas Wallpapers</h1>
+                <p>Bring joy to your holiday season with Christmas wallpaper featuring adorable dogs! From playful pups in festive attire to cozy canines by the fireplace, these wallpapers capture the spirit of Christmas. Transform your screen into a heartwarming scene that celebrates your love for dogs and the holiday cheer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Dog Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvczY5LXRlZDA3NTktYWUtamotMDEtbC1remF0aTd2dS5qcGc.jpg' alt='Christmas Dog Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvczY5LXRlZDA3NTktYWUtamotMDEtbC1remF0aTd2dS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas gifts dogs christmas dog Poster, Wallpaper Paper Print ...">
+                                <img itemprop="contentUrl url" src='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/x/e/a/medium-vposter1123114-christmas-gifts-dogs-christmas-dog-poster-original-imagka7zqzwn6jct.jpeg?q=20&crop=false' alt='christmas gifts dogs christmas dog Poster, Wallpaper Paper Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipkart" />
+                                </span>
+                                <a href='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/x/e/a/medium-vposter1123114-christmas-gifts-dogs-christmas-dog-poster-original-imagka7zqzwn6jct.jpeg?q=20&crop=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="photo-of-dogs-under-the-christmas-tree-hd-christmas-wallpaper-with ...">
+                                <img itemprop="contentUrl url" src='https://www.quackerfactory.com/wp-content/uploads/2016/12/photo-of-dogs-under-the-christmas-tree-hd-christmas-wallpaper-with-dogs.jpg' alt='photo-of-dogs-under-the-christmas-tree-hd-christmas-wallpaper-with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quacker Factory" />
+                                </span>
+                                <a href='https://www.quackerfactory.com/wp-content/uploads/2016/12/photo-of-dogs-under-the-christmas-tree-hd-christmas-wallpaper-with-dogs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,600+ Christmas Dog Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1740138838/vector/seamless-pattern-with-cute-cartoon-dogs-wearing-different-christmas-outfits.jpg?s=612x612&w=0&k=20&c=eO0M4h-EWNg0cAJd2CiLHBZUtP4baa7U2PcjlQeIEhw=' alt='3,600+ Christmas Dog Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1740138838/vector/seamless-pattern-with-cute-cartoon-dogs-wearing-different-christmas-outfits.jpg?s=612x612&w=0&k=20&c=eO0M4h-EWNg0cAJd2CiLHBZUtP4baa7U2PcjlQeIEhw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Dog Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M2OS1hZS0wMDUtMDEuanBn.jpg' alt='Christmas Dog Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M2OS1hZS0wMDUtMDEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy's first Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4e/93/6e/4e936e6f4f6ee188a212b483b7d3419f.jpg' alt='Puppy's first Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4e/93/6e/4e936e6f4f6ee188a212b483b7d3419f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Dogs In Stockings Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/christmas-dogs-in-stockings-qlsld5ay3o4e9cbg.jpg' alt='Christmas Dogs In Stockings Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/christmas-dogs-in-stockings-qlsld5ay3o4e9cbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper dog, New Year, Christmas, puppy, happy, Santa, Christmas ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/3f/sobaka-novyi-god-rozhdestvo-shchenok-happy-santa-christmas-1.webp' alt='Wallpaper dog, New Year, Christmas, puppy, happy, Santa, Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/3f/sobaka-novyi-god-rozhdestvo-shchenok-happy-santa-christmas-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="79,200+ Christmas Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1406795041/photo/toller-retriever-in-christmas-time.jpg?s=612x612&w=0&k=20&c=H2SiWp6gA2anB1bJyJilb9AmfDPILw4KQ0vg5Nf78y8=' alt='79,200+ Christmas Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1406795041/photo/toller-retriever-in-christmas-time.jpg?s=612x612&w=0&k=20&c=H2SiWp6gA2anB1bJyJilb9AmfDPILw4KQ0vg5Nf78y8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Dog Phone Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/37/81/b8/3781b895b6ace60d6796fcb2565a2a3f.jpg' alt='Christmas Dog Phone Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/37/81/b8/3781b895b6ace60d6796fcb2565a2a3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

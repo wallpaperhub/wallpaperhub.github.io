@@ -1,0 +1,129 @@
+<title>Stunning Cherry Blossom Backgrounds for Minecraft</title>
+                    <meta name="description" content="Discover captivating cherry blossom backgrounds in Minecraft! Immerse yourself in breathtaking landscapes featuring pink petals and serene scenery. Perfect for players seeking beautiful and calm environments to explore and create memorable adventures in the game.">
+                    <meta name="keywords" content="minecraft cherry blossom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-cherry-blossom-background">
+                            <span itemprop="name">minecraft cherry blossom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cherry Blossom Backgrounds for Minecraft</h1>
+                <p>Experience the serene beauty of Minecraft's cherry blossom background, where vibrant pink petals dance in the wind and gentle breezes create a calming atmosphere. This enchanting biome invites players to explore its stunning landscapes filled with cherry trees, lush grass, and the promise of adventure amidst nature’s splendor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Cherry Grove [1920×1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/minecraft-cherry-grove-1920-1080-v0-getjr3xoyagb1.png?auto=webp&s=02568254706c359f004a959ddfa48180313e994f' alt='Minecraft Cherry Grove [1920×1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/minecraft-cherry-grove-1920-1080-v0-getjr3xoyagb1.png?auto=webp&s=02568254706c359f004a959ddfa48180313e994f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Cherry Blossom : The Ultimate Guide">
+                                <img itemprop="contentUrl url" src='https://axenthost.com/img/articles/minecraft-cherry-blossom/minecraft-cherry-blossom-biome.png' alt='Minecraft Cherry Blossom : The Ultimate Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AxentHost" />
+                                </span>
+                                <a href='https://axenthost.com/img/articles/minecraft-cherry-blossom/minecraft-cherry-blossom-biome.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom biome in HD and RTX : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cherry-blossom-biome-in-hd-and-rtx-v0-m8tb7qr6s1na1.png?width=3840&format=png&auto=webp&s=027924476db2dcd721ab2245faec0dc744591c28' alt='Cherry Blossom biome in HD and RTX : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cherry-blossom-biome-in-hd-and-rtx-v0-m8tb7qr6s1na1.png?width=3840&format=png&auto=webp&s=027924476db2dcd721ab2245faec0dc744591c28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   The Minecraft Cherry Blossom Biome | GPORTAL Wiki">
+                                <img itemprop="contentUrl url" src='https://ccdn.g-portal.com/blog_graphic_minecraft_kirsch_3_87fea89966.png' alt='   The Minecraft Cherry Blossom Biome | GPORTAL Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GPORTAL" />
+                                </span>
+                                <a href='https://ccdn.g-portal.com/blog_graphic_minecraft_kirsch_3_87fea89966.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Minecraft Cherry Blossom Forest Ambience w/ C418 Music (Slowed ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kztxcbSVzD8/sddefault.jpg' alt='   Minecraft Cherry Blossom Forest Ambience w/ C418 Music (Slowed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kztxcbSVzD8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom biome in HD and RTX : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cherry-blossom-biome-in-hd-and-rtx-v0-g7kwlfr6s1na1.png?width=3840&format=png&auto=webp&s=d58d3d579159eb68a592048021902404857bd4f4' alt='Cherry Blossom biome in HD and RTX : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cherry-blossom-biome-in-hd-and-rtx-v0-g7kwlfr6s1na1.png?width=3840&format=png&auto=webp&s=d58d3d579159eb68a592048021902404857bd4f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Cherry Blossom Wallpaper (RTX, 4K) by AlejandroKekarz on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5899f7d9-0132-43dc-8ec8-5c4eb95f7b6c/dhx9uyp-67b0dfb6-1e02-4ba1-9585-7066c77a9575.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4OTlmN2Q5LTAxMzItNDNkYy04ZWM4LTVjNGViOTVmN2I2Y1wvZGh4OXV5cC02N2IwZGZiNi0xZTAyLTRiYTEtOTU4NS03MDY2Yzc3YTk1NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F-_8ZD_BnjhKlJ4LwAIS1rGaM2dD5WsbzEsTaZq2_D8' alt='Minecraft Cherry Blossom Wallpaper (RTX, 4K) by AlejandroKekarz on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5899f7d9-0132-43dc-8ec8-5c4eb95f7b6c/dhx9uyp-67b0dfb6-1e02-4ba1-9585-7066c77a9575.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4OTlmN2Q5LTAxMzItNDNkYy04ZWM4LTVjNGViOTVmN2I2Y1wvZGh4OXV5cC02N2IwZGZiNi0xZTAyLTRiYTEtOTU4NS03MDY2Yzc3YTk1NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F-_8ZD_BnjhKlJ4LwAIS1rGaM2dD5WsbzEsTaZq2_D8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft 1.20 guide: How to find cherry blossom biome - The ...">
+                                <img itemprop="contentUrl url" src='https://cdn-wp.thesportsrush.com/2023/07/aa8e8371-minecraft-biome-cover.jpg' alt='Minecraft 1.20 guide: How to find cherry blossom biome - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The SportsRush" />
+                                </span>
+                                <a href='https://cdn-wp.thesportsrush.com/2023/07/aa8e8371-minecraft-biome-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cherry-blossom-v0-6921bld180rd1.png?auto=webp&s=627156826af4a35a9f4b023adb2b87660640177e' alt='Cherry Blossom : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3116">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cherry-blossom-v0-6921bld180rd1.png?auto=webp&s=627156826af4a35a9f4b023adb2b87660640177e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Cherry Blossom Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13570225.jpg' alt='Minecraft Cherry Blossom Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13570225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

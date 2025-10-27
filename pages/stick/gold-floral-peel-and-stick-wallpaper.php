@@ -1,0 +1,129 @@
+<title>Gold Floral Peel and Stick Wallpaper: Elegant & Easy Decor</title>
+                    <meta name="description" content="Elevate your home decor with our gold floral peel and stick wallpaper. Easy to apply and remove, it offers a chic and stylish upgrade for any room. Perfect for renters and DIY enthusiasts, this wallpaper adds a touch of glamour to your walls without the commitment. Discover effortless elegance today!">
+                    <meta name="keywords" content="gold floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/gold-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">gold floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gold Floral Peel and Stick Wallpaper: Elegant & Easy Decor</h1>
+                <p>Transform your space with our stunning gold floral peel and stick wallpaper. Perfect for renters or those seeking a stylish upgrade, this removable wallpaper features elegant floral patterns with a touch of gold. Easy to apply and remove, it's ideal for accent walls, nurseries, or crafting projects. Elevate your decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral & Birds Peel and Stick Wallpaper Antique Gold Dark Self Adhesive  Removable Floral Wallpaper for Bedroom Renter Friendly Floral Contact Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-ykHwtKBL.jpg' alt='Floral & Birds Peel and Stick Wallpaper Antique Gold Dark Self Adhesive  Removable Floral Wallpaper for Bedroom Renter Friendly Floral Contact Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-ykHwtKBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Floral Bunches Wallpaper. Peel and Stick Wallpaper AND ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21549347/r/il/19f1dc/3468235112/il_570xN.3468235112_m4cn.jpg' alt='Gold Floral Bunches Wallpaper. Peel and Stick Wallpaper AND ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21549347/r/il/19f1dc/3468235112/il_570xN.3468235112_m4cn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige & Gold Floral Wallpaper W052">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/01_2_4ea895b6-4387-499d-ada0-f54b2938ce43_1080x.jpg?v=1687434699' alt='Beige & Gold Floral Wallpaper W052'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/01_2_4ea895b6-4387-499d-ada0-f54b2938ce43_1080x.jpg?v=1687434699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Floral Wallpaper, Black and Gold Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19529219/r/il/61e2c5/4865353205/il_570xN.4865353205_m2du.jpg' alt='Gold Floral Wallpaper, Black and Gold Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19529219/r/il/61e2c5/4865353205/il_570xN.4865353205_m2du.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_2.png?v=1715201252&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_2.png?v=1715201252&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899904643118_4.jpg?v=1694156220' alt='Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899904643118_4.jpg?v=1694156220' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Lotus Metallic Gold And Grey Floral Vinyl Peel & Stick Wallpaper  Roll (Covers 30.75 Sq. Ft.) NW33118">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/13578fb9-fb1f-4a1d-896f-8678244f6877/svn/nextwall-wallpaper-rolls-nw33118-64_600.jpg' alt='NextWall Lotus Metallic Gold And Grey Floral Vinyl Peel & Stick Wallpaper  Roll (Covers 30.75 Sq. Ft.) NW33118'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/13578fb9-fb1f-4a1d-896f-8678244f6877/svn/nextwall-wallpaper-rolls-nw33118-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8122jyF9V0L.jpg' alt='Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8122jyF9V0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899904643118_3.jpg?v=1694157558' alt='Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899904643118_3.jpg?v=1694157558' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

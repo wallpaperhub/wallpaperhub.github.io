@@ -1,0 +1,129 @@
+<title>Sweet & Chewy Swedish Fish: A Candy Delight</title>
+                    <meta name="description" content="Discover the delicious world of Swedish Fish! These chewy candies are perfect for any occasion, offering unique flavors and fun shapes. Great for sharing, snacking, or adding to gift bags, Swedish Fish will delight candy lovers everywhere!">
+                    <meta name="keywords" content="swedish fish">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/swedish-fish">
+                            <span itemprop="name">swedish fish</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sweet & Chewy Swedish Fish: A Candy Delight</h1>
+                <p>Swedish Fish are chewy, gummy candies shaped like fish, originally created in Sweden but loved worldwide. Their unique texture and fruity flavors, particularly the iconic red raspberry, make them a popular treat for all ages. Perfect for snacking, movie nights, or festive occasions, Swedish Fish add a splash of fun to any candy bowl!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SWEDISH FISH Soft & Chewy Candy, 3.1 oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/dad0c579-295d-4921-989c-e4f192808534.3e0d50f9be31c3f29013c7289375524c.jpeg' alt='SWEDISH FISH Soft & Chewy Candy, 3.1 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/dad0c579-295d-4921-989c-e4f192808534.3e0d50f9be31c3f29013c7289375524c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SWEDISH FISH Mini Soft & Chewy Candy, Family Size, Bulk Candy,  1.8 lb : Grocery & Gourmet Food">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81BvpiEdbpL.jpg' alt='Amazon.com : SWEDISH FISH Mini Soft & Chewy Candy, Family Size, Bulk Candy,  1.8 lb : Grocery & Gourmet Food'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81BvpiEdbpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Skeptic Tries: Swedish Fish | Bon Appétit">
+                                <img itemprop="contentUrl url" src='https://assets.bonappetit.com/photos/61ba2c18f27d37f5a603301c/16:9/w_2560%2Cc_limit/ASkepticTries_SwedishFish_Final.jpg' alt='A Skeptic Tries: Swedish Fish | Bon Appétit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bon Appetit" />
+                                </span>
+                                <a href='https://assets.bonappetit.com/photos/61ba2c18f27d37f5a603301c/16:9/w_2560%2Cc_limit/ASkepticTries_SwedishFish_Final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Blue Raspberry Lemonade">
+                                <img itemprop="contentUrl url" src='https://allcitycandy.com/cdn/shop/products/00070462011333_A1C1_2048x.jpg?v=1681747255' alt='Swedish Fish Blue Raspberry Lemonade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All City Candy" />
+                                </span>
+                                <a href='https://allcitycandy.com/cdn/shop/products/00070462011333_A1C1_2048x.jpg?v=1681747255' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SWEDISH FISH Soft & Chewy Candy, 8 oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/c57337e5-793f-4603-8e28-97746935fdca.210fc8e6f24b36dbcd2dc9af5de5675e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='SWEDISH FISH Soft & Chewy Candy, 8 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/c57337e5-793f-4603-8e28-97746935fdca.210fc8e6f24b36dbcd2dc9af5de5675e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SWEDISH FISH and Friends Soft & Chewy Candy, Bulk Candy,  12-3.59 oz Bags : Grocery & Gourmet Food">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dZ7LZiVUL._AC_UF350,350_QL80_.jpg' alt='Amazon.com : SWEDISH FISH and Friends Soft & Chewy Candy, Bulk Candy,  12-3.59 oz Bags : Grocery & Gourmet Food'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dZ7LZiVUL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Embossed Plush Pillow">
+                                <img itemprop="contentUrl url" src='https://itsugar.com/cdn/shop/files/swedish-fish_shaped-pillow_right.png?v=1698097184&width=1200' alt='Swedish Fish Embossed Plush Pillow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IT'SUGAR" />
+                                </span>
+                                <a href='https://itsugar.com/cdn/shop/files/swedish-fish_shaped-pillow_right.png?v=1698097184&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Snapple Fruit Flavor Mix - 3.59oz">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-omwfd2x16c/images/stencil/1280x1280/products/10727/13951/30535__54808.1714589239.png?c=1' alt='Swedish Fish Snapple Fruit Flavor Mix - 3.59oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blair Candy Company" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-omwfd2x16c/images/stencil/1280x1280/products/10727/13951/30535__54808.1714589239.png?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 oz Mini Red Swedish Fish">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-hy7go5e5ls/images/stencil/1280x1280/products/243/894/400000751078_1_MiniSwedishFish__32827.1649442570.jpg?c=1?imbypass=on' alt='8 oz Mini Red Swedish Fish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seroogy's" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-hy7go5e5ls/images/stencil/1280x1280/products/243/894/400000751078_1_MiniSwedishFish__32827.1649442570.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish - Assorted Theatre Pack 3.5oz.">
+                                <img itemprop="contentUrl url" src='http://candyfunhouse.com/cdn/shop/products/Candyfunhouse_mondelez_SwedishFish_Assorted_99g-Side-jpg-1.jpg?v=1680010059' alt='Swedish Fish - Assorted Theatre Pack 3.5oz.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Funhouse" />
+                                </span>
+                                <a href='http://candyfunhouse.com/cdn/shop/products/Candyfunhouse_mondelez_SwedishFish_Assorted_99g-Side-jpg-1.jpg?v=1680010059' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

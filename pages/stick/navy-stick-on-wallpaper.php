@@ -1,0 +1,129 @@
+<title>Navy Stick-On Wallpaper: Stylish & Easy Home Decor</title>
+                    <meta name="description" content="Transform your space with navy stick-on wallpaper! Easy to apply and remove, this wallpaper adds a touch of elegance to any room without the commitment. Perfect for renters looking to refresh their decor with style. Explore patterns and textures to elevate your home effortlessly!">
+                    <meta name="keywords" content="navy stick on wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/navy-stick-on-wallpaper">
+                            <span itemprop="name">navy stick on wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Stick-On Wallpaper: Stylish & Easy Home Decor</h1>
+                <p>Navy stick-on wallpaper is a stylish and versatile option for transforming your space. Its rich blue hue adds sophistication to any room, whether it's a bedroom, living room, or office. Easy to apply and remove, this wallpaper allows you to experiment with patterns and textures without the commitment. Perfect for renters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Navy Blue Pattern Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3471">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3378880166_lqla_400a5d42-bb81-4038-b319-c6cf9962bc75.jpg' alt='Dark Navy Blue Pattern Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3471'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3378880166_lqla_400a5d42-bb81-4038-b319-c6cf9962bc75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' alt='Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Navy Blue Floral Peel and Stick Wallpaper Boho Wall Paper 118" x  17.3" Dark Blooming Flower Wildflowers Self Adhesive Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nL81YHB-L.jpg' alt='Simon&Siff Navy Blue Floral Peel and Stick Wallpaper Boho Wall Paper 118" x  17.3" Dark Blooming Flower Wildflowers Self Adhesive Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nL81YHB-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Tropical Peel and Stick Wallpaper | Navy Botanical Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40129579/r/il/c5b8b5/4655003602/il_1080xN.4655003602_eamr.jpg' alt='Blue Tropical Peel and Stick Wallpaper | Navy Botanical Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40129579/r/il/c5b8b5/4655003602/il_1080xN.4655003602_eamr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Floral and Leaf Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C692">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C692_03.png?v=1734117724&width=1445' alt='Navy Floral and Leaf Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C692'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C692_03.png?v=1734117724&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Navy Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1470RL_401637f0-b27b-49db-bec8-6903864ec403.jpg?v=1666625767' alt='Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Navy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1470RL_401637f0-b27b-49db-bec8-6903864ec403.jpg?v=1666625767' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SOCIETY SOCIAL Navy Blue Classic Faux Grasscloth Peel and Stick Wallpaper  SSS4567">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/85afe740-2fb5-4ac8-b9f9-4ce6e7e89b93/svn/society-social-wallpaper-rolls-sss4567-31_600.jpg' alt='SOCIETY SOCIAL Navy Blue Classic Faux Grasscloth Peel and Stick Wallpaper  SSS4567'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/85afe740-2fb5-4ac8-b9f9-4ce6e7e89b93/svn/society-social-wallpaper-rolls-sss4567-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper W9235-Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9322058b-c2c3-4c2c-9b54-e75f1c6a8606/svn/wallpaper-rolls-w9235-vinyl-navy-216-4f_600.jpg' alt='Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper W9235-Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9322058b-c2c3-4c2c-9b54-e75f1c6a8606/svn/wallpaper-rolls-w9235-vinyl-navy-216-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Grove Peel & Stick Wallpaper Sample - Navy">
+                                <img itemprop="contentUrl url" src='http://riflepaperco.com/cdn/shop/files/was046-03_1_1024x1024.jpg?v=1717037321' alt='Citrus Grove Peel & Stick Wallpaper Sample - Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rifle Paper Co" />
+                                </span>
+                                <a href='http://riflepaperco.com/cdn/shop/files/was046-03_1_1024x1024.jpg?v=1717037321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upon A Star Peel & Stick Wallpaper in Navy">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/Upon_A_Star_Peel_Stick_Wallpaper_in_Navy_by_RoomMates_for_York_Wallcoverings-1_800x.jpg?v=1578506645' alt='Upon A Star Peel & Stick Wallpaper in Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/Upon_A_Star_Peel_Stick_Wallpaper_in_Navy_by_RoomMates_for_York_Wallcoverings-1_800x.jpg?v=1578506645' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

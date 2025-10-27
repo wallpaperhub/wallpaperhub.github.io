@@ -1,0 +1,129 @@
+<title>Secure Your Data with Vault Images</title>
+                    <meta name="description" content="Discover the power of vault images for secure data storage and backup solutions. Protect your valuable information with encryption and easy recovery options. Ideal for personal or business needs. Stay safe and organized in the digital age!">
+                    <meta name="keywords" content="vault image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vault-image">
+                            <span itemprop="name">vault image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Secure Your Data with Vault Images</h1>
+                <p>A vault image serves as a secure digital storage solution, safeguarding valuable data and sensitive information against unauthorized access. Vault images are essential for businesses and individuals needing reliable backups and disaster recovery plans. They compress and encrypt files, ensuring both accessibility and data integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank vault - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/87/WinonaSavingsBankVault.JPG' alt='Bank vault - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3244">
+                                <meta itemprop="height" content="2026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/87/WinonaSavingsBankVault.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vault">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/49086/vault.jpg?h=699&q=85' alt='Vault'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/49086/vault.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,100+ Bank Vault Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/522876116/photo/silver-bank-vault-front.jpg?s=612x612&w=0&k=20&c=Q5u9chfnB0Hzs3oeFjXUYlSSR2hfdgyU7LFDm3y08_E=' alt='23,100+ Bank Vault Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/522876116/photo/silver-bank-vault-front.jpg?s=612x612&w=0&k=20&c=Q5u9chfnB0Hzs3oeFjXUYlSSR2hfdgyU7LFDm3y08_E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,926 Bank Vault Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/187833844/photo/bank-vault.jpg?s=612x612&w=gi&k=20&c=JBt3CW0Sii77Ae1dQrYzRt6JdX3NyCMgTDra7okYlgc=' alt='4,926 Bank Vault Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/187833844/photo/bank-vault.jpg?s=612x612&w=gi&k=20&c=JBt3CW0Sii77Ae1dQrYzRt6JdX3NyCMgTDra7okYlgc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MU1752 Bank Vault Steel Door ☑️ Photo Wallpaper | Talissa Decor">
+                                <img itemprop="contentUrl url" src='https://www.talissadecor.com/wp-content/uploads/2019/03/1752_Bank-Vault-Steel-Door_Porte-en-Acier-de-Vo%C3%BBte-de-Banque.jpg' alt='MU1752 Bank Vault Steel Door ☑️ Photo Wallpaper | Talissa Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Talissa Decor Ceiling Tiles" />
+                                </span>
+                                <a href='https://www.talissadecor.com/wp-content/uploads/2019/03/1752_Bank-Vault-Steel-Door_Porte-en-Acier-de-Vo%C3%BBte-de-Banque.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,926 Bank Vault Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/255458-001/photo/safe-deposit-box-vault-in-bank.jpg?s=612x612&w=gi&k=20&c=fLSyrGbYPyLN985IqrtOXcIa0rydZN1HOJCfLBFnEEM=' alt='4,926 Bank Vault Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/255458-001/photo/safe-deposit-box-vault-in-bank.jpg?s=612x612&w=gi&k=20&c=fLSyrGbYPyLN985IqrtOXcIa0rydZN1HOJCfLBFnEEM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Global Genome Vault by Vivos - Private DNA Storage">
+                                <img itemprop="contentUrl url" src='https://www.terravivos.com/assets/images/genome/vault-960x960.jpg' alt='The Global Genome Vault by Vivos - Private DNA Storage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivos Shelters" />
+                                </span>
+                                <a href='https://www.terravivos.com/assets/images/genome/vault-960x960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vault Images – Browse 255,108 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/04/60/61/360_F_104606150_6TQ2nemhD8iflKwwwXjnq7Ayf8Lhjwgg.jpg' alt='Vault Images – Browse 255,108 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/04/60/61/360_F_104606150_6TQ2nemhD8iflKwwwXjnq7Ayf8Lhjwgg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vault Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bank-vault-realistic-composition-with-view-safe-storage-entrance-with-massive-circle-shaped-locking-door_1284-62426.jpg' alt='Vault Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bank-vault-realistic-composition-with-view-safe-storage-entrance-with-massive-circle-shaped-locking-door_1284-62426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank Vault With Money Images – Browse 71,045 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/78/97/85/360_F_278978544_Gz5Wl0mdB5yRn9nzW1uUGPM1vZ4Lq5Zw.jpg' alt='Bank Vault With Money Images – Browse 71,045 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/78/97/85/360_F_278978544_Gz5Wl0mdB5yRn9nzW1uUGPM1vZ4Lq5Zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

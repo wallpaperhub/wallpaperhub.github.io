@@ -1,0 +1,129 @@
+<title>Nintendo Phone Wallpapers: Level Up Your Screen Game!</title>
+                    <meta name="description" content="Discover a variety of colorful Nintendo phone wallpapers to personalize your device. Perfect for gamers, our collection features iconic characters and designs that breathe life into your mobile screen. Download your favorites and show off your Nintendo spirit today!">
+                    <meta name="keywords" content="nintendo wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nintendo-wallpaper-phone">
+                            <span itemprop="name">nintendo wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nintendo Phone Wallpapers: Level Up Your Screen Game!</h1>
+                <p>Enhance your mobile experience with our stunning Nintendo wallpaper phone collection! Featuring beloved characters and vibrant graphics, these wallpapers will bring your favorite games to life right on your screen. Perfect for gamers of all ages, find the ideal design to showcase your love for Nintendo every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Nintendo released a few TotK themed mobile wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' alt='TotK] Nintendo released a few TotK themed mobile wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/612/612388.png' alt='Nintendo Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/612/612388.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Wallpapers (56 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/5/a/1262226-1080x2340-mobile-hd-nintendo-background-image.jpg' alt='Nintendo Wallpapers (56 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/5/a/1262226-1080x2340-mobile-hd-nintendo-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo's LINE account phone wallpaper for April 2019 : r/nintendo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qhzje4af6zo21.jpg' alt='Nintendo's LINE account phone wallpaper for April 2019 : r/nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qhzje4af6zo21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD my nintendo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/158/156/HD-wallpaper-super-mario-maker-2-games-mario-bros-my-nintendo-nintendo-nintendo-3ds-nintendo-switch-nintendo-wii-u-super-mario-thumbnail.jpg' alt='HD my nintendo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/158/156/HD-wallpaper-super-mario-maker-2-games-mario-bros-my-nintendo-nintendo-nintendo-3ds-nintendo-switch-nintendo-wii-u-super-mario-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Wallpapers (56 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/8/4/1262313-1125x2436-mobile-hd-nintendo-wallpaper-photo.jpg' alt='Nintendo Wallpapers (56 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/8/4/1262313-1125x2436-mobile-hd-nintendo-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo, game, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/345/93/HD-wallpaper-nintendo-game.jpg' alt='Nintendo, game, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/345/93/HD-wallpaper-nintendo-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello, Someone Have more Of this Wallpapers ? : r/MyNintendo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hello-someone-have-more-of-this-wallpapers-v0-tqoegob8uq9d1.png?width=640&crop=smart&auto=webp&s=925b903e357cd8744362dbbe77190eb06c3ce8cd' alt='Hello, Someone Have more Of this Wallpapers ? : r/MyNintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hello-someone-have-more-of-this-wallpapers-v0-tqoegob8uq9d1.png?width=640&crop=smart&auto=webp&s=925b903e357cd8744362dbbe77190eb06c3ce8cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Nintendo Switch Wallpapers ideas | nintendo switch, nintendo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/bb/67/7f/bb677f69f617fd04916641f976a65f9e.jpg' alt='21 Nintendo Switch Wallpapers ideas | nintendo switch, nintendo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/bb/67/7f/bb677f69f617fd04916641f976a65f9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official wallpapers from MyNintendo : r/NintendoSwitch">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rbbk5r4mdl731.png?width=1080&format=png&auto=webp&s=8dad19447c45666ce1934570e62e1f44aeda8a6f' alt='Official wallpapers from MyNintendo : r/NintendoSwitch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rbbk5r4mdl731.png?width=1080&format=png&auto=webp&s=8dad19447c45666ce1934570e62e1f44aeda8a6f' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

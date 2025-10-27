@@ -1,0 +1,129 @@
+<title>Stunning Papel Picado PNG Designs for Your Projects</title>
+                    <meta name="description" content="Explore a vibrant collection of papel picado PNG files perfect for any celebration. These beautifully crafted designs add a festive touch to your digital projects, ensuring joy and color. Download high-quality, editable papel picado images today and elevate your creative endeavors!">
+                    <meta name="keywords" content="papel picado png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/papel-picado-png">
+                            <span itemprop="name">papel picado png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Papel Picado PNG Designs for Your Projects</h1>
+                <p>Papel picado PNG files are beautifully intricate designs used for celebrations in Mexican culture. These colorful paper cutouts come in various shapes and patterns, symbolizing joy and festivity. Perfect for digital projects, the PNG format allows for easy layering and editing. Discover stunning papel picado designs for your next event!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papel Picado Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/mexican-perforated-paper-garland-isolated_23-2151454748.jpg' alt='Papel Picado Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/mexican-perforated-paper-garland-isolated_23-2151454748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Party Paper Two, Papel Picado, Party Flag, Mexican Day PNG ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221030/original/pngtree-mexican-party-paper-two-png-image_8743994.png' alt='Mexican Party Paper Two, Papel Picado, Party Flag, Mexican Day PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221030/original/pngtree-mexican-party-paper-two-png-image_8743994.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Pink Papel Picado PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/227740/isolated/preview/7ac6909647cffb04fac7a5d64ec2e213-skull-pink-papel-picado.png' alt='Skull Pink Papel Picado PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/227740/isolated/preview/7ac6909647cffb04fac7a5d64ec2e213-skull-pink-papel-picado.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Papel Picado Mexican Decorations PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/271077/isolated/preview/ccd9a9be3d3a0abfe1734c6be1ef9284-floral-papel-picado-mexican-decorations.png' alt='Floral Papel Picado Mexican Decorations PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/271077/isolated/preview/ccd9a9be3d3a0abfe1734c6be1ef9284-floral-papel-picado-mexican-decorations.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Clipart Transparent Background - Papel Picado Banner ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/85/aa/1385aa17c9b5515016a9c38423500758.jpg' alt='Mexican Clipart Transparent Background - Papel Picado Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/85/aa/1385aa17c9b5515016a9c38423500758.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Party Paper Three, Party Flag, Party Paper, Papel Picado ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230315/original/pngtree-mexican-party-paper-three-png-image_8988140.png' alt='Mexican Party Paper Three, Party Flag, Party Paper, Papel Picado ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230315/original/pngtree-mexican-party-paper-three-png-image_8988140.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cactus Design Papel Picado PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/231446/isolated/preview/31088f053e93801b6b3c06997a1c5fc7-cactus-design-papel-picado.png' alt='Cactus Design Papel Picado PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/231446/isolated/preview/31088f053e93801b6b3c06997a1c5fc7-cactus-design-papel-picado.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papel Picado Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/mexican-bunting-colorful-set_23-2148491391.jpg' alt='Papel Picado Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/mexican-bunting-colorful-set_23-2148491391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papel picado - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/6192571/papel-picado-clipart-lg.png' alt='Papel picado - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/6192571/papel-picado-clipart-lg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papel Picado png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/1008/380/png-clipart-graphic-design-magenta-font-papel-picado-label-text-thumbnail.png' alt='Papel Picado png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/1008/380/png-clipart-graphic-design-magenta-font-papel-picado-label-text-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pixel City GIFs: Animated Urban Art</title>
+                    <meta name="description" content="Discover stunning pixel city GIFs that animate urban landscapes with vibrant colors and retro charm. Perfect for art lovers and those seeking unique visuals for their projects. Explore a variety of captivating cityscapes in pixel art style! Ideal for mobile viewing and sharing.">
+                    <meta name="keywords" content="pixel city gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-city-gif">
+                            <span itemprop="name">pixel city gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pixel City GIFs: Animated Urban Art</h1>
+                <p>Explore the vibrant world of pixel city GIFs! These animated artworks bring urban landscapes to life with colorful pixels and mesmerizing movements. Perfect for those who appreciate retro aesthetics, pixel city GIFs transform ordinary scenes into captivating visuals. Dive into the charm of pixel art and discover your favorite cityscapes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic city made in pixel art : r/gifs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1asyzovvrn8a1.gif' alt='Futuristic city made in pixel art : r/gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1asyzovvrn8a1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel City Chill GIF - Pixel City Chill - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif' alt='Pixel City Chill GIF - Pixel City Chill - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic city in pixel art : r/gifs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d71sxs0mn19a1.gif' alt='Futuristic city in pixel art : r/gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d71sxs0mn19a1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art Cyberpunk city Gif by Dandraeliss on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8' alt='Pixel art Cyberpunk city Gif by Dandraeliss on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art City GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/STThM1tDfstfLjM1qd/giphy.gif?cid=6c09b952uy6pqh2diof64xyyjdxvlq750b9p5wr7wm5fz4ib&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Pixel Art City GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/STThM1tDfstfLjM1qd/giphy.gif?cid=6c09b952uy6pqh2diof64xyyjdxvlq750b9p5wr7wm5fz4ib&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF} Purple Pixel City (f2u)! by wrathberries on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d5c66ed-060c-4c5f-9e37-ff72ecdd939a/dct1af1-0fce2664-a10f-4088-98fc-14981ff8bab6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNWM2NmVkLTA2MGMtNGM1Zi05ZTM3LWZmNzJlY2RkOTM5YVwvZGN0MWFmMS0wZmNlMjY2NC1hMTBmLTQwODgtOThmYy0xNDk4MWZmOGJhYjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4rpBb_UNZVM1CrdRdoFv514RF0pLlgksPEGvSYp3Rrg' alt='GIF} Purple Pixel City (f2u)! by wrathberries on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d5c66ed-060c-4c5f-9e37-ff72ecdd939a/dct1af1-0fce2664-a10f-4088-98fc-14981ff8bab6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNWM2NmVkLTA2MGMtNGM1Zi05ZTM3LWZmNzJlY2RkOTM5YVwvZGN0MWFmMS0wZmNlMjY2NC1hMTBmLTQwODgtOThmYy0xNDk4MWZmOGJhYjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4rpBb_UNZVM1CrdRdoFv514RF0pLlgksPEGvSYp3Rrg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A mini collection of pixelful images.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/68/31/45/6831454cf213ed7ffa541fe666fa9cf8.gif' alt='A mini collection of pixelful images.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/68/31/45/6831454cf213ed7ffa541fe666fa9cf8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retronator // seafoamboy: Pixel city canals, I was trying to go...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/02648a34627f058bb3ea408aa06ff537/57c69f3a8388c24a-b9/s1280x1920/e75e44dbf6694d5f8104915b6b6d09861a0685b9.gif' alt='Retronator // seafoamboy: Pixel city canals, I was trying to go...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retronator" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/02648a34627f058bb3ea408aa06ff537/57c69f3a8388c24a-b9/s1280x1920/e75e44dbf6694d5f8104915b6b6d09861a0685b9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel City GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/KqUJmhvlZ5kAAAAM/vaporwave-aesthetic.gif' alt='Pixel City GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/KqUJmhvlZ5kAAAAM/vaporwave-aesthetic.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pixel city gif - palette – @conceptme on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/dc3489b52b5e40db67341b690629c72e/tumblr_pavrh0RH0D1x6r3nwo1_540.gif' alt='pixel city gif - palette – @conceptme on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/dc3489b52b5e40db67341b690629c72e/tumblr_pavrh0RH0D1x6r3nwo1_540.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Dusty Purple Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Discover the charm of dusty purple wallpaper for your home. This trendy design adds a touch of elegance to any room, making it perfect for a serene and stylish atmosphere. Perfect for accent walls or complete makeovers, embrace this sophisticated color for a fresh interior look!">
+                    <meta name="keywords" content="dusty purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/dusty-purple-wallpaper">
+                            <span itemprop="name">dusty purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dusty Purple Wallpaper for Chic Interiors</h1>
+                <p>Transform your space with dusty purple wallpaper, a perfect blend of elegance and serenity. This versatile hue complements various decor styles, creating a soothing atmosphere. Ideal for bedrooms, living rooms, or accent walls, dusty purple wallpaper enhances ambiance while adding a touch of sophistication to your home. Elevate your interior design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty Purple 704f73 Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14331828/p/f/m/3kBKak8Fc7Fnl7TpbpwcZ7CpoI5X5OGXnwObvCYd3VofTZyJrelb/Plain%20Dusty%20Purple%20%23704F73%20Solid%20Fabric.jpg' alt='Dusty Purple 704f73 Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14331828/p/f/m/3kBKak8Fc7Fnl7TpbpwcZ7CpoI5X5OGXnwObvCYd3VofTZyJrelb/Plain%20Dusty%20Purple%20%23704F73%20Solid%20Fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter marble dusty purple iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/44/cf/d244cf824b7b2a67a16dcb414549e494.jpg' alt='Glitter marble dusty purple iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/44/cf/d244cf824b7b2a67a16dcb414549e494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dusty Purple Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16590837/p/f/m/YCh6sUsO4E4ZtPa7Agm4_oRtJCXphPZFcXUHIpHdWVfa-KsjWrMy9EY/FAIR%20ORCHID%20solid%20plain%20dusty%20purple%20color.jpg' alt='Solid Dusty Purple Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16590837/p/f/m/YCh6sUsO4E4ZtPa7Agm4_oRtJCXphPZFcXUHIpHdWVfa-KsjWrMy9EY/FAIR%20ORCHID%20solid%20plain%20dusty%20purple%20color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gardens of the Soul - Dusty Mauve">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/75132/gardens-of-the-soul-dusty-mauve.jpg?h=699&q=85' alt='Gardens of the Soul - Dusty Mauve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/75132/gardens-of-the-soul-dusty-mauve.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Purple foliage pattern mobile phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/f7/45/b7f7455f1600ce090976b84db2d3acde.jpg' alt='Download premium vector of Purple foliage pattern mobile phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/f7/45/b7f7455f1600ce090976b84db2d3acde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary wallpaper - DUSTY LILAC - Eco - plain / pink / metallic">
+                                <img itemprop="contentUrl url" src='https://img.archiexpo.com/images_ae/photo-g/141377-13243831.jpg' alt='Contemporary wallpaper - DUSTY LILAC - Eco - plain / pink / metallic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArchiExpo" />
+                                </span>
+                                <a href='https://img.archiexpo.com/images_ae/photo-g/141377-13243831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-watercolour-background-corners_78370-1873.jpg' alt='Dusty Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-watercolour-background-corners_78370-1873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Purple Dusty Shade">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/solid-purple-dusty-shade-pattern-repeat-removable-wallpaper-design.jpg' alt='Solid Purple Dusty Shade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/solid-purple-dusty-shade-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty purple marble wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/7f/ee/797feeab95be1899da98f14a922490ca.jpg' alt='Dusty purple marble wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/7f/ee/797feeab95be1899da98f14a922490ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dusty Purple Canvas Fabric Texture – Photos Public Domain">
+                                <img itemprop="contentUrl url" src='https://www.photos-public-domain.com/wp-content/uploads/2011/04/dusty-purple-canvas-fabric-texture.jpg' alt='Dusty Purple Canvas Fabric Texture – Photos Public Domain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos Public Domain" />
+                                </span>
+                                <a href='https://www.photos-public-domain.com/wp-content/uploads/2011/04/dusty-purple-canvas-fabric-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

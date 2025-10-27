@@ -1,0 +1,129 @@
+<title>Childhood Cancer Awareness Month: Join the Fight!</title>
+                    <meta name="description" content="September is Childhood Cancer Awareness Month. Help raise awareness, support research, and provide hope to children and families affected by cancer. Stand together to make a difference and spread the word about childhood cancer. Join us in this vital cause!">
+                    <meta name="keywords" content="childhood cancer awareness month">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/childhood-cancer-awareness-month">
+                            <span itemprop="name">childhood cancer awareness month</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Childhood Cancer Awareness Month: Join the Fight!</h1>
+                <p>September is Childhood Cancer Awareness Month, a time to raise awareness and support for young warriors battling cancer. Join us in spreading knowledge about childhood cancer, advocating for research funding, and providing hope to families. Together, we can help make a difference for these brave children and their loved ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SEPTEMBER IS CHILDHOOD CANCER AWARENESS MONTH | Alameda Pediatric ...">
+                                <img itemprop="contentUrl url" src='https://alamedapediatricdentist.com/wp-content/uploads/2020/05/childhood-cancer-awareness-month.png' alt='SEPTEMBER IS CHILDHOOD CANCER AWARENESS MONTH | Alameda Pediatric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alameda Pediatric Dentistry & Orthodontics" />
+                                </span>
+                                <a href='https://alamedapediatricdentist.com/wp-content/uploads/2020/05/childhood-cancer-awareness-month.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childhood Cancer Awareness Month 2024">
+                                <img itemprop="contentUrl url" src='https://www.cclg.org.uk/write/MediaUploads/Support%20us%20section/CCAM/CCAM_Yellow_and_White_Small.png' alt='Childhood Cancer Awareness Month 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCLG" />
+                                </span>
+                                <a href='https://www.cclg.org.uk/write/MediaUploads/Support%20us%20section/CCAM/CCAM_Yellow_and_White_Small.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childhood Cancer Awareness | Dana-Farber/Boston Children's Cancer ...">
+                                <img itemprop="contentUrl url" src='https://www.danafarberbostonchildrens.org/sites/default/files/styles/coh_x_large/public/2021-08/gold-ribbon-childhood-cancer-awareness.jpeg?itok=G6UsuFOR' alt='Childhood Cancer Awareness | Dana-Farber/Boston Children's Cancer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dana-Farber/Boston Children's Cancer and Blood Disorders Center" />
+                                </span>
+                                <a href='https://www.danafarberbostonchildrens.org/sites/default/files/styles/coh_x_large/public/2021-08/gold-ribbon-childhood-cancer-awareness.jpeg?itok=G6UsuFOR' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for CHILDHOOD CANCER AWARENESS">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064352997073' alt='Profile for CHILDHOOD CANCER AWARENESS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064352997073' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September is Childhood Cancer Awareness month - Fibrolamellar ...">
+                                <img itemprop="contentUrl url" src='https://fibrofoundation.org/wp-content/uploads/2023/09/childhood-cancer-awareness-month-1280.jpg' alt='September is Childhood Cancer Awareness month - Fibrolamellar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fibrolamellar Cancer Foundation" />
+                                </span>
+                                <a href='https://fibrofoundation.org/wp-content/uploads/2023/09/childhood-cancer-awareness-month-1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childhood Cancer Awareness Month in September We Wear Gold Banner 47x71in  Backdrop Holiday Background Party Decoration Poster Photography Banners, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61QG9FeOVNL._AC_UF894,1000_QL80_.jpg' alt='Childhood Cancer Awareness Month in September We Wear Gold Banner 47x71in  Backdrop Holiday Background Party Decoration Poster Photography Banners, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61QG9FeOVNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childhood Cancer Awareness Month September 2023 | Cells4Life">
+                                <img itemprop="contentUrl url" src='https://cells4life.com/wp-content/uploads/2023/08/Shutterstock_789655225-1080x675.jpg' alt='Childhood Cancer Awareness Month September 2023 | Cells4Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cells4Life" />
+                                </span>
+                                <a href='https://cells4life.com/wp-content/uploads/2023/08/Shutterstock_789655225-1080x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Childhood Cancer Awareness Month | Laurinburg Exchange">
+                                <img itemprop="contentUrl url" src='https://www.laurinburgexchange.com/wp-content/uploads/2021/09/127541127_web1_Childhood.jpg' alt='It's Childhood Cancer Awareness Month | Laurinburg Exchange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laurinburg Exchange" />
+                                </span>
+                                <a href='https://www.laurinburgexchange.com/wp-content/uploads/2021/09/127541127_web1_Childhood.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September is Childhood Cancer Awareness Month - RAI">
+                                <img itemprop="contentUrl url" src='https://4rai.com/wp-content/uploads/sites/20/2022/08/childhood-cancer-1.jpg' alt='September is Childhood Cancer Awareness Month - RAI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radiology Affiliates Imaging" />
+                                </span>
+                                <a href='https://4rai.com/wp-content/uploads/sites/20/2022/08/childhood-cancer-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toolkit for Organizations — Children's Cancer Cause">
+                                <img itemprop="contentUrl url" src='https://www.childrenscancercause.org/s/Toolkit_CCAM_GoldStars-1.png' alt='Toolkit for Organizations — Children's Cancer Cause'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Children's Cancer Cause" />
+                                </span>
+                                <a href='https://www.childrenscancercause.org/s/Toolkit_CCAM_GoldStars-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

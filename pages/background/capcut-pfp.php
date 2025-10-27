@@ -1,0 +1,129 @@
+<title>Stunning CapCut Profile Pictures: Stand Out on Social Media</title>
+                    <meta name="description" content="Discover how to create stunning CapCut profile pictures (pfp) that grab attention on social media! Learn editing tips, tricks, and styles to ensure your profile stands out and showcases your personality in every post. Transform your online presence easily with CapCut!">
+                    <meta name="keywords" content="capcut pfp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/capcut-pfp">
+                            <span itemprop="name">capcut pfp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning CapCut Profile Pictures: Stand Out on Social Media</h1>
+                <p>CapCut profile pictures (pfp) are essential for users wanting to stand out on social media. With a variety of editing tools, you can create unique, eye-catching images that reflect your personality. Customize colors, add filters, and incorporate text to make your pfp memorable and engaging. Express yourself with CapCut!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Stark CapCut pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/d3/f8/e8d3f8191fc21df8947b5cd0eeffe443.jpg' alt='Tony Stark CapCut pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/d3/f8/e8d3f8191fc21df8947b5cd0eeffe443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="logos/backgrounds for pfps #capcut #pfp | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7254306633797405995&location=0&aid=1988' alt='logos/backgrounds for pfps #capcut #pfp | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7254306633797405995&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PFP TUTORIAL || CapCut tutorial || (Pause if needed) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/783GrivftE0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDwOPIzqPdAsG7IMNLCk6-paIqRdg' alt='PFP TUTORIAL || CapCut tutorial || (Pause if needed) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/783GrivftE0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDwOPIzqPdAsG7IMNLCk6-paIqRdg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 Capcut logos/icons for pfps ideas | logo icons, motion logo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/53/97/44/539744a164a7a240d60a96be71a52e92.jpg' alt='44 Capcut logos/icons for pfps ideas | logo icons, motion logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/53/97/44/539744a164a7a240d60a96be71a52e92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo capcut pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/95/ec/9895ec9772e75a8c9aff19ec9927d97d.jpg' alt='Gojo capcut pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/95/ec/9895ec9772e75a8c9aff19ec9927d97d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="free_ftbledits on X: "pfp made on #capcut https://t.co/3Op6xXUv6H" / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FKRTnKLWUAY3fjk.jpg' alt='free_ftbledits on X: "pfp made on #capcut https://t.co/3Op6xXUv6H" / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FKRTnKLWUAY3fjk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made these pfp on capcut | Gallery posted by ✧༺Bee_Edits ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7382977672321270277&index=0&sign=ce1e8aa29062cbe98ef9427d7d21ead0' alt='Just made these pfp on capcut | Gallery posted by ✧༺Bee_Edits ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7382977672321270277&index=0&sign=ce1e8aa29062cbe98ef9427d7d21ead0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡︎How to make a PFP on CAPCUT! EASY! #tutorial #capcut #edit ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PlXzWJPiYW0/hqdefault.jpg' alt='♡︎How to make a PFP on CAPCUT! EASY! #tutorial #capcut #edit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PlXzWJPiYW0/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Millie Bobby brown capcut pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/a3/2e/67a32e3f5c959277eaf58439437f80dd.jpg' alt='Millie Bobby brown capcut pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/a3/2e/67a32e3f5c959277eaf58439437f80dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom PFP - Payhip">
+                                <img itemprop="contentUrl url" src='https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1gfgsfmgg45g1hs9rse1r7t36d1a.jpeg' alt='Custom PFP - Payhip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Payhip" />
+                                </span>
+                                <a href='https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1gfgsfmgg45g1hs9rse1r7t36d1a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

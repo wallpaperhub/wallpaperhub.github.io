@@ -1,0 +1,129 @@
+<title>Whimsical Pink Heart & Butterfly Wallpaper for Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink heart and butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/pink-heart-and-butterfly-wallpaper">
+                            <span itemprop="name">pink heart and butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Pink Heart & Butterfly Wallpaper for Your Space</h1>
+                <p>Transform your space with our enchanting pink heart and butterfly wallpaper! Perfect for creating a whimsical atmosphere, this vibrant design combines soft pink tones with delicate butterflies, making it ideal for bedrooms, nurseries, or playrooms. Elevate your decor with this charming wallpaper that exudes warmth and joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly and heart wallpaper by ebby20055 - Download on ZEDGE™ | bb36">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=B8qr1eT9Ato-U71ZHLoxtEiXKFMthIpWttM_k0QmoKodWfs5uKRNUb4Ju2wjFRVFa3_euFkGwxtLSiziiFemTW_uItnlIDLe2qDe2bDVZ1ZahgiidYtdKrvl2D-fZpYKkp-i6W_7iViZC3rsX6XVGYY-qQWkHKVTE8l8G6R9V9koYm58J45Nk_caVGH3UlcnFw1guAG3yBTk7VtDYDiCNGA05LTycrtzwPRi5SyttGfAXhcNJolzLUMTofg' alt='Butterfly and heart wallpaper by ebby20055 - Download on ZEDGE™ | bb36'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=B8qr1eT9Ato-U71ZHLoxtEiXKFMthIpWttM_k0QmoKodWfs5uKRNUb4Ju2wjFRVFa3_euFkGwxtLSiziiFemTW_uItnlIDLe2qDe2bDVZ1ZahgiidYtdKrvl2D-fZpYKkp-i6W_7iViZC3rsX6XVGYY-qQWkHKVTE8l8G6R9V9koYm58J45Nk_caVGH3UlcnFw1guAG3yBTk7VtDYDiCNGA05LTycrtzwPRi5SyttGfAXhcNJolzLUMTofg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/74/cf/5e/74cf5ef7027af3251d9bf0a2cb6ff888.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/74/cf/5e/74cf5ef7027af3251d9bf0a2cb6ff888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b7/da/e5/b7dae57411b61ea4d98345e3424d4600.jpg' alt='Pink heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b7/da/e5/b7dae57411b61ea4d98345e3424d4600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper butterfly, heart, diamonds, love, bow, heart, pink ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2250x1700/c/20/design-by-marika-pink-love.jpg' alt='Wallpaper butterfly, heart, diamonds, love, bow, heart, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2250x1700/c/20/design-by-marika-pink-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pink heart with a butterfly on the bottom and a pink background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-heart-with-butterfly-bottom-pink-background-with-gold-glitter-hearts_1253310-768.jpg' alt='A pink heart with a butterfly on the bottom and a pink background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-heart-with-butterfly-bottom-pink-background-with-gold-glitter-hearts_1253310-768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart~, butterflies, butterflie, pink, heart, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/257/201/HD-wallpaper-heart-butterflies-butterflie-pink-heart.jpg' alt='Heart~, butterflies, butterflie, pink, heart, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/257/201/HD-wallpaper-heart-butterflies-butterflie-pink-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Butterfly Flower Pink Artistic Heart HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/699/thumb-1920-699141.jpg' alt='Download Butterfly Flower Pink Artistic Heart HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/699/thumb-1920-699141.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/c0/82/e3c0823d446f13909ae6873286e36c1c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/c0/82/e3c0823d446f13909ae6873286e36c1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Purple Heart And Purple Butterflies Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/purple-heart-and-purple-butterflies-cznndwzhvjnl70k2.jpg' alt='Download free Purple Heart And Purple Butterflies Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/purple-heart-and-purple-butterflies-cznndwzhvjnl70k2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink butterfly background with a heart and the word love on it ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-butterfly-background-with-heart-word-love-it_900775-4521.jpg' alt='Pink butterfly background with a heart and the word love on it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-butterfly-background-with-heart-word-love-it_900775-4521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

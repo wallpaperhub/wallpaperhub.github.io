@@ -1,0 +1,129 @@
+<title>Max Verstappen: Formula 1's Rising Star</title>
+                    <meta name="description" content="Explore the journey of Max Verstappen, the dynamic Formula 1 champion. Discover his racing career, records, and contributions to the sport as he continues to redefine excellence in motorsports. Stay updated on his latest performances and achievements!">
+                    <meta name="keywords" content="max verstappen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/max-verstappen">
+                            <span itemprop="name">max verstappen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Max Verstappen: Formula 1's Rising Star</h1>
+                <p>Max Verstappen is a phenomenal talent in Formula 1, known for his aggressive driving style and remarkable skill behind the wheel. Since debuting with Red Bull Racing, he has shattered records and captured the attention of fans worldwide. As a two-time world champion, Max continues to push the boundaries of speed and innovation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/1200px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg' alt='Max Verstappen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/1200px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen - F1 Driver for Red Bull Racing">
+                                <img itemprop="contentUrl url" src='https://media.formula1.com/image/upload/v1712849101/content/dam/fom-website/drivers/2024Drivers/verstappen.png' alt='Max Verstappen - F1 Driver for Red Bull Racing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="F1" />
+                                </span>
+                                <a href='https://media.formula1.com/image/upload/v1712849101/content/dam/fom-website/drivers/2024Drivers/verstappen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen Profile - Bio, News, High-Res Photos & High Quality ...">
+                                <img itemprop="contentUrl url" src='https://cdn-4.motorsport.com/images/mgl/6D1XbeV0/s800/max-verstappen-red-bull-racing.jpg' alt='Max Verstappen Profile - Bio, News, High-Res Photos & High Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorsport.com" />
+                                </span>
+                                <a href='https://cdn-4.motorsport.com/images/mgl/6D1XbeV0/s800/max-verstappen-red-bull-racing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen: How he won his toughest title defense so far">
+                                <img itemprop="contentUrl url" src='https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2024/11/24/nrqoxx9as35r5ry8ashm/max-verstapen-2024-f1-world-champion-four' alt='Max Verstappen: How he won his toughest title defense so far'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1451">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Bull" />
+                                </span>
+                                <a href='https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2024/11/24/nrqoxx9as35r5ry8ashm/max-verstapen-2024-f1-world-champion-four' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen | Biography, F1 Championships, Father, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/64/258264-050-AACF7B53/Max-Verstappen-Grand-Prix-of-Emilia-Romagna.jpg' alt='Max Verstappen | Biography, F1 Championships, Father, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/64/258264-050-AACF7B53/Max-Verstappen-Grand-Prix-of-Emilia-Romagna.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen: New F1 world champion 'not disappointed at all ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/211213141908-01-max-verstappen-f1-title-win-121221.jpg?q=h_1830,w_2746,x_0,y_0' alt='Max Verstappen: New F1 world champion 'not disappointed at all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2746">
+                                <meta itemprop="height" content="1830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/211213141908-01-max-verstappen-f1-title-win-121221.jpg?q=h_1830,w_2746,x_0,y_0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen predicted to be "difficult to manage" if Red Bull ...">
+                                <img itemprop="contentUrl url" src='https://cdn-4.motorsport.com/images/amp/2jXPzMg6/s1000/max-verstappen-red-bull-racing.jpg' alt='Max Verstappen predicted to be "difficult to manage" if Red Bull ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorsport.com" />
+                                </span>
+                                <a href='https://cdn-4.motorsport.com/images/amp/2jXPzMg6/s1000/max-verstappen-red-bull-racing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="F1 champion Max Verstappen offers DIRE Australian GP verdict as ...">
+                                <img itemprop="contentUrl url" src='https://sportsbase.io/images/gpfans/copy_1200x800/d8daed963d8e4c31b98010849d40363e890054fe.png' alt='F1 champion Max Verstappen offers DIRE Australian GP verdict as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GPFans" />
+                                </span>
+                                <a href='https://sportsbase.io/images/gpfans/copy_1200x800/d8daed963d8e4c31b98010849d40363e890054fe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Max Verstappen | F1 UniONE CAREER by TiroweE Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/f1-unione-career-by-tirowee/images/5/50/Verstappen23.png/revision/latest?cb=20230616141529' alt='Max Verstappen | F1 UniONE CAREER by TiroweE Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="F1 UniONE CAREER by TiroweE Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/f1-unione-career-by-tirowee/images/5/50/Verstappen23.png/revision/latest?cb=20230616141529' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motorsports body FIA to 'analyze' Max Verstappen's F1 title win ...">
+                                <img itemprop="contentUrl url" src='https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/16/167828.jpg' alt='Motorsports body FIA to 'analyze' Max Verstappen's F1 title win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Sabah" />
+                                </span>
+                                <a href='https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/16/167828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

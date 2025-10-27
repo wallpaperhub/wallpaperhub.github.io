@@ -1,0 +1,129 @@
+<title>Kobe Bryant Wallpapers for Chromebook: Elevate Your Screen</title>
+                    <meta name="description" content="Discover an exclusive collection of Kobe Bryant wallpapers for your Chromebook. Each wallpaper embodies the spirit and legacy of the Mamba, perfect for fans and admirers. Download now to inspire yourself with iconic images and quotes every time you use your device!">
+                    <meta name="keywords" content="kobe bryant wallpaper chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/kobe-bryant-wallpaper-chromebook">
+                            <span itemprop="name">kobe bryant wallpaper chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kobe Bryant Wallpapers for Chromebook: Elevate Your Screen</h1>
+                <p>Transform your Chromebook with stunning Kobe Bryant wallpapers that capture the essence of the basketball legend. From iconic moments on the court to powerful quotes, these wallpapers inspire greatness and motivate you daily. Download your favorite designs now and honor the Mamba mentality every time you open your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/q-3R5D7vjcPNtebDDCpA2rtcftuaGwtlVNaOWGuMN2y7BQw3sicFIOcJnqTZC_Yd5FSlYRCyYjl0qdBPkuVVMcP4gJY=s1280-w1280-h800' alt='Kobe Bryant Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/q-3R5D7vjcPNtebDDCpA2rtcftuaGwtlVNaOWGuMN2y7BQw3sicFIOcJnqTZC_Yd5FSlYRCyYjl0qdBPkuVVMcP4gJY=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/kobe-bryant-chromebook-wallpaper.jpg' alt='Kobe Bryant Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/kobe-bryant-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/fFlnQy7udXQi0E6dvY6OYWm6aI4Wun4N33U_2nh1BCcNHS33IfDDyEqajuAJZ6DYsvMppPaqA0bz95aLbLkXhuNXtWY=s1280-w1280-h800' alt='Kobe Bryant Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/fFlnQy7udXQi0E6dvY6OYWm6aI4Wun4N33U_2nh1BCcNHS33IfDDyEqajuAJZ6DYsvMppPaqA0bz95aLbLkXhuNXtWY=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KOBE BRYANT :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a8f0c136097913.570ef820b84ac.jpg' alt='KOBE BRYANT :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a8f0c136097913.570ef820b84ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5+ Popular Kobe Bryant HD Wallpapers in Chromebook Pixel ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/wl-kobe-bryant-nba2k-2024_91369.jpg' alt='5+ Popular Kobe Bryant HD Wallpapers in Chromebook Pixel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/wl-kobe-bryant-nba2k-2024_91369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kobe Bryant Basketball Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-bryant-basketball-alpdlr0rcqm2516g.jpg' alt='100+] Kobe Bryant Basketball Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-bryant-basketball-alpdlr0rcqm2516g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kobe Bryant Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-bryant-phone-9eg16mf7v0197rul.jpg' alt='100+] Kobe Bryant Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-bryant-phone-9eg16mf7v0197rul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpapers HD 2015">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/f6/de/94f6de9424bf742ff65bed1bc26a78bf.jpg' alt='Kobe Bryant Wallpapers HD 2015'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/f6/de/94f6de9424bf742ff65bed1bc26a78bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper HD - Kobe Bryant Chrome New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2022/12/kobe-bryant-wallpaper-background.jpg' alt='Kobe Bryant Wallpaper HD - Kobe Bryant Chrome New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2022/12/kobe-bryant-wallpaper-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/hdkp_hrV2QG6cUlzwPxWrZ_u6c14ggi3FHAYHo1DsmVtUMGCEy31jtkAZb6DeyNe67_dS-5qHrC8TaOTfY_zxiEHwKk=s1280-w1280-h800' alt='Kobe Bryant - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/hdkp_hrV2QG6cUlzwPxWrZ_u6c14ggi3FHAYHo1DsmVtUMGCEy31jtkAZb6DeyNe67_dS-5qHrC8TaOTfY_zxiEHwKk=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

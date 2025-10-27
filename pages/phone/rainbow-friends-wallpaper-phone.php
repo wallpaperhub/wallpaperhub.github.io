@@ -1,0 +1,129 @@
+<title>Vibrant Rainbow Friends Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a collection of colorful Rainbow Friends wallpapers for your phone! Brighten your screen with unique designs featuring your favorite characters. Perfect for expressing your style, these wallpapers make your device stand out. Download now and enjoy a splash of color every time you unlock your phone!">
+                    <meta name="keywords" content="rainbow friends wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/rainbow-friends-wallpaper-phone">
+                            <span itemprop="name">rainbow friends wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Rainbow Friends Wallpapers for Your Phone</h1>
+                <p>Enhance your phone's aesthetic with vibrant Rainbow Friends wallpapers! Perfect for fans of colorful designs, these wallpapers bring joy and cheer to your device. Choose from various characters and styles to express your personality. Transform your screen with delightful, eye-catching images that brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Friends Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rainbow-friends-group-art-w17zzu1ymb9xo9e3.jpg' alt='100+] Rainbow Friends Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rainbow-friends-group-art-w17zzu1ymb9xo9e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Friends Wallpaper Discover more Blue Rainbow Friend ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/1c/1e/771c1e20e76697dbe25d32490d56873b.jpg' alt='Rainbow Friends Wallpaper Discover more Blue Rainbow Friend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/1c/1e/771c1e20e76697dbe25d32490d56873b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Friends Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rainbow-friends-tyun70fs4j8yw9mr.jpg' alt='100+] Rainbow Friends Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rainbow-friends-tyun70fs4j8yw9mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Lookie wallpaper for my phone! They're so cute!! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fyjrl0tg22sb1.png' alt='Made a Lookie wallpaper for my phone! They're so cute!! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fyjrl0tg22sb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Rainbow friends ideas | drawings of friends, friends wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/47/69/4a4769bc327d0410aa9b131b20f2833b.jpg' alt='15 Rainbow friends ideas | drawings of friends, friends wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/47/69/4a4769bc327d0410aa9b131b20f2833b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Rainbow Friends Phone Wallpaper by LynxPawXD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ecced8d-1985-427d-8899-673e101bc484/dg3a98s-5976a7ad-2d28-410e-841f-45181de8b112.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlY2NlZDhkLTE5ODUtNDI3ZC04ODk5LTY3M2UxMDFiYzQ4NFwvZGczYTk4cy01OTc2YTdhZC0yZDI4LTQxMGUtODQxZi00NTE4MWRlOGIxMTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uMnAC5qX70u7Xqdj-eOu-6V5rPtM33G4JohfY9jMe1E' alt='Purple Rainbow Friends Phone Wallpaper by LynxPawXD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ecced8d-1985-427d-8899-673e101bc484/dg3a98s-5976a7ad-2d28-410e-841f-45181de8b112.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlY2NlZDhkLTE5ODUtNDI3ZC04ODk5LTY3M2UxMDFiYzQ4NFwvZGczYTk4cy01OTc2YTdhZC0yZDI4LTQxMGUtODQxZi00NTE4MWRlOGIxMTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uMnAC5qX70u7Xqdj-eOu-6V5rPtM33G4JohfY9jMe1E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Friends Hug it Out Colors | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4760337741.9444/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Rainbow Friends Hug it Out Colors | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4760337741.9444/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD rainbow friends wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/279/342/HD-wallpaper-blue-rainbow-friends-clipart-thumbnail.jpg' alt='HD rainbow friends wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/279/342/HD-wallpaper-blue-rainbow-friends-clipart-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Friends Wallpaper Discover more Blue Rainbow Friend ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/38/a7/b938a78fb08c655c5ddcf74cd885769f.jpg' alt='Rainbow Friends Wallpaper Discover more Blue Rainbow Friend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/38/a7/b938a78fb08c655c5ddcf74cd885769f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD rainbow friends wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/747/157/HD-wallpaper-rainbow-friends-clipart-thumbnail.jpg' alt='HD rainbow friends wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/747/157/HD-wallpaper-rainbow-friends-clipart-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

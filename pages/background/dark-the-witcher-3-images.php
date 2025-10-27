@@ -1,0 +1,129 @@
+<title>Haunting Dark Imagery from The Witcher 3</title>
+                    <meta name="description" content="Discover the chilling visuals of "The Witcher 3" that capture its dark themes and gripping narratives. Browse stunning images showcasing the game's eerie atmosphere, formidable creatures, and unforgettable locations, perfect for fans and newcomers alike.">
+                    <meta name="keywords" content="dark the witcher 3 images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-the-witcher-3-images">
+                            <span itemprop="name">dark the witcher 3 images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Haunting Dark Imagery from The Witcher 3</h1>
+                <p>Explore the darker side of "The Witcher 3" through captivating images that showcase the game's haunting landscapes, eerie monsters, and intense emotional moments. From the shadowy forests of Velen to the chilling nights in Kaer Morhen, these visuals encapsulate the rich lore and intricate storytelling that define Geralt's journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark difficulty and permadeath: how hard is The Witcher 3? | VG247">
+                                <img itemprop="contentUrl url" src='https://assets.vg247.com/current//2015/01/witcher_3_art_oohnice.jpg' alt='Dark difficulty and permadeath: how hard is The Witcher 3? | VG247'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VG247" />
+                                </span>
+                                <a href='https://assets.vg247.com/current//2015/01/witcher_3_art_oohnice.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New The Witcher 3 Mod adds Dark Souls-style Executions to the Game">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2021/09/witcher-3-mod-dark-souls-style-e1632819019278.webp' alt='New The Witcher 3 Mod adds Dark Souls-style Executions to the Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1682">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2021/09/witcher-3-mod-dark-souls-style-e1632819019278.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3 Depravity Lighting Mod Introduces Moody Dark Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2021/06/The-Witcher-3-Depravity-Lighting.jpg' alt='The Witcher 3 Depravity Lighting Mod Introduces Moody Dark Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2021/06/The-Witcher-3-Depravity-Lighting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3: Wandering in the Dark quest guide | VG247">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/the_witcher_3_wild_hunt_walkthrough_11_wandering_in_the_dark.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='The Witcher 3: Wandering in the Dark quest guide | VG247'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VG247" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/the_witcher_3_wild_hunt_walkthrough_11_wandering_in_the_dark.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3" Is Dark Fantasy At Its Best - The Outlook">
+                                <img itemprop="contentUrl url" src='https://outlook.monmouth.edu/wp-content/uploads/sites/833/2015/10/Witcher3.jpg' alt='The Witcher 3" Is Dark Fantasy At Its Best - The Outlook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Outlook - Monmouth University" />
+                                </span>
+                                <a href='https://outlook.monmouth.edu/wp-content/uploads/sites/833/2015/10/Witcher3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark muddy scorched land scenery is breathtaking : r/witcher">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dark-muddy-scorched-land-scenery-is-breathtaking-v0-6ymlychxitgc1.jpg?width=1920&format=pjpg&auto=webp&s=573014bd2e99f91f487ee339e46ce7d94132ba14' alt='Dark muddy scorched land scenery is breathtaking : r/witcher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dark-muddy-scorched-land-scenery-is-breathtaking-v0-6ymlychxitgc1.jpg?width=1920&format=pjpg&auto=webp&s=573014bd2e99f91f487ee339e46ce7d94132ba14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3: Wandering in the Dark Quest Guide">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/witcher-3-nithral.jpg' alt='The Witcher 3: Wandering in the Dark Quest Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/witcher-3-nithral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3: Wild Hunt — Crones Bubbling Cauldron Statue">
+                                <img itemprop="contentUrl url" src='https://www.darkhorsedirect.com/cdn/shop/files/WITCHER_STATUE_CRONES_DHD_PHOTO_DSP_ENV.png?v=1697498217&width=1920' alt='The Witcher 3: Wild Hunt — Crones Bubbling Cauldron Statue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dark Horse Direct" />
+                                </span>
+                                <a href='https://www.darkhorsedirect.com/cdn/shop/files/WITCHER_STATUE_CRONES_DHD_PHOTO_DSP_ENV.png?v=1697498217&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I always loved how dark Velen is : r/witcher">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m3hhzrehiw111.jpg' alt='I always loved how dark Velen is : r/witcher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m3hhzrehiw111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3: Wandering in the Dark Quest Guide">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/witcher-3-geralt-crookback-bog.jpg' alt='The Witcher 3: Wandering in the Dark Quest Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/witcher-3-geralt-crookback-bog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

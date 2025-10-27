@@ -1,0 +1,129 @@
+<title>Can You Pass a Background Check with a Misdemeanor?</title>
+                    <meta name="description" content="Discover how a misdemeanor may affect your background check. Learn what factors employers consider and tips for improving your chances of passing. Get informed about your rights and the significance of transparency in your job application process.">
+                    <meta name="keywords" content="will i pass a background check with a misdemeanor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-i-pass-a-background-check-with-a-misdemeanor">
+                            <span itemprop="name">will i pass a background check with a misdemeanor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Pass a Background Check with a Misdemeanor?</h1>
+                <p>Having a misdemeanor on your record can impact background checks, but it doesn’t automatically mean you won’t pass. Employers often consider the nature of the offense, how long ago it occurred, and your overall qualifications. Being honest and showcasing your skills can help mitigate concerns during the hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will You Pass a Background Check with a Misdemeanor?">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' alt='Will You Pass a Background Check with a Misdemeanor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will I Pass A Background Check With A Misdemeanor? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zEyj0F4BIes/maxresdefault.jpg' alt='Will I Pass A Background Check With A Misdemeanor? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zEyj0F4BIes/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a Background Check with a Misdemeanor DUI?">
+                                <img itemprop="contentUrl url" src='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' alt='Can You Pass a Background Check with a Misdemeanor DUI?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGO Law Firm" />
+                                </span>
+                                <a href='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will I Pass a Background Check with a Misdemeanor?">
+                                <img itemprop="contentUrl url" src='https://www.shouselaw.com/wp-content/uploads/2021/09/criminal-background-check.jpeg' alt='Will I Pass a Background Check with a Misdemeanor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shouse Law Group" />
+                                </span>
+                                <a href='https://www.shouselaw.com/wp-content/uploads/2021/09/criminal-background-check.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to do with background check red flags? | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' alt='What to do with background check red flags? | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Shoplifting Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/whats-included-in-a-background-check/' alt='Will Shoplifting Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/whats-included-in-a-background-check/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a Background Check With a Misdemeanor? Free Consult">
+                                <img itemprop="contentUrl url" src='https://expunged.io/wp-content/uploads/2023/08/3b034148-d4cd-4511-9849-924ac36cdf12-backgroundcheck.original.webp' alt='Can You Pass a Background Check With a Misdemeanor? Free Consult'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expungement Lawyer Vancouver WA" />
+                                </span>
+                                <a href='https://expunged.io/wp-content/uploads/2023/08/3b034148-d4cd-4511-9849-924ac36cdf12-backgroundcheck.original.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will I Pass a Background Check With Misdemeanors?">
+                                <img itemprop="contentUrl url" src='https://review42.com/wp-content/uploads/2023/02/Will-I-Pass-a-Background-Check-with-Misdemeanors.png' alt='Will I Pass a Background Check With Misdemeanors?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="782">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Review42" />
+                                </span>
+                                <a href='https://review42.com/wp-content/uploads/2023/02/Will-I-Pass-a-Background-Check-with-Misdemeanors.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Shoplifting Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/does-shoplifting-appear-on-background-checks/' alt='Will Shoplifting Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/does-shoplifting-appear-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

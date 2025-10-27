@@ -1,0 +1,129 @@
+<title>Stunning One Piece Luffy Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of One Piece Luffy wallpapers designed for fans! Enjoy high-resolution images that capture Luffy's essence, perfect for personalizing your phone or desktop. Download now to express your love for this iconic anime hero!">
+                    <meta name="keywords" content="one piece luffy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/one-piece">
+                            <span itemprop="name">One Piece</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/one-piece/one-piece-luffy-wallpaper">
+                            <span itemprop="name">one piece luffy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning One Piece Luffy Wallpapers for Your Device</h1>
+                <p>Discover stunning One Piece Luffy wallpapers to elevate your device's aesthetic! Whether you’re a fan of the Straw Hat captain’s adventurous spirit or his iconic gear, find the perfect Luffy images that reflect your passion for anime. Download high-quality, vibrant wallpapers that bring the world of One Piece to life on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy Monochrome One Piece Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/one-piece-fierce-luffy-iphone-2c5xw1b60yme08o8.webp' alt='Luffy Monochrome One Piece Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/one-piece-fierce-luffy-iphone-2c5xw1b60yme08o8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Luffy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/one-piece-luffy-iphone-yih3alkak9kavfv8.jpg' alt='One Piece Luffy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/one-piece-luffy-iphone-yih3alkak9kavfv8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] One Piece Luffy Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/one-piece-luffy-iphone-e9jotxl0axkndey7.jpg' alt='100+] One Piece Luffy Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/one-piece-luffy-iphone-e9jotxl0axkndey7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/29/5d/4f295d2a743d31571f569bca0a88f54e.jpg' alt='Luffy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/29/5d/4f295d2a743d31571f569bca0a88f54e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy phone wallpaper that I made based on the ST01-12 SR card ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/luffy-phone-wallpaper-that-i-made-based-on-the-st01-12-sr-v0-cpu57r5eft0e1.png?width=1179&format=png&auto=webp&s=217fcba9d0e59f3a5deb1a06cb438ccbc6193c08' alt='Luffy phone wallpaper that I made based on the ST01-12 SR card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/luffy-phone-wallpaper-that-i-made-based-on-the-st01-12-sr-v0-cpu57r5eft0e1.png?width=1179&format=png&auto=webp&s=217fcba9d0e59f3a5deb1a06cb438ccbc6193c08' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Part 1 Luffy Wallpaper I made. : r/OnePiece">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9nzgaufg9pi11.jpg' alt='A Part 1 Luffy Wallpaper I made. : r/OnePiece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9nzgaufg9pi11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Wallpaper 4K, Gear 5, Luffy, Sun God Nika">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/one-piece-gear-5-luffy-2880x1800-12504.png' alt='One Piece Wallpaper 4K, Gear 5, Luffy, Sun God Nika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/one-piece-gear-5-luffy-2880x1800-12504.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Topi jerami">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/2f/03/782f032235bd4b00c80de140b8e70538.jpg' alt='Pin on Topi jerami'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/2f/03/782f032235bd4b00c80de140b8e70538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ONE PIECE LUFFY WALLPAPER MOBILE - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhrXEg2GTAmtFwPJKSuMMeXqTgE6SbiMspBplNzpCv6CWRPKklPhdeZ6EGJ5w_r0y5oeAblkzTr_VW2E0iH_uy3iqslGmN3-n4yFJbfws9s1fPQvNsqJ0znfzaENJxT_RPWT2Vz6aoYtTHDg9c9y6SByf2Su9iGnnnHiqFXwgGinR3rF6ne1VE5CzrvQVU' alt='ONE PIECE LUFFY WALLPAPER MOBILE - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhrXEg2GTAmtFwPJKSuMMeXqTgE6SbiMspBplNzpCv6CWRPKklPhdeZ6EGJ5w_r0y5oeAblkzTr_VW2E0iH_uy3iqslGmN3-n4yFJbfws9s1fPQvNsqJ0znfzaENJxT_RPWT2Vz6aoYtTHDg9c9y6SByf2Su9iGnnnHiqFXwgGinR3rF6ne1VE5CzrvQVU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monkey D. Luffy One Piece HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/714/thumb-1920-714341.png' alt='Monkey D. Luffy One Piece HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/714/thumb-1920-714341.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

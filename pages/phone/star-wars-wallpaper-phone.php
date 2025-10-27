@@ -1,0 +1,129 @@
+<title>Epic Star Wars Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an amazing collection of Star Wars wallpapers for your phone. Find high-quality images of beloved characters and epic scenes to personalize your device. Perfect for fans who want to showcase their passion for the galaxy! Download now and turn your screen into a Star Wars masterpiece.">
+                    <meta name="keywords" content="star wars wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/star-wars-wallpaper-phone">
+                            <span itemprop="name">star wars wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Phone Wallpapers for Every Fan</h1>
+                <p>Enhance your phone's aesthetic with stunning Star Wars wallpapers. Whether you're a Jedi or a Sith, find a variety of high-resolution images featuring iconic characters, spaceships, and landscapes from the galaxy far, far away. Make your device uniquely yours and express your love for the franchise every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/4/d/33258-1125x2436-samsung-hd-star-wars-wallpaper-photo.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/4/d/33258-1125x2436-samsung-hd-star-wars-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/4/b/128737-1440x2560-iphone-hd-star-wars-background-photo.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/4/b/128737-1440x2560-iphone-hd-star-wars-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-upi7qx3en2p81.png?width=1080&format=png&auto=webp&s=1d30752c60c40380054d15b17bc1b65e4436a8cc' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-upi7qx3en2p81.png?width=1080&format=png&auto=webp&s=1d30752c60c40380054d15b17bc1b65e4436a8cc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-phone-3rwilt5mg9u31cq3.jpg' alt='100+] Star Wars Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-phone-3rwilt5mg9u31cq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD star wars wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/476/256/HD-wallpaper-star-wars-star-wars-star-wars-action-thumbnail.jpg' alt='HD star wars wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/476/256/HD-wallpaper-star-wars-star-wars-star-wars-action-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-5rqe904en2p81.png?width=1080&format=png&auto=webp&s=3281e4a42a6d85e5ef7b4bb6a6c81e989f93b035' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-5rqe904en2p81.png?width=1080&format=png&auto=webp&s=3281e4a42a6d85e5ef7b4bb6a6c81e989f93b035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star (Star Wars) Wallpapers (16 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/f/c/466272-1080x1920-iphone-full-hd-death-star-star-wars-background-image.jpg' alt='Death Star (Star Wars) Wallpapers (16 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/f/c/466272-1080x1920-iphone-full-hd-death-star-star-wars-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/56/07/3d5607d12c25465a9da91b1eccd5dca1.jpg' alt='Star Wars Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/56/07/3d5607d12c25465a9da91b1eccd5dca1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-k868cw3en2p81.png?width=1080&format=png&auto=webp&s=249d1aff456608775c243f5f43a8c1ebe4e77206' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-k868cw3en2p81.png?width=1080&format=png&auto=webp&s=249d1aff456608775c243f5f43a8c1ebe4e77206' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

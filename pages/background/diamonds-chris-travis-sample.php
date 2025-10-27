@@ -1,0 +1,129 @@
+<title>Shining Bright: Diamonds by Chris Travis</title>
+                    <meta name="description" content="Discover "Diamonds" by Chris Travis, a compelling track that highlights ambition and success. Dive into the smooth production and engaging lyrics that showcase Travis's unique style. Perfect for those who appreciate modern hip-hop with a motivational twist!">
+                    <meta name="keywords" content="diamonds chris travis sample">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diamonds-chris-travis-sample">
+                            <span itemprop="name">diamonds chris travis sample</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shining Bright: Diamonds by Chris Travis</h1>
+                <p>Diamonds by Chris Travis showcases his signature flow and lyrical prowess. The track intertwines themes of success, ambition, and the challenges faced on the way to achieving dreams. With smooth production and catchy hooks, this song resonates with listeners aspiring for greatness, making it a standout in Travis's discography.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamonds by Chris Travis - Samples, Covers and Remixes | WhoSampled">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Lv9iwvUiFpk/sddefault.jpg' alt='Diamonds by Chris Travis - Samples, Covers and Remixes | WhoSampled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Lv9iwvUiFpk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Travis's 'Diamonds' sample of Sade's 'Like a Tattoo ...">
+                                <img itemprop="contentUrl url" src='https://www.whosampled.com/static/images/media/track_images_200/lr2_2009416_192612102013.jpg' alt='Chris Travis's 'Diamonds' sample of Sade's 'Like a Tattoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://www.whosampled.com/static/images/media/track_images_200/lr2_2009416_192612102013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamonds on Your Heart - Exploring Chris Travis' Song">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7173859860033948930&location=0&aid=1988' alt='Diamonds on Your Heart - Exploring Chris Travis' Song'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7173859860033948930&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamonds by Chris Travis - Samples, Covers and Remixes | WhoSampled">
+                                <img itemprop="contentUrl url" src='https://www.whosampled.com/static/images/media/track_images_200/lr7869_2013916_93515466502.jpg' alt='Diamonds by Chris Travis - Samples, Covers and Remixes | WhoSampled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://www.whosampled.com/static/images/media/track_images_200/lr7869_2013916_93515466502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Travis's 'Diamonds' sample of Sade's 'Like a Tattoo ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oP4sBeV7llE/maxresdefault.jpg' alt='Chris Travis's 'Diamonds' sample of Sade's 'Like a Tattoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oP4sBeV7llE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♨️is the sample valid or nah ? ♨️reference music : diamond by #sade and  diamonds by#christravis #sample #musicsample #originalvssampled #fy  #fypシ゚viral #xfm11.11 #christravisfan #christravis❤️">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7205974191861026054&location=0&aid=1988' alt='♨️is the sample valid or nah ? ♨️reference music : diamond by #sade and  diamonds by#christravis #sample #musicsample #originalvssampled #fy  #fypシ゚viral #xfm11.11 #christravisfan #christravis❤️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7205974191861026054&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Chris Travis - Diamonds (Prod. By RAMOBEATS) by RAMOBEATS ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-NlNwCFSfmoyZ8qdR-qRfzOw-t500x500.jpg' alt='Stream Chris Travis - Diamonds (Prod. By RAMOBEATS) by RAMOBEATS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-NlNwCFSfmoyZ8qdR-qRfzOw-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uncover the Mystery Behind Chris Travis' 'Diamonds' Sampled Song ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7208839294264380673&location=0&aid=1988' alt='Uncover the Mystery Behind Chris Travis' 'Diamonds' Sampled Song ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7208839294264380673&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Travis's 'Yellow Diamonds' sample of Sade's 'Jezebel ...">
+                                <img itemprop="contentUrl url" src='https://www.whosampled.com/static/images/media/track_images_200/lr24179_2013918_95454534113.jpg' alt='Chris Travis's 'Yellow Diamonds' sample of Sade's 'Jezebel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://www.whosampled.com/static/images/media/track_images_200/lr24179_2013918_95454534113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get High by Chris Travis - Samples, Covers and Remixes | WhoSampled">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PDRi2425F4c/maxresdefault.jpg' alt='Get High by Chris Travis - Samples, Covers and Remixes | WhoSampled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoSampled" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PDRi2425F4c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

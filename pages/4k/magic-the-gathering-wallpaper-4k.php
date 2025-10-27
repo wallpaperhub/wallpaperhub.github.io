@@ -1,0 +1,129 @@
+<title>Stunning 4K Magic: The Gathering Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an amazing collection of 4K Magic: The Gathering wallpapers! Perfect for fans and gamers, these stunning backgrounds will transform your devices with vivid artwork from the iconic card game. Download now to bring the magic to your screens!">
+                    <meta name="keywords" content="magic the gathering wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/magic-the-gathering-wallpaper-4k">
+                            <span itemprop="name">magic the gathering wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Magic: The Gathering Wallpapers for Gamers</h1>
+                <p>Elevate your game with stunning 4K Magic: The Gathering wallpapers! Immerse yourself in the vibrant art and epic fantasy scenes featuring iconic planeswalkers, spells, and creatures. Perfect for enthusiasts, these high-resolution images will add depth and excitement to your desktop or mobile device. Discover your next favorite background today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a 3440x1440p wallpaper collection of MTG card art that I ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jkg8pUW3tb-io-83uQU46VJLQlC92ZAvEpbPlUDU-co.jpg?auto=webp&s=822151ad423474960358232e132a9f91d2ccef60' alt='Here is a 3440x1440p wallpaper collection of MTG card art that I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jkg8pUW3tb-io-83uQU46VJLQlC92ZAvEpbPlUDU-co.jpg?auto=webp&s=822151ad423474960358232e132a9f91d2ccef60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic: The Gathering Wallpapers (59 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/6/c/936002-1920x1080-desktop-1080p-magic-the-gathering-wallpaper-photo.jpg' alt='Magic: The Gathering Wallpapers (59 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/6/c/936002-1920x1080-desktop-1080p-magic-the-gathering-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lost Wallpapers | Magic: The Gathering">
+                                <img itemprop="contentUrl url" src='http://media.wizards.com/images/magic/daily/wallpapers/Gruul_Wallpaper_2560x1440.jpg' alt='The Lost Wallpapers | Magic: The Gathering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic: The Gathering - Wizards of the Coast" />
+                                </span>
+                                <a href='http://media.wizards.com/images/magic/daily/wallpapers/Gruul_Wallpaper_2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic: The Gathering Wallpapers (59 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/2/1/935951-1920x1200-desktop-hd-magic-the-gathering-background-photo.jpg' alt='Magic: The Gathering Wallpapers (59 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/2/1/935951-1920x1200-desktop-hd-magic-the-gathering-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lost Wallpapers | Magic: The Gathering">
+                                <img itemprop="contentUrl url" src='http://media.wizards.com/images/magic/daily/wallpapers/Izzet_Wallpaper_2560x1440.jpg' alt='The Lost Wallpapers | Magic: The Gathering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic: The Gathering - Wizards of the Coast" />
+                                </span>
+                                <a href='http://media.wizards.com/images/magic/daily/wallpapers/Izzet_Wallpaper_2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mtg Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mtg-fight-kvde84ap0c1xc3br.jpg' alt='Download Mtg Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mtg-fight-kvde84ap0c1xc3br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://draftsim.com/wp-content/uploads/2022/06/Gods-Demigods-Constellation-%E2%80%93-Jason-A.-Engle-1-1024x606.jpg' alt='80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Draftsim" />
+                                </span>
+                                <a href='https://draftsim.com/wp-content/uploads/2022/06/Gods-Demigods-Constellation-%E2%80%93-Jason-A.-Engle-1-1024x606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic The Gathering MagicCon Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/magic-the-gathering-magiccon_bW5qa2uUmZqaraWkpJRobWllrWZuZ2U.jpg' alt='Magic The Gathering MagicCon Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/magic-the-gathering-magiccon_bW5qa2uUmZqaraWkpJRobWllrWZuZ2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic: The Gathering Wallpapers (59 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/0/9/935921-3840x2160-desktop-4k-magic-the-gathering-wallpaper.jpg' alt='Magic: The Gathering Wallpapers (59 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/0/9/935921-3840x2160-desktop-4k-magic-the-gathering-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic The Gathering, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/590/682/HD-wallpaper-magic-the-gathering.jpg' alt='Magic The Gathering, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/590/682/HD-wallpaper-magic-the-gathering.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

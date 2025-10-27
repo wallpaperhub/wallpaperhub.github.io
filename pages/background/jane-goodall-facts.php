@@ -1,0 +1,129 @@
+<title>Fascinating Facts About Jane Goodall</title>
+                    <meta name="description" content="Discover intriguing facts about Jane Goodall, the pioneering primatologist. From her groundbreaking observations of chimpanzees to her global conservation efforts, learn how she transformed our understanding of primates and the environment. Join us in celebrating her legacy and commitment to animal welfare.">
+                    <meta name="keywords" content="jane goodall facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jane-goodall-facts">
+                            <span itemprop="name">jane goodall facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fascinating Facts About Jane Goodall</h1>
+                <p>Jane Goodall, a renowned primatologist, revolutionized our understanding of chimpanzees. She began her groundbreaking research in Gombe, Tanzania, in 1960, observing tool use and social behaviors. Goodall's work emphasizes the importance of conservation and animal welfare, making her a global ambassador for environmental issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638891221/EducationHub/photos/jane-goodall-05.jpg' alt='Jane Goodall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5121">
+                                <meta itemprop="height" content="3417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638891221/EducationHub/photos/jane-goodall-05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall Biography for Kids">
+                                <img itemprop="contentUrl url" src='https://www.lottie.com/cdn/shop/articles/jane-goodall-Biography-for-Kids_1024x1024.jpg?v=1610357385' alt='Jane Goodall Biography for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lottie Dolls" />
+                                </span>
+                                <a href='https://www.lottie.com/cdn/shop/articles/jane-goodall-Biography-for-Kids_1024x1024.jpg?v=1610357385' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall | Biography, Awards, Institute, Books, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/27/163227-050-753FE634/Jane-Goodall-chimpanzee-Congo-Tchimpounga-Chimpanzee-Rehabilitation.jpg' alt='Jane Goodall | Biography, Awards, Institute, Books, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/27/163227-050-753FE634/Jane-Goodall-chimpanzee-Congo-Tchimpounga-Chimpanzee-Rehabilitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KS2 Jane Goodall Fact File - KS2 (Teacher-Made) - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/72/b7/t-tp-1710248628-ks2-jane-goodall-fact-file_ver_2.jpg' alt='KS2 Jane Goodall Fact File - KS2 (Teacher-Made) - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/72/b7/t-tp-1710248628-ks2-jane-goodall-fact-file_ver_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life & Work of Dr. Jane Goodall | Natural History Museum of Utah">
+                                <img itemprop="contentUrl url" src='https://nhmu.utah.edu/sites/default/files/images/2024-02/AP0025_8%20%281%29.jpg' alt='The Life & Work of Dr. Jane Goodall | Natural History Museum of Utah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natural History Museum of Utah - The University of Utah" />
+                                </span>
+                                <a href='https://nhmu.utah.edu/sites/default/files/images/2024-02/AP0025_8%20%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638891222/EducationHub/photos/jane-goodall-09.jpg' alt='Jane Goodall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5099">
+                                <meta itemprop="height" content="3428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638891222/EducationHub/photos/jane-goodall-09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall Facts, Worksheets, Biography, Career, Anthropology">
+                                <img itemprop="contentUrl url" src='https://schoolhistory.co.uk/wp-content/uploads/2021/03/Jane-Goodall-Resource-Collection-1-724x1024.png' alt='Jane Goodall Facts, Worksheets, Biography, Career, Anthropology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School History" />
+                                </span>
+                                <a href='https://schoolhistory.co.uk/wp-content/uploads/2021/03/Jane-Goodall-Resource-Collection-1-724x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Jane - Jane Goodall Institute USA">
+                                <img itemprop="contentUrl url" src='https://janegoodall.org/wp-content/uploads/gallery_06_jg3.jpg' alt='About Jane - Jane Goodall Institute USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jane Goodall Institute" />
+                                </span>
+                                <a href='https://janegoodall.org/wp-content/uploads/gallery_06_jg3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/141201092256-jane-goodall-chimp.jpg?q=w_3000,h_2084,x_0,y_0,c_fill' alt='Jane Goodall Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/141201092256-jane-goodall-chimp.jpg?q=w_3000,h_2084,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall and her story | DinoAnimals.com">
+                                <img itemprop="contentUrl url" src='https://dinoanimals.com/wp-content/uploads/2020/08/Jane-Goodall-3.jpg' alt='Jane Goodall and her story | DinoAnimals.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DinoAnimals.com - Animals & Dinosaurs" />
+                                </span>
+                                <a href='https://dinoanimals.com/wp-content/uploads/2020/08/Jane-Goodall-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

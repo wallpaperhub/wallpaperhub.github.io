@@ -1,0 +1,129 @@
+<title>Stunning Black and White Skull Wallpaper for Edgy Decor</title>
+                    <meta name="description" content="Discover unique black and white skull wallpaper that elevates your decor with a bold, artistic flair. Ideal for any room, this striking design adds character and style to your space. Perfect for those seeking a modern or gothic touch. Explore our collection today!">
+                    <meta name="keywords" content="skull wallpaper black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/skull-wallpaper-black-and-white">
+                            <span itemprop="name">skull wallpaper black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Skull Wallpaper for Edgy Decor</h1>
+                <p>Transform your space with striking black and white skull wallpaper that adds an edgy, sophisticated touch to any room. Perfect for modern aesthetics, it blends artistry with a bold statement. Whether you're decorating a bedroom, office, or creative space, this eye-catching design complements a variety of styles. Unleash your inner rebel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Skulls Wallpaper in Monochrome – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-FloralSkulls-Monochrome_ILW50341_Thumbnail_WEB_7cc22c16-98e8-4b2d-a677-fc6142d29276.webp?crop=center&height=850&v=1706007976&width=850' alt='Floral Skulls Wallpaper in Monochrome – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-FloralSkulls-Monochrome_ILW50341_Thumbnail_WEB_7cc22c16-98e8-4b2d-a677-fc6142d29276.webp?crop=center&height=850&v=1706007976&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white skull">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/black-and-white-skull-pattern-repeat-removable-wallpaper-design.jpg' alt='Black and white skull'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/black-and-white-skull-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black and white skull wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/204/HD-wallpaper-sculls-lls-scu.jpg' alt='HD black and white skull wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/204/HD-wallpaper-sculls-lls-scu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Skulls Black Fieri Novelty Peel and Stick Wallpaper Sample  NUS4551SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/edecafb1-e387-4f46-91a3-a8bf3256d581/svn/nuwallpaper-wallpaper-samples-nus4551sam-64_600.jpg' alt='NuWallpaper Skulls Black Fieri Novelty Peel and Stick Wallpaper Sample  NUS4551SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/edecafb1-e387-4f46-91a3-a8bf3256d581/svn/nuwallpaper-wallpaper-samples-nus4551sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XYZshop Halloween Peel and Stick Sugar Skull Floral Wallpaper  Black/White/Pink Waterproof Thick Self-Adhesive Contact Paper for Bedroom  Decor 17.3" x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813+nLa3XfL.jpg' alt='XYZshop Halloween Peel and Stick Sugar Skull Floral Wallpaper  Black/White/Pink Waterproof Thick Self-Adhesive Contact Paper for Bedroom  Decor 17.3" x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813+nLa3XfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/4b/0e/5c4b0eb4d7b452be532ba96c814f0f8e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/4b/0e/5c4b0eb4d7b452be532ba96c814f0f8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white skulls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/7b/59/157b59e59ea0e3f5c32057415a1c5eb9.jpg' alt='Black and white skulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/7b/59/157b59e59ea0e3f5c32057415a1c5eb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitechapel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ea/29/6c/ea296c36c9a54a0267d50020eba68c5c.jpg' alt='Whitechapel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ea/29/6c/ea296c36c9a54a0267d50020eba68c5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="illustration Vector graphic black and white skull skeleton ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/998/331/non_2x/illustration-graphic-black-and-white-skull-skeleton-painting-seamless-tile-perfect-for-background-wallpaper-vector.jpg' alt='illustration Vector graphic black and white skull skeleton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/998/331/non_2x/illustration-graphic-black-and-white-skull-skeleton-painting-seamless-tile-perfect-for-background-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Skulls Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/66/52/b16652653349b8e3fb3f16117ae0c863.jpg' alt='Black and White Skulls Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/66/52/b16652653349b8e3fb3f16117ae0c863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Carnival Extravaganza: Fun, Rides & Prizes!</title>
+                    <meta name="description" content="Experience the ultimate carnival event! Enjoy thrilling rides, tasty treats, and exciting games. Perfect for families and friends, join us for a day of fun and entertainment. Don't miss out on unforgettable memories! Get ready for a colorful celebration!">
+                    <meta name="keywords" content="carnival flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carnival-flyer">
+                            <span itemprop="name">carnival flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Carnival Extravaganza: Fun, Rides & Prizes!</h1>
+                <p>Join us for a vibrant carnival filled with fun, laughter, and excitement! Enjoy thrilling rides, delicious food, colorful parades, and live entertainment. Bring your family and friends to make unforgettable memories. Don’t miss out on the games and prizes! Mark your calendars and prepare for an enchanting experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITABLE Carnival Flyer, Printable PTA PTO Flyer, School Church Benefit  Fundraiser Event Poster, Digital Circus Party Printable Invitation">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.3138533634_664o.jpg?v=1630330296' alt='EDITABLE Carnival Flyer, Printable PTA PTO Flyer, School Church Benefit  Fundraiser Event Poster, Digital Circus Party Printable Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.3138533634_664o.jpg?v=1630330296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Party Flyer Ithempulethi | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/carnival-party-flyer-design-template-f122f78d2254e6c378d448387f818485_screen.jpg?ts=1644839558' alt='Carnival Party Flyer Ithempulethi | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/carnival-party-flyer-design-template-f122f78d2254e6c378d448387f818485_screen.jpg?ts=1644839558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Flyer, Print Templates | GraphicRiver">
+                                <img itemprop="contentUrl url" src='https://market-resized.envatousercontent.com/graphicriver.net/files/494422834/Final-Presentation-single.jpg?auto=format&q=94&cf_fit=crop&gravity=top&h=8000&w=590&s=53f70ca077b68eba59f8bd9a57670b4876d32fa6081493fbe9016d387ac35985' alt='Carnival Flyer, Print Templates | GraphicRiver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicRiver" />
+                                </span>
+                                <a href='https://market-resized.envatousercontent.com/graphicriver.net/files/494422834/Final-Presentation-single.jpg?auto=format&q=94&cf_fit=crop&gravity=top&h=8000&w=590&s=53f70ca077b68eba59f8bd9a57670b4876d32fa6081493fbe9016d387ac35985' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Event Party Flyer Template - FlyerHeroes">
+                                <img itemprop="contentUrl url" src='https://flyerheroes.com/wp-content/uploads/edd/2017/06/Carnival-Event-Flyer_03-FH-1.jpg' alt='Carnival Event Party Flyer Template - FlyerHeroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlyerHeroes" />
+                                </span>
+                                <a href='https://flyerheroes.com/wp-content/uploads/edd/2017/06/Carnival-Event-Flyer_03-FH-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage School Carnival Flyer">
+                                <img itemprop="contentUrl url" src='http://www.simpledesertdesigns.com/cdn/shop/files/1_4ff51fd9-c64e-465b-8160-1f2d7bbba588.jpg?v=1693660134' alt='Vintage School Carnival Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Desert Designs" />
+                                </span>
+                                <a href='http://www.simpledesertdesigns.com/cdn/shop/files/1_4ff51fd9-c64e-465b-8160-1f2d7bbba588.jpg?v=1693660134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable carnival templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGLaAwl1vk/1/0/1131w/canva-red-and-cream-illustrated-carnival-flyer-_eQ9BTXapNM.jpg' alt='Free and customizable carnival templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGLaAwl1vk/1/0/1131w/canva-red-and-cream-illustrated-carnival-flyer-_eQ9BTXapNM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Fair Event Flyer Editable Template, Family Carnival ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8253297/r/il/ca122c/4941073375/il_fullxfull.4941073375_pnsz.jpg' alt='Carnival Fair Event Flyer Editable Template, Family Carnival ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8253297/r/il/ca122c/4941073375/il_fullxfull.4941073375_pnsz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Flyer Template PSD">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2019/01/Carnival-Flyer-Template.jpg' alt='Carnival Flyer Template PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2019/01/Carnival-Flyer-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ Carnival Flyer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/964569164/vector/colorful-summer-carnival-poster-design-template.jpg?s=612x612&w=0&k=20&c=1x1G_Ifwn-qSzg0ayYtrjMxuedFEdJymm9aVB_ESkS8=' alt='8,000+ Carnival Flyer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/964569164/vector/colorful-summer-carnival-poster-design-template.jpg?s=612x612&w=0&k=20&c=1x1G_Ifwn-qSzg0ayYtrjMxuedFEdJymm9aVB_ESkS8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family Carnival Flyer">
+                                <img itemprop="contentUrl url" src='https://tidylady.net/cdn/shop/products/il_fullxfull.3976297425_9zq6_700x700.jpg?v=1658514253' alt='Family Carnival Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://tidylady.net/cdn/shop/products/il_fullxfull.3976297425_9zq6_700x700.jpg?v=1658514253' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

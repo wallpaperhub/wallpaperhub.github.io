@@ -1,0 +1,129 @@
+<title>Cosmic Wonders: Space Pattern Wallpaper for a Stellar Home</title>
+                    <meta name="description" content="Discover our vibrant space pattern wallpaper, featuring mesmerizing designs of galaxies and stars. Perfect for adding a touch of cosmic charm to any room. Elevate your interior design and ignite your imagination with these unique wallpapers, ideal for space lovers of all ages!">
+                    <meta name="keywords" content="space pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-pattern-wallpaper">
+                            <span itemprop="name">space pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cosmic Wonders: Space Pattern Wallpaper for a Stellar Home</h1>
+                <p>Transform your space with captivating space pattern wallpaper. Ideal for bedrooms, playrooms, or offices, these wallpapers feature stunning designs of galaxies, stars, and planets. They can instantly enhance the ambiance, creating a dreamy atmosphere that inspires creativity and wonder. Perfect for any space enthusiast!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Galaxy Sky Peel and Stick Wallpaper Stars Moon Planets  Constellations Black Outer Space Wallpaper Contact Paper Peel and Stick  17.5in×10ft ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71o7OXmzN0L.jpg' alt='ReWallpaper Galaxy Sky Peel and Stick Wallpaper Stars Moon Planets  Constellations Black Outer Space Wallpaper Contact Paper Peel and Stick  17.5in×10ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71o7OXmzN0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg' alt='Space Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,016,200+ Outer Space Pattern Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365414150/vector/magic-seamless-vector-pattern-with-sun-constellations-moons-and-stars-gold-decorative.jpg?s=612x612&w=0&k=20&c=FIUnzA71iZ-gZMBsUAk0J5BWG6nvejIKmyZPzTGqzIE=' alt='1,016,200+ Outer Space Pattern Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365414150/vector/magic-seamless-vector-pattern-with-sun-constellations-moons-and-stars-gold-decorative.jpg?s=612x612&w=0&k=20&c=FIUnzA71iZ-gZMBsUAk0J5BWG6nvejIKmyZPzTGqzIE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-space-pattern-design_23-2150513475.jpg' alt='Space Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-space-pattern-design_23-2150513475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Adventure Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPYKSPCADVNTR100.jpg?v=1658939918' alt='Space Adventure Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPYKSPCADVNTR100.jpg?v=1658939918' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,016,200+ Outer Space Pattern Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1131131664/vector/galaxy-seamless-deep-violet-pattern-with-colorful-nebula-constellations-and-stars.jpg?s=612x612&w=0&k=20&c=OJwl-Rm72yWje_EVxQcStymCeVQ9arXWJ9vTxK-0da0=' alt='1,016,200+ Outer Space Pattern Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1131131664/vector/galaxy-seamless-deep-violet-pattern-with-colorful-nebula-constellations-and-stars.jpg?s=612x612&w=0&k=20&c=OJwl-Rm72yWje_EVxQcStymCeVQ9arXWJ9vTxK-0da0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Jam - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0513_1s_pastel-planets-wallpaper-for-walls-space-jam_Repeating-Pattern-Sample-1.jpg?v=1734717292' alt='Space Jam - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0513_1s_pastel-planets-wallpaper-for-walls-space-jam_Repeating-Pattern-Sample-1.jpg?v=1734717292' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Seamless Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e2/e5/0a/e2e50aa5b65ba4ceece7d817ed3b35f1.jpg' alt='Outer Space Seamless Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e2/e5/0a/e2e50aa5b65ba4ceece7d817ed3b35f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feel the Depth of Space:Children's Space Wallpaper with Planets and  Meteors,Black and White Line Art, Peel and Stick, Vinyl Option Available">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24731010/r/il/381071/2567115554/il_570xN.2567115554_6vb4.jpg' alt='Feel the Depth of Space:Children's Space Wallpaper with Planets and  Meteors,Black and White Line Art, Peel and Stick, Vinyl Option Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24731010/r/il/381071/2567115554/il_570xN.2567115554_6vb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Space pattern">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/download(s3:700/FO/12/40/39/80/7/700_FO124039807_19adc07c5178871314aa907160ee8177.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-space-pattern.jpg.jpg' alt='Wallpaper Space pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/download(s3:700/FO/12/40/39/80/7/700_FO124039807_19adc07c5178871314aa907160ee8177.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-space-pattern.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

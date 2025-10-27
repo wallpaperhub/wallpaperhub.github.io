@@ -1,0 +1,129 @@
+<title>Stunning Light Fall Wallpaper for a Cozy Autumn Vibe</title>
+                    <meta name="description" content="Add a touch of warmth to your home with our light fall wallpaper. Featuring vibrant autumn colors, it’s perfect for creating a cozy atmosphere in any room. Easy to apply and remove, this wallpaper breathes life into your space while reflecting the beauty of the season. Enhance your decor today!">
+                    <meta name="keywords" content="light fall wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-fall-wallpaper">
+                            <span itemprop="name">light fall wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Fall Wallpaper for a Cozy Autumn Vibe</h1>
+                <p>Transform your space with stunning light fall wallpaper that captures the beauty of autumn. Ideal for cozy interiors, these wallpapers feature warm hues of gold, orange, and crimson, evoking the serenity of fallen leaves. Perfect for living rooms, bedrooms, or offices, they create an inviting atmosphere that celebrates the season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Lights Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/693/469/non_2x/almost-leafless-autumn-tree-adorned-with-glowing-fairy-lights-photo.jpg' alt='Fall Lights Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/693/469/non_2x/almost-leafless-autumn-tree-adorned-with-glowing-fairy-lights-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 200+ Fall Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1501973801540-537f08ccae7b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfHwwfHx8MA%3D%3D' alt='Best 200+ Fall Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1501973801540-537f08ccae7b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFsbHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400,600+ Light Through Trees Autumn Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399856226/photo/magical-forest-landscape-with-sunbeam-lighting-up-the-golden-foliage.jpg?s=612x612&w=0&k=20&c=oDRyepvw4f-Jb0lfupNnJv4FgqIujeDc9t4p7t6MlvI=' alt='1,400,600+ Light Through Trees Autumn Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399856226/photo/magical-forest-landscape-with-sunbeam-lighting-up-the-golden-foliage.jpg?s=612x612&w=0&k=20&c=oDRyepvw4f-Jb0lfupNnJv4FgqIujeDc9t4p7t6MlvI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nw28-fall-lawn-bokeh-light-nature-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-nw28-fall-lawn-bokeh-light-nature-41-iphone-wallpaper.jpg' alt='nw28-fall-lawn-bokeh-light-nature-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-nw28-fall-lawn-bokeh-light-nature-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/aOQYXNNf9kRegvtB5Fy26Q9YJoM=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/083/n/45222255/9be53a37a552a801_branch-bright-daylight-1496378.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/aOQYXNNf9kRegvtB5Fy26Q9YJoM=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/083/n/45222255/9be53a37a552a801_branch-bright-daylight-1496378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Lights Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/287/907/small_2x/sparse-autumn-tree-with-glowing-string-lights-wrapped-around-its-branches-photo.jpg' alt='Fall Lights Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/287/907/small_2x/sparse-autumn-tree-with-glowing-string-lights-wrapped-around-its-branches-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 AUTUMN BACKGROUNDS ideas | fall wallpaper, cute fall wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/6b/1e/a06b1eee416e9112637fc13d0207d1da.jpg' alt='10 AUTUMN BACKGROUNDS ideas | fall wallpaper, cute fall wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/6b/1e/a06b1eee416e9112637fc13d0207d1da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,437,540 Light Fall Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/autumn-design-background-leaves-falling-260nw-210023419.jpg' alt='1,437,540 Light Fall Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/autumn-design-background-leaves-falling-260nw-210023419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1445964047600-cdbdb873673d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXV0dW1uJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1445964047600-cdbdb873673d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXV0dW1uJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Gorgeous Free Fall Wallpaper for your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/06/77/40067743a2169f15d096232f505e7c38.jpg' alt='50+ Gorgeous Free Fall Wallpaper for your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/06/77/40067743a2169f15d096232f505e7c38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

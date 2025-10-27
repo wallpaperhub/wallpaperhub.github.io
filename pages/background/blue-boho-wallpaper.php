@@ -1,0 +1,129 @@
+<title>Beautiful Blue Boho Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover exquisite blue boho wallpaper that blends artistry with tranquility. Perfect for any room, our designs enhance your space while adding a unique flair. Shop now for stylish, high-quality wallpapers that elevate your home decor effortlessly!">
+                    <meta name="keywords" content="blue boho wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-boho-wallpaper">
+                            <span itemprop="name">blue boho wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Blue Boho Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning blue boho wallpaper, perfect for adding a serene, artistic touch to any room. The intricate patterns and soothing hues create a vibrant yet calming atmosphere, ideal for bedrooms, living rooms, or offices. Embrace bohemian elegance and let your walls tell a story of creativity and comfort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calypso Boho Floral Aqua Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/calypso-boho-floral-aqua-blue-wallpaper-toja-l.jpg' alt='Calypso Boho Floral Aqua Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/calypso-boho-floral-aqua-blue-wallpaper-toja-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Spirit - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0362_1s_Boho-Spirit-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717371' alt='Boho Spirit - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0362_1s_Boho-Spirit-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717371' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper blue ✨   | Hipster wallpaper, Phone wallpaper boho ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg' alt='Wallpaper blue ✨   | Hipster wallpaper, Phone wallpaper boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Blue Watercolour Leaves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/boho-aesthetic-blue-watercolour-leaves-hcqo3w3vbupt7s8j.jpg' alt='Boho Aesthetic Blue Watercolour Leaves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/boho-aesthetic-blue-watercolour-leaves-hcqo3w3vbupt7s8j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropicana Leaves Wallpaper in Sky Blue and Champlain from the Boho Rhapsody  Collection by Seabrook Wallcoverings">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Tropicana_Leaves_Wallpaper_in_Sky_Blue_and_Champlain_from_the_Boho_Rhapsody_Collection_by_Seabrook_Wallcoverings_f50c62d1-bdc5-40b3-8783-9c1e437d9d21.jpg?v=1570037912' alt='Tropicana Leaves Wallpaper in Sky Blue and Champlain from the Boho Rhapsody  Collection by Seabrook Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Tropicana_Leaves_Wallpaper_in_Sky_Blue_and_Champlain_from_the_Boho_Rhapsody_Collection_by_Seabrook_Wallcoverings_f50c62d1-bdc5-40b3-8783-9c1e437d9d21.jpg?v=1570037912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Abstract Leaf Wallpaper Boho Wallpaper Peel and Stick and  Traditional Wallpaper - D683">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5345543126_9mmr.jpg?v=1706911059&width=1946' alt='Light Blue Abstract Leaf Wallpaper Boho Wallpaper Peel and Stick and  Traditional Wallpaper - D683'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5345543126_9mmr.jpg?v=1706911059&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C989">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C989_04.png?v=1729386023&width=1445' alt='Light Blue Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C989'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C989_04.png?v=1729386023&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho by Caselio - Blue and Gold - Wallpaper - 100776613">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/160178/tiled/caselio-boho-blue-and-gold-wallpaper-tiled-160178.jpg' alt='Boho by Caselio - Blue and Gold - Wallpaper - 100776613'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/160178/tiled/caselio-boho-blue-and-gold-wallpaper-tiled-160178.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Bloom Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.2modern.com/cdn/shop/products/graham-brown-boho-bloom-wallpaper.jpg?v=1675061922' alt='Boho Bloom Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="2Modern" />
+                                </span>
+                                <a href='http://www.2modern.com/cdn/shop/products/graham-brown-boho-bloom-wallpaper.jpg?v=1675061922' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Phone Wallpaper | Simple phone wallpapers, Phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/08/a3/8908a38acbe653fa0f483b3daafafdcc.jpg' alt='Blue Phone Wallpaper | Simple phone wallpapers, Phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/08/a3/8908a38acbe653fa0f483b3daafafdcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

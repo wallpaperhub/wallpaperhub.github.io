@@ -1,0 +1,129 @@
+<title>Inspirational iPhone Wallpapers: Elevate Your Mood</title>
+                    <meta name="description" content="Discover a collection of positive wallpapers for your iPhone that inspire joy and motivation. Browse stunning designs that elevate your daily outlook and keep positivity at your fingertips. Perfect for a daily dose of inspiration—download your favorite wallpaper today!">
+                    <meta name="keywords" content="positive wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/positive-wallpaper-iphone">
+                            <span itemprop="name">positive wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational iPhone Wallpapers: Elevate Your Mood</h1>
+                <p>Transform your iPhone's aesthetic with positive wallpapers that inspire and uplift your spirits! Choose from a variety of designs featuring motivational quotes, serene nature scenes, and vibrant patterns. Whether you seek calm or energy, these wallpapers serve as daily reminders to embrace positivity and gratitude. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Positive Aesthetic iPhone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41304148/r/il/c13ac1/5600352167/il_1080xN.5600352167_r9js.jpg' alt='Stay Positive Aesthetic iPhone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41304148/r/il/c13ac1/5600352167/il_1080xN.5600352167_r9js.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaperiphonetrippy #wallpaperiphonefunny #wallpaper #positive ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/54/fb/7d54fbff11997febcc2d8cc0da99982b.jpg' alt='wallpaperiphonetrippy #wallpaperiphonefunny #wallpaper #positive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/54/fb/7d54fbff11997febcc2d8cc0da99982b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cassie Scroggins" />
+                                </span>
+                                <a href='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Positive Motivational Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/be-positive-motivational-iphone-t9lwam589sf5zm56.jpg' alt='Be Positive Motivational Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/be-positive-motivational-iphone-t9lwam589sf5zm56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Positive Motivational Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/stay-positive-motivational-iphone-j13aqv7894z2o2ye.jpg' alt='Stay Positive Motivational Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/stay-positive-motivational-iphone-j13aqv7894z2o2ye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="positive quote iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/47/bd/2a47bde773d885446ecf66a789e4df4c.jpg' alt='positive quote iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/47/bd/2a47bde773d885446ecf66a789e4df4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positivity, positive, logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/492/920/HD-wallpaper-positivity-positive-logo.jpg' alt='Positivity, positive, logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/492/920/HD-wallpaper-positivity-positive-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' alt='Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Motivational Wallpapers For Your IPhone - Steph Social">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/b7/2a/0ab72a066d8ce22fd56ef91d0c4058be.jpg' alt='FREE Motivational Wallpapers For Your IPhone - Steph Social'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/b7/2a/0ab72a066d8ce22fd56ef91d0c4058be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Progress is Still Progress Inspirational iPhone Wallpaper, Cell Phone  Wallpaper, Phone Background, Mobile Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_1080xN.3214261641_i9ps.jpg' alt='Small Progress is Still Progress Inspirational iPhone Wallpaper, Cell Phone  Wallpaper, Phone Background, Mobile Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_1080xN.3214261641_i9ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pink Bird Wallpaper: Nature-Inspired Elegance for Your Home</title>
+                    <meta name="description" content="Discover beautiful pink bird wallpaper that adds a touch of elegance and whimsy to your decor. Ideal for any room, this charming design brings nature indoors, creating a serene atmosphere. Perfect for nurseries or a delightful accent wall! Explore our collection today to elevate your home’s aesthetic.">
+                    <meta name="keywords" content="pink bird wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-bird-wallpaper">
+                            <span itemprop="name">pink bird wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Bird Wallpaper: Nature-Inspired Elegance for Your Home</h1>
+                <p>Transform your space with stunning pink bird wallpaper, creating a serene and whimsical ambiance. Perfect for nurseries, bedrooms, or any room that needs a touch of nature's beauty. Featuring various pink shades and charming bird designs, this wallpaper brings joy and relaxation to your home decor. Experience the magic of nature indoors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Birds Perching on Magnolia">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/49675/pink-birds-perching-on-magnolia.jpg?h=699&q=85' alt='Pink Birds Perching on Magnolia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/49675/pink-birds-perching-on-magnolia.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise Oriole and Parakeet Bird Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/paradise-oriole-and-parakeet-bird-pink--rupq.jpg' alt='Paradise Oriole and Parakeet Bird Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/paradise-oriole-and-parakeet-bird-pink--rupq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phoebe Birds Wallpaper Blush Pink World of Wallpaper 50141">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/w/o/wow011-phoebe-birds-blush-pink-wallpaper-ea.jpg' alt='Phoebe Birds Wallpaper Blush Pink World of Wallpaper 50141'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/w/o/wow011-phoebe-birds-blush-pink-wallpaper-ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Bird Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11523220/p/f/m/V69t4OmE5JczvvQ8JmUd4gW5qhTTgVitk0pwuBoUHDvrHDmN9PazNciyVQ/Vintage%20Birds%20%2B%20Pink%20Botanical%20Floral%20in%20Pink.jpg' alt='Pink Bird Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11523220/p/f/m/V69t4OmE5JczvvQ8JmUd4gW5qhTTgVitk0pwuBoUHDvrHDmN9PazNciyVQ/Vintage%20Birds%20%2B%20Pink%20Botanical%20Floral%20in%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds Pink Scenic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://voutsa.com/cdn/shop/products/Voutsa-Birds-Pink-Scenic-Wallpaper.jpg?v=1669824980' alt='Birds Pink Scenic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voutsa" />
+                                </span>
+                                <a href='https://voutsa.com/cdn/shop/products/Voutsa-Birds-Pink-Scenic-Wallpaper.jpg?v=1669824980' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G78493 Classic Bird Trail Pink Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250392.jpg' alt='Galerie G78493 Classic Bird Trail Pink Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/a6/01/de/a601de1ea02735af42b4f52bb31040d4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/a6/01/de/a601de1ea02735af42b4f52bb31040d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Wallpaper Bird Removable, Peel and Stick Crane Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/2abf8b/2812870154/il_fullxfull.2812870154_stg8.jpg' alt='Chinoiserie Wallpaper Bird Removable, Peel and Stick Crane Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2773">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/2abf8b/2812870154/il_fullxfull.2812870154_stg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Chinoiserie Wallpaper with Pink Bird and Flowers, French  Wallpaper for Bedroom, Renter Friendly Wallpaper Peel and Stick Removable -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81QDpkjJbqL.jpg' alt='RollsRolla Chinoiserie Wallpaper with Pink Bird and Flowers, French  Wallpaper for Bedroom, Renter Friendly Wallpaper Peel and Stick Removable -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81QDpkjJbqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird and Branch Mural in Pink">
+                                <img itemprop="contentUrl url" src='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-bird-and-branch-peel-and-stick-wallpaper-mural-in-pink-bird-and-branch-mural-in-pink-13308154282070_1200x630.jpg?v=1619804355' alt='Bird and Branch Mural in Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-bird-and-branch-peel-and-stick-wallpaper-mural-in-pink-bird-and-branch-mural-in-pink-13308154282070_1200x630.jpg?v=1619804355' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

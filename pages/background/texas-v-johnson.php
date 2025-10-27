@@ -1,0 +1,129 @@
+<title>Texas v. Johnson: A Landmark Free Speech Case</title>
+                    <meta name="description" content="Explore the Texas v. Johnson case, a pivotal Supreme Court decision that affirmed the right to free speech through the symbolic act of flag burning. Understand its impact on First Amendment rights and the ongoing debate surrounding freedom of expression.">
+                    <meta name="keywords" content="texas v johnson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/texas-v-johnson">
+                            <span itemprop="name">texas v johnson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Texas v. Johnson: A Landmark Free Speech Case</h1>
+                <p>Texas v. Johnson, a landmark Supreme Court case from 1989, addressed the First Amendment and free speech rights. Gregory Lee Johnson was arrested for burning the American flag during a protest. The Court ruled in his favor, declaring that flag desecration is protected as symbolic speech, reinforcing the principle of freedom of expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas v. Johnson Summary | quimbee.com">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DxRCvNM3yts/maxresdefault.jpg' alt='Texas v. Johnson Summary | quimbee.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DxRCvNM3yts/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Texas V. Johnson: The Flag-Burning Case (Landmark ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/812k3Mf4FHS._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Texas V. Johnson: The Flag-Burning Case (Landmark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/812k3Mf4FHS._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas v. Johnson [SCOTUSbrief]">
+                                <img itemprop="contentUrl url" src='https://fedsoc.org/cdn-cgi/image/fit=scale-down,width=1690,format=jpeg/https://fedsoc-cms-public.s3.amazonaws.com/SCOTUSBRIEFthumbjun2022.jpg' alt='Texas v. Johnson [SCOTUSbrief]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Federalist Society" />
+                                </span>
+                                <a href='https://fedsoc.org/cdn-cgi/image/fit=scale-down,width=1690,format=jpeg/https://fedsoc-cms-public.s3.amazonaws.com/SCOTUSBRIEFthumbjun2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Introduction to Constitutional Law » Texas v. Johnson">
+                                <img itemprop="contentUrl url" src='https://conlaw.us/wp-content/uploads/2019/08/1989-Texas-v-Johnson-Johnson-High-Res.png?v=1568586477' alt='An Introduction to Constitutional Law » Texas v. Johnson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="An Introduction to Constitutional Law" />
+                                </span>
+                                <a href='https://conlaw.us/wp-content/uploads/2019/08/1989-Texas-v-Johnson-Johnson-High-Res.png?v=1568586477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas v. Johnson (1989) | The First Amendment Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/504px_William_Kunstler_and_Gregory_Lee_Johnson_0.jpg' alt='Texas v. Johnson (1989) | The First Amendment Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/504px_William_Kunstler_and_Gregory_Lee_Johnson_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Burn An American Flag? | Texas v. Johnson">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PNOo5oDpvGo/mqdefault.jpg' alt='Can You Burn An American Flag? | Texas v. Johnson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PNOo5oDpvGo/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas v. Johnson, 491 U.S. 397, 109 S. Ct. 2533, 105 L. Ed. 2d 342 ...">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/49360c93a4693741d0f27460a7476f2039911863.jpg?image_resize=750' alt='Texas v. Johnson, 491 U.S. 397, 109 S. Ct. 2533, 105 L. Ed. 2d 342 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quimbee" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/49360c93a4693741d0f27460a7476f2039911863.jpg?image_resize=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gregory Lee Johnson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/Gregory_Lee_Johnson.png' alt='Gregory Lee Johnson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/Gregory_Lee_Johnson.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Things to Know About the Case That Made Burning the Flag ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/6wDPj9URawYalm48odiWIynXj8Y=/1000x750/filters:no_upscale():focal(721x1367:722x1368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/84/96/84968fd6-4787-414f-98d9-089336a1a286/plzsave.jpg' alt='Five Things to Know About the Case That Made Burning the Flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/6wDPj9URawYalm48odiWIynXj8Y=/1000x750/filters:no_upscale():focal(721x1367:722x1368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/84/96/84968fd6-4787-414f-98d9-089336a1a286/plzsave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas V. Johnson: The Flag-Burning Case... book by J. Anthony Miller">
+                                <img itemprop="contentUrl url" src='https://i.thriftbooks.com/api/imagehandler/m/562838C2AE7E860287EDFC3F2EDC498FB48D3959.jpeg' alt='Texas V. Johnson: The Flag-Burning Case... book by J. Anthony Miller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="234">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThriftBooks" />
+                                </span>
+                                <a href='https://i.thriftbooks.com/api/imagehandler/m/562838C2AE7E860287EDFC3F2EDC498FB48D3959.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

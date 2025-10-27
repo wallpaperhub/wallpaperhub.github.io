@@ -1,0 +1,129 @@
+<title>Stunning Dark Summer Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a captivating selection of dark summer wallpapers that enhance your device's look. Perfect for summer lovers, these designs blend elegance and vibrancy, making your screens pop while offering a unique twist. Download now to refresh your digital space!">
+                    <meta name="keywords" content="dark summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/dark-summer-wallpaper">
+                            <span itemprop="name">dark summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Summer Wallpapers for Your Device</h1>
+                <p>Looking to transform your device's aesthetic? Dark summer wallpapers offer a unique blend of warmth and mystery, perfect for adding depth to your screen. From rich sunsets to starry night skies, these wallpapers capture the essence of summer nights. Dive into a collection that embodies beauty, tranquility, and allure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark summer scenery - Oceans & Nature Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/371/371424-bigthumbnail.jpg' alt='dark summer scenery - Oceans & Nature Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/371/371424-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | mt83-sea-dive-wave-dark-summer ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-mt83-sea-dive-wave-dark-summer-ocean-nature-blue-40-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | mt83-sea-dive-wave-dark-summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-mt83-sea-dive-wave-dark-summer-ocean-nature-blue-40-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Summer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6892602.jpg' alt='Dark Summer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6892602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Summer Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/tropical-hawaii-landscape-with-palm-trees_23-2149083010.jpg' alt='Dark Summer Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/tropical-hawaii-landscape-with-palm-trees_23-2149083010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="612,800+ Dark Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/878093686/photo/colorful-sky-and-cloud-in-twilight-background.jpg?s=612x612&w=0&k=20&c=98o0vZBkgPHLEqU-q0iLsva2XoBvuIDmN84i_zaejzk=' alt='612,800+ Dark Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/878093686/photo/colorful-sky-and-cloud-in-twilight-background.jpg?s=612x612&w=0&k=20&c=98o0vZBkgPHLEqU-q0iLsva2XoBvuIDmN84i_zaejzk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Dive Wave Dark Summer Ocean Nature Bw iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/63/da/9d63da88601c20a39658b33755278040.jpg' alt='Sea Dive Wave Dark Summer Ocean Nature Bw iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/63/da/9d63da88601c20a39658b33755278040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sunset, beaches, landscape, sunshine, tropical, summer, beach ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/358/852/HD-wallpaper-dark-sunset-beaches-landscape-sunshine-tropical-summer-beach-sea-california-nature.jpg' alt='Dark Sunset, beaches, landscape, sunshine, tropical, summer, beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/358/852/HD-wallpaper-dark-sunset-beaches-landscape-sunshine-tropical-summer-beach-sea-california-nature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mo97-water-texture-dark-summer-wave-nature-sea-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-mo97-water-texture-dark-summer-wave-nature-sea-33-iphone6-wallpaper.jpg' alt='mo97-water-texture-dark-summer-wave-nature-sea-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-mo97-water-texture-dark-summer-wave-nature-sea-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,536,963 Black Summer Background Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/closeup-nature-view-black-white-600nw-1751309840.jpg' alt='5,536,963 Black Summer Background Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/closeup-nature-view-black-white-600nw-1751309840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="612,800+ Dark Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1314451401/photo/blurred-bokeh-light-on-sunset-with-yellow-string-lights-decor-in-beach-restaurant.jpg?s=612x612&w=0&k=20&c=rmjq1nN5JvFNF3YiMY1JuAYt8hqGGilwchEyXjionbY=' alt='612,800+ Dark Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1314451401/photo/blurred-bokeh-light-on-sunset-with-yellow-string-lights-decor-in-beach-restaurant.jpg?s=612x612&w=0&k=20&c=rmjq1nN5JvFNF3YiMY1JuAYt8hqGGilwchEyXjionbY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

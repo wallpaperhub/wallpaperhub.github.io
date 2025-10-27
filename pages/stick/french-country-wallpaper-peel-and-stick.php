@@ -1,0 +1,129 @@
+<title>Transform Your Space with French Country Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of French country peel and stick wallpaper, ideal for effortless home makeovers. Easily removable and repositionable, these wallpapers bring rustic charm with floral patterns and serene landscapes, perfect for any room. Enjoy a stylish update without the commitment!">
+                    <meta name="keywords" content="french country wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/french-country-wallpaper-peel-and-stick">
+                            <span itemprop="name">french country wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with French Country Peel and Stick Wallpaper</h1>
+                <p>Bring the charm of the French countryside into your home with our elegant peel and stick wallpaper. Perfect for renters and DIY enthusiasts, it offers a hassle-free way to transform any space. Enjoy picturesque patterns of lavender fields, rustic cottages, and bouquets of wildflowers—all removable and easy to apply!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Vintage Toile French Country Peel and Stick Wallpaper - Blue and  White Self-Adhesive Wallpaper for Bedroom, Living Room, Bathroom, Accent ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91k4utn7NJL.jpg' alt='RollsRolla Vintage Toile French Country Peel and Stick Wallpaper - Blue and  White Self-Adhesive Wallpaper for Bedroom, Living Room, Bathroom, Accent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91k4utn7NJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Toile Wallpaper Modern French Country Peel and Stick Wallpaper  Vintage Ivory Beige Neutral Removable Wallpaper for Bathroom, Bedroom, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810a7RIx8dL.jpg' alt='RollsRolla Toile Wallpaper Modern French Country Peel and Stick Wallpaper  Vintage Ivory Beige Neutral Removable Wallpaper for Bathroom, Bedroom, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810a7RIx8dL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Wallpaper Modern French Country Peel and Stick Wallpaper Neutral  Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81x7n6AveBL._AC_UF894,1000_QL80_.jpg' alt='Toile Wallpaper Modern French Country Peel and Stick Wallpaper Neutral  Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81x7n6AveBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage French Wallpaper Peel and Stick French Country Style ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/cea612/5819922903/il_570xN.5819922903_on70.jpg' alt='Vintage French Wallpaper Peel and Stick French Country Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/cea612/5819922903/il_570xN.5819922903_on70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Chinoiserie Peel and Stick Wallpaper French Country Style ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27464172/r/il/3c12a6/5693135001/il_570xN.5693135001_pfg8.jpg' alt='Pink Chinoiserie Peel and Stick Wallpaper French Country Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27464172/r/il/3c12a6/5693135001/il_570xN.5693135001_pfg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Beige Toile Peel and Stick Wallpaper Vintage French ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81gKAuDYcJL.jpg' alt='RollsRolla Beige Toile Peel and Stick Wallpaper Vintage French ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="2116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81gKAuDYcJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Country Corail Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/FC62102-A_2000x2000.jpg?v=1673720409' alt='French Country Corail Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/FC62102-A_2000x2000.jpg?v=1673720409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jardin Bleu Toile de Jouy Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rollsrolla.com/cdn/shop/products/1-2_8095d8ba-ad47-4580-bbda-5e9535fb0b65.jpg?v=1681784022' alt='Jardin Bleu Toile de Jouy Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="1692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RollsRolla" />
+                                </span>
+                                <a href='http://rollsrolla.com/cdn/shop/products/1-2_8095d8ba-ad47-4580-bbda-5e9535fb0b65.jpg?v=1681784022' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Toile Wallpaper Blue and White Peel and Stick Wallpaper Accent  Wall French Chinoiserie Style Country Farmhouse Temporary Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1sVgKsxamL.jpg' alt='RollsRolla Toile Wallpaper Blue and White Peel and Stick Wallpaper Accent  Wall French Chinoiserie Style Country Farmhouse Temporary Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1sVgKsxamL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Toile Wallpaper Modern French Country Peel and Stick Wallpaper  Neutral Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91xHqgFIkYL._AC_UF350,350_QL80_.jpg' alt='RollsRolla Toile Wallpaper Modern French Country Peel and Stick Wallpaper  Neutral Farmhouse Removable Wallpaper Blue and White - Birds/Flowers (Blue)  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91xHqgFIkYL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

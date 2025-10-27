@@ -1,0 +1,129 @@
+<title>Stunning Apple iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore a diverse range of Apple iPhone wallpapers designed to enhance your device. Choose from nature, art, and minimalist themes to find the perfect match for your style. Update your iPhone’s look effortlessly with our curated collection today!">
+                    <meta name="keywords" content="apple iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/apple-iphone-wallpaper">
+                            <span itemprop="name">apple iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Apple iPhone Wallpapers for Every Style</h1>
+                <p>Discover stunning Apple iPhone wallpapers that elevate your device's aesthetic! From minimalist designs to vibrant landscapes, our curated collection has something for everyone. Whether you prefer nature, abstract art, or artistic photography, personalize your iPhone screen with the perfect wallpaper for any mood or occasion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything Apple.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/03/e2/b303e2e2ec882d0d4431224db9bd2c52.jpg' alt='Everything Apple.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/03/e2/b303e2e2ec882d0d4431224db9bd2c52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple ID Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636124973281-LUT0C696QW63G48N0NSZ/Rainbow+AppleID+Lock+Screen.png' alt='Apple ID Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1636124973281-LUT0C696QW63G48N0NSZ/Rainbow+AppleID+Lock+Screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-wallpaper-1.jpeg?quality=82&strip=all' alt='Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="3728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-wallpaper-1.jpeg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Iphone Wallpapers - Wallpaper Cave 12">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/aa/a0/7eaaa0c512de8516c39ce626167cb027.jpg' alt='Apple Iphone Wallpapers - Wallpaper Cave 12'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/aa/a0/7eaaa0c512de8516c39ce626167cb027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Apple iPhone 16 wallpapers here - Android Authority">
+                                <img itemprop="contentUrl url" src='https://www.androidauthority.com/wp-content/uploads/2024/09/Apple-iPhone-16-Pro-Wallpaper-2-scaled.jpg' alt='Download the Apple iPhone 16 wallpapers here - Android Authority'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1178">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Authority" />
+                                </span>
+                                <a href='https://www.androidauthority.com/wp-content/uploads/2024/09/Apple-iPhone-16-Pro-Wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+] iPhone Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/0/6/5816162-2160x3840-iphone-hd-iphone-wallpaper-photo.jpg' alt='70+] iPhone Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/0/6/5816162-2160x3840-iphone-hd-iphone-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yellow-lit-apple-logo-iphone-8vj0915bils2hyp6.jpg' alt='Apple Logo Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yellow-lit-apple-logo-iphone-8vj0915bils2hyp6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X default wallpaper : r/apple">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/89fT2lqIaQXNpiMaHTVpmXT5oZe-yJjq41uD7ALxH0I.jpg?width=1080&crop=smart&auto=webp&s=6edeacebea2856368418b2b461f375ba70f0255d' alt='iPhone X default wallpaper : r/apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/89fT2lqIaQXNpiMaHTVpmXT5oZe-yJjq41uD7ALxH0I.jpg?width=1080&crop=smart&auto=webp&s=6edeacebea2856368418b2b461f375ba70f0255d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,100+ Free Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/iphone-16-black-stock-21-09-2024-1726985676-hd-wallpaper.jpeg' alt='7,100+ Free Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/iphone-16-black-stock-21-09-2024-1726985676-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Wallpaper 4K, iPhone 12, Event, 2020, logo">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/apple-iphone-12-event-2020-apple-logo-dark-background-1179x2556-2958.jpg' alt='Apple Wallpaper 4K, iPhone 12, Event, 2020, logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/apple-iphone-12-event-2020-apple-logo-dark-background-1179x2556-2958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

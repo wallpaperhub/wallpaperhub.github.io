@@ -1,0 +1,129 @@
+<title>Stunning Ladybug and Cat Noir Wallpaper for Kids' Rooms</title>
+                    <meta name="description" content="Discover enchanting Ladybug and Cat Noir wallpaper that turns any room into a superhero paradise. Ideal for fans of all ages, our vibrant designs capture the essence of this beloved series. Easy to apply and perfect for bedrooms or play areas, elevate your decor with a magical touch!">
+                    <meta name="keywords" content="wallpaper ladybug and cat noir">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/wallpaper-ladybug-and-cat-noir">
+                            <span itemprop="name">wallpaper ladybug and cat noir</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ladybug and Cat Noir Wallpaper for Kids' Rooms</h1>
+                <p>Transform your space with stunning wallpaper featuring Ladybug and Cat Noir! Perfect for fans of the hit animated series, these vibrant designs bring the magical world of Paris to life. Whether for a child's bedroom, a game room, or a playful living area, our wallpaper makes every wall a thrilling adventure..</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug and Cat Noir Wallpapers (56 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/4/9/891055-1920x1080-desktop-full-hd-ladybug-and-cat-noir-background-photo.jpg' alt='Ladybug and Cat Noir Wallpapers (56 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/4/9/891055-1920x1080-desktop-full-hd-ladybug-and-cat-noir-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper wallpaper 368x254cm Miraculous Ladybug & Cat Noir bedroom photo wall  mural">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/2A4AAOSwcaZeTVcG/s-l1200.jpg' alt='Paper wallpaper 368x254cm Miraculous Ladybug & Cat Noir bedroom photo wall  mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/2A4AAOSwcaZeTVcG/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute 3d Ladybug And Cat Noir Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-3d-ladybug-and-cat-noir-itxz5xovtb6viahg.jpg' alt='Cute 3d Ladybug And Cat Noir Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1070">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-3d-ladybug-and-cat-noir-itxz5xovtb6viahg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miraculous: Tales Of Ladybug & Cat Noir Wallpapers - Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6e/96/86/6e9686ee96ba4c96a65cae93621ca60b.jpg' alt='Miraculous: Tales Of Ladybug & Cat Noir Wallpapers - Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6e/96/86/6e9686ee96ba4c96a65cae93621ca60b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug & Cat Noir: Awakening Wallpapers (17 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/4/6/230583-1920x1371-desktop-hd-ladybug-cat-noir-awakening-wallpaper-image.jpg' alt='Ladybug & Cat Noir: Awakening Wallpapers (17 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/4/6/230583-1920x1371-desktop-hd-ladybug-cat-noir-awakening-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug and Cat Noir wallpaper by GothNebula on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75b358c7-c23b-433b-9002-4d875e2e1fc5/dftmz8v-8dc0d233-858f-409d-8522-b80fdc8d6d2e.png/v1/fill/w_1024,h_1152,q_80,strp/ladybug_and_cat_noir_wallpaper_by_gothnebula_dftmz8v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MiIsInBhdGgiOiJcL2ZcLzc1YjM1OGM3LWMyM2ItNDMzYi05MDAyLTRkODc1ZTJlMWZjNVwvZGZ0bXo4di04ZGMwZDIzMy04NThmLTQwOWQtODUyMi1iODBmZGM4ZDZkMmUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lQYLuqCU-0Tn4qQhzj_N_adDcNXV4B5qCpnq9z9DJlA' alt='Ladybug and Cat Noir wallpaper by GothNebula on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75b358c7-c23b-433b-9002-4d875e2e1fc5/dftmz8v-8dc0d233-858f-409d-8522-b80fdc8d6d2e.png/v1/fill/w_1024,h_1152,q_80,strp/ladybug_and_cat_noir_wallpaper_by_gothnebula_dftmz8v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MiIsInBhdGgiOiJcL2ZcLzc1YjM1OGM3LWMyM2ItNDMzYi05MDAyLTRkODc1ZTJlMWZjNVwvZGZ0bXo4di04ZGMwZDIzMy04NThmLTQwOWQtODUyMi1iODBmZGM4ZDZkMmUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lQYLuqCU-0Tn4qQhzj_N_adDcNXV4B5qCpnq9z9DJlA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144x100inch kids bedroom wallpaper Miraculous Ladybug Cat Noir ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/w3cAAOSw9ZpivrqU/s-l1200.jpg' alt='144x100inch kids bedroom wallpaper Miraculous Ladybug Cat Noir ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/w3cAAOSw9ZpivrqU/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug And Cat Noir Show Off In Paris Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ladybug-and-cat-noir-show-off-in-paris-hrnpetf5xlzvemp6.jpg' alt='Ladybug And Cat Noir Show Off In Paris Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ladybug-and-cat-noir-show-off-in-paris-hrnpetf5xlzvemp6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miraculous: Tales Of Ladybug & Cat Noir TV Show ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/130/1301983.jpg' alt='Download Miraculous: Tales Of Ladybug & Cat Noir TV Show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3699">
+                                <meta itemprop="height" content="2080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/130/1301983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ladybug And Cat Noir Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-red-dots-ladybug-and-cat-noir-0hugc6lm3l4ljcj3.jpg' alt='100+] Ladybug And Cat Noir Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-red-dots-ladybug-and-cat-noir-0hugc6lm3l4ljcj3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

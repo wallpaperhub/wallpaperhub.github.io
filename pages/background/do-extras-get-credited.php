@@ -1,0 +1,129 @@
+<title>Do Extras Get Credited in Film and TV?</title>
+                    <meta name="description" content="Explore whether extras receive credits in film and TV productions. Understand the distinctions in crediting practices and what aspiring actors should know about recognition in the industry. Get insights on how to navigate expectations for background roles!">
+                    <meta name="keywords" content="do extras get credited">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-extras-get-credited">
+                            <span itemprop="name">do extras get credited</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Extras Get Credited in Film and TV?</h1>
+                <p>Extras, also known as background actors, may not always receive credit for their work in film and television. This varies by production and contract stipulations. While some productions do credit extras, others may not. For aspiring actors, understanding this can help set expectations regarding recognition in the industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I applied to be an extra in a film and asked if I'd be getting ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zrsp0ajcsal31.jpg?width=1080&crop=smart&auto=webp&s=23e614bfca10474cf6b648c062851cde95e30bd8' alt='I applied to be an extra in a film and asked if I'd be getting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zrsp0ajcsal31.jpg?width=1080&crop=smart&auto=webp&s=23e614bfca10474cf6b648c062851cde95e30bd8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get a job as an extra in a movie or TV show - Los Angeles Times">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/c180595/2147483647/strip/true/crop/6059x4039+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' alt='How to get a job as an extra in a movie or TV show - Los Angeles Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/c180595/2147483647/strip/true/crop/6059x4039+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra Credit: My Life as An Extra | Slackerwood">
+                                <img itemprop="contentUrl url" src='https://www.slackerwood.com/files/images/user-2/rod_extra_rwb_credits.jpg' alt='Extra Credit: My Life as An Extra | Slackerwood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slackerwood" />
+                                </span>
+                                <a href='https://www.slackerwood.com/files/images/user-2/rod_extra_rwb_credits.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @tposinginfortnitein2020 extra work! #extra #backgroundactor  #film #television #actingtips #actortok #castingdirector #castingcall  #opencall">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7149641502338207018&location=0&aid=1988' alt='Replying to @tposinginfortnitein2020 extra work! #extra #backgroundactor  #film #television #actingtips #actortok #castingdirector #castingcall  #opencall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7149641502338207018&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Much Do Extras Get Paid?">
+                                <img itemprop="contentUrl url" src='https://torontofilmschool.ca/app/uploads/2023/08/rob-curran-sUXXO3xPBYo-unsplash-1024x615.jpg' alt='How Much Do Extras Get Paid?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toronto Film School" />
+                                </span>
+                                <a href='https://torontofilmschool.ca/app/uploads/2023/08/rob-curran-sUXXO3xPBYo-unsplash-1024x615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra Card Review: No Credit Check, Debit Card that Rebuilds">
+                                <img itemprop="contentUrl url" src='https://www.askmrcreditcard.com/image-files/extra-app2-m.jpg' alt='Extra Card Review: No Credit Check, Debit Card that Rebuilds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr Credit Card" />
+                                </span>
+                                <a href='https://www.askmrcreditcard.com/image-files/extra-app2-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extras">
+                                <img itemprop="contentUrl url" src='https://s7d1.scene7.com/is/image/tracfone/tbv-mid-banner-ExtrasLPNewBranding-TotalRewards-Extras-2col-343x257-2x-ENG-Mobile?fmt=webp-alpha&scl=1&resMode=sharp2&qlt=80,0&dpr=off&bfc=on' alt='Extras'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wireless" />
+                                </span>
+                                <a href='https://s7d1.scene7.com/is/image/tracfone/tbv-mid-banner-ExtrasLPNewBranding-TotalRewards-Extras-2col-343x257-2x-ENG-Mobile?fmt=webp-alpha&scl=1&resMode=sharp2&qlt=80,0&dpr=off&bfc=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does Extra Work? | Extra Blog">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/61c293b39c7f96197d235a40/66cf44ebf6248541245cd1ce_61c293b39c7f96560b235af8_HowDoesExtraWork_1.jpeg' alt='How Does Extra Work? | Extra Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Extra Debit Card" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/61c293b39c7f96197d235a40/66cf44ebf6248541245cd1ce_61c293b39c7f96560b235af8_HowDoesExtraWork_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorry for poor quality) how do I get these ive been hearing about ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kue2t74nv8l61.jpg' alt='Sorry for poor quality) how do I get these ive been hearing about ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kue2t74nv8l61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Film Credits - Indian Media Studies">
+                                <img itemprop="contentUrl url" src='https://indianmediastudies.com/wp-content/uploads/2024/10/film-credits.jpg.webp' alt='The Ultimate Guide to Film Credits - Indian Media Studies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indian Media Studies" />
+                                </span>
+                                <a href='https://indianmediastudies.com/wp-content/uploads/2024/10/film-credits.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

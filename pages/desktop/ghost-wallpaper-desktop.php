@@ -1,0 +1,129 @@
+<title>Hauntingly Beautiful Ghost Wallpaper for Your Desktop</title>
+                    <meta name="description" content="Discover an enchanting collection of ghost wallpaper for your desktop. Ideal for fans of the supernatural, these designs blend elegance with a haunting vibe, perfect for any season. Instantly elevate your workspace with these mystical wallpapers that captivate and inspire.">
+                    <meta name="keywords" content="ghost wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/ghost-wallpaper-desktop">
+                            <span itemprop="name">ghost wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hauntingly Beautiful Ghost Wallpaper for Your Desktop</h1>
+                <p>Transform your desktop with mesmerizing ghost wallpaper that adds a spooky yet elegant touch to your screen. Choose from hauntingly beautiful designs featuring ethereal spirits and chilling landscapes. Perfect for Halloween enthusiasts or those who enjoy the supernatural, these wallpapers bring a touch of mystery to your workspace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFNO-rIdmQ/1/0/1600w/canva-black-%26-white-minimal-ghost-halloween-desktop-wallpaper-J3b3ZT7wh-4.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFNO-rIdmQ/1/0/1600w/canva-black-%26-white-minimal-ghost-halloween-desktop-wallpaper-J3b3ZT7wh-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Ghost Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ghost-wj0blqfz7qcbaa7r.jpg' alt='300+] Ghost Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ghost-wj0blqfz7qcbaa7r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFs2L3Qevg/1/0/1600w/canva-blue-artsy-ghost-desktop-wallpaper-cv9-WU1NUQs.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFs2L3Qevg/1/0/1600w/canva-blue-artsy-ghost-desktop-wallpaper-cv9-WU1NUQs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghosts Halloween Desktop Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37150631/r/il/ef388d/4090241260/il_570xN.4090241260_cjua.jpg' alt='Cute Ghosts Halloween Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37150631/r/il/ef388d/4090241260/il_570xN.4090241260_cjua.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Ghost, Pixel Artwork, Hd Image, Picture ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/d6/df/5bd6df695803c4d4f14d1d52e92c6adb.jpg' alt='Desktop Wallpaper Ghost, Pixel Artwork, Hd Image, Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/d6/df/5bd6df695803c4d4f14d1d52e92c6adb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2020 Ghost Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2020/09/10_2020_computer_art.jpg' alt='October 2020 Ghost Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5334">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2020/09/10_2020_computer_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | ah62-cute-ghost-art-illust-minimal ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ah62-cute-ghost-art-illust-minimal-simple-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | ah62-cute-ghost-art-illust-minimal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ah62-cute-ghost-art-illust-minimal-simple-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvsxFyM4k/1/0/1600w/canva-minimalist-illustrative-ghost-halloween-desktop-wallpaper-atFQagF2xB8.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvsxFyM4k/1/0/1600w/canva-minimalist-illustrative-ghost-halloween-desktop-wallpaper-atFQagF2xB8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immerse Yourself with Call of Duty Ghost in Stunning PC Live ...">
+                                <img itemprop="contentUrl url" src='https://wallshub.com/uploads/posts/2024-04/50b569d2eb_ghost-call-of-duty-4k.webp' alt='Immerse Yourself with Call of Duty Ghost in Stunning PC Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshub" />
+                                </span>
+                                <a href='https://wallshub.com/uploads/posts/2024-04/50b569d2eb_ghost-call-of-duty-4k.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiJBdFMCI/1/0/1600w/canva-black-simple-hello-ghost-desktop-wallpaper-5r8_njLfzWE.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiJBdFMCI/1/0/1600w/canva-black-simple-hello-ghost-desktop-wallpaper-5r8_njLfzWE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

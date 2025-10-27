@@ -1,0 +1,129 @@
+<title>Stunning 3D Wallpapers for Every Room</title>
+                    <meta name="description" content="Discover the beauty of 3D wallpapers that elevate your home decor. Perfect for any room, our collection features vibrant designs that create an immersive experience. Easy to apply and remove, they offer a quick way to refresh your space. Explore the endless possibilities today!">
+                    <meta name="keywords" content="3d wallpaper for rooms">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-wallpaper-for-rooms">
+                            <span itemprop="name">3d wallpaper for rooms</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Wallpapers for Every Room</h1>
+                <p>Transform your living space with stunning 3D wallpapers that add depth and character to any room. From lush landscapes to abstract designs, these wallpapers create an immersive experience, making walls a focal point. Easy to apply and remove, they offer a stylish and modern solution for enhancing your home's atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_570xN.3450304411_79zw.jpg' alt='Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_570xN.3450304411_79zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Wallpaper Photo Wallpaper 3D Wall Paper Peel and Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/d1362a/4464312213/il_570xN.4464312213_k5lm.jpg' alt='Nature Wallpaper Photo Wallpaper 3D Wall Paper Peel and Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/d1362a/4464312213/il_570xN.4464312213_k5lm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' alt='Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muravie Wallpapers Patterns (Muravie 3D Gold Geometric Shapes Peal ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/62/ca/1662ca48c71f355442ec7c07c4ff5182.jpg' alt='Muravie Wallpapers Patterns (Muravie 3D Gold Geometric Shapes Peal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/62/ca/1662ca48c71f355442ec7c07c4ff5182.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fantasy Forest Nature 3D Wallpaper Mural, Tropical ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cm+PZRmIL.jpg' alt='Amazon.com: Fantasy Forest Nature 3D Wallpaper Mural, Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cm+PZRmIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Retail 3d Wallpaper Luxurious Diamond Flower Home ...">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g20/M01/EB/74/rBVaqWB0a46ATPPaAAuPvxbkVBo921.jpg' alt='Custom Retail 3d Wallpaper Luxurious Diamond Flower Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g20/M01/EB/74/rBVaqWB0a46ATPPaAAuPvxbkVBo921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper 3d Living Room | Wall Wallpaper 3d Living Room - Custom 3d  Photo - Aliexpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S58edc34ce12946c89c4e6b74ea8c3f5di.jpg' alt='Mural Wallpaper 3d Living Room | Wall Wallpaper 3d Living Room - Custom 3d  Photo - Aliexpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S58edc34ce12946c89c4e6b74ea8c3f5di.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Bedroom Wall Murals buy in USA - Shop Uwalls Beige">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/81000/81817/u95250pib1m_900.webp' alt='3D Bedroom Wall Murals buy in USA - Shop Uwalls Beige'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/81000/81817/u95250pib1m_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Mural Cave Nature Lanscape | BVM Home">
+                                <img itemprop="contentUrl url" src='http://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-Cave-Nature-Landscape-TV-Background-Wall-Mural-Wallpaper-For-Living-Room-Bedroom_1200x1200.jpg?v=1571609155' alt='Custom Wallpaper Mural Cave Nature Lanscape | BVM Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='http://www.bvm-home.com/cdn/shop/products/Custom-3D-Photo-Wallpaper-Cave-Nature-Landscape-TV-Background-Wall-Mural-Wallpaper-For-Living-Room-Bedroom_1200x1200.jpg?v=1571609155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Flowers Stained Glass Panel Gold ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Flowers-Stained-Glass-Panel-Gold-Accents-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Deco_0f68b7f9-33a3-4529-afcd-4c16b63c099f.2d42cffb7bf664d1d910107fcc6e9ef4.jpeg' alt='Modern Wallpaper Murals 3D Flowers Stained Glass Panel Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Flowers-Stained-Glass-Panel-Gold-Accents-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Deco_0f68b7f9-33a3-4529-afcd-4c16b63c099f.2d42cffb7bf664d1d910107fcc6e9ef4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

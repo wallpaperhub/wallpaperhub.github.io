@@ -1,0 +1,129 @@
+<title>Discover the Magical World of Frozen 2</title>
+                    <meta name="description" content="Explore the captivating background of Frozen 2, its enchanting settings, and the themes that resonate throughout the film. Dive into the magic of Arendelle and the journey of Elsa and Anna as they seek to uncover their family’s secrets and embrace their destinies.">
+                    <meta name="keywords" content="frozen 2 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frozen-2-background">
+                            <span itemprop="name">frozen 2 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magical World of Frozen 2</h1>
+                <p>Frozen 2 transports viewers to the mystical land of Arendelle, enriched by the enchanting forest of Ahtohallan and its elemental spirits. The sequel explores themes of bravery, self-discovery, and the bond of sisterhood as Elsa and Anna embark on an epic journey to uncover the truth behind their family’s past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen 2: A Stunning 4K Ultra HD Wallpaper Adventure">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/992/992800.jpg' alt='Frozen 2: A Stunning 4K Ultra HD Wallpaper Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6719">
+                                <meta itemprop="height" content="2814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/992/992800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These Disney's Frozen 2 Mobile Wallpapers Will Put You In A Mood ...">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/frozen2-wallpaper-1_6e82a1c2.jpeg' alt='These Disney's Frozen 2 Mobile Wallpapers Will Put You In A Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Singapore" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/frozen2-wallpaper-1_6e82a1c2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 new Frozen 2 HD wallpapers with Elsa in white dress and her ...">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2020-01/1578692550_youloveit_com_frozen_2_hd_wallpaper_elsa_white_dress_hair_down06.jpg' alt='15 new Frozen 2 HD wallpapers with Elsa in white dress and her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2020-01/1578692550_youloveit_com_frozen_2_hd_wallpaper_elsa_white_dress_hair_down06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Frozen 2 first HD wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/96/14/2896141c73fca7c7115ddf29c16d17ff.jpg' alt='Disney Frozen 2 first HD wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/96/14/2896141c73fca7c7115ddf29c16d17ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Frozen 2 HD wallpapers with official clipart - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2019-10/1572188006_youloveit_com_frozen_2_new_hd_wallpapers_with_official_images14.jpg' alt='New Frozen 2 HD wallpapers with official clipart - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2019-10/1572188006_youloveit_com_frozen_2_new_hd_wallpapers_with_official_images14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen 2 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg' alt='Frozen 2 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full HD] Frozen 2 Concept Art | Wallpaper Request by u/wknmn : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9fzodnxoovm51.png?auto=webp&s=b05933d4e243d72a125340b4234e83373e6c1e6a' alt='Full HD] Frozen 2 Concept Art | Wallpaper Request by u/wknmn : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2338">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9fzodnxoovm51.png?auto=webp&s=b05933d4e243d72a125340b4234e83373e6c1e6a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Wallpaper with Anna and Elsa from Frozen 2 with a Frozen 1 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ff4zxtzhc9r41.png?width=1080&crop=smart&auto=webp&s=34d08983a2e2049a89f0e39ef1c64b9e21b5a273' alt='Made a Wallpaper with Anna and Elsa from Frozen 2 with a Frozen 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ff4zxtzhc9r41.png?width=1080&crop=smart&auto=webp&s=34d08983a2e2049a89f0e39ef1c64b9e21b5a273' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen 2 Wallpaper 4K, Anna, Elsa, Enchanted Forest, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/frozen-2-anna-elsa-enchanted-forest-5k-8k-2560x1080-566.jpg' alt='Frozen 2 Wallpaper 4K, Anna, Elsa, Enchanted Forest, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/frozen-2-anna-elsa-enchanted-forest-5k-8k-2560x1080-566.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fozen 2 new HD wallpapers with "magic" numbers from 1 to 8">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/02/aa/3902aa31f38cf26874e23d996ea2a4e0.jpg' alt='Fozen 2 new HD wallpapers with "magic" numbers from 1 to 8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/02/aa/3902aa31f38cf26874e23d996ea2a4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

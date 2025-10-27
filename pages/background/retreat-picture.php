@@ -1,0 +1,129 @@
+<title>Retreat Pictures: Capture Your Journey to Serenity</title>
+                    <meta name="description" content="Explore captivating retreat pictures that encapsulate tranquility and rejuvenation. Discover the beauty of serene landscapes and mindfulness practices that inspire peace and relaxation. Perfect for those seeking inspiration for their next getaway or simply a moment of calm in their day.">
+                    <meta name="keywords" content="retreat picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retreat-picture">
+                            <span itemprop="name">retreat picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retreat Pictures: Capture Your Journey to Serenity</h1>
+                <p>Capturing the essence of serenity, a retreat picture embodies peace and rejuvenation. It showcases tranquil landscapes, calming yoga sessions, and moments of reflection that inspire a deep sense of connection with nature. Whether it’s a calming sunrise or a peaceful meditation circle, these images transport you to a realm of relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiritual retreat hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/G31M6T/a-hidden-sign-for-a-spiritual-retreat-G31M6T.jpg' alt='Spiritual retreat hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/G31M6T/a-hidden-sign-for-a-spiritual-retreat-G31M6T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,800+ Yoga Retreat Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1283377954/photo/yoga-silhouettes-of-group-of-people-meditating.jpg?s=612x612&w=0&k=20&c=rkxT6_5ljsdRsLs-59IVyB6CV6yarCjifMdcR9DMmOg=' alt='84,800+ Yoga Retreat Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1283377954/photo/yoga-silhouettes-of-group-of-people-meditating.jpg?s=612x612&w=0&k=20&c=rkxT6_5ljsdRsLs-59IVyB6CV6yarCjifMdcR9DMmOg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 12 weird but wonderful wellness retreats - World Travel Guide">
+                                <img itemprop="contentUrl url" src='https://www.worldtravelguide.net/wp-content/uploads/2021/06/shu-Gen-Retreat-Signage_1499972936-1440x823-1.jpg' alt='The 12 weird but wonderful wellness retreats - World Travel Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="823">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Travel Guide" />
+                                </span>
+                                <a href='https://www.worldtravelguide.net/wp-content/uploads/2021/06/shu-Gen-Retreat-Signage_1499972936-1440x823-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Types of Retreats: Their Purpose, Benefits, and More">
+                                <img itemprop="contentUrl url" src='https://bookinglayer.com/storage/app/media/blog/Retreat%20type%20feature.jpg' alt='9 Types of Retreats: Their Purpose, Benefits, and More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bookinglayer" />
+                                </span>
+                                <a href='https://bookinglayer.com/storage/app/media/blog/Retreat%20type%20feature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retreat Text Written On Sand Near Stock Photo 1419690674 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/closeup-retreat-directional-arrow-sign-260nw-1419690773.jpg' alt='Retreat Text Written On Sand Near Stock Photo 1419690674 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/closeup-retreat-directional-arrow-sign-260nw-1419690773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Steps to Planning the Ultimate Yoga Retreat">
+                                <img itemprop="contentUrl url" src='https://cdn.yogajournal.com/wp-content/uploads/2017/02/retreat-friends-community-beach.jpg' alt='6 Steps to Planning the Ultimate Yoga Retreat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yoga Journal" />
+                                </span>
+                                <a href='https://cdn.yogajournal.com/wp-content/uploads/2017/02/retreat-friends-community-beach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retreat (2011) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTc2ODY0NTk3Ml5BMl5BanBnXkFtZTcwMDk3MjQ4Ng@@._V1_.jpg' alt='Retreat (2011) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTc2ODY0NTk3Ml5BMl5BanBnXkFtZTcwMDk3MjQ4Ng@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven Springs Holistic Retreats - Seven Springs Retreats">
+                                <img itemprop="contentUrl url" src='https://www.sevenspringsretreats.com/uploads/7/9/6/0/79608986/sunrise-practice-shala-1.jpg' alt='Seven Springs Holistic Retreats - Seven Springs Retreats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sevenspringsretreats.com" />
+                                </span>
+                                <a href='https://www.sevenspringsretreats.com/uploads/7/9/6/0/79608986/sunrise-practice-shala-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Organize a Retreat in Bali: The Ultimate Guide - Emerhub">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/emerhub.com/wp-content/uploads/retreat-in-Bali.jpg?fit=1600%2C900&quality=89&ssl=1' alt='How to Organize a Retreat in Bali: The Ultimate Guide - Emerhub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emerhub" />
+                                </span>
+                                <a href='https://i0.wp.com/emerhub.com/wp-content/uploads/retreat-in-Bali.jpg?fit=1600%2C900&quality=89&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Retreat - leading-retreats">
+                                <img itemprop="contentUrl url" src='https://www.leading-retreats.com/_res/img/251/g/33/0/000003_05.jpeg' alt='Nature Retreat - leading-retreats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1279">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leading Retreats" />
+                                </span>
+                                <a href='https://www.leading-retreats.com/_res/img/251/g/33/0/000003_05.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Business with Inflection Company</title>
+                    <meta name="description" content="Discover how Inflection Company is revolutionizing the business landscape through advanced analytics and technology solutions. Unlock your organization's potential with data-driven insights and drive growth in today’s competitive market. Join us in shaping the future of industry innovation.">
+                    <meta name="keywords" content="inflection company">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/inflection-company">
+                            <span itemprop="name">inflection company</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Business with Inflection Company</h1>
+                <p>Inflection Company is a forward-thinking firm dedicated to transforming how businesses leverage data and technology. With innovative solutions in analytics and machine learning, Inflection empowers organizations to make informed decisions, enhance operational efficiency, and stay ahead in the competitive market. Their expertise helps drive growth and success.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection: Building Trust At the Point of Connection">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b47b86896e76fcc7c17a619/b314af17-f209-415a-abdd-d3edcd01bb2a/Inflection-Ukraine-Logo-Type.png' alt='Inflection: Building Trust At the Point of Connection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1450">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.inflection.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b47b86896e76fcc7c17a619/b314af17-f209-415a-abdd-d3edcd01bb2a/Inflection-Ukraine-Logo-Type.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing Inflection for Enterprise | Business Wire">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20241007441972/en/2263986/22/Inflection_Logo%2BLines_2color.jpg' alt='Introducing Inflection for Enterprise | Business Wire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20241007441972/en/2263986/22/Inflection_Logo%2BLines_2color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection AI Announces $1.3 Billion of Funding Led by Current ...">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20230629810313/en/1831719/5/Inflection_Logo%2BLines.jpg' alt='Inflection AI Announces $1.3 Billion of Funding Led by Current ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20230629810313/en/1831719/5/Inflection_Logo%2BLines.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection Company Profile Funding & Investors | YourStory">
+                                <img itemprop="contentUrl url" src='https://images.yourstory.com/cs/images/companies/Untitledpresentation2-1636731292867.png?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75' alt='Inflection Company Profile Funding & Investors | YourStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YourStory.com" />
+                                </span>
+                                <a href='https://images.yourstory.com/cs/images/companies/Untitledpresentation2-1636731292867.png?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeepMind and LinkedIn Co-Founders Unveil New Conversational AI ...">
+                                <img itemprop="contentUrl url" src='http://voicebot.ai/wp-content/uploads/2022/03/inflection-ai.png' alt='DeepMind and LinkedIn Co-Founders Unveil New Conversational AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voicebot.ai" />
+                                </span>
+                                <a href='http://voicebot.ai/wp-content/uploads/2022/03/inflection-ai.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection (a Checkr company) | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E0BAQEmQChBbIJPmQ/company-logo_200_200/company-logo_200_200/0/1649710264787/inflection_logo?e=2147483647&v=beta&t=RTHeF4JXcYSRjAJNrAjweepECI9mmK3Zvb5K1U5wI_8' alt='Inflection (a Checkr company) | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E0BAQEmQChBbIJPmQ/company-logo_200_200/company-logo_200_200/0/1649710264787/inflection_logo?e=2147483647&v=beta&t=RTHeF4JXcYSRjAJNrAjweepECI9mmK3Zvb5K1U5wI_8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection AI Stock: Hey Pi, Will there be an IPO?">
+                                <img itemprop="contentUrl url" src='https://accessipos.com/wp-content/uploads/2023/08/InflectionAILogo.png' alt='Inflection AI Stock: Hey Pi, Will there be an IPO?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Access IPOs" />
+                                </span>
+                                <a href='https://accessipos.com/wp-content/uploads/2023/08/InflectionAILogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection: Duo Case Study | Duo Security">
+                                <img itemprop="contentUrl url" src='https://duo.com/assets/img/customerlogos/INF_logo_2015.png' alt='Inflection: Duo Case Study | Duo Security'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duo Security" />
+                                </span>
+                                <a href='https://duo.com/assets/img/customerlogos/INF_logo_2015.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Inflection - a Checkr company">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064088671473' alt='Profile for Inflection - a Checkr company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064088671473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inflection.io | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQEDGJZOfjE-0Q/company-logo_200_200/company-logo_200_200/0/1636045652688/inflection_io_logo?e=2147483647&v=beta&t=kzLQYGBc1yXsMyxM_xWkjLFyYl9g4XDp5GLbnVPc2SQ' alt='Inflection.io | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQEDGJZOfjE-0Q/company-logo_200_200/company-logo_200_200/0/1636045652688/inflection_io_logo?e=2147483647&v=beta&t=kzLQYGBc1yXsMyxM_xWkjLFyYl9g4XDp5GLbnVPc2SQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

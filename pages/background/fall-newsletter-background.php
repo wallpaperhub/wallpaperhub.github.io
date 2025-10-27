@@ -1,0 +1,129 @@
+<title>Autumn Vibes: Your Essential Fall Newsletter</title>
+                    <meta name="description" content="Stay updated this autumn with our Fall Newsletter. Enjoy seasonal recipes, home décor ideas, and local event highlights. Embrace the beauty of fall with insightful articles and community news, tailored to enrich your experience. Sign up now for the latest updates!">
+                    <meta name="keywords" content="fall newsletter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-newsletter-background">
+                            <span itemprop="name">fall newsletter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Autumn Vibes: Your Essential Fall Newsletter</h1>
+                <p>As the leaves turn and temperatures drop, our Fall Newsletter welcomes the vibrant colors of the season. Explore articles on seasonal recipes, home décor tips, and local events. Embrace the cozy vibes of autumn with updates on community happenings, helpful advice, and heartwarming stories that embody the spirit of this beautiful time of year.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGRiMbEbjo/1/0/1131w/canva-orange-watercolor-autumn-background-document-FGeljaLYVVc.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGRiMbEbjo/1/0/1131w/canva-orange-watercolor-autumn-background-document-FGeljaLYVVc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsletter Background Fall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-clipboard-surrounded-by-autumn-leaves_23-2148610381.jpg' alt='Newsletter Background Fall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-clipboard-surrounded-by-autumn-leaves_23-2148610381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/13/39/64/360_F_1013396447_LLtQXULmyIVyOH5lpcQFs33Brjpxrzp6.jpg' alt='Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/13/39/64/360_F_1013396447_LLtQXULmyIVyOH5lpcQFs33Brjpxrzp6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/68/53/20/360_F_468532076_fuQRYKgTL92iNBRskDv2k7tQurxpa3Yu.jpg' alt='Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/68/53/20/360_F_468532076_fuQRYKgTL92iNBRskDv2k7tQurxpa3Yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Newsletter Banner Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/autumn-panorama-background-260nw-492725416.jpg' alt='Fall Newsletter Banner Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="855">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/autumn-panorama-background-260nw-492725416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsletter Background Fall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/autumn-background-with-red-leaves-copy-space-available_482257-31533.jpg' alt='Newsletter Background Fall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/autumn-background-with-red-leaves-copy-space-available_482257-31533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 November Newsletter ideas | thanksgiving background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e3/1c/f4/e31cf4279104535b34528328859934df.jpg' alt='22 November Newsletter ideas | thanksgiving background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e3/1c/f4/e31cf4279104535b34528328859934df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Newsletter Banner Stock Illustrations – 433 Fall Newsletter ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/autumn-sale-banner-featuring-vibrant-fall-leaves-arranged-decorative-frame-set-against-textured-wooden-background-warm-346171141.jpg' alt='Fall Newsletter Banner Stock Illustrations – 433 Fall Newsletter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/autumn-sale-banner-featuring-vibrant-fall-leaves-arranged-decorative-frame-set-against-textured-wooden-background-warm-346171141.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/44/25/09/360_F_1044250982_M4xORKAryAY8e6KXB4uPnM1ojChavieY.jpg' alt='Fall Newsletter Images – Browse 2,742 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/44/25/09/360_F_1044250982_M4xORKAryAY8e6KXB4uPnM1ojChavieY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsletter Background Fall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fall-leaves-beige-background-vector_53876-143462.jpg' alt='Newsletter Background Fall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fall-leaves-beige-background-vector_53876-143462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

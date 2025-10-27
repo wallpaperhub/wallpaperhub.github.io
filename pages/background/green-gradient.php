@@ -1,0 +1,129 @@
+<title>Stunning Green Gradient: Nature's Refreshing Palette</title>
+                    <meta name="description" content="Explore the beauty of green gradients! Perfect for design enthusiasts, this vibrant color blend captures the essence of nature, promoting tranquility and vitality in any space. Discover how to incorporate these captivating gradients into your art and decor for a fresh, inviting atmosphere.">
+                    <meta name="keywords" content="green gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-gradient">
+                            <span itemprop="name">green gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green Gradient: Nature's Refreshing Palette</h1>
+                <p>A green gradient is a beautiful blend of varying shades of green, creating a calming and refreshing visual experience. It's often used in design to evoke feelings of nature, growth, and renewal. Whether in digital art or home decor, a green gradient can bring a sense of serenity and harmony, making spaces feel more inviting and organic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Gradient Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/771/729/non_2x/abstract-gradient-background-with-green-color-spotlight-pattern-illustration-free-vector.jpg' alt='Green Gradient Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/771/729/non_2x/abstract-gradient-background-with-green-color-spotlight-pattern-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Green Gradient Digital Paper Background PNG - Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/5050c3/4479531310/il_fullxfull.4479531310_gck9.jpg' alt='Seamless Green Gradient Digital Paper Background PNG - Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/5050c3/4479531310/il_fullxfull.4479531310_gck9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Gradient: + 20 Gradient Color Samples">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091774fe_Rectangle%20(13).svg' alt='Dark Green Gradient: + 20 Gradient Color Samples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091774fe_Rectangle%20(13).svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Green Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701678636871-01cf5f6d5d68?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGdyYWRpZW50JTIwZ3JlZW58ZW58MHx8MHx8fDA%3D' alt='Gradient Green Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701678636871-01cf5f6d5d68?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGdyYWRpZW50JTIwZ3JlZW58ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Gradient | Gradient | Html Colors">
+                                <img itemprop="contentUrl url" src='https://htmlcolors.com/gradients-images/73-light-green-gradient.jpg' alt='Light Green Gradient | Gradient | Html Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Html Colors" />
+                                </span>
+                                <a href='https://htmlcolors.com/gradients-images/73-light-green-gradient.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Gradient Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/887/350/non_2x/dark-green-red-gradient-blur-pattern-vector.jpg' alt='Green Gradient Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/887/350/non_2x/dark-green-red-gradient-blur-pattern-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Green Images – Browse 2,423,185 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/66/97/53/360_F_266975389_sBNp4HyE8gG58U62Fv2A6JTsaAVtLMk4.jpg' alt='Gradient Green Images – Browse 2,423,185 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/66/97/53/360_F_266975389_sBNp4HyE8gG58U62Fv2A6JTsaAVtLMk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/modern-abstract-blurred-gradient-wallpaper-background_430227-1271.jpg?semt=ais_hybrid' alt='Green Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/modern-abstract-blurred-gradient-wallpaper-background_430227-1271.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multicolored color gradient motion loopable background animation Stock  Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1306489282/video/4k-multicolored-color-gradient-motion-loopable-background-animation.jpg?s=640x640&k=20&c=b_-BNip_OHgM0Q2ss4SZ0CCq8vbctcyrFAYw2bCKHbQ=' alt='Multicolored color gradient motion loopable background animation Stock  Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1306489282/video/4k-multicolored-color-gradient-motion-loopable-background-animation.jpg?s=640x640&k=20&c=b_-BNip_OHgM0Q2ss4SZ0CCq8vbctcyrFAYw2bCKHbQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Green Glory Gradient Wallpapers">
+                                <img itemprop="contentUrl url" src='https://gradient.page/_next/image?url=%2Fcdn%2Fgreen-glory%2Fgreen-glory-003.jpg&w=1920&q=75' alt='30 Green Glory Gradient Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gradient Page" />
+                                </span>
+                                <a href='https://gradient.page/_next/image?url=%2Fcdn%2Fgreen-glory%2Fgreen-glory-003.jpg&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

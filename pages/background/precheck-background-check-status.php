@@ -1,0 +1,129 @@
+<title>How to Precheck Your Background Check Status</title>
+                    <meta name="description" content="Discover how to easily precheck your background check status. Get essential tips on contacting agencies and tracking your application efficiently. Learn the best practices to ensure your background check is processed smoothly and timely.">
+                    <meta name="keywords" content="precheck background check status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/precheck-background-check-status">
+                            <span itemprop="name">precheck background check status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Precheck Your Background Check Status</h1>
+                <p>To precheck your background check status, start by contacting the agency responsible for the check. Provide necessary details like your name and application number. This process may involve waiting for a confirmation, so patience is key. Regularly follow up to ensure your application is being processed timely.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The most accurate healthcare background screening available ...">
+                                <img itemprop="contentUrl url" src='https://40249759.fs1.hubspotusercontent-na1.net/hubfs/40249759/Imagery/Branding/PreCheck%20Open%20Graph.png' alt='The most accurate healthcare background screening available ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive" />
+                                </span>
+                                <a href='https://40249759.fs1.hubspotusercontent-na1.net/hubfs/40249759/Imagery/Branding/PreCheck%20Open%20Graph.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Questions To Ask Your Background Check Provider | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1255217821317252&get_thumbnail=1' alt='7 Questions To Ask Your Background Check Provider | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1255217821317252&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take? | ResumeSpice">
+                                <img itemprop="contentUrl url" src='https://resumespice.com/wp-content/uploads/2021/07/pre-employment-screening-report-2.jpeg' alt='How Long Does a Background Check Take? | ResumeSpice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResumeSpice" />
+                                </span>
+                                <a href='https://resumespice.com/wp-content/uploads/2021/07/pre-employment-screening-report-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The most accurate healthcare background screening available ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/65cf010a22aa72c96c77d22e/6786da0a314577148914a595_cisive_safety_badge%20copy-08.png' alt='The most accurate healthcare background screening available ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6289">
+                                <meta itemprop="height" content="6479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/65cf010a22aa72c96c77d22e/6786da0a314577148914a595_cisive_safety_badge%20copy-08.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does Tsa Precheck Take – A Complete Guide For Travellers ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0319/8721/files/image3_8e135cfc-3ff2-4b4a-8132-9a38bb608e91.png?v=1721201907' alt='How Long Does Tsa Precheck Take – A Complete Guide For Travellers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1005">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cabin Zero" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0319/8721/files/image3_8e135cfc-3ff2-4b4a-8132-9a38bb608e91.png?v=1721201907' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Pass a TSA Background Check | Essential Tips and Requirements">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147505670/images/10c68a5-5841-125-e6f-4e65cb5b21_napkin-selection_11_.png' alt='How to Pass a TSA Background Check | Essential Tips and Requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="869">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestHQ" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147505670/images/10c68a5-5841-125-e6f-4e65cb5b21_napkin-selection_11_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whole P R E -C H E C K P R E -C H E C K Helping You Hire the Best ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/22/6407602/slides/slide_4.jpg' alt='Whole P R E -C H E C K P R E -C H E C K Helping You Hire the Best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/22/6407602/slides/slide_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to lose your TSA PreCheck status - Stuck at the Airport">
+                                <img itemprop="contentUrl url" src='https://stuckattheairport.com/wp-content/uploads/2013/04/TSAS-PRECHECK.jpg' alt='How to lose your TSA PreCheck status - Stuck at the Airport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stuck at the Airport" />
+                                </span>
+                                <a href='https://stuckattheairport.com/wp-content/uploads/2013/04/TSAS-PRECHECK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PreCheck Background Check Class Action Lawsuit Settlement">
+                                <img itemprop="contentUrl url" src='https://topclassactions.com/wp-content/uploads/2015/11/precheck-e1447901109630.jpg.optimal.jpg' alt='PreCheck Background Check Class Action Lawsuit Settlement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top Class Actions" />
+                                </span>
+                                <a href='https://topclassactions.com/wp-content/uploads/2015/11/precheck-e1447901109630.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The TSA PreCheck® Enrollment Process">
+                                <img itemprop="contentUrl url" src='https://www.themouseforless.com/blog_world/wp-content/uploads/2016/10/TSA-Feature-Image.jpg' alt='The TSA PreCheck® Enrollment Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mouse For Less" />
+                                </span>
+                                <a href='https://www.themouseforless.com/blog_world/wp-content/uploads/2016/10/TSA-Feature-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

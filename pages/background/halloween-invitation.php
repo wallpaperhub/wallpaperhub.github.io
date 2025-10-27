@@ -1,0 +1,129 @@
+<title>Spooky Halloween Invitation: Join Our Creepy Celebration!</title>
+                    <meta name="description" content="Get ready for a frightful night! Our Halloween party is packed with fun, games, and tasty treats. Dress in your best costume and join us on October 31st. RSVP now to secure your spot for a hauntingly good time!">
+                    <meta name="keywords" content="halloween invitation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-invitation">
+                            <span itemprop="name">halloween invitation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Invitation: Join Our Creepy Celebration!</h1>
+                <p>Join us for a spooktacular Halloween celebration! Dress in your creepiest costume and enjoy a night filled with treats, games, and eerie fun. When: October 31st, 6 PM - 10 PM. Where: 123 Haunted Lane, Spooky Town. RSVP by October 25th. Don’t miss the frightful festivities! Creepy snacks await!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Halloween Party Invitation, Printable Halloween Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21941300/r/il/96cda1/4628283381/il_570xN.4628283381_95mq.jpg' alt='Editable Halloween Party Invitation, Printable Halloween Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21941300/r/il/96cda1/4628283381/il_570xN.4628283381_95mq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITABLE Boos & Booze Halloween Invitation | Halloween Invitations ...">
+                                <img itemprop="contentUrl url" src='http://www.ohhappyprintables.com/cdn/shop/products/H1-Boos_BoozeInvitation3.jpg?v=1633515581' alt='EDITABLE Boos & Booze Halloween Invitation | Halloween Invitations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh Happy Printables" />
+                                </span>
+                                <a href='http://www.ohhappyprintables.com/cdn/shop/products/H1-Boos_BoozeInvitation3.jpg?v=1633515581' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Seasonal Cards & Invitations | 5x7 Greeting Card, Glossy ...">
+                                <img itemprop="contentUrl url" src='https://photos3.walmart.com/prism/themes/wmcards-q120.themepack/HMK_spookyspiderhalloweenpartyinvitation_5x7.card/_hd_product_5x7V001.jpg' alt='Custom Seasonal Cards & Invitations | 5x7 Greeting Card, Glossy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="366">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Photo" />
+                                </span>
+                                <a href='https://photos3.walmart.com/prism/themes/wmcards-q120.themepack/HMK_spookyspiderhalloweenpartyinvitation_5x7.card/_hd_product_5x7V001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghostly Affair Halloween Invitations">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/product/g/h/ghostly-affair-halloween-invitations-up-2x.jpg' alt='Ghostly Affair Halloween Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Invite" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/product/g/h/ghostly-affair-halloween-invitations-up-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SICOHOME Halloween Party Invitation Card for Kids Adults,  12pcs 5"x 7" Halloween Invitations with Envelope,Fill In Blank Invites for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71YEf3p+6FL.jpg' alt='Amazon.com : SICOHOME Halloween Party Invitation Card for Kids Adults,  12pcs 5"x 7" Halloween Invitations with Envelope,Fill In Blank Invites for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71YEf3p+6FL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wicked Halloween Invitations">
+                                <img itemprop="contentUrl url" src='http://www.customcandybarwrapper.com/cdn/shop/products/halloweeninvitations11_3825a56f-029a-49a2-9aaf-2bff14a43bc0.jpg?v=1570650792' alt='Wicked Halloween Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Candy Bar Wrappers" />
+                                </span>
+                                <a href='http://www.customcandybarwrapper.com/cdn/shop/products/halloweeninvitations11_3825a56f-029a-49a2-9aaf-2bff14a43bc0.jpg?v=1570650792' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderwebs Halloween Invitations">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/product/s/p/spiderwebs-halloween-invitations-up-2x.jpg' alt='Spiderwebs Halloween Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Invite" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/product/s/p/spiderwebs-halloween-invitations-up-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LET'S GET BATTY">
+                                <img itemprop="contentUrl url" src='https://sample1.planetart.com/preview/10-100975-1-663-663-2024-dcpPetal.jpg' alt='LET'S GET BATTY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply to Impress" />
+                                </span>
+                                <a href='https://sample1.planetart.com/preview/10-100975-1-663-663-2024-dcpPetal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You're invited: 20 Halloween Party Invitations to Cut Out | for Kids,  Themed, Costume, or Adult Party | 20pcs 5"x 7" | Blank Fill in Invite Card  | ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pBVh9EprL._AC_UF1000,1000_QL80_.jpg' alt='You're invited: 20 Halloween Party Invitations to Cut Out | for Kids,  Themed, Costume, or Adult Party | 20pcs 5"x 7" | Blank Fill in Invite Card  | ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pBVh9EprL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Party Invitation, Printable, Ghouls Night Out, Halloween Party  Invitations, Halloween Invitation for Adults, Skeleton Invitation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6193016/r/il/75d66c/363263589/il_570xN.363263589_ec29.jpg' alt='Halloween Party Invitation, Printable, Ghouls Night Out, Halloween Party  Invitations, Halloween Invitation for Adults, Skeleton Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6193016/r/il/75d66c/363263589/il_570xN.363263589_ec29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Duck Peel and Stick Wallpaper for Easy Home Makeovers</title>
+                    <meta name="description" content="Explore our delightful duck peel and stick wallpaper! Easy to apply and remove, it's perfect for adding a playful touch to your home. Ideal for kids' rooms or any space needing a refresh, this removable wallpaper is durable, washable, and renter-friendly. Transform your walls effortlessly today!">
+                    <meta name="keywords" content="duck peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/duck-peel-and-stick-wallpaper">
+                            <span itemprop="name">duck peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Duck Peel and Stick Wallpaper for Easy Home Makeovers</h1>
+                <p>Transform your space with our charming duck peel and stick wallpaper! Effortlessly add a whimsical touch to any room with easy installation and removal. Ideal for nurseries, playrooms, or any area needing a bit of cheer. Our wallpaper is durable, washable, and leaves no residue, making it perfect for renters and homeowners alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Ducks Removable Wallpaper - Traditional - White Print Wall Mural  - Self Adhesive Wall Decal - Temporary Peel And Stick #72">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16236308/r/il/880865/1327833066/il_570xN.1327833066_edtu.jpg' alt='Watercolor Ducks Removable Wallpaper - Traditional - White Print Wall Mural  - Self Adhesive Wall Decal - Temporary Peel And Stick #72'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16236308/r/il/880865/1327833066/il_570xN.1327833066_edtu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Hand Painted Ducks Wings Waterfowl Wildlife  Cabin Lake Pond Woods Outdoorsmen Nature Birds Flying Custom Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51LHXPDIJhL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Hand Painted Ducks Wings Waterfowl Wildlife  Cabin Lake Pond Woods Outdoorsmen Nature Birds Flying Custom Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51LHXPDIJhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Self Adhesive PVC Wallpaper Male Mallard Duck Coming into Land  with a Splash Peel & Stick Wallpaper Wall Mural Wall Decal Wall Poster Home  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71S-QIeOlcL.jpg' alt='Amazon.com: Self Adhesive PVC Wallpaper Male Mallard Duck Coming into Land  with a Splash Peel & Stick Wallpaper Wall Mural Wall Decal Wall Poster Home  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71S-QIeOlcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Painted Ducks Wallpaper, Vintage Duck Peel and Stick Birds ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40990538/r/il/20cf69/4762958887/il_fullxfull.4762958887_9qz0.jpg' alt='Hand Painted Ducks Wallpaper, Vintage Duck Peel and Stick Birds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40990538/r/il/20cf69/4762958887/il_fullxfull.4762958887_9qz0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ducks In a Row Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/ducks-in-a-row-peel-and-stick-removable-wallpaper-673869.png?v=1716475011' alt='Ducks In a Row Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/ducks-in-a-row-peel-and-stick-removable-wallpaper-673869.png?v=1716475011' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow duck">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/ducks-removable-wallpaper-in-bohemian-style-kids-bedroom.jpg' alt='Yellow duck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/ducks-removable-wallpaper-in-bohemian-style-kids-bedroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ducks In a Row Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/ducks-in-a-row-peel-and-stick-removable-wallpaper-145314.png?v=1712271433' alt='Ducks In a Row Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/ducks-in-a-row-peel-and-stick-removable-wallpaper-145314.png?v=1712271433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Duck Family">
+                                <img itemprop="contentUrl url" src='https://coloraydecor.com/images/cd/coloraydecor-f-as-160770840/5/l/wallpaper-duck-family.jpg' alt='Wallpaper Duck Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorayDecor.com" />
+                                </span>
+                                <a href='https://coloraydecor.com/images/cd/coloraydecor-f-as-160770840/5/l/wallpaper-duck-family.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Hunting Duck on Green Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.modifiedtot.com/cdn/shop/files/duck-hunting-duck-on-green-peel-stick-wallpaper-410436.jpg?v=1718585862' alt='Duck Hunting Duck on Green Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modified Tot" />
+                                </span>
+                                <a href='https://www.modifiedtot.com/cdn/shop/files/duck-hunting-duck-on-green-peel-stick-wallpaper-410436.jpg?v=1718585862' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Ducks Flying Stock Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decoration Mural Wall Paper  - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IDRDHdZiL.jpg' alt='Peel and Stick Wallpaper Ducks Flying Stock Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decoration Mural Wall Paper  - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IDRDHdZiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

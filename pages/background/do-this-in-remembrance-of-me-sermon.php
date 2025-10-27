@@ -1,0 +1,129 @@
+<title>Remembering Christ: A Communion Reflection</title>
+                    <meta name="description" content="Explore the significance of communion in this sermon, "Do This in Remembrance of Me." Discover how this sacred act deepens our faith and strengthens community bonds. Join us as we reflect on Christ's sacrifice and its impact on our lives, fostering remembrance and renewal.">
+                    <meta name="keywords" content="do this in remembrance of me sermon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-this-in-remembrance-of-me-sermon">
+                            <span itemprop="name">do this in remembrance of me sermon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Remembering Christ: A Communion Reflection</h1>
+                <p>In the sermon "Do This in Remembrance of Me," we reflect on the profound significance of communion. Jesus invites us to remember His sacrifice, fostering deeper connections with Him and each other. This act of remembrance is not only a tradition but a transformative encounter, where faith is renewed, and community strengthened.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Video Illustration: Do This In Remembrance Of Me ...">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/22122_poster.jpg' alt='Church Video Illustration: Do This In Remembrance Of Me ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/22122_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Remembrance Of Me - 11:17-34 - Logos Sermons">
+                                <img itemprop="contentUrl url" src='https://files.logoscdn.com/v1/files/54553640/assets/12504726/content.png?download=true&signature=AyEZFJM21-QDptCND4tEDxdLF3Y' alt='In Remembrance Of Me - 11:17-34 - Logos Sermons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos Sermons" />
+                                </span>
+                                <a href='https://files.logoscdn.com/v1/files/54553640/assets/12504726/content.png?download=true&signature=AyEZFJM21-QDptCND4tEDxdLF3Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="“In Remembrance of Me” - 03/31/23">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W9fz_xAhpxI/maxresdefault.jpg' alt='“In Remembrance of Me” - 03/31/23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W9fz_xAhpxI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sermons | The Rock Church Of The High Desert">
+                                <img itemprop="contentUrl url" src='https://dq5pwpg1q8ru0.cloudfront.net/2024/01/01/09/32/57/875e3a00-0b4c-4094-a148-7c09cbd9b293/Screenshot-2024-01-01-at-9.27.29%25E2%2580%25AFAM.png' alt='Sermons | The Rock Church Of The High Desert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Rock Church Of The High Desert" />
+                                </span>
+                                <a href='https://dq5pwpg1q8ru0.cloudfront.net/2024/01/01/09/32/57/875e3a00-0b4c-4094-a148-7c09cbd9b293/Screenshot-2024-01-01-at-9.27.29%25E2%2580%25AFAM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do This in Remembrance of Me | Lyndale United Church of Christ">
+                                <img itemprop="contentUrl url" src='https://www.lyndaleucc.org/wp-content/uploads/2020/10/10.11.20-940x675.png' alt='Do This in Remembrance of Me | Lyndale United Church of Christ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lyndale United Church of Christ" />
+                                </span>
+                                <a href='https://www.lyndaleucc.org/wp-content/uploads/2020/10/10.11.20-940x675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do This in Remembrance of Me | AllMomDoes">
+                                <img itemprop="contentUrl url" src='https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1050/files/2023/10/rachel-101923-inremembranceofme-header-1200x675.png' alt='Do This in Remembrance of Me | AllMomDoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllMomDoes" />
+                                </span>
+                                <a href='https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1050/files/2023/10/rachel-101923-inremembranceofme-header-1200x675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunday 8/8: Do This in Remembrance of Me, 1 Cor. 11:23-30 – River ...">
+                                <img itemprop="contentUrl url" src='https://riverrockchurch.com/wp-content/uploads/2021/07/21-0808-do-this-in-remembrance-title-slide.png?w=1280' alt='Sunday 8/8: Do This in Remembrance of Me, 1 Cor. 11:23-30 – River ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="River Rock Church-Belle Plaine, MN" />
+                                </span>
+                                <a href='https://riverrockchurch.com/wp-content/uploads/2021/07/21-0808-do-this-in-remembrance-title-slide.png?w=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Message: “Do This in Remembrance of Me: The Body and Blood of ...">
+                                <img itemprop="contentUrl url" src='https://ibcmadrid.com/wp-content/uploads/2021/02/PPT-Art-20200223-Do-This-in-Remembrance-of-Me.jpg' alt='Message: “Do This in Remembrance of Me: The Body and Blood of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2133">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Immanuel Baptist Church | Madrid" />
+                                </span>
+                                <a href='https://ibcmadrid.com/wp-content/uploads/2021/02/PPT-Art-20200223-Do-This-in-Remembrance-of-Me.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do This in Remembrance of Me - Palm Beach Lakes church of Christ">
+                                <img itemprop="contentUrl url" src='https://www.pblcoc.org/wp-content/uploads/sermons/2021/04/04-25-AM-Do-This-in-Remembrance-of-Me.jpg' alt='Do This in Remembrance of Me - Palm Beach Lakes church of Christ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Palm Beach Lakes church of Christ" />
+                                </span>
+                                <a href='https://www.pblcoc.org/wp-content/uploads/sermons/2021/04/04-25-AM-Do-This-in-Remembrance-of-Me.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do this in remembrance of me sermon – Truth Applied">
+                                <img itemprop="contentUrl url" src='http://truthappliedjs.com/wp-content/uploads/2023/01/Lords-Supper-676x380.jpg' alt='Do this in remembrance of me sermon – Truth Applied'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Truth Applied" />
+                                </span>
+                                <a href='http://truthappliedjs.com/wp-content/uploads/2023/01/Lords-Supper-676x380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

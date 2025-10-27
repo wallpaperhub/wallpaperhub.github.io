@@ -1,0 +1,129 @@
+<title>Check Your Amazon Background Check Status Easily</title>
+                    <meta name="description" content="Learn how to effortlessly check the status of your Amazon background check. Get timely updates and tips to stay informed throughout the hiring process. Stay in the loop and ensure you're prepared for your next steps with Amazon.">
+                    <meta name="keywords" content="how to check status of amazon background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-check-status-of-amazon-background-check">
+                            <span itemprop="name">how to check status of amazon background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Check Your Amazon Background Check Status Easily</h1>
+                <p>To check the status of your Amazon background check, log into your Amazon account and navigate to the "Career" section. Look for updates in the "Offers" or "Applications" areas. If you don't see any information, consider contacting Amazon's support for an update. Keep an eye on your email as well for any communication from them.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check still processing 2 days till start date, then the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-still-processing-2-days-till-start-date-v0-kpdil0ryofrb1.jpg?auto=webp&s=b7cf1b5cccb2a6d77a23239ea329e9442aaf5195' alt='Background check still processing 2 days till start date, then the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-still-processing-2-days-till-start-date-v0-kpdil0ryofrb1.jpg?auto=webp&s=b7cf1b5cccb2a6d77a23239ea329e9442aaf5195' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did anyone else's background check take more than 5 business days ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3aukn9kwtqv71.jpg?width=640&crop=smart&auto=webp&s=57c2d2ece6452d99ab5d6a3f9078f54248562661' alt='Did anyone else's background check take more than 5 business days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3aukn9kwtqv71.jpg?width=640&crop=smart&auto=webp&s=57c2d2ece6452d99ab5d6a3f9078f54248562661' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Need help my background check seems to be cleared but I can't move ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/need-help-my-background-check-seems-to-be-cleared-but-i-v0-fmj824of9opb1.jpg?width=640&crop=smart&auto=webp&s=42957e7c36b56405d64695a86fddd132785729f6' alt='Need help my background check seems to be cleared but I can't move ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/need-help-my-background-check-seems-to-be-cleared-but-i-v0-fmj824of9opb1.jpg?width=640&crop=smart&auto=webp&s=42957e7c36b56405d64695a86fddd132785729f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the longest you've waited for your Background Check Results ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/whats-the-longest-youve-waited-for-your-background-check-v0-edtzv2vttwjb1.jpg?width=1080&crop=smart&auto=webp&s=ef9e235dab550f1b10c435b2f02eeb93de759574' alt='What's the longest you've waited for your Background Check Results ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/whats-the-longest-youve-waited-for-your-background-check-v0-edtzv2vttwjb1.jpg?width=1080&crop=smart&auto=webp&s=ef9e235dab550f1b10c435b2f02eeb93de759574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does it take for the background check? : r/AmazonFlexDrivers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/75655oel8uq31.jpg' alt='How long does it take for the background check? : r/AmazonFlexDrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/75655oel8uq31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Pass The Amazon Flex Background Check">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60b7736b59f1400cad97bd5f/6185a79065a1f34305c60c82_Amazon%20flex%20delivery%20driver%20rate%20table.png' alt='How To Pass The Amazon Flex Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WURK" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60b7736b59f1400cad97bd5f/6185a79065a1f34305c60c82_Amazon%20flex%20delivery%20driver%20rate%20table.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We are processing your screening results. Start date in 5 days ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/we-are-processing-your-screening-results-start-date-in-5-v0-wnoceo2dxw9c1.jpeg?auto=webp&s=1c3d230495ba33846643931743a3666afe265218' alt='We are processing your screening results. Start date in 5 days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/we-are-processing-your-screening-results-start-date-in-5-v0-wnoceo2dxw9c1.jpeg?auto=webp&s=1c3d230495ba33846643931743a3666afe265218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Amazon Do Background Checks For Warehouse">
+                                <img itemprop="contentUrl url" src='https://does-amazon-do-background-checks-for-warehouse.govbackgroundchecks.com/screenshots/does-amazon-do-background-checks-for-warehouse/1.jpg' alt='Does Amazon Do Background Checks For Warehouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-amazon-do-background-checks-for-warehouse.govbackgroundchecks.com/screenshots/does-amazon-do-background-checks-for-warehouse/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every time I ask them about my background check, they respond with ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pqkxnf75txg91.jpg' alt='Every time I ask them about my background check, they respond with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pqkxnf75txg91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Pass The Amazon Flex Background Check">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60b7736b59f1400cad97bd5f/6185a6cd67e69270df401520_Amazon%20flex%20driver%20requirements.png' alt='How To Pass The Amazon Flex Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WURK" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60b7736b59f1400cad97bd5f/6185a6cd67e69270df401520_Amazon%20flex%20driver%20requirements.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

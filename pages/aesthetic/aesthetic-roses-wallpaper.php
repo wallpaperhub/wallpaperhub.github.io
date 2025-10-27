@@ -1,0 +1,129 @@
+<title>Aesthetic Roses Wallpaper: Elegant Floral Designs for Your Space</title>
+                    <meta name="description" content="Discover stunning aesthetic roses wallpaper that enhances your interior with elegance. Perfect for creating a serene atmosphere, our floral designs add beauty to any room. Transform your space effortlessly and enjoy a romantic, sophisticated vibe today!">
+                    <meta name="keywords" content="aesthetic roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-roses-wallpaper">
+                            <span itemprop="name">aesthetic roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Roses Wallpaper: Elegant Floral Designs for Your Space</h1>
+                <p>Aesthetic roses wallpaper brings a touch of elegance and romance to your space. With soft pastel hues and striking details, these beautiful floral designs can transform your walls into a serene oasis. Perfect for bedrooms or living areas, aesthetic rose wallpapers offer a blend of sophistication and calmness, creating a beautiful backdrop for any decor style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673716788461-0aa43e5d2015?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9zZSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' alt='Rose Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673716788461-0aa43e5d2015?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9zZSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic rose wallpaper, aesthetic rose wallpaper laptop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/d8/dd/61d8dd3f3fc199d4e4ae419761eb3d18.jpg' alt='aesthetic rose wallpaper, aesthetic rose wallpaper laptop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/d8/dd/61d8dd3f3fc199d4e4ae419761eb3d18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Rose Garden Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-aesthetic-rose-garden-3suq0f7xe59rxot8.webp' alt='Black Aesthetic Rose Garden Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-aesthetic-rose-garden-3suq0f7xe59rxot8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic rose wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/0c/b1/f50cb1701e3442a1963045d645ea94a8.jpg' alt='aesthetic rose wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/0c/b1/f50cb1701e3442a1963045d645ea94a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose flower Wallpaper 4K, Fire, Burning, Dark, Aesthetic">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/rose-flower-fire-burning-dark-1440x2560-464.jpeg' alt='Rose flower Wallpaper 4K, Fire, Burning, Dark, Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/rose-flower-fire-burning-dark-1440x2560-464.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Aesthetic Roses Photos, Download The BEST Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/17285263/pexels-photo-17285263.jpeg?cs=srgb&dl=pexels-yavuz-eren-gungor-188978162-17285263.jpg&fm=jpg' alt='Desktop Wallpaper Aesthetic Roses Photos, Download The BEST Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/17285263/pexels-photo-17285263.jpeg?cs=srgb&dl=pexels-yavuz-eren-gungor-188978162-17285263.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Rose Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-aesthetic-rose-iphone-hnrpk2kz7hojmnkj.jpg' alt='Dark Aesthetic Rose Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-aesthetic-rose-iphone-hnrpk2kz7hojmnkj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Aesthetic Roses Photos, Download The BEST Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/17285329/pexels-photo-17285329.jpeg?cs=srgb&dl=pexels-yavuz-eren-gungor-188978162-17285329.jpg&fm=jpg' alt='Desktop Wallpaper Aesthetic Roses Photos, Download The BEST Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/17285329/pexels-photo-17285329.jpeg?cs=srgb&dl=pexels-yavuz-eren-gungor-188978162-17285329.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1518895949257-7621c3c786d7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' alt='Rose Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1518895949257-7621c3c786d7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic rose wallpaper!  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/5d/43/cc5d430a08dd9539adb0a6cc4e2f403c.jpg' alt='Aesthetic rose wallpaper!  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/5d/43/cc5d430a08dd9539adb0a6cc4e2f403c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

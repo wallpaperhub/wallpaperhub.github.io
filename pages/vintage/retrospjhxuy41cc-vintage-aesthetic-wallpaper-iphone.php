@@ -1,0 +1,129 @@
+<title>Retro Vintage Aesthetic Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover stunning retro vintage aesthetic wallpapers for your iPhone. Elevate your device's look with unique designs that bring a nostalgic touch. Explore our collection today and find the perfect wallpaper to express your vintage style!">
+                    <meta name="keywords" content="retro:spjhxuy41cc= vintage aesthetic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/retrospjhxuy41cc-vintage-aesthetic-wallpaper-iphone">
+                            <span itemprop="name">retro:spjhxuy41cc= vintage aesthetic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Vintage Aesthetic Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with retro vintage aesthetic wallpapers that evoke nostalgia and timeless style. Choose from a curated collection featuring classic patterns, muted tones, and artistic designs that resonate with lovers of vintage vibes. Perfect for personalizing your device while celebrating the charm of the past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Retro Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-green-car-retro-iphone-fc1yjgaz7ldajtjd.jpg' alt='100+] Retro Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-green-car-retro-iphone-fc1yjgaz7ldajtjd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Aesthetic Iphone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/stylised-stickers-retro-aesthetic-iphone-cct0vgb8jyibmytr.jpg' alt='Retro Aesthetic Iphone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/stylised-stickers-retro-aesthetic-iphone-cct0vgb8jyibmytr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Quotes Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/red-vintage-car-retro-aesthetic-iphone-rr8gn5ffy5yzuwsk.webp' alt='Hippie Quotes Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/red-vintage-car-retro-aesthetic-iphone-rr8gn5ffy5yzuwsk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone backround vintage | Retro wallpaper, Cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/c8/ab/a0c8abc192696b94741e9a12d71c1311.jpg' alt='Iphone backround vintage | Retro wallpaper, Cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/c8/ab/a0c8abc192696b94741e9a12d71c1311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Aesthetic and Vintage iPhone Wallpaper Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/e6/51/efe6510ede7e42d79e3526d78702d71b.jpg' alt='30 Aesthetic and Vintage iPhone Wallpaper Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/e6/51/efe6510ede7e42d79e3526d78702d71b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/26/ac/fe26acf633306663e7fedb31f3950f40.jpg' alt='Retro iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/26/ac/fe26acf633306663e7fedb31f3950f40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage retro wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/0a/1e/b70a1ef75cecb5f50af77c078251673f.jpg' alt='Vintage retro wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/0a/1e/b70a1ef75cecb5f50af77c078251673f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80's Aesthetic Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/metallic-green-car-retro-aesthetic-iphone-gw47sedejvmwauiu.webp' alt='80's Aesthetic Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/metallic-green-car-retro-aesthetic-iphone-gw47sedejvmwauiu.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Iphone Vaporwave Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vintage-iphone-vaporwave-aesthetic-qx9hls16mf50jxkw.jpg' alt='Vintage Iphone Vaporwave Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vintage-iphone-vaporwave-aesthetic-qx9hls16mf50jxkw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out beatopia1036x's Shuffles #aesthetic #wallpaper #art #retro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a0/8b/a9/a08ba907c7f39508c168c40a0537984a.jpg' alt='Check out beatopia1036x's Shuffles #aesthetic #wallpaper #art #retro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a0/8b/a9/a08ba907c7f39508c168c40a0537984a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Heart Background GIFs for Every Occasion</title>
+                    <meta name="description" content="Discover stunning heart background GIFs to elevate your content! Perfect for showcasing love, affection, and celebration. Ideal for social media posts, websites, or personal messages. Easy to use and optimized for mobile, these animations will captivate your audience in no time!">
+                    <meta name="keywords" content="heart background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heart-background-gif">
+                            <span itemprop="name">heart background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Heart Background GIFs for Every Occasion</h1>
+                <p>Enhance your digital space with our captivating heart background GIFs! Perfect for expressing love, celebration, or adding a touch of romance to your projects. These animated hearts will bring your content to life and create an inviting atmosphere. Ideal for social media, websites, or personal messages, explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/89/8a/14/898a14d06c6c0bf27b8ceaf749cecb4c.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/89/8a/14/898a14d06c6c0bf27b8ceaf749cecb4c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Heart Pattern Animated GIF">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/36/a3/cf/36a3cffbccd05e21336c4e418fe3d0e4.gif' alt='Small Heart Pattern Animated GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/36/a3/cf/36a3cffbccd05e21336c4e418fe3d0e4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerpuff Girls Heart GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/cX7CBRkEgbkAAAAM/love-heart.gif' alt='Powerpuff Girls Heart GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/cX7CBRkEgbkAAAAM/love-heart.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel  Purple Heart Background | Neon Heart Background ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-06-2023/MlldZ-.gif' alt='Heart Tunnel  Purple Heart Background | Neon Heart Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-06-2023/MlldZ-.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF overlay background hearts - animated GIF on GIFER - by Barim">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/3p3j.gif' alt='GIF overlay background hearts - animated GIF on GIFER - by Barim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/3p3j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58 Heart Gifs ideas | heart wallpaper, heart gif, animated heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ea/4a/89/ea4a89f60ae910b3ff87e76824bcbb71.gif' alt='58 Heart Gifs ideas | heart wallpaper, heart gif, animated heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ea/4a/89/ea4a89f60ae910b3ff87e76824bcbb71.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Floating Hearts Background - Royalty-Free GIF - Animated ...">
+                                <img itemprop="contentUrl url" src='https://cliply.co/wp-content/uploads/2020/01/402001940_HEARTS_BG_400px.gif' alt='   Floating Hearts Background - Royalty-Free GIF - Animated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cliply" />
+                                </span>
+                                <a href='https://cliply.co/wp-content/uploads/2020/01/402001940_HEARTS_BG_400px.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts Background GIF | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/red-hearts-background-72ezg3dinb1cgekl.gif' alt='Red Hearts Background GIF | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/red-hearts-background-72ezg3dinb1cgekl.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF transparent hearts background - animated GIF on GIFER - by ...">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/3jni.gif' alt='GIF transparent hearts background - animated GIF on GIFER - by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/3jni.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Love GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/i2HciqJyxZ9IodSzow/giphy.gif?cid=6c09b952jgprkx73qvzsh7iflldhix0d3n05yas3fverq2ly&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Red Love GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/i2HciqJyxZ9IodSzow/giphy.gif?cid=6c09b952jgprkx73qvzsh7iflldhix0d3n05yas3fverq2ly&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

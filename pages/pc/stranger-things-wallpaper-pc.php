@@ -1,0 +1,129 @@
+<title>Epic Stranger Things Wallpaper for Your PC</title>
+                    <meta name="description" content="Discover high-quality Stranger Things wallpapers for your PC! Elevate your desktop with striking images from the beloved series. Perfect for fans looking to showcase their love for Hawkins and its characters. Explore our collection now and transform your workspace into a nostalgic adventure!">
+                    <meta name="keywords" content="stranger things wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/stranger-things-wallpaper-pc">
+                            <span itemprop="name">stranger things wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Stranger Things Wallpaper for Your PC</h1>
+                <p>Transform your PC with stunning Stranger Things wallpaper! Dive into the nostalgic 80s vibes of Hawkins, Indiana, featuring iconic characters like Eleven, Mike, and the Demogorgon. Perfect for fans of the series, our collection offers high-resolution designs that will make your desktop come alive. Choose your favorite scenes and express your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Wallpapers (83 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/c/f/124601-3840x2160-desktop-4k-stranger-things-wallpaper-image.jpg' alt='Stranger Things Wallpapers (83 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/c/f/124601-3840x2160-desktop-4k-stranger-things-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things HD Wallpaper by Randall Reis Zacarias">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/124/1249146.jpg' alt='Stranger Things HD Wallpaper by Randall Reis Zacarias'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/124/1249146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Desktop Background. by Michio-fl-chan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/29541bea-9f34-4505-98e3-220fb1a66afa/ddbynxg-7baf2ac6-c0b6-40c5-bec2-6102d37e3611.png/v1/fill/w_1192,h_670/stranger_things_desktop_background__by_michio_fl_chan_ddbynxg-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzI5NTQxYmVhLTlmMzQtNDUwNS05OGUzLTIyMGZiMWE2NmFmYVwvZGRieW54Zy03YmFmMmFjNi1jMGI2LTQwYzUtYmVjMi02MTAyZDM3ZTM2MTEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cuiZVSchLwruS1tEiEuyiYKhUwgdE_SQVKeoB04d9Kk' alt='Stranger Things Desktop Background. by Michio-fl-chan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/29541bea-9f34-4505-98e3-220fb1a66afa/ddbynxg-7baf2ac6-c0b6-40c5-bec2-6102d37e3611.png/v1/fill/w_1192,h_670/stranger_things_desktop_background__by_michio_fl_chan_ddbynxg-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzI5NTQxYmVhLTlmMzQtNDUwNS05OGUzLTIyMGZiMWE2NmFmYVwvZGRieW54Zy03YmFmMmFjNi1jMGI2LTQwYzUtYmVjMi02MTAyZDM3ZTM2MTEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cuiZVSchLwruS1tEiEuyiYKhUwgdE_SQVKeoB04d9Kk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things HD Wallpapers (400++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/hawkins-stranger-things-dxaviuaj5tmp5snh.jpg' alt='Stranger Things HD Wallpapers (400++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/hawkins-stranger-things-dxaviuaj5tmp5snh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Stranger Things HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/130/1306841.jpg' alt='Download TV Show Stranger Things HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/130/1306841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Stranger Things Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/stranger-things-dkttxahzpl44tbsa.jpg' alt='500+] Stranger Things Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/stranger-things-dkttxahzpl44tbsa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things 2, down, upside, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/896/26/HD-wallpaper-stranger-things-2-down-upside.jpg' alt='Stranger Things 2, down, upside, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/896/26/HD-wallpaper-stranger-things-2-down-upside.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 6 x Stranger Things UltraWide 21:9 wallpapers or desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_far_cry_6_x_stranger_things_01_2560x1080.jpg&height=506&sharpen' alt='Far Cry 6 x Stranger Things UltraWide 21:9 wallpapers or desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_far_cry_6_x_stranger_things_01_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any HQ/4K versions of this shot for phone wallpaper? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/any-hq-4k-versions-of-this-shot-for-phone-wallpaper-v0-eqgkj0b7iqc91.jpg?width=1080&crop=smart&auto=webp&s=40a0c42cfb7662bd82fc311ba054e370b22583fd' alt='Any HQ/4K versions of this shot for phone wallpaper? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/any-hq-4k-versions-of-this-shot-for-phone-wallpaper-v0-eqgkj0b7iqc91.jpg?width=1080&crop=smart&auto=webp&s=40a0c42cfb7662bd82fc311ba054e370b22583fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Eleven Desktop Wallpaper High - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/lXRilyCzqHNfo43YYIwUQmaHgo6mv4ljgXQzJdo23QCoOHQVjpBihWci1KK6_hbkCDbD7MkLej-T-72rypLEoqxTjkk=s1280-w1280-h800' alt='Stranger Things Eleven Desktop Wallpaper High - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/lXRilyCzqHNfo43YYIwUQmaHgo6mv4ljgXQzJdo23QCoOHQVjpBihWci1KK6_hbkCDbD7MkLej-T-72rypLEoqxTjkk=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant White Icons: Enhance Your Design</title>
+                    <meta name="description" content="Discover the beauty of white icons for your design projects. Perfect for any backdrop, these minimalistic symbols enhance clarity and elegance, making them ideal for websites and apps. Upgrade your visual content with versatile white icons that elevate user experiences and maintain a modern aesthetic.">
+                    <meta name="keywords" content="white icons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-icons">
+                            <span itemprop="name">white icons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Icons: Enhance Your Design</h1>
+                <p>White icons are a minimalistic design choice that enhances visual appeal while ensuring clarity. They are versatile and fit seamlessly into various backgrounds, making them ideal for web and app interfaces. Whether used for navigation, branding, or social media, white icons convey elegance and modernity, elevating user experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Icons Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/244/659/non_2x/white-contact-info-icon-set-with-shadows-for-location-pin-phone-fax-cellphone-person-and-email-icons-vector.jpg' alt='White Icons Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1499">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/244/659/non_2x/white-contact-info-icon-set-with-shadows-for-location-pin-phone-fax-cellphone-person-and-email-icons-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Icons White Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/588/611/non_2x/business-contact-us-icon-set-rounded-square-button-style-vector.jpg' alt='Contact Icons White Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/588/611/non_2x/business-contact-us-icon-set-rounded-square-button-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist White App Icon Bundle, 100 Ios 14 Aesthetic Icons ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27635046/r/il/d6a29e/2917894439/il_570xN.2917894439_uzaw.jpg' alt='Minimalist White App Icon Bundle, 100 Ios 14 Aesthetic Icons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27635046/r/il/d6a29e/2917894439/il_570xN.2917894439_uzaw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Icons White Images – Browse 32,219,553 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/02/96/23/360_F_302962306_mzjz64AOcXLLPsR5Q9yRwh7c2RwzN0Y0.jpg' alt='Icons White Images – Browse 32,219,553 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/02/96/23/360_F_302962306_mzjz64AOcXLLPsR5Q9yRwh7c2RwzN0Y0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Icons Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/284/248/non_2x/black-and-white-business-card-icon-design-free-vector.jpg' alt='White Icons Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/284/248/non_2x/black-and-white-business-card-icon-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Download: 80 Shades of White Icons | Web Designer Depot">
+                                <img itemprop="contentUrl url" src='https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2018/05/13061517/dribbbleicons.png' alt='Free Download: 80 Shades of White Icons | Web Designer Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Web Designer Depot" />
+                                </span>
+                                <a href='https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2018/05/13061517/dribbbleicons.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1400 Black and White App Icons Pack for iPhone Ios | Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25588129/r/il/517848/2851090433/il_fullxfull.2851090433_c9an.jpg' alt='1400 Black and White App Icons Pack for iPhone Ios | Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25588129/r/il/517848/2851090433/il_fullxfull.2851090433_c9an.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White App Icon Set - Free - Flat Icons">
+                                <img itemprop="contentUrl url" src='https://flat-icons.com/wp-content/uploads/2023/10/White-App-Icon-Set-Featured-Image.png' alt='White App Icon Set - Free - Flat Icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flat Icons" />
+                                </span>
+                                <a href='https://flat-icons.com/wp-content/uploads/2023/10/White-App-Icon-Set-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Ios App Icon Pack | 300 Unique Icons + 20 Widget Quotes + 6 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24363086/r/il/24da95/3331942709/il_570xN.3331942709_6ja3.jpg' alt='White Ios App Icon Pack | 300 Unique Icons + 20 Widget Quotes + 6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24363086/r/il/24da95/3331942709/il_570xN.3331942709_6ja3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Icon PNG Images, Vectors Free Download - Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/sm/20180520/sm_5b012512972c1.jpg' alt='White Icon PNG Images, Vectors Free Download - Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/sm/20180520/sm_5b012512972c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

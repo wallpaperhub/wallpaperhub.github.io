@@ -1,0 +1,129 @@
+<title>Bible Verse Wallpapers: Inspiring Designs for Your Space</title>
+                    <meta name="description" content="Explore our collection of stunning Bible verse wallpapers! Each design combines artistic beauty with powerful scripture, perfect for inspiring your space. Transform your environment and uplift your spirit with our curated selection. Ideal for home or office décor. Discover your favorite verses today!">
+                    <meta name="keywords" content="wallpaper:71riqc4ipgq= bible verse">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/wallpaper71riqc4ipgq-bible-verse">
+                            <span itemprop="name">wallpaper:71riqc4ipgq= bible verse</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bible Verse Wallpapers: Inspiring Designs for Your Space</h1>
+                <p>Transform your space with our beautiful Bible verse wallpapers! Perfect for inspiring faith in your home or office, these designs blend artistry with heartfelt messages. Choose uplifting scripture that resonates with you, and let your walls speak of hope, love, and wisdom. Explore our collection today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Bible Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/a8/74/cca87449e10de0b5011cdcfe51e43164.jpg' alt='4K Bible Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/a8/74/cca87449e10de0b5011cdcfe51e43164.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/a7/3c/0aa73c0399b6e5698bd2633201e0c1b0.jpg' alt='Bible verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/a7/3c/0aa73c0399b6e5698bd2633201e0c1b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Psalm 71 14 Bible Scripture Wall Art Bible Quote Poster  Landscape Canvas Painting Decoration Hanging Print for Living Room Vertical  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fH++eBPFL.jpg' alt='Amazon.com: Psalm 71 14 Bible Scripture Wall Art Bible Quote Poster  Landscape Canvas Painting Decoration Hanging Print for Living Room Vertical  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fH++eBPFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 71:20 - God Will Bring You Up Wallpaper - Christian ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper4god.com/en/wp-content/uploads/2011/12/Psalm-71-20.jpg' alt='Psalm 71:20 - God Will Bring You Up Wallpaper - Christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper4God" />
+                                </span>
+                                <a href='https://wallpaper4god.com/en/wp-content/uploads/2011/12/Psalm-71-20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Psalm 71:1-2 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inspirational-bible-verse-green-mobile-k36xtdl5wcs5svv4.jpg' alt='Download Psalm 71:1-2 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inspirational-bible-verse-green-mobile-k36xtdl5wcs5svv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When time is right, bible, christian, cute, cute christian, dark ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/86/HD-wallpaper-when-time-is-right-bible-christian-cute-cute-christian-dark-clouds-dark-pink-god-love-luvujesus-verses.jpg' alt='When time is right, bible, christian, cute, cute christian, dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/86/HD-wallpaper-when-time-is-right-bible-christian-cute-cute-christian-dark-clouds-dark-pink-god-love-luvujesus-verses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 8:31 / Bible verse lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/cd/79/24cd79e6b4c0de2773b6105d16a72c8d.jpg' alt='Romans 8:31 / Bible verse lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/cd/79/24cd79e6b4c0de2773b6105d16a72c8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_fullxfull.2452942866_hev0.jpg' alt='Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_fullxfull.2452942866_hev0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give thanks to Yahweh | Bible verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/54/15/095415ea685b899a1fa0ee7e8b94ddd1.jpg' alt='Give thanks to Yahweh | Bible verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/54/15/095415ea685b899a1fa0ee7e8b94ddd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scripture Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/59/b7/fa59b7e9da1e6b52815f5a88774c08c0.jpg' alt='Scripture Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/59/b7/fa59b7e9da1e6b52815f5a88774c08c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

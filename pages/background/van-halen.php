@@ -1,0 +1,129 @@
+<title>Discover the Legacy of Van Halen: Rock Icons</title>
+                    <meta name="description" content="Explore the electrifying world of Van Halen, the legendary rock band that shaped music history with hits like "Jump" and "Panama." Delve into their iconic sound, unforgettable performances, and the impact they've had on rock music. Join us in celebrating their legacy!">
+                    <meta name="keywords" content="van halen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/van-halen">
+                            <span itemprop="name">van halen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legacy of Van Halen: Rock Icons</h1>
+                <p>Van Halen, the iconic rock band formed in 1972, revolutionized the music scene with their electrifying guitar riffs and energetic performances. Led by the charismatic frontman David Lee Roth and the virtuoso guitarist Eddie Van Halen, their hits like "Jump" and "Panama" defined a generation, leaving a lasting legacy in rock history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Van_Halen_Lineup_1984.jpg/1200px-Van_Halen_Lineup_1984.jpg' alt='Van Halen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Van_Halen_Lineup_1984.jpg/1200px-Van_Halen_Lineup_1984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg/640px-Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg' alt='Eddie Van Halen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg/640px-Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/1978/05/van-halen-1978.jpg' alt='Van Halen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/1978/05/van-halen-1978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="van-halen.com - The Official Van Halen Web Site">
+                                <img itemprop="contentUrl url" src='http://www.van-halen.com/images/brotherscover.png' alt='van-halen.com - The Official Van Halen Web Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.van-halen.com" />
+                                </span>
+                                <a href='http://www.van-halen.com/images/brotherscover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb' alt='Van Halen Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen Dies At 65 : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2020/10/06/gettyimages-74299482_wide-a6db0ec8a2af812c6a3d07ca4689101f33a02d46.jpg' alt='Eddie Van Halen Dies At 65 : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3611">
+                                <meta itemprop="height" content="2031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2020/10/06/gettyimages-74299482_wide-a6db0ec8a2af812c6a3d07ca4689101f33a02d46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen | Disney Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disneyfanon/images/6/66/Van-halen-charts.jpg/revision/latest/scale-to-width-down/985?cb=20210315050829' alt='Van Halen | Disney Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disneyfanon/images/6/66/Van-halen-charts.jpg/revision/latest/scale-to-width-down/985?cb=20210315050829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen, Hall of Famer Who Revolutionized Guitar, Dead at 65">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/eddie-van-halen-pre-obit.jpg' alt='Eddie Van Halen, Hall of Famer Who Revolutionized Guitar, Dead at 65'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/eddie-van-halen-pre-obit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen Remastered">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815Kr1JPuIL._UF1000,1000_QL80_.jpg' alt='Van Halen Remastered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815Kr1JPuIL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Halen: The Dave Years, the Sammy Years, the Life, the Music ...">
+                                <img itemprop="contentUrl url" src='https://static.life.com/wp-content/uploads/2021/06/17161726/2.-shutterstock_editorial_507570hb-scaled.jpg' alt='Van Halen: The Dave Years, the Sammy Years, the Life, the Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LIFE" />
+                                </span>
+                                <a href='https://static.life.com/wp-content/uploads/2021/06/17161726/2.-shutterstock_editorial_507570hb-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

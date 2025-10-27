@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="theme baby shark background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/theme-baby-shark-background">
+                            <span itemprop="name">theme baby shark background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark Background Images – Browse 10,203 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/93/53/18/360_F_493531896_5zE4G1UL8oPOw7PUY2JbF8yVlTaT4sBl.jpg' alt='Baby Shark Background Images – Browse 10,203 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/93/53/18/360_F_493531896_5zE4G1UL8oPOw7PUY2JbF8yVlTaT4sBl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark Background Images – Browse 10,203 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/59/38/04/360_F_259380419_X1jjgRfbo3v2qj6DBymhyar3wc7ENQ8k.jpg' alt='Baby Shark Background Images – Browse 10,203 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/59/38/04/360_F_259380419_X1jjgRfbo3v2qj6DBymhyar3wc7ENQ8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo baby shark rosa | Shark theme birthday, Shark themed ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/57/a5/9157a59b6322cbc381aa96fc171b0928.jpg' alt='Fundo baby shark rosa | Shark theme birthday, Shark themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/57/a5/9157a59b6322cbc381aa96fc171b0928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HiParty Baby Shark Banner Backdrop, Shark Birthday Party Decorations, Shark  Photo Booth Props, Shark Birthday Party Supplies, Ocean Themed Photography  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81H54ZyuSeL._AC_UF894,1000_QL80_.jpg' alt='HiParty Baby Shark Banner Backdrop, Shark Birthday Party Decorations, Shark  Photo Booth Props, Shark Birthday Party Supplies, Ocean Themed Photography  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81H54ZyuSeL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark Digital Psd/layered Backdrop/children's  Photography/birthdays/instant Download - Etsy Norway">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17230745/r/il/c62254/3374706322/il_1080xN.3374706322_7bma.jpg' alt='Baby Shark Digital Psd/layered Backdrop/children's  Photography/birthdays/instant Download - Etsy Norway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17230745/r/il/c62254/3374706322/il_1080xN.3374706322_7bma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Baby shark party decorations ideas | shark party decorations ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2b/db/69/2bdb691ef88bbcc53d624c53ad703f8e.jpg' alt='25 Baby shark party decorations ideas | shark party decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2b/db/69/2bdb691ef88bbcc53d624c53ad703f8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Baby Shark Backdrop, Baby Shark Family Photo Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71WIk2Ev6ML._AC_UF1000,1000_QL80_.jpg' alt='7x5ft Baby Shark Backdrop, Baby Shark Family Photo Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ca" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71WIk2Ev6ML._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinkfong - Free #BabyShark Backgrounds! Now you can add... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3133503290203889' alt='Pinkfong - Free #BabyShark Backgrounds! Now you can add... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1631">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3133503290203889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark Plastic Scene Setter Background Decoration, Blue, 14.5 ...">
+                                <img itemprop="contentUrl url" src='https://apim.partycity.ca/v1/product/api/v1/product/image/8546795p?baseStoreId=PTY&lang=en_CA&subscription-key=c01ef3612328420c9f5cd9277e815a0e&imwidth=640&impolicy=mZoom' alt='Baby Shark Plastic Scene Setter Background Decoration, Blue, 14.5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Party City" />
+                                </span>
+                                <a href='https://apim.partycity.ca/v1/product/api/v1/product/image/8546795p?baseStoreId=PTY&lang=en_CA&subscription-key=c01ef3612328420c9f5cd9277e815a0e&imwidth=640&impolicy=mZoom' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baby Shark Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baby-shark-background-ej5d1whob7m1mmv4.jpg' alt='100+] Baby Shark Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baby-shark-background-ej5d1whob7m1mmv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

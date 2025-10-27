@@ -1,0 +1,129 @@
+<title>Top Green Wallpaper Ideas for a Refreshing Home</title>
+                    <meta name="description" content="Discover the best green wallpaper options to rejuvenate your home. Explore vibrant shades and elegant patterns that bring a refreshing touch to any space, perfect for creating a serene ambiance. Perfect for DIY enthusiasts or professional decorators, find your ideal wallpaper today!">
+                    <meta name="keywords" content="best green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-green-wallpaper">
+                            <span itemprop="name">best green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Green Wallpaper Ideas for a Refreshing Home</h1>
+                <p>Transform your space with the best green wallpaper! From lush forest tones to soft sage hues, green wallpapers bring nature indoors, creating calming, invigorating rooms. Whether you prefer bold patterns or subtle textures, there’s a perfect green wallpaper for every style, enhancing your home’s aesthetic and fostering tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Photos, Download The BEST Free Green Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?cs=srgb&dl=pexels-oleksandr-tiupa-53788-192136.jpg&fm=jpg' alt='Green Photos, Download The BEST Free Green Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?cs=srgb&dl=pexels-oleksandr-tiupa-53788-192136.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/66869/green-leaf-natural-wallpaper-royalty-free-66869.jpeg?cs=srgb&dl=pexels-pixabay-66869.jpg&fm=jpg' alt='Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/66869/green-leaf-natural-wallpaper-royalty-free-66869.jpeg?cs=srgb&dl=pexels-pixabay-66869.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A collection of Green wallpapers : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/fXeaLklUHSCbYxHxipYEP5wOkQEKZM16K2O0LvmtBSE.jpg?width=640&crop=smart&auto=webp&s=e999c84fdf60c670965e66a92c75b0dc6518ee20' alt='A collection of Green wallpapers : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/fXeaLklUHSCbYxHxipYEP5wOkQEKZM16K2O0LvmtBSE.jpg?width=640&crop=smart&auto=webp&s=e999c84fdf60c670965e66a92c75b0dc6518ee20' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Green Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-green-lit-honeycomb-ievd4hdqnekfesu6.jpg' alt='100+] Cool Green Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-green-lit-honeycomb-ievd4hdqnekfesu6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85284.jpg' alt='Green Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Green | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9jaHJpc3RtYXNfdHJlZV9icmFuY2hlcy1fdGV4dGlsZV9vcl93YWxscGFwZV81YjFlN2Y2MS1mMmRmLTQ0OWItYjE0NC05ZTY5MGRmZDAyNTRfMS5qcGc.jpg' alt='Wallpaper Green | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9jaHJpc3RtYXNfdHJlZV9icmFuY2hlcy1fdGV4dGlsZV9vcl93YWxscGFwZV81YjFlN2Y2MS1mMmRmLTQ0OWItYjE0NC05ZTY5MGRmZDAyNTRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Fractals: HD Wallpaper for a Trippy Experience">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/680/68011.jpg' alt='Psychedelic Green Fractals: HD Wallpaper for a Trippy Experience'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/680/68011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/459369/pexels-photo-459369.jpeg?cs=srgb&dl=pexels-pixabay-459369.jpg&fm=jpg' alt='Green Wallpaper Photos, Download The BEST Free Green Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/459369/pexels-photo-459369.jpeg?cs=srgb&dl=pexels-pixabay-459369.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calming Green Nature And Cottages Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/calming-green-nature-and-cottages-tgy6dtxhgtwubez9.jpg' alt='Calming Green Nature And Cottages Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/calming-green-nature-and-cottages-tgy6dtxhgtwubez9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Green Wallpaper | Shop #1 Collection Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/05/hello-sticky_shop_peel-stick-removable-wallpaper_green-wallpaper_collection-header.jpg' alt='The Best Green Wallpaper | Shop #1 Collection Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/05/hello-sticky_shop_peel-stick-removable-wallpaper_green-wallpaper_collection-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Empty Nativity Stable: A Serene Background for Reflection</title>
+                    <meta name="description" content="Discover the tranquility of an empty nativity stable background. Ideal for reflection, this serene setting highlights the significance of a humble beginning, evoking warmth and peace. Perfect for personal or spiritual projects, it invites contemplation and inspiration. Dive into the beauty of simplicity.">
+                    <meta name="keywords" content="empty nativity stable background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/empty-nativity-stable-background">
+                            <span itemprop="name">empty nativity stable background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empty Nativity Stable: A Serene Background for Reflection</h1>
+                <p>Imagine a quiet, empty nativity stable, bathed in soft, warm light, evoking a sense of peace and anticipation. The rustic wooden beams and straw scattered across the floor create a serene atmosphere, reminding us of the humble beginnings of a miraculous event. This tranquil setting invites reflection and spiritual contemplation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nativity Empty Stable backdrop - Mybackdrop.co.uk">
+                                <img itemprop="contentUrl url" src='https://mybackdrop.co.uk/wp-content/uploads/2018/10/Nativity-empty-stable.jpg' alt='Nativity Empty Stable backdrop - Mybackdrop.co.uk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom made backdrops & frames - mybackdrop.co.uk" />
+                                </span>
+                                <a href='https://mybackdrop.co.uk/wp-content/uploads/2018/10/Nativity-empty-stable.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Stable Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.backdropsource.com/cdn/shop/products/US_2260_10ftx10ft_Proof.jpg?v=1603773827' alt='Christmas Stable Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdropsource" />
+                                </span>
+                                <a href='https://www.backdropsource.com/cdn/shop/products/US_2260_10ftx10ft_Proof.jpg?v=1603773827' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 9 Ft. x 6 Ft. Nativity Stable Scene with Animals ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gEJXPuMSL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : 9 Ft. x 6 Ft. Nativity Stable Scene with Animals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gEJXPuMSL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : YCUCUEI 7x5ft Fabric Christmas Manger Scene Backdrop Birth of  Jesus Nativity Holy Family Photography Background Barn Stable Christian ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81FE3G9R51L.jpg' alt='Amazon.com : YCUCUEI 7x5ft Fabric Christmas Manger Scene Backdrop Birth of  Jesus Nativity Holy Family Photography Background Barn Stable Christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81FE3G9R51L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Backdrop, Digital Background, Nativity Backdrop, Stable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24931619/r/il/712d82/4334366435/il_fullxfull.4334366435_1e1u.jpg' alt='Christmas Backdrop, Digital Background, Nativity Backdrop, Stable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24931619/r/il/712d82/4334366435/il_fullxfull.4334366435_1e1u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty Stable Nativity Stock Illustrations – 95 Empty Stable ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/silhouette-nativity-star-shining-above-stable-soft-shadows-generative-ai-339897368.jpg' alt='Empty Stable Nativity Stock Illustrations – 95 Empty Stable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/silhouette-nativity-star-shining-above-stable-soft-shadows-generative-ai-339897368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty Manger Stock Illustrations – 158 Empty Manger Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/waiting-messiah-empty-manger-sunny-barn-surrounded-hay-image-empty-manger-ancient-israeli-barn-299996715.jpg' alt='Empty Manger Stock Illustrations – 158 Empty Manger Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/waiting-messiah-empty-manger-sunny-barn-surrounded-hay-image-empty-manger-ancient-israeli-barn-299996715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stable Scene Backdrop, Nativity, Pageant, Party Decor, 3 Piece Set ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/e1IAAOSwf0ljQETz/s-l1200.jpg' alt='Stable Scene Backdrop, Nativity, Pageant, Party Decor, 3 Piece Set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/e1IAAOSwf0ljQETz/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,700+ Empty Manger Scene Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1444449094/photo/nativity-scene-birth-of-jesus-christ-with-manger-in-snowy-night-and-starry-sky-abstract.jpg?s=612x612&w=0&k=20&c=OJpSSJ2xs5xGgNl_zrD5OJi6khyMzAnGWV_j2xdITd4=' alt='10,700+ Empty Manger Scene Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1444449094/photo/nativity-scene-birth-of-jesus-christ-with-manger-in-snowy-night-and-starry-sky-abstract.jpg?s=612x612&w=0&k=20&c=OJpSSJ2xs5xGgNl_zrD5OJi6khyMzAnGWV_j2xdITd4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 8x6ft Fabric Nativity Scene Backdrop Birth of Jesus Christmas Night  Bethlehem Holy Star Manger Stable Backdrop Religious Xmas Photography ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BeR2Gp84L._AC_UF894,1000_QL80_.jpg' alt='BELECO 8x6ft Fabric Nativity Scene Backdrop Birth of Jesus Christmas Night  Bethlehem Holy Star Manger Stable Backdrop Religious Xmas Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BeR2Gp84L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

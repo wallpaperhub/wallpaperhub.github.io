@@ -1,0 +1,129 @@
+<title>Engaging Breaking News GIFs For Instant Updates</title>
+                    <meta name="description" content="Discover the world of breaking news GIFs! Get the latest updates through captivating animations that make staying informed fun. Perfect for sharing on social media or keeping up with current events, our GIFs deliver news simply and engagingly. Stay in the loop with our dynamic content!">
+                    <meta name="keywords" content="breaking news gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/breaking-news-gif">
+                            <span itemprop="name">breaking news gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Breaking News GIFs For Instant Updates</h1>
+                <p>Stay updated with the latest happenings through our engaging breaking news GIFs! These eye-catching animations make news enjoyable and easy to share. Whether it's politics, sports, or entertainment, our GIFs capture the essence of breaking stories in a fun and dynamic way. Don't miss out—join the conversation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/YNp5t_lLA2oAAAAM/breaking-news-news.gif' alt='Breaking News GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/YNp5t_lLA2oAAAAM/breaking-news-news.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Flash GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media1.tenor.com/m/Ng2uEPPbOUAAAAAC/breaking-news-news.gif' alt='News Flash GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media1.tenor.com/m/Ng2uEPPbOUAAAAAC/breaking-news-news.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="breaking news GIF by ATTN: - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/8Aj3bAhRyrFBvXUoUd/200.gif?cid=6c09b952favxgwp37qpwfjrm9yat859eesf9pdseke3o5u6b&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' alt='breaking news GIF by ATTN: - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="476">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/8Aj3bAhRyrFBvXUoUd/200.gif?cid=6c09b952favxgwp37qpwfjrm9yat859eesf9pdseke3o5u6b&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News GIF by stealth_tahoe - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/tELuxgGsoL62ihEtQs/200.gif?cid=6c09b9527hq32yetxr9zh35j145tqecmkkeqnchz6wukgell&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' alt='Breaking News GIF by stealth_tahoe - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="394">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/tELuxgGsoL62ihEtQs/200.gif?cid=6c09b9527hq32yetxr9zh35j145tqecmkkeqnchz6wukgell&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/JmDYCOV89pmWzcpfjt/giphy.gif?cid=6c09b952ca50hbu9c9l3o280475oav87sgbs5iy8or9rl2zo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- Find & Share on GIPHY" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/JmDYCOV89pmWzcpfjt/giphy.gif?cid=6c09b952ca50hbu9c9l3o280475oav87sgbs5iy8or9rl2zo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News GIF by Inside Edition - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/SsH8YvUjnTjaagNW59/giphy.gif?cid=6c09b95252wopz7b5zm5vcf75t80fwdhs9rfb53aaljezkq1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Breaking News GIF by Inside Edition - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/SsH8YvUjnTjaagNW59/giphy.gif?cid=6c09b95252wopz7b5zm5vcf75t80fwdhs9rfb53aaljezkq1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News GIF by 20 Minuten - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/Cz7J4SLX6BNoAtIeoy/giphy.gif?cid=6c09b952tsw6rwy8bq5q5c579yr1793cax75ifir3nuat3c1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Breaking News GIF by 20 Minuten - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/Cz7J4SLX6BNoAtIeoy/giphy.gif?cid=6c09b952tsw6rwy8bq5q5c579yr1793cax75ifir3nuat3c1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Entertainment News Stickers - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/M9TrcWs9M52TEaorKr/giphy.gif?cid=6c09b952ji2yss60idr5m2902087wbjuzdmoo2973yq6yddd&ep=v1_stickers_search&rid=giphy.gif&ct=s' alt='Breaking Entertainment News Stickers - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/M9TrcWs9M52TEaorKr/giphy.gif?cid=6c09b952ji2yss60idr5m2902087wbjuzdmoo2973yq6yddd&ep=v1_stickers_search&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News Bulletin GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/n2IPMYMthV0m4/giphy.gif?cid=6c09b952jvg5qmv7ibfsay5471vluyy68wdy5cpo1377wh2k&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Breaking News Bulletin GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/n2IPMYMthV0m4/giphy.gif?cid=6c09b952jvg5qmv7ibfsay5471vluyy68wdy5cpo1377wh2k&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News Stickers - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/DuG9z3cK5UFkQ/giphy.gif?cid=6c09b952umc1pz1h9op4i6g66ga3wzu07y2v334c1ao0nn4z&ep=v1_stickers_search&rid=giphy.gif&ct=s' alt='Breaking News Stickers - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/DuG9z3cK5UFkQ/giphy.gif?cid=6c09b952umc1pz1h9op4i6g66ga3wzu07y2v334c1ao0nn4z&ep=v1_stickers_search&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mastering Figma Gradients: A Quick Guide</title>
+                    <meta name="description" content="Discover how to master gradients in Figma with our quick guide! Learn about creating and customizing linear, radial, and angular gradients for your design projects, adding depth and vibrancy to your UI. Perfect for designers looking to enhance their skills!">
+                    <meta name="keywords" content="figma gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/figma-gradient">
+                            <span itemprop="name">figma gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Figma Gradients: A Quick Guide</h1>
+                <p>Figma gradients offer a seamless way to add depth and vibrancy to your design projects. With a wide range of customizable options, you can create linear, radial, and angular gradients easily. Experiment with colors, opacity, and blending modes to achieve stunning visual effects that enhance your user interface.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Free Holographic Light Gradients 1.0 | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/61789b73-36bf-41d0-95da-201ed9a98944/thumbnail' alt='12 Free Holographic Light Gradients 1.0 | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/61789b73-36bf-41d0-95da-201ed9a98944/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Mesh Gradients    | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/43bc14e1-ed60-4cf8-8780-d6353149a2ed/thumbnail' alt='100 Mesh Gradients    | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/43bc14e1-ed60-4cf8-8780-d6353149a2ed/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Color Library | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/28eb6dab-fca4-4583-943f-60c904a80810/thumbnail' alt='Gradient Color Library | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/28eb6dab-fca4-4583-943f-60c904a80810/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Files tagged as gradient | Figma">
+                                <img itemprop="contentUrl url" src='https://s3-alpha.figma.com/hub/file/1692221884/101adda1-c83c-471a-8b3a-9d7080a68efb-cover.png' alt='Top Files tagged as gradient | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://s3-alpha.figma.com/hub/file/1692221884/101adda1-c83c-471a-8b3a-9d7080a68efb-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Figma Mesh Gradient Pack | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/1bd7d826-4f62-4de8-900d-97a8280b720e/thumbnail' alt='FREE Figma Mesh Gradient Pack | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/1bd7d826-4f62-4de8-900d-97a8280b720e/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a Background Gradient Color to a Frame or Shape in Figma">
+                                <img itemprop="contentUrl url" src='https://www.delasign.com/CDN/images/Gradient-Options.webp' alt='How to add a Background Gradient Color to a Frame or Shape in Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2228">
+                                <meta itemprop="height" content="1430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="delasign" />
+                                </span>
+                                <a href='https://www.delasign.com/CDN/images/Gradient-Options.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add gradient in figma - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/e9E7wgSoIpk/sddefault.jpg' alt='How to add gradient in figma - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/e9E7wgSoIpk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create a Color Gradient in Figma | Bootcamp">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:958/0*4VXmxEuNg_vjGLJp' alt='How to create a Color Gradient in Figma | Bootcamp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:958/0*4VXmxEuNg_vjGLJp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Free Holographic Dark Gradients 1.0 | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/8bb0abf5-e817-498b-8026-32f74170a391/thumbnail' alt='12 Free Holographic Dark Gradients 1.0 | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/8bb0abf5-e817-498b-8026-32f74170a391/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradisoft | Soft gradients | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/f8067caa-b2d1-41e5-96a3-c0b204acc2b3/thumbnail' alt='Gradisoft | Soft gradients | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/f8067caa-b2d1-41e5-96a3-c0b204acc2b3/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Godzilla Wallpapers for iPhone - Download Now!</title>
+                    <meta name="description" content="Discover a collection of striking Godzilla wallpapers for your iPhone. Perfectly designed for fans, these wallpapers bring your screen to life with epic visuals of the iconic monster. Download now to personalize your device with the King of Monsters!">
+                    <meta name="keywords" content="godzilla wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/godzilla-wallpaper-iphone">
+                            <span itemprop="name">godzilla wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Godzilla Wallpapers for iPhone - Download Now!</h1>
+                <p>Transform your iPhone with stunning Godzilla wallpaper! Featuring iconic scenes and vibrant designs, these wallpapers bring the King of Monsters to your screen. Perfect for fans of the franchise, each wallpaper captures Godzilla's power and majesty. Download today and showcase your love for this legendary monster!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla phone wallpapers! Free to use, i didn't make any if them ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/godzilla-phone-wallpapers-free-to-use-i-didnt-make-any-if-v0-6iqj7yal700d1.jpg?width=640&crop=smart&auto=webp&s=e7d3828c043639b479dd78510891782d884b25e8' alt='Godzilla phone wallpapers! Free to use, i didn't make any if them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/godzilla-phone-wallpapers-free-to-use-i-didnt-make-any-if-v0-6iqj7yal700d1.jpg?width=640&crop=smart&auto=webp&s=e7d3828c043639b479dd78510891782d884b25e8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Art iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8e/5b/24/8e5b24503d5833178bf1089850387d04.jpg' alt='Godzilla Art iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8e/5b/24/8e5b24503d5833178bf1089850387d04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-godzilla-ios-16-wallpapers-v0-0y9jb4vjevoa1.jpg?width=1242&format=pjpg&auto=webp&s=169ff6d65e24b253d842a2d54d0090504a6f8f74' alt='I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-godzilla-ios-16-wallpapers-v0-0y9jb4vjevoa1.jpg?width=1242&format=pjpg&auto=webp&s=169ff6d65e24b253d842a2d54d0090504a6f8f74' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla phone wallpapers! Free to use, i didn't make any if them ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/godzilla-phone-wallpapers-free-to-use-i-didnt-make-any-if-v0-8y77bzal700d1.jpg?width=350&format=pjpg&auto=webp&s=fea6e20cdf163de4f51649d786b2d840bd0bcc4d' alt='Godzilla phone wallpapers! Free to use, i didn't make any if them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/godzilla-phone-wallpapers-free-to-use-i-didnt-make-any-if-v0-8y77bzal700d1.jpg?width=350&format=pjpg&auto=webp&s=fea6e20cdf163de4f51649d786b2d840bd0bcc4d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla iPhone Wallpaper #iphonewallpaper #iphone #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/fe/8e/d1fe8e9c8e7624f2718ab81f4842fddc.jpg' alt='Godzilla iPhone Wallpaper #iphonewallpaper #iphone #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/fe/8e/d1fe8e9c8e7624f2718ab81f4842fddc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Wallpapers for Your Phone, Tablet, and Computer">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0730/6874/0913/files/Godzmilla_Minus_One_Minus_Color_Mobile_wallpaper_600x600.jpg?v=1707356017' alt='Godzilla Wallpapers for Your Phone, Tablet, and Computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Godzilla" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0730/6874/0913/files/Godzmilla_Minus_One_Minus_Color_Mobile_wallpaper_600x600.jpg?v=1707356017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Wallpapers for Your Phone, Tablet, and Computer">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0730/6874/0913/files/Godzmilla_Minus_One_Mobile_wallpaper_Attack_600x600.jpg?v=1707356073' alt='Godzilla Wallpapers for Your Phone, Tablet, and Computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Godzilla" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0730/6874/0913/files/Godzmilla_Minus_One_Mobile_wallpaper_Attack_600x600.jpg?v=1707356073' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/e/d/257382-1242x2688-samsung-hd-godzilla-wallpaper.jpg' alt='Godzilla Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/e/d/257382-1242x2688-samsung-hd-godzilla-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-godzilla-ios-16-wallpapers-v0-201mr4vjevoa1.jpg?width=640&crop=smart&auto=webp&s=8bd2154f64907e4b17b38c6d5b689660941eede4' alt='I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-godzilla-ios-16-wallpapers-v0-201mr4vjevoa1.jpg?width=640&crop=smart&auto=webp&s=8bd2154f64907e4b17b38c6d5b689660941eede4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/725/853/HD-wallpaper-godzilla.jpg' alt='Godzilla, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/725/853/HD-wallpaper-godzilla.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

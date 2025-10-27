@@ -1,0 +1,129 @@
+<title>Top Anime GIF Wallpapers for Your Phone</title>
+                    <meta name="description" content="Enhance your phone's home screen with beautiful anime GIF wallpapers! Explore a vast collection of animated backgrounds featuring your favorite characters. Perfect for adding personality and style to your mobile device. Download and enjoy a vibrant new look today!">
+                    <meta name="keywords" content="anime gif wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/anime-gif-wallpaper-phone">
+                            <span itemprop="name">anime gif wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Anime GIF Wallpapers for Your Phone</h1>
+                <p>Discover stunning anime GIF wallpapers for your phone to bring your favorite characters to life! With vibrant animations and captivating designs, these wallpapers enhance your mobile aesthetic and reflect your unique style. Easily download and personalize your phone background with endless options to choose from!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Anime Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/5trvbryLUPQAAAAM/anime.gif' alt='Free Anime Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/5trvbryLUPQAAAAM/anime.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/xxlnMrerBP4AAAAM/mobileanimatedcom.gif' alt='Anime Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/xxlnMrerBP4AAAAM/mobileanimatedcom.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/de/db/50/dedb50bf6afae010d08b83c3163b746e.gif' alt='Anime Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/de/db/50/dedb50bf6afae010d08b83c3163b746e.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/mEN4QSdGO7IAAAAM/anime.gif' alt='Anime Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/mEN4QSdGO7IAAAAM/anime.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Aesthetic GIF - Japan Aesthetic Ity - Discover & Share GIFs ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/18/5a/7e/185a7ed8ca1d82dc40fa383ca0cc48bc.gif' alt='Japan Aesthetic GIF - Japan Aesthetic Ity - Discover & Share GIFs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/18/5a/7e/185a7ed8ca1d82dc40fa383ca0cc48bc.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/h1v2vE84sVcAAAAM/gojo-satoru-jujutsu-kaisen.gif' alt='Anime Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/h1v2vE84sVcAAAAM/gojo-satoru-jujutsu-kaisen.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Gif Wallpaper Android - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2e/77/69/2e77697bec21f3bc59e6ab1346416760.gif' alt='Naruto Gif Wallpaper Android - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2e/77/69/2e77697bec21f3bc59e6ab1346416760.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which one of these 3 gif's that I made should I use as a wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/which-one-of-these-3-gifs-that-i-made-should-i-use-as-a-v0-lqsxp8yitskb1.gif?width=640&crop=smart&auto=webp&s=5356bf031672c3c3891953c0898b21924cf7516f' alt='Which one of these 3 gif's that I made should I use as a wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/which-one-of-these-3-gifs-that-i-made-should-i-use-as-a-v0-lqsxp8yitskb1.gif?width=640&crop=smart&auto=webp&s=5356bf031672c3c3891953c0898b21924cf7516f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3gTmgzy7wYJfyaGRHQ/200w.gif?cid=6c09b952q53pser2szzapd8mr70bma91c450wzfnb23gvk4w&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Anime GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3gTmgzy7wYJfyaGRHQ/200w.gif?cid=6c09b952q53pser2szzapd8mr70bma91c450wzfnb23gvk4w&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Love Hearts GIF Desktop Wallpaper - Gif Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/04/cute-anime-girl-love-hearts-gif-desktop-wallpaper-cover.gif' alt='Cute Anime Girl Love Hearts GIF Desktop Wallpaper - Gif Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/04/cute-anime-girl-love-hearts-gif-desktop-wallpaper-cover.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

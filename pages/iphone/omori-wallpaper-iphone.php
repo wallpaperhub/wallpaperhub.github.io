@@ -1,0 +1,129 @@
+<title>Omori Wallpapers for iPhone: Aesthetic Backgrounds</title>
+                    <meta name="description" content="Explore a curated selection of "Omori" wallpapers for your iPhone. Perfect for fans of the game, these wallpapers showcase the enchanting visuals and emotional storytelling. Find the perfect background for your device and express your love for "Omori" today!">
+                    <meta name="keywords" content="omori wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/omori-wallpaper-iphone">
+                            <span itemprop="name">omori wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Omori Wallpapers for iPhone: Aesthetic Backgrounds</h1>
+                <p>Transform your iPhone with stunning "Omori" wallpapers that capture the game's unique art style and emotional depth. From vibrant landscapes to beloved characters, these wallpapers bring the whimsical world of "Omori" right to your screen. Discover a collection that resonates with fans and adds charm to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-cntzdmwky4xa1.jpg?width=1125&format=pjpg&auto=webp&s=1944a993a37b55931b89a0f4f5f9d1180d6806ba' alt='Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-cntzdmwky4xa1.jpg?width=1125&format=pjpg&auto=webp&s=1944a993a37b55931b89a0f4f5f9d1180d6806ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="omori phone wallpaper i made from official artwork : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/brk80qae9zd81.jpg' alt='omori phone wallpaper i made from official artwork : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/brk80qae9zd81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some Omori themed wallpapers for my phone : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kh34w8y0xfx81.png' alt='I made some Omori themed wallpapers for my phone : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kh34w8y0xfx81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-nxx2vmwky4xa1.jpg?width=1080&crop=smart&auto=webp&s=9f292961c8384826942b15ea3c7d543d458bafb9' alt='Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-nxx2vmwky4xa1.jpg?width=1080&crop=smart&auto=webp&s=9f292961c8384826942b15ea3c7d543d458bafb9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some happier 19:9 mobile wallpapers : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-happier-19-9-mobile-wallpapers-v0-8moequjqzmkb1.jpeg?width=1080&format=pjpg&auto=webp&s=b1715859d586e605714fa560ed867efc999ea353' alt='Some happier 19:9 mobile wallpapers : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-happier-19-9-mobile-wallpapers-v0-8moequjqzmkb1.jpeg?width=1080&format=pjpg&auto=webp&s=b1715859d586e605714fa560ed867efc999ea353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some happier 19:9 mobile wallpapers : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-happier-19-9-mobile-wallpapers-v0-f8vxgfloppe81.png?width=640&crop=smart&auto=webp&s=ccacb8c35f68a5e07e202e7d085d89d842b7ff0c' alt='Some happier 19:9 mobile wallpapers : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-happier-19-9-mobile-wallpapers-v0-f8vxgfloppe81.png?width=640&crop=smart&auto=webp&s=ccacb8c35f68a5e07e202e7d085d89d842b7ff0c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i couldnt find a high resolution headspace background iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a8g8phrq9vcc1.jpeg' alt='i couldnt find a high resolution headspace background iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a8g8phrq9vcc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="omori iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/14/ca/1614cab5ef454e58d7611ef87d07afdf.jpg' alt='omori iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/14/ca/1614cab5ef454e58d7611ef87d07afdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/1c/09/1c1c09fb855e60eb033a8a799687a75c.jpg' alt='Omori Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/1c/09/1c1c09fb855e60eb033a8a799687a75c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2wry5enj5ta61.png?width=1080&crop=smart&auto=webp&s=9f53fe537047d467c3a569e969ce1a655f7ee6c3' alt='Phone Wallpaper : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2wry5enj5ta61.png?width=1080&crop=smart&auto=webp&s=9f53fe537047d467c3a569e969ce1a655f7ee6c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

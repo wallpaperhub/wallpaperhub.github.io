@@ -1,0 +1,129 @@
+<title>Elegant White and Grey Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover the beauty of white and grey wallpaper for your home. Perfect for creating a stylish, modern atmosphere, this versatile choice complements any decor while enhancing natural light in your space. Update your interior with a chic look that transforms any room effortlessly.">
+                    <meta name="keywords" content="white and grey wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-and-grey-wallpaper">
+                            <span itemprop="name">white and grey wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White and Grey Wallpaper for Modern Spaces</h1>
+                <p>White and grey wallpaper offers a chic, modern touch to any room, blending sophistication with versatility. Ideal for minimalist and contemporary styles, it creates a calming atmosphere that complements a range of decor. Whether used on a feature wall or throughout the space, this wallpaper choice enhances light, making rooms feel larger and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Marble Texture White And Gray Vinyl Peel & Stick Wallpaper Roll  (Covers 30.75 Sq. Ft.) NW30400 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5168e5ea-e1aa-472a-8d6c-5ca63c279b90/svn/nextwall-wallpaper-rolls-nw30400-64_1000.jpg' alt='NextWall Marble Texture White And Gray Vinyl Peel & Stick Wallpaper Roll  (Covers 30.75 Sq. Ft.) NW30400 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5168e5ea-e1aa-472a-8d6c-5ca63c279b90/svn/nextwall-wallpaper-rolls-nw30400-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallink Geometric Peel and Stick Wallpaper Diamond Wallpaper Modern Pattern  17.5in×120in Self Adhesive Wallpaper Grey White Contact Paper for Accent ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61pGtzm2MsL.jpg' alt='Wallink Geometric Peel and Stick Wallpaper Diamond Wallpaper Modern Pattern  17.5in×120in Self Adhesive Wallpaper Grey White Contact Paper for Accent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61pGtzm2MsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey & White Chinoiserie Garden Tree Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grey-white-chinoiserie-garden-tree-wall-qzym-l.jpg' alt='Grey & White Chinoiserie Garden Tree Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grey-white-chinoiserie-garden-tree-wall-qzym-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GloryTik 17.7"X118"Grey and White Peel and Stick Wallpaper Modern Trellis  Contact Paper Removable Wallpaper Self Adhesive Gray Geometric Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61xbHi-q-6L.jpg' alt='GloryTik 17.7"X118"Grey and White Peel and Stick Wallpaper Modern Trellis  Contact Paper Removable Wallpaper Self Adhesive Gray Geometric Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61xbHi-q-6L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/35835/distressed-wall-wallpaper.jpg?q=1724969897' alt='Grey Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/35835/distressed-wall-wallpaper.jpg?q=1724969897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395214 Floral Texture White Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247142.jpg' alt='Galerie EN3395214 Floral Texture White Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/74/65/8f74653aabd3ebf393a2d7fa6391caaf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/74/65/8f74653aabd3ebf393a2d7fa6391caaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage peony floral mural | temporary & regular wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Grey-floral-design-magnolia-peony-wallpaper-for-powder-room_1100x.jpg?v=1635247854' alt='Vintage peony floral mural | temporary & regular wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Grey-floral-design-magnolia-peony-wallpaper-for-powder-room_1100x.jpg?v=1635247854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Beaded Classic Damask Wallpaper R9547">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/R9547GreyBeadedClassicDamaskWallpaperRoomshot.jpg?v=1736258417&width=1200' alt='Grey Beaded Classic Damask Wallpaper R9547'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/R9547GreyBeadedClassicDamaskWallpaperRoomshot.jpg?v=1736258417&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Grey Surface · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2824173/pexels-photo-2824173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='White And Grey Surface · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2824173/pexels-photo-2824173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

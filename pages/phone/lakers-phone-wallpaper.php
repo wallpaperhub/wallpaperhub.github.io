@@ -1,0 +1,129 @@
+<title>Stunning Lakers Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the best Lakers phone wallpapers to display your team pride. Choose from a variety of designs featuring iconic players and unforgettable moments. Perfect for any fan looking to showcase their love for the Los Angeles Lakers on their mobile device! Download now!">
+                    <meta name="keywords" content="lakers phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/lakers-phone-wallpaper">
+                            <span itemprop="name">lakers phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lakers Phone Wallpapers for Every Fan</h1>
+                <p>Elevate your phone's aesthetic with stunning Lakers phone wallpapers! Show off your team spirit and love for the game every time you check your device. From iconic players to breathtaking game moments, these wallpapers capture the essence of the Los Angeles Lakers. Download yours today and let your fandom shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/generic/2324_lal_generic_wallpapers_2048x2732_op1_pa.jpg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/generic/2324_lal_generic_wallpapers_2048x2732_op1_pa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/1920_lal_mktg_ww082419_08_al.jpeg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/1920_lal_mktg_ww082419_08_al.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Lakers wallpaper for your phone : r/lakers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7zgq53vw2pr41.jpg' alt='Made this Lakers wallpaper for your phone : r/lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="2004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7zgq53vw2pr41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Los Angeles Lakers wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Los-Angeles-Lakers-wallpaper-logo-mobile-NBA-2024-2025.png' alt='2025 Los Angeles Lakers wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Los-Angeles-Lakers-wallpaper-logo-mobile-NBA-2024-2025.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LaBron iPhone Wallpaper. : r/lakers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6oucq69kw3n11.jpg?width=640&crop=smart&auto=webp&s=c9fc476ef27c198e1d5de88d9df108c27e2d9288' alt='LaBron iPhone Wallpaper. : r/lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6oucq69kw3n11.jpg?width=640&crop=smart&auto=webp&s=c9fc476ef27c198e1d5de88d9df108c27e2d9288' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="430 L. A. Lakers Wallpapers ideas | lakers wallpaper, lakers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/ea/d7/afead7a12f140f1eaff2c9ab6ce6e181.jpg' alt='430 L. A. Lakers Wallpapers ideas | lakers wallpaper, lakers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/ea/d7/afead7a12f140f1eaff2c9ab6ce6e181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-08-city1.jpeg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-08-city1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Lakers, los angeles, nba, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/343/216/HD-wallpaper-los-angeles-lakers-los-angeles-nba.jpg' alt='Los Angeles Lakers, los angeles, nba, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/343/216/HD-wallpaper-los-angeles-lakers-los-angeles-nba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Lakers iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/thumb-1920-1013362.jpeg' alt='Los Angeles Lakers iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/thumb-1920-1013362.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If anyone was looking for a phone wallpaper of this Lakers logo ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ekqc7v7t5a31.jpg' alt='If anyone was looking for a phone wallpaper of this Lakers logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1269">
+                                <meta itemprop="height" content="2152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ekqc7v7t5a31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

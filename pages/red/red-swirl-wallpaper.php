@@ -1,0 +1,129 @@
+<title>Captivating Red Swirl Wallpaper for Stunning Interiors</title>
+                    <meta name="description" content="Discover the allure of red swirl wallpaper, perfect for transforming your home. This stylish design adds depth and vibrancy, making any room stand out. Ideal for accent walls or full rooms, it offers a creative touch to your decor. Explore now for a unique makeover!">
+                    <meta name="keywords" content="red swirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-swirl-wallpaper">
+                            <span itemprop="name">red swirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Red Swirl Wallpaper for Stunning Interiors</h1>
+                <p>Transform your space with stunning red swirl wallpaper! This eye-catching design adds a dynamic flair to any room, creating a vibrant atmosphere. Perfect for accent walls, bedrooms, or living spaces, the swirling patterns inspire creativity and energy. Explore various textures and finishes to find the perfect match for your decor style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="214,300+ Red Swirl Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/598054982/vector/swirling-radial-pattern-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=t29nD1kRVq5My9ii6HeO1PPvYvI9tHfIfjyDorJ9BpY=' alt='214,300+ Red Swirl Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/598054982/vector/swirling-radial-pattern-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=t29nD1kRVq5My9ii6HeO1PPvYvI9tHfIfjyDorJ9BpY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Red Liquid Marble Swirl Texture Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-red-liquid-marble-swirl-texture-background-wallpaper-abstract-red-liquid-marble-swirl-texture-background-157175174.jpg' alt='Abstract Red Liquid Marble Swirl Texture Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-red-liquid-marble-swirl-texture-background-wallpaper-abstract-red-liquid-marble-swirl-texture-background-157175174.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Swirl Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-red-swirl-background_23-2149939345.jpg' alt='Red Swirl Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-red-swirl-background_23-2149939345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Red Swirl Images – Browse 271,272 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/19/20/21/360_F_319202173_lChFjDK92X4FwE7pbzfjFueIRrRjkJiL.jpg' alt='Black And Red Swirl Images – Browse 271,272 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/19/20/21/360_F_319202173_lChFjDK92X4FwE7pbzfjFueIRrRjkJiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Flat design red swirl background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-red-swirl-background_23-2149987260.jpg' alt='Free Vector | Flat design red swirl background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-red-swirl-background_23-2149987260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Swirl Abstract Images – Browse 721,384 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/61/18/61/360_F_661186157_2KxNvRnnPKmg4TZStVBOwK6JKKrGDqpZ.jpg' alt='Red Swirl Abstract Images – Browse 721,384 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/61/18/61/360_F_661186157_2KxNvRnnPKmg4TZStVBOwK6JKKrGDqpZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Red Abstract Swirls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-red-abstract-swirls-50jfqreaccd1ruvk.jpg' alt='Neon Red Abstract Swirls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-red-abstract-swirls-50jfqreaccd1ruvk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Flat design red swirl background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-red-swirl-background_23-2149971589.jpg' alt='Free Vector | Flat design red swirl background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-red-swirl-background_23-2149971589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD red swirl wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/163/999/HD-wallpaper-red-black-swirl-thumbnail.jpg' alt='HD red swirl wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/163/999/HD-wallpaper-red-black-swirl-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Swirl Background Graphic by davidzydd · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/14/Red-Swirl-Background-Graphics-4360312-1.jpg' alt='Red Swirl Background Graphic by davidzydd · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/14/Red-Swirl-Background-Graphics-4360312-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

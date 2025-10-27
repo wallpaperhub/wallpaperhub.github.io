@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Wallpaper for Your Walls</title>
+                    <meta name="description" content="Discover captivating Harry Potter wallpaper to elevate your home's style. Perfect for fans of all ages, our designs feature beloved characters and enchanting scenes. Transform your space into a magical haven with easy-to-apply, high-quality wallpapers that showcase your love for the Wizarding World!">
+                    <meta name="keywords" content="harry potter wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/harry-potter-wallpaper-for-walls">
+                            <span itemprop="name">harry potter wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Wallpaper for Your Walls</h1>
+                <p>Transform your living space with enchanting Harry Potter wallpaper! Featuring iconic characters, spells, and magical landscapes, these wallpapers bring the Wizarding World to life. Perfect for bedrooms, playrooms, or home theaters, they add a whimsical touch that delights fans of all ages. Explore colors and designs that fit your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12279M_RS1ex.jpg?v=1694551571' alt='Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12279M_RS1ex.jpg?v=1694551571' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12541M Harry Potter Hall Peel and Stick Wallpaper Mural,  Multi, 63 Sq Ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810Sh8Z1N3L._AC_UF894,1000_QL80_.jpg' alt='RoomMates RMK12541M Harry Potter Hall Peel and Stick Wallpaper Mural,  Multi, 63 Sq Ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810Sh8Z1N3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Hogwarts Map Peel & Stick Wallpaper - Black & White">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/RMK12353PL_RS3.jpg?v=1695067747&width=1445' alt='Harry Potter Hogwarts Map Peel & Stick Wallpaper - Black & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/RMK12353PL_RS3.jpg?v=1695067747&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minalima Designs 5 Harry Potter Wallpapers Muggles Will Love">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/harrypotterwall-1569343483.jpg' alt='Minalima Designs 5 Harry Potter Wallpapers Muggles Will Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/harrypotterwall-1569343483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Peel and Stick Wallpaper – RoomMates Decor">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/collections/RMK11261RL.jpg?v=1582128561&width=2400' alt='Harry Potter Peel and Stick Wallpaper – RoomMates Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/collections/RMK11261RL.jpg?v=1582128561&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Wall Mural - Harry Potter Hogwarts Castle Wallpaper Mural ...">
+                                <img itemprop="contentUrl url" src='https://stickythings.co.za/wp-content/uploads/2024/06/harry-potter-hogwarts-wall-mural.jpg.webp' alt='Hogwarts Wall Mural - Harry Potter Hogwarts Castle Wallpaper Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickyThings Wall Stickers and Wallpaper South Africa" />
+                                </span>
+                                <a href='https://stickythings.co.za/wp-content/uploads/2024/06/harry-potter-hogwarts-wall-mural.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Map Peel & Stick Wallpaper in Blue">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/RMK12355PL_RS3_1800x1800.jpg?v=1670253145' alt='Harry Potter Map Peel & Stick Wallpaper in Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/RMK12355PL_RS3_1800x1800.jpg?v=1670253145' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbology Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/files/herbology-wallpaper_kids-room.jpg?v=1695321044' alt='Herbology Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/files/herbology-wallpaper_kids-room.jpg?v=1695321044' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter™ Wallpaper | Pottery Barn Teen">
+                                <img itemprop="contentUrl url" src='https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202450/0015/harry-potter-herbology-wallpaper-c.jpg' alt='Harry Potter™ Wallpaper | Pottery Barn Teen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pottery Barn Teen" />
+                                </span>
+                                <a href='https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202450/0015/harry-potter-herbology-wallpaper-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Harry Potter Hogwarts Castle Peel and Stick Wall Mural RMK12279M">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/274eaeb6-0a96-4213-a391-8b4d3ef9ba33/svn/matte-roommates-wall-murals-rmk12279m-4f_600.jpg' alt='RoomMates Harry Potter Hogwarts Castle Peel and Stick Wall Mural RMK12279M'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/274eaeb6-0a96-4213-a391-8b4d3ef9ba33/svn/matte-roommates-wall-murals-rmk12279m-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

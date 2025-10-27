@@ -1,0 +1,129 @@
+<title>AEW Collision: The Ultimate Wrestling Showdown</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aew collision">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aew-collision">
+                            <span itemprop="name">aew collision</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AEW Collision: The Ultimate Wrestling Showdown</h1>
+                <p>AEW Collision is a thrilling wrestling show that brings together the top talent in All Elite Wrestling. Fans are treated to high-stakes matches, intense rivalries, and unforgettable moments each week. With captivating storytelling and athletic prowess, AEW Collision delivers non-stop action, making it a must-watch for wrestling enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/89/AEW_Collision_logo.png' alt='AEW Collision - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/89/AEW_Collision_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision (TV Series 2023– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjdlYTdlNGItY2Y2MC00NmQxLTlkZTYtOTRmN2YxYWJjY2E1XkEyXkFqcGc@._V1_.jpg' alt='AEW Collision (TV Series 2023– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjdlYTdlNGItY2Y2MC00NmQxLTlkZTYtOTRmN2YxYWJjY2E1XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision debut episode - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/16/AEW_Collision_debut_episode_poster.jpg' alt='AEW Collision debut episode - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/16/AEW_Collision_debut_episode_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision Viewership On Cable TV Drops Against WWE Elimination ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/ddk.kTeOtmPmlDqPfr.OFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/6cd7bf45d1b1fbc730788caac151471e' alt='AEW Collision Viewership On Cable TV Drops Against WWE Elimination ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/ddk.kTeOtmPmlDqPfr.OFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/6cd7bf45d1b1fbc730788caac151471e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision Results – September 6, 2024 - PWMania - Wrestling News">
+                                <img itemprop="contentUrl url" src='https://www.pwmania.com/wp-content/uploads/2024/08/01-aew-collision-new-logo-2024-696x421.jpg' alt='AEW Collision Results – September 6, 2024 - PWMania - Wrestling News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PWMania" />
+                                </span>
+                                <a href='https://www.pwmania.com/wp-content/uploads/2024/08/01-aew-collision-new-logo-2024-696x421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision Viewership Numbers Since 2023 | Fightful News">
+                                <img itemprop="contentUrl url" src='https://imageservice-prod.jv-internal.com/2/stream?domain=fightful-frontend-prod.jv-internal.com&path=/116372_aew-collision-logo-2_1715714167.png&op=crop&w=1200&h=800' alt='AEW Collision Viewership Numbers Since 2023 | Fightful News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fightful" />
+                                </span>
+                                <a href='https://imageservice-prod.jv-internal.com/2/stream?domain=fightful-frontend-prod.jv-internal.com&path=/116372_aew-collision-logo-2_1715714167.png&op=crop&w=1200&h=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision spoilers: Two title matches, star suspended, Gabe ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/hsP73S54MDtpdyJ9B9a79EL4o14=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25880580/gabekidd1.jpg' alt='AEW Collision spoilers: Two title matches, star suspended, Gabe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cageside Seats" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/hsP73S54MDtpdyJ9B9a79EL4o14=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25880580/gabekidd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Further Expands TNT/TBS Footprint With New TNT Series 'Collision'">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2023/05/AEW-Collision.jpg' alt='AEW Further Expands TNT/TBS Footprint With New TNT Series 'Collision''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2023/05/AEW-Collision.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision Results for March 1, 2025">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/815952_3c716194ed9b4d47b3354f844dca377d~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/815952_3c716194ed9b4d47b3354f844dca377d~mv2.jpg' alt='AEW Collision Results for March 1, 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AEW" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/815952_3c716194ed9b4d47b3354f844dca377d~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/815952_3c716194ed9b4d47b3354f844dca377d~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AEW Collision SPOILERS: Matches taped 2/19 to air on 2/22 - WWE ...">
+                                <img itemprop="contentUrl url" src='https://www.wrestleview.com/wp-content/uploads/2025/02/aew-collision-.jpg' alt='AEW Collision SPOILERS: Matches taped 2/19 to air on 2/22 - WWE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wrestleview.com" />
+                                </span>
+                                <a href='https://www.wrestleview.com/wp-content/uploads/2025/02/aew-collision-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

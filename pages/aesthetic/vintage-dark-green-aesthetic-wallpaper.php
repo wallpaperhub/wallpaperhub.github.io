@@ -1,0 +1,129 @@
+<title>Vintage Dark Green Aesthetic Wallpaper for Timeless Elegance</title>
+                    <meta name="description" content="Discover the beauty of vintage dark green aesthetic wallpaper! Perfect for creating a stylish and serene atmosphere in any room. Elevate your interior design with timeless patterns and rich hues that bring a sophisticated charm to your space. Ideal for every vintage lover!">
+                    <meta name="keywords" content="vintage dark green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/vintage-dark-green-aesthetic-wallpaper">
+                            <span itemprop="name">vintage dark green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Dark Green Aesthetic Wallpaper for Timeless Elegance</h1>
+                <p>Transform your space with vintage dark green aesthetic wallpaper, perfect for adding a touch of elegance and nostalgia to any room. This rich, deep color evokes a sense of tranquility and sophistication, making it ideal for living rooms, bedrooms, or study areas. Explore patterns that blend vintage charm with modern design for a timeless look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Peel and Stick Wallpaper Vintage Wallpaper Dark Green Wallpaper  Floral Contact Paper Removable Wallpaper 393.7"x16.1" Leaf Flower Self  Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' alt='Toduso Peel and Stick Wallpaper Vintage Wallpaper Dark Green Wallpaper  Floral Contact Paper Removable Wallpaper 393.7"x16.1" Leaf Flower Self  Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Field Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/white-flowery-plants-plain-aesthetic-8lp64xwmq4qcs1i4.webp' alt='Dark Green Field Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/white-flowery-plants-plain-aesthetic-8lp64xwmq4qcs1i4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/a5b9d5/6289942591/il_fullxfull.6289942591_ts4z.jpg' alt='Dark Green Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/a5b9d5/6289942591/il_fullxfull.6289942591_ts4z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Dark Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-green-aesthetic-twisted-branches-with-text-yxfofhxhf7369mz2.jpg' alt='100+] Vintage Dark Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-green-aesthetic-twisted-branches-with-text-yxfofhxhf7369mz2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper aesthetic vintage green">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/13/ba/1013ba1d6acd081deee8992a982ac0cf.jpg' alt='iphone wallpaper aesthetic vintage green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/13/ba/1013ba1d6acd081deee8992a982ac0cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpapers | Peel & Stick + Prepasted Options">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l-dark-green.jpg?q=1692029140' alt='Green Wallpapers | Peel & Stick + Prepasted Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l-dark-green.jpg?q=1692029140' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="photo aesthetic vintage in 2022 | Dark green aesthetic, Sage green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/77/5b/c2775bff83f5552757d265ab6867f293.jpg' alt='photo aesthetic vintage in 2022 | Dark green aesthetic, Sage green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/77/5b/c2775bff83f5552757d265ab6867f293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-green-woman-sculpture-aesthetic-jcs7tbxvzvonx1xc.jpg' alt='100+] Dark Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-green-woman-sculpture-aesthetic-jcs7tbxvzvonx1xc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark green aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/745/924/HD-wallpaper-dark-green-printed-old-master-white-little-green-texture-backdrop-dark-green-dark-green-aesthetic-green-green-velvet-thumbnail.jpg' alt='HD dark green aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/745/924/HD-wallpaper-dark-green-printed-old-master-white-little-green-texture-backdrop-dark-green-dark-green-aesthetic-green-green-velvet-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/c5/81/f2c581536577369d2d09168c4ce8ccea.jpg' alt='Green lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/c5/81/f2c581536577369d2d09168c4ce8ccea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

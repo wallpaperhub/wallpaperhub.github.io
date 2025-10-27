@@ -1,0 +1,129 @@
+<title>Chalino Sanchez: The Legacy of a Regional Mexican Icon</title>
+                    <meta name="description" content="Discover the life and music of Chalino Sanchez, an iconic figure in regional Mexican music. Dive into his compelling story, explore his unforgettable songs, and learn why he remains a beloved legend in the hearts of many. Experience the impact of his artistry today!">
+                    <meta name="keywords" content="chalino sanchez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chalino-sanchez">
+                            <span itemprop="name">chalino sanchez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chalino Sanchez: The Legacy of a Regional Mexican Icon</h1>
+                <p>Chalino Sanchez was a renowned Mexican singer and songwriter, celebrated for his contribution to the genre of regional Mexican music. His life story is marked by both triumph and tragedy, as he rose from humble beginnings to become an icon. His unique style and powerful storytelling in songs like "Nieves de Enero" resonate with fans even today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sánchez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Rosalino_Chalino_S%C3%A1nchez_F%C3%A9lix.jpg/220px-Rosalino_Chalino_S%C3%A1nchez_F%C3%A9lix.jpg' alt='Chalino Sánchez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Rosalino_Chalino_S%C3%A1nchez_F%C3%A9lix.jpg/220px-Rosalino_Chalino_S%C3%A1nchez_F%C3%A9lix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sánchez's Legacy: 30 Years After His Death">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/07/Chalino-Sanchez-Alma-Enamorada-billboard-1548.jpg?w=1024' alt='Chalino Sánchez's Legacy: 30 Years After His Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/07/Chalino-Sanchez-Alma-Enamorada-billboard-1548.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sanchez Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb5c2431cad6a50bb95218f856' alt='Chalino Sanchez Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb5c2431cad6a50bb95218f856' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Focus: Chalino Sanchez 25th June 2019 | Listen on NTS">
+                                <img itemprop="contentUrl url" src='https://media2.ntslive.co.uk/resize/1600x1600/875f265c-a7f7-42e0-a53c-05920b102f07_1590451200.jpeg' alt='In Focus: Chalino Sanchez 25th June 2019 | Listen on NTS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NTS Radio" />
+                                </span>
+                                <a href='https://media2.ntslive.co.uk/resize/1600x1600/875f265c-a7f7-42e0-a53c-05920b102f07_1590451200.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream 123_ld | Listen to Chalino Sanchez mix playlist online for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000606013072-8mnyqx-t500x500.jpg' alt='Stream 123_ld | Listen to Chalino Sanchez mix playlist online for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000606013072-8mnyqx-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sanchez | Country Music Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/country-music/images/f/fb/2.png/revision/latest?cb=20221126170911' alt='Chalino Sanchez | Country Music Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Country Music Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/country-music/images/f/fb/2.png/revision/latest?cb=20221126170911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sanchez Sticker Graphic - Sticker Decal">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41CiozsDiiL._AC_UF894,1000_QL80_.jpg' alt='Chalino Sanchez Sticker Graphic - Sticker Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41CiozsDiiL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chalino Sánchez: A Corrido Mystery – in case of sunrise">
+                                <img itemprop="contentUrl url" src='https://incaseofsunrise.wordpress.com/wp-content/uploads/2019/10/screen-shot-2019-10-01-at-19.02.11.png?w=1024' alt='Chalino Sánchez: A Corrido Mystery – in case of sunrise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="in case of sunrise - WordPress.com" />
+                                </span>
+                                <a href='https://incaseofsunrise.wordpress.com/wp-content/uploads/2019/10/screen-shot-2019-10-01-at-19.02.11.png?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ramiro Sierra - song and lyrics by Chalino Sanchez | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273995333f12a291887f0499043' alt='Ramiro Sierra - song and lyrics by Chalino Sanchez | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273995333f12a291887f0499043' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who was Chalino Sanchez? (And why cops need to know him)">
+                                <img itemprop="contentUrl url" src='https://lexipol.brightspotcdn.com/dims4/default/2c87dd6/2147483647/strip/true/crop/1918x1080+1+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F8f%2F18%2Fa3d7df884be6824d226312cd1ebc%2Fchalino-sanchez.png' alt='Who was Chalino Sanchez? (And why cops need to know him)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Police1" />
+                                </span>
+                                <a href='https://lexipol.brightspotcdn.com/dims4/default/2c87dd6/2147483647/strip/true/crop/1918x1080+1+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F8f%2F18%2Fa3d7df884be6824d226312cd1ebc%2Fchalino-sanchez.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Brighten Your Designs with Spring Clipart</title>
+                    <meta name="description" content="Discover a delightful collection of spring clipart to enhance your creative projects. Featuring colorful flowers, playful butterflies, and sunny landscapes, these graphics are perfect for presentations, invitations, or social media posts. Bring the joy of spring to life with easy-to-use illustrations!">
+                    <meta name="keywords" content="spring clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spring-clipart">
+                            <span itemprop="name">spring clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Designs with Spring Clipart</h1>
+                <p>Spring clipart adds a vibrant touch to your projects, featuring flowers, butterflies, and sunshine. Perfect for enhancing presentations, greeting cards, and social media graphics, these illustrations embody the essence of the season. Elevate your creative endeavors with cheerful designs that celebrate renewal and beauty in springtime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clipart Set - Springtime Clip Art, Flowers and Gardening, Hand Drawn  Clipart, Rainbow, Sunshine, Baby Animals, Floral Clipart, Easter - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9684337/r/il/de014a/1934899641/il_1080xN.1934899641_nn99.jpg' alt='Spring Clipart Set - Springtime Clip Art, Flowers and Gardening, Hand Drawn  Clipart, Rainbow, Sunshine, Baby Animals, Floral Clipart, Easter - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9684337/r/il/de014a/1934899641/il_1080xN.1934899641_nn99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clip Art Images – Browse 657,991 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/72/25/55/360_F_572255565_hOiZnGoIaofSqsfRy3FQ08GreddiKG7U.jpg' alt='Spring Clip Art Images – Browse 657,991 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/72/25/55/360_F_572255565_hOiZnGoIaofSqsfRy3FQ08GreddiKG7U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-style-spring-background_23-2148426694.jpg' alt='Hello Spring Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-style-spring-background_23-2148426694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clip Art - Spring Images">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/spring/spring-caterpillar.png' alt='Spring Clip Art - Spring Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/spring/spring-caterpillar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144,700+ Spring Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300568605/vector/hello-spring-elements-set-hand-drawn-cartoon-style-vector-illustration.jpg?s=612x612&w=0&k=20&c=H8QLG5lI1xwTH8cciYTpr6MaIKFM60kZIju2hYU8HT4=' alt='144,700+ Spring Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300568605/vector/hello-spring-elements-set-hand-drawn-cartoon-style-vector-illustration.jpg?s=612x612&w=0&k=20&c=H8QLG5lI1xwTH8cciYTpr6MaIKFM60kZIju2hYU8HT4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clipart Images – Browse 596,860 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/64/97/78/360_F_464977876_qv1id1Xn4M6wMMv2BSqScQhqsw1qsOuF.jpg' alt='Spring Clipart Images – Browse 596,860 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/64/97/78/360_F_464977876_qv1id1Xn4M6wMMv2BSqScQhqsw1qsOuF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clip Art PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210309/original/pngtree-sun-flower-spring-clip-art-png-image_5867655.jpg' alt='Spring Clip Art PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210309/original/pngtree-sun-flower-spring-clip-art-png-image_5867655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/butterflies-dragonflies-flower-garden_1308-21809.jpg' alt='Spring Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/butterflies-dragonflies-flower-garden_1308-21809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring landscape - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/64952/spring-landscape-clipart-original.png' alt='Spring landscape - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3400">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/64952/spring-landscape-clipart-original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 Spring Clip Art ideas | clip art, art, cute clipart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/da/b0/a6/dab0a667aa7ca3faf249ef962e459cf9.jpg' alt='220 Spring Clip Art ideas | clip art, art, cute clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/da/b0/a6/dab0a667aa7ca3faf249ef962e459cf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

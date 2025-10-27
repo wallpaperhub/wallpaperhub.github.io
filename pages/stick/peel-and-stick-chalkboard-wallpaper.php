@@ -1,0 +1,129 @@
+<title>Transform Your Space with Peel and Stick Chalkboard Wallpaper</title>
+                    <meta name="description" content="Discover the versatility of peel and stick chalkboard wallpaper! Perfect for kids' rooms, offices, or kitchens, it offers a temporary surface for creativity and organization. Easy to apply and remove, it brings fun and functionality to any wall without the mess of paint. Ideal for renters and DIY enthusiasts!">
+                    <meta name="keywords" content="peel and stick chalkboard wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-chalkboard-wallpaper">
+                            <span itemprop="name">peel and stick chalkboard wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Peel and Stick Chalkboard Wallpaper</h1>
+                <p>Peel and stick chalkboard wallpaper is a stylish and functional solution for homes and offices. Easily transform any surface into a writable space for notes, art, or memories without permanent damage. Its simple installation process allows for creative expression and organization while adding a unique touch to your décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Chalkboard Wallpaper Stick and Peel(1.48ft.x6.5ft.) Chalk Board  Wall Paper Chalk Paint Removable Renovate Blackboard Sticker with 5 Chalks  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KMJ8fnSOL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Chalkboard Wallpaper Stick and Peel(1.48ft.x6.5ft.) Chalk Board  Wall Paper Chalk Paint Removable Renovate Blackboard Sticker with 5 Chalks  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KMJ8fnSOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Chalkboard Black Vinyl Peel & Stick Wallpaper Roll (Covers 28.18  Sq. Ft.) RMK10969WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8c2b4066-c039-4c60-8756-394d34dd3286/svn/roommates-wallpaper-rolls-rmk10969wp-4f_600.jpg' alt='RoomMates Chalkboard Black Vinyl Peel & Stick Wallpaper Roll (Covers 28.18  Sq. Ft.) RMK10969WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8c2b4066-c039-4c60-8756-394d34dd3286/svn/roommates-wallpaper-rolls-rmk10969wp-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Chalkboard Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/ch10587-chalkboard-black-tempaper-removable-wallpaper-back-to-school_1800x1800.jpg?v=1724537858' alt='Black Chalkboard Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/ch10587-chalkboard-black-tempaper-removable-wallpaper-back-to-school_1800x1800.jpg?v=1724537858' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Vintage Farmhouse DIY Chalkboard Black Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/cb8429/1664344965/il_570xN.1664344965_kzre.jpg' alt='Peel and Stick Vintage Farmhouse DIY Chalkboard Black Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/cb8429/1664344965/il_570xN.1664344965_kzre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Chalkboard Wallpaper Stick and Peel Blackboard Stickers Removable  Chalkboard Contact Paper Roll 17.7” x 78.7" - 5 Chalks Included Self ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/376be7b1-f11f-4755-bd18-c7dbddb87ae9.8973a3e0374d4ff9947c8142b90991d5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='VEELIKE Chalkboard Wallpaper Stick and Peel Blackboard Stickers Removable  Chalkboard Contact Paper Roll 17.7” x 78.7" - 5 Chalks Included Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/376be7b1-f11f-4755-bd18-c7dbddb87ae9.8973a3e0374d4ff9947c8142b90991d5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnetic Colored Decorative Chalkboard Sticker, Self-Adhesive Wallpaper  Roll Blackboard, Peel and Stick Contact Paper for Home Kitchen School,  Black, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/612Fj4opXUL.jpg' alt='Magnetic Colored Decorative Chalkboard Sticker, Self-Adhesive Wallpaper  Roll Blackboard, Peel and Stick Contact Paper for Home Kitchen School,  Black, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/612Fj4opXUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper 28-sq ft Black Vinyl Solid Self-adhesive Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/d1d59e4b-8813-4b85-8d0c-a297155d366e/64713565.jpg' alt='Tempaper 28-sq ft Black Vinyl Solid Self-adhesive Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/d1d59e4b-8813-4b85-8d0c-a297155d366e/64713565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Chalkboard Black Vinyl Peel & Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b3c8c72f-6c02-4c5a-ad25-b5588c6cbb92/svn/roommates-wallpaper-rolls-rmk10969wp-fa_600.jpg' alt='RoomMates Chalkboard Black Vinyl Peel & Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b3c8c72f-6c02-4c5a-ad25-b5588c6cbb92/svn/roommates-wallpaper-rolls-rmk10969wp-fa_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Chalkboard Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/CH10587-chalkboard-black-tempaper-removable-wallpaper-kids_1800x1800.jpg?v=1724686661' alt='Black Chalkboard Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/CH10587-chalkboard-black-tempaper-removable-wallpaper-kids_1800x1800.jpg?v=1724686661' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Chalkboard Grey Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6918081286409500048.jpeg' alt='Transform Chalkboard Grey Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6918081286409500048.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

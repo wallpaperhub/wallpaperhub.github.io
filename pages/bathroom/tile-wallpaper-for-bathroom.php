@@ -1,0 +1,129 @@
+<title>Stylish Tile Wallpaper Ideas for Your Bathroom</title>
+                    <meta name="description" content="Explore innovative tile wallpaper options for your bathroom! Create a stunning look with easy-to-install, water-resistant designs. Perfect for quick makeovers, our tile wallpaper blends style with functionality. Elevate your bathroom's ambiance today!">
+                    <meta name="keywords" content="tile wallpaper for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/tile-wallpaper-for-bathroom">
+                            <span itemprop="name">tile wallpaper for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Tile Wallpaper Ideas for Your Bathroom</h1>
+                <p>Transform your bathroom with stylish tile wallpaper. It's a cost-effective and easy way to update the space, offering a range of designs from classic to contemporary. Water-resistant and durable, tile wallpaper adds elegance while simplifying maintenance. Discover how to elevate your bathroom aesthetics effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper and tile combinations that pair beautifully for a ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' alt='Wallpaper and tile combinations that pair beautifully for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erin Kestenbaum" />
+                                </span>
+                                <a href='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper Ideas to Enhance Your Space | Robern">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e8ae_634737b25553e19eef7ee5a2_221941274_3019936004992376_8828982258307826261_n%2520(1).jpeg' alt='Bathroom Wallpaper Ideas to Enhance Your Space | Robern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robern" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e8ae_634737b25553e19eef7ee5a2_221941274_3019936004992376_8828982258307826261_n%2520(1).jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Wallpaper and Tile Half Bathroom Transformation ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/growingupkemper.com/wp-content/uploads/2024/04/IMG_1686.jpg?fit=3024%2C4032&ssl=1' alt='Stunning Wallpaper and Tile Half Bathroom Transformation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Growing Up Kemper" />
+                                </span>
+                                <a href='https://i0.wp.com/growingupkemper.com/wp-content/uploads/2024/04/IMG_1686.jpg?fit=3024%2C4032&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornamental Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' alt='Ornamental Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62+Bathroom Wallpaper Ideas (NEUTRAL & COLORFUL) - Wallpapers">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/bathrooms/full-bath-prime-renovations-img~8e915fae0c48cd96_14-1069-1-565ae8e.jpg' alt='62+Bathroom Wallpaper Ideas (NEUTRAL & COLORFUL) - Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backsplash.com" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/bathrooms/full-bath-prime-renovations-img~8e915fae0c48cd96_14-1069-1-565ae8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Stylish Ways to Redecorate with Wallpaper and Tile">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2395/6385/files/05-jungalow-pink-green-bathroom-wallpaper.jpg?v=1626381449' alt='13 Stylish Ways to Redecorate with Wallpaper and Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tile Club" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2395/6385/files/05-jungalow-pink-green-bathroom-wallpaper.jpg?v=1626381449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you wallpaper a bathroom and if so, how? – Sophie Robinson">
+                                <img itemprop="contentUrl url" src='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' alt='Can you wallpaper a bathroom and if so, how? – Sophie Robinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sophie Robinson" />
+                                </span>
+                                <a href='https://www.sophierobinson.co.uk/wp-content/uploads/2019/01/Divine-SavagesGEO-AVIARY-BATHROOM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-1-1100x1318.jpg' alt='Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Stylish Ways to Redecorate with Wallpaper and Tile">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2395/6385/files/08-flamingo-wallpaper-kitchen-and-bathroom-project-dina-bandman-interiors.jpg?v=1626381618' alt='13 Stylish Ways to Redecorate with Wallpaper and Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tile Club" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2395/6385/files/08-flamingo-wallpaper-kitchen-and-bathroom-project-dina-bandman-interiors.jpg?v=1626381618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

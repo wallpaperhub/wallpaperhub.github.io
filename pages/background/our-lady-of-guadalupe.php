@@ -1,0 +1,129 @@
+<title>Our Lady of Guadalupe: A Symbol of Faith and Hope</title>
+                    <meta name="description" content="Discover the story of Our Lady of Guadalupe, a powerful symbol of hope and faith in Latin culture. Learn about her miraculous apparition to Juan Diego and her significance as the patroness of Mexico. Explore the impact of this beloved figure on millions worldwide.">
+                    <meta name="keywords" content="our lady of guadalupe">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/our-lady-of-guadalupe">
+                            <span itemprop="name">our lady of guadalupe</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Our Lady of Guadalupe: A Symbol of Faith and Hope</h1>
+                <p>Our Lady of Guadalupe, revered as a symbol of faith and compassion, is the patroness of Mexico and the Americas. Her image, characterized by a cloak adorned with stars and surrounded by rays of light, appeared to Juan Diego in 1531. This miraculous event signifies hope, unity, and the deep cultural heritage of Hispanic communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2c/Virgen_de_guadalupe1.jpg' alt='Our Lady of Guadalupe - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2c/Virgen_de_guadalupe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History & Significance of Our Lady of Guadalupe Shrine">
+                                <img itemprop="contentUrl url" src='https://guadalupeshrine.org/wp-content/uploads/2023/10/our-lady-guadalupe-heaven-tilma-infographic-theological-message-symbolism-english-lg.jpg' alt='The History & Significance of Our Lady of Guadalupe Shrine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shrine of Our Lady of Guadalupe" />
+                                </span>
+                                <a href='https://guadalupeshrine.org/wp-content/uploads/2023/10/our-lady-guadalupe-heaven-tilma-infographic-theological-message-symbolism-english-lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe | Story, Feast Day, Miracle, & Meaning ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/52/197752-050-821F48D9/Virgin-of-Guadalupe-oil-canvas-collection-Antonio-1720.jpg' alt='Our Lady of Guadalupe | Story, Feast Day, Miracle, & Meaning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/52/197752-050-821F48D9/Virgin-of-Guadalupe-oil-canvas-collection-Antonio-1720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe Encourages Me to Be an Authentic Model of ...">
+                                <img itemprop="contentUrl url" src='https://thegoodnewsroom.org/wp-content/uploads/2023/12/20231205T0800-AUTHENTIC-LIKE-MARY-1769559.jpg' alt='Our Lady of Guadalupe Encourages Me to Be an Authentic Model of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Good Newsroom" />
+                                </span>
+                                <a href='https://thegoodnewsroom.org/wp-content/uploads/2023/12/20231205T0800-AUTHENTIC-LIKE-MARY-1769559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Free Our Lady Of Guadalupe & Lady Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/10/11/22/35/our-lady-of-guadalupe-4542831_640.png' alt='10,000+ Free Our Lady Of Guadalupe & Lady Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/10/11/22/35/our-lady-of-guadalupe-4542831_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The feminine genius of Our Lady of Guadalupe">
+                                <img itemprop="contentUrl url" src='https://angelusnews.com/wp-content/uploads/2020/12/20180101T0700-FAITH-ALIVE-607426-e1607697305889-1024x575.jpeg' alt='The feminine genius of Our Lady of Guadalupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angelus News" />
+                                </span>
+                                <a href='https://angelusnews.com/wp-content/uploads/2020/12/20180101T0700-FAITH-ALIVE-607426-e1607697305889-1024x575.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History & Significance of Our Lady of Guadalupe Shrine">
+                                <img itemprop="contentUrl url" src='https://guadalupeshrine.org/wp-content/uploads/2023/10/virgin-mary-image-tilma-saint-juan-diego-pictograph-shrine-our-lady-guadalupe-church-la-crosse-wisconsin.jpg' alt='The History & Significance of Our Lady of Guadalupe Shrine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shrine of Our Lady of Guadalupe" />
+                                </span>
+                                <a href='https://guadalupeshrine.org/wp-content/uploads/2023/10/virgin-mary-image-tilma-saint-juan-diego-pictograph-shrine-our-lady-guadalupe-church-la-crosse-wisconsin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe">
+                                <img itemprop="contentUrl url" src='http://kellylatimoreicons.com/cdn/shop/products/OurLadyofGuadalupe.jpg?v=1615172997' alt='Our Lady of Guadalupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2103">
+                                <meta itemprop="height" content="3308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelly Latimore Icons" />
+                                </span>
+                                <a href='http://kellylatimoreicons.com/cdn/shop/products/OurLadyofGuadalupe.jpg?v=1615172997' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The story of Our Lady of Guadalupe - Vatican News">
+                                <img itemprop="contentUrl url" src='https://media.vaticannews.va/media/content/dam-archive/vaticannews/images-multimedia/srv/08352_13022016.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg' alt='The story of Our Lady of Guadalupe - Vatican News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vatican News" />
+                                </span>
+                                <a href='https://media.vaticannews.va/media/content/dam-archive/vaticannews/images-multimedia/srv/08352_13022016.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Prayer for the Feast of Our Lady of Guadalupe">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/81a74f_37fb1c2cba6648d093bae90a9ab31a66~mv2.jpg/v1/fill/w_538,h_802,al_c,lg_1,q_85/81a74f_37fb1c2cba6648d093bae90a9ab31a66~mv2.jpg' alt='A Prayer for the Feast of Our Lady of Guadalupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sisters of Saint Dominic of Blauvelt, New York" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/81a74f_37fb1c2cba6648d093bae90a9ab31a66~mv2.jpg/v1/fill/w_538,h_802,al_c,lg_1,q_85/81a74f_37fb1c2cba6648d093bae90a9ab31a66~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

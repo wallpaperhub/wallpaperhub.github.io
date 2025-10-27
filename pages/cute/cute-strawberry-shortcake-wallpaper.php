@@ -1,0 +1,129 @@
+<title>Sweet Strawberry Shortcake Wallpapers: Adorable Designs for Your Screen</title>
+                    <meta name="description" content="Add charm to your devices with cute strawberry shortcake wallpapers! Discover delightful designs featuring luscious strawberries and whipped cream, perfect for dessert lovers. Brighten your home screen today with these sweet visuals and enjoy a playful touch every time you unlock your device!">
+                    <meta name="keywords" content="cute strawberry shortcake wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-strawberry-shortcake-wallpaper">
+                            <span itemprop="name">cute strawberry shortcake wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sweet Strawberry Shortcake Wallpapers: Adorable Designs for Your Screen</h1>
+                <p>Cute strawberry shortcake wallpaper adds a sweet touch to your device, featuring vibrant strawberries, fluffy whipped cream, and lovely pastel colors. Perfect for lovers of dessert aesthetics, this wallpaper transforms your screen into a delightful treat. Download the cutest backgrounds and brighten your day with these charming designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/f8/b8/cef8b830372abc529c52de64c87976a2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/f8/b8/cef8b830372abc529c52de64c87976a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/66/8a/e4668acc14c0eb4af0cb005e11487e97.jpg' alt='Strawberry Shortcake background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/66/8a/e4668acc14c0eb4af0cb005e11487e97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="560 Best Strawberry Shortcake Wallpaper ideas in 2025 | strawberry ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5b/d9/62/5bd962884b48274fd5411b585254618c.jpg' alt='560 Best Strawberry Shortcake Wallpaper ideas in 2025 | strawberry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5b/d9/62/5bd962884b48274fd5411b585254618c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/c3/60/c4c3609f4e379b076e3490135415f374.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/c3/60/c4c3609f4e379b076e3490135415f374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace the Strawberry Shortcake Aesthetic with These Cute Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7215929310979378437&location=0&aid=1988' alt='Embrace the Strawberry Shortcake Aesthetic with These Cute Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7215929310979378437&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Strawberry Shortcake Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/strawberry-shortcake-collage-aesthetic-u5o3y39sus9y4319.jpg' alt='100+] Strawberry Shortcake Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/strawberry-shortcake-collage-aesthetic-u5o3y39sus9y4319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-pink-strawberry-shortcake-pattern-5b7yg2llx6tmwvjj.jpg' alt='Strawberry Shortcake Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-pink-strawberry-shortcake-pattern-5b7yg2llx6tmwvjj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry core❤️   #strawberryshortcake #strawberry #strawberryaesthetic  #strawberrycore #   #     #iphonewallpaper #fypシ゚viral">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7352890795164175622&location=0&aid=1988' alt='Strawberry core❤️   #strawberryshortcake #strawberry #strawberryaesthetic  #strawberrycore #   #     #iphonewallpaper #fypシ゚viral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7352890795164175622&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just some Strawberry Shortcake wallpapers in honor of the new show ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/21f5fd2a5d92435faaee6c8908e015de/b9e71e45578fbba1-32/s640x960/dc8f10fa01ff8ab9d652a368ae51621fce80ae14.jpg' alt='Just some Strawberry Shortcake wallpapers in honor of the new show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="593">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/21f5fd2a5d92435faaee6c8908e015de/b9e71e45578fbba1-32/s640x960/dc8f10fa01ff8ab9d652a368ae51621fce80ae14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="strawberry shortcake wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/de/53/b0/de53b0ce478adce65b692557181d7707.jpg' alt='strawberry shortcake wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/de/53/b0/de53b0ce478adce65b692557181d7707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

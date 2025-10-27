@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Floral Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance and cheer to your home with our yellow floral peel and stick wallpaper. Easy to apply and reposition, it's perfect for any area in need of a quick refresh. Ideal for renters or DIY enthusiasts, this wallpaper enhances your decor effortlessly and brings nature indoors.">
+                    <meta name="keywords" content="yellow floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/yellow-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">yellow floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Floral Peel and Stick Wallpaper</h1>
+                <p>Transform your space with stunning yellow floral peel and stick wallpaper. Perfect for a fresh, vibrant look, this wallpaper features cheerful blooms that brighten any room. Easy to apply and remove, it’s ideal for renters or those looking to update their decor without commitment. Give your walls a lively makeover today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2305">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3244016574_o9if_53a26192-3431-4f75-ae19-a0289a356a55.jpg' alt='Yellow White Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2305'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3244016574_o9if_53a26192-3431-4f75-ae19-a0289a356a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Peel and Stick Removable Wallpaper 0982 | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_206790982_02_grande.jpg?v=1642620176' alt='Yellow Flower Peel and Stick Removable Wallpaper 0982 | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_206790982_02_grande.jpg?v=1642620176' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Wallpaper Hand-painted Flowers Removable  Waterproof Wallpaper Floral Decorative Contact Paper Vinyl White/Yellow  Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1WMtzPK2JL.jpg' alt='Vintage Floral Peel and Stick Wallpaper Hand-painted Flowers Removable  Waterproof Wallpaper Floral Decorative Contact Paper Vinyl White/Yellow  Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1WMtzPK2JL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Floral Wallpaper Peel and Stick, Spring Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35172655/r/il/b91e0d/3984684417/il_fullxfull.3984684417_pctw.jpg' alt='Yellow Floral Wallpaper Peel and Stick, Spring Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2676">
+                                <meta itemprop="height" content="2466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35172655/r/il/b91e0d/3984684417/il_fullxfull.3984684417_pctw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Peony Yellow Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-Yellow-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/86a2f453-2c00-4e93-a345-171002326fbd/svn/wallpaper-rolls-w9131-vinyl-yellow-216-64_600.jpg' alt='Unbranded Peony Yellow Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-Yellow-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/86a2f453-2c00-4e93-a345-171002326fbd/svn/wallpaper-rolls-w9131-vinyl-yellow-216-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Floral Illustration With Birds And Flowers Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/01_Angle_interior_scene-3.jpg' alt='Yellow Floral Illustration With Birds And Flowers Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/01_Angle_interior_scene-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24"x118"Yellow Floral Wallpaper Peel and Stick Floral Contact Paper for  Cabinets Walls Flower Wallpaper for Bedroom Bathroom Wall Paper Removable  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kYXeK5OKL._AC_UF894,1000_QL80_DpWeblab_.jpg' alt='24"x118"Yellow Floral Wallpaper Peel and Stick Floral Contact Paper for  Cabinets Walls Flower Wallpaper for Bedroom Bathroom Wall Paper Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kYXeK5OKL._AC_UF894,1000_QL80_DpWeblab_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Peel and Stick Removable Wallpaper 1001">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_1001_05_1200x1200.jpg?v=1642620116' alt='Yellow Flower Peel and Stick Removable Wallpaper 1001'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_1001_05_1200x1200.jpg?v=1642620116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Floral Wallpaper, Wildflower Wallpaper, Spring Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31588809/r/il/07b252/4072130551/il_fullxfull.4072130551_j55j.jpg' alt='Yellow Floral Wallpaper, Wildflower Wallpaper, Spring Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31588809/r/il/07b252/4072130551/il_fullxfull.4072130551_j55j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l-yellow.jpg?q=1740438812' alt='Yellow Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l-yellow.jpg?q=1740438812' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

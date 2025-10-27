@@ -1,0 +1,129 @@
+<title>Can You Legally Conduct a Background Check on a Minor?</title>
+                    <meta name="description" content="Wondering if you can run a background check on a minor? Discover the legalities, requirements for parental consent, and considerations involved in the process. Stay informed to ensure compliance with laws while ensuring the safety of minors.">
+                    <meta name="keywords" content="can you do a background check on a minor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-you-do-a-background-check-on-a-minor">
+                            <span itemprop="name">can you do a background check on a minor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Legally Conduct a Background Check on a Minor?</h1>
+                <p>Conducting a background check on a minor typically requires parental consent and the purpose behind the check must be justified. Legal restrictions may apply, varying by location. Always ensure compliance with local laws to protect the minor's rights while gathering necessary information for safety or employment decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minors and Background Checks – VolunteerMatters Support">
+                                <img itemprop="contentUrl url" src='https://support.volunteermatters.com/hc/article_attachments/360003338328/Screen_Shot_2018-07-20_at_4.00.42_PM.png' alt='Minors and Background Checks – VolunteerMatters Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VolunteerMatters Support" />
+                                </span>
+                                <a href='https://support.volunteermatters.com/hc/article_attachments/360003338328/Screen_Shot_2018-07-20_at_4.00.42_PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Order a Background Check on a Minor – Protect My Ministry">
+                                <img itemprop="contentUrl url" src='https://support.protectmyministry.com/hc/article_attachments/21197013589395' alt='How to Order a Background Check on a Minor – Protect My Ministry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="331">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://support.protectmyministry.com/hc/article_attachments/21197013589395' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Background Checks Be Done on Minors?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/r_BtLLnmISk/sddefault.jpg' alt='Can Background Checks Be Done on Minors?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/r_BtLLnmISk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleMatter: How does the Background Check Process with Sterling ...">
+                                <img itemprop="contentUrl url" src='https://media.snagajob.com/zendesk_kb/article_attachments/115012644323-background_checks_sterling_minor_consent.png' alt='PeopleMatter: How does the Background Check Process with Sterling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1138">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fourth & HotSchedules Customer Success Portal" />
+                                </span>
+                                <a href='https://media.snagajob.com/zendesk_kb/article_attachments/115012644323-background_checks_sterling_minor_consent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should You Run Background Checks on Minors?">
+                                <img itemprop="contentUrl url" src='https://blog.bib.com/hubfs/Untitled%20design%2811%29.png' alt='Should You Run Background Checks on Minors?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIB.com" />
+                                </span>
+                                <a href='https://blog.bib.com/hubfs/Untitled%20design%2811%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Consist of?">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' alt='What Does a Background Check Consist of?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a 17-Year-Old Sign to Authorize a Background Check? - HR Daily ...">
+                                <img itemprop="contentUrl url" src='https://news.blr.com/app/uploads/sites/3/2021/06/youngsigning.jpg' alt='Can a 17-Year-Old Sign to Authorize a Background Check? - HR Daily ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HR Daily Advisor" />
+                                </span>
+                                <a href='https://news.blr.com/app/uploads/sites/3/2021/06/youngsigning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a Background Check Be Done on a Minor?">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D12AQHcN1OsYDs-ZQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520223268682?e=2147483647&v=beta&t=3Z8xmbCmXKAYuVQGvRnEkoYwUdeHOSJmrFekgZe29Rk' alt='Can a Background Check Be Done on a Minor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D12AQHcN1OsYDs-ZQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520223268682?e=2147483647&v=beta&t=3Z8xmbCmXKAYuVQGvRnEkoYwUdeHOSJmrFekgZe29Rk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First-Time Candidate and Minor Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.choicescreening.com/hs-fs/hubfs/First%20Time%20Candidate%20and%20Minor%20Background%20Checks%20Blog.jpg?width=518&name=First%20Time%20Candidate%20and%20Minor%20Background%20Checks%20Blog.jpg' alt='First-Time Candidate and Minor Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choice Screening" />
+                                </span>
+                                <a href='https://www.choicescreening.com/hs-fs/hubfs/First%20Time%20Candidate%20and%20Minor%20Background%20Checks%20Blog.jpg?width=518&name=First%20Time%20Candidate%20and%20Minor%20Background%20Checks%20Blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

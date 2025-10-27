@@ -1,0 +1,129 @@
+<title>Vibrant Frida Kahlo Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover beautiful Frida Kahlo wallpaper to elevate your decor. Perfect for art lovers, these unique designs bring color and creativity to any room. Shop now and transform your living space with the spirit of Frida Kahlo! Perfect for a bold makeover in a small area.">
+                    <meta name="keywords" content="frida kahlo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frida-kahlo-wallpaper">
+                            <span itemprop="name">frida kahlo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Frida Kahlo Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning Frida Kahlo wallpaper! Celebrate the iconic artist's vibrant colors and unique style in your home. Whether you prefer bold patterns or subtle touches, these wallpapers will bring a creative flair to any room. Embrace Kahlo's spirit and let her artistry inspire your surroundings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Frida Kahlo Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/frida-kahlo-llguc12d96urp2p4.jpg' alt='100+] Frida Kahlo Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/frida-kahlo-llguc12d96urp2p4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida">
+                                <img itemprop="contentUrl url" src='https://backtothewall.co.nz/cdn/shop/products/Frida_Web_600x.jpg?v=1738629201' alt='Frida'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Murals & Mural Wallpapers / Custom Designed New Zealand" />
+                                </span>
+                                <a href='https://backtothewall.co.nz/cdn/shop/products/Frida_Web_600x.jpg?v=1738629201' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDA Kahlo Wallpaper | Photo WALL Mural | Exotic Wall Decoration ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21916349/r/il/9fb7fe/3445681515/il_570xN.3445681515_f97e.jpg' alt='FRIDA Kahlo Wallpaper | Photo WALL Mural | Exotic Wall Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21916349/r/il/9fb7fe/3445681515/il_570xN.3445681515_f97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDA Kahlo Wallpaper | Bohemian Flowers Mural | Art Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21916349/r/il/edc9c9/3493144497/il_570xN.3493144497_k8t0.jpg' alt='FRIDA Kahlo Wallpaper | Bohemian Flowers Mural | Art Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21916349/r/il/edc9c9/3493144497/il_570xN.3493144497_k8t0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/93/91/3e9391fd1df2567c1ca1db816843c617.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/93/91/3e9391fd1df2567c1ca1db816843c617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1364x768px, 720P free download | Boston Museum Acquires First ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/222/664/HD-wallpaper-frida-kahlo-art-b-and-w-black-and-white-floral-crown-flowers-green-mexican-painter-painting-sayings-thumbnail.jpg' alt='1364x768px, 720P free download | Boston Museum Acquires First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/222/664/HD-wallpaper-frida-kahlo-art-b-and-w-black-and-white-floral-crown-flowers-green-mexican-painter-painting-sayings-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo Portrait Floral Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/c6/1b/b8c61b51a6165b4ded75f1d773ae38b7.jpg' alt='Frida Kahlo Portrait Floral Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/c6/1b/b8c61b51a6165b4ded75f1d773ae38b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/9701/frida_limited.jpg' alt='Frida Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/9701/frida_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo Peel and Stick Wallpaper, Wall Art Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40990538/r/il/57a2c8/6413229891/il_fullxfull.6413229891_jz28.jpg' alt='Frida Kahlo Peel and Stick Wallpaper, Wall Art Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40990538/r/il/57a2c8/6413229891/il_fullxfull.6413229891_jz28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo Lover Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13574726/p/f/m/kI8gAfs7I-Qri2gJVG1dfOkFfYwzScRgkeBrSdLa5S6ZTKa4tAHz4jE/For%20the%20love%20of%20Color%20%20Bubble%20Gum%20Tribute%20to%20Frida.jpg' alt='Frida Kahlo Lover Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13574726/p/f/m/kI8gAfs7I-Qri2gJVG1dfOkFfYwzScRgkeBrSdLa5S6ZTKa4tAHz4jE/For%20the%20love%20of%20Color%20%20Bubble%20Gum%20Tribute%20to%20Frida.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

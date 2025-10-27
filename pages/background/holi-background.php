@@ -1,0 +1,129 @@
+<title>Experience the Vibrant Celebration of Holi: Festival of Colors</title>
+                    <meta name="description" content="Explore the joyous festival of Holi, where colors come alive! Learn about its rich traditions, cultural significance, and the vibrant way communities unite to celebrate spring and the triumph of good. Join the fun and experience the spirit of this beloved festival!">
+                    <meta name="keywords" content="holi background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/holi-background">
+                            <span itemprop="name">holi background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Vibrant Celebration of Holi: Festival of Colors</h1>
+                <p>Holi, also known as the Festival of Colors, originates from ancient Hindu mythology. Celebrated predominantly in India and Nepal, it marks the arrival of spring and the victory of good over evil. Traditionally, participants throw colored powders, sing, dance, and indulge in festive foods, fostering community and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,751 Colorful Background Holi Celebration Colors Splash Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-celebration-indian-holi-festival-watercolor-illustration-concept-cultural-festivals-vibrant-colors-background-copy-354116771.jpg' alt='2,751 Colorful Background Holi Celebration Colors Splash Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-celebration-indian-holi-festival-watercolor-illustration-concept-cultural-festivals-vibrant-colors-background-copy-354116771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Woodbu Happy Holi Backdrop,7X5FT Happy Holi Background Happy  Holi Banner Hindu Color Festival BackdropIndian Colorful Graffiti Backdrop  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81c8qg8UCML.jpg' alt='Amazon.com : Woodbu Happy Holi Backdrop,7X5FT Happy Holi Background Happy  Holi Banner Hindu Color Festival BackdropIndian Colorful Graffiti Backdrop  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81c8qg8UCML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Paint Splash Background For Holi Festival In India, India ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220718/original/pngtree-colorful-paint-splash-background-for-holi-festival-in-india-picture-image_1660672.jpg' alt='Colorful Paint Splash Background For Holi Festival In India, India ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220718/original/pngtree-colorful-paint-splash-background-for-holi-festival-in-india-picture-image_1660672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Colorful Happy Holi Background. Color Vibrant Powder On ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/rouslan/rouslan1903/rouslan190300082/118121454-abstract-colorful-happy-holi-background-color-vibrant-powder-on-wood-dust-colored-splash-texture.jpg' alt='Abstract Colorful Happy Holi Background. Color Vibrant Powder On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/rouslan/rouslan1903/rouslan190300082/118121454-abstract-colorful-happy-holi-background-color-vibrant-powder-on-wood-dust-colored-splash-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d rendering illustration for holi festival of colors colorful ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/933/572/large_2x/3d-rendering-illustration-for-holi-festival-of-colors-colorful-gulaal-background-photo.jpg' alt='3d rendering illustration for holi festival of colors colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3484">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/933/572/large_2x/3d-rendering-illustration-for-holi-festival-of-colors-colorful-gulaal-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holi background 2025 image">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/517/419/large_2x/happy-holi-wallpaper-colorful-background-for-holi-color-festival-photo.jpg' alt='Holi background 2025 image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/517/419/large_2x/happy-holi-wallpaper-colorful-background-for-holi-color-festival-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Result of Happy Holi Editing • Wallpapers Images PNGs Graphics">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fa/e1/05/fae1057d10a08a4767aaf273fa830ef8.jpg' alt='Result of Happy Holi Editing • Wallpapers Images PNGs Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fa/e1/05/fae1057d10a08a4767aaf273fa830ef8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holi store background image">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/620/195/non_2x/watercolor-happy-holi-festival-background-free-vector.jpg' alt='Holi store background image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/620/195/non_2x/watercolor-happy-holi-festival-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holi background 2025">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/holi-splash-3840x2160.jpg' alt='Holi background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/holi-splash-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 5x4ft Happy Holi Backdrop Colorful Paint Splash  Photography Background Indian Hindu Festival of Colors Decorations Graffiti  Holi ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71z0eo7hYJL.jpg' alt='Amazon.com : Loccor 5x4ft Happy Holi Backdrop Colorful Paint Splash  Photography Background Indian Hindu Festival of Colors Decorations Graffiti  Holi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71z0eo7hYJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

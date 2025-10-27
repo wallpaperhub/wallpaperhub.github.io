@@ -1,0 +1,129 @@
+<title>Charming Kawaii Pastel Rainbow Backgrounds</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="kawaii pastel rainbow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kawaii-pastel-rainbow-background">
+                            <span itemprop="name">kawaii pastel rainbow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Kawaii Pastel Rainbow Backgrounds</h1>
+                <p>Kawaii pastel rainbow backgrounds are vibrant, playful designs that bring a cheerful and soft aesthetic to any project. Perfect for wallpapers, social media graphics, or art creations, these backgrounds blend gentle pastels with dreamy rainbow hues, creating an uplifting and heartwarming vibe. Embrace the joy of kawaii and add a splash of color!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTUtMTE2Yy1rc3RvcWYzei5qcGc.jpg' alt='Pastel Rainbow Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTUtMTE2Yy1rc3RvcWYzei5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Rainbow Background Photos, Images and Pictures">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/galaxy-holographic-fantasy-background-pastel-260nw-1446333032.jpg' alt='Kawaii Rainbow Background Photos, Images and Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/galaxy-holographic-fantasy-background-pastel-260nw-1446333032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii pastel rainbow wallpaper by greentea45 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautm0-e4cf70f0-a278-4248-94c1-32d939c865f7.jpg/v1/fill/w_474,h_632,q_75,strp/kawaii_pastel_rainbow_wallpaper_by_greentea45_deautm0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMyIiwicGF0aCI6IlwvZlwvYTU3NTU3MzQtZDYzYi00ZThhLTlhZDQtZTRiMzc1YzlkYjBiXC9kZWF1dG0wLWU0Y2Y3MGYwLWEyNzgtNDI0OC05NGMxLTMyZDkzOWM4NjVmNy5qcGciLCJ3aWR0aCI6Ijw9NDc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.A_tL1xxT8k6A9RKDz73GtrOE8Hr_oTCgjDWPRILUjXQ' alt='kawaii pastel rainbow wallpaper by greentea45 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautm0-e4cf70f0-a278-4248-94c1-32d939c865f7.jpg/v1/fill/w_474,h_632,q_75,strp/kawaii_pastel_rainbow_wallpaper_by_greentea45_deautm0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMyIiwicGF0aCI6IlwvZlwvYTU3NTU3MzQtZDYzYi00ZThhLTlhZDQtZTRiMzc1YzlkYjBiXC9kZWF1dG0wLWU0Y2Y3MGYwLWEyNzgtNDI0OC05NGMxLTMyZDkzOWM4NjVmNy5qcGciLCJ3aWR0aCI6Ijw9NDc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.A_tL1xxT8k6A9RKDz73GtrOE8Hr_oTCgjDWPRILUjXQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/rainbow-pink-sky-colorful-cute-print-vector_405506-496.jpg' alt='Pastel Rainbow Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/rainbow-pink-sky-colorful-cute-print-vector_405506-496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars And Rainbow Cute Pastel Colors Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.jpg' alt='Stars And Rainbow Cute Pastel Colors Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel magic clouds | Kawaii wallpaper, Colorful wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/87/76/ce8776a680adcd60fd9d78400d870880.jpg' alt='pastel magic clouds | Kawaii wallpaper, Colorful wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/87/76/ce8776a680adcd60fd9d78400d870880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute kawaii sweet colorful rainbow with cloud backdrop display ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/500/894/non_2x/cute-kawaii-sweet-colorful-rainbow-with-cloud-backdrop-display-stage-on-pastel-blue-floor-and-wall-3d-illustration-for-putting-product-or-object-vector.jpg' alt='cute kawaii sweet colorful rainbow with cloud backdrop display ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/500/894/non_2x/cute-kawaii-sweet-colorful-rainbow-with-cloud-backdrop-display-stage-on-pastel-blue-floor-and-wall-3d-illustration-for-putting-product-or-object-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Rainbow Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-rainbow-1242-x-2208-wallpaper-ctfk42jovu2p1gif.jpg' alt='100+] Kawaii Rainbow Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-rainbow-1242-x-2208-wallpaper-ctfk42jovu2p1gif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern sun, rainbow and clouds. kawaii ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-sun-rainbow-clouds-kawaii-wallpaper-white-background-baby-cute-pastel-colors_71374-1083.jpg' alt='Premium Vector | Seamless pattern sun, rainbow and clouds. kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-sun-rainbow-clouds-kawaii-wallpaper-white-background-baby-cute-pastel-colors_71374-1083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/45/90/84459081eedd023f689be32cff7c1318.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="2709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/45/90/84459081eedd023f689be32cff7c1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

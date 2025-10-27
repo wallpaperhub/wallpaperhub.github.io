@@ -1,0 +1,129 @@
+<title>Stranger Things Season 4 Background: Unveiling the Upside Down</title>
+                    <meta name="description" content="Discover the captivating background of Stranger Things Season 4! Explore character developments, the haunting Upside Down, and how past events shape the gripping narrative. Get ready for a thrilling ride as Hawkins faces new unimaginable horrors. Perfect for fans looking to dive deeper!">
+                    <meta name="keywords" content="stranger things season 4 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stranger-things-season-4-background">
+                            <span itemprop="name">stranger things season 4 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stranger Things Season 4 Background: Unveiling the Upside Down</h1>
+                <p>Stranger Things Season 4 dives deeper into the eerie world of the Upside Down, exploring the characters' growth and new threats. Set in the summer of 1986, this season introduces fresh horrors while revisiting old ones. With stunning visuals and gripping storytelling, it links past secrets with the fate of Hawkins.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Season 4 | A Brutally Honest Review – KTSW 89.9">
+                                <img itemprop="contentUrl url" src='https://ktswblog.net/wp-content/uploads/2022/07/stranger-things-4-illustrated-poster-by-kyle-lambert.jpeg' alt='Stranger Things Season 4 | A Brutally Honest Review – KTSW 89.9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTSW 89.9" />
+                                </span>
+                                <a href='https://ktswblog.net/wp-content/uploads/2022/07/stranger-things-4-illustrated-poster-by-kyle-lambert.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Stranger Things Season 4 Textless Posters (Wallpapers) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/k3cy4bwu2nk81.jpg' alt='All Stranger Things Season 4 Textless Posters (Wallpapers) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/k3cy4bwu2nk81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Season 4 Stranger Things 4k Graphic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/season-4-stranger-things-4k-graphic-6y3pt5basjx2krc7.jpg' alt='Season 4 Stranger Things 4k Graphic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/season-4-stranger-things-4k-graphic-6y3pt5basjx2krc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anticipation Builds For Stranger Things Season 4 As Our Favorite ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/stranger-things-season-four-6rqkfh57qcza56la.webp' alt='Anticipation Builds For Stranger Things Season 4 As Our Favorite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/stranger-things-season-four-6rqkfh57qcza56la.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Season 4 Poster Features Vecna, the Creel House ...">
+                                <img itemprop="contentUrl url" src='https://assets-prd.ignimgs.com/2022/05/12/stranger-things-4-poster-1652365494843.jpeg' alt='Stranger Things Season 4 Poster Features Vecna, the Creel House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets-prd.ignimgs.com/2022/05/12/stranger-things-4-poster-1652365494843.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things' Season 4 Teaser Shows Life Beyond Hawkins">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2021/11/FDhS_61WEAMuWVW.jpg' alt='Stranger Things' Season 4 Teaser Shows Life Beyond Hawkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2021/11/FDhS_61WEAMuWVW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Review: Stranger Things Season 4 Soundtrack and Score ...">
+                                <img itemprop="contentUrl url" src='https://music-b26f.kxcdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-13-at-10.41.50-AM-770x470.png' alt='Album Review: Stranger Things Season 4 Soundtrack and Score ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mxdwn Music" />
+                                </span>
+                                <a href='https://music-b26f.kxcdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-13-at-10.41.50-AM-770x470.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything We Know About Stranger Things Season 4">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/20201020/rs_1200x1200-201120105529-1200-stranger_things-netflix-gj.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' alt='Everything We Know About Stranger Things Season 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/20201020/rs_1200x1200-201120105529-1200-stranger_things-netflix-gj.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stranger Things Season 4 Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/stranger-things-season-4-collage-xcivqxl9u8kio4ga.jpg' alt='Download Stranger Things Season 4 Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/stranger-things-season-4-collage-xcivqxl9u8kio4ga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the Ending of “Stranger Things 4” Is Irritatingly Disappointing">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3389035f-bdf5-46f6-8105-b323d24f7b7f_1200x675.jpeg' alt='Why the Ending of “Stranger Things 4” Is Irritatingly Disappointing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kareem Abdul-Jabbar | Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3389035f-bdf5-46f6-8105-b323d24f7b7f_1200x675.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Light Tanks Wallpaper for Your Device</title>
+                    <meta name="description" content="Explore a premium selection of light tanks wallpaper that brings military might to your screen. Perfect for history lovers and enthusiasts, our high-quality images boost your device's look while capturing the essence of these agile armored vehicles. Download now for an inspiring backdrop!">
+                    <meta name="keywords" content="light tanks wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-tanks-wallpaper">
+                            <span itemprop="name">light tanks wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Tanks Wallpaper for Your Device</h1>
+                <p>Discover stunning light tanks wallpaper to elevate your device’s aesthetic! Our collection showcases a variety of designs featuring iconic light tanks in action, perfect for enthusiasts and history buffs alike. Download high-resolution images and transform your screen with powerful military visuals that inspire and excite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper USA, world of tanks, Light tank, T37, Detroit Arsenal ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/4/34/t37-liogkii-tank-detroit-arsenal-ssha-world-of-tanks.webp' alt='Wallpaper USA, world of tanks, Light tank, T37, Detroit Arsenal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/4/34/t37-liogkii-tank-detroit-arsenal-ssha-world-of-tanks.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Tank" Images – Browse 903 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/90/78/75/360_F_1190787544_qlST6WurGCZECBHlxbswfNiAfBxJEpXn.jpg' alt='Light Tank" Images – Browse 903 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/90/78/75/360_F_1190787544_qlST6WurGCZECBHlxbswfNiAfBxJEpXn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World of Tanks Blitz - What is your favorite light tank? | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5234278816601699' alt='World of Tanks Blitz - What is your favorite light tank? | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5234278816601699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Tanks | Armored Warfare - Official Website">
+                                <img itemprop="contentUrl url" src='https://armoredwarfare.com/sites/aw.my.com/files/u183517/100_banner_2x_0.jpg' alt='Light Tanks | Armored Warfare - Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Armored Warfare" />
+                                </span>
+                                <a href='https://armoredwarfare.com/sites/aw.my.com/files/u183517/100_banner_2x_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper easy, tank, China, PLA, PLA ZTQ-15 Light Tank w/Add-on ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/5/2a/pla-ztq-15-light-tank-w-add-on-armour-legkii-tank-noak-kitai.webp' alt='Wallpaper easy, tank, China, PLA, PLA ZTQ-15 Light Tank w/Add-on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/5/2a/pla-ztq-15-light-tank-w-add-on-armour-legkii-tank-noak-kitai.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for September | General News | World of Tanks">
+                                <img itemprop="contentUrl url" src='https://worldoftanks.eu/dcont/fb/imagesforarticles/september_wallpaper/no_calendar/1024600.jpg?MEDIA_PREFIX=/dcont/fb/' alt='Wallpaper for September | General News | World of Tanks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Tanks" />
+                                </span>
+                                <a href='https://worldoftanks.eu/dcont/fb/imagesforarticles/september_wallpaper/no_calendar/1024600.jpg?MEDIA_PREFIX=/dcont/fb/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="British Scouts | World of Tanks Blitz">
+                                <img itemprop="contentUrl url" src='https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/British_lights_7-0_1920x1080.jpg__1048x590_q95_subsampling-2.jpg' alt='British Scouts | World of Tanks Blitz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Tanks Blitz" />
+                                </span>
+                                <a href='https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/British_lights_7-0_1920x1080.jpg__1048x590_q95_subsampling-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Sweden, light tank invisible, 90120-T, CV for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/9/88/cv-90120-t-legkii-tank-nevidimka-shvetsiia.webp' alt='Wallpaper Sweden, light tank invisible, 90120-T, CV for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/9/88/cv-90120-t-legkii-tank-nevidimka-shvetsiia.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese Light Tanks | World of Tanks Blitz">
+                                <img itemprop="contentUrl url" src='https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Chinese_LT2_1920x1080.jpg__1048x590_q95_crop_subsampling-2.jpg' alt='Chinese Light Tanks | World of Tanks Blitz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Tanks Blitz" />
+                                </span>
+                                <a href='https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Chinese_LT2_1920x1080.jpg__1048x590_q95_crop_subsampling-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD light tanks wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/335/584/HD-wallpaper-m8-armored-gun-system-m8-american-light-tank-military-equipment-tanks-us-army-painted-tank.jpg' alt='HD light tanks wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/335/584/HD-wallpaper-m8-armored-gun-system-m8-american-light-tank-military-equipment-tanks-us-army-painted-tank.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Neon Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover unique neon wallpapers that elevate your iPhone aesthetics. Browse a collection of striking designs that combine creativity and color, perfect for making your home screen stand out. Ideal for those who want to express their individuality with every unlock!">
+                    <meta name="keywords" content="iphone:_g6jvcfpuuk= neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone_g6jvcfpuuk-neon-wallpaper">
+                            <span itemprop="name">iphone:_g6jvcfpuuk= neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Neon Wallpapers for Your iPhone</h1>
+                <p>Unlock the vibrant world of neon wallpapers for your iPhone! Transform your device with electric colors and eye-catching designs that breathe life into your home screen. Whether you prefer abstract patterns or stunning cityscapes, find the perfect neon wallpaper to showcase your style and make a statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80Nl9ibGFja193YWxscGFwZXJfbW9ub2Nocm9tZV9uZW9uX2xpZ2h0X2hleGFnb183NTNhYThiOS03NGM2LTRlY2QtOWZhNi1lODlkODIyNzg3OTdfMS5qcGc.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80Nl9ibGFja193YWxscGFwZXJfbW9ub2Nocm9tZV9uZW9uX2xpZ2h0X2hleGFnb183NTNhYThiOS03NGM2LTRlY2QtOWZhNi1lODlkODIyNzg3OTdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9hYnN0cmFjdF9iYWNrZ3JvdW5kX3dpdGhfcGlua19ibHVlX2dsb3dpbmdfbl84MjMwNzQ1MC00OTQwLTQ3ZmYtYTczNi1kMWMwZmYxMzUyNTZfMS5qcGc.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9hYnN0cmFjdF9iYWNrZ3JvdW5kX3dpdGhfcGlua19ibHVlX2dsb3dpbmdfbl84MjMwNzQ1MC00OTQwLTQ3ZmYtYTczNi1kMWMwZmYxMzUyNTZfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfYmxhY2tfbGlnaHRfb2lsX3BhaW50aW5nX29mX2Ffa2l0dGVuX29pbF9wYWludF85MWVkODNiNC0yMzAwLTRkYTktOTg1Yi1jN2EyYWRmNDljZTFfMS5qcGc.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfYmxhY2tfbGlnaHRfb2lsX3BhaW50aW5nX29mX2Ffa2l0dGVuX29pbF9wYWludF85MWVkODNiNC0yMzAwLTRkYTktOTg1Yi1jN2EyYWRmNDljZTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9kYXJrX3N0cmVldF9pbl9jeWJlcnB1bmtfY2l0eV9hdF9uaWdodF9idWlsZF83YTgyOWY4Mi0xMzRhLTQ3NTktYTQxYy1mYjkyZDg2OWY5YmZfMS5qcGc.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9kYXJrX3N0cmVldF9pbl9jeWJlcnB1bmtfY2l0eV9hdF9uaWdodF9idWlsZF83YTgyOWY4Mi0xMzRhLTQ3NTktYTQxYy1mYjkyZDg2OWY5YmZfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cool Neon iPhone Wallpapers | Neon Aesthetic | Neon Signs ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/31/b9/2631b9c97e05c57e0e6eb4702c9b5a76.jpg' alt='20 Cool Neon iPhone Wallpapers | Neon Aesthetic | Neon Signs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/31/b9/2631b9c97e05c57e0e6eb4702c9b5a76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Aesthetic Neon Wallpapers for iPhone [Free HD Download]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/ad/1c/47ad1c9c3ead87049e4d332e8e81ad87.jpg' alt='60 Aesthetic Neon Wallpapers for iPhone [Free HD Download]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/ad/1c/47ad1c9c3ead87049e4d332e8e81ad87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Neon Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-4k-neon-iphone-wallpaper-good-vibes-only-yknr2g4hkcitxx6d.jpg' alt='4k Neon Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-4k-neon-iphone-wallpaper-good-vibes-only-yknr2g4hkcitxx6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xMzYtamotMDhjLWwuanBn.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xMzYtamotMDhjLWwuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zOF9waG90b2dyYXBoX2FfY2xvc2UtdXBfb2ZfbmVvbl9mbG93ZXJfd2l0aF9zcF8wM2RkMDkwNy1mNTY4LTQ5NGYtOWI3NS1hZTc1MjJhODM2YjEuanBn.jpg' alt='Iphone Neon Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zOF9waG90b2dyYXBoX2FfY2xvc2UtdXBfb2ZfbmVvbl9mbG93ZXJfd2l0aF9zcF8wM2RkMDkwNy1mNTY4LTQ5NGYtOWI3NS1hZTc1MjJhODM2YjEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-iphone-1x3jau2v9uw7cd7k.jpg' alt='100+] Neon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-iphone-1x3jau2v9uw7cd7k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

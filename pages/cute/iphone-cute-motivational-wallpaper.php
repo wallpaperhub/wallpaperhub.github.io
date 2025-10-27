@@ -1,0 +1,129 @@
+<title>Brighten Your Day: Cute Motivational iPhone Wallpapers</title>
+                    <meta name="description" content="Discover adorable motivational wallpapers for your iPhone that will inspire you every day. Our collection features uplifting quotes and cute designs, ensuring your device looks stylish and encourages positivity. Transform your screen with a little motivation today!">
+                    <meta name="keywords" content="iphone cute motivational wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/iphone-cute-motivational-wallpaper">
+                            <span itemprop="name">iphone cute motivational wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Day: Cute Motivational iPhone Wallpapers</h1>
+                <p>Looking for inspiration every time you check your iPhone? Cute motivational wallpapers are the perfect solution! Adorn your screen with vibrant designs featuring uplifting quotes and adorable graphics. These wallpapers not only beautify your device but also provide daily doses of positivity to keep you motivated throughout your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motivational iPhone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37510736/r/il/90d107/4203901605/il_570xN.4203901605_nnan.jpg' alt='Motivational iPhone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37510736/r/il/90d107/4203901605/il_570xN.4203901605_nnan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/bd/17/d5bd1722489ed06b49e36cc85bd8fbbb.jpg' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/bd/17/d5bd1722489ed06b49e36cc85bd8fbbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Care Motivational Quotes Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/self-care-motivational-quotes-iphone-akotub15l2ojiv44.jpg' alt='Self Care Motivational Quotes Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/self-care-motivational-quotes-iphone-akotub15l2ojiv44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Inspirational Quotes Wallpaper iPhone Backgrounds (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/bd/78/6ebd781be7d380331d376ff2068dbbc7.jpg' alt='25 Inspirational Quotes Wallpaper iPhone Backgrounds (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/bd/78/6ebd781be7d380331d376ff2068dbbc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIMPLE AND CUTE . iPhone quotes inspirational, iPhone quotes girly ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/88/493/HD-wallpaper-simple-and-cute-iphone-quotes-inspirational-iphone-quotes-girly-quotes-simple-pretty.jpg' alt='SIMPLE AND CUTE . iPhone quotes inspirational, iPhone quotes girly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/88/493/HD-wallpaper-simple-and-cute-iphone-quotes-inspirational-iphone-quotes-girly-quotes-simple-pretty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Am Woman Motivational Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/i-am-woman-motivational-iphone-gtq551fx2td3wfhf.jpg' alt='I Am Woman Motivational Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/i-am-woman-motivational-iphone-gtq551fx2td3wfhf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone new arrivals backgrounds quotes">
+                                <img itemprop="contentUrl url" src='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' alt='Iphone new arrivals backgrounds quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bvcr.edu.in" />
+                                </span>
+                                <a href='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://www.cassiescroggins.com/wp-content/uploads/2022/04/53.png' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cassie Scroggins" />
+                                </span>
+                                <a href='https://www.cassiescroggins.com/wp-content/uploads/2022/04/53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' alt='Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Inspirational iPhone Wallpaper Quotes to Embrace">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/47/8c/72478c3b01904681ec9bb63c3f29d2f6.jpg' alt='22 Inspirational iPhone Wallpaper Quotes to Embrace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/47/8c/72478c3b01904681ec9bb63c3f29d2f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Sparkling Pink Glitter Invitation Backgrounds for Your Events"</title>
+                    <meta name="description" content="Discover enchanting pink glitter invitation backgrounds that elevate your event invitations. Perfect for special occasions, these dazzling designs capture attention and set the mood. Create memorable invites that reflect your style with our stunning collection. Get ready to impress your guests!">
+                    <meta name="keywords" content="pink glitter invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-glitter-invitation-background">
+                            <span itemprop="name">pink glitter invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Sparkling Pink Glitter Invitation Backgrounds for Your Events"</h1>
+                <p>Add a touch of sparkle to your event with a stunning pink glitter invitation background! Ideal for birthdays, bridal showers, or any celebration, this eye-catching design sets the perfect tone. With its vibrant hues and shimmering accents, your invites will make guests excited to join the festivities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Invitations & Invitation Templates | Zazzle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/0e/aa/510eaab430b93a8e47321862b613e1b4.jpg' alt='Pink Glitter Invitations & Invitation Templates | Zazzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/0e/aa/510eaab430b93a8e47321862b613e1b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Invitation Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/silver-glitter-pink-frame-vector_53876-109105.jpg' alt='Pink Glitter Invitation Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/silver-glitter-pink-frame-vector_53876-109105.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Invitation Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/festive-shimmery-vector-frame-pink-star-pattern_53876-108767.jpg' alt='Pink Glitter Invitation Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/festive-shimmery-vector-frame-pink-star-pattern_53876-108767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Number Rosed Glitter - Birthday Invitation Template ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/c8/de/ecc8de36893c6de60d0e1f879a179361.jpg' alt='Big Number Rosed Glitter - Birthday Invitation Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/c8/de/ecc8de36893c6de60d0e1f879a179361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Sparkle Background Or Glittery Party Invitation Stock ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/stephaniezieber/stephaniezieber1507/stephaniezieber150700013/42559415-pink-glitter-sparkle-background-or-glittery-party-invitation.jpg' alt='Pink Glitter Sparkle Background Or Glittery Party Invitation Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/stephaniezieber/stephaniezieber1507/stephaniezieber150700013/42559415-pink-glitter-sparkle-background-or-glittery-party-invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Invitation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/festive-shimmery-frame-heart-pattern_53876-111746.jpg' alt='Pink Glitter Invitation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/festive-shimmery-frame-heart-pattern_53876-111746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Sparkle Glitter Any Age Birthday Invitation | Zazzle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/84/5e/4c845e41e7fc0b203c56efca902f056f.jpg' alt='Rose Gold Sparkle Glitter Any Age Birthday Invitation | Zazzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/84/5e/4c845e41e7fc0b203c56efca902f056f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Shower Invite Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/trendy-sparkle-blurred-background-coral-260nw-722019127.jpg' alt='Pink Glitter Shower Invite Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="248">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/trendy-sparkle-blurred-background-coral-260nw-722019127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sparkly Invitation Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/shiny-abstract-background-pink-glitter-260nw-540362053.jpg' alt='Pink Sparkly Invitation Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/shiny-abstract-background-pink-glitter-260nw-540362053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Pink Invitation Stock Illustrations – 20,836 Gold ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bridal-pink-rose-gold-glitter-vector-background-premium-sparkles-confetti-invitation-card-wedding-anniversary-birthday-party-199216828.jpg' alt='Gold Glitter Pink Invitation Stock Illustrations – 20,836 Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bridal-pink-rose-gold-glitter-vector-background-premium-sparkles-confetti-invitation-card-wedding-anniversary-birthday-party-199216828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

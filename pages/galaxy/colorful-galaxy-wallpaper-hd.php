@@ -1,0 +1,129 @@
+<title>Vibrant HD Galaxy Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking colorful galaxy wallpaper HD for your devices. Explore a captivating variety of celestial designs that enhance your screen and inspire creativity. Perfect for mobile users seeking vibrant and stunning backgrounds. Transform your digital space today!">
+                    <meta name="keywords" content="colorful galaxy wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/colorful-galaxy-wallpaper-hd">
+                            <span itemprop="name">colorful galaxy wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant HD Galaxy Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning colorful galaxy wallpaper HD that sparks imagination and wonder. Perfect for all devices, these vibrant celestial designs bring the beauty of the universe right to your fingertips. Choose from a variety of mesmerizing patterns that will invigorate your device and inspire creativity every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,600+ Colorful Galaxy Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/479711207/photo/magellanic-cloud.jpg?s=612x612&w=0&k=20&c=g044tx9D-FPhbX6mkXtIqYepvwUzv4KWIPJe3sxDZnU=' alt='53,600+ Colorful Galaxy Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/479711207/photo/magellanic-cloud.jpg?s=612x612&w=0&k=20&c=g044tx9D-FPhbX6mkXtIqYepvwUzv4KWIPJe3sxDZnU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rainbow-galaxy-okqebhvadd597yqv.jpg' alt='100+] Rainbow Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rainbow-galaxy-okqebhvadd597yqv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Galaxy wallpaper by K_a_r_m_a_ - 3b - Free on ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/39/49/7a39491ba1f7c33c9070a16be897ad56.jpg' alt='Colorful Galaxy wallpaper by K_a_r_m_a_ - 3b - Free on ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/39/49/7a39491ba1f7c33c9070a16be897ad56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon In Colorful Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/moon-in-colorful-galaxy-768ejzwdlt3otro9.jpg' alt='Moon In Colorful Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/moon-in-colorful-galaxy-768ejzwdlt3otro9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="635,588 Colorful Galaxy Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/clip-art-mysterious-night-sky-600nw-2331620663.jpg' alt='635,588 Colorful Galaxy Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/clip-art-mysterious-night-sky-600nw-2331620663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Galaxy Wallpaper HD For Desktop. | Galaxy wallpaper, Red ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/b0/28/0cb02822444a907bb9f0007135fd4785.jpg' alt='Colorful Galaxy Wallpaper HD For Desktop. | Galaxy wallpaper, Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/b0/28/0cb02822444a907bb9f0007135fd4785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Galaxy Wallpaper HD - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91pL-dvPFiL.jpg' alt='Space Galaxy Wallpaper HD - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91pL-dvPFiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Planet Under The Clouds Of A Colorful Galaxy Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-planet-under-the-clouds-of-a-colorful-galaxy-4o53j8d5rab5654q.jpg' alt='A Planet Under The Clouds Of A Colorful Galaxy Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-planet-under-the-clouds-of-a-colorful-galaxy-4o53j8d5rab5654q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psyche, universe, psychedelic, space, astronomy, colorful, galaxy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/591/621/HD-wallpaper-psyche-universe-psychedelic-space-astronomy-colorful-galaxy-color-trippy-galactic-groovy.jpg' alt='Psyche, universe, psychedelic, space, astronomy, colorful, galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/591/621/HD-wallpaper-psyche-universe-psychedelic-space-astronomy-colorful-galaxy-color-trippy-galactic-groovy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Galaxy Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/054/416/999/non_2x/cosmic-nebula-with-bright-stars-and-deep-colors-illuminated-in-the-vast-universe-free-photo.jpeg' alt='Colorful Galaxy Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/054/416/999/non_2x/cosmic-nebula-with-bright-stars-and-deep-colors-illuminated-in-the-vast-universe-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Moving Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a wide array of captivating moving wallpapers for your iPhone. Elevate your device's look with dynamic and visually striking backgrounds that truly stand out. Perfect for those who want a fresh and lively appearance! Download yours now for a vibrant and personalized iPhone experience.">
+                    <meta name="keywords" content="moving wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/moving-wallpaper-iphone">
+                            <span itemprop="name">moving wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moving Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with moving wallpaper! Discover stunning animated backgrounds that bring your screen to life. From nature scenes to abstract designs, these wallpapers add a dynamic touch to your device. Easy to download and set up, make your iPhone uniquely yours with vibrant moving wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Trending Live Wallpaper iPhone iOs On Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/40/89/ba4089fce9085cba83987fac7bfe84c4.gif' alt='Top 10 Trending Live Wallpaper iPhone iOs On Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/40/89/ba4089fce9085cba83987fac7bfe84c4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 8 Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-8-live-rt29k426uvwznmm3.jpg' alt='100+] Iphone 8 Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-8-live-rt29k426uvwznmm3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why can't I have an auto-loop on this live wallpaper? I want to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nmqqkj1rxrn61.jpg' alt='Why can't I have an auto-loop on this live wallpaper? I want to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nmqqkj1rxrn61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Trending Live Wallpaper iPhone iOs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/a5/bc/5fa5bcd841dbb126189e099721191e73.gif' alt='Top 10 Trending Live Wallpaper iPhone iOs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/a5/bc/5fa5bcd841dbb126189e099721191e73.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make a Live Wallpaper on iPhone - SimplyMac">
+                                <img itemprop="contentUrl url" src='https://www.simplymac.com/wp-content/uploads/1_image-85.png' alt='Make a Live Wallpaper on iPhone - SimplyMac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyMac" />
+                                </span>
+                                <a href='https://www.simplymac.com/wp-content/uploads/1_image-85.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Live wallpaper iphone ideas | live wallpaper iphone, live ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/02/34/0d/02340dca8dcca1743cb72bb52dbd37e4.gif' alt='20 Live wallpaper iphone ideas | live wallpaper iphone, live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/02/34/0d/02340dca8dcca1743cb72bb52dbd37e4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 7 LIVE Wallpaper – Ink Light Blue – Official iOS 10 Stock ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-88-768x1662.jpg' alt='iPhone 7 LIVE Wallpaper – Ink Light Blue – Official iOS 10 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-88-768x1662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live wallpaper for iphone 2025 11">
+                                <img itemprop="contentUrl url" src='https://www.unicornapps.com/wp-content/uploads/iPhone-11-Live-Wallpapers.png' alt='Live wallpaper for iphone 2025 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.unicornapps.com/wp-content/uploads/iPhone-11-Live-Wallpapers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get the Beautiful Live Wallpapers from iPhone 6s as Still Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2015/10/iPhone-6s-Purple-Ink-Wallpaper-450x800.jpg' alt='Get the Beautiful Live Wallpapers from iPhone 6s as Still Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2015/10/iPhone-6s-Purple-Ink-Wallpaper-450x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone moving live 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-7-plus-live-wpj7qyqv5nrfw8lz.jpg' alt='Iphone moving live 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="westbroadway.mb.ca" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-7-plus-live-wpj7qyqv5nrfw8lz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

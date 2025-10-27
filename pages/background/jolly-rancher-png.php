@@ -1,0 +1,129 @@
+<title>Vibrant Jolly Rancher PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a collection of Jolly Rancher PNG images perfect for your creative needs. With colorful, transparent backgrounds, these images enhance designs, crafts, and social media posts, making your projects pop! Download now for instant access to these delightful candy images.">
+                    <meta name="keywords" content="jolly rancher png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jolly-rancher-png">
+                            <span itemprop="name">jolly rancher png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Jolly Rancher PNG Images for Creative Projects</h1>
+                <p>Jolly Rancher PNGs are vibrant, colorful images of the popular candy, ideal for use in designs, crafts, and digital projects. Whether it's for invitations, social media posts, or artwork, these transparent background images showcase the iconic shape and flavor of Jolly Ranchers, adding a fun touch to any creation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Ranchers Blue Raspberry - 1 Pound">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Jolly-Ranchers-Blue-Raspberry-1-Pound_3e985f09-c9a9-445c-bf77-587528d04068.dd0d45e1cc9be7e8a4a064bbcb69933e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Jolly Ranchers Blue Raspberry - 1 Pound'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Jolly-Ranchers-Blue-Raspberry-1-Pound_3e985f09-c9a9-445c-bf77-587528d04068.dd0d45e1cc9be7e8a4a064bbcb69933e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Jolly rancher logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Jolly_rancher_logo.png' alt='File:Jolly rancher logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ae/Jolly_rancher_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulk Jolly Ranchers">
+                                <img itemprop="contentUrl url" src='https://www.arcadesnacks.com/wp-content/uploads/jolly-ranchers.webp' alt='Bulk Jolly Ranchers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arcade Snacks" />
+                                </span>
+                                <a href='https://www.arcadesnacks.com/wp-content/uploads/jolly-ranchers.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JOLLY RANCHER Original Flavors Hard Candy, 14 oz bag">
+                                <img itemprop="contentUrl url" src='https://s7d2.scene7.com/is/image/hersheysassets/0_10700_55686_8_702_55686_005_Item_Front?fmt=png-alpha&hei=908' alt='JOLLY RANCHER Original Flavors Hard Candy, 14 oz bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="908">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hersheyland" />
+                                </span>
+                                <a href='https://s7d2.scene7.com/is/image/hersheysassets/0_10700_55686_8_702_55686_005_Item_Front?fmt=png-alpha&hei=908' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Rancher logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/60158fa65cc23e000407ba1a.png' alt='Jolly Rancher logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/60158fa65cc23e000407ba1a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Rancher Hard candy Flavor Lollipop, candy, food, sweetness ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/810/407/png-clipart-jolly-rancher-hard-candy-flavor-lollipop-candy-food-sweetness.png' alt='Jolly Rancher Hard candy Flavor Lollipop, candy, food, sweetness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/810/407/png-clipart-jolly-rancher-hard-candy-flavor-lollipop-candy-food-sweetness.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Rancher — Henry Zhang">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5411ed88e4b0b14a139e07a4/1503600342952-GD5TI85RSAOX00FFMG7H/Banner.png' alt='Jolly Rancher — Henry Zhang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Henry Zhang" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5411ed88e4b0b14a139e07a4/1503600342952-GD5TI85RSAOX00FFMG7H/Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Rancher - Jolly Rancher Watermelon Candy - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180512/ewq/avcdpavnp.webp' alt='Jolly Rancher - Jolly Rancher Watermelon Candy - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180512/ewq/avcdpavnp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Jolly Rancher Candy - 5 - 30 LBs Available | nvcandy">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/49b826_37c934901b8c41688c8df5446a46261c~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/49b826_37c934901b8c41688c8df5446a46261c~mv2.jpg' alt='Tropical Jolly Rancher Candy - 5 - 30 LBs Available | nvcandy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nevada Candy" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/49b826_37c934901b8c41688c8df5446a46261c~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/49b826_37c934901b8c41688c8df5446a46261c~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolly Rancher Candy - Jolly Rancher Hard Candy Pack - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180705/zwg/aawersuhx.webp' alt='Jolly Rancher Candy - Jolly Rancher Hard Candy Pack - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180705/zwg/aawersuhx.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

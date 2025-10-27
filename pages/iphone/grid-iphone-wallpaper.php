@@ -1,0 +1,129 @@
+<title>Stylish Grid iPhone Wallpapers for a Sleek Display</title>
+                    <meta name="description" content="Discover a collection of stylish grid iPhone wallpapers that enhance your device's look. Perfect for minimalists and design lovers alike, these wallpapers offer sleek patterns and vibrant colors. Download now to personalize your screen with elegance and creativity!">
+                    <meta name="keywords" content="grid iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/grid-iphone-wallpaper">
+                            <span itemprop="name">grid iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Grid iPhone Wallpapers for a Sleek Display</h1>
+                <p>Elevate your iPhone aesthetics with stunning grid wallpapers! Perfect for minimalists, our collection offers clean lines and harmonious patterns that transform your screen into a work of art. Choose from various colors and designs to match your style while keeping a sleek look for your device. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by hitomi yuki on 藝術 | Grid wallpaper, Iphone background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/e7/8c/b7e78c49e3bfc3b204e84ead6a79d837.jpg' alt='Pin by hitomi yuki on 藝術 | Grid wallpaper, Iphone background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/e7/8c/b7e78c49e3bfc3b204e84ead6a79d837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid and blueprint wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/12/iPhone-Plus-blueprint-wallpaper.jpg' alt='Grid and blueprint wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/12/iPhone-Plus-blueprint-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grid Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grid-aesthetic-iphone-u1vkm51gg8kwqk6e.jpg' alt='100+] Grid Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grid-aesthetic-iphone-u1vkm51gg8kwqk6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Grid iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://bartelme.at/material/thegrid/TheGrid1.png' alt='The Grid iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bartelme.at" />
+                                </span>
+                                <a href='https://bartelme.at/material/thegrid/TheGrid1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper grid">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/d1/5f/c4d15fbf154598b6aa6412a5fc10ed9e.jpg' alt='iPhone wallpaper grid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/d1/5f/c4d15fbf154598b6aa6412a5fc10ed9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f5/ea/f9/f5eaf91c5d35ed114f3a0a05ab0de767.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f5/ea/f9/f5eaf91c5d35ed114f3a0a05ab0de767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Grid iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://bartelme.at/material/thegrid/TheGrid3wide.png' alt='The Grid iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bartelme.at" />
+                                </span>
+                                <a href='https://bartelme.at/material/thegrid/TheGrid3wide.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Boost your creativity with a stylish Grid Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grid-aesthetic-iphone-9qf5mnoujcgwz0gt.jpg' alt='Download Boost your creativity with a stylish Grid Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grid-aesthetic-iphone-9qf5mnoujcgwz0gt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien grid iphone wallpaper by bobwodeay on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fab136-02ec-41e4-b50e-3c9d96c62900/dfp7xco-d5bd1efd-232b-4070-b64a-fe44d63128d0.png/v1/fill/w_1280,h_2276,q_80,strp/alien_grid_iphone_wallpaper_by_bobwodeay_dfp7xco-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzg3ZmFiMTM2LTAyZWMtNDFlNC1iNTBlLTNjOWQ5NmM2MjkwMFwvZGZwN3hjby1kNWJkMWVmZC0yMzJiLTQwNzAtYjY0YS1mZTQ0ZDYzMTI4ZDAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.FUlBNOTwt-T4UkazzKr-wbVUFmQzgY0MSaTkrJ-uaW4' alt='Alien grid iphone wallpaper by bobwodeay on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fab136-02ec-41e4-b50e-3c9d96c62900/dfp7xco-d5bd1efd-232b-4070-b64a-fe44d63128d0.png/v1/fill/w_1280,h_2276,q_80,strp/alien_grid_iphone_wallpaper_by_bobwodeay_dfp7xco-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzg3ZmFiMTM2LTAyZWMtNDFlNC1iNTBlLTNjOWQ5NmM2MjkwMFwvZGZwN3hjby1kNWJkMWVmZC0yMzJiLTQwNzAtYjY0YS1mZTQ0ZDYzMTI4ZDAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.FUlBNOTwt-T4UkazzKr-wbVUFmQzgY0MSaTkrJ-uaW4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stylish Grid Design Background for Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grid-aesthetic-iphone-rgc6wh018u3twlp6.jpg' alt='Download Stylish Grid Design Background for Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grid-aesthetic-iphone-rgc6wh018u3twlp6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

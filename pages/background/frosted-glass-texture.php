@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Frosted Glass Texture</title>
+                    <meta name="description" content="Discover the elegance of frosted glass texture for your home or office. Enhance privacy, diffuse light, and add sophistication to any design. Perfect for partitions, shower doors, and more—explore the stylish versatility of frosted glass today!">
+                    <meta name="keywords" content="frosted glass texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frosted-glass-texture">
+                            <span itemprop="name">frosted glass texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Frosted Glass Texture</h1>
+                <p>Frosted glass texture adds a unique aesthetic to any space, offering privacy while allowing light to diffuse beautifully. Ideal for modern designs, its soft, translucent appearance creates an elegant atmosphere. Common applications include shower doors, partitions, and decorative accents, merging style with functionality seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/glass-background-with-frosted-pattern_53876-132924.jpg' alt='Frosted Glass Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/glass-background-with-frosted-pattern_53876-132924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Texture Images – Browse 197,782 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/27/70/04/360_F_127700403_dDOFBhESmPnqWeY8K9sWKqL0aGTWgNYA.jpg' alt='Frosted Glass Texture Images – Browse 197,782 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/27/70/04/360_F_127700403_dDOFBhESmPnqWeY8K9sWKqL0aGTWgNYA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Texture Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/904/859/small/structured-glass-gradient-subtle-background-with-soft-ribbed-lines-for-modern-and-stylish-web-design-presentations-and-creative-projects-illustration-with-fluted-glass-texture-vector.jpg' alt='Frosted Glass Texture Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/904/859/small/structured-glass-gradient-subtle-background-with-soft-ribbed-lines-for-modern-and-stylish-web-design-presentations-and-creative-projects-illustration-with-fluted-glass-texture-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Frosted Glass Texture Stock Illustrations – 248 Seamless ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/seamless-frosted-glass-background-texture-realistic-translucent-rippled-plastic-privacy-plexiglass-overlay-shiny-abstract-light-306712783.jpg' alt='Seamless Frosted Glass Texture Stock Illustrations – 248 Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/seamless-frosted-glass-background-texture-realistic-translucent-rippled-plastic-privacy-plexiglass-overlay-shiny-abstract-light-306712783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Background Images – Browse 299,683 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/78/43/39/360_F_78433903_NlOa98tptWiIvvAmpra5InSvWTnvpPH2.jpg' alt='Frosted Glass Background Images – Browse 299,683 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/78/43/39/360_F_78433903_NlOa98tptWiIvvAmpra5InSvWTnvpPH2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,500+ Frosted Glass Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/696307908/photo/white-color-frosted-glass-texture-background.jpg?s=612x612&w=0&k=20&c=2V2lURRPGe9S-RZNHKvXlxO0PNfmh7AOm4p9GEH5NaU=' alt='7,500+ Frosted Glass Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/696307908/photo/white-color-frosted-glass-texture-background.jpg?s=612x612&w=0&k=20&c=2V2lURRPGe9S-RZNHKvXlxO0PNfmh7AOm4p9GEH5NaU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted glass texture as background | Colourbox">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX9460109.jpg?width=800&height=800&quality=70' alt='Frosted glass texture as background | Colourbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX9460109.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Texture (Glass) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/frosted-glass-texture-thumb21.jpg' alt='Frosted Glass Texture (Glass) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/frosted-glass-texture-thumb21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Glass Texture Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210828/pngtree-frosted-glass-texture-frosted-white-gray-background-image_771741.jpg' alt='Frosted Glass Texture Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210828/pngtree-frosted-glass-texture-frosted-white-gray-background-image_771741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Frosted glass texture background">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1302936412/photo/frosted-glass-texture-background.jpg?b=1&s=1024x1024&w=gi&k=20&c=bsQRNR_Op9OnLvwdIz9pCOu7ds4i5Nr2EBe4eiWtQUY=' alt='Wall Mural Frosted glass texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1302936412/photo/frosted-glass-texture-background.jpg?b=1&s=1024x1024&w=gi&k=20&c=bsQRNR_Op9OnLvwdIz9pCOu7ds4i5Nr2EBe4eiWtQUY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

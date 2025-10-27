@@ -1,0 +1,129 @@
+<title>Thick Wallpaper: The Ultimate Fix for Imperfect Walls</title>
+                    <meta name="description" content="Your walls don't have to stay imperfect! Discover how thick wallpaper can elegantly conceal flaws and enhance your interior with style. Perfect for any room, this solution offers durability and aesthetic appeal in one, transforming your space effortlessly. Make your walls beautiful today!">
+                    <meta name="keywords" content="thick wallpaper for bad walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/thick-wallpaper-for-bad-walls">
+                            <span itemprop="name">thick wallpaper for bad walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thick Wallpaper: The Ultimate Fix for Imperfect Walls</h1>
+                <p>Thick wallpaper offers an excellent solution for bad walls, hiding imperfections while adding a stylish touch to your space. With various textures and patterns available, it improves insulation and soundproofing too. Choose the right adhesive for a durable finish, ensuring that your walls not only look good but also stand the test of time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Rough or Uneven Walls - WallpaperBuddy™">
+                                <img itemprop="contentUrl url" src='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.18.45.png' alt='Wallpaper for Rough or Uneven Walls - WallpaperBuddy™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="962">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Buddy" />
+                                </span>
+                                <a href='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.18.45.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Rough or Uneven Walls - WallpaperBuddy™">
+                                <img itemprop="contentUrl url" src='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.14.36.png' alt='Wallpaper for Rough or Uneven Walls - WallpaperBuddy™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2648">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Buddy" />
+                                </span>
+                                <a href='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.14.36.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Rough or Uneven Walls - WallpaperBuddy™">
+                                <img itemprop="contentUrl url" src='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.17.54.png' alt='Wallpaper for Rough or Uneven Walls - WallpaperBuddy™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Buddy" />
+                                </span>
+                                <a href='https://wallpaperbuddy.com/app/uploads/2021/09/Screenshot-2021-09-20-at-11.17.54.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Textured Wallpapers to Transform Your Home | Graham & Brown">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blt9253dd801cbfbcc2/64426b8cb3e93642cfa5ea95/20-593-nomad.jpeg' alt='5 Textured Wallpapers to Transform Your Home | Graham & Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blt9253dd801cbfbcc2/64426b8cb3e93642cfa5ea95/20-593-nomad.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Extra-Thick Modern Non-Woven Leaf Flows Pattern Super Deeply  Textured Wallpaper Wall Paper Roll for Livingroom Bedroom, (68203) - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Xx38QoqoL.jpg' alt='Blooming Wall Extra-Thick Modern Non-Woven Leaf Flows Pattern Super Deeply  Textured Wallpaper Wall Paper Roll for Livingroom Bedroom, (68203) - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1055">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Xx38QoqoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Textured Wallpapers to Transform Your Home | Graham & Brown">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blt5fa5e3133195c8d5/64426ba28d6b9a3797e54fc5/18395-Lewis.jpeg' alt='5 Textured Wallpapers to Transform Your Home | Graham & Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blt5fa5e3133195c8d5/64426ba28d6b9a3797e54fc5/18395-Lewis.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LACHEERY Extra Thick Peel and Stick Wallpaper for Textured Walls White  Textured Wallpaper Self Adhesive Foam Wallpaper for Bathroom Bedroom Living  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mPutILMtL.jpg' alt='LACHEERY Extra Thick Peel and Stick Wallpaper for Textured Walls White  Textured Wallpaper Self Adhesive Foam Wallpaper for Bathroom Bedroom Living  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mPutILMtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper That Fixes Walls - Dwell">
+                                <img itemprop="contentUrl url" src='https://images.dwell.com/photos-6063391372700811264/6133557593860976640-large/wallpaper-in-hallway-of-vinegar-hill-apartment.jpg' alt='Wallpaper That Fixes Walls - Dwell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1202">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dwell Magazine" />
+                                </span>
+                                <a href='https://images.dwell.com/photos-6063391372700811264/6133557593860976640-large/wallpaper-in-hallway-of-vinegar-hill-apartment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the Best Wallpaper to Cover Bad Walls? | Cover Your Wall">
+                                <img itemprop="contentUrl url" src='https://coveryourwall.co.uk/cdn/shop/articles/Man_-_Decorating_1024x.jpg?v=1599665940' alt='What's the Best Wallpaper to Cover Bad Walls? | Cover Your Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cover Your Wall" />
+                                </span>
+                                <a href='https://coveryourwall.co.uk/cdn/shop/articles/Man_-_Decorating_1024x.jpg?v=1599665940' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Textured Wallpapers to Transform Your Home | Graham & Brown">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blte76d84f35bb2531b/64426b9a5d04264cbf3098a7/13194-Corduroy.jpeg' alt='5 Textured Wallpapers to Transform Your Home | Graham & Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blte635d907602e0a9c/blte76d84f35bb2531b/64426b9a5d04264cbf3098a7/13194-Corduroy.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

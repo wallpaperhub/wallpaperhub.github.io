@@ -1,0 +1,129 @@
+<title>Stunning Vox Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our vibrant collection of vox phone wallpapers designed to elevate your device's look. Personalize your screen with stunning visuals and themes that reflect your style. Download now to transform your phone into a unique expression of who you are!">
+                    <meta name="keywords" content="vox phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/vox-phone-wallpaper">
+                            <span itemprop="name">vox phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Vox Phone Wallpapers for Your Device</h1>
+                <p>Discover the best vox phone wallpapers to personalize your device! Choose from vibrant designs, minimalistic art, or stunning landscapes. Whether you prefer abstract patterns or inspirational quotes, our collection has something for everyone. Transform your phone screen into a canvas of creativity and individuality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox phone wallpaper : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ly1w6ilrkn841.png' alt='Vox phone wallpaper : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ly1w6ilrkn841.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox - Hazbin Hotel - Mobile Wallpaper by Celestemancer #2846494 ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Vox.full.2846494.jpg' alt='Vox - Hazbin Hotel - Mobile Wallpaper by Celestemancer #2846494 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Vox.full.2846494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox - Hazbin Hotel - Image by Gasuguma (Pixiv7640910) #2965057 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/08/76/c8/0876c81e63dad9975858c2e1597b3b39.jpg' alt='Vox - Hazbin Hotel - Image by Gasuguma (Pixiv7640910) #2965057 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/08/76/c8/0876c81e63dad9975858c2e1597b3b39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="⛧Judas Hyena⛧ on X: "Made a Vox phone wallpaper. Unfortunately ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ErQWzZkVgAAELsA.jpg:large' alt='⛧Judas Hyena⛧ on X: "Made a Vox phone wallpaper. Unfortunately ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ErQWzZkVgAAELsA.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper hazbin hotel, horror, art, vox, Art 4K by MrFusion ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/c2/5a/f0c25a7e279536d9b128292755233183.jpg' alt='Wallpaper hazbin hotel, horror, art, vox, Art 4K by MrFusion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/c2/5a/f0c25a7e279536d9b128292755233183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox Wallpaper : r/hazbin">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vox-wallpaper-v0-rtumf8ze3akc1.png?width=1080&crop=smart&auto=webp&s=86172210d0e0aef66583a9f407665e8287e37f7f' alt='Vox Wallpaper : r/hazbin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vox-wallpaper-v0-rtumf8ze3akc1.png?width=1080&crop=smart&auto=webp&s=86172210d0e0aef66583a9f407665e8287e37f7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karpusi - ✨ DA Hyperfixation still going strong ✨ on X: "Honey ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GG4UPXiWIAAy6xO?format=jpg&name=4096x4096' alt='Karpusi - ✨ DA Hyperfixation still going strong ✨ on X: "Honey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2068">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GG4UPXiWIAAy6xO?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox phone background | Hazbin Hotel (official) Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7528/0a1838b5dceb611f0ee9a7a4a9ca8d143b979460r1-640-1136v2_uhq.jpg' alt='Vox phone background | Hazbin Hotel (official) Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7528/0a1838b5dceb611f0ee9a7a4a9ca8d143b979460r1-640-1136v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox (Hazbin Hotel) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/982/982629.jpg' alt='Vox (Hazbin Hotel) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/982/982629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox wallpaper by Thatmothpimp - Download on ZEDGE™ | d52d">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=AHGdp16rTH3nD04sdEGmgQ2mFC5FA25rQTwUAFWIFB2iJN3axF1yAq9w2coDgFB6Q_VQfMC1PVktZDPfuIZ9XYngyG9DGYpgb3IQxwOycL8OCNM_MD_gtQkN3OI5NC_yDtnKPThBGcdeO7-KmTYQ6Jd2e-4gK00eAjr2kYPvBo-09yyXQG13aMgjDqLIjSX0lOcAQlnhTWWn5fde_qMq5hEKs3MVKfJXkbI_MLOfan_27Jt23VUab869ayY' alt='Vox wallpaper by Thatmothpimp - Download on ZEDGE™ | d52d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=AHGdp16rTH3nD04sdEGmgQ2mFC5FA25rQTwUAFWIFB2iJN3axF1yAq9w2coDgFB6Q_VQfMC1PVktZDPfuIZ9XYngyG9DGYpgb3IQxwOycL8OCNM_MD_gtQkN3OI5NC_yDtnKPThBGcdeO7-KmTYQ6Jd2e-4gK00eAjr2kYPvBo-09yyXQG13aMgjDqLIjSX0lOcAQlnhTWWn5fde_qMq5hEKs3MVKfJXkbI_MLOfan_27Jt23VUab869ayY' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

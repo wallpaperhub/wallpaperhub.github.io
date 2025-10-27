@@ -1,0 +1,129 @@
+<title>Pride PFP Maker: Create Stunning Profile Pictures</title>
+                    <meta name="description" content="Create personalized pride profile pictures effortlessly with our Pride PFP Maker. Customize your image with vibrant colors and symbols, perfect for showcasing your identity and support for the LGBTQ+ community. Start making your unique PFP today and celebrate love boldly!">
+                    <meta name="keywords" content="pride pfp maker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pride-pfp-maker">
+                            <span itemprop="name">pride pfp maker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pride PFP Maker: Create Stunning Profile Pictures</h1>
+                <p>Looking to express your pride? A Pride PFP Maker allows you to create unique profile pictures that celebrate your identity. Customize colors, add symbols, and choose your style to showcase your support for the LGBTQ+ community. It's an easy, fun way to stand out and spread love on social media!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Pride with 4 Best Pride PFP Makers">
+                                <img itemprop="contentUrl url" src='https://www.vidnoz.com/bimg/pride-pfp-maker.webp' alt='Create Your Own Pride with 4 Best Pride PFP Makers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vidnoz AI" />
+                                </span>
+                                <a href='https://www.vidnoz.com/bimg/pride-pfp-maker.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="App for Making Pride Month Pictures | Pride PFP Maker 2024 | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-05-24/760fd71c-0cd7-41f6-8305-e704df828127.jpg' alt='App for Making Pride Month Pictures | Pride PFP Maker 2024 | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-05-24/760fd71c-0cd7-41f6-8305-e704df828127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Pride with 4 Best Pride PFP Makers">
+                                <img itemprop="contentUrl url" src='https://www.vidnoz.com/bimg/what-is-pride-pfp.webp' alt='Create Your Own Pride with 4 Best Pride PFP Makers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vidnoz AI" />
+                                </span>
+                                <a href='https://www.vidnoz.com/bimg/what-is-pride-pfp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Pride with 4 Best Pride PFP Makers">
+                                <img itemprop="contentUrl url" src='https://www.vidnoz.com/bimg/pride-pfp-maker---placeit.webp' alt='Create Your Own Pride with 4 Best Pride PFP Makers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vidnoz AI" />
+                                </span>
+                                <a href='https://www.vidnoz.com/bimg/pride-pfp-maker---placeit.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Pride PFP Maker | LightX">
+                                <img itemprop="contentUrl url" src='https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/banner_image.webp' alt='Free AI Pride PFP Maker | LightX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LightX" />
+                                </span>
+                                <a href='https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/banner_image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Pride with 4 Best Pride PFP Makers">
+                                <img itemprop="contentUrl url" src='https://www.vidnoz.com/bimg/pride-pfp-maker---picrew.webp' alt='Create Your Own Pride with 4 Best Pride PFP Makers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vidnoz AI" />
+                                </span>
+                                <a href='https://www.vidnoz.com/bimg/pride-pfp-maker---picrew.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Flag PFP Borders | Picrew - The Character Maker & Creator">
+                                <img itemprop="contentUrl url" src='https://cdn.picrew.me/app/image_maker/2553265/icon_ml99WBAIyIMPH8pO.png' alt='Pride Flag PFP Borders | Picrew - The Character Maker & Creator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picrew" />
+                                </span>
+                                <a href='https://cdn.picrew.me/app/image_maker/2553265/icon_ml99WBAIyIMPH8pO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride PFP Maker">
+                                <img itemprop="contentUrl url" src='https://nectarboy.github.io/pride-pfp-maker/src/assets/upload.png' alt='Pride PFP Maker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nectarboy.github.io" />
+                                </span>
+                                <a href='https://nectarboy.github.io/pride-pfp-maker/src/assets/upload.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="App for Making Pride Month Pictures | Pride PFP Maker 2024 | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2022-05-18/3b4c784b-9144-4f77-b230-637a6e0a83b2.gif' alt='App for Making Pride Month Pictures | Pride PFP Maker 2024 | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2022-05-18/3b4c784b-9144-4f77-b230-637a6e0a83b2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride PFP Maker - LGBT Flag Maker - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51thMhhjiGL.png' alt='Pride PFP Maker - LGBT Flag Maker - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ca" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51thMhhjiGL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

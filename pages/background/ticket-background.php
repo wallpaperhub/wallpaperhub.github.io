@@ -1,0 +1,129 @@
+<title>Enhance Your Event with Stunning Ticket Backgrounds</title>
+                    <meta name="description" content="Discover how compelling ticket backgrounds can elevate your event experience. Learn about the best designs, colors, and patterns to create eye-catching tickets that leave a lasting impression. Optimize your ticket sales with visually appealing backgrounds tailored for any occasion!">
+                    <meta name="keywords" content="ticket background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ticket-background">
+                            <span itemprop="name">ticket background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Event with Stunning Ticket Backgrounds</h1>
+                <p>Ticket backgrounds play a crucial role in enhancing the aesthetic appeal of tickets, making them more attractive. Whether for events like concerts, flights, or movie screenings, a well-designed background can convey the theme and mood. Unique patterns, colors, and graphics can capture attention and make the ticket memorable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-ticket-isolated-with-paper-texture-mockups_207371-2045.jpg?semt=ais_hybrid' alt='Ticket Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-ticket-isolated-with-paper-texture-mockups_207371-2045.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/838/440/small/retro-red-and-orange-ticket-illustration-vector.jpg' alt='Ticket Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/838/440/small/retro-red-and-orange-ticket-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket Images – Browse 823,934 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/88/66/62/360_F_88666263_Eq0QV4SVRkWHgkNaRJn671g9BNnphQmm.jpg' alt='Ticket Images – Browse 823,934 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/88/66/62/360_F_88666263_Eq0QV4SVRkWHgkNaRJn671g9BNnphQmm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank creative ticket template design background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/blank-creative-ticket-template-design-background-5bc9156cdc5df72ea146cf373a714b543e95f64ad9c6392fc2964573d77f6741.jpg' alt='Blank creative ticket template design background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/blank-creative-ticket-template-design-background-5bc9156cdc5df72ea146cf373a714b543e95f64ad9c6392fc2964573d77f6741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,300+ Gold Ticket Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2024736512/vector/isolated-golden-cover-template.jpg?s=612x612&w=0&k=20&c=3reRiIeVY1tiGr1Dv_rPqaVeqtp-h_NvzlMaOwq160I=' alt='7,300+ Gold Ticket Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2024736512/vector/isolated-golden-cover-template.jpg?s=612x612&w=0&k=20&c=3reRiIeVY1tiGr1Dv_rPqaVeqtp-h_NvzlMaOwq160I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Ticket Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/yellow-ticket-top-view_1101-121.jpg' alt='Page 3 | Ticket Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/yellow-ticket-top-view_1101-121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Ticket Stock Illustrations – 7,659 Golden Ticket Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/golden-ticket-blank-white-background-53446101.jpg' alt='Golden Ticket Stock Illustrations – 7,659 Golden Ticket Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/golden-ticket-blank-white-background-53446101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDYtdGlja2V0MS0wMWFfMS1sMWFjam05ZC5wbmc.png' alt='Ticket Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDYtdGlja2V0MS0wMWFfMS1sMWFjam05ZC5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket stubs Black and White Stock Photos & Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/MJ5KM2/ticket-template-isolated-on-a-transparent-background-MJ5KM2.jpg' alt='Ticket stubs Black and White Stock Photos & Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/MJ5KM2/ticket-template-isolated-on-a-transparent-background-MJ5KM2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ Circus Ticket Template Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/917020074/vector/hand-drawn-watercolour-entry-ticket-pattern.jpg?s=612x612&w=0&k=20&c=RAugE05pavQAhDqSIC1JAiJhQa1cg4pzzlRHQVXVYBg=' alt='270+ Circus Ticket Template Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/917020074/vector/hand-drawn-watercolour-entry-ticket-pattern.jpg?s=612x612&w=0&k=20&c=RAugE05pavQAhDqSIC1JAiJhQa1cg4pzzlRHQVXVYBg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

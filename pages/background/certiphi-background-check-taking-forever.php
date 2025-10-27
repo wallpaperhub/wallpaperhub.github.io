@@ -1,0 +1,129 @@
+<title>Why Is My Certiphi Background Check Taking So Long?</title>
+                    <meta name="description" content="Discover the reasons behind delays in your Certiphi background check process. Learn about common factors that contribute to extended wait times and tips to expedite your background screening. Empower yourself with information and reduce the stress of a prolonged hiring process.">
+                    <meta name="keywords" content="certiphi background check taking forever">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/certiphi-background-check-taking-forever">
+                            <span itemprop="name">certiphi background check taking forever</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Is My Certiphi Background Check Taking So Long?</h1>
+                <p>Experiencing delays with your Certiphi background check? You're not alone. Many individuals face extended processing times which can be frustrating. Factors such as high demand, complex histories, or missing information can contribute. Stay patient and ensure you provide all necessary documentation to expedite the process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accepted, but need to defend undisclosed background check ...">
+                                <img itemprop="contentUrl url" src='https://forums.studentdoctor.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FCyaWJp2.jpg&hash=317afe3472b30f8a0ba55f5b8a8ae16b' alt='Accepted, but need to defend undisclosed background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Student Doctor Network" />
+                                </span>
+                                <a href='https://forums.studentdoctor.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FCyaWJp2.jpg&hash=317afe3472b30f8a0ba55f5b8a8ae16b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is this a legit AAMC Criminal Background Check? : r/premed">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/so90sljehqaa1.jpg' alt='Is this a legit AAMC Criminal Background Check? : r/premed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/so90sljehqaa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone know how long a background check takes... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/does-anyone-know-how-long-a-background-check-takes-to-clear-using-application-station-certiphi-thank-you.png' alt='Does anyone know how long a background check takes... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/does-anyone-know-how-long-a-background-check-takes-to-clear-using-application-station-certiphi-thank-you.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Certiphi Background Check Wrong? - We Can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84ced5e6ee.webp' alt='Was Your Certiphi Background Check Wrong? - We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84ced5e6ee.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certiphi Background Check Errors? We Help You Fight Back | Fair Credit">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64220b7e1d7563c13e88bd34_certiphi-background-check.jpg' alt='Certiphi Background Check Errors? We Help You Fight Back | Fair Credit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fair Credit" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64220b7e1d7563c13e88bd34_certiphi-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Solution by Certiphi Screening | iCIMS ...">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/170208/feature/img7673320224412236651.png' alt='Background Screening Solution by Certiphi Screening | iCIMS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCIMS Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/170208/feature/img7673320224412236651.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PHARMACY PHARMACY">
+                                <img itemprop="contentUrl url" src='x-raw-image:///5980e02248f4f96e30446b0d1dce54e3d672ec9f576242e0c324b49752535843' alt='PHARMACY PHARMACY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AACP" />
+                                </span>
+                                <a href='x-raw-image:///5980e02248f4f96e30446b0d1dce54e3d672ec9f576242e0c324b49752535843' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks with Credit Reports from AAA Credit ...">
+                                <img itemprop="contentUrl url" src='https://www.bestcheck.com/images/clipart/employment-background-check/employment-screening-1.png' alt='Employment Background Checks with Credit Reports from AAA Credit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Credit Screening background checks" />
+                                </span>
+                                <a href='https://www.bestcheck.com/images/clipart/employment-background-check/employment-screening-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certiphi Screening Background Check Error Cost You A Job? We Can Help">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' alt='Certiphi Screening Background Check Error Cost You A Job? We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long did your Certiphi background check take? | Student Doctor ...">
+                                <img itemprop="contentUrl url" src='https://forums.studentdoctor.net/data/siropu/am/user/46787525fc6994.png' alt='How long did your Certiphi background check take? | Student Doctor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2184">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Student Doctor Network" />
+                                </span>
+                                <a href='https://forums.studentdoctor.net/data/siropu/am/user/46787525fc6994.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

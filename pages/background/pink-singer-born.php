@@ -1,0 +1,129 @@
+<title>Pink: The Dynamic Singer Born Alecia Beth Moore</title>
+                    <meta name="description" content="Discover the captivating journey of Pink, born Alecia Beth Moore, and explore her rise to fame, iconic music hits, and impact on the pop music scene. Join fans worldwide as we celebrate her remarkable contributions and enduring legacy in the industry.">
+                    <meta name="keywords" content="pink (singer) born">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-singer-born">
+                            <span itemprop="name">pink (singer) born</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink: The Dynamic Singer Born Alecia Beth Moore</h1>
+                <p>Pink, born Alecia Beth Moore on September 8, 1979, in Doylestown, Pennsylvania, is a renowned American singer-songwriter and performer. She gained fame in the early 2000s with her unique voice, catchy pop-punk tracks, and powerful lyrics. Over the years, Pink has won multiple awards and remains an influential figure in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7f/PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg' alt='Pink (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="1682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7f/PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/10/456841166-min-1200x834.jpg' alt='Pink Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/10/456841166-min-1200x834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pink_at_Madison_Square_Garden_%2840532526914%29.jpg/220px-Pink_at_Madison_Square_Garden_%2840532526914%29.jpg' alt='Pink (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pink_at_Madison_Square_Garden_%2840532526914%29.jpg/220px-Pink_at_Madison_Square_Garden_%2840532526914%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink | Songs, Albums, & Awards | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/78/204578-050-70DF0CC4/Pink-2018.jpg' alt='Pink | Songs, Albums, & Awards | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/78/204578-050-70DF0CC4/Pink-2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink - Singer, Songwriter, Musician">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/516213_v9_bc.jpg' alt='Pink - Singer, Songwriter, Musician'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/516213_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Things to Know About Jewish Singer Pink - Hey Alma">
+                                <img itemprop="contentUrl url" src='https://www.heyalma.com/wp-content/uploads/2022/12/pink-hed.jpg' alt='18 Things to Know About Jewish Singer Pink - Hey Alma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hey Alma" />
+                                </span>
+                                <a href='https://www.heyalma.com/wp-content/uploads/2022/12/pink-hed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink (singer) - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/50/P%21nk_-_V2017_Hylands_Park_Chelmsford_-_Saturday_19th_August_2017_PinkVFest190817-35_%2836356783410%29_%28cropped_2%29.jpg' alt='Pink (singer) - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/50/P%21nk_-_V2017_Hylands_Park_Chelmsford_-_Saturday_19th_August_2017_PinkVFest190817-35_%2836356783410%29_%28cropped_2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Biography: Life and Career of the Singer | Articles on ...">
+                                <img itemprop="contentUrl url" src='https://www.watchmojo.com/uploads/thumbs720/M-P-Pink-480i60.jpg' alt='Pink Biography: Life and Career of the Singer | Articles on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WatchMojo" />
+                                </span>
+                                <a href='https://www.watchmojo.com/uploads/thumbs720/M-P-Pink-480i60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/faces/pink-image.jpg' alt='Pink - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/faces/pink-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink - Songs, Real Name & Age">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-886909974.jpg' alt='Pink - Songs, Real Name & Age'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-886909974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 3D RuneScape Backgrounds for an Epic Gaming Experience</title>
+                    <meta name="description" content="Dive into the immersive world of 3D RuneScape backgrounds! Discover enchanting scenes and vibrant landscapes that enhance your gaming experience, perfect for any fan looking to elevate their gameplay. Explore various backgrounds and transform your adventures in the iconic MMORPG today!">
+                    <meta name="keywords" content="3d runescape backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-runescape-backgrounds">
+                            <span itemprop="name">3d runescape backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D RuneScape Backgrounds for an Epic Gaming Experience</h1>
+                <p>Explore the captivating world of 3D RuneScape backgrounds, where stunning graphics and immersive environments come to life. From lush forests to grand castles, these visually striking scenes enhance your gaming experience, allowing players to dive into the rich lore and adventure that awaits. Transform your gameplay today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally Ful sized wallpapers are available (these are at least Bik ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u0ud1rqa2gx71.png' alt='Finally Ful sized wallpapers are available (these are at least Bik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u0ud1rqa2gx71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally Ful sized wallpapers are available (these are at least Bik ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/79p8zgxa2gx71.png' alt='Finally Ful sized wallpapers are available (these are at least Bik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/79p8zgxa2gx71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This background is nostalgic : r/runescape">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/320/thumb-1920-320952.jpg' alt='This background is nostalgic : r/runescape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/320/thumb-1920-320952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally Ful sized wallpapers are available (these are at least Bik ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0ua9xx8b2gx71.png' alt='Finally Ful sized wallpapers are available (these are at least Bik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0ua9xx8b2gx71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suggestion] Add retro login backgrounds : r/runescape">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xwvzch6jabwy.png?auto=webp&s=3c629e24a61b39e14ecd1ea0aaf6f8da868f83d5' alt='Suggestion] Add retro login backgrounds : r/runescape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="777">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xwvzch6jabwy.png?auto=webp&s=3c629e24a61b39e14ecd1ea0aaf6f8da868f83d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recreated this nostalgic wallpaper from RuneScape : r/2007scape">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shr6tgwtged71.png' alt='Recreated this nostalgic wallpaper from RuneScape : r/2007scape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shr6tgwtged71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally Ful sized wallpapers are available (these are at least Bik ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0oug5g2b2gx71.png?width=640&crop=smart&auto=webp&s=3fda5f49cb5591d710770c7aad78d31bbdca34da' alt='Finally Ful sized wallpapers are available (these are at least Bik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0oug5g2b2gx71.png?width=640&crop=smart&auto=webp&s=3fda5f49cb5591d710770c7aad78d31bbdca34da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster of Runescape Wallpaper, HD Games 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/poster-of-runescape_bGhmaWqUmZqaraWkpJRqZWVlrWdsbGo.jpg' alt='Poster of Runescape Wallpaper, HD Games 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/poster-of-runescape_bGhmaWqUmZqaraWkpJRqZWVlrWdsbGo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old School Runescape Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-school-runescape-alchemical-hydra-lbxh2phhrzljnb9z.jpg' alt='100+] Old School Runescape Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-school-runescape-alchemical-hydra-lbxh2phhrzljnb9z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raksha Runescape Wallpaper, HD Games 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/raksha-runescape_bGpnZ2uUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Raksha Runescape Wallpaper, HD Games 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/raksha-runescape_bGpnZ2uUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

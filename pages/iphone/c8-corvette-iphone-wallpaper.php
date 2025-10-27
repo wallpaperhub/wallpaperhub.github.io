@@ -1,0 +1,129 @@
+<title>C8 Corvette iPhone Wallpapers: Elevate Your Device</title>
+                    <meta name="description" content="Explore a collection of eye-catching C8 Corvette iPhone wallpapers. Perfect for automotive lovers, these wallpapers enhance your phone’s look and showcase the iconic design of the C8 Corvette. Download now to give your iPhone a stylish upgrade!">
+                    <meta name="keywords" content="c8 corvette iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/c8-corvette-iphone-wallpaper">
+                            <span itemprop="name">c8 corvette iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>C8 Corvette iPhone Wallpapers: Elevate Your Device</h1>
+                <p>Discover stunning C8 Corvette iPhone wallpapers that elevate your device's aesthetics. Featuring sleek designs and vibrant colors, these wallpapers are perfect for car enthusiasts. Transform your iPhone into a showcase of automotive excellence and make a bold statement with every glance at your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corvette C8, car, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/239/386/HD-wallpaper-corvette-c8-car.jpg' alt='Corvette C8, car, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/239/386/HD-wallpaper-corvette-c8-car.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corvette iPhone Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/ef/4a/21ef4a87d691437abed1ccf48f1c3dc6.jpg' alt='Corvette iPhone Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/ef/4a/21ef4a87d691437abed1ccf48f1c3dc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Hennessey H700 Corvette C8 Stingray Wallpapers - WSupercars">
+                                <img itemprop="contentUrl url" src='https://www.wsupercars.com/thumbnails-phone/Hennessey/2023-Hennessey-H700-Corvette-C8-Stingray-001.jpg' alt='2023 Hennessey H700 Corvette C8 Stingray Wallpapers - WSupercars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSupercars" />
+                                </span>
+                                <a href='https://www.wsupercars.com/thumbnails-phone/Hennessey/2023-Hennessey-H700-Corvette-C8-Stingray-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some C8 phone wallpaper, courtesy of Mobil 1 ...">
+                                <img itemprop="contentUrl url" src='https://www.midenginecorvetteforum.com/filedata/fetch?id=350079&d=1643313384' alt='Some C8 phone wallpaper, courtesy of Mobil 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Engine Corvette Forum" />
+                                </span>
+                                <a href='https://www.midenginecorvetteforum.com/filedata/fetch?id=350079&d=1643313384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Chevrolet Corvette Z06 Wallpapers - WSupercars">
+                                <img itemprop="contentUrl url" src='https://www.wsupercars.com/thumbnails-phone/Chevrolet/2023-Chevrolet-Corvette-Z06-004.jpg' alt='2023 Chevrolet Corvette Z06 Wallpapers - WSupercars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSupercars" />
+                                </span>
+                                <a href='https://www.wsupercars.com/thumbnails-phone/Chevrolet/2023-Chevrolet-Corvette-Z06-004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chevrolet Corvette C8 Wallpaper 4K, Sports cars, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/chevrolet-corvette-c8-sports-cars-5k-1242x2208-8297.jpg' alt='Chevrolet Corvette C8 Wallpaper 4K, Sports cars, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/chevrolet-corvette-c8-sports-cars-5k-1242x2208-8297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corvette c8 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/d5/15/27d515fb13c5b929baff5e37b09490da.jpg' alt='Corvette c8 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/d5/15/27d515fb13c5b929baff5e37b09490da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chevrolet Corvette Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/c/2/1687444-2160x3840-iphone-4k-chevrolet-corvette-wallpaper-photo.jpg' alt='Chevrolet Corvette Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/c/2/1687444-2160x3840-iphone-4k-chevrolet-corvette-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corvette C8, c8, car, carros, corvette, corvette c8, forza ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/843/91/HD-wallpaper-corvette-c8-c8-car-cars-corvette-corvette-c8-forza-forzahorizon.jpg' alt='Corvette C8, c8, car, carros, corvette, corvette c8, forza ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/843/91/HD-wallpaper-corvette-c8-c8-car-cars-corvette-corvette-c8-forza-forzahorizon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2020 Chevrolet Corvette Stingray C8, sports car, 1280x2120 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/cf/19/e8cf199e83e1092ac659477b6c83c5d4.jpg' alt='2020 Chevrolet Corvette Stingray C8, sports car, 1280x2120 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/cf/19/e8cf199e83e1092ac659477b6c83c5d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

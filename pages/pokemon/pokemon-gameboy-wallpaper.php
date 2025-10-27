@@ -1,0 +1,129 @@
+<title>Vibrant Pokémon Gameboy Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our stunning Pokémon Gameboy wallpapers, perfect for fans seeking a nostalgic touch for their devices. Featuring classic designs and iconic characters, find the ideal wallpaper to express your love for the Pokémon world effortlessly. Download yours now and transform your screen today!">
+                    <meta name="keywords" content="pokemon gameboy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-gameboy-wallpaper">
+                            <span itemprop="name">pokemon gameboy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pokémon Gameboy Wallpapers for Your Device</h1>
+                <p>Discover captivating Pokémon Gameboy wallpapers that bring nostalgia to your device! Whether you're a fan of classic titles like Red, Blue, or Green, our collection features vibrant artwork and iconic characters. Transform your screen with stunning designs that celebrate the beloved franchise and rekindle your childhood memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GBA SP Pokemon Backgrounds : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-fra50ehz7mlb1.png?width=1179&format=png&auto=webp&s=306023e26e55b28e5a3a451c0713c21a35640810' alt='GBA SP Pokemon Backgrounds : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-fra50ehz7mlb1.png?width=1179&format=png&auto=webp&s=306023e26e55b28e5a3a451c0713c21a35640810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GBA SP Pokemon Backgrounds : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-u5gvcehz7mlb1.png?width=1179&format=png&auto=webp&s=2c5de47faa3771f0dfe38a5a628bc1f8f348b49a' alt='GBA SP Pokemon Backgrounds : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-u5gvcehz7mlb1.png?width=1179&format=png&auto=webp&s=2c5de47faa3771f0dfe38a5a628bc1f8f348b49a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="imgur.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/8a/04/478a04b67bbffcc3a3bfa2e0387b7df1.jpg' alt='imgur.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/8a/04/478a04b67bbffcc3a3bfa2e0387b7df1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GBA SP Pokemon Backgrounds : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-5e762ihz7mlb1.png?width=1179&format=png&auto=webp&s=340c0ade1d5e97f4b83d6fadd2ac4121b71815e5' alt='GBA SP Pokemon Backgrounds : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-5e762ihz7mlb1.png?width=1179&format=png&auto=webp&s=340c0ade1d5e97f4b83d6fadd2ac4121b71815e5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gameboy Pokémon Wallpaper iPhone - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEgHih0htwERWFB9B350zLPw1V6LS08KFdBPQ46f46WjxoARv2nu16cKGEhnpLZ8l58kgC_oNN34E-yOjIEo418XpdSfL02sPusbybkmfkDJtmIxTBBLagpno1heQvundQsMDAN9Z9NIM0y2w5g1QkgG5VZD6CC83cNC90hRB9PZSVzcUM7FGIJBJ12z5b8' alt='Gameboy Pokémon Wallpaper iPhone - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEgHih0htwERWFB9B350zLPw1V6LS08KFdBPQ46f46WjxoARv2nu16cKGEhnpLZ8l58kgC_oNN34E-yOjIEo418XpdSfL02sPusbybkmfkDJtmIxTBBLagpno1heQvundQsMDAN9Z9NIM0y2w5g1QkgG5VZD6CC83cNC90hRB9PZSVzcUM7FGIJBJ12z5b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GBA SP Pokemon Backgrounds : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-18g3vdhz7mlb1.png?width=1179&format=png&auto=webp&s=22f28f4355c370137da8b44880d39408a3219b58' alt='GBA SP Pokemon Backgrounds : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gba-sp-pokemon-backgrounds-v0-18g3vdhz7mlb1.png?width=1179&format=png&auto=webp&s=22f28f4355c370137da8b44880d39408a3219b58' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gameboy Pokémon Wallpaper iPhone - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEicJUHPhsIdW1ubLH2zLeZlFjioG1ZBzpoIoLS-P2C--Gf98LD9c-IPiPGdhDf1xywLxCPDP6O4qJmXJ7HLQ_8RFhbTqADJda_UVddPHYLnx1ImGdgVlZr7pAno4V1vL7HcooEK43vR2mhXv0fKtofuSUWqAcnaQsIYwQVJtUh6Prr18xMinZzHHZvnomg' alt='Gameboy Pokémon Wallpaper iPhone - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEicJUHPhsIdW1ubLH2zLeZlFjioG1ZBzpoIoLS-P2C--Gf98LD9c-IPiPGdhDf1xywLxCPDP6O4qJmXJ7HLQ_8RFhbTqADJda_UVddPHYLnx1ImGdgVlZr7pAno4V1vL7HcooEK43vR2mhXv0fKtofuSUWqAcnaQsIYwQVJtUh6Prr18xMinZzHHZvnomg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found these really cool Pokémon Gameboy Advance SP wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAPzIdLOCqs/4/image.jpg' alt='I found these really cool Pokémon Gameboy Advance SP wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAPzIdLOCqs/4/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon gameboy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/59/64/035964a597b4808120733c799823b562.jpg' alt='Pokémon gameboy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/59/64/035964a597b4808120733c799823b562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some Gameboy Pokemon live wallpaper : r/galaxyzflip">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i-made-some-gameboy-pokemon-live-wallpaper-v0-GHUgUQo4xM628PhCSPgb_TMLbj_SsSrmqVDTfGQ4YMs.jpg?auto=webp&s=9a15a2639cbceb523ab27c5d4b702114a3e4b5f1' alt='I made some Gameboy Pokemon live wallpaper : r/galaxyzflip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="2350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i-made-some-gameboy-pokemon-live-wallpaper-v0-GHUgUQo4xM628PhCSPgb_TMLbj_SsSrmqVDTfGQ4YMs.jpg?auto=webp&s=9a15a2639cbceb523ab27c5d4b702114a3e4b5f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

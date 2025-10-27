@@ -1,0 +1,129 @@
+<title>High-Quality Mario Star PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover a stunning selection of Mario star PNG images! Ideal for gaming projects, digital art, and more. Download high-quality, transparent PNGs today to elevate your designs with a touch of nostalgia and vibrant color. Perfect for any creative endeavor!">
+                    <meta name="keywords" content="mario star png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-star-png">
+                            <span itemprop="name">mario star png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Mario Star PNG Images for Your Projects</h1>
+                <p>Searching for vibrant Mario star PNG images? Look no further! Our curated collection features high-quality, transparent PNGs of the iconic Mario star, perfect for digital art, game design, and more. Whether you need them for personal projects or professional use, these graphics bring a pop of color and nostalgia to any project!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Collection Of Mario Star Clipart - Super Mario Star, HD Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/2e/69/3d2e69f35ad37e1d79141b16ab2f341c.jpg' alt='28 Collection Of Mario Star Clipart - Super Mario Star, HD Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/2e/69/3d2e69f35ad37e1d79141b16ab2f341c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Star Png Transparent Image - Mario Power Ups Star - Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/c2/52/98c2527c11394f5b827950a8ecc6f68b.jpg' alt='Mario Star Png Transparent Image - Mario Power Ups Star - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/c2/52/98c2527c11394f5b827950a8ecc6f68b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Star PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/14/Mario-Star-PNG-Photos.png' alt='Mario Star PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/14/Mario-Star-PNG-Photos.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Icon | Super Mario Iconpack | Sandro Pereira">
+                                <img itemprop="contentUrl url" src='https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Star-icon.png' alt='Star Icon | Super Mario Iconpack | Sandro Pereira'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Archive" />
+                                </span>
+                                <a href='https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Star-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Super Mario Star Svg Png online USA">
+                                <img itemprop="contentUrl url" src='https://www.vectorkhazana.com/assets/images/products/Super-mario-star.jpg' alt='Buy Super Mario Star Svg Png online USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector Khazana" />
+                                </span>
+                                <a href='https://www.vectorkhazana.com/assets/images/products/Super-mario-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super star png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/757/73/png-clipart-super-mario-bros-super-mario-galaxy-star-silver-star-angle-super-mario-bros.png' alt='Super star png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/757/73/png-clipart-super-mario-bros-super-mario-galaxy-star-silver-star-angle-super-mario-bros.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute 3D Mario Super Star PNG Vector Cartoon Golden Yellow Color">
+                                <img itemprop="contentUrl url" src='https://de-cors.com/wp-content/uploads/2023/06/Cute-3D-Mario-Super-Star-PNG-Vector-Golden-Color-Cartoon-Nintendo.jpg' alt='Cute 3D Mario Super Star PNG Vector Cartoon Golden Yellow Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="de Cor's" />
+                                </span>
+                                <a href='https://de-cors.com/wp-content/uploads/2023/06/Cute-3D-Mario-Super-Star-PNG-Vector-Golden-Color-Cartoon-Nintendo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Star Icon | Super Mario Iconpack | Sandro Pereira">
+                                <img itemprop="contentUrl url" src='https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Star-icon.png' alt='Retro Star Icon | Super Mario Iconpack | Sandro Pereira'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Archive" />
+                                </span>
+                                <a href='https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Star-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Star Logo PNG Vector (AI) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/S/super-mario-star-logo-52F0F30FE3-seeklogo.com.png' alt='Super Mario Star Logo PNG Vector (AI) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/S/super-mario-star-logo-52F0F30FE3-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luigi Mario - Cartoon Character Holding Star - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/lnd/20240417/yye/transparent-super-mario-mario-holding-up-star-smiling-happily66203c4f895e92.71730217.webp' alt='Luigi Mario - Cartoon Character Holding Star - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/lnd/20240417/yye/transparent-super-mario-mario-holding-up-star-smiling-happily66203c4f895e92.71730217.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your LinkedIn with UNC Chapel Hill Background</title>
+                    <meta name="description" content="Discover how to enhance your LinkedIn profile with a compelling UNC Chapel Hill background. Showcase your academic achievements and connect with a network of successful Tar Heels to boost your professional journey.">
+                    <meta name="keywords" content="unc chapel hill linkedin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/unc-chapel-hill-linkedin-background">
+                            <span itemprop="name">unc chapel hill linkedin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your LinkedIn with UNC Chapel Hill Background</h1>
+                <p>UNC Chapel Hill's LinkedIn background showcases its rich history, academic excellence, and vibrant campus life. As a premier research university, it highlights engaging student organizations, successful alumni, and innovative programs. Leveraging these elements in your LinkedIn profile can enhance your professional presence and networking opportunities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LinkedIn Background Photos of UNC | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4324/36182329506_40b7bdab2e_b.jpg' alt='LinkedIn Background Photos of UNC | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4324/36182329506_40b7bdab2e_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LinkedIn Background Photos of UNC | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4330/35807273820_67a113c457_z.jpg' alt='LinkedIn Background Photos of UNC | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4330/35807273820_67a113c457_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNC Management Company | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C561BAQFhkerUu3qoXA/company-background_10000/company-background_10000/0/1583926036055?e=2147483647&v=beta&t=RupYR2bkL9aWY7UX0ag9NB8h8tcY-Znaz6tX0lpFm2c' alt='UNC Management Company | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C561BAQFhkerUu3qoXA/company-background_10000/company-background_10000/0/1583926036055?e=2147483647&v=beta&t=RupYR2bkL9aWY7UX0ag9NB8h8tcY-Znaz6tX0lpFm2c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LinkedIn Background Photos of UNC | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4324/35389943484_31a991c602_b.jpg' alt='LinkedIn Background Photos of UNC | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4324/35389943484_31a991c602_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNC Marketing Club | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E1BAQHUsCWTp0nZ_A/company-background_10000/company-background_10000/0/1593466436212/unc_marketing_club_cover?e=2147483647&v=beta&t=85S2X54CrwCsSLA2hruzTQpY0Z0fEK8CMAjmW5Ri1x8' alt='UNC Marketing Club | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E1BAQHUsCWTp0nZ_A/company-background_10000/company-background_10000/0/1593466436212/unc_marketing_club_cover?e=2147483647&v=beta&t=85S2X54CrwCsSLA2hruzTQpY0Z0fEK8CMAjmW5Ri1x8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allison Burnett - University of North Carolina at Chapel Hill ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D16AQHZwRSIdnO4vA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1674500215087?e=2147483647&v=beta&t=aoUiwrDGBV1agZ4Ped_4Rj7GuDjyHvjPHyJtxZw59SQ' alt='Allison Burnett - University of North Carolina at Chapel Hill ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D16AQHZwRSIdnO4vA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1674500215087?e=2147483647&v=beta&t=aoUiwrDGBV1agZ4Ped_4Rj7GuDjyHvjPHyJtxZw59SQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNC-Chapel Hill named best value in U.S. public higher education ...">
+                                <img itemprop="contentUrl url" src='https://provost.unc.edu/wp-content/uploads/2018/01/South-with-Banners-1200x675.jpg' alt='UNC-Chapel Hill named best value in U.S. public higher education ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNC Chapel Hill - The University of North Carolina at Chapel Hill" />
+                                </span>
+                                <a href='https://provost.unc.edu/wp-content/uploads/2018/01/South-with-Banners-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hyo In Park - Chapel Hill, North Carolina, United States ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5616AQHdNKlCh1vkcA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1667567658049?e=2147483647&v=beta&t=09xWqUyE6WEowr0hio8JkSS4Fd9LSJmc32pjxJPFzrk' alt='Hyo In Park - Chapel Hill, North Carolina, United States ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5616AQHdNKlCh1vkcA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1667567658049?e=2147483647&v=beta&t=09xWqUyE6WEowr0hio8JkSS4Fd9LSJmc32pjxJPFzrk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Alumni | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E1BAQFRbCO9OsMIsg/company-background_10000/company-background_10000/0/1619635287528/uncgaa_cover?e=2147483647&v=beta&t=DExQqVmFJAHuIs2cclvZyQFTclDQ99qsAErvboR6-Go' alt='Carolina Alumni | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2128">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E1BAQFRbCO9OsMIsg/company-background_10000/company-background_10000/0/1619635287528/uncgaa_cover?e=2147483647&v=beta&t=DExQqVmFJAHuIs2cclvZyQFTclDQ99qsAErvboR6-Go' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here At UNC على X: "Time to refresh your Zoom sessions! Here are a ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EZB55sCXgAA2PVu.jpg' alt='Here At UNC على X: "Time to refresh your Zoom sessions! Here are a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EZB55sCXgAA2PVu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

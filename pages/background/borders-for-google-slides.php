@@ -1,0 +1,129 @@
+<title>Creative Borders for Google Slides: Enhance Your Presentations</title>
+                    <meta name="description" content="Transform your Google Slides with creative borders! Learn how to effectively use borders to frame content, emphasize key messages, and enhance the overall design of your presentations. Discover tips for customizing styles that elevate your slides while keeping your audience engaged.">
+                    <meta name="keywords" content="borders for google slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/borders-for-google-slides">
+                            <span itemprop="name">borders for google slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Borders for Google Slides: Enhance Your Presentations</h1>
+                <p>Enhance your Google Slides presentations by incorporating borders to make your content stand out. Borders can frame images, highlight text, or create a cohesive look across slides. Easily customize the style, color, and thickness of borders to align with your theme. Discover tips to effectively use borders for a professional touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Put Decorative or Pretty Borders on Google Slides">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8-9gmr3JQjg/maxresdefault.jpg' alt='How to Put Decorative or Pretty Borders on Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8-9gmr3JQjg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Border in Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/03_make-shape-transparent-google-slides.png' alt='How to Add a Border in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/03_make-shape-transparent-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Border in Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/E4VklnlL-ETg29pm29McFOQNs6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-add-a-border-in-google-slides-57147541-cc16c4c0e64e44e09d34223dfecd1b8b.jpg' alt='How to Add a Border in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/E4VklnlL-ETg29pm29McFOQNs6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-add-a-border-in-google-slides-57147541-cc16c4c0e64e44e09d34223dfecd1b8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a border in Google Slides | Slidesgo">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/8287276/Copying-a-border-to-a-new-slide-in-Google-Slides.gif' alt='How to add a border in Google Slides | Slidesgo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1905">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/8287276/Copying-a-border-to-a-new-slide-in-Google-Slides.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides Border and PPT Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85228-google-slides-border.png' alt='Google Slides Border and PPT Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85228-google-slides-border.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Border in Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/hRX9mim6udCdIkxkjqTiv0SXYCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-add-a-border-in-google-slides-57147548-074071b860b346e59a2d070726f074c2.jpg' alt='How to Add a Border in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/hRX9mim6udCdIkxkjqTiv0SXYCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-add-a-border-in-google-slides-57147548-074071b860b346e59a2d070726f074c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a border in Google Slides | Slidesgo">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/7922746/Adding-a-border-to-a-picture-in-Google-Slides.gif' alt='How to add a border in Google Slides | Slidesgo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1905">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/7922746/Adding-a-border-to-a-picture-in-Google-Slides.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Border in Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/00_how-to-add-border-google-slides-cover.png' alt='How to Add a Border in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/00_how-to-add-border-google-slides-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Border for Google Slides and PowerPoint for Presentation">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/65219-border-for-google-slides.png' alt='Get Border for Google Slides and PowerPoint for Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/65219-border-for-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn How To Add a Border On Google Slides In 7 Simple Steps">
+                                <img itemprop="contentUrl url" src='https://images.surferseo.art/10714bbf-45d4-4f14-a5f8-0a90726017ab.png' alt='Learn How To Add a Border On Google Slides In 7 Simple Steps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Slides" />
+                                </span>
+                                <a href='https://images.surferseo.art/10714bbf-45d4-4f14-a5f8-0a90726017ab.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

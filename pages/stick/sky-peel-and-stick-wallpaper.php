@@ -1,0 +1,129 @@
+<title>Elevate Your Decor with Sky Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of sky peel and stick wallpaper! Easy to install and remove, it’s perfect for creating a serene ambiance in any room. Ideal for renters or quick decor updates, this wallpaper brings the beauty of the outdoors inside. Transform your space with ease today!">
+                    <meta name="keywords" content="sky peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/sky-peel-and-stick-wallpaper">
+                            <span itemprop="name">sky peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Decor with Sky Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with sky peel and stick wallpaper. Featuring dreamy skylines, soft clouds, and vibrant hues, this wallpaper adds tranquility and elegance to any room. Easy to apply and remove, it’s perfect for renters or those looking for a quick decor upgrade. Enjoy a fresh atmosphere with minimal effort!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: White Cloud Wall Mural 3D Blue Sky Peel and Stick Self-Adhesive  Wallpaper Removable Large Sticker Home Decor Background Art Wall Painting  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rbgBUxCsL.jpg' alt='Amazon.com: White Cloud Wall Mural 3D Blue Sky Peel and Stick Self-Adhesive  Wallpaper Removable Large Sticker Home Decor Background Art Wall Painting  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rbgBUxCsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Sky cloud a pastel color Sky cloud a pastel  colored Sky cloud pastel Wall Mural Boho Contact Paper Removable Self  Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CHfwn-UrL.jpg' alt='Peel and Stick Wallpaper Sky cloud a pastel color Sky cloud a pastel  colored Sky cloud pastel Wall Mural Boho Contact Paper Removable Self  Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CHfwn-UrL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudy Sky Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/cloudy-sky-peel-and-stick-wallpaper-722365.png?v=1677735307' alt='Cloudy Sky Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/cloudy-sky-peel-and-stick-wallpaper-722365.png?v=1677735307' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud Wallpaper, Removable Wallpaper, Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23041200/r/il/390da6/3709690642/il_570xN.3709690642_5mn0.jpg' alt='Cloud Wallpaper, Removable Wallpaper, Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23041200/r/il/390da6/3709690642/il_570xN.3709690642_5mn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper - Outer Space Galaxy Night Sky Stars Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6702435/r/il/56f36c/4092315328/il_570xN.4092315328_96lb.jpg' alt='Peel and Stick Wallpaper - Outer Space Galaxy Night Sky Stars Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6702435/r/il/56f36c/4092315328/il_570xN.4092315328_96lb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudy Sky Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/cloudy-sky-peel-and-stick-wallpaper-135517.jpg?v=1687547116' alt='Cloudy Sky Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/cloudy-sky-peel-and-stick-wallpaper-135517.jpg?v=1687547116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouds Peel And Stick Wallpaper | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/cl10591_clouds_skyblue_credenza02_rgb_1800x1800.jpg?v=1666007898' alt='Clouds Peel And Stick Wallpaper | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/cl10591_clouds_skyblue_credenza02_rgb_1800x1800.jpg?v=1666007898' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/Goldonblackstarrypattern5.jpg?v=1739232269&width=1214' alt='Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/Goldonblackstarrypattern5.jpg?v=1739232269&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky With Stars Mural, Nursery Peel and Stick Night Sky Wallpaper,  Starry Night Wall Mural, Stars and Clouds Wallpaper for Kids Room">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/1-KW046-sky-with-stars-and-clouds-kids-wallpaper.jpg?v=1700258799&width=2500' alt='Blue Sky With Stars Mural, Nursery Peel and Stick Night Sky Wallpaper,  Starry Night Wall Mural, Stars and Clouds Wallpaper for Kids Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/1-KW046-sky-with-stars-and-clouds-kids-wallpaper.jpg?v=1700258799&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky Wall Mural, White Clouds Peel and Stick Self-Adhesive Wallpaper,  Removable Sticker Home Decor TV Background Large Art Wall Painting 78"x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61iGolrx-ML._AC_UF894,1000_QL80_.jpg' alt='Blue Sky Wall Mural, White Clouds Peel and Stick Self-Adhesive Wallpaper,  Removable Sticker Home Decor TV Background Large Art Wall Painting 78"x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61iGolrx-ML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

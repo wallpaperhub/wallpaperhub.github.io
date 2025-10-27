@@ -1,0 +1,129 @@
+<title>Galaxy Marshmello Wallpaper: Dreamy Cosmic Designs</title>
+                    <meta name="description" content="Discover unique galaxy marshmello wallpapers perfect for your devices! Bright, colorful, and inspiring, these designs will elevate your screen's aesthetic. Dive into a world of creativity with our curated collection of cosmic marshmello art!">
+                    <meta name="keywords" content="galaxy marshmello wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-marshmello-wallpaper">
+                            <span itemprop="name">galaxy marshmello wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galaxy Marshmello Wallpaper: Dreamy Cosmic Designs</h1>
+                <p>Transform your device with stunning galaxy marshmello wallpapers! These vibrant and colorful designs blend the enchanting beauty of galaxies with the playful essence of marshmello, making your screens pop. Perfect for anyone who loves creative aesthetics, these wallpapers provide a dreamy backdrop that keeps you inspired!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmallow, galaxy, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/857/697/HD-wallpaper-marshmallow-galaxy-music.jpg' alt='Marshmallow, galaxy, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/857/697/HD-wallpaper-marshmallow-galaxy-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello Blue Purple Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/marshmello-blue-purple-galaxy-o8nqk6smt8xv2ehf.jpg' alt='Marshmello Blue Purple Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/marshmello-blue-purple-galaxy-o8nqk6smt8xv2ehf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy marshmello wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c8/68/2e/c8682e1ff9ef5b810ca67d886075417f.jpg' alt='Galaxy marshmello wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c8/68/2e/c8682e1ff9ef5b810ca67d886075417f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello, galaxy, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/390/843/HD-wallpaper-marshmello-galaxy-music.jpg' alt='Marshmello, galaxy, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/390/843/HD-wallpaper-marshmello-galaxy-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Galaxy Marshmello ideas | dj art, gaming wallpapers, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/3e/90/cd/3e90cd1d294fb4f9c29607cbafbd32de.jpg' alt='10 Galaxy Marshmello ideas | dj art, gaming wallpapers, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="262">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/3e/90/cd/3e90cd1d294fb4f9c29607cbafbd32de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Marshmello In Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-marshmello-in-galaxy-7488g0ccy0fwq9z4.jpg' alt='Black Marshmello In Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-marshmello-in-galaxy-7488g0ccy0fwq9z4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello Galaxy Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7701314.jpg' alt='Marshmello Galaxy Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7701314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello" iPhone Case for Sale by Wiradigunawan | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2411373847.0877/flat,750x1000,075,t.jpg' alt='Marshmello" iPhone Case for Sale by Wiradigunawan | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2411373847.0877/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A clean skin deserves a clean combo! Here's Marshmello + Galactic ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zv0csysci8e21.jpg' alt='A clean skin deserves a clean combo! Here's Marshmello + Galactic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1564">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zv0csysci8e21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy marshmello wallpaper by llvmxss - Download on ZEDGE™ | 45b2">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=kOgaKWwkDpOL3m2rsjY-Ic5R8lAmnjBIZVH2-mo1ODba--49qkiyDT_WgctAQ2kUEByh06RYZDKxnllMKf6G34p3UBDSgDeFQvlo3dgkUfGfZK8i1gSoBCVca_csfsDXoRcmdYv0mnXcGpx0fsAKoxpAFqtjBe8d_xMz-M2uW7s0q-d3fEo-adKDf65LvEUVEMeQTSzZG5taG9ArFZjXMT2gVA46qDR7VXfnXw' alt='Galaxy marshmello wallpaper by llvmxss - Download on ZEDGE™ | 45b2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=kOgaKWwkDpOL3m2rsjY-Ic5R8lAmnjBIZVH2-mo1ODba--49qkiyDT_WgctAQ2kUEByh06RYZDKxnllMKf6G34p3UBDSgDeFQvlo3dgkUfGfZK8i1gSoBCVca_csfsDXoRcmdYv0mnXcGpx0fsAKoxpAFqtjBe8d_xMz-M2uW7s0q-d3fEo-adKDf65LvEUVEMeQTSzZG5taG9ArFZjXMT2gVA46qDR7VXfnXw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

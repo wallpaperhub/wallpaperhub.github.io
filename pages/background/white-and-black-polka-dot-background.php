@@ -1,0 +1,129 @@
+<title>Stunning White & Black Polka Dot Background Design</title>
+                    <meta name="description" content="Discover the charm of a white and black polka dot background. This classic design enhances any project with its timeless appeal and versatility. Perfect for fashion or decor, create a striking visual impact with this playful pattern. Ideal for graphics and more!">
+                    <meta name="keywords" content="white and black polka dot background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-and-black-polka-dot-background">
+                            <span itemprop="name">white and black polka dot background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White & Black Polka Dot Background Design</h1>
+                <p>A white and black polka dot background is a classic design choice that adds a playful yet sophisticated touch to any project. The contrasting colors create a striking visual effect, making it perfect for fashion, graphic design, or home decor. This timeless pattern is versatile and can be paired with various styles to enhance your creative works.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Black On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' alt=''Polka Dot' Wallpaper by Sugar Paper - Black On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Polka Dots Images – Browse 96,470 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/81/09/10/360_F_81091032_aG8DBxyyQOpX7AgEkR0MQLwbIzGSHPAi.jpg' alt='Black And White Polka Dots Images – Browse 96,470 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/81/09/10/360_F_81091032_aG8DBxyyQOpX7AgEkR0MQLwbIzGSHPAi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black and white polka dot pattern abstract background vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/890/253/non_2x/black-and-white-polka-dot-pattern-abstract-background-free-vector.jpg' alt='black and white polka dot pattern abstract background vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/890/253/non_2x/black-and-white-polka-dot-pattern-abstract-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="polka dot seamless vector pattern black background. White and ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/74/36/69/1000_F_274366984_xOqgePYs1OJyD68IG5PWHK2Hd6bbSmbG.jpg' alt='polka dot seamless vector pattern black background. White and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/74/36/69/1000_F_274366984_xOqgePYs1OJyD68IG5PWHK2Hd6bbSmbG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200,000+ Free Black White Polka Dots & Polka Dots Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2015/09/13/16/46/polka-dots-938427_640.jpg' alt='200,000+ Free Black White Polka Dots & Polka Dots Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="633">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2015/09/13/16/46/polka-dots-938427_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Polka Dots Background Stock Illustrations – 29,587 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/small-black-polka-dots-white-background-5658900.jpg' alt='Black White Polka Dots Background Stock Illustrations – 29,587 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/small-black-polka-dots-white-background-5658900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Minimal white background with black polka dot pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/minimal-white-background-with-black-polka-dot-pattern_53876-110614.jpg?w=360' alt='Free Photo | Minimal white background with black polka dot pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/minimal-white-background-with-black-polka-dot-pattern_53876-110614.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black + White Polka Dots Seamless Pattern — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1655419613919-HEZZWF0QD9OMODQGKQ5Z/Black+White+Polka+Dots+Seamless+Cover+WM+1.jpg?format=1500w' alt='Black + White Polka Dots Seamless Pattern — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1655419613919-HEZZWF0QD9OMODQGKQ5Z/Black+White+Polka+Dots+Seamless+Cover+WM+1.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dot Black and White Spots PEEL & STICK Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_570xN.2263498324_k6t2.jpg' alt='Polka Dot Black and White Spots PEEL & STICK Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_570xN.2263498324_k6t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Black and white seamless polka dot ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/51/6b/a1516bdc1c35e50381feb3cb4aef64b4.jpg' alt='Download premium vector of Black and white seamless polka dot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/51/6b/a1516bdc1c35e50381feb3cb4aef64b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

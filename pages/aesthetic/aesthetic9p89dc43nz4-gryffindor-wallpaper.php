@@ -1,0 +1,129 @@
+<title>Vibrant Gryffindor Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover stunning Gryffindor wallpaper that brings courage and magic to your home. Perfect for fans, these designs enhance any room while showcasing your love for Harry Potter. Transform your space effortlessly with our unique collection!">
+                    <meta name="keywords" content="aesthetic:9p89dc43nz4= gryffindor wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic9p89dc43nz4-gryffindor-wallpaper">
+                            <span itemprop="name">aesthetic:9p89dc43nz4= gryffindor wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gryffindor Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with captivating Gryffindor wallpaper, blending the colors of bravery and courage. Perfect for Potterheads, these designs bring magic to your walls. From intricate patterns to minimalist art, express your Gryffindor pride effortlessly. Embrace your inner lion and create an enchanting atmosphere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bring Out the Courageous Gryffindor within You! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gryffindor-aesthetic-teqb8syz7nvguv7r.jpg' alt='Download Bring Out the Courageous Gryffindor within You! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gryffindor-aesthetic-teqb8syz7nvguv7r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gryffindor, harry, potter, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/111/787/HD-wallpaper-gryffindor-harry-potter.jpg' alt='Gryffindor, harry, potter, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/111/787/HD-wallpaper-gryffindor-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gryffindor Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/gryffindor-aesthetic-4tbbluiibz6o9u3b.jpg' alt='100+] Gryffindor Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/gryffindor-aesthetic-4tbbluiibz6o9u3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Harry Potter Gryffindor Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/harry-potter-gryffindor-wallpaper-sf79op3es7lwzz70.jpg' alt='100+] Harry Potter Gryffindor Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/harry-potter-gryffindor-wallpaper-sf79op3es7lwzz70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gryffindor Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/a3/59/57a3597f207b272eaa6c3d27e80c801a.jpg' alt='Gryffindor Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/a3/59/57a3597f207b272eaa6c3d27e80c801a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Gryffindor Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/gryffindor-raqo20208vymv5p9.jpg' alt='200+] Gryffindor Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/gryffindor-raqo20208vymv5p9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Amazing Gryffindor Backgrounds for your Iphone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/5b/88/915b88e3df9c3b5a7562622f3502c5f5.jpg' alt='20+ Amazing Gryffindor Backgrounds for your Iphone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/5b/88/915b88e3df9c3b5a7562622f3502c5f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gryffindor Aesthetic laptop wallpaper (1440x900)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/78/5c/d3785c51281bcc86d15a6d55095d8627.jpg' alt='Gryffindor Aesthetic laptop wallpaper (1440x900)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/78/5c/d3785c51281bcc86d15a6d55095d8627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gryffindor Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/magical-heritage-of-gryffindor-house-1bk3accg4x07s7yb.jpg' alt='100+] Gryffindor Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/magical-heritage-of-gryffindor-house-1bk3accg4x07s7yb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gryffindor wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e5/b6/01/e5b6019a29453984085fa42deb17a289.jpg' alt='Gryffindor wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e5/b6/01/e5b6019a29453984085fa42deb17a289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

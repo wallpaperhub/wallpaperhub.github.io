@@ -1,0 +1,129 @@
+<title>Stunning Blue Lock Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a collection of vibrant Blue Lock wallpapers for your iPhone. Perfect for soccer fans, these eye-catching designs bring your favorite characters and moments to life. Download your new wallpaper today and personalize your device with dynamic visuals!">
+                    <meta name="keywords" content="blue lock wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/blue-lock-wallpaper-iphone">
+                            <span itemprop="name">blue lock wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Lock Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning Blue Lock wallpapers! Show off your love for soccer and elevate your screen with dynamic designs featuring your favorite characters and breathtaking game scenes. Perfect for fans who want a unique touch to their device. Download now and enjoy vibrant visuals every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How cool is this IPhone Wallpaper : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-cool-is-this-iphone-wallpaper-v0-d7u20dcpxuvc1.jpg?width=640&crop=smart&auto=webp&s=ee0ac7e1265e4c50b1d1553289d47d471861f73e' alt='How cool is this IPhone Wallpaper : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-cool-is-this-iphone-wallpaper-v0-d7u20dcpxuvc1.jpg?width=640&crop=smart&auto=webp&s=ee0ac7e1265e4c50b1d1553289d47d471861f73e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Lock Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-lock-anime-character-sketchi-phone-wallpaper-cbvacwrcsqjv3kli.jpg' alt='100+] Blue Lock Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-lock-anime-character-sketchi-phone-wallpaper-cbvacwrcsqjv3kli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/b9/77/5cb97754d22e1dfe25dd74258308d563.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/b9/77/5cb97754d22e1dfe25dd74258308d563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Blue Lock ideas | locked wallpaper, blue anime, anime wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/52/99/ef/5299efc57729fc036fdc256020799700.jpg' alt='7 Blue Lock ideas | locked wallpaper, blue anime, anime wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/52/99/ef/5299efc57729fc036fdc256020799700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Wallpaper for Phone ch103 : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jhe8affecn161.png' alt='Blue Lock Wallpaper for Phone ch103 : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4688">
+                                <meta itemprop="height" content="10150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jhe8affecn161.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD manga blue lock wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/750/20/HD-wallpaper-blue-lock-isagi-android-backgrounds-soccer-fanart-iphone-yoichi-isagi-football-phone-aesthetic-android-gfx-anime-aesthetic-manga-anime-manga-aesthetic-iphone-backgrounds-thumbnail.jpg' alt='HD manga blue lock wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/750/20/HD-wallpaper-blue-lock-isagi-android-backgrounds-soccer-fanart-iphone-yoichi-isagi-football-phone-aesthetic-android-gfx-anime-aesthetic-manga-anime-manga-aesthetic-iphone-backgrounds-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How cool is this IPhone Wallpaper : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/how-cool-is-this-iphone-wallpaper-v0-d0lchccpxuvc1.jpg?width=1170&format=pjpg&auto=webp&s=762d8af294cd67f7c4ea8835ac3521c1cd6f76a0' alt='How cool is this IPhone Wallpaper : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/how-cool-is-this-iphone-wallpaper-v0-d0lchccpxuvc1.jpg?width=1170&format=pjpg&auto=webp&s=762d8af294cd67f7c4ea8835ac3521c1cd6f76a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue lock wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DD4SAfBudyB/1/image.jpg' alt='blue lock wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DD4SAfBudyB/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Lock Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-lock-anime-character-intensity-hvp3n35xs3mdadfo.jpg' alt='100+] Blue Lock Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-lock-anime-character-intensity-hvp3n35xs3mdadfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="470 Blue lock ideas in 2025 | blue, lock, locked wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/1d/e4/64/1de464ab19ea94a1d3b1fa784023c8df.jpg' alt='470 Blue lock ideas in 2025 | blue, lock, locked wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/1d/e4/64/1de464ab19ea94a1d3b1fa784023c8df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

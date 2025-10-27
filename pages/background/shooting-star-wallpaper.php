@@ -1,0 +1,129 @@
+<title>Stunning Shooting Star Wallpaper for Dreamy Spaces</title>
+                    <meta name="description" content="Discover our stunning shooting star wallpaper, designed to elevate any room with a celestial touch. Perfect for nurseries and bedrooms, it adds a whimsical flair that sparks imagination and creativity. Shop now to transform your space into a dreamy, star-filled retreat!">
+                    <meta name="keywords" content="shooting star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shooting-star-wallpaper">
+                            <span itemprop="name">shooting star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shooting Star Wallpaper for Dreamy Spaces</h1>
+                <p>Transform your space with our mesmerizing shooting star wallpaper! Perfect for adding a touch of whimsy and magic to any room. Featuring vibrant colors and enchanting designs, this wallpaper creates a celestial atmosphere that inspires dreams. Ideal for nurseries, children's rooms, or any starry-eyed space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Shooting Star Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvb3RpbmclMjBzdGFyfGVufDB8fDB8fHww' alt='100+ Shooting Star Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvb3RpbmclMjBzdGFyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Shooting Star. [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2cum87ubdzv41.png?auto=webp&s=8a7f5663b6fce37d0ed1b3fec9583b721302fb15' alt='The Shooting Star. [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2cum87ubdzv41.png?auto=webp&s=8a7f5663b6fce37d0ed1b3fec9583b721302fb15' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Shooting star in the dark blue sky over ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/31/e8/af31e8e9ec120aad12a74b6d7ff126df.jpg' alt='Download premium image of Shooting star in the dark blue sky over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/31/e8/af31e8e9ec120aad12a74b6d7ff126df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Night Shooting Star Star Anime Original Anime Night HD ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/107/1075116.jpg' alt='Download Night Shooting Star Star Anime Original Anime Night HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2024">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/107/1075116.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Shooting Star Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2hvb3RpbmclMjBzdGFyfGVufDB8fDB8fHww' alt='100+ Shooting Star Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2hvb3RpbmclMjBzdGFyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Night Sky With Stars And Big Shooting Star Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/magical-night-sky-with-stars-and-big-shooting-star-hjfv2qs10477r6dm.webp' alt='Magical Night Sky With Stars And Big Shooting Star Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/magical-night-sky-with-stars-and-big-shooting-star-hjfv2qs10477r6dm.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting star Wallpaper (Minimalist, Gradient) #26313">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/shooting-star-3840x2160-space-sky-gradient-minimalist-26313.jpg' alt='Shooting star Wallpaper (Minimalist, Gradient) #26313'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/shooting-star-3840x2160-space-sky-gradient-minimalist-26313.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Shooting Stars & Meteors Wallpapers (4K) - Hongkiat">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/ww-falling-stars-meteors-wallpapers/4k/original/19.jpg' alt='30 Shooting Stars & Meteors Wallpapers (4K) - Hongkiat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="2680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/ww-falling-stars-meteors-wallpapers/4k/original/19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: shooting star digital art, shooting star painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/7e/f3/c87ef35f2aa9a163058c13c9af54ec57.jpg' alt='HD wallpaper: shooting star digital art, shooting star painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/7e/f3/c87ef35f2aa9a163058c13c9af54ec57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Stars Photos, Download The BEST Free Shooting Stars Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/776243/pexels-photo-776243.jpeg?cs=srgb&dl=pexels-hammyx-776243.jpg&fm=jpg' alt='Shooting Stars Photos, Download The BEST Free Shooting Stars Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="4896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/776243/pexels-photo-776243.jpeg?cs=srgb&dl=pexels-hammyx-776243.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

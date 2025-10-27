@@ -1,0 +1,129 @@
+<title>Elegant Blue Floral Wallpaper for Stunning Decor</title>
+                    <meta name="description" content="Discover the beauty of blue floral wallpaper to enhance your home decor. Perfect for any room, this elegant design adds a touch of nature while maintaining a sophisticated look. Elevate your interior with easy-to-install options that bring life and style to your walls. Shop now for a vibrant transformation!">
+                    <meta name="keywords" content="wallpaper blue floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/wallpaper-blue-floral">
+                            <span itemprop="name">wallpaper blue floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue Floral Wallpaper for Stunning Decor</h1>
+                <p>Transform your space with stunning blue floral wallpaper. This elegant design features delicate blossoms in soft hues, creating a vibrant and serene atmosphere. Perfect for living rooms, bedrooms, or any area needing a refreshing touch, this wallpaper combines style and tranquility, making your home feel more welcoming and alive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' alt='Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' alt='FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Porcelain Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' alt='Miniature Roses - Porcelain Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Brewster Essentials 56.4-sq ft Blue Non-woven Floral Unpasted  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/669a2eea-e365-4a82-b75f-6de96e7c8a2f/16595364.jpg' alt='Brewster Brewster Essentials 56.4-sq ft Blue Non-woven Floral Unpasted  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/669a2eea-e365-4a82-b75f-6de96e7c8a2f/16595364.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_fullxfull.2005485123_1boi.jpg' alt='Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2379">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_fullxfull.2005485123_1boi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' alt='PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson">
+                                <img itemprop="contentUrl url" src='http://caitlinwilson.com/cdn/shop/products/Highland_Mock.jpg?v=1620248243&width=2000' alt='Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caitlin Wilson" />
+                                </span>
+                                <a href='http://caitlinwilson.com/cdn/shop/products/Highland_Mock.jpg?v=1620248243&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints AST4656 Sunset Harbor Rose Blue White Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257430.jpg' alt='A Street Prints AST4656 Sunset Harbor Rose Blue White Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' alt='Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Deja Blue Floral Paste The Wall Non Woven Wallpaper, 20.5-in by  33-ft, 56.4 sq. ft.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Brewster-Deja-Blue-Floral-Paste-The-Wall-Non-Woven-Wallpaper-20-5-in-by-33-ft-56-4-sq-ft_b9e09288-e21a-4da8-9fe6-01a3b97681b8_1.0f2701983110ba14dd8631c75926650d.jpeg' alt='Brewster Deja Blue Floral Paste The Wall Non Woven Wallpaper, 20.5-in by  33-ft, 56.4 sq. ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Brewster-Deja-Blue-Floral-Paste-The-Wall-Non-Woven-Wallpaper-20-5-in-by-33-ft-56-4-sq-ft_b9e09288-e21a-4da8-9fe6-01a3b97681b8_1.0f2701983110ba14dd8631c75926650d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

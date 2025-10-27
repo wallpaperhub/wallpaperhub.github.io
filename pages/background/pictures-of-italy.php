@@ -1,0 +1,129 @@
+<title>Stunning Pictures of Italy: A Visual Journey</title>
+                    <meta name="description" content="Explore mesmerizing pictures of Italy, showcasing its breathtaking scenery, iconic landmarks, and vibrant culture. Discover the beauty of Florence, Venice, and the Amalfi Coast through stunning visuals that capture the essence of this enchanting country in every shot.">
+                    <meta name="keywords" content="pictures of italy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-italy">
+                            <span itemprop="name">pictures of italy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pictures of Italy: A Visual Journey</h1>
+                <p>Italy enchants with its stunning landscapes, rich history, and vibrant culture. From the breathtaking Amalfi Coast to the historic streets of Rome, every picture tells a story. Capture the essence of this beautiful country with its iconic landmarks like the Leaning Tower of Pisa, Venice's canals, and Tuscany's rolling hills.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,469,300+ Italy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1380534040/photo/beautiful-view-of-amalfi-on-the-mediterranean-coast-with-lemons-in-the-foreground-italy.jpg?s=612x612&w=0&k=20&c=4UQak9WJkyvN8aEgkLEwjnV5EW2RiGfC_GZNeQaVJeo=' alt='4,469,300+ Italy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1380534040/photo/beautiful-view-of-amalfi-on-the-mediterranean-coast-with-lemons-in-the-foreground-italy.jpg?s=612x612&w=0&k=20&c=4UQak9WJkyvN8aEgkLEwjnV5EW2RiGfC_GZNeQaVJeo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Italy Tour: Explore the Magnificent Beauty of Italy">
+                                <img itemprop="contentUrl url" src='https://delivery.gfobcontent.com/api/public/content/69158ae40b48417eb30d19fcc97942a8?v=160b28fd' alt='Best Italy Tour: Explore the Magnificent Beauty of Italy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmos Tours" />
+                                </span>
+                                <a href='https://delivery.gfobcontent.com/api/public/content/69158ae40b48417eb30d19fcc97942a8?v=160b28fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,469,300+ Italy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1388018793/photo/grand-canal-in-venice.jpg?s=612x612&w=0&k=20&c=uDUrctquPNUPzlpNLwTkJIkc1Gig0aUWJknF6FrqxJE=' alt='4,469,300+ Italy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1388018793/photo/grand-canal-in-venice.jpg?s=612x612&w=0&k=20&c=uDUrctquPNUPzlpNLwTkJIkc1Gig0aUWJknF6FrqxJE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Places to Visit in Italy | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/65f04d926294babad5413eb1/2:3/w_2560,h_3840,c_limit/GettyImages-1380534040.jpg' alt='The Best Places to Visit in Italy | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/65f04d926294babad5413eb1/2:3/w_2560,h_3840,c_limit/GettyImages-1380534040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 of the Best Places to Eat and Explore in All of Italy">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gondolier-heads-into-the-sunset-along-venices-grand-royalty-free-image-1648063206.jpg?crop=0.668xw:1.00xh;0.216xw,0&resize=640:*' alt='30 of the Best Places to Eat and Explore in All of Italy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmopolitan" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gondolier-heads-into-the-sunset-along-venices-grand-royalty-free-image-1648063206.jpg?crop=0.668xw:1.00xh;0.216xw,0&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italy Images – Browse 11,526,604 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/14/69/25/360_F_114692553_AlsqALliXH8n9fa7picIvlPCxRBa78K7.jpg' alt='Italy Images – Browse 11,526,604 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/14/69/25/360_F_114692553_AlsqALliXH8n9fa7picIvlPCxRBa78K7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 10 Places to Visit in Italy in September - Routeperfect trip ...">
+                                <img itemprop="contentUrl url" src='https://www.routeperfect.com/blog/wp-content/uploads/2023/06/the_canals_of_venice.jpg' alt='Best 10 Places to Visit in Italy in September - Routeperfect trip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoutePerfect" />
+                                </span>
+                                <a href='https://www.routeperfect.com/blog/wp-content/uploads/2023/06/the_canals_of_venice.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italy Travel Tips: 6 Things to Know Before Visiting">
+                                <img itemprop="contentUrl url" src='https://media.worldnomads.com/social-share-images/italy/italy-5-things-social.jpg' alt='Italy Travel Tips: 6 Things to Know Before Visiting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Nomads" />
+                                </span>
+                                <a href='https://media.worldnomads.com/social-share-images/italy/italy-5-things-social.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 magical and beautiful towns in Italy - Real Word">
+                                <img itemprop="contentUrl url" src='https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2016/03/Manarola_iStock_Freeartist_www.istockphoto-1024x682.jpg' alt='11 magical and beautiful towns in Italy - Real Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trafalgar Tours" />
+                                </span>
+                                <a href='https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2016/03/Manarola_iStock_Freeartist_www.istockphoto-1024x682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Best Italy Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/531602/pexels-photo-531602.jpeg?cs=srgb&dl=pexels-pixabay-531602.jpg&fm=jpg' alt='30,000+ Best Italy Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/531602/pexels-photo-531602.jpeg?cs=srgb&dl=pexels-pixabay-531602.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

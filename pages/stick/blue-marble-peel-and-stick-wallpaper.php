@@ -1,0 +1,129 @@
+<title>Blue Marble Peel and Stick Wallpaper: Effortless Elegance</title>
+                    <meta name="description" content="Discover the beauty of blue marble peel and stick wallpaper. Easily transform your living space with this stylish and removable option, perfect for quick updates and renters. Achieve an elegant look without the hassle of conventional wallpaper installations. Upgrade your decor today!">
+                    <meta name="keywords" content="blue marble peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/blue-marble-peel-and-stick-wallpaper">
+                            <span itemprop="name">blue marble peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Marble Peel and Stick Wallpaper: Effortless Elegance</h1>
+                <p>Transform your space with stunning blue marble peel and stick wallpaper! This easy-to-apply, removable wallpaper features a beautiful blue marble design, perfect for adding elegance to any room. Ideal for renters or DIY enthusiasts, it allows you to create a stylish, personalized look without the commitment of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Marble Wallpaper Removable Marble Texture Modern Look ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25499622/r/il/d2ee20/3051206762/il_fullxfull.3051206762_f00z.jpg' alt='Dark Blue Marble Wallpaper Removable Marble Texture Modern Look ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25499622/r/il/d2ee20/3051206762/il_fullxfull.3051206762_f00z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive PVC Wallpaper Blue marble pattern with grey and gold  inclusions Abstract texture Peel & Stick Wallpaper Wall Mural Wall Decal  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71llC6LwpaL._AC_UF894,1000_QL80_.jpg' alt='Self Adhesive PVC Wallpaper Blue marble pattern with grey and gold  inclusions Abstract texture Peel & Stick Wallpaper Wall Mural Wall Decal  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71llC6LwpaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' alt='Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Blue Marble Seas Peel and Stick Wallpaper (Covers 28.18 ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/14ffd775-897e-4f25-af01-56e0b731cbb9/svn/roommates-wallpaper-rolls-rmk11279wp-64_600.jpg' alt='RoomMates Blue Marble Seas Peel and Stick Wallpaper (Covers 28.18 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/14ffd775-897e-4f25-af01-56e0b731cbb9/svn/roommates-wallpaper-rolls-rmk11279wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144"Wx100"H Self Adhesive Wallpaper Roll Paper abstract background blue  marble fake stone texture liquid paint gold Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81FuE4V4puL.jpg' alt='144"Wx100"H Self Adhesive Wallpaper Roll Paper abstract background blue  marble fake stone texture liquid paint gold Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81FuE4V4puL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Blue Marble Abstract Wallpaper Navy Blue Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21567594/r/il/2913e9/3181574023/il_570xN.3181574023_11p7.jpg' alt='Peel and Stick Blue Marble Abstract Wallpaper Navy Blue Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21567594/r/il/2913e9/3181574023/il_570xN.3181574023_11p7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Blue Marble Peel and Stick Countertop Contact Paper, 354''x32''  Matte Blue Marble Wallpaper, Waterproof, Easy to Clean, 78.5 Sq Ft Each Roll">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1w64TAbhQL._AC_UF894,1000_QL80_.jpg' alt='VEELIKE Blue Marble Peel and Stick Countertop Contact Paper, 354''x32''  Matte Blue Marble Wallpaper, Waterproof, Easy to Clean, 78.5 Sq Ft Each Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1w64TAbhQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144"Wx100"H Self Adhesive Wallpaper Roll Paper Blue marble pattern with  grey and gold inclusions Abstract texture Peel and Stick Wallpaper  Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Ph08ihqBL.jpg' alt='144"Wx100"H Self Adhesive Wallpaper Roll Paper Blue marble pattern with  grey and gold inclusions Abstract texture Peel and Stick Wallpaper  Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Ph08ihqBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Marble Wallpaper, Marble Texture, Removable Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/7ba978/3918687587/il_570xN.3918687587_ru57.jpg' alt='Blue Marble Wallpaper, Marble Texture, Removable Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/7ba978/3918687587/il_570xN.3918687587_ru57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Seas Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK11279WP_RS1.jpg?v=1673467734' alt='Marble Seas Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK11279WP_RS1.jpg?v=1673467734' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

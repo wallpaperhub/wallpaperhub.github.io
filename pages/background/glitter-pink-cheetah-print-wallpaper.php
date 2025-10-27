@@ -1,0 +1,129 @@
+<title>Glitter Pink Cheetah Print Wallpaper: Glam Up Your Space</title>
+                    <meta name="description" content="Discover the vibrant allure of glitter pink cheetah print wallpaper! Perfect for creating a bold statement in your home, this stylish design adds a touch of glamour while complementing any modern decor. Ideal for accent walls or unique spaces, unleash your wild side and transform your interiors today!">
+                    <meta name="keywords" content="glitter pink cheetah print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/glitter-pink-cheetah-print-wallpaper">
+                            <span itemprop="name">glitter pink cheetah print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glitter Pink Cheetah Print Wallpaper: Glam Up Your Space</h1>
+                <p>Transform your space with glitter pink cheetah print wallpaper, perfect for adding a touch of glamour and fun to any room. This eye-catching design combines the fierce allure of cheetah print with a sparkling pink hue, making it ideal for accent walls or playful decor. Embrace your wild side and elevate your interiors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/fb/0b/63fb0b41013ffacd8b2a21f0061f3bba.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/fb/0b/63fb0b41013ffacd8b2a21f0061f3bba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter pink leopard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/8b/ec/a68bec998a8b1ae8a19543ca52f26a63.jpg' alt='Glitter pink leopard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/8b/ec/a68bec998a8b1ae8a19543ca52f26a63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink + Gold Glitter Leopard Print Seamless Digital Paper Background Pattern  - PNG Digital Download File - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/b8029f/3742197430/il_1080xN.3742197430_th9b.jpg' alt='Pink + Gold Glitter Leopard Print Seamless Digital Paper Background Pattern  - PNG Digital Download File - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/b8029f/3742197430/il_1080xN.3742197430_th9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Print Pink Images – Browse 31,115 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/66/73/07/360_F_566730798_nFMjytScJsFCRhdoZsmNtmWft7HNBAIF.jpg' alt='Leopard Print Pink Images – Browse 31,115 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/66/73/07/360_F_566730798_nFMjytScJsFCRhdoZsmNtmWft7HNBAIF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Pink cheetah rose wallpaper... Walk in closet wallpaper (: with ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/45/64/78456495e0067ed4231586dfb067a8b9.jpg' alt='My Pink cheetah rose wallpaper... Walk in closet wallpaper (: with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/45/64/78456495e0067ed4231586dfb067a8b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubble Gum Pink Leopard Print Gold Glitter Seamless Digital Paper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/62de18/4509920424/il_fullxfull.4509920424_qm10.jpg' alt='Bubble Gum Pink Leopard Print Gold Glitter Seamless Digital Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/62de18/4509920424/il_fullxfull.4509920424_qm10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/43/02/6c/43026c9f91109d0997169bfc54f2a89d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/43/02/6c/43026c9f91109d0997169bfc54f2a89d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Glitter Leopard Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glitter-leopard-qv7h3trr0qgqg42o.jpg' alt='100+] Glitter Leopard Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glitter-leopard-qv7h3trr0qgqg42o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Hearts, animal print, girly, gold, golden, leopard, pink ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/885/910/HD-wallpaper-wild-hearts-animal-print-girly-gold-golden-leopard-pink-pretty.jpg' alt='Wild Hearts, animal print, girly, gold, golden, leopard, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/885/910/HD-wallpaper-wild-hearts-animal-print-girly-gold-golden-leopard-pink-pretty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper pink glitter hand drawn leopard pattern on pastel pink ...">
+                                <img itemprop="contentUrl url" src='https://www.audreychenal.com/wp-content/uploads/2019/03/wallpaper-pink-glitter-hand-drawn-leopard-pattern-on-pastel-pink-lace-by-Audrey-Chenal.jpg' alt='wallpaper pink glitter hand drawn leopard pattern on pastel pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audrey Chenal" />
+                                </span>
+                                <a href='https://www.audreychenal.com/wp-content/uploads/2019/03/wallpaper-pink-glitter-hand-drawn-leopard-pattern-on-pastel-pink-lace-by-Audrey-Chenal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

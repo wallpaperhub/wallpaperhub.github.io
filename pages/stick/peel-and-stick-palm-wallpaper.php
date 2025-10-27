@@ -1,0 +1,129 @@
+<title>Transform Your Space: Peel and Stick Palm Wallpaper</title>
+                    <meta name="description" content="Revamp your home with peel and stick palm wallpaper. Easy to apply and remove, it brings a tropical touch to any room. Perfect for DIY enthusiasts, transform your walls without hassle and achieve a fresh, stylish look instantly!">
+                    <meta name="keywords" content="peel and stick palm wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-palm-wallpaper">
+                            <span itemprop="name">peel and stick palm wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Peel and Stick Palm Wallpaper</h1>
+                <p>Peel and stick palm wallpaper is the perfect solution for adding a tropical vibe to your space without the hassle of traditional wallpaper. Easy to apply and remove, it allows you to customize your decor effortlessly. Great for a statement wall, nursery, or office, this versatile option is both stylish and practical!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' alt='Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Palm Leaves Wallpaper - Removable Wallpaper Peel and Stick Wallpaper  Wall Paper - B070">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6005587005_69vr.jpg?v=1722445270&width=1946' alt='Autumn Palm Leaves Wallpaper - Removable Wallpaper Peel and Stick Wallpaper  Wall Paper - B070'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6005587005_69vr.jpg?v=1722445270&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lenify Tropical Peel and Stick Wallpaper Jungle Contact Paper 17.7inch x  118.1inch Palm Leaf Contact Paper Peel and Stick Green Leaf Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/913a+8rc-ZL.jpg' alt='lenify Tropical Peel and Stick Wallpaper Jungle Contact Paper 17.7inch x  118.1inch Palm Leaf Contact Paper Peel and Stick Green Leaf Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/913a+8rc-ZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyStyle Bangalow Tropical Palm Green Vinyl Peel and Stick Wallpaper Sample  MS6135SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9f879709-caea-42a0-911d-79e9755235cb/svn/wallpaper-samples-ms6135sam-64_600.jpg' alt='MyStyle Bangalow Tropical Palm Green Vinyl Peel and Stick Wallpaper Sample  MS6135SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9f879709-caea-42a0-911d-79e9755235cb/svn/wallpaper-samples-ms6135sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Self Adhesive DIY ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22722746/r/il/c373c7/3547961965/il_570xN.3547961965_5qo4.jpg' alt='Removable Wallpaper Peel and Stick Wallpaper Self Adhesive DIY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22722746/r/il/c373c7/3547961965/il_570xN.3547961965_5qo4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Palm Silhouette Coastal Blue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW39802_2.jpg?quality=100?width=900' alt='NextWall Peel & Stick Palm Silhouette Coastal Blue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW39802_2.jpg?quality=100?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Leaves Peel And Stick Wallpaper | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/PL14136-moody-green-palm-leaves-peel-and-stick-wallpaper-livingroom.jpg?v=1689951230&width=480' alt='Palm Leaves Peel And Stick Wallpaper | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/PL14136-moody-green-palm-leaves-peel-and-stick-wallpaper-livingroom.jpg?v=1689951230&width=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Removable Wallpaper Palm Wallpaper Custom Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30705237/r/il/3637cb/3859326813/il_570xN.3859326813_r8d9.jpg' alt='Peel and Stick Removable Wallpaper Palm Wallpaper Custom Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30705237/r/il/3637cb/3859326813/il_570xN.3859326813_r8d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/B121_08.png?v=1720458375&width=1445' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/B121_08.png?v=1720458375&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Palm Leaf Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW32502.jpg?v=1591226386' alt='Tropical Palm Leaf Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW32502.jpg?v=1591226386' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

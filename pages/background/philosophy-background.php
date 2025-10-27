@@ -1,0 +1,129 @@
+<title>Exploring the Rich History of Philosophy</title>
+                    <meta name="description" content="Delve into the intriguing background of philosophy, tracing its evolution from ancient thinkers to modern debates. Discover how key philosophers shaped our understanding of existence, ethics, and knowledge. Unlock the insights that philosophy brings to contemporary life in this concise exploration.">
+                    <meta name="keywords" content="philosophy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/philosophy-background">
+                            <span itemprop="name">philosophy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich History of Philosophy</h1>
+                <p>Philosophy has deep historical roots, emerging from ancient civilizations like Greece and India. It explores fundamental questions about existence, knowledge, values, and reason. Philosophers like Socrates, Plato, and Aristotle laid the groundwork for various branches of thought, influencing religion, ethics, and politics throughout the ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,400+ Philosophy Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1208397643/vector/greatthinker.jpg?s=612x612&w=0&k=20&c=l4Io9PyL0mbDC6cwgo1DGoXki0c6LLQxMlI26cHElUM=' alt='4,400+ Philosophy Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1208397643/vector/greatthinker.jpg?s=612x612&w=0&k=20&c=l4Io9PyL0mbDC6cwgo1DGoXki0c6LLQxMlI26cHElUM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Study Philosophy?">
+                                <img itemprop="contentUrl url" src='https://www.etsu.edu/cas/philosophy/pictures/bulb2000-hero-lead.jpg' alt='Why Study Philosophy?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Tennessee State University" />
+                                </span>
+                                <a href='https://www.etsu.edu/cas/philosophy/pictures/bulb2000-hero-lead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy PowerPoint background Template | PowerPoint background">
+                                <img itemprop="contentUrl url" src='http://www.powerpoint-background.com/wp-content/uploads/2018/12/Diapositive2-7.jpg' alt='Philosophy PowerPoint background Template | PowerPoint background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PowerPoint background" />
+                                </span>
+                                <a href='http://www.powerpoint-background.com/wp-content/uploads/2018/12/Diapositive2-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-mixed-media-art-background_53876-114980.jpg' alt='Philosophy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-mixed-media-art-background_53876-114980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Philosophy Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1682308429561-930e3df7ca6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGhpbG9zb3BoeXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Philosophy Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1682308429561-930e3df7ca6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGhpbG9zb3BoeXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy in Design : Two sides of the same coin">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D12AQG8_n6_jyhlxw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1646974265677?e=2147483647&v=beta&t=HdzAMJV5L0alek1U6EDwWdEg-DGbzjn6ys6zblHTbdo' alt='Philosophy in Design : Two sides of the same coin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D12AQG8_n6_jyhlxw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1646974265677?e=2147483647&v=beta&t=HdzAMJV5L0alek1U6EDwWdEg-DGbzjn6ys6zblHTbdo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Has Philosophy Lost Its Way?">
+                                <img itemprop="contentUrl url" src='https://lawliberty.org/app/uploads/2020/03/Socrates-dark-sky.jpg' alt='Has Philosophy Lost Its Way?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law & Liberty" />
+                                </span>
+                                <a href='https://lawliberty.org/app/uploads/2020/03/Socrates-dark-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy Images – Browse 350,645 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/85/16/03/360_F_185160397_M0wYUk82vHvnPhz022WWUm2QHo2YhHpu.jpg' alt='Philosophy Images – Browse 350,645 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/85/16/03/360_F_185160397_M0wYUk82vHvnPhz022WWUm2QHo2YhHpu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy matters in medicine - On Medicine">
+                                <img itemprop="contentUrl url" src='https://blogs.biomedcentral.com/on-medicine/wp-content/uploads/sites/6/2017/11/light-bulb-1246043_1920-1-620x342.jpg' alt='Philosophy matters in medicine - On Medicine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BMC blog network - BioMed Central" />
+                                </span>
+                                <a href='https://blogs.biomedcentral.com/on-medicine/wp-content/uploads/sites/6/2017/11/light-bulb-1246043_1920-1-620x342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philosophy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/greek-goddess-statue-border-aesthetic-mixed-media_53876-117214.jpg' alt='Philosophy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/greek-goddess-statue-border-aesthetic-mixed-media_53876-117214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

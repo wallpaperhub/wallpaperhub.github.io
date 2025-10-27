@@ -1,0 +1,129 @@
+<title>Elegant White and Blue Flower Wallpaper for Your Home Decor</title>
+                    <meta name="description" content="Discover the beauty of white and blue flower wallpaper to enhance your home decor. This serene design seamlessly blends elegance with nature, creating a calming atmosphere. Perfect for any room, it's time to transform your space with this floral masterpiece!">
+                    <meta name="keywords" content="white and blue flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/white-and-blue-flower-wallpaper">
+                            <span itemprop="name">white and blue flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White and Blue Flower Wallpaper for Your Home Decor</h1>
+                <p>Transform your space with stunning white and blue flower wallpaper that evokes serenity and elegance. Perfect for any room, this design features delicate blooms that bring a refreshing touch of nature indoors. Whether you're redecorating a bedroom, living room, or office, this wallpaper will create a soothing atmosphere that enchants and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' alt='FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints AST4656 Sunset Harbor Rose Blue White Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257430.jpg' alt='A Street Prints AST4656 Sunset Harbor Rose Blue White Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Floral Blue & White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grand-floral-blue-white-wallpaper-dfug.jpg' alt='Grand Floral Blue & White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grand-floral-blue-white-wallpaper-dfug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Porcelain Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' alt='Miniature Roses - Porcelain Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gabriela Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/gabriela-blue-floral-wallpaper-txjw-l.jpg' alt='Gabriela Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/gabriela-blue-floral-wallpaper-txjw-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' alt='Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laundry Room Wallpaper, Blue and White Floral Wallpaper, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/2eeaeb/4644399188/il_570xN.4644399188_kqgi.jpg' alt='Laundry Room Wallpaper, Blue and White Floral Wallpaper, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/2eeaeb/4644399188/il_570xN.4644399188_kqgi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper  Non-Pasted Wallpaper Roll G56647">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_600.jpg' alt='Unbranded Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper  Non-Pasted Wallpaper Roll G56647'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Baby Blue Southport Bird On Branches Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-baby-blue-southport-bird-on-branc-elux-l.jpg' alt='White & Baby Blue Southport Bird On Branches Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-baby-blue-southport-bird-on-branc-elux-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Beautiful Abstract Flower Wallpaper - Feathr Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/W19702-Blue-White-Beautiful-Abstract-Flower-Wallpaper-PatternImageLo.jpg' alt='Blue & White Beautiful Abstract Flower Wallpaper - Feathr Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/W19702-Blue-White-Beautiful-Abstract-Flower-Wallpaper-PatternImageLo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

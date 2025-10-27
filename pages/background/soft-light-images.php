@@ -1,0 +1,129 @@
+<title>Captivating Soft Light Images: A Photography Guide</title>
+                    <meta name="description" content="Discover the art of soft light images! Learn techniques to create stunning photographs that exude warmth and beauty. Perfect for portraits and still life, our guide helps you master soft lighting for captivating visuals. Explore tips for using diffusers and natural light to elevate your photography skills.">
+                    <meta name="keywords" content="soft light images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soft-light-images">
+                            <span itemprop="name">soft light images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Soft Light Images: A Photography Guide</h1>
+                <p>Soft light images create a soothing atmosphere, enhancing the beauty of subjects without harsh shadows. This technique is often used in photography and art to evoke emotions and showcase intricate details. Soft lighting can be achieved through various methods, such as diffusers or natural light, making it perfect for portraits and still life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinematography Tip: How to Create Soft Diffused Light">
+                                <img itemprop="contentUrl url" src='https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Soft-Lighting-Post.jpg' alt='Cinematography Tip: How to Create Soft Diffused Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumBeat" />
+                                </span>
+                                <a href='https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Soft-Lighting-Post.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighting Modifiers Cheat Sheet | A Visual Guide">
+                                <img itemprop="contentUrl url" src='https://www.slrlounge.com/wp-content/uploads/2021/01/Lighting-Modifier-Cheat-Sheet-add-umbrella-to-soften-light-03-1200x603.png' alt='Lighting Modifiers Cheat Sheet | A Visual Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLR Lounge" />
+                                </span>
+                                <a href='https://www.slrlounge.com/wp-content/uploads/2021/01/Lighting-Modifier-Cheat-Sheet-add-umbrella-to-soften-light-03-1200x603.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Light vs Soft Light in Photography | ProGrade Digital">
+                                <img itemprop="contentUrl url" src='https://progradedigital.com/wp-content/uploads/2023/01/image9-39.jpeg' alt='Hard Light vs Soft Light in Photography | ProGrade Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProGrade Digital" />
+                                </span>
+                                <a href='https://progradedigital.com/wp-content/uploads/2023/01/image9-39.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Light vs Soft Light (Difference & Pros/Cons)">
+                                <img itemprop="contentUrl url" src='https://shotkit.com/wp-content/uploads/2021/03/soft-light-2.jpg' alt='Hard Light vs Soft Light (Difference & Pros/Cons)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shotkit" />
+                                </span>
+                                <a href='https://shotkit.com/wp-content/uploads/2021/03/soft-light-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Light Vs Soft Light: What's the Difference?">
+                                <img itemprop="contentUrl url" src='https://aftershoot.com/wp-content/uploads/2024/02/soft-light-in-a-portrait-photography.png' alt='Hard Light Vs Soft Light: What's the Difference?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aftershoot" />
+                                </span>
+                                <a href='https://aftershoot.com/wp-content/uploads/2024/02/soft-light-in-a-portrait-photography.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Light vs Soft Light Studio Portraits | Which is Better?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/REpuEwY_Hms/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdHiKnTxQy-angqGWAJRnAFzDrYg' alt='Hard Light vs Soft Light Studio Portraits | Which is Better?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/REpuEwY_Hms/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdHiKnTxQy-angqGWAJRnAFzDrYg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinematography Tip: How to Create Soft Diffused Light">
+                                <img itemprop="contentUrl url" src='https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Soft-Lighting-Outside-Example.jpg' alt='Cinematography Tip: How to Create Soft Diffused Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumBeat" />
+                                </span>
+                                <a href='https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Soft-Lighting-Outside-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Light Vs Soft Light: What's the Difference?">
+                                <img itemprop="contentUrl url" src='https://aftershoot.com/wp-content/uploads/2024/02/comparing-hard-light-vs-soft-light.png' alt='Hard Light Vs Soft Light: What's the Difference?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aftershoot" />
+                                </span>
+                                <a href='https://aftershoot.com/wp-content/uploads/2024/02/comparing-hard-light-vs-soft-light.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Use Soft Light In Photography | The Creative Photographer">
+                                <img itemprop="contentUrl url" src='https://www.creative-photographer.com/wp-content/uploads/2018/03/soft-light-photography-6.jpg' alt='How To Use Soft Light In Photography | The Creative Photographer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Creative Photographer" />
+                                </span>
+                                <a href='https://www.creative-photographer.com/wp-content/uploads/2018/03/soft-light-photography-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Soft Light From Harsh Sunlight">
+                                <img itemprop="contentUrl url" src='https://williambeem.com/wp-content/uploads/2015/03/Amy-Wilder.jpg' alt='Creating Soft Light From Harsh Sunlight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="William Beem" />
+                                </span>
+                                <a href='https://williambeem.com/wp-content/uploads/2015/03/Amy-Wilder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

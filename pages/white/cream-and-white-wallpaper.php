@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cream and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/cream-and-white-wallpaper">
+                            <span itemprop="name">cream and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2330">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Blossom Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/cream-blossom-peel-and-stick-wallpaper-252959.png?v=1677183448' alt='Cream Blossom Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/cream-blossom-peel-and-stick-wallpaper-252959.png?v=1677183448' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Vintage White Floral Wallpaper, Rustic Boho Vanilla ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45303920/r/il/035215/5837380370/il_570xN.5837380370_rfrc.jpg' alt='Farmhouse Vintage White Floral Wallpaper, Rustic Boho Vanilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45303920/r/il/035215/5837380370/il_570xN.5837380370_rfrc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casa Mia RM31210 Antique Damask White Cream Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/219092.jpg' alt='Casa Mia RM31210 Antique Damask White Cream Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/219092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pompeian by Cole & Son - White / Beige / Cream - Wallpaper - 66/3020">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/84932/tiled/cole-and-son-pompeian-white-beige-cream-wallpaper-tiled-084932.jpg' alt='Pompeian by Cole & Son - White / Beige / Cream - Wallpaper - 66/3020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/84932/tiled/cole-and-son-pompeian-white-beige-cream-wallpaper-tiled-084932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Ana Cream Floral Paper Strippable Wallpaper (Covers 56.4  sq. ft.) 2821-25108">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1b57c060-a5c1-42bb-8f9b-173b78de5f75/svn/a-street-prints-wallpaper-rolls-2821-25108-64_600.jpg' alt='A-Street Prints Ana Cream Floral Paper Strippable Wallpaper (Covers 56.4  sq. ft.) 2821-25108'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1b57c060-a5c1-42bb-8f9b-173b78de5f75/svn/a-street-prints-wallpaper-rolls-2821-25108-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striped Cream/White Wallpaper from the Miniatures 2 Collection">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/G67909.jpg?v=1665155701' alt='Striped Cream/White Wallpaper from the Miniatures 2 Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/G67909.jpg?v=1665155701' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artist's Garden Wallpaper in Shades of Cream – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-Artist_sGarden_ShadesofCream_ILW8000_0356_WEB.webp?crop=center&height=850&v=1715588869&width=850' alt='Artist's Garden Wallpaper in Shades of Cream – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-Artist_sGarden_ShadesofCream_ILW8000_0356_WEB.webp?crop=center&height=850&v=1715588869&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="93588-1 Cream Off White Floral Barocco Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/935881.jpg?v=1607876099' alt='93588-1 Cream Off White Floral Barocco Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/935881.jpg?v=1607876099' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

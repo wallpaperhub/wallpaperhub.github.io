@@ -1,0 +1,129 @@
+<title>Funny Office Wallpaper Ideas to Brighten Your Workspace</title>
+                    <meta name="description" content="Add a dose of humor to your office with funny wallpaper! Discover quirky designs and playful quotes that make your workspace more enjoyable. Browse our collection for a fun upgrade that enhances creativity and adds character to your environment. Perfect for any office setting!">
+                    <meta name="keywords" content="the office wallpaper funny">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/the-office-wallpaper-funny">
+                            <span itemprop="name">the office wallpaper funny</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Office Wallpaper Ideas to Brighten Your Workspace</h1>
+                <p>Transform your workspace with funny office wallpaper that sparks joy and creativity. From quirky quotes to hilarious illustrations, these designs inject humor into your daily routine. Say goodbye to bland walls and hello to a fun atmosphere that boosts morale and keeps the laughs coming throughout the workday!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office Wallpaper Wallpapers Aesthetic Cute Dwight Shrute TV ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/50/75/6550759ef547a3c313940ceb8d267da6.jpg' alt='The Office Wallpaper Wallpapers Aesthetic Cute Dwight Shrute TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/50/75/6550759ef547a3c313940ceb8d267da6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Michael Scott Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/michael-scott-1mtugdu1s2og3vqj.jpg' alt='100+] Michael Scott Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/michael-scott-1mtugdu1s2og3vqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The office dwight, funny, michael scott, quote, the office, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/763/4/HD-wallpaper-the-office-dwight-funny-michael-scott-quote-the-office.jpg' alt='The office dwight, funny, michael scott, quote, the office, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/763/4/HD-wallpaper-the-office-dwight-funny-michael-scott-quote-the-office.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office: Michael Scott: That's What She Said! by Savana Oetjen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/c9/38/4dc938dfabe4c5ec5f2693329dc80c9d.jpg' alt='The Office: Michael Scott: That's What She Said! by Savana Oetjen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/c9/38/4dc938dfabe4c5ec5f2693329dc80c9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dwight False Screenshots The Office Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/false-the-office-iphone-501loeb0bnci9cht.webp' alt='Dwight False Screenshots The Office Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/false-the-office-iphone-501loeb0bnci9cht.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Michael Scott The Office Funny Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/michael-scott-the-office-lyub4lbx76dr1phe.jpg' alt='Download Michael Scott The Office Funny Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/michael-scott-the-office-lyub4lbx76dr1phe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper for myself and figured I'd share it if anyone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qr80k4fvv8741.jpg?width=640&crop=smart&auto=webp&s=1cd2f1e269599942c643328e61138ac9d93bff48' alt='I made a wallpaper for myself and figured I'd share it if anyone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qr80k4fvv8741.jpg?width=640&crop=smart&auto=webp&s=1cd2f1e269599942c643328e61138ac9d93bff48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The office, cute, funny, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/976/842/HD-wallpaper-the-office-cute-funny.jpg' alt='The office, cute, funny, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/976/842/HD-wallpaper-the-office-cute-funny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="office wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/8f/e9/6c8fe9a44a189f5be7e4651b86bb99b1.jpg' alt='office wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/8f/e9/6c8fe9a44a189f5be7e4651b86bb99b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turtles Quote The Office Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/turtles-quote-the-office-iphone-ldl1k627lm5jaa9t.webp' alt='Turtles Quote The Office Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/turtles-quote-the-office-iphone-ldl1k627lm5jaa9t.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

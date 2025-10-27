@@ -1,0 +1,129 @@
+<title>eHarmony Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Learn about eHarmony's approach to user safety and background checks. Discover how the platform encourages safe interactions and what steps you can take to protect yourself while dating online. Stay informed with our concise guide to eHarmony's safety measures.">
+                    <meta name="keywords" content="does eharmony do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-eharmony-do-background-checks">
+                            <span itemprop="name">does eharmony do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>eHarmony Background Checks: What You Need to Know</h1>
+                <p>eHarmony does not conduct formal background checks on its users. However, they prioritize safety by encouraging members to report suspicious behavior and offering tips on online dating safety. Users are advised to interact cautiously and trust their instincts while engaging with potential matches on the platform.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dating Sites That Do Background Checks (2024)">
+                                <img itemprop="contentUrl url" src='https://www.datingadvice.com/wp-content/uploads/2021/05/backgroundchecks.jpg' alt='9 Dating Sites That Do Background Checks (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dating Advice" />
+                                </span>
+                                <a href='https://www.datingadvice.com/wp-content/uploads/2021/05/backgroundchecks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dating Sites That Do Background Checks (2024)">
+                                <img itemprop="contentUrl url" src='https://www.datingadvice.com/images/uploads/2021/05/pofbackgroundcheck.jpg?width=480&height=300' alt='9 Dating Sites That Do Background Checks (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dating Advice" />
+                                </span>
+                                <a href='https://www.datingadvice.com/images/uploads/2021/05/pofbackgroundcheck.jpg?width=480&height=300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dating Sites That Do Background Checks (2024)">
+                                <img itemprop="contentUrl url" src='https://www.datingadvice.com/images/uploads/2021/05/okcupidbackgroundcheck.jpg?width=480&height=200' alt='9 Dating Sites That Do Background Checks (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dating Advice" />
+                                </span>
+                                <a href='https://www.datingadvice.com/images/uploads/2021/05/okcupidbackgroundcheck.jpg?width=480&height=200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dating Sites That Do Background Checks (2024)">
+                                <img itemprop="contentUrl url" src='https://www.datingadvice.com/images/uploads/2021/05/tinderbackgroundcheck.jpg?width=480&height=200' alt='9 Dating Sites That Do Background Checks (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dating Advice" />
+                                </span>
+                                <a href='https://www.datingadvice.com/images/uploads/2021/05/tinderbackgroundcheck.jpg?width=480&height=200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Background Checks on Popular Dating Apps and Websites Work">
+                                <img itemprop="contentUrl url" src='https://images.top10.com/f_auto,q_auto/v1/production/rich-text/uploads/photo/eharmony.20220511150603.jpg' alt='How Background Checks on Popular Dating Apps and Websites Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top10.com" />
+                                </span>
+                                <a href='https://images.top10.com/f_auto,q_auto/v1/production/rich-text/uploads/photo/eharmony.20220511150603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eHarmony vs. Match | Comparing legacy dating sites in 2025">
+                                <img itemprop="contentUrl url" src='https://innerbody.imgix.net/eharmony-vs-match-header-1.png?auto=format&ixlib=react-9.4.0&w=826&h=551&dpr=5&q=20' alt='eHarmony vs. Match | Comparing legacy dating sites in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4130">
+                                <meta itemprop="height" content="2065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Innerbody" />
+                                </span>
+                                <a href='https://innerbody.imgix.net/eharmony-vs-match-header-1.png?auto=format&ixlib=react-9.4.0&w=826&h=551&dpr=5&q=20' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Love, eHarmony, Matchmaking pseudoscience - Jeb Kinnison">
+                                <img itemprop="contentUrl url" src='http://jebkinnison.com/wp-content/uploads/2014/05/eharmony.jpg?w=620' alt='Free Love, eHarmony, Matchmaking pseudoscience - Jeb Kinnison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jeb Kinnison" />
+                                </span>
+                                <a href='http://jebkinnison.com/wp-content/uploads/2014/05/eharmony.jpg?w=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Background Checks on Popular Dating Apps and Websites Work">
+                                <img itemprop="contentUrl url" src='https://images.top10.com/f_auto,q_auto/v1/production/articles/uploads/photo/HowBackgroundChecksonPopularDatingAppsandWebsitesWork.20220511144753.jpg' alt='How Background Checks on Popular Dating Apps and Websites Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top10.com" />
+                                </span>
+                                <a href='https://images.top10.com/f_auto,q_auto/v1/production/articles/uploads/photo/HowBackgroundChecksonPopularDatingAppsandWebsitesWork.20220511144753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eharmony Review - The Best Dating Site of 2024 - Way Too Social">
+                                <img itemprop="contentUrl url" src='https://www.waytoosocial.com/wp-content/uploads/eharmony-dating-site-review.jpg' alt='Eharmony Review - The Best Dating Site of 2024 - Way Too Social'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WayTooSocial" />
+                                </span>
+                                <a href='https://www.waytoosocial.com/wp-content/uploads/eharmony-dating-site-review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks Increasingly Common In Online Dating">
+                                <img itemprop="contentUrl url" src='https://images.tech.co/wp-content/uploads/2014/01/backgroundchecks_dating-300x200.jpg' alt='Background Checks Increasingly Common In Online Dating'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech.co" />
+                                </span>
+                                <a href='https://images.tech.co/wp-content/uploads/2014/01/backgroundchecks_dating-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Best Mandalorian iPhone Wallpaper Collection</title>
+                    <meta name="description" content="Discover the ultimate collection of Mandalorian iPhone wallpapers! Elevate your device with eye-catching designs featuring iconic characters and scenes. Perfect for fans who want to showcase their love for this epic series. Explore our gallery and download your favorites today!">
+                    <meta name="keywords" content="mandalorian iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mandalorian-iphone-wallpaper">
+                            <span itemprop="name">mandalorian iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Best Mandalorian iPhone Wallpaper Collection</h1>
+                <p>Transform your iPhone with stunning Mandalorian wallpapers! Embrace the galaxy far, far away with high-quality images of your favorite bounty hunter, Grogu, and iconic scenes from the series. Perfect for fans, these wallpapers will add a touch of adventure and charm to your device. Download now and show off your love for The Mandalorian!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mandalorian Wallpapers For iPhone | iPhone Wallpapers | iGeeksBlog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/1d/be/ac1dbea3218ddebfbf28ea4d10f43fe1.jpg' alt='Mandalorian Wallpapers For iPhone | iPhone Wallpapers | iGeeksBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/1d/be/ac1dbea3218ddebfbf28ea4d10f43fe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian wallpapers: OLED iPhone screens edition">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/11/The-Mandalorian-wallpaper-OLED-iPhone-idownloadblog-mando-bust.jpg' alt='The Mandalorian wallpapers: OLED iPhone screens edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/11/The-Mandalorian-wallpaper-OLED-iPhone-idownloadblog-mando-bust.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Season 2 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/3a/57/e63a576cd875b7b1de63608575302452.jpg' alt='The Mandalorian Season 2 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/3a/57/e63a576cd875b7b1de63608575302452.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I turned the Mando S3 poster into an iPhone wallpaper. Might work ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/IcFMinycRmb9zGLJ6pxJFgrSzXO1RcxuuNqTFSARpVw.jpg?auto=webp&s=f022b8026a0118b32edb187579e3c2e22dd7b150' alt='I turned the Mando S3 poster into an iPhone wallpaper. Might work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/IcFMinycRmb9zGLJ6pxJFgrSzXO1RcxuuNqTFSARpVw.jpg?auto=webp&s=f022b8026a0118b32edb187579e3c2e22dd7b150' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Star Wars 4k Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-mandalorian-star-wars-4k-iphone-ajgrnidjjz9b4d31.jpg' alt='The Mandalorian Star Wars 4k Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-mandalorian-star-wars-4k-iphone-ajgrnidjjz9b4d31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stunning The Mandalorian Wallpaper for iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-mandalorian-iphone-47uqj4fy9otx5hgp.jpg' alt='Download Stunning The Mandalorian Wallpaper for iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-mandalorian-iphone-47uqj4fy9otx5hgp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mandalorian 001, star wars, the mandalorian, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/331/436/HD-wallpaper-mandalorian-001-star-wars-the-mandalorian.jpg' alt='Mandalorian 001, star wars, the mandalorian, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/331/436/HD-wallpaper-mandalorian-001-star-wars-the-mandalorian.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted The Mandalorian S3 poster by Doaly Design Services into ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/converted-the-mandalorian-s3-poster-by-doaly-design-v0-ngy33k2yznoa1.png?auto=webp&s=ffbcff0dd438ca187085186aee73b157825dfb18' alt='Converted The Mandalorian S3 poster by Doaly Design Services into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="3837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/converted-the-mandalorian-s3-poster-by-doaly-design-v0-ngy33k2yznoa1.png?auto=webp&s=ffbcff0dd438ca187085186aee73b157825dfb18' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian, poster, the mandalorian, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/788/728/HD-wallpaper-the-mandalorian-poster-the-mandalorian.jpg' alt='The Mandalorian, poster, the mandalorian, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/788/728/HD-wallpaper-the-mandalorian-poster-the-mandalorian.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Wallpaper - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK89mJhj4CGNo-J5bZKuB-4JZXqH9vssWDIy5mol7LZKxjR6UwHkWWNcHYzHCl2atBBl2gYVwIcGrM0C_8sqWZz7ahLRS3iIOyoDBOosYCQ2XIACvrYAFHLBa1hBj-2Wytc_WfuUCXmWGp/d/mandalorian-synthwave-hd.png' alt='The Mandalorian Wallpaper - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="2609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK89mJhj4CGNo-J5bZKuB-4JZXqH9vssWDIy5mol7LZKxjR6UwHkWWNcHYzHCl2atBBl2gYVwIcGrM0C_8sqWZz7ahLRS3iIOyoDBOosYCQ2XIACvrYAFHLBa1hBj-2Wytc_WfuUCXmWGp/d/mandalorian-synthwave-hd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

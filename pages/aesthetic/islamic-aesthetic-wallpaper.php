@@ -1,0 +1,129 @@
+<title>Elegant Islamic Aesthetic Wallpapers for Your Space</title>
+                    <meta name="description" content="Discover stunning Islamic aesthetic wallpapers that enhance your environment with vibrant colors and intricate designs. Perfect for home or office, these wallpapers offer a touch of tradition and tranquility, bringing the beauty of Islamic art into your daily life. Explore our collection today!">
+                    <meta name="keywords" content="islamic aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/islamic-aesthetic-wallpaper">
+                            <span itemprop="name">islamic aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Islamic Aesthetic Wallpapers for Your Space</h1>
+                <p>Islamic aesthetic wallpapers beautifully blend tradition with modern design, showcasing intricate patterns, vivid colors, and meaningful symbols. Ideal for creating a serene and inspiring atmosphere, these wallpapers can transform any space into a haven of tranquility. Infuse your surroundings with the rich heritage of Islamic artistry today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="مککە">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/07/89/f1078955f17d7c32c3c4aed30432ef11.jpg' alt='مککە'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/07/89/f1078955f17d7c32c3c4aed30432ef11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/e3/7e/e2e37e27ea8feec4ee61869f6d83f0a1.jpg' alt='Beige wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/e3/7e/e2e37e27ea8feec4ee61869f6d83f0a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic wallpaper    Aesthetic Islamic wallpaper ✨️ Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDtH-FjIW8J/2/image.jpg' alt='Islamic wallpaper    Aesthetic Islamic wallpaper ✨️ Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDtH-FjIW8J/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Islamic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/c9/39/50c939e07177ab82578acb0e8eb86348.jpg' alt='Black Aesthetic Islamic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/c9/39/50c939e07177ab82578acb0e8eb86348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic wallpaper    Aesthetic Islamic wallpaper ✨️ Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDtH-FjIW8J/0/image.jpg' alt='Islamic wallpaper    Aesthetic Islamic wallpaper ✨️ Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDtH-FjIW8J/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mashaallah wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/727/392/HD-wallpaper-mashaallah-%E2%9D%A4%EF%B8%8F-in-2022-mosque-architecture-mecca-beautiful-mosques-islamic-mosque.jpg' alt='HD mashaallah wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/727/392/HD-wallpaper-mashaallah-%E2%9D%A4%EF%B8%8F-in-2022-mosque-architecture-mecca-beautiful-mosques-islamic-mosque.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic islamic wallpaper quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b9/82/49/b982491631ad0f4fc89d5330100a4261.jpg' alt='aesthetic islamic wallpaper quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b9/82/49/b982491631ad0f4fc89d5330100a4261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fathima Safa - Islamic wallpaper    Aesthetic Islamic... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=449161858265870' alt='Fathima Safa - Islamic wallpaper    Aesthetic Islamic... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=449161858265870' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable mosque wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGAoBCHzAg/1/0/900w/canva-blue-white-islamic-elegant-background-instagram-story-RL-SReco5HE.jpg' alt='Free and customizable mosque wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGAoBCHzAg/1/0/900w/canva-blue-white-islamic-elegant-background-instagram-story-RL-SReco5HE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable mosque wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFSBmLgup0/1/0/900w/canva-al-aqsa-mosque-dome-muslim-holy-place-phone-wallpaper-aeuFNXf2yZQ.jpg' alt='Free and customizable mosque wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFSBmLgup0/1/0/900w/canva-al-aqsa-mosque-dome-muslim-holy-place-phone-wallpaper-aeuFNXf2yZQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

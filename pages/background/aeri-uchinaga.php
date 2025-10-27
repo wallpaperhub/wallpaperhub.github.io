@@ -1,0 +1,129 @@
+<title>Aeri Uchinaga: Vibrant Art of Nature & Fantasy</title>
+                    <meta name="description" content="Discover Aeri Uchinaga, a talented artist creating captivating digital illustrations that merge nature with fantasy. Explore her vibrant artworks that inspire environmental awareness and tell extraordinary stories through visual art. Perfect for art lovers and those seeking inspiration!">
+                    <meta name="keywords" content="aeri uchinaga">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aeri-uchinaga">
+                            <span itemprop="name">aeri uchinaga</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aeri Uchinaga: Vibrant Art of Nature & Fantasy</h1>
+                <p>Aeri Uchinaga is an emerging artist known for her vibrant digital illustrations that blend nature and fantasy. Her unique style captures the imagination, drawing inspiration from traditional folklore and modern themes. Aeri's work often promotes environmental awareness while showcasing her passion for storytelling through art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giselle (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/06/Giselle_of_Aespa%2C_July_25%2C_2024_%282%29.png' alt='Giselle (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="1934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/06/Giselle_of_Aespa%2C_July_25%2C_2024_%282%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="miss aeri uchinaga in your area      #AESPA #에스파 #GISELLE #지젤">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3529846245810989585' alt='miss aeri uchinaga in your area      #AESPA #에스파 #GISELLE #지젤'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3529846245810989585' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="지젤력" GISELLE A.K.A AERI UCHINAGA WITH BEAUTIFUL HAIR     #aespa ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3501792174111264578' alt='지젤력" GISELLE A.K.A AERI UCHINAGA WITH BEAUTIFUL HAIR     #aespa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3501792174111264578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aeri Uchinaga - Aeri Uchinaga added a new photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122251345016002594' alt='Aeri Uchinaga - Aeri Uchinaga added a new photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122251345016002594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giselle | aespa Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aespa/images/e/e4/Giselle_Whiplash_Concept_Photo_4.jpg/revision/latest/scale-to-width-down/1200?cb=20241006154719' alt='Giselle | aespa Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="aespa Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aespa/images/e/e4/Giselle_Whiplash_Concept_Photo_4.jpg/revision/latest/scale-to-width-down/1200?cb=20241006154719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aeri “goddess” uchinaga   ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3165981457466233866' alt='aeri “goddess” uchinaga   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3165981457466233866' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aeri Uchinaga - Aeri Uchinaga added a new photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122253701318002594' alt='Aeri Uchinaga - Aeri Uchinaga added a new photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122253701318002594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aeri Uchinaga (GISELLE) Fan Casting">
+                                <img itemprop="contentUrl url" src='https://assets.mycast.io/actor_images/actor-aeri-uchinaga-giselle-221272_large.jpg?1622326363' alt='Aeri Uchinaga (GISELLE) Fan Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fan Casting" />
+                                </span>
+                                <a href='https://assets.mycast.io/actor_images/actor-aeri-uchinaga-giselle-221272_large.jpg?1622326363' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ೃ⁀➷                          ·˚ ༘ ➤ @LINO_IS_CUTE ON PINTEREST ::">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/bf/0e/d7bf0e661419cff6f15dfed632eef5f6.jpg' alt='ೃ⁀➷                          ·˚ ༘ ➤ @LINO_IS_CUTE ON PINTEREST ::'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/bf/0e/d7bf0e661419cff6f15dfed632eef5f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="030924 • #GISELLE Instagram Update    zzzzz #fyp #GISELLE #AESPA ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3472966190786808213' alt='030924 • #GISELLE Instagram Update    zzzzz #fyp #GISELLE #AESPA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3472966190786808213' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

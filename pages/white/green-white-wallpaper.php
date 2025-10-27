@@ -1,0 +1,129 @@
+<title>Refresh Your Space with Green White Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of green white wallpaper, designed to uplift your interiors. Perfect for any room, its refreshing hues create a calming atmosphere. Shop now for patterns that enhance your decor and bring a touch of nature indoors!">
+                    <meta name="keywords" content="green white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/green-white-wallpaper">
+                            <span itemprop="name">green white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your Space with Green White Wallpaper</h1>
+                <p>Transform your space with green and white wallpaper, a perfect blend of nature's freshness and modern elegance. Ideal for both contemporary and traditional interiors, this wallpaper brings a soothing ambiance. Choose from patterns that evoke tranquility to create your serene escape at home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Green Wallpaper Images – Browse 3,196,711 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/55/02/52/360_F_155025278_kKh2aVZjRVBNmMt6NM500kPumCfUZYRA.jpg' alt='White And Green Wallpaper Images – Browse 3,196,711 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/55/02/52/360_F_155025278_kKh2aVZjRVBNmMt6NM500kPumCfUZYRA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Green Wallpaper Images – Browse 3,196,711 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/25/04/76/360_F_625047601_ReYKPGWinavuApgcPK2AIlJFgpSvHx46.jpg' alt='White And Green Wallpaper Images – Browse 3,196,711 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/25/04/76/360_F_625047601_ReYKPGWinavuApgcPK2AIlJFgpSvHx46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/14/15/821415898d95d8abee51aac2fe846577.jpg' alt='Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/14/15/821415898d95d8abee51aac2fe846577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Light Green White iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/23/f5/1723f57af530fe292b0bc54618dab0b6.jpg' alt='Line Light Green White iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/23/f5/1723f57af530fe292b0bc54618dab0b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York Adirondack Damask Green/White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6711097491502_20.jpg?v=1703240248' alt='York Adirondack Damask Green/White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6711097491502_20.jpg?v=1703240248' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPadOS Wallpaper 4K, Green, Stock, White background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipados-stock-green-white-background-ipad-ios-13-hd-2560x1080-1549.jpg' alt='iPadOS Wallpaper 4K, Green, Stock, White background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipados-stock-green-white-background-ipad-ios-13-hd-2560x1080-1549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Abstract Green And White Vector Illustration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210824/pngtree-free-abstract-green-and-white-background-vector-illustration-wallpaper-image_769653.jpg' alt='Free Abstract Green And White Vector Illustration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="901">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210824/pngtree-free-abstract-green-and-white-background-vector-illustration-wallpaper-image_769653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green white 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/53/e9/a0/53e9a0e84f1cfb7c93abb4119efe66e7.jpg' alt='Green white 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/53/e9/a0/53e9a0e84f1cfb7c93abb4119efe66e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green And White Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-and-white-background-dds1fzx7f10m7hw9.jpg' alt='100+] Green And White Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-and-white-background-dds1fzx7f10m7hw9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Green/White Leaves Wallpaper Peel and Stick Floral Wallpaper for  Cabinet Boho Green Leaf Contact Paper Home Decor Removable Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eylA40c8L.jpg' alt='Wallercity Green/White Leaves Wallpaper Peel and Stick Floral Wallpaper for  Cabinet Boho Green Leaf Contact Paper Home Decor Removable Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eylA40c8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

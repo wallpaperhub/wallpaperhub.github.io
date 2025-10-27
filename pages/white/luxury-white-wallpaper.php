@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Luxury White Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of luxury white wallpaper for your home or office. Its versatile design enhances any interior while providing a fresh, modern look. Ideal for stylish renovations or new projects, our selection of premium wallpapers ensures a sophisticated ambiance in any space. Shop now for timeless beauty!">
+                    <meta name="keywords" content="luxury white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/luxury-white-wallpaper">
+                            <span itemprop="name">luxury white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Luxury White Wallpaper</h1>
+                <p>Luxury white wallpaper effortlessly elevates any space, offering a timeless and sophisticated backdrop. Its pristine hue complements various design styles, from modern minimalism to classic elegance. Perfect for living rooms, bedrooms, or offices, this wallpaper adds a touch of opulence while allowing for easy customization through accessories and décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural White luxury background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/65/42/46/04/700_FO65424604_6f6b5c86ec25d2a0ae03c205d718bfed.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-white-luxury-background.jpg.jpg' alt='Wall Mural White luxury background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/65/42/46/04/700_FO65424604_6f6b5c86ec25d2a0ae03c205d718bfed.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-white-luxury-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury White Leather Gold Wallpaper with Ornate Crown Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/15/8e/21158ea464d37036ba52ff89e8e9cf00.jpg' alt='Luxury White Leather Gold Wallpaper with Ornate Crown Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/15/8e/21158ea464d37036ba52ff89e8e9cf00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wallpaper Texture" Images – Browse 8 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/81/11/77/360_F_281117743_p7MYaPvCqFucPK1N2P7yeHjWmUmynB2T.jpg' alt='White Wallpaper Texture" Images – Browse 8 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/81/11/77/360_F_281117743_p7MYaPvCqFucPK1N2P7yeHjWmUmynB2T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="108,600+ White Luxury Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1453371780/vector/abstract-white-and-grey-background-minimal-and-simple-template.jpg?s=612x612&w=0&k=20&c=v2-40eaeH9NzsuAQRvzKJPDGcXL6cfyrlN_jd9ZEmso=' alt='108,600+ White Luxury Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1453371780/vector/abstract-white-and-grey-background-minimal-and-simple-template.jpg?s=612x612&w=0&k=20&c=v2-40eaeH9NzsuAQRvzKJPDGcXL6cfyrlN_jd9ZEmso=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Luxury Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg' alt='White Luxury Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White & Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' alt='Manhattan Modern Wallpaper in White & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Luxury Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/914/115/non_2x/luxury-white-background-with-golden-line-elements-and-curve-light-effect-decoration-and-bokeh-vector.jpg' alt='White Luxury Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/914/115/non_2x/luxury-white-background-with-golden-line-elements-and-curve-light-effect-decoration-and-bokeh-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wallpaper Texture" Images – Browse 8 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/81/11/80/1000_F_281118022_iRlnsbnWASaShdoE292K1xDgGWMNhw3F.jpg' alt='White Wallpaper Texture" Images – Browse 8 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/81/11/80/1000_F_281118022_iRlnsbnWASaShdoE292K1xDgGWMNhw3F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Luxury Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/315/328/small/white-abstract-background-with-luxury-golden-lines-illustration-vector.jpg' alt='White Luxury Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/315/328/small/white-abstract-background-with-luxury-golden-lines-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Luxury Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-white-wallpaper-with-golden-details_23-2149095007.jpg' alt='White Luxury Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-white-wallpaper-with-golden-details_23-2149095007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful November Wallpapers for Every Screen</title>
+                    <meta name="description" content="Discover a collection of beautiful November wallpapers perfect for your devices. Add a touch of autumn charm to your screens with captivating designs that celebrate the season. Download your favorites now and enjoy the cozy vibes all month long!">
+                    <meta name="keywords" content="november wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/november-wallpaper">
+                            <span itemprop="name">november wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful November Wallpapers for Every Screen</h1>
+                <p>Enhance your digital space this November with stunning wallpapers that capture the essence of autumn. From vibrant fall leaves to cozy seasonal themes, there's a design for every mood and style. Transform your screens into a picturesque reminder of the beauty of November, inspiring warmth and reflection all month long.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November Wallpaper | Threeologie">
+                                <img itemprop="contentUrl url" src='https://threeologie.com/wp-content/uploads/2023/11/November-Wallpaper.jpg' alt='November Wallpaper | Threeologie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2561">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threeologie" />
+                                </span>
+                                <a href='https://threeologie.com/wp-content/uploads/2023/11/November-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Best November - Month of Thanksgiving ideas | hello november ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7d/f9/36/7df936b8a14ff99087469789b27b1161.jpg' alt='60 Best November - Month of Thanksgiving ideas | hello november ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7d/f9/36/7df936b8a14ff99087469789b27b1161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable November 2021 Calendar - The Knit Picks Staff ...">
+                                <img itemprop="contentUrl url" src='https://blog.knitpicks.com/wp-content/uploads/2021/10/wallpapers_November-2021_desktop.png' alt='Free Downloadable November 2021 Calendar - The Knit Picks Staff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knit Picks Blog" />
+                                </span>
+                                <a href='https://blog.knitpicks.com/wp-content/uploads/2021/10/wallpapers_November-2021_desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] November Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/november-iphone-5v746jh4rgnkyn1p.jpg' alt='100+] November Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/november-iphone-5v746jh4rgnkyn1p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute November Fall Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-november-fall-vwtdlabhk51exiqk.jpg' alt='Cute November Fall Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-november-fall-vwtdlabhk51exiqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530 Best November ideas | november, hello november, months in a year">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/20/51/c220516b197b416fa28b377f30fc00fc.jpg' alt='530 Best November ideas | november, hello november, months in a year'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/20/51/c220516b197b416fa28b377f30fc00fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebie: November 2017 Desktop Wallpapers - Every-Tuesday | Blog ...">
+                                <img itemprop="contentUrl url" src='https://every-tuesday.com/wp-content/uploads/2017/10/freebie-November-2017-desktop-wallpapers-1200x580.jpg' alt='Freebie: November 2017 Desktop Wallpapers - Every-Tuesday | Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Every-Tuesday" />
+                                </span>
+                                <a href='https://every-tuesday.com/wp-content/uploads/2017/10/freebie-November-2017-desktop-wallpapers-1200x580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To The Cozy Month Of November! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/welcome-to-the-cozy-month-of-november-9mcj8ii7g9xu81l8.jpg' alt='Welcome To The Cozy Month Of November! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/welcome-to-the-cozy-month-of-november-9mcj8ii7g9xu81l8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable november templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQFfp5-zg/1/0/1600w/canva-orange-autumn-aesthetic-november-photo-desktop-wallpaper-SU_3D4rvbw8.jpg' alt='Page 2 - Free and customizable november templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQFfp5-zg/1/0/1600w/canva-orange-autumn-aesthetic-november-photo-desktop-wallpaper-SU_3D4rvbw8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] November Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/november-desktop-796ltyd75yt7u5nr.jpg' alt='100+] November Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/november-desktop-796ltyd75yt7u5nr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

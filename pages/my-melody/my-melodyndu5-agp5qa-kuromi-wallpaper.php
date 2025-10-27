@@ -1,0 +1,129 @@
+<title>My Melody & Kuromi Wallpaper: Cute & Edgy Designs</title>
+                    <meta name="description" content="Enhance your device's look with adorable My Melody and Kuromi wallpapers. These fun and unique designs perfectly blend cuteness with a bit of edge, perfect for fans everywhere. Download now to give your screen a fresh, delightful vibe!">
+                    <meta name="keywords" content="my melody:ndu5-agp5qa= kuromi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/my-melodyndu5-agp5qa-kuromi-wallpaper">
+                            <span itemprop="name">my melody:ndu5-agp5qa= kuromi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>My Melody & Kuromi Wallpaper: Cute & Edgy Designs</h1>
+                <p>Discover the perfect wallpaper featuring My Melody and Kuromi! This vibrant design combines the cuteness of My Melody with the edgy charm of Kuromi, making it ideal for fans of both characters. Brighten up your device with this unique wallpaper that showcases their playful personalities! Give your screen a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] My Melody Kuromi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/my-melody-kuromi-who2fsl6i6gz0g80.jpg' alt='100+] My Melody Kuromi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/my-melody-kuromi-who2fsl6i6gz0g80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kuromi And My Melody Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kuromi-and-my-melody-oj2ngxqb6qythw0q.jpg' alt='100+] Kuromi And My Melody Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kuromi-and-my-melody-oj2ngxqb6qythw0q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody and Kuromi | Hello kitty drawing, Hello kitty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/17/7d/2e177d6ffab2256c1ae1fcb44eb86b24.jpg' alt='My melody and Kuromi | Hello kitty drawing, Hello kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/17/7d/2e177d6ffab2256c1ae1fcb44eb86b24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody x Kuromi Wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/e0/34/d2e034279f1de0c4ab341be5f9919ad6.jpg' alt='My Melody x Kuromi Wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/e0/34/d2e034279f1de0c4ab341be5f9919ad6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kuromi And My Melody Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-and-my-melody-2158-x-1798-wallpaper-9aulsfn1kbbmhdek.jpg' alt='100+] Kuromi And My Melody Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-and-my-melody-2158-x-1798-wallpaper-9aulsfn1kbbmhdek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody & Kuromi Wallpaper 4K, Netflix series, Kuromi">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/my-melody-kuromi-3440x1440-20900.png' alt='My Melody & Kuromi Wallpaper 4K, Netflix series, Kuromi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/my-melody-kuromi-3440x1440-20900.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody and Kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/02/8e/03028e5e13b8e41193ee7fa94b79356a.jpg' alt='My Melody and Kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/02/8e/03028e5e13b8e41193ee7fa94b79356a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/135/thumb-350-1353188.webp' alt='Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/135/thumb-350-1353188.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi And My Melody❤️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fc/0f/ab/fc0fab8d41dc7742df6d3b76788fad92.jpg' alt='Kuromi And My Melody❤️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fc/0f/ab/fc0fab8d41dc7742df6d3b76788fad92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46 Melody and Kuromi ideas | sanrio wallpaper, kawaii wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/93/3b/44/933b44e10532046098928342beab3fb3.jpg' alt='46 Melody and Kuromi ideas | sanrio wallpaper, kawaii wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/93/3b/44/933b44e10532046098928342beab3fb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

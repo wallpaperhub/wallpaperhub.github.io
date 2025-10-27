@@ -1,0 +1,129 @@
+<title>Original iPhone 8 Wallpapers: Unique Designs for Your Home Screen</title>
+                    <meta name="description" content="Explore a curated collection of original wallpapers for your iPhone 8. Find unique and stunning designs to personalize your device with style. Perfectly sized and optimized for a beautiful display. Elevate your home screen today!">
+                    <meta name="keywords" content="iphone 8 wallpaper original">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-8-wallpaper-original">
+                            <span itemprop="name">iphone 8 wallpaper original</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Original iPhone 8 Wallpapers: Unique Designs for Your Home Screen</h1>
+                <p>Looking to enhance your iPhone 8 with stunning original wallpapers? Discover a collection of high-quality, unique designs that perfectly fit the screen and reflect your personal style. From vibrant patterns to serene landscapes, our curated selection ensures you'll find the perfect backdrop for your device. Transform your home screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRODUCT(RED) iPhone 8 wallpaper">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/04/iPhone8-RED-for-iPhone-X.png' alt='PRODUCT(RED) iPhone 8 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/04/iPhone8-RED-for-iPhone-X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 8 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/646/170/HD-wallpaper-iphone-8-apple-beach-beaches-coastline-ocean-phone-stock-tropical-thumbnail.jpg' alt='HD iphone 8 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/646/170/HD-wallpaper-iphone-8-apple-beach-beaches-coastline-ocean-phone-stock-tropical-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download New iPhone 8 & iPhone 8 Plus Aura Wallpapers for Any Device">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2017/09/Aura-Blue-1030x1030.jpg' alt='Download New iPhone 8 & iPhone 8 Plus Aura Wallpapers for Any Device'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1030">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2017/09/Aura-Blue-1030x1030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download All the Latest iOS 8 Wallpapers for iPhone and iPad!">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2014/09/iOS-8-original-wallpapers-10.jpg' alt='Download All the Latest iOS 8 Wallpapers for iPhone and iPad!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2014/09/iOS-8-original-wallpapers-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feature] 3 new wallpapers previously exclusive to iPhone 8/8 Plus ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-zTkBoNxUi9G-3pGlGt9v2bAeuLbS4vlDgJfD42QDT8.jpg?auto=webp&s=712bcca6e02e6c5fd6b9d68b8ce7989ff808ed0a' alt='Feature] 3 new wallpapers previously exclusive to iPhone 8/8 Plus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-zTkBoNxUi9G-3pGlGt9v2bAeuLbS4vlDgJfD42QDT8.jpg?auto=webp&s=712bcca6e02e6c5fd6b9d68b8ce7989ff808ed0a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new iOS 8 wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2014/09/iOS-8-iPad-Wallpaper-Jason-Zigrino-11.jpg' alt='Download the new iOS 8 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2524">
+                                <meta itemprop="height" content="2524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2014/09/iOS-8-iPad-Wallpaper-Jason-Zigrino-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 8 FG, apple, fish, gold ios 8, iphone 8, original, parrot ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/970/606/HD-wallpaper-ios-8-fg-apple-fish-gold-ios-8-iphone-8-original-parrot-phone-plus.jpg' alt='IOS 8 FG, apple, fish, gold ios 8, iphone 8, original, parrot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/970/606/HD-wallpaper-ios-8-fg-apple-fish-gold-ios-8-iphone-8-original-parrot-phone-plus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 11, orange, red, blue, Stock, abstract, apple, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/6d/f1/8c6df1847c1ac82e8204e3299b636a85.jpg' alt='iOS 11, orange, red, blue, Stock, abstract, apple, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/6d/f1/8c6df1847c1ac82e8204e3299b636a85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 8 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2132446.png' alt='iPhone 8 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2132446.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 8 Original Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13750877.jpg' alt='iPhone 8 Original Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13750877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

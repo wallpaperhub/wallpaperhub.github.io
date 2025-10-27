@@ -1,0 +1,129 @@
+<title>Elevate Your Style: The Preppy Collage Guide</title>
+                    <meta name="description" content="Discover the essence of preppy collage style, blending classic pieces with modern flair. Learn how to mix patterns, incorporate iconic accessories, and express your individuality while staying polished and chic. Perfect for fashion-forward individuals looking to enhance their wardrobe effortlessly!">
+                    <meta name="keywords" content="preppy collage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/preppy-collage">
+                            <span itemprop="name">preppy collage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Style: The Preppy Collage Guide</h1>
+                <p>Preppy collage style merges classic fashion with vibrant creativity. Think crisp button-down shirts, tailored blazers, and fun patterns layered with whimsical graphic pieces. Incorporate iconic accessories like loafers and headbands for authenticity. This look is perfect for expressing individuality while maintaining a polished vibe, ideal for both campus life and casual outings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wall Collage Kit 50 pcs">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17728904/r/il/4f47f4/3824717509/il_fullxfull.3824717509_7i3q.jpg' alt='Preppy Wall Collage Kit 50 pcs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17728904/r/il/4f47f4/3824717509/il_fullxfull.3824717509_7i3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Preppy Room Decor, 70pcs Preppy Wall Collage Kit Aesthetic  Pictures, Cute Preppy Wall Decor, Trendy Pink Photo Collage Kit 4"x6"  Preppy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818wAj00VcL.jpg' alt='Amazon.com: Preppy Room Decor, 70pcs Preppy Wall Collage Kit Aesthetic  Pictures, Cute Preppy Wall Decor, Trendy Pink Photo Collage Kit 4"x6"  Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818wAj00VcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="125+ Preppy Photo Collage Kit (digital Download) - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26685079/r/il/9170a4/3245377410/il_fullxfull.3245377410_sybo.jpg' alt='125+ Preppy Photo Collage Kit (digital Download) - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26685079/r/il/9170a4/3245377410/il_fullxfull.3245377410_sybo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy photo collage | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4907122096.6701/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' alt='preppy photo collage | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4907122096.6701/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KBKBART 70pcs Preppy Room Decor, Aesthetic Pictures, Cute  Trendy Pink Photo Collage Kit 4"x6" Hot Pink Preppy Wall Art Posters/Things  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bIRTKFTZL.jpg' alt='Amazon.com: KBKBART 70pcs Preppy Room Decor, Aesthetic Pictures, Cute  Trendy Pink Photo Collage Kit 4"x6" Hot Pink Preppy Wall Art Posters/Things  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bIRTKFTZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL PREPPY Wall Collage Kit - 100 Pcs - VSCO, Trendy, Bright ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23857363/r/il/7287d9/3520567959/il_fullxfull.3520567959_s5sv.jpg' alt='DIGITAL PREPPY Wall Collage Kit - 100 Pcs - VSCO, Trendy, Bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23857363/r/il/7287d9/3520567959/il_fullxfull.3520567959_s5sv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Pink Collage Vinyl">
+                                <img itemprop="contentUrl url" src='https://peachyoliveglitters.com/cdn/shop/files/1_01aa23ea-f4bd-4ad6-97f9-fde56711767c.png?v=1720821155' alt='Preppy Pink Collage Vinyl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peachy Olive Glitters" />
+                                </span>
+                                <a href='https://peachyoliveglitters.com/cdn/shop/files/1_01aa23ea-f4bd-4ad6-97f9-fde56711767c.png?v=1720821155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Cloncep Design Preppy Room Decor Collage Kit, 50 PCS, 4x6 Inch,  Preppy Stuff Decor for Wall, Preppy Wall Collage, Preppy Pictures for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ehUQiOEAL.jpg' alt='Amazon.com: Cloncep Design Preppy Room Decor Collage Kit, 50 PCS, 4x6 Inch,  Preppy Stuff Decor for Wall, Preppy Wall Collage, Preppy Pictures for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ehUQiOEAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Pink & Blue Collage | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5516625982.2445/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' alt='Preppy Pink & Blue Collage | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5516625982.2445/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Collage Kit | Aesthetic Room Decor">
+                                <img itemprop="contentUrl url" src='https://www.aestheticroomcore.com/cdn/shop/products/17_ec6a9d54-1b1f-4c28-bf83-59424c687eb1_800x.jpg?v=1651320249' alt='Preppy Collage Kit | Aesthetic Room Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aesthetic Roomcore" />
+                                </span>
+                                <a href='https://www.aestheticroomcore.com/cdn/shop/products/17_ec6a9d54-1b1f-4c28-bf83-59424c687eb1_800x.jpg?v=1651320249' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

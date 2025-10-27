@@ -1,0 +1,129 @@
+<title>Understanding North Carolina Background Check Laws</title>
+                    <meta name="description" content="Explore North Carolina background check laws, including consent requirements, the impact of expungements, and employer responsibilities. Stay informed to navigate hiring practices and ensure compliance. Perfect for job seekers and employers in NC!">
+                    <meta name="keywords" content="north carolina background check laws">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/north-carolina-background-check-laws">
+                            <span itemprop="name">north carolina background check laws</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding North Carolina Background Check Laws</h1>
+                <p>North Carolina background check laws regulate how employers and organizations can access and utilize criminal history information. Employers must obtain written consent before conducting a background check and must follow the Fair Credit Reporting Act. Certain offenses can be expunged, which may affect hiring decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/6a64b79ed07a0e13647bf1b89271d235/NorthCarolina-background-checks-2.png' alt='North Carolina Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/6a64b79ed07a0e13647bf1b89271d235/NorthCarolina-background-checks-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina Background Check Laws | NC | DISA - Formerly Crimcheck">
+                                <img itemprop="contentUrl url" src='http://crimcheck.net/wp-content/uploads/2019/10/north-carolina-background-check-laws-300x300.webp' alt='North Carolina Background Check Laws | NC | DISA - Formerly Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='http://crimcheck.net/wp-content/uploads/2019/10/north-carolina-background-check-laws-300x300.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='North Carolina State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='North Carolina Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check in North Carolina: Laws & Screening Process">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-North-Carolina.png' alt='Background Check in North Carolina: Laws & Screening Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-North-Carolina.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nc Division Of Child Development Criminal Records Check">
+                                <img itemprop="contentUrl url" src='https://nc-division-of-child-development-criminal-records-check.govbackgroundchecks.com/screenshots/nc-division-of-child-development-criminal-records-check/2.jpg' alt='Nc Division Of Child Development Criminal Records Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://nc-division-of-child-development-criminal-records-check.govbackgroundchecks.com/screenshots/nc-division-of-child-development-criminal-records-check/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/North%20Carolina.png?width=602&height=373&name=North%20Carolina.png' alt='North Carolina State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/North%20Carolina.png?width=602&height=373&name=North%20Carolina.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina Background Check: Services for Staffing | PreSearch">
+                                <img itemprop="contentUrl url" src='https://presearchinc.com/wp-content/uploads/2023/01/North-Carolina-Background-Check-What-Employers-Should-Know-1024x576.jpg' alt='North Carolina Background Check: Services for Staffing | PreSearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreSearch Background Services" />
+                                </span>
+                                <a href='https://presearchinc.com/wp-content/uploads/2023/01/North-Carolina-Background-Check-What-Employers-Should-Know-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to North Carolina Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1270x934/6bad765a01/state-guide-hero_nc-1.webp/m/' alt='Guide to North Carolina Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1270x934/6bad765a01/state-guide-hero_nc-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check in North Carolina: Laws & Screening Process">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/docsz/AD_4nXcX9lAD48r4mda5xJvchSg9SRM_gEouSNWynoLPFIq0qR8Gy5xTtvvDGXO_NLsgT4CA0dtNwvTcB0ya7-5zRXsB1Pb_bGkDvb2OoET_uRz3oFnzck0676l1UXAOWocbzOPbVsMQ6KM_9mSb8sFgr_-xpqM?key=Yxpjn5jj0Zce1r6wSChNqg' alt='Background Check in North Carolina: Laws & Screening Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/docsz/AD_4nXcX9lAD48r4mda5xJvchSg9SRM_gEouSNWynoLPFIq0qR8Gy5xTtvvDGXO_NLsgT4CA0dtNwvTcB0ya7-5zRXsB1Pb_bGkDvb2OoET_uRz3oFnzck0676l1UXAOWocbzOPbVsMQ6KM_9mSb8sFgr_-xpqM?key=Yxpjn5jj0Zce1r6wSChNqg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

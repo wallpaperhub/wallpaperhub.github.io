@@ -1,0 +1,129 @@
+<title>Serene Sea Turtle Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover our sea turtle aesthetic wallpaper, perfect for ocean lovers! Featuring vibrant designs that bring the tranquility of the sea to your walls. Ideal for creating a calming atmosphere, these wallpapers are a beautiful addition to any room. Transform your space with the peaceful vibe of marine life today!">
+                    <meta name="keywords" content="sea turtle aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/sea-turtle-aesthetic-wallpaper">
+                            <span itemprop="name">sea turtle aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Sea Turtle Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with a sea turtle aesthetic wallpaper that radiates tranquility and ocean vibes. These stunning designs feature vibrant marine hues and intricate turtle patterns, perfect for creating a serene atmosphere in any room. Ideal for beach lovers, these wallpapers will evoke a sense of calm and connection to nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ocean #sea #turtle #oceanlife">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e7/dc/83/e7dc834ca619488dc459726731d26a41.jpg' alt='ocean #sea #turtle #oceanlife'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e7/dc/83/e7dc834ca619488dc459726731d26a41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="t u r t l e s.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/f8/44/38f844d85084c6b72ed55758225fcf91.jpg' alt='t u r t l e s.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/f8/44/38f844d85084c6b72ed55758225fcf91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Turtle Collage Aesthetic Beachand Sea Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/turtle-collage-aesthetic-beachand-sea-yqoikgvljideuumt.jpg' alt='Download Turtle Collage Aesthetic Beachand Sea Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/turtle-collage-aesthetic-beachand-sea-yqoikgvljideuumt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea turtle Wallpaper (Marine ecosystem, Ocean wildlife) #26469">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/sea-turtle-720x1280-marine-ecosystem-underwater-world-26469.jpg' alt='Sea turtle Wallpaper (Marine ecosystem, Ocean wildlife) #26469'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/sea-turtle-720x1280-marine-ecosystem-underwater-world-26469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/21/fb/2721fb6831ba5d20e27804c5a238ac6f.jpg' alt='Awesome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/21/fb/2721fb6831ba5d20e27804c5a238ac6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turtle, sea, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/261/246/HD-wallpaper-turtle-sea.jpg' alt='Turtle, sea, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/261/246/HD-wallpaper-turtle-sea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Turtle Wallpaper HD - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91gbtSn1L+L.png' alt='4K Turtle Wallpaper HD - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91gbtSn1L+L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To celebrate World Turtle Day, let's dive into the underwater world of  Australia's beautiful sea turtles! Did you know that Australia is home to  six of the world's seven marine turtle species, ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7372164177793764614&location=0&aid=1988' alt='To celebrate World Turtle Day, let's dive into the underwater world of  Australia's beautiful sea turtles! Did you know that Australia is home to  six of the world's seven marine turtle species, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7372164177793764614&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/53/14/4953142ac1681cf5679adc3161ccca68.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/53/14/4953142ac1681cf5679adc3161ccca68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An aerial view of a lone sea turtle gliding gently in cerulean ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/112a31a744d76e313ccbbcec2985ac0a/5892f0d5069168ba2bd44fc528461c74.jpg?q=70&w=500' alt='An aerial view of a lone sea turtle gliding gently in cerulean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/112a31a744d76e313ccbbcec2985ac0a/5892f0d5069168ba2bd44fc528461c74.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

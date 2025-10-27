@@ -1,0 +1,129 @@
+<title>Vibrant Orange & Pink Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Add a splash of color to your home with stunning orange and pink wallpaper! Discover stylish designs that enhance your decor and create a lively atmosphere. Perfect for any room, explore how these vibrant hues can transform your space into a cheerful haven.">
+                    <meta name="keywords" content="orange and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/orange-and-pink-wallpaper">
+                            <span itemprop="name">orange and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange & Pink Wallpaper Ideas for Your Home</h1>
+                <p>Transform your space with vibrant orange and pink wallpaper! This eye-catching combination brings warmth and energy, perfect for brightening up any room. Ideal for feature walls or accent spaces, orange and pink patterns add a playful touch. Explore various designs to suit your style and create an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper, Pink, Orange, Groovy, Swirl, Marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/4d/0e/234d0e0f1445d8d159fd954e639f98fc.jpg' alt='Aesthetic Wallpaper, Pink, Orange, Groovy, Swirl, Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/4d/0e/234d0e0f1445d8d159fd954e639f98fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink orange pastel gradient wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/88/18/518818c45a55a95b0a14dfd09912197d.jpg' alt='pink orange pastel gradient wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/88/18/518818c45a55a95b0a14dfd09912197d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall JJ38042 Squeeze Hot Pink Red Orange Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/241414.jpg' alt='Patton Norwall JJ38042 Squeeze Hot Pink Red Orange Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/241414.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper PINK and ORANGE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/de/6e/c0/de6ec00a0b5fe61e68bce388ed1b3fe0.jpg' alt='IPhone Wallpaper PINK and ORANGE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/de/6e/c0/de6ec00a0b5fe61e68bce388ed1b3fe0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Orange Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-orange-citrus-aesthetic-xakhk32xbpzugm7g.jpg' alt='100+] Pink And Orange Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-orange-citrus-aesthetic-xakhk32xbpzugm7g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and orange background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/8e/16/9e8e163132330c6f7450ef22eb0dee5c.jpg' alt='Pink and orange background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/8e/16/9e8e163132330c6f7450ef22eb0dee5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange And Pink Marble Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/orange-and-pink-marble-iphone-nba4rl5h1qahytbg.jpg' alt='Orange And Pink Marble Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/orange-and-pink-marble-iphone-nba4rl5h1qahytbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Orange Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10440445/p/f/m/yQcY5C3_G8nqhkWy31_BZ2jdz9w66YHCIqhyC_SMchHPocVG0UeO0dYHaQ/Piccadilly%20Pinstripes%20in%20Mod%20Orange%20%2B%20Pink.jpg' alt='Pink And Orange Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10440445/p/f/m/yQcY5C3_G8nqhkWy31_BZ2jdz9w66YHCIqhyC_SMchHPocVG0UeO0dYHaQ/Piccadilly%20Pinstripes%20in%20Mod%20Orange%20%2B%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pop-party-colorful-gradient-background_23-2149386874.jpg' alt='Pink Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pop-party-colorful-gradient-background_23-2149386874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Orange Seamless Pattern Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2125963121/display_1500/stock-vector--wavy-swirl-seamless-pattern-in-orange-and-pink-colors-hand-drawn-vector-illustration-2125963121.jpg' alt='Pink Orange Seamless Pattern Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2125963121/display_1500/stock-vector--wavy-swirl-seamless-pattern-in-orange-and-pink-colors-hand-drawn-vector-illustration-2125963121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

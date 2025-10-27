@@ -1,0 +1,129 @@
+<title>Vibrant Purple Smiley Face Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover an array of vibrant purple smiley face wallpapers for your iPhone. Brighten up your device with joyful and colorful designs that reflect your unique style. Perfect for anyone looking to add a fun touch to their mobile experience! Explore our collection now!">
+                    <meta name="keywords" content="iphone purple smiley face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-purple-smiley-face-wallpaper">
+                            <span itemprop="name">iphone purple smiley face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Smiley Face Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning purple smiley face wallpapers! Perfect for adding a splash of joy and color to your device, these playful designs enhance your screen while inspiring positivity. Choose from various styles and shades to find the perfect fit for your personality and mood!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple smiley face smile phone wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/2a/87/612a87e1ad24d6c74e3e7c6d85c61cb3.jpg' alt='Purple smiley face smile phone wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/2a/87/612a87e1ad24d6c74e3e7c6d85c61cb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' alt='Pastel Purple Dripping Smiley in 2022 | Drip smiley face wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/fd/b7/fbfdb74bfe94bf178091665d1469d6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1e/9d/86/1e9d864a5e1f76f2bdca9c4e119306ec.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1e/9d/86/1e9d864a5e1f76f2bdca9c4e119306ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bd/2e/67/bd2e6708b41eb44acf4f725ee05967b9.jpg' alt='Aesthetic smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bd/2e/67/bd2e6708b41eb44acf4f725ee05967b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-smiley-face-pattern-jpg-rrf4be7qvye2d7mz.jpg' alt='100+] Purple Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-smiley-face-pattern-jpg-rrf4be7qvye2d7mz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face wallpaper aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0a/19/cf/0a19cfa0b7bf8f44663fb63bfef678de.jpg' alt='smiley face wallpaper aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0a/19/cf/0a19cfa0b7bf8f44663fb63bfef678de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana purple neon, smile, smiley, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/717/393/HD-wallpaper-nirvana-purple-neon-smile-smiley.jpg' alt='Nirvana purple neon, smile, smiley, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/717/393/HD-wallpaper-nirvana-purple-neon-smile-smiley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Smiley Faces Background Seamless Background Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d5/59/0a/d5590a26f437a74aabf7713552492bb3.jpg' alt='Purple Smiley Faces Background Seamless Background Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d5/59/0a/d5590a26f437a74aabf7713552492bb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper - Smiley faces wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/74/6a/78746a7c25fecb0051e4e49cd21bec8c.jpg' alt='Purple wallpaper - Smiley faces wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/74/6a/78746a7c25fecb0051e4e49cd21bec8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

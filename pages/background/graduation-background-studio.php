@@ -1,0 +1,129 @@
+<title>Capture Your Graduation Moments | Stunning Studio Backgrounds</title>
+                    <meta name="description" content="Discover the perfect graduation background studio to immortalize your achievements. Choose from a range of customizable backdrops that enhance your celebration. Make your graduation photos unforgettable with unique designs and professional setups tailored just for you!">
+                    <meta name="keywords" content="graduation background studio">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/graduation-background-studio">
+                            <span itemprop="name">graduation background studio</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capture Your Graduation Moments | Stunning Studio Backgrounds</h1>
+                <p>Graduation background studios provide an ideal setting for capturing your special day. With a variety of customizable backdrops—from classic to modern—you'll create lasting memories. Whether it’s caps, gowns, or diplomas, celebrate your achievements with stunning visuals that reflect your personality and milestones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Contrast Gray Portrait Studio Digital Backdrop | Photography ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/915be9/1871492968/il_fullxfull.1871492968_elaq.jpg' alt='High Contrast Gray Portrait Studio Digital Backdrop | Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/915be9/1871492968/il_fullxfull.1871492968_elaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Texture Photo Studio Backdrop HF-0021">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/HF-0021.jpg?v=1631867246' alt='Abstract Texture Photo Studio Backdrop HF-0021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/HF-0021.jpg?v=1631867246' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MUZI Photography Backdrops Dark Gray Muslin Background Graduation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/84/71/4c8471fe9d5037d040fcab6d66409c9b.jpg' alt='MUZI Photography Backdrops Dark Gray Muslin Background Graduation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/84/71/4c8471fe9d5037d040fcab6d66409c9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Contrast Blue Portrait Studio Digital Backdrop, Photography Backdrop,  Studio, Green Screen, School Pictures, Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/9e44e8/1918993141/il_fullxfull.1918993141_svl5.jpg' alt='High Contrast Blue Portrait Studio Digital Backdrop, Photography Backdrop,  Studio, Green Screen, School Pictures, Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/9e44e8/1918993141/il_fullxfull.1918993141_svl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wooden Bookshelf Backdrop for Photography 10x8FT Library Books  Collection Photo Background School Bookcase Graduation Backdrop Students  Adult ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Y28I78FcL.jpg' alt='Vintage Wooden Bookshelf Backdrop for Photography 10x8FT Library Books  Collection Photo Background School Bookcase Graduation Backdrop Students  Adult ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Y28I78FcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Blue Spot Photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/7c/1a/f17c1a3ae0df1a476e85ab18aa1bfde0.jpg' alt='Gray Blue Spot Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/7c/1a/f17c1a3ae0df1a476e85ab18aa1bfde0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Der Blau Muslin Backdrop">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/mm9723High_600x.jpg?v=1619108405' alt='Der Blau Muslin Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/mm9723High_600x.jpg?v=1619108405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Evans Photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/9b/5c/5f9b5cca0a0b5e2edd5a94de2137ff2e.jpg' alt='Ted Evans Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/9b/5c/5f9b5cca0a0b5e2edd5a94de2137ff2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Graduation Party Background Photography Class ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hEwq4-0tL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Graduation Party Background Photography Class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hEwq4-0tL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black Blue Texture Studio Backdrop for Photography DHP-220">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/DHP-2201596571456_2.jpg?v=1621307534&width=850' alt='Abstract Black Blue Texture Studio Backdrop for Photography DHP-220'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/DHP-2201596571456_2.jpg?v=1621307534&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

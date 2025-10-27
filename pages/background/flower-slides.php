@@ -1,0 +1,129 @@
+<title>Stunning Flower Slides for Your Next Presentation</title>
+                    <meta name="description" content="Discover beautiful flower slides that captivate and inspire! Perfect for presentations and educational purposes, our high-quality slides showcase nature's blooms while providing engaging information. Enhance your content with vibrant visuals that leave a lasting impression. Ideal for all floral enthusiasts!">
+                    <meta name="keywords" content="flower slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-slides">
+                            <span itemprop="name">flower slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Slides for Your Next Presentation</h1>
+                <p>Flower slides are stunning visual presentations featuring vibrant blooms that captivate and inspire. Perfect for educational purposes, events, or simply showcasing nature's beauty, these slides can enhance any presentation. By incorporating high-quality images and informative captions, flower slides engage audiences and evoke appreciation for floral diversity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/48960825/elegant-watercolor-and-floral-slides-premium1707992727.jpg' alt='Free Floral Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/48960825/elegant-watercolor-and-floral-slides-premium1707992727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Free Flower Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/27171284/flowery-may-social-media-strategy1667474428.jpg' alt='Page 3 | Free Flower Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/27171284/flowery-may-social-media-strategy1667474428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Flower Background PowerPoint & Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2023/10/Free-Flower-Background.jpg' alt='Free Flower Background PowerPoint & Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2023/10/Free-Flower-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Flower Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37676493/classic-wedding1687776169.jpg' alt='Free Flower Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37676493/classic-wedding1687776169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Watercolor. Free PPT & Google Slides Template — SlidesCarnival">
+                                <img itemprop="contentUrl url" src='https://www.slidescarnival.com/wp-content/uploads/Free-elegant-Powerpoint-template-Google-Slides-theme-floral-watercolor.jpg' alt='Floral Watercolor. Free PPT & Google Slides Template — SlidesCarnival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCarnival" />
+                                </span>
+                                <a href='https://www.slidescarnival.com/wp-content/uploads/Free-elegant-Powerpoint-template-Google-Slides-theme-floral-watercolor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Flower Background Free for PPT & Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2023/01/02-Aesthetic-Flower-Background-Free-for-PPT-Google-Slides-by-SlidesCorner.com_-1024x576.jpg' alt='Aesthetic Flower Background Free for PPT & Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2023/01/02-Aesthetic-Flower-Background-Free-for-PPT-Google-Slides-by-SlidesCorner.com_-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Women's Flower Sandals, Light Gold Orange and Red Tones, Hand ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19316861/r/il/3d12d4/4900139000/il_fullxfull.4900139000_awmm.jpg' alt='Women's Flower Sandals, Light Gold Orange and Red Tones, Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1816">
+                                <meta itemprop="height" content="1816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19316861/r/il/3d12d4/4900139000/il_fullxfull.4900139000_awmm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Frame Presentation Template - Google Slides Templates">
+                                <img itemprop="contentUrl url" src='https://googleslides.org/wp-content/uploads/2020/03/1-Flowers-Frame-Presentation.png' alt='Flowers Frame Presentation Template - Google Slides Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Slides" />
+                                </span>
+                                <a href='https://googleslides.org/wp-content/uploads/2020/03/1-Flowers-Frame-Presentation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peach Yellow Flowers Background Image​">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/edd/2023/11/Peach-Yellow-Flowers-Background-Image%E2%80%8B-0944-scaled.jpg' alt='Peach Yellow Flowers Background Image​'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/edd/2023/11/Peach-Yellow-Flowers-Background-Image%E2%80%8B-0944-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/50240948/watercolor-spring-forest1710163805.jpg' alt='Free Floral Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/50240948/watercolor-spring-forest1710163805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

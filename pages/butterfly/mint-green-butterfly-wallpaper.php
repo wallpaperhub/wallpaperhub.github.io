@@ -1,0 +1,129 @@
+<title>Charming Mint Green Butterfly Wallpaper for Your Home</title>
+                    <meta name="description" content="Enhance your home with mint green butterfly wallpaper. This delightful design brings a fresh, serene vibe to any space, making it perfect for children’s rooms or any area needing a touch of whimsy. Easy to apply and stylish, it’s an ideal choice for a vibrant home makeover.">
+                    <meta name="keywords" content="mint green butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/mint-green-butterfly-wallpaper">
+                            <span itemprop="name">mint green butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Mint Green Butterfly Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning mint green butterfly wallpaper, perfect for adding a touch of whimsy and color to any room. The delicate butterfly patterns create a serene atmosphere, making it ideal for nurseries, bedrooms, or playrooms. Elevate your home decor with this charming and stylish choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aesthetic butterfly wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/e7/b7/91e7b7ca92e1523d914c07d41c600a75.jpg' alt='green aesthetic butterfly wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/e7/b7/91e7b7ca92e1523d914c07d41c600a75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green buttlerflies wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/30/7d/92307d4297b0d8115a65e5152fbb6c04.jpg' alt='Green buttlerflies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/30/7d/92307d4297b0d8115a65e5152fbb6c04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Butterfly Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/mint-green-butterfly-82dp5r2uyehcs7pn.jpg' alt='Mint Green Butterfly Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/mint-green-butterfly-82dp5r2uyehcs7pn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Butterfly Printable Art, Vintage Insect Illustration ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16515655/r/il/1c1b9e/2372757487/il_570xN.2372757487_406a.jpg' alt='Mint Green Butterfly Printable Art, Vintage Insect Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16515655/r/il/1c1b9e/2372757487/il_570xN.2372757487_406a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green butterfly 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-butterfly-xcv9h2oeu3ww7csg.jpg' alt='Green butterfly 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-butterfly-xcv9h2oeu3ww7csg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint. Color. Green Mint Butterflies Morpho Texture Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mint-color-green-mint-butterflies-morpho-texture-background-flight-green-butterflies-abstract-background-green-mint-butterflies-142930165.jpg' alt='Mint. Color. Green Mint Butterflies Morpho Texture Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mint-color-green-mint-butterflies-morpho-texture-background-flight-green-butterflies-abstract-background-green-mint-butterflies-142930165.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mint Green Aesthetic Butterflies Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mint-green-aesthetic-butterflies-okfn4718tmda009r.jpg' alt='Download Mint Green Aesthetic Butterflies Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mint-green-aesthetic-butterflies-okfn4718tmda009r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background ✨ | Blue wallpaper iphone, Butterfly wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/b8/f9/c3b8f96700f778582e9b938e738965fa.jpg' alt='Background ✨ | Blue wallpaper iphone, Butterfly wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/b8/f9/c3b8f96700f778582e9b938e738965fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly pattern background, mint green | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDQxLTI2Yi1rdDNubHZsbC5qcGc.jpg' alt='Butterfly pattern background, mint green | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDQxLTI2Yi1rdDNubHZsbC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/11/f0/3811f020d9f9ee8eb86fab530efbe95e.jpg' alt='Butterfly wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/11/f0/3811f020d9f9ee8eb86fab530efbe95e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

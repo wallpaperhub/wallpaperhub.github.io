@@ -1,0 +1,129 @@
+<title>Awesome Goku Live Wallpaper GIFs for Your Device</title>
+                    <meta name="description" content="Discover a collection of dynamic Goku live wallpaper GIFs that enhance your device with vibrant animations. Perfect for Dragon Ball fans, these GIFs add energy and personality to your screen, making every glance exciting. Download now and bring Goku to life on your smartphone!">
+                    <meta name="keywords" content="goku live wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-live-wallpaper-gif">
+                            <span itemprop="name">goku live wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Goku Live Wallpaper GIFs for Your Device</h1>
+                <p>Transform your device with stunning Goku live wallpaper GIFs! Explore a vibrant collection featuring Goku in dynamic poses, iconic battles, and serene moments. Whether you're a fan of Dragon Ball Z or just love anime imagery, these animated wallpapers will bring your screen to life, infusing energy and excitement every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra Instinct Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/1397' alt='Goku Ultra Instinct Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/1397' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goku ultra instinct GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' alt='goku ultra instinct GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan Live Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/nFeggdr0lC4AAAAM/goku-ultra.gif' alt='Goku Super Saiyan Live Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/nFeggdr0lC4AAAAM/goku-ultra.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Goku GIF - Dragon Ball Z Goku Frieza - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/31/70/11/317011110b293fe78b4c66e4f203e928.gif' alt='Dragon Ball Z Goku GIF - Dragon Ball Z Goku Frieza - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/31/70/11/317011110b293fe78b4c66e4f203e928.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angry Blue Goku (Dragon Ball) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/357' alt='Angry Blue Goku (Dragon Ball) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/5Xu-mRB9M3UAAAAM/rule793-dragon-ball.gif' alt='Dragon Ball Z Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/5Xu-mRB9M3UAAAAM/rule793-dragon-ball.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/gMTlGp8Lr6eI/200w.gif?cid=6c09b952epivts8vyl953ntc0h2705ep16v9n9cn8uhot4ib&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Dragon Ball Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/gMTlGp8Lr6eI/200w.gif?cid=6c09b952epivts8vyl953ntc0h2705ep16v9n9cn8uhot4ib&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam-værksted::Dragon Ball Super : Goku Mastered Ultra Instinct ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1792974219414489731/E9DE92C5FD41AD1AF4F0C1D195951DBD351B672B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam-værksted::Dragon Ball Super : Goku Mastered Ultra Instinct ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1792974219414489731/E9DE92C5FD41AD1AF4F0C1D195951DBD351B672B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Ultra Instinct GIF - Dragon Ball Super Ultra ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/57/c8/81/57c881e3e94f81b4fa420a89f0022e6d.gif' alt='Dragon Ball Super Ultra Instinct GIF - Dragon Ball Super Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/57/c8/81/57c881e3e94f81b4fa420a89f0022e6d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra Instinct Universe - 4k Live Wallpaper [ Dragon Ball Z ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-06-2023/weUqIz.gif' alt='Goku Ultra Instinct Universe - 4k Live Wallpaper [ Dragon Ball Z ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-06-2023/weUqIz.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

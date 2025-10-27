@@ -1,0 +1,129 @@
+<title>Reliable Background & Drug Screening Services</title>
+                    <meta name="description" content="Discover top-notch background and drug screening companies that help you hire safely and efficiently. Ensure compliance and promote workplace safety with our expert services tailored for your hiring needs. Streamline your recruitment process today!">
+                    <meta name="keywords" content="background and drug screening companies">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-and-drug-screening-companies">
+                            <span itemprop="name">background and drug screening companies</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reliable Background & Drug Screening Services</h1>
+                <p>Background and drug screening companies specialize in providing essential services that help employers ensure a safe and compliant workplace. They conduct thorough background checks and drug tests, facilitating informed hiring decisions. These companies play a critical role in reducing workplace incidents and fostering a positive organizational culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment & Pre-Employment Drug Screening Tests | Employer Drug ...">
+                                <img itemprop="contentUrl url" src='https://reliablebackgroundscreening.com/wp-content/uploads/2023/08/Full-color-logo_1.png' alt='Employment & Pre-Employment Drug Screening Tests | Employer Drug ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1602">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reliable Background Screening" />
+                                </span>
+                                <a href='https://reliablebackgroundscreening.com/wp-content/uploads/2023/08/Full-color-logo_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Highmark Drug Testing & Background Screening Services, LLC">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100072503296279' alt='Profile for Highmark Drug Testing & Background Screening Services, LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100072503296279' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks and Drug Testing">
+                                <img itemprop="contentUrl url" src='https://www.safesthires.com/content/uploads/2017/08/Free_BC_Img-1024x648.png' alt='Free Background Checks and Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafestHires" />
+                                </span>
+                                <a href='https://www.safesthires.com/content/uploads/2017/08/Free_BC_Img-1024x648.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check / Employment Drug Testing Services">
+                                <img itemprop="contentUrl url" src='https://employmentscreeninginc.com/wp-content/uploads/Website-photo-3.jpg' alt='Background Check / Employment Drug Testing Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening Inc." />
+                                </span>
+                                <a href='https://employmentscreeninginc.com/wp-content/uploads/Website-photo-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Screening | VeriScreen">
+                                <img itemprop="contentUrl url" src='https://veriscreen.net/wp-content/uploads/2021/01/New-Logo-2021-1-1024x341.png' alt='Drug Screening | VeriScreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VeriScreen" />
+                                </span>
+                                <a href='https://veriscreen.net/wp-content/uploads/2021/01/New-Logo-2021-1-1024x341.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Franchise Services Inc. Partner – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2022/11/PMGlogos_1400x460.jpg' alt='Franchise Services Inc. Partner – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2022/11/PMGlogos_1400x460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Drug Screening Options | First Advantage">
+                                <img itemprop="contentUrl url" src='https://fadv.com/wp-content/uploads/DrugTestingOptionsSummary.tipsheet_Page_1-1.jpg' alt='Employment Drug Screening Options | First Advantage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://fadv.com/wp-content/uploads/DrugTestingOptionsSummary.tipsheet_Page_1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks and Drug Screening Services Company | Occuscreen">
+                                <img itemprop="contentUrl url" src='https://occuscreen.com/wp-content/uploads/screencap-occuscreen-siteimage.jpg' alt='Background Checks and Drug Screening Services Company | Occuscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="occuscreen.com" />
+                                </span>
+                                <a href='https://occuscreen.com/wp-content/uploads/screencap-occuscreen-siteimage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Company Blog - Edge Information - Page 4">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2022/02/edge-logo-blog.png' alt='Background Screening Company Blog - Edge Information - Page 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2022/02/edge-logo-blog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-employment Screening Baker's Dozen">
+                                <img itemprop="contentUrl url" src='https://read.nxtbook.com/sharedxpertise_media/supplementals/pre_employment_screening_bd23/assets/dc8e23b273be7a9f1bf54adbe6aacf76.png' alt='Pre-employment Screening Baker's Dozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nxtbook Media" />
+                                </span>
+                                <a href='https://read.nxtbook.com/sharedxpertise_media/supplementals/pre_employment_screening_bd23/assets/dc8e23b273be7a9f1bf54adbe6aacf76.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

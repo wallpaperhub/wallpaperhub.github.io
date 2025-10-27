@@ -1,0 +1,129 @@
+<title>Transform Your Space with Palm Beach Style Wallpaper</title>
+                    <meta name="description" content="Discover the charm of Palm Beach style wallpaper! From vivid colors to tropical patterns, elevate your home decor with a fresh, coastal vibe. Perfect for any room, this wallpaper transforms your walls into stunning focal points. Explore our collection and bring a piece of paradise into your home today!">
+                    <meta name="keywords" content="palm beach style wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/palm-beach-style-wallpaper">
+                            <span itemprop="name">palm beach style wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Palm Beach Style Wallpaper</h1>
+                <p>Palm Beach style wallpaper brings a vibrant, tropical flair to any space. Featuring bold colors, lush greenery, and playful patterns, this wallpaper style captures the essence of coastal living. Ideal for creating an upbeat atmosphere, it's perfect for living rooms, bedrooms, and even bathrooms, making every wall a statement piece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Palm Beach Baby Blue and Seafoam Tropical 20.5 in. x 18 ft. Peel  and Stick Wallpaper NW40002">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0946623a-8c98-471d-9b98-0576cb6d60b5/svn/nextwall-wallpaper-rolls-nw40002-64_600.jpg' alt='NextWall Palm Beach Baby Blue and Seafoam Tropical 20.5 in. x 18 ft. Peel  and Stick Wallpaper NW40002'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0946623a-8c98-471d-9b98-0576cb6d60b5/svn/nextwall-wallpaper-rolls-nw40002-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Beach Style Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2023/07/04/m_master-bathroom-with-palm-leaf-wallpaper.jpg' alt='Palm Beach Style Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2023/07/04/m_master-bathroom-with-palm-leaf-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Palm Beach Style Wallpaper, Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21265800/r/il/856cc4/6382538183/il_570xN.6382538183_o4p4.jpg' alt='Colorful Palm Beach Style Wallpaper, Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21265800/r/il/856cc4/6382538183/il_570xN.6382538183_o4p4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Beach House Paradise Wallpaper - Coastal Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/MB30002_b21b50f2-868d-4b35-a7af-a242635619c1.jpg?v=1602714093' alt='Seabrook Beach House Paradise Wallpaper - Coastal Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/MB30002_b21b50f2-868d-4b35-a7af-a242635619c1.jpg?v=1602714093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Palm Beach Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW40001_de267714-f995-4855-a501-c42721a80a5a.jpg?v=1636663400' alt='NextWall Palm Beach Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW40001_de267714-f995-4855-a501-c42721a80a5a.jpg?v=1636663400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise Palm Wallpaper by Seabrook Designs - Lelands Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2018/12/mb30004-seabrook-wallcovering-wallquest-beach-house-paradise-palm-wallpaper-tropical-midnight-room-setting.jpg?fit=500%2C500&ssl=1' alt='Paradise Palm Wallpaper by Seabrook Designs - Lelands Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2018/12/mb30004-seabrook-wallcovering-wallquest-beach-house-paradise-palm-wallpaper-tropical-midnight-room-setting.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper - Decorate with Beach House Luxe Style Online ...">
+                                <img itemprop="contentUrl url" src='http://oliveetoriel.com/cdn/shop/collections/shop-new-removable-coastal-beach-house-style-wallpaper-arrivals-online-olive-et-oriel.jpg?v=1679991977' alt='Coastal Wallpaper - Decorate with Beach House Luxe Style Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='http://oliveetoriel.com/cdn/shop/collections/shop-new-removable-coastal-beach-house-style-wallpaper-arrivals-online-olive-et-oriel.jpg?v=1679991977' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Ways to Bring Palm Beach Style to Your Home & Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/22/94/2c22946b7add7fd366c1e4b5d0bbed35.jpg' alt='8 Ways to Bring Palm Beach Style to Your Home & Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/22/94/2c22946b7add7fd366c1e4b5d0bbed35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Island Vibe Palm Tree Wallpaper Preppy Style Green Teal ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7679539/r/il/d603db/5771719702/il_570xN.5771719702_83ev.jpg' alt='Tropical Island Vibe Palm Tree Wallpaper Preppy Style Green Teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7679539/r/il/d603db/5771719702/il_570xN.5771719702_83ev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Decorate with Iconic Palm Beach Style">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/tWG_9fwom3jnv9bqkshZkx9do6M=/1244x0/filters:no_upscale():strip_icc()/green-botanical-bedroom-salmon-accents-6Cqbknow4jnAOJW5DVLyi6-8cecd974803c44639f8d013dc1d764a6.jpg' alt='How to Decorate with Iconic Palm Beach Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="1685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/tWG_9fwom3jnv9bqkshZkx9do6M=/1244x0/filters:no_upscale():strip_icc()/green-botanical-bedroom-salmon-accents-6Cqbknow4jnAOJW5DVLyi6-8cecd974803c44639f8d013dc1d764a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Quote Lock Screen Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover the perfect cute aesthetic wallpaper for your lock screen! Featuring uplifting quotes and charming designs, these wallpapers brighten your day and personalize your mobile experience. Explore a variety of styles to find the ideal match for your vibe!">
+                    <meta name="keywords" content="quotes lock screen cute aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/quotes-lock-screen-cute-aesthetic-wallpaper">
+                            <span itemprop="name">quotes lock screen cute aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Quote Lock Screen Aesthetic Wallpaper</h1>
+                <p>Transform your lock screen with cute aesthetic wallpaper featuring inspiring quotes! These charming designs not only enhance your phone's look but also provide daily motivation. From pastel colors to whimsical patterns, each wallpaper is crafted to uplift your mood and add a touch of personality to your device. Choose your favorite and inspire yourself every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/ef/9b/04ef9b1112ff0492856217c11b93df8f.jpg' alt='Wallpapers - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/ef/9b/04ef9b1112ff0492856217c11b93df8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic lockscreen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/85/a0/08/85a0082091c12c3d7bb1d02b12835330.jpg' alt='Aesthetic lockscreen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/85/a0/08/85a0082091c12c3d7bb1d02b12835330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positive Quote Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' alt='Positive Quote Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/8e/f0/4b8ef01df94e09baaa3259e93939a712.jpg' alt='quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/8e/f0/4b8ef01df94e09baaa3259e93939a712.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' alt='Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/b6/13/cbb61364c38fa19b22f8f73ccf5cf9a3.jpg' alt='quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/b6/13/cbb61364c38fa19b22f8f73ccf5cf9a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0xOC5qcGc.jpg' alt='Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0xOC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Encouraging Quote Aesthetic Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/encouraging-quote-aesthetic-lockscreen-qoc3pvjs79zyyecf.jpg' alt='Encouraging Quote Aesthetic Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/encouraging-quote-aesthetic-lockscreen-qoc3pvjs79zyyecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/cb/92/01cb9221d2eb132de070ef5643821a6a.jpg' alt='quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/cb/92/01cb9221d2eb132de070ef5643821a6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Aesthetic Quotes Wallpapers & Backgrounds for Your Phone [HD]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/63/22/fb/6322fbc523a2ce2a2c1f22ee97dca331.jpg' alt='40+ Aesthetic Quotes Wallpapers & Backgrounds for Your Phone [HD]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gridfiti" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/63/22/fb/6322fbc523a2ce2a2c1f22ee97dca331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

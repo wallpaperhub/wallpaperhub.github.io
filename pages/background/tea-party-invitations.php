@@ -1,0 +1,129 @@
+<title>Charming Tea Party Invitations: Your Perfect Celebration Start</title>
+                    <meta name="description" content="Discover beautiful and unique tea party invitations to set the tone for your gathering. From elegant designs to essential details, create an inviting experience that excites your guests. Explore ideas and tips for the perfect invitation to make your tea party unforgettable!">
+                    <meta name="keywords" content="tea party invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tea-party-invitations">
+                            <span itemprop="name">tea party invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Tea Party Invitations: Your Perfect Celebration Start</h1>
+                <p>Planning a delightful tea party? Start with the perfect invitations! Choose elegant designs that reflect your theme, whether it's vintage, floral, or modern chic. Include essential details like the date, time, and location, and don’t forget to mention any special attire or RSVP requests. Make your guests feel special and excited!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 X 7 Afternoon Tea Party Invitation With Pretty Floral Border ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19171893/r/il/d480fc/5028986182/il_fullxfull.5028986182_15md.jpg' alt='5 X 7 Afternoon Tea Party Invitation With Pretty Floral Border ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19171893/r/il/d480fc/5028986182/il_fullxfull.5028986182_15md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Tea Party" - Customizable Children's Birthday Party Invitations in Green  by Nazia Hyder.">
+                                <img itemprop="contentUrl url" src='https://mintedcdn0.global.ssl.fastly.net/files/mintedProductsImages/MIN/CBP/9L0/MIN-9L0-CBP-001_A_PZ.jpg' alt='"Tea Party" - Customizable Children's Birthday Party Invitations in Green  by Nazia Hyder.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minted" />
+                                </span>
+                                <a href='https://mintedcdn0.global.ssl.fastly.net/files/mintedProductsImages/MIN/CBP/9L0/MIN-9L0-CBP-001_A_PZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITABLE Tea Party Birthday Invitation, Pink and Gold Par-tea ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24764124/r/il/cae4bb/5878552324/il_fullxfull.5878552324_175z.jpg' alt='EDITABLE Tea Party Birthday Invitation, Pink and Gold Par-tea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24764124/r/il/cae4bb/5878552324/il_fullxfull.5878552324_175z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Big Dot of Happiness Floral Let’s Par-Tea - Shaped Fill-In  Invitations - Garden Tea Party Invitation Cards with Envelopes - Set of 12  : ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51CK6FG0DnL.jpg' alt='Amazon.com : Big Dot of Happiness Floral Let’s Par-Tea - Shaped Fill-In  Invitations - Garden Tea Party Invitation Cards with Envelopes - Set of 12  : ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51CK6FG0DnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Tea Party Invitation">
+                                <img itemprop="contentUrl url" src='https://media.finestationery.com/catalog/product/450x450/121271/rose-tea-party-invitation.jpg' alt='Rose Tea Party Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Stationery" />
+                                </span>
+                                <a href='https://media.finestationery.com/catalog/product/450x450/121271/rose-tea-party-invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Pink White Vintage Teapot Tea Party Invitations">
+                                <img itemprop="contentUrl url" src='https://cupcakemakeover.com/wp-content/uploads/2020/04/floral-pink-white-vintage-teapot-tea-party-invitations.png' alt='Floral Pink White Vintage Teapot Tea Party Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cupcakemakeover" />
+                                </span>
+                                <a href='https://cupcakemakeover.com/wp-content/uploads/2020/04/floral-pink-white-vintage-teapot-tea-party-invitations.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tea Party Invitations, 25 Invites With Big Tea pot & flowers includes 25  envelopes for girl parties, engagement, bridal and baby shower or  birthdays, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zRkFXifUL._AC_UF894,1000_QL80_.jpg' alt='Tea Party Invitations, 25 Invites With Big Tea pot & flowers includes 25  envelopes for girl parties, engagement, bridal and baby shower or  birthdays, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zRkFXifUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tea Party Invitations for Various Occasions: Birthday, Baby Shower, Bridal  Shower, Engagement Party">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Tea-Party-Invitations-for-Various-Occasions-Birthday-Baby-Shower-Bridal-Shower-Engagement-Party_bb2de9ba-92e7-40b3-9f99-bc3a18cfc758.8bae89d66961f3c184f5e24ada1099c4.jpeg' alt='Tea Party Invitations for Various Occasions: Birthday, Baby Shower, Bridal  Shower, Engagement Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1257">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Tea-Party-Invitations-for-Various-Occasions-Birthday-Baby-Shower-Bridal-Shower-Engagement-Party_bb2de9ba-92e7-40b3-9f99-bc3a18cfc758.8bae89d66961f3c184f5e24ada1099c4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Pink Floral Tea Party Baby Shower Invites - D157">
+                                <img itemprop="contentUrl url" src='https://babyprintables.com/wp-content/uploads/2024/02/a-Baby-is-Brewing-Tea-Party-Baby-Shower-Invites-elegant-pink.png' alt='Elegant Pink Floral Tea Party Baby Shower Invites - D157'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Printables" />
+                                </span>
+                                <a href='https://babyprintables.com/wp-content/uploads/2024/02/a-Baby-is-Brewing-Tea-Party-Baby-Shower-Invites-elegant-pink.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Enchanted Beauty And The Beast Tea Party Children's Birthday Party  Invitations by Rebecca Smith">
+                                <img itemprop="contentUrl url" src='https://cdn3.minted.com/files/mintedProductsImages/MIN/CBP/6VI/MIN-6VI-CBP-001B_A_PZ.jpg?mntd_prf=Pdp:HeroImage' alt='Disney Enchanted Beauty And The Beast Tea Party Children's Birthday Party  Invitations by Rebecca Smith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minted" />
+                                </span>
+                                <a href='https://cdn3.minted.com/files/mintedProductsImages/MIN/CBP/6VI/MIN-6VI-CBP-001B_A_PZ.jpg?mntd_prf=Pdp:HeroImage' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover New Mexico: Land of Enchantment</title>
+                    <meta name="description" content="Explore New Mexico's enchanting landscapes, rich history, and diverse cultures. Enjoy stunning sunsets, outdoor adventures, and unique culinary experiences in the heart of the Southwest. Uncover the beauty and heritage of the Land of Enchantment today!">
+                    <meta name="keywords" content="new mexico">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-mexico">
+                            <span itemprop="name">new mexico</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover New Mexico: Land of Enchantment</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_Mexico_in_United_States.svg/300px-New_Mexico_in_United_States.svg.png' alt='New Mexico - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_Mexico_in_United_States.svg/300px-New_Mexico_in_United_States.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/92/20592-050-31E12C25/New-Mexico-map-counties-cities-boundaries-locator.jpg' alt='New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1118">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/92/20592-050-31E12C25/New-Mexico-map-counties-cities-boundaries-locator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/03/3003-050-F0EB2D27/flag-New-Mexico-state-flags-one-design-March-15-1925.jpg' alt='New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/03/3003-050-F0EB2D27/flag-New-Mexico-state-flags-one-design-March-15-1925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/53/c0/94/nm-01.png' alt='New Mexico Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/53/c0/94/nm-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico: All You Must Know Before You Go (2025) - Tripadvisor">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fb/06/new-mexico.jpg?w=1400&h=1400&s=1' alt='New Mexico: All You Must Know Before You Go (2025) - Tripadvisor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fb/06/new-mexico.jpg?w=1400&h=1400&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home | Visit Las Cruces, New Mexico">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_375,q_65,w_599/v1/clients/lascrucesnm/WEB_scenic_2_18c25820-0533-42f7-b93e-87fd8aec1b74.jpg' alt='Home | Visit Las Cruces, New Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.visitlascruces.com" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_375,q_65,w_599/v1/clients/lascrucesnm/WEB_scenic_2_18c25820-0533-42f7-b93e-87fd8aec1b74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico State Data | Population, Symbols, Government, Sports Facts">
+                                <img itemprop="contentUrl url" src='https://state.1keydata.com/new-mexico-state-map.jpg' alt='New Mexico State Data | Population, Symbols, Government, Sports Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphabetical List of 50 States - 1Keydata" />
+                                </span>
+                                <a href='https://state.1keydata.com/new-mexico-state-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Reasons to Visit New Mexico - Good Sam Camping Blog">
+                                <img itemprop="contentUrl url" src='https://blog.goodsam.com/wp-content/uploads/2022/01/GettyImages-493837532.jpg' alt='10 Reasons to Visit New Mexico - Good Sam Camping Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2119">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Sam Camping Blog" />
+                                </span>
+                                <a href='https://blog.goodsam.com/wp-content/uploads/2022/01/GettyImages-493837532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/93/20593-050-AF9A994B/New-Mexico-map-features-MAP-locator-CORE.jpg' alt='New Mexico | Flag, Facts, Maps, & Points of Interest | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1118">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/93/20593-050-AF9A994B/New-Mexico-map-features-MAP-locator-CORE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted New Mexico | https://adventurecaravans.com">
+                                <img itemprop="contentUrl url" src='https://adventurecaravans.com/wp-content/uploads/2019/04/New-Mexico-scaled.jpg' alt='Enchanted New Mexico | https://adventurecaravans.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adventure Caravans" />
+                                </span>
+                                <a href='https://adventurecaravans.com/wp-content/uploads/2019/04/New-Mexico-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

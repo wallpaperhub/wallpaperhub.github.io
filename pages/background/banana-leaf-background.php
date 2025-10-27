@@ -1,0 +1,129 @@
+<title>“Vibrant Banana Leaf Backgrounds for Your Creative Projects”</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="banana leaf background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/banana-leaf-background">
+                            <span itemprop="name">banana leaf background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Vibrant Banana Leaf Backgrounds for Your Creative Projects”</h1>
+                <p>Banana leaf backgrounds add a tropical vibe to any design project. Their vibrant green hues and unique textures create a fresh, lively atmosphere, perfect for various themes, from culinary presentations to eco-friendly designs. These backgrounds evoke a sense of nature and relaxation, making them ideal for posters, websites, and social media.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green banana leaf background with copy specs for text. The leaves of the  banana tree pattern.">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/00/82/59/1000_F_300825957_i6Mxq8ifNzJbfGN9t1YXGXCCdhLzUJm2.jpg' alt='Green banana leaf background with copy specs for text. The leaves of the  banana tree pattern.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limitless Walls" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/00/82/59/1000_F_300825957_i6Mxq8ifNzJbfGN9t1YXGXCCdhLzUJm2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty wooden plate on banana leaves background. Top view Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2CFD6X0/empty-wooden-plate-on-banana-leaves-background-top-view-2CFD6X0.jpg' alt='Empty wooden plate on banana leaves background. Top view Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2CFD6X0/empty-wooden-plate-on-banana-leaves-background-top-view-2CFD6X0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/nature-background-with-golden-foil_52683-46172.jpg' alt='Banana Leaf Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/nature-background-with-golden-foil_52683-46172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Texture Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/natural-background-green-leaf-texture_169016-23084.jpg' alt='Banana Leaf Texture Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/natural-background-green-leaf-texture_169016-23084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="S2S Banana Leaf Backdrop Cloth | for Pooja Decoration Traditional  Background Curtain Cloth | 5 Feet Height & 5 Feet Width">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fqQ9hdaRL.jpg' alt='S2S Banana Leaf Backdrop Cloth | for Pooja Decoration Traditional  Background Curtain Cloth | 5 Feet Height & 5 Feet Width'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fqQ9hdaRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/256/898/non_2x/fresh-green-banana-leaf-overlay-natural-background-free-photo.jpg' alt='Banana Leaf Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1471">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/256/898/non_2x/fresh-green-banana-leaf-overlay-natural-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Background" Images – Browse 262 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/59/84/13/360_F_759841303_x1hvp454T8v3QGDd3DyrTUrhgSbCVRyO.jpg' alt='Banana Leaf Background" Images – Browse 262 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/59/84/13/360_F_759841303_x1hvp454T8v3QGDd3DyrTUrhgSbCVRyO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Background Stock Photo, Picture and Royalty Free Image ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/wetchawut/wetchawut1206/wetchawut120600472/14180567-banana-leaf-background.jpg' alt='Banana Leaf Background Stock Photo, Picture and Royalty Free Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/wetchawut/wetchawut1206/wetchawut120600472/14180567-banana-leaf-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Fresh Spring Green Banana Leaf Flower Background Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20190328/small-fresh-spring-green-banana-leaf-flower-background_1828803.jpg!w700wp' alt='Small Fresh Spring Green Banana Leaf Flower Background Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20190328/small-fresh-spring-green-banana-leaf-flower-background_1828803.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="banana leaf background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/2f/2e/592f2eb5a3df15d99f5b34bee46b384c.jpg' alt='banana leaf background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/2f/2e/592f2eb5a3df15d99f5b34bee46b384c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

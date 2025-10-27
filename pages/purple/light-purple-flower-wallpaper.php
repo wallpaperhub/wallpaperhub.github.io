@@ -1,0 +1,129 @@
+<title>Beautiful Light Purple Flower Wallpaper for Your Space</title>
+                    <meta name="description" content="Add elegance to your home with our light purple flower wallpaper. Perfect for creating a serene atmosphere in any room, these designs combine beauty and tranquility, making them ideal for relaxation and inspiration. Elevate your decor effortlessly with this floral masterpiece!">
+                    <meta name="keywords" content="light purple flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/light-purple-flower-wallpaper">
+                            <span itemprop="name">light purple flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Light Purple Flower Wallpaper for Your Space</h1>
+                <p>Light purple flower wallpaper adds a touch of serenity and elegance to any space. With its soft hues and delicate designs, it can transform your walls into a calming floral backdrop. Perfect for bedrooms, living rooms, or offices, this wallpaper brings a refreshing, chic vibe while promoting relaxation and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Look Purple Flowers Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/6/16410311-crop.jpg' alt='3D Look Purple Flowers Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/6/16410311-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Bích Nguyễn on flowers | Purple flowers wallpaper, Light ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/95/5c/14/955c149d7337c4269e4b6b0aff07c74e.jpg' alt='Pin by Bích Nguyễn on flowers | Purple flowers wallpaper, Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/95/5c/14/955c149d7337c4269e4b6b0aff07c74e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/d0/2f/29d02f8d84938e101c18450bf6e991f2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/d0/2f/29d02f8d84938e101c18450bf6e991f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Purple Flower Photo Of Light Lilac Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-purple-flower-8exz3l6nbnr2h3xv.jpg' alt='Download Aesthetic Purple Flower Photo Of Light Lilac Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-purple-flower-8exz3l6nbnr2h3xv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Aesthetic Chamomile Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-purple-aesthetic-chamomile-flowers-2behd799l1ckupmt.jpg' alt='Light Purple Aesthetic Chamomile Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-purple-aesthetic-chamomile-flowers-2behd799l1ckupmt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Hand-drawn Flowers Aesthetic Mobile Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/7c/70/827c700da511b9f7f84a52b23af3bb85.jpg' alt='Light Purple Hand-drawn Flowers Aesthetic Mobile Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/7c/70/827c700da511b9f7f84a52b23af3bb85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Purple Flower in full bloom Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-purple-flower-q1ad1icyuycc883j.jpg' alt='Download Aesthetic Purple Flower in full bloom Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-purple-flower-q1ad1icyuycc883j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Flower Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/425/330/small_2x/close-up-of-delicate-light-purple-cosmos-flowers-in-a-field-at-sunset-photo.jpeg' alt='Light Purple Flower Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/425/330/small_2x/close-up-of-delicate-light-purple-cosmos-flowers-in-a-field-at-sunset-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple-flower-iphone-wallpaper | guitar & lace">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/guitarandlace.com/wp-content/uploads/2021/02/purple-flower-iphone-wallpaper.jpg?ssl=1' alt='purple-flower-iphone-wallpaper | guitar & lace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guitar & Lace" />
+                                </span>
+                                <a href='https://i0.wp.com/guitarandlace.com/wp-content/uploads/2021/02/purple-flower-iphone-wallpaper.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="146,185 Light Purple Floral Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/floral-violet-white-beautiful-background-flower-composition-bouquet-flowers-light-purple-roses-close-up-floral-violet-113407685.jpg' alt='146,185 Light Purple Floral Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/floral-violet-white-beautiful-background-flower-composition-bouquet-flowers-light-purple-roses-close-up-floral-violet-113407685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

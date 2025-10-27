@@ -1,0 +1,129 @@
+<title>Elevate Your Space with White Subway Tile Wallpaper</title>
+                    <meta name="description" content="Discover the beauty and ease of white subway tile wallpaper. Perfect for a modern touch in kitchens or bathrooms, it combines classic style with effortless maintenance. Transform your walls with this chic design today!">
+                    <meta name="keywords" content="white subway tile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-subway-tile-wallpaper">
+                            <span itemprop="name">white subway tile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with White Subway Tile Wallpaper</h1>
+                <p>White subway tile wallpaper brings a sleek and modern look to any space, offering the classic charm of traditional tiles without the hassle of installation. Perfect for kitchens or bathrooms, this wallpaper is easy to clean and maintain, allowing you to achieve a stylish aesthetic while adding texture and visual interest to your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Subway Tiles Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-1.jpg' alt='White Subway Tiles Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Freedom Off-White Subway Tile Off-White Wallpaper Sample  3115-12491SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/302a4ffa-91eb-4348-98b8-1e2b1776f2bd/svn/chesapeake-wallpaper-samples-3115-12491sam-64_600.jpg' alt='Chesapeake Freedom Off-White Subway Tile Off-White Wallpaper Sample  3115-12491SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/302a4ffa-91eb-4348-98b8-1e2b1776f2bd/svn/chesapeake-wallpaper-samples-3115-12491sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Tile by Galerie - White - Wallpaper - G45445">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/195880/tiled/galerie-subway-tile-white-wallpaper-tiled-195880.jpg' alt='Subway Tile by Galerie - White - Wallpaper - G45445'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/195880/tiled/galerie-subway-tile-white-wallpaper-tiled-195880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Subway Tiles Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-4.jpg.optimal.jpg' alt='White Subway Tiles Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-4.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Subway Tile White Vinyl Peel & Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c0caf52c-7326-464b-9458-8172a1dc10cb/svn/nextwall-wallpaper-rolls-nw34000-64_600.jpg' alt='NextWall Subway Tile White Vinyl Peel & Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c0caf52c-7326-464b-9458-8172a1dc10cb/svn/nextwall-wallpaper-rolls-nw34000-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beveled Subway White Tile Peel and Stick Wallpaper / Brick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/13ef5e/2894020714/il_570xN.2894020714_nt6f.jpg' alt='Beveled Subway White Tile Peel and Stick Wallpaper / Brick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/13ef5e/2894020714/il_570xN.2894020714_nt6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Subway Tiles Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-2.jpg.optimal.jpg' alt='White Subway Tiles Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-2.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Large Subway Tile Peel & Stick Wallpaper - White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW37600_43e44764-9da2-46c9-a489-4e324ed8ccbe.jpg?v=1636668971' alt='NextWall Large Subway Tile Peel & Stick Wallpaper - White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW37600_43e44764-9da2-46c9-a489-4e324ed8ccbe.jpg?v=1636668971' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Subway Tile Wallpaper for Bathroom or Kitchen - Floor or ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13582452/r/il/f25218/2807245684/il_1080xN.2807245684_6fa0.jpg' alt='Dollhouse Subway Tile Wallpaper for Bathroom or Kitchen - Floor or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13582452/r/il/f25218/2807245684/il_1080xN.2807245684_6fa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

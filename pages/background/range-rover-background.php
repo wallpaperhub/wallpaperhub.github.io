@@ -1,0 +1,129 @@
+<title>Discover the History and Legacy of Range Rover</title>
+                    <meta name="description" content="Explore the fascinating background of the Range Rover, a luxury SUV known for its perfect blend of style and performance. Dive into its history, evolution, and iconic status in the automotive world. Perfect for enthusiasts and newcomers alike!">
+                    <meta name="keywords" content="range rover background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/range-rover-background">
+                            <span itemprop="name">range rover background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the History and Legacy of Range Rover</h1>
+                <p>The Range Rover is a luxury SUV that originated from the UK, first launched in 1970 by Land Rover. Renowned for its blend of off-road capability and on-road comfort, it has evolved through various generations, incorporating cutting-edge technology and design. Symbolizing prestige and adventure, it remains an iconic choice among enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land Rover Virtual Backgrounds | Land Rover Media Newsroom">
+                                <img itemprop="contentUrl url" src='https://media.production.jlrms.com/2020-04-27/image/5027630c-3f80-4609-8494-62260ad9e483/Range%20Rover%20Velar%20SVAutobiography%20Dynamic%20Edition%20%282%29.jpg?VersionId=jwVtewMFPbvf7a0j7BvJ5L_umpKhL1H9' alt='Land Rover Virtual Backgrounds | Land Rover Media Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7775">
+                                <meta itemprop="height" content="4528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land Rover Media" />
+                                </span>
+                                <a href='https://media.production.jlrms.com/2020-04-27/image/5027630c-3f80-4609-8494-62260ad9e483/Range%20Rover%20Velar%20SVAutobiography%20Dynamic%20Edition%20%282%29.jpg?VersionId=jwVtewMFPbvf7a0j7BvJ5L_umpKhL1H9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Range Rover Photos, Download The BEST Free Range Rover Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/4062200/pexels-photo-4062200.jpeg?cs=srgb&dl=pexels-introspectivedsgn-4062200.jpg&fm=jpg' alt='Range Rover Photos, Download The BEST Free Range Rover Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/4062200/pexels-photo-4062200.jpeg?cs=srgb&dl=pexels-introspectivedsgn-4062200.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land Rover Virtual Backgrounds | Land Rover Media Newsroom">
+                                <img itemprop="contentUrl url" src='https://media.production.jlrms.com/2020-04-27/image/9cf4fb9f-1efc-4cd9-8714-3e34e708c114/Range%20Rover%20Velar%20SVAutobiography%20Dynamic%20Edition%20%281%29.jpg?VersionId=Ms6DnzpJ.ojrFOVhyrV5dKh6oO0eawK_' alt='Land Rover Virtual Backgrounds | Land Rover Media Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5329">
+                                <meta itemprop="height" content="2785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land Rover Media" />
+                                </span>
+                                <a href='https://media.production.jlrms.com/2020-04-27/image/9cf4fb9f-1efc-4cd9-8714-3e34e708c114/Range%20Rover%20Velar%20SVAutobiography%20Dynamic%20Edition%20%281%29.jpg?VersionId=Ms6DnzpJ.ojrFOVhyrV5dKh6oO0eawK_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land Rover Virtual Backgrounds | Land Rover Media Newsroom">
+                                <img itemprop="contentUrl url" src='https://media.production.jlrms.com/2020-04-27/image/4dbb36d2-1c93-428b-8702-af0970795fe3/Range%20Rover%20Sport%20SVR.jpg?VersionId=CWPpgN3.DiH.YSDGRznEp5or1MJfDEnf' alt='Land Rover Virtual Backgrounds | Land Rover Media Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4961">
+                                <meta itemprop="height" content="2432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land Rover Media" />
+                                </span>
+                                <a href='https://media.production.jlrms.com/2020-04-27/image/4dbb36d2-1c93-428b-8702-af0970795fe3/Range%20Rover%20Sport%20SVR.jpg?VersionId=CWPpgN3.DiH.YSDGRznEp5or1MJfDEnf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land Rover Virtual Backgrounds | Land Rover Media Newsroom">
+                                <img itemprop="contentUrl url" src='https://media.production.jlrms.com/styles/thumbnail_crop/s3/2020-04-27/image/afb4cfba-e7ef-4dbf-ba33-1ef79a4b2854/Range%20Rover%20SVAutobiography%20Dynamic.jpg?VersionId=FLuEyMbLELxDE1KapcxaR9WZHvbc0Mkc&h=ec64a2c7&itok=uM3XgQpi' alt='Land Rover Virtual Backgrounds | Land Rover Media Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land Rover Media" />
+                                </span>
+                                <a href='https://media.production.jlrms.com/styles/thumbnail_crop/s3/2020-04-27/image/afb4cfba-e7ef-4dbf-ba33-1ef79a4b2854/Range%20Rover%20SVAutobiography%20Dynamic.jpg?VersionId=FLuEyMbLELxDE1KapcxaR9WZHvbc0Mkc&h=ec64a2c7&itok=uM3XgQpi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Range Rover Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1638686302275-0e87df720aca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHx8MA%3D%3D' alt='1500+ Range Rover Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1638686302275-0e87df720aca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73+] Range Rover Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/1/8/3396-3840x2160-desktop-4k-range-rover-background-photo.jpg' alt='73+] Range Rover Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/1/8/3396-3840x2160-desktop-4k-range-rover-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper background, Land Rover, Range Rover, Coupe, range Rover ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/4096x1836/8/9c/range-rover-coupe-land-rover-rendzh-rover-fon.jpg' alt='Wallpaper background, Land Rover, Range Rover, Coupe, range Rover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="1836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/4096x1836/8/9c/range-rover-coupe-land-rover-rendzh-rover-fon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73+] Range Rover Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/7/b/158103-3840x2160-desktop-4k-range-rover-background-image.jpg' alt='73+] Range Rover Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/7/b/158103-3840x2160-desktop-4k-range-rover-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Land Rover Virtual Backgrounds | Land Rover Media Newsroom">
+                                <img itemprop="contentUrl url" src='https://media.production.jlrms.com/2020-04-06/image/10e438f6-7990-4a15-89ef-470250e9153b/Land%20Rover%20Defender%20110%20-%20Namibia.jpg?VersionId=964yBtkG14xxNZFkl05P5HjetmAg5dj.' alt='Land Rover Virtual Backgrounds | Land Rover Media Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land Rover Media" />
+                                </span>
+                                <a href='https://media.production.jlrms.com/2020-04-06/image/10e438f6-7990-4a15-89ef-470250e9153b/Land%20Rover%20Defender%20110%20-%20Namibia.jpg?VersionId=964yBtkG14xxNZFkl05P5HjetmAg5dj.' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

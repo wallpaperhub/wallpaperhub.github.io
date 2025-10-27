@@ -1,0 +1,129 @@
+<title>Top Facts About Rick Riordan: The Master of Modern Mythology</title>
+                    <meta name="description" content="Discover intriguing facts about Rick Riordan, the acclaimed author behind the "Percy Jackson" series. Learn about his life, writing journey, and how he brought mythology to life for a new generation. Dive into the adventures of your favorite characters and find out more about the man behind the magic!">
+                    <meta name="keywords" content="facts about rick riordan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-rick-riordan">
+                            <span itemprop="name">facts about rick riordan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Facts About Rick Riordan: The Master of Modern Mythology</h1>
+                <p>Rick Riordan is a celebrated American author known for popularizing mythology among young readers. He is best known for the "Percy Jackson & the Olympians" series, which spins modern tales from Greek mythology. Born on June 5, 1964, Riordan also writes the "Heroes of Olympus" series and other mythological retellings. His engaging storytelling has inspired millions!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Rick Riordan | Rick Riordan">
+                                <img itemprop="contentUrl url" src='https://cdn.rickriordan.com/wp-content/uploads/2020/10/11224708/rick.jpg' alt='About Rick Riordan | Rick Riordan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rick Riordan" />
+                                </span>
+                                <a href='https://cdn.rickriordan.com/wp-content/uploads/2020/10/11224708/rick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan | Biography, Books, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/91/194591-050-26A5A3DB/Rick-Riordan.jpg' alt='Rick Riordan | Biography, Books, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/91/194591-050-26A5A3DB/Rick-Riordan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan Facts for Kids">
+                                <img itemprop="contentUrl url" src='https://kids.kiddle.co/images/thumb/d/d2/Rick_Riordan_%28cropped%29.jpg/300px-Rick_Riordan_%28cropped%29.jpg' alt='Rick Riordan Facts for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids encyclopedia facts - Kiddle" />
+                                </span>
+                                <a href='https://kids.kiddle.co/images/thumb/d/d2/Rick_Riordan_%28cropped%29.jpg/300px-Rick_Riordan_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan | Penguin Random House">
+                                <img itemprop="contentUrl url" src='https://images4.penguinrandomhouse.com/author/25624' alt='Rick Riordan | Penguin Random House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="341">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Random House" />
+                                </span>
+                                <a href='https://images4.penguinrandomhouse.com/author/25624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riordan, Rick - Bound to Stay Bound Books">
+                                <img itemprop="contentUrl url" src='https://www.btsb.com/btsbcontent/uploads/2013/12/rick-riordan.jpg' alt='Riordan, Rick - Bound to Stay Bound Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bound to Stay Bound Books" />
+                                </span>
+                                <a href='https://www.btsb.com/btsbcontent/uploads/2013/12/rick-riordan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan | Riordan Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/olympians/images/d/d6/Rick_Riordan.jpg/revision/latest?cb=20110710084715' alt='Rick Riordan | Riordan Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riordan Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/olympians/images/d/d6/Rick_Riordan.jpg/revision/latest?cb=20110710084715' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan Facts for Kids | KidzSearch.com">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rick_riordan_2007.jpg/300px-Rick_riordan_2007.jpg' alt='Rick Riordan Facts for Kids | KidzSearch.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KidzSearch Wiki" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rick_riordan_2007.jpg/300px-Rick_riordan_2007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan: Interesting facts about the 'Percy Jackson and the ...">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/photo/100762932/100762932.jpg' alt='Rick Riordan: Interesting facts about the 'Percy Jackson and the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India - Indiatimes" />
+                                </span>
+                                <a href='https://static.toiimg.com/photo/100762932/100762932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Riordan Story - Bio, Facts, Home, Family, Networth | Famous ...">
+                                <img itemprop="contentUrl url" src='https://images.successstory.com/adminimg/image_uploads/content_images/rick-riordan-profile_1454677800.jpg' alt='Rick Riordan Story - Bio, Facts, Home, Family, Networth | Famous ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Success Stories" />
+                                </span>
+                                <a href='https://images.successstory.com/adminimg/image_uploads/content_images/rick-riordan-profile_1454677800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Rick Riordan | KickassFacts">
+                                <img itemprop="contentUrl url" src='https://www.kickassfacts.com/wp-content/uploads/2019/07/RickRiordan-WhereToStart-ArticleCard-e1563563268695-1.jpg' alt='10 Facts About Rick Riordan | KickassFacts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KickassFacts" />
+                                </span>
+                                <a href='https://www.kickassfacts.com/wp-content/uploads/2019/07/RickRiordan-WhereToStart-ArticleCard-e1563563268695-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

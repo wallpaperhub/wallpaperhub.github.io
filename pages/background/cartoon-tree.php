@@ -1,0 +1,129 @@
+<title>Whimsical Cartoon Tree Designs for Kids</title>
+                    <meta name="description" content="Discover the enchanting world of cartoon trees! Perfect for children's illustrations and animations, these vibrant, playful designs bring creativity and joy to any project. Explore diverse styles to inspire imagination and storytelling!">
+                    <meta name="keywords" content="cartoon tree">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cartoon-tree">
+                            <span itemprop="name">cartoon tree</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Cartoon Tree Designs for Kids</h1>
+                <p>A cartoon tree brings whimsical charm to any illustration, boasting vibrant colors and exaggerated features. These trees often have oversized leaves, smiling faces, and a playful demeanor, making them ideal for children's books and animations. They can represent a friendly environment, adding joy and creativity to storytelling, perfect for evoking imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Cartoon Tree | Easy Step by Step Drawing Guides">
+                                <img itemprop="contentUrl url" src='https://easydrawingguides.com/wp-content/uploads/2017/04/how-to-draw-a-cartoon-tree-featured-image-1200.png' alt='How to Draw a Cartoon Tree | Easy Step by Step Drawing Guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Drawing Guides" />
+                                </span>
+                                <a href='https://easydrawingguides.com/wp-content/uploads/2017/04/how-to-draw-a-cartoon-tree-featured-image-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Tree Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/848/822/non_2x/big-cartoon-tree-vector.jpg' alt='Cartoon Tree Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/848/822/non_2x/big-cartoon-tree-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Tree" Images – Browse 7,961 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/22/37/83/360_F_722378372_2Qwd9ZQ1K5rzdMPzBaGZ59JdELo314vj.jpg' alt='Cartoon Tree" Images – Browse 7,961 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/22/37/83/360_F_722378372_2Qwd9ZQ1K5rzdMPzBaGZ59JdELo314vj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Tree Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vibrant-cartoon-tree-illustration_1308-177212.jpg' alt='Cartoon Tree Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vibrant-cartoon-tree-illustration_1308-177212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Tree PNG Clip Art - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Cartoon_Tree_PNG_Clip_Art-1092.png' alt='Cartoon Tree PNG Clip Art - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4810">
+                                <meta itemprop="height" content="5122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Cartoon_Tree_PNG_Clip_Art-1092.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cherry Tree Stock Illustrations – 10,589 Cartoon Cherry ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cheerful-cartoon-cherry-blossom-tree-smiling-face-cheerful-cartoon-cherry-blossom-tree-smiling-face-suitable-t-shirt-345341021.jpg' alt='Cartoon Cherry Tree Stock Illustrations – 10,589 Cartoon Cherry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cheerful-cartoon-cherry-blossom-tree-smiling-face-cheerful-cartoon-cherry-blossom-tree-smiling-face-suitable-t-shirt-345341021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Cartoon Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/132/083/small_2x/green-tree-cartoon-isolated-on-white-background-illustration-of-green-tree-cartoon-free-vector.jpg' alt='Tree Cartoon Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/132/083/small_2x/green-tree-cartoon-isolated-on-white-background-illustration-of-green-tree-cartoon-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon tree - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/79045/cartoon-tree-clipart-md.png' alt='Cartoon tree - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/79045/cartoon-tree-clipart-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Tree Stock Illustrations – 793,654 Cartoon Tree Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/cartoon-tree-character-10015282.jpg' alt='Cartoon Tree Stock Illustrations – 793,654 Cartoon Tree Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1188">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/cartoon-tree-character-10015282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Black Cartoon Tree Silhouette">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/31/77/16/86/700_FO31771686_2e3dac5f7788cabb1a83edd2367383d6.jpg,692,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,472,650,jpg)/wall-murals-black-cartoon-tree-silhouette.jpg.jpg' alt='Wall Mural Black Cartoon Tree Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/31/77/16/86/700_FO31771686_2e3dac5f7788cabb1a83edd2367383d6.jpg,692,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,472,650,jpg)/wall-murals-black-cartoon-tree-silhouette.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

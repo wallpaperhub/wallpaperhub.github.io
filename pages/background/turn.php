@@ -1,0 +1,129 @@
+<title>Turning Points: Embrace Life's Changes</title>
+                    <meta name="description" content="Discover the significance of "turn" in life's journey. Explore how each turn—be it physical or metaphorical—shapes our experiences and offers new perspectives. Embrace change and uncover the opportunities that come with every turn you take!">
+                    <meta name="keywords" content="turn">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turn">
+                            <span itemprop="name">turn</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Turning Points: Embrace Life's Changes</h1>
+                <p>The concept of "turn" can signify various transitions or changes in paths, decisions, or perspectives. It can represent a physical movement, such as turning a corner, or a metaphorical shift in one's attitude or beliefs. Each turn in life shapes our journey, offering new opportunities and lessons along the way. Embrace the turns!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Right Turn Symbol Sign - Sharp Turn Sign, SKU: X-W1-1R">
+                                <img itemprop="contentUrl url" src='https://www.roadtrafficsigns.com/img/lg/X/right-turn-sign-x-w1-1r.png' alt='Right Turn Symbol Sign - Sharp Turn Sign, SKU: X-W1-1R'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Traffic Signs" />
+                                </span>
+                                <a href='https://www.roadtrafficsigns.com/img/lg/X/right-turn-sign-x-w1-1r.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a U-Turn: Tips and Techniques for Safe and Effective ...">
+                                <img itemprop="contentUrl url" src='https://www.drivesafeonline.org/wp-content/uploads/2023/03/how-to-perform-uturn-1080x657.jpg' alt='How to Do a U-Turn: Tips and Techniques for Safe and Effective ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DriveSafe Online" />
+                                </span>
+                                <a href='https://www.drivesafeonline.org/wp-content/uploads/2023/03/how-to-perform-uturn-1080x657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U Turn Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/611/601/non_2x/u-turn-left-traffic-road-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg' alt='U Turn Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/611/601/non_2x/u-turn-left-traffic-road-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U-Turn Signs">
+                                <img itemprop="contentUrl url" src='https://images.roadtrafficsigns.com/img/dp/md/u-turn-sign.jpg' alt='U-Turn Signs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Traffic Signs" />
+                                </span>
+                                <a href='https://images.roadtrafficsigns.com/img/dp/md/u-turn-sign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making a Safe U-Turn - Laws, Considerations & Examples 2024 ...">
+                                <img itemprop="contentUrl url" src='http://www.comedytrafficschool.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-3.54.39-PM.png' alt='Making a Safe U-Turn - Laws, Considerations & Examples 2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comedy Traffic School" />
+                                </span>
+                                <a href='http://www.comedytrafficschool.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-3.54.39-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U Turn Stock Illustrations – 1,348 U Turn Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/u-turn-sign-isolated-transparent-background-illustration-208660438.jpg' alt='U Turn Stock Illustrations – 1,348 U Turn Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1461">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/u-turn-sign-isolated-transparent-background-illustration-208660438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Legitimate U Turn in 6 Safe Steps - Driving-Tests.org">
+                                <img itemprop="contentUrl url" src='https://driving-tests.org/wp-content/uploads/2012/02/u-turn-on-the-road.jpg' alt='How to Make a Legitimate U Turn in 6 Safe Steps - Driving-Tests.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Driving-Tests.org" />
+                                </span>
+                                <a href='https://driving-tests.org/wp-content/uploads/2012/02/u-turn-on-the-road.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: U-Turn Right Arrow Aluminum Composite Outdoor Sign - Street  Signs - Road Signs - Right Turn Only Traffic Sign - Personalized Signs - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51PGQYi5HnL.jpg' alt='Amazon.com: U-Turn Right Arrow Aluminum Composite Outdoor Sign - Street  Signs - Road Signs - Right Turn Only Traffic Sign - Personalized Signs - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1278">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51PGQYi5HnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Right Turn Sign Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/638001430/photo/traffic-sign.jpg?s=612x612&w=0&k=20&c=lUVx69YTHIY4U2GVOFprOz0IQdiFAlvtgtcwzGcdVOQ=' alt='2,000+ Right Turn Sign Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/638001430/photo/traffic-sign.jpg?s=612x612&w=0&k=20&c=lUVx69YTHIY4U2GVOFprOz0IQdiFAlvtgtcwzGcdVOQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hook turn - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hook_turn_bicycle.png/1200px-Hook_turn_bicycle.png' alt='Hook turn - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hook_turn_bicycle.png/1200px-Hook_turn_bicycle.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

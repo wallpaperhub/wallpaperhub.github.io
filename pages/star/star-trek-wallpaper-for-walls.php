@@ -1,0 +1,129 @@
+<title>Stellar Star Trek Wallpaper for Your Walls</title>
+                    <meta name="description" content="Discover the ultimate collection of Star Trek wallpaper to elevate your home decor. Perfect for fans seeking to showcase their passion, our vibrant designs capture the essence of this iconic franchise. Transform your walls into a galactic adventure today!">
+                    <meta name="keywords" content="star trek wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-trek-wallpaper-for-walls">
+                            <span itemprop="name">star trek wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stellar Star Trek Wallpaper for Your Walls</h1>
+                <p>Transform your space with stunning Star Trek wallpaper that brings the iconic universe to your walls. Whether you’re a fan of the classic series or the latest films, our vibrant designs enhance any room. Immerse yourself in the adventures of the USS Enterprise or explore thrilling alien worlds—all while expressing your love for Star Trek.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/d/6/12128-3840x2160-desktop-4k-star-trek-background-photo.jpg' alt='Star Trek Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/d/6/12128-3840x2160-desktop-4k-star-trek-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STAR TREK™ Enterprise Bridge Mural">
+                                <img itemprop="contentUrl url" src='https://www.muralsuperstore.com/catalog/JL1172M.jpg' alt='STAR TREK™ Enterprise Bridge Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Murals $19.95 Mural Superstore" />
+                                </span>
+                                <a href='https://www.muralsuperstore.com/catalog/JL1172M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Wallpaper Pack by digitalchet on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b44e8ece-b958-4673-90fc-7fc6e00feea6/d55rpot-953ec05b-646b-46c8-bdb0-7521639a8530.jpg/v1/fill/w_800,h_450,q_75,strp/star_trek_wallpaper_pack_by_digitalchet_d55rpot-fullview.jpg' alt='Star Trek Wallpaper Pack by digitalchet on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b44e8ece-b958-4673-90fc-7fc6e00feea6/d55rpot-953ec05b-646b-46c8-bdb0-7521639a8530.jpg/v1/fill/w_800,h_450,q_75,strp/star_trek_wallpaper_pack_by_digitalchet_d55rpot-fullview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/e/8/102739-3840x2160-desktop-4k-star-trek-background.jpg' alt='Star Trek Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/e/8/102739-3840x2160-desktop-4k-star-trek-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CafePress Star Trek LCARS Large 35x21 Wall Decal, Vinyl Wall Peel, Reusable  Wall Cling">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iFAH6B+dL._AC_UF894,1000_QL80_.jpg' alt='CafePress Star Trek LCARS Large 35x21 Wall Decal, Vinyl Wall Peel, Reusable  Wall Cling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iFAH6B+dL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/f/0/12245-3840x2160-desktop-4k-star-trek-wallpaper-photo.jpg' alt='Star Trek Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/f/0/12245-3840x2160-desktop-4k-star-trek-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Star Trek Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-star-trek-federation-logo-pcmo3gpmz9qil9ut.jpg' alt='200+] Star Trek Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-star-trek-federation-logo-pcmo3gpmz9qil9ut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: CafePress Star Trek LCARS Large 35x21 Wall Decal, Vinyl Wall  Peel, Reusable Wall Cling : Tools & Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iFAH6B+dL.jpg' alt='Amazon.com: CafePress Star Trek LCARS Large 35x21 Wall Decal, Vinyl Wall  Peel, Reusable Wall Cling : Tools & Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iFAH6B+dL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Star Trek Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/007/023/390/large/tadeo-d-oria-to-boldly-go.jpg?1503092015' alt='ArtStation - Star Trek Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/007/023/390/large/tadeo-d-oria-to-boldly-go.jpg?1503092015' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Star Trek Enterprise Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-artwork-of-star-trek-9o3c2g78ifjskhzh.webp' alt='Hd Star Trek Enterprise Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-artwork-of-star-trek-9o3c2g78ifjskhzh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

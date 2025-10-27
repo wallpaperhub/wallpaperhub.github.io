@@ -1,0 +1,129 @@
+<title>Pittsburgh Steelers: A Legacy of Excellence</title>
+                    <meta name="description" content="Discover the rich history of the Pittsburgh Steelers, a legendary NFL team with six Super Bowl victories and a passionate fan base. Learn how their iconic black and gold colors and formidable defense have shaped one of the most successful franchises in football history.">
+                    <meta name="keywords" content="steelers background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/steelers-background">
+                            <span itemprop="name">steelers background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pittsburgh Steelers: A Legacy of Excellence</h1>
+                <p>The Pittsburgh Steelers, established in 1933, are a professional American football team based in Pittsburgh, Pennsylvania. They are a member of the National Football League (NFL) and the AFC North division. Known for their legendary defense, "Steel Curtain," and their iconic black and gold colors, the Steelers have won six Super Bowl titles, making them one of the most successful franchises in NFL history. Their loyal fan base and storied rivalries, especially with the Baltimore Ravens, contribute to their rich legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/s--j0JTw5X9--/v1585263195/steelers/xqebkxexbowclx7hoaty.jpg' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/s--j0JTw5X9--/v1585263195/steelers/xqebkxexbowclx7hoaty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/s--Ajfdye90--/v1585324967/steelers/ffaucqpfrxyxlk48q8gl.jpg' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/s--Ajfdye90--/v1585324967/steelers/ffaucqpfrxyxlk48q8gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/s--tkbiQuz6--/v1585250322/steelers/uaioq0td4voq47yb3fjc.jpg' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/s--tkbiQuz6--/v1585250322/steelers/uaioq0td4voq47yb3fjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Wallpaper by Jdot2daP on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de863ac1-cab2-4e21-a4f1-5a0af06c4923/d5j34i2-d0aec33d-c0f2-4858-9715-a92ebfb24724.jpg/v1/fill/w_1024,h_820,q_75,strp/pittsburgh_steelers_wallpaper_by_jdot2dap_d5j34i2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvZGU4NjNhYzEtY2FiMi00ZTIxLWE0ZjEtNWEwYWYwNmM0OTIzXC9kNWozNGkyLWQwYWVjMzNkLWMwZjItNDg1OC05NzE1LWE5MmViZmIyNDcyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3YTEaD_SEf18uzjI5yGHiNUKWvdZ-uhXdeMFB0-SkwM' alt='Pittsburgh Steelers Wallpaper by Jdot2daP on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de863ac1-cab2-4e21-a4f1-5a0af06c4923/d5j34i2-d0aec33d-c0f2-4858-9715-a92ebfb24724.jpg/v1/fill/w_1024,h_820,q_75,strp/pittsburgh_steelers_wallpaper_by_jdot2dap_d5j34i2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvZGU4NjNhYzEtY2FiMi00ZTIxLWE0ZjEtNWEwYWYwNmM0OTIzXC9kNWozNGkyLWQwYWVjMzNkLWMwZjItNDg1OC05NzE1LWE5MmViZmIyNDcyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3YTEaD_SEf18uzjI5yGHiNUKWvdZ-uhXdeMFB0-SkwM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Official Logo Of The Nfl's Pittsburgh Steelers Team Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-official-logo-of-the-nfl-s-pittsburgh-steelers-team-868ih0jfdrkkagm5.jpg' alt='The Official Logo Of The Nfl's Pittsburgh Steelers Team Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-official-logo-of-the-nfl-s-pittsburgh-steelers-team-868ih0jfdrkkagm5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/s--_b3mRAQj--/v1585249115/steelers/s8crus73whdufu47uehu.jpg' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/s--_b3mRAQj--/v1585249115/steelers/s8crus73whdufu47uehu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Steelers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/steelers-vertical-gold-stripes-z22eanim2jmr90t4.jpg' alt='100+] Steelers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/steelers-vertical-gold-stripes-z22eanim2jmr90t4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your phone deserves these.... - Pittsburgh Steelers | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158702835924905' alt='Your phone deserves these.... - Pittsburgh Steelers | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158702835924905' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/s--GK2Z-sBM--/v1585249386/steelers/xvospr8y550o2ghpssym.jpg' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/s--GK2Z-sBM--/v1585249386/steelers/xvospr8y550o2ghpssym.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Wallpapers - Allpicts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/21/75/af2175398836eda01d18803c77c150a8.jpg' alt='Pittsburgh Steelers Wallpapers - Allpicts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/21/75/af2175398836eda01d18803c77c150a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

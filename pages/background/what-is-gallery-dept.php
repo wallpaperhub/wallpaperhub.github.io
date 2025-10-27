@@ -1,0 +1,129 @@
+<title>Discover Gallery Dept: Art-Inspired Fashion</title>
+                    <meta name="description" content="Explore Gallery Dept, the fashion brand merging art with style. Dive into curated collections that celebrate creativity and urban culture. Ideal for those seeking unique apparel that makes a statement. Find your individuality through striking designs and bold graphics—shop Gallery Dept today!">
+                    <meta name="keywords" content="what is gallery dept">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-gallery-dept">
+                            <span itemprop="name">what is gallery dept</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Gallery Dept: Art-Inspired Fashion</h1>
+                <p>Gallery Dept is a contemporary clothing brand known for its unique blend of art and fashion. The label focuses on creating curated pieces that reflect creativity and individuality, often featuring bold graphics and artistic designs. Their collections are a statement in urban culture, attracting those who value self-expression through fashion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GALLERY DEPT. GD CENTER LOGO HOODIE | HEATHER GREY">
+                                <img itemprop="contentUrl url" src='https://gallerydept.com/cdn/shop/products/GREYCENTERLOGO.jpg?v=1648059778' alt='GALLERY DEPT. GD CENTER LOGO HOODIE | HEATHER GREY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gallery dept." />
+                                </span>
+                                <a href='https://gallerydept.com/cdn/shop/products/GREYCENTERLOGO.jpg?v=1648059778' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us – GALLERY DEPT.">
+                                <img itemprop="contentUrl url" src='https://gallerydept.com/cdn/shop/files/MISC_YELLOW-PAINTED-FLARE-SWEATPANT_GD-2131F_Front_2048x.jpg?v=1691542942' alt='About Us – GALLERY DEPT.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gallery dept." />
+                                </span>
+                                <a href='https://gallerydept.com/cdn/shop/files/MISC_YELLOW-PAINTED-FLARE-SWEATPANT_GD-2131F_Front_2048x.jpg?v=1691542942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo-Print Cotton-Blend Jersey Zip-Up Hoodie - gray - XS">
+                                <img itemprop="contentUrl url" src='https://www.mrporter.com/variants/images/1647597316914910/ou/w2000_q60.jpg' alt='Logo-Print Cotton-Blend Jersey Zip-Up Hoodie - gray - XS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr Porter" />
+                                </span>
+                                <a href='https://www.mrporter.com/variants/images/1647597316914910/ou/w2000_q60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GALLERY DEPT. SOUVENIR TEE | WHITE">
+                                <img itemprop="contentUrl url" src='https://gallerydept.com/cdn/shop/products/211209_Gallery_Department_On-Model24655_2048x.jpg?v=1640097298' alt='GALLERY DEPT. SOUVENIR TEE | WHITE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gallery dept." />
+                                </span>
+                                <a href='https://gallerydept.com/cdn/shop/products/211209_Gallery_Department_On-Model24655_2048x.jpg?v=1640097298' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery Dept | Miami Design District">
+                                <img itemprop="contentUrl url" src='https://www.miamidesigndistrict.com/images/listings/large/1054_gallery-dept_1651858905525740.jpg' alt='Gallery Dept | Miami Design District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Design District" />
+                                </span>
+                                <a href='https://www.miamidesigndistrict.com/images/listings/large/1054_gallery-dept_1651858905525740.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GALLERY DEPT. Brand Closure Announcement | Hypebeast">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftw-gallery-dept-brand-closure-josue-thomas-announcement-info.jpg?w=960&cbr=1&q=90&fit=max' alt='GALLERY DEPT. Brand Closure Announcement | Hypebeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftw-gallery-dept-brand-closure-josue-thomas-announcement-info.jpg?w=960&cbr=1&q=90&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo-Print Cotton-Blend Jersey Zip-Up Hoodie - gray - XS">
+                                <img itemprop="contentUrl url" src='https://www.mrporter.com/variants/images/1647597316914910/in/w2000_q60.jpg' alt='Logo-Print Cotton-Blend Jersey Zip-Up Hoodie - gray - XS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr Porter" />
+                                </span>
+                                <a href='https://www.mrporter.com/variants/images/1647597316914910/in/w2000_q60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Gallery Dept. Became One of Hip-Hop's Favorite Brands">
+                                <img itemprop="contentUrl url" src='http://images.complex.com/complex/image/upload/v1723849743/sanity-new/%252520lebron-lanvin-gallery-dept-133928665.jpg' alt='How Gallery Dept. Became One of Hip-Hop's Favorite Brands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2397">
+                                <meta itemprop="height" content="3115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Complex" />
+                                </span>
+                                <a href='http://images.complex.com/complex/image/upload/v1723849743/sanity-new/%252520lebron-lanvin-gallery-dept-133928665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW BRAND ALERT: GALLERY DEPT. - WISH BLOG">
+                                <img itemprop="contentUrl url" src='https://s3.wishatl.com/blog/wp-content/uploads/2020/10/gallerydept.jpeg' alt='NEW BRAND ALERT: GALLERY DEPT. - WISH BLOG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wish Atl" />
+                                </span>
+                                <a href='https://s3.wishatl.com/blog/wp-content/uploads/2020/10/gallerydept.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GALLERY DEPT. GD CENTER LOGO HOODIE | HEATHER GREY">
+                                <img itemprop="contentUrl url" src='https://gallerydept.com/cdn/shop/files/front_012c99ad-69ac-40c4-9c6c-aae31eb26ac9_2048x.jpg?v=1712172389' alt='GALLERY DEPT. GD CENTER LOGO HOODIE | HEATHER GREY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gallery dept." />
+                                </span>
+                                <a href='https://gallerydept.com/cdn/shop/files/front_012c99ad-69ac-40c4-9c6c-aae31eb26ac9_2048x.jpg?v=1712172389' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Black and Red Butterfly Wallpaper for Your Decor</title>
+                    <meta name="description" content="Discover the allure of beautiful black and red butterfly wallpaper to elevate your home's aesthetics. Perfect for bedrooms or living spaces, this captivating design brings life and color to your decor. Shop now to add a unique and artistic touch to your walls.">
+                    <meta name="keywords" content="beautiful black and red butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/beautiful-black-and-red-butterfly-wallpaper">
+                            <span itemprop="name">beautiful black and red butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and Red Butterfly Wallpaper for Your Decor</h1>
+                <p>Transform your space with beautiful black and red butterfly wallpaper that captures the essence of nature's elegance. Perfect for adding a striking focal point to any room, this vibrant wallpaper features intricately designed butterflies that flutter across a rich backdrop, bringing a touch of whimsy and charm to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red butterfly">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/2d/a3/0b2da34cfb140784c33497a6a8195002.jpg' alt='Red butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/2d/a3/0b2da34cfb140784c33497a6a8195002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Butterfly Black Background Stock Illustrations – 11,861 Red ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-black-butterflies-composition-bright-butterfly-white-background-tattoo-style-morpho-80441786.jpg' alt='Red Butterfly Black Background Stock Illustrations – 11,861 Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-black-butterflies-composition-bright-butterfly-white-background-tattoo-style-morpho-80441786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red butterfly wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/06/43/c7/0643c786401eed105a940ae2738781ca.jpg' alt='Red butterfly wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/06/43/c7/0643c786401eed105a940ae2738781ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Butterfly Images – Browse 414,687 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/72/23/84/360_F_472238465_xojKCsVX8HwUVi079nkfc55352D7espd.jpg' alt='Red Butterfly Images – Browse 414,687 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/72/23/84/360_F_472238465_xojKCsVX8HwUVi079nkfc55352D7espd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dark Red Butterfly And Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-dark-red-butterfly-and-flowers-nhm0byz93smyb0iw.webp' alt='Cute Dark Red Butterfly And Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-dark-red-butterfly-and-flowers-nhm0byz93smyb0iw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Black Butterfly, Black, Butterflies, Red, Animals, HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/45/7c/bd/457cbdafc7112577dbb76a9eba862b41.jpg' alt='Red And Black Butterfly, Black, Butterflies, Red, Animals, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/45/7c/bd/457cbdafc7112577dbb76a9eba862b41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly, red, pretty, lovely, dots, black, bonito, butterflies ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/659/308/HD-wallpaper-butterfly-red-pretty-lovely-dots-black-beautiful-butterflies-abstract-3d-beauty.jpg' alt='Butterfly, red, pretty, lovely, dots, black, bonito, butterflies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/659/308/HD-wallpaper-butterfly-red-pretty-lovely-dots-black-beautiful-butterflies-abstract-3d-beauty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Black Butterfly With Red Flowers Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/black-butterfly-with-red-flowers-nggile717d3iz43g.jpg' alt='Download free Black Butterfly With Red Flowers Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/black-butterfly-with-red-flowers-nggile717d3iz43g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Black And Red Butterfly Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/gothic-black-and-red-butterfly-htkh5ltyqvdj9y8l.jpg' alt='Gothic Black And Red Butterfly Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/gothic-black-and-red-butterfly-htkh5ltyqvdj9y8l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Butterfly wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f0/11/40/f01140fd0e7eaf378f274a0a2b17054c.jpg' alt='Beautiful Butterfly wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f0/11/40/f01140fd0e7eaf378f274a0a2b17054c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

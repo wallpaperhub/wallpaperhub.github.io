@@ -1,0 +1,129 @@
+<title>Football Player Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Discover a stunning selection of football player images with transparent backgrounds, perfect for your creative projects. Ideal for websites, graphics, and more, our high-quality images provide a seamless fit for any design. Enhance your visuals today with our easy-to-use collection!">
+                    <meta name="keywords" content="football player transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/football-player-transparent-background">
+                            <span itemprop="name">football player transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football Player Images with Transparent Backgrounds</h1>
+                <p>Looking for high-quality images of football players with a transparent background? Our curated collection features various players in dynamic poses, perfect for your projects, media, or design needs. Enhance your creations effortlessly with these versatile images that blend seamlessly into any background, ensuring a professional finish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football PNG transparent image download, size: 1777x1435px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/american_football_PNG124.png' alt='American football PNG transparent image download, size: 1777x1435px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1777">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/american_football_PNG124.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player PNG transparent image download, size ...">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/american_football_PNG23.png' alt='American football player PNG transparent image download, size ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1405">
+                                <meta itemprop="height" content="2665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/american_football_PNG23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Player Running - Football Player Running with Action Pose ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190606/zr/kisspng-nfl-american-football-sports-football-player-5cf9e09b787a63.8303076115598798354935.jpg' alt='Football Player Running - Football Player Running with Action Pose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190606/zr/kisspng-nfl-american-football-sports-football-player-5cf9e09b787a63.8303076115598798354935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sajuvpn Nfl Football Player Transparent Background, Sajuvpn Nfl ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20241223/original/pngtree-sajuvpn-nfl-football-player-transparent-background-png-image_18153841.png' alt='Sajuvpn Nfl Football Player Transparent Background, Sajuvpn Nfl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20241223/original/pngtree-sajuvpn-nfl-football-player-transparent-background-png-image_18153841.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Player Svg & PNG Files, Quarterback Clipart Silhouette Vector  Image, SVG Shirt Design Graphic, Transparent Background print">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18154652/r/il/d51f1b/5299625247/il_570xN.5299625247_l6s1.jpg' alt='Football Player Svg & PNG Files, Quarterback Clipart Silhouette Vector  Image, SVG Shirt Design Graphic, Transparent Background print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18154652/r/il/d51f1b/5299625247/il_570xN.5299625247_l6s1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player PNG transparent image download, size ...">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/american_football_PNG128.png' alt='American football player PNG transparent image download, size ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/american_football_PNG128.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Player">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/93/83/519383ffe023bd9d1fba8921fe87238a.jpg' alt='American Football Player'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/93/83/519383ffe023bd9d1fba8921fe87238a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Player with a Red uniform on a transparent background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/55/02/82/1000_F_555028248_X0uxxI1fuZcqd6dFPOawms4vHw7T0C4p.jpg' alt='Football Player with a Red uniform on a transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/55/02/82/1000_F_555028248_X0uxxI1fuZcqd6dFPOawms4vHw7T0C4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Player">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/de/9c/fcde9c423e1762cce6df4b52c737e2eb.jpg' alt='American Football Player'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/de/9c/fcde9c423e1762cce6df4b52c737e2eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Background - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190428/xkb/kisspng-texas-am-aggies-football-american-football-face-m-5cc5288911e079.5318006015564248410732.jpg' alt='American Football Background - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190428/xkb/kisspng-texas-am-aggies-football-american-football-face-m-5cc5288911e079.5318006015564248410732.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

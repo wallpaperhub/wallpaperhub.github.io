@@ -1,0 +1,129 @@
+<title>Elevate Your Bathroom with Luxurious Grasscloth Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance to your bathroom with grasscloth wallpaper. Explore stylish, water-resistant options that enhance texture and warmth while offering durability in humid spaces. Perfect for creating a sophisticated and serene atmosphere, grasscloth is a chic choice for modern bathrooms.">
+                    <meta name="keywords" content="grasscloth wallpaper in bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/grasscloth-wallpaper-in-bathroom">
+                            <span itemprop="name">grasscloth wallpaper in bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Bathroom with Luxurious Grasscloth Wallpaper</h1>
+                <p>Grasscloth wallpaper is an elegant choice for bathroom interiors, infusing warmth and texture into the space. Its natural fibers create a serene, spa-like ambiance. Water-resistant options ensure durability, making it perfect for humid environments. With various colors and patterns, it enhances the overall aesthetic, adding a touch of sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Bathroom With Grasscloth Wallpaper - Remington Avenue">
+                                <img itemprop="contentUrl url" src='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-18.jpg' alt='Moody Bathroom With Grasscloth Wallpaper - Remington Avenue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remington Avenue" />
+                                </span>
+                                <a href='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth Peel and Stick Wallpaper Grass Cloth Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/39027f/4481327542/il_fullxfull.4481327542_4x4x.jpg' alt='Faux Grasscloth Peel and Stick Wallpaper Grass Cloth Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/39027f/4481327542/il_fullxfull.4481327542_4x4x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea foam Green Grass Cloth Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-262239.png?v=1718902432' alt='Sea foam Green Grass Cloth Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-262239.png?v=1718902432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Wallpaper in Powder Room – Casa Watkins Living">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/casawatkinsliving.com/wp-content/uploads/2022/06/0W0A8215-2.jpg?resize=683%2C1024&ssl=1' alt='Grasscloth Wallpaper in Powder Room – Casa Watkins Living'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casa Watkins Living" />
+                                </span>
+                                <a href='https://i0.wp.com/casawatkinsliving.com/wp-content/uploads/2022/06/0W0A8215-2.jpg?resize=683%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth Peel and Stick, Removable Wallpaper Roll, Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/7bdc5a/4455296878/il_570xN.4455296878_740u.jpg' alt='Faux Grasscloth Peel and Stick, Removable Wallpaper Roll, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/7bdc5a/4455296878/il_570xN.4455296878_740u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Blue Grasscloth Wallpaper Peel and Stick Faux Grass Cloth Wallpaper  for Bedroom Bathroom Walls Prepasted 15.7''x118'' Waterproof Non-Textured  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zKsxO6CdL.jpg' alt='VEELIKE Blue Grasscloth Wallpaper Peel and Stick Faux Grass Cloth Wallpaper  for Bedroom Bathroom Walls Prepasted 15.7''x118'' Waterproof Non-Textured  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zKsxO6CdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before & After: Grasscloth & Wainscot – Grandeur on Grove">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1920,h_2560/https://grandeurongrove.com/wp-content/uploads/bathroom-inspiration-scaled.jpg' alt='Before & After: Grasscloth & Wainscot – Grandeur on Grove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grandeur on Grove" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1920,h_2560/https://grandeurongrove.com/wp-content/uploads/bathroom-inspiration-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Considering Grasscloth? Here's What to Know - Northshore Magazine">
+                                <img itemprop="contentUrl url" src='https://www.nshoremag.com/wp-content/uploads/migration_images/Grasscloth3.jpg' alt='Considering Grasscloth? Here's What to Know - Northshore Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northshore Magazine" />
+                                </span>
+                                <a href='https://www.nshoremag.com/wp-content/uploads/migration_images/Grasscloth3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before & After: Grasscloth & Wainscot – Grandeur on Grove">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1920,h_2560/https://grandeurongrove.com/wp-content/uploads/no-wainscot-scaled.jpg' alt='Before & After: Grasscloth & Wainscot – Grandeur on Grove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grandeur on Grove" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1920,h_2560/https://grandeurongrove.com/wp-content/uploads/no-wainscot-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Southport Faux Grasscloth Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR12308-B_2000x2000.jpg?v=1677951242' alt='Southport Faux Grasscloth Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR12308-B_2000x2000.jpg?v=1677951242' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

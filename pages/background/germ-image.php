@@ -1,0 +1,129 @@
+<title>Understanding Germs: Visualizing the Invisible Threat</title>
+                    <meta name="description" content="Explore the intriguing world of germs through captivating images. Learn about different types of microorganisms and their role in health. Discover why hygiene is crucial in our fight against invisible threats lurking in our environment.">
+                    <meta name="keywords" content="germ image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/germ-image">
+                            <span itemprop="name">germ image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Germs: Visualizing the Invisible Threat</h1>
+                <p>Germs are microscopic organisms, often depicted in images as colorful, abstract forms that represent bacteria, viruses, and other pathogens. These illustrations help us visualize the unseen threats that lurk around us, emphasizing the importance of hygiene and sanitation in our daily lives to prevent illness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmileMakers Silly Germ Stickers - Prizes and Giveaways - 100 per Pack">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71kmmPF69AL._AC_UF894,1000_QL80_.jpg' alt='SmileMakers Silly Germ Stickers - Prizes and Giveaways - 100 per Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71kmmPF69AL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GERMS 101 | UNH Today">
+                                <img itemprop="contentUrl url" src='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2020/depositphotos_9547467-stock-photo-bacteria.jpg?itok=rdy8f7Ki' alt='GERMS 101 | UNH Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of New Hampshire" />
+                                </span>
+                                <a href='https://www.unh.edu/unhtoday/sites/default/files/styles/article_huge/public/article/2020/depositphotos_9547467-stock-photo-bacteria.jpg?itok=rdy8f7Ki' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Was Life Like Before We Knew About Germs? | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/65/225065-050-3FB86B30/microscopic-blue-bacteria.jpg' alt='What Was Life Like Before We Knew About Germs? | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/65/225065-050-3FB86B30/microscopic-blue-bacteria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Embracing Germs Can Encourage Good Health - U of G News">
+                                <img itemprop="contentUrl url" src='https://news.uoguelph.ca/wp-content/uploads/2016/11/germs.jpg' alt='How Embracing Germs Can Encourage Good Health - U of G News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Guelph" />
+                                </span>
+                                <a href='https://news.uoguelph.ca/wp-content/uploads/2016/11/germs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virus & Germ Center | RIF.org">
+                                <img itemprop="contentUrl url" src='https://www.rif.org/sites/default/files/styles/thumbnail_400/public/images/2020/04/23/digital-destinations/2020/Topic--Teaser-Germ.png?itok=8tLmNL8N' alt='Virus & Germ Center | RIF.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RIF.org" />
+                                </span>
+                                <a href='https://www.rif.org/sites/default/files/styles/thumbnail_400/public/images/2020/04/23/digital-destinations/2020/Topic--Teaser-Germ.png?itok=8tLmNL8N' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Germ Season: Here's Your Sickening Guide | Hartford ...">
+                                <img itemprop="contentUrl url" src='https://healthnewshub.org/wp-content/uploads/2021/10/NewsCovidPathogen.jpg' alt='It's Germ Season: Here's Your Sickening Guide | Hartford ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hartford HealthCare" />
+                                </span>
+                                <a href='https://healthnewshub.org/wp-content/uploads/2021/10/NewsCovidPathogen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The truth about germs and how to avoid them | NYP">
+                                <img itemprop="contentUrl url" src='https://www.nyp.org/enewsletters/advances-monthly/2019-12/email-advances-2019-12_02_full.jpg' alt='The truth about germs and how to avoid them | NYP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewYork-Presbyterian" />
+                                </span>
+                                <a href='https://www.nyp.org/enewsletters/advances-monthly/2019-12/email-advances-2019-12_02_full.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are Germs?">
+                                <img itemprop="contentUrl url" src='https://www.lysol.com/content/dam/lysol-us/article-detail-pages/Lysol-germ-bacteria.jpg' alt='What Are Germs?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lysol" />
+                                </span>
+                                <a href='https://www.lysol.com/content/dam/lysol-us/article-detail-pages/Lysol-germ-bacteria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virus & Germ Center | RIF.org">
+                                <img itemprop="contentUrl url" src='https://www.rif.org/sites/default/files/styles/thumbnail_190/public/images/2021/10/18/virus-TopIcon-2.png?itok=tzVFhLqe' alt='Virus & Germ Center | RIF.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RIF.org" />
+                                </span>
+                                <a href='https://www.rif.org/sites/default/files/styles/thumbnail_190/public/images/2021/10/18/virus-TopIcon-2.png?itok=tzVFhLqe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germ Knowledge: Reporting During an Infodemic | KQED">
+                                <img itemprop="contentUrl url" src='https://ww2.kqed.org/app/uploads/sites/19/2021/07/featured-image-scaled.jpg' alt='Germ Knowledge: Reporting During an Infodemic | KQED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KQED" />
+                                </span>
+                                <a href='https://ww2.kqed.org/app/uploads/sites/19/2021/07/featured-image-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

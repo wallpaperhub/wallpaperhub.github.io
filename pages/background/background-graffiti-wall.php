@@ -1,0 +1,129 @@
+<title>Vibrant Background Graffiti Wall Ideas</title>
+                    <meta name="description" content="Discover unique background graffiti wall designs that enhance any space. Perfect for events or photography, these artistic walls offer vibrant colors and urban style. Explore innovative ideas and tips for incorporating graffiti art into your decor, creating an eye-catching atmosphere easily!">
+                    <meta name="keywords" content="background graffiti wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-graffiti-wall">
+                            <span itemprop="name">background graffiti wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Background Graffiti Wall Ideas</h1>
+                <p>Transform your space with a stunning background graffiti wall! Ideal for photography, art projects, or as a vibrant backdrop for events, these walls blend urban edge with creativity. Embrace the colors and expressions of street art to make a bold statement in any area. Perfect for both indoors and outdoors, it's a canvas for imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wall Backdrop Dynamic Art Brick Wall Backdrop BRP12-127">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/files/BRP12-127.jpg?v=1733723613' alt='Graffiti Wall Backdrop Dynamic Art Brick Wall Backdrop BRP12-127'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/files/BRP12-127.jpg?v=1733723613' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wall With Frame And Arrows Street Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/178989715/photo/graffiti-wall-with-frame-and-arrows-street-background.jpg?s=1024x1024&w=is&k=20&c=zpj3pks8evMgEJNy7-CQZcAT-XkiGcXTm-1QSNiMfLE=' alt='Graffiti Wall With Frame And Arrows Street Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/178989715/photo/graffiti-wall-with-frame-and-arrows-street-background.jpg?s=1024x1024&w=is&k=20&c=zpj3pks8evMgEJNy7-CQZcAT-XkiGcXTm-1QSNiMfLE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Graffiti wall art background. Hip-hop style seamless texture pat">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/49/83/79/45/700_FO49837945_b8a917157f8b974b96411cbf8aa2130a.jpg,700,637,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,587,jpg)/wall-murals-graffiti-wall-art-background-hip-hop-style-seamless-texture-pat.jpg.jpg' alt='Wall Mural Graffiti wall art background. Hip-hop style seamless texture pat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/49/83/79/45/700_FO49837945_b8a917157f8b974b96411cbf8aa2130a.jpg,700,637,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,587,jpg)/wall-murals-graffiti-wall-art-background-hip-hop-style-seamless-texture-pat.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Urban Graffiti Brick Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_1574f8e3-0f5a-464f-85ab-e6095368e5aa.jpg?v=1710132438' alt='Urban Graffiti Brick Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_1574f8e3-0f5a-464f-85ab-e6095368e5aa.jpg?v=1710132438' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Graffiti Wall Art, background, design art, hi res">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/2f/20/a42f204a800ed9691586ed37d498b56b.jpg' alt='HD wallpaper: Graffiti Wall Art, background, design art, hi res'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/2f/20/a42f204a800ed9691586ed37d498b56b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/1131/645/graffiti.jpg' alt='Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/1131/645/graffiti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - BW">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64847/graffiti-brick-wall-bw.jpg?h=699&q=85' alt='Graffiti Brick Wall - BW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64847/graffiti-brick-wall-bw.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,500+ Empty Graffiti Wall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157109495/photo/brick-wall-with-letters-and-different-colors-splattered-on.jpg?s=612x612&w=0&k=20&c=FpG5BUtp1ZDjnMwJa35IOFU2Sn04rMBNp57-hbtQfI4=' alt='30,500+ Empty Graffiti Wall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157109495/photo/brick-wall-with-letters-and-different-colors-splattered-on.jpg?s=612x612&w=0&k=20&c=FpG5BUtp1ZDjnMwJa35IOFU2Sn04rMBNp57-hbtQfI4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wall Murals | Pop Art Wallpapers for Home Decor">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/street-graffiti-wallpaper-mural-room.jpg?v=1649923903&width=533' alt='Graffiti Wall Murals | Pop Art Wallpapers for Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/street-graffiti-wallpaper-mural-room.jpg?v=1649923903&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Street Graffiti – a wall mural for every room – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/55525/colorful-street-graffiti.jpg?h=699&q=85' alt='Colorful Street Graffiti – a wall mural for every room – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/55525/colorful-street-graffiti.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

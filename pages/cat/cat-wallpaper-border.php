@@ -1,0 +1,129 @@
+<title>Whimsical Cat Wallpaper Borders for Every Room</title>
+                    <meta name="description" content="Add character to your home with delightful cat wallpaper borders! Easy to install and perfect for cat lovers, our collection features various designs that brighten up any space. Shop now to find the perfect border for your cat-themed décor!">
+                    <meta name="keywords" content="cat wallpaper border">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/cat-wallpaper-border">
+                            <span itemprop="name">cat wallpaper border</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Cat Wallpaper Borders for Every Room</h1>
+                <p>Transform your space with charming cat wallpaper borders! These playful designs add a whimsical touch to any room, perfect for cat lovers. Choose from various styles and colors to complement your décor. Easy to apply and remove, cat wallpaper borders enhance your walls while showcasing your love for these adorable companions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats Wallpaper Border AFR7105 – WallUSA.com - Discontinued ...">
+                                <img itemprop="contentUrl url" src='http://wallusa.com/cdn/shop/products/b7105afr_1200x1200.jpg?v=1566679442' alt='Cats Wallpaper Border AFR7105 – WallUSA.com - Discontinued ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallUSA.com - Discontinued Wallpaper Borders Online Store" />
+                                </span>
+                                <a href='http://wallusa.com/cdn/shop/products/b7105afr_1200x1200.jpg?v=1566679442' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONCORD WALLCOVERINGS ™ Wallpaper Border Animals Pattern Cats Windows Birds  Flowers for Living Room Kitchen Cottage, Blue Gray Pink Brown Green, 10 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A13QkTM0+ML._AC_UF894,1000_QL80_.jpg' alt='CONCORD WALLCOVERINGS ™ Wallpaper Border Animals Pattern Cats Windows Birds  Flowers for Living Room Kitchen Cottage, Blue Gray Pink Brown Green, 10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A13QkTM0+ML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Wallpaper Border Cat Friends Playing in Flower Garden ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16017591/r/il/3f039d/1493314647/il_570xN.1493314647_nfxj.jpg' alt='Cat Wallpaper Border Cat Friends Playing in Flower Garden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16017591/r/il/3f039d/1493314647/il_570xN.1493314647_nfxj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trimz Kitties Cat Animals Wallpaper Border, Pre-pasted Wall Décor, Length  15 ft">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/1fc893c8-cca3-40fc-92e7-0488f0641c93.2a1cc9c9b6a13d52c7af461068f9dda5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Trimz Kitties Cat Animals Wallpaper Border, Pre-pasted Wall Décor, Length  15 ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/1fc893c8-cca3-40fc-92e7-0488f0641c93.2a1cc9c9b6a13d52c7af461068f9dda5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats with Green and Blue Collars on Purple Bench ISB4102B Wallpaper Border  - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dDbGS9SoL.jpg' alt='Cats with Green and Blue Collars on Purple Bench ISB4102B Wallpaper Border  - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dDbGS9SoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitties Kitten Cats Wallpaper Border Animals Room Decor, 15 ft x 6.7", Blue">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/0J0AAOSwppJfHuC7/s-l1200.jpg' alt='Kitties Kitten Cats Wallpaper Border Animals Room Decor, 15 ft x 6.7", Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/0J0AAOSwppJfHuC7/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitten / Kittens and Playmates with Blue Edge Wallpaper Border ...">
+                                <img itemprop="contentUrl url" src='https://all4wallswallpaper.com/cdn/shop/products/kittens1_3_400x.jpg?v=1588773765' alt='Kitten / Kittens and Playmates with Blue Edge Wallpaper Border ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4 Walls Wallpaper" />
+                                </span>
+                                <a href='https://all4wallswallpaper.com/cdn/shop/products/kittens1_3_400x.jpg?v=1588773765' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats B7105AFR Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/646fe1b248af1690d4dcf69d70162ace_1000x.jpg?v=1571723153' alt='Cats B7105AFR Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/646fe1b248af1690d4dcf69d70162ace_1000x.jpg?v=1571723153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trimz Kitties Cat Animals Wallpaper Border, Pre-pasted Wall Décor, Length  15 ft">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Trimz-Kitties-Cat-Animals-Peel-Stick-Wallpaper-Border-Pre-pasted-Wall-D-cor-Length-15-ft_459c0057-f5ee-4513-8fad-e01cdcffa722.fb92529d6be32daa295eab6c0b464001.jpeg' alt='Trimz Kitties Cat Animals Wallpaper Border, Pre-pasted Wall Décor, Length  15 ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Trimz-Kitties-Cat-Animals-Peel-Stick-Wallpaper-Border-Pre-pasted-Wall-D-cor-Length-15-ft_459c0057-f5ee-4513-8fad-e01cdcffa722.fb92529d6be32daa295eab6c0b464001.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Wallpaper Border Cat Wallpaper Border Puppy & Kitten Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16017591/r/il/fd3453/2497171488/il_fullxfull.2497171488_lsva.jpg' alt='Dog Wallpaper Border Cat Wallpaper Border Puppy & Kitten Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16017591/r/il/fd3453/2497171488/il_fullxfull.2497171488_lsva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

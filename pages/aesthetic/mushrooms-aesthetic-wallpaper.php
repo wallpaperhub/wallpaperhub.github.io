@@ -1,0 +1,129 @@
+<title>Mushrooms Aesthetic Wallpaper: Bring Nature Indoors</title>
+                    <meta name="description" content="Explore our collection of mushrooms aesthetic wallpaper. Perfect for creating a serene and whimsical space, these designs add a touch of nature's beauty to your walls. Ideal for nature lovers, our wallpapers inspire tranquility and creativity. Transform your home with vibrant, enchanting mushroom patterns today!">
+                    <meta name="keywords" content="mushrooms aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/mushrooms-aesthetic-wallpaper">
+                            <span itemprop="name">mushrooms aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mushrooms Aesthetic Wallpaper: Bring Nature Indoors</h1>
+                <p>Mushrooms aesthetic wallpaper brings a whimsical touch to your space, evoking the charm of a hidden forest. Featuring vibrant colors and intricate details, these wallpapers transform any room into a dreamy retreat. Perfect for nature lovers and those seeking a unique and calming atmosphere, they inspire creativity and relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mushroom Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' alt='100+] Mushroom Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Floral Peel and Stick Wallpaper Mushroom Contact Paper 17.7 in x  48.4 ft Flower Removable Wallpaper Peel and Stick Forest Wallpaper Stick on  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91+Rqtq-YXL._AC_UF894,1000_QL80_.jpg' alt='Jeweluck Floral Peel and Stick Wallpaper Mushroom Contact Paper 17.7 in x  48.4 ft Flower Removable Wallpaper Peel and Stick Forest Wallpaper Stick on  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91+Rqtq-YXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic mushroom wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/97/2a/fb972af9825a0e42393c25713e47adc3.jpg' alt='aesthetic mushroom wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/97/2a/fb972af9825a0e42393c25713e47adc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Mushroom Peel and Stick Wallpaper Boho, Forest Removable Contact  Paper for Bedroom, Vinyl Self Adhesive Wall Paper Dark/Green/Brown 17.7in x  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71EJ8zFr9DL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly Mushroom Peel and Stick Wallpaper Boho, Forest Removable Contact  Paper for Bedroom, Vinyl Self Adhesive Wall Paper Dark/Green/Brown 17.7in x  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71EJ8zFr9DL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haven Mushroom Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/haven-mushroom-aesthetic-pz442s890m8hd20t.jpg' alt='Haven Mushroom Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/haven-mushroom-aesthetic-pz442s890m8hd20t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/65/5a/ba655ad33a158035e01c2a3715bf26e9.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/65/5a/ba655ad33a158035e01c2a3715bf26e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Mushroom Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vector-mushroom-aesthetic-zdkuwcljs9qia9qf.jpg' alt='Vector Mushroom Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vector-mushroom-aesthetic-zdkuwcljs9qia9qf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Mushroom Phone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mushroom-phone-ypoxfa7i5drlpzq9.jpg' alt='Download Aesthetic Mushroom Phone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mushroom-phone-ypoxfa7i5drlpzq9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Mushroom Wallpaper Peel and Stick Boho, 17.7in x 118in Black  Floral Forest Contact Paper, Vinyl Removable Self Adhesive Wall Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ignJvZcJL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly Mushroom Wallpaper Peel and Stick Boho, 17.7in x 118in Black  Floral Forest Contact Paper, Vinyl Removable Self Adhesive Wall Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ignJvZcJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fungi • Vintage Mushrooms Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Fungi-Latte-1.jpg' alt='Fungi • Vintage Mushrooms Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Fungi-Latte-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

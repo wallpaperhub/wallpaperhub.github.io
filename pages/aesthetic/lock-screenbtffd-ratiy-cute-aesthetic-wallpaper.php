@@ -1,0 +1,129 @@
+<title>Cute Aesthetic Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the perfect cute aesthetic lock screen wallpapers that add personality to your phone. Explore a delightful collection of charming designs and vibrant colors to make your device uniquely yours. Perfect for those who love aesthetics and want to brighten their lock screens!">
+                    <meta name="keywords" content="lock screen:btffd-ratiy= cute aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/lock-screenbtffd-ratiy-cute-aesthetic-wallpaper">
+                            <span itemprop="name">lock screen:btffd-ratiy= cute aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Aesthetic Lock Screen Wallpapers for Your Phone</h1>
+                <p>Unlock your device with a touch of charm using cute aesthetic wallpapers. Perfect for personalizing your lock screen, these wallpapers blend vibrant colors, playful patterns, and whimsical designs, adding a delightful flair to your everyday tech. Make your phone truly yours with a cute backdrop that inspires joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7b/e8/78/7be878a4c35c15b18003f2b2e957868f.jpg' alt='240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7b/e8/78/7be878a4c35c15b18003f2b2e957868f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ee/fa/48/eefa489c5c33e7e7413bc5e0fd1b1672.jpg' alt='240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ee/fa/48/eefa489c5c33e7e7413bc5e0fd1b1672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute teddy bear phone wallpaper ; lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ff/da/e3/ffdae36f36febd04fd4318a4aa6bd7b1.jpg' alt='cute teddy bear phone wallpaper ; lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ff/da/e3/ffdae36f36febd04fd4318a4aa6bd7b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e5/ae/83/e5ae83f4ef7b16a5e1f3578d8d8419e1.jpg' alt='240 Bunny ideas | cute wallpapers, kawaii wallpaper, cute cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e5/ae/83/e5ae83f4ef7b16a5e1f3578d8d8419e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-lock-screen-white-rabbit-7pq1upwm8mgbjj9s.jpg' alt='Cute Lock Screen Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-lock-screen-white-rabbit-7pq1upwm8mgbjj9s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bunny, Aesthetic iPhone Wallpaper, Phone Lock Screen, Y2k ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12076275/r/il/df041e/5466490662/il_570xN.5466490662_gy6s.jpg' alt='Cute Bunny, Aesthetic iPhone Wallpaper, Phone Lock Screen, Y2k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12076275/r/il/df041e/5466490662/il_570xN.5466490662_gy6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' alt='Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Lock screen wallpaper ideas | wallpaper, bts chibi, bts wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a7/e0/ef/a7e0efce6ad23754a81f2e7b060e8f90.jpg' alt='12 Lock screen wallpaper ideas | wallpaper, bts chibi, bts wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a7/e0/ef/a7e0efce6ad23754a81f2e7b060e8f90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bunny Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/af/69/f8/af69f8def57c2c6497fa87b912322c73.jpg' alt='Bunny Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/af/69/f8/af69f8def57c2c6497fa87b912322c73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' alt='100+] Cute Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

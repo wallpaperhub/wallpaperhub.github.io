@@ -1,0 +1,129 @@
+<title>Transform Your Space with Super Preppy Wallpaper</title>
+                    <meta name="description" content="Discover the charm of super preppy wallpaper! Perfect for adding a refreshing touch to any room, our vibrant patterns and classic designs will elevate your decor. Explore a range of stylish options that enhance your space's aesthetic effortlessly. Ideal for trendy interiors!">
+                    <meta name="keywords" content="super preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/super-preppy-wallpaper">
+                            <span itemprop="name">super preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Super Preppy Wallpaper</h1>
+                <p>Super preppy wallpaper is a stylish choice for those looking to add a touch of classic charm to their space. Featuring vibrant patterns, like stripes, checks, and floral designs, these wallpapers embody a fresh, polished aesthetic perfect for bedrooms, studies, or any living area. Enhance your decor with a preppy appeal!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy#beach girl# wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/9b/3a/889b3ac4ebd7b88e842e928cc23743c8.jpg' alt='Preppy#beach girl# wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/9b/3a/889b3ac4ebd7b88e842e928cc23743c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink preppy wallpaper!     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/68/df/3968dfab3ba9d666a0d56983b90551c5.jpg' alt='pink preppy wallpaper!     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/68/df/3968dfab3ba9d666a0d56983b90551c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' alt='Preppy Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-desktop-5dpqvtoo8m70ysa4.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-desktop-5dpqvtoo8m70ysa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/71/cb/4171cb3d662ed239c9b0cb849e1a1b29.jpg' alt='Preppy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/71/cb/4171cb3d662ed239c9b0cb849e1a1b29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here or some wallpaper For those preppy girls | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7289107327537512965&index=3&sign=03f54db4915dca9770f001578e75438f' alt='Here or some wallpaper For those preppy girls | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7289107327537512965&index=3&sign=03f54db4915dca9770f001578e75438f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-themed-tumblr-aesthetic-and-preppy-pfp-wolm9v9whq7hmwk1.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-themed-tumblr-aesthetic-and-preppy-pfp-wolm9v9whq7hmwk1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy wallpapers <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/f8/d9/69f8d919e660e8f0bcf9a5ccc44b2850.jpg' alt='preppy wallpapers <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/f8/d9/69f8d919e660e8f0bcf9a5ccc44b2850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Girls Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15020523/p/f/m/3bBEIioR__OO4CoeroctZZnX-mvNAPNCcy3qM-EkKplDCn1pWj8K0-U/Watercolor%20Bows%20%26%20Flowers%20Ditsy%20Floral%20Toss%20Grandmillennial%20Preppy%20Traditional%20by%20Pretty%20Festive%20Design%20PF127B.jpg' alt='Preppy Girls Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15020523/p/f/m/3bBEIioR__OO4CoeroctZZnX-mvNAPNCcy3qM-EkKplDCn1pWj8K0-U/Watercolor%20Bows%20%26%20Flowers%20Ditsy%20Floral%20Toss%20Grandmillennial%20Preppy%20Traditional%20by%20Pretty%20Festive%20Design%20PF127B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

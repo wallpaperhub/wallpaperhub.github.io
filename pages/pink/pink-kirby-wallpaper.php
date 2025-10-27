@@ -1,0 +1,129 @@
+<title>Cheerful Pink Kirby Wallpapers for Your Space</title>
+                    <meta name="description" content="Explore our collection of pink Kirby wallpapers to add a pop of color and charm to your room. Perfect for gamers and fans, these delightful designs bring joy and personality to any space. Transform your walls with cute Kirby art and express your love for this iconic character today!">
+                    <meta name="keywords" content="pink kirby wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-kirby-wallpaper">
+                            <span itemprop="name">pink kirby wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Pink Kirby Wallpapers for Your Space</h1>
+                <p>Discover the charm of pink Kirby wallpaper, the perfect addition to any gaming enthusiast's space! With vibrant shades of pink, these cute and cheerful designs will brighten up your walls and create a playful atmosphere. Whether you're a longtime fan of the adorable character or just love the color, this wallpaper is a delightful choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/29/32/242932edd000dbd294f71345cf37cded.jpg' alt='Kirby Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/29/32/242932edd000dbd294f71345cf37cded.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="az54-kirby-pink-face-cute-illustration-art-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-az54-kirby-pink-face-cute-illustration-art-40-wallpaper.jpg' alt='az54-kirby-pink-face-cute-illustration-art-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-az54-kirby-pink-face-cute-illustration-art-40-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink #kirby #nintendo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/57/68/d05768c6bd1f0ec2f56977c6fdf03782.jpg' alt='pink #kirby #nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/57/68/d05768c6bd1f0ec2f56977c6fdf03782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper of my favorite pink ball and thought I'd share ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/yjif2x-EU9q_49wkifOTz8oMUasWhAUNRrqLaftAJRA.png?auto=webp&s=55f57374795841112d7bd46eababcdb143cc91d2' alt='Made a wallpaper of my favorite pink ball and thought I'd share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/yjif2x-EU9q_49wkifOTz8oMUasWhAUNRrqLaftAJRA.png?auto=webp&s=55f57374795841112d7bd46eababcdb143cc91d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Pink Kawaii Kirby Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pink-kawaii-wallpaper-dlmqamoy6w6pgjye.jpg' alt='Download Aesthetic Pink Kawaii Kirby Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pink-kawaii-wallpaper-dlmqamoy6w6pgjye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby's 30th Anniversary Kirby Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/05/kirby-30th-kirby-01-1640x2360-1.jpg' alt='Kirby's 30th Anniversary Kirby Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="2360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/05/kirby-30th-kirby-01-1640x2360-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Ale Espinosa Valdez on Fondos | Wallpaper iphone cute, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/f3/d0/8bf3d0c4ee4c620893ea8a29fa31d638.jpg' alt='Pin by Ale Espinosa Valdez on Fondos | Wallpaper iphone cute, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/f3/d0/8bf3d0c4ee4c620893ea8a29fa31d638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Kawaii Kirby Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-kawaii-kirby-w6n7ikokkusb5clr.jpg' alt='Pink Kawaii Kirby Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-kawaii-kirby-w6n7ikokkusb5clr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Pink Kirby Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/50/93/60/5093609358a5ba69a6d87e811afcc458.jpg' alt='   Pink Kirby Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/50/93/60/5093609358a5ba69a6d87e811afcc458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Kirby Phone Wallpaper Widgets Icons - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18525856/r/il/aa362d/5685363257/il_570xN.5685363257_6kx6.jpg' alt='Fairy Kirby Phone Wallpaper Widgets Icons - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18525856/r/il/aa362d/5685363257/il_570xN.5685363257_6kx6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

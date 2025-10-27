@@ -1,0 +1,129 @@
+<title>Dune Zoom Backgrounds: Elevate Your Virtual Meetings</title>
+                    <meta name="description" content="Discover the best Dune zoom backgrounds to enhance your virtual meetings. Immerse yourself in the stunning landscapes and vibrant visuals from the Dune universe. Perfect for adding a unique touch to your video calls, these backgrounds will captivate your audience and elevate your online presence.">
+                    <meta name="keywords" content="dune zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dune-zoom-background">
+                            <span itemprop="name">dune zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dune Zoom Backgrounds: Elevate Your Virtual Meetings</h1>
+                <p>Transform your virtual meetings into a captivating experience with stunning Dune-themed zoom backgrounds. Inspired by the awe-inspiring landscapes of the Dune universe, these backgrounds offer an immersive touch that will leave your colleagues and friends in awe. Stand out in every call with a unique setting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Herbert в X: „Berkley/Penguin will put this up on their ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EXhVcM0VAAAJfNP.jpg:large' alt='Brian Herbert в X: „Berkley/Penguin will put this up on their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EXhVcM0VAAAJfNP.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dunes Zoom Background | Anthony LeDonne">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60183ab5f04fff34af539ea3/1614275560360-HYCZQDLPCX5O83WT92XJ/Anthony+LeDonne%27s+Sweet+Sweet+Zoom+Backgrounds++-+94+-+Thumbnail.jpg?format=1000w' alt='Dunes Zoom Background | Anthony LeDonne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthony LeDonne" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60183ab5f04fff34af539ea3/1614275560360-HYCZQDLPCX5O83WT92XJ/Anthony+LeDonne%27s+Sweet+Sweet+Zoom+Backgrounds++-+94+-+Thumbnail.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune 2021 Wallpapers (3440x1440) resampled & cleaned from 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lxheragi1mv71.jpg' alt='Dune 2021 Wallpapers (3440x1440) resampled & cleaned from 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lxheragi1mv71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dune 2021 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dune-2021-warm-sand-desert-hcvze75amyqw02wg.jpg' alt='100+] Dune 2021 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dune-2021-warm-sand-desert-hcvze75amyqw02wg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Zoom Background | Anthony LeDonne">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/60183ab5f04fff34af539ea3/601be455b9d016284c420046/6037e3ca294b634c3f4d4bf2/1614275533165/Anthony+LeDonne%27s+Sweet+Sweet+Zoom+Backgrounds++-+88+-+Thumbnail.jpg?format=1500w' alt='Dune Zoom Background | Anthony LeDonne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anthony LeDonne" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/60183ab5f04fff34af539ea3/601be455b9d016284c420046/6037e3ca294b634c3f4d4bf2/1614275533165/Anthony+LeDonne%27s+Sweet+Sweet+Zoom+Backgrounds++-+88+-+Thumbnail.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free desert Zoom backgrounds - Some Bold Adventure">
+                                <img itemprop="contentUrl url" src='https://someboldadventure.com/wp-content/uploads/2020/05/zoom-desert-dunes-abu-dhabi.jpg' alt='Free desert Zoom backgrounds - Some Bold Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Some Bold Adventure" />
+                                </span>
+                                <a href='https://someboldadventure.com/wp-content/uploads/2020/05/zoom-desert-dunes-abu-dhabi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desert sand dunes beneath ombre sky - Free virtual background to ...">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1643099698-outdoors_nature_019.jpg?h=auto&w=380&fm=jpg&auto=format' alt='Desert sand dunes beneath ombre sky - Free virtual background to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1643099698-outdoors_nature_019.jpg?h=auto&w=380&fm=jpg&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune 2021 Wallpapers (3440x1440) resampled & cleaned from 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0c7gd9lt0mv71.jpg' alt='Dune 2021 Wallpapers (3440x1440) resampled & cleaned from 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0c7gd9lt0mv71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dune Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dune-fmb69ce5ahreihhi.jpg' alt='100+] Dune Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dune-fmb69ce5ahreihhi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Worm Wallpapers (19 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/3/0/484262-2446x1376-desktop-hd-dune-worm-wallpaper.jpg' alt='Dune Worm Wallpapers (19 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2446">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/3/0/484262-2446x1376-desktop-hd-dune-worm-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

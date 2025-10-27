@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Oranges Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Revamp your decor effortlessly with oranges peel and stick wallpaper! Easy to apply and remove, this vibrant design brings a cheerful touch to any room. Ideal for renters or a quick update, it offers a fresh, fruity flair without the fuss. Add color and personality to your home today!">
+                    <meta name="keywords" content="oranges peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/oranges-peel-and-stick-wallpaper">
+                            <span itemprop="name">oranges peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Oranges Peel and Stick Wallpaper</h1>
+                <p>Transform your space with vibrant oranges peel and stick wallpaper! Perfect for kitchens, dining areas, or playful rooms, this easy-to-apply and removable wallpaper adds a splash of color and fun. No mess or glue is needed—just peel, stick, and enjoy a refreshing citrus vibe in your home decor. Perfect for renters too!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meihodan Floral Peel and Stick Wallpaper Oranges Blossoms Citrus Print Self  Adhesive Wallpaper Removable Contact Paper for Living Room Cabinet DIY ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71nRePuZHaL.jpg' alt='Meihodan Floral Peel and Stick Wallpaper Oranges Blossoms Citrus Print Self  Adhesive Wallpaper Removable Contact Paper for Living Room Cabinet DIY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71nRePuZHaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK11254RL_20.5.jpg?v=1640719470' alt='Citrus Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK11254RL_20.5.jpg?v=1640719470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Citrus and Leaves Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-245938.png?v=1718902434' alt='Orange Citrus and Leaves Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1562">
+                                <meta itemprop="height" content="1562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-245938.png?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Illustration With Oranges and Tangerines Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/af733a/3790205603/il_fullxfull.3790205603_6m3n.jpg' alt='Tropical Illustration With Oranges and Tangerines Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/af733a/3790205603/il_fullxfull.3790205603_6m3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Oranges Blossoms Cream Orange ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71McDTcgDDL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Oranges Blossoms Cream Orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71McDTcgDDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Citrus and Leaves Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-795156.jpg?v=1718902434' alt='Orange Citrus and Leaves Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1695">
+                                <meta itemprop="height" content="1695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-795156.jpg?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Oranges Illustration Wallpaper">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/il_fullxfull.2730547839_5u9l.jpg?v=1606169392' alt='Cute Oranges Illustration Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/il_fullxfull.2730547839_5u9l.jpg?v=1606169392' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pip & Lo 30.75-sq ft Orange Vinyl Novelty Self-adhesive Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/93c84b57-3c60-4ef8-a79d-9e589dfc74b2/47696779.jpg' alt='Pip & Lo 30.75-sq ft Orange Vinyl Novelty Self-adhesive Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/93c84b57-3c60-4ef8-a79d-9e589dfc74b2/47696779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Oranges Wallpaper Oranges and Leaves Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26864170/r/il/a53080/3035446296/il_570xN.3035446296_251p.jpg' alt='Watercolor Oranges Wallpaper Oranges and Leaves Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26864170/r/il/a53080/3035446296/il_570xN.3035446296_251p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12345PL_peelex.jpg?v=1669757200' alt='Citrus Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12345PL_peelex.jpg?v=1669757200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

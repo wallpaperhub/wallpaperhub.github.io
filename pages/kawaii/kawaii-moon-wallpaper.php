@@ -1,0 +1,129 @@
+<title>Kawaii Moon Wallpapers: Cute Celestial Backgrounds</title>
+                    <meta name="description" content="Discover adorable kawaii moon wallpapers perfect for enhancing your screen's charm! From soft pastels to dreamy designs, these wallpapers offer a delightful aesthetic that appeals to all. Transform your device with enchanting lunar visuals that captivate and inspire every time you unlock your screen!">
+                    <meta name="keywords" content="kawaii moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-moon-wallpaper">
+                            <span itemprop="name">kawaii moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Moon Wallpapers: Cute Celestial Backgrounds</h1>
+                <p>Kawaii moon wallpapers bring a touch of whimsy and charm to your device! Adorned with cute, pastel-colored lunar designs, these wallpapers create a soothing aesthetic for your screen. Perfect for lovers of all things cute, they can transform any phone, tablet, or computer background into a dreamy, celestial scene. Explore our collection!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Kawaii">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/b1/9f/a9b19f0a69b14b1d7997d988a3233c1b.jpg' alt='Wallpaper Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/b1/9f/a9b19f0a69b14b1d7997d988a3233c1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Moon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-moon-flep6cy12e19fr1e.jpg' alt='100+] Cute Moon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-moon-flep6cy12e19fr1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/70/d5/c4/70d5c4fb255e00b5c8ae4cfe03100ae4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/70/d5/c4/70d5c4fb255e00b5c8ae4cfe03100ae4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Moon with stars & clouds Phone Wallpaper, Cute Aesthetic Background  for IPhone, Pastel Android Wallpaper, Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28622016/r/il/5b0d92/4873530898/il_570xN.4873530898_oitg.jpg' alt='Kawaii Moon with stars & clouds Phone Wallpaper, Cute Aesthetic Background  for IPhone, Pastel Android Wallpaper, Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28622016/r/il/5b0d92/4873530898/il_570xN.4873530898_oitg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Purple Sky With Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kawaii-purple-sky-with-moon-77wr9b85irtsmxa8.jpg' alt='Kawaii Purple Sky With Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kawaii-purple-sky-with-moon-77wr9b85irtsmxa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper, Pastel Moon PC Wallpaper, Kawaii Moon, Cute Purple Mac  Wallpaper, Windows Wallpaper, Laptop Wallpaper, Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34157568/r/il/7ce4b0/3686253085/il_fullxfull.3686253085_nios.jpg' alt='Desktop Wallpaper, Pastel Moon PC Wallpaper, Kawaii Moon, Cute Purple Mac  Wallpaper, Windows Wallpaper, Laptop Wallpaper, Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34157568/r/il/7ce4b0/3686253085/il_fullxfull.3686253085_nios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star and moon, cute, kawaii, pastel, pretty, purple, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/228/712/HD-wallpaper-star-and-moon-cute-kawaii-pastel-pretty-purple.jpg' alt='Star and moon, cute, kawaii, pastel, pretty, purple, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/228/712/HD-wallpaper-star-and-moon-cute-kawaii-pastel-pretty-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kirby & Black Mage Moon Wallpaper By Suyasuyabi - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-moon-wallpaper-artwork-suyasuyabi427-kawaii-hoshi.jpg' alt='Cute Kirby & Black Mage Moon Wallpaper By Suyasuyabi - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-moon-wallpaper-artwork-suyasuyabi427-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cute Pink Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-cute-pink-moon-lftdbw8c1ahos2j4.jpg' alt='Dark Cute Pink Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-cute-pink-moon-lftdbw8c1ahos2j4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor moon, anime, moon, luna and sailor moon, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/603/620/HD-wallpaper-sailor-moon-anime-luna-luna-and-sailor-moon.jpg' alt='Sailor moon, anime, moon, luna and sailor moon, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/603/620/HD-wallpaper-sailor-moon-anime-luna-luna-and-sailor-moon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Unleash Your Potential: A High School Wrestling Journey"</title>
+                    <meta name="description" content=""Explore the impactful journey of high school wrestling. Discover how it builds discipline, resilience, and offers pathways to scholarships, while forging lifelong skills and friendships. Join the wrestling community today!"">
+                    <meta name="keywords" content="high school wrestling background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/high-school-wrestling-background">
+                            <span itemprop="name">high school wrestling background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Unleash Your Potential: A High School Wrestling Journey"</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wrestling Horizontal Digital Backgrounds - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21895623/r/il/483ab2/2511234525/il_fullxfull.2511234525_e90d.jpg' alt='Wrestling Horizontal Digital Backgrounds - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21895623/r/il/483ab2/2511234525/il_fullxfull.2511234525_e90d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wrestling Digital Backdrop - Photography | DYNAMIC ICE WRESTLING ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21060982/r/il/824851/4374791790/il_fullxfull.4374791790_pekr.jpg' alt='Wrestling Digital Backdrop - Photography | DYNAMIC ICE WRESTLING ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21060982/r/il/824851/4374791790/il_fullxfull.4374791790_pekr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High School Wrestling Images – Browse 610 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/69/95/70/360_F_269957006_Yy0RAFgGqn4yKx2L2VVAWCRCIvyc18TQ.jpg' alt='High School Wrestling Images – Browse 610 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/69/95/70/360_F_269957006_Yy0RAFgGqn4yKx2L2VVAWCRCIvyc18TQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="134 School Wrestling Mat Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wrestling-mat-colored-straps-66709962.jpg' alt='134 School Wrestling Mat Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wrestling-mat-colored-straps-66709962.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wrestling Horizontal Digital Backgrounds - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21895623/r/il/4da538/2463575398/il_570xN.2463575398_lo4n.jpg' alt='Wrestling Horizontal Digital Backgrounds - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21895623/r/il/4da538/2463575398/il_570xN.2463575398_lo4n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="730+ Wrestling Mat Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1089652438/photo/the-concept-of-fair-wrestling.jpg?s=612x612&w=0&k=20&c=TYzmQC_OJePDhdCqpQ5IXDsIoWGEv98bSgCdX3xIpC0=' alt='730+ Wrestling Mat Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1089652438/photo/the-concept-of-fair-wrestling.jpg?s=612x612&w=0&k=20&c=TYzmQC_OJePDhdCqpQ5IXDsIoWGEv98bSgCdX3xIpC0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of wrestling – Bulldog Bugle">
+                                <img itemprop="contentUrl url" src='https://bulldogbugle.com/wp-content/uploads/2021/06/ocvarsity-wrestling12.jpeg' alt='History of wrestling – Bulldog Bugle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bulldog Bugle" />
+                                </span>
+                                <a href='https://bulldogbugle.com/wp-content/uploads/2021/06/ocvarsity-wrestling12.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smackdown - WyoFile">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/wyofile.com/wp-content/uploads/2018/03/Smackdown_dorgan.jpg?fit=1000%2C672' alt='Smackdown - WyoFile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WyoFile" />
+                                </span>
+                                <a href='https://i0.wp.com/wyofile.com/wp-content/uploads/2018/03/Smackdown_dorgan.jpg?fit=1000%2C672' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STATE CHAMPIONSHIP PREVIEW - ALL CLASSES - Colorado Preps">
+                                <img itemprop="contentUrl url" src='https://coloradopreps.com/wp-content/uploads/wrestling-mats-photo.jpg' alt='STATE CHAMPIONSHIP PREVIEW - ALL CLASSES - Colorado Preps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colorado Preps" />
+                                </span>
+                                <a href='https://coloradopreps.com/wp-content/uploads/wrestling-mats-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven Inland wrestling teams seeded for CIF Southern Section dual ...">
+                                <img itemprop="contentUrl url" src='https://www.pressenterprise.com/wp-content/uploads/2023/01/RPE-L-BWR-CHAPARRAL-0120-24TP-1.jpg?w=978' alt='Seven Inland wrestling teams seeded for CIF Southern Section dual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Press Enterprise" />
+                                </span>
+                                <a href='https://www.pressenterprise.com/wp-content/uploads/2023/01/RPE-L-BWR-CHAPARRAL-0120-24TP-1.jpg?w=978' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

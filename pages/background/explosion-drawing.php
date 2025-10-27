@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="explosion drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/explosion-drawing">
+                            <span itemprop="name">explosion drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw an Explosion - Really Easy Drawing Tutorial">
+                                <img itemprop="contentUrl url" src='https://easydrawingguides.com/wp-content/uploads/2021/05/how-to-draw-an-explosion-featured-image-1200.png' alt='How to Draw an Explosion - Really Easy Drawing Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Drawing Guides" />
+                                </span>
+                                <a href='https://easydrawingguides.com/wp-content/uploads/2021/05/how-to-draw-an-explosion-featured-image-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Nuclear Explosion | Ink Drawing tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5OmqzjcemW4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCWjIRNMdx5FGnXso9R2pZyCUxCHQ' alt='How to Draw Nuclear Explosion | Ink Drawing tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5OmqzjcemW4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCWjIRNMdx5FGnXso9R2pZyCUxCHQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Explosions | Art Rocket">
+                                <img itemprop="contentUrl url" src='https://www.clipstudio.net/wp-content/uploads/2021/03/0155_016.png' alt='How to Draw Explosions | Art Rocket'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio Paint" />
+                                </span>
+                                <a href='https://www.clipstudio.net/wp-content/uploads/2021/03/0155_016.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw Explosion Easy">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Al-bnwtIr3E/maxresdefault.jpg' alt='How to draw Explosion Easy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Al-bnwtIr3E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw a cartoon explosion">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/twEHoxyt4w8/maxresdefault.jpg' alt='How to draw a cartoon explosion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/twEHoxyt4w8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Drawing - How To Draw An Explosion Step By Step">
+                                <img itemprop="contentUrl url" src='https://iheartcraftythings.com/wp-content/uploads/2021/07/7-23.jpg' alt='Explosion Drawing - How To Draw An Explosion Step By Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Heart Crafty Things" />
+                                </span>
+                                <a href='https://iheartcraftythings.com/wp-content/uploads/2021/07/7-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Drawing Stock Illustrations – 43,172 Explosion Drawing ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/nuclear-explosion-mushroom-cloud-drawing-illustration-vector-art-102908403.jpg' alt='Explosion Drawing Stock Illustrations – 43,172 Explosion Drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/nuclear-explosion-mushroom-cloud-drawing-illustration-vector-art-102908403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Explosions | Art Rocket">
+                                <img itemprop="contentUrl url" src='https://www.clipstudio.net/wp-content/uploads/2021/03/0155_021.png' alt='How to Draw Explosions | Art Rocket'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio Paint" />
+                                </span>
+                                <a href='https://www.clipstudio.net/wp-content/uploads/2021/03/0155_021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Explosions, Smoke & Fire Step by Step - AnimeOutline">
+                                <img itemprop="contentUrl url" src='https://www.animeoutline.com/wp-content/uploads/2020/07/explosions_smoke_and_fire_drawing.png' alt='How to Draw Explosions, Smoke & Fire Step by Step - AnimeOutline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AnimeOutline" />
+                                </span>
+                                <a href='https://www.animeoutline.com/wp-content/uploads/2020/07/explosions_smoke_and_fire_drawing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Technique】Let's draw explosions | MediBang Paint - the free ...">
+                                <img itemprop="contentUrl url" src='https://medibangpaint.com/wp-content/uploads/2021/11/2-5.png' alt='Technique】Let's draw explosions | MediBang Paint - the free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2068">
+                                <meta itemprop="height" content="2094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MediBang Paint" />
+                                </span>
+                                <a href='https://medibangpaint.com/wp-content/uploads/2021/11/2-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

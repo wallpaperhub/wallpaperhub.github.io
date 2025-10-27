@@ -1,0 +1,129 @@
+<title>Vibrant Birthday Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect birthday wallpapers for your iPhone! Our collection features colorful designs that capture the joyous essence of birthdays. Easily customize your phone and share the celebration with friends and family. Explore now to find your ideal birthday backdrop!">
+                    <meta name="keywords" content="iphone:u0-apvtavdc= birthday wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoneu0-apvtavdc-birthday-wallpaper">
+                            <span itemprop="name">iphone:u0-apvtavdc= birthday wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Birthday Wallpapers for iPhone</h1>
+                <p>Celebrate your special day with stunning birthday wallpapers for your iPhone! Transform your home screen into a festive display with vibrant designs that reflect the joy of birthdays. From cakes and balloons to party themes, find the perfect wallpaper to showcase your unique style and share the birthday spirit with friends!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 IPHONE~BIRTHDAY WALLPAPERS ideas | birthday wallpaper, birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/d7/a6/c5d7a6ba941b70eaa62b7fe6dcf036d8.jpg' alt='29 IPHONE~BIRTHDAY WALLPAPERS ideas | birthday wallpaper, birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/d7/a6/c5d7a6ba941b70eaa62b7fe6dcf036d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joyous celebration Happy Birthday highlighted in festive and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/joyous-celebration-happy-birthday-highlighted-festive-cheerful-setting-vertical-mobile-wallpa_795881-26351.jpg' alt='Joyous celebration Happy Birthday highlighted in festive and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/joyous-celebration-happy-birthday-highlighted-festive-cheerful-setting-vertical-mobile-wallpa_795881-26351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Art iPhone Wallpaper, Happy Birthday, Confetti, Cell phone  wallpaper, iPhone XR, Balloons, Color">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33438030/r/il/8ceeb5/3830000317/il_fullxfull.3830000317_ood0.jpg' alt='Digital Art iPhone Wallpaper, Happy Birthday, Confetti, Cell phone  wallpaper, iPhone XR, Balloons, Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33438030/r/il/8ceeb5/3830000317/il_fullxfull.3830000317_ood0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday party backgrounds balloons confetti party gadgets ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/birthday-party-backgrounds-balloons-confetti-party-gadgets_731930-397.jpg?w=360' alt='Birthday party backgrounds balloons confetti party gadgets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/birthday-party-backgrounds-balloons-confetti-party-gadgets_731930-397.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Wallpaper Iphone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyMDYtaW5zdGFncmFtc3RvcnktMjRhXzEuanBn.jpg' alt='Birthday Wallpaper Iphone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdHAyMDYtaW5zdGFncmFtc3RvcnktMjRhXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Balloons and confetti blue birthday cake 3D rendering celebration ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/balloons-confetti-blue-birthday-cake-3d-rendering-celebration-vertical-mobile-wallpaper_795881-30514.jpg' alt='Balloons and confetti blue birthday cake 3D rendering celebration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/balloons-confetti-blue-birthday-cake-3d-rendering-celebration-vertical-mobile-wallpaper_795881-30514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Backgrounds - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2023/06/Watercolor-Birthday-Background.jpg' alt='Birthday Backgrounds - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2023/06/Watercolor-Birthday-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Wallpaper Iphone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDUtamotMDEtZC1sXzEuanBn.jpg' alt='Birthday Wallpaper Iphone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDUtamotMDEtZC1sXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Iphone Stock Illustrations – 323 Happy Birthday ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/festive-revelry-happy-birthday-celebration-filled-laughter-joy-festive-revelry-happy-birthday-celebration-filled-303511186.jpg' alt='Happy Birthday Iphone Stock Illustrations – 323 Happy Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/festive-revelry-happy-birthday-celebration-filled-laughter-joy-festive-revelry-happy-birthday-celebration-filled-303511186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Iphone Stock Illustrations – 323 Happy Birthday ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-candles-spell-happy-birthday-light-blue-backdrop-vibrant-hues-colorful-candles-spell-happy-birthday-light-blue-320849431.jpg' alt='Happy Birthday Iphone Stock Illustrations – 323 Happy Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-candles-spell-happy-birthday-light-blue-backdrop-vibrant-hues-colorful-candles-spell-happy-birthday-light-blue-320849431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Valorant Wallpapers: Elevate Your Gaming Aesthetic</title>
+                    <meta name="description" content="Explore our collection of dark Valorant wallpapers to enhance your gaming experience. Perfect for players looking for striking visuals that showcase their passion for the game. Download now to give your devices a bold, immersive look that resonates with the thrilling world of Valorant!">
+                    <meta name="keywords" content="dark valorant wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-valorant-wallpapers">
+                            <span itemprop="name">dark valorant wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Valorant Wallpapers: Elevate Your Gaming Aesthetic</h1>
+                <p>Discover the allure of dark Valorant wallpapers, perfect for gamers seeking a thrilling aesthetic. From mysterious character art to intense battle scenes, these wallpapers enhance your gaming experience and reflect your style. Transform your device's background with these captivating visuals that embody the spirit of Valorant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I customized that new wallpaper from a light background to a dark ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dx21do506v151.jpg?width=5120&format=pjpg&auto=webp&s=df6f1d46da3e486c5260ae5b5c210dd953173117' alt='I customized that new wallpaper from a light background to a dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="3613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dx21do506v151.jpg?width=5120&format=pjpg&auto=webp&s=df6f1d46da3e486c5260ae5b5c210dd953173117' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Valorant Wallpaper (Ultrawide & text-only versions in ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t43lu9chtal41.png' alt='Minimal Valorant Wallpaper (Ultrawide & text-only versions in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t43lu9chtal41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="simple valorant wallpaper : r/VALORANT">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/simple-valorant-wallpaper-v0-q57biyp2f5xb1.png?width=3840&format=png&auto=webp&s=2fa779ebe0a624531a338fbb0c6636f692573a1c' alt='simple valorant wallpaper : r/VALORANT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/simple-valorant-wallpaper-v0-q57biyp2f5xb1.png?width=3840&format=png&auto=webp&s=2fa779ebe0a624531a338fbb0c6636f692573a1c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant 4k Characters In Dark Mode Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/valorant-4k-characters-in-dark-mode-ke9arwkqx2wabwf4.jpg' alt='Valorant 4k Characters In Dark Mode Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/valorant-4k-characters-in-dark-mode-ke9arwkqx2wabwf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally I drew wallpaper for Every Agent, the Valorant Rainbow : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/4p15wnuq8ip51.png?width=1920&format=png&auto=webp&s=210d3d94eff4484fb31b0658065c7703d242d064' alt='Finally I drew wallpaper for Every Agent, the Valorant Rainbow : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/4p15wnuq8ip51.png?width=1920&format=png&auto=webp&s=210d3d94eff4484fb31b0658065c7703d242d064' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Black Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11673906.jpg' alt='Valorant Black Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11673906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Wallpapers (102 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/a/6/1869151-1080x1920-samsung-full-hd-valorant-background-image.jpg' alt='Valorant Wallpapers (102 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/a/6/1869151-1080x1920-samsung-full-hd-valorant-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omen Valorant, dark, dark character, dark, game, nice, omen, omen ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/134/714/HD-wallpaper-omen-valorant-dark-dark-character-dark-game-nice-omen-omen-valorant-valorant-video-game.jpg' alt='Omen Valorant, dark, dark character, dark, game, nice, omen, omen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/134/714/HD-wallpaper-omen-valorant-dark-dark-character-dark-game-nice-omen-omen-valorant-valorant-video-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Valorant Jett Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/4269/dark-valorant-jett.jpg' alt='Dark Valorant Jett Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/4269/dark-valorant-jett.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally I drew wallpaper for Every Agent, the Valorant Rainbow : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ck9qhe8w8ip51.png?width=1920&format=png&auto=webp&s=0a1461926c9d1f57cd57766f36395e6a84c228cb' alt='Finally I drew wallpaper for Every Agent, the Valorant Rainbow : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ck9qhe8w8ip51.png?width=1920&format=png&auto=webp&s=0a1461926c9d1f57cd57766f36395e6a84c228cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

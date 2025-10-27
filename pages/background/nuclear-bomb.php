@@ -1,0 +1,129 @@
+<title>Nuclear Bombs: Understanding Their Impact and Implications</title>
+                    <meta name="description" content="Explore the powerful and complex world of nuclear bombs, from their historical development to their profound effects on global security. Learn about the risks of proliferation and the importance of nuclear disarmament in a rapidly changing geopolitical landscape.">
+                    <meta name="keywords" content="nuclear bomb">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nuclear-bomb">
+                            <span itemprop="name">nuclear bomb</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nuclear Bombs: Understanding Their Impact and Implications</h1>
+                <p>Nuclear bombs are among the most devastating weapons ever created, harnessing the power of nuclear reactions to unleash unprecedented destruction. Developed during World War II, their impact has shaped global politics, deterrence strategies, and public awareness of nuclear proliferation. Understanding their implications is crucial for ensuring global security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mark 6 nuclear bomb - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/37/Mark_VI_USAFM.jpg' alt='Mark 6 nuclear bomb - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3307">
+                                <meta itemprop="height" content="2384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/37/Mark_VI_USAFM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nuclear Blast">
+                                <img itemprop="contentUrl url" src='https://www.cdph.ca.gov/Programs/EPO/PublishingImages/nuclear_blast.jpg' alt='Nuclear Blast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDPH - CA.gov" />
+                                </span>
+                                <a href='https://www.cdph.ca.gov/Programs/EPO/PublishingImages/nuclear_blast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Atom Bombs: Bomb Casing | National Museum of the Pacific War">
+                                <img itemprop="contentUrl url" src='https://www.pacificwarmuseum.org/uploads/images/_857x642_crop_center-center_60_none/Atomic-Bomb-Casing.png' alt='The Atom Bombs: Bomb Casing | National Museum of the Pacific War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Museum of the Pacific War" />
+                                </span>
+                                <a href='https://www.pacificwarmuseum.org/uploads/images/_857x642_crop_center-center_60_none/Atomic-Bomb-Casing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated B61 Nuclear Bomb to Cost $8.25 Billion">
+                                <img itemprop="contentUrl url" src='https://www.defensenews.com/resizer/v2/CVWOBCDXP5H6LDNDMJQOQ65PXU.jpg?auth=d6d2b8cc4bf417282ec62ed50b0df3bc311449fc374d4bb532c4104fb687d943&width=1367&height=2048' alt='Updated B61 Nuclear Bomb to Cost $8.25 Billion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1367">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Defense News" />
+                                </span>
+                                <a href='https://www.defensenews.com/resizer/v2/CVWOBCDXP5H6LDNDMJQOQ65PXU.jpg?auth=d6d2b8cc4bf417282ec62ed50b0df3bc311449fc374d4bb532c4104fb687d943&width=1367&height=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nuclear weapons: a beginner's guide to the threats | SGR ...">
+                                <img itemprop="contentUrl url" src='https://www.sgr.org.uk/sites/default/files/resource-images/2019-08/Nuclear%20explosion%20%28Gerd%20Altmann%29_1.jpg' alt='Nuclear weapons: a beginner's guide to the threats | SGR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1019">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientists for Global Responsibility" />
+                                </span>
+                                <a href='https://www.sgr.org.uk/sites/default/files/resource-images/2019-08/Nuclear%20explosion%20%28Gerd%20Altmann%29_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Facts About U.S. Nuclear Weapons Today">
+                                <img itemprop="contentUrl url" src='https://www.brookings.edu/wp-content/uploads/2016/06/nuclear_explosion001.jpg?quality=75&w=1500' alt='50 Facts About U.S. Nuclear Weapons Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brookings Institution" />
+                                </span>
+                                <a href='https://www.brookings.edu/wp-content/uploads/2016/06/nuclear_explosion001.jpg?quality=75&w=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Nuclear Bombs Work | HowStuffWorks">
+                                <img itemprop="contentUrl url" src='https://cdn.hswstatic.com/gif/nuclear-bomb-update.jpg' alt='How Nuclear Bombs Work | HowStuffWorks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science | HowStuffWorks" />
+                                </span>
+                                <a href='https://cdn.hswstatic.com/gif/nuclear-bomb-update.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atomic Bomb: Nuclear Bomb, Hiroshima & Nagasaki ‑ HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2017/09/gettyimages-463918343.jpg' alt='Atomic Bomb: Nuclear Bomb, Hiroshima & Nagasaki ‑ HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3984">
+                                <meta itemprop="height" content="2241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HISTORY Channel" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2017/09/gettyimages-463918343.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Atomic Bombings by Ian W. Toll | The National WWII Museum ...">
+                                <img itemprop="contentUrl url" src='https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2020-08/Toll%20cover%20Image%20-%20courtesy%20Harry%20S.%20Truman%20Library%20and%20Museum.jpg' alt='The Atomic Bombings by Ian W. Toll | The National WWII Museum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National WWII Museum" />
+                                </span>
+                                <a href='https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2020-08/Toll%20cover%20Image%20-%20courtesy%20Harry%20S.%20Truman%20Library%20and%20Museum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="B43 nuclear bomb - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hull_of_a_B43_nuclear_bomb%2C_on_display_in_Dresden.jpg/640px-Hull_of_a_B43_nuclear_bomb%2C_on_display_in_Dresden.jpg' alt='B43 nuclear bomb - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hull_of_a_B43_nuclear_bomb%2C_on_display_in_Dresden.jpg/640px-Hull_of_a_B43_nuclear_bomb%2C_on_display_in_Dresden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

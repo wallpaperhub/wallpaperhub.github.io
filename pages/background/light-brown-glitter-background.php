@@ -1,0 +1,129 @@
+<title>Light Brown Glitter Background - Sparkle Up Your Designs!</title>
+                    <meta name="description" content="Add elegance to any project with our light brown glitter background. Perfect for digital designs, party decorations, and more, this background offers a chic touch that captivates. Create an inviting ambiance with just the right amount of shimmer! Explore now for your next project!">
+                    <meta name="keywords" content="light brown glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-brown-glitter-background">
+                            <span itemprop="name">light brown glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Brown Glitter Background - Sparkle Up Your Designs!</h1>
+                <p>Transform your space with a stunning light brown glitter background. Perfect for parties, events, or social media, this elegant design adds a touch of sparkle and warmth. Whether you’re decorating a venue or enhancing your digital projects, this light brown glittery backdrop creates a chic and inviting atmosphere that shines.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Brown Glitter Background For Your New Superior Look Shiny ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1167004760/photo/light-brown-glitter-background-for-your-new-superior-look-shiny-texture-for-holiday-design.jpg?s=170667a&w=0&k=20&c=vhL3DsdL-M0a3BGTsD0cSsXEmpnShm99hnpSI1wxW_0=' alt='Light Brown Glitter Background For Your New Superior Look Shiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1167004760/photo/light-brown-glitter-background-for-your-new-superior-look-shiny-texture-for-holiday-design.jpg?s=170667a&w=0&k=20&c=vhL3DsdL-M0a3BGTsD0cSsXEmpnShm99hnpSI1wxW_0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/golden-glitter-textured-design_53876-96152.jpg?semt=ais_hybrid' alt='Brown Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/golden-glitter-textured-design_53876-96152.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Light Brown Glitter Background High Stock Photo 767287432 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/easy-light-brown-glitter-background-260nw-767287432.jpg' alt='Easy Light Brown Glitter Background High Stock Photo 767287432 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/easy-light-brown-glitter-background-260nw-767287432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/copy-space-glossy-gold-background_23-2148486776.jpg' alt='Brown Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/copy-space-glossy-gold-background_23-2148486776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light brown bokeh glitter background. Golden light background ...">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/450764563/DSC_1454%20Light%20brown%20bokeh.jpg' alt='Light brown bokeh glitter background. Golden light background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoDune" />
+                                </span>
+                                <a href='https://s3.envato.com/files/450764563/DSC_1454%20Light%20brown%20bokeh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Brown Glitter Wall Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/sand-beach-ocean-wave_58702-10453.jpg' alt='Light Brown Glitter Wall Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/sand-beach-ocean-wave_58702-10453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39,062 Brown Glitter Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dark-golden-glitter-background-brown-53353696.jpg' alt='39,062 Brown Glitter Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dark-golden-glitter-background-brown-53353696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Brown Glitter Texture Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/golden-brown-glitter-texture-background-260nw-459422995.jpg' alt='Golden Brown Glitter Texture Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/golden-brown-glitter-texture-background-260nw-459422995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/00/ab/99/00ab99fac0607ac0cb11b6d85c425411.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/00/ab/99/00ab99fac0607ac0cb11b6d85c425411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Brown Satin Glitter Background Graphic by Rizu Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/07/30/Light-Brown-Satin-Glitter-Background-Graphics-15278599-1.jpg' alt='Light Brown Satin Glitter Background Graphic by Rizu Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/07/30/Light-Brown-Satin-Glitter-Background-Graphics-15278599-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

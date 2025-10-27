@@ -1,0 +1,129 @@
+<title>Discover the Wonders of the United States</title>
+                    <meta name="description" content="Explore the diverse landscapes, vibrant cultures, and rich history of the United States. From iconic landmarks to culinary delights, delve into the heart of this remarkable nation. Experience the spirit of freedom and opportunity that defines the U.S. in an accessible, engaging way.">
+                    <meta name="keywords" content="united states">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/united-states">
+                            <span itemprop="name">united states</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Wonders of the United States</h1>
+                <p>The United States, a diverse nation, is known for its rich history, cultural melting pot, and innovation. Stretching from the Atlantic to the Pacific, it offers stunning landscapes, bustling cities, and iconic landmarks like the Statue of Liberty and Grand Canyon. Home to a variety of cuisines and traditions, the U.S. embodies the spirit of freedom and opportunity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of states and territories of the United States - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_USA_with_state_and_territory_names_2.png/330px-Map_of_USA_with_state_and_territory_names_2.png' alt='List of states and territories of the United States - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_USA_with_state_and_territory_names_2.png/330px-Map_of_USA_with_state_and_territory_names_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States | History, Map, Flag, & Population | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/34/4834-050-BC652AF8/United-States-of-America.jpg' alt='United States | History, Map, Flag, & Population | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/34/4834-050-BC652AF8/United-States-of-America.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1200px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png' alt='United States - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1200px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States | History, Map, Flag, & Population | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/85/183785-050-77A0FDB5/The-United-States.jpg' alt='United States | History, Map, Flag, & Population | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/85/183785-050-77A0FDB5/The-United-States.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable US Maps with States (USA, United States, America) – Free ...">
+                                <img itemprop="contentUrl url" src='https://suncatcherstudio.com/uploads/patterns/us-maps/pdf-png/usa-map-states-names-color-010101.png' alt='Printable US Maps with States (USA, United States, America) – Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Suncatcher Studio" />
+                                </span>
+                                <a href='https://suncatcherstudio.com/uploads/patterns/us-maps/pdf-png/usa-map-states-names-color-010101.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/196cb063-fe1f-4f2e-801d-6316129ce55e/united-states-textimage_0.jpg?wp=1&w=1084.125&h=609' alt='United States'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/196cb063-fe1f-4f2e-801d-6316129ce55e/united-states-textimage_0.jpg?wp=1&w=1084.125&h=609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Map - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/ba/68/e7/state-us-map2019-2.png' alt='United States Map - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="956">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/ba/68/e7/state-us-map2019-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Map and Satellite Image">
+                                <img itemprop="contentUrl url" src='https://geology.com/world/united-states-map-with-state-capitals.gif' alt='United States Map and Satellite Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geology.com" />
+                                </span>
+                                <a href='https://geology.com/world/united-states-map-with-state-capitals.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9A5B/production/_130151593_bbcm_usa_country_profile_map_080623.png' alt='United States country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9A5B/production/_130151593_bbcm_usa_country_profile_map_080623.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TREND United States Map Learning Chart, Classroom Decor, 17" x 22"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81K+hYqMG2L._AC_UF894,1000_QL80_.jpg' alt='TREND United States Map Learning Chart, Classroom Decor, 17" x 22"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81K+hYqMG2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

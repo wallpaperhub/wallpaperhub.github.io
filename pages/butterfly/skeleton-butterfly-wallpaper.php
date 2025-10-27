@@ -1,0 +1,129 @@
+<title>Enchanting Skeleton Butterfly Wallpaper for Unique Interiors</title>
+                    <meta name="description" content="Add a touch of whimsy to your decor with our skeleton butterfly wallpaper. Perfect for creating stunning accent walls or transforming entire rooms, its intricate design captures attention and inspires creativity. Ideal for those who appreciate artistic flair and unique aesthetics in their living spaces.">
+                    <meta name="keywords" content="skeleton butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/skeleton-butterfly-wallpaper">
+                            <span itemprop="name">skeleton butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Skeleton Butterfly Wallpaper for Unique Interiors</h1>
+                <p>Transform your space with our captivating skeleton butterfly wallpaper, a unique blend of elegance and allure. Perfect for those who appreciate intricate design, this wallpaper features detailed skeleton motifs that bring a touch of the whimsical to any room. Ideal for accent walls or entire spaces, its bold aesthetic invites creativity and conversation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Skeleton Halloween dark iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3a/fa/7b/3afa7bf938d37107a40e8f6731027559.jpg' alt='Download premium image of Skeleton Halloween dark iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3a/fa/7b/3afa7bf938d37107a40e8f6731027559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The skeleton butterfly,original artwork,digital print,skulls ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/b3/eb/ccb3eb507819de71937fc522732bb34d.jpg' alt='The skeleton butterfly,original artwork,digital print,skulls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/b3/eb/ccb3eb507819de71937fc522732bb34d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD skeleton butterfly wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/578/110/HD-wallpaper-skeleton-butterfly-amoled-black-bone-glitch-interference-man-skull-wings.jpg' alt='HD skeleton butterfly wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/578/110/HD-wallpaper-skeleton-butterfly-amoled-black-bone-glitch-interference-man-skull-wings.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skulls Butterflies Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14969103/p/f/m/7vCtuYLoMgZ57T2U36AQf3Vjh87zF3AZHWXamo2WQ_x87qgVKvDA3po/Skulls%20and%20Butterflies.jpg' alt='Skulls Butterflies Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14969103/p/f/m/7vCtuYLoMgZ57T2U36AQf3Vjh87zF3AZHWXamo2WQ_x87qgVKvDA3po/Skulls%20and%20Butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD skull of butterfly wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/423/1021/HD-wallpaper-skull-n-butterflies-dfgd-gfd-thumbnail.jpg' alt='HD skull of butterfly wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/423/1021/HD-wallpaper-skull-n-butterflies-dfgd-gfd-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Orange Butterfly On Black Background Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/skull-orange-butterfly-on-black-260nw-389476603.jpg' alt='Skull Orange Butterfly On Black Background Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/skull-orange-butterfly-on-black-260nw-389476603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Butterfly Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMWIuanBn.jpg' alt='Skeleton Butterfly Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMWIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skulls, blue, butterfly, flowers, skullz, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/798/455/HD-wallpaper-skulls-blue-butterfly-flowers-skullz.jpg' alt='Skulls, blue, butterfly, flowers, skullz, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/798/455/HD-wallpaper-skulls-blue-butterfly-flowers-skullz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monarch Butterfly Gothic Skull Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/dark-skeleton-and-butterfly-wall-mural.jpg?v=1650356242&width=1445' alt='Monarch Butterfly Gothic Skull Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/dark-skeleton-and-butterfly-wall-mural.jpg?v=1650356242&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="skeleton hand w butterfly">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/b5/ba/ddb5ba5639039c2d45cabba7c52b9ea0.jpg' alt='skeleton hand w butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/b5/ba/ddb5ba5639039c2d45cabba7c52b9ea0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

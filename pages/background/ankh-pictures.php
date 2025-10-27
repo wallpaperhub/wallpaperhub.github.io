@@ -1,0 +1,129 @@
+<title>Ankh Pictures: Symbols of Life & Immortality</title>
+                    <meta name="description" content="Explore stunning ankh pictures that represent life and immortality. Discover the beauty and significance of this ancient Egyptian symbol in art and jewelry, and connect with history and spirituality through captivating imagery.">
+                    <meta name="keywords" content="ankh pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ankh-pictures">
+                            <span itemprop="name">ankh pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ankh Pictures: Symbols of Life & Immortality</h1>
+                <p>Ankh pictures symbolize life and immortality, originating from ancient Egyptian culture. Often depicted as a cross with a loop at the top, they are used in various art forms, jewelry, and tattoos. These images evoke a sense of mystery and spirituality, connecting modern audiences to the rich history and beliefs of the ancients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ankh - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/46/Ankh.svg' alt='Ankh - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/46/Ankh.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Ebros Crux Ansata Egyptian Golden Ankh With Winged Scarab Maat  And Eye Of Horus Wedjat Wall Decor 3D Plaque Figurine 8" High New Age ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Hyz1rz37L.jpg' alt='Amazon.com: Ebros Crux Ansata Egyptian Golden Ankh With Winged Scarab Maat  And Eye Of Horus Wedjat Wall Decor 3D Plaque Figurine 8" High New Age ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1466">
+                                <meta itemprop="height" content="1916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Hyz1rz37L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Ebros Small Crux Ansata Egyptian Golden Ankh Wall Decor  Figurine 7.25"Long New Age Mysticism With Egyptian Hieroglyphs Symbol of  Life ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61LW9BtToBL.jpg' alt='Amazon.com: Ebros Small Crux Ansata Egyptian Golden Ankh Wall Decor  Figurine 7.25"Long New Age Mysticism With Egyptian Hieroglyphs Symbol of  Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="837">
+                                <meta itemprop="height" content="1614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61LW9BtToBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,068 Ankh Images, Stock Photos, 3D objects, & Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/egyptian-cross-ankh-hieroglyphic-symbol-600nw-1841198389.jpg' alt='10,068 Ankh Images, Stock Photos, 3D objects, & Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/egyptian-cross-ankh-hieroglyphic-symbol-600nw-1841198389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ankh | Cards, the Universe and Everything Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cards-the-universe-and-everything/images/b/b8/API_Ankh.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230830045942' alt='Ankh | Cards, the Universe and Everything Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cards, the Universe and Everything Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cards-the-universe-and-everything/images/b/b8/API_Ankh.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230830045942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,000+ Ankh Symbol Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1320695768/vector/egyptian-ankh-icon-black-occult-symbol-immortality-with-eye-horus-in-center.jpg?s=612x612&w=0&k=20&c=DjNasyyWLPJDbh066fcpaTLkbGdCWoTJDwiWp45iL-E=' alt='3,000+ Ankh Symbol Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1320695768/vector/egyptian-ankh-icon-black-occult-symbol-immortality-with-eye-horus-in-center.jpg?s=612x612&w=0&k=20&c=DjNasyyWLPJDbh066fcpaTLkbGdCWoTJDwiWp45iL-E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,235 Ankh Stock Photos - Free & Royalty-Free Stock Photos from ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pyramids-ankh-bedouin-camel-near-desert-60911301.jpg' alt='1,235 Ankh Stock Photos - Free & Royalty-Free Stock Photos from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pyramids-ankh-bedouin-camel-near-desert-60911301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ Ankh Stock Photos, Pictures & Royalty-Free Images - iStock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/622805168/photo/egyptian-symbol-of-life-ankh-on-nice-silver-black-background.jpg?s=612x612&w=0&k=20&c=Hsp-dwMzQF8kRUZY4CEcq0_HsetdWgsvlN4t8P-RdaM=' alt='3,200+ Ankh Stock Photos, Pictures & Royalty-Free Images - iStock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/622805168/photo/egyptian-symbol-of-life-ankh-on-nice-silver-black-background.jpg?s=612x612&w=0&k=20&c=Hsp-dwMzQF8kRUZY4CEcq0_HsetdWgsvlN4t8P-RdaM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ankh XL">
+                                <img itemprop="contentUrl url" src='https://houseofformlab.com/wp-content/uploads/2021/03/ankh-xl.jpg' alt='Ankh XL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Formlab" />
+                                </span>
+                                <a href='https://houseofformlab.com/wp-content/uploads/2021/03/ankh-xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ankh Symbol - The facts & meaning of the Egyptian Cross">
+                                <img itemprop="contentUrl url" src='https://www.cleopatraegypttours.com/wp-content/uploads/2019/10/The-Ankh.jpg' alt='The Ankh Symbol - The facts & meaning of the Egyptian Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleopatra Egypt Tours" />
+                                </span>
+                                <a href='https://www.cleopatraegypttours.com/wp-content/uploads/2019/10/The-Ankh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

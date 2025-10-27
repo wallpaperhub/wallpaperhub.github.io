@@ -1,0 +1,129 @@
+<title>Blue Floral Background: Elegance in Bloom</title>
+                    <meta name="description" content="Discover stunning blue floral backgrounds to elevate your decor. Perfect for wallpapers and textiles, our collection features elegant floral patterns in soothing blue tones. Create a serene and stylish environment effortlessly. Explore your options today!">
+                    <meta name="keywords" content="blue floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-floral-background">
+                            <span itemprop="name">blue floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Floral Background: Elegance in Bloom</h1>
+                <p>Transform your space with a beautiful blue floral background that adds a touch of elegance and serenity. Perfect for wallpapers, fabrics, or digital designs, the delicate patterns of blooming florals against a soothing blue hue create a harmonious atmosphere. Ideal for enhancing your home or office decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Frame Images – Browse 596,859 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/55/52/37/360_F_455523788_NndE7zJFlx5thWGBiydp4XDde2wQzLyy.jpg' alt='Blue Floral Frame Images – Browse 596,859 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/55/52/37/360_F_455523788_NndE7zJFlx5thWGBiydp4XDde2wQzLyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Design Images – Browse 3,270,270 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/97/49/08/360_F_597490871_JhERmRVPR2o9dDBRKxYpvXbQzr5POTw1.jpg' alt='Blue Floral Design Images – Browse 3,270,270 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/97/49/08/360_F_597490871_JhERmRVPR2o9dDBRKxYpvXbQzr5POTw1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="149,800+ Blue Floral Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/472994148/vector/seamless-pattern-with-bouquet-of-flowers.jpg?s=612x612&w=0&k=20&c=PRAnIwrZnVwmItcmMTiL3mh7oKrc3KrlPg99hraZiMg=' alt='149,800+ Blue Floral Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/472994148/vector/seamless-pattern-with-bouquet-of-flowers.jpg?s=612x612&w=0&k=20&c=PRAnIwrZnVwmItcmMTiL3mh7oKrc3KrlPg99hraZiMg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Border Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/96/b9/84/96b984fa83ba49ef09515cf6aa027cd3.jpg' alt='Blue Floral Border Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/96/b9/84/96b984fa83ba49ef09515cf6aa027cd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Flower Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-winter-background-with-blue-flowers_52683-78685.jpg' alt='Blue Flower Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-winter-background-with-blue-flowers_52683-78685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochromatic Water Color Blue Flower Floral Background by Noirty Designs">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/monochromatic-water-color-blue-flower-floral-background-noirty-designs.jpg' alt='Monochromatic Water Color Blue Flower Floral Background by Noirty Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/monochromatic-water-color-blue-flower-floral-background-noirty-designs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Background Royalty Free SVG, Cliparts, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/torky/torky1104/torky110400047/9448774-blue-floral-background.jpg' alt='Blue Floral Background Royalty Free SVG, Cliparts, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/torky/torky1104/torky110400047/9448774-blue-floral-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM - The Home  Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_1000.jpg' alt='Chesapeake Cyrus Blue Floral Blue Wallpaper Sample 3115-24481SAM - The Home  Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc9e8caa-efb4-4684-bbab-953e2dbbc6b9/svn/chesapeake-wallpaper-samples-3115-24481sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Floral Background Stock Illustrations – 143,174 Light ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/captivating-image-showcases-delicate-light-blue-floral-background-perfect-creating-serene-inviting-atmosphere-soft-348430641.jpg' alt='Light Blue Floral Background Stock Illustrations – 143,174 Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/captivating-image-showcases-delicate-light-blue-floral-background-perfect-creating-serene-inviting-atmosphere-soft-348430641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/02/c2/ce02c23f9362291eb904eb229782b1c0.jpg' alt='Floral wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/02/c2/ce02c23f9362291eb904eb229782b1c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

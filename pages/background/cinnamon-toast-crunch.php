@@ -1,0 +1,129 @@
+<title>Discover the Sweetness of Cinnamon Toast Crunch</title>
+                    <meta name="description" content="Explore the delicious world of Cinnamon Toast Crunch! This popular cereal features cinnamon-sugar-coated squares that deliver a perfect crunch in every bite. Ideal for breakfast or as a sweet snack, it's a nostalgic favorite for all ages. Enjoy the irresistible taste today!">
+                    <meta name="keywords" content="cinnamon toast crunch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cinnamon-toast-crunch">
+                            <span itemprop="name">cinnamon toast crunch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Sweetness of Cinnamon Toast Crunch</h1>
+                <p>Cinnamon Toast Crunch is a beloved breakfast cereal known for its delightful blend of cinnamon and sugar on crunchy squares. With its irresistible taste and satisfying crunch, it's not just for breakfast—enjoy it as a snack or dessert! Dive into a bowl for a sweet start to your day or a tasty treat anytime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, 12 oz">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81LRV+hyc6L._AC_UF894,1000_QL80_.jpg' alt='Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, 12 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81LRV+hyc6L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Cinnamon Toast Crunch">
+                                <img itemprop="contentUrl url" src='https://www.halfbakedharvest.com/wp-content/uploads/2020/05/Homemade-Cinnamon-Toast-Crunch-1-1.jpg' alt='Homemade Cinnamon Toast Crunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Half Baked Harvest" />
+                                </span>
+                                <a href='https://www.halfbakedharvest.com/wp-content/uploads/2020/05/Homemade-Cinnamon-Toast-Crunch-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch™ | Whole Grain Cereal You'll Love">
+                                <img itemprop="contentUrl url" src='https://prodcontent.cinnamontoastcrunch.com/wp-content/uploads/2024/05/ctc-homepage-desktop-hero-image-1400x500px.jpg' alt='Cinnamon Toast Crunch™ | Whole Grain Cereal You'll Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.cinnamontoastcrunch.com" />
+                                </span>
+                                <a href='https://prodcontent.cinnamontoastcrunch.com/wp-content/uploads/2024/05/ctc-homepage-desktop-hero-image-1400x500px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Cinnamon Toast Crunch">
+                                <img itemprop="contentUrl url" src='https://feedingtinybellies.com/wp-content/uploads/2024/02/Homemade-cinnamon-toast-crunch.jpg' alt='Homemade Cinnamon Toast Crunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feeding Tiny Bellies" />
+                                </span>
+                                <a href='https://feedingtinybellies.com/wp-content/uploads/2024/02/Homemade-cinnamon-toast-crunch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, Mega Size,  29.1 oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/01f817ea-1597-4372-80b3-518fd12251eb.530aed2694476236a4835953481596ad.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, Mega Size,  29.1 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/01f817ea-1597-4372-80b3-518fd12251eb.530aed2694476236a4835953481596ad.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch– Brands – Food we make - General Mills">
+                                <img itemprop="contentUrl url" src='https://brandsitesplatform-res.cloudinary.com/image/fetch/w_1500,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Fcorporate%2Fcorporate-master%2Fimages%2Ffood%2Flifestyle%2Fcinnamon-toast-crunch-bowl-overhead-oct-21.png%3Fw%3D1200%26rev%3D3dbcfe5c4f6b4a46bdd77993d368fda0%201500w' alt='Cinnamon Toast Crunch– Brands – Food we make - General Mills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="General Mills" />
+                                </span>
+                                <a href='https://brandsitesplatform-res.cloudinary.com/image/fetch/w_1500,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Fcorporate%2Fcorporate-master%2Fimages%2Ffood%2Flifestyle%2Fcinnamon-toast-crunch-bowl-overhead-oct-21.png%3Fw%3D1200%26rev%3D3dbcfe5c4f6b4a46bdd77993d368fda0%201500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Cinnamon Toast Crunch">
+                                <img itemprop="contentUrl url" src='https://pickyeaterblog.com/wp-content/uploads/2023/09/homemade-cinnamon-toast-crunch-cereal.jpg' alt='Homemade Cinnamon Toast Crunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Picky Eater" />
+                                </span>
+                                <a href='https://pickyeaterblog.com/wp-content/uploads/2023/09/homemade-cinnamon-toast-crunch-cereal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Tried Homemade Cinnamon Toast Crunch and Here's What Happened ...">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2021-09-Cinnamon-Toast-Crunch%2FIMG_3976' alt='I Tried Homemade Cinnamon Toast Crunch and Here's What Happened ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kitchn" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2021-09-Cinnamon-Toast-Crunch%2FIMG_3976' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch™ Cereal-Topped French Toast">
+                                <img itemprop="contentUrl url" src='https://www.cinnamontoastcrunch.com/_next/image?url=https%3A%2F%2Fprodcontent.cinnamontoastcrunch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FCinnamonToastCrunchCerealFrenchToast_770x514.jpg&w=1400&q=75' alt='Cinnamon Toast Crunch™ Cereal-Topped French Toast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cinnamon Toast Crunch" />
+                                </span>
+                                <a href='https://www.cinnamontoastcrunch.com/_next/image?url=https%3A%2F%2Fprodcontent.cinnamontoastcrunch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FCinnamonToastCrunchCerealFrenchToast_770x514.jpg&w=1400&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon Toast Crunch Poke Cake">
+                                <img itemprop="contentUrl url" src='https://4sonrus.com/wp-content/uploads/2022/04/Cinnamon-Toast-Crunch-Poke-Cake-Set-4-9-scaled.jpg' alt='Cinnamon Toast Crunch Poke Cake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4 Sons 'R' Us" />
+                                </span>
+                                <a href='https://4sonrus.com/wp-content/uploads/2022/04/Cinnamon-Toast-Crunch-Poke-Cake-Set-4-9-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

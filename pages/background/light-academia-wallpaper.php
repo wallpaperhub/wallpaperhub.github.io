@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Light Academia Wallpaper</title>
+                    <meta name="description" content="Discover the charm of light academia wallpaper, designed to inspire creativity and intellect. Perfect for any study or relaxation space, these wallpapers feature vintage designs and soft hues that evoke a sense of nostalgia. Transform your environment today with our unique collection!">
+                    <meta name="keywords" content="light academia wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-academia-wallpaper">
+                            <span itemprop="name">light academia wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Light Academia Wallpaper</h1>
+                <p>Light academia wallpaper brings an aesthetic blend of vintage charm and intellectual elegance to your space. Featuring soft colors, classic literature motifs, and serene landscapes, these wallpapers create a cozy and inspiring environment perfect for studying or relaxation. Transform your walls into a haven of creativity and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Light Academia Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1599399696671-5a5517c0c247?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBhY2FkZW1pYXxlbnwwfHwwfHx8MA%3D%3D' alt='30k+ Light Academia Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1599399696671-5a5517c0c247?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBhY2FkZW1pYXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Academia Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-academia-aesthetic-with-book-pages-drvvr3hkmfdwpcfd.jpg' alt='100+] Light Academia Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-academia-aesthetic-with-book-pages-drvvr3hkmfdwpcfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Light Academia Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1677355911348-976b8716c946?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBhY2FkZW1pYXxlbnwwfHwwfHx8MA%3D%3D' alt='30k+ Light Academia Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1677355911348-976b8716c946?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBhY2FkZW1pYXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Academia Aesthetic Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-academia-aesthetic-clouds-nuyjjeiaixgx4a6e.jpg' alt='Light Academia Aesthetic Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-academia-aesthetic-clouds-nuyjjeiaixgx4a6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Light Academia Bright Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-academia-bright-fchww7r0aeciolpm.jpg' alt='Download Light Academia Bright Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-academia-bright-fchww7r0aeciolpm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Academia Aesthetic Coffee Tones Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/light-academia-aesthetic-with-bookstore-75xrl78yl2gcbrbv.webp' alt='Light Academia Aesthetic Coffee Tones Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/light-academia-aesthetic-with-bookstore-75xrl78yl2gcbrbv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Academia - Dagmara Mach">
+                                <img itemprop="contentUrl url" src='https://dagmaramach.com/wp-content/uploads/2023/01/light-academia-wallpaper.webp' alt='Light Academia - Dagmara Mach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dagmara Mach" />
+                                </span>
+                                <a href='https://dagmaramach.com/wp-content/uploads/2023/01/light-academia-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Academia Collage Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/5d/a6/895da670dfa1856ca4e3a7daa7ee142b.jpg' alt='Light Academia Collage Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/5d/a6/895da670dfa1856ca4e3a7daa7ee142b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOCKSCREENS, LIGHT ACADEMIA // REQUESTED I don't own or take...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/7e1fbf6964df18bc53d94a1e3a71713b/0c068acd5706904d-13/s1280x1920/a1d2a37bbd650dc4ce3004e2149bff47bc515789.jpg' alt='LOCKSCREENS, LIGHT ACADEMIA // REQUESTED I don't own or take...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@h-widit on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/7e1fbf6964df18bc53d94a1e3a71713b/0c068acd5706904d-13/s1280x1920/a1d2a37bbd650dc4ce3004e2149bff47bc515789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immerse Yourself In Light Academia Aesthetic: A World ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/immerse-yourself-in-light-academia-aesthetic-a-world-characterized-by-cream-tones-literature-and-a-thirst-for-knowledge-3827gp8rzr5io237.jpg' alt='Immerse Yourself In Light Academia Aesthetic: A World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/immerse-yourself-in-light-academia-aesthetic-a-world-characterized-by-cream-tones-literature-and-a-thirst-for-knowledge-3827gp8rzr5io237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

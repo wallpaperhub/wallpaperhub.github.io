@@ -1,0 +1,129 @@
+<title>Charming Lily of the Valley Pictures: Nature's Delicate Beauty</title>
+                    <meta name="description" content="Discover stunning pictures of lily of the valley flowers. These enchanting blooms are perfect for garden lovers and flower enthusiasts. Experience the beauty and charm of these bell-shaped wonders, symbolizing purity and grace. Explore now to enjoy their lovely images and find inspiration for your floral arrangements!">
+                    <meta name="keywords" content="pictures of lily of the valley">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-lily-of-the-valley">
+                            <span itemprop="name">pictures of lily of the valley</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Lily of the Valley Pictures: Nature's Delicate Beauty</h1>
+                <p>Pictures of lily of the valley capture the delicate beauty of these charming flowers. Known for their tiny, bell-shaped blooms and sweet fragrance, these plants symbolize purity and humility. Perfect for gardens or as a gift, lily of the valley is renowned for its enchanting appearance in springtime. Explore these lovely images and appreciate their unique allure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily of the valley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Convallaria_majalis_inflorescence_-_Keila.jpg/1200px-Convallaria_majalis_inflorescence_-_Keila.jpg' alt='Lily of the valley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Convallaria_majalis_inflorescence_-_Keila.jpg/1200px-Convallaria_majalis_inflorescence_-_Keila.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fragrant lily of the valley typically blooms in May">
+                                <img itemprop="contentUrl url" src='https://www.tallahassee.com/gcdn/presto/2021/05/13/PTAL/46693815-838c-411b-b0ef-b932f169bfb4-convallaria.jpg' alt='Fragrant lily of the valley typically blooms in May'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2876">
+                                <meta itemprop="height" content="3206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tallahassee Democrat" />
+                                </span>
+                                <a href='https://www.tallahassee.com/gcdn/presto/2021/05/13/PTAL/46693815-838c-411b-b0ef-b932f169bfb4-convallaria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily of the Valley">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-2lqvsr5/images/stencil/1280x1280/products/758/618/lily_valley__47295.1684666212.jpg?c=2' alt='Lily of the Valley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Native Wildflowers Nursery" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-2lqvsr5/images/stencil/1280x1280/products/758/618/lily_valley__47295.1684666212.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily of the Valley - Flowers - Featured Content - Lovingly">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/pn4rwssl/production/f990f693ead0a376dbac7c3f56fe580e821cc0e8-500x750.jpg?rect=0,244,500,263&w=1200&h=630' alt='Lily of the Valley - Flowers - Featured Content - Lovingly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1198">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovingly" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/pn4rwssl/production/f990f693ead0a376dbac7c3f56fe580e821cc0e8-500x750.jpg?rect=0,244,500,263&w=1200&h=630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convallaria majalis (Lily of the Valley, Lily-of-the-valley ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Convallaria_majalis__rssHShKjFDTo.jfif' alt='Convallaria majalis (Lily of the Valley, Lily-of-the-valley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North Carolina Extension Gardener Plant Toolbox - NC State University" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Convallaria_majalis__rssHShKjFDTo.jfif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily Of The Valley Plant: Its Meaning And Why It's Poisonous">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/lily-of-the-valley-convallaria-majalis-1663608154.jpg?crop=0.671xw:1.00xh;0.224xw,0&resize=1200:*' alt='Lily Of The Valley Plant: Its Meaning And Why It's Poisonous'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/lily-of-the-valley-convallaria-majalis-1663608154.jpg?crop=0.671xw:1.00xh;0.224xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Grow And Care For Lily Of The Valley">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/PanAwUBOApRrl7ChyNZZDbEDTKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lily_of_the_valley-135579624_0-2000-479254e90a5c43f198c6c188f53f2194.jpg' alt='How To Grow And Care For Lily Of The Valley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/PanAwUBOApRrl7ChyNZZDbEDTKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lily_of_the_valley-135579624_0-2000-479254e90a5c43f198c6c188f53f2194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Convallaria Lily of the Valley">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-1b9100svju/images/stencil/1280x1280/products/1969/1179/DETA-384__16768.1624568575.jpg?c=1' alt='Convallaria Lily of the Valley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Longfield Gardens" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-1b9100svju/images/stencil/1280x1280/products/1969/1179/DETA-384__16768.1624568575.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily of the Valley - Luv Sola Flowers">
+                                <img itemprop="contentUrl url" src='https://www.luvsolaflowers.com/cdn/shop/products/lily_of_the_valley_faux_filler_01.jpg?v=1739138353&width=1080' alt='Lily of the Valley - Luv Sola Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Luv Sola Flowers" />
+                                </span>
+                                <a href='https://www.luvsolaflowers.com/cdn/shop/products/lily_of_the_valley_faux_filler_01.jpg?v=1739138353&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 bulbs">
+                                <img itemprop="contentUrl url" src='https://www.dutchgrown.eu/cdn/shop/files/Convellaria_Majalis_Lily-Of_The_Valley-1_grande.jpg?v=1707385239' alt='10 bulbs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DutchGrown" />
+                                </span>
+                                <a href='https://www.dutchgrown.eu/cdn/shop/files/Convellaria_Majalis_Lily-Of_The_Valley-1_grande.jpg?v=1707385239' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

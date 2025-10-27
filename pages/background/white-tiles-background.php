@@ -1,0 +1,129 @@
+<title>Stunning White Tiles Backgrounds for Stylish Spaces</title>
+                    <meta name="description" content="Explore the beauty of white tiles backgrounds! Perfect for any room, they offer a chic, clean aesthetic that brightens and elevates your space. Discover how these versatile tiles can enhance your decor and create a welcoming atmosphere in your home.">
+                    <meta name="keywords" content="white tiles background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-tiles-background">
+                            <span itemprop="name">white tiles background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Tiles Backgrounds for Stylish Spaces</h1>
+                <p>White tiles backgrounds exude elegance and simplicity, creating a clean, fresh look for any space. Ideal for kitchens, bathrooms, or as a versatile backdrop, these tiles can enhance both traditional and modern aesthetics. Their reflective properties can brighten rooms and provide a sense of openness, making them a sought-after design choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Subway Tile Background Images – Browse 7,869 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/48/69/01/360_F_248690115_rr7G9xXCNbELG18n0IEsUutmEDXeeXRL.jpg' alt='White Subway Tile Background Images – Browse 7,869 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/48/69/01/360_F_248690115_rr7G9xXCNbELG18n0IEsUutmEDXeeXRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ White Bathroom Tile Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/507584137/vector/white-tile-seamless-pattern-background.jpg?s=612x612&w=0&k=20&c=OGUibBtxkT9LVtnEPhH6VAj_BnI2ljZXWcr-YHwCaag=' alt='2,600+ White Bathroom Tile Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/507584137/vector/white-tile-seamless-pattern-background.jpg?s=612x612&w=0&k=20&c=OGUibBtxkT9LVtnEPhH6VAj_BnI2ljZXWcr-YHwCaag=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Subway Tiles Wallpaper • Minimal Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-1.jpg' alt='White Subway Tiles Wallpaper • Minimal Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-WhiteSubwayTile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tiles">
+                                <img itemprop="contentUrl url" src='https://us.clubbackdrops.com/cdn/shop/products/club-backdrops-vinyl-white-tiles-0_fd819e34-058c-4cd0-8b0d-5fead82d55a7.jpg?v=1622627428&width=1445' alt='White Tiles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Club Backdrops" />
+                                </span>
+                                <a href='https://us.clubbackdrops.com/cdn/shop/products/club-backdrops-vinyl-white-tiles-0_fd819e34-058c-4cd0-8b0d-5fead82d55a7.jpg?v=1622627428&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tile Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/white-tiles-wall_74190-5379.jpg' alt='White Tile Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/white-tiles-wall_74190-5379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tile Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/white-brick-wall_23-2147625774.jpg' alt='White Tile Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/white-brick-wall_23-2147625774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White tile background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/42/80/white-tile-background-vector-21144280.jpg' alt='White tile background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/42/80/white-tile-background-vector-21144280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural white tiles background - PIXERS.US">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/12/84/16/95/0/700_FO128416950_9c173eb066c3b3618c1e0f6db9903e2e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-white-tiles-background.jpg.jpg' alt='Wall Mural white tiles background - PIXERS.US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/12/84/16/95/0/700_FO128416950_9c173eb066c3b3618c1e0f6db9903e2e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-white-tiles-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ White Bathroom Tile Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1170635986/vector/white-tile-realistic-vector-background.jpg?s=612x612&w=0&k=20&c=jqX-Q6AtSmSfQmG-_BC2y-MO7qf28hNU3IGpNXBho28=' alt='2,600+ White Bathroom Tile Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1170635986/vector/white-tile-realistic-vector-background.jpg?s=612x612&w=0&k=20&c=jqX-Q6AtSmSfQmG-_BC2y-MO7qf28hNU3IGpNXBho28=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tile Background stock image. Image of construction - 10111787">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/a1/71/d2a1714ae5eac028844a6b8957f25ec2.jpg' alt='White Tile Background stock image. Image of construction - 10111787'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/a1/71/d2a1714ae5eac028844a6b8957f25ec2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

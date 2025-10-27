@@ -1,0 +1,129 @@
+<title>Gorgeous Flower Pink Wallpaper for Any Room</title>
+                    <meta name="description" content="Discover stunning flower pink wallpaper that elevates your home decor. Ideal for bedrooms, living rooms, and more, it brings a fresh, feminine vibe to your space. Shop now for beautiful designs that are perfect for any style!">
+                    <meta name="keywords" content="flower pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-pink-wallpaper">
+                            <span itemprop="name">flower pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous Flower Pink Wallpaper for Any Room</h1>
+                <p>Transform your space with beautiful flower pink wallpaper! Perfect for adding a touch of femininity and elegance, this wallpaper enhances any room. Whether you're looking to renovate a bedroom or a cozy nook, its delicate floral patterns create a warm, inviting atmosphere. Make a statement with pink flowers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Pink Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' alt='Peony Bouquet - Pink Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/4c/3e/a34c3edcb9b935a46c29920bd3139532.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/4c/3e/a34c3edcb9b935a46c29920bd3139532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' alt='ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM - The Home  Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4648a725-ccf8-4488-83b8-17d375d16cc3/svn/fine-decor-wallpaper-samples-2900-42555sam-64_1000.jpg' alt='Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM - The Home  Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4648a725-ccf8-4488-83b8-17d375d16cc3/svn/fine-decor-wallpaper-samples-2900-42555sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink floral">
+                                <img itemprop="contentUrl url" src='http://lagrandclassique.com/cdn/shop/products/00345_pink_floral_main.jpg?v=1667384732' alt='Pink floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='http://lagrandclassique.com/cdn/shop/products/00345_pink_floral_main.jpg?v=1667384732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80,000+ Best Pink Flowers Images · 100% Royalty Free Photo ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2251822/pexels-photo-2251822.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='80,000+ Best Pink Flowers Images · 100% Royalty Free Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2251822/pexels-photo-2251822.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Pink Flowers Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-flowers-background-a47th02yk7x7pdks.jpg' alt='400+] Pink Flowers Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-flowers-background-a47th02yk7x7pdks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Заставка">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' alt='Pin on Заставка'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/a1/e7/83a1e7b97695764e7c45778f4e164ee3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Pink Floral Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676272629211-f0d78b2344ae?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGZsb3JhbHxlbnwwfHwwfHx8MA%3D%3D' alt='45,628+ Pink Floral Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676272629211-f0d78b2344ae?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGZsb3JhbHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Pink Flowers Wallpaper Smart – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/389UcI_2400x.jpg?v=1693406992' alt='Elegant Pink Flowers Wallpaper Smart – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/389UcI_2400x.jpg?v=1693406992' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

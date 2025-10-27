@@ -1,0 +1,129 @@
+<title>Discover Club Deportivo Guadalajara: Chivas, Mexico's Legendary Football Team</title>
+                    <meta name="description" content="Explore the legacy of Club Deportivo Guadalajara, known as Chivas. A symbol of Mexican pride, the club boasts a long history and a commitment to local talent. Join the fervent fanbase and witness the thrilling matchdays at Estadio Akron. Embrace the passion of Guadalajara football!">
+                    <meta name="keywords" content="club deportivo guadalajara">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/club-deportivo-guadalajara">
+                            <span itemprop="name">club deportivo guadalajara</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Club Deportivo Guadalajara: Chivas, Mexico's Legendary Football Team</h1>
+                <p>Club Deportivo Guadalajara, commonly known as Chivas, is one of the most iconic football clubs in Mexico. Founded in 1906, the team is renowned for its rich history, passionate fanbase, and commitment to fielding only Mexican players. Chivas plays its home games at Estadio Akron and is famous for its red and white stripes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="C.D. Guadalajara Premier - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/1200px-Guadalajara_CD.svg.png' alt='C.D. Guadalajara Premier - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/1200px-Guadalajara_CD.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Club Deportivo Guadalajara S.A.DE C.V. Chivas Officially  Licensed Beach Towel (Stripes (V7)) : Sports & Outdoors">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710me168BuL.jpg' alt='Amazon.com: Club Deportivo Guadalajara S.A.DE C.V. Chivas Officially  Licensed Beach Towel (Stripes (V7)) : Sports & Outdoors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710me168BuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Club Deportivo Guadalajara - Club Deportivo Guadalajara Emblem ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180608/ckk/aa80j31so.webp' alt='Club Deportivo Guadalajara - Club Deportivo Guadalajara Emblem ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180608/ckk/aa80j31so.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chivas Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/04/Chivas-logo.jpg' alt='Chivas Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/04/Chivas-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chivas Guadalajara | Biography & Wiki | VAVEL USA">
+                                <img itemprop="contentUrl url" src='https://img.vavel.com/2020-02-17-11-48-31-1581961759033.jpg' alt='Chivas Guadalajara | Biography & Wiki | VAVEL USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VAVEL.com" />
+                                </span>
+                                <a href='https://img.vavel.com/2020-02-17-11-48-31-1581961759033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="StatsBomb Continues Mexican Growth With Club Deportivo Guadalajara">
+                                <img itemprop="contentUrl url" src='https://statsbomb.com/wp-content/uploads/2023/08/chivas_guadalajara_y_statsbomb_acuerdo.png' alt='StatsBomb Continues Mexican Growth With Club Deportivo Guadalajara'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StatsBomb" />
+                                </span>
+                                <a href='https://statsbomb.com/wp-content/uploads/2023/08/chivas_guadalajara_y_statsbomb_acuerdo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chivas Guadalajara | Biography & Wiki | VAVEL USA">
+                                <img itemprop="contentUrl url" src='https://img.vavel.com/b/escudo_chivas.jpeg' alt='Chivas Guadalajara | Biography & Wiki | VAVEL USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VAVEL.com" />
+                                </span>
+                                <a href='https://img.vavel.com/b/escudo_chivas.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC Cincinnati to host Club Deportivo Guadalajara in Leagues Cup ...">
+                                <img itemprop="contentUrl url" src='https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-cin-prd/iyvjrjw8izfbpxazfgqd.jpg' alt='FC Cincinnati to host Club Deportivo Guadalajara in Leagues Cup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FC Cincinnati" />
+                                </span>
+                                <a href='https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-cin-prd/iyvjrjw8izfbpxazfgqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CD Guadalajara Mexico Soccer Football - Sticker Graphic - Auto, Wall,  Laptop, Cell, Truck Sticker for Windows, Cars, Trucks">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51-6VGZns7L._AC_UF894,1000_QL80_.jpg' alt='CD Guadalajara Mexico Soccer Football - Sticker Graphic - Auto, Wall,  Laptop, Cell, Truck Sticker for Windows, Cars, Trucks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51-6VGZns7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Club Deportivo Guadalajara | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D0BAQFriyJp_IW3uw/company-logo_200_200/company-logo_200_200/0/1688154840271/chivas_logo?e=2147483647&v=beta&t=bF-iANpn6WM1yQOY7Em-_Ew73VEId80M4cJa31t0g-E' alt='Club Deportivo Guadalajara | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D0BAQFriyJp_IW3uw/company-logo_200_200/company-logo_200_200/0/1688154840271/chivas_logo?e=2147483647&v=beta&t=bF-iANpn6WM1yQOY7Em-_Ew73VEId80M4cJa31t0g-E' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

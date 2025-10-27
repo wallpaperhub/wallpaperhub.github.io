@@ -1,0 +1,129 @@
+<title>Night in the Woods Desktop Wallpaper - Vibrant Aesthetic</title>
+                    <meta name="description" content="Enhance your desktop with stunning "Night in the Woods" wallpaper! Dive into the charming visuals and beloved characters that bring Possum Springs to life. Perfect for fans and a delightful addition to any screen. Download your favorite now!">
+                    <meta name="keywords" content="night in the woods desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/night-in-the-woods-desktop-wallpaper">
+                            <span itemprop="name">night in the woods desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Night in the Woods Desktop Wallpaper - Vibrant Aesthetic</h1>
+                <p>Create a cozy and nostalgic atmosphere on your desktop with a "Night in the Woods" wallpaper. Featuring vibrant art and beloved characters, this wallpaper captures the game's enchanting aesthetics. Perfect for fans, it sparks joy every time you log in, reminding you of the adventures in Possum Springs. Set the mood now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable HD NITW Wallpapers! : r/NightInTheWoods">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i6ePCkx8XbVj6GiN_7AZyp2BloESNT2hiy5dmD4aaKM.jpg?auto=webp&s=6730871e02afc00c3706adb782b7473e11175aae' alt='Printable HD NITW Wallpapers! : r/NightInTheWoods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i6ePCkx8XbVj6GiN_7AZyp2BloESNT2hiy5dmD4aaKM.jpg?auto=webp&s=6730871e02afc00c3706adb782b7473e11175aae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Night In The Woods 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/826/826323.jpg' alt='Download Video Game Night In The Woods 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/826/826323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper thread! post em, request em, talk about em : r ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/8iNjwEu.jpg' alt='wallpaper thread! post em, request em, talk about em : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/8iNjwEu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Night in the Woods">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2090289511542318714/C80F1C7518152FCCB8CB85EFDEDC44548FC8ACF0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Night in the Woods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2090289511542318714/C80F1C7518152FCCB8CB85EFDEDC44548FC8ACF0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Night In The Woods 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/827/827261.jpg' alt='Download Video Game Night In The Woods 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/827/827261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night In The Woods |Desktop Wallpaper by toastercrab on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/238335a4-0022-4057-a37d-621de8941bbc/db8ena4-04efedbc-b183-43c1-8dca-10848bb58372.png/v1/fill/w_1280,h_800,q_80,strp/night_in_the_woods__desktop_wallpaper_by_toastercrab_db8ena4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMjM4MzM1YTQtMDAyMi00MDU3LWEzN2QtNjIxZGU4OTQxYmJjXC9kYjhlbmE0LTA0ZWZlZGJjLWIxODMtNDNjMS04ZGNhLTEwODQ4YmI1ODM3Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.65VvJNsb-T7aoQaGZ_hqSgkH7LdL3D8bvvVN-NsH_6o' alt='Night In The Woods |Desktop Wallpaper by toastercrab on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/238335a4-0022-4057-a37d-621de8941bbc/db8ena4-04efedbc-b183-43c1-8dca-10848bb58372.png/v1/fill/w_1280,h_800,q_80,strp/night_in_the_woods__desktop_wallpaper_by_toastercrab_db8ena4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMjM4MzM1YTQtMDAyMi00MDU3LWEzN2QtNjIxZGU4OTQxYmJjXC9kYjhlbmE0LTA0ZWZlZGJjLWIxODMtNDNjMS04ZGNhLTEwODQ4YmI1ODM3Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.65VvJNsb-T7aoQaGZ_hqSgkH7LdL3D8bvvVN-NsH_6o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Night In The Woods 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/827/827266.jpg' alt='Download Video Game Night In The Woods 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/827/827266.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper thread! post em, request em, talk about em : r ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/w5Iry4b.jpg' alt='wallpaper thread! post em, request em, talk about em : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/w5Iry4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper thread! post em, request em, talk about em : r ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/r4O1bRc.jpg' alt='wallpaper thread! post em, request em, talk about em : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/r4O1bRc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Night In The Woods Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/night-in-the-woods-119wd81dpa2o259i.jpg' alt='100+] Night In The Woods Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/night-in-the-woods-119wd81dpa2o259i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

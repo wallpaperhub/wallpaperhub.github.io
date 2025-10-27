@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Art Wallpaper: Discover Stunning Designs</title>
+                    <meta name="description" content="Explore a wide range of art wallpaper options that bring creativity and elegance to your walls. Perfect for any room, these stylish designs offer an easy and affordable way to transform your interior while reflecting your unique style. Discover the perfect art wallpaper for your home today!">
+                    <meta name="keywords" content="art wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/art-wallpaper-for-walls">
+                            <span itemprop="name">art wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Art Wallpaper: Discover Stunning Designs</h1>
+                <p>Transform your space with stunning art wallpaper that caters to every taste and preference. From vibrant abstracts to serene nature scenes, these wall coverings not only enhance your home but also showcase your personality and style. Easy to install and remove, art wallpaper is a perfect way to refresh any room effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Wallpaper, Living Room Wall Art, Temporary Wallpaper, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35793411/r/il/ebdccc/4025682081/il_fullxfull.4025682081_sx32.jpg' alt='Eye Wallpaper, Living Room Wall Art, Temporary Wallpaper, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35793411/r/il/ebdccc/4025682081/il_fullxfull.4025682081_sx32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic wallpaper for a midcentury modern living room – belarteSTUDIO">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-1_1080x.jpg?v=1699364891' alt='Artistic wallpaper for a midcentury modern living room – belarteSTUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-1_1080x.jpg?v=1699364891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Art">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/62214/pr22/1/1280/graffiti-art-cartoon-graffiti-wallpaper.jpg' alt='Graffiti Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/62214/pr22/1/1280/graffiti-art-cartoon-graffiti-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing Graffiti Artist with Colorful Painting Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/a/r/art-wallpaper-drawing-graffiti-artist-wall-murals-colorful-doodl_h1zkzgtkbgdlbgr0_2.jpg' alt='Drawing Graffiti Artist with Colorful Painting Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/a/r/art-wallpaper-drawing-graffiti-artist-wall-murals-colorful-doodl_h1zkzgtkbgdlbgr0_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Modern Art Wallpaper, Wall Mural, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22826657/r/il/db3efa/3379942036/il_fullxfull.3379942036_8da5.jpg' alt='Colorful Modern Art Wallpaper, Wall Mural, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22826657/r/il/db3efa/3379942036/il_fullxfull.3379942036_8da5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Art Music Collage Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-50366_WP-01.jpg' alt='Graffiti Art Music Collage Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-50366_WP-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/58655/cr23/24/828/1/tiger-art-graffiti-wallpaper.jpg' alt='Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/58655/cr23/24/828/1/tiger-art-graffiti-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Lines & Chevrons Pattern Wallpaper for Walls | Retro Pop ...">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0279_1s_Pop-Art-Lines-_-Chevrons-Pattern-Wallpaper-for-Walls-Retro-Pop_For-Home-Offices-1.jpg?v=1734717960&width=1080' alt='Pop Art Lines & Chevrons Pattern Wallpaper for Walls | Retro Pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0279_1s_Pop-Art-Lines-_-Chevrons-Pattern-Wallpaper-for-Walls-Retro-Pop_For-Home-Offices-1.jpg?v=1734717960&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Large elegant flower with deep flowing ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/109000/109603/w01538pib1mr_1200.webp' alt='Wall Mural Photo Wallpaper Large elegant flower with deep flowing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/109000/109603/w01538pib1mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Framed Wallpaper Wall Art">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/Pineapple_Botanical_Customer_Pic_2_Edited_600x600.jpg?v=1607251634' alt='Simple Framed Wallpaper Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/Pineapple_Botanical_Customer_Pic_2_Edited_600x600.jpg?v=1607251634' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Kawaii Axolotl Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest kawaii axolotl wallpapers to brighten your screens! Explore vibrant designs inspired by these lovable creatures, perfect for customizing your devices and expressing your love for kawaii culture. Download your favorite wallpaper today and let the cuteness shine!">
+                    <meta name="keywords" content="cute kawaii axolotl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cute-kawaii-axolotl-wallpaper">
+                            <span itemprop="name">cute kawaii axolotl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii Axolotl Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable kawaii axolotl wallpaper! Celebrate these cute, aquatic creatures with vibrant designs that add a playful touch to your screens. Perfect for axolotl lovers and fans of kawaii culture, these wallpapers will surely bring joy and color to your everyday life. Dive into the charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Wallpaper, Kawaii Digital Wallpaper, Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34805595/r/il/0c46b4/4655582948/il_fullxfull.4655582948_9yav.jpg' alt='Axolotl Wallpaper, Kawaii Digital Wallpaper, Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34805595/r/il/0c46b4/4655582948/il_fullxfull.4655582948_9yav.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute axolotl artwork : r/axolotls">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cute-axolotl-artwork-v0-z1mi8ivzyr7e1.png?auto=webp&s=17af0b07fe1d2fc003b46a452136b562d4969035' alt='Cute axolotl artwork : r/axolotls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cute-axolotl-artwork-v0-z1mi8ivzyr7e1.png?auto=webp&s=17af0b07fe1d2fc003b46a452136b562d4969035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Themed Cute Axolotl Chibi Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7c/7d/6e/7c7d6e7006be9ef69f7c25c9482dbc57.jpg' alt='Download Pastel Themed Cute Axolotl Chibi Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7c/7d/6e/7c7d6e7006be9ef69f7c25c9482dbc57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Png, Axolotl Wallpaper Png, Cute Axolotl Png, Axolotl ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/52353707/r/il/7a3fd0/6055692202/il_570xN.6055692202_2fxe.jpg' alt='Axolotl Png, Axolotl Wallpaper Png, Cute Axolotl Png, Axolotl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/52353707/r/il/7a3fd0/6055692202/il_570xN.6055692202_2fxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,938 Cute Axolotl Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-pattern-axolotl-salamander-babybaby-600nw-2467851771.jpg' alt='3,938 Cute Axolotl Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-pattern-axolotl-salamander-babybaby-600nw-2467851771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Axolotl - Wallpapers. for iPhone - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1f6d7002-42af-4a5f-9b15-949918329cb1/2838455097/cute-axolotl-wallpapers-screenshot.png' alt='Cute Axolotl - Wallpapers. for iPhone - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cute-axolotl-wallpapers.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1f6d7002-42af-4a5f-9b15-949918329cb1/2838455097/cute-axolotl-wallpapers-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Axolotls Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11000622.jpg' alt='Kawaii Axolotls Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11000622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Axolotl Relax Gamer | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3670575090.6765/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Cute Axolotl Relax Gamer | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3670575090.6765/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii axolotl wallpaper, cute wrapping paper Stock Vector | Adobe ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/13/85/28/1000_F_513852887_GnpNyRLr1ZN3gjz7fVg9A1kL0Wg3PSvb.jpg' alt='kawaii axolotl wallpaper, cute wrapping paper Stock Vector | Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/13/85/28/1000_F_513852887_GnpNyRLr1ZN3gjz7fVg9A1kL0Wg3PSvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/89/02/a7/8902a7a8f608079b0c17b175415563e4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/89/02/a7/8902a7a8f608079b0c17b175415563e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

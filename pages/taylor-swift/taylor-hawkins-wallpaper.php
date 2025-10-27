@@ -1,0 +1,129 @@
+<title>Stunning Taylor Hawkins Wallpaper: Tribute to a Drumming Legend</title>
+                    <meta name="description" content="Explore a captivating collection of Taylor Hawkins wallpapers, featuring iconic images and vibrant artwork. Perfect for fans looking to honor the Foo Fighters' drummer on their devices. Download your favorite now and showcase your love for the music legend!">
+                    <meta name="keywords" content="taylor hawkins wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-hawkins-wallpaper">
+                            <span itemprop="name">taylor hawkins wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Hawkins Wallpaper: Tribute to a Drumming Legend</h1>
+                <p>Discover stunning Taylor Hawkins wallpapers that celebrate the legendary drummer of the Foo Fighters. From energetic live concert shots to artistic portraits, these high-quality images capture his vibrant spirit and musical legacy. Perfect for fans looking to personalize their devices with a tribute to Hawkins' unforgettable talent.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Hawkins RIP: Foo Fighters Drummer's Life in Photos">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2022/03/IMG_6054-copy.jpg' alt='Taylor Hawkins RIP: Foo Fighters Drummer's Life in Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2022/03/IMG_6054-copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Hawkins Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/f/6/574559-1362x2048-samsung-hd-taylor-hawkins-wallpaper-photo.jpg' alt='Taylor Hawkins Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1362">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/f/6/574559-1362x2048-samsung-hd-taylor-hawkins-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Hawkins">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/ce/db/79cedba1bdfa6f081b951121e8e740ff.jpg' alt='Taylor Hawkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/ce/db/79cedba1bdfa6f081b951121e8e740ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,335 Taylor Hawkins Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1299203016/photo/burbank-california-unspecified-in-this-image-released-on-january-28-taylor-hawkins-of-foo.jpg?s=612x612&w=gi&k=20&c=ihB2gsiY7DziaMUfXO2jEtj52fgdMFw5fRwRXqQgrKY=' alt='4,335 Taylor Hawkins Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1299203016/photo/burbank-california-unspecified-in-this-image-released-on-january-28-taylor-hawkins-of-foo.jpg?s=612x612&w=gi&k=20&c=ihB2gsiY7DziaMUfXO2jEtj52fgdMFw5fRwRXqQgrKY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Hawkins, Foo Fighters' Drummer, Dies at 50 - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/03/27/arts/25hawkins-print1-sub/merlin_198228096_dd23d70a-2cd4-4adc-8935-c88c0a937afd-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Taylor Hawkins, Foo Fighters' Drummer, Dies at 50 - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/03/27/arts/25hawkins-print1-sub/merlin_198228096_dd23d70a-2cd4-4adc-8935-c88c0a937afd-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Taylor Hawkins Drumset ideas | taylor hawkins, hawkins, foo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/2a/cd/e52acdb2c26c6990cead5c8bdbd3aa88.jpg' alt='60 Taylor Hawkins Drumset ideas | taylor hawkins, hawkins, foo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/2a/cd/e52acdb2c26c6990cead5c8bdbd3aa88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,335 Taylor Hawkins Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1371044361/photo/hollywood-california-taylor-hawkins-of-foo-fighters-performs-onstage-at-the-after-party-for.jpg?s=612x612&w=gi&k=20&c=Y0ket5YT6vVsxr2s7rzBNwtKbaDmdm306uAvjTVNvSk=' alt='4,335 Taylor Hawkins Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1371044361/photo/hollywood-california-taylor-hawkins-of-foo-fighters-performs-onstage-at-the-after-party-for.jpg?s=612x612&w=gi&k=20&c=Y0ket5YT6vVsxr2s7rzBNwtKbaDmdm306uAvjTVNvSk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor hawkins of foo fighters hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WCNTER/taylor-hawkins-of-foo-fighters-performing-at-rds-arena-dublin-21st-august-2019-WCNTER.jpg' alt='Taylor hawkins of foo fighters hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WCNTER/taylor-hawkins-of-foo-fighters-performing-at-rds-arena-dublin-21st-august-2019-WCNTER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Best taylor hawkins :) ideas | taylor hawkins, hawkins, foo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0f/3b/b4/0f3bb4875d1793cd0a691779d07fee48.jpg' alt='170 Best taylor hawkins :) ideas | taylor hawkins, hawkins, foo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0f/3b/b4/0f3bb4875d1793cd0a691779d07fee48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Hawkins Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10937871.jpg' alt='Taylor Hawkins Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10937871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Gradient Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of stunning aesthetic gradient wallpapers that elevate your devices. Perfect for personalizing your screens, these wallpapers combine vibrant colors with smooth transitions, providing a captivating visual experience. Explore and find the perfect backdrop for your style today!">
+                    <meta name="keywords" content="aesthetic gradient wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-gradient-wallpaper">
+                            <span itemprop="name">aesthetic gradient wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Gradient Wallpapers for Your Devices</h1>
+                <p>Aesthetic gradient wallpapers bring a vibrant touch to any digital space. Blending colors smoothly, they create a soothing visual experience that enhances your device's appeal. Perfect for personalizing your phone, tablet, or computer, these wallpapers offer versatility and beauty, transforming ordinary screens into exquisite art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Gradients — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/ca7a4e4c-f254-42b4-a69e-3925af5547dd/Autumn+Gradients1x1.png' alt='Autumn Gradients — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/ca7a4e4c-f254-42b4-a69e-3925af5547dd/Autumn+Gradients1x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Wallpapers | Gallery posted by    ✨marti ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7315996442718552581&index=8&sign=f15d91c2ef3096559b70772deed2377e' alt='Aesthetic Gradient Wallpapers | Gallery posted by    ✨marti ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7315996442718552581&index=8&sign=f15d91c2ef3096559b70772deed2377e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Wallpapers : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/aesthetic-gradient-wallpapers-v0-jjmkjqyd1jyd1.jpg?width=640&crop=smart&auto=webp&s=1b7fa17d2e9a0f675f7d902b2cad2e5a869bc1af' alt='Aesthetic Gradient Wallpapers : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/aesthetic-gradient-wallpapers-v0-jjmkjqyd1jyd1.jpg?width=640&crop=smart&auto=webp&s=1b7fa17d2e9a0f675f7d902b2cad2e5a869bc1af' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-trendy-background_52683-117053.jpg?semt=ais_hybrid' alt='Aesthetic Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-trendy-background_52683-117053.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Pastel Color Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-gradient-pastel-color-iphone-emkslai1de4uxuh4.jpg' alt='Aesthetic Gradient Pastel Color Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-gradient-pastel-color-iphone-emkslai1de4uxuh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pastel gradient phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/26/c5/cd/26c5cd15ad54d0606406c0c88a1a0cea.jpg' alt='Download premium image of Pastel gradient phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/26/c5/cd/26c5cd15ad54d0606406c0c88a1a0cea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC GRADIENT WALLPAPER PHONE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/ae/dc/b2aedc11c7a7e5ee160228365c01e398.jpg' alt='AESTHETIC GRADIENT WALLPAPER PHONE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/ae/dc/b2aedc11c7a7e5ee160228365c01e398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Wallpapers : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/aesthetic-gradient-wallpapers-v0-q5f7a0be1jyd1.jpg?width=640&crop=smart&auto=webp&s=88bc20e7bcf32066911924ea063f89a5a9430652' alt='Aesthetic Gradient Wallpapers : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/aesthetic-gradient-wallpapers-v0-q5f7a0be1jyd1.jpg?width=640&crop=smart&auto=webp&s=88bc20e7bcf32066911924ea063f89a5a9430652' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink gradient aesthetic background | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3JtNjE5LTIxLWEtYmFja2dyb3VuZC10YS0wMDFkLTJiLmpwZw.jpg' alt='Pink gradient aesthetic background | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3JtNjE5LTIxLWEtYmFja2dyb3VuZC10YS0wMDFkLTJiLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Gradient Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/704/549/small/soft-gradient-background-with-dreamy-pink-blue-and-purple-hues-photo.jpg' alt='Aesthetic Gradient Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/704/549/small/soft-gradient-background-with-dreamy-pink-blue-and-purple-hues-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

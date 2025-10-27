@@ -1,0 +1,129 @@
+<title>November Aesthetic Wallpaper: Cozy Autumn Vibes</title>
+                    <meta name="description" content="Discover the perfect November aesthetic wallpapers to elevate your screen's look. Immerse yourself in autumnal colors and tranquil scenes that bring warmth and serenity to your devices. Download now for a stylish seasonal refresh!">
+                    <meta name="keywords" content="november aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/november-aesthetic-wallpaper">
+                            <span itemprop="name">november aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>November Aesthetic Wallpaper: Cozy Autumn Vibes</h1>
+                <p>Embrace the cozy charm of November with stunning aesthetic wallpapers that capture the essence of autumn. Rich hues of burnt orange, deep reds, and golden yellows evoke warmth, while images of falling leaves and tranquil landscapes add a soothing touch to your devices. Transform your screens with nature's beauty this month!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To The Cozy Month Of November! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/welcome-to-the-cozy-month-of-november-9mcj8ii7g9xu81l8.jpg' alt='Welcome To The Cozy Month Of November! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/welcome-to-the-cozy-month-of-november-9mcj8ii7g9xu81l8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Aesthetic Wallpaper November Calendar Wallpaper For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/18/25/a7/1825a7b2e54c5d94adde0ad9fa218db4.jpg' alt='Free Aesthetic Wallpaper November Calendar Wallpaper For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/18/25/a7/1825a7b2e54c5d94adde0ad9fa218db4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cozy Fall Desktop Aesthetic November Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cozy-fall-desktop-aesthetic-november-9e5axhb642ntpt3x.jpg' alt='Download Cozy Fall Desktop Aesthetic November Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cozy-fall-desktop-aesthetic-november-9e5axhb642ntpt3x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute November Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-november-aesthetic-9s8uy8uwf6x0zxsj.jpg' alt='Cute November Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-november-aesthetic-9s8uy8uwf6x0zxsj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November wallpaper iPad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/b3/4b/9eb34b89f05c5cceb6f79c00a00091c3.jpg' alt='November wallpaper iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/b3/4b/9eb34b89f05c5cceb6f79c00a00091c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 - Free customizable autumn desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFxHwb7fYs/1/0/1600w/canva-brown-beige-minimal-november-calendar-desktop-wallpaper-SE8SvmDgqHM.jpg' alt='Page 4 - Free customizable autumn desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFxHwb7fYs/1/0/1600w/canva-brown-beige-minimal-november-calendar-desktop-wallpaper-SE8SvmDgqHM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download November Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-november-pumpkin-leaves-t7b3u7x3pzqbhbba.jpg' alt='Download November Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-november-pumpkin-leaves-t7b3u7x3pzqbhbba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November Moodboard (Desktop & iPhone Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoaI8R-5hyuXTvRL020pUNqGVW0Wc3LYwrhUhFIyYp0WAruFVeAg-JG4DlSeB7sh903qBSaAALi_12vbLRfY-7OR6g6Rexotb362feJp_00c5xrI5KH22-XIP6lV75fUn3kO5xwVKeRizynD-0PsbKEjhDkvBm_trt1ZUKxm76__mHm-49tUsH1ST1aS_e/s3759/nov%202023%20moodboard%20iphone%20JPEG.jpg' alt='November Moodboard (Desktop & iPhone Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fran Acciardo" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoaI8R-5hyuXTvRL020pUNqGVW0Wc3LYwrhUhFIyYp0WAruFVeAg-JG4DlSeB7sh903qBSaAALi_12vbLRfY-7OR6g6Rexotb362feJp_00c5xrI5KH22-XIP6lV75fUn3kO5xwVKeRizynD-0PsbKEjhDkvBm_trt1ZUKxm76__mHm-49tUsH1ST1aS_e/s3759/nov%202023%20moodboard%20iphone%20JPEG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2024 Monthly Calendar Bundle Quarter Desktop Wallpaper Collage  Desktop Organizer Aesthetic/Vibe">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43887924/r/il/a73010/5829236565/il_570xN.5829236565_28kr.jpg' alt='November 2024 Monthly Calendar Bundle Quarter Desktop Wallpaper Collage  Desktop Organizer Aesthetic/Vibe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43887924/r/il/a73010/5829236565/il_570xN.5829236565_28kr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 November 2021 Wallpapers - Productivity tips, Tech aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/reverelia.com/wp-content/uploads/2021/10/November-wallpaper-2021.jpeg?fit=1600%2C2000&ssl=1' alt='120 November 2021 Wallpapers - Productivity tips, Tech aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reverelia" />
+                                </span>
+                                <a href='https://i0.wp.com/reverelia.com/wp-content/uploads/2021/10/November-wallpaper-2021.jpeg?fit=1600%2C2000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

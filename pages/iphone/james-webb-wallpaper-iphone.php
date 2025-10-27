@@ -1,0 +1,129 @@
+<title>Stunning James Webb Wallpapers for iPhone</title>
+                    <meta name="description" content="Enhance your iPhone's home screen with gorgeous James Webb wallpapers. Dive into breathtaking images of the universe captured by the James Webb Space Telescope, designed for space enthusiasts. Discover and download your favorites today to showcase the wonders of space on your device!">
+                    <meta name="keywords" content="james webb wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/james-webb-wallpaper-iphone">
+                            <span itemprop="name">james webb wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning James Webb Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning James Webb Space Telescope wallpapers! Explore the mesmerizing images of distant galaxies, star formations, and cosmic wonders captured by the telescope. Each wallpaper brings the beauty of space to your device, making it a portal to the universe right in your pocket. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Telescope iPhone wallpapers : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/james-webb-telescope-iphone-wallpapers-v0-b3l1nynm4j8b1.jpg?width=1893&format=pjpg&auto=webp&s=970a24b2e1f8ab4b1bcde2e1679ddf53f3acc6ec' alt='James Webb Telescope iPhone wallpapers : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1893">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/james-webb-telescope-iphone-wallpapers-v0-b3l1nynm4j8b1.jpg?width=1893&format=pjpg&auto=webp&s=970a24b2e1f8ab4b1bcde2e1679ddf53f3acc6ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Telescope iPhone wallpapers : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/james-webb-telescope-iphone-wallpapers-v0-utubgunm4j8b1.jpg?width=1892&format=pjpg&auto=webp&s=e7e749909101ea30e1781714d3f4dd92e1cfb255' alt='James Webb Telescope iPhone wallpapers : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1892">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/james-webb-telescope-iphone-wallpapers-v0-utubgunm4j8b1.jpg?width=1892&format=pjpg&auto=webp&s=e7e749909101ea30e1781714d3f4dd92e1cfb255' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA's James Webb Space Telescope Southern Ring Nebula NGC 3132 ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3887175007.5949/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='NASA's James Webb Space Telescope Southern Ring Nebula NGC 3132 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3887175007.5949/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope - Pillars of Creation - NIRCam Image iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/james-webb-space-telescope-pillars-of-creation-nircam-image-eric-glaser.jpg' alt='James Webb Space Telescope - Pillars of Creation - NIRCam Image iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/james-webb-space-telescope-pillars-of-creation-nircam-image-eric-glaser.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope Wallpapers">
+                                <img itemprop="contentUrl url" src='https://blog-saas-app.s3.eu-west-2.amazonaws.com/blog/clmv8cjbr000al90fcmf5w4s9/lmv8e8l4.jpg' alt='James Webb Space Telescope Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Crew" />
+                                </span>
+                                <a href='https://blog-saas-app.s3.eu-west-2.amazonaws.com/blog/clmv8cjbr000al90fcmf5w4s9/lmv8e8l4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone made iPhone wallpapers out of stunning James Webb images">
+                                <img itemprop="contentUrl url" src='https://bgr.com/wp-content/uploads/2022/09/orion-nebula-james-webb-st.jpg?quality=82&strip=all&resize=1400,788' alt='Someone made iPhone wallpapers out of stunning James Webb images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BGR" />
+                                </span>
+                                <a href='https://bgr.com/wp-content/uploads/2022/09/orion-nebula-james-webb-st.jpg?quality=82&strip=all&resize=1400,788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope NASA Release Picture iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/91/4b/78914b76250bc0b8e8b5b4dca0b51373.jpg' alt='James Webb Space Telescope NASA Release Picture iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/91/4b/78914b76250bc0b8e8b5b4dca0b51373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone-optimized James Webb Space Telescope images for ...">
+                                <img itemprop="contentUrl url" src='https://spaceexplored.com/wp-content/uploads/sites/10/2022/07/iphone-space-telescope-wallpaper_02.jpg?w=473' alt='Download iPhone-optimized James Webb Space Telescope images for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Explored" />
+                                </span>
+                                <a href='https://spaceexplored.com/wp-content/uploads/sites/10/2022/07/iphone-space-telescope-wallpaper_02.jpg?w=473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download James Webb Telescope wallpapers 4K for iPhone, iPad, and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/f2/86/d7f286a6348b4bd49cbc35ee1f989abc.jpg' alt='Download James Webb Telescope wallpapers 4K for iPhone, iPad, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/f2/86/d7f286a6348b4bd49cbc35ee1f989abc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope Wallpapers">
+                                <img itemprop="contentUrl url" src='https://blog-saas-app.s3.eu-west-2.amazonaws.com/blog/clmv8cjbr000al90fcmf5w4s9/lmv8dvml.jpg' alt='James Webb Space Telescope Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Crew" />
+                                </span>
+                                <a href='https://blog-saas-app.s3.eu-west-2.amazonaws.com/blog/clmv8cjbr000al90fcmf5w4s9/lmv8dvml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

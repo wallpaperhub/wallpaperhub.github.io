@@ -1,0 +1,129 @@
+<title>High-Quality Christmas Tree PNGs for Festive Designs</title>
+                    <meta name="description" content="Discover a wide range of stunning Christmas tree PNG images, perfect for enhancing your holiday graphics. Download now to add a festive flair to your projects with transparent, high-quality images that bring the spirit of Christmas to life!">
+                    <meta name="keywords" content="christmas tree png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-tree-png">
+                            <span itemprop="name">christmas tree png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Christmas Tree PNGs for Festive Designs</h1>
+                <p>Looking for the perfect Christmas tree PNG? Our collection offers high-quality, transparent PNG images of festive Christmas trees, ideal for your holiday designs and projects. These images make it easy to add a seasonal touch to your graphics, websites, or crafts. Download your favorite and spread the holiday cheer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Xmas Tree PNG Clipart​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Christmas-PNG/Transparent_Xmas_Tree_PNG_Clipart.png?m=1629785289' alt='Transparent Xmas Tree PNG Clipart​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4301">
+                                <meta itemprop="height" content="5627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Christmas-PNG/Transparent_Xmas_Tree_PNG_Clipart.png?m=1629785289' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xmas tree png 19 by iamszissz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14b64b63-ffe0-458a-bcc1-bc0130d53168/d866w6x-3d174c1f-3d16-4d53-a44c-3c8458d5b67e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YjY0YjYzLWZmZTAtNDU4YS1iY2MxLWJjMDEzMGQ1MzE2OFwvZDg2Nnc2eC0zZDE3NGMxZi0zZDE2LTRkNTMtYTQ0Yy0zYzg0NThkNWI2N2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QxNoFmk0tRCNIskMnlpAY6cIi3E8vTbqY0sNNB02BmA' alt='Xmas tree png 19 by iamszissz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1427">
+                                <meta itemprop="height" content="2141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14b64b63-ffe0-458a-bcc1-bc0130d53168/d866w6x-3d174c1f-3d16-4d53-a44c-3c8458d5b67e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YjY0YjYzLWZmZTAtNDU4YS1iY2MxLWJjMDEzMGQ1MzE2OFwvZDg2Nnc2eC0zZDE3NGMxZi0zZDE2LTRkNTMtYTQ0Yy0zYzg0NThkNWI2N2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QxNoFmk0tRCNIskMnlpAY6cIi3E8vTbqY0sNNB02BmA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree PNG Clip Art​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Christmas-PNG/Christmas_Tree_PNG_Clip_Art.png?m=1629787624' alt='Christmas Tree PNG Clip Art​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2447">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Christmas-PNG/Christmas_Tree_PNG_Clip_Art.png?m=1629787624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/png/20181122/beautiful-christmas-elements-with-christmas-trees-png_234561.png' alt='Christmas Tree PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="248">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/png/20181122/beautiful-christmas-elements-with-christmas-trees-png_234561.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas tree PNG transparent image download, size: 512x800px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/christmas_tree_PNG132.png' alt='Christmas tree PNG transparent image download, size: 512x800px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/christmas_tree_PNG132.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,888 Christmas Tree Png Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/decorated-christmas-tree-presents-new-600nw-2396443885.jpg' alt='8,888 Christmas Tree Png Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/decorated-christmas-tree-presents-new-600nw-2396443885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Clipart Images – Browse 156,422 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/81/91/74/360_F_781917483_oha61SjI5XcSOasPNHPg9zvawMNLI0pj.jpg' alt='Christmas Tree Clipart Images – Browse 156,422 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/81/91/74/360_F_781917483_oha61SjI5XcSOasPNHPg9zvawMNLI0pj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Golden Sparkle Christmas Tree PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-golden-sparkle-christmas-tree-png-704081695055844hmxi8vr1oa.png' alt='HD Golden Sparkle Christmas Tree PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-golden-sparkle-christmas-tree-png-704081695055844hmxi8vr1oa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Tree Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsb2ZmaWNlMV92aW50YWdlX3ZpY3Rvcmlhbl9vaWxfcGFpbnRpbmdfb2ZfY2hyaXN0bWFzX3RyZV9iODY0YjRmZC05MzBiLTRmNWItYmRhMS1jN2M3NzU0Mjc3ZTMucG5n.png' alt='Vintage Christmas Tree Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsb2ZmaWNlMV92aW50YWdlX3ZpY3Rvcmlhbl9vaWxfcGFpbnRpbmdfb2ZfY2hyaXN0bWFzX3RyZV9iODY0YjRmZC05MzBiLTRmNWItYmRhMS1jN2M3NzU0Mjc3ZTMucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Christmas Tree Clipart​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/3892' alt='Transparent Christmas Tree Clipart​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="3104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/3892' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

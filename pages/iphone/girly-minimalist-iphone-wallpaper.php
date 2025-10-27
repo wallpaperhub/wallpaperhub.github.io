@@ -1,0 +1,129 @@
+<title>Chic Girly Minimalist iPhone Wallpapers for a Stylish Screen</title>
+                    <meta name="description" content="Explore our collection of girly minimalist iPhone wallpapers! These stylish designs enhance your screen with a feminine touch while maintaining a clean, modern look. Perfect for personalizing your device effortlessly. Download your favorites today for a fresh, stylish upgrade!">
+                    <meta name="keywords" content="girly minimalist iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/girly-minimalist-iphone-wallpaper">
+                            <span itemprop="name">girly minimalist iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Girly Minimalist iPhone Wallpapers for a Stylish Screen</h1>
+                <p>Elevate your device with girly minimalist iPhone wallpapers! Discover beautiful designs that blend simplicity with feminine charm, featuring pastel colors, floral patterns, and trendy graphics. Perfect for expressing your style while keeping your screen uncluttered. Transform your iPhone into a chic accessory today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Flowers Simple in 2022. iPhone vsco, Simple iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/46/577/HD-wallpaper-aesthetic-flowers-simple-in-2022-iphone-vsco-simple-iphone-aesthetic-iphone-girly-minimal.jpg' alt='Aesthetic Flowers Simple in 2022. iPhone vsco, Simple iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/46/577/HD-wallpaper-aesthetic-flowers-simple-in-2022-iphone-vsco-simple-iphone-aesthetic-iphone-girly-minimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="simple and aesthetic floral iphone and android wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/32/9a/75329abfea6002ea608fde0da0b67857.jpg' alt='simple and aesthetic floral iphone and android wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/32/9a/75329abfea6002ea608fde0da0b67857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/96/02/d7/9602d7589335575da1a02a95c1ea035e.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/96/02/d7/9602d7589335575da1a02a95c1ea035e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Capturing the beauty of minimalism with an iPhone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-sea49k6akm3hxykr.jpg' alt='Download Capturing the beauty of minimalism with an iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-sea49k6akm3hxykr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cute Minimalist, Girly Minimal, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/16/281/HD-wallpaper-aesthetic-cute-minimalist-girly-minimal.jpg' alt='Aesthetic Cute Minimalist, Girly Minimal, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/16/281/HD-wallpaper-aesthetic-cute-minimalist-girly-minimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Free Cute HD Pattern Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/8a/0c/7b8a0c169c69cde6a2a9ef053a2ca316.jpg' alt='36 Free Cute HD Pattern Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/8a/0c/7b8a0c169c69cde6a2a9ef053a2ca316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' alt='Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute And Minimalist Daisy Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-and-minimalist-daisy-iphone-liwrg9klwjyxamu0.jpg' alt='Download Cute And Minimalist Daisy Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-and-minimalist-daisy-iphone-liwrg9klwjyxamu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 - Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE_XddvIbY/1/0/900w/canva-pink-watercolor-minimalist-phone-wallpaper-FpRJZTGmSiU.jpg' alt='Page 3 - Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE_XddvIbY/1/0/900w/canva-pink-watercolor-minimalist-phone-wallpaper-FpRJZTGmSiU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjgwMC1teW50LTAyLmpwZw.jpg' alt='Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjgwMC1teW50LTAyLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

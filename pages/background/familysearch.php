@@ -1,0 +1,129 @@
+<title>Discover Your Ancestry with FamilySearch</title>
+                    <meta name="description" content="Explore your family's history with FamilySearch! Access millions of records, build your family tree, and connect with your ancestors effortlessly. Ideal for all skill levels, start your genealogical journey today!">
+                    <meta name="keywords" content="familysearch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/familysearch">
+                            <span itemprop="name">familysearch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Your Ancestry with FamilySearch</h1>
+                <p>FamilySearch is a powerful online platform that allows individuals to explore their genealogy and family history. With millions of records, user-friendly tools, and a collaborative community, users can build their family tree, discover ancestral connections, and uncover fascinating stories from their past. Whether you're a beginner or an experienced researcher, FamilySearch has resources to guide you. Start your journey into your heritage today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a FamilySearch.org Affiliate Library? - Hamilton East ...">
+                                <img itemprop="contentUrl url" src='https://hamiltoneastpl.org/wp-content/uploads/2018/06/FamilySearchLogo_highres1.jpg' alt='What Is a FamilySearch.org Affiliate Library? - Hamilton East ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hamilton East Public Library" />
+                                </span>
+                                <a href='https://hamiltoneastpl.org/wp-content/uploads/2018/06/FamilySearchLogo_highres1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FamilySearch">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100018388252972' alt='FamilySearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100018388252972' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Authentication - FamilySearch Developers — FamilySearch.org">
+                                <img itemprop="contentUrl url" src='https://edge.fscdn.org/assets/img/certification/FamilySearchLogo/FSMosaicTreeLogo-ea9718ee4daec6abe5ce7ac8cf6ff331.png' alt='Authentication - FamilySearch Developers — FamilySearch.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3462">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://edge.fscdn.org/assets/img/certification/FamilySearchLogo/FSMosaicTreeLogo-ea9718ee4daec6abe5ce7ac8cf6ff331.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FamilySearch">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100093588361575' alt='FamilySearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100093588361575' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven months after it found out, FamilySearch tells users their ...">
+                                <img itemprop="contentUrl url" src='https://grahamcluley.com/wp-content/uploads/2022/10/family-search-730-1.jpeg' alt='Seven months after it found out, FamilySearch tells users their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham Cluley" />
+                                </span>
+                                <a href='https://grahamcluley.com/wp-content/uploads/2022/10/family-search-730-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to FamilySearch.org - Getting Started – Tutorial ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fkJvOyvK1ag/maxresdefault.jpg' alt='Introduction to FamilySearch.org - Getting Started – Tutorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fkJvOyvK1ag/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classes on How to Use FamilySearch">
+                                <img itemprop="contentUrl url" src='https://cms-b-assets.familysearch.org/dims4/default/7464ee5/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F00%2Fab%2F9e54b2d34a3a83120534f58ed1a9%2Fusing-fs.jpg' alt='Classes on How to Use FamilySearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://cms-b-assets.familysearch.org/dims4/default/7464ee5/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F00%2Fab%2F9e54b2d34a3a83120534f58ed1a9%2Fusing-fs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FamilySearch Memories - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hTrSc2VML.png' alt='FamilySearch Memories - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hTrSc2VML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family Search Social Media Internship (Full-time, Paid)">
+                                <img itemprop="contentUrl url" src='https://brightspotcdn.byu.edu/dims4/default/684baae/2147483647/strip/true/crop/300x300+0+0/resize/300x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F90%2Fdb%2F354acb7d427486e79e696bd7706d%2Ffamilysearchlogo.jpg' alt='Family Search Social Media Internship (Full-time, Paid)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="English Internships - BYU" />
+                                </span>
+                                <a href='https://brightspotcdn.byu.edu/dims4/default/684baae/2147483647/strip/true/crop/300x300+0+0/resize/300x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F90%2Fdb%2F354acb7d427486e79e696bd7706d%2Ffamilysearchlogo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Expect from FamilySearch in 2022">
+                                <img itemprop="contentUrl url" src='https://cms-b-assets.familysearch.org/dims4/default/cf80d20/2147483647/strip/true/crop/800x501+0+0/resize/798x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fe9%2F85%2Ff4b402184505b3eb8dded275bd65%2Ffamilysearch-in-2022-solo-tree.png' alt='What to Expect from FamilySearch in 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://cms-b-assets.familysearch.org/dims4/default/cf80d20/2147483647/strip/true/crop/800x501+0+0/resize/798x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fe9%2F85%2Ff4b402184505b3eb8dded275bd65%2Ffamilysearch-in-2022-solo-tree.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

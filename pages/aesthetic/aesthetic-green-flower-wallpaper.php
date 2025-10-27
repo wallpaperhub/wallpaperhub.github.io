@@ -1,0 +1,129 @@
+<title>Aesthetic Green Flower Wallpaper: Nature-Inspired Decor</title>
+                    <meta name="description" content="Discover the beauty of aesthetic green flower wallpaper, perfect for adding a touch of nature to any room. Create a serene ambiance with lush designs that enhance your decor effortlessly. Ideal for homes or offices, this wallpaper is your go-to choice for refreshing and stylish interiors.">
+                    <meta name="keywords" content="aesthetic green flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-green-flower-wallpaper">
+                            <span itemprop="name">aesthetic green flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Green Flower Wallpaper: Nature-Inspired Decor</h1>
+                <p>Transform your space with aesthetic green flower wallpaper that brings nature indoors. Perfect for creating a serene atmosphere, this wallpaper features lush botanical designs that evoke tranquility and freshness. Ideal for living rooms, bedrooms, or office spaces, it enhances your decor while promoting a calming vibe. Embrace the beauty of green!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/94/8a/e0948a9a847e22dff5c0f0948c99e9ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/94/8a/e0948a9a847e22dff5c0f0948c99e9ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' alt='Green flower wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic floral">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/green-aesthetic-floral-pattern-repeat-removable-wallpaper-design.jpg' alt='Green aesthetic floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/green-aesthetic-floral-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Flower Aesthetic Mint Green Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mint-green-iphone-dsh5xzkc77ixuvzt.jpg' alt='Download Flower Aesthetic Mint Green Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mint-green-iphone-dsh5xzkc77ixuvzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Wallpaper - Sage green – shopdous">
+                                <img itemprop="contentUrl url" src='https://shopdous.com/cdn/shop/products/FlowerPowerWall-01_1024x.png?v=1626917350' alt='Flower Power Wallpaper - Sage green – shopdous'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shopdous" />
+                                </span>
+                                <a href='https://shopdous.com/cdn/shop/products/FlowerPowerWall-01_1024x.png?v=1626917350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Aesthetic White Flower Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mint-green-aesthetic-white-flower-xrsop46il199w810.jpg' alt='Mint Green Aesthetic White Flower Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mint-green-aesthetic-white-flower-xrsop46il199w810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/40/df/2b/40df2b45ef91ca574261d0f2848e2df4.jpg' alt='Green flower 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/40/df/2b/40df2b45ef91ca574261d0f2848e2df4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green store flower wallpaper">
+                                <img itemprop="contentUrl url" src='https://e0.pxfuel.com/wallpapers/261/369/desktop-wallpaper-sage-green-floral-aesthetic-girly-flowers-sage-green-cute-flower.jpg' alt='Green store flower wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://e0.pxfuel.com/wallpapers/261/369/desktop-wallpaper-sage-green-floral-aesthetic-girly-flowers-sage-green-cute-flower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Pastel green , green , light green aethetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/66/ab/0966ab65569c48f3e3576f8268a5abd4.jpg' alt='Flower Pastel green , green , light green aethetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/66/ab/0966ab65569c48f3e3576f8268a5abd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Aesthetic Small Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/mint-green-aesthetic-small-flowers-o4ni4folz6mc0w1b.jpg' alt='Mint Green Aesthetic Small Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/mint-green-aesthetic-small-flowers-o4ni4folz6mc0w1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

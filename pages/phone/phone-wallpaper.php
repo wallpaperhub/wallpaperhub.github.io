@@ -1,0 +1,129 @@
+<title>Find Your Perfect Phone Wallpaper: Style Your Screen</title>
+                    <meta name="description" content="Discover a vast collection of eye-catching phone wallpapers to personalize your device. Whether you prefer serene nature scenes or bold graphics, we have something for everyone. Refresh your smartphone's look today with our stunning selections, optimized for all screens and styles!">
+                    <meta name="keywords" content="phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-wallpaper">
+                            <span itemprop="name">phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Your Perfect Phone Wallpaper: Style Your Screen</h1>
+                <p>Phone wallpapers are a canvas for personal expression, transforming your device into a reflection of your unique style. From stunning landscapes to abstract designs, the right wallpaper can uplift your mood and inspire creativity. Explore a variety of high-quality options to keep your screen fresh and exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b6/cd/b7/b6cdb7d0807cea67fece2d315821b2bb.jpg' alt='350 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b6/cd/b7/b6cdb7d0807cea67fece2d315821b2bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my phone wallpaper. I can't remember who the oc is but I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9eqy5o91stf61.jpg' alt='This is my phone wallpaper. I can't remember who the oc is but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9eqy5o91stf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f8/30/01/f83001292fd0f48de7ea0344d2df862d.jpg' alt='16 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f8/30/01/f83001292fd0f48de7ea0344d2df862d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Vector Mobile Wallpaper. Made this when I was bored at my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/purple-vector-mobile-wallpaper-made-this-when-i-was-bored-v0-mfwlmy31x3xd1.png?width=640&crop=smart&auto=webp&s=3fcea7a2842d750ba4b1ff89f2ee7283a06dfc9a' alt='Purple Vector Mobile Wallpaper. Made this when I was bored at my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/purple-vector-mobile-wallpaper-made-this-when-i-was-bored-v0-mfwlmy31x3xd1.png?width=640&crop=smart&auto=webp&s=3fcea7a2842d750ba4b1ff89f2ee7283a06dfc9a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper City - 4548 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2020/02/20/www.mobilesmspk.net_city_4548.jpg' alt='Download Free Mobile Phone Wallpaper City - 4548 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2020/02/20/www.mobilesmspk.net_city_4548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' alt='Mobile Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper And Background, Wallpaper For Mobile, Cute Wallpaper For  Phone">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7163OmwlZhL.jpg' alt='Phone Wallpaper And Background, Wallpaper For Mobile, Cute Wallpaper For  Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7163OmwlZhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPOILER] An upgraded, higher quality phone wallpaper [1080x2248 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gdsbdf97ihq31.png?auto=webp&s=1c659c7827668b90ec2cae6b3a22bde9dd70fb19' alt='SPOILER] An upgraded, higher quality phone wallpaper [1080x2248 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gdsbdf97ihq31.png?auto=webp&s=1c659c7827668b90ec2cae6b3a22bde9dd70fb19' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Phone wallpaper ideas in 2025 | phone wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3c/0d/ed/3c0ded247820a47bb57a4e8953cd8d77.jpg' alt='55 Phone wallpaper ideas in 2025 | phone wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3c/0d/ed/3c0ded247820a47bb57a4e8953cd8d77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

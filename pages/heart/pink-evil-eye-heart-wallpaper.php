@@ -1,0 +1,129 @@
+<title>Pink Evil Eye Heart Wallpaper: Stylish Protection for Your Space</title>
+                    <meta name="description" content="Elevate your decor with our pink evil eye heart wallpaper! Merging style with meaning, this design offers a fresh look while providing spiritual protection. Perfect for any interior space, it combines elegance with a playful touch, making your room both stylish and safeguarded. Explore the magic of decor today!">
+                    <meta name="keywords" content="pink evil eye heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/pink-evil-eye-heart-wallpaper">
+                            <span itemprop="name">pink evil eye heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Evil Eye Heart Wallpaper: Stylish Protection for Your Space</h1>
+                <p>Transform your space with our pink evil eye heart wallpaper! This unique design blends whimsical charm with protective symbolism, perfect for bedrooms, nurseries, or any cozy corner. The soft pink hue combined with the iconic evil eye motif adds a touch of modern elegance while safeguarding your peace. Bring love and protection into your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye Heart Print Pink Bedroom Wall Art Greek Decor Spiritual ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17825784/r/il/547d4c/5269793692/il_fullxfull.5269793692_rbvs.jpg' alt='Evil Eye Heart Print Pink Bedroom Wall Art Greek Decor Spiritual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17825784/r/il/547d4c/5269793692/il_fullxfull.5269793692_rbvs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Evil Eye Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-heart-evil-eye-graphic-nto4l7obj0s833yi.jpg' alt='100+] Pink Evil Eye Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-heart-evil-eye-graphic-nto4l7obj0s833yi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Evil Eye Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/illustration-pink-eyes-love-hearts-260nw-1751121383.jpg' alt='Pink Evil Eye Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/illustration-pink-eyes-love-hearts-260nw-1751121383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye Heart - Evil eye - Pink heart- Buenas vibras - Good vibes | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3543174722.4717/fposter,small,wall_texture,product,750x1000.jpg' alt='Evil Eye Heart - Evil eye - Pink heart- Buenas vibras - Good vibes | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3543174722.4717/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="evil eye phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1c/c3/46/1cc3467b6ab452e2637b7f9bb085d8f1.jpg' alt='evil eye phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1c/c3/46/1cc3467b6ab452e2637b7f9bb085d8f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Boho seamless pattern- magical seeing heart with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/boho-seamless-pattern-magical-seeing-heart-with-third-evil-eye-pink-background-occult-esoteric-mystic-symbol-alchemy-vector-illustration-design-spiritual-print-fabric-textile_211356-283.jpg' alt='Premium Vector | Boho seamless pattern- magical seeing heart with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/boho-seamless-pattern-magical-seeing-heart-with-third-evil-eye-pink-background-occult-esoteric-mystic-symbol-alchemy-vector-illustration-design-spiritual-print-fabric-textile_211356-283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/cd/7e/99cd7e0ab993b26f0d96b2c8fdab4eb4.jpg' alt='Heart design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/cd/7e/99cd7e0ab993b26f0d96b2c8fdab4eb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Evil Eye Wallpaper Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pink-heart-with-metallic-reflective-effect_23-2150253960.jpg' alt='Pink Evil Eye Wallpaper Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pink-heart-with-metallic-reflective-effect_23-2150253960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye Heart Print Pink Bedroom Wall Art Greek Decor Spiritual ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17825784/r/il/570b72/5501903825/il_340x270.5501903825_np0a.jpg' alt='Evil Eye Heart Print Pink Bedroom Wall Art Greek Decor Spiritual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17825784/r/il/570b72/5501903825/il_340x270.5501903825_np0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye I Heart U Preppy Aesthetic: Blank Notebook College Ruled ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cYTAJSuLL._AC_UF1000,1000_QL80_.jpg' alt='Evil Eye I Heart U Preppy Aesthetic: Blank Notebook College Ruled ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cYTAJSuLL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

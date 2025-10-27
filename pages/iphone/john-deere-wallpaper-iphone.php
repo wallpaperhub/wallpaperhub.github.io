@@ -1,0 +1,129 @@
+<title>Stunning John Deere iPhone Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Discover a selection of eye-catching John Deere wallpapers for your iPhone. Perfect for fans of farming and tractors, these high-quality images will personalize your device. Download now and enjoy your love for agriculture on your screen every day!">
+                    <meta name="keywords" content="john deere wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/john-deere-wallpaper-iphone">
+                            <span itemprop="name">john deere wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning John Deere iPhone Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your iPhone with stunning John Deere wallpapers. Our collection features vibrant images of iconic tractors, lush fields, and farm life, perfect for any John Deere enthusiast. Personalize your device with high-quality, downloadable wallpapers that showcase your passion for agriculture and the outdoors. Enjoy nature's beauty at your fingertips!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/67/35/cc/6735cceb43da81014aa681bbd7696321.jpg' alt='John Deere IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/67/35/cc/6735cceb43da81014aa681bbd7696321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere - Our latest wallpapers are perfect for your... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4491235700903158' alt='John Deere - Our latest wallpapers are perfect for your... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4491235700903158' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere Tractor, Dark Background, green tractor, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/947/873/HD-wallpaper-john-deere-tractor-dark-background-green-tractor.jpg' alt='John Deere Tractor, Dark Background, green tractor, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/947/873/HD-wallpaper-john-deere-tractor-dark-background-green-tractor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6142997.jpg' alt='John Deere iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6142997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere - Our latest wallpapers are perfect for your... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4491235850903143' alt='John Deere - Our latest wallpapers are perfect for your... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4491235850903143' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6542096.jpg' alt='John Deere iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6542096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile wallpaper: Vehicles, John Deere, 1204332 download the ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/cf/cf376b76b90a9a67ad12666e7aa96959.jpeg' alt='Mobile wallpaper: Vehicles, John Deere, 1204332 download the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/cf/cf376b76b90a9a67ad12666e7aa96959.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JOHN DEERE 8R wallpaper by salini8rx - Download on ZEDGE™ | 0265">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=GDBZqmYo3v8d7f1j7C4P9CCmjhaxsIztTq6dYOf9BwtvEu-8-UBoNqKEyBMSt3ksJ-geVzHB1J3gDalOL9BLfyH4QL0ZemDW3yrud4jkJzbRRXC8lLdWg8PbGvV4ITVQNYBOSWf12mYVEIUgrOH6afV-sDbk2d-lqvHoFzu6ZynphS2R5eU8wlHG2My91CvaSxx1hCxLDW_nIJsKiTYoSH0a38YQcLr3xf_cQg' alt='JOHN DEERE 8R wallpaper by salini8rx - Download on ZEDGE™ | 0265'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=GDBZqmYo3v8d7f1j7C4P9CCmjhaxsIztTq6dYOf9BwtvEu-8-UBoNqKEyBMSt3ksJ-geVzHB1J3gDalOL9BLfyH4QL0ZemDW3yrud4jkJzbRRXC8lLdWg8PbGvV4ITVQNYBOSWf12mYVEIUgrOH6afV-sDbk2d-lqvHoFzu6ZynphS2R5eU8wlHG2My91CvaSxx1hCxLDW_nIJsKiTYoSH0a38YQcLr3xf_cQg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wallpapers4k #Roça #Brasil2022 | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7181500587660496134&location=0&aid=1988' alt='#wallpapers4k #Roça #Brasil2022 | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7181500587660496134&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Deere on X: "Something to keep you running on ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EVqrlbMXQAUkaq-?format=jpg&name=4096x4096' alt='John Deere on X: "Something to keep you running on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EVqrlbMXQAUkaq-?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

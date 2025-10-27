@@ -1,0 +1,129 @@
+<title>Adorable Princess Tiana Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover charming Princess Tiana wallpapers that bring joy and magic to your screens. Perfect for fans, these delightful designs capture her spirit and beauty, making your device truly enchanting. Download now and celebrate your favorite princess in style!">
+                    <meta name="keywords" content="cute princess tiana wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-princess-tiana-wallpaper">
+                            <span itemprop="name">cute princess tiana wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Princess Tiana Wallpapers for Your Device</h1>
+                <p>Transform your device with enchanting Cute Princess Tiana wallpapers! Celebrate the magic and charm of Disney's beloved character. Perfect for fans of "The Princess and the Frog," these vibrant wallpapers showcase Tiana's grace and strength in various adorable designs. Bring a touch of fairy-tale beauty to your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiana (The Princess and the Frog) Wallpapers (41 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/a/b/1081876-2048x3073-iphone-hd-tiana-the-princess-and-the-frog-background-image.jpg' alt='Tiana (The Princess and the Frog) Wallpapers (41 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/a/b/1081876-2048x3073-iphone-hd-tiana-the-princess-and-the-frog-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Princess Tiana from Disney's The Princess and the Frog ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/princess-tiana-uih9mdesi3ewb0iw.jpg' alt='Download Princess Tiana from Disney's The Princess and the Frog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/princess-tiana-uih9mdesi3ewb0iw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/6f/29/506f29f010f161cff312c02898e64648.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/6f/29/506f29f010f161cff312c02898e64648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiana (The Princess and the Frog) Wallpapers (41 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/5/e/1081874-3840x2160-desktop-4k-tiana-the-princess-and-the-frog-background.jpg' alt='Tiana (The Princess and the Frog) Wallpapers (41 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/5/e/1081874-3840x2160-desktop-4k-tiana-the-princess-and-the-frog-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princesa Tiana - wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/38/11/133811aa2a28d3cb808a26d6932bfc18.jpg' alt='Princesa Tiana - wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/38/11/133811aa2a28d3cb808a26d6932bfc18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Princess Tiana Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/princess-tiana-um4fp5swt1qux7t1.jpg' alt='100+] Princess Tiana Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1012">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/princess-tiana-um4fp5swt1qux7t1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiana (The Princess and the Frog) Wallpapers (41 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/0/6/1081892-1080x1920-mobile-full-hd-tiana-the-princess-and-the-frog-wallpaper-image.jpg' alt='Tiana (The Princess and the Frog) Wallpapers (41 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/0/6/1081892-1080x1920-mobile-full-hd-tiana-the-princess-and-the-frog-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiana A Princesa e o Sapo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/0d/da/b80ddae1fd5edb62ba7691aff94a3422.jpg' alt='Tiana A Princesa e o Sapo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/0d/da/b80ddae1fd5edb62ba7691aff94a3422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Tiana Wallpapers - Chat Backgrounds | Disney Parks Blog">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/Tiana-Wallpaper-Disney-Parks-Blog_Desktop-767x431.jpg' alt='New Tiana Wallpapers - Chat Backgrounds | Disney Parks Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/Tiana-Wallpaper-Disney-Parks-Blog_Desktop-767x431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleepy Tiana Aesthetic Cartoon Disney Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/sleepy-tiana-aesthetic-cartoon-disney-x0rmwfm5gi2piyoj.jpg' alt='Sleepy Tiana Aesthetic Cartoon Disney Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/sleepy-tiana-aesthetic-cartoon-disney-x0rmwfm5gi2piyoj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Space Wallpapers for iOS 16</title>
+                    <meta name="description" content="Discover the beauty of the universe with our collection of stunning space wallpapers for iOS 16. Transform your device with mesmerizing cosmic visuals that captivate and inspire, enhancing your mobile experience. Perfect for astronomy lovers and anyone looking to make their iPhone stand out!">
+                    <meta name="keywords" content="ios 16 space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/ios-16-space-wallpaper">
+                            <span itemprop="name">ios 16 space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Wallpapers for iOS 16</h1>
+                <p>Upgrade your iOS 16 experience with stunning space wallpapers! Transform your device’s backdrop with breathtaking cosmic scenes – from swirling galaxies to vibrant nebulae. Personalize your home screen and lock screen while evoking a sense of wonder and adventure. Explore the universe from the palm of your hand!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iOS 16 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/86246/417034/417034-640.jpg' alt='Download the Official iOS 16 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/86246/417034/417034-640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Illustration Ios 16 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/space-illustration-ios-16-o6nelgfogureco7g-3.jpg' alt='Space Illustration Ios 16 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/space-illustration-ios-16-o6nelgfogureco7g-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 and watchOS 9 have awesome new space wallpapers">
+                                <img itemprop="contentUrl url" src='https://spaceexplored.com/wp-content/uploads/sites/10/2022/06/ios16-space-wallpaper-us.jpg' alt='iOS 16 and watchOS 9 have awesome new space wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Explored" />
+                                </span>
+                                <a href='https://spaceexplored.com/wp-content/uploads/sites/10/2022/06/ios16-space-wallpaper-us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Lock Screen : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/DGV9KIy.jpg' alt='iOS 16 Lock Screen : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/DGV9KIy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iOS 16 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/86246/417036/417036-640.jpg' alt='Download the Official iOS 16 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/86246/417036/417036-640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1b/bc/a6/1bbca6f6d11f6f994f6371625101ea58.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1b/bc/a6/1bbca6f6d11f6f994f6371625101ea58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iOS 16 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sfqk4u8oym491.jpg' alt='Wallpaper iOS 16 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sfqk4u8oym491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Planet Ios 16 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-planet-ios-16-nozfmrawkv4fmqur.jpg' alt='Blue Planet Ios 16 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-planet-ios-16-nozfmrawkv4fmqur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love the customisation with iOS 16 Lock Screen. My current setup ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/love-the-customisation-with-ios-16-lock-screen-my-current-v0-b4ant442uge91.jpg?width=1284&format=pjpg&auto=webp&s=e4a1f0197205cce23e7337df177e2151df8f9822' alt='Love the customisation with iOS 16 Lock Screen. My current setup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/love-the-customisation-with-ios-16-lock-screen-my-current-v0-b4ant442uge91.jpg?width=1284&format=pjpg&auto=webp&s=e4a1f0197205cce23e7337df177e2151df8f9822' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iOS 16 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/86246/417040/417040-640.jpg' alt='Download the Official iOS 16 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/86246/417040/417040-640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

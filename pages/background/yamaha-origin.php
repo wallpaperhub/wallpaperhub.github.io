@@ -1,0 +1,129 @@
+<title>Explore Yamaha Origin: Tradition Meets Innovation</title>
+                    <meta name="description" content="Discover Yamaha Origin, where music legacy merges with modern technology. Explore a world of high-quality instruments and innovative sound solutions. Perfect for musicians seeking excellence and performance. Dive into Yamaha's craftsmanship for an exceptional musical journey!">
+                    <meta name="keywords" content="yamaha origin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yamaha-origin">
+                            <span itemprop="name">yamaha origin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Yamaha Origin: Tradition Meets Innovation</h1>
+                <p>Yamaha Origin is a testament to Yamaha's rich legacy in music and engineering. Known for its high-quality instruments and innovative technologies, Yamaha Origin unites tradition with modernity, producing guitars, keyboards, and audio equipment that cater to musicians worldwide. Experience unparalleled sound and craftsmanship with Yamaha.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins of the Yamaha Brand - About Us - Yamaha Corporation">
+                                <img itemprop="contentUrl url" src='https://www.yamaha.com/en/about/history/brand/images/pict_torakusu.jpg' alt='Origins of the Yamaha Brand - About Us - Yamaha Corporation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yamaha Corporation" />
+                                </span>
+                                <a href='https://www.yamaha.com/en/about/history/brand/images/pict_torakusu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The story of Yamaha Motor Company history and iconic bikes | BeMoto">
+                                <img itemprop="contentUrl url" src='https://www.bemoto.uk/uploads/values/64/1955-yam-ya1-stu-001-1455474271-2109x_.jpg?token=402ba1f57e2b8462a6a0bb9b9672639c' alt='The story of Yamaha Motor Company history and iconic bikes | BeMoto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2109">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeMoto" />
+                                </span>
+                                <a href='https://www.bemoto.uk/uploads/values/64/1955-yam-ya1-stu-001-1455474271-2109x_.jpg?token=402ba1f57e2b8462a6a0bb9b9672639c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - About Us - Yamaha Corporation">
+                                <img itemprop="contentUrl url" src='https://www.yamaha.com/en/about/history/images/history_02.jpg' alt='History - About Us - Yamaha Corporation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yamaha Corporation" />
+                                </span>
+                                <a href='https://www.yamaha.com/en/about/history/images/history_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YAMAHA – Origin of new species | Grease n Gasoline">
+                                <img itemprop="contentUrl url" src='https://greasengasoline.wordpress.com/wp-content/uploads/2012/03/yamaha_ya-1_00.jpg' alt='YAMAHA – Origin of new species | Grease n Gasoline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grease n Gasoline - WordPress.com" />
+                                </span>
+                                <a href='https://greasengasoline.wordpress.com/wp-content/uploads/2012/03/yamaha_ya-1_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Yamaha">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KGzFrh8_qQc/maxresdefault.jpg' alt='The Story of Yamaha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KGzFrh8_qQc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History of Casting Vol. 2 - Meteoric Progress - OEM Casting ...">
+                                <img itemprop="contentUrl url" src='https://global.yamaha-motor.com/business/cf/business/history/vol002/img/pict_001.jpg' alt='Our History of Casting Vol. 2 - Meteoric Progress - OEM Casting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yamaha Motor Co., Ltd." />
+                                </span>
+                                <a href='https://global.yamaha-motor.com/business/cf/business/history/vol002/img/pict_001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O'Neill's Music :: Yamaha">
+                                <img itemprop="contentUrl url" src='https://oneillsmusic.com/application/files/7516/0677/5034/pict_relief.jpg' alt='O'Neill's Music :: Yamaha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="o'neill's music" />
+                                </span>
+                                <a href='https://oneillsmusic.com/application/files/7516/0677/5034/pict_relief.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The story of Yamaha Motor Company history and iconic bikes | BeMoto">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Torakusu-yamaha.jpg' alt='The story of Yamaha Motor Company history and iconic bikes | BeMoto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="262">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeMoto" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a5/Torakusu-yamaha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Yamaha Woodwind & Brass Instruments | Dawkes Music">
+                                <img itemprop="contentUrl url" src='https://www.dawkes.co.uk/sound-room/wp-content/uploads/2021/03/Screen-Shot-2021-03-11-at-11.38.18.png' alt='History of Yamaha Woodwind & Brass Instruments | Dawkes Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dawkes Music" />
+                                </span>
+                                <a href='https://www.dawkes.co.uk/sound-room/wp-content/uploads/2021/03/Screen-Shot-2021-03-11-at-11.38.18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yamaha Corporation - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0a/Yamaha_Corporation.jpg' alt='Yamaha Corporation - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3665">
+                                <meta itemprop="height" content="1854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0a/Yamaha_Corporation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

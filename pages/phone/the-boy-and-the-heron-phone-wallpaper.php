@@ -1,0 +1,129 @@
+<title>Stunning "Boy and the Heron" Phone Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover the magical "Boy and the Heron" phone wallpaper, designed to inspire and elevate your device's aesthetic. Featuring captivating visuals of friendship and adventure, this wallpaper is a perfect blend of nature and artistry. Download now to enhance your phone's look!">
+                    <meta name="keywords" content="the boy and the heron phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/the-boy-and-the-heron-phone-wallpaper">
+                            <span itemprop="name">the boy and the heron phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning "Boy and the Heron" Phone Wallpaper for Your Device</h1>
+                <p>The "Boy and the Heron" phone wallpaper captures the enchanting bond between a young boy and a majestic heron, symbolizing friendship and adventure. With vibrant colors and stunning visuals, this wallpaper transports you to a world of imagination. Perfect for those who cherish nature and artistry, it adds a touch of magic to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/64/44/2a6444f6975f60f774dd2a6dc871d606.jpg' alt='89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/64/44/2a6444f6975f60f774dd2a6dc871d606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new Boy and Heron Phone wallpaper :D : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/new-boy-and-heron-phone-wallpaper-d-v0-j49ebj9ekr8c1.jpg?width=720&format=pjpg&auto=webp&s=e4a41aa52cd289da9b4c148cff13f26b95440b0f' alt='new Boy and Heron Phone wallpaper :D : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/new-boy-and-heron-phone-wallpaper-d-v0-j49ebj9ekr8c1.jpg?width=720&format=pjpg&auto=webp&s=e4a41aa52cd289da9b4c148cff13f26b95440b0f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and (Sometimes) the Heron" - by Shay">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48534184-a4a6-4cbb-973e-ecadfec8d083_1707x2560.jpeg' alt='The Boy and (Sometimes) the Heron" - by Shay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thoughts on Plots - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48534184-a4a6-4cbb-973e-ecadfec8d083_1707x2560.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/22/52/942252e20b6bdc8d2350bf046dc44654.jpg' alt='89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/22/52/942252e20b6bdc8d2350bf046dc44654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron Movie Poster 4K Wallpaper iPhone HD Phone #211n">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/the-boy-and-the-heron-movie-poster-21@1@n-phone-4k.jpg' alt='The Boy and the Heron Movie Poster 4K Wallpaper iPhone HD Phone #211n'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/the-boy-and-the-heron-movie-poster-21@1@n-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alessandra Bava on X: "#Miyazaki's "The Boy and the Heron" is such ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GC3pvdtXwAEHqz1.jpg' alt='Alessandra Bava on X: "#Miyazaki's "The Boy and the Heron" is such ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GC3pvdtXwAEHqz1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new Boy and Heron Phone wallpaper :D : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-boy-and-heron-phone-wallpaper-d-v0-4z1eyn9ekr8c1.jpg?width=108&crop=smart&auto=webp&s=cdd27917935f6ca337f4294fa4eb9f02ce52852f' alt='new Boy and Heron Phone wallpaper :D : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="108">
+                                <meta itemprop="height" content="192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-boy-and-heron-phone-wallpaper-d-v0-4z1eyn9ekr8c1.jpg?width=108&crop=smart&auto=webp&s=cdd27917935f6ca337f4294fa4eb9f02ce52852f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/58/67/af/5867af55fb212d6323d458514941679a.jpg' alt='89 Best The Boy and the Heron ideas | heron, studio ghibli, hayao ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/58/67/af/5867af55fb212d6323d458514941679a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x2400 The Boy And The Heron Google Pixel 7 ,HD 4k Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.hdqwalls.com/download/the-boy-and-the-heron-dd-1080x2400.jpg' alt='1080x2400 The Boy And The Heron Google Pixel 7 ,HD 4k Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hdqwalls" />
+                                </span>
+                                <a href='https://images.hdqwalls.com/download/the-boy-and-the-heron-dd-1080x2400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awards won by The Boy and The Heron - Sportskeeda Stories">
+                                <img itemprop="contentUrl url" src='https://storiesmediag.sportskeeda.com/wp-content/uploads/2024/01/14172755/the-boy-and-the-heron-anime-phone-wallpaper-hd-uhdpaper.com-23%401%40n.jpg' alt='Awards won by The Boy and The Heron - Sportskeeda Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://storiesmediag.sportskeeda.com/wp-content/uploads/2024/01/14172755/the-boy-and-the-heron-anime-phone-wallpaper-hd-uhdpaper.com-23%401%40n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

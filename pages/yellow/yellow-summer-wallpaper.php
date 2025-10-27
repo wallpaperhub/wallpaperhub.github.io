@@ -1,0 +1,129 @@
+<title>Bright Yellow Summer Wallpaper for a Cheerful Home</title>
+                    <meta name="description" content="Transform your home with our vibrant yellow summer wallpaper. Featuring sunny designs, it's perfect for adding warmth and cheer to any room. Ideal for creating a bright, inviting ambiance, this wallpaper enhances your decor while celebrating the beauty of summer all year round!">
+                    <meta name="keywords" content="yellow summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-summer-wallpaper">
+                            <span itemprop="name">yellow summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright Yellow Summer Wallpaper for a Cheerful Home</h1>
+                <p>Brighten up your space with yellow summer wallpaper! Ideal for creating a sunny, vibrant atmosphere, this wallpaper features cheerful floral patterns and warm hues. Perfect for living rooms, bedrooms, or any area needing a pop of sunshine. Elevate your decor and enjoy the uplifting vibe summer brings all year long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Summer iPhone Wallpaper Ideas to Obsess over">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/35/6e/79356e283c2897227782c47e82daee55.jpg' alt='29 Summer iPhone Wallpaper Ideas to Obsess over'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/35/6e/79356e283c2897227782c47e82daee55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Summer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-summer-720-x-1280-wallpaper-n051czccj2fzjhmb.jpg' alt='100+] Yellow Summer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-summer-720-x-1280-wallpaper-n051czccj2fzjhmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute summer wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/55/47/3f554714fb3681752ac3ecab20ab88ea.jpg' alt='cute summer wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/55/47/3f554714fb3681752ac3ecab20ab88ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_1200x2135.jpg?v=1625820003' alt='Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_1200x2135.jpg?v=1625820003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Summer Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sunny-lemon-pattern-background-g7ybm86dp543jkd8.jpg' alt='100+] Yellow Summer Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sunny-lemon-pattern-background-g7ybm86dp543jkd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/67/fe/8c67fe91f89c11f44fc3ffadd6c39f23.jpg' alt='100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/67/fe/8c67fe91f89c11f44fc3ffadd6c39f23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Hand Painted Yellow Orange Summer Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-watercolor-hand-painted-yellow-orange-summer-wallpaper-picture-image_989530.jpg' alt='Watercolor Hand Painted Yellow Orange Summer Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-watercolor-hand-painted-yellow-orange-summer-wallpaper-picture-image_989530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Yellow Summer Field Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-summer-1154-x-2048-wallpaper-e5m5o4fehz78834l.jpg' alt='Download Vibrant Yellow Summer Field Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-summer-1154-x-2048-wallpaper-e5m5o4fehz78834l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Yellow Wallpaper Making A Bright And Beautiful Statement ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-yellow-wallpaper-making-a-bright-and-beautiful-statement-ybx6i2tta5vsg0dv.webp' alt='Aesthetic Yellow Wallpaper Making A Bright And Beautiful Statement ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-yellow-wallpaper-making-a-bright-and-beautiful-statement-ybx6i2tta5vsg0dv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="summer aesthetic - Bing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/15/f8/c815f8f84684b96a5cd9cbd624186eb1.jpg' alt='summer aesthetic - Bing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/15/f8/c815f8f84684b96a5cd9cbd624186eb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

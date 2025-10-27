@@ -1,0 +1,129 @@
+<title>Vibrant Shiny Purple Background for Modern Designs</title>
+                    <meta name="description" content="Discover the allure of a shiny purple background. Perfect for adding a touch of elegance and vibrancy to any project, this background can elevate your designs, making them stand out effortlessly. Ideal for websites, presentations, and social media, embrace the creative potential of purple today!">
+                    <meta name="keywords" content="shiny purple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shiny-purple-background">
+                            <span itemprop="name">shiny purple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Shiny Purple Background for Modern Designs</h1>
+                <p>A shiny purple background adds a vibrant touch to any design. Its rich, deep hues are perfect for creating a sense of luxury and elegance. This captivating color enhances visual appeal and can evoke feelings of creativity and calmness. Use it in websites, presentations, or social media graphics to create an eye-catching statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="106,500+ Purple Shiny Texture Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/679472426/photo/purple-violet-foil-background-metal-texture.jpg?s=612x612&w=0&k=20&c=xWa-auOm3XVc9rlCD6e9FFR5D_YqD-teEo6BdIzoNVU=' alt='106,500+ Purple Shiny Texture Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/679472426/photo/purple-violet-foil-background-metal-texture.jpg?s=612x612&w=0&k=20&c=xWa-auOm3XVc9rlCD6e9FFR5D_YqD-teEo6BdIzoNVU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Shiny Purple Metal Background Graphic by Forhadx5 ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2024/03/15/Liquid-shiny-Purple-metal-background-Graphics-93289838-1-1-580x387.jpg' alt='Liquid Shiny Purple Metal Background Graphic by Forhadx5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2024/03/15/Liquid-shiny-Purple-metal-background-Graphics-93289838-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Purple Images – Browse 766,596 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/68/64/85/360_F_268648574_nlmsIrZQZzKKBKkPcbBcMHeQkKJbv3aZ.jpg' alt='Glitter Purple Images – Browse 766,596 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/68/64/85/360_F_268648574_nlmsIrZQZzKKBKkPcbBcMHeQkKJbv3aZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple shiny brushed metal Vertical background texture">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-shiny-brushed-metal-vertical-background-texture_118047-17570.jpg?w=360' alt='Premium Photo | Purple shiny brushed metal Vertical background texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-shiny-brushed-metal-vertical-background-texture_118047-17570.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Purple Background Stock Illustrations – 226,532 Shiny Purple ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/shiny-purple-background-stars-34669363.jpg' alt='Shiny Purple Background Stock Illustrations – 226,532 Shiny Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/shiny-purple-background-stars-34669363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/close-up-glittering-purple-fabric_23-2149285595.jpg' alt='Shiny Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/close-up-glittering-purple-fabric_23-2149285595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Purple Background Stock Illustrations – 226,532 Shiny Purple ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/shiny-purple-background-17734904.jpg' alt='Shiny Purple Background Stock Illustrations – 226,532 Shiny Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/shiny-purple-background-17734904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred shiny purple background 1741292 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/741/292/large_2x/blurred-shiny-purple-background-free-photo.jpg' alt='Blurred shiny purple background 1741292 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/741/292/large_2x/blurred-shiny-purple-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sparkle Shiny Glitter Background Graphic by Rizu Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/08/04/Purple-Sparkle-Shiny-Glitter-Background-Graphics-15464070-1.jpg' alt='Purple Sparkle Shiny Glitter Background Graphic by Rizu Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/08/04/Purple-Sparkle-Shiny-Glitter-Background-Graphics-15464070-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple and white shiny gradient abstract background. simple and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/315/065/non_2x/purple-and-white-shiny-gradient-abstract-background-simple-and-minimal-design-suitable-for-backdrop-wallpaper-homepage-and-copy-space-free-vector.jpg' alt='purple and white shiny gradient abstract background. simple and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/315/065/non_2x/purple-and-white-shiny-gradient-abstract-background-simple-and-minimal-design-suitable-for-backdrop-wallpaper-homepage-and-copy-space-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

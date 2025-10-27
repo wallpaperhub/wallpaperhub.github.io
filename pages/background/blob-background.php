@@ -1,0 +1,129 @@
+<title>Enhance Your Design with Unique Blob Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of blob backgrounds! These fluid shapes add creativity and style to your designs, making them stand out. Explore tips for using blob backgrounds effectively in your projects for a modern and playful aesthetic.">
+                    <meta name="keywords" content="blob background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blob-background">
+                            <span itemprop="name">blob background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Design with Unique Blob Backgrounds</h1>
+                <p>Blob backgrounds are trendy design elements that add a unique touch to websites and graphics. These organic, fluid shapes create a sense of playfulness and modernity. Perfect for enhancing user experience, blob backgrounds can be used in various color schemes and styles, making them versatile for branding and artistic projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blob background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6nxrydxw/1/0/1600w/canva-rose-pink-purple-organic-blob-shapes-beautiful-desktop-wallpaper-QWyrCrYYNMI.jpg' alt='Free and customizable blob background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6nxrydxw/1/0/1600w/canva-rose-pink-purple-organic-blob-shapes-beautiful-desktop-wallpaper-QWyrCrYYNMI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blob background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGK_XwytRo/1/0/900w/canva-pastel-blue-cute-abstract-blob-background-instagram-story-Pfwybg9h2cY.jpg' alt='Free and customizable blob background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGK_XwytRo/1/0/900w/canva-pastel-blue-cute-abstract-blob-background-instagram-story-Pfwybg9h2cY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blob Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/426/060/non_2x/abstract-white-background-with-organic-shapes-abstract-design-background-with-white-color-and-pastel-color-organic-shapes-background-art-background-with-liquid-element-and-blobs-free-vector.jpg' alt='Blob Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/426/060/non_2x/abstract-white-background-with-organic-shapes-abstract-design-background-with-white-color-and-pastel-color-organic-shapes-background-art-background-with-liquid-element-and-blobs-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blob Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/creative-organic-shapes-background_23-2148879761.jpg' alt='Blob Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/creative-organic-shapes-background_23-2148879761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blob Background Images – Browse 554,625 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/71/22/10/360_F_471221086_HfPLLQ1RRP6ds3tmCUNFCaAwcZxV9s4u.jpg' alt='Blob Background Images – Browse 554,625 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/71/22/10/360_F_471221086_HfPLLQ1RRP6ds3tmCUNFCaAwcZxV9s4u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blob background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvuv8e2Mo/1/0/900w/canva-purple-abstract-blob-shapes-phone-wallpaper-YD6NqVaGMKs.jpg' alt='Free and customizable blob background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvuv8e2Mo/1/0/900w/canva-purple-abstract-blob-shapes-phone-wallpaper-YD6NqVaGMKs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blob Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1620120966883-d977b57a96ec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxvYnxlbnwwfHwwfHx8MA%3D%3D' alt='Blob Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1620120966883-d977b57a96ec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxvYnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract simple blob background with lines">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-simple-blob-background-with-lines_657117-2.jpg' alt='Premium Vector | Abstract simple blob background with lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-simple-blob-background-with-lines_657117-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blob background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7YiAY3Vk/1/0/1600w/canva-orange-abtract-fluid-blob-illustration-linktree-background-jTN01Sui7aE.jpg' alt='Free and customizable blob background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7YiAY3Vk/1/0/1600w/canva-orange-abtract-fluid-blob-illustration-linktree-background-jTN01Sui7aE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blob Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681426771176-b70b925d71a9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvYnxlbnwwfHwwfHx8MA%3D%3D' alt='Blob Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681426771176-b70b925d71a9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvYnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

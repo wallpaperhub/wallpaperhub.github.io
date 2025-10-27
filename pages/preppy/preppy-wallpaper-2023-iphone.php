@@ -1,0 +1,129 @@
+<title>Chic Preppy Wallpapers for iPhone 2023: Style Your Screen</title>
+                    <meta name="description" content="Discover chic preppy wallpapers for your iPhone in 2023. Elevate your device with stylish designs that blend sophistication and personality. Explore a variety of colors and patterns that fit the preppy aesthetic, perfect for fashion-forward users. Transform your screen today!">
+                    <meta name="keywords" content="preppy wallpaper 2023 iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-2023-iphone">
+                            <span itemprop="name">preppy wallpaper 2023 iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Wallpapers for iPhone 2023: Style Your Screen</h1>
+                <p>Transform your iPhone with the latest preppy wallpaper designs of 2023! From pastel plaids to classic motifs, these trendy wallpapers add a stylish flair to your device. Perfect for those who love a touch of sophistication, our curated collection embodies the essence of preppy aesthetics. Elevate your screen now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPhone wallpapers pt. 5">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/d1/a6/0cd1a6ecd661d0a6694da12e6e1cd4f3.jpg' alt='Preppy iPhone wallpapers pt. 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/d1/a6/0cd1a6ecd661d0a6694da12e6e1cd4f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Preppy Wallpaper  ☀️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/4e/87/474e872160be68b80ac26be60e50044d.jpg' alt='Aesthetic Preppy Wallpaper  ☀️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="517">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/4e/87/474e872160be68b80ac26be60e50044d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Preppy Wallpapers - Preppy Wallpaper">
+                                <img itemprop="contentUrl url" src='http://thepreppywallpaper.net/wp-content/uploads/2023/10/cute-preppy-wallpapers_129-573x1024.jpg' alt='450+ Preppy Wallpapers - Preppy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="573">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="thepreppywallpaper.net" />
+                                </span>
+                                <a href='http://thepreppywallpaper.net/wp-content/uploads/2023/10/cute-preppy-wallpapers_129-573x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Free Preppy Wallpaper Designs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/89/28/44892883fb886a37ef6653db4c907563.jpg' alt='25+ Free Preppy Wallpaper Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/89/28/44892883fb886a37ef6653db4c907563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Pink Jungle Wallpaper - Preppy Aesthetic Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/03/preppy-pink-jungle-wallpaper.jpg' alt='Preppy Pink Jungle Wallpaper - Preppy Aesthetic Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/03/preppy-pink-jungle-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-preppy-426piql0jaif0f6t.jpg' alt='100+] Iphone Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-preppy-426piql0jaif0f6t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' alt='70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper✨    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/60/2f/e4602f72d430dcd0b3c8abbf6648c46c.jpg' alt='Preppy wallpaper✨    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/60/2f/e4602f72d430dcd0b3c8abbf6648c46c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10821638.jpg' alt='Preppy 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1947">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10821638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPhone Wallpaper, Stars Wallpaper, Glitter Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35649904/r/il/829530/4005643725/il_fullxfull.4005643725_12uq.jpg' alt='Preppy iPhone Wallpaper, Stars Wallpaper, Glitter Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35649904/r/il/829530/4005643725/il_fullxfull.4005643725_12uq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

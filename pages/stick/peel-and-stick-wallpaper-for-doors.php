@@ -1,0 +1,129 @@
+<title>Revamp Your Doors with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the ease of peel and stick wallpaper for doors! Quick to apply and available in countless stylish designs, it’s the perfect way to update your decor. Ideal for bedrooms, closets, and more—just peel and stick for a fresh, modern look in minutes!">
+                    <meta name="keywords" content="peel and stick wallpaper for doors">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-for-doors">
+                            <span itemprop="name">peel and stick wallpaper for doors</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Doors with Peel and Stick Wallpaper</h1>
+                <p>Transform your doors effortlessly with peel and stick wallpaper! This innovative solution offers a quick and easy way to rejuvenate your space without the commitment of traditional wallpaper. Available in various patterns and textures, it’s perfect for adding a personal touch to bedroom doors, closet doors, or even cabinets. Simply peel, stick, and enjoy your new look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: FLFK Door Mural - Door Sticker Peel and Stick, Removable  Self-Adhesive Seaside Door Wallpaper for Home Decor, 30.3 "W x 78.7 "L, Set  of 2 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91V5j677Z3L.jpg' alt='Amazon.com: FLFK Door Mural - Door Sticker Peel and Stick, Removable  Self-Adhesive Seaside Door Wallpaper for Home Decor, 30.3 "W x 78.7 "L, Set  of 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91V5j677Z3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Door Stickers Murals Peel and Stick - Self-Adhesive Door Decals Removable  PVC Waterproof Wood Door Wallpaper for Bedroom Home Decor (MT-00073, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613bNfEm8hL._AC_UF894,1000_QL80_.jpg' alt='Door Stickers Murals Peel and Stick - Self-Adhesive Door Decals Removable  PVC Waterproof Wood Door Wallpaper for Bedroom Home Decor (MT-00073, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613bNfEm8hL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Sticker *old Metal Door With Ottoman Pattern* / Mosque ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12696032/r/il/041a1d/5284855477/il_570xN.5284855477_ro8r.jpg' alt='Wall Sticker *old Metal Door With Ottoman Pattern* / Mosque ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12696032/r/il/041a1d/5284855477/il_570xN.5284855477_ro8r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interior Door Makeover with Peel & Stick Wallpaper - Little ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnO7gN_gZwGrkW5y_w0GARJG-JD2XIBxaySw3-JDXhL30hx6UQ39qtrav1DI4RXOoPSV9ekNvrvUMofulIfMNFXi09JPfwDRAPw2oT3Mk4wMROa-1WbKq8MF35WArBoxye7ewchSqk1VbD/s1600/garage+door6.jpg' alt='Interior Door Makeover with Peel & Stick Wallpaper - Little ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Vintage Cottage" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnO7gN_gZwGrkW5y_w0GARJG-JD2XIBxaySw3-JDXhL30hx6UQ39qtrav1DI4RXOoPSV9ekNvrvUMofulIfMNFXi09JPfwDRAPw2oT3Mk4wMROa-1WbKq8MF35WArBoxye7ewchSqk1VbD/s1600/garage+door6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Door Decal, Peel and Stick, Vinyl Door Sticker, Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15023888/r/il/5dca06/1448087597/il_570xN.1448087597_dqvd.jpg' alt='Vintage Door Decal, Peel and Stick, Vinyl Door Sticker, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15023888/r/il/5dca06/1448087597/il_570xN.1448087597_dqvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 28.18 sq. ft. White Beveled Wood Paneling Peel and Stick  Wallpaper RMK12005WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f72986e5-f194-4a76-b7b6-5024d9253361/svn/roommates-wallpaper-rolls-rmk12005wp-64_600.jpg' alt='RoomMates 28.18 sq. ft. White Beveled Wood Paneling Peel and Stick  Wallpaper RMK12005WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f72986e5-f194-4a76-b7b6-5024d9253361/svn/roommates-wallpaper-rolls-rmk12005wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: FLFK Door Sticker - Door Mural Peel and Stick, Removable  Self-Adhesive Scenic Door Wallpaper for Home Decor, 30.3 "W x 78.7 "L, Set  of 2 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91fObuzCHbL.jpg' alt='Amazon.com: FLFK Door Sticker - Door Mural Peel and Stick, Removable  Self-Adhesive Scenic Door Wallpaper for Home Decor, 30.3 "W x 78.7 "L, Set  of 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91fObuzCHbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Hang Peel & Stick Wallpaper | Young House Love">
+                                <img itemprop="contentUrl url" src='https://www.younghouselove.com/wp-content/uploads/2019/01/DIY-Wallpaper-Mural-Whales-Sherry-Smoothing-968x1024.jpg' alt='How To Hang Peel & Stick Wallpaper | Young House Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Young House Love" />
+                                </span>
+                                <a href='https://www.younghouselove.com/wp-content/uploads/2019/01/DIY-Wallpaper-Mural-Whales-Sherry-Smoothing-968x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Delicate Branches Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW39000">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ce8c72aa-c91a-408c-9973-fffb869688b2/svn/nextwall-wallpaper-rolls-nw39000-1f_600.jpg' alt='NextWall Delicate Branches Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW39000'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ce8c72aa-c91a-408c-9973-fffb869688b2/svn/nextwall-wallpaper-rolls-nw39000-1f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Renter-Friendly Closet Door Makeover with Wallpaper | Club Crafted">
+                                <img itemprop="contentUrl url" src='https://www.clubcrafted.com/wp-content/uploads/2019/07/closet-door-makeover-wallpaper-bedroom-7.jpg' alt='DIY Renter-Friendly Closet Door Makeover with Wallpaper | Club Crafted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Club Crafted" />
+                                </span>
+                                <a href='https://www.clubcrafted.com/wp-content/uploads/2019/07/closet-door-makeover-wallpaper-bedroom-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

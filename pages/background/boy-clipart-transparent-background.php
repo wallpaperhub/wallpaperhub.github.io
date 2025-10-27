@@ -1,0 +1,129 @@
+<title>Transparent Boy Clipart – Fun & Versatile Designs</title>
+                    <meta name="description" content="Discover a collection of transparent background boy clipart perfect for all your creative projects. Ideal for teachers, students, and graphic designers, these images seamlessly blend into any design, adding a fun touch to presentations and crafts. Explore our diverse selection today!">
+                    <meta name="keywords" content="boy clipart transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boy-clipart-transparent-background">
+                            <span itemprop="name">boy clipart transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Boy Clipart – Fun & Versatile Designs</h1>
+                <p>Boy clipart with a transparent background is a versatile resource for designers, educators, and parents. These images allow for easy integration into various projects, such as school assignments, presentations, and digital crafts. The clear background ensures seamless blending with any color or design, enhancing creativity and visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220520/ourmid/pngtree-cartoon-happy-school-boy-waving-hand-png-image_4691658.png' alt='Boy PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220520/ourmid/pngtree-cartoon-happy-school-boy-waving-hand-png-image_4691658.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190921/original/pngtree-little-boy-in-the-sunshine-png-image_4692913.jpg' alt='Boy Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190921/original/pngtree-little-boy-in-the-sunshine-png-image_4692913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Boy Clipart And Cliparts For Free Transparent - Thinking ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/b8/19/dbb8198fe201f63ba07ed04bd475ac7a.jpg' alt='Thinking Boy Clipart And Cliparts For Free Transparent - Thinking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/b8/19/dbb8198fe201f63ba07ed04bd475ac7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little boy stand holding their hands up and smiling 36182954 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/036/182/954/non_2x/little-boy-stand-holding-their-hands-up-and-smiling-free-png.png' alt='Little boy stand holding their hands up and smiling 36182954 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/036/182/954/non_2x/little-boy-stand-holding-their-hands-up-and-smiling-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PNG Little boy clipart, transparent | Free PNG - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL2pvYjk1Ny0yMDdfMS5wbmc.png' alt='PNG Little boy clipart, transparent | Free PNG - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL2pvYjk1Ny0yMDdfMS5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smile Boy Clipart Transparent Background, Smiling Boy, Boy Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3a/2c/74/3a2c7419810a64807d6006b1e9662514.jpg' alt='Smile Boy Clipart Transparent Background, Smiling Boy, Boy Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3a/2c/74/3a2c7419810a64807d6006b1e9662514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20200609/ourmid/pngtree-little-boy-say-hello-image_2226171.jpg' alt='Boy Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20200609/ourmid/pngtree-little-boy-say-hello-image_2226171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy cartoon on transparent background | Premium AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/boy-cartoon-transparent-background_1195761-71686.jpg' alt='Boy cartoon on transparent background | Premium AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/boy-cartoon-transparent-background_1195761-71686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Boy Waving Hand On Transparent Background Illustration ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/blueringmedia/blueringmedia1705/blueringmedia170500794/78780439-cute-boy-waving-hand-on-transparent-background-illustration.jpg' alt='Cute Boy Waving Hand On Transparent Background Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/blueringmedia/blueringmedia1705/blueringmedia170500794/78780439-cute-boy-waving-hand-on-transparent-background-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Boy Clipart Transparent, Download Free Boy Clipart ...">
+                                <img itemprop="contentUrl url" src='https://clipart-library.com/img1/1636572.png' alt='Free Boy Clipart Transparent, Download Free Boy Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2614">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clipart Library" />
+                                </span>
+                                <a href='https://clipart-library.com/img1/1636572.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

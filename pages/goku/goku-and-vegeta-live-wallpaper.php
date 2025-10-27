@@ -1,0 +1,129 @@
+<title>Epic Goku and Vegeta Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the ultimate Goku and Vegeta live wallpapers that bring your favorite Dragon Ball moments to your screen. Perfect for fans seeking dynamic visuals, our wallpapers are designed to enhance your mobile experience. Download now and transform your device into a world of Saiyan power!">
+                    <meta name="keywords" content="goku and vegeta live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-and-vegeta-live-wallpaper">
+                            <span itemprop="name">goku and vegeta live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku and Vegeta Live Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Goku and Vegeta live wallpapers! Bring the vibrant world of Dragon Ball to life with dynamic backgrounds featuring epic battles and iconic scenes. Perfect for fans of the series, these wallpapers are customizable and will make your smartphone or tablet stand out. Experience the Saiyan energy today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Anime Goku and-Vegeta Dragon-Ball Super Saiyan Live Wallpaper |  Streamable">
+                                <img itemprop="contentUrl url" src='https://cdn-cf-east.streamable.com/image/8g2y65.jpg' alt='Watch Anime Goku and-Vegeta Dragon-Ball Super Saiyan Live Wallpaper |  Streamable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamable" />
+                                </span>
+                                <a href='https://cdn-cf-east.streamable.com/image/8g2y65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Duo Goku and Vegeta Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/787/dynamic-duo-goku-and-vegeta.jpg' alt='Dynamic Duo Goku and Vegeta Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/787/dynamic-duo-goku-and-vegeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Vegeta Live Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7366041582648282374&location=0&aid=1988' alt='Goku and Vegeta Live Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7366041582648282374&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Vegeta Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/382/goku-and-vegeta-battle-dragon-ball.jpg' alt='20+ Vegeta Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/382/goku-and-vegeta-battle-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is not the end of all hope Goku and vegeta #anime #livewallpaper  #videowallpaper #song #music #samsungwallpaper #iphonewallpaper #foryoupage  #fypシ ##boys #guys #wallpapers #fyp #foryourpage ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7169787528499956994&location=0&aid=1988' alt='This is not the end of all hope Goku and vegeta #anime #livewallpaper  #videowallpaper #song #music #samsungwallpaper #iphonewallpaper #foryoupage  #fypシ ##boys #guys #wallpapers #fyp #foryourpage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7169787528499956994&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegeta and Goku Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Anime/THUMB-Vegeta-and-Goku.jpg' alt='Vegeta and Goku Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Anime/THUMB-Vegeta-and-Goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku And Vegeta DBZ 4K Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-and-vegeta-dbz-4k-a0zbbalckinety64.jpg' alt='Download Goku And Vegeta DBZ 4K Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-and-vegeta-dbz-4k-a0zbbalckinety64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Vegeta (Dragon Ball Super)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iIV_DO7Zgd0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgQChyMA8=&rs=AOn4CLAaRYBdzI1bhLt3ZnF89m1TqRXwsQ' alt='Live Wallpaper 4K Vegeta (Dragon Ball Super)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iIV_DO7Zgd0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgQChyMA8=&rs=AOn4CLAaRYBdzI1bhLt3ZnF89m1TqRXwsQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goku #vegeta #dbs #livewallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7223812635538492673&location=0&aid=1988' alt='goku #vegeta #dbs #livewallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7223812635538492673&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Goku & Vegeta ideas | goku and vegeta, goku, dragon ball z">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/82/2b/bd/822bbd55ef9e26df610debb561dff565.jpg' alt='160 Goku & Vegeta ideas | goku and vegeta, goku, dragon ball z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/82/2b/bd/822bbd55ef9e26df610debb561dff565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

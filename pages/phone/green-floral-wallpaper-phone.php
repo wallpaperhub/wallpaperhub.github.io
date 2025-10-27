@@ -1,0 +1,129 @@
+<title>Revamp Your Phone with Green Floral Wallpaper</title>
+                    <meta name="description" content="Discover stunning green floral wallpaper for your phone that combines elegance and nature. Elevate your device's look with unique floral patterns, bringing a refreshing vibe to your daily routine. Perfect for anyone wanting to express their personality through their mobile display!">
+                    <meta name="keywords" content="green floral wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/green-floral-wallpaper-phone">
+                            <span itemprop="name">green floral wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Phone with Green Floral Wallpaper</h1>
+                <p>Transform your phone's appearance with green floral wallpaper, perfect for nature lovers! This refreshing design adds a touch of elegance and tranquility to your device. Choose from various floral patterns to suit your style, making your phone a unique accessory. Embrace the beauty of nature wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Classic Minimalist Floral Wallpaper R9303">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' alt='Green Classic Minimalist Floral Wallpaper R9303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/51/ce/bc/51cebcac7e967f33d86552bff2dea1d9.jpg' alt='Sage green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/51/ce/bc/51cebcac7e967f33d86552bff2dea1d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers iPhone Android Single Wallpaper | Instant Digital Download |  Lockscreen Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17658636/r/il/811fdb/5981526193/il_570xN.5981526193_4ysn.jpg' alt='Green Flowers iPhone Android Single Wallpaper | Instant Digital Download |  Lockscreen Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17658636/r/il/811fdb/5981526193/il_570xN.5981526193_4ysn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a0/99/bd/a099bdf743e8111993b688d6865d539e.jpg' alt='Floral Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a0/99/bd/a099bdf743e8111993b688d6865d539e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/ea/9e/98ea9e0a2f8cd446f60b6e13713dfa15.jpg' alt='Green Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/ea/9e/98ea9e0a2f8cd446f60b6e13713dfa15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Floral Peel and Stick Wallpaper Leaf Contact Paper Self Adhesive  Wallpaper Colorful Flower Contact Paper DIY Removable Wallpaper for Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MOkgcBPbL.jpg' alt='Guvana Floral Peel and Stick Wallpaper Leaf Contact Paper Self Adhesive  Wallpaper Colorful Flower Contact Paper DIY Removable Wallpaper for Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1879">
+                                <meta itemprop="height" content="1959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MOkgcBPbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Floral Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-floral-1080-x-1920-background-fj0gtu0xqnjw1a26.jpg' alt='100+] Green Floral Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-floral-1080-x-1920-background-fj0gtu0xqnjw1a26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 11 - Free and customizable sage green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFNg1K4c3U/1/0/900w/canva-green-floral-phone-wallpaper-lDwLsKp6Spk.jpg' alt='Page 11 - Free and customizable sage green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFNg1K4c3U/1/0/900w/canva-green-floral-phone-wallpaper-lDwLsKp6Spk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic phone wallpaper with flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/83/00/b7830020278c44cf97bfc00c61d08b53.jpg' alt='Aesthetic phone wallpaper with flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/83/00/b7830020278c44cf97bfc00c61d08b53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Green iPhone Wallpaper, Aesthetic Floral Phone Background, 14 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/f401d3/4086117442/il_570xN.4086117442_apj4.jpg' alt='Boho Green iPhone Wallpaper, Aesthetic Floral Phone Background, 14 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/f401d3/4086117442/il_570xN.4086117442_apj4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

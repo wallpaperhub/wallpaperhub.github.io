@@ -1,0 +1,129 @@
+<title>Elegant Metallic White Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Transform your interiors with stunning metallic white wallpaper. Ideal for brightening rooms and adding a modern touch, this wallpaper is easy to apply and maintain, offering both style and elegance. Perfect for any living space or office, it creates an uplifting atmosphere. Explore our collection now!">
+                    <meta name="keywords" content="metallic white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/metallic-white-wallpaper">
+                            <span itemprop="name">metallic white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Metallic White Wallpaper for Modern Spaces</h1>
+                <p>Metallic white wallpaper adds a touch of elegance and sophistication to any room. Its shimmering surface reflects light, creating an illusion of spaciousness and brightness. Perfect for modern and minimalist designs, this wallpaper complements various decor styles. Easy to apply and maintain, it enhances the aesthetic without overwhelming the space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z21114 Contemporary Wallpaper off white metallic faux silk fabric Plain  textured">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/ContemporaryoffwhitefauxsilkfabricimitationTexturedplainwallpaperrolls5.jpg?v=1657318617' alt='Z21114 Contemporary Wallpaper off white metallic faux silk fabric Plain  textured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/ContemporaryoffwhitefauxsilkfabricimitationTexturedplainwallpaperrolls5.jpg?v=1657318617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/gray-background-with-white-stripe-wallpaper_53876-125203.jpg?semt=ais_hybrid' alt='Metallic White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/gray-background-with-white-stripe-wallpaper_53876-125203.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic White Background Images – Browse 1,527,124 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/97/62/13/360_F_297621399_dkFHk9oky7m4FOd6KIwNZ2hOTRGk9FTd.jpg' alt='Metallic White Background Images – Browse 1,527,124 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/97/62/13/360_F_297621399_dkFHk9oky7m4FOd6KIwNZ2hOTRGk9FTd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Metallic Oil & Water Marble Swirl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-metallic-oil-water-marble-swirl-w-tidi.jpg' alt='White Metallic Oil & Water Marble Swirl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-metallic-oil-water-marble-swirl-w-tidi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic White Background Images – Browse 1,527,124 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/99/00/24/360_F_299002406_bulFmGacaGRp0BvzRAVdD9hDgCtNUgOv.jpg' alt='Metallic White Background Images – Browse 1,527,124 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/99/00/24/360_F_299002406_bulFmGacaGRp0BvzRAVdD9hDgCtNUgOv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wallpaper Gold White Wallpaper Modern Wallpaper Metallic Wallpaper  (Cream, Gold, Silver)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61nPWb2wf7L._AC_UF894,1000_QL80_.jpg' alt='White Wallpaper Gold White Wallpaper Modern Wallpaper Metallic Wallpaper  (Cream, Gold, Silver)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61nPWb2wf7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ILW6500-Manhattan-Modern_-White-_-Silver_Thumbnail_WEB_d9251308-d375-4d5d-9f25-7d4f1d785231.webp?v=1706005683&width=1024' alt='Manhattan Modern Wallpaper in White – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ILW6500-Manhattan-Modern_-White-_-Silver_Thumbnail_WEB_d9251308-d375-4d5d-9f25-7d4f1d785231.webp?v=1706005683&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: white light, rays, background, texture, backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/6a/34/b26a340085643fb882952f422ae0ff5a.jpg' alt='HD wallpaper: white light, rays, background, texture, backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/6a/34/b26a340085643fb882952f422ae0ff5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White & Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1_ManhattanModern_White_Gold_ILW6505_0314_WEB_669a2d65-b1ab-4088-9790-a5acd77b58b1.jpg?crop=center&height=425&v=1704982500&width=425' alt='Manhattan Modern Wallpaper in White & Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1_ManhattanModern_White_Gold_ILW6505_0314_WEB_669a2d65-b1ab-4088-9790-a5acd77b58b1.jpg?crop=center&height=425&v=1704982500&width=425' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/metallic-textured-background_53876-89542.jpg' alt='Metallic White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/metallic-textured-background_53876-89542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

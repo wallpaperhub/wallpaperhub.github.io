@@ -1,0 +1,129 @@
+<title>Eye-Catching Campaign Poster Ideas for Impactful Messaging</title>
+                    <meta name="description" content="Discover the essentials of creating an effective campaign poster. From design tips to messaging strategies, learn how to engage your audience and inspire action with bold visuals and concise text. Perfect for elections or social initiatives, our guide helps you make a memorable impact!">
+                    <meta name="keywords" content="campaign poster">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/campaign-poster">
+                            <span itemprop="name">campaign poster</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Campaign Poster Ideas for Impactful Messaging</h1>
+                <p>A campaign poster is a powerful tool for conveying your message and rallying support. It should be visually engaging, with bold graphics and clear text to capture attention quickly. Incorporate a strong call to action, use eye-catching colors, and include essential information about your campaign. Whether for elections or social causes, an effective poster inspires action by leaving a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vote for your favorite Strong Public Schools 2020 campaign poster ...">
+                                <img itemprop="contentUrl url" src='https://www.cta.org/wp-content/uploads/caled/2019/06/Diane-Dove.png' alt='Vote for your favorite Strong Public Schools 2020 campaign poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Teachers Association" />
+                                </span>
+                                <a href='https://www.cta.org/wp-content/uploads/caled/2019/06/Diane-Dove.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable election poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF_Jpl8FIw/1/0/1131w/canva-blue-political-election-poster-Hk5FduNNP30.jpg' alt='Free printable, customizable election poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF_Jpl8FIw/1/0/1131w/canva-blue-political-election-poster-Hk5FduNNP30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Pop Culture Graphics Barack Obama FAIREY (Hope) Rare Campaign  Poster 11 x 17: Prints: Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51qlGgAh-LL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Pop Culture Graphics Barack Obama FAIREY (Hope) Rare Campaign  Poster 11 x 17: Prints: Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51qlGgAh-LL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable election poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFe_bQNWcI/1/0/1131w/canva-blue-and-red-political-election-poster-89-De1ltO3I.jpg' alt='Free printable, customizable election poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFe_bQNWcI/1/0/1131w/canva-blue-and-red-political-election-poster-89-De1ltO3I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Time For Greatness” 1960 Kennedy campaign poster | The Sixth ...">
+                                <img itemprop="contentUrl url" src='https://emuseum.jfk.org/internal/media/dispatcher/51587' alt='A Time For Greatness” 1960 Kennedy campaign poster | The Sixth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sixth Floor Museum" />
+                                </span>
+                                <a href='https://emuseum.jfk.org/internal/media/dispatcher/51587' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocasio-Cortez scored a victory — for well-designed campaign ...">
+                                <img itemprop="contentUrl url" src='http://www.washingtonpost.com/rf/image_960w/2010-2019/WashingtonPost/2018/01/23/Obituaries/Images/AFP_XL95U.jpg' alt='Ocasio-Cortez scored a victory — for well-designed campaign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='http://www.washingtonpost.com/rf/image_960w/2010-2019/WashingtonPost/2018/01/23/Obituaries/Images/AFP_XL95U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make creative student council posters | Adobe">
+                                <img itemprop="contentUrl url" src='https://www.adobe.com/creativecloud/buy/students/use-cases/media_146d927a54e754f7f9b837eb7b297ad294e09d094.png?width=1200&format=pjpg&optimize=medium' alt='How to make creative student council posters | Adobe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://www.adobe.com/creativecloud/buy/students/use-cases/media_146d927a54e754f7f9b837eb7b297ad294e09d094.png?width=1200&format=pjpg&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ORIGINAL CAMPAIGN POSTER by John F. Kennedy">
+                                <img itemprop="contentUrl url" src='https://secondstorybooks.cdn.bibliopolis.com/pictures/1369512.jpg?auto=webp&v=1697904404' alt='ORIGINAL CAMPAIGN POSTER by John F. Kennedy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1318">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Second Story Books" />
+                                </span>
+                                <a href='https://secondstorybooks.cdn.bibliopolis.com/pictures/1369512.jpg?auto=webp&v=1697904404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The power of the poster - POLITICO">
+                                <img itemprop="contentUrl url" src='https://www.politico.com/dims4/default/73bef6f/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2012%2F05%2Fbryan_605.jpg' alt='The power of the poster - POLITICO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://www.politico.com/dims4/default/73bef6f/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2012%2F05%2Fbryan_605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Presidential Campaign Posters: Two Hundred Years of Election Art">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71UityJYQLL._AC_UF1000,1000_QL80_.jpg' alt='Presidential Campaign Posters: Two Hundred Years of Election Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71UityJYQLL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

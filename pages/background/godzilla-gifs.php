@@ -1,0 +1,129 @@
+<title>Epic Godzilla Gifs for Fans and Memes</title>
+                    <meta name="description" content="Discover the best Godzilla gifs showcasing the legendary monster's epic moments! Perfect for sharing, expressing emotions, or adding a touch of kaiju flair to your conversations. Explore our collection and unleash the power of Godzilla in your chats today!">
+                    <meta name="keywords" content="godzilla gifs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/godzilla-gifs">
+                            <span itemprop="name">godzilla gifs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Godzilla Gifs for Fans and Memes</h1>
+                <p>Godzilla gifs capture the raw power and majesty of the iconic monster. From his earth-shaking roars to dramatic battles with other kaiju, these animated images bring to life the thrilling moments from the films. Perfect for fans and meme lovers alike, Godzilla gifs are a fun way to express excitement or unleash some monster-sized humor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some GxK Godzilla GIFs! : r/GODZILLA">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0qof9shjh64c1.gif' alt='Some GxK Godzilla GIFs! : r/GODZILLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0qof9shjh64c1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing Godzilla GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/yySlJgLRqRruU/giphy.gif?cid=6c09b9521y1y2k4e5r2xfvxao86vv2ym25qghe315ietbtd1&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Dancing Godzilla GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/yySlJgLRqRruU/giphy.gif?cid=6c09b9521y1y2k4e5r2xfvxao86vv2ym25qghe315ietbtd1&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Kong GIF by Warner Bros. Pictures - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/oagcrAZu2IvV0ijkiX/giphy.gif?cid=6c09b9520cgj90inu6gb2cnub3peho7v2vcmvfzrgsaj8kvu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Godzilla Kong GIF by Warner Bros. Pictures - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/oagcrAZu2IvV0ijkiX/giphy.gif?cid=6c09b9520cgj90inu6gb2cnub3peho7v2vcmvfzrgsaj8kvu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/01/icegif-1631.gif' alt='Godzilla Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/01/icegif-1631.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Roar GIF by Apple TV - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/O5Gxgtx0g7fHfec8Ft/giphy.gif?cid=6c09b952qkqpjnxky53ssl95p9p2fnhdmp1n9e2vi3wigy6i&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Godzilla Roar GIF by Apple TV - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/O5Gxgtx0g7fHfec8Ft/giphy.gif?cid=6c09b952qkqpjnxky53ssl95p9p2fnhdmp1n9e2vi3wigy6i&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/rVum1INDyboAAAAM/godzilla-dance.gif' alt='Godzilla GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/rVum1INDyboAAAAM/godzilla-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla 2014 gif - David Galletly: Art, Illustration & Design">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5092652be4b0979eac797709/1396437449362-T90ZDOXAW42PC57H4DHR/godzilla-2014-sharp.gif' alt='Godzilla 2014 gif - David Galletly: Art, Illustration & Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="689">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Galletly" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5092652be4b0979eac797709/1396437449362-T90ZDOXAW42PC57H4DHR/godzilla-2014-sharp.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/nPPXZ0-cABQAAAAM/no-nope.gif' alt='Godzilla GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/nPPXZ0-cABQAAAAM/no-nope.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Kong Godzilla GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/ERPNIW2LO4hJyRBk5S/giphy.gif?cid=6c09b952efohbr59j9wbh90weq7pto6odp297q86w57kg75y&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='King Kong Godzilla GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/ERPNIW2LO4hJyRBk5S/giphy.gif?cid=6c09b952efohbr59j9wbh90weq7pto6odp297q86w57kg75y&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla Fight GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/LH7QWqFeBndZVnEmLn/200w.gif?cid=6c09b952d92g9lkgigcsoqavb4u0gc3u08z9gixcd8v8uexu&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Godzilla Fight GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/LH7QWqFeBndZVnEmLn/200w.gif?cid=6c09b952d92g9lkgigcsoqavb4u0gc3u08z9gixcd8v8uexu&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

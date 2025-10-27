@@ -1,0 +1,129 @@
+<title>Who Are Lil Mabu's Parents? Discover His Family Background!</title>
+                    <meta name="description" content="Explore the intriguing family background of Lil Mabu and learn about the influence of his parents on his music career. Dive into how his upbringing shapes his artistry and resonates with fans globally.">
+                    <meta name="keywords" content="lil mabu parents">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lil-mabu-parents">
+                            <span itemprop="name">lil mabu parents</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Are Lil Mabu's Parents? Discover His Family Background!</h1>
+                <p>Lil Mabu, a rising star in the music industry, often shares snippets of his life, including tributes to his parents. While specific details about them remain relatively private, it’s clear that their support has influenced his journey as an artist. Mabu’s ability to balance family values with musical ambition resonates with fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="“KING OF THE WORLD” OUT NOW      ‼️LINK IN BIO !! IG: @lilmabu | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7000900315776093445&location=0&aid=1988' alt='“KING OF THE WORLD” OUT NOW      ‼️LINK IN BIO !! IG: @lilmabu | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7000900315776093445&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Mabu Family: Parents, Siblings, and Heartfelt Story">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7233183665482698026&location=0&aid=1988' alt='Lil Mabu Family: Parents, Siblings, and Heartfelt Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7233183665482698026&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We welcomed our son home @mabu   | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7246197551194754350&location=0&aid=1988' alt='We welcomed our son home @mabu   | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7246197551194754350&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dad Reacts Lil Mabu - TRIP TO THE HOOD (Official Music Video) @LilMabu">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wfmeLGVixOk/maxresdefault.jpg' alt='Dad Reacts Lil Mabu - TRIP TO THE HOOD (Official Music Video) @LilMabu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wfmeLGVixOk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Deep Dive into the World of Lil Mabu | Xposure Music">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/62bb019874b165b322507593/64b584a9ff34f5c8e2404a11_Mabu.webp' alt='A Deep Dive into the World of Lil Mabu | Xposure Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xposure Music Blog" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/62bb019874b165b322507593/64b584a9ff34f5c8e2404a11_Mabu.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#fyp #drill #trend #foryoupage #trending #viralvideo #foryou #fyp #fyps  #viral #lilmabu #drill #nyc #privateschool #nycdrill">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7196361472069373189&location=0&aid=1988' alt='#fyp #drill #trend #foryoupage #trending #viralvideo #foryou #fyp #fyps  #viral #lilmabu #drill #nyc #privateschool #nycdrill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7196361472069373189&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIL MABU GIVES FATHER A STROKE     **SERIOUS**">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YAC5FIGswcg/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AHOBYACgAqKAgwIABABGGUgWChLMA8=&rs=AOn4CLD-sbssvakA9pKXDGqF4iJt4q_dbw' alt='LIL MABU GIVES FATHER A STROKE     **SERIOUS**'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YAC5FIGswcg/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AHOBYACgAqKAgwIABABGGUgWChLMA8=&rs=AOn4CLD-sbssvakA9pKXDGqF4iJt4q_dbw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lil mabu on X: "my father is a lawyer. let's not play that game ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1714077287727943681/u_p47fYA_400x400.jpg' alt='lil mabu on X: "my father is a lawyer. let's not play that game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="399">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1714077287727943681/u_p47fYA_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interacting with Parents in a Funny Way                POPS VALID⁉️">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7000571160073145605&location=0&aid=1988' alt='Interacting with Parents in a Funny Way                POPS VALID⁉️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7000571160073145605&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream i'm done by Lil Mabu | Listen online for free on SoundCloud">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-BTRiWKhdLiQjhOBV-syxWyQ-t500x500.jpg' alt='Stream i'm done by Lil Mabu | Listen online for free on SoundCloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-BTRiWKhdLiQjhOBV-syxWyQ-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Fascinating World of Pizza Tower</title>
+                    <meta name="description" content="Dive into Pizza Tower, an exciting platformer that fuses classic arcade gameplay with modern twists! Explore vibrant levels, tackle quirky challenges, and enjoy a nostalgic journey packed with pizza-themed adventures. Join the fun and experience the thrill of Pizza Tower today!">
+                    <meta name="keywords" content="pizza tower background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pizza-tower-background">
+                            <span itemprop="name">pizza tower background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating World of Pizza Tower</h1>
+                <p>Pizza Tower, a creative platformer game, takes inspiration from classic arcade styles with its vibrant visuals and fast-paced gameplay. Players navigate through various levels featuring a unique pizza-loving character. The game combines thrilling challenges, quirky enemies, and nostalgic references, making it a delightful experience for both old and new gamers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower (Location) | Pizza Tower Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pizzatower/images/f/fd/Spr_towerintro_0.gif/revision/latest?cb=20230418153207' alt='Pizza Tower (Location) | Pizza Tower Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pizza Tower Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pizzatower/images/f/fd/Spr_towerintro_0.gif/revision/latest?cb=20230418153207' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a custom Pizza Tower background for no reason. : r/PizzaTower">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-custom-pizza-tower-background-for-no-reason-v0-qxj53oxm6pmc1.png?width=960&format=png&auto=webp&s=83ec8c3d00b978322bccf14889559ee68d122e4d' alt='Made a custom Pizza Tower background for no reason. : r/PizzaTower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-custom-pizza-tower-background-for-no-reason-v0-qxj53oxm6pmc1.png?width=960&format=png&auto=webp&s=83ec8c3d00b978322bccf14889559ee68d122e4d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="need level backgrounds | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dc67ec96-ec04-45c2-b701-bf4cc43680c4' alt='need level backgrounds | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pizza Tower Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dc67ec96-ec04-45c2-b701-bf4cc43680c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gridline">
+                                <img itemprop="contentUrl url" src='https://gridlineproductions.com/content/reviews/pizzatower/pizzatower-01.jpg' alt='Gridline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gridline" />
+                                </span>
+                                <a href='https://gridlineproductions.com/content/reviews/pizzatower/pizzatower-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a custom Pizza Tower background for no reason. : r/PizzaTower">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/made-a-custom-pizza-tower-background-for-no-reason-v0-xq91ffen6pmc1.png?width=960&format=png&auto=webp&s=c09ddb8a28d6a5c1fa7716fac9bf401cdd50951c' alt='Made a custom Pizza Tower background for no reason. : r/PizzaTower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/made-a-custom-pizza-tower-background-for-no-reason-v0-xq91ffen6pmc1.png?width=960&format=png&auto=webp&s=c09ddb8a28d6a5c1fa7716fac9bf401cdd50951c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PC / Computer - Pizza Tower - Pizzascape Backgrounds - The ...">
+                                <img itemprop="contentUrl url" src='https://www.spriters-resource.com/resources/sheets/122/125314.png?updated=1678562660' alt='PC / Computer - Pizza Tower - Pizzascape Backgrounds - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1926">
+                                <meta itemprop="height" content="4752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spriters Resource" />
+                                </span>
+                                <a href='https://www.spriters-resource.com/resources/sheets/122/125314.png?updated=1678562660' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::The crumbling tower of pizza">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2047501019608757774/AD04A47A39633C3826D371F51F41172AF49FCD4F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::The crumbling tower of pizza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2047501019608757774/AD04A47A39633C3826D371F51F41172AF49FCD4F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Pizza Tower's unique gameplay never gets stale | Life + ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/theshorthorn.com/content/tncms/assets/v3/editorial/9/72/972787a0-d270-11ed-b7fb-038adacff0cb/642b56295138a.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize' alt='Review: Pizza Tower's unique gameplay never gets stale | Life + ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Shorthorn" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/theshorthorn.com/content/tncms/assets/v3/editorial/9/72/972787a0-d270-11ed-b7fb-038adacff0cb/642b56295138a.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PanicTime [Pizza Tower] [Mods]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/mods/6409cc33289b0.jpg' alt='PanicTime [Pizza Tower] [Mods]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/mods/6409cc33289b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza tower background - itch.io">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzE3MTg1MDc3LnBuZw==/original/%2BCwTud.png' alt='Pizza tower background - itch.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzE3MTg1MDc3LnBuZw==/original/%2BCwTud.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

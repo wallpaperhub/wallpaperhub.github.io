@@ -1,0 +1,129 @@
+<title>"World Series: The Ultimate MLB Championship Showdown"</title>
+                    <meta name="description" content="Discover the excitement of the World Series, Major League Baseball's championship event! Explore its rich history, iconic moments, and the top teams battling for glory in this thrilling annual showdown. Stay updated with score highlights and player stats as the chase for the title unfolds!">
+                    <meta name="keywords" content="world series">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/world-series">
+                            <span itemprop="name">world series</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"World Series: The Ultimate MLB Championship Showdown"</h1>
+                <p>The World Series is the championship series of Major League Baseball, captivating fans since 1903. This annual event showcases the top teams from the American and National Leagues, culminating in a best-of-seven playoff format. With a rich history, unforgettable moments, and iconic players, it remains a staple of American sports culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Series | History, Winners, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/84/236884-050-BD4D5672/Commissioners-trophy-world-series-major-league-baseball.jpg' alt='World Series | History, Winners, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/84/236884-050-BD4D5672/Commissioners-trophy-world-series-major-league-baseball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What we learned from the 2024 World Series - The Athletic">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/athletic/uploads/wp/2024/10/31090236/GettyImages-2182029410-scaled.jpg?width=1200&height=630&fit=cover' alt='What we learned from the 2024 World Series - The Athletic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/athletic/uploads/wp/2024/10/31090236/GettyImages-2182029410-scaled.jpg?width=1200&height=630&fit=cover' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Series - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5c/World_Series_Trophy_%2848262268286%29.jpg' alt='World Series - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4024">
+                                <meta itemprop="height" content="6048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5c/World_Series_Trophy_%2848262268286%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: The 2024 World Series | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/ap24305142730420.jpg?q=w_3000,c_fill' alt='Photos: The 2024 World Series | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/ap24305142730420.jpg?q=w_3000,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the World Series Logo | The Official Indiana High ...">
+                                <img itemprop="contentUrl url" src='https://ihsbca.org/wp-content/uploads/2024/10/ws.webp' alt='History of the World Series Logo | The Official Indiana High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana High School Baseball Coaches Association" />
+                                </span>
+                                <a href='https://ihsbca.org/wp-content/uploads/2024/10/ws.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Series Ratings: Big Yankees-Dodgers Showdown Means Big ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2024/10/World-Series-2024.jpg?w=681&h=383&crop=1' alt='World Series Ratings: Big Yankees-Dodgers Showdown Means Big ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2024/10/World-Series-2024.jpg?w=681&h=383&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Series | History, Winners, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/83/192483-050-54F0EEF7/Chicago-Cubs-game-7-World-Series-win-2016.jpg' alt='World Series | History, Winners, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/83/192483-050-54F0EEF7/Chicago-Cubs-game-7-World-Series-win-2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Key takeaways for each potential World Series winner">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zjbkpud5tnppuewedmwf.jpg' alt='Key takeaways for each potential World Series winner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zjbkpud5tnppuewedmwf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the World Series Logo | The Official Indiana High ...">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2024/10/MLB-World-Series-Logo-history.png' alt='History of the World Series Logo | The Official Indiana High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana High School Baseball Coaches Association" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2024/10/MLB-World-Series-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 World Series (TV Series 2022) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMDA5MGM5NDYtODNjMi00YjYwLThjNjYtN2Q5YWY0YTc3YTMyXkEyXkFqcGc@._V1_.jpg' alt='2022 World Series (TV Series 2022) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMDA5MGM5NDYtODNjMi00YjYwLThjNjYtN2Q5YWY0YTc3YTMyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

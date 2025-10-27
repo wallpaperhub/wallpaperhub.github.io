@@ -1,0 +1,129 @@
+<title>Modern Black & Gray Peel and Stick Wallpaper for Easy Makeovers</title>
+                    <meta name="description" content="Discover chic black and gray peel and stick wallpaper for quick, stylish updates. Perfect for renters, it’s easy to apply and remove, giving you a fresh look without commitment. Elevate your home decor today with this versatile wallpaper solution!">
+                    <meta name="keywords" content="black and gray peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/black-and-gray-peel-and-stick-wallpaper">
+                            <span itemprop="name">black and gray peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Modern Black & Gray Peel and Stick Wallpaper for Easy Makeovers</h1>
+                <p>Transform your space effortlessly with black and gray peel and stick wallpaper. Designed for easy application and removal, it adds a sleek, modern touch to any room. Ideal for renters or anyone seeking a stylish update, this wallpaper offers durability and versatility, bringing a chic aesthetic without the hassle of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Black Gray  Brick Pattern, Nursery, Wall Room Decor • Realistic Brick Wall (24"W x 84"H  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A15EKI21ylL._AC_UF894,1000_QL80_.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Black Gray  Brick Pattern, Nursery, Wall Room Decor • Realistic Brick Wall (24"W x 84"H  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A15EKI21ylL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Bird Garden Black Wallpaper | OnlineFabricStore">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/AS20400_1.jpg?quality=100' alt='NextWall Peel & Stick Bird Garden Black Wallpaper | OnlineFabricStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/AS20400_1.jpg?quality=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Black, White & Grey Wallpaper | Shop Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_ink-splat_main-view.jpg' alt='The Best Black, White & Grey Wallpaper | Shop Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_ink-splat_main-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-adhesive Wall Mural, Black ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/3ba3bc/4580562825/il_570xN.4580562825_lfxz.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-adhesive Wall Mural, Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/3ba3bc/4580562825/il_570xN.4580562825_lfxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth Peel & Stick Wallpaper - Dark Gray">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RMK11313WP-York-Peel-and-Stick-Grasscloth-Wallpaper-dark-gray.jpg?v=1579903874' alt='Faux Grasscloth Peel & Stick Wallpaper - Dark Gray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RMK11313WP-York-Peel-and-Stick-Grasscloth-Wallpaper-dark-gray.jpg?v=1579903874' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Geometric Dark Grey Contact Paper Hexagon Gold  Self Adhesive Removable Wallpaper 20.8 in X 9.8ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71jKR7rP5CS._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Geometric Dark Grey Contact Paper Hexagon Gold  Self Adhesive Removable Wallpaper 20.8 in X 9.8ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71jKR7rP5CS._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Dark Gray Vintage Wallpapers Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29039722/r/il/ab80a4/3815183842/il_570xN.3815183842_3srx.jpg' alt='Peel and Stick Wallpaper Dark Gray Vintage Wallpapers Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29039722/r/il/ab80a4/3815183842/il_570xN.3815183842_3srx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Mesh Peel and Stick Removable Wallpaper 7225">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Mesh_Grey_Peel_and_Stick_Removable_Wallpaper_Geometric_54187225_05_grande.jpg?v=1642620404' alt='Grey Mesh Peel and Stick Removable Wallpaper 7225'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Mesh_Grey_Peel_and_Stick_Removable_Wallpaper_Geometric_54187225_05_grande.jpg?v=1642620404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Boho Wildflowers Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D145">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5045337847_8dxg.jpg?v=1709579470' alt='Gray Boho Wildflowers Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D145'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1807">
+                                <meta itemprop="height" content="1291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5045337847_8dxg.jpg?v=1709579470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambesonne Charcoal Grey Dimgrey, Peel And Stick Wallpaper 13" x 36"">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Ambesonne-Dark-Grey-Peel-Stick-Wallpaper-for-Home-Antique-Damask-3D-13-x36-Charcoal-Grey-Dimgrey_8a2c7387-a085-4ca1-bef4-13ab5445055b.ecc0dcf2f4d85cece6bc7eae0da7e087.jpeg' alt='Ambesonne Charcoal Grey Dimgrey, Peel And Stick Wallpaper 13" x 36"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2724">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Ambesonne-Dark-Grey-Peel-Stick-Wallpaper-for-Home-Antique-Damask-3D-13-x36-Charcoal-Grey-Dimgrey_8a2c7387-a085-4ca1-bef4-13ab5445055b.ecc0dcf2f4d85cece6bc7eae0da7e087.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

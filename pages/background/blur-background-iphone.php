@@ -1,0 +1,129 @@
+<title>Blur Background on iPhone: Tips & Tricks</title>
+                    <meta name="description" content="Discover how to blur the background on your iPhone effortlessly! Learn to use Portrait Mode and editing techniques for stunning, professional-looking photos. Enhance your photography skills and make your subjects pop with our practical tips!">
+                    <meta name="keywords" content="blur background iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blur-background-iphone">
+                            <span itemprop="name">blur background iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blur Background on iPhone: Tips & Tricks</h1>
+                <p>To blur the background on your iPhone, use the Portrait Mode in the Camera app. This feature allows you to create stunning photos with a sharp subject and a smooth, blurred background. Adjust the blur intensity in the Photos app post-capture for enhanced effects. It's perfect for portraits and adds a professional touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Easy Ways To Blur The Background In Your iPhone Photos">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/26655/1120/Blur.jpg' alt='4 Easy Ways To Blur The Background In Your iPhone Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/26655/1120/Blur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background on iPhone Instantly: 4 Easy Ways">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/blog-richtext-image/use-portrait-mode-to-take-a-photo-of-a-female-on-iPhone.jpg' alt='How to Blur Background on iPhone Instantly: 4 Easy Ways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/blog-richtext-image/use-portrait-mode-to-take-a-photo-of-a-female-on-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur a Photo on iPhone in 2022 (Guide) | Beebom">
+                                <img itemprop="contentUrl url" src='https://beebom.com/wp-content/uploads/2022/05/Use-Portrait-Lighting-effect-on-iPhone-.jpeg?w=640' alt='How to Blur a Photo on iPhone in 2022 (Guide) | Beebom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beebom" />
+                                </span>
+                                <a href='https://beebom.com/wp-content/uploads/2022/05/Use-Portrait-Lighting-effect-on-iPhone-.jpeg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur Background In Your iPhone Photos: The Ultimate Guide">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/22685/1120/How-To-Blur-Background-On-iPhone.jpg' alt='How To Blur Background In Your iPhone Photos: The Ultimate Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/22685/1120/How-To-Blur-Background-On-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make the Background of a Picture Blurry">
+                                <img itemprop="contentUrl url" src='https://fixthephoto.com/blog/UserFiles/Image/blur-background-on-iphone-portrait-mode.jpg' alt='How to Make the Background of a Picture Blurry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photo Retouching Services" />
+                                </span>
+                                <a href='https://fixthephoto.com/blog/UserFiles/Image/blur-background-on-iphone-portrait-mode.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur a Picture on iPhone or Android">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/62b3496f5bcf7200181eba4a?width=800&format=jpeg&auto=webp' alt='How to Blur a Picture on iPhone or Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/62b3496f5bcf7200181eba4a?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Sunrise Gradation Blur iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/87/a3/1387a36df4c1beb28437f177760dca03.jpg' alt='Mountain Sunrise Gradation Blur iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/87/a3/1387a36df4c1beb28437f177760dca03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Blue Day Gradation Blur iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/d5/d4/73d5d48c16adf342d4364d027053176b.jpg' alt='City Blue Day Gradation Blur iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/d5/d4/73d5d48c16adf342d4364d027053176b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur a Video Background on iPhone for Free | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-09-06/8bdf5809-743c-4201-bc94-1299e934bc13.jpg' alt='How to Blur a Video Background on iPhone for Free | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-09-06/8bdf5809-743c-4201-bc94-1299e934bc13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur the Background in Photos on Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5d51b163cd9784489a395e5b?width=700' alt='How to Blur the Background in Photos on Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5d51b163cd9784489a395e5b?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

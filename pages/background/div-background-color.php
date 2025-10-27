@@ -1,0 +1,129 @@
+<title>Enhance Your Web Design: How to Choose Div Background Colors</title>
+                    <meta name="description" content="Discover the importance of selecting the right background color for your div elements in web design. Learn effective CSS techniques to enhance user experience and readability while maintaining brand consistency. Perfect for designers seeking vibrant layouts that captivate users.">
+                    <meta name="keywords" content="div background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/div-background-color">
+                            <span itemprop="name">div background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Web Design: How to Choose Div Background Colors</h1>
+                <p>Choosing the right background color for a div in web design impacts aesthetics and user experience. Use CSS properties like `background-color` to set vibrant hues or subtle shades. Consider contrast for readability and brand colors for consistency. Experiment to find the perfect fit that enhances your layout.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - How to set background color only for div in column - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/WgR7d.jpg' alt='html - How to set background color only for div in column - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/WgR7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add background color to a div in Bootstrap ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20240507153955/adding-backgroung-color-in-bootstrap-div.png' alt='How to add background color to a div in Bootstrap ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20240507153955/adding-backgroung-color-in-bootstrap-div.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIV background color - HTML & CSS - SitePoint Forums | Web ...">
+                                <img itemprop="contentUrl url" src='https://global.discourse-cdn.com/sitepoint/original/3X/0/6/0618af54ed3ddbaeb5d2130938d8d327cf3ce88d.jpeg' alt='DIV background color - HTML & CSS - SitePoint Forums | Web ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SitePoint" />
+                                </span>
+                                <a href='https://global.discourse-cdn.com/sitepoint/original/3X/0/6/0618af54ed3ddbaeb5d2130938d8d327cf3ce88d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Div Background Color – How to Change Background Color in CSS">
+                                <img itemprop="contentUrl url" src='https://www.freecodecamp.org/news/content/images/2022/02/ss-1-1.png' alt='Div Background Color – How to Change Background Color in CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1911">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://www.freecodecamp.org/news/content/images/2022/02/ss-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - How do I override div style:background-color with class ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/hWHVE.png' alt='html - How do I override div style:background-color with class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/hWHVE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Background Color Tutorial – How to Change a Div Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freecodecamp.org/news/content/images/2020/05/Screen-Shot-2020-05-08-at-11.07.10-AM-1.png' alt='HTML Background Color Tutorial – How to Change a Div Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://www.freecodecamp.org/news/content/images/2020/05/Screen-Shot-2020-05-08-at-11.07.10-AM-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML 5 Tutorial: Set or Change HTML Background Color">
+                                <img itemprop="contentUrl url" src='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062326.png' alt='HTML 5 Tutorial: Set or Change HTML Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Djamware" />
+                                </span>
+                                <a href='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062326.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Div Background Color – How to Change Background Color in CSS">
+                                <img itemprop="contentUrl url" src='https://www.freecodecamp.org/news/content/images/2022/02/ss-5.png' alt='Div Background Color – How to Change Background Color in CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1911">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://www.freecodecamp.org/news/content/images/2022/02/ss-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - different background colours in div tags - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/f87Fk.png' alt='html - different background colours in div tags - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/f87Fk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give a Background Color to a Div Element, freeCodeCamp review html & css,  lesson 36">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ErZHzTPgSPU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgcigUMA8=&rs=AOn4CLDLyx9KxrgDrfKDdM9Mn-JK9KMFIg' alt='Give a Background Color to a Div Element, freeCodeCamp review html & css,  lesson 36'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ErZHzTPgSPU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgcigUMA8=&rs=AOn4CLDLyx9KxrgDrfKDdM9Mn-JK9KMFIg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

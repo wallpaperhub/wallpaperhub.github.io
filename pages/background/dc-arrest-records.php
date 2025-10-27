@@ -1,0 +1,129 @@
+<title>Essential Guide to DC Arrest Records</title>
+                    <meta name="description" content="Discover key information about DC arrest records, including how to access them, understand their significance, and navigate public safety implications. Stay informed with our concise guide to criminal documentation in Washington, D.C., optimized for quick and easy reading on mobile devices.">
+                    <meta name="keywords" content="dc arrest records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dc-arrest-records">
+                            <span itemprop="name">dc arrest records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to DC Arrest Records</h1>
+                <p>DC arrest records provide crucial documentation of individuals' interactions with law enforcement in Washington, D.C. These records include details such as the nature of the offense, date of arrest, and outcomes. Accessible through local law enforcement agencies or online databases, they play a vital role in criminal background checks and public safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/Sex-Offender-Information-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/Sex-Offender-Information-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-Inmate-Search-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-Inmate-Search-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dc Court Records Search">
+                                <img itemprop="contentUrl url" src='https://dc-court-records-search.govbackgroundchecks.com/screenshots/dc-court-records-search/4.jpg' alt='Dc Court Records Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://dc-court-records-search.govbackgroundchecks.com/screenshots/dc-court-records-search/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-E-access-Search-Results-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-E-access-Search-Results-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/Dru-Sjodin-National-Sex-Offender-Search-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/Dru-Sjodin-National-Sex-Offender-Search-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/06/Bond-and-Collateral-List-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/06/Bond-and-Collateral-List-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2024/05/District-Of-Columbia-Superior-Court-Search-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2024/05/District-Of-Columbia-Superior-Court-Search-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-Active-Warrant-List-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/07/DC-Active-Warrant-List-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washington, DC Criminal Records - District of Columbia Criminal Cases">
+                                <img itemprop="contentUrl url" src='https://usabackground.com/wp-content/uploads/washington-dc-criminal-records.jpg' alt='Washington, DC Criminal Records - District of Columbia Criminal Cases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BCS Background Screening, LLC" />
+                                </span>
+                                <a href='https://usabackground.com/wp-content/uploads/washington-dc-criminal-records.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Washington D.C. Arrests, Criminal Records, & Probation Search">
+                                <img itemprop="contentUrl url" src='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/06/Federal-Inmate-Search-Screenshot.webp' alt='Free Washington D.C. Arrests, Criminal Records, & Probation Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington DC" />
+                                </span>
+                                <a href='https://districtofcolumbia.recordspage.org/wp-content/uploads/sites/52/2023/06/Federal-Inmate-Search-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

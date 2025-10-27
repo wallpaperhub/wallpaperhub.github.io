@@ -1,0 +1,129 @@
+<title>Kanye West Phone Wallpapers: Bold & Creative Designs</title>
+                    <meta name="description" content="Discover stunning Kanye West phone wallpapers that reflect his unique style and artistry. Choose from a variety of designs to personalize your device and showcase your fandom in a stylish way. Perfect for any Kanye fan wanting to keep the genius close at hand!">
+                    <meta name="keywords" content="kanye phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/kanye-phone-wallpaper">
+                            <span itemprop="name">kanye phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kanye West Phone Wallpapers: Bold & Creative Designs</h1>
+                <p>Kanye phone wallpapers are a vibrant way to showcase your love for the iconic artist. With designs featuring his bold style, album art, and memorable quotes, these wallpapers add a unique flair to your device. Explore a variety of options that encapsulate Kanye's creativity and allow fans to express their admiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made phone wallpapers for every Kanye album! (Link to individual ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b2t86y0mgg551.jpg' alt='I made phone wallpapers for every Kanye album! (Link to individual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b2t86y0mgg551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upscaled Kanye Album Phone Wallpapers : r/KanyeWallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/upscaled-kanye-album-phone-wallpapers-v0-m1zvaphhwrwd1.jpg?width=640&crop=smart&auto=webp&s=23e0c82aa1a70ab516c0bf2fd44d8758070fd392' alt='Upscaled Kanye Album Phone Wallpapers : r/KanyeWallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/upscaled-kanye-album-phone-wallpapers-v0-m1zvaphhwrwd1.jpg?width=640&crop=smart&auto=webp&s=23e0c82aa1a70ab516c0bf2fd44d8758070fd392' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kanye Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kanye-iphone-mj5g980hu0sm9zrk.jpg' alt='100+] Kanye Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kanye-iphone-mj5g980hu0sm9zrk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Kanye Album Phone Wall Papers : r/Kanye">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/every-kanye-album-phone-wall-papers-v0-y9v4jazhza4b1.jpg?width=640&crop=smart&auto=webp&s=704487e0e14e6c1d88d0f88d7ab26172d94e4fb8' alt='Every Kanye Album Phone Wall Papers : r/Kanye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/every-kanye-album-phone-wall-papers-v0-y9v4jazhza4b1.jpg?width=640&crop=smart&auto=webp&s=704487e0e14e6c1d88d0f88d7ab26172d94e4fb8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanye west wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e7/23/9f/e7239fb998443471f126816394b77f5a.png' alt='Kanye west wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e7/23/9f/e7239fb998443471f126816394b77f5a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanye West Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/0/c/9274-1125x2436-phone-hd-kanye-west-wallpaper-image.jpg' alt='Kanye West Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/0/c/9274-1125x2436-phone-hd-kanye-west-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanye West's Signature Iphone - A Revolutionary Take On The ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/download-the-eye-catching-new-kanye-iphone-wallpaper-to-your-desktop-igwg0s1c1l2a7kfg.webp' alt='Kanye West's Signature Iphone - A Revolutionary Take On The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/download-the-eye-catching-new-kanye-iphone-wallpaper-to-your-desktop-igwg0s1c1l2a7kfg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kanye wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/547/773/HD-wallpaper-graduation-kanye-bear-kanye-west-kanye-west-graduation-moon-universe-thumbnail.jpg' alt='HD kanye wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/547/773/HD-wallpaper-graduation-kanye-bear-kanye-west-kanye-west-graduation-moon-universe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kanye west phone wallpapers : r/Kanye">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/la2x6wqq91971.png?width=828&format=png&auto=webp&s=697c19afc035f7afc3d5ce14571fdf5221e3dcf7' alt='kanye west phone wallpapers : r/Kanye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/la2x6wqq91971.png?width=828&format=png&auto=webp&s=697c19afc035f7afc3d5ce14571fdf5221e3dcf7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show Off Your Exclusive Kanye Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/show-off-your-exclusive-kanye-iphone-izxxsohep0amc0m6.jpg' alt='Show Off Your Exclusive Kanye Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/show-off-your-exclusive-kanye-iphone-izxxsohep0amc0m6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

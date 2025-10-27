@@ -1,0 +1,129 @@
+<title>Cool Detroit Red Wings Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cool detroit red wings wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/cool-detroit-red-wings-wallpaper">
+                            <span itemprop="name">cool detroit red wings wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Detroit Red Wings Wallpapers for Fans</h1>
+                <p>Looking for cool Detroit Red Wings wallpaper to deck out your devices? Explore a variety of stunning designs showcasing your favorite players and the iconic logo. From sleek minimalist styles to vibrant action shots, there's something for every fan. Transform your screen and show off your team pride with vibrant wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/ioxv6polx4cr6vtznvna.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/ioxv6polx4cr6vtznvna.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey Wings fans, Canes fan here. I made this wallpaper for a friend ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mxm3jm6geah61.jpg' alt='Hey Wings fans, Canes fan here. I made this wallpaper for a friend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mxm3jm6geah61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/tttyu4sy5trzrvghvdtk.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/tttyu4sy5trzrvghvdtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My quest to make a wallpaper for each NHL team: #11 RED WINGS : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-quest-to-make-a-wallpaper-for-each-nhl-team-red-wings-v0-7kld95axj0h91.jpg?width=1350&format=pjpg&auto=webp&s=fedde6482722842661a9ae2335e0a6d7503a147c' alt='My quest to make a wallpaper for each NHL team: #11 RED WINGS : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-quest-to-make-a-wallpaper-for-each-nhl-team-red-wings-v0-7kld95axj0h91.jpg?width=1350&format=pjpg&auto=webp&s=fedde6482722842661a9ae2335e0a6d7503a147c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/vhcyl1e02vv4z6ess6jl.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/vhcyl1e02vv4z6ess6jl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Detroit Red Wings Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/detroit-red-wings-maple-leaves-aorqeejhxxz3a248.jpg' alt='200+] Detroit Red Wings Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/detroit-red-wings-maple-leaves-aorqeejhxxz3a248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detroit Red Wings Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/1/6/242756-1578x2889-samsung-hd-detroit-red-wings-wallpaper-photo.jpg' alt='Detroit Red Wings Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1578">
+                                <meta itemprop="height" content="2889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/1/6/242756-1578x2889-samsung-hd-detroit-red-wings-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Detroit Red Wings wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Detroit-Red-Wings-wallpaper-logo-desktop-NHL-2024-thumb.jpg' alt='2025 Detroit Red Wings wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Detroit-Red-Wings-wallpaper-logo-desktop-NHL-2024-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detroit Redwings, hockey, nhl, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/295/794/HD-wallpaper-detroit-redwings-hockey-nhl-thumbnail.jpg' alt='Detroit Redwings, hockey, nhl, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/295/794/HD-wallpaper-detroit-redwings-hockey-nhl-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wings Wallpapers | Detroit red wings, Wings wallpaper, Red wings">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/7e/b0/4b7eb0a0e387427cd397cdbf1fe0b7ed.jpg' alt='Red Wings Wallpapers | Detroit red wings, Wings wallpaper, Red wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/7e/b0/4b7eb0a0e387427cd397cdbf1fe0b7ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

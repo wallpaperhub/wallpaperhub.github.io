@@ -1,0 +1,129 @@
+<title>Vibrant Pink Dinosaur Wallpaper for Fun Spaces</title>
+                    <meta name="description" content="Discover the charm of pink dinosaur wallpaper! Ideal for nurseries and kids' rooms, it adds a playful touch to any decor. Easy to apply and remove, this wallpaper is perfect for creating a vibrant, imaginative environment. Shop now for a delightful transformation!">
+                    <meta name="keywords" content="pink dinosaur wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-dinosaur-wallpaper">
+                            <span itemprop="name">pink dinosaur wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Dinosaur Wallpaper for Fun Spaces</h1>
+                <p>Transform your space with whimsical pink dinosaur wallpaper! Perfect for nurseries or playful rooms, it brings fun and creativity to walls. The vibrant colors and playful designs inspire imagination, making it a delightful choice for kids and dino lovers alike. Easy to install and remove, it’s a charming way to spice up your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink dinosaur wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c3/b5/34/c3b5342fafc38902c238e30591d6b367.jpg' alt='pink dinosaur wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c3/b5/34/c3b5342fafc38902c238e30591d6b367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-dino-kawaii-iphone-9bi0ezamgb408xlt.jpg' alt='Pink Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-dino-kawaii-iphone-9bi0ezamgb408xlt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Dinosaurs Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-pink-dinosaurs-27985535500374.png?v=1619663441' alt='Pink Dinosaurs Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-pink-dinosaurs-27985535500374.png?v=1619663441' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dinosaur   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/6a/d9/94/6ad994524f9d62ec04bfbf591be783c2.jpg' alt='Cute Dinosaur   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/6a/d9/94/6ad994524f9d62ec04bfbf591be783c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pink Dinosaur Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pink-dinosaur-sparkling-eyes-37n6vai0pjo4htl8.jpg' alt='100+] Cute Pink Dinosaur Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pink-dinosaur-sparkling-eyes-37n6vai0pjo4htl8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Dinosaur Wallpaper Vector Images (over 210)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/41/07/cute-pastel-dinosaurs-vector-23724107.jpg' alt='Pink Dinosaur Wallpaper Vector Images (over 210)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/41/07/cute-pastel-dinosaurs-vector-23724107.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kawaii Dinosaur In A Colorful Forest Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kawaii-dinosaur-in-a-colorful-forest-4518nhur98dnky8i.jpg' alt='Download Cute Kawaii Dinosaur In A Colorful Forest Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kawaii-dinosaur-in-a-colorful-forest-4518nhur98dnky8i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dinosaur On Pink Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-dinosaur-on-pink-aesthetic-zs218ntkgypzglsp.jpg' alt='Cute Dinosaur On Pink Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-dinosaur-on-pink-aesthetic-zs218ntkgypzglsp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Children's Pink & Purple Princess Dinosaurs Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://wallfunkwallpaper.com/cdn/shop/products/pink-purple-dinosaurs-wallpaper-wall-funk-642989.jpg?v=1694020855' alt='Children's Pink & Purple Princess Dinosaurs Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Funk" />
+                                </span>
+                                <a href='https://wallfunkwallpaper.com/cdn/shop/products/pink-purple-dinosaurs-wallpaper-wall-funk-642989.jpg?v=1694020855' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino Adventures Wallpaper in Soft Pink">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/Dino_Adventures_Soft_Pink_ILW50671_Roll_shot.webp?crop=center&height=1024&v=1729600965&width=1024' alt='Dino Adventures Wallpaper in Soft Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/Dino_Adventures_Soft_Pink_ILW50671_Roll_shot.webp?crop=center&height=1024&v=1729600965&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

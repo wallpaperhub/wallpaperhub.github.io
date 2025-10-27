@@ -1,0 +1,129 @@
+<title>Panda Express: A Brief History</title>
+                    <meta name="description" content="Discover the fascinating journey of Panda Express, from its humble beginnings in California to becoming a fast-food giant. Learn about the brand's unique fusion of American and Chinese cuisines and its signature dishes like orange chicken that delight millions. Explore the history behind this beloved restaurant today!">
+                    <meta name="keywords" content="panda express history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/panda-express-history">
+                            <span itemprop="name">panda express history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Panda Express: A Brief History</h1>
+                <p>Panda Express, founded in 1983 by Andrew and Peggy Cherng, began as a small stall in California. Its fusion of American and Chinese flavors quickly gained popularity. The brand expanded to thousands of locations across the U.S. and globally, becoming a staple in American fast-food culture. Known for its orange chicken, it revolutionized the fast-casual dining experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline | Panda Restaurant Group">
+                                <img itemprop="contentUrl url" src='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/pi-historical.jpg%3Fitok=-Cqi5KUk' alt='Timeline | Panda Restaurant Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panda Restaurant Group" />
+                                </span>
+                                <a href='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/pi-historical.jpg%3Fitok=-Cqi5KUk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline | Panda Restaurant Group">
+                                <img itemprop="contentUrl url" src='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/1983.png%3Fitok=_vypZ27m' alt='Timeline | Panda Restaurant Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panda Restaurant Group" />
+                                </span>
+                                <a href='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/1983.png%3Fitok=_vypZ27m' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panda Express Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2024/01/Panda-Express-Logo-history.png' alt='Panda Express Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2024/01/Panda-Express-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panda Express - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/45/Panda_Express_Storefront_%2848128044623%29.jpg' alt='Panda Express - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4046">
+                                <meta itemprop="height" content="2529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/45/Panda_Express_Storefront_%2848128044623%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Family | Panda Express Canada">
+                                <img itemprop="contentUrl url" src='https://www.pandaexpress.ca/themes/panda/assets/img-our-story-desktop.png' alt='Our Family | Panda Express Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panda Express" />
+                                </span>
+                                <a href='https://www.pandaexpress.ca/themes/panda/assets/img-our-story-desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panda Express Celebrates 'Origin and Originality' With 'American ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2016_42/1755836/andrew_father_peggy.jpg' alt='Panda Express Celebrates 'Origin and Originality' With 'American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2016_42/1755836/andrew_father_peggy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline | Panda Restaurant Group">
+                                <img itemprop="contentUrl url" src='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/2005.png%3Fitok=5P3sSYaA' alt='Timeline | Panda Restaurant Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panda Restaurant Group" />
+                                </span>
+                                <a href='https://www.pandarg.com/sites/default/files/styles/timeline/public/timeline-images/2005.png%3Fitok=5P3sSYaA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tao of Panda Express - LAmag">
+                                <img itemprop="contentUrl url" src='https://lamag.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk3NTU1NDc1NDI5MDA5MDkw/taoofpanda-01.jpg' alt='The Tao of Panda Express - LAmag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Magazine" />
+                                </span>
+                                <a href='https://lamag.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk3NTU1NDc1NDI5MDA5MDkw/taoofpanda-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The origin story behind Panda Express">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/V8ypVXoUcCA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC92Z2jgi5WM45E7wYcHKppyOOk2g' alt='The origin story behind Panda Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/V8ypVXoUcCA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC92Z2jgi5WM45E7wYcHKppyOOk2g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panda Express Logo History and Evolution – Slant POS">
+                                <img itemprop="contentUrl url" src='https://blog.slantco.com/wp-content/uploads/2024/04/panda-express-logo-history-evolution.jpeg' alt='Panda Express Logo History and Evolution – Slant POS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slant POS" />
+                                </span>
+                                <a href='https://blog.slantco.com/wp-content/uploads/2024/04/panda-express-logo-history-evolution.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

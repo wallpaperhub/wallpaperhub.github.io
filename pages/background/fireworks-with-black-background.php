@@ -1,0 +1,129 @@
+<title>Stunning Fireworks Display on a Black Background</title>
+                    <meta name="description" content="Discover the mesmerizing beauty of fireworks against a black background. This eye-catching display showcases vibrant colors and dazzling patterns, making it the perfect centerpiece for any celebration. Experience the magic as the night sky comes alive with spectacular bursts of light!">
+                    <meta name="keywords" content="fireworks with black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fireworks-with-black-background">
+                            <span itemprop="name">fireworks with black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fireworks Display on a Black Background</h1>
+                <p>Fireworks against a black background create a stunning visual explosion of color and light. The contrast highlights the intricate patterns and vibrant hues of each firework, making the spectacle truly captivating. Whether celebrating a holiday or a special event, the night sky becomes a canvas for breathtaking displays that leave observers in awe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Fireworks Black Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/904004534/vector/fireworks-on-black-background.jpg?s=612x612&w=0&k=20&c=oIBQ1MCt9Jvh3KHTJ3YckUo-DztQvQ_c0PDye-iZXvI=' alt='2,300+ Fireworks Black Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/904004534/vector/fireworks-on-black-background.jpg?s=612x612&w=0&k=20&c=oIBQ1MCt9Jvh3KHTJ3YckUo-DztQvQ_c0PDye-iZXvI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isolated Fireworks on a Black Background Photograph by Ashley ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/isolated-fireworks-on-a-black-background-ashley-swanson.jpg' alt='Isolated Fireworks on a Black Background Photograph by Ashley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/isolated-fireworks-on-a-black-background-ashley-swanson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireworks On Black Background Stock Photo - Download Image Now ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1053468764/photo/fireworks-on-black-background.jpg?s=170667a&w=0&k=20&c=yq3CSWV8jFABHFerjAz0ucTCT0cDf46Rk49yEsgH9u0=' alt='Fireworks On Black Background Stock Photo - Download Image Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1053468764/photo/fireworks-on-black-background.jpg?s=170667a&w=0&k=20&c=yq3CSWV8jFABHFerjAz0ucTCT0cDf46Rk49yEsgH9u0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireworks isolated on black background Royalty-Free Stock Image ...">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/fireworks-isolated-on-black-background_HvgtTluhzx_SB_PM.jpg' alt='Fireworks isolated on black background Royalty-Free Stock Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/fireworks-isolated-on-black-background_HvgtTluhzx_SB_PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print fireworks on black background, frame or border ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/06/84/15/13/1000_F_684151393_ueEwTLVeqAku6dTqd3yOOKp4O17y15Mx.jpg' alt='Photo & Art Print fireworks on black background, frame or border ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/06/84/15/13/1000_F_684151393_ueEwTLVeqAku6dTqd3yOOKp4O17y15Mx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireworks on black Background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/21/26/37/1000_F_221263763_UXdbNTkEnw9bdkicxblQxzRcPqQV6BJQ.jpg' alt='Fireworks on black Background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/21/26/37/1000_F_221263763_UXdbNTkEnw9bdkicxblQxzRcPqQV6BJQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Fireworks on a Black Background Stock Photo - Image of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/1a/18/6e1a183739cdf5e4952d5c4a99028e26.jpg' alt='Colorful Fireworks on a Black Background Stock Photo - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="573">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/1a/18/6e1a183739cdf5e4952d5c4a99028e26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Fireworks on black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/fireworks-black-background_46250-80.jpg' alt='Premium Vector | Fireworks on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/fireworks-black-background_46250-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and orange fireworks in black background photo – Free Firework ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1518165307141-a4651f36952a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Red and orange fireworks in black background photo – Free Firework ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1518165307141-a4651f36952a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireworks on black background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/88/41/fireworks-on-black-background-vector-2898841.jpg' alt='Fireworks on black background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/88/41/fireworks-on-black-background-vector-2898841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

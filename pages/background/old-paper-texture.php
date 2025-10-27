@@ -1,0 +1,129 @@
+<title>Discover the Charm of Old Paper Texture</title>
+                    <meta name="description" content="Explore the beauty of old paper texture, perfect for artists and DIY enthusiasts. This unique material adds character and nostalgia to your projects. Perfect for backgrounds, crafts, and invitations, find inspiration and tips to use aged paper effectively. Embrace the timeless appeal of vintage paper textures!">
+                    <meta name="keywords" content="old paper texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-paper-texture">
+                            <span itemprop="name">old paper texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of Old Paper Texture</h1>
+                <p>Old paper texture, with its unique patterns and subtle imperfections, exudes a nostalgic charm that speaks to history and artistry. Ideal for backgrounds and crafts, the worn, yellowed appearance evokes memories of handwritten letters and ancient books, adding depth and character to any project. Explore the beauty of aged paper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgxMDU3NDA0LWltYWdlLWpvYjYzMC1mLWwwZzA3N2l6LmpwZw.jpg' alt='Old Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgxMDU3NDA0LWltYWdlLWpvYjYzMC1mLWwwZzA3N2l6LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg?semt=ais_hybrid' alt='Old Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Texture Pictures, Images and Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/e3/75/e4/b5/86/v1_E10/E108KNUT.jpg?w=500&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=5acf80595b7023d8733a718d2341c106ce96f872e6a9afc41c9e95743a9b20f9' alt='Old Paper Texture Pictures, Images and Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/e3/75/e4/b5/86/v1_E10/E108KNUT.jpg?w=500&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=5acf80595b7023d8733a718d2341c106ce96f872e6a9afc41c9e95743a9b20f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old paper texture, brown vintage paper sheet background with space ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/702/696/small/old-paper-texture-brown-vintage-paper-sheet-background-with-space-for-text-vector.jpg' alt='Old paper texture, brown vintage paper sheet background with space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/702/696/small/old-paper-texture-brown-vintage-paper-sheet-background-with-space-for-text-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Stained Old Paper Texture (Paper) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://cdn.textures4photoshop.com/tex/thumbs/grunge-stained-old-paper-texture-130.jpg' alt='Grunge Stained Old Paper Texture (Paper) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://cdn.textures4photoshop.com/tex/thumbs/grunge-stained-old-paper-texture-130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Old Paper Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/043/211/743/small_2x/old-paper-texture-isolated-on-white-background-photo.jpg' alt='Page 2 | Old Paper Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/043/211/743/small_2x/old-paper-texture-isolated-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paper Textures | 5 Free Paper Textures | Indieground">
+                                <img itemprop="contentUrl url" src='https://indieground.net/wp-content/uploads/2022/07/Freebie-VintagePaperTextures-Preview-06.jpg' alt='Vintage Paper Textures | 5 Free Paper Textures | Indieground'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indieground Design" />
+                                </span>
+                                <a href='https://indieground.net/wp-content/uploads/2022/07/Freebie-VintagePaperTextures-Preview-06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paper Texture by MGB-Stock on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81ddcc0d-fcba-4c7a-b71e-81f0bfe6d8b4/d15dooj-da4efbb6-9c7b-4fe0-b587-f1980e9185ea.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxZGRjYzBkLWZjYmEtNGM3YS1iNzFlLTgxZjBiZmU2ZDhiNFwvZDE1ZG9vai1kYTRlZmJiNi05YzdiLTRmZTAtYjU4Ny1mMTk4MGU5MTg1ZWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JVNlf5KYAqqkzJ_VOicvcsKXFrCP2oAtBWQxmpnRyFE' alt='Vintage Paper Texture by MGB-Stock on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1483">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81ddcc0d-fcba-4c7a-b71e-81f0bfe6d8b4/d15dooj-da4efbb6-9c7b-4fe0-b587-f1980e9185ea.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxZGRjYzBkLWZjYmEtNGM3YS1iNzFlLTgxZjBiZmU2ZDhiNFwvZDE1ZG9vai1kYTRlZmJiNi05YzdiLTRmZTAtYjU4Ny1mMTk4MGU5MTg1ZWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JVNlf5KYAqqkzJ_VOicvcsKXFrCP2oAtBWQxmpnRyFE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Old Paper Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675788301950-6ab70e71a207?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwcGFwZXIlMjB0ZXh0dXJlfGVufDB8fDB8fHww' alt='30k+ Old Paper Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675788301950-6ab70e71a207?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwcGFwZXIlMjB0ZXh0dXJlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Textures, Backgrounds, Textures ft. old & paper - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-cover-images/518582d5-7558-4dd6-86b2-aa930a591775?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=1014d1e2dcc0f598131feb6f3880488fca65bc03d946d6444117207d0c709cb3' alt='Old Paper Textures, Backgrounds, Textures ft. old & paper - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-cover-images/518582d5-7558-4dd6-86b2-aa930a591775?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=1014d1e2dcc0f598131feb6f3880488fca65bc03d946d6444117207d0c709cb3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

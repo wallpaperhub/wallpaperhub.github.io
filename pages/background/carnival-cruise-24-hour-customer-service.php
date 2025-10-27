@@ -1,0 +1,129 @@
+<title>24/7 Customer Service on Carnival Cruise: Your Guide</title>
+                    <meta name="description" content="Discover unparalleled support with Carnival Cruise's 24-hour customer service. Get assistance any time, day or night, for a hassle-free cruising experience. Enjoy your journey knowing help is always available, ensuring every moment of your vacation is unforgettable!">
+                    <meta name="keywords" content="carnival cruise 24 hour customer service">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carnival-cruise-24-hour-customer-service">
+                            <span itemprop="name">carnival cruise 24 hour customer service</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>24/7 Customer Service on Carnival Cruise: Your Guide</h1>
+                <p>Carnival Cruise offers 24-hour customer service to ensure guests have a seamless and enjoyable vacation experience. Whether you have inquiries about itineraries, dining options, or need assistance with bookings, dedicated staff are available around the clock. Enjoy peace of mind knowing help is just a call away throughout your cruise journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Customer Service message for our... - Carnival Cruise Line ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159202546049584' alt='A Customer Service message for our... - Carnival Cruise Line ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159202546049584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24-Hour Room Service & Menu | Onboard Room Service | Carnival">
+                                <img itemprop="contentUrl url" src='https://www.carnival.com/-/media/images/explore/dining/room-service-2.jpg' alt='24-Hour Room Service & Menu | Onboard Room Service | Carnival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carnival Cruises" />
+                                </span>
+                                <a href='https://www.carnival.com/-/media/images/explore/dining/room-service-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Hour Room Service | Carnival Cruise Lines">
+                                <img itemprop="contentUrl url" src='https://www.carnival.com/-/media/images/explore/dining/room-service-1.jpg' alt='24 Hour Room Service | Carnival Cruise Lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carnival Cruise Lines" />
+                                </span>
+                                <a href='https://www.carnival.com/-/media/images/explore/dining/room-service-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="is room service free? : r/CarnivalCruiseFans">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/is-room-service-free-v0-qgeoz1s6v24d1.jpeg?auto=webp&s=196f3e0cf9dbc04122597a06fc0f023694eb9ca6' alt='is room service free? : r/CarnivalCruiseFans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/is-room-service-free-v0-qgeoz1s6v24d1.jpeg?auto=webp&s=196f3e0cf9dbc04122597a06fc0f023694eb9ca6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Splendor Cruise Ship - Cruises From Sydney!">
+                                <img itemprop="contentUrl url" src='https://www.carnival.com/-/media/images/ships/sl/carnival-splendor-mobile-3.jpg' alt='Carnival Splendor Cruise Ship - Cruises From Sydney!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carnival Cruises" />
+                                </span>
+                                <a href='https://www.carnival.com/-/media/images/ships/sl/carnival-splendor-mobile-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival's My Cruise Manager — CruiseReport">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cea7c476702c80001b6b183/1561576667943-FYN6W5KH147A3OL58C3M/image.png' alt='Carnival's My Cruise Manager — CruiseReport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CruiseReport" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cea7c476702c80001b6b183/1561576667943-FYN6W5KH147A3OL58C3M/image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accessibility at sea | Carnival Cruise Line">
+                                <img itemprop="contentUrl url" src='https://www.carnivalcruiseline.de/sites/default/files/styles/header-full/public/rail133b.jpg?itok=4VD1Ul_B' alt='Accessibility at sea | Carnival Cruise Line'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carnival Cruise Line" />
+                                </span>
+                                <a href='https://www.carnivalcruiseline.de/sites/default/files/styles/header-full/public/rail133b.jpg?itok=4VD1Ul_B' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Executives Knew They Had a Virus Problem, But Kept the ...">
+                                <img itemprop="contentUrl url" src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGOKWjy8Aqos/v1/-1x-1.jpg' alt='Carnival Executives Knew They Had a Virus Problem, But Kept the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg" />
+                                </span>
+                                <a href='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGOKWjy8Aqos/v1/-1x-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carnival Cruise Line Ships & Deals at Cruise with Points">
+                                <img itemprop="contentUrl url" src='https://cruise-with-points.marriott.com/images/web/1/1105/shp/ship_sm.jpg' alt='Carnival Cruise Line Ships & Deals at Cruise with Points'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marriott Cruises" />
+                                </span>
+                                <a href='https://cruise-with-points.marriott.com/images/web/1/1105/shp/ship_sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How it Works | VIFP Club | Carnival Cruise Line">
+                                <img itemprop="contentUrl url" src='https://www.carnival.com/-/media/cclus/images/loyalty/loyalty-hero-banner-mobile-1.jpg' alt='How it Works | VIFP Club | Carnival Cruise Line'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carnival Cruises" />
+                                </span>
+                                <a href='https://www.carnival.com/-/media/cclus/images/loyalty/loyalty-hero-banner-mobile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

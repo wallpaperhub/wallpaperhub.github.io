@@ -1,0 +1,129 @@
+<title>Explore Mount Olympus: Myth & Majesty</title>
+                    <meta name="description" content="Discover Mount Olympus, Greece's tallest peak, rich in mythology and natural beauty. A haven for adventurers and nature lovers alike, experience breathtaking views and trails steeped in ancient history. Perfect for outdoor enthusiasts seeking a connection to the legendary home of the gods.">
+                    <meta name="keywords" content="mount olympus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mount-olympus">
+                            <span itemprop="name">mount olympus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Mount Olympus: Myth & Majesty</h1>
+                <p>Mount Olympus, the highest peak in Greece, is steeped in myth and breathtaking beauty. Revered in ancient Greek mythology as the home of the gods, it offers vast biodiversity and stunning landscapes. Adventurers and nature lovers flock to its trails, enjoying panoramic views and rich historical significance that evoke the magic of ancient tales.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Olympus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e8/Olympus_National_Park_30.jpg' alt='Mount Olympus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e8/Olympus_National_Park_30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olympus National Park, Greece -- National Geographic">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/90ddbd94-9f33-40d3-a953-afb049818ba9/30924.jpg' alt='Olympus National Park, Greece -- National Geographic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/90ddbd94-9f33-40d3-a953-afb049818ba9/30924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visiting Zeus: How to climb the highest point of Greece - Mount ...">
+                                <img itemprop="contentUrl url" src='https://www.thebestviewpoints.com/wp-content/uploads/2023/05/DSC_9617-Panorama-photoshopped.jpg' alt='Visiting Zeus: How to climb the highest point of Greece - Mount ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Best Viewpoints" />
+                                </span>
+                                <a href='https://www.thebestviewpoints.com/wp-content/uploads/2023/05/DSC_9617-Panorama-photoshopped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Climbing Mount Olympus | The Natural Adventure">
+                                <img itemprop="contentUrl url" src='http://www.thenaturaladventure.com/wp-content/uploads/2024/01/climbing-mount-olympus-2-1024x547.png' alt='Climbing Mount Olympus | The Natural Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Natural Adventure" />
+                                </span>
+                                <a href='http://www.thenaturaladventure.com/wp-content/uploads/2024/01/climbing-mount-olympus-2-1024x547.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Olympus, Dwelling Place of the Gods: Myth vs Reality ...">
+                                <img itemprop="contentUrl url" src='https://www.ancient-origins.net/sites/default/files/field/image/Mount-Olympus.jpg' alt='Mount Olympus, Dwelling Place of the Gods: Myth vs Reality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ancient Origins" />
+                                </span>
+                                <a href='https://www.ancient-origins.net/sites/default/files/field/image/Mount-Olympus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mt. Olympus">
+                                <img itemprop="contentUrl url" src='https://sacredsites.com/images/europe/greece/mt-olympus-01-1200.jpg' alt='Mt. Olympus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Pilgrimage Guide" />
+                                </span>
+                                <a href='https://sacredsites.com/images/europe/greece/mt-olympus-01-1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olympus National Park (Official GANP Park Page)">
+                                <img itemprop="contentUrl url" src='https://nationalparks-15bc7.kxcdn.com/images/parks/olympus/Mount%20Olympus%20National%20Park.jpg' alt='Olympus National Park (Official GANP Park Page)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Global Alliance of National Parks" />
+                                </span>
+                                <a href='https://nationalparks-15bc7.kxcdn.com/images/parks/olympus/Mount%20Olympus%20National%20Park.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Olympus | Greek Mythology Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/greekmythology/images/d/df/Mt._olympus1_CC.jpg/revision/latest?cb=20151221030021' alt='Mount Olympus | Greek Mythology Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Mythology Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/greekmythology/images/d/df/Mt._olympus1_CC.jpg/revision/latest?cb=20151221030021' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Olympus; Greek Mythology and Wild Nature">
+                                <img itemprop="contentUrl url" src='https://greeking.me/images/blog/images/Hero-images/mount-olympus-en.wikipedia.org.jpg' alt='Mount Olympus; Greek Mythology and Wild Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greeking.me" />
+                                </span>
+                                <a href='https://greeking.me/images/blog/images/Hero-images/mount-olympus-en.wikipedia.org.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hiking in Greece: Mt Olympus, the seat of the gods – belleelene">
+                                <img itemprop="contentUrl url" src='https://belleelene.com/wp-content/uploads/2023/10/olumpus-cover.jpg' alt='Hiking in Greece: Mt Olympus, the seat of the gods – belleelene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belleelene" />
+                                </span>
+                                <a href='https://belleelene.com/wp-content/uploads/2023/10/olumpus-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Best Call Me Backgrounds for Video Calls</title>
+                    <meta name="description" content="Discover high-quality call me backgrounds to elevate your virtual meetings. From vibrant themes to professional styles, find the perfect backdrop to enhance your video calls and showcase your personality. Make a lasting impression with the ideal background for any occasion!">
+                    <meta name="keywords" content="call me backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/call-me-backgrounds">
+                            <span itemprop="name">call me backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Call Me Backgrounds for Video Calls</h1>
+                <p>Call me backgrounds enhance your video calls or virtual meetings by adding a personalized touch. From nature scenes to sleek designs, these backgrounds can boost your style and professionalism. Explore various options to express yourself or create a suitable environment for your discussions, making every call visually appealing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Call Me Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1337793914/vector/call-me-neon-sign-in-the-speech-bubble-on-brick-wall-background.jpg?s=612x612&w=0&k=20&c=OhXUHWPyCrj-HcmVfuaS3dsTzNZUfg-W1E7y8GkfO8k=' alt='2,200+ Call Me Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1337793914/vector/call-me-neon-sign-in-the-speech-bubble-on-brick-wall-background.jpg?s=612x612&w=0&k=20&c=OhXUHWPyCrj-HcmVfuaS3dsTzNZUfg-W1E7y8GkfO8k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Call Me Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/185972879/vector/call-me.jpg?s=612x612&w=0&k=20&c=NLN-0a3CFDpkPS6DYLTkGnMBFas59CjO1T8IAynDmxI=' alt='2,200+ Call Me Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/185972879/vector/call-me.jpg?s=612x612&w=0&k=20&c=NLN-0a3CFDpkPS6DYLTkGnMBFas59CjO1T8IAynDmxI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Me! handwritten over a white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2AP5EHX/call-me!-handwritten-over-a-white-background-2AP5EHX.jpg' alt='Call Me! handwritten over a white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2AP5EHX/call-me!-handwritten-over-a-white-background-2AP5EHX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium psd / image of Call me background psd in blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/c9/b6/06c9b6ef68ab5726ec57dff1cff53f3c.jpg' alt='Download premium psd / image of Call me background psd in blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/c9/b6/06c9b6ef68ab5726ec57dff1cff53f3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call me stock photo. Image of background, banner, concept - 164771474">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/call-me-text-letter-color-design-creative-typography-calligraphy-blend-banner-wallpaper-black-background-concept-idea-sketch-164771474.jpg' alt='Call me stock photo. Image of background, banner, concept - 164771474'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/call-me-text-letter-color-design-creative-typography-calligraphy-blend-banner-wallpaper-black-background-concept-idea-sketch-164771474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Call me concept with phone icon Abstract art ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/call-me-concept-with-phone-icon-abstract-art-background-vector-vector-design_123447-4527.jpg' alt='Premium Vector | Call me concept with phone icon Abstract art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/call-me-concept-with-phone-icon-abstract-art-background-vector-vector-design_123447-4527.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who's calling me?">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/30/5f/27305f99af8ae4f76ee31f7a5ab5588e.jpg' alt='Who's calling me?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/30/5f/27305f99af8ae4f76ee31f7a5ab5588e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Me Photos, Download The BEST Free Call Me Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/11155396/pexels-photo-11155396.jpeg?cs=srgb&dl=pexels-glambeau-design-2014648-11155396.jpg&fm=jpg' alt='Call Me Photos, Download The BEST Free Call Me Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3232">
+                                <meta itemprop="height" content="2424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/11155396/pexels-photo-11155396.jpeg?cs=srgb&dl=pexels-glambeau-design-2014648-11155396.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Call me concept with phone icon Abstract art ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/call-me-concept-with-phone-icon-abstract-art-background-vector-vector-design_123447-3004.jpg' alt='Premium Vector | Call me concept with phone icon Abstract art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/call-me-concept-with-phone-icon-abstract-art-background-vector-vector-design_123447-3004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Me Stock Illustrations – 4,483 Call Me Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/call-me-red-stamp-white-background-96769037.jpg' alt='Call Me Stock Illustrations – 4,483 Call Me Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/call-me-red-stamp-white-background-96769037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

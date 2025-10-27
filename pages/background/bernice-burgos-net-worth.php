@@ -1,0 +1,129 @@
+<title>Bernice Burgos Net Worth: What You Need to Know</title>
+                    <meta name="description" content="Discover the net worth of Bernice Burgos, the stunning model and entrepreneur. Learn about her rise to fame, business ventures, and how she amassed her fortune in the competitive world of modeling and social media. Get all the insights in our concise overview.">
+                    <meta name="keywords" content="bernice burgos net worth">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bernice-burgos-net-worth">
+                            <span itemprop="name">bernice burgos net worth</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bernice Burgos Net Worth: What You Need to Know</h1>
+                <p>Bernice Burgos is a popular model and entrepreneur known for her stunning looks and successful social media presence. As of 2023, her net worth is estimated to be around $1 million, primarily from modeling, brand endorsements, and her own business ventures. Her influence continues to grow, drawing attention from fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos' biography: All we know about NBA star Jaylen ...">
+                                <img itemprop="contentUrl url" src='https://cdn.legit.ng/images/1120/c517eedab3959816.jpeg?v=1' alt='Bernice Burgos' biography: All we know about NBA star Jaylen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legit.ng" />
+                                </span>
+                                <a href='https://cdn.legit.ng/images/1120/c517eedab3959816.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos bio: Net worth, children, dating, TI relationship ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tuko.co.ke/images/1120/0b76cb2f4f2d0be4.jpeg?v=1' alt='Bernice Burgos bio: Net worth, children, dating, TI relationship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tuko News" />
+                                </span>
+                                <a href='https://cdn.tuko.co.ke/images/1120/0b76cb2f4f2d0be4.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos' biography: All we know about NBA star Jaylen ...">
+                                <img itemprop="contentUrl url" src='https://cdn.legit.ng/images/1120/ede9d4d4d675ae75.jpeg?v=1' alt='Bernice Burgos' biography: All we know about NBA star Jaylen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legit.ng" />
+                                </span>
+                                <a href='https://cdn.legit.ng/images/1120/ede9d4d4d675ae75.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos' biography: All we know about NBA star Jaylen ...">
+                                <img itemprop="contentUrl url" src='https://cdn.legit.ng/images/1120/d16e3661b25a9bfc.jpeg?v=1' alt='Bernice Burgos' biography: All we know about NBA star Jaylen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legit.ng" />
+                                </span>
+                                <a href='https://cdn.legit.ng/images/1120/d16e3661b25a9bfc.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos Net Worth Revealed - 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/88/9e/e4889ee127449c038236859d66d32f6f.jpg' alt='Bernice Burgos Net Worth Revealed - 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/88/9e/e4889ee127449c038236859d66d32f6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos Net Worth: Instagram model Bernice and her earnings ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e4/69/f2/e469f25d8a4e3d4ab819f54a2b54cb73.jpg' alt='Bernice Burgos Net Worth: Instagram model Bernice and her earnings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e4/69/f2/e469f25d8a4e3d4ab819f54a2b54cb73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos' story: Her rise in the spotlight and life beyond ...">
+                                <img itemprop="contentUrl url" src='https://cdn.briefly.co.za/images/1120/934c464a8ce81875.jpeg?v=1' alt='Bernice Burgos' story: Her rise in the spotlight and life beyond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Briefly News" />
+                                </span>
+                                <a href='https://cdn.briefly.co.za/images/1120/934c464a8ce81875.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos' biography: All we know about NBA star Jaylen ...">
+                                <img itemprop="contentUrl url" src='https://cdn.legit.ng/images/1120/598919717265a461.jpeg?v=1' alt='Bernice Burgos' biography: All we know about NBA star Jaylen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legit.ng" />
+                                </span>
+                                <a href='https://cdn.legit.ng/images/1120/598919717265a461.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bernice Burgos Bio, Age, Husband, Children, Net Worth, Nationality ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.mynewsgh.com/wp-content/uploads/2023/05/Bernice-Burgos-1.jpg?resize=678%2C1024&ssl=1' alt='Bernice Burgos Bio, Age, Husband, Children, Net Worth, Nationality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyNewsGh" />
+                                </span>
+                                <a href='https://i0.wp.com/www.mynewsgh.com/wp-content/uploads/2023/05/Bernice-Burgos-1.jpg?resize=678%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Bernice Burgos and how old is she? | The US Sun">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2023/02/SC-Bernice-Burgos-Off-Plat2-copy.jpg?strip=all&quality=100&w=1080&h=1080&crop=1' alt='Who is Bernice Burgos and how old is she? | The US Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2023/02/SC-Bernice-Burgos-Off-Plat2-copy.jpg?strip=all&quality=100&w=1080&h=1080&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

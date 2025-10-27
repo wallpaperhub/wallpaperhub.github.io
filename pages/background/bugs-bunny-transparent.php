@@ -1,0 +1,129 @@
+<title>Bugs Bunny: The Beloved Cartoon Icon</title>
+                    <meta name="description" content="Discover the charm of Bugs Bunny, the iconic cartoon character loved by generations. Explore his playful antics and timeless wit that make him a symbol of humor and resilience in animation. Perfect for fans of classic cartoons and new audiences alike!">
+                    <meta name="keywords" content="bugs bunny transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bugs-bunny-transparent">
+                            <span itemprop="name">bugs bunny transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bugs Bunny: The Beloved Cartoon Icon</h1>
+                <p>Bugs Bunny, the iconic cartoon character, is not just famous for his wisecracks and clever antics, but also for his transparent appeal that resonates across generations. His playful charm and quick wit make him a beloved figure in animation history. Fans appreciate how effortlessly he remains relatable, embodying humor and resilience in his adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny Transparent PNG Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Bugs_Bunny_Transparent_PNG_Clip_Art_Image.png?m=1629784940' alt='Bugs Bunny Transparent PNG Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2740">
+                                <meta itemprop="height" content="3039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Bugs_Bunny_Transparent_PNG_Clip_Art_Image.png?m=1629784940' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clipart Gallery Looney Toons - Bugs Bunny, HD Png Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/c6/64/d2c66479e1d535ef43611b2d31ed3aed.jpg' alt='Clipart Gallery Looney Toons - Bugs Bunny, HD Png Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/c6/64/d2c66479e1d535ef43611b2d31ed3aed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny | Looney Tunes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/looneytunes/images/2/20/Bugs_Bunny.svg.png/revision/latest?cb=20230717125534' alt='Bugs Bunny | Looney Tunes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looney Tunes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/looneytunes/images/2/20/Bugs_Bunny.svg.png/revision/latest?cb=20230717125534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs bunny png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/670/898/png-clipart-looney-tunes-bugs-bunny-bugs-bunny-looney-tunes-animation-merrie-melodies-cartoon-bugs-bunny-mammal-dog-like-mammal-thumbnail.png' alt='Bugs bunny png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/670/898/png-clipart-looney-tunes-bugs-bunny-bugs-bunny-looney-tunes-animation-merrie-melodies-cartoon-bugs-bunny-mammal-dog-like-mammal-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny Daffy Duck Looney Tunes PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/4c/60/164c60cad88d66a508afb05a9e302a0b.jpg' alt='Bugs Bunny Daffy Duck Looney Tunes PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/4c/60/164c60cad88d66a508afb05a9e302a0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/14/Bugs-Bunny-PNG-Photo.png' alt='Bugs Bunny PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/14/Bugs-Bunny-PNG-Photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/13/Bugs-Bunny-Background-PNG.png' alt='Bugs Bunny PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/13/Bugs-Bunny-Background-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny Png Bundle, Bugs Bunny Png Clipart ,bugs Bunny Stickers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49105148/r/il/c638eb/5757328453/il_570xN.5757328453_8522.jpg' alt='Bugs Bunny Png Bundle, Bugs Bunny Png Clipart ,bugs Bunny Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49105148/r/il/c638eb/5757328453/il_570xN.5757328453_8522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny PNG, Digital Product, Color Illustrations, Bugs Bunny ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37319074/r/il/3d6343/4408780016/il_fullxfull.4408780016_myrs.jpg' alt='Bugs Bunny PNG, Digital Product, Color Illustrations, Bugs Bunny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37319074/r/il/3d6343/4408780016/il_fullxfull.4408780016_myrs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Bunny PNG 1 by ninjaturtles0319 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9384a7ed-c1d1-411b-bb52-eb82f7ca5620/dfpb3wf-ae50ef96-39e3-41ba-80f9-8979be1b637f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzODRhN2VkLWMxZDEtNDExYi1iYjUyLWViODJmN2NhNTYyMFwvZGZwYjN3Zi1hZTUwZWY5Ni0zOWUzLTQxYmEtODBmOS04OTc5YmUxYjYzN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.279ERkPBZL_y0KC8I5BE39Odfl0kqfCFCAS15iwD-4I' alt='Bugs Bunny PNG 1 by ninjaturtles0319 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9384a7ed-c1d1-411b-bb52-eb82f7ca5620/dfpb3wf-ae50ef96-39e3-41ba-80f9-8979be1b637f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzODRhN2VkLWMxZDEtNDExYi1iYjUyLWViODJmN2NhNTYyMFwvZGZwYjN3Zi1hZTUwZWY5Ni0zOWUzLTQxYmEtODBmOS04OTc5YmUxYjYzN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.279ERkPBZL_y0KC8I5BE39Odfl0kqfCFCAS15iwD-4I' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

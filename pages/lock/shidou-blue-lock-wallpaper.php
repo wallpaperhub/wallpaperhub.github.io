@@ -1,0 +1,129 @@
+<title>Top Shidou Blue Lock Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our curated collection of Shidou Blue Lock wallpapers! Perfect for fans seeking to personalize their devices, these high-resolution images highlight Shidou's dynamic character. Download now and bring energy and style to your screens in just a few clicks!">
+                    <meta name="keywords" content="shidou blue lock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/shidou-blue-lock-wallpaper">
+                            <span itemprop="name">shidou blue lock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Shidou Blue Lock Wallpapers for Your Device</h1>
+                <p>Discover stunning Shidou Blue Lock wallpapers that capture the essence of this dynamic character! Perfect for fans, our collection offers high-quality images showcasing Shidou's unique style and energy. Transform your device with these vibrant wallpapers and celebrate your love for Blue Lock like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shidou Ryuusei | Blue Lock Wallpaper #1 2 by ZeroSwim on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/dem66pk-a53e1391-8d06-40da-9a02-fff9393844cd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVtNjZway1hNTNlMTM5MS04ZDA2LTQwZGEtOWEwMi1mZmY5MzkzODQ0Y2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f7QUIyACMgKkYFH7BEGel7KHkoDqMr-fMM6_hZxrzYk' alt='Shidou Ryuusei | Blue Lock Wallpaper #1 2 by ZeroSwim on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/dem66pk-a53e1391-8d06-40da-9a02-fff9393844cd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVtNjZway1hNTNlMTM5MS04ZDA2LTQwZGEtOWEwMi1mZmY5MzkzODQ0Y2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f7QUIyACMgKkYFH7BEGel7KHkoDqMr-fMM6_hZxrzYk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                  -                    」">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/7a/3c/a87a3c06ddfdaf3dcc6525e148c2c7b3.jpg' alt='                  -                    」'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/7a/3c/a87a3c06ddfdaf3dcc6525e148c2c7b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shidou ryusei... // Art by me ^o^ : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shidou-ryusei-art-by-me-o-v0-lnrgyqdjkdda1.png?width=1900&format=png&auto=webp&s=741970faa52a1637b0430696935f612c5e3609d5' alt='Shidou ryusei... // Art by me ^o^ : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="3380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shidou-ryusei-art-by-me-o-v0-lnrgyqdjkdda1.png?width=1900&format=png&auto=webp&s=741970faa52a1637b0430696935f612c5e3609d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shidou wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/3c/9c/3b3c9c0f718fb74f77b076d978ee3524.jpg' alt='Shidou wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/3c/9c/3b3c9c0f718fb74f77b076d978ee3524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shidou Ryusei Blue Lock HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/138/1385130.png' alt='Download Shidou Ryusei Blue Lock HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/138/1385130.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ragnar wxe - Shidou wallpaper   ♥️ #shidou #bluelock... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122177762834112268' alt='Ragnar wxe - Shidou wallpaper   ♥️ #shidou #bluelock... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122177762834112268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shidou Ryusei Blue Lock HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/138/1384110.png' alt='Download Shidou Ryusei Blue Lock HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/138/1384110.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue lock season 2 shidou ryusei wallpaper by Wake_Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=sEdV5NCsDFd41M9u-3xe95ma-HCRfiYUYt66P5QZa1AvvglJCq-ktPkmTER-8J2U0wk9i66icou3mwKshXaMt5qrYdAbRNf4PjrMO7SuyiSFoxXGPZaAjBmVcU7q9nRLWAW-WRUDQgY-kiPctUqJKq7rcCmW-uIGbr2Vba_pg4HE6RQL6cysZnVz5YJANNv1iyd-7GMaposqaNetMzJsTLjb0OJwc1gFShe_Ov--RjSEFY2a8GKmp8MuMO8' alt='Blue lock season 2 shidou ryusei wallpaper by Wake_Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=sEdV5NCsDFd41M9u-3xe95ma-HCRfiYUYt66P5QZa1AvvglJCq-ktPkmTER-8J2U0wk9i66icou3mwKshXaMt5qrYdAbRNf4PjrMO7SuyiSFoxXGPZaAjBmVcU7q9nRLWAW-WRUDQgY-kiPctUqJKq7rcCmW-uIGbr2Vba_pg4HE6RQL6cysZnVz5YJANNv1iyd-7GMaposqaNetMzJsTLjb0OJwc1gFShe_Ov--RjSEFY2a8GKmp8MuMO8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Shidou Wallpaper : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lmjd0al2bmya1.png' alt='Official Shidou Wallpaper : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lmjd0al2bmya1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shidou Ryuusei | Blue Lock Wallpaper #1 3 by ZeroSwim on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/dem66q7-2a66ce6d-2ddd-4025-a677-dc27e453b53b.png/v1/fill/w_707,h_1131,q_70,strp/shidou_ryuusei___blue_lock_wallpaper__1_3_by_zeroswim_dem66q7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVtNjZxNy0yYTY2Y2U2ZC0yZGRkLTQwMjUtYTY3Ny1kYzI3ZTQ1M2I1M2IucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2tbHwpCc00hB-gNNHVkpKTddi4kpA9qVVdycHUE6GIw' alt='Shidou Ryuusei | Blue Lock Wallpaper #1 3 by ZeroSwim on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/dem66q7-2a66ce6d-2ddd-4025-a677-dc27e453b53b.png/v1/fill/w_707,h_1131,q_70,strp/shidou_ryuusei___blue_lock_wallpaper__1_3_by_zeroswim_dem66q7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVtNjZxNy0yYTY2Y2U2ZC0yZGRkLTQwMjUtYTY3Ny1kYzI3ZTQ1M2I1M2IucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2tbHwpCc00hB-gNNHVkpKTddi4kpA9qVVdycHUE6GIw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

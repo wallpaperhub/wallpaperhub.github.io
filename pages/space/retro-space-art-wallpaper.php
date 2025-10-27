@@ -1,0 +1,129 @@
+<title>Retro Space Art Wallpaper: Cosmic Aesthetics for Your Home</title>
+                    <meta name="description" content="Discover enchanting retro space art wallpaper that brings the cosmos to your walls. Perfect for creating a captivating atmosphere, these designs blend nostalgia with modern style, making them ideal for any room. Elevate your space with cosmic charm today!">
+                    <meta name="keywords" content="retro space art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/retro-space-art-wallpaper">
+                            <span itemprop="name">retro space art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Space Art Wallpaper: Cosmic Aesthetics for Your Home</h1>
+                <p>Transform your space with stunning retro space art wallpaper, featuring vibrant galaxies, cosmic landscapes, and vintage sci-fi motifs. Perfect for adding a unique touch to any room, these wallpapers inspire creativity and nostalgia. Explore the universe from your home while enjoying a retro aesthetic that captivates the imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270 Vintage Space Art ideas | space art, retro futurism, vintage space">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ff/34/95/ff3495c535b9eacd867326bb20d538d0.jpg' alt='270 Vintage Space Art ideas | space art, retro futurism, vintage space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ff/34/95/ff3495c535b9eacd867326bb20d538d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Spaceship Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f7/ee/8e/f7ee8e5122a94cd450aab32aed63cb78.jpg' alt='Retro Spaceship Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f7/ee/8e/f7ee8e5122a94cd450aab32aed63cb78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD surreal space wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/494/428/HD-wallpaper-space-promenade-collage-moon-nasa-orange-retro-space-stars-surreal-vintage-thumbnail.jpg' alt='HD surreal space wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/494/428/HD-wallpaper-space-promenade-collage-moon-nasa-orange-retro-space-stars-surreal-vintage-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Space Wallpaper '80s Style, Self Adhesive, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21115285/r/il/f8dd4f/2148836775/il_fullxfull.2148836775_rv9q.jpg' alt='Retro Space Wallpaper '80s Style, Self Adhesive, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21115285/r/il/f8dd4f/2148836775/il_fullxfull.2148836775_rv9q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro Space Poster">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-space-poster_810938-10.jpg' alt='Premium Vector | Retro Space Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-space-poster_810938-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Retro Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-space-1920-x-1080-55jmsq76g3jcmxbt.jpg' alt='100+] Retro Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-space-1920-x-1080-55jmsq76g3jcmxbt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Collage Wallpaper, Vintage Wallpaper, Retro Galaxy Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/466ec0/4934334514/il_570xN.4934334514_8too.jpg' alt='Retro Collage Wallpaper, Vintage Wallpaper, Retro Galaxy Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/466ec0/4934334514/il_570xN.4934334514_8too.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Space Art, retro, planet, digital-universe, artist, artwork ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/623/725/HD-wallpaper-retro-space-art-retro-planet-digital-universe-artist-artwork-digital-art-deviantart.jpg' alt='Retro Space Art, retro, planet, digital-universe, artist, artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/623/725/HD-wallpaper-retro-space-art-retro-planet-digital-universe-artist-artwork-digital-art-deviantart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Retro Space ideas | retro wallpaper, retro futurism, art wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5d/72/31/5d7231f0271c033d48d1a98f70c44d2c.jpg' alt='10 Retro Space ideas | retro wallpaper, retro futurism, art wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5d/72/31/5d7231f0271c033d48d1a98f70c44d2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INTERGALACTIC Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20061_-_intergalactic.jpg' alt='INTERGALACTIC Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20061_-_intergalactic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

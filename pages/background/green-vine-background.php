@@ -1,0 +1,129 @@
+<title>Enhance Your Space with a Lush Green Vine Background</title>
+                    <meta name="description" content="Add a touch of nature to your decor with a stunning green vine background. Perfect for events, photography, or home design, this vibrant backdrop creates a calming atmosphere while enhancing any space's aesthetic appeal. Discover the beauty of greenery today!">
+                    <meta name="keywords" content="green vine background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-vine-background">
+                            <span itemprop="name">green vine background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with a Lush Green Vine Background</h1>
+                <p>Transform your space with a green vine background that brings nature indoors. Perfect for creating a serene atmosphere, these lush, vibrant designs add depth and texture to any setting. Ideal for photography, events, or home decor, a green vine backdrop beautifully complements various styles while promoting a sense of tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Green Vines Wallpaper — E.Lamb Studio">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e8cef24d3d5ba030116ba72/1677800350215-OYWTWR4HJRZGGG6QQU1Z/paintedvine_sagepatternswatch+copy.jpg?format=1000w' alt='Painted Green Vines Wallpaper — E.Lamb Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E.Lamb Studio" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e8cef24d3d5ba030116ba72/1677800350215-OYWTWR4HJRZGGG6QQU1Z/paintedvine_sagepatternswatch+copy.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picture of Moody Green Vine Wall Texture — Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://burst.shopifycdn.com/photos/moody-green-vine-wall-texture.jpg?exif=0&iptc=0' alt='Picture of Moody Green Vine Wall Texture — Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4636">
+                                <meta itemprop="height" content="3091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopify" />
+                                </span>
+                                <a href='https://burst.shopifycdn.com/photos/moody-green-vine-wall-texture.jpg?exif=0&iptc=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AS CREATION Strippable Hedera Green Painterly Vine Wallpaper AS370441 - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8862843e-8148-4f7a-914d-12889fb7dfca/svn/as-creation-wallpaper-rolls-as370441-64_1000.jpg' alt='AS CREATION Strippable Hedera Green Painterly Vine Wallpaper AS370441 - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8862843e-8148-4f7a-914d-12889fb7dfca/svn/as-creation-wallpaper-rolls-as370441-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border or frame of green vine leaves on white wood background with ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2F97BE6/border-or-frame-of-green-vine-leaves-on-white-wood-background-with-copy-space-2F97BE6.jpg' alt='Border or frame of green vine leaves on white wood background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2F97BE6/border-or-frame-of-green-vine-leaves-on-white-wood-background-with-copy-space-2F97BE6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Vine Border Images – Browse 38,396 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/21/04/81/360_F_1221048131_gxxgc3yGQzKvrY6MryytmSWlF6AVscku.jpg' alt='Green Vine Border Images – Browse 38,396 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/21/04/81/360_F_1221048131_gxxgc3yGQzKvrY6MryytmSWlF6AVscku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Vine Wallpaper Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-green-vine-wallpaper-picture-image_1331218.jpg' alt='Green Vine Wallpaper Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-green-vine-wallpaper-picture-image_1331218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Vine Border Images – Browse 38,396 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/78/21/53/360_F_1078215312_PmfTYNsilJH56yewBTdQQyubpZSBtvOm.jpg' alt='Green Vine Border Images – Browse 38,396 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/78/21/53/360_F_1078215312_PmfTYNsilJH56yewBTdQQyubpZSBtvOm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cascading Vines Wallpaper in Green – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/396971-thumbnail.webp?crop=center&height=850&v=1725973363&width=850' alt='Cascading Vines Wallpaper in Green – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/396971-thumbnail.webp?crop=center&height=850&v=1725973363&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine Pattern Background Stock Illustrations – 37,173 Vine Pattern ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rose-vine-background-pattern-light-green-57987060.jpg' alt='Vine Pattern Background Stock Illustrations – 37,173 Vine Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rose-vine-background-pattern-light-green-57987060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanging Watercolor Vines Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK12060RLex.jpg?v=1640721126' alt='Hanging Watercolor Vines Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK12060RLex.jpg?v=1640721126' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

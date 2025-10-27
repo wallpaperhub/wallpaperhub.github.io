@@ -1,0 +1,129 @@
+<title>Understanding National Agency Checks: Your Guide to Security Backgrounds</title>
+                    <meta name="description" content="Discover the essentials of National Agency Checks (NAC) – the key background investigation for security clearance. Learn how NAC evaluates criminal history, employment, and credit records to ensure candidates are trustworthy. Get informed about the importance of NAC in maintaining national security.">
+                    <meta name="keywords" content="national agency check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/national-agency-check">
+                            <span itemprop="name">national agency check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding National Agency Checks: Your Guide to Security Backgrounds</h1>
+                <p>A National Agency Check (NAC) is a thorough security background investigation conducted by government authorities. It aims to assess an individual’s suitability for access to classified information or positions of trust. The process typically includes checks on criminal history, employment, and credit records, ensuring the individual meets necessary security standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Agency Check with Law and Credit">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52d6cb6be4b0b5fc69b8d205/1393279367522-WD39L4TWQYJJJE3LNIHC/national-security-screening.jpg?format=2500w' alt='National Agency Check with Law and Credit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KENTECH" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52d6cb6be4b0b5fc69b8d205/1393279367522-WD39L4TWQYJJJE3LNIHC/national-security-screening.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a NACLC?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tgUx9iE5NAQ/maxresdefault.jpg' alt='What is a NACLC?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tgUx9iE5NAQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding NACI: The Key to Effective Cleared Recruitment ...">
+                                <img itemprop="contentUrl url" src='https://iquasar.com/wp-content/uploads/2024/05/Understanding-NACI-The-Key-to-Effective-Cleared-Recruitment-01.jpg' alt='Understanding NACI: The Key to Effective Cleared Recruitment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iQuasar" />
+                                </span>
+                                <a href='https://iquasar.com/wp-content/uploads/2024/05/Understanding-NACI-The-Key-to-Effective-Cleared-Recruitment-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report Tile Processing Investigative Forms - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/8822772/26/images/36/National+Agency+Check+%28NAC%29.jpg' alt='Report Tile Processing Investigative Forms - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/8822772/26/images/36/National+Agency+Check+%28NAC%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NAC - "National Agency Check" by AcronymsAndSlang.com">
+                                <img itemprop="contentUrl url" src='http://acronymsandslang.com/acronym_image/278/212aee7cca1a96c4058f77cebba74bd2.jpg' alt='NAC - "National Agency Check" by AcronymsAndSlang.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AcronymsAndSlang.com" />
+                                </span>
+                                <a href='http://acronymsandslang.com/acronym_image/278/212aee7cca1a96c4058f77cebba74bd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GSA Form 176 Download Fillable PDF or Fill Online Basic National ...">
+                                <img itemprop="contentUrl url" src='https://data.templateroller.com/pdf_docs_html/2465/24651/2465132/page_1_thumb_950.png' alt='GSA Form 176 Download Fillable PDF or Fill Online Basic National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateRoller" />
+                                </span>
+                                <a href='https://data.templateroller.com/pdf_docs_html/2465/24651/2465132/page_1_thumb_950.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PPT - Personnel Security and Suitability Program PowerPoint ...">
+                                <img itemprop="contentUrl url" src='https://image.slideserve.com/312809/national-agency-check-with-inquiries-naci-l.jpg' alt='PPT - Personnel Security and Suitability Program PowerPoint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideServe" />
+                                </span>
+                                <a href='https://image.slideserve.com/312809/national-agency-check-with-inquiries-naci-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="APWU: Arbitrability on National Agency Check with Inquiries (NACI ...">
+                                <img itemprop="contentUrl url" src='https://www.21cpw.com/wp-content/uploads/2023/07/background-screening.jpg' alt='APWU: Arbitrability on National Agency Check with Inquiries (NACI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1102">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="21st Century Postal Worker" />
+                                </span>
+                                <a href='https://www.21cpw.com/wp-content/uploads/2023/07/background-screening.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Differences Between Tier 4 and Tier 5 Security Clearance ...">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' alt='Differences Between Tier 4 and Tier 5 Security Clearance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NACLAC - National Agency Check Local Agency Check">
+                                <img itemprop="contentUrl url" src='https://www.abbr.com/images/1494375_NACLAC.png' alt='NACLAC - National Agency Check Local Agency Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abbreviations.com" />
+                                </span>
+                                <a href='https://www.abbr.com/images/1494375_NACLAC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

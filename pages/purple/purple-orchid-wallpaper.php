@@ -1,0 +1,129 @@
+<title>Stunning Purple Orchid Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Add elegance to your home with our beautiful purple orchid wallpaper. Ideal for any room, it creates a serene atmosphere and complements your decor effortlessly. Perfect for those looking to make a stylish statement, our vibrant designs are the key to transforming your space into a floral oasis!">
+                    <meta name="keywords" content="purple orchid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-orchid-wallpaper">
+                            <span itemprop="name">purple orchid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Orchid Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with enchanting purple orchid wallpaper. Ideal for enhancing any room, this vibrant design brings elegance and tranquility to your walls. Perfect for creating a calming atmosphere or making a bold statement, the rich hues of purple evoke a sense of luxury and beauty. Update your decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orchid Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1534885320675-b08aa131cc5e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwb3JjaGlkfGVufDB8fDB8fHww' alt='Purple Orchid Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1534885320675-b08aa131cc5e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwb3JjaGlkfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orchid Images – Browse 435,837 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/31/56/89/360_F_231568951_CqwioU2yoL4mrQxJ5tyry7P1qDxoLcXN.jpg' alt='Purple Orchid Images – Browse 435,837 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/31/56/89/360_F_231568951_CqwioU2yoL4mrQxJ5tyry7P1qDxoLcXN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orchid Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42275_WP.jpg' alt='Purple Orchid Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42275_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Purple Orchids – extraordinary wall mural– Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52957/soft-purple-orchids.jpg?h=699&q=85' alt='Soft Purple Orchids – extraordinary wall mural– Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52957/soft-purple-orchids.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Elegant purple orchids Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/7/e/4/7e4b63b8-d7fe-407e-86a8-56b031daf5cb_large/elegant-purple-orchids-stockcake.jpg' alt='Free Elegant purple orchids Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/7/e/4/7e4b63b8-d7fe-407e-86a8-56b031daf5cb_large/elegant-purple-orchids-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple orchid iPhone wallpaper background lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/db/63/40db632f696444d4d04df0a0a5e132eb.jpg' alt='Purple orchid iPhone wallpaper background lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/db/63/40db632f696444d4d04df0a0a5e132eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Purple Excitement - Orchid Flower Motif on a White Brick  Background - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/60243/role/image/size/1500x2240/type/ftw-osmr-wiz1/4c21b2a4a350ae1da3aa06e77cb303c7.webp' alt='Wall Mural Purple Excitement - Orchid Flower Motif on a White Brick  Background - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/60243/role/image/size/1500x2240/type/ftw-osmr-wiz1/4c21b2a4a350ae1da3aa06e77cb303c7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Purple Orchid: HD Wallpaper for Nature Lovers">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/728/thumb-1920-728406.jpg' alt='Elegant Purple Orchid: HD Wallpaper for Nature Lovers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/728/thumb-1920-728406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,245 Purple Orchid Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-close-up-purple-orchid-dew-drops-dark-background-ideal-iphone-wallpaper-showcases-striking-adorned-343379685.jpg' alt='8,245 Purple Orchid Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-close-up-purple-orchid-dew-drops-dark-background-ideal-iphone-wallpaper-showcases-striking-adorned-343379685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orchid with Reflection">
+                                <img itemprop="contentUrl url" src='http://www.wallmonkeys.com/cdn/shop/products/48690650-LRG_1024x1024.jpg?v=1578660853' alt='Purple Orchid with Reflection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmonkeys" />
+                                </span>
+                                <a href='http://www.wallmonkeys.com/cdn/shop/products/48690650-LRG_1024x1024.jpg?v=1578660853' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

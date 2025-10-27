@@ -1,0 +1,129 @@
+<title>Beautiful Bookish Phone Wallpapers for Every Book Lover</title>
+                    <meta name="description" content="Discover stunning bookish phone wallpapers that celebrate your love for literature! Explore a variety of designs featuring iconic quotes and enchanting illustrations. Perfect for adding a literary touch to your device, these wallpapers are a must-have for any avid reader. Download your favorite today!">
+                    <meta name="keywords" content="bookish phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/bookish-phone-wallpaper">
+                            <span itemprop="name">bookish phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Bookish Phone Wallpapers for Every Book Lover</h1>
+                <p>Bookish phone wallpapers are perfect for literary lovers who want to showcase their passion for reading! These wallpapers feature quotes, illustrations, and scenes inspired by classic and contemporary literature. Elevate your phone's aesthetic and carry a piece of your favorite book wherever you go. Perfect for readers of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Phone Wallpaper, 12 Hand Drawn Phone Wall Paper for Book Lovers,  Book Stack Monthly Wall Paper for People Who Love Books - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8580563/r/il/c75318/5503816248/il_1080xN.5503816248_40xu.jpg' alt='Bookish Phone Wallpaper, 12 Hand Drawn Phone Wall Paper for Book Lovers,  Book Stack Monthly Wall Paper for People Who Love Books - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8580563/r/il/c75318/5503816248/il_1080xN.5503816248_40xu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Phone Wallpapers High-res Digital Lock Screen for iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34658090/r/il/25a5ac/6282047874/il_570xN.6282047874_sm0i.jpg' alt='Bookish Phone Wallpapers High-res Digital Lock Screen for iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34658090/r/il/25a5ac/6282047874/il_570xN.6282047874_sm0i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/79/58/367958bf63128ea6756b4a58daf99437.jpg' alt='Bookish Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/79/58/367958bf63128ea6756b4a58daf99437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Phone Wallpapers – TBHStore">
+                                <img itemprop="contentUrl url" src='https://www.tbhstore.in/cdn/shop/products/TBH_PhoneWallpapers_87__ProductImage.jpg?v=1661772891&width=533' alt='Bookish Phone Wallpapers – TBHStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TBHStore" />
+                                </span>
+                                <a href='https://www.tbhstore.in/cdn/shop/products/TBH_PhoneWallpapers_87__ProductImage.jpg?v=1661772891&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Wallpapers - Ginger and Ivory">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/gingerandivory.com/wp-content/uploads/2024/06/Untitled_Artwork-scaled.jpg?ssl=1' alt='Fantasy Wallpapers - Ginger and Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ginger and Ivory" />
+                                </span>
+                                <a href='https://i0.wp.com/gingerandivory.com/wp-content/uploads/2024/06/Untitled_Artwork-scaled.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Wallpapers | Gabby's Happy Place">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.gabbyshappyplace.com/wp-content/uploads/2024/03/img_9111-1.png?resize=1170%2C2532&ssl=1' alt='Bookish Wallpapers | Gabby's Happy Place'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gabby's Happy Place" />
+                                </span>
+                                <a href='https://i0.wp.com/www.gabbyshappyplace.com/wp-content/uploads/2024/03/img_9111-1.png?resize=1170%2C2532&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable book wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFo48HPZCU/1/0/900w/canva-book-phone-wallpaper-jS5i34Iv7Hs.jpg' alt='Free and customizable book wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFo48HPZCU/1/0/900w/canva-book-phone-wallpaper-jS5i34Iv7Hs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookish Wallpaper ❤️ Stunning on your Lock Screen   ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAi-7IkvWyc/2/image.jpg' alt='Bookish Wallpaper ❤️ Stunning on your Lock Screen   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAi-7IkvWyc/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bookish Tropes and Florals Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='http://darkmidnightdesignco.com/cdn/shop/products/purple-bookish-tropes-and-florals-phone-wallpaper-676012.jpg?v=1690549337' alt='Purple Bookish Tropes and Florals Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dark Midnight Design Co." />
+                                </span>
+                                <a href='http://darkmidnightdesignco.com/cdn/shop/products/purple-bookish-tropes-and-florals-phone-wallpaper-676012.jpg?v=1690549337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/8c/ff/bc8cff1fca11e47f4c8a490a5fbf993d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/8c/ff/bc8cff1fca11e47f4c8a490a5fbf993d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Black and Pink Marble Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover the beauty of black and pink marble wallpaper, ideal for adding elegance to any room. Perfect for stylish home decor, this wallpaper combines sophistication and modern design, creating a stunning focal point. Transform your space with ease and enjoy a chic new look.">
+                    <meta name="keywords" content="black and pink marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/black-and-pink-marble-wallpaper">
+                            <span itemprop="name">black and pink marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Pink Marble Wallpaper for Modern Spaces</h1>
+                <p>Transform your space with striking black and pink marble wallpaper. This elegant design adds a touch of sophistication and modernity to any room. Perfect for accent walls, it creates a stunning visual appeal while being easy to coordinate with various color palettes. Elevate your interiors effortlessly with this luxurious choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink + Black Marble Swirl Seamless Background Texture - Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/91d3e0/3834907344/il_fullxfull.3834907344_ky9n.jpg' alt='Pink + Black Marble Swirl Seamless Background Texture - Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/91d3e0/3834907344/il_fullxfull.3834907344_ky9n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Black Marble – extraordinary wall mural– Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/62917/pink-and-black-marble.jpg?h=699&q=85' alt='Pink and Black Marble – extraordinary wall mural– Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/62917/pink-and-black-marble.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Marble Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-19237.jpg' alt='Black Pink Marble Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-19237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and rose gold marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/97/c3/af97c349622cc212bbadbb8e214b8fb0.jpg' alt='Black and rose gold marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/97/c3/af97c349622cc212bbadbb8e214b8fb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Background Black Pink Marble Texture Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1600726858/display_1500/stock-photo-abstract-background-black-and-pink-marble-texture-digital-design-1600726858.jpg' alt='Abstract Background Black Pink Marble Texture Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1600726858/display_1500/stock-photo-abstract-background-black-and-pink-marble-texture-digital-design-1600726858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Black Marble Backgrounds, Hot Pink and Black Marble With Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32406609/r/il/cea6b4/4881263570/il_fullxfull.4881263570_i7ul.jpg' alt='Pink Black Marble Backgrounds, Hot Pink and Black Marble With Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32406609/r/il/cea6b4/4881263570/il_fullxfull.4881263570_i7ul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Pink Marble Images – Browse 74,612 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/43/37/81/360_F_543378163_h5m8aQTBs2up8REdkUbVf5xbWWyLtdKl.jpg' alt='Black And Pink Marble Images – Browse 74,612 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/43/37/81/360_F_543378163_h5m8aQTBs2up8REdkUbVf5xbWWyLtdKl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Marble Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjc0Mi1teW50LTAzXzEuanBn.jpg' alt='Black Pink Marble Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjc0Mi1teW50LTAzXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Black Marble Stock Illustrations – 19,862 Pink Black Marble ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/design-features-stunning-marble-pattern-soft-swirls-light-pink-vibrant-black-deep-red-curly-generated-using-344362431.jpg' alt='Pink Black Marble Stock Illustrations – 19,862 Pink Black Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/design-features-stunning-marble-pattern-soft-swirls-light-pink-vibrant-black-deep-red-curly-generated-using-344362431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black marble/Pink glitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/71/b0/ec71b04d3f3c4febd0472f6e661f0231.jpg' alt='Black marble/Pink glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/71/b0/ec71b04d3f3c4febd0472f6e661f0231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

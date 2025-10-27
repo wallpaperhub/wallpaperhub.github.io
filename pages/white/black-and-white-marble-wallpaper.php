@@ -1,0 +1,129 @@
+<title>Elegant Black and White Marble Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Discover the beauty of black and white marble wallpaper, perfect for elevating your home's style. This elegant design adds sophistication and richness to any room. Easy to apply and maintain, it’s the ideal choice for a chic update that blends seamlessly with any decor!">
+                    <meta name="keywords" content="black and white marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-marble-wallpaper">
+                            <span itemprop="name">black and white marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Marble Wallpaper for Modern Interiors</h1>
+                <p>Transform your space with stunning black and white marble wallpaper that exudes elegance and sophistication. Ideal for any room, this wallpaper creates a luxurious backdrop, complementing modern and classic decor. Its timeless pattern enhances style while being easy to apply and maintain. Enhance your ambiance effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Marble Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat82304012-48.jpg' alt='Black and White Marble Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat82304012-48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Modern Marble wallpaper in black and white – I Love ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_BlackandWhite_ILW50114_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420044&width=1024' alt='Sample of Modern Marble wallpaper in black and white – I Love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_BlackandWhite_ILW50114_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420044&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faded White and Black Marble Mural Wallpaper M9257">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/2001006_707ccad4-e672-4495-a345-eb98dc98578c.jpg?v=1582734424&width=1024' alt='Faded White and Black Marble Mural Wallpaper M9257'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/2001006_707ccad4-e672-4495-a345-eb98dc98578c.jpg?v=1582734424&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Silver Marble Waves Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/11326/black_and_silver_marble_waves_limited.jpg' alt='Black And Silver Marble Waves Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/11326/black_and_silver_marble_waves_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white marble 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-white-marble-tcittxjyika5cdkx.jpg' alt='Black and white marble 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-white-marble-tcittxjyika5cdkx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Marble Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/dd/fb/b8ddfbb198825156089392b60b25b1ab.jpg' alt='Black Marble Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/dd/fb/b8ddfbb198825156089392b60b25b1ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRETTY MARBLE WALLPAPER- Black and White Marble- Adhesive Marble ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/e2634b/3635363431/il_fullxfull.3635363431_b55e.jpg' alt='PRETTY MARBLE WALLPAPER- Black and White Marble- Adhesive Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/e2634b/3635363431/il_fullxfull.3635363431_b55e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthome 15.7"x120" Black Marble Contact Paper, Self Adhesive Wallpaper,Peel  and Stick Black Paper Removable Decorative Film for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71DQDLgOm4L.jpg' alt='Arthome 15.7"x120" Black Marble Contact Paper, Self Adhesive Wallpaper,Peel  and Stick Black Paper Removable Decorative Film for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71DQDLgOm4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Black Marble Wallpapers [55+ Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/52/black-and-white-marble-wallpaper-mac-1600x900.jpg' alt='White and Black Marble Wallpapers [55+ Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/52/black-and-white-marble-wallpaper-mac-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble by Coordonne - Black - Wallpaper - 5800043">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/135537/tiled/coordonne-marble-black-wallpaper-tiled-135537.jpg' alt='Marble by Coordonne - Black - Wallpaper - 5800043'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/135537/tiled/coordonne-marble-black-wallpaper-tiled-135537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

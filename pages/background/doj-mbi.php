@@ -1,0 +1,129 @@
+<title>Understanding DOJ MBI: A Guide to Business Ethics</title>
+                    <meta name="description" content="Explore the DOJ MBI, a pivotal initiative by the Department of Justice that promotes ethical practices and transparency in business. Discover how adopting best compliance practices can enhance trust and accountability in your organization. Stay informed and foster a culture of integrity in your business today!">
+                    <meta name="keywords" content="doj mbi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/doj-mbi">
+                            <span itemprop="name">doj mbi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding DOJ MBI: A Guide to Business Ethics</h1>
+                <p>DOJ MBI refers to the Department of Justice's Model Business Initiative, aimed at enhancing transparency and ethical practices in various industries. This initiative encourages businesses to adopt best practices in compliance, transparency, and accountability, focusing on fostering an environment of integrity and trust across all sectors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Differences Between Tier 4 and Tier 5 Security Clearance ...">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' alt='Differences Between Tier 4 and Tier 5 Security Clearance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2020/04/FIS-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medicare Beneficiary Identifier Required in 2020 - No World ...">
+                                <img itemprop="contentUrl url" src='https://noworldborders.com/wp-content/uploads/2020/01/Medicare-Insurance-Card-MBI-number-e1578539095768.jpg' alt='Medicare Beneficiary Identifier Required in 2020 - No World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="No World Borders" />
+                                </span>
+                                <a href='https://noworldborders.com/wp-content/uploads/2020/01/Medicare-Insurance-Card-MBI-number-e1578539095768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statewide Efforts | MISSISSIPPI BUREAU OF INVESTIGATION HUMAN ...">
+                                <img itemprop="contentUrl url" src='https://www.dps.ms.gov/humantrafficking/sites/humantrafficking/files/WebsiteLogoSeals2023.jpg' alt='Statewide Efforts | MISSISSIPPI BUREAU OF INVESTIGATION HUMAN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Mississippi Department of Public Safety - | MS.GOV" />
+                                </span>
+                                <a href='https://www.dps.ms.gov/humantrafficking/sites/humantrafficking/files/WebsiteLogoSeals2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ICC/MBI 1200-2021 Standard for Off-site Construction: Planning, Design,  Fabrication and Assembly">
+                                <img itemprop="contentUrl url" src='https://cdn-shop-v2.iccsafe.org/media/amasty/webp/catalog/product/cache/da96a82bba3932034ead04d2ccc1acca/7/0/7057p21_1_1_jpg.webp' alt='ICC/MBI 1200-2021 Standard for Off-site Construction: Planning, Design,  Fabrication and Assembly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ICC Store - International Code Council" />
+                                </span>
+                                <a href='https://cdn-shop-v2.iccsafe.org/media/amasty/webp/catalog/product/cache/da96a82bba3932034ead04d2ccc1acca/7/0/7057p21_1_1_jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Mississippi Bureau of Investigation">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066507142325' alt='Profile for Mississippi Bureau of Investigation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066507142325' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medicare Beneficiary Identifier Required in 2020 - No World ...">
+                                <img itemprop="contentUrl url" src='https://noworldborders.com/wp-content/uploads/2020/01/2020-01-08_Medicare-MBI-Card.jpg' alt='Medicare Beneficiary Identifier Required in 2020 - No World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1109">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="No World Borders" />
+                                </span>
+                                <a href='https://noworldborders.com/wp-content/uploads/2020/01/2020-01-08_Medicare-MBI-Card.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Florida Metropolitan Bureau Of Investigations MBI Police ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.worthpoint.com/zoom/images1/1/0321/17/central-florida-metropolitan-bureau_1_5faee4b8dd7fd1940834c1ed4ee3825c.jpg' alt='Central Florida Metropolitan Bureau Of Investigations MBI Police ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1113">
+                                <meta itemprop="height" content="1117">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorthPoint" />
+                                </span>
+                                <a href='https://thumbs.worthpoint.com/zoom/images1/1/0321/17/central-florida-metropolitan-bureau_1_5faee4b8dd7fd1940834c1ed4ee3825c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOJ Policy Statement 1700.01: Contractor Security Requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e15723c353ae10a41efeb1d1d61a602ade5c401895ba76bd5b4fb030b893d9a3' alt='DOJ Policy Statement 1700.01: Contractor Security Requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Department of Justice" />
+                                </span>
+                                <a href='x-raw-image:///e15723c353ae10a41efeb1d1d61a602ade5c401895ba76bd5b4fb030b893d9a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Florida Metropolitan Bureau Of Investigations MBI Police ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.worthpoint.com/zoom/images2/1/0321/17/central-florida-metropolitan-bureau_1_5faee4b8dd7fd1940834c1ed4ee3825c.jpg' alt='Central Florida Metropolitan Bureau Of Investigations MBI Police ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorthPoint" />
+                                </span>
+                                <a href='https://thumbs.worthpoint.com/zoom/images2/1/0321/17/central-florida-metropolitan-bureau_1_5faee4b8dd7fd1940834c1ed4ee3825c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="POLITICO Pro | Article | Building products deal abandoned in face ...">
+                                <img itemprop="contentUrl url" src='https://static.politico.com/65/ad/984f4c284f1c8ebf46fc1e1c9d4c/victims-compensation-26482.jpg' alt='POLITICO Pro | Article | Building products deal abandoned in face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5486">
+                                <meta itemprop="height" content="3658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="POLITICO Pro" />
+                                </span>
+                                <a href='https://static.politico.com/65/ad/984f4c284f1c8ebf46fc1e1c9d4c/victims-compensation-26482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

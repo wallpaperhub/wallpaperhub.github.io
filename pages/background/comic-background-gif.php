@@ -1,0 +1,129 @@
+<title>Comic Background GIFs: Energize Your Projects</title>
+                    <meta name="description" content="Explore the dynamic appeal of comic background GIFs! Perfect for enhancing social media posts, websites, and presentations, these animated backgrounds bring your favorite comic themes to life. Capture attention with vibrant visuals that add flair to any project. Discover more today!">
+                    <meta name="keywords" content="comic background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/comic-background-gif">
+                            <span itemprop="name">comic background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comic Background GIFs: Energize Your Projects</h1>
+                <p>Discover the vibrant world of comic background GIFs! These animated visuals can add a dynamic flair to your projects. Perfect for social media, websites, or presentations, they capture attention and create an engaging atmosphere. Explore various styles and colors that bring to life your favorite comic themes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comics Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/2307795-iQDgKlCsrf-high_0013.jpg?w=660&q=60&fit=max&auto=format' alt='Comics Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/2307795-iQDgKlCsrf-high_0013.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comics Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-585264-X6ESSkHPwr-high_0000.jpg?w=660&q=60&fit=max&auto=format' alt='Comics Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-585264-X6ESSkHPwr-high_0000.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="animated motion graphic of comic style retro manga cartoon background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/123/662/small_2x/animated-motion-graphic-of-comic-style-retro-manga-cartoon-background-free-video.jpg' alt='animated motion graphic of comic style retro manga cartoon background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/123/662/small_2x/animated-motion-graphic-of-comic-style-retro-manga-cartoon-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comics Background Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/224/746/small/background-in-pop-art-and-comic-style-free-video.jpg' alt='Comics Background Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/224/746/small/background-in-pop-art-and-comic-style-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Background GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/EXbNcEviHwSKASvqqn/giphy.gif?cid=6c09b9529zc6dyqupev9xg6xumuchzykn7z0550o9cs886db&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Vector Background GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/EXbNcEviHwSKASvqqn/giphy.gif?cid=6c09b9529zc6dyqupev9xg6xumuchzykn7z0550o9cs886db&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic background animation, expression balloon pop art style 4k video  Animation, 4k animated radial rays and dots pattern, Motion graphics and  digital composition, vintage pop art background.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/897/539/small_2x/comic-background-animation-expression-balloon-pop-art-style-4k-animation-4k-animated-radial-rays-and-dots-pattern-motion-graphics-and-digital-composition-vintage-pop-art-background-free-video.jpg' alt='Comic background animation, expression balloon pop art style 4k video  Animation, 4k animated radial rays and dots pattern, Motion graphics and  digital composition, vintage pop art background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/897/539/small_2x/comic-background-animation-expression-balloon-pop-art-style-4k-animation-4k-animated-radial-rays-and-dots-pattern-motion-graphics-and-digital-composition-vintage-pop-art-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Comics Meme - Vector comics - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/6kpJw4Pxa7QAAAAe/vector-comics.png' alt='Vector Comics Meme - Vector comics - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/6kpJw4Pxa7QAAAAe/vector-comics.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5e/e4/4d/5ee44daed95a11400250d1aefc75f5d6.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5e/e4/4d/5ee44daed95a11400250d1aefc75f5d6.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/04/e9/34/04e93430e4f7cb5547400f9dae372ff4.gif' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/04/e9/34/04e93430e4f7cb5547400f9dae372ff4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract background Radial lines rotates yellow style comic cartoon  background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/079/761/original/abstract-background-radial-lines-rotates-yellow-style-comic-cartoon-background-free-video.jpg' alt='Abstract background Radial lines rotates yellow style comic cartoon  background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/079/761/original/abstract-background-radial-lines-rotates-yellow-style-comic-cartoon-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

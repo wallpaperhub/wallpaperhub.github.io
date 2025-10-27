@@ -1,0 +1,129 @@
+<title>Stunning 4K HDR Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover a wide range of 4K HDR wallpapers that enhance your screen's visual appeal. Enjoy vibrant colors and crisp details tailored for all devices. Elevate your aesthetic with stunning images perfect for every style. Download now and transform your device with amazing high-definition wallpapers!">
+                    <meta name="keywords" content="4k hdr wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-hdr-wallpaper">
+                            <span itemprop="name">4k hdr wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K HDR Wallpapers for Every Device</h1>
+                <p>Transform your device's look with stunning 4K HDR wallpapers! Experience breathtaking visuals that bring your screens to life, showcasing vivid colors and remarkable detail. Perfect for gamers, photographers, and anyone who loves high-definition aesthetics. Explore an extensive collection of wallpapers tailored to elevate your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/302820/pexels-photo-302820.jpeg?cs=srgb&dl=pexels-pixabay-302820.jpg&fm=jpg' alt='Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/302820/pexels-photo-302820.jpeg?cs=srgb&dl=pexels-pixabay-302820.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg?cs=srgb&dl=pexels-pixabay-258196.jpg&fm=jpg' alt='Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg?cs=srgb&dl=pexels-pixabay-258196.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2217364/pexels-photo-2217364.jpeg?cs=srgb&dl=pexels-eberhardgross-2217364.jpg&fm=jpg' alt='Hdr Photos, Download The BEST Free Hdr Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5443">
+                                <meta itemprop="height" content="3623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2217364/pexels-photo-2217364.jpeg?cs=srgb&dl=pexels-eberhardgross-2217364.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K wallpapers in 3840x2160 - HDRshooter">
+                                <img itemprop="contentUrl url" src='https://photos.smugmug.com/Wallpapers/i-9f7H7SN/0/01c72b86/O/HDRshooter-4K-wallpaper-053-3840x2160.jpg' alt='4K wallpapers in 3840x2160 - HDRshooter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HDRshooter" />
+                                </span>
+                                <a href='https://photos.smugmug.com/Wallpapers/i-9f7H7SN/0/01c72b86/O/HDRshooter-4K-wallpaper-053-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K wallpapers in 3840x2160 - HDRshooter">
+                                <img itemprop="contentUrl url" src='https://photos.smugmug.com/Wallpapers/i-JnKVxG6/0/ece055d7/L/HDRshooter-4K-wallpaper-015-3840x2160-L.jpg' alt='4K wallpapers in 3840x2160 - HDRshooter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HDRshooter" />
+                                </span>
+                                <a href='https://photos.smugmug.com/Wallpapers/i-JnKVxG6/0/ece055d7/L/HDRshooter-4K-wallpaper-015-3840x2160-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Stunning Gaming Wallpapers: Vibrant Colors ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/70/92/44/1000_F_570924499_gz81iZ2hJz6Ji4HFKXUS0vGsvIITWUhG.jpg' alt='Photo & Art Print Stunning Gaming Wallpapers: Vibrant Colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/70/92/44/1000_F_570924499_gz81iZ2hJz6Ji4HFKXUS0vGsvIITWUhG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tranquil Reflections: 4K Ultra HD HDR Landscape Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/158/158231.jpg' alt='Tranquil Reflections: 4K Ultra HD HDR Landscape Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/158/158231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stunning 4K HDR Forest Landscape Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-hdr-2406-x-1322-wallpaper-t04nyhuexzlg07sl.jpg' alt='Download Stunning 4K HDR Forest Landscape Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-hdr-2406-x-1322-wallpaper-t04nyhuexzlg07sl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hdr Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1453747063559-36695c8771bd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGRyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Hdr Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1453747063559-36695c8771bd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGRyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston's Skyline: A Stunning 4K Ultra HD HDR Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/666/666439.jpg' alt='Boston's Skyline: A Stunning 4K Ultra HD HDR Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/666/666439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Revitalize Your Bathroom with Green Leaf Wallpaper</title>
+                    <meta name="description" content="Add a touch of nature to your bathroom with green leaf wallpaper. This stunning design offers a refreshing ambiance, making your space feel lively and tranquil. Ideal for any décor, it’s easy to install and maintain, ensuring a stylish and serene bathroom environment.">
+                    <meta name="keywords" content="green leaf wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/green-leaf-wallpaper-bathroom">
+                            <span itemprop="name">green leaf wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Bathroom with Green Leaf Wallpaper</h1>
+                <p>Transform your bathroom into a serene oasis with vibrant green leaf wallpaper. Embrace the calming effects of nature right in your space! The lush patterns not only enhance aesthetics but also evoke a fresh, clean ambiance. Perfect for any bathroom style, this wallpaper brings life and tranquility to your daily routine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WESTICK Tropical Wallpaper Peel and Stick Modern Green Leaf Wallpapers  Bathroom Waterproof Botanical Wall Paper Jungle Wallpaper Tropical Green ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ESS7necjL.jpg' alt='WESTICK Tropical Wallpaper Peel and Stick Modern Green Leaf Wallpapers  Bathroom Waterproof Botanical Wall Paper Jungle Wallpaper Tropical Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ESS7necjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exotic Banana Leaf Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000026-1_1.jpg' alt='Exotic Banana Leaf Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000026-1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Golden and Green Leaves in a Jungle Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/1212fe/3765647094/il_fullxfull.3765647094_243s.jpg' alt='Tropical Golden and Green Leaves in a Jungle Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/1212fe/3765647094/il_fullxfull.3765647094_243s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: MelunMer Modern Leaf Peel and Stick Wallpaper Boho Green  Contact Paper for Cabinets Self-Adhesive Removable Wallpaper for Bedroom  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81i+H0nGHfL.jpg' alt='Amazon.com: MelunMer Modern Leaf Peel and Stick Wallpaper Boho Green  Contact Paper for Cabinets Self-Adhesive Removable Wallpaper for Bedroom  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81i+H0nGHfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Green Bathroom Designs To Add To Your Mood Board | Luxe ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/wlzmdirin2hy/wrCWmL6Qik84QYjoiBvLL/24ae3a3299f0b6721ef6173ec0c27790/LX_Miami51_HOM_McCann_08.jpg' alt='11 Green Bathroom Designs To Add To Your Mood Board | Luxe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Luxe Interiors + Design" />
+                                </span>
+                                <a href='https://images.ctfassets.net/wlzmdirin2hy/wrCWmL6Qik84QYjoiBvLL/24ae3a3299f0b6721ef6173ec0c27790/LX_Miami51_HOM_McCann_08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/Screenshot_200.jpg?v=1563003004' alt='FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/Screenshot_200.jpg?v=1563003004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Green Tropical Leaves Wallpaper Mural M9985-Sample">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/M9985.Roomshot_22e209d4-9ac9-4bca-b848-1141a1add10d.png?v=1635167312&width=1024' alt='Jungle Green Tropical Leaves Wallpaper Mural M9985-Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/M9985.Roomshot_22e209d4-9ac9-4bca-b848-1141a1add10d.png?v=1635167312&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SCOTT LIVING Brentwood Green Palm Leaves Wallpaper Sample 4034-72116SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/98c60d84-7b53-4f61-9fd6-eb30912c544a/svn/wallpaper-samples-4034-72116sam-c3_600.jpg' alt='SCOTT LIVING Brentwood Green Palm Leaves Wallpaper Sample 4034-72116SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/98c60d84-7b53-4f61-9fd6-eb30912c544a/svn/wallpaper-samples-4034-72116sam-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Tropical Dark Green And Golden Leaves Wallpaper, Luxe ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2024/04/3_10-scaled.jpg' alt='Large Tropical Dark Green And Golden Leaves Wallpaper, Luxe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2024/04/3_10-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Grey Botanical Leaf Wallpaper Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/green-feather-leaves-mural-wallpaper-bathroom.jpg?v=1710128301&width=1445' alt='Elegant Grey Botanical Leaf Wallpaper Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/green-feather-leaves-mural-wallpaper-bathroom.jpg?v=1710128301&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

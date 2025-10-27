@@ -1,0 +1,129 @@
+<title>Imagery in "The Yellow Wallpaper": A Study of Madness</title>
+                    <meta name="description" content="Explore the powerful imagery in "The Yellow Wallpaper" and its impact on the themes of mental health and repression. Discover how Charlotte Perkins Gilman uses vivid descriptive elements to illustrate the protagonist's struggle and descent into madness in this iconic short story.">
+                    <meta name="keywords" content="imagery in the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/imagery-in-the-yellow-wallpaper">
+                            <span itemprop="name">imagery in the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Imagery in "The Yellow Wallpaper": A Study of Madness</h1>
+                <p>In "The Yellow Wallpaper," Charlotte Perkins Gilman employs rich imagery to convey the protagonist's descent into madness. The wallpaper itself symbolizes her imprisonment, depicting chaotic patterns that reflect her mental state. As she fixates on its design, it transforms into a haunting representation of her struggle for identity and freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes, Symbols & Motifs Activity for The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' alt='Themes, Symbols & Motifs Activity for The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Figurative Language in The Yellow Wallpaper | Example & Analysis Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/tn7zcnfe0j.jpg' alt='Figurative Language in The Yellow Wallpaper | Example & Analysis Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/tn7zcnfe0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essay 1 - English 232 Digital Portfolio">
+                                <img itemprop="contentUrl url" src='http://giuliana28.weebly.com/uploads/2/4/9/0/24908030/6860048.jpg?291' alt='Essay 1 - English 232 Digital Portfolio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="291">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="English 232 Digital Portfolio" />
+                                </span>
+                                <a href='http://giuliana28.weebly.com/uploads/2/4/9/0/24908030/6860048.jpg?291' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychoanalysis of 'The Yellow Wallpaper' by Charlotte Perkins ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:300/1*jSVT0EI936ij7DEMg2iw6Q.jpeg' alt='Psychoanalysis of 'The Yellow Wallpaper' by Charlotte Perkins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zeynep Aydın - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:300/1*jSVT0EI936ij7DEMg2iw6Q.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow in 'The Yellow Wallpaper' – A Literary Analysis - Yoof">
+                                <img itemprop="contentUrl url" src='https://yoofmag.com/wp-content/uploads/2022/08/Yellow-in-%E2%80%98The-Yellow-Wallpaper-1-scaled.jpg' alt='Yellow in 'The Yellow Wallpaper' – A Literary Analysis - Yoof'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yoof - Magazine" />
+                                </span>
+                                <a href='https://yoofmag.com/wp-content/uploads/2022/08/Yellow-in-%E2%80%98The-Yellow-Wallpaper-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...">
+                                <img itemprop="contentUrl url" src='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' alt='The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom-Writing.org" />
+                                </span>
+                                <a href='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Symbols and Motifs | The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://gilmanswallpaper.wordpress.com/wp-content/uploads/2015/05/manuscript-page-8-highlighted.jpg' alt='Symbols and Motifs | The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1564">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wallpaper - WordPress.com" />
+                                </span>
+                                <a href='https://gilmanswallpaper.wordpress.com/wp-content/uploads/2015/05/manuscript-page-8-highlighted.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free yourself. Analyzing The Yellow Wallpaper by Charlotte Perkins ...">
+                                <img itemprop="contentUrl url" src='https://jwelsstreasure.wordpress.com/wp-content/uploads/2013/10/the_yellow_wallpaper_by_shopot.jpg' alt='Free yourself. Analyzing The Yellow Wallpaper by Charlotte Perkins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jwelsstreasure - WordPress.com" />
+                                </span>
+                                <a href='https://jwelsstreasure.wordpress.com/wp-content/uploads/2013/10/the_yellow_wallpaper_by_shopot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Symbolism in The Yellow Wallpaper by Charlotte Perkins Gilman Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/videopreview-full/mapx2dfev6.jpg' alt='Symbolism in The Yellow Wallpaper by Charlotte Perkins Gilman Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/videopreview-full/mapx2dfev6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes, Symbols & Motifs Activity for The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-cells/3132232/cell-col-0-row-0.png' alt='Themes, Symbols & Motifs Activity for The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-cells/3132232/cell-col-0-row-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

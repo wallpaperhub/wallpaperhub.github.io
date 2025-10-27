@@ -1,0 +1,129 @@
+<title>Stunning GTR Wallpapers for Your iPhone Lock Screen</title>
+                    <meta name="description" content="Explore a collection of high-quality GTR wallpapers perfect for your iPhone lock screen. Elevate your device's look with dynamic and breathtaking designs that showcase the beauty and speed of GTR cars. Perfect for automotive enthusiasts wanting to personalize their mobile experience.">
+                    <meta name="keywords" content="lock screen iphone gtr wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-iphone-gtr-wallpaper">
+                            <span itemprop="name">lock screen iphone gtr wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning GTR Wallpapers for Your iPhone Lock Screen</h1>
+                <p>Transform your iPhone's lock screen with stunning GTR wallpapers that capture the essence of speed and power. From sleek racing cars to dynamic designs, these wallpapers not only enhance your phone's aesthetic but also express your passion for automobiles. Discover various GTR images that will inspire and energize you daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan gtr wallpaper by Marquez024 - Download on ZEDGE™ | 4c99">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/03/85/fe0385b97e3e640fd778d1b33aa10df6.jpg' alt='Nissan gtr wallpaper by Marquez024 - Download on ZEDGE™ | 4c99'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/03/85/fe0385b97e3e640fd778d1b33aa10df6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cars#wallpapers #lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/39/9f/33399f43d8336dcfcc3673f05abb501c.jpg' alt='Cars#wallpapers #lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/39/9f/33399f43d8336dcfcc3673f05abb501c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Nissan Gtr Car Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-nissan-gtr-car-iphone-jdelogfchxczel2t.jpg' alt='Download Black Nissan Gtr Car Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-nissan-gtr-car-iphone-jdelogfchxczel2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Gtr 35">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/17/04/7817045b1c4c6052b4cf20451a230fb4.jpg' alt='Nissan Gtr 35'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/17/04/7817045b1c4c6052b4cf20451a230fb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/8a/45/6b8a45e4b338debbb425e6d0720a3c0a.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/8a/45/6b8a45e4b338debbb425e6d0720a3c0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1680x1050px, 720P free download | Nissan GT-R Premium, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/196/544/HD-wallpaper-nissan-gtr-r35-fire-flames-liberty-walk-nissan-gtr-r34-skyline-thumbnail.jpg' alt='1680x1050px, 720P free download | Nissan GT-R Premium, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/196/544/HD-wallpaper-nissan-gtr-r35-fire-flames-liberty-walk-nissan-gtr-r34-skyline-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Skyline GT-R 2.0.0 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/nissan-skyline-gt-r/00/00/0H/TD/00000HTD1F/pad_screenshot_3R3X2P2E6C.webp' alt='Nissan Skyline GT-R 2.0.0 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/nissan-skyline-gt-r/00/00/0H/TD/00000HTD1F/pad_screenshot_3R3X2P2E6C.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nissan GTR: A Powerful Driving Machine Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gtr-iphone-hxe7bne4eaquboet.jpg' alt='Download Nissan GTR: A Powerful Driving Machine Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gtr-iphone-hxe7bne4eaquboet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="R35 GTR iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/5c/04/e65c046155af5b3d811d91cd4bda6fd6.jpg' alt='R35 GTR iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/5c/04/e65c046155af5b3d811d91cd4bda6fd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mclaren Gtr iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/mclaren-gtr.png' alt='Mclaren Gtr iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/mclaren-gtr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

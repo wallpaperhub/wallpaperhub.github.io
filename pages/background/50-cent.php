@@ -1,0 +1,129 @@
+<title>50 Cent: The Inspiring Journey of a Hip-Hop Legend</title>
+                    <meta name="description" content="Explore the incredible journey of 50 Cent, the iconic rapper and entrepreneur. Discover his rise from the streets to stardom, impactful albums, and ventures in film and business. Get insights into the life and legacy of Curtis Jackson in this concise overview.">
+                    <meta name="keywords" content="50 cent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/50-cent">
+                            <span itemprop="name">50 cent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>50 Cent: The Inspiring Journey of a Hip-Hop Legend</h1>
+                <p>50 Cent, born Curtis Jackson, is a renowned rapper, actor, and entrepreneur. Rising to fame with his hit album "Get Rich or Die Tryin'," he has become a pivotal figure in hip-hop since the early 2000s. Known for his gritty lyrics and entrepreneurial spirit, 50 Cent has expanded his influence into television and film production.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118' alt='50 Cent | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0c/Curtis_%2250_Cent%22_Jackson_visits_Barksdale_AFB_%285%29_%28cropped%29.jpg' alt='50 Cent - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1267">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0c/Curtis_%2250_Cent%22_Jackson_visits_Barksdale_AFB_%285%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent Reveals How He Built Hip-Hop's Fittest Body">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/hlh090123feacover-008-1-50-64c814f064f39.jpg?crop=1xw:1xh;center,top&resize=980:*' alt='50 Cent Reveals How He Built Hip-Hop's Fittest Body'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/hlh090123feacover-008-1-50-64c814f064f39.jpg?crop=1xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/179?ops=fit(720%2C720)' alt='50 Cent | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/179?ops=fit(720%2C720)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent - Songs, Albums & Children">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1203069033.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='50 Cent - Songs, Albums & Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1203069033.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent | Spotify">
+                                <img itemprop="contentUrl url" src='https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8436dcd268872e695ce116428c' alt='50 Cent | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8436dcd268872e695ce116428c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjY0NTc2NTAxNV5BMl5BanBnXkFtZTgwMjYwMDMzNjE@._V1_.jpg' alt='50 Cent - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1363">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjY0NTc2NTAxNV5BMl5BanBnXkFtZTgwMjYwMDMzNjE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent tour: Rapper on 2023 concerts, Drake and being upside down">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2023/05/09/USAT/aea20772-8856-4ffd-9e9a-b6ee5299e756-50_Cent_Press_Photo_1.jpeg' alt='50 Cent tour: Rapper on 2023 concerts, Drake and being upside down'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1824">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2023/05/09/USAT/aea20772-8856-4ffd-9e9a-b6ee5299e756-50_Cent_Press_Photo_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent Reveals How He Built Hip-Hop's Fittest Body">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/hlh090123cvrsept-digitalcvrs-50-resized-64c4269317d23.jpg' alt='50 Cent Reveals How He Built Hip-Hop's Fittest Body'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/hlh090123cvrsept-digitalcvrs-50-resized-64c4269317d23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cent Is Working Toward Billionaire Status: Find Out His Net ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/CP6_vHNtPZdhuuJ6rMrnfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0NDA-/https://media.zenfs.com/en/in_touch_weekly_336/a795cfeb427488a17fb2cdab4a81126a' alt='50 Cent Is Working Toward Billionaire Status: Find Out His Net ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/CP6_vHNtPZdhuuJ6rMrnfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0NDA-/https://media.zenfs.com/en/in_touch_weekly_336/a795cfeb427488a17fb2cdab4a81126a' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

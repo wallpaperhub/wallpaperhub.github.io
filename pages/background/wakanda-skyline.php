@@ -1,0 +1,129 @@
+<title>Explore the Majestic Wakanda Skyline: A Fusion of Nature and Innovation</title>
+                    <meta name="description" content="Discover the enchanting Wakanda skyline, where cutting-edge architecture meets stunning natural landscapes. Experience a world where tradition and technology coexist in harmony, inspiring awe and admiration. Perfect for those seeking adventure and cultural richness, visit Wakanda’s skyline today!">
+                    <meta name="keywords" content="wakanda skyline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wakanda-skyline">
+                            <span itemprop="name">wakanda skyline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Majestic Wakanda Skyline: A Fusion of Nature and Innovation</h1>
+                <p>The Wakanda skyline is a breathtaking blend of futuristic architecture and natural beauty. With soaring vibranium towers, lush green landscapes, and vibrant cultural motifs, it embodies the essence of advanced civilization harmonizing with nature. This dynamic skyline showcases Wakanda's innovation and rich heritage, attracting visitors worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Real-Life Possibilities of Black Panther's Wakanda According ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/5a9708c74692126e06f3503c/master/w_1600%2Cc_limit/WWT0020_v008_027999.1081.jpg' alt='The Real-Life Possibilities of Black Panther's Wakanda According ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/5a9708c74692126e06f3503c/master/w_1600%2Cc_limit/WWT0020_v008_027999.1081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Storming the Ivory Tower: Starkitecture: Should We Be Worried ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJ6nrh56maP2KQDjb-_FRP4bYAzQUstmC_sT4tx82CrI-8gmsec-nickvvd5BW4J3CKo1qDntwF5ktaJNrxthqoA6UNgGNIwdT7cl4O68adciAUYrtAoBtoPPWmGsMO8YpTa_0f__pw/s1600/lQHCF3V.png' alt='Storming the Ivory Tower: Starkitecture: Should We Be Worried ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storming the Ivory Tower" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJ6nrh56maP2KQDjb-_FRP4bYAzQUstmC_sT4tx82CrI-8gmsec-nickvvd5BW4J3CKo1qDntwF5ktaJNrxthqoA6UNgGNIwdT7cl4O68adciAUYrtAoBtoPPWmGsMO8YpTa_0f__pw/s1600/lQHCF3V.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Panther 2: How Wakanda's Architecture Was Inspired By Real ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/6375390cc1c87d05e1e7c12c/16:9/w_4880,h_2745,c_limit/M10PX5.jpg' alt='Black Panther 2: How Wakanda's Architecture Was Inspired By Real ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4880">
+                                <meta itemprop="height" content="2745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/6375390cc1c87d05e1e7c12c/16:9/w_4880,h_2745,c_limit/M10PX5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expert Breaks Down Wakanda's Architecture In 'Black Panther'">
+                                <img itemprop="contentUrl url" src='https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_architecturaldigest.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1668633505/architecturaldigest_the-blueprint-show-expert-breaks-down-the-architecture-of-wakanda-in-black-panther.jpg' alt='Expert Breaks Down Wakanda's Architecture In 'Black Panther''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_architecturaldigest.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1668633505/architecturaldigest_the-blueprint-show-expert-breaks-down-the-architecture-of-wakanda-in-black-panther.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tourist For A Day in Wakanda | The Hero Gig">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/1232ea_6d4dbb6a04cd4a0b91d2588637e817a8~mv2.png/v1/fill/w_540,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Wakanda%20City_PNG.png' alt='Tourist For A Day in Wakanda | The Hero Gig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hero Gig" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/1232ea_6d4dbb6a04cd4a0b91d2588637e817a8~mv2.png/v1/fill/w_540,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Wakanda%20City_PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Wakanda should be a model for our future cities | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/221017104014-wakanda-city-1017.jpg?q=w_2000,c_fill' alt='Why Wakanda should be a model for our future cities | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/221017104014-wakanda-city-1017.jpg?q=w_2000,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A very rewarding experiences of my career was working as a concept ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509945033236987276' alt='A very rewarding experiences of my career was working as a concept ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509945033236987276' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Projecting Comics on Screen | National Museum of African American ...">
+                                <img itemprop="contentUrl url" src='https://www.searchablemuseum.com/static/1e27ddf7e23777056b35e404483bb5d9/343d8/G07197.jpg' alt='Projecting Comics on Screen | National Museum of African American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Searchable Museum" />
+                                </span>
+                                <a href='https://www.searchablemuseum.com/static/1e27ddf7e23777056b35e404483bb5d9/343d8/G07197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Panther: Building Wakanda - fxguide">
+                                <img itemprop="contentUrl url" src='https://www.fxguide.com/wp-content/uploads/2018/02/dmt0020.comp_.031354.iparra_breakdown_v008.0187.jpg' alt='Black Panther: Building Wakanda - fxguide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2156">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fxguide" />
+                                </span>
+                                <a href='https://www.fxguide.com/wp-content/uploads/2018/02/dmt0020.comp_.031354.iparra_breakdown_v008.0187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Avengers : Wakanda - Jin Kim">
+                                <img itemprop="contentUrl url" src='https://freight.cargo.site/t/original/i/907cc0f83865df0df53596d84d29a127bb92886fa7b843b0f005ec9ebad9dd09/Wakanda_City_JK_01_6_Calatrava_01_LOWRES.jpg' alt='Marvel's Avengers : Wakanda - Jin Kim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="1826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jin Kim" />
+                                </span>
+                                <a href='https://freight.cargo.site/t/original/i/907cc0f83865df0df53596d84d29a127bb92886fa7b843b0f005ec9ebad9dd09/Wakanda_City_JK_01_6_Calatrava_01_LOWRES.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

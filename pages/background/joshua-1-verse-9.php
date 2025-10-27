@@ -1,0 +1,129 @@
+<title>Find Strength in Joshua 1:9: A Biblical Encouragement</title>
+                    <meta name="description" content="Explore the empowering message of Joshua 1:9. Discover how this verse inspires courage and faith, reminding us of God's unwavering presence in our challenges. Embrace strength and take bold steps with confidence through His guidance. Perfect for those seeking encouragement in their journey.">
+                    <meta name="keywords" content="joshua 1 verse 9">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joshua-1-verse-9">
+                            <span itemprop="name">joshua 1 verse 9</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Strength in Joshua 1:9: A Biblical Encouragement</h1>
+                <p>Joshua 1:9 is a powerful reminder of strength and courage. God commands us not to be afraid or discouraged, assuring us that He is always with us. As we face life's challenges, this verse inspires us to trust in God's presence and guidance, empowering us to step forward boldly with faith and confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verse of the Day: Joshua 1:9">
+                                <img itemprop="contentUrl url" src='https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/224e61c0-58dc-4744-85c7-230f12f1e167/_But_the_wisdom_from_above_is_fi__65_.jpg?t=1702023062' alt='Verse of the Day: Joshua 1:9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Daily Verse" />
+                                </span>
+                                <a href='https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/224e61c0-58dc-4744-85c7-230f12f1e167/_But_the_wisdom_from_above_is_fi__65_.jpg?t=1702023062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua 1:9 - Bible verse (KJV) - DailyVerses.net">
+                                <img itemprop="contentUrl url" src='https://dailyverses.net/images/en/kjv/xl/joshua-1-9-2.jpg' alt='Joshua 1:9 - Bible verse (KJV) - DailyVerses.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1376">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DailyVerses.net" />
+                                </span>
+                                <a href='https://dailyverses.net/images/en/kjv/xl/joshua-1-9-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verse of the Day: Joshua 1:9">
+                                <img itemprop="contentUrl url" src='https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/dcea3365-0113-459f-9f5f-eff03c04880a/_But_the_wisdom_from_above_is_first_pure__then_peaceable__gentle__open_to_reason__full_of_mercy_and_good_fruits__impartial_and_sincere.___13_.jpg' alt='Verse of the Day: Joshua 1:9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Daily Verse" />
+                                </span>
+                                <a href='https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/dcea3365-0113-459f-9f5f-eff03c04880a/_But_the_wisdom_from_above_is_first_pure__then_peaceable__gentle__open_to_reason__full_of_mercy_and_good_fruits__impartial_and_sincere.___13_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon Joshua 1:9 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Horizon_Joshua_1-9_Web-1.jpg' alt='Horizon Joshua 1:9 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Horizon_Joshua_1-9_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comparing Joshua 1:9 Be strong and courageous! – God's Word ...">
+                                <img itemprop="contentUrl url" src='http://godsword.org/cdn/shop/articles/Joshua-1-9-GODS-WORD-Translation-Bible-sq.jpg?v=1621957276' alt='Comparing Joshua 1:9 Be strong and courageous! – God's Word ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="God's Word Mission Society" />
+                                </span>
+                                <a href='http://godsword.org/cdn/shop/articles/Joshua-1-9-GODS-WORD-Translation-Bible-sq.jpg?v=1621957276' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verses Wall Decor Joshua 1: 9 Wall Art - Be Strong and Courageous  Christian Wall Art Inspirational Wall Decor for Bedroom (rustic, 11 x 14  inch)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Bible-Verses-Wall-Decor-Joshua-1-9-Art-Be-Strong-Courageous-Christian-Inspirational-Bedroom-rustic-11-x-14-inch_89f932f9-3688-4c1e-848e-2d28d8820f55.ef80b2d3bc0dafa5a8f2407c978bf157.jpeg' alt='Bible Verses Wall Decor Joshua 1: 9 Wall Art - Be Strong and Courageous  Christian Wall Art Inspirational Wall Decor for Bedroom (rustic, 11 x 14  inch)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Bible-Verses-Wall-Decor-Joshua-1-9-Art-Be-Strong-Courageous-Christian-Inspirational-Bedroom-rustic-11-x-14-inch_89f932f9-3688-4c1e-848e-2d28d8820f55.ef80b2d3bc0dafa5a8f2407c978bf157.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua 1:9 - Bible verse - DailyVerses.net">
+                                <img itemprop="contentUrl url" src='https://dailyverses.net/images/en/niv/xl/joshua-1-9.jpg' alt='Joshua 1:9 - Bible verse - DailyVerses.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1376">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DailyVerses.net" />
+                                </span>
+                                <a href='https://dailyverses.net/images/en/niv/xl/joshua-1-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua 1:9 Have I not commanded you to be strong and courageous ...">
+                                <img itemprop="contentUrl url" src='https://biblehub.com/visuals/12/06_Jos_01_09.jpg' alt='Joshua 1:9 Have I not commanded you to be strong and courageous ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Hub" />
+                                </span>
+                                <a href='https://biblehub.com/visuals/12/06_Jos_01_09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Joshua 1:9 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/LionJoshua1-9Web-1.jpg' alt='Lion Joshua 1:9 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/LionJoshua1-9Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua 1:9 Illustrated: "Have not I commanded you? Be strong and ...">
+                                <img itemprop="contentUrl url" src='https://img.heartlight.org/overlazy/creations/3724.jpg' alt='Joshua 1:9 Illustrated: "Have not I commanded you? Be strong and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heartlight" />
+                                </span>
+                                <a href='https://img.heartlight.org/overlazy/creations/3724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

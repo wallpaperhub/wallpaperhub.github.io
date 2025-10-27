@@ -1,0 +1,129 @@
+<title>Exciting Scavenger Hunt Images: Capture the Adventure!</title>
+                    <meta name="description" content="Explore captivating scavenger hunt images that enhance your adventure planning! Perfect for both indoor and outdoor fun, these visuals inspire creativity and teamwork. Discover ideas, tips, and inspiration for your next scavenger hunt. Join the search for excitement today!">
+                    <meta name="keywords" content="scavenger hunt image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scavenger-hunt-image">
+                            <span itemprop="name">scavenger hunt image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting Scavenger Hunt Images: Capture the Adventure!</h1>
+                <p>Discover the thrill of a scavenger hunt through vibrant images that capture the excitement of adventure! Each photo tells a story, showcasing unique items and clever clues. Perfect for families, friends, or team-building events, scavenger hunts inspire creativity and teamwork while providing endless fun outdoors or indoors. Join the excitement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indoor Scavenger Hunt for Kids - Destination Imagination">
+                                <img itemprop="contentUrl url" src='https://www.destinationimagination.org/wp-content/uploads/Indoor-Scavenger-Hunt-Blog.jpg' alt='Indoor Scavenger Hunt for Kids - Destination Imagination'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Imagination" />
+                                </span>
+                                <a href='https://www.destinationimagination.org/wp-content/uploads/Indoor-Scavenger-Hunt-Blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Reasons Scavenger Hunts Make Great Extension Activities - Ox and ...">
+                                <img itemprop="contentUrl url" src='https://ooliteracy.com/wp-content/uploads/2023/03/Six-Reasons-Scavenger-Hunts-Make-Great-Extentional-Learning-Activties.png' alt='6 Reasons Scavenger Hunts Make Great Extension Activities - Ox and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ox and Owl Literacy" />
+                                </span>
+                                <a href='https://ooliteracy.com/wp-content/uploads/2023/03/Six-Reasons-Scavenger-Hunts-Make-Great-Extentional-Learning-Activties.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scavenger Hunts - What Is A Scavenger Hunt?">
+                                <img itemprop="contentUrl url" src='https://scavengerhuntdc.com/wp-content/uploads/2018/01/Scavenger-Hunt.png' alt='Scavenger Hunts - What Is A Scavenger Hunt?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scavenger Hunt DC" />
+                                </span>
+                                <a href='https://scavengerhuntdc.com/wp-content/uploads/2018/01/Scavenger-Hunt.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Plan a Scavenger Hunt">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/ruord509/production/0a0ae07959ef15842712dd935ede2696719ec4f1-600x300.jpg?w=3840&q=75&fit=clip&auto=format' alt='How to Plan a Scavenger Hunt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Healthier Michigan" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/ruord509/production/0a0ae07959ef15842712dd935ede2696719ec4f1-600x300.jpg?w=3840&q=75&fit=clip&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn flat design scavenger hunt game">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-flat-design-scavenger-hunt-game_23-2149275380.jpg' alt='Free Vector | Hand drawn flat design scavenger hunt game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-flat-design-scavenger-hunt-game_23-2149275380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scavenger Hunt Boards: Indoor and outdoor scavenger hunt game, easy and  ready to go! Ready to cut out, ready to share!">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/616i3h3UdGL._AC_UF1000,1000_QL80_.jpg' alt='Scavenger Hunt Boards: Indoor and outdoor scavenger hunt game, easy and  ready to go! Ready to cut out, ready to share!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/616i3h3UdGL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33 Fun Scavenger Hunt Ideas - Indiana Jones Would Love">
+                                <img itemprop="contentUrl url" src='https://snacknation.com/wp-content/uploads/2021/06/scavenger-hunt-1.png' alt='33 Fun Scavenger Hunt Ideas - Indiana Jones Would Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SnackNation" />
+                                </span>
+                                <a href='https://snacknation.com/wp-content/uploads/2021/06/scavenger-hunt-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mandell JCC of Greater Hartford - Scavenger Hunt">
+                                <img itemprop="contentUrl url" src='https://www.mandelljcc.org/clientuploads/JCC%20Engagement/scavenger_hunt.jpg' alt='Mandell JCC of Greater Hartford - Scavenger Hunt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1318">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mandell JCC" />
+                                </span>
+                                <a href='https://www.mandelljcc.org/clientuploads/JCC%20Engagement/scavenger_hunt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camping/Outdoor Scavenger Hunt for kids JPEG, PNG, PDF">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18594348/r/il/cfa3b4/3653497620/il_fullxfull.3653497620_ng4x.jpg' alt='Camping/Outdoor Scavenger Hunt for kids JPEG, PNG, PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18594348/r/il/cfa3b4/3653497620/il_fullxfull.3653497620_ng4x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Learning: Scavenger Hunt">
+                                <img itemprop="contentUrl url" src='http://www.excitededucator.com/uploads/5/1/3/4/51346849/screenshot-2020-03-20-at-13-08-33.png' alt='Online Learning: Scavenger Hunt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Excited Educator" />
+                                </span>
+                                <a href='http://www.excitededucator.com/uploads/5/1/3/4/51346849/screenshot-2020-03-20-at-13-08-33.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

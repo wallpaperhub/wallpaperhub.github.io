@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Black and White Luxury Wallpaper</title>
+                    <meta name="description" content="Discover the allure of black and white luxury wallpaper. Enhance your home decor with stylish patterns that exude sophistication. Perfect for any room, our wallpaper offers timeless elegance and modern appeal for your interior design needs. Transform your space effortlessly!">
+                    <meta name="keywords" content="black and white luxury wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-luxury-wallpaper">
+                            <span itemprop="name">black and white luxury wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Black and White Luxury Wallpaper</h1>
+                <p>Experience elegance with our black and white luxury wallpaper. Perfect for adding sophistication to any room, this timeless design elevates your interior with its striking contrast. Explore a range of patterns and textures that seamlessly blend modern aesthetics with classic charm. Transform your space into a chic haven today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wallpaper and Wall Murals - BelarteSTUDIO ...">
+                                <img itemprop="contentUrl url" src='http://belartestudio.com/cdn/shop/collections/MinimalisticPoetry-Flowline-BAS00203010-Black-Wide-1_1_b74bcbeb-70e8-4f28-bdaf-db97cf985839.jpg?v=1699362842' alt='Black & White Wallpaper and Wall Murals - BelarteSTUDIO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='http://belartestudio.com/cdn/shop/collections/MinimalisticPoetry-Flowline-BAS00203010-Black-Wide-1_1_b74bcbeb-70e8-4f28-bdaf-db97cf985839.jpg?v=1699362842' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster Luxury seamless black & white wallpaper - PIXERS.US">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/24/00/76/31/700_FO24007631_e2fcea3b45b84798635b1a4d1152cca5.jpg,700,687,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,637,jpg)/posters-luxury-seamless-black-white-wallpaper.jpg.jpg' alt='Poster Luxury seamless black & white wallpaper - PIXERS.US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/24/00/76/31/700_FO24007631_e2fcea3b45b84798635b1a4d1152cca5.jpg,700,687,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,637,jpg)/posters-luxury-seamless-black-white-wallpaper.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper | Modern & Trendy | Think Noir Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/files/Modern-floral-design-wallpaper-2_2048x.jpg?v=1716658320' alt='Black and White Wallpaper | Modern & Trendy | Think Noir Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/files/Modern-floral-design-wallpaper-2_2048x.jpg?v=1716658320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Ultimate Bundle iPhone Luxury Lifestyle Wallpapers | Black and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40996883/r/il/ceea7c/6067674313/il_fullxfull.6067674313_bqd1.jpg' alt='25+ Ultimate Bundle iPhone Luxury Lifestyle Wallpapers | Black and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1671">
+                                <meta itemprop="height" content="1898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40996883/r/il/ceea7c/6067674313/il_fullxfull.6067674313_bqd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe Wallpaper Roll - Modern Paper Wallpaper for Bedroom,  Living Room, Home Decor - Waterproof, Sound Absorbing, Moisture Proof">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M01/98/9B/rBVaVF5Sa5yAA2M-AAJ7Q7fxjsI995.jpg' alt='Black & White Stripe Wallpaper Roll - Modern Paper Wallpaper for Bedroom,  Living Room, Home Decor - Waterproof, Sound Absorbing, Moisture Proof'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M01/98/9B/rBVaVF5Sa5yAA2M-AAJ7Q7fxjsI995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baroque black white seamless pattern. Luxury floral background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/85/89/38/1000_F_185893839_hKYY5x23IngBwvmEHmfyZ1N5tAXsWLg3.jpg' alt='Baroque black white seamless pattern. Luxury floral background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/85/89/38/1000_F_185893839_hKYY5x23IngBwvmEHmfyZ1N5tAXsWLg3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Wallpaper | Occult Design in Light & Dark Options | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1679399146-diablo-black-sideboard-cat.jpg?auto=format&dpr=0.23&w=2200' alt='Gothic Wallpaper | Occult Design in Light & Dark Options | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1679399146-diablo-black-sideboard-cat.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wallpaper and Wall Murals - BelarteSTUDIO ...">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-1_1080x.jpg?v=1699364891' alt='Black & White Wallpaper and Wall Murals - BelarteSTUDIO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-1_1080x.jpg?v=1699364891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Luxury black and white background with gold ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/luxury-black-white-background-with-gold-grunge-marble-texture_131186-1229.jpg' alt='Premium Vector | Luxury black and white background with gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/luxury-black-white-background-with-gold-grunge-marble-texture_131186-1229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Damask Wallpaper, Black Wallpaper, Art Deco, Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/59/e7/3459e7029bdeaaab7cb50e22e1008d19.jpg' alt='Luxury Damask Wallpaper, Black Wallpaper, Art Deco, Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/59/e7/3459e7029bdeaaab7cb50e22e1008d19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

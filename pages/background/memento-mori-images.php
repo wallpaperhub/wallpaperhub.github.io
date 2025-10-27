@@ -1,0 +1,129 @@
+<title>Captivating Memento Mori Images: Life & Death in Art</title>
+                    <meta name="description" content="Explore stunning memento mori images that capture the essence of life and death in art. Discover how these powerful visuals remind us of our mortality, encouraging a deeper appreciation for each moment. Perfect for art enthusiasts seeking reflection and inspiration.">
+                    <meta name="keywords" content="memento mori images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/memento-mori-images">
+                            <span itemprop="name">memento mori images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Memento Mori Images: Life & Death in Art</h1>
+                <p>Memento mori images serve as poignant reminders of mortality, encouraging reflection on life’s transience. These evocative visuals often feature skulls, withering flowers, and hourglasses, blending artistry with philosophical depth. They inspire viewers to cherish each moment and consider their own existence while appreciating the beauty of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento mori - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Braque_Family_Triptych_closed_WGA.jpg/800px-Braque_Family_Triptych_closed_WGA.jpg' alt='Memento mori - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Braque_Family_Triptych_closed_WGA.jpg/800px-Braque_Family_Triptych_closed_WGA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori Art | The Art of Manliness">
+                                <img itemprop="contentUrl url" src='https://content.artofmanliness.com/uploads//2012/10/alexander-mair-memento-mori-1605.jpeg' alt='Memento Mori Art | The Art of Manliness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art of Manliness" />
+                                </span>
+                                <a href='https://content.artofmanliness.com/uploads//2012/10/alexander-mair-memento-mori-1605.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori">
+                                <img itemprop="contentUrl url" src='https://bencantwellart.com/cdn/shop/products/memento-mori_BENC-2019-000271-SS2.png?v=1567253038' alt='Memento Mori'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ben Cantwell Art" />
+                                </span>
+                                <a href='https://bencantwellart.com/cdn/shop/products/memento-mori_BENC-2019-000271-SS2.png?v=1567253038' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori – remember that you have to die">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/84505/original/image-20150610-6823-1lnrya8.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' alt='Memento Mori – remember that you have to die'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/84505/original/image-20150610-6823-1lnrya8.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento mori | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1580062023.7085/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Memento mori | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1580062023.7085/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori">
+                                <img itemprop="contentUrl url" src='http://www.davidlozeau.com/cdn/shop/products/memento-mori-455327.jpg?v=1602662412' alt='Memento Mori'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Lozeau" />
+                                </span>
+                                <a href='http://www.davidlozeau.com/cdn/shop/products/memento-mori-455327.jpg?v=1602662412' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Memento Mori? - Artsper Magazine">
+                                <img itemprop="contentUrl url" src='https://blog.artsper.com/wp-content/uploads/2022/10/Memento-Mori.jpg' alt='What is Memento Mori? - Artsper Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magazine Artsper" />
+                                </span>
+                                <a href='https://blog.artsper.com/wp-content/uploads/2022/10/Memento-Mori.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori – remember that you have to die">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/84507/original/image-20150610-6823-1ejbshs.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' alt='Memento Mori – remember that you have to die'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/84507/original/image-20150610-6823-1ejbshs.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240+ Memento Mori Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1217756945/vector/memento-mori-poster-design.jpg?s=612x612&w=0&k=20&c=zkTGawgtlPb_B1PcZDkPEfUnsfHZWd7Sf9LUe5DwkIQ=' alt='240+ Memento Mori Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1217756945/vector/memento-mori-poster-design.jpg?s=612x612&w=0&k=20&c=zkTGawgtlPb_B1PcZDkPEfUnsfHZWd7Sf9LUe5DwkIQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memento Mori">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/63982/memento-mori.jpg?h=699&q=85' alt='Memento Mori'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/63982/memento-mori.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

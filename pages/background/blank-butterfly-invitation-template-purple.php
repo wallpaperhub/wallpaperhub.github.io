@@ -1,0 +1,129 @@
+<title>Elegant Purple Butterfly Invitation Template</title>
+                    <meta name="description" content="Discover a stunning purple butterfly invitation template perfect for your next event. Easy to customize, this elegant design adds a whimsical touch to birthdays, baby showers, and more. Download and personalize your invites effortlessly for a memorable celebration!">
+                    <meta name="keywords" content="blank butterfly invitation template purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blank-butterfly-invitation-template-purple">
+                            <span itemprop="name">blank butterfly invitation template purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Butterfly Invitation Template</h1>
+                <p>Elevate your event with our beautiful blank butterfly invitation template in purple! Perfect for birthdays, baby showers, or any special occasion, these customizable invites add a touch of elegance. Simply download, edit your details, and print. Capture the essence of celebration with enchanting butterfly designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Butterfly Invitations With Envelopes, Fill In Style You're Invited, Baby  Showers, Bridal Showers & Outdoor Spring Parties. Thick & Non Coated ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714JBEJoXkL._AC_UF894,1000_QL80_.jpg' alt='25 Butterfly Invitations With Envelopes, Fill In Style You're Invited, Baby  Showers, Bridal Showers & Outdoor Spring Parties. Thick & Non Coated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="837">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714JBEJoXkL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Invitation Template - Shop on Pinterest">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ff/8b/54/ff8b5493367d47f9f0c55db13fe737e4.jpg' alt='Purple Butterfly Invitation Template - Shop on Pinterest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ff/8b/54/ff8b5493367d47f9f0c55db13fe737e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AnyDesign 20 Set Butterfly Purple Floral Invitations with  Envelopes Stickers 5 x 7 Inch Spring Watercolor Invitation Paper Cards  Blank ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71-5ytUUdVL.jpg' alt='Amazon.com : AnyDesign 20 Set Butterfly Purple Floral Invitations with  Envelopes Stickers 5 x 7 Inch Spring Watercolor Invitation Paper Cards  Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71-5ytUUdVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink purple butterfly invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pink-purple-butterfly-invitation-design-template-3eb11cb89e3d500d9aa2d48071451a0c_screen.jpg?ts=1637036038' alt='Pink purple butterfly invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pink-purple-butterfly-invitation-design-template-3eb11cb89e3d500d9aa2d48071451a0c_screen.jpg?ts=1637036038' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Butterfly Moon Invitation Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/a4/97/b5a497748eb509e94e5f17ee643bbb9d.jpg' alt='Free Butterfly Moon Invitation Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/a4/97/b5a497748eb509e94e5f17ee643bbb9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Birthday Party Invitation | The Party Darling">
+                                <img itemprop="contentUrl url" src='https://thepartydarling.com/cdn/shop/products/ButterflyInvitation-02_1200x.jpg?v=1592858324' alt='Butterfly Birthday Party Invitation | The Party Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Party Darling" />
+                                </span>
+                                <a href='https://thepartydarling.com/cdn/shop/products/ButterflyInvitation-02_1200x.jpg?v=1592858324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Birthday Invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/purple-butterfly-birthday-invitation-design-template-da4ef6332f2596be314d2fb3cd109102_screen.jpg?ts=1698042643' alt='Purple Butterfly Birthday Invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/purple-butterfly-birthday-invitation-design-template-da4ef6332f2596be314d2fb3cd109102_screen.jpg?ts=1698042643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7+ Enchanting Floral Birthday Invitation Templates With Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/b0/3a/1eb03a16e477ecfde86f9f377074e7bc.jpg' alt='7+ Enchanting Floral Birthday Invitation Templates With Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/b0/3a/1eb03a16e477ecfde86f9f377074e7bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Purple Butterfly Birthday Invitation Girl 1st Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19203053/r/il/1cfea3/4044667036/il_fullxfull.4044667036_noiu.jpg' alt='Editable Purple Butterfly Birthday Invitation Girl 1st Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19203053/r/il/1cfea3/4044667036/il_fullxfull.4044667036_noiu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Birthday Invitation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-butterfly-birthday-invitation-template_23-2148974736.jpg' alt='Purple Butterfly Birthday Invitation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-butterfly-birthday-invitation-template_23-2148974736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Iconic 1900s Pictures: A Journey Through Time</title>
+                    <meta name="description" content="Discover the fascinating world of 1900s pictures. Explore vintage photographs that capture life, fashion, and historic moments, transporting you back in time. Perfect for history buffs and photo enthusiasts alike.">
+                    <meta name="keywords" content="1900s pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1900s-pictures">
+                            <span itemprop="name">1900s pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Iconic 1900s Pictures: A Journey Through Time</h1>
+                <p>Pictures from the 1900s offer a captivating glimpse into a bygone era, showcasing everyday life, fashion trends, and historic events. From sepia-toned portraits to candid street scenes, these images tell powerful stories of resilience and innovation, preserving the memories of generations past for us to explore today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900s Fashion: Clothing Styles in the Edwardian Era">
+                                <img itemprop="contentUrl url" src='https://cms-b-assets.familysearch.org/dims4/default/ab3dbe1/2147483647/strip/true/crop/900x562+0+0/resize/801x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fb6%2Fb2%2F0c5dadb36b06993ea143c9a8913a%2F1900s-fashion-couple.jpg' alt='1900s Fashion: Clothing Styles in the Edwardian Era'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://cms-b-assets.familysearch.org/dims4/default/ab3dbe1/2147483647/strip/true/crop/900x562+0+0/resize/801x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fb6%2Fb2%2F0c5dadb36b06993ea143c9a8913a%2F1900s-fashion-couple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900s Fashion: Clothing Styles in the Edwardian Era">
+                                <img itemprop="contentUrl url" src='https://cms-b-assets.familysearch.org/dims4/default/2e8c6f2/2147483647/strip/true/crop/572x760+0+0/resize/572x760!/format/jpg/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fd7%2F0d%2Ff2ece33f47924933365a32c6e5e5%2F1900s-boy-fashion.jpg' alt='1900s Fashion: Clothing Styles in the Edwardian Era'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://cms-b-assets.familysearch.org/dims4/default/2e8c6f2/2147483647/strip/true/crop/572x760+0+0/resize/572x760!/format/jpg/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2Fd7%2F0d%2Ff2ece33f47924933365a32c6e5e5%2F1900s-boy-fashion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fashion in the 1900s | History">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64860f6a37037a001d7809b3.png' alt='Fashion in the 1900s | History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64860f6a37037a001d7809b3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boys with baby in a barrow early 1900s Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DKPTP2/boys-with-baby-in-a-barrow-early-1900s-DKPTP2.jpg' alt='Boys with baby in a barrow early 1900s Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="981">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DKPTP2/boys-with-baby-in-a-barrow-early-1900s-DKPTP2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900s - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fc/1900s_decademontage2.png' alt='1900s - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fc/1900s_decademontage2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three American businessmen, 1900s - Stock Image - C042/3433 ...">
+                                <img itemprop="contentUrl url" src='https://media.sciencephoto.com/c0/42/34/33/c0423433-800px-wm.jpg' alt='Three American businessmen, 1900s - Stock Image - C042/3433 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Library" />
+                                </span>
+                                <a href='https://media.sciencephoto.com/c0/42/34/33/c0423433-800px-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900-1909 | Fashion History Timeline">
+                                <img itemprop="contentUrl url" src='https://fashionhistory.fitnyc.edu/wp-content/uploads/2019/12/1900sCover.jpeg' alt='1900-1909 | Fashion History Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fashion History Timeline - Fashion Institute of Technology" />
+                                </span>
+                                <a href='https://fashionhistory.fitnyc.edu/wp-content/uploads/2019/12/1900sCover.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900s -1910s Black Fashion, Edwardian African American Clothing Photos">
+                                <img itemprop="contentUrl url" src='https://vintagedancer.com/wp-content/uploads/Nebraska-early-1900s-noir-men-suits-375x439.jpg' alt='1900s -1910s Black Fashion, Edwardian African American Clothing Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Dancer" />
+                                </span>
+                                <a href='https://vintagedancer.com/wp-content/uploads/Nebraska-early-1900s-noir-men-suits-375x439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photography Club early 1900s Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DCWG92/photography-club-early-1900s-DCWG92.jpg' alt='Photography Club early 1900s Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DCWG92/photography-club-early-1900s-DCWG92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="490+ 1900s Family Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/182148466/photo/family.jpg?s=612x612&w=0&k=20&c=YEMzYT16qC9UCGfKMSwvd4G4ckc1hlrdEMCAkJcPPtY=' alt='490+ 1900s Family Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/182148466/photo/family.jpg?s=612x612&w=0&k=20&c=YEMzYT16qC9UCGfKMSwvd4G4ckc1hlrdEMCAkJcPPtY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

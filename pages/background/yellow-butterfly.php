@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Yellow Butterflies</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="yellow butterfly">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-butterfly">
+                            <span itemprop="name">yellow butterfly</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Yellow Butterflies</h1>
+                <p>Yellow butterflies, often seen fluttering in gardens and meadows, symbolize joy and transformation. Their vibrant hues and delicate wings captivate nature lovers, representing positivity and new beginnings. These enchanting insects also play a role in pollination, contributing to the ecosystem's health. Spotting a yellow butterfly can brighten anyone's day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger swallowtail | Migratory, Nectar Plants & Host Plants ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/13/173613-050-6800EBF4/Tiger-swallowtail.jpg' alt='Tiger swallowtail | Migratory, Nectar Plants & Host Plants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/13/173613-050-6800EBF4/Tiger-swallowtail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Club of Cape Coral | Enticing the yellow butterflies - Cape ...">
+                                <img itemprop="contentUrl url" src='https://ogden_images.s3.amazonaws.com/www.capecoralbreeze.com/images/2024/02/29213302/Cloudless-Sulphur-022924-1100x761.jpg' alt='Garden Club of Cape Coral | Enticing the yellow butterflies - Cape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cape Coral Breeze" />
+                                </span>
+                                <a href='https://ogden_images.s3.amazonaws.com/www.capecoralbreeze.com/images/2024/02/29213302/Cloudless-Sulphur-022924-1100x761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Identify 11 Popular Yellow Butterflies | Gardens With Wings">
+                                <img itemprop="contentUrl url" src='https://www.gardenswithwings.com/wp-content/uploads/anise-swallowtail-yellow-black-blue.jpg' alt='Identify 11 Popular Yellow Butterflies | Gardens With Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardens with Wings" />
+                                </span>
+                                <a href='https://www.gardenswithwings.com/wp-content/uploads/anise-swallowtail-yellow-black-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudless Sulphur Butterfly">
+                                <img itemprop="contentUrl url" src='https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/images/cloudless-sulphur/phoebis_sennae05.jpg' alt='Cloudless Sulphur Butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USDA Forest Service" />
+                                </span>
+                                <a href='https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/images/cloudless-sulphur/phoebis_sennae05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Butterfly Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/yellow-beauty-butterfly-insect-icon_18591-82368.jpg' alt='Yellow Butterfly Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/yellow-beauty-butterfly-insect-icon_18591-82368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eurema hecabe - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eurema_hecabe_Linnaeus%2C_1758_%E2%80%93_Common_Grass_Yellow.jpg/800px-Eurema_hecabe_Linnaeus%2C_1758_%E2%80%93_Common_Grass_Yellow.jpg' alt='Eurema hecabe - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eurema_hecabe_Linnaeus%2C_1758_%E2%80%93_Common_Grass_Yellow.jpg/800px-Eurema_hecabe_Linnaeus%2C_1758_%E2%80%93_Common_Grass_Yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Do Yellow Butterflies Symbolize? Certainly Lifts Your Spirits.">
+                                <img itemprop="contentUrl url" src='https://www.gardenswithwings.com/wp-content/uploads/male-eastern-tiger-swallowtail.jpg' alt='What Do Yellow Butterflies Symbolize? Certainly Lifts Your Spirits.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="516">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardens with Wings" />
+                                </span>
+                                <a href='https://www.gardenswithwings.com/wp-content/uploads/male-eastern-tiger-swallowtail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Butterfly PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230918/ourmid/pngtree-yellow-flying-butterfly-png-image_10126607.png' alt='Yellow Butterfly PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230918/ourmid/pngtree-yellow-flying-butterfly-png-image_10126607.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouded Yellow | Butterfly Conservation">
+                                <img itemprop="contentUrl url" src='https://butterfly-conservation.org/sites/default/files/styles/large/public/2019-02/45102149075-1545-w4a7364-clouded-yellow-colias-croceus.jpg?itok=nC-Ezb_f' alt='Clouded Yellow | Butterfly Conservation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Butterfly Conservation" />
+                                </span>
+                                <a href='https://butterfly-conservation.org/sites/default/files/styles/large/public/2019-02/45102149075-1545-w4a7364-clouded-yellow-colias-croceus.jpg?itok=nC-Ezb_f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Yellow - Alabama Butterfly Atlas">
+                                <img itemprop="contentUrl url" src='https://cdn.butterflyatlas.org/img/aba/species-images/Little-Yellow_Fefferson_21JUL2012_SBright.jpg' alt='Little Yellow - Alabama Butterfly Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alabama Butterfly Atlas - University of South Florida" />
+                                </span>
+                                <a href='https://cdn.butterflyatlas.org/img/aba/species-images/Little-Yellow_Fefferson_21JUL2012_SBright.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Strawberry Wallpaper for iPhone - Refresh Your Screen!</title>
+                    <meta name="description" content="Discover stunning strawberry wallpaper for your iPhone! Brighten up your device with delightful, vibrant designs that capture the essence of summer. Perfect for fruit lovers, these wallpapers are easy to download and will make your screen look fresh and appealing. Get yours today!">
+                    <meta name="keywords" content="strawberry wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/strawberry-wallpaper-iphone">
+                            <span itemprop="name">strawberry wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Strawberry Wallpaper for iPhone - Refresh Your Screen!</h1>
+                <p>Transform your iPhone with vibrant strawberry wallpaper! Enjoy refreshing designs that bring a pop of color and summer vibes to your screen. Perfect for berry lovers, these wallpapers feature juicy strawberries in stunning detail, making your device look fruity and fun. Download now to brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Strawberry Kawaii iPhone Lock Screen Pink Aesthetic Wallpaper -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' alt='Cute Pink Strawberry Kawaii iPhone Lock Screen Pink Aesthetic Wallpaper -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b19vZl9mcmVzaF9zdHJhd2JlcnJpZXNfYXJyYW5nZWRfaW5fYV9wYV83NDA4ZjllOS1hNDY5LTRkYTctYWI2OS1kNzg1YWFkZTk4ZGJfMS5qcGc.jpg' alt='Strawberry Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b19vZl9mcmVzaF9zdHJhd2JlcnJpZXNfYXJyYW5nZWRfaW5fYV9wYV83NDA4ZjllOS1hNDY5LTRkYTctYWI2OS1kNzg1YWFkZTk4ZGJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Strawberry Wallpaper Set for iPhone 4K Instant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48804819/r/il/e7daba/5855791911/il_fullxfull.5855791911_bzbl.jpg' alt='Aesthetic Pink Strawberry Wallpaper Set for iPhone 4K Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48804819/r/il/e7daba/5855791911/il_fullxfull.5855791911_bzbl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/11/d6/50/11d65095851b35cac6c824a48de521d4.jpg' alt='Strawberry iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/11/d6/50/11d65095851b35cac6c824a48de521d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   strawberry wallpaper, strawberry wallpaper aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/fd/6c/48fd6c47d9ed4d2a07c0f4330d9041fd.jpg' alt='   strawberry wallpaper, strawberry wallpaper aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/fd/6c/48fd6c47d9ed4d2a07c0f4330d9041fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Delicious Strawberry Aesthetic Iphone Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/strawberry-aesthetic-mk37dqea3v8fhww5.jpg' alt='Download Delicious Strawberry Aesthetic Iphone Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/strawberry-aesthetic-mk37dqea3v8fhww5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Wallpapers for iPhone 15 | Download Free images ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/373d884e6b1d75b670be93f8b44f879a/yYVe5PNFX9CKg3wMcD4r.jpg?q=70&w=500' alt='Strawberry Wallpapers for iPhone 15 | Download Free images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/373d884e6b1d75b670be93f8b44f879a/yYVe5PNFX9CKg3wMcD4r.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry wallpaper for iPhone or android : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/861o3qgszfp41.jpg?width=640&crop=smart&auto=webp&s=8c65e4de08eba8baab0df6fe334cd4ed5d84d723' alt='Strawberry wallpaper for iPhone or android : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/861o3qgszfp41.jpg?width=640&crop=smart&auto=webp&s=8c65e4de08eba8baab0df6fe334cd4ed5d84d723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Strawberry phone backgrounds    | Gallery posted by Cecilia | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7262202891145036293&index=0&sign=f2e39d5f362d4f816a0815dd75399871' alt='  Strawberry phone backgrounds    | Gallery posted by Cecilia | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7262202891145036293&index=0&sign=f2e39d5f362d4f816a0815dd75399871' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Milk Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/strawberry-milk-cute-iphone-wx5pl0cmqsblzxkh.jpg' alt='Strawberry Milk Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/strawberry-milk-cute-iphone-wx5pl0cmqsblzxkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Style with Indie iPhone Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone indie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-indie-wallpaper">
+                            <span itemprop="name">iphone indie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Style with Indie iPhone Wallpapers</h1>
+                <p>Discover the beauty of indie-inspired iPhone wallpapers, perfect for personalizing your device. These unique designs, ranging from minimalist art to vibrant patterns, reflect individual creativity and style. Elevate your phone's aesthetics with wallpapers that make a statement and showcase your distinctive taste. Explore and download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Iphone Wallpaper #cool #retro #wallpaper #iphone # 382">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/38/bd/58/38bd581c3342418fa9d60a672ebeacc8.jpg' alt='Indie Iphone Wallpaper #cool #retro #wallpaper #iphone # 382'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/38/bd/58/38bd581c3342418fa9d60a672ebeacc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Indie Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-iphone-537fjrd6akndlq7u.jpg' alt='100+] Indie Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-iphone-537fjrd6akndlq7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Art Vibes On Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/indie-art-vibes-on-iphone-l2jbe2rrmjb98lnh.jpg' alt='Indie Art Vibes On Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/indie-art-vibes-on-iphone-l2jbe2rrmjb98lnh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Indie Aesthetic Wallpaper Ideas (2022 List)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/05/18/22/0518226ce6dedee152f5b78b9ab25a55.jpg' alt='30+ Indie Aesthetic Wallpaper Ideas (2022 List)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/05/18/22/0518226ce6dedee152f5b78b9ab25a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Stylish Indie Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-stylish-indie-iphone-rcv5cvn1nlr8juqq.jpg' alt='A Stylish Indie Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-stylish-indie-iphone-rcv5cvn1nlr8juqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Indie iPhone Wallpaper, Indie iPhone Wallpaper, Muted ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/1450ca/3423575574/il_570xN.3423575574_t4hy.jpg' alt='Muted Indie iPhone Wallpaper, Indie iPhone Wallpaper, Muted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/1450ca/3423575574/il_570xN.3423575574_t4hy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get Ready To Rock Out With The Indie Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-iphone-oytys6zy5ppo6665.jpg' alt='Download Get Ready To Rock Out With The Indie Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-iphone-oytys6zy5ppo6665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper, Ios 14 Wallpaper, Indie Wallpaper, Aesthetic Wallpaper  (DIGITAL DOWNLOAD) 5 PCS - Etsy Sweden">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/1023c9/3046511105/il_1080xN.3046511105_e3mr.jpg' alt='IPhone Wallpaper, Ios 14 Wallpaper, Indie Wallpaper, Aesthetic Wallpaper  (DIGITAL DOWNLOAD) 5 PCS - Etsy Sweden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/1023c9/3046511105/il_1080xN.3046511105_e3mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-colorful-psychedelic-image-with-rainbow-waves-eg2pzaf725cab348.jpg' alt='Indie Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-colorful-psychedelic-image-with-rainbow-waves-eg2pzaf725cab348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Indie Aesthetic Wallpaper Ideas (2022 List)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/58/77/55/587755224200aa75ebbbfc10f6b03294.jpg' alt='30+ Indie Aesthetic Wallpaper Ideas (2022 List)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/58/77/55/587755224200aa75ebbbfc10f6b03294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

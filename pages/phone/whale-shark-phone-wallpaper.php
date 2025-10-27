@@ -1,0 +1,129 @@
+<title>Stunning Whale Shark Phone Wallpapers for Ocean Lovers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="whale shark phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/whale-shark-phone-wallpaper">
+                            <span itemprop="name">whale shark phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Whale Shark Phone Wallpapers for Ocean Lovers</h1>
+                <p>Transform your device with stunning whale shark phone wallpapers! Capture the beauty of these gentle giants swimming gracefully through vibrant ocean waters. Perfect for ocean lovers and marine enthusiasts, our collection offers high-resolution images that bring a serene underwater vibe to your screen. Dive in and explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Whale Shark Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1540202404-b2979d19ed37?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Whale Shark Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1540202404-b2979d19ed37?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="whale shark starfish">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/31/56/153156f7705251e055043da4c379bfa8.jpg' alt='whale shark starfish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/31/56/153156f7705251e055043da4c379bfa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Whale shark, blue iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/60/81/f0/6081f08afa997e0131a53585e4f522ca.jpg' alt='Download premium image of Whale shark, blue iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/60/81/f0/6081f08afa997e0131a53585e4f522ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning capture of a whale shark : r/pics">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/rUqC2XYuhJFIsx0GcTVOXO9V32pZky8rtnW0j4GjSlc.png?width=640&crop=smart&auto=webp&s=05a1c445986bc397fcca5aeac043780c074c2a82' alt='Stunning capture of a whale shark : r/pics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/rUqC2XYuhJFIsx0GcTVOXO9V32pZky8rtnW0j4GjSlc.png?width=640&crop=smart&auto=webp&s=05a1c445986bc397fcca5aeac043780c074c2a82' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD whale shark wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/527/342/HD-wallpaper-whale-shark-gopro-maldives-nature-ocean-shark-travel-underwater-thumbnail.jpg' alt='HD whale shark wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/527/342/HD-wallpaper-whale-shark-gopro-maldives-nature-ocean-shark-travel-underwater-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/5b/7f/f45b7fe0e3cfaf1dbc96e03a25037069.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/5b/7f/f45b7fe0e3cfaf1dbc96e03a25037069.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale Shark Dive Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/232564-825-auto?width=825&height=auto&aspect=true' alt='Whale Shark Dive Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/232564-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whalesharks Wallpaper - Buy Animals Themed Wallpaper By Victoria ...">
+                                <img itemprop="contentUrl url" src='https://urbanroad.com/cdn/shop/files/VMRP12_C_A4.jpg?v=1725444417&width=1946' alt='Whalesharks Wallpaper - Buy Animals Themed Wallpaper By Victoria ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban Road" />
+                                </span>
+                                <a href='https://urbanroad.com/cdn/shop/files/VMRP12_C_A4.jpg?v=1725444417&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Love whale sharks ideas in 2025 | whale, whale shark, shark">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/36/b9/9d/36b99d1cedca848b984eb9b80bbceafd.jpg' alt='180 Love whale sharks ideas in 2025 | whale, whale shark, shark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/36/b9/9d/36b99d1cedca848b984eb9b80bbceafd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Magazine - Each whale shark's spot pattern is unique as a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4409837059054694' alt='Shark Magazine - Each whale shark's spot pattern is unique as a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4409837059054694' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

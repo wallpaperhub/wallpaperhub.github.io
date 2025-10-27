@@ -1,0 +1,129 @@
+<title>Thrilling Baseball Crowd Vibes: Experience the Game</title>
+                    <meta name="description" content="Discover the energetic atmosphere of a baseball crowd, where cheers, colors, and emotions blend into an unforgettable experience. From passionate fans to joyful celebrations, immerse yourself in the thrilling spirit of America’s pastime at the ballpark. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="baseball crowd background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baseball-crowd-background">
+                            <span itemprop="name">baseball crowd background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thrilling Baseball Crowd Vibes: Experience the Game</h1>
+                <p>The vibrant baseball crowd is a lively tapestry of colors and emotions, filled with eager fans donning team jerseys, caps, and face paint. Cheers erupt at every play, creating an electrifying atmosphere. From families sharing snacks to friends celebrating home runs, the energy is infectious, encapsulating the spirit of America's favorite pastime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,914 Baseball Crowd Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/poster-promote-local-sports-matches-600nw-2428281753.jpg' alt='7,914 Baseball Crowd Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/poster-promote-local-sports-matches-600nw-2428281753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Crowd Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/235784/Baseball-Crowd-Wall-Mural.jpg?v=638164641487130000' alt='Baseball Crowd Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/235784/Baseball-Crowd-Wall-Mural.jpg?v=638164641487130000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180+ Baseball Crowd Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/166055606/vector/baseball-stadium.jpg?s=612x612&w=0&k=20&c=5PZ8sfYjyxO-1eMVCBVH2d7xUKWpjPtYf7gohTnCtpo=' alt='180+ Baseball Crowd Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/166055606/vector/baseball-stadium.jpg?s=612x612&w=0&k=20&c=5PZ8sfYjyxO-1eMVCBVH2d7xUKWpjPtYf7gohTnCtpo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball stadium crowd hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/B3N580/crowd-at-yankee-stadium-home-of-the-new-york-yankees-baseball-team-B3N580.jpg' alt='Baseball stadium crowd hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/B3N580/crowd-at-yankee-stadium-home-of-the-new-york-yankees-baseball-team-B3N580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,920 Baseball Crowd Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/crowd-fans-baseball-stadium-blurred-background-142359004.jpg' alt='3,920 Baseball Crowd Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/crowd-fans-baseball-stadium-blurred-background-142359004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="710+ Baseball Crowd Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/166044472/photo/baseball-excitement.jpg?s=612x612&w=0&k=20&c=Z7H6BRVD00yhsbmmsSk4QFOIw0xUhsADtY2UeUr-5vo=' alt='710+ Baseball Crowd Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/166044472/photo/baseball-excitement.jpg?s=612x612&w=0&k=20&c=Z7H6BRVD00yhsbmmsSk4QFOIw0xUhsADtY2UeUr-5vo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 8x6ft Baseball Stadium Background Spectators Stands  Crowd Fans Under Roof Arena Pitch Spotlights Photography Backdrop Court  Seats ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71QDoGhvpPL.jpg' alt='Amazon.com : AOFOTO 8x6ft Baseball Stadium Background Spectators Stands  Crowd Fans Under Roof Arena Pitch Spotlights Photography Backdrop Court  Seats ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71QDoGhvpPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="970+ Baseball Cheering Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/907917328/photo/baseball-fan-raising-arms-in-excitement.jpg?s=612x612&w=0&k=20&c=nJ2eRjgIaW7-erLlWJMtsRVAXGNT8Ysa37yyyupgB9Q=' alt='970+ Baseball Cheering Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/907917328/photo/baseball-fan-raising-arms-in-excitement.jpg?s=612x612&w=0&k=20&c=nJ2eRjgIaW7-erLlWJMtsRVAXGNT8Ysa37yyyupgB9Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,920 Baseball Crowd Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/baseball-fans-20700144.jpg' alt='3,920 Baseball Crowd Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/baseball-fans-20700144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outfield Baseball Printed Photography Backdrop">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/cp6104High_600x.jpg?v=1618577884' alt='Outfield Baseball Printed Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/cp6104High_600x.jpg?v=1618577884' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

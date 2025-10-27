@@ -1,0 +1,129 @@
+<title>Stunning Hollow Knight Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover breathtaking Hollow Knight wallpapers to enhance your desktop aesthetic. Perfectly crafted for fans of the game, these backgrounds bring the beauty of Hallownest to your screen. Download now and transform your workspace with vibrant art that inspires adventure and creativity!">
+                    <meta name="keywords" content="desktop background:gruptpxeztq= hollow knight wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktop-backgroundgruptpxeztq-hollow-knight-wallpaper">
+                            <span itemprop="name">desktop background:gruptpxeztq= hollow knight wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hollow Knight Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop with stunning Hollow Knight wallpapers! Immerse yourself in the enchanting world of Hallownest, featuring captivating characters and landscapes. Whether you love the mysterious charm of the Knight or the vibrant colors of the game's art, these wallpapers will elevate your workspace and inspire your creativity every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight All-Bosses Desktop Background ALL COLORS! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iw5qapxvfnb21.png?auto=webp&s=7cc13d94fd2da8ef09224a9c95e713e9ab8c14ac' alt='Hollow Knight All-Bosses Desktop Background ALL COLORS! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iw5qapxvfnb21.png?auto=webp&s=7cc13d94fd2da8ef09224a9c95e713e9ab8c14ac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Wallpaper finished!! [1920x1080] No Godmaster ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cmo0ctosk0i11.png?auto=webp&s=b48db0ddbad691ccf2e32330d6e70304aa5b95a5' alt='Hollow Knight Wallpaper finished!! [1920x1080] No Godmaster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cmo0ctosk0i11.png?auto=webp&s=b48db0ddbad691ccf2e32330d6e70304aa5b95a5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Game Art HD Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/806/806254.jpg' alt='Hollow Knight Game Art HD Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/806/806254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow-Knight-Wallpaper by Giilead on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dc2caad-40bb-405d-adf4-cb10836b0b54/dd3xjj8-6f628b8f-22a4-4d7d-9db1-e54cb857d96b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYzJjYWFkLTQwYmItNDA1ZC1hZGY0LWNiMTA4MzZiMGI1NFwvZGQzeGpqOC02ZjYyOGI4Zi0yMmE0LTRkN2QtOWRiMS1lNTRjYjg1N2Q5NmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6VCyPAhx6I8utKkTmDycnRyEfgyBbmu_vjmRwajduoI' alt='Hollow-Knight-Wallpaper by Giilead on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dc2caad-40bb-405d-adf4-cb10836b0b54/dd3xjj8-6f628b8f-22a4-4d7d-9db1-e54cb857d96b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYzJjYWFkLTQwYmItNDA1ZC1hZGY0LWNiMTA4MzZiMGI1NFwvZGQzeGpqOC02ZjYyOGI4Zi0yMmE0LTRkN2QtOWRiMS1lNTRjYjg1N2Q5NmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6VCyPAhx6I8utKkTmDycnRyEfgyBbmu_vjmRwajduoI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/Hollow-knight-wallpapers8-2.jpg' alt='Hollow Knight wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/Hollow-knight-wallpapers8-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hollow Knight Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hollow-knight-82dd1lgxpbzdrhqw.jpg' alt='100+] Hollow Knight Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hollow-knight-82dd1lgxpbzdrhqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hollow Knight Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-fan-art-poster-of-hollow-knight-gfqwy06xyo81wi4z.jpg' alt='100+] Hollow Knight Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-fan-art-poster-of-hollow-knight-gfqwy06xyo81wi4z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hollow Knight Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-aesthetic-hollow-knight-djwbkkcn3cganm1x.jpg' alt='100+] Hollow Knight Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-aesthetic-hollow-knight-djwbkkcn3cganm1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+] Hollow Knight Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/118/1184118.jpg' alt='90+] Hollow Knight Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/118/1184118.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight and Background, Hollow Knight Art, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/381/214/HD-wallpaper-hollow-knight-and-background-hollow-knight-art.jpg' alt='Hollow Knight and Background, Hollow Knight Art, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/381/214/HD-wallpaper-hollow-knight-and-background-hollow-knight-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

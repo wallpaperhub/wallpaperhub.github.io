@@ -1,0 +1,129 @@
+<title>Do HIPAA Violations Appear on Background Checks?</title>
+                    <meta name="description" content="Discover whether HIPAA violations can affect your background check results. Understand the implications and stay informed about compliance to protect your career and reputation in the healthcare industry.">
+                    <meta name="keywords" content="will a hipaa violation show up on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-a-hipaa-violation-show-up-on-a-background-check">
+                            <span itemprop="name">will a hipaa violation show up on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do HIPAA Violations Appear on Background Checks?</h1>
+                <p>A HIPAA violation typically won't show up on a standard background check since it's not a criminal offense. However, if the violation leads to legal action or disciplinary measures from professional licensing boards, that information may surface. It's essential to remain compliant with HIPAA to avoid potential repercussions in employment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Common HIPAA Violations You Must Avoid - 2025 Update">
+                                <img itemprop="contentUrl url" src='https://www.hipaajournal.com/wp-content/uploads/2023/05/What-are-the-ten-most-common-HIPAA-violations-576x1024.jpg' alt='The Most Common HIPAA Violations You Must Avoid - 2025 Update'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HIPAA Journal" />
+                                </span>
+                                <a href='https://www.hipaajournal.com/wp-content/uploads/2023/05/What-are-the-ten-most-common-HIPAA-violations-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HIPAA Violation Background Checks: All You Need to Know">
+                                <img itemprop="contentUrl url" src='https://www.ifaxapp.com/wp-content/uploads/2023/06/will-hipaa-violations-show-up-on-background-checks.png' alt='HIPAA Violation Background Checks: All You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iFax" />
+                                </span>
+                                <a href='https://www.ifaxapp.com/wp-content/uploads/2023/06/will-hipaa-violations-show-up-on-background-checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a HIPAA violation show up on a background check? | GroupOne ...">
+                                <img itemprop="contentUrl url" src='https://gp1.com/wp-content/uploads/2023/06/Magnifying_Glass_7.2-1024x565.jpg' alt='Will a HIPAA violation show up on a background check? | GroupOne ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GroupOne | Background Checks" />
+                                </span>
+                                <a href='https://gp1.com/wp-content/uploads/2023/06/Magnifying_Glass_7.2-1024x565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is a HIPAA Violation Grounds for Termination? 2025 Update">
+                                <img itemprop="contentUrl url" src='https://www.hipaajournal.com/wp-content/uploads/2022/11/HIPAA-Violations-Checklist-1024x709.png' alt='Is a HIPAA Violation Grounds for Termination? 2025 Update'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HIPAA Journal" />
+                                </span>
+                                <a href='https://www.hipaajournal.com/wp-content/uploads/2022/11/HIPAA-Violations-Checklist-1024x709.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a HIPAA Violation? Updated for 2025">
+                                <img itemprop="contentUrl url" src='https://www.hipaajournal.com/wp-content/uploads/2024/08/HIPAA-violation-scaled.webp' alt='What is a HIPAA Violation? Updated for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HIPAA Journal" />
+                                </span>
+                                <a href='https://www.hipaajournal.com/wp-content/uploads/2024/08/HIPAA-violation-scaled.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Common HIPAA Violations You Must Avoid - 2025 Update">
+                                <img itemprop="contentUrl url" src='https://www.hipaajournal.com/wp-content/uploads/2023/12/most-common-hipaa-violations-causes.webp' alt='The Most Common HIPAA Violations You Must Avoid - 2025 Update'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1097">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HIPAA Journal" />
+                                </span>
+                                <a href='https://www.hipaajournal.com/wp-content/uploads/2023/12/most-common-hipaa-violations-causes.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accidental HIPAA violation">
+                                <img itemprop="contentUrl url" src='https://www.hipaajournal.com/wp-content/uploads/2023/10/accidental-hipaa-violations.webp' alt='Accidental HIPAA violation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HIPAA Journal" />
+                                </span>
+                                <a href='https://www.hipaajournal.com/wp-content/uploads/2023/10/accidental-hipaa-violations.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HIPAA Violation Fines & Lawsuit Settlements Directory">
+                                <img itemprop="contentUrl url" src='https://compliancy-group.com/wp-content/uploads/2022/11/HIPAA-Violation-Penalty-Tiers-e1667491700401.png' alt='HIPAA Violation Fines & Lawsuit Settlements Directory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compliancy Group" />
+                                </span>
+                                <a href='https://compliancy-group.com/wp-content/uploads/2022/11/HIPAA-Violation-Penalty-Tiers-e1667491700401.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a HIPAA Violation Stay on Your Record? - Compliancy ...">
+                                <img itemprop="contentUrl url" src='https://compliancy-group.com/wp-content/uploads/2024/09/how-long-does-a-hipaa-violation-stay-on-your-record.png' alt='How Long Does a HIPAA Violation Stay on Your Record? - Compliancy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compliancy Group" />
+                                </span>
+                                <a href='https://compliancy-group.com/wp-content/uploads/2024/09/how-long-does-a-hipaa-violation-stay-on-your-record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HIPAA Violations: Examples, Fines + 5 Cases to Learn From ...">
+                                <img itemprop="contentUrl url" src='https://secureframe.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsecureframe-com%2F87218982-a5e6-4fa2-a99f-af9c7c0052e4_hipaa-violations-and-penalties.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75' alt='HIPAA Violations: Examples, Fines + 5 Cases to Learn From ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="3183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secureframe" />
+                                </span>
+                                <a href='https://secureframe.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsecureframe-com%2F87218982-a5e6-4fa2-a99f-af9c7c0052e4_hipaa-violations-and-penalties.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant White Grass Cloth Wallpaper for Timeless Décor</title>
+                    <meta name="description" content="Discover the beauty of white grass cloth wallpaper. Perfect for adding texture and a natural look to your home, it’s eco-friendly, easy to install, and ideal for any room. Transform your interior with this elegant, timeless décor choice!">
+                    <meta name="keywords" content="white grass cloth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-grass-cloth-wallpaper">
+                            <span itemprop="name">white grass cloth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Grass Cloth Wallpaper for Timeless Décor</h1>
+                <p>White grass cloth wallpaper adds elegance and texture to any space. Crafted from natural fibers, it offers a unique, eco-friendly aesthetic. With its subtle variations, this wallpaper creates a serene backdrop that enhances the beauty of interiors. Ideal for living rooms or bedrooms, it's easy to install and maintain, making it a timeless choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth by Albany - Off White - Wallpaper - DL26713">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/204371_1_orig.jpg' alt='Grasscloth by Albany - Off White - Wallpaper - DL26713'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/204371_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tabitha Paper Weave Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://scoutdesignstudio.com/cdn/shop/products/TabitaGrassclothWallpaper.01_1800x1800.jpg?v=1669905039' alt='Tabitha Paper Weave Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scout Design Studio" />
+                                </span>
+                                <a href='https://scoutdesignstudio.com/cdn/shop/products/TabitaGrassclothWallpaper.01_1800x1800.jpg?v=1669905039' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/BL72900_Pattern_10x12_GrassCloth_modern_boho_interior_wallpaper.jpg?v=1719507407&width=1080' alt='White Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/BL72900_Pattern_10x12_GrassCloth_modern_boho_interior_wallpaper.jpg?v=1719507407&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth - White Cloud">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/whiteb.jpg?v=1679432578' alt='Faux Grasscloth - White Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/whiteb.jpg?v=1679432578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grasscloth Wallpaper Linen-Like Natural 488-411 Double Rolls">
+                                <img itemprop="contentUrl url" src='https://www.fortheloveofwallpaper.com/wp-content/uploads/2016/03/go-green30-2-e1576182984807.jpg' alt='White Grasscloth Wallpaper Linen-Like Natural 488-411 Double Rolls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpaper online store—For the Love of Wallpaper" />
+                                </span>
+                                <a href='https://www.fortheloveofwallpaper.com/wp-content/uploads/2016/03/go-green30-2-e1576182984807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grasscloth Wallpaper – Mayflower Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mayflowerwallpaper.com/cdn/shop/collections/white-grasscloth-wallpaper-252815.jpg?v=1694018134&width=1024' alt='White Grasscloth Wallpaper – Mayflower Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='http://mayflowerwallpaper.com/cdn/shop/collections/white-grasscloth-wallpaper-252815.jpg?v=1694018134&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Basketweave Grasscloth">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0017573_white-basketweave-grasscloth.jpeg' alt='White Basketweave Grasscloth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0017573_white-basketweave-grasscloth.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York Wallcoverings Grasscloth Resource Library White / Off Whites  Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://imgdataserver.com/items/york-wallcoverings-grasscloth-resource-library-wallpaper-wallpape-ywwb5501_zm.jpg' alt='York Wallcoverings Grasscloth Resource Library White / Off Whites  Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1394">
+                                <meta itemprop="height" content="1046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PatioLiving" />
+                                </span>
+                                <a href='https://imgdataserver.com/items/york-wallcoverings-grasscloth-resource-library-wallpaper-wallpape-ywwb5501_zm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Wallpaper in Off White">
+                                <img itemprop="contentUrl url" src='https://puresaltinteriors.com/cdn/shop/products/grasscloth-wallpaper-in-off-white-pure-salt-shoppe.jpg?v=1676263498&width=2048' alt='Grasscloth Wallpaper in Off White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pure Salt Interiors" />
+                                </span>
+                                <a href='https://puresaltinteriors.com/cdn/shop/products/grasscloth-wallpaper-in-off-white-pure-salt-shoppe.jpg?v=1676263498&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

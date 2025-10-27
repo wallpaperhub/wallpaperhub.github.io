@@ -1,0 +1,129 @@
+<title>Unleash Fun with a Roblox Birthday Celebration!</title>
+                    <meta name="description" content="Discover how to throw an unforgettable Roblox birthday party! From game invites to themed cake ideas, learn tips to create a fun-filled celebration that friends will love. Make your special day memorable with exciting in-game activities and virtual surprises!">
+                    <meta name="keywords" content="roblox birthday">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/roblox-birthday">
+                            <span itemprop="name">roblox birthday</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Fun with a Roblox Birthday Celebration!</h1>
+                <p>Celebrate your special day with a Roblox birthday bash! Invite friends to join you in your favorite games, customize your avatar, and create unforgettable memories. Set up fun challenges, design themed cakes, and share virtual gifts. It's a fantastic way to enjoy gaming while celebrating a milestone with your friends!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Backdrop Roblox Theme, Roblox Boy Birthday Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42858398/r/il/16d5f8/5961500349/il_fullxfull.5961500349_roub.jpg' alt='Birthday Backdrop Roblox Theme, Roblox Boy Birthday Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42858398/r/il/16d5f8/5961500349/il_fullxfull.5961500349_roub.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITS MY BIRTHDAY IN ROBLOX! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f9AWLVRLPYA/sddefault.jpg?v=63c2682e' alt='ITS MY BIRTHDAY IN ROBLOX! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f9AWLVRLPYA/sddefault.jpg?v=63c2682e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Roblox's Birthday Tomorow!! What are you doing to celebrate ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/its-robloxs-birthday-tomorow-what-are-you-doing-to-celebrate-v0-ilzv77p0vilb1.jpg?width=640&crop=smart&auto=webp&s=8a2306dd1682f331df012f922df9f6c85d0d792f' alt='It's Roblox's Birthday Tomorow!! What are you doing to celebrate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/its-robloxs-birthday-tomorow-what-are-you-doing-to-celebrate-v0-ilzv77p0vilb1.jpg?width=640&crop=smart&auto=webp&s=8a2306dd1682f331df012f922df9f6c85d0d792f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Happy Birthday PNG Set 4 Designs, Instant Download, Gaming ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43580228/r/il/35dd61/5824940012/il_fullxfull.5824940012_g1y0.jpg' alt='Roblox Happy Birthday PNG Set 4 Designs, Instant Download, Gaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43580228/r/il/35dd61/5824940012/il_fullxfull.5824940012_g1y0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kara's Party Ideas Roblox Birthday Party | Kara's Party Ideas">
+                                <img itemprop="contentUrl url" src='https://karaspartyideas.com/wp-content/uploads/2020/08/roblox4.jpg' alt='Kara's Party Ideas Roblox Birthday Party | Kara's Party Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kara's Party Ideas" />
+                                </span>
+                                <a href='https://karaspartyideas.com/wp-content/uploads/2020/08/roblox4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Girl Pink Lo Birthday Banner Personalized Party Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Roblox-Girl-Pink-Lo-Birthday-Banner-Personalized-Party-Backdrop-Decoration-60-x-44-Inches_95808a9a-e29b-4e45-b88c-84087e854465.c218a30cc9ba57ffea7dec63f9db7aae.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Roblox Girl Pink Lo Birthday Banner Personalized Party Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Roblox-Girl-Pink-Lo-Birthday-Banner-Personalized-Party-Backdrop-Decoration-60-x-44-Inches_95808a9a-e29b-4e45-b88c-84087e854465.c218a30cc9ba57ffea7dec63f9db7aae.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Birthday Oy Girl Png , Roblox Birthday Boy Png Sublimation ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49285410/r/il/d80367/5641251674/il_fullxfull.5641251674_ljj6.jpg' alt='Roblox Birthday Oy Girl Png , Roblox Birthday Boy Png Sublimation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49285410/r/il/d80367/5641251674/il_fullxfull.5641251674_ljj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating 8 Years: Roblox Birthday Party For Girls">
+                                <img itemprop="contentUrl url" src='https://www.ladymarielle.com/wp-content/uploads/2023/10/81LdDRjBKmL._AC_SL1500_.jpg' alt='Celebrating 8 Years: Roblox Birthday Party For Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lady Marielle -" />
+                                </span>
+                                <a href='https://www.ladymarielle.com/wp-content/uploads/2023/10/81LdDRjBKmL._AC_SL1500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Photography Background Hilloly Birthday Party Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613mRRPx26L.jpg' alt='Roblox Photography Background Hilloly Birthday Party Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613mRRPx26L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="She RUINED My Roblox BIRTHDAY PARTY...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F1ZgF--9lBQ/maxresdefault.jpg' alt='She RUINED My Roblox BIRTHDAY PARTY...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F1ZgF--9lBQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

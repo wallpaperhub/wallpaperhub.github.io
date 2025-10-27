@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Textured Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of floral textured wallpaper! Perfect for any room, it combines elegance and warmth, enhancing your decor with vibrant patterns and tactile designs. Elevate your interiors effortlessly with this stunning wallpaper choice!">
+                    <meta name="keywords" content="floral textured wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-textured-wallpaper">
+                            <span itemprop="name">floral textured wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Textured Wallpaper</h1>
+                <p>Floral textured wallpaper adds a touch of elegance and sophistication to any space. With its beautiful patterns and tactile surfaces, it can transform bland walls into a vibrant focal point. Perfect for living rooms, bedrooms, or even offices, this wallpaper offers both aesthetic appeal and a cozy feel, inviting nature indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z46043 Trussardi Floral Beige textured wallpaper 3D">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Z46043.jpg?v=1674105835' alt='Z46043 Trussardi Floral Beige textured wallpaper 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Z46043.jpg?v=1674105835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Helen Floral Trail Beige Paper Non-Pasted Textured  Wallpaper 4074-26633">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f4ab6cf9-02f3-41b8-ac00-9699b46c8cd8/svn/wallpaper-rolls-4074-26633-64_600.jpg' alt='A-Street Prints Helen Floral Trail Beige Paper Non-Pasted Textured  Wallpaper 4074-26633'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f4ab6cf9-02f3-41b8-ac00-9699b46c8cd8/svn/wallpaper-rolls-4074-26633-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395514 Floral Texture Blue Grey White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247145.jpg' alt='Galerie EN3395514 Floral Texture Blue Grey White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Mist Peel-and-Stick Luxe Haven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' alt='Floral Mist Peel-and-Stick Luxe Haven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lillian August" />
+                                </span>
+                                <a href='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Textured Wallpaper & Pink Floral Print | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/floral_36671645_01_8d12bbe6-e43b-4c69-9aab-cbf6ea99d418-sw_grande.jpg?v=1723298633' alt='Brown Textured Wallpaper & Pink Floral Print | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/floral_36671645_01_8d12bbe6-e43b-4c69-9aab-cbf6ea99d418-sw_grande.jpg?v=1723298633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taupe Acrylic Texture Dogwood Floral & Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/taupe-acrylic-texture-dogwood-floral-le-repn.jpg' alt='Taupe Acrylic Texture Dogwood Floral & Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/taupe-acrylic-texture-dogwood-floral-le-repn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z66805 Contemporary White non-woven Satin floral wallpaper textured 3D">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Z66805-2.jpg?v=1670186979' alt='Z66805 Contemporary White non-woven Satin floral wallpaper textured 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Z66805-2.jpg?v=1670186979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' alt='Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern wallpaper floral - flowers & grasses textured matt">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/fe/33/fa/1711139879/60674dfee6226266c2a717c289c45030.webp' alt='Modern wallpaper floral - flowers & grasses textured matt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/fe/33/fa/1711139879/60674dfee6226266c2a717c289c45030.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmella Floral Texture by Albany - Cream - Wallpaper - 7150">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/213027_1_orig.jpg?v=1704726446' alt='Carmella Floral Texture by Albany - Cream - Wallpaper - 7150'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/213027_1_orig.jpg?v=1704726446' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

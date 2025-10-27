@@ -1,0 +1,129 @@
+<title>Navy and White Wallpaper: Elevate Your Space with Timeless Elegance</title>
+                    <meta name="description" content="Discover the beauty of navy and white wallpaper! Perfect for adding sophistication to any room, it combines classic colors for a fresh, modern look. Upgrade your decor with this stunning choice that complements any style. Shop now for the perfect accent in your home!">
+                    <meta name="keywords" content="navy and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/navy-and-white-wallpaper">
+                            <span itemprop="name">navy and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy and White Wallpaper: Elevate Your Space with Timeless Elegance</h1>
+                <p>Navy and white wallpaper brings a classic yet modern touch to any space. The deep blue contrasts beautifully against the crisp white, creating a striking visual appeal. Ideal for bedrooms, living areas, or offices, this wallpaper pairs well with various decor styles, offering elegance and sophistication while remaining versatile and timeless.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thibaut T20844 Yukio Navy and White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/236251.jpg' alt='Thibaut T20844 Yukio Navy and White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/236251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue & White Seagrass Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/navy-blue-white-seagrass-leaves-wallpap-pbhz.jpg' alt='Navy Blue & White Seagrass Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/navy-blue-white-seagrass-leaves-wallpap-pbhz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy White Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2166">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470585840_6aqq.jpg' alt='Navy White Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2166'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470585840_6aqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue and White Hawaiian Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://extremelystoked.com/cdn/shop/files/white_navy_non_pasted_smooth_large.jpg?v=1708790882' alt='Navy Blue and White Hawaiian Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Extremely Stoked" />
+                                </span>
+                                <a href='https://extremelystoked.com/cdn/shop/files/white_navy_non_pasted_smooth_large.jpg?v=1708790882' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erfoni 15.7" X 78.7" Toile Peel and Stick Wallpaper Navy Blue and White  Contact Paper Forest Self Adhsive Wallpaper Tree Removable Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91pi14m35kL.jpg' alt='Erfoni 15.7" X 78.7" Toile Peel and Stick Wallpaper Navy Blue and White  Contact Paper Forest Self Adhsive Wallpaper Tree Removable Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91pi14m35kL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Matilda Navy Floral Navy/White Wallpaper Sample  2782-24552SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b0be8184-85d8-45b4-8cdf-aca290b17c61/svn/a-street-prints-wallpaper-samples-2782-24552sam-64_600.jpg' alt='A-Street Prints Matilda Navy Floral Navy/White Wallpaper Sample  2782-24552SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b0be8184-85d8-45b4-8cdf-aca290b17c61/svn/a-street-prints-wallpaper-samples-2782-24552sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Fantasy Wallpaper, wall mural - ColorayDecor.com">
+                                <img itemprop="contentUrl url" src='https://coloraydecor.com/images/cd/coloraydecor-f-ss-331155977/1/s/wallpaper-navy-blue-fantasy.jpg' alt='Navy Blue Fantasy Wallpaper, wall mural - ColorayDecor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorayDecor.com" />
+                                </span>
+                                <a href='https://coloraydecor.com/images/cd/coloraydecor-f-ss-331155977/1/s/wallpaper-navy-blue-fantasy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GE3664 Hourglass Trellis White Navy Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/york-wallcoverings-wallpaper-rolls-ge3664-c3_1000.jpg?v=1598630144' alt='GE3664 Hourglass Trellis White Navy Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/york-wallcoverings-wallpaper-rolls-ge3664-c3_1000.jpg?v=1598630144' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy & White Heritage Rose Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/navy-white-heritage-rose-floral-wallpap-otyb.jpg' alt='Navy & White Heritage Rose Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/navy-white-heritage-rose-floral-wallpap-otyb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Abstract Leaf Wallpaper Modern Wallpaper Peel and Stick and  Traditional Wallpaper - D640">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5407110944_kwuw.jpg?v=1730236631&width=416' alt='Navy Abstract Leaf Wallpaper Modern Wallpaper Peel and Stick and  Traditional Wallpaper - D640'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5407110944_kwuw.jpg?v=1730236631&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

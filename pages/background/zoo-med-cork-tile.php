@@ -1,0 +1,129 @@
+<title>Enhance Your Reptile Habitat with Zoo Med Cork Tile</title>
+                    <meta name="description" content="Discover Zoo Med Cork Tile, the perfect natural substrate for reptiles that promotes climbing and burrowing. Eco-friendly and easy to clean, it enhances your pet's habitat while helping maintain humidity levels. Ideal for reptiles and amphibians, create a beautiful and functional living space today!">
+                    <meta name="keywords" content="zoo med cork tile">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zoo-med-cork-tile">
+                            <span itemprop="name">zoo med cork tile</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Reptile Habitat with Zoo Med Cork Tile</h1>
+                <p>Zoo Med Cork Tile is an ideal substrate for reptile and amphibian habitats, providing a natural, textured surface that promotes climbing and burrowing. Made from renewable cork, it's environmentally friendly and easy to clean. It's perfect for maintaining humidity and enhancing your pet's environment with a natural aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Zoo Med Natural Cork Tile Background, 18 x 24-Inch : Terrarium  Tile : Pet Supplies">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/617pRl5VSjL.jpg' alt='Amazon.com : Zoo Med Natural Cork Tile Background, 18 x 24-Inch : Terrarium  Tile : Pet Supplies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/617pRl5VSjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Cork Tile Background | Zoo Med Laboratories, Inc.">
+                                <img itemprop="contentUrl url" src='https://zoomed.com/wp-content/uploads/NCB-1_Natural_Cork_Tile_Background.jpg' alt='Natural Cork Tile Background | Zoo Med Laboratories, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zoo Med Laboratories" />
+                                </span>
+                                <a href='https://zoomed.com/wp-content/uploads/NCB-1_Natural_Cork_Tile_Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoo Med Natural Cork Tile Background for Terrariums - NCB-1">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/5548e55c-63bb-4a5d-b28f-3330df40ba5d.37375f4b83a634c4663d03ccd9357c3b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Zoo Med Natural Cork Tile Background for Terrariums - NCB-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/5548e55c-63bb-4a5d-b28f-3330df40ba5d.37375f4b83a634c4663d03ccd9357c3b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Cork Tile Background | Zoo Med Laboratories, Inc.">
+                                <img itemprop="contentUrl url" src='https://zoomed.com/wp-content/uploads/NCB-5_Cork-Tile-web.jpg' alt='Natural Cork Tile Background | Zoo Med Laboratories, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1267">
+                                <meta itemprop="height" content="2260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zoo Med Laboratories" />
+                                </span>
+                                <a href='https://zoomed.com/wp-content/uploads/NCB-5_Cork-Tile-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Cork Background in 12 X 18">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Juvk1XLLL._AC_UF1000,1000_QL80_.jpg' alt='Natural Cork Background in 12 X 18'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Juvk1XLLL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Zoo Med Natural Cork Tile Background, 18 x 18-Inches ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71kn-YfHREL.jpg' alt='Amazon.com : Zoo Med Natural Cork Tile Background, 18 x 18-Inches ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71kn-YfHREL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoo Med Forest & Cork Bark Tile Backgrounds - Very Cool For Reptile Cages">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/297VHLKGV8I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmKtUR__APgPijf3PgZ1y16qWhfg' alt='Zoo Med Forest & Cork Bark Tile Backgrounds - Very Cool For Reptile Cages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/297VHLKGV8I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmKtUR__APgPijf3PgZ1y16qWhfg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoo Med Natural Cork Tile Backboard 45 x 61 - NCB-4E">
+                                <img itemprop="contentUrl url" src='https://www.dekammieshop.nl/image/cache/catalog/products/Zoo-Med-NCB-2E-Zoo-Med-Natural-Cork-Tile-Background-30-x-45-250x250h.jpg.webp' alt='Zoo Med Natural Cork Tile Backboard 45 x 61 - NCB-4E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="De Kammieshop" />
+                                </span>
+                                <a href='https://www.dekammieshop.nl/image/cache/catalog/products/Zoo-Med-NCB-2E-Zoo-Med-Natural-Cork-Tile-Background-30-x-45-250x250h.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Question about cutting cork tile background : r/bioactive">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/question-about-cutting-cork-tile-background-v0-7v7rm9riczeb1.jpg?width=640&crop=smart&auto=webp&s=d9186c6c0a6137949673a428c11f830ac7df069b' alt='Question about cutting cork tile background : r/bioactive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/question-about-cutting-cork-tile-background-v0-7v7rm9riczeb1.jpg?width=640&crop=smart&auto=webp&s=d9186c6c0a6137949673a428c11f830ac7df069b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoo Med Natural Forest Cork Tile Background - Size Medium ~ 12 x ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/2f49e25d-8d71-4548-b3c6-121aa8cbedc9.ed6759191590142c8f176a7e5d450526.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Zoo Med Natural Forest Cork Tile Background - Size Medium ~ 12 x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/2f49e25d-8d71-4548-b3c6-121aa8cbedc9.ed6759191590142c8f176a7e5d450526.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

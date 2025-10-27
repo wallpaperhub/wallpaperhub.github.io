@@ -1,0 +1,129 @@
+<title>Romantic Bedroom Wallpaper Ideas to Elevate Your Space</title>
+                    <meta name="description" content="Discover stunning romantic bedroom wallpaper designs that create a cozy and intimate atmosphere. Perfect for setting the mood, our collection features a variety of styles, colors, and patterns to enhance your bedroom's charm. Transform your space into a romantic retreat that you'll love.">
+                    <meta name="keywords" content="romantic bedroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/romantic-bedroom-wallpaper">
+                            <span itemprop="name">romantic bedroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Romantic Bedroom Wallpaper Ideas to Elevate Your Space</h1>
+                <p>Transform your bedroom into a romantic haven with the perfect wallpaper. Choose from soft florals, elegant patterns, or cozy textures to create a warm and inviting atmosphere. Whether you prefer pastels or rich tones, romantic wallpaper adds charm and intimacy, setting the mood for relaxation and romance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Wallpaper Ideas for Bedroom Retreat – CostaCover">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1954/6003/files/01_c49b0d28-961a-471f-aecc-19ab04e8567a_1024x1024.jpg?v=1688682065' alt='Romantic Wallpaper Ideas for Bedroom Retreat – CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1954/6003/files/01_c49b0d28-961a-471f-aecc-19ab04e8567a_1024x1024.jpg?v=1688682065' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Love Wallpaper Valentine Art Fabric Bedroom Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22555528/r/il/7180f8/4725367795/il_570xN.4725367795_myrc.jpg' alt='Heart Love Wallpaper Valentine Art Fabric Bedroom Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22555528/r/il/7180f8/4725367795/il_570xN.4725367795_myrc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Wallpaper For Bedroom | Discover More | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0054/6943/7986/files/pink-floral-white-bed.jpg?v=1613019567' alt='Romantic Wallpaper For Bedroom | Discover More | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0054/6943/7986/files/pink-floral-white-bed.jpg?v=1613019567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Effect Flowers Tree Wallpaper, Romantic Floral Pattern Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30286277/r/il/10ab49/3572573058/il_570xN.3572573058_4ifp.jpg' alt='3D Effect Flowers Tree Wallpaper, Romantic Floral Pattern Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30286277/r/il/10ab49/3572573058/il_570xN.3572573058_4ifp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Bedroom Ideas You Will Fall In Love With | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2021-02/blobid1612264996354.jpg' alt='Romantic Bedroom Ideas You Will Fall In Love With | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2021-02/blobid1612264996354.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Wallpaper for Bedrooms • Stunning Florals • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/09/Romantic-Wallpapers-for-Bedrooms-1.jpg.optimal.jpg' alt='Romantic Wallpaper for Bedrooms • Stunning Florals • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/09/Romantic-Wallpapers-for-Bedrooms-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Roses Wallpaper in Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/ILW50579_RomanticRoses_Roomset_WEB.webp?crop=center&height=850&v=1722250188&width=850' alt='Romantic Roses Wallpaper in Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/ILW50579_RomanticRoses_Roomset_WEB.webp?crop=center&height=850&v=1722250188&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Wallpaper Ideas for Bedroom Retreat – CostaCover">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1954/6003/files/05_3_4b77d460-2c1a-4aa1-89f5-48ac81874928_1024x1024.jpg?v=1697052355' alt='Romantic Wallpaper Ideas for Bedroom Retreat – CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1954/6003/files/05_3_4b77d460-2c1a-4aa1-89f5-48ac81874928_1024x1024.jpg?v=1697052355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 inspiring bedroom wallpaper ideas for a romantic touch - COCO ...">
+                                <img itemprop="contentUrl url" src='https://cocolapinedesign.com/wp-content/uploads/MEDC9E4182CF7384AB6888F2985116467AB_20230502233456_w2200_q80.jpg' alt='15 inspiring bedroom wallpaper ideas for a romantic touch - COCO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coco Lapine Design" />
+                                </span>
+                                <a href='https://cocolapinedesign.com/wp-content/uploads/MEDC9E4182CF7384AB6888F2985116467AB_20230502233456_w2200_q80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Romantic Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/b/h/bh17599788_moc1.jpg' alt='Pink Romantic Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/b/h/bh17599788_moc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

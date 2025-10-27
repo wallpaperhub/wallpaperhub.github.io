@@ -1,0 +1,129 @@
+<title>Experience Coors Light: Refreshment from the Rockies</title>
+                    <meta name="description" content="Discover Coors Light, the iconic beer brewed with pristine Rocky Mountain water. Perfect for outdoor adventures or gatherings, it offers a crisp and refreshing taste that embodies the spirit of the mountains. Quench your thirst and elevate your celebrations with Coors Light!">
+                    <meta name="keywords" content="coors light mountain">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coors-light-mountain">
+                            <span itemprop="name">coors light mountain</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience Coors Light: Refreshment from the Rockies</h1>
+                <p>Coors Light, known for its crisp and refreshing taste, embodies the spirit of the mountains. Brewed with pure Rocky Mountain water, every sip is a reminder of the stunning landscapes and adventurous lifestyle. Discover how this iconic beer captures the essence of outdoor fun, making it the perfect companion for any gathering.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind the Mountains on the Coors Light Can ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/e/56/e5644ad2-3e4a-5c67-beab-d9f72f3aa6a4/6464553f1fbe4.image.jpg?resize=753%2C500' alt='The Story Behind the Mountains on the Coors Light Can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denver Gazette" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/e/56/e5644ad2-3e4a-5c67-beab-d9f72f3aa6a4/6464553f1fbe4.image.jpg?resize=753%2C500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the Mountain on the Coors Can? - Uncover Colorado">
+                                <img itemprop="contentUrl url" src='https://www.uncovercolorado.com/wp-content/uploads/2021/07/Wilson-Peak-Colorado-Top-1600x800-1.jpg' alt='What's the Mountain on the Coors Can? - Uncover Colorado'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uncover Colorado" />
+                                </span>
+                                <a href='https://www.uncovercolorado.com/wp-content/uploads/2021/07/Wilson-Peak-Colorado-Top-1600x800-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 facts about the Colorado mountain on the Coors Light can ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/c9/7c9a3ac1-b453-567d-a381-1748d109f033/5b56bc5e81904.image.jpg?resize=1024%2C682' alt='8 facts about the Colorado mountain on the Coors Light can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colorado Springs Gazette" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/c9/7c9a3ac1-b453-567d-a381-1748d109f033/5b56bc5e81904.image.jpg?resize=1024%2C682' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the Mountain on the Coors Can? - Uncover Colorado">
+                                <img itemprop="contentUrl url" src='https://www.uncovercolorado.com/wp-content/uploads/2021/07/Wilson-Peak-Colorado.jpg' alt='What's the Mountain on the Coors Can? - Uncover Colorado'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uncover Colorado" />
+                                </span>
+                                <a href='https://www.uncovercolorado.com/wp-content/uploads/2021/07/Wilson-Peak-Colorado.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You may recognize this mountain from a Coors Light can. Wilson ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/skk602mqyvk71.jpg' alt='You may recognize this mountain from a Coors Light can. Wilson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3612">
+                                <meta itemprop="height" content="3017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/skk602mqyvk71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Coors Light looks extra awesome lately | Molson Coors Beer ...">
+                                <img itemprop="contentUrl url" src='https://www.molsoncoorsblog.com/sites/mcblog/files/featured_images/CL-Mountain_SKy-12in.jpg' alt='Why Coors Light looks extra awesome lately | Molson Coors Beer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molson Coors" />
+                                </span>
+                                <a href='https://www.molsoncoorsblog.com/sites/mcblog/files/featured_images/CL-Mountain_SKy-12in.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AV | Coors Light">
+                                <img itemprop="contentUrl url" src='https://www.coorslight.com/sites/coorslight/files/2021-04/coorslight-mountains-main.jpg' alt='AV | Coors Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1367">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coors Light" />
+                                </span>
+                                <a href='https://www.coorslight.com/sites/coorslight/files/2021-04/coorslight-mountains-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Reasons To Crack A Coors On The Coors Mountain">
+                                <img itemprop="contentUrl url" src='https://images.theoutbound.com/contents/104909/assets/1441383748316?w=1200&h=630&fit=crop&dpr=1&q=60&s=c13db0bde88f71aeeb8bdfa465cd329d' alt='12 Reasons To Crack A Coors On The Coors Mountain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Outbound" />
+                                </span>
+                                <a href='https://images.theoutbound.com/contents/104909/assets/1441383748316?w=1200&h=630&fit=crop&dpr=1&q=60&s=c13db0bde88f71aeeb8bdfa465cd329d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind the Mountains on the Coors Light Can ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/4/42/4423e380-f954-565a-8da3-9a4f788ef163/6464553ece236.image.jpg?crop=1024%2C576%2C0%2C53&resize=1200%2C675&order=crop%2Cresize' alt='The Story Behind the Mountains on the Coors Light Can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denver Gazette" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/4/42/4423e380-f954-565a-8da3-9a4f788ef163/6464553ece236.image.jpg?crop=1024%2C576%2C0%2C53&resize=1200%2C675&order=crop%2Cresize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wilson Peak, CO, the Coors Light Mountain : r/pics">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8f0w72d3ska31.jpg?width=1080&crop=smart&auto=webp&s=1f04c90b12b32ac24eb7959edd1771495cda47a2' alt='Wilson Peak, CO, the Coors Light Mountain : r/pics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8f0w72d3ska31.jpg?width=1080&crop=smart&auto=webp&s=1f04c90b12b32ac24eb7959edd1771495cda47a2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

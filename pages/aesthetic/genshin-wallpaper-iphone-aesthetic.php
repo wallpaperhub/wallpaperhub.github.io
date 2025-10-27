@@ -1,0 +1,129 @@
+<title>Genshin Impact Aesthetic Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Genshin Impact aesthetic wallpapers for your iPhone. Elevate your device with stunning visuals and make your home screen uniquely yours. Perfect for fans of the game looking for inspiration and beauty in every tap. Download your favorite designs today!">
+                    <meta name="keywords" content="genshin wallpaper iphone aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/genshin-wallpaper-iphone-aesthetic">
+                            <span itemprop="name">genshin wallpaper iphone aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Genshin Impact Aesthetic Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Genshin Impact aesthetic wallpapers! Dive into a world of vibrant visuals featuring your favorite characters and landscapes. Perfect for gamers and anime lovers alike, these wallpapers will personalize your device and bring the enchanting universe of Teyvat to your home screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paimon & Lumine 』">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/1e/a1/151ea145b692da2062cbaf43501c65f9.jpg' alt='Paimon & Lumine 』'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/1e/a1/151ea145b692da2062cbaf43501c65f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 Phone backgrounds ideas | aesthetic wallpapers, cute wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/33/43/9d/33439df9a6b082be380560d9e61b38ed.jpg' alt='44 Phone backgrounds ideas | aesthetic wallpapers, cute wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/33/43/9d/33439df9a6b082be380560d9e61b38ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kokomi wallpaper! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qy169yx1t2o71.png?auto=webp&s=c6e7ff85e914d07407a52e1694c7c7ff5e9b3dd6' alt='Kokomi wallpaper! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qy169yx1t2o71.png?auto=webp&s=c6e7ff85e914d07407a52e1694c7c7ff5e9b3dd6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GENSHIN IMPACT, aesthetic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/60/526/HD-wallpaper-genshin-impact-aesthetic.jpg' alt='GENSHIN IMPACT, aesthetic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/60/526/HD-wallpaper-genshin-impact-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreens & wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/00/97/d2/0097d2512b74d9820cb9cd78fc43e3be.jpg' alt='lockscreens & wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/00/97/d2/0097d2512b74d9820cb9cd78fc43e3be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Vintage Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/genshin-impact-vintage-aesthetic-vvr8daa1sh59n5o6.jpg' alt='Genshin Impact Vintage Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/genshin-impact-vintage-aesthetic-vvr8daa1sh59n5o6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venti, aesthetic, cute, genshin, genshin impact, kawaii, nice ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/765/223/HD-wallpaper-venti-aesthetic-cute-genshin-genshin-impact-kawaii-lindo-nubes.jpg' alt='Venti, aesthetic, cute, genshin, genshin impact, kawaii, nice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/765/223/HD-wallpaper-venti-aesthetic-cute-genshin-genshin-impact-kawaii-lindo-nubes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact fan art wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_genshin_impact_fan_art_03_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Genshin Impact fan art wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_genshin_impact_fan_art_03_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Wallpaper 4K, Lumine, 5K, 8K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/genshin-impact-lumine-5k-8k-1440x2560-5163.jpg' alt='Genshin Impact Wallpaper 4K, Lumine, 5K, 8K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/genshin-impact-lumine-5k-8k-1440x2560-5163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made phone wallpapers using photos from Genshin Impact, please ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-phone-wallpapers-using-photos-from-genshin-impact-v0-8t48fis3xnsd1.jpg?width=576&format=pjpg&auto=webp&s=36a709be00fc58a5c26e041ae864fd3961a4ee33' alt='I made phone wallpapers using photos from Genshin Impact, please ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-phone-wallpapers-using-photos-from-genshin-impact-v0-8t48fis3xnsd1.jpg?width=576&format=pjpg&auto=webp&s=36a709be00fc58a5c26e041ae864fd3961a4ee33' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

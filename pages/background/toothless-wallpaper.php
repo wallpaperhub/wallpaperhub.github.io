@@ -1,0 +1,129 @@
+<title>Transform Your Space with Toothless Wallpaper</title>
+                    <meta name="description" content="Add a magical touch to your room with toothless wallpaper inspired by the beloved character from How to Train Your Dragon. Perfect for kids’ spaces and playful decor, our collection features vibrant designs that inspire creativity. Discover the perfect wall art to brighten your home today!">
+                    <meta name="keywords" content="toothless wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toothless-wallpaper">
+                            <span itemprop="name">toothless wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Toothless Wallpaper</h1>
+                <p>Toothless wallpaper adds a whimsical touch to any space, capturing the charm of the beloved character from the How to Train Your Dragon series. Perfect for children's rooms or playful accents, these designs bring joy and creativity to walls. Explore various styles and colors to transform your room into a magical haven!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper : r/Toothlessdragon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e0hx1if6zn261.jpg' alt='Phone wallpaper : r/Toothlessdragon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e0hx1if6zn261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alpha Dragon Vs Toothless Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/alpha-dragon-vs-toothless-7wsoj6o00d619c0c.jpg' alt='Alpha Dragon Vs Toothless Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1443">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/alpha-dragon-vs-toothless-7wsoj6o00d619c0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/5a/fe/5c5afe3c0d7296e58b4441d087349e3a.jpg' alt='Toothless Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/5a/fe/5c5afe3c0d7296e58b4441d087349e3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/dc/59/e8dc59ebdbe0e2797c79c7de50378c35.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/dc/59/e8dc59ebdbe0e2797c79c7de50378c35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Toothless Wallpaper *Updated* by why-so-cirrus on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d2fdccd-95e5-468e-97dc-0f844a70606b/d5bv9ml-2b679c0d-c8ba-4815-9a66-4853ef5e888a.jpg/v1/fill/w_900,h_720,q_75,strp/free_toothless_wallpaper__updated__by_why_so_cirrus_d5bv9ml-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWQyZmRjY2QtOTVlNS00NjhlLTk3ZGMtMGY4NDRhNzA2MDZiXC9kNWJ2OW1sLTJiNjc5YzBkLWM4YmEtNDgxNS05YTY2LTQ4NTNlZjVlODg4YS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._KbWMqAe_qs6x2swWwH8dyNXKoALL3D0zO1DzHr2WlA' alt='Free Toothless Wallpaper *Updated* by why-so-cirrus on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d2fdccd-95e5-468e-97dc-0f844a70606b/d5bv9ml-2b679c0d-c8ba-4815-9a66-4853ef5e888a.jpg/v1/fill/w_900,h_720,q_75,strp/free_toothless_wallpaper__updated__by_why_so_cirrus_d5bv9ml-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWQyZmRjY2QtOTVlNS00NjhlLTk3ZGMtMGY4NDRhNzA2MDZiXC9kNWJ2OW1sLTJiNjc5YzBkLWM4YmEtNDgxNS05YTY2LTQ4NTNlZjVlODg4YS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._KbWMqAe_qs6x2swWwH8dyNXKoALL3D0zO1DzHr2WlA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Toothless And Stitch Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/toothless-and-stitch-r9ba5uv9y0wqs46x.jpg' alt='100+] Toothless And Stitch Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/toothless-and-stitch-r9ba5uv9y0wqs46x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless Phone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/toothless.png' alt='Toothless Phone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/toothless.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Toothless (How To Train Your Dragon) Movie How To Train ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/992/992802.jpg' alt='Download Toothless (How To Train Your Dragon) Movie How To Train ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3218">
+                                <meta itemprop="height" content="1863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/992/992802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Train Your Dragon Smiling Toothless Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/how-to-train-your-dragon-smiling-toothless-z089ffj6gtu1wpa6.jpg' alt='How To Train Your Dragon Smiling Toothless Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/how-to-train-your-dragon-smiling-toothless-z089ffj6gtu1wpa6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/5c/77/3f5c77b172d87de778d4f71d7f82b89a.jpg' alt='Toothless Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/5c/77/3f5c77b172d87de778d4f71d7f82b89a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

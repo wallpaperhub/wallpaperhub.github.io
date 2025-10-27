@@ -1,0 +1,129 @@
+<title>Discover Bryson Tiller: R&B Sensation</title>
+                    <meta name="description" content="Explore the world of Bryson Tiller, the R&B artist who transformed contemporary music. Known for his hit album "Trapsoul," Tiller's fusion of heartfelt lyrics and smooth melodies resonates with fans everywhere. Stay updated on his latest releases and influences in the music scene.">
+                    <meta name="keywords" content="bryson tiller">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bryson-tiller">
+                            <span itemprop="name">bryson tiller</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Bryson Tiller: R&B Sensation</h1>
+                <p>Bryson Tiller is an American singer-songwriter and rapper known for blending R&B with hip-hop. Bursting onto the scene with his debut album "Trapsoul," Tiller captivated listeners with his smooth vocals and relatable lyrics about love and heartbreak. His unique sound continues to shape modern R&B, earning him critical acclaim and a loyal fanbase.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/70/Bryson_Tiller_August_2018.jpg' alt='Bryson Tiller - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="915">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/70/Bryson_Tiller_August_2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller Songs | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb078fdd734b7f0aa782328428' alt='Bryson Tiller Songs | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb078fdd734b7f0aa782328428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller celebrates 'Anniversary' as the stars align for new ...">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2021/02/bryson-tiller.jpg?quality=75&strip=all&w=744' alt='Bryson Tiller celebrates 'Anniversary' as the stars align for new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2021/02/bryson-tiller.jpg?quality=75&strip=all&w=744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside The Rapid, Humble And Lucrative Rise Of Bryson Tiller">
+                                <img itemprop="contentUrl url" src='https://blogs-images.forbes.com/ogdenpayne/files/2017/08/image1-1.jpg' alt='Inside The Rapid, Humble And Lucrative Rise Of Bryson Tiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1779">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://blogs-images.forbes.com/ogdenpayne/files/2017/08/image1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller - Ciao! (Visualizer)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iyBs9br_ZOM/maxresdefault.jpg' alt='Bryson Tiller - Ciao! (Visualizer)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iyBs9br_ZOM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller on 'Anniversary' and His Classic 'Trapsoul' Sound">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2021/03/bryson-press-Ro.Lexx_.jpg?w=1581&h=1054&crop=1' alt='Bryson Tiller on 'Anniversary' and His Classic 'Trapsoul' Sound'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2021/03/bryson-press-Ro.Lexx_.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller Discography: Vinyl, CDs, & More | Discogs">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/ZrQ-lg4IHlO7nCncCQ5FJiwWiI9sdL9db5og1AjReb8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxODY1/MDAtMTUxMzkwMzU4/Mi0xMzUxLmpwZWc.jpeg' alt='Bryson Tiller Discography: Vinyl, CDs, & More | Discogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/ZrQ-lg4IHlO7nCncCQ5FJiwWiI9sdL9db5og1AjReb8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxODY1/MDAtMTUxMzkwMzU4/Mi0xMzUxLmpwZWc.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ALBUM REVIEW: Bryson Tiller - ANNIVERSARY - EUPHORIA.">
+                                <img itemprop="contentUrl url" src='https://www.euphoriazine.com/wp-content/uploads/2020/10/Bryson-Tiller.jpg' alt='ALBUM REVIEW: Bryson Tiller - ANNIVERSARY - EUPHORIA.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.euphoriazine.com" />
+                                </span>
+                                <a href='https://www.euphoriazine.com/wp-content/uploads/2020/10/Bryson-Tiller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Bryson Tiller ~ How About Now by brysontiller in q ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000113118352-2onbd2-t500x500.jpg' alt='Listen to Bryson Tiller ~ How About Now by brysontiller in q ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000113118352-2onbd2-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryson Tiller - HotNewHipHop">
+                                <img itemprop="contentUrl url" src='https://www.hotnewhiphop.com/images/v2/artist/20/97/1465909720_e0a65200a9b05c4ddf1388b6aaaac31f.jpg' alt='Bryson Tiller - HotNewHipHop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3610">
+                                <meta itemprop="height" content="3535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HotNewHipHop" />
+                                </span>
+                                <a href='https://www.hotnewhiphop.com/images/v2/artist/20/97/1465909720_e0a65200a9b05c4ddf1388b6aaaac31f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

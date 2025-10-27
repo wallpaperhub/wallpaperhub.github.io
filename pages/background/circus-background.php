@@ -1,0 +1,129 @@
+<title>Unraveling the Vibrant History of Circus: A Journey Through Entertainment</title>
+                    <meta name="description" content="Discover the captivating history of the circus, from its ancient roots to its modern-day spectacles. Explore the colorful performers, thrilling acts, and the enduring charm that continues to mesmerize audiences around the globe. Join us on this thrilling journey through circus history!">
+                    <meta name="keywords" content="circus background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/circus-background">
+                            <span itemprop="name">circus background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling the Vibrant History of Circus: A Journey Through Entertainment</h1>
+                <p>The circus, a vibrant tapestry of acrobats, clowns, and mesmerizing performances, traces its origins back to ancient Rome and Greece. Once a place for entertainment and awe, it evolved into the traveling shows we know today, blending artistry with thrill. The rich history and colorful pageantry create an enchanting backdrop that captivates audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus Background" Images – Browse 1,391 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/50/55/88/360_F_650558865_r4sitA3VlNvYs8TV71i3m1BNPEvPOPBO.jpg' alt='Circus Background" Images – Browse 1,391 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/50/55/88/360_F_650558865_r4sitA3VlNvYs8TV71i3m1BNPEvPOPBO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+ Circus Tent Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155886363/vector/circus-tent-background.jpg?s=612x612&w=0&k=20&c=TONn0vDTpfvpv9vFCs1qHVDc022iUdjc5Nk4NjG4pNM=' alt='600+ Circus Tent Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155886363/vector/circus-tent-background.jpg?s=612x612&w=0&k=20&c=TONn0vDTpfvpv9vFCs1qHVDc022iUdjc5Nk4NjG4pNM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Circus Tent Background Stock Illustrations – 1,216 Bright ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-carousel-bright-lights-classic-circus-tent-background-creates-festive-atmosphere-wooden-floor-adds-warmth-to-352578742.jpg' alt='Bright Circus Tent Background Stock Illustrations – 1,216 Bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-carousel-bright-lights-classic-circus-tent-background-creates-festive-atmosphere-wooden-floor-adds-warmth-to-352578742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/955/505/non_2x/retro-circus-background-with-rays-or-stripes-in-the-center-sunburst-vector.jpg' alt='Circus Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/955/505/non_2x/retro-circus-background-with-rays-or-stripes-in-the-center-sunburst-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus Backgrounds Images – Browse 240,765 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/82/30/48/360_F_682304847_PKfkCtVS3Yei2soaFiLgCUmKwiu1y5mU.jpg' alt='Circus Backgrounds Images – Browse 240,765 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/82/30/48/360_F_682304847_PKfkCtVS3Yei2soaFiLgCUmKwiu1y5mU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus animated rotation looped background of red and gold lines stripe  with star constellations light bulbs tinsel. Retro motion graphic sun beam  ray. Vintage fun fair burst. Carnival abstract circle ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1142441934/video/circus-animated-rotation-looped-background-of-red-and-gold-lines-stripe-with-star.jpg?s=640x640&k=20&c=-U4Yi4QygCz93kFohw_W51Ip-QGJ2Tli3qDnjTWhv7Y=' alt='Circus animated rotation looped background of red and gold lines stripe  with star constellations light bulbs tinsel. Retro motion graphic sun beam  ray. Vintage fun fair burst. Carnival abstract circle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1142441934/video/circus-animated-rotation-looped-background-of-red-and-gold-lines-stripe-with-star.jpg?s=640x640&k=20&c=-U4Yi4QygCz93kFohw_W51Ip-QGJ2Tli3qDnjTWhv7Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MPH Circus by fabiolagarza on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/63/a1/c763a13fee1290ea66ce3e51d50aa9ef.jpg' alt='MPH Circus by fabiolagarza on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/63/a1/c763a13fee1290ea66ce3e51d50aa9ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus Background" Images – Browse 1,391 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/27/46/48/360_F_1027464812_CPBK41oVlfCTz1i4f3CCEsOQq98bu3SC.jpg' alt='Circus Background" Images – Browse 1,391 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/27/46/48/360_F_1027464812_CPBK41oVlfCTz1i4f3CCEsOQq98bu3SC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,038 Circus Background Arena Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cute-character-3d-image-3drendered-600nw-2555868207.jpg' alt='15,038 Circus Background Arena Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cute-character-3d-image-3drendered-600nw-2555868207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Circus Background Pattern Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1140882189/video/traditional-circus-background-pattern.jpg?s=640x640&k=20&c=C-8j4NNFvxPyfXh22lev1GDVFSBtlEYVUp0Xsr_n_ng=' alt='Traditional Circus Background Pattern Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1140882189/video/traditional-circus-background-pattern.jpg?s=640x640&k=20&c=C-8j4NNFvxPyfXh22lev1GDVFSBtlEYVUp0Xsr_n_ng=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Stunning Christmas Wallpaper Designs on Canva</title>
+                    <meta name="description" content="Explore Canva's Christmas wallpaper collection! Easily create festive and personalized designs for your holiday decor. Perfect for digital or print, enhance your celebrations with unique templates tailored to your style. Get creative and make your Christmas unforgettable this year!">
+                    <meta name="keywords" content="christmas wallpaper canva">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-canva">
+                            <span itemprop="name">christmas wallpaper canva</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Christmas Wallpaper Designs on Canva</h1>
+                <p>Transform your holiday spirit with stunning Christmas wallpaper designs on Canva! Choose from a variety of festive templates, add your personal touch, and spread the joy. Whether for personal use or special events, create eye-catching wallpapers that elevate your seasonal decor. Get started on your creative journey today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF0tWIvhgc/1/0/1600w/canva-red-and-brown-aesthetic-vision-board-photo-collage-christmas-desktop-wallpaper-rOC9J_STzEA.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF0tWIvhgc/1/0/1600w/canva-red-and-brown-aesthetic-vision-board-photo-collage-christmas-desktop-wallpaper-rOC9J_STzEA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFSAsQmQeg/1/0/1600w/canva-orange-illustrated-cute-christmas-house-desktop-wallpaper-IscQ9unhXnA.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFSAsQmQeg/1/0/1600w/canva-orange-illustrated-cute-christmas-house-desktop-wallpaper-IscQ9unhXnA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFUqPh85ew/1/0/1600w/canva-cream-and-green-aesthetic-merry-%26-bright-desktop-wallpaper--t3_AfJ3o5I.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFUqPh85ew/1/0/1600w/canva-cream-and-green-aesthetic-merry-%26-bright-desktop-wallpaper--t3_AfJ3o5I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2WE2CGF0/1/0/1600w/canva-pink-and-gold-modern-christmas-tree-desktop-wallpaper-TKR5oZQu7IM.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2WE2CGF0/1/0/1600w/canva-pink-and-gold-modern-christmas-tree-desktop-wallpaper-TKR5oZQu7IM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF253C8MDw/1/0/1600w/canva-pink-artsy-christmas-desktop-wallpaper--xz36duXy10.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF253C8MDw/1/0/1600w/canva-pink-artsy-christmas-desktop-wallpaper--xz36duXy10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFS2tAOuzg/1/0/1600w/canva-blue-illustrated-cute-christmas-tree-desktop-wallpaper-j9KzzHAKVaU.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFS2tAOuzg/1/0/1600w/canva-blue-illustrated-cute-christmas-tree-desktop-wallpaper-j9KzzHAKVaU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Zoom virtual background templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFP7smKHcU/1/0/1600w/canva-pink-fun-playful-christmas-cookie-zoom-virtual-background-2SqKK8vB-v4.jpg' alt='Free Christmas Zoom virtual background templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFP7smKHcU/1/0/1600w/canva-pink-fun-playful-christmas-cookie-zoom-virtual-background-2SqKK8vB-v4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFRXwrj4Qk/1/0/1600w/canva-green-minimalist-christmas-2023-december-wallpaper-V2LdfZNgELU.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFRXwrj4Qk/1/0/1600w/canva-green-minimalist-christmas-2023-december-wallpaper-V2LdfZNgELU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

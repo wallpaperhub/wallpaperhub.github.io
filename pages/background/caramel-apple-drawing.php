@@ -1,0 +1,129 @@
+<title>How to Draw a Delicious Caramel Apple</title>
+                    <meta name="description" content="Learn how to create a stunning caramel apple drawing! Our simple guide provides step-by-step instructions to help you capture the delightful look and feel of this classic treat. Perfect for artists of all levels looking to add some sweetness to their art portfolio!">
+                    <meta name="keywords" content="caramel apple drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/caramel-apple-drawing">
+                            <span itemprop="name">caramel apple drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Draw a Delicious Caramel Apple</h1>
+                <p>Drawing a caramel apple is a fun, creative endeavor! Start with a round apple shape, then add a glossy caramel coating that drips subtly down the sides. Highlight the texture with light and shadow to make it look luscious. For added flair, sprinkle nuts or colorful toppings on top, enhancing your art's sweetness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO DRAW CUTE CARAMEL APPLE, EASY">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sj2_FrM_Hng/maxresdefault.jpg' alt='HOW TO DRAW CUTE CARAMEL APPLE, EASY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sj2_FrM_Hng/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caramel Apples - Doodlewash®">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/10/day-21-apple-day-caramel-apples.jpg?ssl=1' alt='Caramel Apples - Doodlewash®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1432">
+                                <meta itemprop="height" content="1621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doodlewash" />
+                                </span>
+                                <a href='https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/10/day-21-apple-day-caramel-apples.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Caramel Apple! (Art For Kids!) - Easy Step By Step ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Cxcy5xlyia8/sddefault.jpg' alt='How To Draw A Caramel Apple! (Art For Kids!) - Easy Step By Step ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Cxcy5xlyia8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="830+ Caramel Apple Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165669904/vector/candy-apples.jpg?s=612x612&w=0&k=20&c=59IVzmCy37c4BIKfIoEQZxZ-NMVXwwIvzgU_TWRpuM4=' alt='830+ Caramel Apple Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165669904/vector/candy-apples.jpg?s=612x612&w=0&k=20&c=59IVzmCy37c4BIKfIoEQZxZ-NMVXwwIvzgU_TWRpuM4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Caramel Apple | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.930319762.3214/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Kawaii Caramel Apple | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.930319762.3214/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Caramel Apple - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fEcaMkUoSF0/sddefault.jpg' alt='How to Draw a Caramel Apple - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fEcaMkUoSF0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caramel Apple Drawing - Colored Pencil Print">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21143900/r/il/aa7a3b/2083854085/il_fullxfull.2083854085_pbyb.jpg' alt='Caramel Apple Drawing - Colored Pencil Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21143900/r/il/aa7a3b/2083854085/il_fullxfull.2083854085_pbyb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caramel apple drawing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/02/7f/84027f5452e2decd208c1578d4fe401c.jpg' alt='Caramel apple drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/02/7f/84027f5452e2decd208c1578d4fe401c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Shine and Reflections: Draw & Color - Caramel Apple ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54ef7abde4b0b483325a0554/f64f9aac-9ffc-4d92-a284-6e74e758b405/Caramel+Apple+Thumb.jpg' alt='Realistic Shine and Reflections: Draw & Color - Caramel Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanilla Arts" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54ef7abde4b0b483325a0554/f64f9aac-9ffc-4d92-a284-6e74e758b405/Caramel+Apple+Thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Shine and Reflections: Draw & Color - Caramel Apple ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54ef7abde4b0b483325a0554/bf8130da-b2b4-4b8e-9d95-f0a73694cd48/CarmApple+Display.jpg' alt='Realistic Shine and Reflections: Draw & Color - Caramel Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanilla Arts" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54ef7abde4b0b483325a0554/bf8130da-b2b4-4b8e-9d95-f0a73694cd48/CarmApple+Display.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

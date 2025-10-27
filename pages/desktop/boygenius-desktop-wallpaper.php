@@ -1,0 +1,129 @@
+<title>Stunning Boygenius Desktop Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a collection of breathtaking boygenius desktop wallpapers! Perfectly crafted for fans, these wallpapers bring the band's artistic spirit to your screen. Download your favorite designs and express your love for boygenius while enjoying a fresh new look for your desktop!">
+                    <meta name="keywords" content="boygenius desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/boygenius-desktop-wallpaper">
+                            <span itemprop="name">boygenius desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Boygenius Desktop Wallpapers for Every Fan</h1>
+                <p>Transform your screen with stunning boygenius desktop wallpapers! Featuring artistic designs inspired by the music of boygenius, these wallpapers capture the unique vibe of the indie supergroup. Download your favorite images to elevate your desktop and showcase your love for their art. Perfect for fans seeking inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background image from new boygenius official audio videos, without ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-image-from-new-boygenius-official-audio-videos-v0-e2ze1oemmyca1.png?auto=webp&s=163232757a6e81772ce1785c965382ab9d99c05e' alt='Background image from new boygenius official audio videos, without ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-image-from-new-boygenius-official-audio-videos-v0-e2ze1oemmyca1.png?auto=webp&s=163232757a6e81772ce1785c965382ab9d99c05e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius wallpaper : r/boygenuis">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/boygenius-wallpaper-v0-eytqqcgwa4jb1.jpg?width=1080&crop=smart&auto=webp&s=c47ce18266ad5fb371faf4fe12609992e558d527' alt='Boygenius wallpaper : r/boygenuis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/boygenius-wallpaper-v0-eytqqcgwa4jb1.jpg?width=1080&crop=smart&auto=webp&s=c47ce18266ad5fb371faf4fe12609992e558d527' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12176744.jpg' alt='Boygenius Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12176744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12176750.jpg' alt='Boygenius Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12176750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12047115.jpg' alt='Boygenius Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12047115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12176746.jpg' alt='Boygenius Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12176746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Will Bring 'The Rest' With New Four-Track EP">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/09/boygenius_EP.jpg?w=1600&h=900&crop=1' alt='Boygenius Will Bring 'The Rest' With New Four-Track EP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/09/boygenius_EP.jpg?w=1600&h=900&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Infinite Gay Joy of Boygenius | Them">
+                                <img itemprop="contentUrl url" src='https://media.them.us/photos/64235e74b2ffd8c861e708e1/16:9/w_1920,h_1080,c_limit/boygenius_social.jpg' alt='The Infinite Gay Joy of Boygenius | Them'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Them" />
+                                </span>
+                                <a href='https://media.them.us/photos/64235e74b2ffd8c861e708e1/16:9/w_1920,h_1080,c_limit/boygenius_social.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boygenius Wants to Be More Than the 'Cool, Obscure Thing' - The ...">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/TYfLoD6QVloWU9e0Lqvhm2P9vWs=/0x0:4800x2700/1600x900/media/img/mt/2023/03/boygenius_3/original.jpg' alt='Boygenius Wants to Be More Than the 'Cool, Obscure Thing' - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/TYfLoD6QVloWU9e0Lqvhm2P9vWs=/0x0:4800x2700/1600x900/media/img/mt/2023/03/boygenius_3/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Punisher Wallpaper for desktop : r/phoebebridgers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ailu44ide9m71.png?width=1920&format=png&auto=webp&s=7285d9b2d45987050c7cd89c097a933c08ed21ec' alt='Made a Punisher Wallpaper for desktop : r/phoebebridgers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ailu44ide9m71.png?width=1920&format=png&auto=webp&s=7285d9b2d45987050c7cd89c097a933c08ed21ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

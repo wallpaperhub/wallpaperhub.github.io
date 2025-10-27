@@ -1,0 +1,129 @@
+<title>Aesthetic World Maps: Art Meets Geography</title>
+                    <meta name="description" content="Discover stunning aesthetic world maps that blend art and geography beautifully. Perfect for home decor or educational use, these maps inspire travel and exploration. Elevate your space with vibrant designs that captivate and inspire dreamers and adventurers alike.">
+                    <meta name="keywords" content="aesthetic world map">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-world-map">
+                            <span itemprop="name">aesthetic world map</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic World Maps: Art Meets Geography</h1>
+                <p>Aesthetic world maps combine artistry with geography, showcasing a beautiful representation of our planet. They feature vibrant colors, unique textures, and artistic elements, making them perfect for home decor or educational purposes. Ideal for travelers and dreamers, these maps transform ordinary spaces into inspiring environments, igniting wanderlust.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Antique World Map (Laminated)">
+                                <img itemprop="contentUrl url" src='https://www.mapsinternational.com/pub/media/catalog/product/800x/a/n/antique-world-map_wm01164.jpg' alt='Small Antique World Map (Laminated)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maps International" />
+                                </span>
+                                <a href='https://www.mapsinternational.com/pub/media/catalog/product/800x/a/n/antique-world-map_wm01164.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Map of the World print by Kidz Collection | Posterlounge">
+                                <img itemprop="contentUrl url" src='https://media.posterlounge.com/img/products/700000/697745/697745_poster.jpg' alt='Modern Map of the World print by Kidz Collection | Posterlounge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterlounge" />
+                                </span>
+                                <a href='https://media.posterlounge.com/img/products/700000/697745/697745_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic World Map">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/60678/classic-world-map.jpg?h=699&q=85' alt='Classic World Map'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1211">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/60678/classic-world-map.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall sticker An Aesthetic Political Map of the World | Posters ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/174262.jpg' alt='Wall sticker An Aesthetic Political Map of the World | Posters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/174262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Blue, Print">
+                                <img itemprop="contentUrl url" src='https://images.desenio.com/zoom/8452_2.jpg' alt='World Map Blue, Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Desenio" />
+                                </span>
+                                <a href='https://images.desenio.com/zoom/8452_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage World Map Aesthetic by Adriart Wall Art">
+                                <img itemprop="contentUrl url" src='https://img.cdn-pictorem.com/uploads/collection/R/RB8PBQ2RHF/900_Adriart_Vintage_World_Map_Aesthetic.jpg' alt='Vintage World Map Aesthetic by Adriart Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictorem.com" />
+                                </span>
+                                <a href='https://img.cdn-pictorem.com/uploads/collection/R/RB8PBQ2RHF/900_Adriart_Vintage_World_Map_Aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Pink Green II">
+                                <img itemprop="contentUrl url" src='https://i.icanvas.com/URE248?d=2&sh=h&t=1734534686' alt='World Map Pink Green II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCanvas" />
+                                </span>
+                                <a href='https://i.icanvas.com/URE248?d=2&sh=h&t=1734534686' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANR Vintage World Map Tapestry Wall Hanging World Map Wall Art Poster  Tapestries Old Nordic Style Large Map Of The World Map Mural Room Decor For  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71536ulM6RL._AC_UF1000,1000_QL80_.jpg' alt='YANR Vintage World Map Tapestry Wall Hanging World Map Wall Art Poster  Tapestries Old Nordic Style Large Map Of The World Map Mural Room Decor For  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71536ulM6RL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Blue and brown detailed world map with cities">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/95857.jpg' alt='Wall Mural Blue and brown detailed world map with cities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/95857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor World Map Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716223239/articles/WM0001BU02W_product.jpg' alt='Watercolor World Map Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716223239/articles/WM0001BU02W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

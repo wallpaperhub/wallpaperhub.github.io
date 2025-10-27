@@ -1,0 +1,129 @@
+<title>Luxurious Red Leather Texture: Enhance Your Style</title>
+                    <meta name="description" content="Discover the rich elegance of red leather texture, perfect for fashion and decor. Durable yet stylish, it's an ideal choice for accessories and upholstery. Experience luxury with every touch, adding sophistication to your space or wardrobe. Explore more about this vibrant, timeless material today!">
+                    <meta name="keywords" content="red leather texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-leather-texture">
+                            <span itemprop="name">red leather texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxurious Red Leather Texture: Enhance Your Style</h1>
+                <p>Red leather texture showcases a rich, vibrant hue that adds a touch of luxury to any item. The unique grain and smooth finish create a soft, tactile experience, making it ideal for fashion accessories, upholstery, and high-end products. Its durability and timeless appeal make red leather a popular choice for those seeking elegance and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Leather Texture Images – Browse 145,707 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/74/28/95/360_F_174289538_nom75NFz9aI19EFKi93rSMyOiaEPozhR.jpg' alt='Red Leather Texture Images – Browse 145,707 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/74/28/95/360_F_174289538_nom75NFz9aI19EFKi93rSMyOiaEPozhR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Leather Textures (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2016/07/red-leather-1.jpg' alt='Red Leather Textures (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4400">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2016/07/red-leather-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red leather texture by Cristian M Vela">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/red-leather-texture-cristian-m-vela.jpg' alt='Red leather texture by Cristian M Vela'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/red-leather-texture-cristian-m-vela.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark red leather texture by Arletta Cwalina">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/dark-red-leather-texture-arletta-cwalina.jpg' alt='Dark red leather texture by Arletta Cwalina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/dark-red-leather-texture-arletta-cwalina.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Leather Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-felt-fabric-texture_23-2149447354.jpg' alt='Red Leather Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-felt-fabric-texture_23-2149447354.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimson Red Pebble Grain Textured Faux Leather Vinyl Upholstery ...">
+                                <img itemprop="contentUrl url" src='http://www.fashionfabricla.com/cdn/shop/products/IMG_6997.jpg?v=1739479555' alt='Crimson Red Pebble Grain Textured Faux Leather Vinyl Upholstery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FASHION FABRICS LLC" />
+                                </span>
+                                <a href='http://www.fashionfabricla.com/cdn/shop/products/IMG_6997.jpg?v=1739479555' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural red leather texture.">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/59/07/52/71/700_FO59075271_c3a035a516a7feb610736db670c56ebd.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-red-leather-texture.jpg.jpg' alt='Wall Mural red leather texture.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/59/07/52/71/700_FO59075271_c3a035a516a7feb610736db670c56ebd.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/wall-murals-red-leather-texture.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,700+ Red Leather Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1071122480/photo/dark-red-leather-surface-as-a-background-leather-texture-skin-texture-concept.jpg?s=612x612&w=0&k=20&c=skcqGlL8arjJ4qYN8FlxV1ZOYQ5iRtU1JKTYZulf1zU=' alt='19,700+ Red Leather Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1071122480/photo/dark-red-leather-surface-as-a-background-leather-texture-skin-texture-concept.jpg?s=612x612&w=0&k=20&c=skcqGlL8arjJ4qYN8FlxV1ZOYQ5iRtU1JKTYZulf1zU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather texture seamless 09688">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/79/d0/03/79d00355a33f3004bb0fd7eeefef1bf9.jpg' alt='Leather texture seamless 09688'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/79/d0/03/79d00355a33f3004bb0fd7eeefef1bf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Abstract Red Leather Texture Background Backgrounds | JPG ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/vibrant-abstract-red-leather-texture-background_9971603.jpg!sw800' alt='Vibrant Abstract Red Leather Texture Background Backgrounds | JPG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/vibrant-abstract-red-leather-texture-background_9971603.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

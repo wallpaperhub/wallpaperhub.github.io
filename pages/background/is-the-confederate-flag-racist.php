@@ -1,0 +1,129 @@
+<title>Is the Confederate Flag a Symbol of Racism?</title>
+                    <meta name="description" content="Explore the complex debate surrounding the Confederate flag and its implications in contemporary society. Understand its historical context and why many view it as a symbol of racism, while others defend it as a representation of Southern heritage. Join the conversation on this divisive topic.">
+                    <meta name="keywords" content="is the confederate flag racist">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-the-confederate-flag-racist">
+                            <span itemprop="name">is the confederate flag racist</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is the Confederate Flag a Symbol of Racism?</h1>
+                <p>The Confederate flag is often seen as a symbol of racism due to its historical ties to the Confederacy and its use by white supremacist groups. It represents a legacy of slavery and segregation for many Americans. While some claim it symbolizes Southern pride, its connection to racism remains a contentious debate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Confederate battle flag became an enduring symbol of racism">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/44332231-d6ad-400e-baec-db2d29e6e611/confederate-flag-explainer-04_4x3.jpg' alt='How the Confederate battle flag became an enduring symbol of racism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/44332231-d6ad-400e-baec-db2d29e6e611/confederate-flag-explainer-04_4x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democrats increasingly think the Confederate flag is racist ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/06/27/National-Politics/Images/478761606.jpg&w=1440' alt='Democrats increasingly think the Confederate flag is racist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/06/27/National-Politics/Images/478761606.jpg&w=1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN/ORC poll: 57% see Confederate flag as Southern pride">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/150702075521-confederate-flag-survey-bts-newday-00002020.jpg?q=w_1280,h_720,x_0,y_0,c_fill' alt='CNN/ORC poll: 57% see Confederate flag as Southern pride'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/150702075521-confederate-flag-survey-bts-newday-00002020.jpg?q=w_1280,h_720,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Confederate flag symbolizes white supremacy — and it always ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11009183/GettyImages-51964826.0.0.0.jpg?quality=90&strip=all&crop=1.8134715025907,0,96.373056994819,100' alt='The Confederate flag symbolizes white supremacy — and it always ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2038">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11009183/GettyImages-51964826.0.0.0.jpg?quality=90&strip=all&crop=1.8134715025907,0,96.373056994819,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Research on the Confederate flag, divisive politics and enduring ...">
+                                <img itemprop="contentUrl url" src='https://journalistsresource.org/wp-content/uploads/2015/07/People-marching-with-Confederate-flag.jpg' alt='Research on the Confederate flag, divisive politics and enduring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Journalist's Resource" />
+                                </span>
+                                <a href='https://journalistsresource.org/wp-content/uploads/2015/07/People-marching-with-Confederate-flag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Confederate battle flag became an enduring symbol of racism">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/3ce9f479-18f7-4219-b7e0-f3a00dbc1ee1/confederate-flag-explainer-02.jpg?w=1436&h=3514' alt='How the Confederate battle flag became an enduring symbol of racism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="3514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/3ce9f479-18f7-4219-b7e0-f3a00dbc1ee1/confederate-flag-explainer-02.jpg?w=1436&h=3514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What the Confederate flag's design says about its legacy | PBS News">
+                                <img itemprop="contentUrl url" src='https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/07/GettyImages-72084603-1024x683.jpg' alt='What the Confederate flag's design says about its legacy | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/07/GettyImages-72084603-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some white Northerners want to redefine a flag rooted in racism as ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/news/national/wp-content/uploads/sites/9/2018/10/Confederate10.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517' alt='Some white Northerners want to redefine a flag rooted in racism as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1484">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/news/national/wp-content/uploads/sites/9/2018/10/Confederate10.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Confederate flag: Why some see racism, and others southern ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l2jOBnMY5DI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDotq1DqzZteh0sgDqK_8vLii9DMw' alt='The Confederate flag: Why some see racism, and others southern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l2jOBnMY5DI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDotq1DqzZteh0sgDqK_8vLii9DMw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Confederate battle flag became an enduring symbol of racism">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/606a84e4-b1d1-4282-a527-e360ce1ac40c/confederate-flag-explainer-01_3x4.jpg' alt='How the Confederate battle flag became an enduring symbol of racism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2305">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/606a84e4-b1d1-4282-a527-e360ce1ac40c/confederate-flag-explainer-01_3x4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning NYC iPhone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore captivating NYC iPhone wallpapers to transform your device! Discover a collection featuring iconic views, vibrant cityscapes, and artistic expressions of New York. Perfect for adding a touch of urban charm to your phone. Download your favorites and showcase the magic of NYC!">
+                    <meta name="keywords" content="nyc iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nyc-iphone-wallpaper">
+                            <span itemprop="name">nyc iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning NYC iPhone Wallpapers for Your Device</h1>
+                <p>Discover stunning NYC iPhone wallpapers that capture the essence of the city that never sleeps! From iconic landmarks like the Empire State Building to vibrant street scenes in Brooklyn, you’ll find a variety of wallpapers to personalize your device. Give your iPhone a fresh look with dynamic urban vibes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Night In New York Skyline Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/lively-night-in-new-york-skyline-iphone-ng0ca6pznrgq7qpa.jpg' alt='Lively Night In New York Skyline Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/lively-night-in-new-york-skyline-iphone-ng0ca6pznrgq7qpa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72 NYC iPhone Wallpaper ideas | nyc, city, city photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8c/2f/c4/8c2fc4b3770d885b96aa2f4313ea1ef9.jpg' alt='72 NYC iPhone Wallpaper ideas | nyc, city, city photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8c/2f/c4/8c2fc4b3770d885b96aa2f4313ea1ef9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New York City Night Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-york-city-night-iphone-06l20xe2peti4haf.jpg' alt='100+] New York City Night Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-york-city-night-iphone-06l20xe2peti4haf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerial Shot New York Night Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aerial-shot-new-york-night-iphone-9iuad02znvzykuh1.jpg' alt='Aerial Shot New York Night Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aerial-shot-new-york-night-iphone-9iuad02znvzykuh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City — Jetson Creative">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437420719-2ORIEH6176IKT7APDTKQ/sunset3.jpg?format=1000w' alt='New York City — Jetson Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetson Creative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437420719-2ORIEH6176IKT7APDTKQ/sunset3.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Gorgeous New York City Aesthetic For Your iPhone! - Prada & Pearls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/3a/d1/423ad1e24a3f8a31bde11d5f7110db8c.jpg' alt='30+ Gorgeous New York City Aesthetic For Your iPhone! - Prada & Pearls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/3a/d1/423ad1e24a3f8a31bde11d5f7110db8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Skyline Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/0/d/1418308-1440x2560-mobile-hd-new-york-skyline-background.jpg' alt='New York Skyline Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/0/d/1418308-1440x2560-mobile-hd-new-york-skyline-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: NYC at Night for Mac, iPad, iPhone, and Apple ...">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2018/02/zac-ong-394558_iPhone.jpg' alt='Wallpaper Weekends: NYC at Night for Mac, iPad, iPhone, and Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="2890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2018/02/zac-ong-394558_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular NYC Red Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/empire-state-building-lit-up-red-with-leds-new-york-city-nyc-usa-best-wallpapers-for-apple-iphone-29-11-2024-1732932488-hd-wallpaper.webp' alt='Most Popular NYC Red Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="2998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/empire-state-building-lit-up-red-with-leds-new-york-city-nyc-usa-best-wallpapers-for-apple-iphone-29-11-2024-1732932488-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNTI0LWZyYW1lLTA1MWMuanBn.jpg' alt='New York Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNTI0LWZyYW1lLTA1MWMuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

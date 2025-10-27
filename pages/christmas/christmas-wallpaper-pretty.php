@@ -1,0 +1,129 @@
+<title>Stunning Christmas Wallpapers to Brighten Your Holiday Decor</title>
+                    <meta name="description" content="Discover beautiful Christmas wallpapers that elevate your festive decor! Explore a range of designs that blend elegance and whimsy, creating a joyful atmosphere in your home for the holidays. Perfect for transforming your space into a winter wonderland this season!">
+                    <meta name="keywords" content="christmas wallpaper pretty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-pretty">
+                            <span itemprop="name">christmas wallpaper pretty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Christmas Wallpapers to Brighten Your Holiday Decor</h1>
+                <p>Transform your holiday decor with pretty Christmas wallpapers that bring joy and festive cheer to any space. From whimsical patterns to elegant designs, our selection captures the spirit of the season perfectly. Deck your halls and create a cozy atmosphere with stunning visuals that will make your home feel truly magical this Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Cute Christmas Backgrounds ideas | christmas wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/49/fb/ec49fb5195dbc32c6ae0d745a9120c30.jpg' alt='180 Best Cute Christmas Backgrounds ideas | christmas wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/49/fb/ec49fb5195dbc32c6ae0d745a9120c30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beautiful Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sparkling-and-beautiful-christmas-trees-l9e9oha3udypfii4.jpg' alt='100+] Beautiful Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sparkling-and-beautiful-christmas-trees-l9e9oha3udypfii4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Cute Christmas Backgrounds ideas | christmas wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/34/33/ea3433c56a7d444536acef4526f1a24a.jpg' alt='180 Best Cute Christmas Backgrounds ideas | christmas wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/34/33/ea3433c56a7d444536acef4526f1a24a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Magical Watercolor Christmas Wallpapers for Your Phone - Days ...">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2024/11/Christmas-watercolor-wallpaper-24-scaled.jpg' alt='30+ Magical Watercolor Christmas Wallpapers for Your Phone - Days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2024/11/Christmas-watercolor-wallpaper-24-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute xmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/83/c1/1683c1d3df6a2fdbcb6b5ff33914e0b2.jpg' alt='cute xmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/83/c1/1683c1d3df6a2fdbcb6b5ff33914e0b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bringing Joy And Peace This Christmas Season! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/bringing-joy-and-peace-this-christmas-season-yuzvcpppcct3m8yb.jpg' alt='Bringing Joy And Peace This Christmas Season! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/bringing-joy-and-peace-this-christmas-season-yuzvcpppcct3m8yb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 853+ Christmas Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' alt='Customize 853+ Christmas Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGUFdBtYz0/1/0/900w/canva-pastel-pink-and-green-cute-christmas-cookie-pattern-phone-wallpaper-Ve1oKVDJF9U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cute Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-christmas-red-star-ornament-nb25a4l8oh63v0an.jpg' alt='200+] Cute Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-christmas-red-star-ornament-nb25a4l8oh63v0an.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's some cute xmas wallpapers ♡ :D : r/feemagers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/heres-some-cute-xmas-wallpapers-d-v0-r7yrgn187k2c1.jpg?width=758&format=pjpg&auto=webp&s=609183630aa6a7768dda6043b6f094c34ee185ed' alt='Here's some cute xmas wallpapers ♡ :D : r/feemagers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/heres-some-cute-xmas-wallpapers-d-v0-r7yrgn187k2c1.jpg?width=758&format=pjpg&auto=webp&s=609183630aa6a7768dda6043b6f094c34ee185ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas wallpaper - 43 Free Aesthetic Backgrounds for Your ...">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/26.-Gorgeous-Blue-Christmas-Balls-Wallpaper-SaturdayGift-473x1024.jpg' alt='Cute Christmas wallpaper - 43 Free Aesthetic Backgrounds for Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/26.-Gorgeous-Blue-Christmas-Balls-Wallpaper-SaturdayGift-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

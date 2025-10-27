@@ -1,0 +1,129 @@
+<title>Stunning Wallpapers for Your Pixel 7 Pro: Elevate Your Style</title>
+                    <meta name="description" content="Explore an extensive collection of eye-catching wallpapers for your Pixel 7 Pro. Find the perfect blend of beauty and functionality with high-quality, customizable backgrounds to make your device truly yours. Transform your smartphone experience today!">
+                    <meta name="keywords" content="wallpaper for pixel 7 pro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro">
+                            <span itemprop="name">Pro</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro/wallpaper-for-pixel-7-pro">
+                            <span itemprop="name">wallpaper for pixel 7 pro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wallpapers for Your Pixel 7 Pro: Elevate Your Style</h1>
+                <p>Discover stunning wallpaper options for your Pixel 7 Pro! Enhance your device’s aesthetic with high-resolution designs that showcase vibrant colors and captivating patterns. Whether you prefer nature-inspired themes, abstract art, or minimalistic styles, there’s a perfect wallpaper to express your personality and elevate your smartphone experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 'Feathers' wallpapers from the Pixel 7 and Pixel 7 Pro">
+                                <img itemprop="contentUrl url" src='https://9to5google.com/wp-content/uploads/sites/4/2022/10/pixel-7-pro-face-unlock.jpg?quality=82&strip=all' alt='Download 'Feathers' wallpapers from the Pixel 7 and Pixel 7 Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Google" />
+                                </span>
+                                <a href='https://9to5google.com/wp-content/uploads/sites/4/2022/10/pixel-7-pro-face-unlock.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download: Here are all the new wallpapers from the Pixel 7 & Pixel ...">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/10/Pixel-7-series-wallpaper-grid-featured.jpg' alt='Download: Here are all the new wallpapers from the Pixel 7 & Pixel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/10/Pixel-7-series-wallpaper-grid-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 7 pro Starfield Wallpaper : r/pixel7series">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pixel-7-pro-starfield-wallpaper-v0-p3w7kysxow5c1.png?width=1080&format=png&auto=webp&s=cfde3daa0cfcad5424ba3ab8ca0bf4c0943ab2d1' alt='Pixel 7 pro Starfield Wallpaper : r/pixel7series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pixel-7-pro-starfield-wallpaper-v0-p3w7kysxow5c1.png?width=1080&format=png&auto=webp&s=cfde3daa0cfcad5424ba3ab8ca0bf4c0943ab2d1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 7 Pro Official wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/27/d4/a827d48b2496ac5d84af4c8b14e0aef7.jpg' alt='Pixel 7 Pro Official wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/27/d4/a827d48b2496ac5d84af4c8b14e0aef7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download: Here are all the new wallpapers from the Pixel 7 & Pixel ...">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/10/Pixel-7-Pro-wallpapers-3.jpg' alt='Download: Here are all the new wallpapers from the Pixel 7 & Pixel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/10/Pixel-7-Pro-wallpapers-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 7 Pro Official wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/95/c3/f1/95c3f1c7558cb9f85ce653ee427f8e25.jpg' alt='Pixel 7 Pro Official wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/95/c3/f1/95c3f1c7558cb9f85ce653ee427f8e25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hole Punch Wallpapers Collection for Pixel 7 Pro - Amoled.in">
+                                <img itemprop="contentUrl url" src='https://amoled.in/notch_wallpapers/c64da_Pixel_7_Pro_Minion.webp' alt='Hole Punch Wallpapers Collection for Pixel 7 Pro - Amoled.in'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amoled.in" />
+                                </span>
+                                <a href='https://amoled.in/notch_wallpapers/c64da_Pixel_7_Pro_Minion.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Google's new Pixel wallpapers, launched with the December ...">
+                                <img itemprop="contentUrl url" src='https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/pixel-7-pro-december-wallpapers.jpg' alt='Download Google's new Pixel wallpapers, launched with the December ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Police" />
+                                </span>
+                                <a href='https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/pixel-7-pro-december-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hole Punch Wallpapers Collection for Pixel 7 Pro - Amoled.in">
+                                <img itemprop="contentUrl url" src='https://amoled.in/notch_wallpapers/60336_Pixel_7_Pro_Astronaut_Reaching.webp' alt='Hole Punch Wallpapers Collection for Pixel 7 Pro - Amoled.in'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amoled.in" />
+                                </span>
+                                <a href='https://amoled.in/notch_wallpapers/60336_Pixel_7_Pro_Astronaut_Reaching.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Google Pixel 7 Pro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/63/e9/da63e995c7ddda5663006dd924f5f1f4.jpg' alt='New Google Pixel 7 Pro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/63/e9/da63e995c7ddda5663006dd924f5f1f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

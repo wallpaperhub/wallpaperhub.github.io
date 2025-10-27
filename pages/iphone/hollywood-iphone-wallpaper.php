@@ -1,0 +1,129 @@
+<title>Hollywood iPhone Wallpapers: Glam Up Your Screen</title>
+                    <meta name="description" content="Discover striking Hollywood iPhone wallpapers that enhance your phone's style! From iconic movie moments to celebrity charm, our collection is perfect for movie enthusiasts. Download now and bring a touch of Hollywood glamour to your device!">
+                    <meta name="keywords" content="hollywood iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hollywood-iphone-wallpaper">
+                            <span itemprop="name">hollywood iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hollywood iPhone Wallpapers: Glam Up Your Screen</h1>
+                <p>Transform your iPhone's look with stunning Hollywood-themed wallpapers! Explore a collection featuring iconic movie scenes, celebrities, and classic film posters. Perfect for any movie buff or fan of vibrant visuals, our wallpapers bring the glamour of Hollywood straight to your home screen. Download and elevate your phone's aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Hollywood Sign phone wallpaper by lizzieismyname">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/89/ed/b289ede624f22c1bbb0a1b48f432882b.jpg' alt='Free Hollywood Sign phone wallpaper by lizzieismyname'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/89/ed/b289ede624f22c1bbb0a1b48f432882b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood wallpaper ✨(Image 1) : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kik9m5phu2j61.jpg' alt='Hollywood wallpaper ✨(Image 1) : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kik9m5phu2j61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7344045.jpg' alt='Hollywood iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7344045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hollywood Sign Los Angeles iPhone California Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-california-56c0jt63hx82ahyw.jpg' alt='Download Hollywood Sign Los Angeles iPhone California Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-california-56c0jt63hx82ahyw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood, USA.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/8f/a4/3d8fa4d048f84ec9ea815481e5a000a5.jpg' alt='Hollywood, USA.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/8f/a4/3d8fa4d048f84ec9ea815481e5a000a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ni82-hollywood-sign-la-america-sky-mountain-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-ni82-hollywood-sign-la-america-sky-mountain-33-iphone6-wallpaper.jpg' alt='ni82-hollywood-sign-la-america-sky-mountain-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-ni82-hollywood-sign-la-america-sky-mountain-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood Sign Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/b/8/134752-1856x3295-samsung-hd-hollywood-sign-background-photo.jpg' alt='Hollywood Sign Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="3295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/b/8/134752-1856x3295-samsung-hd-hollywood-sign-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Hollywood ideas | los angeles, hollywood, los angeles wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/76/6a/4a766ab97ea3a87bc9ad11ef8dedad64.jpg' alt='7 Hollywood ideas | los angeles, hollywood, los angeles wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/76/6a/4a766ab97ea3a87bc9ad11ef8dedad64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood wallpaper (Image 2) - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0c/11/f2/0c11f237ce99d2dedc354dab4ed6a820.jpg' alt='Hollywood wallpaper (Image 2) - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0c/11/f2/0c11f237ce99d2dedc354dab4ed6a820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Places that are wildly famous with Hollywood | Times of India">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/thumb/105409812/105409812.jpg?height=746&width=420&resizemode=76&imgsize=68278' alt='Places that are wildly famous with Hollywood | Times of India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India - Indiatimes" />
+                                </span>
+                                <a href='https://static.toiimg.com/thumb/105409812/105409812.jpg?height=746&width=420&resizemode=76&imgsize=68278' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

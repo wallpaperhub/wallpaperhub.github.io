@@ -1,0 +1,129 @@
+<title>History of Cystic Fibrosis: Key Milestones</title>
+                    <meta name="description" content="Explore the fascinating history of cystic fibrosis, from its early discovery to modern advancements in treatment. Learn about key milestones that have transformed this genetic disorder from a childhood fatality to a manageable condition, enhancing patient quality of life today.">
+                    <meta name="keywords" content="history of cystic fibrosis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-cystic-fibrosis">
+                            <span itemprop="name">history of cystic fibrosis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of Cystic Fibrosis: Key Milestones</h1>
+                <p>Cystic fibrosis (CF) was first identified in the 1930s when doctors noticed a correlation between the disease and salty sweat in children. In the 1960s, genetic research pinpointed CF to a mutation in the CFTR gene. Advances in treatment have significantly improved life expectancy, transforming CF from a fatal childhood illness to a manageable chronic condition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When Was Cystic Fibrosis Discovered?">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/post.healthline.com/wp-content/uploads/2023/06/Dorothy-Hansine-Andersen-1901-1963-header.jpg?w=1155&h=1528' alt='When Was Cystic Fibrosis Discovered?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthline" />
+                                </span>
+                                <a href='https://i0.wp.com/post.healthline.com/wp-content/uploads/2023/06/Dorothy-Hansine-Andersen-1901-1963-header.jpg?w=1155&h=1528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thirtieth Anniversary of Cystic Fibrosis Gene Discovery – NIH ...">
+                                <img itemprop="contentUrl url" src='https://directorsblog.nih.gov/wp-content/uploads/2019/08/CF-Gene-Discovered.jpg' alt='Thirtieth Anniversary of Cystic Fibrosis Gene Discovery – NIH ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NIH Director's Blog" />
+                                </span>
+                                <a href='https://directorsblog.nih.gov/wp-content/uploads/2019/08/CF-Gene-Discovered.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Dorothy H. Andersen's Discovery Of Cystic Fibrosis">
+                                <img itemprop="contentUrl url" src='https://healthmatters.nyp.org/wp-content/uploads/2019/02/dorothy-andersen-hero.jpg' alt='Dr. Dorothy H. Andersen's Discovery Of Cystic Fibrosis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health Matters - NewYork-Presbyterian" />
+                                </span>
+                                <a href='https://healthmatters.nyp.org/wp-content/uploads/2019/02/dorothy-andersen-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cystic Fibrosis: A Journey through Time and Hope">
+                                <img itemprop="contentUrl url" src='https://www.mdpi.com/ijms/ijms-25-09599/article_deploy/html/images/ijms-25-09599-g001.png' alt='Cystic Fibrosis: A Journey through Time and Hope'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4120">
+                                <meta itemprop="height" content="5072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://www.mdpi.com/ijms/ijms-25-09599/article_deploy/html/images/ijms-25-09599-g001.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discovering the ancient origin of cystic fibrosis, the most common ...">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/234899/original/file-20180904-45163-r7ri2q.png?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' alt='Discovering the ancient origin of cystic fibrosis, the most common ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/234899/original/file-20180904-45163-r7ri2q.png?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Dorothy H. Andersen's Discovery Of Cystic Fibrosis">
+                                <img itemprop="contentUrl url" src='https://healthmatters.nyp.org/wp-content/uploads/2019/02/dorothy-andersen-inset.jpg' alt='Dr. Dorothy H. Andersen's Discovery Of Cystic Fibrosis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health Matters - NewYork-Presbyterian" />
+                                </span>
+                                <a href='https://healthmatters.nyp.org/wp-content/uploads/2019/02/dorothy-andersen-inset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history, and the future, of cystic fibrosis | Royal Brompton ...">
+                                <img itemprop="contentUrl url" src='https://www.rbht.nhs.uk/sites/default/files/inline-images/Cystic-fibrosis-survival-ra.jpg' alt='The history, and the future, of cystic fibrosis | Royal Brompton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Brompton Hospital" />
+                                </span>
+                                <a href='https://www.rbht.nhs.uk/sites/default/files/inline-images/Cystic-fibrosis-survival-ra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cystic Fibrosis: A Journey through Time and Hope">
+                                <img itemprop="contentUrl url" src='https://www.mdpi.com/ijms/ijms-25-09599/article_deploy/html/images/ijms-25-09599-g002.png' alt='Cystic Fibrosis: A Journey through Time and Hope'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3784">
+                                <meta itemprop="height" content="2041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://www.mdpi.com/ijms/ijms-25-09599/article_deploy/html/images/ijms-25-09599-g002.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sgugenetics / What is Cystic Fibrosis">
+                                <img itemprop="contentUrl url" src='http://sgugenetics.pbworks.com/f/1366478775/timeline%20photo.png' alt='sgugenetics / What is Cystic Fibrosis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1003">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBworks" />
+                                </span>
+                                <a href='http://sgugenetics.pbworks.com/f/1366478775/timeline%20photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Behind Cystic Fibrosis - The View From The Other Side">
+                                <img itemprop="contentUrl url" src='https://theviewfromtheotherside.com/wp-content/uploads/2018/04/History-NEW-1024x575.jpg' alt='The History Behind Cystic Fibrosis - The View From The Other Side'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The View From The Other Side" />
+                                </span>
+                                <a href='https://theviewfromtheotherside.com/wp-content/uploads/2018/04/History-NEW-1024x575.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

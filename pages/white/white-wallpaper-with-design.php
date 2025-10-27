@@ -1,0 +1,129 @@
+<title>Stunning White Wallpaper Designs for Every Style</title>
+                    <meta name="description" content="Explore elegant white wallpaper designs that transform your interiors. From intricate patterns to minimalist styles, find the perfect backdrop for your home. Enhance your decor with sophistication and charm, making your spaces inviting and stylish.">
+                    <meta name="keywords" content="white wallpaper with design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-wallpaper-with-design">
+                            <span itemprop="name">white wallpaper with design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Wallpaper Designs for Every Style</h1>
+                <p>White wallpaper with design adds elegance and sophistication to any space. Whether it features subtle patterns, floral motifs, or geometric shapes, it can create a stunning backdrop for your decor. This versatile choice enhances natural light while allowing personal style to shine through, making it perfect for modern or traditional interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/2-ILW6500_ManhattanModernWhite_Roomset_WEB.webp?v=1706005684' alt='Manhattan Modern Wallpaper in White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/2-ILW6500_ManhattanModernWhite_Roomset_WEB.webp?v=1706005684' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White & Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' alt='Manhattan Modern Wallpaper in White & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Pattern wallpaper by TombstoneVTT - Download on ZEDGE™ | 528b">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/6b/e1/ae6be1d8f1873e4e4cc378510a0888dd.jpg' alt='White Pattern wallpaper by TombstoneVTT - Download on ZEDGE™ | 528b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/6b/e1/ae6be1d8f1873e4e4cc378510a0888dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white-interior-design-color-trend">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c8/63/c6/c863c62bcdaa5bc68e4b462a2b1b1709.jpg' alt='white-interior-design-color-trend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="373">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c8/63/c6/c863c62bcdaa5bc68e4b462a2b1b1709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_1080xN.4333326735_g6t4.jpg' alt='Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_1080xN.4333326735_g6t4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white paper flowers wallpaper, spring summer background, floral ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/44/19/28/1000_F_144192821_r6a6ulTqkh8xTHscZnvJwPopE4OoPYI6.jpg' alt='white paper flowers wallpaper, spring summer background, floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/44/19/28/1000_F_144192821_r6a6ulTqkh8xTHscZnvJwPopE4OoPYI6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White wallpaper | The most versatile colour for your walls ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/65/6b/20/Malekid_625036.jpg' alt='White wallpaper | The most versatile colour for your walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/65/6b/20/Malekid_625036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Beige, Grey and White Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://www.tlcinteriors.com.au/wp-content/uploads/2023/02/sunbird-dunegrass-grey-and-white-wallpaper-design-idea-these-walls-1.jpg' alt='30 Best Beige, Grey and White Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TLC Interiors" />
+                                </span>
+                                <a href='https://www.tlcinteriors.com.au/wp-content/uploads/2023/02/sunbird-dunegrass-grey-and-white-wallpaper-design-idea-these-walls-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshalls Wall Wallpapers HD/3D Wallpaper for Wall | Best Designer ...">
+                                <img itemprop="contentUrl url" src='https://www.marshallsonline.in/ItemImages/ZA%201903.jpg?id=74' alt='Marshalls Wall Wallpapers HD/3D Wallpaper for Wall | Best Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marshalls Wall Wallpapers HD/3D Wallpaper for Wall | Best Designer ..." />
+                                </span>
+                                <a href='https://www.marshallsonline.in/ItemImages/ZA%201903.jpg?id=74' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg' alt='Elegant White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

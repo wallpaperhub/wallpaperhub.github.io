@@ -1,0 +1,129 @@
+<title>Unleashing the Knight: A Complete 5e Background Guide</title>
+                    <meta name="description" content="Explore the Knight background in D&D 5e! Discover their noble heritage, combat skills, and leadership qualities that make them legendary protectors. Perfect for players seeking to embody honor and valor in their campaigns.">
+                    <meta name="keywords" content="knight background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/knight-background-5e">
+                            <span itemprop="name">knight background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing the Knight: A Complete 5e Background Guide</h1>
+                <p>In Dungeons & Dragons 5e, knights embody chivalry and honor, drawing from a noble background. They serve as protectors of the realm, wielding martial prowess and a code of ethics. With a combination of combat skills and leadership abilities, knights are vital in battles, often commanding respect among allies and foes alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knight Background 5E In DnD - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2023/11/Screen-Shot-2024-03-14-at-4.04.19-AM.png' alt='Knight Background 5E In DnD - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1011">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2023/11/Screen-Shot-2024-03-14-at-4.04.19-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E - Background Page from PH(B) | EN World D&D & Tabletop RPG ...">
+                                <img itemprop="contentUrl url" src='https://www.enworld.org/attachments/wizards_dnd_2014-jul-15-jpg.62817/' alt='D&D 5E - Background Page from PH(B) | EN World D&D & Tabletop RPG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://www.enworld.org/attachments/wizards_dnd_2014-jul-15-jpg.62817/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how would you build some sort of "rose knight" (your choice of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ogp7sq91feh91.jpg' alt='how would you build some sort of "rose knight" (your choice of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ogp7sq91feh91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow Knight (5e Class) | Blackbando's Homebrew Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/blackbandos-homebrew/images/4/40/Darknut.png/revision/latest?cb=20161201122216' alt='Shadow Knight (5e Class) | Blackbando's Homebrew Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blackbando's Homebrew Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/blackbandos-homebrew/images/4/40/Darknut.png/revision/latest?cb=20161201122216' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5e Player's Handbook Review Part 4-Backgrounds | Nerd Immersion">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qfmzVx18frU/sddefault.jpg' alt='D&D 5e Player's Handbook Review Part 4-Backgrounds | Nerd Immersion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qfmzVx18frU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonlance Backgrounds and Feats: Answer the Call as Knights and ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/10/134/knight-of-solamnia.jpg' alt='Dragonlance Backgrounds and Feats: Answer the Call as Knights and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/10/134/knight-of-solamnia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Knight (5e Optimized Character Build) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='http://img0.reactor.cc/pics/post/full/%D0%9C%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5-%D1%84%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8-Fantasy-3233034.jpeg' alt='Death Knight (5e Optimized Character Build) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='http://img0.reactor.cc/pics/post/full/%D0%9C%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%A2%D1%91%D0%BC%D0%BD%D0%BE%D0%B5-%D1%84%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8-Fantasy-3233034.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Centaur Knights and Fantasy Cultures in 5E D&D – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2019/12/azorius-arrester.jpg?fit=620%2C400&ssl=1' alt='Centaur Knights and Fantasy Cultures in 5E D&D – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2019/12/azorius-arrester.jpg?fit=620%2C400&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallen Knights | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/BXMMe2o.jpg' alt='Fallen Knights | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/BXMMe2o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] Halfling Rune Knight : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4zsxza3l8yq81.jpg' alt='Art] Halfling Rune Knight : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4zsxza3l8yq81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

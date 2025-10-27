@@ -1,0 +1,129 @@
+<title>Floral Wallpaper Borders: Elevate Your Space</title>
+                    <meta name="description" content="Discover the beauty of floral wallpaper borders! Perfect for adding a stylish touch to any room, these borders come in various designs to suit your taste. Transform your home with vibrant patterns that enhance your decor effortlessly. Shop now for the perfect floral accents!">
+                    <meta name="keywords" content="floral wallpaper borders">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-borders">
+                            <span itemprop="name">floral wallpaper borders</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Floral Wallpaper Borders: Elevate Your Space</h1>
+                <p>Floral wallpaper borders add a touch of elegance and charm to any space. Perfect for living rooms, bedrooms, or nurseries, these borders enhance the aesthetics with their vibrant colors and intricate patterns. Whether you prefer classic roses or modern designs, floral borders can beautifully complement your decor style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Rose Wallpaper Border CN79402dc">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20754978/r/il/fae77c/2127451423/il_570xN.2127451423_ag3p.jpg' alt='Floral Rose Wallpaper Border CN79402dc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20754978/r/il/fae77c/2127451423/il_570xN.2127451423_ag3p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONCORD WALLCOVERINGS ™ Wallpaper Border Floral Pattern Flowers Leaves  Ornaments, Die Cut Edge for Cottage Bedroom Living Room, Beige Green Blue,  15 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ny0LgrhNL.jpg' alt='CONCORD WALLCOVERINGS ™ Wallpaper Border Floral Pattern Flowers Leaves  Ornaments, Die Cut Edge for Cottage Bedroom Living Room, Beige Green Blue,  15 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ny0LgrhNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Magnolia Flower Floral Sculptured Satin Textured ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/A48AAOSwkL5jVygC/s-l400.jpg' alt='Coral Pink Magnolia Flower Floral Sculptured Satin Textured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/A48AAOSwkL5jVygC/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linen Floral Vintage Wallpaper Border Peonies 71B35265 FREE Ship">
+                                <img itemprop="contentUrl url" src='https://www.fortheloveofwallpaper.com/wp-content/uploads/B-Floral-162.jpg' alt='Linen Floral Vintage Wallpaper Border Peonies 71B35265 FREE Ship'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpaper online store—For the Love of Wallpaper" />
+                                </span>
+                                <a href='https://www.fortheloveofwallpaper.com/wp-content/uploads/B-Floral-162.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONCORD WALLCOVERINGS ™ Wallpaper Border Floral Pattern Flowers Leaves  Ornaments, Die Cut Edge for Cottage Bedroom Living Room, Beige Green Pink  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914ica8BrLL._AC_UF894,1000_QL80_.jpg' alt='CONCORD WALLCOVERINGS ™ Wallpaper Border Floral Pattern Flowers Leaves  Ornaments, Die Cut Edge for Cottage Bedroom Living Room, Beige Green Pink  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914ica8BrLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral BB74979 B74979 Wallpaper Border - Gifted Parrot">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/f8d83cd9f39eb94fa246d4172e4d4d28_1000x.jpg?v=1571723105' alt='Floral BB74979 B74979 Wallpaper Border - Gifted Parrot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/f8d83cd9f39eb94fa246d4172e4d4d28_1000x.jpg?v=1571723105' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Border Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/43728/floral_border_masked.jpg' alt='Floral Border Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/43728/floral_border_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco Falkirk Dandy Pink, Purple Flowers, Birds Floral Peel and Stick  Wallpaper Border DDHDBD9040">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/51007ff8-59b9-4475-98f6-ed79627b0a36/svn/dundee-deco-wallpaper-borders-ddhdbd9040-64_600.jpg' alt='Dundee Deco Falkirk Dandy Pink, Purple Flowers, Birds Floral Peel and Stick  Wallpaper Border DDHDBD9040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/51007ff8-59b9-4475-98f6-ed79627b0a36/svn/dundee-deco-wallpaper-borders-ddhdbd9040-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco's Peel and Stick Wallpaper Border - Floral Green Pink Flowers  on Vines Wall Border Retro Design, 15 ft x 7 in, Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Floral-Green-Pink-Flowers-on-Vines-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_5d6925ce-5072-4e47-bbef-4fe1c128c122.035d634e896fa742b1c974e2eeb1b4d8.jpeg' alt='Dundee Deco's Peel and Stick Wallpaper Border - Floral Green Pink Flowers  on Vines Wall Border Retro Design, 15 ft x 7 in, Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2596">
+                                <meta itemprop="height" content="1947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Floral-Green-Pink-Flowers-on-Vines-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_5d6925ce-5072-4e47-bbef-4fe1c128c122.035d634e896fa742b1c974e2eeb1b4d8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Floral Wallpaper Border VT743379b">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20754978/r/il/615e99/2288241633/il_570xN.2288241633_4rp7.jpg' alt='Traditional Floral Wallpaper Border VT743379b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20754978/r/il/615e99/2288241633/il_570xN.2288241633_4rp7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

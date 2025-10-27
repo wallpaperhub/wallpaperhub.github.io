@@ -1,0 +1,129 @@
+<title>Stunning Black and Purple iPhone Wallpapers for a Chic Aesthetic</title>
+                    <meta name="description" content="Discover stunning black and purple wallpapers for your iPhone! Transform your device's aesthetic with elegant designs that blend style and sophistication. Perfect for those seeking a unique touch, our collection offers a variety of options to enhance your phone's look. Explore now!">
+                    <meta name="keywords" content="iphone aesthetic black and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-aesthetic-black-and-purple-wallpaper">
+                            <span itemprop="name">iphone aesthetic black and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and Purple iPhone Wallpapers for a Chic Aesthetic</h1>
+                <p>Elevate your iPhone's look with stunning black and purple wallpapers that perfectly blend elegance and style. Explore a variety of designs, from abstract patterns to dreamy landscapes, all featuring these captivating colors. Whether you prefer subtle aesthetics or bold statements, find the perfect wallpaper to showcase your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' alt='Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper iphone - purple sky moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/fe/67/f8fe67160dcf2b4073b3ea136a8042ee.jpg' alt='wallpaper iphone - purple sky moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/fe/67/f8fe67160dcf2b4073b3ea136a8042ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple And Black Aesthetic Thunderclouds Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-and-black-aesthetic-thunderclouds-owa7jiko0gfwggx3.jpg' alt='Download Purple And Black Aesthetic Thunderclouds Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-and-black-aesthetic-thunderclouds-owa7jiko0gfwggx3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Black And Purple Aesthetic Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glowing-black-and-purple-aesthetic-phone-9wyhuofqq7j3b4q8.jpg' alt='Glowing Black And Purple Aesthetic Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glowing-black-and-purple-aesthetic-phone-9wyhuofqq7j3b4q8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/3e/4d/673e4d8f00b9a274093e4182d4e2df1f.jpg' alt='Purple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/3e/4d/673e4d8f00b9a274093e4182d4e2df1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/b9/ac/9cb9acf12d9cf5d7d106cc848fa6bbcd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/b9/ac/9cb9acf12d9cf5d7d106cc848fa6bbcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-purple-aesthetic-iphone-display-7ysqj7djfec4j47q.jpg' alt='Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-purple-aesthetic-iphone-display-7ysqj7djfec4j47q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Black iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7273511.png' alt='Purple And Black iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7273511.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC CLOUDS, AESTHETIC, Violet, amoled, black, dark, iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/159/721/HD-wallpaper-aesthetic-clouds-aesthetic-violet-amoled-black-dark-iphone-lilac-night-one-plus.jpg' alt='AESTHETIC CLOUDS, AESTHETIC, Violet, amoled, black, dark, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/159/721/HD-wallpaper-aesthetic-clouds-aesthetic-violet-amoled-black-dark-iphone-lilac-night-one-plus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Iphone Phases Of Purple Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-galaxy-iphone-phases-of-purple-moon-6skg1ji46pmi4n7w.jpg' alt='Purple Galaxy Iphone Phases Of Purple Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-galaxy-iphone-phases-of-purple-moon-6skg1ji46pmi4n7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

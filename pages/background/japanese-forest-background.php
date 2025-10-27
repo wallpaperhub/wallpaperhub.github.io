@@ -1,0 +1,129 @@
+<title>Explore the Tranquility of Japanese Forest Backgrounds</title>
+                    <meta name="description" content="Discover the serene beauty of Japanese forest backgrounds. Perfect for relaxation and inspiration, immerse yourself in lush landscapes that offer peace and tranquility. Ideal for meditation, art, and creating a calming atmosphere in your space. Experience nature's magic today!">
+                    <meta name="keywords" content="japanese forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/japanese-forest-background">
+                            <span itemprop="name">japanese forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Tranquility of Japanese Forest Backgrounds</h1>
+                <p>Japanese forest backgrounds evoke the serene beauty and tranquility of nature. These lush landscapes, featuring towering trees, delicate foliage, and vibrant flora, create a peaceful ambiance perfect for relaxation and reflection. Ideal for meditation, art, or storytelling, a Japanese forest offers an escape into an enchanting world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Forest Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1610338732118-09d3b6fd030c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFwYW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' alt='Japan Forest Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1610338732118-09d3b6fd030c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFwYW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/540757494/photo/arashiyama-bamboo-forest-in-kyoto-japan.jpg?s=612x612&w=0&k=20&c=znF84-6gWOG4oaWBa1Vso7go8vYiI5OjbJHBfLqdTqM=' alt='345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/540757494/photo/arashiyama-bamboo-forest-in-kyoto-japan.jpg?s=612x612&w=0&k=20&c=znF84-6gWOG4oaWBa1Vso7go8vYiI5OjbJHBfLqdTqM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1267676223/photo/kikuchi-valley-waterfall-and-light-lay-in-the-forest-kikuchi-kumamoto-japan.jpg?s=612x612&w=0&k=20&c=wF0jLhudYNP_NPiewtkS4kqKN4gMkRw0RC6fz0PFVos=' alt='345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1267676223/photo/kikuchi-valley-waterfall-and-light-lay-in-the-forest-kikuchi-kumamoto-japan.jpg?s=612x612&w=0&k=20&c=wF0jLhudYNP_NPiewtkS4kqKN4gMkRw0RC6fz0PFVos=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/117150691/photo/asian-bamboo-forest.jpg?s=612x612&w=0&k=20&c=tI5XEOWs51FlCf6Craa4hz0m-EjARPZrZhZoOyyktw0=' alt='345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/117150691/photo/asian-bamboo-forest.jpg?s=612x612&w=0&k=20&c=tI5XEOWs51FlCf6Craa4hz0m-EjARPZrZhZoOyyktw0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="155,800+ Beautiful Scene In A Japanese Forest Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1156298839/photo/kikuchi-valley-waterfall-and-ray-in-forest-japan.jpg?s=612x612&w=0&k=20&c=iua23D-nermMeJ__5JNSahBY7PS2eIQj3rqsRY9f2es=' alt='155,800+ Beautiful Scene In A Japanese Forest Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1156298839/photo/kikuchi-valley-waterfall-and-ray-in-forest-japan.jpg?s=612x612&w=0&k=20&c=iua23D-nermMeJ__5JNSahBY7PS2eIQj3rqsRY9f2es=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Forest">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/53486/japanese-forest-1.jpg?h=699&q=85' alt='Japanese Forest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1823">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/53486/japanese-forest-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Forest Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/860/798/small/mystical-forest-with-sunbeams-piercing-through-the-fog-photo.jpeg' alt='Japanese Forest Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/860/798/small/mystical-forest-with-sunbeams-piercing-through-the-fog-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Forest Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1532884928231-ef40895eb654?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amFwYW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' alt='Japan Forest Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1532884928231-ef40895eb654?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amFwYW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mossy Japanese Tree Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240761/Mossy-Japanese-Tree-Wallpaper-Mural.jpg?v=638164462089800000' alt='Mossy Japanese Tree Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240761/Mossy-Japanese-Tree-Wallpaper-Mural.jpg?v=638164462089800000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/688295512/photo/peaceful-mountain-stream-scene-in-japan.jpg?s=612x612&w=0&k=20&c=s57n4Na_1M0U4VGzIVgJKvBQdrUBIF0CmvgXuHwJWRw=' alt='345,900+ Japanese Forest Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/688295512/photo/peaceful-mountain-stream-scene-in-japan.jpg?s=612x612&w=0&k=20&c=s57n4Na_1M0U4VGzIVgJKvBQdrUBIF0CmvgXuHwJWRw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

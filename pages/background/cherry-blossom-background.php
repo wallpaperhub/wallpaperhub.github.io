@@ -1,0 +1,129 @@
+<title>Stunning Cherry Blossom Backgrounds for Your Inspiration</title>
+                    <meta name="description" content="Discover breathtaking cherry blossom backgrounds that evoke the spirit of spring. Perfect for photography, design, and personal use, these beautiful scenes will inspire creativity and bring a touch of nature's beauty to your projects. Explore now!">
+                    <meta name="keywords" content="cherry blossom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cherry-blossom-background">
+                            <span itemprop="name">cherry blossom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cherry Blossom Backgrounds for Your Inspiration</h1>
+                <p>Cherry blossoms, or sakura, are a stunning symbol of spring, captivating the hearts of many with their delicate pink and white petals. These ephemeral blooms create a picturesque backdrop for events, photography, and art. Enjoy the breathtaking beauty and serene ambiance that cherry blossom trees offer, making every moment feel magical.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="584,200+ Cherry Blossom Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370295417/photo/cherry-blossoms-in-full-bloom-in-park.jpg?s=612x612&w=0&k=20&c=C64ylpF13n0CbacUS6EVqWiIUMoSNivM7LYhQ4ilRvY=' alt='584,200+ Cherry Blossom Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370295417/photo/cherry-blossoms-in-full-bloom-in-park.jpg?s=612x612&w=0&k=20&c=C64ylpF13n0CbacUS6EVqWiIUMoSNivM7LYhQ4ilRvY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1522383225653-ed111181a951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlcnJ5JTIwYmxvc3NvbSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Cherry Blossom Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1522383225653-ed111181a951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlcnJ5JTIwYmxvc3NvbSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beauty of spring background sparkling river water cherry blossom trees  butterflies fluttering amidst delicate blossoms incharming 4K animation  spring sakura painting anime loop flower pink">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/14/79/19/360_F_1014791911_mLo3yJ1Bjd4XZqGm6ulh37pmZCc2XYbi.jpg' alt='beauty of spring background sparkling river water cherry blossom trees  butterflies fluttering amidst delicate blossoms incharming 4K animation  spring sakura painting anime loop flower pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/14/79/19/360_F_1014791911_mLo3yJ1Bjd4XZqGm6ulh37pmZCc2XYbi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62,706 Cherry Blossom Backdrop Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/horizontal-banner-sakura-flowers-pink-600nw-2409584913.jpg' alt='62,706 Cherry Blossom Backdrop Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/horizontal-banner-sakura-flowers-pink-600nw-2409584913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cherry-blossom-v0-6921bld180rd1.png?auto=webp&s=627156826af4a35a9f4b023adb2b87660640177e' alt='Cherry Blossom : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3116">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cherry-blossom-v0-6921bld180rd1.png?auto=webp&s=627156826af4a35a9f4b023adb2b87660640177e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Cherry Blossom Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tsWjnzNinN0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEIgGyh_MA8=&rs=AOn4CLC0-EsU-jH2NZS2zEtmLq7IaqL0UA' alt='HD Cherry Blossom Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tsWjnzNinN0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEIgGyh_MA8=&rs=AOn4CLC0-EsU-jH2NZS2zEtmLq7IaqL0UA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cherry Blossom Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-with-cherry-blossoms-full-bloom-pink_8130-710.jpg' alt='Pink Cherry Blossom Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-with-cherry-blossoms-full-bloom-pink_8130-710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Temperatures Bring Early Cherry Blossom to Japan - SnowBrains">
+                                <img itemprop="contentUrl url" src='https://snowbrains.com/wp-content/uploads/2024/02/IMG_5943.jpeg' alt='Warm Temperatures Bring Early Cherry Blossom to Japan - SnowBrains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SnowBrains" />
+                                </span>
+                                <a href='https://snowbrains.com/wp-content/uploads/2024/02/IMG_5943.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to See Japan's Cherry Blossoms in 2019 | Condé Nast Traveler">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/5c3f46c2a5c1d51f43a9d220/16:9/w_2560%2Cc_limit/Japan_Cherry-Blossoms_GettyImages-179989245.jpg' alt='How to See Japan's Cherry Blossoms in 2019 | Condé Nast Traveler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/5c3f46c2a5c1d51f43a9d220/16:9/w_2560%2Cc_limit/Japan_Cherry-Blossoms_GettyImages-179989245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms Path Images – Browse 55,633 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/48/13/90/360_F_148139077_e5CFiJZUoIT2U9302eIzJEXANwGyFtXj.jpg' alt='Cherry Blossoms Path Images – Browse 55,633 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/48/13/90/360_F_148139077_e5CFiJZUoIT2U9302eIzJEXANwGyFtXj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

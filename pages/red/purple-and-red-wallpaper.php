@@ -1,0 +1,129 @@
+<title>Vibrant Purple & Red Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Explore bold purple and red wallpaper designs to elevate your home decor. Perfect for creating striking focal points, these rich colors add warmth and sophistication. Discover the latest trends and tips for incorporating these vivid wallpapers into your living space.">
+                    <meta name="keywords" content="purple and red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/purple-and-red-wallpaper">
+                            <span itemprop="name">purple and red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple & Red Wallpaper Ideas for Your Home</h1>
+                <p>Transform your space with stunning purple and red wallpaper, combining passion and creativity. These vibrant colors can enhance any room, adding depth and warmth. Ideal for feature walls or entire rooms, purple and red wallpapers can create a luxurious atmosphere, inspiring creativity and making a bold statement in your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red And Purple Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/red-and-purple-background-d2s575czd3kymhs1.jpg' alt='100+] Red And Purple Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/red-and-purple-background-d2s575czd3kymhs1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and purple 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/5b/cd/ec5bcdd4870453697f321cff3ee3c005.jpg' alt='Red and purple 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/5b/cd/ec5bcdd4870453697f321cff3ee3c005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red And Purple Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-and-purple-background-6cqws8jhql23rqzg.jpg' alt='100+] Red And Purple Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-and-purple-background-6cqws8jhql23rqzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Red Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1601752943749-7dd8d89f407a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwcmVkfGVufDB8fDB8fHww' alt='Purple Red Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1601752943749-7dd8d89f407a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwcmVkfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract red and purple wallpaper by fereshenteti on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4707a07-bf76-4352-9889-aff6014e322e/df3k5jj-051461b3-2ac3-4d96-8c8c-0d62d8af9c41.png/v1/fill/w_1280,h_2744,q_80,strp/abstract_red_and_purple_wallpaper_by_fereshenteti_df3k5jj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc0NCIsInBhdGgiOiJcL2ZcL2Y0NzA3YTA3LWJmNzYtNDM1Mi05ODg5LWFmZjYwMTRlMzIyZVwvZGYzazVqai0wNTE0NjFiMy0yYWMzLTRkOTYtOGM4Yy0wZDYyZDhhZjljNDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bfMvwkD3ggpNP2M0FwDgwWTsF0y4TWPQoQbqzzgb9X8' alt='Abstract red and purple wallpaper by fereshenteti on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4707a07-bf76-4352-9889-aff6014e322e/df3k5jj-051461b3-2ac3-4d96-8c8c-0d62d8af9c41.png/v1/fill/w_1280,h_2744,q_80,strp/abstract_red_and_purple_wallpaper_by_fereshenteti_df3k5jj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc0NCIsInBhdGgiOiJcL2ZcL2Y0NzA3YTA3LWJmNzYtNDM1Mi05ODg5LWFmZjYwMTRlMzIyZVwvZGYzazVqai0wNTE0NjFiMy0yYWMzLTRkOTYtOGM4Yy0wZDYyZDhhZjljNDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bfMvwkD3ggpNP2M0FwDgwWTsF0y4TWPQoQbqzzgb9X8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Red Background Images – Browse 3,273,946 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/00/28/34/360_F_500283486_YihcZl36wJ3oq2whvBpDWF49jJhetjrp.jpg' alt='Purple And Red Background Images – Browse 3,273,946 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/00/28/34/360_F_500283486_YihcZl36wJ3oq2whvBpDWF49jJhetjrp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/83/b7/1f/83b71f66f4a5310ba1b8074d5079cd18.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/83/b7/1f/83b71f66f4a5310ba1b8074d5079cd18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Purple Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/025/008/959/small_2x/dark-grainy-gradient-abstract-background-red-orange-purple-glowing-spot-light-noise-texture-effect-photo.jpg' alt='Red Purple Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="782">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/025/008/959/small_2x/dark-grainy-gradient-abstract-background-red-orange-purple-glowing-spot-light-noise-texture-effect-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple and red background with a swirly pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-red-background-with-swirly-pattern_289284-397.jpg' alt='Premium Photo | Purple and red background with a swirly pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-red-background-with-swirly-pattern_289284-397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and purple wallpaper hot sale">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/798/461/HD-wallpaper-purple-red-space-cloud-galaxy-nebula-scifi-stars-universe.jpg' alt='Red and purple wallpaper hot sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ugt-asturias" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/798/461/HD-wallpaper-purple-red-space-cloud-galaxy-nebula-scifi-stars-universe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

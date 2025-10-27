@@ -1,0 +1,129 @@
+<title>Charming Pink Harry Potter Wallpaper for Your Magical Space</title>
+                    <meta name="description" content="Discover captivating pink Harry Potter wallpaper that brings magic to your room! Perfect for fans, it features enchanting designs in a soft color palette, making it ideal for any space. Elevate your decor with whimsical touches and show off your love for the wizarding world!">
+                    <meta name="keywords" content="pink harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-harry-potter-wallpaper">
+                            <span itemprop="name">pink harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Harry Potter Wallpaper for Your Magical Space</h1>
+                <p>Transform your space with enchanting pink Harry Potter wallpaper! Perfect for any fan, these whimsical designs showcase beloved characters and magical elements in a soft, delightful palette. Ideal for bedrooms, playrooms, or creative spaces, this wallpaper adds a touch of magic and charm to your surroundings. Embrace your Potterhead spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Pink Harry potter wallpaper ideas | harry potter wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/3f/9a/5d/3f9a5d038db004e9b7bf1e12312f0dd6.jpg' alt='13 Pink Harry potter wallpaper ideas | harry potter wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/3f/9a/5d/3f9a5d038db004e9b7bf1e12312f0dd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Cute Harry Potter Hogwarts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui-2.jpg' alt='Pastel Pink Cute Harry Potter Hogwarts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Harry Potter Pink Layers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-harry-potter-pink-layers-h9ejhx7yysizcfy9.jpg' alt='Cool Harry Potter Pink Layers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-harry-potter-pink-layers-h9ejhx7yysizcfy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/1c/9f/34/1c9f34f1d22c28ec0b791b6f2505a6de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/1c/9f/34/1c9f34f1d22c28ec0b791b6f2505a6de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter on sale wallpaper cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b9/84/e2/b984e2f849f4c59ae324ce46767a1971.jpg' alt='Harry potter on sale wallpaper cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="5806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b9/84/e2/b984e2f849f4c59ae324ce46767a1971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/70/c5/3270c559cb06cbf067705e9c7f692aa7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/70/c5/3270c559cb06cbf067705e9c7f692aa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Cute Harry Potter Gryffindor Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-harry-potter-glasses-pink-clouds-h8i3a748p10g5fw4.webp' alt='Brown Cute Harry Potter Gryffindor Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-harry-potter-glasses-pink-clouds-h8i3a748p10g5fw4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter pink phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/20/01/48200183c17e70345821752edbf749de.jpg' alt='Harry Potter pink phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/20/01/48200183c17e70345821752edbf749de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD harry in pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/214/10/HD-wallpaper-sunset-at-hogwarts-castle-colorful-harry-potter-hogwarts-pink-purple-sunset.jpg' alt='HD harry in pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/214/10/HD-wallpaper-sunset-at-hogwarts-castle-colorful-harry-potter-hogwarts-pink-purple-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter wallpaper | Harry potter wallpaper, Harry potter ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b0/dc/c2/b0dcc2ea8240a9deb79b5c41e1a7c986.jpg' alt='Harry potter wallpaper | Harry potter wallpaper, Harry potter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b0/dc/c2/b0dcc2ea8240a9deb79b5c41e1a7c986.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

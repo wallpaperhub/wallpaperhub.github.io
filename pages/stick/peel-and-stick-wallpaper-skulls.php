@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="peel and stick wallpaper skulls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-skulls">
+                            <span itemprop="name">peel and stick wallpaper skulls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LwenSnow Halloween Skull Floral Peel and Stick Wallpaper Red Sugar Skull  Floral Gothic Wallpaper Vinyl Removable Self Adhesive Wall Paper for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91mwnjF+kxL.jpg' alt='LwenSnow Halloween Skull Floral Peel and Stick Wallpaper Red Sugar Skull  Floral Gothic Wallpaper Vinyl Removable Self Adhesive Wall Paper for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91mwnjF+kxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Fern and Skull Wallpaper Peel and Stick and  Traditional Wallpaper - D829">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5383941574_ccs5.jpg?v=1722497022&width=1946' alt='Dark Floral Wallpaper Fern and Skull Wallpaper Peel and Stick and  Traditional Wallpaper - D829'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5383941574_ccs5.jpg?v=1722497022&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Skulls Black Fieri Novelty Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/edecafb1-e387-4f46-91a3-a8bf3256d581/svn/nuwallpaper-wallpaper-samples-nus4551sam-64_600.jpg' alt='NuWallpaper Skulls Black Fieri Novelty Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/edecafb1-e387-4f46-91a3-a8bf3256d581/svn/nuwallpaper-wallpaper-samples-nus4551sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COKCOKR Skull Peel and Stick Wallpaper,17.71" x 118.1"Thicken Vintage Skull  Wallpaper Removable Self-Adhesive Contact Paper for Living Room Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hMWjOv2BL.jpg' alt='COKCOKR Skull Peel and Stick Wallpaper,17.71" x 118.1"Thicken Vintage Skull  Wallpaper Removable Self-Adhesive Contact Paper for Living Room Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hMWjOv2BL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_570xN.4459978270_45iq.jpg' alt='Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_570xN.4459978270_45iq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buried Treasure - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_Repeating-Pattern-Sample-1_6d17f52a-98b6-479d-a813-2a7623cc5350.jpg?v=1734718018' alt='Buried Treasure - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_Repeating-Pattern-Sample-1_6d17f52a-98b6-479d-a813-2a7623cc5350.jpg?v=1734718018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull and Flowers Removable Wallpaper Sugarskull Floral Boho Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13633394/r/il/0a602d/2108047757/il_570xN.2108047757_7ooe.jpg' alt='Skull and Flowers Removable Wallpaper Sugarskull Floral Boho Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13633394/r/il/0a602d/2108047757/il_570xN.2108047757_7ooe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Skull Wall mural Peel and stick Temporary ...">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/products/removable-wallpaper-skull-wall-mural-peel-and-stick-temporary-wallpaper-living-room-bedroom-luxury-home-decor-gothicwr53-1388163827-741467.jpg?v=1696706405' alt='Removable Wallpaper Skull Wall mural Peel and stick Temporary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/products/removable-wallpaper-skull-wall-mural-peel-and-stick-temporary-wallpaper-living-room-bedroom-luxury-home-decor-gothicwr53-1388163827-741467.jpg?v=1696706405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MuralPeel Purple Dark Gothic Ghost Skull Peel and Stick Wallpaper Self  Adhesive Removable Easy Peel Off Stick on Wall Paper for Bedroom Cabinet  Renter ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FnVgxF7wL._AC_UF894,1000_QL80_.jpg' alt='MuralPeel Purple Dark Gothic Ghost Skull Peel and Stick Wallpaper Self  Adhesive Removable Easy Peel Off Stick on Wall Paper for Bedroom Cabinet  Renter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FnVgxF7wL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Skull Roses Black Nonwoven Paper Paste the Wall Removable  Wallpaper 104560">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/575cd7df-ea3d-4312-8e64-e606b24287f5/svn/graham-brown-wallpaper-rolls-104560-64_600.jpg' alt='Graham & Brown Skull Roses Black Nonwoven Paper Paste the Wall Removable  Wallpaper 104560'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/575cd7df-ea3d-4312-8e64-e606b24287f5/svn/graham-brown-wallpaper-rolls-104560-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

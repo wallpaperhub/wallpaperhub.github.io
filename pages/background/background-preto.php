@@ -1,0 +1,129 @@
+<title>Background Preto: A Elegância do Design Minimalista</title>
+                    <meta name="description" content="Descubra a técnica do "background preto" no design. Aprenda como essa abordagem pode realçar suas criações, melhorar a legibilidade e criar uma atmosfera sofisticada. Ideal para sites, apresentações e muito mais. Atraia a atenção do seu público com um design impactante e elegante!">
+                    <meta name="keywords" content="background preto">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-preto">
+                            <span itemprop="name">background preto</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Preto: A Elegância do Design Minimalista</h1>
+                <p>O "background preto" é uma técnica de design que utiliza um fundo preto para realçar elementos visuais, proporcionando contraste e profundidade. Essa escolha é popular em diversas mídias, como sites, apresentações e artes gráficas, pois melhora a legibilidade e atrai a atenção do espectador, criando uma atmosfera sofisticada e elegante.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo Preto Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-carbon-fiber-texture-pattern-background_1017-33436.jpg' alt='Fundo Preto Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-carbon-fiber-texture-pattern-background_1017-33436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textura preta Stock Photos, Royalty Free Textura preta Images ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1502311/14182/i/450/depositphotos_141823538-stock-illustration-chalkboard-black-background.jpg' alt='Textura preta Stock Photos, Royalty Free Textura preta Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1502311/14182/i/450/depositphotos_141823538-stock-illustration-chalkboard-black-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Background Texture Advertising Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cb/50/3a/cb503a2323838bed0f28c7c48dba2653.jpg' alt='Black Background Texture Advertising Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cb/50/3a/cb503a2323838bed0f28c7c48dba2653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Preto Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg' alt='Page 3 | Preto Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo preto com textura de ponto de metal 3d | Vetor Premium">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/63/88/33638801ec3b28bdfe133692be142736.jpg' alt='Fundo preto com textura de ponto de metal 3d | Vetor Premium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/63/88/33638801ec3b28bdfe133692be142736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Preto Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/021/706/550/small/background-gradient-black-overlay-abstract-background-black-night-dark-evening-with-space-for-text-for-a-background-free-photo.jpg' alt='Background Preto Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/021/706/550/small/background-gradient-black-overlay-abstract-background-black-night-dark-evening-with-space-for-text-for-a-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo Preto Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-black-texture-background-hexagon_206725-413.jpg' alt='Fundo Preto Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-black-texture-background-hexagon_206725-413.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Preto Fotos e Imagens para Baixar Grátis">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/ti/fotos-gratis/t2/2223734-fundo-textura-pedra-preto-escuro-gratis-foto.jpg' alt='Background Preto Fotos e Imagens para Baixar Grátis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/ti/fotos-gratis/t2/2223734-fundo-textura-pedra-preto-escuro-gratis-foto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Subtle Fabric Texture All Black Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/all-black-background-nicf5dhn7zjatvh1.jpg' alt='Download Subtle Fabric Texture All Black Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/all-black-background-nicf5dhn7zjatvh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo preto Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1175677/12327/v/450/depositphotos_123277816-stock-illustration-black-wood-background-wallpaper-backdrop.jpg' alt='Fundo preto Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1175677/12327/v/450/depositphotos_123277816-stock-illustration-black-wood-background-wallpaper-backdrop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

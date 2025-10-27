@@ -1,0 +1,129 @@
+<title>Discover d4vd: An Emerging Music Star</title>
+                    <meta name="description" content="Explore the captivating sounds of d4vd, an emerging artist merging pop and indie vibes. His emotive lyrics and catchy melodies connect with listeners, offering a fresh take on contemporary music. Stay tuned for his latest releases and dive into the world of d4vd today!">
+                    <meta name="keywords" content="d4vd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/d4vd">
+                            <span itemprop="name">d4vd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover d4vd: An Emerging Music Star</h1>
+                <p>d4vd is an emerging artist known for blending pop, indie, and electronic sounds. His music often explores themes of love, self-discovery, and emotional resilience. With captivating melodies and relatable lyrics, d4vd resonates with a diverse audience. As he continues to release new tracks, his unique style is carving a significant niche in the music scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Singer-Songwriter D4vd Became the Mouthpiece for Gen-Z ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/647a22983d6f5645d7083f2d/1:1/w_1534,h_1534,c_limit/GQ%20IMG8637-R01-010%20copy.jpg' alt='How Singer-Songwriter D4vd Became the Mouthpiece for Gen-Z ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1534">
+                                <meta itemprop="height" content="1534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/647a22983d6f5645d7083f2d/1:1/w_1534,h_1534,c_limit/GQ%20IMG8637-R01-010%20copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebad447187a35f422307e88ad3' alt='d4vd Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebad447187a35f422307e88ad3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet d4vd: From 'Fortnite' to Fame, Petals to Thorns">
+                                <img itemprop="contentUrl url" src='https://images-r2-1.thebrag.com/rs/uploads/2023/06/d4vd-1.jpg' alt='Meet d4vd: From 'Fortnite' to Fame, Petals to Thorns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone Australia" />
+                                </span>
+                                <a href='https://images-r2-1.thebrag.com/rs/uploads/2023/06/d4vd-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D4vd on Going From Gamer to Alt-Pop Star, New 'Petals to Thorns' EP">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/05/d4vd-Press-Photo_credit_Hunter-Simmons.jpg?w=1000&h=563&crop=1' alt='D4vd on Going From Gamer to Alt-Pop Star, New 'Petals to Thorns' EP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/05/d4vd-Press-Photo_credit_Hunter-Simmons.jpg?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd is heartbreak-pop's unlikely gamer prince | The FADER">
+                                <img itemprop="contentUrl url" src='https://thefader-res.cloudinary.com/private_images/w_1440,c_limit,f_auto,q_auto:best/11182022_D4vd_Scans_016_lgysgn/d4vd-is-heartbreak-pops-unlikely-gamer-prince.jpg' alt='d4vd is heartbreak-pop's unlikely gamer prince | The FADER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fader" />
+                                </span>
+                                <a href='https://thefader-res.cloudinary.com/private_images/w_1440,c_limit,f_auto,q_auto:best/11182022_D4vd_Scans_016_lgysgn/d4vd-is-heartbreak-pops-unlikely-gamer-prince.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On The Cover – D4vd is pop's new DIY innovator | The Cover | NME.com">
+                                <img itemprop="contentUrl url" src='https://www.nme.com/wp-content/uploads/2023/05/D4VD-1-latest-credit-Jonathan-Weiner-for-NME@2160x2700.jpg' alt='On The Cover – D4vd is pop's new DIY innovator | The Cover | NME.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NME" />
+                                </span>
+                                <a href='https://www.nme.com/wp-content/uploads/2023/05/D4VD-1-latest-credit-Jonathan-Weiner-for-NME@2160x2700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd's 'Romantic Homicide': Inside the Breakthrough Hot 100 Hit">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/09/d4vd-credit-hope-obadan-2022-billboard-1548.jpg' alt='d4vd's 'Romantic Homicide': Inside the Breakthrough Hot 100 Hit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/09/d4vd-credit-hope-obadan-2022-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd is ready for fame - The Face">
+                                <img itemprop="contentUrl url" src='https://images.thefacecdn.com/images/d4vd.jpg?auto=compress&q=25&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1180' alt='d4vd is ready for fame - The Face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Face" />
+                                </span>
+                                <a href='https://images.thefacecdn.com/images/d4vd.jpg?auto=compress&q=25&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1180' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd: “I literally just looked up: 'How to make music on iPhone'”">
+                                <img itemprop="contentUrl url" src='https://musictech.com/wp-content/uploads/2023/05/d4vd@2000x1500.jpg' alt='d4vd: “I literally just looked up: 'How to make music on iPhone'”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusicTech" />
+                                </span>
+                                <a href='https://musictech.com/wp-content/uploads/2023/05/d4vd@2000x1500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="d4vd on How to Escape Reality - Notion">
+                                <img itemprop="contentUrl url" src='https://d2ljoqkkoec4f6.cloudfront.net/wp-content/uploads/2022/11/14144110/5-7-545x750.jpg' alt='d4vd on How to Escape Reality - Notion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Notion Magazine" />
+                                </span>
+                                <a href='https://d2ljoqkkoec4f6.cloudfront.net/wp-content/uploads/2022/11/14144110/5-7-545x750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

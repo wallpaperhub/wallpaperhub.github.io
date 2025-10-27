@@ -1,0 +1,129 @@
+<title>Adorable Bible Verse Wallpapers for Daily Inspiration</title>
+                    <meta name="description" content="Discover a collection of cute Bible verse wallpapers that inspire and uplift. Perfect for personal spaces, our designs add a touch of faith and joy to your walls while providing daily motivation. Explore and refresh your surroundings with beautiful messages that resonate with your heart!">
+                    <meta name="keywords" content="wallpaper cute bible verses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/wallpaper-cute-bible-verses">
+                            <span itemprop="name">wallpaper cute bible verses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Bible Verse Wallpapers for Daily Inspiration</h1>
+                <p>Brighten your space with charming wallpaper featuring cute Bible verses! These uplifting designs blend faith and creativity, offering daily inspiration right at your fingertips. Perfect for nurseries, classrooms, or personal space, let the words of wisdom encourage you each day while enhancing the beauty of your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Jesus'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' alt='Love Jesus''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Images / Memes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/fc/5b/3ffc5b267734387a5206c44142c6171e.jpg' alt='Bible Verse Images / Memes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/fc/5b/3ffc5b267734387a5206c44142c6171e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Summer Bible Verses, Simple Bible Verse, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/128/791/HD-wallpaper-cute-summer-bible-verses-simple-bible-verse.jpg' alt='Cute Summer Bible Verses, Simple Bible Verse, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/128/791/HD-wallpaper-cute-summer-bible-verses-simple-bible-verse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus wallpaper, Phone Backgrounds, Wallpapers, Screen Savers, Bible  Verses, Jesus, God, Christianity, Cute backgrounds, collage backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49994978/r/il/d0cf3e/5712206344/il_570xN.5712206344_1kvq.jpg' alt='Jesus wallpaper, Phone Backgrounds, Wallpapers, Screen Savers, Bible  Verses, Jesus, God, Christianity, Cute backgrounds, collage backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49994978/r/il/d0cf3e/5712206344/il_570xN.5712206344_1kvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' alt='Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christian wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/e0/a9/26e0a903e58ed4457efa548c93cc2bf9.jpg' alt='Cute Christian wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/e0/a9/26e0a903e58ed4457efa548c93cc2bf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Bible Verse Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-bible-verse-nnnhg8jk6lsc44ku.jpg' alt='100+] Pink Bible Verse Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-bible-verse-nnnhg8jk6lsc44ku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute bible verse 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osR1BFevXInTnJADDqAQbNDVk5Qetn8BJAcNoC~tplv-tej9nj120t-origin.webp' alt='Cute bible verse 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osR1BFevXInTnJADDqAQbNDVk5Qetn8BJAcNoC~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uplifting Bible Verse On Pastel Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/uplifting-bible-verse-on-pastel-background-88j72sw3qkaxvu2v.jpg' alt='Uplifting Bible Verse On Pastel Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1223">
+                                <meta itemprop="height" content="1793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/uplifting-bible-verse-on-pastel-background-88j72sw3qkaxvu2v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone/Android Bible Verse A Joyful Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26214184/r/il/ce8677/2705114128/il_570xN.2705114128_8bpn.jpg' alt='iPhone/Android Bible Verse A Joyful Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26214184/r/il/ce8677/2705114128/il_570xN.2705114128_8bpn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Light Food Wallpapers: Fresh & Inviting Decor</title>
+                    <meta name="description" content="Discover a delightful range of light food wallpapers designed to brighten your home. From vibrant fruits to healthy dishes, our collection offers the perfect touch of freshness and style for any room. Transform your space with appealing visuals that inspire a healthier lifestyle.">
+                    <meta name="keywords" content="light food wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-food-wallpaper">
+                            <span itemprop="name">light food wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Food Wallpapers: Fresh & Inviting Decor</h1>
+                <p>Explore our captivating collection of light food wallpapers that bring fresh inspiration to your space. With stunning visuals of fruits, vegetables, and wholesome dishes, these wallpapers create a refreshing ambiance in your kitchen or dining area. Elevate your home decor with vibrant, healthy imagery that tantalizes your senses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Light Food Pattern On Light Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/137950184/display_1500/stock-vector-seamless-light-food-pattern-on-light-background-in-vector-137950184.jpg' alt='Seamless Light Food Pattern On Light Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/137950184/display_1500/stock-vector-seamless-light-food-pattern-on-light-background-in-vector-137950184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Food Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-light-orange-food-tile-background-picture-image_1435841.jpg' alt='Light Food Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-light-orange-food-tile-background-picture-image_1435841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Food Light Background Royalty Free SVG, Cliparts, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/comodo777/comodo7771502/comodo777150200033/36825230-summer-food-light-background.jpg' alt='Summer Food Light Background Royalty Free SVG, Cliparts, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/comodo777/comodo7771502/comodo777150200033/36825230-summer-food-light-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Food cooking background. Stone texture with sea salt, pepper ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/04/19/00/1000_F_504190003_lC3anwzZyEvJPmtGbTC5XgL5fmoS9XHB.jpg' alt='Food cooking background. Stone texture with sea salt, pepper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/04/19/00/1000_F_504190003_lC3anwzZyEvJPmtGbTC5XgL5fmoS9XHB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Food background with place for text, with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/food-background-with-place-text-with-different-kinds-pasta-tomatoes-herbs-mushrooms-eggs-seasonings-scattered-light-marble-background-top-view-italian-cuisine-concept_90258-3528.jpg' alt='Premium Photo | Food background with place for text, with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/food-background-with-place-text-with-different-kinds-pasta-tomatoes-herbs-mushrooms-eggs-seasonings-scattered-light-marble-background-top-view-italian-cuisine-concept_90258-3528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superfoods on light stone background. Healthy vegan food. — Stock ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/1558912/21709/i/1600/depositphotos_217092652-stock-photo-superfoods-on-light-stone-background.jpg' alt='Superfoods on light stone background. Healthy vegan food. — Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/1558912/21709/i/1600/depositphotos_217092652-stock-photo-superfoods-on-light-stone-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/df/40/e6df40402e8f789dbec01cc275062ef7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/df/40/e6df40402e8f789dbec01cc275062ef7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yellow Food Tile Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-light-yellow-food-tile-background-picture-image_1435855.jpg' alt='Light Yellow Food Tile Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-light-yellow-food-tile-background-picture-image_1435855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Food Light Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/fresh-salad-tomatoes-avocado-on-260nw-481697575.jpg' alt='Food Light Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="369">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/fresh-salad-tomatoes-avocado-on-260nw-481697575.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Food Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-light-fresh-and-fresh-literary-food-banner-background-picture-image_1006686.jpg' alt='Light Food Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-light-fresh-and-fresh-literary-food-banner-background-picture-image_1006686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

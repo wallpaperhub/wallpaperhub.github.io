@@ -1,0 +1,129 @@
+<title>Serene Green Music Background for Relaxation</title>
+                    <meta name="description" content="Discover the soothing power of a green music background. Perfect for relaxation, meditation, or enhancing focus, this nature-inspired soundscape blends gentle melodies with calming nature sounds to help you unwind and connect with the serene outdoors. Enjoy peace anywhere, anytime!">
+                    <meta name="keywords" content="green music background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-music-background">
+                            <span itemprop="name">green music background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Green Music Background for Relaxation</h1>
+                <p>Green music background evokes a sense of calm and rejuvenation. It incorporates nature-inspired sounds, like rustling leaves and flowing water, to create a soothing atmosphere. Ideal for relaxation, meditation, or studying, this type of background enhances focus and stress relief, allowing listeners to connect with nature while enjoying music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Music Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/object-polygonal-planet-green-background-global-data-calculation_395079-10914.jpg' alt='Green Music Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/object-polygonal-planet-green-background-global-data-calculation_395079-10914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="139,100+ Green Music Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1166350281/vector/green-leaf-and-stave-sunbeam-image.jpg?s=612x612&w=0&k=20&c=Pcs5vc-TWToZlQOv959oodsjxvuxqXZS3VZ48ot8mfE=' alt='139,100+ Green Music Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1166350281/vector/green-leaf-and-stave-sunbeam-image.jpg?s=612x612&w=0&k=20&c=Pcs5vc-TWToZlQOv959oodsjxvuxqXZS3VZ48ot8mfE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Green Music Stock Illustrations – 51,683 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flying-music-green-background-3875086.jpg' alt='Background Green Music Stock Illustrations – 51,683 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flying-music-green-background-3875086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract green music background with piano keys Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/35/29/abstract-green-music-background-with-piano-keys-vector-7293529.jpg' alt='Abstract green music background with piano keys Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/35/29/abstract-green-music-background-with-piano-keys-vector-7293529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright green music background - with gradient Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/51/01/bright-green-music-background-with-gradient-vector-14415101.jpg' alt='Bright green music background - with gradient Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/51/01/bright-green-music-background-with-gradient-vector-14415101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Music Background Showing Shining Discs And Classical Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WKH8N8/green-music-background-showing-shining-discs-and-classical-WKH8N8.jpg' alt='Green Music Background Showing Shining Discs And Classical Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WKH8N8/green-music-background-showing-shining-discs-and-classical-WKH8N8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Green Music Notes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-green-music-notes-eloz08thhwuc7opf.jpg' alt='Neon Green Music Notes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-green-music-notes-eloz08thhwuc7opf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Musical Background backwater Different Notes">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/anton_petrus/anton_petrus1409/anton_petrus140900067/32229273-musical-notes-on-a-glowing-green-background.jpg' alt='Green Musical Background backwater Different Notes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.moneyandlife.ir" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/anton_petrus/anton_petrus1409/anton_petrus140900067/32229273-musical-notes-on-a-glowing-green-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Music Background Stock Illustrations – 51,638 Green Music ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/music-19610285.jpg' alt='Green Music Background Stock Illustrations – 51,638 Green Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/music-19610285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Music Stock Illustration - Download Image Now - Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/474818483/vector/green-music.jpg?s=1024x1024&w=is&k=20&c=Ddvi7a2soEDYvS2lKgoXKx-qmRkr4WuPYeKzg0qTaY8=' alt='Green Music Stock Illustration - Download Image Now - Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/474818483/vector/green-music.jpg?s=1024x1024&w=is&k=20&c=Ddvi7a2soEDYvS2lKgoXKx-qmRkr4WuPYeKzg0qTaY8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

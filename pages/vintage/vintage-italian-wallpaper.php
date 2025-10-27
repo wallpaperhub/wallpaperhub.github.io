@@ -1,0 +1,129 @@
+<title>Vintage Italian Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Explore the beauty of vintage Italian wallpaper. Perfect for adding a touch of elegance and character to your home, these unique designs will elevate your decor. Discover timeless patterns that transform any space with charm and nostalgia.">
+                    <meta name="keywords" content="vintage italian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-italian-wallpaper">
+                            <span itemprop="name">vintage italian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Italian Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with vintage Italian wallpaper, featuring intricate designs and craftsmanship. These wallpapers evoke nostalgia and elegance, bringing a timeless charm to any room. Perfect for those seeking a unique aesthetic, vintage Italian wallpaper offers both beauty and character, making your interior truly stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Views of Italy- antique wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.papiersdeparis.com/en/upload/thumbs/papier-peint-vue-ditalie-2e63.jpg' alt='Views of Italy- antique wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papiers de Paris" />
+                                </span>
+                                <a href='https://www.papiersdeparis.com/en/upload/thumbs/papier-peint-vue-ditalie-2e63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Italy Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1501829385782-9841539fa6bf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmludGFnZSUyMGl0YWx5fGVufDB8fDB8fHww' alt='Vintage Italy Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1501829385782-9841539fa6bf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmludGFnZSUyMGl0YWx5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Italian Removable Wallcovering, Retro Posters Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16884357/r/il/4048f6/5266365758/il_fullxfull.5266365758_jn8v.jpg' alt='Vintage Italian Removable Wallcovering, Retro Posters Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16884357/r/il/4048f6/5266365758/il_fullxfull.5266365758_jn8v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Italian poster Wallpaper Venice Italy Milan Capri">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/75/c2/3e75c291c261e07c1051e91f4e4fb2f8.jpg' alt='Retro Italian poster Wallpaper Venice Italy Milan Capri'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/75/c2/3e75c291c261e07c1051e91f4e4fb2f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Luxe Italian Fresco Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_70b9339a-74e5-4050-b214-60b40f037893.jpg?v=1710128488' alt='Vintage Luxe Italian Fresco Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_70b9339a-74e5-4050-b214-60b40f037893.jpg?v=1710128488' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italian vintage seamless pattern for wallpaper Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/78/13/italian-vintage-seamless-pattern-for-wallpaper-vector-22687813.jpg' alt='Italian vintage seamless pattern for wallpaper Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/78/13/italian-vintage-seamless-pattern-for-wallpaper-vector-22687813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Italian Landscape Wall Mural AM083">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/files/03_zoom.jpg?v=1720024097' alt='Vintage Italian Landscape Wall Mural AM083'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/files/03_zoom.jpg?v=1720024097' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Scenic Wallpaper, Vintage Italian Watercolor Landscape Mural, Soft  Warm Old Style Wallpaper">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/0-WN253-vintage-meadow-scenic-landscape-french-countryside-mural.png?v=1734565075&width=2912' alt='Retro Scenic Wallpaper, Vintage Italian Watercolor Landscape Mural, Soft  Warm Old Style Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/0-WN253-vintage-meadow-scenic-landscape-french-countryside-mural.png?v=1734565075&width=2912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Venice Italy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vintage-venice-italy-saeamfzpayr3fpcl.jpg' alt='Vintage Venice Italy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vintage-venice-italy-saeamfzpayr3fpcl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern on the theme of Italy and Italian cuisine in ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/80/96/03/1000_F_480960357_PC6zxu1wt8lt5ANUKpuvIBBxUHewiLzJ.jpg' alt='Seamless pattern on the theme of Italy and Italian cuisine in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/80/96/03/1000_F_480960357_PC6zxu1wt8lt5ANUKpuvIBBxUHewiLzJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

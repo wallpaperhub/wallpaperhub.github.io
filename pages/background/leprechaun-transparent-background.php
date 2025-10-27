@@ -1,0 +1,129 @@
+<title>Stunning Leprechaun Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Discover high-quality leprechaun images featuring transparent backgrounds, ideal for enhancing your projects. Perfect for websites, graphics, or festive themes, these whimsical visuals merge Irish folklore with creative flair, ensuring a magical touch in every design!">
+                    <meta name="keywords" content="leprechaun transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/leprechaun-transparent-background">
+                            <span itemprop="name">leprechaun transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Leprechaun Images with Transparent Backgrounds</h1>
+                <p>Explore the whimsical world of leprechauns with our stunning transparent background images. Perfect for all your creative projects, these enchanting visuals allow for seamless integration into websites, presentations, and more. Bring a touch of Irish folklore to life with these magical, high-quality graphics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun - Cheerful Leprechaun Character - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180410/eve/avf5axujc.webp' alt='Leprechaun - Cheerful Leprechaun Character - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180410/eve/avf5axujc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucky Charms Leprechaun Png - Lucky Charms Leprechaun Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/4e/de/004ede92a8ed524d1e816761a9a2b4d4.jpg' alt='Lucky Charms Leprechaun Png - Lucky Charms Leprechaun Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/4e/de/004ede92a8ed524d1e816761a9a2b4d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun Transparent Clip Art PNG Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/17358' alt='Leprechaun Transparent Clip Art PNG Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6182">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/17358' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun Clicking Heels Cartoon PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/149900/isolated/preview/d6a1601a980f0be1049c4f1eddf847c7-leprechaun-clicking-heels-cartoon.png' alt='Leprechaun Clicking Heels Cartoon PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/149900/isolated/preview/d6a1601a980f0be1049c4f1eddf847c7-leprechaun-clicking-heels-cartoon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Leprechaun 300 dpi Transparent PNG FILE, st patricks day shirt, st  paddys day, sublimation, PNG, printable, shamrock, clover">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40957621/r/il/e15dbf/4709366238/il_570xN.4709366238_epot.jpg' alt='Cute Leprechaun 300 dpi Transparent PNG FILE, st patricks day shirt, st  paddys day, sublimation, PNG, printable, shamrock, clover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40957621/r/il/e15dbf/4709366238/il_570xN.4709366238_epot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patrick Day Leprechaun with Green Beer Transparent PNG Picture ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/St-Patrick-PNG/St_Patrick_Day_Leprechaun_with_Green_Beer_Transparent_PNG_Picture.png?m=1629816585' alt='St Patrick Day Leprechaun with Green Beer Transparent PNG Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4119">
+                                <meta itemprop="height" content="5064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/St-Patrick-PNG/St_Patrick_Day_Leprechaun_with_Green_Beer_Transparent_PNG_Picture.png?m=1629816585' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun Transparent PNG Clip Art Image">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/e9/7c/c9e97c642c167550067ffe403a86dc4d.jpg' alt='Leprechaun Transparent PNG Clip Art Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/e9/7c/c9e97c642c167550067ffe403a86dc4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220613/ourmid/pngtree-funny-leprechaun-for-st-png-image_5050974.png' alt='Leprechaun Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220613/ourmid/pngtree-funny-leprechaun-for-st-png-image_5050974.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leprechaun - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/14954/leprechaun-clipart-xl.png' alt='Leprechaun - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/14954/leprechaun-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Render Cute Standing Leprechaun Isolated Background 08 ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20250115/ourlarge/pngtree-3d-render-cute-standing-leprechaun-isolated-background-08-png-image_15199064.png' alt='3d Render Cute Standing Leprechaun Isolated Background 08 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20250115/ourlarge/pngtree-3d-render-cute-standing-leprechaun-isolated-background-08-png-image_15199064.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

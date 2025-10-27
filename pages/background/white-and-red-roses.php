@@ -1,0 +1,129 @@
+<title>Elegant Beauty of White and Red Roses</title>
+                    <meta name="description" content="Discover the enchanting symbolism and beauty of white and red roses. Perfect for any romantic occasion, these roses represent love, purity, and passion. Explore our guide to choosing the ideal bouquet for weddings, anniversaries, or heartfelt gestures. Embrace the elegance of these classic blooms today!">
+                    <meta name="keywords" content="white and red roses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-and-red-roses">
+                            <span itemprop="name">white and red roses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Beauty of White and Red Roses</h1>
+                <p>White and red roses symbolize love and purity, making them a timeless choice for romantic occasions. White roses represent innocence and new beginnings, while red roses convey deep emotions and passion. Together, they create a stunning visual contrast, perfect for weddings, anniversaries, or to express heartfelt sentiments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Dozen White and Red Roses Bouquet by Luxury Floral">
+                                <img itemprop="contentUrl url" src='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1739276946/vendor/9396/catalog/product/2/0/20231011105924_file_652728cccfd7b_652729a942380.jpg' alt='2 Dozen White and Red Roses Bouquet by Luxury Floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2316">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BloomNation" />
+                                </span>
+                                <a href='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1739276946/vendor/9396/catalog/product/2/0/20231011105924_file_652728cccfd7b_652729a942380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic heart shape red and white roses in Glendale, CA | Laazati Flowers">
+                                <img itemprop="contentUrl url" src='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1738210074/vendor/5456/catalog/product/2/0/20180213024653_file_5a82519d93054.jpg' alt='Classic heart shape red and white roses in Glendale, CA | Laazati Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2499">
+                                <meta itemprop="height" content="3056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laazati Flowers" />
+                                </span>
+                                <a href='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1738210074/vendor/5456/catalog/product/2/0/20180213024653_file_5a82519d93054.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day 12 Stem Red & White Rose Bouquet with Box ...">
+                                <img itemprop="contentUrl url" src='https://newjerseyblooms.com/cdn/shop/products/Valentine_sDay12StemRed_WhiteRoseBouquetWithBox3_2000x.jpg?v=1736875281' alt='Valentine's Day 12 Stem Red & White Rose Bouquet with Box ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Jersey Blooms" />
+                                </span>
+                                <a href='https://newjerseyblooms.com/cdn/shop/products/Valentine_sDay12StemRed_WhiteRoseBouquetWithBox3_2000x.jpg?v=1736875281' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Dozen Red and White Rose Vase">
+                                <img itemprop="contentUrl url" src='https://cdn.idsitnetwork.net/wp-content/uploads/sites/41/2020/07/103642mv23x.jpg' alt='2 Dozen Red and White Rose Vase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dedham Flower Shop" />
+                                </span>
+                                <a href='https://cdn.idsitnetwork.net/wp-content/uploads/sites/41/2020/07/103642mv23x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MFS 50 Rose Bouquet (Red x White) in Maywood, CA | Maggie's Flower Shop">
+                                <img itemprop="contentUrl url" src='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1739807096/vendor/3256/catalog/product/2/0/20230315091658_file_641235ca9bb48_6412366306b0a.jpeg' alt='MFS 50 Rose Bouquet (Red x White) in Maywood, CA | Maggie's Flower Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maggie's Flower Shop" />
+                                </span>
+                                <a href='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1739807096/vendor/3256/catalog/product/2/0/20230315091658_file_641235ca9bb48_6412366306b0a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Red and White Osiria Rose Has Taken the Internet by Storm">
+                                <img itemprop="contentUrl url" src='https://mymodernmet.com/wp/wp-content/uploads/2020/02/osiria-rose-02.jpg' alt='The Red and White Osiria Rose Has Taken the Internet by Storm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Modern Met" />
+                                </span>
+                                <a href='https://mymodernmet.com/wp/wp-content/uploads/2020/02/osiria-rose-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preserved Red and White Roses Arrangement, Eternal Roses, Preserve ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23930435/r/il/e0b2c1/3634149038/il_570xN.3634149038_a1j4.jpg' alt='Preserved Red and White Roses Arrangement, Eternal Roses, Preserve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23930435/r/il/e0b2c1/3634149038/il_570xN.3634149038_a1j4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red roses with white lilies in Oxnard, CA | Casa Blanca Flowers">
+                                <img itemprop="contentUrl url" src='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1641443536/vendor/8010/catalog/product/2/0/20201121043740_file_5fb89994ed09f_5fb89a6049a3b..jpeg' alt='Red roses with white lilies in Oxnard, CA | Casa Blanca Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casa Blanca Flowers" />
+                                </span>
+                                <a href='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1641443536/vendor/8010/catalog/product/2/0/20201121043740_file_5fb89994ed09f_5fb89a6049a3b..jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Roses Images – Browse 1,760,540 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/60/18/23/360_F_60182375_nKrg69dbs2kUVnINszqtRrV2o4jboWhS.jpg' alt='Red And White Roses Images – Browse 1,760,540 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/60/18/23/360_F_60182375_nKrg69dbs2kUVnINszqtRrV2o4jboWhS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Tinted Roses">
+                                <img itemprop="contentUrl url" src='https://flowerexplosion.com/cdn/shop/products/red_and_white_1.png?v=1658386490' alt='Red and White Tinted Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flower Explosion" />
+                                </span>
+                                <a href='https://flowerexplosion.com/cdn/shop/products/red_and_white_1.png?v=1658386490' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

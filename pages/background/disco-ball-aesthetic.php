@@ -1,0 +1,129 @@
+<title>"Illuminate Your Space: Embrace the Disco Ball Aesthetic"</title>
+                    <meta name="description" content="Explore the captivating disco ball aesthetic, a blend of retro charm and modern flair. Perfect for parties or home decor, this style brings joy and vibrant reflections to any space, creating a lively atmosphere that celebrates fun and dance. Dive into the sparkle today!">
+                    <meta name="keywords" content="disco ball aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/disco-ball-aesthetic">
+                            <span itemprop="name">disco ball aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Illuminate Your Space: Embrace the Disco Ball Aesthetic"</h1>
+                <p>The disco ball aesthetic is a vibrant and nostalgic homage to the lively dance scenes of the 70s and 80s. It's characterized by dazzling light reflections, glittery decor, and colorful patterns. This aesthetic captures the spirit of fun and freedom, perfect for parties and celebrations, evoking a sense of joy and movement in every corner of the room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Suwimut 2 Pack Disco Light Mirror Ball, 8 Inches Cool and Fun  Large Silver Hanging Disco Ball with Hanging Ring for Retro Party, Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81sjZU7XBJL.jpg' alt='Amazon.com: Suwimut 2 Pack Disco Light Mirror Ball, 8 Inches Cool and Fun  Large Silver Hanging Disco Ball with Hanging Ring for Retro Party, Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81sjZU7XBJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VMXWLL Vintage Pink Poster Retro Disco Balls-70s 80s Vintage Style Wall Art  Canvas Poster Aesthetic for Preppy Room Living Room Bedroom Playroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71HDkKszEuL._AC_UF894,1000_QL80_.jpg' alt='VMXWLL Vintage Pink Poster Retro Disco Balls-70s 80s Vintage Style Wall Art  Canvas Poster Aesthetic for Preppy Room Living Room Bedroom Playroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71HDkKszEuL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Ceiling">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/0c09276ff13446f29be400e3bc4a302b.jpg?v=1725060727' alt='Disco Ball Ceiling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society6" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/0c09276ff13446f29be400e3bc4a302b.jpg?v=1725060727' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Disco Ball | Aesthetic Room Wall Decor - roomtery">
+                                <img itemprop="contentUrl url" src='https://roomtery.com/cdn/shop/files/danish-pastel-mirror-mushroom-disco-ball-decor-roomtery10.jpg?v=1692121997&width=360' alt='Mushroom Disco Ball | Aesthetic Room Wall Decor - roomtery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="roomtery" />
+                                </span>
+                                <a href='https://roomtery.com/cdn/shop/files/danish-pastel-mirror-mushroom-disco-ball-decor-roomtery10.jpg?v=1692121997&width=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6" Disco Ball">
+                                <img itemprop="contentUrl url" src='http://hazzardatthedisco.com/cdn/shop/files/HATD_Products._6Inch.png?v=1721754906' alt='6" Disco Ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazzard at the Disco" />
+                                </span>
+                                <a href='http://hazzardatthedisco.com/cdn/shop/files/HATD_Products._6Inch.png?v=1721754906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I achieve these reflections off of a disco ball? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-do-i-achieve-these-reflections-off-of-a-disco-ball-v0-y775sus651lc1.jpg?width=640&crop=smart&auto=webp&s=a7f5966f97db5aaae856e06a502050a2465a6ddf' alt='How do I achieve these reflections off of a disco ball? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-do-i-achieve-these-reflections-off-of-a-disco-ball-v0-y775sus651lc1.jpg?width=640&crop=smart&auto=webp&s=a7f5966f97db5aaae856e06a502050a2465a6ddf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball - Silver">
+                                <img itemprop="contentUrl url" src='https://tapestrygirls.com/cdn/shop/products/Silver_800x.png?v=1650593228' alt='Disco Ball - Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tapestry Girls" />
+                                </span>
+                                <a href='https://tapestrygirls.com/cdn/shop/products/Silver_800x.png?v=1650593228' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball. Disco Ball aesthetic. Y2K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/25/4d/d3254d3f60d3932ded78e8940617edfc.jpg' alt='Disco Ball. Disco Ball aesthetic. Y2K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/25/4d/d3254d3f60d3932ded78e8940617edfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Ball poster | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3327519686.5846/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Pink Disco Ball poster | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3327519686.5846/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phantom Dynamics 20" Disco Mirror Ball w/ Glass Tiles (Silver ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-if8arfen/images/stencil/1280x1280/products/10855/26899/Pink-Theme-38-scaled__16335.1679115307.jpg?c=2' alt='Phantom Dynamics 20" Disco Mirror Ball w/ Glass Tiles (Silver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phantom Dynamics" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-if8arfen/images/stencil/1280x1280/products/10855/26899/Pink-Theme-38-scaled__16335.1679115307.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

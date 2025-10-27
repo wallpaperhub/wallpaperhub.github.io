@@ -1,0 +1,129 @@
+<title>Cool Helluva Boss Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a fantastic selection of Helluva Boss phone wallpapers! Perfect for fans wanting to personalize their devices with high-quality images of their favorite characters. Download now to bring a touch of the Helluva Boss universe to your mobile screen in style!">
+                    <meta name="keywords" content="helluva boss wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/helluva-boss-wallpaper-phone">
+                            <span itemprop="name">helluva boss wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Helluva Boss Phone Wallpapers for Fans</h1>
+                <p>Elevate your phone's aesthetic with stunning Helluva Boss wallpapers! Discover a vibrant collection featuring your favorite characters and scenes from the popular animated series. Perfect for fans who want to show their love for the show, these wallpapers will transform your device's look and keep you connected to the Helluva Boss universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which should be my lock screen : r/HelluvaBoss">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mkcf4li7rry71.jpg?width=720&format=pjpg&auto=webp&s=6ee3a76459aadda11e1114c632be9d8b3fb788d2' alt='Which should be my lock screen : r/HelluvaBoss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mkcf4li7rry71.jpg?width=720&format=pjpg&auto=webp&s=6ee3a76459aadda11e1114c632be9d8b3fb788d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAYILI Helluva Boss Poster Art Wallpaper (6) Picture Print Wall Art Poster  Painting Canvas Posters Artworks Gift Idea Room Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6128Rz4Q4eL._AC_UF894,1000_QL80_.jpg' alt='MAYILI Helluva Boss Poster Art Wallpaper (6) Picture Print Wall Art Poster  Painting Canvas Posters Artworks Gift Idea Room Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6128Rz4Q4eL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD helluva boss wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/237/408/HD-wallpaper-helluva-boss-imp-hazbin-hotel-helluva-boss.jpg' alt='HD helluva boss wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/237/408/HD-wallpaper-helluva-boss-imp-hazbin-hotel-helluva-boss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just some cool wallpapers i found : r/HelluvaBoss">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-some-cool-wallpapers-i-found-v0-vmjacn7dph991.jpg?width=640&crop=smart&auto=webp&s=4984b7932c01f64aa7feb5c27262b170c1902654' alt='Just some cool wallpapers i found : r/HelluvaBoss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-some-cool-wallpapers-i-found-v0-vmjacn7dph991.jpg?width=640&crop=smart&auto=webp&s=4984b7932c01f64aa7feb5c27262b170c1902654' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helluva Boss Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/eb/0e/70eb0eb77a4d2d2f5975e77862158934.jpg' alt='Helluva Boss Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/eb/0e/70eb0eb77a4d2d2f5975e77862158934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨Calis✨ on X: "Continuing on my contribution for EP7, I got to ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FDIDM6iXIAMC8D7?format=jpg&name=4096x4096' alt='✨Calis✨ on X: "Continuing on my contribution for EP7, I got to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2467">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FDIDM6iXIAMC8D7?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helluva Boss, red, millie, blitzo, asesinos, demonios, moxxie, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/424/149/HD-wallpaper-helluva-boss-red-millie-blitzo-asesinos-demonios-moxxie.jpg' alt='Helluva Boss, red, millie, blitzo, asesinos, demonios, moxxie, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/424/149/HD-wallpaper-helluva-boss-red-millie-blitzo-asesinos-demonios-moxxie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helluva Boss Poster Art Wallpaper (10) Artworks Canvas Poster Room  Aesthetic Wall Art Prints Home Modern Decor Gifts Framed-unframed ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LXPwkP7aL._AC_UF894,1000_QL80_.jpg' alt='Helluva Boss Poster Art Wallpaper (10) Artworks Canvas Poster Room  Aesthetic Wall Art Prints Home Modern Decor Gifts Framed-unframed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LXPwkP7aL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helluva Boss Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/6b/e0/9a6be0353541ad7a3a80e1d76c344abe.jpg' alt='Helluva Boss Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/6b/e0/9a6be0353541ad7a3a80e1d76c344abe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Helluva Boss and Hazbin Hotel wallpaper for iPhone and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ir94wiq1xrb81.jpg' alt='My favorite Helluva Boss and Hazbin Hotel wallpaper for iPhone and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ir94wiq1xrb81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

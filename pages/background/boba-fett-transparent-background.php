@@ -1,0 +1,129 @@
+<title>Boba Fett Transparent Background Images for Creative Projects</title>
+                    <meta name="description" content="Find high-quality Boba Fett transparent background images perfect for graphic design, fan art, and more. Easily integrate these versatile images into your projects for a striking visual impact. Explore our collection and elevate your creative works with the iconic bounty hunter!">
+                    <meta name="keywords" content="boba fett transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boba-fett-transparent-background">
+                            <span itemprop="name">boba fett transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boba Fett Transparent Background Images for Creative Projects</h1>
+                <p>Discover the exciting world of Boba Fett with stunning images featuring a transparent background! Perfect for graphic design, fan art, or simply showcasing your favorite Mandalorian bounty hunter, these images provide versatility and style. Explore creative possibilities today and bring Boba Fett to life in your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett - Transparent! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/ddtcn7m-53d8a579-a494-4532-b52d-3c3b7ec66ced.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGR0Y243bS01M2Q4YTU3OS1hNDk0LTQ1MzItYjUyZC0zYzNiN2VjNjZjZWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NibJoLABV5nbVs8nNzcPfSHbvn_ymDxhGb4C8NkZ_Qo' alt='Boba Fett - Transparent! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/ddtcn7m-53d8a579-a494-4532-b52d-3c3b7ec66ced.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGR0Y243bS01M2Q4YTU3OS1hNDk0LTQ1MzItYjUyZC0zYzNiN2VjNjZjZWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NibJoLABV5nbVs8nNzcPfSHbvn_ymDxhGb4C8NkZ_Qo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett - Transparent! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/dea5o1l-74fae8c8-5f7b-433a-80fc-2fc6feb7678b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGVhNW8xbC03NGZhZThjOC01ZjdiLTQzM2EtODBmYy0yZmM2ZmViNzY3OGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k5e81jsuHi9cV-Y0owd292EvpaypxSXY7uq5woi5KQs' alt='Boba Fett - Transparent! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/dea5o1l-74fae8c8-5f7b-433a-80fc-2fc6feb7678b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGVhNW8xbC03NGZhZThjOC01ZjdiLTQzM2EtODBmYy0yZmM2ZmViNzY3OGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k5e81jsuHi9cV-Y0owd292EvpaypxSXY7uq5woi5KQs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Boba Fett Transparent Background PNG - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/boba-fett-transparent-background-png--comdlpng6958224.jpg' alt='Free: Boba Fett Transparent Background PNG - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/boba-fett-transparent-background-png--comdlpng6958224.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett PNG by Gasa979 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22533fb0-3db2-4d45-8675-4aaf09a2027b/dcancc4-160e012b-a72e-4199-b27f-8b5ae3260d19.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNTMzZmIwLTNkYjItNGQ0NS04Njc1LTRhYWYwOWEyMDI3YlwvZGNhbmNjNC0xNjBlMDEyYi1hNzJlLTQxOTktYjI3Zi04YjVhZTMyNjBkMTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D44bR0LRzH48n09t4XSIpVyqt4P4ZpwIo3Shb1vH3yY' alt='Boba Fett PNG by Gasa979 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="1127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22533fb0-3db2-4d45-8675-4aaf09a2027b/dcancc4-160e012b-a72e-4199-b27f-8b5ae3260d19.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNTMzZmIwLTNkYjItNGQ0NS04Njc1LTRhYWYwOWEyMDI3YlwvZGNhbmNjNC0xNjBlMDEyYi1hNzJlLTQxOTktYjI3Zi04YjVhZTMyNjBkMTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D44bR0LRzH48n09t4XSIpVyqt4P4ZpwIo3Shb1vH3yY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Pro 2 Boba Fett, Transparent Background (Cropped) - Image ...">
+                                <img itemprop="contentUrl url" src='https://www.bobafettfanclub.com/tn/640x640/multimedia/galleries/albums/userpics/10001/fathead-boba-fett-waist-up.png' alt='Pre-Pro 2 Boba Fett, Transparent Background (Cropped) - Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boba Fett Fan Club" />
+                                </span>
+                                <a href='https://www.bobafettfanclub.com/tn/640x640/multimedia/galleries/albums/userpics/10001/fathead-boba-fett-waist-up.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett (Mandalorian) - Transparent! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/devffpi-6fe167b4-61d7-47b6-abc8-bfcf56447102.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGV2ZmZwaS02ZmUxNjdiNC02MWQ3LTQ3YjYtYWJjOC1iZmNmNTY0NDcxMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GrZ3nJCjux5UbNsklOfndy6wilOqKCKqQiDUPaVnb28' alt='Boba Fett (Mandalorian) - Transparent! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/devffpi-6fe167b4-61d7-47b6-abc8-bfcf56447102.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGV2ZmZwaS02ZmUxNjdiNC02MWQ3LTQ3YjYtYWJjOC1iZmNmNTY0NDcxMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GrZ3nJCjux5UbNsklOfndy6wilOqKCKqQiDUPaVnb28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/12/Star-Wars-Boba-Fett-PNG-Transparent-Image.png' alt='Boba Fett PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/12/Star-Wars-Boba-Fett-PNG-Transparent-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett Anakin Skywalker Han Solo Action & Toy Figures Hot Toys ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/766/742/png-clipart-boba-fett-anakin-skywalker-han-solo-action-toy-figures-hot-toys-limited-action-figure-fictional-character-anakin-skywalker.png' alt='Boba Fett Anakin Skywalker Han Solo Action & Toy Figures Hot Toys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/766/742/png-clipart-boba-fett-anakin-skywalker-han-solo-action-toy-figures-hot-toys-limited-action-figure-fictional-character-anakin-skywalker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett - The Book Of Boba Fett [Transparent] by Datmentalgamer ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d0f2b10-ec12-44df-bc93-4c30630e13ca/deykiw8-e663f120-e4b0-4d54-bade-0098667c5d4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZkMGYyYjEwLWVjMTItNDRkZi1iYzkzLTRjMzA2MzBlMTNjYVwvZGV5a2l3OC1lNjYzZjEyMC1lNGIwLTRkNTQtYmFkZS0wMDk4NjY3YzVkNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gg60j10Ef_yjsGeFA62597Pk5VkltaB4eyqVUF_r0X0' alt='Boba Fett - The Book Of Boba Fett [Transparent] by Datmentalgamer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d0f2b10-ec12-44df-bc93-4c30630e13ca/deykiw8-e663f120-e4b0-4d54-bade-0098667c5d4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZkMGYyYjEwLWVjMTItNDRkZi1iYzkzLTRjMzA2MzBlMTNjYVwvZGV5a2l3OC1lNjYzZjEyMC1lNGIwLTRkNTQtYmFkZS0wMDk4NjY3YzVkNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gg60j10Ef_yjsGeFA62597Pk5VkltaB4eyqVUF_r0X0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Fett PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/9/Boba-Fett-PNG-Images.png' alt='Boba Fett PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="1537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/9/Boba-Fett-PNG-Images.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

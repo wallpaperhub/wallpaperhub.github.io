@@ -1,0 +1,129 @@
+<title>Stunning Half Blue Half White Backgrounds for Modern Design</title>
+                    <meta name="description" content="Discover the beauty of half blue half white backgrounds for your design projects. Perfect for branding and social media, this vibrant color scheme enhances visual appeal and creates a modern touch in any setting. Boost your graphics with this eye-catching dual-toned design!">
+                    <meta name="keywords" content="half blue half white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/half-blue-half-white-background">
+                            <span itemprop="name">half blue half white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Half Blue Half White Backgrounds for Modern Design</h1>
+                <p>A half blue half white background creates a striking visual contrast that can enhance any design. It adds a modern, fresh feel to graphics, making elements pop and catching the viewer's eye. This unique color scheme is perfect for branding, social media graphics, or artistic presentations, offering versatility and a clean aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Blue White Acrylic Sign Background Stock Photo 1349745218 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/half-blue-white-acrylic-sign-260nw-1349745218.jpg' alt='Half Blue White Acrylic Sign Background Stock Photo 1349745218 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/half-blue-white-acrylic-sign-260nw-1349745218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background White Blue Half Blue Half Stock Photo 1682741887 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/background-white-blue-half-260nw-1682741887.jpg' alt='Background White Blue Half Blue Half Stock Photo 1682741887 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/background-white-blue-half-260nw-1682741887.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Blue Half White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/watercolor-texture-background_24972-953.jpg' alt='Half Blue Half White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/watercolor-texture-background_24972-953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Blue Half White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blue-white-painting-white-blue-striped-wall_943629-29620.jpg' alt='Half Blue Half White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blue-white-painting-white-blue-striped-wall_943629-29620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | light blue and white background">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/37/3794efb28f686ddbd7deba7a3351c267_t.jpeg' alt='Free Photos | light blue and white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/37/3794efb28f686ddbd7deba7a3351c267_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Blue Half White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/watercolor-texture-background_24972-964.jpg' alt='Half Blue Half White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/watercolor-texture-background_24972-964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Color Paper with Blue and White Overlap on the Floor and Split ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/two-color-paper-blue-white-overlap-floor-split-half-image-background-140178019.jpg' alt='Two Color Paper with Blue and White Overlap on the Floor and Split ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/two-color-paper-blue-white-overlap-floor-split-half-image-background-140178019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall background painted half blue and half white. Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/00/23/58/1000_F_200235883_RtApX8Mk2LMMuByiShttHujPcYZadCTu.jpg' alt='Wall background painted half blue and half white. Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/00/23/58/1000_F_200235883_RtApX8Mk2LMMuByiShttHujPcYZadCTu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Texture of craft white and light blue paper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/texture-craft-white-light-blue-paper-background-half-two-colors-vintage-cerulean-cardboard_113767-7142.jpg' alt='Premium Photo | Texture of craft white and light blue paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/texture-craft-white-light-blue-paper-background-half-two-colors-vintage-cerulean-cardboard_113767-7142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half White and Blue Color Wallpaper Stock Image - Image of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/half-white-blue-color-wallpaper-rough-surface-texture-108753077.jpg' alt='Half White and Blue Color Wallpaper Stock Image - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/half-white-blue-color-wallpaper-rough-surface-texture-108753077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

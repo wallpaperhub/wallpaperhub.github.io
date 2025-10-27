@@ -1,0 +1,129 @@
+<title>Vibrant Cyberpunk Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the ultimate collection of cyberpunk wallpapers for iPhone. Elevate your device with striking visuals that embrace neon lights and futuristic vibes. Perfect for fans of sci-fi and digital art, these wallpapers will showcase your unique style and add a modern edge to your phone.">
+                    <meta name="keywords" content="cyberpunk wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cyberpunk-wallpaper-iphone">
+                            <span itemprop="name">cyberpunk wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Cyberpunk Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning cyberpunk wallpapers that merge neon aesthetics with futuristic allure. Explore vibrant cityscapes, cybernetic designs, and dystopian themes that bring your device to life. Ideal for fans of sci-fi and digital art, these wallpapers will make a bold statement on your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/retro-night-city-cyberpunk-2077-iphone-pt2hd8kjnuuapxn3.webp' alt='Retro Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/retro-night-city-cyberpunk-2077-iphone-pt2hd8kjnuuapxn3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/futuristic-night-city-cyberpunk-2077-iphone-y2lkcj3jnflzm5un.jpg' alt='Futuristic Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/futuristic-night-city-cyberpunk-2077-iphone-y2lkcj3jnflzm5un.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphics & Tech">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1d/4a/5c/1d4a5c0757427225244aca8d22fb7833.jpg' alt='Graphics & Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1d/4a/5c/1d4a5c0757427225244aca8d22fb7833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper for phone - Futuristic Cyberpunk Street - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEikP6Ztga44XpCZi1FCpIYGNgM6hgiotfMluO7cgWGNjIBOrOq5sGv0ix9YqlWSkQ0d2wmHfxdApM1zdJm0RGHpNLBZRMqmNEZIzYBt_490BEmnwnxWOletdBxrYHXNufAHWu97MbdeWFFMzkArE05LH8U5IQ_L8cSpwU5LrCar4R9xWkIWy7RYNPQXRQ=w1600' alt='HD Wallpaper for phone - Futuristic Cyberpunk Street - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEikP6Ztga44XpCZi1FCpIYGNgM6hgiotfMluO7cgWGNjIBOrOq5sGv0ix9YqlWSkQ0d2wmHfxdApM1zdJm0RGHpNLBZRMqmNEZIzYBt_490BEmnwnxWOletdBxrYHXNufAHWu97MbdeWFFMzkArE05LH8U5IQ_L8cSpwU5LrCar4R9xWkIWy7RYNPQXRQ=w1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some iphone wallpapers for edgerunners! : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qrvgi6hpfvr91.png?width=828&format=png&auto=webp&s=d0e7d25a817e431feac0ddb2f0517807c36c0d5f' alt='made some iphone wallpapers for edgerunners! : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qrvgi6hpfvr91.png?width=828&format=png&auto=webp&s=d0e7d25a817e431feac0ddb2f0517807c36c0d5f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 AMAZING CYBERPUNK WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/32/76/14/327614b0069a9af2db242a013c5c8c7b.png' alt='17 AMAZING CYBERPUNK WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/32/76/14/327614b0069a9af2db242a013c5c8c7b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Cyberpunk Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/26950524782339283-68196919824941764.webp' alt='Most Popular Cyberpunk Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/26950524782339283-68196919824941764.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/futuristic-night-city-cyberpunk-2077-iphone-4fqb9y7jwz2vkd6i.jpg' alt='Futuristic Night City Cyberpunk 2077 Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/futuristic-night-city-cyberpunk-2077-iphone-4fqb9y7jwz2vkd6i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Samurai Glitching Cyberpunk iPhone X Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/samurai-glitching-cyberpunk-iphone-x-uq7diyjrnn2toq06.jpg' alt='Download Samurai Glitching Cyberpunk iPhone X Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/samurai-glitching-cyberpunk-iphone-x-uq7diyjrnn2toq06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/4/134536-1242x2688-iphone-hd-cyberpunk-2077-wallpaper-image.jpg' alt='Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/4/134536-1242x2688-iphone-hd-cyberpunk-2077-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

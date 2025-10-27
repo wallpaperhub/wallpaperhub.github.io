@@ -1,0 +1,129 @@
+<title>Do Collections Appear on Background Checks?</title>
+                    <meta name="description" content="Discover if collections show up on background checks. Understand how they can impact your rental applications, finances, and job prospects, and learn tips for checking and improving your credit report. Stay informed to make better financial decisions!">
+                    <meta name="keywords" content="do collections show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-collections-show-up-on-background-check">
+                            <span itemprop="name">do collections show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Collections Appear on Background Checks?</h1>
+                <p>Your credit collections can show up on background checks, particularly when renting a home, applying for loans, or when employers conduct background assessments. These records indicate financial responsibility and may impact decisions. It's advisable to check your credit report regularly to manage and address any collections that appear.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Check | Rental Credit Report for Landlords">
+                                <img itemprop="contentUrl url" src='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' alt='Tenant Background Check | Rental Credit Report for Landlords'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1149">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Apartment Owners Association" />
+                                </span>
+                                <a href='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks with Credit Reports">
+                                <img itemprop="contentUrl url" src='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' alt='Employment Background Checks with Credit Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAA Credit Screening & Background Checks" />
+                                </span>
+                                <a href='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on a Background Check? - Spendmenot">
+                                <img itemprop="contentUrl url" src='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' alt='What Shows Up on a Background Check? - Spendmenot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spendmenot" />
+                                </span>
+                                <a href='https://spendmenot.com/wp-content/uploads/2021/10/What-Shows-Up-on-a-Background-Check-768x465-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Report | Background Check for Tenants">
+                                <img itemprop="contentUrl url" src='https://www.turbotenant.com/wp-content/uploads/2023/07/Screening-UI-nodots2-768x768.png' alt='Tenant Screening Report | Background Check for Tenants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TurboTenant" />
+                                </span>
+                                <a href='https://www.turbotenant.com/wp-content/uploads/2023/07/Screening-UI-nodots2-768x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check on a Tenant: A Step-by-Step Guide - Azibo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777c50fefada7/66d0c559101b886e9e9b677b_rental-applications-cta-redesign-p-500.png' alt='How to Do a Background Check on a Tenant: A Step-by-Step Guide - Azibo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777c50fefada7/66d0c559101b886e9e9b677b_rental-applications-cta-redesign-p-500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Policy: What to Include + Free Template">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' alt='Background Check Policy: What to Include + Free Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check? [And How To Check Your Record]">
+                                <img itemprop="contentUrl url" src='https://lh7-rt.googleusercontent.com/docsz/AD_4nXcavCAaThJPF5vKVt0Jx7lUDg2xdvm_q02YneP6xT179StykeZW_xlhIrkpFhg_jF4BcHhxxL-LeiJJDcscizYJ6KeYWZggoDko0vle6B7QFddz7Qn_ok_aodqk8sZOh5x5UlBRjQ?key=6KAIRug_XAPZS547ggqf2ec0' alt='How to Do a Background Check? [And How To Check Your Record]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://lh7-rt.googleusercontent.com/docsz/AD_4nXcavCAaThJPF5vKVt0Jx7lUDg2xdvm_q02YneP6xT179StykeZW_xlhIrkpFhg_jF4BcHhxxL-LeiJJDcscizYJ6KeYWZggoDko0vle6B7QFddz7Qn_ok_aodqk8sZOh5x5UlBRjQ?key=6KAIRug_XAPZS547ggqf2ec0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

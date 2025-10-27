@@ -1,0 +1,129 @@
+<title>Stunning MTG Art Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a collection of breathtaking MTG art wallpapers that bring the magic of the game to your screens. Perfect for fans and enthusiasts, these wallpapers feature iconic characters and stunning illustrations. Download now to enhance your device with the beauty of Magic: The Gathering!">
+                    <meta name="keywords" content="mtg art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mtg-art-wallpaper">
+                            <span itemprop="name">mtg art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning MTG Art Wallpapers for Your Devices</h1>
+                <p>Transform your digital space with stunning MTG art wallpapers. Immerse yourself in the enchanting world of Magic: The Gathering, showcasing iconic creatures, landscapes, and spells. Perfect for fans who appreciate artistry and want to elevate their devices. Download your favorite MTG artwork and unleash your passion today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a 3440x1440p wallpaper collection of MTG card art that I ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jkg8pUW3tb-io-83uQU46VJLQlC92ZAvEpbPlUDU-co.jpg?auto=webp&s=822151ad423474960358232e132a9f91d2ccef60' alt='Here is a 3440x1440p wallpaper collection of MTG card art that I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jkg8pUW3tb-io-83uQU46VJLQlC92ZAvEpbPlUDU-co.jpg?auto=webp&s=822151ad423474960358232e132a9f91d2ccef60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lost Wallpapers | Magic: The Gathering">
+                                <img itemprop="contentUrl url" src='http://media.wizards.com/images/magic/daily/wallpapers/Gruul_Wallpaper_1920x1080.jpg' alt='The Lost Wallpapers | Magic: The Gathering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic: The Gathering - Wizards of the Coast" />
+                                </span>
+                                <a href='http://media.wizards.com/images/magic/daily/wallpapers/Gruul_Wallpaper_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted to share a wallpaper I made celebrating MTG's 25th ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ab4i3cocqmvz.jpg' alt='Wanted to share a wallpaper I made celebrating MTG's 25th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ab4i3cocqmvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://draftsim.com/wp-content/uploads/2022/06/Gods-Demigods-Constellation-%E2%80%93-Jason-A.-Engle-1-1024x606.jpg' alt='80 of the Most Beautiful Magic Desktop Backgrounds and Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Draftsim" />
+                                </span>
+                                <a href='https://draftsim.com/wp-content/uploads/2022/06/Gods-Demigods-Constellation-%E2%80%93-Jason-A.-Engle-1-1024x606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Magic: The Gathering Arena Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/e2/21/e2e221f92e0142f2cbff6d6f7e52371e.jpg' alt='Awesome Magic: The Gathering Arena Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/e2/21/e2e221f92e0142f2cbff6d6f7e52371e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lost Wallpapers | Magic: The Gathering">
+                                <img itemprop="contentUrl url" src='http://media.wizards.com/images/magic/daily/wallpapers/Izzet_Wallpaper_2560x1440.jpg' alt='The Lost Wallpapers | Magic: The Gathering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic: The Gathering - Wizards of the Coast" />
+                                </span>
+                                <a href='http://media.wizards.com/images/magic/daily/wallpapers/Izzet_Wallpaper_2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mtg Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mtg-rare-card-l4uaqsl1ef1b9eo0.jpg' alt='100+] Mtg Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mtg-rare-card-l4uaqsl1ef1b9eo0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic: The Gathering on X: "(Sean) The #MTG Wallpaper of the Week ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Bu8blnTCYAE0a2r.jpg:large' alt='Magic: The Gathering on X: "(Sean) The #MTG Wallpaper of the Week ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Bu8blnTCYAE0a2r.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Man Made Magic: The Gathering Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/744/74469.jpg' alt='Download Man Made Magic: The Gathering Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/744/74469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abaddon the Despoiler MtG Art from Warhammer 40000 Set by Johan ...">
+                                <img itemprop="contentUrl url" src='https://www.artofmtg.com/wp-content/uploads/2022/12/Abaddon-the-Despoiler-2-Warhammer-40000-MtG-Art.jpg' alt='Abaddon the Despoiler MtG Art from Warhammer 40000 Set by Johan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art of MTG" />
+                                </span>
+                                <a href='https://www.artofmtg.com/wp-content/uploads/2022/12/Abaddon-the-Despoiler-2-Warhammer-40000-MtG-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

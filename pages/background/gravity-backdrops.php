@@ -1,0 +1,129 @@
+<title>Explore Stunning Gravity Backdrops for Art & Photography</title>
+                    <meta name="description" content="Discover the beauty of gravity backdrops that enhance your artistic creations. Perfect for photographers and artists, these visually striking backgrounds add depth and intrigue, making your work stand out. Elevate your creative projects with unique gravitational themes and captivating perspectives.">
+                    <meta name="keywords" content="gravity backdrops">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gravity-backdrops">
+                            <span itemprop="name">gravity backdrops</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Gravity Backdrops for Art & Photography</h1>
+                <p>Gravity backdrops create a stunning visual effect by simulating gravitational interactions in art and photography. These captivating backgrounds can enhance the depth and perception of your work, offering unique perspectives that draw viewers in. Perfect for creatives looking to explore themes of weightlessness and dynamics in their projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Backdrops Cold Gray Strong Texture XXL">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/3009/11718/mocr4xfkp40vfpmlips0__87894.1702576134.jpg?c=1' alt='Gravity Backdrops Cold Gray Strong Texture XXL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravity Backdrops" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/3009/11718/mocr4xfkp40vfpmlips0__87894.1702576134.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Backdrops Mid Gray Strong Texture XXXL">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/2940/12013/aqhbj8fgt1zrywo38hgv__50249.1702576106.jpg?c=1' alt='Gravity Backdrops Mid Gray Strong Texture XXXL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravity Backdrops" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/2940/12013/aqhbj8fgt1zrywo38hgv__50249.1702576106.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Gravity Backdrops Hand Painted Classic Collection Canvas Strong  Texture Backdrop, 8.9x16.4', Cold Gray : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51pI-WffqML.jpg' alt='Amazon.com: Gravity Backdrops Hand Painted Classic Collection Canvas Strong  Texture Backdrop, 8.9x16.4', Cold Gray : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51pI-WffqML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Backdrops Dark Gray Strong Texture XXL (SN: 969)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/4933/9919/yy7pesppjx5iqzmvgzu1__57770.1702577419.jpg?c=1' alt='Gravity Backdrops Dark Gray Strong Texture XXL (SN: 969)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravity Backdrops" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/4933/9919/yy7pesppjx5iqzmvgzu1__57770.1702577419.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GravityBackDrops - Home">
+                                <img itemprop="contentUrl url" src='https://www.gravitybackdrops.com/wp-content/uploads/2022/02/novv.jpg' alt='GravityBackDrops - Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.gravitybackdrops.com" />
+                                </span>
+                                <a href='https://www.gravitybackdrops.com/wp-content/uploads/2022/02/novv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Years with Gravity Backdrops! - COCO Creative Studio">
+                                <img itemprop="contentUrl url" src='https://www.josejeuland.com/wp-content/uploads/2022/06/Gravity-Backdrops-Canvas-Bleu-Photograpy.jpg' alt='Four Years with Gravity Backdrops! - COCO Creative Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jose Jeuland" />
+                                </span>
+                                <a href='https://www.josejeuland.com/wp-content/uploads/2022/06/Gravity-Backdrops-Canvas-Bleu-Photograpy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new Gravity Backdrops">
+                                <img itemprop="contentUrl url" src='https://www.stefantell.se/blog/wp-content/uploads/2017/03/gravity-backdrops-example-colours-patterns.jpg' alt='My new Gravity Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stefan Tell" />
+                                </span>
+                                <a href='https://www.stefantell.se/blog/wp-content/uploads/2017/03/gravity-backdrops-example-colours-patterns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Years with Gravity Backdrops! - COCO Creative Studio">
+                                <img itemprop="contentUrl url" src='https://www.josejeuland.com/wp-content/uploads/2022/06/Gravity-Backdrops-Canvas-Industrial-Drak-Photograpy.jpg' alt='Four Years with Gravity Backdrops! - COCO Creative Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1359">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jose Jeuland" />
+                                </span>
+                                <a href='https://www.josejeuland.com/wp-content/uploads/2022/06/Gravity-Backdrops-Canvas-Industrial-Drak-Photograpy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Backdrops Cold Gray Mid Texture SM (SN: 6084)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/4225/8523/lhdhmao58674q5ytz8wt__34338.1702577300.jpg?c=1' alt='Gravity Backdrops Cold Gray Mid Texture SM (SN: 6084)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravity Backdrops" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-cfuvq2rl7d/images/stencil/3000x3000/products/4225/8523/lhdhmao58674q5ytz8wt__34338.1702577300.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GravityBackDrops - Home">
+                                <img itemprop="contentUrl url" src='https://www.gravitybackdrops.com/wp-content/uploads/2022/03/Home_3.webp' alt='GravityBackDrops - Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.gravitybackdrops.com" />
+                                </span>
+                                <a href='https://www.gravitybackdrops.com/wp-content/uploads/2022/03/Home_3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

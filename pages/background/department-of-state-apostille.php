@@ -1,0 +1,129 @@
+<title>Apostille Services by the Department of State</title>
+                    <meta name="description" content="Get your documents ready for international use with the Department of State's apostille services. Ensure official recognition abroad for various public documents swiftly and easily.">
+                    <meta name="keywords" content="department of state apostille">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/department-of-state-apostille">
+                            <span itemprop="name">department of state apostille</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Apostille Services by the Department of State</h1>
+                <p>The Department of State apostille facilitates the authentication of public documents for international use. It ensures that documents such as birth certificates, diplomas, and court orders are recognized abroad, making them legally valid. This process streamlines foreign transactions and is essential for official matters that cross borders.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Department of State Apostille|US Department of State Apostille|FBI">
+                                <img itemprop="contentUrl url" src='https://www.apostilletexas.org/wp-content/uploads/2020/05/United-States-Department-of-State-Federal-Authentication-Certificate-Example.jpg' alt='Department of State Apostille|US Department of State Apostille|FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostille Texas" />
+                                </span>
+                                <a href='https://www.apostilletexas.org/wp-content/uploads/2020/05/United-States-Department-of-State-Federal-Authentication-Certificate-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Department of State Apostille|US Department of State Apostille|FBI">
+                                <img itemprop="contentUrl url" src='https://www.apostilletexas.org/wp-content/uploads/2020/05/U.S-Department-Of-State-Federal-Apostille-Certificate-Example.jpg' alt='Department of State Apostille|US Department of State Apostille|FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostille Texas" />
+                                </span>
+                                <a href='https://www.apostilletexas.org/wp-content/uploads/2020/05/U.S-Department-Of-State-Federal-Apostille-Certificate-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get an apostille. Step by step instructions">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/644a147713c4d7ba6cd169ad/64631cb187fffe29c1e1a61d_apostille-step.jpg' alt='How to get an apostille. Step by step instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Mobile Notary" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/644a147713c4d7ba6cd169ad/64631cb187fffe29c1e1a61d_apostille-step.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connecticut Apostille | Connecticut SOS Apostille - US Apostille Guide">
+                                <img itemprop="contentUrl url" src='https://www.usapostille.org/Imgs/StatesStamp/connecticut.png' alt='Connecticut Apostille | Connecticut SOS Apostille - US Apostille Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Document Apostille and Legalization Guide" />
+                                </span>
+                                <a href='https://www.usapostille.org/Imgs/StatesStamp/connecticut.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Department of State Apostille – Apostille Services">
+                                <img itemprop="contentUrl url" src='https://www.apostilleservices.com/wp-content/uploads/2019/07/US-Department-of-State-Apostille.jpg' alt='US Department of State Apostille – Apostille Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostille Services" />
+                                </span>
+                                <a href='https://www.apostilleservices.com/wp-content/uploads/2019/07/US-Department-of-State-Apostille.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Need an Apostille for an FBI Background Check - US Authentication ...">
+                                <img itemprop="contentUrl url" src='https://www.usauthentication.com/images/apostille-certification-dc_lg.jpg' alt='Need an Apostille for an FBI Background Check - US Authentication ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Authentication services" />
+                                </span>
+                                <a href='https://www.usauthentication.com/images/apostille-certification-dc_lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expedited Federal Apostille Service for FBI Background Check (In-Person  Drop Off in DC)">
+                                <img itemprop="contentUrl url" src='https://www.sespanish.com/wp-content/uploads/2020/12/apostille-us-department-of-state.jpg' alt='Expedited Federal Apostille Service for FBI Background Check (In-Person  Drop Off in DC)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southeast Spanish, Inc." />
+                                </span>
+                                <a href='https://www.sespanish.com/wp-content/uploads/2020/12/apostille-us-department-of-state.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get an Apostille in NYC - Ultimate Guide | The Translation ...">
+                                <img itemprop="contentUrl url" src='https://thetranslationcompany.com/wp-content/uploads/2011/08/new-york-apostille-example.png' alt='How to Get an Apostille in NYC - Ultimate Guide | The Translation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Translation Company" />
+                                </span>
+                                <a href='https://thetranslationcompany.com/wp-content/uploads/2011/08/new-york-apostille-example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get an Apostille in the United States">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/80832f_8afe098b388242a29683259ddb23a56e~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_8afe098b388242a29683259ddb23a56e~mv2.jpg' alt='How To Get an Apostille in the United States'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office Of Parviz Malakouti" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/80832f_8afe098b388242a29683259ddb23a56e~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_8afe098b388242a29683259ddb23a56e~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apostille Services USA | Apostille Document Service">
+                                <img itemprop="contentUrl url" src='https://wcss.com/wp-content/uploads/2020/09/MD-SOS-APOSTILLE-thin-border-scaled.jpg' alt='Apostille Services USA | Apostille Document Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2303">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington Consular Services" />
+                                </span>
+                                <a href='https://wcss.com/wp-content/uploads/2020/09/MD-SOS-APOSTILLE-thin-border-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

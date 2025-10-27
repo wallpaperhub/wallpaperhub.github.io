@@ -1,0 +1,129 @@
+<title>Vibrant 4K Wallpapers: Transform Your Screen</title>
+                    <meta name="description" content="Explore our collection of vibrant 4K wallpapers designed to elevate your screens. From breathtaking landscapes to vivid abstract art, find the perfect backdrop that suits your style. Download your favorites today and enjoy stunning visuals on all your devices!">
+                    <meta name="keywords" content="colorful 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/colorful-4k-wallpaper">
+                            <span itemprop="name">colorful 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Wallpapers: Transform Your Screen</h1>
+                <p>Discover the beauty of colorful 4K wallpapers that transform your screens with vibrant hues and stunning details. Perfect for desktops and mobiles, these high-resolution images add a lively touch to any background. Explore a variety of themes, from nature to abstract art, and give your device a fresh and energetic look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Wallpaper Photos, Download The BEST Free Colorful ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?cs=srgb&dl=pexels-mccutcheon-1566909.jpg&fm=jpg' alt='Colorful Wallpaper Photos, Download The BEST Free Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?cs=srgb&dl=pexels-mccutcheon-1566909.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Colorful 4k Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/colorful-4k-phone-3d6qiwtvlbe1gsp5.jpg' alt='100+] Colorful 4k Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/colorful-4k-phone-3d6qiwtvlbe1gsp5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful background Wallpaper 4K, Texture, Multicolor, Orange">
+                                <img itemprop="contentUrl url" src='http://4kwallpapers.com/images/walls/thumbs_2t/3104.jpg' alt='Colorful background Wallpaper 4K, Texture, Multicolor, Orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='http://4kwallpapers.com/images/walls/thumbs_2t/3104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Photos, Download The BEST Free Colorful Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1428169/pexels-photo-1428169.jpeg?cs=srgb&dl=pexels-mccutcheon-1428169.jpg&fm=jpg' alt='Colorful Photos, Download The BEST Free Colorful Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3744">
+                                <meta itemprop="height" content="5616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1428169/pexels-photo-1428169.jpeg?cs=srgb&dl=pexels-mccutcheon-1428169.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K iPhone Colors Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4324870.jpg' alt='4K iPhone Colors Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4324870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Smash, bright, colorful, colour, mix, pretty, rainbows, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/993/872/HD-wallpaper-color-smash-bright-colorful-colour-mix-pretty-rainbows.jpg' alt='Color Smash, bright, colorful, colour, mix, pretty, rainbows, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/993/872/HD-wallpaper-color-smash-bright-colorful-colour-mix-pretty-rainbows.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="168,212 Colors 4k Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/colourful-smoke-4k-wall-paper-600nw-1531304273.jpg' alt='168,212 Colors 4k Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/colourful-smoke-4k-wall-paper-600nw-1531304273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper 4K Hdr Trick">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/bc/3d/02bc3d1d4a8d5e1ff9f617e9cd59c7bb.jpg' alt='Iphone Wallpaper 4K Hdr Trick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/bc/3d/02bc3d1d4a8d5e1ff9f617e9cd59c7bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPER 4K COLORFUL FOR PC - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3URr7LSPMVus9EkZ7fF1dk1tqEZyqADYBBNPT45djsdUg6u0ix9aK5j8th7LOECMLNKBo3vy6uO5xHb5FFGI5RPpRBC9wUU4ib3Y6z4PiJzfcZxEfs6lfs0Ov0NdIECZan-KX9yXpZMAVwDjSH8qcVNZjL2Dw-quVg6b4omGOHoeXokuingGzXdJw1Q/s3840-rw/COLORFUL-PC_4K.png' alt='WALLPAPER 4K COLORFUL FOR PC - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3URr7LSPMVus9EkZ7fF1dk1tqEZyqADYBBNPT45djsdUg6u0ix9aK5j8th7LOECMLNKBo3vy6uO5xHb5FFGI5RPpRBC9wUU4ib3Y6z4PiJzfcZxEfs6lfs0Ov0NdIECZan-KX9yXpZMAVwDjSH8qcVNZjL2Dw-quVg6b4omGOHoeXokuingGzXdJw1Q/s3840-rw/COLORFUL-PC_4K.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Colors Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/8/4/176084-3840x2160-desktop-4k-rainbow-wallpaper.jpg' alt='Rainbow Colors Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/8/4/176084-3840x2160-desktop-4k-rainbow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

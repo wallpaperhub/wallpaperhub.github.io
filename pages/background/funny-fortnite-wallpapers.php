@@ -1,0 +1,129 @@
+<title>Laugh Out Loud: Funny Fortnite Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the funniest Fortnite wallpapers to bring a smile to your gaming world. Our curated collection features quirky characters and hilarious memes, perfect for every true Fortnite enthusiast. Upgrade your device with these amusing designs and brighten up your gaming experience!">
+                    <meta name="keywords" content="funny fortnite wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-fortnite-wallpapers">
+                            <span itemprop="name">funny fortnite wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Laugh Out Loud: Funny Fortnite Wallpapers for Gamers</h1>
+                <p>Bring joy to your gaming experience with our collection of funny Fortnite wallpapers! From hilarious character poses to quirky memes, these wallpapers will make you chuckle every time you log in. Perfect for true fans who appreciate the humorous side of Fortnite, these wallpapers add a unique twist to your game setup!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Fortnite Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-fortnite-pictures-ofea0tog9bba9om8.jpg' alt='100+] Funny Fortnite Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-fortnite-pictures-ofea0tog9bba9om8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Fortnite Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-fortnite-pictures-yfxygwia81ennfan.jpg' alt='100+] Funny Fortnite Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-fortnite-pictures-yfxygwia81ennfan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Fortnite Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-fortnite-pictures-wulm5rhq69821yu2.jpg' alt='100+] Funny Fortnite Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-fortnite-pictures-wulm5rhq69821yu2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fortnite's Shocked Fishstick Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-fishstick-o3qjpp2zw4bbjxjf.jpg' alt='Download Fortnite's Shocked Fishstick Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-fishstick-o3qjpp2zw4bbjxjf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No caption needed : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/l1f1jcyzg8u31.png?auto=webp&s=53fe44fdbc227bf589982173b9942d53cf7c534b' alt='No caption needed : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/l1f1jcyzg8u31.png?auto=webp&s=53fe44fdbc227bf589982173b9942d53cf7c534b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Pietro Ciuccarelli on Fortnite | Gaming wallpapers, Funny ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/43/5b/97435bb9cf024c85d4a44552c79fb2cf.jpg' alt='Pin by Pietro Ciuccarelli on Fortnite | Gaming wallpapers, Funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/43/5b/97435bb9cf024c85d4a44552c79fb2cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free hd wallpapers for desktop, ipad, tablets, iphone, android phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/7a/56/c27a56bcef645e5122ee8b1613c9d0a4.jpg' alt='Free hd wallpapers for desktop, ipad, tablets, iphone, android phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/7a/56/c27a56bcef645e5122ee8b1613c9d0a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fishstick Fortnite Buzz Cut Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fishstick-fortnite-buzz-cut-6wqumzqwmbvrxgdo.jpg' alt='Fishstick Fortnite Buzz Cut Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fishstick-fortnite-buzz-cut-6wqumzqwmbvrxgdo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone asked for a "stupid" looking Fishstick wallpaper, and all ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/t6l9k8iq5x621.png?width=640&crop=smart&auto=webp&s=a66c1b97115cb17f22026464119b56497be3eee5' alt='Someone asked for a "stupid" looking Fishstick wallpaper, and all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/t6l9k8iq5x621.png?width=640&crop=smart&auto=webp&s=a66c1b97115cb17f22026464119b56497be3eee5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Defaulting    on X: "@SweetRabbitFN @FortniteGame https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EKawjDnUEAAjK9s.jpg:large' alt='Defaulting    on X: "@SweetRabbitFN @FortniteGame https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EKawjDnUEAAjK9s.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Cat-Themed Wallpaper for Every Cat Lover</title>
+                    <meta name="description" content="Discover the perfect cat-themed wallpaper to elevate your home decor. From playful kitten prints to elegant feline designs, our collection is ideal for any cat lover. Transform your space with charming and stylish options today!">
+                    <meta name="keywords" content="cat themed wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/cat-themed-wallpaper">
+                            <span itemprop="name">cat themed wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Cat-Themed Wallpaper for Every Cat Lover</h1>
+                <p>Transform your space with delightful cat-themed wallpaper! Ideal for cat lovers, these stylish designs range from playful patterns to elegant motifs, bringing charm and personality to any room. Whether you adore cute kittens or majestic felines, there's a wallpaper to match your taste and create a cozy atmosphere in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGAPfbZlbs/1/0/900w/canva-cute-grey-illustrative-cat-phone-wallpaper-bkZaeDjSrOI.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGAPfbZlbs/1/0/900w/canva-cute-grey-illustrative-cat-phone-wallpaper-bkZaeDjSrOI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJZ0dhmTQ/1/0/1600w/canva-pink-illustrated-cat-desktop-wallpaper-erWL1KR5XhI.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJZ0dhmTQ/1/0/1600w/canva-pink-illustrated-cat-desktop-wallpaper-erWL1KR5XhI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFIQNsHi98/1/0/900w/canva-cute-cat-paw-blue-pink-phone-wallpaper-fDHv_G37tKs.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFIQNsHi98/1/0/900w/canva-cute-cat-paw-blue-pink-phone-wallpaper-fDHv_G37tKs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Cute Cat Wallpapers ideas | cute cats, cats and kittens ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/41/6a/6b/416a6bafc0ac4b7650153c556311ac8e.jpg' alt='900+ Cute Cat Wallpapers ideas | cute cats, cats and kittens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/41/6a/6b/416a6bafc0ac4b7650153c556311ac8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Cat Peel and Stick Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Cat_Beige_Peel_and_Stick_Removable_Wallpaper_Animal_16343333_01_grande.jpg?v=1642619953' alt='Beige Cat Peel and Stick Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Cat_Beige_Peel_and_Stick_Removable_Wallpaper_Animal_16343333_01_grande.jpg?v=1642619953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFhaiLPGLE/1/0/900w/canva-beige-aesthetic-decorative-cute-cat-phone-wallpaper-v4JHl2syygI.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFhaiLPGLE/1/0/900w/canva-beige-aesthetic-decorative-cute-cat-phone-wallpaper-v4JHl2syygI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats wallpaper for walls buy in USA | Online store Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/109000/109855/w01665pir12ms_1800.webp' alt='Cats wallpaper for walls buy in USA | Online store Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/109000/109855/w01665pir12ms_1800.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFhwfMq3ds/1/0/1600w/canva-colorful-cute-cats-illustration-desktop-wallpaper-KBBZLdpjLcM.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFhwfMq3ds/1/0/1600w/canva-colorful-cute-cats-illustration-desktop-wallpaper-KBBZLdpjLcM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Cat Peel and Stick Removable Wallpaper 6942">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/Cat_Orange__Peel_and_Stick_Removable_Wallpaper_Animal_204176942_05_1200x1200.jpg?v=1642619979' alt='Orange Cat Peel and Stick Removable Wallpaper 6942'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/Cat_Orange__Peel_and_Stick_Removable_Wallpaper_Animal_204176942_05_1200x1200.jpg?v=1642619979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Cat Themed Phone Screen For Girly Style Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/adorable-cat-themed-phone-screen-for-girly-style-16gin9c8qayj86nf.jpg' alt='Adorable Cat Themed Phone Screen For Girly Style Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/adorable-cat-themed-phone-screen-for-girly-style-16gin9c8qayj86nf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

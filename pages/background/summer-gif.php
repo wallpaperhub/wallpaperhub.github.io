@@ -1,0 +1,129 @@
+<title>Vibrant Summer GIFs for Every Mood</title>
+                    <meta name="description" content="Discover the best summer GIFs to brighten your chats and social media! From sunny beach vibes to refreshing lemonade animations, find the perfect GIFs that capture the joy of summer and share them effortlessly. Enjoy the season with lively visuals that spread happiness and positivity!">
+                    <meta name="keywords" content="summer gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-gif">
+                            <span itemprop="name">summer gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer GIFs for Every Mood</h1>
+                <p>Summer is the perfect season to enjoy vibrant visuals, and summer GIFs capture the essence of sun-soaked days, beach trips, and colorful sunsets. Whether you’re sharing joyful moments or wishing friends a sunny day, these animated images bring bright, lively energy to your messages and social media posts, making them more fun and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Summer GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/n6B13gStKUdwdJ1guJ/200w.gif?cid=6c09b952n6hpd0sbz2qztwzc32vxfglu3a3mgdzm3do9gvq1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Hello Summer GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/n6B13gStKUdwdJ1guJ/200w.gif?cid=6c09b952n6hpd0sbz2qztwzc32vxfglu3a3mgdzm3do9gvq1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/05/summer-icegif-13.gif' alt='Summer Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/05/summer-icegif-13.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Summer GIFs That Will Make You Feel Like You're There">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ee/4c/a5/ee4ca5361ecd8e865a1241f85d355270.gif' alt='Beautiful Summer GIFs That Will Make You Feel Like You're There'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ee/4c/a5/ee4ca5361ecd8e865a1241f85d355270.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Olaf GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media.giphy.com/media/O22s721yY8Io0/giphy.gif' alt='Summer Olaf GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media.giphy.com/media/O22s721yY8Io0/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Vacation GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/lMxgTrubpGu30jiOEe/200w.gif?cid=6c09b952ikjuh0yuoq2lz3ohu5vh7ab9ebko57kc5xcos1gd&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Summer Vacation GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/lMxgTrubpGu30jiOEe/200w.gif?cid=6c09b952ikjuh0yuoq2lz3ohu5vh7ab9ebko57kc5xcos1gd&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Gif - GIFcen">
+                                <img itemprop="contentUrl url" src='https://www.gifcen.com/wp-content/uploads/2022/06/summer-gif-9.gif' alt='Summer Gif - GIFcen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFcen" />
+                                </span>
+                                <a href='https://www.gifcen.com/wp-content/uploads/2022/06/summer-gif-9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Animations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/94/a0/07/94a0071504a8b2faf77ae446c56df37a.gif' alt='Best Animations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/94/a0/07/94a0071504a8b2faf77ae446c56df37a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Day of Summer GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/xUPGcMmEJ2r5M3EhNK/200.gif' alt='First Day of Summer GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/xUPGcMmEJ2r5M3EhNK/200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/05/summer-icegif-15.gif' alt='Summer Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/05/summer-icegif-15.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summertime GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/bcJvDLgxVSPulkDYB4/200w.gif?cid=6c09b952xa2acco14arhjy7hf6ea8n3jdgiv2r9md7fmjwib&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Summertime GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/bcJvDLgxVSPulkDYB4/200w.gif?cid=6c09b952xa2acco14arhjy7hf6ea8n3jdgiv2r9md7fmjwib&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Unique Charm of Craft Paper Texture</title>
+                    <meta name="description" content="Discover the beauty of craft paper texture for your next project! This versatile material adds a tactile quality to art, scrapbooking, and DIY crafts, perfect for personalized designs. Explore various weights and colors to elevate your creative endeavors today!">
+                    <meta name="keywords" content="craft paper texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/craft-paper-texture">
+                            <span itemprop="name">craft paper texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Unique Charm of Craft Paper Texture</h1>
+                <p>Craft paper texture brings a unique charm to various creative projects. Its distinctive surface offers a tactile quality that enhances art, scrapbooking, and DIY endeavors. Available in different weights and colors, craft paper's rustic and natural feel invites creativity, making it a favorite among crafters for personalized touches and designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Kraft & Recycled Paper Textures Vol.1">
+                                <img itemprop="contentUrl url" src='https://texturefabrik.com/wp-content/uploads/2020/10/Texture-Fabrik-Kraft-Recycled-Paper-Textures-1_08.jpg' alt='8 Kraft & Recycled Paper Textures Vol.1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texture Fabrik" />
+                                </span>
+                                <a href='https://texturefabrik.com/wp-content/uploads/2020/10/Texture-Fabrik-Kraft-Recycled-Paper-Textures-1_08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgzMzQ1NzMtaW1hZ2Utam9iNjU0XzEtbDB1YnR5dTAuanBn.jpg' alt='Kraft Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgzMzQ1NzMtaW1hZ2Utam9iNjU0XzEtbDB1YnR5dTAuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm01MTUtYmFja2dyb3VuZC0xMTEuanBn.jpg' alt='Kraft Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm01MTUtYmFja2dyb3VuZC0xMTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft Paper Texture Images – Browse 277,763 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/21/35/95/360_F_621359538_uwlqYVAzQMqIcoj4ckoeNxQsU3lQt2tK.jpg' alt='Kraft Paper Texture Images – Browse 277,763 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/21/35/95/360_F_621359538_uwlqYVAzQMqIcoj4ckoeNxQsU3lQt2tK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft Paper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675788301950-6ab70e71a207?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a3JhZnQlMjBwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Kraft Paper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675788301950-6ab70e71a207?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a3JhZnQlMjBwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/recycled-material-texture_1232-696.jpg?semt=ais_hybrid' alt='Kraft Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/recycled-material-texture_1232-696.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Close up crumpled craft paper texture and background with copy ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/019/587/237/large_2x/close-up-crumpled-craft-paper-texture-and-background-with-copy-space-free-photo.jpg' alt='Close up crumpled craft paper texture and background with copy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/019/587/237/large_2x/close-up-crumpled-craft-paper-texture-and-background-with-copy-space-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kraft brown paper texture. Recycled cardboard. Rough textured sheet. Macro  stock video 1360797314">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360797314/video/kraft-brown-paper-texture-recycled-cardboard-rough-textured-sheet-macro.jpg?s=640x640&k=20&c=IQZqKX0XL_ELZDq_R1h7dRSLfoLP2Tn-uzuxNprXHwc=' alt='Kraft brown paper texture. Recycled cardboard. Rough textured sheet. Macro  stock video 1360797314'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360797314/video/kraft-brown-paper-texture-recycled-cardboard-rough-textured-sheet-macro.jpg?s=640x640&k=20&c=IQZqKX0XL_ELZDq_R1h7dRSLfoLP2Tn-uzuxNprXHwc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Kraft Paper Textures [4K / 8K Res] | Resource Boy">
+                                <img itemprop="contentUrl url" src='https://resourceboy.com/wp-content/uploads/2022/07/free-kraft-paper-textures-high-resolution-03.jpg' alt='50 Free Kraft Paper Textures [4K / 8K Res] | Resource Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resource Boy" />
+                                </span>
+                                <a href='https://resourceboy.com/wp-content/uploads/2022/07/free-kraft-paper-textures-high-resolution-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Craft Paper Texture Vector Background Beige Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/craft-paper-texture-vector-background-260nw-1162589968.jpg' alt='Craft Paper Texture Vector Background Beige Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/craft-paper-texture-vector-background-260nw-1162589968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

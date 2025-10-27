@@ -1,0 +1,129 @@
+<title>Blue Floral Wallpaper: Elevate Your Bathroom Decor</title>
+                    <meta name="description" content="Discover the perfect blue floral wallpaper for your bathroom! Our collection features vibrant patterns that revitalize your space, offering a combination of style and tranquility. Ideal for creating a calming retreat, explore designs that make every bath feel like a getaway. Transform your bathroom today!">
+                    <meta name="keywords" content="blue floral wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/blue-floral-wallpaper-bathroom">
+                            <span itemprop="name">blue floral wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Floral Wallpaper: Elevate Your Bathroom Decor</h1>
+                <p>Transform your bathroom with stunning blue floral wallpaper that brings a fresh, vibrant energy to your space. The intricate floral designs and soothing blue hues create a serene atmosphere, perfect for relaxation. Whether you prefer bold blooms or delicate patterns, blue floral wallpaper can elevate your bathroom decor and make it feel like a personal oasis.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Rural Flowers Wallpaper, Floral Wall Art, Bathroom Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/37ad55/5970894553/il_fullxfull.5970894553_6yxj.jpg' alt='Blue Rural Flowers Wallpaper, Floral Wall Art, Bathroom Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/37ad55/5970894553/il_fullxfull.5970894553_6yxj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson">
+                                <img itemprop="contentUrl url" src='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' alt='Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caitlin Wilson" />
+                                </span>
+                                <a href='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Blue Floral Garden Cream Flowers  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 460">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322929596_91gk.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Blue Floral Garden Cream Flowers  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 460'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322929596_91gk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fifty States Hydrangea - Blue Floral Wallpaper by Honey + Hank">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/PowderRoom-50StatesHydrangea1.jpg?v=1705475220&width=1080' alt='Fifty States Hydrangea - Blue Floral Wallpaper by Honey + Hank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/PowderRoom-50StatesHydrangea1.jpg?v=1705475220&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' alt='Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Wallpaper in Bathroom | Carla Bast Design">
+                                <img itemprop="contentUrl url" src='https://carlabast.com/wp-content/uploads/2020/04/09-2.jpg' alt='Blue Floral Wallpaper in Bathroom | Carla Bast Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carla Bast Design" />
+                                </span>
+                                <a href='https://carlabast.com/wp-content/uploads/2020/04/09-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in X 23ft Blue Floral Wallpaper Peel and Stick Contact  Paper Floral Vintage Prepasted Blue Toile Wallpaper for Bedroom Bathroom  Walls ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ndvdlu1eL.jpg' alt='ReWallpaper 17.5in X 23ft Blue Floral Wallpaper Peel and Stick Contact  Paper Floral Vintage Prepasted Blue Toile Wallpaper for Bedroom Bathroom  Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ndvdlu1eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Blue Floral Vintage Cream Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 466">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322935110_hi6j.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Blue Floral Vintage Cream Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 466'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322935110_hi6j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Tile Adhesive Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/tile_adhesive_27785717_02-sw_1024x1024.jpg?v=1723302434' alt='Blue Floral Tile Adhesive Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/tile_adhesive_27785717_02-sw_1024x1024.jpg?v=1723302434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Wallpaper in Powder Room - Transitional - Bathroom">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2018/08/06/powder-room-blue-floral-wallpaper.png' alt='Blue Floral Wallpaper in Powder Room - Transitional - Bathroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2018/08/06/powder-room-blue-floral-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

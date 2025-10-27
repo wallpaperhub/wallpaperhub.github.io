@@ -1,0 +1,129 @@
+<title>Cowboy Country Christmas Wallpaper: Rustic Holiday Decor</title>
+                    <meta name="description" content="Discover enchanting Cowboy Country Christmas wallpaper that adds rustic charm to your holiday spirit. Perfect for creating a festive, cozy atmosphere, these designs blend cowboy motifs with seasonal cheer. Transform your space with a touch of the Wild West this holiday season!">
+                    <meta name="keywords" content="cowboy country christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/cowboy-country-christmas-wallpaper">
+                            <span itemprop="name">cowboy country christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cowboy Country Christmas Wallpaper: Rustic Holiday Decor</h1>
+                <p>Cowboy Country Christmas wallpaper brings warmth and charm to your holiday décor. Featuring rustic imagery, cowboy hats, and beautiful winter landscapes, these wall coverings evoke the spirit of the Wild West combined with festive cheer. Perfect for creating a cozy atmosphere that celebrates the magic of a country Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 10x8ft Fabric Christmas Western Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KboNHq7mL.jpg' alt='Amazon.com : Loccor 10x8ft Fabric Christmas Western Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KboNHq7mL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13598357/p/f/m/XtAxQ0fOStZ2rPUam_LkAsnbckd_-cIWgjLHo3LCwll099wjK4SzSz8/Cowboy%20Christmas%20.jpg' alt='Cowboy Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13598357/p/f/m/XtAxQ0fOStZ2rPUam_LkAsnbckd_-cIWgjLHo3LCwll099wjK4SzSz8/Cowboy%20Christmas%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cowboy Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cowboy-christmas-en949sd2yovtzu0h.jpg' alt='100+] Cowboy Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cowboy-christmas-en949sd2yovtzu0h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Christmas Seamless Pattern. Digital Download Only. Png File ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/ee/7a/e9ee7a097c572f8f5b39950b40169606.jpg' alt='Cowboy Christmas Seamless Pattern. Digital Download Only. Png File ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/ee/7a/e9ee7a097c572f8f5b39950b40169606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/fa/58/33fa58a8392636502cef53351431b23e.jpg' alt='Western Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/fa/58/33fa58a8392636502cef53351431b23e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17697289/p/f/m/xIjtHCvgrYk8okFIzGz--TK7Xk8LGipMjzdmfLr-X5CU7MwlxxHc38VbHA/Western%20Holiday%20Ditsy%20-%20Sage%20Green%20-%20Medium%20Scale.jpg' alt='Country Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17697289/p/f/m/xIjtHCvgrYk8okFIzGz--TK7Xk8LGipMjzdmfLr-X5CU7MwlxxHc38VbHA/Western%20Holiday%20Ditsy%20-%20Sage%20Green%20-%20Medium%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,851 Cowboy Christmas Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/groovy-howdy-christmas-cowboy-accessories-600nw-2440831321.jpg' alt='4,851 Cowboy Christmas Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/groovy-howdy-christmas-cowboy-accessories-600nw-2440831321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Christmas" - Limited Editions - All Artwork | Douglas Wodark">
+                                <img itemprop="contentUrl url" src='https://douglaswodark.fineaw.com/products/lg_2498_Cowboy_Christmas.jpg' alt='Cowboy Christmas" - Limited Editions - All Artwork | Douglas Wodark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Douglas Wodark - Fine Art World" />
+                                </span>
+                                <a href='https://douglaswodark.fineaw.com/products/lg_2498_Cowboy_Christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13560594/p/f/m/GGR7nTBugZfZ_r0wibfiu4ui7YI0DCMv3I6c2Fy1tZVK3QIvSGMicEk/Christmas%20Cowboy%20Santa.jpg' alt='Cowboy Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13560594/p/f/m/GGR7nTBugZfZ_r0wibfiu4ui7YI0DCMv3I6c2Fy1tZVK3QIvSGMicEk/Christmas%20Cowboy%20Santa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,721 Western Christmas Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rustic-floral-cowgirl-hat-adorned-seasonal-flowers-greenery-watercolor-western-christmas-illustration-charming-342205707.jpg' alt='6,721 Western Christmas Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rustic-floral-cowgirl-hat-adorned-seasonal-flowers-greenery-watercolor-western-christmas-illustration-charming-342205707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

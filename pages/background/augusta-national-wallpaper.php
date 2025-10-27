@@ -1,0 +1,129 @@
+<title>Stunning Augusta National Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover beautiful Augusta National wallpaper that showcases the iconic golf course's charm. Perfect for golf enthusiasts, these wallpapers will enhance your device's look while immersing you in the rich tradition of the Masters. Download now and bring a piece of Augusta to your screens!">
+                    <meta name="keywords" content="augusta national wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/augusta-national-wallpaper">
+                            <span itemprop="name">augusta national wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Augusta National Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning Augusta National wallpaper! Experience the beauty of lush greenery, picturesque landscapes, and iconic holes of the renowned golf course. Perfect for fans and nature lovers alike, this wallpaper adds a touch of elegance to any screen. Elevate your background and showcase your appreciation for golf!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Want some Masters background pics for your PC? 2016 Masters ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/want-some-masters-background-pics-for-your-pc-2016-masters-v0-61s90fpcfb0a1.jpg?auto=webp&s=3d3b540af22cf7044c8215c13066f781c230e57f' alt='Want some Masters background pics for your PC? 2016 Masters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/want-some-masters-background-pics-for-your-pc-2016-masters-v0-61s90fpcfb0a1.jpg?auto=webp&s=3d3b540af22cf7044c8215c13066f781c230e57f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper : r/masters">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/iphone-wallpaper-v0-GXQp5kEo2n2KvU7bvZSz06vgtDTE1BSlSKM4xpxQCqg.jpg?width=640&crop=smart&auto=webp&s=a260e69e2ba1eaa5a31a91138732161d957af6b2' alt='iPhone Wallpaper : r/masters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/iphone-wallpaper-v0-GXQp5kEo2n2KvU7bvZSz06vgtDTE1BSlSKM4xpxQCqg.jpg?width=640&crop=smart&auto=webp&s=a260e69e2ba1eaa5a31a91138732161d957af6b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Augusta National Golf Course Wallpapers HD Masters 2015 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/7e/08/6c7e08611110fd97e502a2fb7cc36587.jpg' alt='The Augusta National Golf Course Wallpapers HD Masters 2015 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/7e/08/6c7e08611110fd97e502a2fb7cc36587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Augusta National 12th Hole The Masters Photo Wall Art Golf  Photos Artwork 8x12: Photographs">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IACwq7JFL.jpg' alt='Amazon.com: Augusta National 12th Hole The Masters Photo Wall Art Golf  Photos Artwork 8x12: Photographs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IACwq7JFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An album of Augusta National wallpapers to get excited for Masters ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/d1br6uk.jpg' alt='An album of Augusta National wallpapers to get excited for Masters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/d1br6uk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="With the Masters next week, I figured y'all could use some desktop ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/KjtQ6BKbb_RMT8zrwKvYQG7CcZh7Ls4m9oARcGK9vD0.jpg?width=1080&crop=smart&auto=webp&s=f07e0a6c46593225f69831a5f6a2eb174355c142' alt='With the Masters next week, I figured y'all could use some desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/KjtQ6BKbb_RMT8zrwKvYQG7CcZh7Ls4m9oARcGK9vD0.jpg?width=1080&crop=smart&auto=webp&s=f07e0a6c46593225f69831a5f6a2eb174355c142' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Augusta National Golf Course Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/d1/b0/fcd1b0e0bcb5b56127414050ece24e48.jpg' alt='Awesome Augusta National Golf Course Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/d1/b0/fcd1b0e0bcb5b56127414050ece24e48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Augusta National Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/augusta-national-iphone-o89yo3nbh4qclwi1.jpg' alt='100+] Augusta National Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/augusta-national-iphone-o89yo3nbh4qclwi1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why do I love The Masters? - by Michael Tuohy">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2895923-507e-4108-b1be-717f0df87253_750x500.jpeg' alt='Why do I love The Masters? - by Michael Tuohy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.occasionalopinions.com" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2895923-507e-4108-b1be-717f0df87253_750x500.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Golf Augusta National Full Course Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-golf-augusta-national-full-course-1zwdx36acaejz500.jpg' alt='Cool Golf Augusta National Full Course Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-golf-augusta-national-full-course-1zwdx36acaejz500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

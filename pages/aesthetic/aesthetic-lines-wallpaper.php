@@ -1,0 +1,129 @@
+<title>Aesthetic Lines Wallpaper: Stylish Decor Inspiration</title>
+                    <meta name="description" content="Discover stunning aesthetic lines wallpaper that transforms your space. Perfect for modern interiors, these stylish designs create a unique ambiance. Explore a variety of patterns, colors, and textures to elevate your decor effortlessly. Refresh your walls with our curated selection for a chic, contemporary look.">
+                    <meta name="keywords" content="aesthetic lines wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-lines-wallpaper">
+                            <span itemprop="name">aesthetic lines wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Lines Wallpaper: Stylish Decor Inspiration</h1>
+                <p>Aesthetic lines wallpaper adds a modern touch to any room, blending creativity with simplicity. With flowing patterns and complementary colors, these wallpapers create an inviting atmosphere. Ideal for living spaces, bedrooms, or offices, they enhance aesthetic appeal while providing a stylish backdrop for your decor. Elevate your interiors effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Abstract Lines">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/db/d8/d2dbd8bbbaea9bc1e1f01446aa2d4ef5.jpg' alt='Soft Abstract Lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/db/d8/d2dbd8bbbaea9bc1e1f01446aa2d4ef5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLEASE TAG ME IF YOU USE @Brookebauerkemper or @madebybrookenicole">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/3d/4c/b73d4c5893800d24b20dd46972b63206.jpg' alt='PLEASE TAG ME IF YOU USE @Brookebauerkemper or @madebybrookenicole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/3d/4c/b73d4c5893800d24b20dd46972b63206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Liquid Lines Wallpapers - Trippy Lines Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/05/pink-liquid-lines-wallpaper-scaled.jpg' alt='Pink Liquid Lines Wallpapers - Trippy Lines Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/05/pink-liquid-lines-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper with color lines | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1118455468.8451/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.u3.jpg' alt='Aesthetic wallpaper with color lines | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1118455468.8451/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Liquid Lines Wallpapers - Aesthetic Summer Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/06/summer-liquid-lines-wallpaper-scaled.jpg' alt='Summer Liquid Lines Wallpapers - Aesthetic Summer Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/06/summer-liquid-lines-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper with color lines | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1118455457.8451/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' alt='Aesthetic wallpaper with color lines | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1118455457.8451/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract topographic contour line background. Abstract wavy line ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/045/694/329/non_2x/abstract-topographic-contour-line-background-abstract-wavy-line-wallpaper-abstract-wallpaper-aesthetic-wavy-lines-background-contour-background-vector.jpg' alt='abstract topographic contour line background. Abstract wavy line ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/045/694/329/non_2x/abstract-topographic-contour-line-background-abstract-wavy-line-wallpaper-abstract-wallpaper-aesthetic-wavy-lines-background-contour-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Kristyn Ruth on Phone in 2019 | Collage background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/70/d0/0c/70d00c7825af6d711466a0f51de83de5.jpg' alt='Pin by Kristyn Ruth on Phone in 2019 | Collage background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/70/d0/0c/70d00c7825af6d711466a0f51de83de5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lines, blue, orange, peach, pink, rainbow, spring, summer, summer ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/913/726/HD-wallpaper-lines-blue-orange-peach-pink-rainbow-spring-summer-summer-aesthetic-teal.jpg' alt='Lines, blue, orange, peach, pink, rainbow, spring, summer, summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/913/726/HD-wallpaper-lines-blue-orange-peach-pink-rainbow-spring-summer-summer-aesthetic-teal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Art Aesthetic Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220330/pngtree-line-art-aesthetic-botanical-background-image_1070126.jpg' alt='Line Art Aesthetic Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220330/pngtree-line-art-aesthetic-botanical-background-image_1070126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

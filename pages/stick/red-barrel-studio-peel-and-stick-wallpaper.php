@@ -1,0 +1,129 @@
+<title>Transform Your Space with Red Barrel Studio Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the effortless charm of Red Barrel Studio peel and stick wallpaper. Easy to apply and remove, it’s ideal for a quick decor update. Choose from a variety of stunning designs to personalize your home or office space, making it stylish without the mess of traditional wallpaper.">
+                    <meta name="keywords" content="red barrel studio peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/red-barrel-studio-peel-and-stick-wallpaper">
+                            <span itemprop="name">red barrel studio peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Red Barrel Studio Peel and Stick Wallpaper</h1>
+                <p>Red Barrel Studio peel and stick wallpaper offers a stylish and convenient way to transform any space effortlessly. With a stunning range of designs, from modern patterns to classic motifs, it's perfect for renters or anyone looking to refresh their decor. Easy to apply and remove, it’s the hassle-free choice for a quick makeover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Erastes Peel & Stick Floral Roll & Reviews ...">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/14032737/resize-h600-w600%5Ecompr-r85/1189/118924281/Erastes+Peel+%26+Stick+Floral+Roll.jpg' alt='Red Barrel Studio® Erastes Peel & Stick Floral Roll & Reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/14032737/resize-h600-w600%5Ecompr-r85/1189/118924281/Erastes+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Peel+%26+Stick+Floral+Tile.jpg' alt='Vintage Floral Wallpaper Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/91366500/resize-h800-w800%5Ecompr-r85/2309/230907958/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/91366500/resize-h800-w800%5Ecompr-r85/2309/230907958/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/29273453/resize-h800-w800%5Ecompr-r85/2309/230907094/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/29273453/resize-h800-w800%5Ecompr-r85/2309/230907094/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/37058631/resize-h755-w755%5Ecompr-r85/1927/192734185/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/37058631/resize-h755-w755%5Ecompr-r85/1927/192734185/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/51579511/resize-h800-w800%5Ecompr-r85/2309/230907120/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/51579511/resize-h800-w800%5Ecompr-r85/2309/230907120/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/72132892/resize-h800-w800%5Ecompr-r85/2309/230906047/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/72132892/resize-h800-w800%5Ecompr-r85/2309/230906047/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Daela Peel & Stick Floral Roll & Reviews | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/22855351/resize-h210-w210%5Ecompr-r85/2296/229639971/Daela+Peel+%26+Stick+Floral+Roll.jpg' alt='Red Barrel Studio® Daela Peel & Stick Floral Roll & Reviews | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/22855351/resize-h210-w210%5Ecompr-r85/2296/229639971/Daela+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/06073342/resize-h800-w800%5Ecompr-r85/1927/192733204/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/06073342/resize-h800-w800%5Ecompr-r85/1927/192733204/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/28096764/resize-h800-w800%5Ecompr-r85/1927/192735109/Peel+%26+Stick+Tile.jpg' alt='Peel & Stick Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/28096764/resize-h800-w800%5Ecompr-r85/1927/192735109/Peel+%26+Stick+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

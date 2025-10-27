@@ -1,0 +1,129 @@
+<title>High-Quality Index Card PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a collection of high-quality index card PNG images perfect for your projects! Ideal for notes, presentations, and creative designs, these versatile templates feature transparent backgrounds for easy integration. Elevate your work with colorful and stylish index cards!">
+                    <meta name="keywords" content="index card png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/index-card-png">
+                            <span itemprop="name">index card png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Index Card PNG Images for Creative Projects</h1>
+                <p>Index card PNG images are versatile and widely used for various purposes, like note-taking, presentations, and organizing ideas. They're available in transparent backgrounds, making them easy to overlay on any design. With different colors and styles, you can enhance your projects, whether for education, work, or creative endeavors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colored Index Card Clipart / Index Card Image / Index Card Png ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27344031/r/il/f04a4a/3483781694/il_fullxfull.3483781694_5a1l.jpg' alt='Colored Index Card Clipart / Index Card Image / Index Card Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2375">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27344031/r/il/f04a4a/3483781694/il_fullxfull.3483781694_5a1l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310+ Lined Index Card Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/874111206/photo/index-card.jpg?s=612x612&w=0&k=20&c=cv2sPM7z0u7ckScjUrlfKkSpK4eq5tIXFA75LLS2tHA=' alt='310+ Lined Index Card Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/874111206/photo/index-card.jpg?s=612x612&w=0&k=20&c=cv2sPM7z0u7ckScjUrlfKkSpK4eq5tIXFA75LLS2tHA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan index card Free Vector Download | FreeImages">
+                                <img itemprop="contentUrl url" src='https://images.freeimages.com/vme/images/3/3/333952/tan_index_card_preview' alt='Tan index card Free Vector Download | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://images.freeimages.com/vme/images/3/3/333952/tan_index_card_preview' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index Card Images – Browse 46,669 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/57/02/08/360_F_57020825_4WTmtkaI4ATLj13VlpNO4c794WtuW08Q.jpg' alt='Index Card Images – Browse 46,669 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/57/02/08/360_F_57020825_4WTmtkaI4ATLj13VlpNO4c794WtuW08Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colored index card clipart / index card image / index card png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/9a/cf/d79acf104b6501ad1c6975469304f782.jpg' alt='Colored index card clipart / index card image / index card png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/9a/cf/d79acf104b6501ad1c6975469304f782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index Card Green PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/index-card-green-business-RBeNx66-600.jpg' alt='Index Card Green PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/index-card-green-business-RBeNx66-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colored Index Card Clipart / Index Card Image / Index Card Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/52/b0/d952b01e3c2f74e6acc34b1aac805836.jpg' alt='Colored Index Card Clipart / Index Card Image / Index Card Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/52/b0/d952b01e3c2f74e6acc34b1aac805836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Index Card Png - Document PNG Image with No Background ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/169-1693668_index-card-png-document.png' alt='Download Index Card Png - Document PNG Image with No Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/169-1693668_index-card-png-document.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Saying Journal Cards, index card template, png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/728/105/png-clipart-just-saying-journal-cards-index-card-template.png' alt='Just Saying Journal Cards, index card template, png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/728/105/png-clipart-just-saying-journal-cards-index-card-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index Card PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/018/795/032/small/white-notebook-paper-with-all-edges-ripped-png.png' alt='Index Card PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="409">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/018/795/032/small/white-notebook-paper-with-all-edges-ripped-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

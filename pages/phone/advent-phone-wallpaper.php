@@ -1,0 +1,129 @@
+<title>Festive Advent Phone Wallpapers for a Cheerful December</title>
+                    <meta name="description" content="Discover beautiful Advent phone wallpapers to elevate your holiday spirit. Featuring festive designs and cozy winter vibes, these wallpapers bring daily joy as you count down to Christmas. Perfect for celebrating the season on your mobile device!">
+                    <meta name="keywords" content="advent phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/advent-phone-wallpaper">
+                            <span itemprop="name">advent phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Advent Phone Wallpapers for a Cheerful December</h1>
+                <p>Transform your phone's look this holiday season with stunning Advent phone wallpapers. Embrace the festive spirit with designs featuring advent calendars, cozy winter scenes, candles, and holiday symbols that warm your heart. These wallpapers bring joy and excitement each day leading up to Christmas, making every glance at your phone a reminder of the season's magic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Cru Trinidad & Tobago">
+                                <img itemprop="contentUrl url" src='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-1.png' alt='Advent Phone Wallpapers | Cru Trinidad & Tobago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cru" />
+                                </span>
+                                <a href='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Cru Singapore">
+                                <img itemprop="contentUrl url" src='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-5.png' alt='Advent Phone Wallpapers | Cru Singapore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cru" />
+                                </span>
+                                <a href='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Wallpaper is back! There will be new phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5828609133868509' alt='Advent Wallpaper is back! There will be new phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5828609133868509' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Cru Trinidad & Tobago">
+                                <img itemprop="contentUrl url" src='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-wallpaper-adore-him.jpg' alt='Advent Phone Wallpapers | Cru Trinidad & Tobago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cru" />
+                                </span>
+                                <a href='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/advent-wallpaper-adore-him.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Great Commission Movement of Nigeria (GCMN)">
+                                <img itemprop="contentUrl url" src='https://www.gcmnigeria.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-3.png' alt='Advent Phone Wallpapers | Great Commission Movement of Nigeria (GCMN)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Commission Movement of Nigeria" />
+                                </span>
+                                <a href='https://www.gcmnigeria.org/content/dam/cru/train-and-grow/life-and-relationships/advent-phone-wallpaper-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Cru Trinidad & Tobago">
+                                <img itemprop="contentUrl url" src='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/holidays/advent_wallpapers_3.png' alt='Advent Phone Wallpapers | Cru Trinidad & Tobago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cru" />
+                                </span>
+                                <a href='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/holidays/advent_wallpapers_3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advent Phone Wallpapers | Cru Trinidad & Tobago">
+                                <img itemprop="contentUrl url" src='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/holidays/advent_wallpapers_4.png' alt='Advent Phone Wallpapers | Cru Trinidad & Tobago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cru" />
+                                </span>
+                                <a href='https://www.cru.org/content/dam/cru/train-and-grow/life-and-relationships/holidays/advent_wallpapers_4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] First Sunday Of Advent Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anticipation-of-joy-first-sunday-of-advent-oinejcsgeonq2elg.jpg' alt='100+] First Sunday Of Advent Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anticipation-of-joy-first-sunday-of-advent-oinejcsgeonq2elg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Beautiful Depths | Christmas phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/4e/d0/1a4ed0ec00eca91449bd0a63f7cefcf0.jpg' alt='Wallpapers | Beautiful Depths | Christmas phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/4e/d0/1a4ed0ec00eca91449bd0a63f7cefcf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I really do hope they do more wallpapers for Advent calendar this ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-really-do-hope-they-do-more-wallpapers-for-advent-v0-mkai3i6ioczb1.jpg?width=640&crop=smart&auto=webp&s=60b83445ddf083f193301ded00def90f24d64cb5' alt='I really do hope they do more wallpapers for Advent calendar this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-really-do-hope-they-do-more-wallpapers-for-advent-v0-mkai3i6ioczb1.jpg?width=640&crop=smart&auto=webp&s=60b83445ddf083f193301ded00def90f24d64cb5' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

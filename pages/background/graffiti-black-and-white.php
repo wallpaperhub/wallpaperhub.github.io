@@ -1,0 +1,129 @@
+<title>Stunning Black and White Graffiti Art: A Visual Journey</title>
+                    <meta name="description" content="Discover the captivating world of black and white graffiti art. Explore the bold contrasts, intricate designs, and emotional depth that make this monochromatic style a favorite among urban artists. Dive into the creativity that transforms city walls into stunning visual statements.">
+                    <meta name="keywords" content="graffiti black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/graffiti-black-and-white">
+                            <span itemprop="name">graffiti black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Graffiti Art: A Visual Journey</h1>
+                <p>Graffiti in black and white showcases a striking contrast that highlights intricate designs and powerful messages. The absence of color draws attention to the artistry and creativity behind each piece, making it a popular choice among urban artists. This monochromatic style evokes emotions and invites viewers to appreciate the skill involved in graffiti art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti: Black & White - Designs By Reminisce">
+                                <img itemprop="contentUrl url" src='https://designsbyreminisce.com/cdn/shop/products/EAV-1053-sfw_40c7b1fd-576d-46bc-b827-c784774f3633.gif?v=1510154349' alt='Graffiti: Black & White - Designs By Reminisce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designs By Reminisce" />
+                                </span>
+                                <a href='https://designsbyreminisce.com/cdn/shop/products/EAV-1053-sfw_40c7b1fd-576d-46bc-b827-c784774f3633.gif?v=1510154349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white seamless graffiti background in street art style ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/70/88/22/1000_F_570882290_EgY0Gzbe2NgkoeJFG74Fgd6em9AsC4Rg.jpg' alt='Black and white seamless graffiti background in street art style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/70/88/22/1000_F_570882290_EgY0Gzbe2NgkoeJFG74Fgd6em9AsC4Rg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti, Black and White Vector illustration 23593456 Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/593/456/non_2x/graffiti-black-and-white-illustration-vector.jpg' alt='Graffiti, Black and White Vector illustration 23593456 Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/593/456/non_2x/graffiti-black-and-white-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Graffiti tags background in black and white ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/03/12/55/78/1000_F_312557880_cHJQ5MFe56DbuLR7vk0lf4J5EGccDJbf.jpg' alt='Photo & Art Print Graffiti tags background in black and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/03/12/55/78/1000_F_312557880_cHJQ5MFe56DbuLR7vk0lf4J5EGccDJbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Graffiti Abstract Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11813826/r/il/b883f0/2844605109/il_570xN.2844605109_dkuw.jpg' alt='Black & White Graffiti Abstract Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11813826/r/il/b883f0/2844605109/il_570xN.2844605109_dkuw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wall Black and White by Michael Hills">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/graffiti-wall-black-and-white-michael-hills.jpg' alt='Graffiti Wall Black and White by Michael Hills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/graffiti-wall-black-and-white-michael-hills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti vector art wallpaper Black and White Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JM7TKB/graffiti-quotes-seamless-pattern-wallpapervector-graphic-illustrationgraffiti-letteringurban-art-seamless-pattern-wallpaper-print-concept-2JM7TKB.jpg' alt='Graffiti vector art wallpaper Black and White Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JM7TKB/graffiti-quotes-seamless-pattern-wallpapervector-graphic-illustrationgraffiti-letteringurban-art-seamless-pattern-wallpaper-print-concept-2JM7TKB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fabric, Street Skull in Black and White, Urban Graffiti, Alexander ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8384993/r/il/f91607/1424665172/il_fullxfull.1424665172_rt3c.jpg' alt='Fabric, Street Skull in Black and White, Urban Graffiti, Alexander ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8384993/r/il/f91607/1424665172/il_fullxfull.1424665172_rt3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker black-and-white pattern graffiti on the wall.Spain,Jerez,January  2018.Interesting background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/18/86/53/48/9/700_FO188653489_4897215030f4350a3fcc8007c64626e0,700,467,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,417,jpg)/stickers-black-and-white-pattern-graffiti-on-the-wall-spain-jerez-january-2018-interesting-background.jpg.jpg' alt='Sticker black-and-white pattern graffiti on the wall.Spain,Jerez,January  2018.Interesting background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/18/86/53/48/9/700_FO188653489_4897215030f4350a3fcc8007c64626e0,700,467,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,417,jpg)/stickers-black-and-white-pattern-graffiti-on-the-wall-spain-jerez-january-2018-interesting-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wuna graffiti black and white lettering | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4745579057.4948/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Wuna graffiti black and white lettering | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4745579057.4948/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

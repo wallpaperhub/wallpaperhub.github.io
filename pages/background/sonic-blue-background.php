@@ -1,0 +1,129 @@
+<title>Sonic Blue Backgrounds: Elevate Your Design</title>
+                    <meta name="description" content="Discover the beauty of sonic blue backgrounds for your design projects. This striking color enhances visual appeal and brings a modern touch, perfect for websites, presentations, and more. Embrace tranquility and vibrancy with sonic blue to captivate your audience effortlessly.">
+                    <meta name="keywords" content="sonic blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sonic-blue-background">
+                            <span itemprop="name">sonic blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sonic Blue Backgrounds: Elevate Your Design</h1>
+                <p>Sonic blue backgrounds are a stunning visual choice, invoking feelings of tranquility and vibrancy. The deep azure tones can elevate any design project, whether for websites, presentations, or digital art. This captivating shade complements modern aesthetics and provides a sense of calm, making it a favorite among designers seeking to create an engaging atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sonic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/6d/f9/3a6df9f14b50cd27c26a2c5eff5760ab.jpg' alt='sonic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/6d/f9/3a6df9f14b50cd27c26a2c5eff5760ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD blue sonic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/278/372/HD-wallpaper-sonic-blue-sonic.jpg' alt='HD blue sonic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/278/372/HD-wallpaper-sonic-blue-sonic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Hedgehog Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-comic-style-background_23-2148830135.jpg' alt='Sonic Hedgehog Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-comic-style-background_23-2148830135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic with the blue background by TraeThe3rd on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6241bc38-7be2-4cb3-b569-13bbe7f271da/dgk6y3h-ea046ca0-6cc0-4e55-af48-67e0fdd041de.jpg/v1/fill/w_772,h_1035,q_70,strp/sonic_with_the_blue_background_by_traethe3rd_dgk6y3h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzYyNDFiYzM4LTdiZTItNGNiMy1iNTY5LTEzYmJlN2YyNzFkYVwvZGdrNnkzaC1lYTA0NmNhMC02Y2MwLTRlNTUtYWY0OC02N2UwZmRkMDQxZGUuanBnIiwid2lkdGgiOiI8PTg5NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SoFEH_VEpry--CZ-g3Njo4xU_-WvJS7861uQkwhJxmc' alt='Sonic with the blue background by TraeThe3rd on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6241bc38-7be2-4cb3-b569-13bbe7f271da/dgk6y3h-ea046ca0-6cc0-4e55-af48-67e0fdd041de.jpg/v1/fill/w_772,h_1035,q_70,strp/sonic_with_the_blue_background_by_traethe3rd_dgk6y3h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzYyNDFiYzM4LTdiZTItNGNiMy1iNTY5LTEzYmJlN2YyNzFkYVwvZGdrNnkzaC1lYTA0NmNhMC02Y2MwLTRlNTUtYWY0OC02N2UwZmRkMDQxZGUuanBnIiwid2lkdGgiOiI8PTg5NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SoFEH_VEpry--CZ-g3Njo4xU_-WvJS7861uQkwhJxmc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic the Hedgehog Wallpaper 4K, Blue background, 5K, Movies, #7933">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/c3/f0/cbc3f05ed5497902e6cc220af4dafd93.jpg' alt='Sonic the Hedgehog Wallpaper 4K, Blue background, 5K, Movies, #7933'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/c3/f0/cbc3f05ed5497902e6cc220af4dafd93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Sonic HD Wallpaper - Sonic The Hedgehog (1991)">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/336/336639.jpg' alt='Classic Sonic HD Wallpaper - Sonic The Hedgehog (1991)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/336/336639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Movie 3, Blue Light Background, animated, video game, rainy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/996/919/HD-wallpaper-sonic-movie-3-blue-light-background-animated-video-game-rainy-effect.jpg' alt='Sonic Movie 3, Blue Light Background, animated, video game, rainy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/996/919/HD-wallpaper-sonic-movie-3-blue-light-background-animated-video-game-rainy-effect.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Checkered Background by SonicTheEdgehog on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000eefe-7c73-4bb9-91a5-9c4f2ff38d98/dacy2rd-dd5eecb2-d29b-4717-83a5-0c96665fcd36.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwMDBlZWZlLTdjNzMtNGJiOS05MWE1LTljNGYyZmYzOGQ5OFwvZGFjeTJyZC1kZDVlZWNiMi1kMjliLTQ3MTctODNhNS0wYzk2NjY1ZmNkMzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pbwLeZWM2PQ2puCfvJ5zTvtDNPw6dDxBfz6lSUEEKjE' alt='Blue Checkered Background by SonicTheEdgehog on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000eefe-7c73-4bb9-91a5-9c4f2ff38d98/dacy2rd-dd5eecb2-d29b-4717-83a5-0c96665fcd36.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwMDBlZWZlLTdjNzMtNGJiOS05MWE1LTljNGYyZmYzOGQ5OFwvZGFjeTJyZC1kZDVlZWNiMi1kMjliLTQ3MTctODNhNS0wYzk2NjY1ZmNkMzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pbwLeZWM2PQ2puCfvJ5zTvtDNPw6dDxBfz6lSUEEKjE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic the Hedgehog Running and a Blue Background Edible Cake Topper Image  ABPID07955">
+                                <img itemprop="contentUrl url" src='https://www.abirthdayplace.com/cdn/shop/products/ABPID07955.jpg?v=1643589537&width=1445' alt='Sonic the Hedgehog Running and a Blue Background Edible Cake Topper Image  ABPID07955'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Birthday Place" />
+                                </span>
+                                <a href='https://www.abirthdayplace.com/cdn/shop/products/ABPID07955.jpg?v=1643589537&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Speed Up Your Life with Blue Sonic. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-sonic-icon-photo-cover-4ngxxiw6sv00tw95.jpg' alt='Download Speed Up Your Life with Blue Sonic. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-sonic-icon-photo-cover-4ngxxiw6sv00tw95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

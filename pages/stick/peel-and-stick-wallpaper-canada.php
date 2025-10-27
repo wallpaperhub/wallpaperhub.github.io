@@ -1,0 +1,129 @@
+<title>Discover Peel and Stick Wallpaper: Effortless Style for Your Home</title>
+                    <meta name="description" content="Transform your living space with peel and stick wallpaper in Canada. Enjoy effortless installation, diverse designs, and a fresh look without the mess. Ideal for renters and DIY enthusiasts alike, update your décor quickly and easily with removable options that suit any taste!">
+                    <meta name="keywords" content="peel and stick wallpaper canada">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-canada">
+                            <span itemprop="name">peel and stick wallpaper canada</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Peel and Stick Wallpaper: Effortless Style for Your Home</h1>
+                <p>Looking to refresh your space? Peel and stick wallpaper in Canada offers a stylish and hassle-free solution. With a variety of designs, from chic florals to modern geometrics, it’s easy to customize any room. Perfect for renters or anyone seeking a quick makeover, installation is simple, requiring no glue or special tools!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madelyn Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/madelyn-peel-and-stick-wallpaper-717278.jpg?crop=center&height=1169&v=1700000925&width=1169' alt='Madelyn Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="1169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/madelyn-peel-and-stick-wallpaper-717278.jpg?crop=center&height=1169&v=1700000925&width=1169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Days Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/golden-days-wallpaper-peel-stick-874587.jpg?v=1666799104' alt='Golden Days Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/golden-days-wallpaper-peel-stick-874587.jpg?v=1666799104' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Urbanwalls | Peel and Stick Wallpaper - Transform Your Space ...">
+                                <img itemprop="contentUrl url" src='https://urbanwalls.ca/cdn/shop/files/floral-kaleidoscope-wallpaper-wallpaper-urbanwalls-598825.jpg?v=1731031836&width=1100' alt='Urbanwalls | Peel and Stick Wallpaper - Transform Your Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls Canada" />
+                                </span>
+                                <a href='https://urbanwalls.ca/cdn/shop/files/floral-kaleidoscope-wallpaper-wallpaper-urbanwalls-598825.jpg?v=1731031836&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Canada | Removable Wallpaper | Canvas n Decor">
+                                <img itemprop="contentUrl url" src='https://www.canvasndecor.ca/assets/high-quality-self-adhesive-wallpaper-in-bedroom.jpg' alt='Peel & Stick Wallpaper Canada | Removable Wallpaper | Canvas n Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas n Decor" />
+                                </span>
+                                <a href='https://www.canvasndecor.ca/assets/high-quality-self-adhesive-wallpaper-in-bedroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Nature Walk | Wallpaper Online Canada %">
+                                <img itemprop="contentUrl url" src='https://wallpaperonline.ca/wp-content/uploads/2022/01/nature-si-1-e1675074106562.jpg' alt='Mural Nature Walk | Wallpaper Online Canada %'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Online Canada" />
+                                </span>
+                                <a href='https://wallpaperonline.ca/wp-content/uploads/2022/01/nature-si-1-e1675074106562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/GreenValleyWallpaperNeutralFloralPrint_4.png?v=1715121515&width=600' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/GreenValleyWallpaperNeutralFloralPrint_4.png?v=1715121515&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' alt='Unicorn Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timberlea Interiors. Canadian-Made Peel and Stick Wallpapers.">
+                                <img itemprop="contentUrl url" src='https://timberleaco.com/cdn/shop/files/1946-design-1715538191479-rp-6rollsa.jpg?v=1715701198&width=1800' alt='Timberlea Interiors. Canadian-Made Peel and Stick Wallpapers.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="timberleaco.com" />
+                                </span>
+                                <a href='https://timberleaco.com/cdn/shop/files/1946-design-1715538191479-rp-6rollsa.jpg?v=1715701198&width=1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Black White Floral Outline ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27349619/r/il/36e58d/3777448543/il_570xN.3777448543_ry55.jpg' alt='Wallpaper Peel and Stick Wallpaper Black White Floral Outline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27349619/r/il/36e58d/3777448543/il_570xN.3777448543_ry55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Poplin Texture Peel & Stick Wallpaper – Wallpaper Your World">
+                                <img itemprop="contentUrl url" src='http://wallpaperyourworld.com/cdn/shop/products/NU2873_Room_1200x1200.jpg?v=1590258936' alt='Grey Poplin Texture Peel & Stick Wallpaper – Wallpaper Your World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Your World" />
+                                </span>
+                                <a href='http://wallpaperyourworld.com/cdn/shop/products/NU2873_Room_1200x1200.jpg?v=1590258936' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Breath of the Wild Phone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of beautiful Breath of the Wild wallpapers for your phone. Immerse yourself in the captivating world of Hyrule with stunning visuals of Link, Zelda, and breathtaking landscapes. Perfect for fans seeking to enhance their mobile experience! Download now for a fresh look!">
+                    <meta name="keywords" content="botw wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/botw-wallpaper-phone">
+                            <span itemprop="name">botw wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Breath of the Wild Phone Wallpapers</h1>
+                <p>Transform your phone's look with stunning Breath of the Wild wallpapers! Featuring breathtaking landscapes, epic battles, and beloved characters like Link and Zelda, these wallpapers will immerse you in Hyrule’s enchanting world. Perfect for fans and gamers looking to elevate their phone's aesthetic. Download your favorite designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h3zcs5ryazp61.jpg' alt='BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h3zcs5ryazp61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BotW] Here's a Link phone wallpaper because why yes : r/zelda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/botw-heres-a-link-phone-wallpaper-because-why-yes-v0-ovvaj3fty2md1.jpeg?auto=webp&s=c938c83c923661834c76f15cc23a5fd454bc23ba' alt='BotW] Here's a Link phone wallpaper because why yes : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/botw-heres-a-link-phone-wallpaper-because-why-yes-v0-ovvaj3fty2md1.jpeg?auto=webp&s=c938c83c923661834c76f15cc23a5fd454bc23ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda Botw phone wallpaper | Zelda Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6308/352a1d8b329f9591ff7ea716cb46d62a77d60238_00.jpg' alt='Zelda Botw phone wallpaper | Zelda Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6308/352a1d8b329f9591ff7ea716cb46d62a77d60238_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOTW] Breath of the Wild's Link - 3 Atmospheric - Day, Noon, Night ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/botw-breath-of-the-wilds-link-3-atmospheric-day-noon-night-v0-wqm5w6v4srw91.png?width=1440&format=png&auto=webp&s=b16477cd82552b82b659615d1b6952a48045343d' alt='BOTW] Breath of the Wild's Link - 3 Atmospheric - Day, Noon, Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/botw-breath-of-the-wilds-link-3-atmospheric-day-noon-night-v0-wqm5w6v4srw91.png?width=1440&format=png&auto=webp&s=b16477cd82552b82b659615d1b6952a48045343d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Zelda Phone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/da/57/cdda576ed94bf81bbb2fa654b273819e.jpg' alt='Awesome Zelda Phone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/da/57/cdda576ed94bf81bbb2fa654b273819e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rvsymbryazp61.jpg' alt='BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rvsymbryazp61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the legend of zelda breath of wild game 4k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/53/34/01533468ed4dd596125914126b69f612.jpg' alt='the legend of zelda breath of wild game 4k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/53/34/01533468ed4dd596125914126b69f612.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome The Legend of Zelda iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/6a/87/8a6a874e96b97245dabf7ae64454220f.jpg' alt='Awesome The Legend of Zelda iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/6a/87/8a6a874e96b97245dabf7ae64454220f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/crp1x0ryazp61.jpg' alt='BOTW] Updated Zelda phone wallpapers by @malintfalch : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/crp1x0ryazp61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Phone Wallpapers ideas | legend of zelda breath, zelda breath ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/95/af/de/95afde01258a06e2754a88625f5f2b70.jpg' alt='12 Phone Wallpapers ideas | legend of zelda breath, zelda breath ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/95/af/de/95afde01258a06e2754a88625f5f2b70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

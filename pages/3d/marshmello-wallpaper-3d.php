@@ -1,0 +1,129 @@
+<title>Vibrant 3D Marshmello Wallpapers for Your Space</title>
+                    <meta name="description" content="Explore an exciting collection of vibrant 3D Marshmello wallpapers, perfect for fans and decorators alike. These eye-catching designs add depth and personality to your walls. Get inspired and transform your space today!">
+                    <meta name="keywords" content="marshmello wallpaper 3d">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/marshmello-wallpaper-3d">
+                            <span itemprop="name">marshmello wallpaper 3d</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 3D Marshmello Wallpapers for Your Space</h1>
+                <p>Transform your space with stunning 3D Marshmello wallpapers that bring vibrant colors and an immersive atmosphere to your walls. Perfect for fans of the DJ, these unique designs capture his energetic style while adding depth to any room. Elevate your home décor with a touch of creativity and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D MARSHMALLOW">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b3/4b/b0/b34bb0fef42a54a22d18ec6067fbbbfe.jpg' alt='3D MARSHMALLOW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b3/4b/b0/b34bb0fef42a54a22d18ec6067fbbbfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello Wallpapers - Top 80 Best Marshmello Wallpapers [ HQ ]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/85/f2/aa85f2b598647d02ad41b26a69429cdf.jpg' alt='Marshmello Wallpapers - Top 80 Best Marshmello Wallpapers [ HQ ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/85/f2/aa85f2b598647d02ad41b26a69429cdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello 3d, glitch texture, marshmello, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/384/380/HD-wallpaper-marshmello-3d-glitch-texture-marshmello.jpg' alt='Marshmello 3d, glitch texture, marshmello, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/384/380/HD-wallpaper-marshmello-3d-glitch-texture-marshmello.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D MARSHMALLOW">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d4/ab/b8/d4abb8ed3fcf971f4f83334973f3141d.jpg' alt='3D MARSHMALLOW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d4/ab/b8/d4abb8ed3fcf971f4f83334973f3141d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmallow Swag Aniamtion 3D, marshmallow, swag, aniamtion, art ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/107/275/HD-wallpaper-marshmallow-swag-aniamtion-3d-marshmallow-swag-aniamtion-art.jpg' alt='Marshmallow Swag Aniamtion 3D, marshmallow, swag, aniamtion, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/107/275/HD-wallpaper-marshmallow-swag-aniamtion-3d-marshmallow-swag-aniamtion-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Smoky Background With Marshmello Hd Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/colorful-smoky-background-with-marshmello-hd-iphone-z924re6iaw0k6hib.jpg' alt='Colorful Smoky Background With Marshmello Hd Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1159">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/colorful-smoky-background-with-marshmello-hd-iphone-z924re6iaw0k6hib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Marshmello Hd Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/marshmello-hd-iphone-g40mrk2zauydbooi.jpg' alt='100+] Marshmello Hd Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/marshmello-hd-iphone-g40mrk2zauydbooi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshmello - 3D and CG & Abstract Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2266/2266883-bigthumbnail.jpg' alt='Marshmello - 3D and CG & Abstract Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2266/2266883-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Marshmello Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/marshmallow-pfp-for-instagram-1d8a5oxago6yub1v.jpg' alt='200+] Marshmello Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/marshmallow-pfp-for-instagram-1d8a5oxago6yub1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD WALLPAPER MARSHMELLO    #wallpapers | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7163874695417220378&location=0&aid=1988' alt='HD WALLPAPER MARSHMELLO    #wallpapers | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7163874695417220378&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

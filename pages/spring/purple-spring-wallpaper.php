@@ -1,0 +1,129 @@
+<title>Purple Spring Wallpaper: Bring Nature Indoors</title>
+                    <meta name="description" content="Discover the elegance of purple spring wallpaper, perfect for refreshing your home decor. Our vibrant designs capture the essence of spring, making your spaces feel lively and inviting. Ideal for bedrooms, living areas, and more, create your oasis today!">
+                    <meta name="keywords" content="purple spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/purple-spring-wallpaper">
+                            <span itemprop="name">purple spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Spring Wallpaper: Bring Nature Indoors</h1>
+                <p>Transform your space with stunning purple spring wallpaper, blending vibrant hues with soft pastels to evoke the beauty of nature. Perfect for a fresh and cozy atmosphere, these designs feature floral motifs and serene landscapes that breathe life into any room. Embrace the charm of spring all year round!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple spring - Desktop Nexus Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d3/67/8b/d3678b4671a3738ecdc35eccb9e9c9b1.jpg' alt='purple spring - Desktop Nexus Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d3/67/8b/d3678b4671a3738ecdc35eccb9e9c9b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/941005950/photo/violet-lavender-field.jpg?s=612x612&w=0&k=20&c=uIiY_2zsNUj4i4W6TFWqjIiOJqdSxZmKmIhsKiq2Fkw=' alt='1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/941005950/photo/violet-lavender-field.jpg?s=612x612&w=0&k=20&c=uIiY_2zsNUj4i4W6TFWqjIiOJqdSxZmKmIhsKiq2Fkw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Serenity: HD Wallpaper of Purple Flowers in Mountain Bliss">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/689/689456.jpg' alt='Spring Serenity: HD Wallpaper of Purple Flowers in Mountain Bliss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/689/689456.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1219229967/photo/jacaranda-tree-in-full-bloom.jpg?s=612x612&w=0&k=20&c=YoLVqN3yB_vdGJ1nWTghkkIBJCazU_Toq_kSVjlDnuI=' alt='1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1219229967/photo/jacaranda-tree-in-full-bloom.jpg?s=612x612&w=0&k=20&c=YoLVqN3yB_vdGJ1nWTghkkIBJCazU_Toq_kSVjlDnuI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1001 + spring wallpaper images for your phone and desktop computer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/13/e6/2413e6b8ab91ef0ccff3a7e84337e52d.jpg' alt='▷ 1001 + spring wallpaper images for your phone and desktop computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/13/e6/2413e6b8ab91ef0ccff3a7e84337e52d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Spring background of various flowers in purple colors">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/spring-background-various-flowers-purple-colors_444390-9422.jpg' alt='Premium Vector | Spring background of various flowers in purple colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/spring-background-various-flowers-purple-colors_444390-9422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunshine Spring Purple Flower Wallpaper Background | PSD Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20220113/bg/355f92885f2e9.jpg!w700wp' alt='Sunshine Spring Purple Flower Wallpaper Background | PSD Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20220113/bg/355f92885f2e9.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Spring - Forests & Nature Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2461/2461768-bigthumbnail.jpg' alt='Purple Spring - Forests & Nature Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2461/2461768-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Purple Flowers Lilac Plants Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spring-purple-flowers-lilac-plants-v2vp1cd4cnx6pt3q.jpg' alt='Spring Purple Flowers Lilac Plants Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spring-purple-flowers-lilac-plants-v2vp1cd4cnx6pt3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1358494633/photo/violet-verbena-field-flower-background.jpg?s=612x612&w=0&k=20&c=cEWXWMVAYCrF7Oiwyrg85yjfWAOV44-cEaEBzOo8Vgk=' alt='1,009,200+ Spring Purple Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1358494633/photo/violet-verbena-field-flower-background.jpg?s=612x612&w=0&k=20&c=cEWXWMVAYCrF7Oiwyrg85yjfWAOV44-cEaEBzOo8Vgk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

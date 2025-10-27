@@ -1,0 +1,129 @@
+<title>Spooky Christmas Ghost Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover unique Christmas ghost wallpapers that combine festive cheer with a touch of spooky fun! Perfect for decorating your phone or tablet this holiday season, our collection offers a delightful blend of holiday spirit and playful ghostly designs. Enjoy a wallpaper that stands out!">
+                    <meta name="keywords" content="christmas ghost wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-ghost-wallpaper">
+                            <span itemprop="name">christmas ghost wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Christmas Ghost Wallpapers for Your Devices</h1>
+                <p>Transform your screens this holiday season with enchanting Christmas ghost wallpapers! These spooky yet festive designs blend classic horror elements with cheerful holiday vibes, perfect for adding a unique touch to your devices. Enjoy the charm of Christmas spirits while embracing the season’s warmth!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Ghost Phone Wallpapers Festive Phone Background holiday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43717148/r/il/91c686/5517663113/il_570xN.5517663113_3ot5.jpg' alt='Christmas Ghost Phone Wallpapers Festive Phone Background holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43717148/r/il/91c686/5517663113/il_570xN.5517663113_3ot5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Ghost Phone Wallpapers | Festive Phone Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/a5/2d/8ba52d93617d8bcf80ffa466fd8bbecd.jpg' alt='Christmas Ghost Phone Wallpapers | Festive Phone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/a5/2d/8ba52d93617d8bcf80ffa466fd8bbecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Ghosts - 4x6-inches">
+                                <img itemprop="contentUrl url" src='https://flukelady.com/wp-content/uploads/2021/12/christmastreeghosts-scaled.jpg' alt='Christmas Tree Ghosts - 4x6-inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2034">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flukelady - Haunted Emporium" />
+                                </span>
+                                <a href='https://flukelady.com/wp-content/uploads/2021/12/christmastreeghosts-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xmas ghost screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' alt='Xmas ghost screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Ghost Phone Wallpapers Festive Phone Background holiday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43717148/r/il/4ad7c3/5517663101/il_fullxfull.5517663101_26xo.jpg' alt='Christmas Ghost Phone Wallpapers Festive Phone Background holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43717148/r/il/4ad7c3/5517663101/il_fullxfull.5517663101_26xo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boo. Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/b9/c4/47b9c4be545e58cb5ccb9aaccf8a6d8c.jpg' alt='Boo. Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/b9/c4/47b9c4be545e58cb5ccb9aaccf8a6d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2525417481/display_1500/stock-vector-cute-christmas-ghost-with-coffee-2525417481.jpg' alt='11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2525417481/display_1500/stock-vector-cute-christmas-ghost-with-coffee-2525417481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/retro-70s-60s-hippie-groovy-260nw-2199229615.jpg' alt='11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/retro-70s-60s-hippie-groovy-260nw-2199229615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Christmas Wallpapers for Your Device">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7416740021555694881&location=0&aid=1988' alt='Festive Christmas Wallpapers for Your Device'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7416740021555694881&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/be-merry-stay-scary-cute-600nw-2518704375.jpg' alt='11,863 Christmas Ghost Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/be-merry-stay-scary-cute-600nw-2518704375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

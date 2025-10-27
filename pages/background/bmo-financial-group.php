@@ -1,0 +1,129 @@
+<title>BMO Financial Group: Your Trusted Banking Partner</title>
+                    <meta name="description" content="Discover BMO Financial Group, a premier Canadian bank providing innovative financial solutions for personal and business needs. Experience reliable service and sustainable practices that empower your financial journey. Join millions who trust BMO for their banking and investment needs today!">
+                    <meta name="keywords" content="bmo financial group">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bmo-financial-group">
+                            <span itemprop="name">bmo financial group</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>BMO Financial Group: Your Trusted Banking Partner</h1>
+                <p>BMO Financial Group, a leading Canadian bank, offers a comprehensive range of financial services, including personal and commercial banking, wealth management, and investment services. With a strong commitment to customer satisfaction and sustainable practices, BMO serves millions worldwide, fostering economic growth and financial well-being.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group | World Economic Forum">
+                                <img itemprop="contentUrl url" src='https://assets.weforum.org/organization/image/sgontLAmFVUTsLbNz3PQyRyws_7nE5if1nfp91K6Nuw.jpeg' alt='BMO Financial Group | World Economic Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2197">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The World Economic Forum" />
+                                </span>
+                                <a href='https://assets.weforum.org/organization/image/sgontLAmFVUTsLbNz3PQyRyws_7nE5if1nfp91K6Nuw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group Opens Commercial Banking Office in Los Angeles ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1086837/BMO_Harris_Bank_BMO_Financial_Group_Opens_Commercial_Banking_Off.jpg?p=facebook' alt='BMO Financial Group Opens Commercial Banking Office in Los Angeles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2102">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1086837/BMO_Harris_Bank_BMO_Financial_Group_Opens_Commercial_Banking_Off.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for BMO Financial Group">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064283125268' alt='Profile for BMO Financial Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064283125268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group, Bank of Montreal Hong Kong - About BMO ...">
+                                <img itemprop="contentUrl url" src='https://www.bmo.com/asia/images/bmo_logo.gif' alt='BMO Financial Group, Bank of Montreal Hong Kong - About BMO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="83">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BMO" />
+                                </span>
+                                <a href='https://www.bmo.com/asia/images/bmo_logo.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group Reports First Quarter 2025 Results - Feb 25, 2025">
+                                <img itemprop="contentUrl url" src='https://newsroom.bmo.com/image/BMO_Logo_1200x627.jpg' alt='BMO Financial Group Reports First Quarter 2025 Results - Feb 25, 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News Releases - BMO" />
+                                </span>
+                                <a href='https://newsroom.bmo.com/image/BMO_Logo_1200x627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unifying under one name: BMO - About BMO">
+                                <img itemprop="contentUrl url" src='https://about-us.bmo.com/wp-content/uploads/2022/06/BMO-Tower-Blog-thumbnail-400x360-v3.jpg' alt='Unifying under one name: BMO - About BMO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About BMO" />
+                                </span>
+                                <a href='https://about-us.bmo.com/wp-content/uploads/2022/06/BMO-Tower-Blog-thumbnail-400x360-v3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group Marks Grand Opening of BMO Tower, Milwaukee">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1250288/BMO_Harris_Bank_BMO_Financial_Group_Marks_Grand_Opening_of_BMO_T.jpg?p=facebook' alt='BMO Financial Group Marks Grand Opening of BMO Tower, Milwaukee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1250288/BMO_Harris_Bank_BMO_Financial_Group_Marks_Grand_Opening_of_BMO_T.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bank of Montreal (BMO Financial Group, BMO) Logo in SVG ...">
+                                <img itemprop="contentUrl url" src='https://www.logo.wine/a/logo/Bank_of_Montreal/Bank_of_Montreal-Logo.wine.svg' alt='Download Bank of Montreal (BMO Financial Group, BMO) Logo in SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo.wine" />
+                                </span>
+                                <a href='https://www.logo.wine/a/logo/Bank_of_Montreal/Bank_of_Montreal-Logo.wine.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO's U.S. arm hurt by sluggish loan growth, tighter margins ...">
+                                <img itemprop="contentUrl url" src='https://arizent.brightspotcdn.com/dims4/default/3e8c2b8/2147483647/strip/true/crop/2000x1333+0+0/resize/740x493!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F44%2Fdc%2Fa699a2d548489840aa32e2ce7c9f%2F408405764.jpg' alt='BMO's U.S. arm hurt by sluggish loan growth, tighter margins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Banker" />
+                                </span>
+                                <a href='https://arizent.brightspotcdn.com/dims4/default/3e8c2b8/2147483647/strip/true/crop/2000x1333+0+0/resize/740x493!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F44%2Fdc%2Fa699a2d548489840aa32e2ce7c9f%2F408405764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BMO Financial Group - We are proud to announce a new strategic ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=911564194329676' alt='BMO Financial Group - We are proud to announce a new strategic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=911564194329676' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

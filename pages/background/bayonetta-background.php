@@ -1,0 +1,129 @@
+<title>Bayonetta: Unleashing the Witch Within</title>
+                    <meta name="description" content="Discover the captivating background of Bayonetta, the powerful witch from PlatinumGames. Dive into her intriguing story, rich mythology, and the epic battles that define her journey in the gaming universe. Explore the stylish combat and iconic character that fans adore.">
+                    <meta name="keywords" content="bayonetta background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bayonetta-background">
+                            <span itemprop="name">bayonetta background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bayonetta: Unleashing the Witch Within</h1>
+                <p>Bayonetta is an iconic character from the video game series created by PlatinumGames. She is a witch with powerful combat abilities, known for her stylish moves and witty personality. Set in a fantastical world, her story weaves themes of good versus evil, exploring mythology and her origins, including battles against angels and demons.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="can someone provide just the background of these Bayonetta ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/can-someone-provide-just-the-background-of-these-bayonetta-v0-xajt0j6v1j6d1.jpg?width=1000&format=pjpg&auto=webp&s=b79ccd298d698f696af8f470c5401ef65f68a754' alt='can someone provide just the background of these Bayonetta ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/can-someone-provide-just-the-background-of-these-bayonetta-v0-xajt0j6v1j6d1.jpg?width=1000&format=pjpg&auto=webp&s=b79ccd298d698f696af8f470c5401ef65f68a754' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Bayonetta 3's Release with Exclusive Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.platinumgames.co.jp/dev-bayonetta3/wp-content/uploads/sites/16/2022/10/Bayonetta3_blogwallpaper_PC.jpg' alt='Celebrate Bayonetta 3's Release with Exclusive Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platinum Games" />
+                                </span>
+                                <a href='https://www.platinumgames.co.jp/dev-bayonetta3/wp-content/uploads/sites/16/2022/10/Bayonetta3_blogwallpaper_PC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="can someone provide just the background of these Bayonetta ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/can-someone-provide-just-the-background-of-these-bayonetta-v0-3h6dl57v1j6d1.jpg?width=1000&format=pjpg&auto=webp&s=743f91fd73c6134792bcb63530ef2810060040a5' alt='can someone provide just the background of these Bayonetta ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/can-someone-provide-just-the-background-of-these-bayonetta-v0-3h6dl57v1j6d1.jpg?width=1000&format=pjpg&auto=webp&s=743f91fd73c6134792bcb63530ef2810060040a5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bayonetta 12th Anniversary! A Message from Hideki Kamiya ...">
+                                <img itemprop="contentUrl url" src='https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg' alt='Bayonetta 12th Anniversary! A Message from Hideki Kamiya ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platinum Games" />
+                                </span>
+                                <a href='https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bayonetta: The Enigmatic Witch of Video Game Lore">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/147/thumb-1920-147803.jpg' alt='Bayonetta: The Enigmatic Witch of Video Game Lore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/147/thumb-1920-147803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bayonetta 12th Anniversary! A Message from Hideki Kamiya ...">
+                                <img itemprop="contentUrl url" src='https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/1Bayonetta_wallpaper_1284x2778-473x1024.jpg' alt='Bayonetta 12th Anniversary! A Message from Hideki Kamiya ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platinum Games" />
+                                </span>
+                                <a href='https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/1Bayonetta_wallpaper_1284x2778-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bayonetta 2 Part #20 - Concept Art - Backgrounds">
+                                <img itemprop="contentUrl url" src='http://lpix.org/2212612/02%20City%20Streets.jpg' alt='Bayonetta 2 Part #20 - Concept Art - Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1114">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Let's Play Archive" />
+                                </span>
+                                <a href='http://lpix.org/2212612/02%20City%20Streets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BAYONETTA All Cutscenes (Full Game Movie) 4K Ultra HD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/o0ABLFmCldI/maxresdefault.jpg' alt='BAYONETTA All Cutscenes (Full Game Movie) 4K Ultra HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/o0ABLFmCldI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bayonetta Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bayonetta-night-sky-u9q5ycr9wj5m9uf7.jpg' alt='100+] Bayonetta Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bayonetta-night-sky-u9q5ycr9wj5m9uf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Bayonetta 3's Release with Exclusive Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.platinumgames.co.jp/dev-bayonetta3/wp-content/uploads/sites/16/2022/10/Bayonetta3_blogwallpaper_mobileB.jpg' alt='Celebrate Bayonetta 3's Release with Exclusive Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platinum Games" />
+                                </span>
+                                <a href='https://www.platinumgames.co.jp/dev-bayonetta3/wp-content/uploads/sites/16/2022/10/Bayonetta3_blogwallpaper_mobileB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

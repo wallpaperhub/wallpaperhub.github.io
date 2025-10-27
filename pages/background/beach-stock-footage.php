@@ -1,0 +1,129 @@
+<title>Stunning Beach Stock Footage for Your Next Project</title>
+                    <meta name="description" content="Explore our vibrant beach stock footage collection, featuring breathtaking landscapes, serene waves, and stunning sunsets. Perfect for filmmakers, marketers, and content creators needing high-quality visuals to enhance their projects. Easy to access and perfect for any theme! Elevate your work with our beautiful beach clips.">
+                    <meta name="keywords" content="beach stock footage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beach-stock-footage">
+                            <span itemprop="name">beach stock footage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Beach Stock Footage for Your Next Project</h1>
+                <p>Discover a stunning collection of beach stock footage that captures the essence of paradise. From tranquil sunsets to vibrant waves crashing against golden shores, our library offers high-quality clips for your projects. Perfect for commercials, documentaries, and personal use, these visuals will transport your audience to a sun-kissed getaway.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panorama Beach blue sky best wave splashing sandy summer . United States.  stock video 1398952864">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398952864/video/panorama-beach-blue-sky-best-wave-splashing-sandy-summer-united-states.jpg?s=640x640&k=20&c=sQKfR5RBF2Q7qRctoEB5FGyn4yc38WTtgW9O9yfhN60=' alt='Panorama Beach blue sky best wave splashing sandy summer . United States.  stock video 1398952864'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398952864/video/panorama-beach-blue-sky-best-wave-splashing-sandy-summer-united-states.jpg?s=640x640&k=20&c=sQKfR5RBF2Q7qRctoEB5FGyn4yc38WTtgW9O9yfhN60=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerial view of sandy beach and ocean with waves">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/96/96/33/360_F_396963389_Z8Z5pIwSBw6ahiJN5ktS3hVTm8nObtF1.jpg' alt='Aerial view of sandy beach and ocean with waves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/96/96/33/360_F_396963389_Z8Z5pIwSBw6ahiJN5ktS3hVTm8nObtF1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea. Sky. Beach. Holiday Background stock video 1137495366">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1137495366/video/sea-sky-beach-holiday-background.jpg?s=640x640&k=20&c=j2Gv1y_49eQfz0wEmtWkyMoZAs9RgtWqpQaCOBCVNWw=' alt='Sea. Sky. Beach. Holiday Background stock video 1137495366'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1137495366/video/sea-sky-beach-holiday-background.jpg?s=640x640&k=20&c=j2Gv1y_49eQfz0wEmtWkyMoZAs9RgtWqpQaCOBCVNWw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Videos, Download The BEST Free 4k Stock Video Footage ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/855633/free-video-855633.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Beach Videos, Download The BEST Free 4k Stock Video Footage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/855633/free-video-855633.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful beach background 4K (free stock footage)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/h_8F7xd9uhs/maxresdefault.jpg' alt='Beautiful beach background 4K (free stock footage)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/h_8F7xd9uhs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical sand beach background with palms.">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/tropical-sand-beach-background-palms-footage-034991743_iconl.jpeg' alt='Tropical sand beach background with palms.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/tropical-sand-beach-background-palms-footage-034991743_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean beach sunrise with color sky clouds and sun rays over sea waves, 4k  video of nature landscape stock video 1419061414">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1419061414/video/ocean-beach-sunrise-with-color-sky-clouds-and-sun-rays-over-sea-waves-4k-video-of-nature.jpg?s=640x640&k=20&c=sTGXPsa4npakiK9RXAW_Tr2xCrerWQPceJD3EYlrBUw=' alt='Ocean beach sunrise with color sky clouds and sun rays over sea waves, 4k  video of nature landscape stock video 1419061414'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1419061414/video/ocean-beach-sunrise-with-color-sky-clouds-and-sun-rays-over-sea-waves-4k-video-of-nature.jpg?s=640x640&k=20&c=sTGXPsa4npakiK9RXAW_Tr2xCrerWQPceJD3EYlrBUw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical beach">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/tropical-beach-footage-022507738_iconl.jpeg' alt='Tropical beach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/tropical-beach-footage-022507738_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful tropical beach sea ocean with blue sky and white cloud">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/557/712/small_2x/beautiful-tropical-beach-sea-ocean-with-blue-sky-and-white-cloud-free-video.jpg' alt='Beautiful tropical beach sea ocean with blue sky and white cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/557/712/small_2x/beautiful-tropical-beach-sea-ocean-with-blue-sky-and-white-cloud-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm tree. Luxuty beach. Travel. Holiday Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1184292326/video/palm-tree-luxuty-beach-travel-holiday.jpg?s=640x640&k=20&c=HEq_v0dfejkq6w30kpn1ipAkSgoubHm4A8-ioohOiww=' alt='Palm tree. Luxuty beach. Travel. Holiday Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1184292326/video/palm-tree-luxuty-beach-travel-holiday.jpg?s=640x640&k=20&c=HEq_v0dfejkq6w30kpn1ipAkSgoubHm4A8-ioohOiww=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

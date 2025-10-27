@@ -1,0 +1,129 @@
+<title>Capturing Nature: Marsh Drawing Techniques</title>
+                    <meta name="description" content="Explore the enchanting world of marsh drawing! Discover techniques to beautifully depict wetlands and their diverse wildlife. Perfect for artists and nature lovers alike, this guide inspires creativity while promoting awareness of valuable marsh ecosystems. Ideal for artists seeking to enhance their portfolio.">
+                    <meta name="keywords" content="marsh drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marsh-drawing">
+                            <span itemprop="name">marsh drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capturing Nature: Marsh Drawing Techniques</h1>
+                <p>Marsh drawing is a captivating art form that captures the serene beauty of wetlands. Artists utilize various techniques to sketch vibrant flora and fauna found in marshes, highlighting their unique textures and colors. These drawings not only celebrate nature but also raise awareness about the importance of marsh ecosystems.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,800+ Marsh Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/813822608/vector/river-vector-landscape-with-trees-and-water-plants-hand-drawn-illustration.jpg?s=612x612&w=0&k=20&c=afI9czGSdM2qUrYrUXNG-l523SL0qiLFHij8uzkCjHU=' alt='4,800+ Marsh Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/813822608/vector/river-vector-landscape-with-trees-and-water-plants-hand-drawn-illustration.jpg?s=612x612&w=0&k=20&c=afI9czGSdM2qUrYrUXNG-l523SL0qiLFHij8uzkCjHU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Marsh" A Breath of Salt Air: Art Blog by Casey Chalem ...">
+                                <img itemprop="contentUrl url" src='https://www.danspapers.com/wp-content/uploads/2018/04/Web-Salt-Marsh-sketchCaseyChalemAnderson.jpg' alt='Salt Marsh" A Breath of Salt Air: Art Blog by Casey Chalem ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dan's Papers" />
+                                </span>
+                                <a href='https://www.danspapers.com/wp-content/uploads/2018/04/Web-Salt-Marsh-sketchCaseyChalemAnderson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Marshes Drawing Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/639927676/vector/river-landscape-with-reed-and-cattail.jpg?s=612x612&w=0&k=20&c=gfRJtHz_TDF2OWad_tUjYZmeOL1msKF43mXAu0LIAoE=' alt='1,500+ Marshes Drawing Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/639927676/vector/river-landscape-with-reed-and-cattail.jpg?s=612x612&w=0&k=20&c=gfRJtHz_TDF2OWad_tUjYZmeOL1msKF43mXAu0LIAoE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Marsh by John Meszaros">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/salt-marsh-john-meszaros.jpg' alt='Salt Marsh by John Meszaros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/salt-marsh-john-meszaros.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marsh Landscape Print | Pastel Drawing Art Print, Coastal ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13551343/r/il/eccf9d/4846002033/il_570xN.4846002033_6rgt.jpg' alt='Marsh Landscape Print | Pastel Drawing Art Print, Coastal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13551343/r/il/eccf9d/4846002033/il_570xN.4846002033_6rgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw MARSH GRASS step by step">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lJL_VzrKMAw/maxresdefault.jpg' alt='How to draw MARSH GRASS step by step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lJL_VzrKMAw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Marsh Drawing by Frances Gaffney - Fine Art America">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large/the-marsh-frances-gaffney.jpg' alt='The Marsh Drawing by Frances Gaffney - Fine Art America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large/the-marsh-frances-gaffney.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Drawing Of Marsh Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1481190703/vector/simple-vector-ink-sketch-a-bush-of-grass-in-the-water-reeds-marsh-plants-nature-and.jpg?s=612x612&w=0&k=20&c=Dq7rFupH68ma3cA4taX7hpIoSEAmSrBU7JzBi2T6j64=' alt='1,100+ Drawing Of Marsh Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1481190703/vector/simple-vector-ink-sketch-a-bush-of-grass-in-the-water-reeds-marsh-plants-nature-and.jpg?s=612x612&w=0&k=20&c=Dq7rFupH68ma3cA4taX7hpIoSEAmSrBU7JzBi2T6j64=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marsh View Print — Carmen Brunson Designs | Fine Artist South Carolina">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5ede9cf3034c81371810fe4a/1655857481141-K3SGPJ4LJDCN0IFJFHUL/Marsh+View+2.jpg?format=1000w' alt='Marsh View Print — Carmen Brunson Designs | Fine Artist South Carolina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carmen Brunson Designs | Fine Artist South Carolina" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5ede9cf3034c81371810fe4a/1655857481141-K3SGPJ4LJDCN0IFJFHUL/Marsh+View+2.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summertime in the marsh by James Talalaj">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/summertime-in-the-marsh-james-talalaj.jpg' alt='Summertime in the marsh by James Talalaj'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/summertime-in-the-marsh-james-talalaj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

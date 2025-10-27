@@ -1,0 +1,129 @@
+<title>Elegant Emerald Green Wedding Invitations</title>
+                    <meta name="description" content="Discover luxurious emerald green wedding invitations that blend elegance and style. Perfect for any theme, these invitations will captivate your guests and set the tone for your special day. Explore beautiful designs and make your wedding unforgettable with a touch of rich color.">
+                    <meta name="keywords" content="emerald green wedding invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emerald-green-wedding-invitations">
+                            <span itemprop="name">emerald green wedding invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Emerald Green Wedding Invitations</h1>
+                <p>Elevate your wedding with stunning emerald green invitations that exude elegance and sophistication. This rich, vibrant hue symbolizes harmony and renewal, perfect for a romantic celebration. Discover a variety of styles, from classic to modern, allowing your unique personality to shine through while enchanting your guests.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Wedding Invitation - Emerald Wedding, Forest Green ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8189632/r/il/1f0292/4009627108/il_fullxfull.4009627108_hs2j.jpg' alt='Emerald Green Wedding Invitation - Emerald Wedding, Forest Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8189632/r/il/1f0292/4009627108/il_fullxfull.4009627108_hs2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer CI509">
+                                <img itemprop="contentUrl url" src='https://www.claritynco.com/media/catalog/product/cache/563a46d9c0d95654a59fbc0ffa3b1763/e/w/ewi509-_.jpg' alt='Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer CI509'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="claritynco" />
+                                </span>
+                                <a href='https://www.claritynco.com/media/catalog/product/cache/563a46d9c0d95654a59fbc0ffa3b1763/e/w/ewi509-_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Emerald Green Wedding Invitation Suite with Floral Acrylic Card  EWPA011">
+                                <img itemprop="contentUrl url" src='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/e/w/ewpa011_2_.jpg' alt='Elegant Emerald Green Wedding Invitation Suite with Floral Acrylic Card  EWPA011'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elegant Wedding Invites" />
+                                </span>
+                                <a href='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/e/w/ewpa011_2_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Wedding Invitation, Gold and Green Floral Invites ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53192557/r/il/adc58d/6301593279/il_fullxfull.6301593279_iibi.jpg' alt='Emerald Green Wedding Invitation, Gold and Green Floral Invites ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2223">
+                                <meta itemprop="height" content="2446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53192557/r/il/adc58d/6301593279/il_fullxfull.6301593279_iibi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Velvet Wedding Invitations, Acrylic Arch Wedding Invites,  Greenery Velvet Wedding Invitation Suite, Garden Modern Wedding Stationary,  ...">
+                                <img itemprop="contentUrl url" src='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/407/e7d275799bc0497998c21a0ef33c9166/15-02-arch_wedding_invitations_green_and_gold_49-acryl-velvet-2022-1-5.jpg' alt='Emerald Green Velvet Wedding Invitations, Acrylic Arch Wedding Invites,  Greenery Velvet Wedding Invitation Suite, Garden Modern Wedding Stationary,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margo&bees wedding invitations" />
+                                </span>
+                                <a href='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/407/e7d275799bc0497998c21a0ef33c9166/15-02-arch_wedding_invitations_green_and_gold_49-acryl-velvet-2022-1-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Greenery Invitation">
+                                <img itemprop="contentUrl url" src='https://printingbypennylane.com/cdn/shop/products/W10011_Mockup.jpg?v=1596568723' alt='Emerald Greenery Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printing by Penny Lane" />
+                                </span>
+                                <a href='https://printingbypennylane.com/cdn/shop/products/W10011_Mockup.jpg?v=1596568723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green wedding Invitation suite, Greenery Velvet invitations set,  Modern boho invites set wit">
+                                <img itemprop="contentUrl url" src='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/371/b029e68b386c362d9035cc85e10e4aac/13-velvet-green-wedding-invitation-baby-breath-flowers-margo-2023-1.jpg' alt='Emerald Green wedding Invitation suite, Greenery Velvet invitations set,  Modern boho invites set wit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margo&bees wedding invitations" />
+                                </span>
+                                <a href='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/371/b029e68b386c362d9035cc85e10e4aac/13-velvet-green-wedding-invitation-baby-breath-flowers-margo-2023-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DORIS HOME 50PCS Laser Cut Wedding Invitation with Envelope, 4.9x7.2" Gold  Glitter Invitations Laser Cut with Hollow Rose, Emerald Green and Gold ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81T3VpOg0KL.jpg' alt='DORIS HOME 50PCS Laser Cut Wedding Invitation with Envelope, 4.9x7.2" Gold  Glitter Invitations Laser Cut with Hollow Rose, Emerald Green and Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81T3VpOg0KL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green and Gold Wedding Invitation">
+                                <img itemprop="contentUrl url" src='http://www.indybeecrafts.com/cdn/shop/products/GG001_3.jpg?v=1618999512' alt='Emerald Green and Gold Wedding Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indy Bee Crafts" />
+                                </span>
+                                <a href='http://www.indybeecrafts.com/cdn/shop/products/GG001_3.jpg?v=1618999512' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer SWI068">
+                                <img itemprop="contentUrl url" src='https://www.stylishwedd.com/media/catalog/product/cache/cc19e27e13b283b612fab71990524d05/s/w/swi068-1.jpg' alt='Affordable Emerald Green Botanical Wedding Invite with Gold Mirror Paper  Backer SWI068'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="stylishwedd" />
+                                </span>
+                                <a href='https://www.stylishwedd.com/media/catalog/product/cache/cc19e27e13b283b612fab71990524d05/s/w/swi068-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

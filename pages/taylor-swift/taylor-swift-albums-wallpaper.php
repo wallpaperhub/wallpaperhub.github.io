@@ -1,0 +1,129 @@
+<title>Taylor Swift Albums Wallpaper: Stunning Backgrounds for Every Era</title>
+                    <meta name="description" content="Discover a collection of beautiful Taylor Swift albums wallpaper. Perfect for any fan, these wallpapers feature vibrant designs from her iconic albums. Personalize your device with stunning visuals that capture the essence of each era. Download your favorites today!">
+                    <meta name="keywords" content="taylor swift albums wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-albums-wallpaper">
+                            <span itemprop="name">taylor swift albums wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Albums Wallpaper: Stunning Backgrounds for Every Era</h1>
+                <p>Elevate your device's look with stunning Taylor Swift albums wallpaper! Showcasing her iconic album covers, vibrant art, and meaningful lyrics, these wallpapers are perfect for every Swiftie. From 'Fearless' to 'Midnights', find the perfect background that reflects your favorite era and keeps you connected to Taylor's music!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Eras Wallpapers | 10 Album Cover Designs | iPhone and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25095745/r/il/8ce9e2/5233764245/il_fullxfull.5233764245_4g2a.jpg' alt='Taylor Swift Eras Wallpapers | 10 Album Cover Designs | iPhone and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25095745/r/il/8ce9e2/5233764245/il_fullxfull.5233764245_4g2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Wallpapers, In Different Styles : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/album-wallpapers-in-different-styles-v0-w7q59jqir10b1.png?width=640&crop=smart&auto=webp&s=e436b6e2a81cbc7be85c333354427111bbc662bd' alt='Album Wallpapers, In Different Styles : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/album-wallpapers-in-different-styles-v0-w7q59jqir10b1.png?width=640&crop=smart&auto=webp&s=e436b6e2a81cbc7be85c333354427111bbc662bd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/ff/79/8cff797ee435fa83a538cb7d43b70e3b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/ff/79/8cff797ee435fa83a538cb7d43b70e3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got bored and made a desktop background using album covers (1366 x ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/85qqerfwcny61.png?auto=webp&s=580d1ec3458482f8a333a43b49db60e28e34d9b9' alt='Got bored and made a desktop background using album covers (1366 x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/85qqerfwcny61.png?auto=webp&s=580d1ec3458482f8a333a43b49db60e28e34d9b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift The Eras Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/4b/4e/074b4ed03431dbc4a739582d925c67d7.jpg' alt='Taylor Swift The Eras Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/4b/4e/074b4ed03431dbc4a739582d925c67d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I updated my phone wallpapers to include evermore: : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oddlybjhw2661.jpg?width=640&crop=smart&auto=webp&s=3d1fa43af76f79dc6fefc98b2e6d55f0a3c36677' alt='I updated my phone wallpapers to include evermore: : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oddlybjhw2661.jpg?width=640&crop=smart&auto=webp&s=3d1fa43af76f79dc6fefc98b2e6d55f0a3c36677' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themed Wallpapers That Auto-Switch When You Play Each Album! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/93qtt0io4wtc1.jpeg' alt='Themed Wallpapers That Auto-Switch When You Play Each Album! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5893">
+                                <meta itemprop="height" content="5110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/93qtt0io4wtc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylorswift #theerastour #erastour #eras #tsdebut #fearless ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/5d/90/aa5d9055970f90c0a9e8d5ec1bc176dc.jpg' alt='taylorswift #theerastour #erastour #eras #tsdebut #fearless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/5d/90/aa5d9055970f90c0a9e8d5ec1bc176dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out TTHETORTUREDPOETSDEPARTMENT's Shuffles 'Speak now ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/42/29/31/42293149e81c7ceefecbed992c409171.jpg' alt='Check out TTHETORTUREDPOETSDEPARTMENT's Shuffles 'Speak now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/42/29/31/42293149e81c7ceefecbed992c409171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Album Cover Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11839627.png' alt='Taylor Swift Album Cover Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11839627.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

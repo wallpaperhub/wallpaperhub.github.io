@@ -1,0 +1,129 @@
+<title>Grainy Gradient: Adding Texture to Your Designs</title>
+                    <meta name="description" content="Explore the art of grainy gradients! Learn how to incorporate textured color blends into your designs, enhancing depth and character. Perfect for photographers and designers seeking to create impactful visuals with a nostalgic touch. Discover tips and techniques to make your projects stand out!">
+                    <meta name="keywords" content="grainy gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grainy-gradient">
+                            <span itemprop="name">grainy gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Grainy Gradient: Adding Texture to Your Designs</h1>
+                <p>Grainy gradients add a textured depth to visual designs, blending colors with a rustic flair. This technique enhances backgrounds, illustrations, and UI elements, creating a unique aesthetic. Ideal for photographers and graphic designers, grainy gradients evoke nostalgia while providing a modern twist, making projects stand out with their captivating appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating grainy gradients - Behind the algorithm: Granular - Misha ...">
+                                <img itemprop="contentUrl url" src='https://www.misha.studio/blog/creating-grainy-gradients/assets/cover-16x9.webp' alt='Creating grainy gradients - Behind the algorithm: Granular - Misha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Misha.studio" />
+                                </span>
+                                <a href='https://www.misha.studio/blog/creating-grainy-gradients/assets/cover-16x9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grainy Gradient Background - Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion_array/2222917/Grainy_Gradient_Background_high_resolution_preview_2222917.jpg?Expires=2037574868103&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=M4jWp4Ikku-xDypkd2cWfQqj3aSGHklPpsJc5dpvSU2TRVZLNdd3Unkef1Rb60X8dI~nTKhlIeBVe5U1O0o3djKzSGwA~PVKj2t6TNT1qegKWgyp-c4z6wmjE6pORtosrSQiIheMIlvEKzzHsxLgt35xuBeiexr5yCZH58LwYZzthOoBo7ngSwzoigZeQlDyCQ3VZqWNHjCFv5yu6QeNX9NCST8PDF7X0HRXkV7IfEhaNaLCmajKooNZFoJ0drcMRhJ~Lz3upvmBWcUNbf4OykpY9h9etZ0TR1NbOZaJPIigiHKqEx2yYIjgGUJQfmdaz4uxCyBPzi5DDT~~3Olulw__' alt='Grainy Gradient Background - Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion_array/2222917/Grainy_Gradient_Background_high_resolution_preview_2222917.jpg?Expires=2037574868103&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=M4jWp4Ikku-xDypkd2cWfQqj3aSGHklPpsJc5dpvSU2TRVZLNdd3Unkef1Rb60X8dI~nTKhlIeBVe5U1O0o3djKzSGwA~PVKj2t6TNT1qegKWgyp-c4z6wmjE6pORtosrSQiIheMIlvEKzzHsxLgt35xuBeiexr5yCZH58LwYZzthOoBo7ngSwzoigZeQlDyCQ3VZqWNHjCFv5yu6QeNX9NCST8PDF7X0HRXkV7IfEhaNaLCmajKooNZFoJ0drcMRhJ~Lz3upvmBWcUNbf4OykpY9h9etZ0TR1NbOZaJPIigiHKqEx2yYIjgGUJQfmdaz4uxCyBPzi5DDT~~3Olulw__' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRAINY GRADIENT SHORT SIMPLE PHOTOSHOP TUTORIAL - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EHYaou42MDw/sddefault.jpg' alt='GRAINY GRADIENT SHORT SIMPLE PHOTOSHOP TUTORIAL - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EHYaou42MDw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grainy Gradient Texture Background Graphic by TiveCreate ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/01/25/Grainy-Gradient-Texture-Background-Graphics-24101267-1-1-580x390.jpg' alt='Grainy Gradient Texture Background Graphic by TiveCreate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/01/25/Grainy-Gradient-Texture-Background-Graphics-24101267-1-1-580x390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chroma Grainy Gradient Textures, a Texture Graphic by kuro ...">
+                                <img itemprop="contentUrl url" src='https://tint.creativemarket.com/x6auRFeWIv636aDvclwwxMN2-iTrKlUKiHnKfxEJOVc/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzEwMzYvMTAzNjcvMTAzNjczOTYvcHJldmlld18xLW8uanBn?1621799986' alt='Chroma Grainy Gradient Textures, a Texture Graphic by kuro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Market" />
+                                </span>
+                                <a href='https://tint.creativemarket.com/x6auRFeWIv636aDvclwwxMN2-iTrKlUKiHnKfxEJOVc/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzEwMzYvMTAzNjcvMTAzNjczOTYvcHJldmlld18xLW8uanBn?1621799986' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grainy Gradients | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/noisy-gradient.png?fit=2400%2C1200&amp;ssl=1' alt='Grainy Gradients | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/noisy-gradient.png?fit=2400%2C1200&amp;ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photoshop Tutorial: How to create a grainy noise texture gradient">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/D2vMkWqCYLg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1XyiggKTE1LnUoXnsvrwmJZfuYg' alt='Photoshop Tutorial: How to create a grainy noise texture gradient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/D2vMkWqCYLg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1XyiggKTE1LnUoXnsvrwmJZfuYg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Noise Images – Browse 661,503 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/68/70/44/360_F_568704491_8WdHwbg79OhGesgaux8D6NtBoGXA33rD.jpg' alt='Gradient Noise Images – Browse 661,503 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/68/70/44/360_F_568704491_8WdHwbg79OhGesgaux8D6NtBoGXA33rD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Color Grainy Texture | Free download">
+                                <img itemprop="contentUrl url" src='https://cgispread.com/wp-content/uploads/2021/03/Gradient-Color-Grainy-Texture.jpg' alt='Gradient Color Grainy Texture | Free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1111">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CGIspread" />
+                                </span>
+                                <a href='https://cgispread.com/wp-content/uploads/2021/03/Gradient-Color-Grainy-Texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless abstract wavy background for loop playback. stock video 1470418669">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1470418669/video/seamless-abstract-wavy-background-for-loop-playback.jpg?s=640x640&k=20&c=fdxZORMSZ5_M6KLNKE52d1PTi0CfHR_onj_YOoSzkhw=' alt='Seamless abstract wavy background for loop playback. stock video 1470418669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1470418669/video/seamless-abstract-wavy-background-for-loop-playback.jpg?s=640x640&k=20&c=fdxZORMSZ5_M6KLNKE52d1PTi0CfHR_onj_YOoSzkhw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

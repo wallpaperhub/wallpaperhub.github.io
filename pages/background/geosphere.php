@@ -1,0 +1,129 @@
+<title>Understanding the Geosphere: Earth's Solid Foundation</title>
+                    <meta name="description" content="Explore the geosphere, the Earth's solid layer that shapes landscapes and interacts with other Earth systems. Discover its role in geology, climate change, and natural resources in this concise guide. Perfect for quick insights on Earth's solid foundation!">
+                    <meta name="keywords" content="geosphere">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/geosphere">
+                            <span itemprop="name">geosphere</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Geosphere: Earth's Solid Foundation</h1>
+                <p>The geosphere comprises the solid parts of Earth, including rocks, minerals, landforms, and the processes that shape them. It interacts with the atmosphere, hydrosphere, and biosphere, playing a crucial role in Earth’s systems. Understanding the geosphere helps us comprehend geological processes, climate change, and natural resources.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geosphere - Wikiversity">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikiversity/en/4/45/Mantle.png' alt='Geosphere - Wikiversity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikiversity" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikiversity/en/4/45/Mantle.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About The Geosphere | MyNASAData">
+                                <img itemprop="contentUrl url" src='https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/Geosphere1.png' alt='About The Geosphere | MyNASAData'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My NASA Data - NASA" />
+                                </span>
+                                <a href='https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/Geosphere1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Geosphere in The Earth System? – Eschooltoday">
+                                <img itemprop="contentUrl url" src='https://eschooltoday.com/learn/wp-content/uploads/2020/04/the-rock-cycle-in-the-geosphere.jpg' alt='What is the Geosphere in The Earth System? – Eschooltoday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eschooltoday" />
+                                </span>
+                                <a href='https://eschooltoday.com/learn/wp-content/uploads/2020/04/the-rock-cycle-in-the-geosphere.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Earth's Geosphere">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FgpGZpVedQs/maxresdefault.jpg' alt='The Earth's Geosphere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FgpGZpVedQs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geosphere - Definition, Characteristics, Examples, and Diagram">
+                                <img itemprop="contentUrl url" src='https://www.sciencefacts.net/wp-content/uploads/2023/08/Geosphere.jpg' alt='Geosphere - Definition, Characteristics, Examples, and Diagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Facts" />
+                                </span>
+                                <a href='https://www.sciencefacts.net/wp-content/uploads/2023/08/Geosphere.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geosphere and the Rock Cycle Diagram (Color)">
+                                <img itemprop="contentUrl url" src='https://www.exploringnature.org/graphics/posters/geosphere_rock_cycle72.jpg' alt='Geosphere and the Rock Cycle Diagram (Color)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exploringnature.org" />
+                                </span>
+                                <a href='https://www.exploringnature.org/graphics/posters/geosphere_rock_cycle72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are the Earth System's Four Spheres? - Geography Realm">
+                                <img itemprop="contentUrl url" src='https://www.geographyrealm.com/wp-content/uploads/2020/03/geosphere-biosphere-earth.png' alt='What are the Earth System's Four Spheres? - Geography Realm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geography Realm" />
+                                </span>
+                                <a href='https://www.geographyrealm.com/wp-content/uploads/2020/03/geosphere-biosphere-earth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geosphere | Earth science | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/20/114420-050-81BCBCE0/environment-Earth-hydrosphere-atmosphere-biosphere-lithosphere.jpg' alt='Geosphere | Earth science | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/20/114420-050-81BCBCE0/environment-Earth-hydrosphere-atmosphere-biosphere-lithosphere.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Geosphere Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2148238927/vector/vector-illustration-of-earths-geosphere-biosphere-hydrosphere-atmosphere.jpg?s=612x612&w=0&k=20&c=YO7zPqmGCES6plq_Yx_KmliIxZ0nuYbH7rn7vXtHIBA=' alt='60+ Geosphere Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2148238927/vector/vector-illustration-of-earths-geosphere-biosphere-hydrosphere-atmosphere.jpg?s=612x612&w=0&k=20&c=YO7zPqmGCES6plq_Yx_KmliIxZ0nuYbH7rn7vXtHIBA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geosphere | Definition, Facts & Importance - Lesson | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/640px-oceanic-oceanic_convergence_dumb_version.svg7468792140405224113.png' alt='Geosphere | Definition, Facts & Importance - Lesson | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/640px-oceanic-oceanic_convergence_dumb_version.svg7468792140405224113.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

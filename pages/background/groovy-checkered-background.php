@@ -1,0 +1,129 @@
+<title>Groovy Checkered Background: Retro Vibes for Modern Projects</title>
+                    <meta name="description" content="Explore our groovy checkered background, a vibrant design that merges retro aesthetics with modern creativity. Perfect for enhancing your projects, this unique pattern adds energy and style, making it an excellent choice for graphics, fashion, and decor. Embrace nostalgia today!">
+                    <meta name="keywords" content="groovy checkered background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-checkered-background">
+                            <span itemprop="name">groovy checkered background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Checkered Background: Retro Vibes for Modern Projects</h1>
+                <p>Discover the vibrant allure of a groovy checkered background! Perfect for adding a playful, retro vibe to your projects, this design combines bold colors and classic patterns to lighten up any space. Ideal for graphic design, fashion, or decor, the groovy checkered pattern evokes nostalgia while infusing creativity and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Checkered Bicolor Background 1970 Vintage ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-checkered-bicolor-background-1970-vintage-hippie-chessboard-pattern-vector-retro_605517-585.jpg' alt='Premium Vector | Groovy Checkered Bicolor Background 1970 Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-checkered-bicolor-background-1970-vintage-hippie-chessboard-pattern-vector-retro_605517-585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy retro pattern background in psychedelic checkered backdrop ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/866/859/non_2x/groovy-retro-pattern-background-in-psychedelic-checkered-backdrop-style-a-chessboard-in-a-minimalist-abstract-design-with-a-60s-70s-aesthetic-vibe-hippie-style-y2k-funky-print-illustration-vector.jpg' alt='Groovy retro pattern background in psychedelic checkered backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/866/859/non_2x/groovy-retro-pattern-background-in-psychedelic-checkered-backdrop-style-a-chessboard-in-a-minimalist-abstract-design-with-a-60s-70s-aesthetic-vibe-hippie-style-y2k-funky-print-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Checkered Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2097787297/display_1500/stock-vector-retro-groovy-wavy-psychedelic-checkerboard-check-y-k-s-phone-case-background-stationary-fashion-2097787297.jpg' alt='Retro Checkered Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2097787297/display_1500/stock-vector-retro-groovy-wavy-psychedelic-checkerboard-check-y-k-s-phone-case-background-stationary-fashion-2097787297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy checkered background with psychedelic smile. Retro 70s ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/372/746/non_2x/groovy-checkered-background-with-psychedelic-smile-retro-70s-60s-hippie-aesthetic-wallpaper-with-trippy-distortion-grid-modern-seventies-style-illustration-vector.jpg' alt='Groovy checkered background with psychedelic smile. Retro 70s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/372/746/non_2x/groovy-checkered-background-with-psychedelic-smile-retro-70s-60s-hippie-aesthetic-wallpaper-with-trippy-distortion-grid-modern-seventies-style-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Retro Groovy Checkered Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/46899/pink_retro_groovy_checkered_masked.jpg' alt='Pink Retro Groovy Checkered Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/46899/pink_retro_groovy_checkered_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="groovy checkered Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/af/82/08af82b49b861101168de76c7314e627.jpg' alt='groovy checkered Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/af/82/08af82b49b861101168de76c7314e627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Checkerboard background in orange colors retro ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/checkerboard-background-orange-colors-retro-groovy-wavy-psychedelic-checkerboard-pattern-vector_529869-73.jpg' alt='Premium Vector | Checkerboard background in orange colors retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/checkerboard-background-orange-colors-retro-groovy-wavy-psychedelic-checkerboard-pattern-vector_529869-73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Retro Psychedelic Checkered Background, Wavy Checker ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40963761/r/il/b4f53a/5696998100/il_fullxfull.5696998100_cpc6.jpg' alt='Groovy Retro Psychedelic Checkered Background, Wavy Checker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40963761/r/il/b4f53a/5696998100/il_fullxfull.5696998100_cpc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy checkerboard seamless pattern psychedelic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-checkerboard-seamless-pattern-psychedelic-abstract-background-s-retro-style_501165-765.jpg' alt='Premium Vector | Groovy checkerboard seamless pattern psychedelic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-checkerboard-seamless-pattern-psychedelic-abstract-background-s-retro-style_501165-765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Checkered Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/set-groovy-retro-backgrounds-vertical-260nw-2357320963.jpg' alt='Retro Checkered Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/set-groovy-retro-backgrounds-vertical-260nw-2357320963.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

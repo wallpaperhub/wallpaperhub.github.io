@@ -1,0 +1,129 @@
+<title>Sparkle with Unicorn PNG Images – Perfect for Your Creations</title>
+                    <meta name="description" content="Explore a stunning selection of unicorn PNG images ideal for any creative project. Download these magical graphics for use in digital art, web design, or invitations, and let your imagination soar with enchanting unicorn designs!">
+                    <meta name="keywords" content="unicorn png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/unicorn-png">
+                            <span itemprop="name">unicorn png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sparkle with Unicorn PNG Images – Perfect for Your Creations</h1>
+                <p>Discover a magical collection of unicorn PNG images perfect for your design projects. Whether you’re creating invitations, stickers, or digital art, these transparent unicorn graphics add a whimsical touch. Explore various styles from cute to elegant unicorns and bring your creative ideas to life with these enchanting assets!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/adorable-pink-unicorn-with-stars_1308-146486.jpg' alt='Unicorn Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/adorable-pink-unicorn-with-stars_1308-146486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Princess Unicorn Clipart, Unicorn Clipart, Unicorn PNG ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240725/original/pngtree-about-princess-unicorn-clipart-png-image_15632985.png' alt='About Princess Unicorn Clipart, Unicorn Clipart, Unicorn PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240725/original/pngtree-about-princess-unicorn-clipart-png-image_15632985.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Png High-quality Image - Unicornio Dibujo A Color ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/b8/6d/38b86debe109427f558d3c8ce21d0e65.jpg' alt='Unicorn Png High-quality Image - Unicornio Dibujo A Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/b8/6d/38b86debe109427f558d3c8ce21d0e65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20200508/ourmid/pngtree-cute-unicorn-playing-with-balloons-png-image_2200236.jpg' alt='Unicorn PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20200508/ourmid/pngtree-cute-unicorn-playing-with-balloons-png-image_2200236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cartoon cute unicorn happy icon character 43767670 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/767/670/non_2x/cartoon-cute-unicorn-happy-icon-character-free-png.png' alt='cartoon cute unicorn happy icon character 43767670 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/767/670/non_2x/cartoon-cute-unicorn-happy-icon-character-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Colors, The Horses Head, Unicorn PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/rainbow-colors-the-horses-head-unicorn-16.png' alt='Rainbow Colors, The Horses Head, Unicorn PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/rainbow-colors-the-horses-head-unicorn-16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cute Unicorn PNG bundle">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43909109/r/il/470a13/5514479202/il_570xN.5514479202_c3ah.jpg' alt='Kawaii Cute Unicorn PNG bundle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43909109/r/il/470a13/5514479202/il_570xN.5514479202_c3ah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn - Cute Rainbow Unicorn Illustration - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20240415/akz/transparent-unicorn-cute-colorful-unicorn-resting-in-clouds661d70743171d6.25957222.webp' alt='Unicorn - Cute Rainbow Unicorn Illustration - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20240415/akz/transparent-unicorn-cute-colorful-unicorn-resting-in-clouds661d70743171d6.25957222.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Rainbow Unicorn PNG, Transparent Animal Clipart, Kids Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16060308/r/il/b6bf14/4727845734/il_570xN.4727845734_nz2g.jpg' alt='Cute Rainbow Unicorn PNG, Transparent Animal Clipart, Kids Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16060308/r/il/b6bf14/4727845734/il_570xN.4727845734_nz2g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping Pretty Unicorn Svg Digital File, Unicorn Png - Oladino">
+                                <img itemprop="contentUrl url" src='https://oladino.com/wp-content/uploads/2022/01/Sleeping-pretty-unicorn-svg-TB170122008.png' alt='Sleeping Pretty Unicorn Svg Digital File, Unicorn Png - Oladino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oladino" />
+                                </span>
+                                <a href='https://oladino.com/wp-content/uploads/2022/01/Sleeping-pretty-unicorn-svg-TB170122008.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

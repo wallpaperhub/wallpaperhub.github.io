@@ -1,0 +1,129 @@
+<title>Hilarious Halloween Wallpapers for iPhone: Fun & Spooky!</title>
+                    <meta name="description" content="Discover a delightful collection of funny Halloween wallpapers for your iPhone! Add a touch of humor to your device with whimsical designs that keep the spooky spirit alive. Ideal for Halloween fans looking to bring joy and laughter to this festive season!">
+                    <meta name="keywords" content="funny halloween wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-halloween-wallpaper-iphone">
+                            <span itemprop="name">funny halloween wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious Halloween Wallpapers for iPhone: Fun & Spooky!</h1>
+                <p>Get into the Halloween spirit with our collection of funny Halloween wallpapers for your iPhone! From silly ghosts and goofy pumpkins to hilarious costumes, these wallpapers will surely make you chuckle every time you unlock your phone. Perfect for trick-or-treaters and Halloween lovers alike—add some whimsical fun to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Spooky Halloween Wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/7a/2f/7f7a2f60c0a94e5ecca02ca54963528e.jpg' alt='40 Spooky Halloween Wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/7a/2f/7f7a2f60c0a94e5ecca02ca54963528e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/eb/12/33eb12304dd422f1ca194384dbbf2b6b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/eb/12/33eb12304dd422f1ca194384dbbf2b6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Wallpapers for iPhone Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/93/5e/e2/935ee2af4bea9dd1caa7917d796880d4.jpg' alt='Funny Wallpapers for iPhone Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/93/5e/e2/935ee2af4bea9dd1caa7917d796880d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Pumpkin Iphone Scary Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pumpkin-iphone-flj74or95b8179ke.jpg' alt='Download Cute Pumpkin Iphone Scary Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pumpkin-iphone-flj74or95b8179ke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Pumpkin Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skeleton-pumpkin-halloween-iphone-gjsdc0dx7ia8pc5f.jpg' alt='Skeleton Pumpkin Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skeleton-pumpkin-halloween-iphone-gjsdc0dx7ia8pc5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' alt='Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween, funny, scary, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/969/HD-wallpaper-halloween-funny-scary.jpg' alt='Halloween, funny, scary, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/969/HD-wallpaper-halloween-funny-scary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cute Halloween iPhone Wallpaper Backgrounds (FREE DOWNLOAD)">
+                                <img itemprop="contentUrl url" src='http://www.nikkisplate.com/wp-content/uploads/2023/10/Cute-Halloween-iPhone-Wallpaper-Backgrounds-29.png' alt='30 Cute Halloween iPhone Wallpaper Backgrounds (FREE DOWNLOAD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki's Plate" />
+                                </span>
+                                <a href='http://www.nikkisplate.com/wp-content/uploads/2023/10/Cute-Halloween-iPhone-Wallpaper-Backgrounds-29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/7a/71/9a7a718baf4cf771295be3ecff59246e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/7a/71/9a7a718baf4cf771295be3ecff59246e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beer Please, sign, saying, halloween, posted, funny, silly, goofy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/790/436/HD-wallpaper-beer-please-sign-saying-halloween-posted-funny-silly-goofy.jpg' alt='Beer Please, sign, saying, halloween, posted, funny, silly, goofy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/790/436/HD-wallpaper-beer-please-sign-saying-halloween-posted-funny-silly-goofy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

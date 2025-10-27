@@ -1,0 +1,129 @@
+<title>Maus Art: A Powerful Exploration of Trauma and Resilience</title>
+                    <meta name="description" content="Discover the captivating world of Maus art, where powerful visuals and storytelling intertwine to explore themes of trauma and resilience. Dive into this profound artistic expression that reflects on history and the human experience.">
+                    <meta name="keywords" content="maus art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maus-art">
+                            <span itemprop="name">maus art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maus Art: A Powerful Exploration of Trauma and Resilience</h1>
+                <p>Maus art, a profound visual representation of trauma, explores the harrowing experiences of Holocaust survivors. Through a unique blend of anthropomorphic characters and stark imagery, it conveys deep emotional truths about suffering, memory, and the resilience of the human spirit. This powerful art invites reflection and dialogue around history and identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/7/7d/Maus_%28volume_1%29_cover.jpg' alt='Maus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/7/7d/Maus_%28volume_1%29_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Making of 'Maus' - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2011/12/04/books/review/Kois/Kois-jumbo.jpg?quality=75&auto=webp&disable=upscale' alt='The Making of 'Maus' - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2011/12/04/books/review/Kois/Kois-jumbo.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Maus: A Survivor's Tale: Spiegelman, Art: 9780679406419:  Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rV+xVfJAL.jpg' alt='The Complete Maus: A Survivor's Tale: Spiegelman, Art: 9780679406419:  Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1862">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rV+xVfJAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Many Afterlives of Art Spiegelman's “Maus” | The Nation">
+                                <img itemprop="contentUrl url" src='https://www.thenation.com/wp-content/uploads/2023/04/Steinhauer-Spiegelman-MAUS-680x430.jpg' alt='The Many Afterlives of Art Spiegelman's “Maus” | The Nation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nation" />
+                                </span>
+                                <a href='https://www.thenation.com/wp-content/uploads/2023/04/Steinhauer-Spiegelman-MAUS-680x430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Many Afterlives of Art Spiegelman's “Maus” | The Nation">
+                                <img itemprop="contentUrl url" src='https://www.thenation.com/wp-content/uploads/2023/04/Steinhauer-Spiegelman-MAUS-ILLO.jpg' alt='The Many Afterlives of Art Spiegelman's “Maus” | The Nation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nation" />
+                                </span>
+                                <a href='https://www.thenation.com/wp-content/uploads/2023/04/Steinhauer-Spiegelman-MAUS-ILLO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q&A With Art Spiegelman, Creator of 'Maus' - Tablet Magazine">
+                                <img itemprop="contentUrl url" src='https://tablet-mag-images.b-cdn.net/production/ca278ddcbd8d3afd47bb5607ff3111e745d58e95-820x550.jpg?w=1300&q=70&auto=format&dpr=2.625' alt='Q&A With Art Spiegelman, Creator of 'Maus' - Tablet Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3419">
+                                <meta itemprop="height" content="2293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tablet Magazine" />
+                                </span>
+                                <a href='https://tablet-mag-images.b-cdn.net/production/ca278ddcbd8d3afd47bb5607ff3111e745d58e95-820x550.jpg?w=1300&q=70&auto=format&dpr=2.625' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Holocaust survivor graphic novel 'Maus' is an ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/maus.png?fit=1515%2C1010&ssl=1' alt='Review: Holocaust survivor graphic novel 'Maus' is an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1515">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HS Insider" />
+                                </span>
+                                <a href='https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/maus.png?fit=1515%2C1010&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Spiegelman's 'Maus' Is Vital Because It Is Troubling - ArtReview">
+                                <img itemprop="contentUrl url" src='https://backend.artreview.com/wp-content/uploads/2022/02/2673470436_e6045c3498_o.gif' alt='Art Spiegelman's 'Maus' Is Vital Because It Is Troubling - ArtReview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtReview" />
+                                </span>
+                                <a href='https://backend.artreview.com/wp-content/uploads/2022/02/2673470436_e6045c3498_o.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the Importance of Art Spiegelman's Maus - Reactor">
+                                <img itemprop="contentUrl url" src='https://reactormag.com/wp-content/uploads/2022/04/spiegelman-maus-header.jpg' alt='On the Importance of Art Spiegelman's Maus - Reactor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reactor" />
+                                </span>
+                                <a href='https://reactormag.com/wp-content/uploads/2022/04/spiegelman-maus-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why 'Maus' remains 'the greatest graphic novel ever written,' 30 ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/rf/image_960w/2010-2019/WashingtonPost/2016/08/10/Style/Images/Maus%20Mask%20rich1470868801.jpg&w=1440' alt='Why 'Maus' remains 'the greatest graphic novel ever written,' 30 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/rf/image_960w/2010-2019/WashingtonPost/2016/08/10/Style/Images/Maus%20Mask%20rich1470868801.jpg&w=1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

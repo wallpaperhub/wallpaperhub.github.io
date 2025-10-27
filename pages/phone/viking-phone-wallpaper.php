@@ -1,0 +1,129 @@
+<title>Epic Viking Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning Viking phone wallpapers that embody the spirit of Norse heritage. Dive into a selection of epic designs featuring legendary warriors, mythical landscapes, and rich cultural symbols. Perfect for history enthusiasts and mythology lovers looking to enhance their mobile experience.">
+                    <meta name="keywords" content="viking phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/viking-phone-wallpaper">
+                            <span itemprop="name">viking phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Viking Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Viking phone wallpapers that capture the spirit of the Norse warriors. Explore breathtaking designs featuring legendary ships, intricate runes, fierce gods, and scenic landscapes. Perfect for fans of history and mythology, these wallpapers bring a touch of adventure and culture to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Runes Blue - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39345978/r/il/876a72/4573445969/il_1080xN.4573445969_akgj.jpg' alt='Phone Wallpaper Runes Blue - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39345978/r/il/876a72/4573445969/il_1080xN.4573445969_akgj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raven and runes, aegishjalmur, huggin, munnin, norse, pagan ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/773/244/HD-wallpaper-raven-and-runes-aegishjalmur-huggin-munnin-norse-pagan-vegvisir-viking.jpg' alt='Raven and runes, aegishjalmur, huggin, munnin, norse, pagan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/773/244/HD-wallpaper-raven-and-runes-aegishjalmur-huggin-munnin-norse-pagan-vegvisir-viking.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/923/923916.jpg' alt='Viking iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/923/923916.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper - Official website of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/f_auto/vikings/i5zoqngcpoensduxapnh' alt='Mobile Wallpaper - Official website of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/f_auto/vikings/i5zoqngcpoensduxapnh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Viking Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11929370.jpg' alt='iPhone Viking Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11929370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vikings Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/vikings.png' alt='Vikings Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/vikings.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking Guide, celtic, dark, woods, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/507/726/HD-wallpaper-viking-guide-celtic-dark-woods.jpg' alt='Viking Guide, celtic, dark, woods, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/507/726/HD-wallpaper-viking-guide-celtic-dark-woods.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Phone wallpapers ideas | viking life, viking art, norse vikings">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0f/a3/c0/0fa3c08cf54e25b6ac16665c7dfbdd38.jpg' alt='7 Phone wallpapers ideas | viking life, viking art, norse vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0f/a3/c0/0fa3c08cf54e25b6ac16665c7dfbdd38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking, mythology, norse, valhalla, vegvisir, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/501/682/HD-wallpaper-viking-mythology-norse-valhalla-vegvisir.jpg' alt='Viking, mythology, norse, valhalla, vegvisir, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/501/682/HD-wallpaper-viking-mythology-norse-valhalla-vegvisir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Hd phone wallpapers ideas | hd phone wallpapers, ragnar lothbrok ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/52/2c/ca/522ccab13c966aa52ce0de0f84201091.jpg' alt='8 Hd phone wallpapers ideas | hd phone wallpapers, ragnar lothbrok ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/52/2c/ca/522ccab13c966aa52ce0de0f84201091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

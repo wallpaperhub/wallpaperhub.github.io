@@ -1,0 +1,129 @@
+<title>Understanding Your Rental Background Check</title>
+                    <meta name="description" content="Learn about rental background checks and what landlords look for. Discover tips on how to prepare your rental history, improve your credit score, and ensure a smooth application process for your next rental property. Get ready to impress landlords with a clean record!">
+                    <meta name="keywords" content="my rental background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/my-rental-background-check">
+                            <span itemprop="name">my rental background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Your Rental Background Check</h1>
+                <p>When applying for a rental property, a rental background check is essential. This process assesses your credit history, criminal record, and rental history to determine your reliability as a tenant. Ensuring a clean background can significantly improve your chances of securing the home you desire, so always be prepared and honest during evaluations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tenant (Renter) Background Check Form - PDF | Word – eForms">
+                                <img itemprop="contentUrl url" src='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form-791x1024.png' alt='Free Tenant (Renter) Background Check Form - PDF | Word – eForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eForms" />
+                                </span>
+                                <a href='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form-791x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening Services for Landlords | Online Rental ...">
+                                <img itemprop="contentUrl url" src='https://www.myrental.com/hubfs/reports%20mobile%20new.webp' alt='Tenant Screening Services for Landlords | Online Rental ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.myrental.com" />
+                                </span>
+                                <a href='https://www.myrental.com/hubfs/reports%20mobile%20new.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tenant Background Check Authorization Form | PDF & Word">
+                                <img itemprop="contentUrl url" src='https://legaltemplates.net/wp-content/uploads/background-check-authorization-form.png' alt='Free Tenant Background Check Authorization Form | PDF & Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Templates" />
+                                </span>
+                                <a href='https://legaltemplates.net/wp-content/uploads/background-check-authorization-form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Check | Rental Credit Report for Landlords">
+                                <img itemprop="contentUrl url" src='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' alt='Tenant Background Check | Rental Credit Report for Landlords'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1149">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Apartment Owners Association" />
+                                </span>
+                                <a href='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Articles & Resources for Landlords | Tenant Screening Tips ...">
+                                <img itemprop="contentUrl url" src='https://www.myrental.com/hubfs/9_Facts_That_Will_Change_the_Way_You_Look_at_Tenant_Screening_Reports-MyRental_Blog_Image_A.jpg' alt='Articles & Resources for Landlords | Tenant Screening Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1313">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyRental" />
+                                </span>
+                                <a href='https://www.myrental.com/hubfs/9_Facts_That_Will_Change_the_Way_You_Look_at_Tenant_Screening_Reports-MyRental_Blog_Image_A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Rental Application Laws 2024: The Ultimate Guide to ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777c50fefada7/66d0c559101b886e9e9b677b_rental-applications-cta-redesign-p-500.png' alt='California Rental Application Laws 2024: The Ultimate Guide to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777c50fefada7/66d0c559101b886e9e9b677b_rental-applications-cta-redesign-p-500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Check | Zillow Rental Manager">
+                                <img itemprop="contentUrl url" src='https://wp.zillowstatic.com/18/tenant-background-check-report-summary-7614d6.png' alt='Tenant Background Check | Zillow Rental Manager'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zillow" />
+                                </span>
+                                <a href='https://wp.zillowstatic.com/18/tenant-background-check-report-summary-7614d6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Online Tenant Screening | Zillow Rental Manager">
+                                <img itemprop="contentUrl url" src='https://www.zillowstatic.com/bedrock/app/uploads/sites/2/2022/01/SZ_REN_BackgroundCheck_459x326_Final_2X-3c2ea5.png' alt='Free Online Tenant Screening | Zillow Rental Manager'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zillow" />
+                                </span>
+                                <a href='https://www.zillowstatic.com/bedrock/app/uploads/sites/2/2022/01/SZ_REN_BackgroundCheck_459x326_Final_2X-3c2ea5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Best Tenant Screening Services of 2025 (Free and Paid)">
+                                <img itemprop="contentUrl url" src='https://wp-assets.stessa.com/wp-content/uploads/2021/08/07142336/tenantscreening.jpeg' alt='11 Best Tenant Screening Services of 2025 (Free and Paid)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stessa" />
+                                </span>
+                                <a href='https://wp-assets.stessa.com/wp-content/uploads/2021/08/07142336/tenantscreening.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

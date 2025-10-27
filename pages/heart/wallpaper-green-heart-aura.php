@@ -1,0 +1,129 @@
+<title>Green Heart Aura Wallpaper: Nature's Embrace in Your Home</title>
+                    <meta name="description" content="Discover the beauty of green heart aura wallpaper. Perfect for creating a tranquil ambiance, this vibrant design adds a touch of nature to any room. Enhance your décor with this unique and stylish wallpaper, designed to promote relaxation and harmony in your living spaces.">
+                    <meta name="keywords" content="wallpaper green heart aura">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/wallpaper-green-heart-aura">
+                            <span itemprop="name">wallpaper green heart aura</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green Heart Aura Wallpaper: Nature's Embrace in Your Home</h1>
+                <p>Transform your space with the enchanting wallpaper featuring a green heart aura. This design brings nature's serenity indoors, combining lush green hues with a captivating heart motif. Ideal for creating a calming atmosphere, it’s perfect for living rooms or bedrooms. Elevate your décor with this stylish and vibrant wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aura heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/ef/7c/92ef7c643adb5553de0343cc164a963e.jpg' alt='green aura heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="491">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/ef/7c/92ef7c643adb5553de0343cc164a963e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caption: Embrace Tranquility With Green Aura Aesthetics Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/caption-embrace-tranquility-with-green-aura-aesthetics-qxo5hkfidw7pxqzf.jpg' alt='Caption: Embrace Tranquility With Green Aura Aesthetics Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/caption-embrace-tranquility-with-green-aura-aesthetics-qxo5hkfidw7pxqzf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aura heart widget idea">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/51/23/005123b10f84a0ab1cee680af85f08e3.jpg' alt='green aura heart widget idea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/51/23/005123b10f84a0ab1cee680af85f08e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/5b/7d/415b7d61a2ffd371890bc1542ad40beb.jpg' alt='☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/5b/7d/415b7d61a2ffd371890bc1542ad40beb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Spray Paint Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/deep-green-heart-57aakan6chckbqwl.webp' alt='Green Heart Spray Paint Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/deep-green-heart-57aakan6chckbqwl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aura iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/02/0d/22020d1c8f2dc9a6cc6e459b72b00ac8.jpg' alt='green aura iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/02/0d/22020d1c8f2dc9a6cc6e459b72b00ac8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Heart Aura Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-heart-aura-background-bx722rp0g4fz3i98.jpg' alt='100+] Heart Aura Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-heart-aura-background-bx722rp0g4fz3i98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green heart aura   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/a2/fb/8aa2fba1d0b32f01be258c9544c98541.jpg' alt='Green heart aura   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/a2/fb/8aa2fba1d0b32f01be258c9544c98541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Cool Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' alt='Green Heart Cool Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFG8zktmqI/1/0/900w/canva-mint-green-beige-blury-heart-gradient-simple-phone-wallpaper-7J0qSzpsmxk.jpg' alt='Page 2 - Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFG8zktmqI/1/0/900w/canva-mint-green-beige-blury-heart-gradient-simple-phone-wallpaper-7J0qSzpsmxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

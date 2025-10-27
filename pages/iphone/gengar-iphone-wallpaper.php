@@ -1,0 +1,129 @@
+<title>Cool Gengar iPhone Wallpapers: Spooky & Stylish</title>
+                    <meta name="description" content="Discover stunning Gengar iPhone wallpapers to personalize your device! From playful to eerie designs, find the perfect wallpaper that showcases your love for this iconic Pokémon. Download your favorite Gengar style now for a unique touch that stands out on your phone!">
+                    <meta name="keywords" content="gengar iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gengar-iphone-wallpaper">
+                            <span itemprop="name">gengar iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Gengar iPhone Wallpapers: Spooky & Stylish</h1>
+                <p>Transform your iPhone screen with captivating Gengar wallpapers! Whether you’re a Pokémon fan or just love vibrant art, these wallpapers capture Gengar's playful yet spooky essence. There are various designs available, perfect for any mood or style. Download your favorite Gengar wallpaper today and showcase your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar Wallpapers (79 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/7/a/1193648-1080x2400-iphone-hd-gengar-wallpaper-photo.jpg' alt='Gengar Wallpapers (79 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/7/a/1193648-1080x2400-iphone-hd-gengar-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Gengar Dark Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pokemon-gengar-dark-purple-iphone-8u8cm6f91h16mwb7.jpg' alt='Pokémon Gengar Dark Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pokemon-gengar-dark-purple-iphone-8u8cm6f91h16mwb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b2/a8/a8/b2a8a85a93669e43bddd7fc93bc841f3.jpg' alt='Gengar Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b2/a8/a8/b2a8a85a93669e43bddd7fc93bc841f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar wallpaper in 2022 | Iphone wallpaper pokemon, Gengar ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/79/22/8279223a761b9c781dc4ea533db7a70f.jpg' alt='Gengar wallpaper in 2022 | Iphone wallpaper pokemon, Gengar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/79/22/8279223a761b9c781dc4ea533db7a70f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar wallpaper drawn for me by my mrs, hope you dig it as much ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c8y7vq9umsg71.jpg' alt='Gengar wallpaper drawn for me by my mrs, hope you dig it as much ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c8y7vq9umsg71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13024241.jpg' alt='Gengar iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13024241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gengar hd iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/91/71/a091716de07b7ef2d75f30130b6300ac.jpg' alt='gengar hd iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/91/71/a091716de07b7ef2d75f30130b6300ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar, amoled, minimal, pokemon, pokemongo, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/898/94/HD-wallpaper-gengar-amoled-minimal-pokemon-pokemongo.jpg' alt='Gengar, amoled, minimal, pokemon, pokemongo, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/898/94/HD-wallpaper-gengar-amoled-minimal-pokemon-pokemongo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modina Time (COMS OPEN!) on X: "GENGAR PHONE WALLPAPER CAUSE WHY ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GKV39mkW0AA73Gx.jpg:large' alt='Modina Time (COMS OPEN!) on X: "GENGAR PHONE WALLPAPER CAUSE WHY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GKV39mkW0AA73Gx.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gengar Animated phone wallpaper #gengar #pokemon #pixelart ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3474222532033999258' alt='Gengar Animated phone wallpaper #gengar #pokemon #pixelart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3474222532033999258' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

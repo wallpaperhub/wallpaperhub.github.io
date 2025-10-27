@@ -1,0 +1,129 @@
+<title>Explore the Allure of a Black and White City</title>
+                    <meta name="description" content="Discover the unique charm of a black and white city, where monochrome aesthetics shape urban landscapes. Experience the beauty of contrasting colors and architectural lines in this captivating, nostalgic environment that inspires creativity and reflection.">
+                    <meta name="keywords" content="black and white city">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-city">
+                            <span itemprop="name">black and white city</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Allure of a Black and White City</h1>
+                <p>In a black and white city, the stark contrast influences daily life and aesthetics. The absence of color emphasizes architectural lines, shadow play, and the mood of urban landscapes. Streets filled with monochrome patterns evoke a sense of nostalgia and artistic inspiration, creating a visually captivating experience that transcends time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Cityscapes - Framed Prints / Photos by Andrew Prokos">
+                                <img itemprop="contentUrl url" src='https://img.andrewprokos.com/EMPIRE-STATE-BUILDING-NYC-CITYSCAPE-FROM-ROCKEFELLER-CENTER-DAY-4931-1000PX-1-500x369.jpg' alt='Black and White Cityscapes - Framed Prints / Photos by Andrew Prokos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Prokos" />
+                                </span>
+                                <a href='https://img.andrewprokos.com/EMPIRE-STATE-BUILDING-NYC-CITYSCAPE-FROM-ROCKEFELLER-CENTER-DAY-4931-1000PX-1-500x369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black And White City Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520531158340-44015069e78e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGNpdHl8ZW58MHx8MHx8fDA%3D' alt='1000+ Black And White City Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520531158340-44015069e78e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGNpdHl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="183,300+ Black And White City Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1184661675/photo/skyscrapers-from-below-lower-manhattan.jpg?s=612x612&w=0&k=20&c=ECw-O9w-V59kb-QO2ei63r5Wp7qrGqm6Ml1k901b8XY=' alt='183,300+ Black And White City Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1184661675/photo/skyscrapers-from-below-lower-manhattan.jpg?s=612x612&w=0&k=20&c=ECw-O9w-V59kb-QO2ei63r5Wp7qrGqm6Ml1k901b8XY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Cityscapes - Framed Prints / Photos by Andrew Prokos">
+                                <img itemprop="contentUrl url" src='https://img.andrewprokos.com/DUBAI-MARINA-NIGHT-6223-1200PX-BW-1000x787.jpg' alt='Black and White Cityscapes - Framed Prints / Photos by Andrew Prokos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Prokos" />
+                                </span>
+                                <a href='https://img.andrewprokos.com/DUBAI-MARINA-NIGHT-6223-1200PX-BW-1000x787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White City Photos, Download The BEST Free Black And ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?cs=srgb&dl=pexels-tatiana-fet-420381-1105766.jpg&fm=jpg' alt='Black And White City Photos, Download The BEST Free Black And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3219">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?cs=srgb&dl=pexels-tatiana-fet-420381-1105766.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="183,300+ Black And White City Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/462797937/photo/manhattan-b-w.jpg?s=612x612&w=0&k=20&c=2Poj86rKCYQzwHDPKWGDpQjwnJUx1W9svOUFTYOeGR8=' alt='183,300+ Black And White City Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/462797937/photo/manhattan-b-w.jpg?s=612x612&w=0&k=20&c=2Poj86rKCYQzwHDPKWGDpQjwnJUx1W9svOUFTYOeGR8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white cities Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/KGGD2P/black-and-white-cities-KGGD2P.jpg' alt='Black and white cities Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/KGGD2P/black-and-white-cities-KGGD2P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="381,324 City Black White Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cityscape-night-lower-manhattan-financial-district-illuminated-skyscrapers-new-york-city-black-white-elevated-view-90158518.jpg' alt='381,324 City Black White Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cityscape-night-lower-manhattan-financial-district-illuminated-skyscrapers-new-york-city-black-white-elevated-view-90158518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White City Photos, Download The BEST Free Black And ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3879060/pexels-photo-3879060.jpeg?cs=srgb&dl=pexels-alexazabache-3879060.jpg&fm=jpg' alt='Black And White City Photos, Download The BEST Free Black And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4651">
+                                <meta itemprop="height" content="3101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3879060/pexels-photo-3879060.jpeg?cs=srgb&dl=pexels-alexazabache-3879060.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black And White City Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1600522907071-85ea3bd6f625?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGNpdHl8ZW58MHx8MHx8fDA%3D' alt='1000+ Black And White City Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1600522907071-85ea3bd6f625?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGNpdHl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Floral Wallpaper in Purple: Elevate Your Space</title>
+                    <meta name="description" content="Discover beautiful floral wallpaper in purple that enhances your home's aesthetic. Ideal for any room, these elegant designs bring warmth and vibrancy while adding a touch of nature. Explore styles that fit your interior and transform your living space effortlessly!">
+                    <meta name="keywords" content="floral wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-purple">
+                            <span itemprop="name">floral wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Wallpaper in Purple: Elevate Your Space</h1>
+                <p>Transform your space with stunning floral wallpaper in rich purple hues. This elegant design adds a touch of sophistication and vibrancy to any room. Perfect for bedrooms, living areas, or accent walls, floral patterns in purple bring nature indoors while creating a calming atmosphere. Embrace style with these chic wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' alt='PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Download - Purple floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5770778/r/il/4d3a95/2541462010/il_570xN.2541462010_75qz.jpg' alt='Digital Download - Purple floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5770778/r/il/4d3a95/2541462010/il_570xN.2541462010_75qz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33850 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_bf776b3a-caa7-4aae-b5c4-01d247ca3d18.jpg?v=1666277893' alt='PR33850 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_bf776b3a-caa7-4aae-b5c4-01d247ca3d18.jpg?v=1666277893' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Purple Vintage Wildflowers Floral Wallpaper – Veelike">
+                                <img itemprop="contentUrl url" src='https://veelike.com/cdn/shop/files/veelike-purple-vintage-wildflower-floral-wallpaper_1024x1024.jpg?v=1686638569' alt='VEELIKE Purple Vintage Wildflowers Floral Wallpaper – Veelike'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veelike" />
+                                </span>
+                                <a href='https://veelike.com/cdn/shop/files/veelike-purple-vintage-wildflower-floral-wallpaper_1024x1024.jpg?v=1686638569' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Watercolor Roses Background Flowers Wallpaper Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18820237/r/il/e9ef13/2875597379/il_fullxfull.2875597379_30vs.jpg' alt='Pastel Purple Watercolor Roses Background Flowers Wallpaper Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18820237/r/il/e9ef13/2875597379/il_fullxfull.2875597379_30vs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniatures 2 Lilac Floral Trail 33' L x 21" W Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/04308267/compr-r85/1516/151601896/miniatures-2-lilac-floral-trail-33-l-x-21-w-wallpaper-roll.jpg' alt='Miniatures 2 Lilac Floral Trail 33' L x 21" W Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1502">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/04308267/compr-r85/1516/151601896/miniatures-2-lilac-floral-trail-33-l-x-21-w-wallpaper-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067">
+                                <img itemprop="contentUrl url" src='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' alt='Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tualca" />
+                                </span>
+                                <a href='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper for Walls | Grace – WallsNeedLove">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?crop=center&height=400&v=1734718105&width=500' alt='Vintage Floral Wallpaper for Walls | Grace – WallsNeedLove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?crop=center&height=400&v=1734718105&width=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

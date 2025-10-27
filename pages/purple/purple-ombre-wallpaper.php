@@ -1,0 +1,129 @@
+<title>Purple Ombre Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Revamp your home with beautiful purple ombre wallpaper. Its gradient hues bring a modern touch to any room, creating a calming environment. Perfect for accent walls or whole spaces, this wallpaper combines elegance and style, making it a must-have for your interior design project. Shop now and transform your space!">
+                    <meta name="keywords" content="purple ombre wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-ombre-wallpaper">
+                            <span itemprop="name">purple ombre wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Ombre Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning purple ombre wallpaper, seamlessly blending deep violet to soft lavender. Perfect for creating a serene ambiance, this wallpaper adds depth and style to any room. Ideal for bedrooms, living areas, or accent walls, it enhances your décor while exuding elegance and sophistication. Elevate your interior design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' alt='Purple Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images – Browse 45,995 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/45/32/00/360_F_545320068_7MuGBwVWBwO7rJmSwV4ICTXQfzbeuYdh.jpg' alt='Purple Ombre Background Images – Browse 45,995 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/45/32/00/360_F_545320068_7MuGBwVWBwO7rJmSwV4ICTXQfzbeuYdh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1400038187/photo/blue-purple-pink-abstract-background-gradient-elegant-lilac-background-with-space-for-design.jpg?s=612x612&w=0&k=20&c=CG_GW5Cp9PFAoF2bG0VkwPTYS-cH8aGtEbargtLmaTA=' alt='5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1400038187/photo/blue-purple-pink-abstract-background-gradient-elegant-lilac-background-with-space-for-design.jpg?s=612x612&w=0&k=20&c=CG_GW5Cp9PFAoF2bG0VkwPTYS-cH8aGtEbargtLmaTA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Purple Ombre Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/35/20/633520442259b891a46638beaf1475ed.jpg' alt='55+ Purple Ombre Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/35/20/633520442259b891a46638beaf1475ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Blue and Purple Ombre Wallpaper WW1823">
+                                <img itemprop="contentUrl url" src='https://wallabywalls.com/cdn/shop/files/il_fullxfull.1504887509_41m3_600x.png?v=1734041209' alt='Pastel Blue and Purple Ombre Wallpaper WW1823'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallaby Walls" />
+                                </span>
+                                <a href='https://wallabywalls.com/cdn/shop/files/il_fullxfull.1504887509_41m3_600x.png?v=1734041209' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/105/ombre-wallpaper-purple-1536x1536.jpg' alt='Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/105/ombre-wallpaper-purple-1536x1536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Backgrounds · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/12/21/Purple-Ombre-Backgrounds-53707791-1.png' alt='Purple Ombre Backgrounds · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/12/21/Purple-Ombre-Backgrounds-53707791-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images – Browse 45,995 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/77/22/90/360_F_677229066_Bb48grnbq8Jxzbxx6upFL7CfjZcm57sX.jpg' alt='Purple Ombre Background Images – Browse 45,995 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/77/22/90/360_F_677229066_Bb48grnbq8Jxzbxx6upFL7CfjZcm57sX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Purple Ombre Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/f6/26/46f626dd2282c6f1be0d127555af267d.jpg' alt='55+ Purple Ombre Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/f6/26/46f626dd2282c6f1be0d127555af267d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Stock Illustrations – 8,380 Purple Ombre ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/lilac-ombre-gradient-purple-background-pastel-pink-pattern-graphic-web-design-poster-banner-invitation-presentation-141600323.jpg' alt='Purple Ombre Background Stock Illustrations – 8,380 Purple Ombre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/lilac-ombre-gradient-purple-background-pastel-pink-pattern-graphic-web-design-poster-banner-invitation-presentation-141600323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

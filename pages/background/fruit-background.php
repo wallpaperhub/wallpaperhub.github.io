@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Fruits</title>
+                    <meta name="description" content="Discover the vibrant and nutritious world of fruits! Learn about their history, variety, and health benefits. Perfect for those seeking fresh inspiration for healthy living and delicious recipes. Join us in celebrating nature's colorful bounty!">
+                    <meta name="keywords" content="fruit background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fruit-background">
+                            <span itemprop="name">fruit background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Fruits</h1>
+                <p>Fruits have a rich history that dates back thousands of years, symbolizing health, vitality, and nature's bounty. Their vibrant colors and diverse flavors not only make them pleasing to the eye but also contribute significantly to the ecosystem. From apples to zoodles, fruits play a vital role in diets around the world, providing essential nutrients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Background Stock Photo - Download Image Now - Fruit ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/637766710/photo/fruit-background.jpg?s=612x612&w=0&k=20&c=cFFBWseu6XmStHuwxxo3QB6eEO5vMf0eADizajOBWOc=' alt='Fruit Background Stock Photo - Download Image Now - Fruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/637766710/photo/fruit-background.jpg?s=612x612&w=0&k=20&c=cFFBWseu6XmStHuwxxo3QB6eEO5vMf0eADizajOBWOc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/033/107/945/non_2x/fresh-fruits-food-background-web-banner-with-copy-space-generative-ai-photo.jpg' alt='Fruit Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/033/107/945/non_2x/fresh-fruits-food-background-web-banner-with-copy-space-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="257,392 Tropical Fruits Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/assortment-tropical-fruits-leaves-palm-trees-exot-assortment-tropical-fruits-leaves-palm-trees-120790892.jpg' alt='257,392 Tropical Fruits Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/assortment-tropical-fruits-leaves-palm-trees-exot-assortment-tropical-fruits-leaves-palm-trees-120790892.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMTg1LWthdGllLTA3YS5qcGc.jpg' alt='Fruit Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMTg1LWthdGllLTA3YS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Background Stock Photo - Download Image Now - Orange - Fruit ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/173751395/photo/fruit-background.jpg?s=612x612&w=0&k=20&c=KLL_RLOM0nBNyDMnj6jv6BrOLPSaHNYjdCYEw77fOHo=' alt='Fruit Background Stock Photo - Download Image Now - Orange - Fruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/173751395/photo/fruit-background.jpg?s=612x612&w=0&k=20&c=KLL_RLOM0nBNyDMnj6jv6BrOLPSaHNYjdCYEw77fOHo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Juice Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/025/717/696/non_2x/background-orange-fruit-grape-juice-food-hookah-smoke-ice-apple-raw-generative-ai-photo.jpg' alt='Fruit Juice Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/025/717/696/non_2x/background-orange-fruit-grape-juice-food-hookah-smoke-ice-apple-raw-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Background" Images – Browse 39,555 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/81/42/97/360_F_781429731_0oxQpgXnFr1Xy2fcafr6HDBVNKy67S4A.jpg' alt='Fruit Background" Images – Browse 39,555 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/81/42/97/360_F_781429731_0oxQpgXnFr1Xy2fcafr6HDBVNKy67S4A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Fruit Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/assortment-sweet-juicy-fruits_23-2148144275.jpg' alt='Background Fruit Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/assortment-sweet-juicy-fruits_23-2148144275.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/M6XBBF/large-collection-of-fruits-and-vegetables-on-blur-green-background-M6XBBF.jpg' alt='Fruit background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/M6XBBF/large-collection-of-fruits-and-vegetables-on-blur-green-background-M6XBBF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | Fruit background/header size 02">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/31/31ac4029d49d5c99ee7a2ec6165ecb54_t.jpeg' alt='Free Photos | Fruit background/header size 02'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1031">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/31/31ac4029d49d5c99ee7a2ec6165ecb54_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

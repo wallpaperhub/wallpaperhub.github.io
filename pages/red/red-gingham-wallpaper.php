@@ -1,0 +1,129 @@
+<title>Freshen Your Space with Red Gingham Wallpaper</title>
+                    <meta name="description" content="Discover the allure of red gingham wallpaper, a perfect blend of classic charm and modern style. Ideal for kitchens and living spaces, this vibrant pattern adds warmth and sophistication to your decor. Transform your home with this delightful design that complements any aesthetic beautifully.">
+                    <meta name="keywords" content="red gingham wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-gingham-wallpaper">
+                            <span itemprop="name">red gingham wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Freshen Your Space with Red Gingham Wallpaper</h1>
+                <p>Red gingham wallpaper brings a timeless charm to any room, evoking feelings of warm coziness and rustic elegance. Perfect for kitchens, dining areas, or accent walls, this classic pattern adds a touch of country flair. Its vibrant hue enhances natural light, while its versatile design complements various decor styles, making it a delightful choice for homes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gingham Wallpaper Wall Mural by Magic Murals">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat63153872-48.jpg' alt='Red Gingham Wallpaper Wall Mural by Magic Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-pat63153872-48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,300+ Red Gingham Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1034294112/vector/red-tablecloths-patterns-on-the-background.jpg?s=612x612&w=0&k=20&c=pwNPE6d2frOstZg4GxVrV2HbmUx4tw7_DAvz3TBz42I=' alt='19,300+ Red Gingham Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1034294112/vector/red-tablecloths-patterns-on-the-background.jpg?s=612x612&w=0&k=20&c=pwNPE6d2frOstZg4GxVrV2HbmUx4tw7_DAvz3TBz42I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Gingham Plaid Peel and Stick Wallpaper - Paperbird">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/161/638/gingham3__16222.1612917092.gif?c=2' alt='Painted Gingham Plaid Peel and Stick Wallpaper - Paperbird'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/161/638/gingham3__16222.1612917092.gif?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gingham Checker Background Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/69739/preview/red-gingham-checker-background-cafaaa.png' alt='Red Gingham Checker Background Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/69739/preview/red-gingham-checker-background-cafaaa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Red Gingham Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1143099981/vector/abstract-background-texture.jpg?s=612x612&w=0&k=20&c=OKB-eEw7gAQUORaDicLcwTrxbwccTEzEzhLXNmEcPSA=' alt='14,200+ Red Gingham Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1143099981/vector/abstract-background-texture.jpg?s=612x612&w=0&k=20&c=OKB-eEw7gAQUORaDicLcwTrxbwccTEzEzhLXNmEcPSA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claire Red Gingham Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/claire-red-gingham-wallpaper-jels-l.jpg' alt='Claire Red Gingham Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/claire-red-gingham-wallpaper-jels-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red gingham background Stock Vector by ©jameschipper 40167043">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1031359/4016/v/950/depositphotos_40167043-stock-illustration-red-gingham-background.jpg' alt='Red gingham background Stock Vector by ©jameschipper 40167043'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1031359/4016/v/950/depositphotos_40167043-stock-illustration-red-gingham-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute small red gingham with heart shape plaid ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-small-red-gingham-with-heart-shape-plaid-checkered-tartan-pattern-background-wallpaper_565280-435.jpg' alt='Premium Vector | Cute small red gingham with heart shape plaid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-small-red-gingham-with-heart-shape-plaid-checkered-tartan-pattern-background-wallpaper_565280-435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Red Gingham seamless pattern. Texture from rhombus/squares for -  plaid, tablecloths, clothes, shirts, dresses, paper, bedding, blankets, ...">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/download(s3:700/FO/17/12/50/81/1/700_FO171250811_3be3e40bff3b475aaaa672c148cfb197.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-red-gingham-seamless-pattern-texture-from-rhombus-squares-for-plaid-tablecloths-clothes-shirts-dresses-paper-bedding-blankets-quilts-and-other-textile-products-vector-illustration.jpg.jpg' alt='Wallpaper Red Gingham seamless pattern. Texture from rhombus/squares for -  plaid, tablecloths, clothes, shirts, dresses, paper, bedding, blankets, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/download(s3:700/FO/17/12/50/81/1/700_FO171250811_3be3e40bff3b475aaaa672c148cfb197.jpg):pattern(0.2381w,0.2381h):resize(700,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,480,650):format(jpg)/wallpapers-red-gingham-seamless-pattern-texture-from-rhombus-squares-for-plaid-tablecloths-clothes-shirts-dresses-paper-bedding-blankets-quilts-and-other-textile-products-vector-illustration.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checked Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' alt='Red Checked Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

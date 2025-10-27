@@ -1,0 +1,129 @@
+<title>Stunning iOS 11 Wallpapers for iPhone 11</title>
+                    <meta name="description" content="Discover beautiful iOS 11 wallpapers tailored for your iPhone 11. Browse our collection of stunning designs and effortlessly transform your device's look. Perfect for every style, these wallpapers are ready to download and enhance your iPhone experience! Don't miss out on a fresh home screen vibe!">
+                    <meta name="keywords" content="ios ios11 iphone 11 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/ios-ios11-iphone-11-wallpaper">
+                            <span itemprop="name">ios ios11 iphone 11 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iOS 11 Wallpapers for iPhone 11</h1>
+                <p>Explore the latest iOS 11 wallpapers optimized for iPhone 11, featuring stunning visuals that enhance your device's aesthetic. From vibrant landscapes to subtle textures, elevate your home screen with unique designs that showcase the power of your iPhone. Download your favorite wallpapers today for a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Real iOS 11 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/60886/292377/292377.png' alt='Download the Real iOS 11 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/60886/292377/292377.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple's Wallpaper Selection in iOS 11 Is Just Abysmal - Business ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/59c2735f38d20d7f378b7f91?width=800&format=jpeg&auto=webp' alt='Apple's Wallpaper Selection in iOS 11 Is Just Abysmal - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/59c2735f38d20d7f378b7f91?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Real iOS 11 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/60886/60886/60886-1280.jpg' alt='Download the Real iOS 11 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/60886/60886/60886-1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 11 iPhone Wallpapers – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/09/11110444/Apple_ios11_wallpapers-1080x1920.png' alt='iOS 11 iPhone Wallpapers – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/09/11110444/Apple_ios11_wallpapers-1080x1920.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Ios 11 ideas | apple wallpaper, homescreen wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6e/96/47/6e96477cf3149a65d556628354008552.jpg' alt='9 Ios 11 ideas | apple wallpaper, homescreen wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6e/96/47/6e96477cf3149a65d556628354008552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ios 11 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/784/795/HD-wallpaper-ios-12-apple-colorful-ios-ios-11-ios12-iphone-iphonex-phone-plus-thumbnail.jpg' alt='HD ios 11 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/784/795/HD-wallpaper-ios-12-apple-colorful-ios-ios-11-ios12-iphone-iphonex-phone-plus-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ios 11 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/977/HD-wallpaper-ios-11-apple-ocean-sea-iphone-ipad-xs-max-newyear19-sasho2003b.jpg' alt='HD ios 11 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/977/HD-wallpaper-ios-11-apple-ocean-sea-iphone-ipad-xs-max-newyear19-sasho2003b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get the 20 New iOS 11 Wallpapers Now">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2017/09/ios-11-wallpapers-610x508.jpg' alt='Get the 20 New iOS 11 Wallpapers Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2017/09/ios-11-wallpapers-610x508.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are the new iPhone and iPad wallpapers from iOS 11 GM">
+                                <img itemprop="contentUrl url" src='https://www.cultofmac.com/wp-content/uploads/2017/09/iOS-11-GM-wallpapers.png' alt='Here are the new iPhone and iPad wallpapers from iOS 11 GM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1263">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cult of Mac" />
+                                </span>
+                                <a href='https://www.cultofmac.com/wp-content/uploads/2017/09/iOS-11-GM-wallpapers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get The iOS 11 and Mac OS High Sierra Wallpapers on your iPhone ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cd1d7559b7d154a49d4f475/1557563197106-AD05AOXN25MXANQRDDJK/ios-11-wallpaper-for-iphone_full.jpg' alt='Get The iOS 11 and Mac OS High Sierra Wallpapers on your iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarGadgetZ" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cd1d7559b7d154a49d4f475/1557563197106-AD05AOXN25MXANQRDDJK/ios-11-wallpaper-for-iphone_full.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

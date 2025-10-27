@@ -1,0 +1,129 @@
+<title>Blood Aesthetic Wallpaper: Dark Art for Unique Designs</title>
+                    <meta name="description" content="Discover stunning blood aesthetic wallpaper that combines dark artistry with captivating designs. Perfect for those who love a touch of mystery, these wallpapers will transform your device into a personal statement piece. Download now to elevate your screen's style!">
+                    <meta name="keywords" content="blood aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/blood-aesthetic-wallpaper">
+                            <span itemprop="name">blood aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blood Aesthetic Wallpaper: Dark Art for Unique Designs</h1>
+                <p>Transform your device with captivating blood aesthetic wallpaper that evokes a sense of mystery and allure. Ideal for those who appreciate dark art and unique designs, these wallpapers feature striking shades of crimson intertwined with abstract patterns. Perfect for adding an edge to your screen while expressing your individuality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 BLOOD ideas | red aesthetic, red aesthetic grunge, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/31/ef/50/31ef50abf74d69e8826ea3d2a49039d4.jpg' alt='110 BLOOD ideas | red aesthetic, red aesthetic grunge, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/31/ef/50/31ef50abf74d69e8826ea3d2a49039d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bloody Red Background With Blood Dripping Down Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blood-aesthetic-2940-x-1960-pqnv1lbp3j9h17jw.jpg' alt='Download Bloody Red Background With Blood Dripping Down Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blood-aesthetic-2940-x-1960-pqnv1lbp3j9h17jw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Rose Dark Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/blood-rose-dark-aesthetic-6c6ucua7t0k6miio.jpg' alt='Blood Rose Dark Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/blood-rose-dark-aesthetic-6c6ucua7t0k6miio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blood Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blood-aesthetic-hdkoyrqib7ttjesv.jpg' alt='100+] Blood Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blood-aesthetic-hdkoyrqib7ttjesv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Blood Red Aesthetic ideas | red aesthetic, red aesthetic grunge ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3f/67/38/3f6738ac3c00bc920010ebb3afd61fd2.jpg' alt='8 Blood Red Aesthetic ideas | red aesthetic, red aesthetic grunge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3f/67/38/3f6738ac3c00bc920010ebb3afd61fd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blood Splatter Background Vector | Price 1 Credit Usd $1 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blood-aesthetic-hvdu7cu66fw0qroo.jpg' alt='Download Blood Splatter Background Vector | Price 1 Credit Usd $1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blood-aesthetic-hvdu7cu66fw0qroo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6195765.jpg' alt='Blood Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6195765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blood Aesthetic Black Rock Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blood-aesthetic-s7d9fh5n5czld0wx.jpg' alt='Download Blood Aesthetic Black Rock Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blood-aesthetic-s7d9fh5n5czld0wx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody life, water, drops, dots, drop, red, aesthetic, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/194/382/HD-wallpaper-bloody-life-water-drops-dots-drop-red-aesthetic.jpg' alt='Bloody life, water, drops, dots, drop, red, aesthetic, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/194/382/HD-wallpaper-bloody-life-water-drops-dots-drop-red-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="B L O O D">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/05/9f/95/059f9546a984b37cb9e8aa14e7587ab0.jpg' alt='B L O O D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/05/9f/95/059f9546a984b37cb9e8aa14e7587ab0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

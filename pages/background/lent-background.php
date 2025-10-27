@@ -1,0 +1,129 @@
+<title>Understanding Lent: A Spiritual Journey</title>
+                    <meta name="description" content="Discover the significance of Lent, a 40-day period of fasting, prayer, and reflection leading to Easter. Explore its historical roots, traditions, and how it fosters spiritual growth in the Christian faith. Join us in understanding this important season in the church calendar.">
+                    <meta name="keywords" content="lent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lent-background">
+                            <span itemprop="name">lent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Lent: A Spiritual Journey</h1>
+                <p>Lent is a solemn observance in the Christian calendar, lasting 40 days, leading up to Easter. It commemorates the 40 days Jesus spent fasting in the desert. Traditionally, the season involves prayer, fasting, and almsgiving, encouraging self-reflection and spiritual growth. Lent begins on Ash Wednesday and concludes on Holy Saturday.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/14/24/23/360_F_414242399_1SyeANP3gAlzBkZmwhsukJGp46O3eRTW.jpg' alt='Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="823">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/14/24/23/360_F_414242399_1SyeANP3gAlzBkZmwhsukJGp46O3eRTW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/89/16/94/360_F_489169440_whFDl7fvpf2j3SRxp9uBPuPpxrWhB20Z.jpg' alt='Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/89/16/94/360_F_489169440_whFDl7fvpf2j3SRxp9uBPuPpxrWhB20Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/15/99/37/360_F_415993735_srnxua48u4yJcaXkGHT6eDJrNRUTMYU4.jpg' alt='Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/15/99/37/360_F_415993735_srnxua48u4yJcaXkGHT6eDJrNRUTMYU4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180+ Lent Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1474394468/vector/crosses-on-hill-religion-holiday-vector-background.jpg?s=612x612&w=0&k=20&c=1znpNCMGOPgkeeJTfoMSkfYEAt95aHMHMMoSexa-L3w=' alt='180+ Lent Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1474394468/vector/crosses-on-hill-religion-holiday-vector-background.jpg?s=612x612&w=0&k=20&c=1znpNCMGOPgkeeJTfoMSkfYEAt95aHMHMMoSexa-L3w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/10/89/84/360_F_410898414_9RnNnYvqASFKoUKFeGFfut3CvpKoUiIU.jpg' alt='Lent Background Images – Browse 826,260 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/10/89/84/360_F_410898414_9RnNnYvqASFKoUKFeGFfut3CvpKoUiIU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,752 Lent Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/week-lent-6-palm-sunday-260nw-2581906471.jpg' alt='26,752 Lent Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/week-lent-6-palm-sunday-260nw-2581906471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="933 Lent Background Purple Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ash-wednesday-lent-season-holy-week-concept-christian-crosses-ashes-purple-background-ai-ash-wednesday-lent-season-354004687.jpg' alt='933 Lent Background Purple Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ash-wednesday-lent-season-holy-week-concept-christian-crosses-ashes-purple-background-ai-ash-wednesday-lent-season-354004687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="121-1213330_images-of-lent-wallpapers-sc-lent-wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://stdamienparish.com/wp-content/uploads/2020/03/121-1213330_images-of-lent-wallpapers-sc-lent-wallpapers-backgrounds.jpg' alt='121-1213330_images-of-lent-wallpapers-sc-lent-wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saint Damien Parish" />
+                                </span>
+                                <a href='https://stdamienparish.com/wp-content/uploads/2020/03/121-1213330_images-of-lent-wallpapers-sc-lent-wallpapers-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,200+ Lent Stock Photos, Pictures & Royalty-Free Images - iStock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1468195332/photo/lent-season-holy-week-and-good-friday-concept-palm-leave-and-cross-on-purple-background.jpg?s=612x612&w=0&k=20&c=szqAHGhnd5EnnEg-F9vB5qfsOP8LkILlm33oKLJTeeM=' alt='5,200+ Lent Stock Photos, Pictures & Royalty-Free Images - iStock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1468195332/photo/lent-season-holy-week-and-good-friday-concept-palm-leave-and-cross-on-purple-background.jpg?s=612x612&w=0&k=20&c=szqAHGhnd5EnnEg-F9vB5qfsOP8LkILlm33oKLJTeeM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent: 7 Things to Know — Walking Humbly with God">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54c3f400e4b0e13d92500cee/1488411222341-RKYRKOD3K9IGN6GO8GZ0/image-asset.jpeg' alt='Lent: 7 Things to Know — Walking Humbly with God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walking Humbly with God" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54c3f400e4b0e13d92500cee/1488411222341-RKYRKOD3K9IGN6GO8GZ0/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

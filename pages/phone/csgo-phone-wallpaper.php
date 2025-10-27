@@ -1,0 +1,129 @@
+<title>Stunning CSGO Phone Wallpapers for Gamers</title>
+                    <meta name="description" content="Elevate your phone's aesthetic with our diverse selection of CSGO wallpapers. Perfect for gamers, these high-quality images showcase your love for Counter-Strike: Global Offensive, making your device a true reflection of your gaming passion. Browse and download your favorites today!">
+                    <meta name="keywords" content="csgo phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/csgo-phone-wallpaper">
+                            <span itemprop="name">csgo phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning CSGO Phone Wallpapers for Gamers</h1>
+                <p>Transform your mobile screen with stunning CSGO phone wallpapers! Whether you're a fan of the tactical gameplay or the iconic characters, our collection features high-resolution images that capture the essence of Counter-Strike: Global Offensive. Download your favorite wallpaper now and showcase your passion for the game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Counter Strike Global Offensive 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/90/4b/36904b8d2c56d8746bf1003ba4295d84.jpg' alt='Counter Strike Global Offensive 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/90/4b/36904b8d2c56d8746bf1003ba4295d84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cs Go Mobile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cs-go-mobile-xb9ovth229qs5qud.jpg' alt='100+] Cs Go Mobile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cs-go-mobile-xb9ovth229qs5qud.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSGO SAS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b0/b4/15/b0b415d62df0cbcf0e03f4f32ec18e2a.jpg' alt='CSGO SAS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b0/b4/15/b0b415d62df0cbcf0e03f4f32ec18e2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CS GO, black, counter strike, cs go, csgo, gaming, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/293/900/HD-wallpaper-cs-go-black-counter-strike-cs-go-csgo-gaming.jpg' alt='CS GO, black, counter strike, cs go, csgo, gaming, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/293/900/HD-wallpaper-cs-go-black-counter-strike-cs-go-csgo-gaming.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cs Go Mobile Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2736417.png' alt='Cs Go Mobile Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2736417.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel asiimov phone wallpaper : r/csgo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3jwmfj9pi5021.png' alt='Pixel asiimov phone wallpaper : r/csgo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3jwmfj9pi5021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CS GO, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/132/136/HD-wallpaper-cs-go-anime.jpg' alt='CS GO, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/132/136/HD-wallpaper-cs-go-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Counter Strike: Global Offensive CSGO Wallpaper 4k HD for iPhone ...">
+                                <img itemprop="contentUrl url" src='https://www.xtrafondos.com/thumbs/vertical/1_3203.jpg' alt='Counter Strike: Global Offensive CSGO Wallpaper 4k HD for iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xtrafondos" />
+                                </span>
+                                <a href='https://www.xtrafondos.com/thumbs/vertical/1_3203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper: Counter Strike: Global Offensive 1080x1920">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/48/c1/5a48c1f2e20570a04697d6bf66328cf9.jpg' alt='Download wallpaper: Counter Strike: Global Offensive 1080x1920'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/48/c1/5a48c1f2e20570a04697d6bf66328cf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some wallpapers that I did for your phones of the new "Counter ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-wallpapers-that-i-did-for-your-phones-of-the-new-v0-hly13bynk5pa1.jpg?width=640&crop=smart&auto=webp&s=7f08e70d56675e42457d0e4a4c857ba145d7cdd8' alt='Some wallpapers that I did for your phones of the new "Counter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-wallpapers-that-i-did-for-your-phones-of-the-new-v0-hly13bynk5pa1.jpg?width=640&crop=smart&auto=webp&s=7f08e70d56675e42457d0e4a4c857ba145d7cdd8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

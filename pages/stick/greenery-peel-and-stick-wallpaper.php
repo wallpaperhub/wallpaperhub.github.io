@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Greenery Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of greenery peel and stick wallpaper! Ideal for a quick décor update, this removable wallpaper offers stunning botanical designs to breathe life into your home. Perfect for renters or anyone looking to enhance their space easily and stylishly. Shop now for a fresh, vibrant look!">
+                    <meta name="keywords" content="greenery peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/greenery-peel-and-stick-wallpaper">
+                            <span itemprop="name">greenery peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Greenery Peel and Stick Wallpaper</h1>
+                <p>Transform your space with greenery peel and stick wallpaper, an effortless way to bring nature indoors. Perfect for renters or those seeking a temporary refresh, this wallpaper is easy to apply and remove without damage. Choose from vibrant botanical designs that create a serene ambiance, adding warmth and freshness to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaves Removable Mural Wallpaper - Fern Botanical Self Adhesive Wall  Decor - Peel and Stick Wallpaper - Temporary Decal CCM081 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_1080xN.4006168033_12uw.jpg' alt='Green Leaves Removable Mural Wallpaper - Fern Botanical Self Adhesive Wall  Decor - Peel and Stick Wallpaper - Temporary Decal CCM081 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_1080xN.4006168033_12uw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Green Leaf Contact Paper 17.7inch x196.8inch  Modern Eucalyptus Peel and Stick Wallpaper for Bathroom Green Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810UYNI3khL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Green Leaf Contact Paper 17.7inch x196.8inch  Modern Eucalyptus Peel and Stick Wallpaper for Bathroom Green Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810UYNI3khL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Forest Green Acanthus Trail Vinyl Peel and Stick  Wallpaper Roll NW43604">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/881c247c-1668-44c8-848b-b0b2a4ff3589/svn/nextwall-wallpaper-rolls-nw43604-c3_600.jpg' alt='NextWall 30.75 sq. ft. Forest Green Acanthus Trail Vinyl Peel and Stick  Wallpaper Roll NW43604'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/881c247c-1668-44c8-848b-b0b2a4ff3589/svn/nextwall-wallpaper-rolls-nw43604-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Forest Green Aves Garden Vinyl Peel and ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/082e2c06-5460-4634-a053-bf43fafcbfb9/svn/nextwall-wallpaper-rolls-nw43704-c3_600.jpg' alt='NextWall 30.75 sq. ft. Forest Green Aves Garden Vinyl Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/082e2c06-5460-4634-a053-bf43fafcbfb9/svn/nextwall-wallpaper-rolls-nw43704-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Fern Self Adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2023/01/fern_botanical_wallpaper_peel_and_stick_wallberry2.jpg' alt='Green Fern Self Adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2023/01/fern_botanical_wallpaper_peel_and_stick_wallberry2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Succulent Greenery Wallpaper/Peel and Stick Removable/Olive Greenery  Leafy/Blue Green Colors Boho /Living Room Laundry Entryway">
+                                <img itemprop="contentUrl url" src='https://babymaes.com/cdn/shop/products/il_fullxfull.2967885111_dv3i_19fe89a7-c387-43f0-918d-7d54fe3186c7.jpg?v=1663629484' alt='Succulent Greenery Wallpaper/Peel and Stick Removable/Olive Greenery  Leafy/Blue Green Colors Boho /Living Room Laundry Entryway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2102">
+                                <meta itemprop="height" content="2102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Maes" />
+                                </span>
+                                <a href='https://babymaes.com/cdn/shop/products/il_fullxfull.2967885111_dv3i_19fe89a7-c387-43f0-918d-7d54fe3186c7.jpg?v=1663629484' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Greenery Peel and Stick Wallpaper Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30705237/r/il/1b0e72/3228355647/il_570xN.3228355647_85ri.jpg' alt='Botanical Greenery Peel and Stick Wallpaper Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30705237/r/il/1b0e72/3228355647/il_570xN.3228355647_85ri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Green Foliage Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick 2374">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3579532166_ms2y.jpg' alt='Beige Green Foliage Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick 2374'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3579532166_ms2y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Botanical Mural: Peel and Stick Removable Wallpaper for  Bedrooms, Nurseries, and Living Rooms – Wallflora">
+                                <img itemprop="contentUrl url" src='https://wallflorashop.com/cdn/shop/files/5.jpg?v=1704370636' alt='Sage Green Botanical Mural: Peel and Stick Removable Wallpaper for  Bedrooms, Nurseries, and Living Rooms – Wallflora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallflora" />
+                                </span>
+                                <a href='https://wallflorashop.com/cdn/shop/files/5.jpg?v=1704370636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Emerald Green">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1471RL_cc52aac7-77e8-4458-8f5b-84635f694560.jpg?v=1666625891' alt='Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Emerald Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1471RL_cc52aac7-77e8-4458-8f5b-84635f694560.jpg?v=1666625891' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

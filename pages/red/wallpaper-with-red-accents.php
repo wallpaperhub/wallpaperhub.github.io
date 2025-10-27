@@ -1,0 +1,129 @@
+<title>Transform Your Space: Wallpaper with Red Accents</title>
+                    <meta name="description" content="Add vibrancy to your interiors with captivating wallpaper showcasing red accents. Perfect for any room, these designs inject energy and style, making your decor stand out. Discover how to seamlessly incorporate this bold choice into your home today!">
+                    <meta name="keywords" content="wallpaper with red accents">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/wallpaper-with-red-accents">
+                            <span itemprop="name">wallpaper with red accents</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Wallpaper with Red Accents</h1>
+                <p>Elevate your space with wallpaper featuring striking red accents! This bold choice adds warmth and vibrancy, creating focal points that draw the eye. Whether it’s a modern geometric or a classic floral design, red accents can enhance any room’s decor, making it feel inviting and energized. Perfect for living rooms, bedrooms, or offices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wallpaper | Dark Red | Deep Red | Plain & Patterned Red World ...">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/d/w/dwa064_wave_red_wallpaper_new_ae2.jpg' alt='Red Wallpaper | Dark Red | Deep Red | Plain & Patterned Red World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/d/w/dwa064_wave_red_wallpaper_new_ae2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red color self-adhesive wallpapers – precisely for you!">
+                                <img itemprop="contentUrl url" src='https://deccoprint.com/cdn/shop/files/interior5_62eb982a-34c4-47c6-ac45-28d2e708cdcf_1024x1024.jpg?v=1734692235' alt='Red color self-adhesive wallpapers – precisely for you!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeccoPrint" />
+                                </span>
+                                <a href='https://deccoprint.com/cdn/shop/files/interior5_62eb982a-34c4-47c6-ac45-28d2e708cdcf_1024x1024.jpg?v=1734692235' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Gold Damask on Bright Red Wallpaper, Bold Vintage Focal Wall,  Elegant Floral Scroll Victorian Trellis - 12"x9" Sample MD29434so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/6031b5/2520360420/il_570xN.2520360420_63iu.jpg' alt='Traditional Gold Damask on Bright Red Wallpaper, Bold Vintage Focal Wall,  Elegant Floral Scroll Victorian Trellis - 12"x9" Sample MD29434so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/6031b5/2520360420/il_570xN.2520360420_63iu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Red Gold Wallpaper Peel and Stick Red Contact Paper for  Countertops 15.8x78.8 Vintage Deep Dark Red Wall Paper for Bathroom Bedroom  Accent ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81f2vdlZbOL.jpg' alt='Livelynine Red Gold Wallpaper Peel and Stick Red Contact Paper for  Countertops 15.8x78.8 Vintage Deep Dark Red Wall Paper for Bathroom Bedroom  Accent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81f2vdlZbOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & Red Dark Marble Wall Mural | Wall Decor | Home Renovation ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49220755/r/il/9fccac/5964078665/il_570xN.5964078665_nbma.jpg' alt='Black & Red Dark Marble Wall Mural | Wall Decor | Home Renovation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49220755/r/il/9fccac/5964078665/il_570xN.5964078665_nbma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Red Wallpaper for Rooms: Peel and Stick | EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/collections/Seamless_floral_pattern_with_peonies_flowers_on_summer_background_watercolor_illustration_1.jpg?v=1713891347&width=1296' alt='Bold Red Wallpaper for Rooms: Peel and Stick | EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/collections/Seamless_floral_pattern_with_peonies_flowers_on_summer_background_watercolor_illustration_1.jpg?v=1713891347&width=1296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920s Antique Wallpaper Chinoiserie 5 Yds Ornamental Garden Pagoda ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18201109/r/il/9dd43b/6084696995/il_570xN.6084696995_ml8f.jpg' alt='1920s Antique Wallpaper Chinoiserie 5 Yds Ornamental Garden Pagoda ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18201109/r/il/9dd43b/6084696995/il_570xN.6084696995_ml8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Red Rose Floral Wallpaper Vintage Dark Floral Peel and Stick  Wallpaper 17.7''x78.7'' Red Floral Contact Paper for Walls Cabinets Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fD0cJBpGL._AC_UF894,1000_QL80_.jpg' alt='VaryPaper Red Rose Floral Wallpaper Vintage Dark Floral Peel and Stick  Wallpaper 17.7''x78.7'' Red Floral Contact Paper for Walls Cabinets Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fD0cJBpGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wallpaper | Dark Red | Deep Red | Plain & Patterned Red World ...">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/d/w/dwa139_wave_shimmer_wallpaper_red_ae1.jpg' alt='Red Wallpaper | Dark Red | Deep Red | Plain & Patterned Red World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/d/w/dwa139_wave_shimmer_wallpaper_red_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empire Velvet Flock Wallpaper in Scarlet/Champagne by Burke Decor">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/VV222_720x.jpg?v=1669387014' alt='Empire Velvet Flock Wallpaper in Scarlet/Champagne by Burke Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/VV222_720x.jpg?v=1669387014' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

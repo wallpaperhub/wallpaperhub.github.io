@@ -1,0 +1,129 @@
+<title>"Connect & Match: The Blue Background Dating App"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dating app with blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dating-app-with-blue-background">
+                            <span itemprop="name">dating app with blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Connect & Match: The Blue Background Dating App"</h1>
+                <p>Discover the ultimate dating app designed with a soothing blue background that enhances your experience! Engage with potential matches in a calm, vibrant setting. Our user-friendly interface makes it easy to explore profiles, chat, and connect. Dive into a world where love blooms effortlessly. Swipe, chat, and meet your match today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hinge, the dating app designed to be deleted">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5c/2b/38/5c2b3812378375e2ef57a7c64e2eec5b.jpg' alt='Download Hinge, the dating app designed to be deleted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5c/2b/38/5c2b3812378375e2ef57a7c64e2eec5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dating Apps @ Dartmouth - The Dartmouth Review">
+                                <img itemprop="contentUrl url" src='https://dartreview.com/wp-content/uploads/2015/10/friendsy.png' alt='Dating Apps @ Dartmouth - The Dartmouth Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dartmouth Review" />
+                                </span>
+                                <a href='https://dartreview.com/wp-content/uploads/2015/10/friendsy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Twitter users get their own dating app – The Irish Times">
+                                <img itemprop="contentUrl url" src='https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/B3V5HL3XWF2H453ZJW2DBIOSZY.jpg' alt='Verified Twitter users get their own dating app – The Irish Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Irish Times" />
+                                </span>
+                                <a href='https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/B3V5HL3XWF2H453ZJW2DBIOSZY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dating App Blue Color Icons Set Stock Vector - Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/print-252162404.jpg' alt='Dating App Blue Color Icons Set Stock Vector - Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/print-252162404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loveflutter Blue Is a Dating App That's Exclusively for Verified ...">
+                                <img itemprop="contentUrl url" src='https://i.gadgets360cdn.com/large/loveflutter_blue_app_ios_1501154969635.png' alt='Loveflutter Blue Is a Dating App That's Exclusively for Verified ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="803">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gadgets 360" />
+                                </span>
+                                <a href='https://i.gadgets360cdn.com/large/loveflutter_blue_app_ios_1501154969635.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tinder dating app logo over blue technology dynamic background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FM9TXB/tinder-dating-app-logo-over-blue-technology-dynamic-background-2FM9TXB.jpg' alt='Tinder dating app logo over blue technology dynamic background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FM9TXB/tinder-dating-app-logo-over-blue-technology-dynamic-background-2FM9TXB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Twitter Dating App Blue Released By Loveflutter">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/4c6/a92/0bb965f4e941524eb77b562792a2311608-27-LoveflutterBlue.rsquare.w330.jpg' alt='Verified Twitter Dating App Blue Released By Loveflutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Magazine" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/4c6/a92/0bb965f4e941524eb77b562792a2311608-27-LoveflutterBlue.rsquare.w330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Dating App UI and UX Alternative Trendy Concept Vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GKN12M/mobile-dating-app-ui-and-ux-alternative-trendy-concept-vector-banner-in-blue-color-theme-on-frameless-smart-phone-screen-isolated-on-blue-background-2GKN12M.jpg' alt='Mobile Dating App UI and UX Alternative Trendy Concept Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GKN12M/mobile-dating-app-ui-and-ux-alternative-trendy-concept-vector-banner-in-blue-color-theme-on-frameless-smart-phone-screen-isolated-on-blue-background-2GKN12M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Line Online Dating App And Chat Icon Isolated On Blue ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1217958823/vector/white-line-online-dating-app-and-chat-icon-isolated-on-blue-background-international-happy.jpg?s=612x612&w=is&k=20&c=QgvQzIvehmQr15G25dGHlxDVnTb7cKVUp7zMZOyF7N4=' alt='White Line Online Dating App And Chat Icon Isolated On Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1217958823/vector/white-line-online-dating-app-and-chat-icon-isolated-on-blue-background-international-happy.jpg?s=612x612&w=is&k=20&c=QgvQzIvehmQr15G25dGHlxDVnTb7cKVUp7zMZOyF7N4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue is a dating app for verified Twitter users | TechCrunch">
+                                <img itemprop="contentUrl url" src='https://techcrunch.com/wp-content/uploads/2017/07/twitter-verified-hearts.png' alt='Blue is a dating app for verified Twitter users | TechCrunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechCrunch" />
+                                </span>
+                                <a href='https://techcrunch.com/wp-content/uploads/2017/07/twitter-verified-hearts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

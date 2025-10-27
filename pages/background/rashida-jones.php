@@ -1,0 +1,129 @@
+<title>Rashida Jones: Versatile Actress and Creative Innovator</title>
+                    <meta name="description" content="Explore the multifaceted career of Rashida Jones, a talented actress and producer. From iconic TV roles to thought-provoking films, discover how she blends creativity with social advocacy in the entertainment industry. Join us in celebrating her contributions and ongoing influence!">
+                    <meta name="keywords" content="rashida jones">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rashida-jones">
+                            <span itemprop="name">rashida jones</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rashida Jones: Versatile Actress and Creative Innovator</h1>
+                <p>Rashida Jones is an accomplished actress, writer, and producer, known for her roles in hit series like "Parks and Recreation" and "The Office." As the daughter of music icon Quincy Jones, she ventured into the entertainment world with a unique perspective. Beyond acting, Rashida is involved in socially relevant projects that inspire change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjA0ODM2MzQ2NV5BMl5BanBnXkFtZTcwMTAxNTUxOQ@@._V1_FMjpg_UX1000_.jpg' alt='Rashida Jones - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjA0ODM2MzQ2NV5BMl5BanBnXkFtZTcwMTAxNTUxOQ@@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rashida_Jones_2017_%28cropped%29.jpg/800px-Rashida_Jones_2017_%28cropped%29.jpg' alt='Rashida Jones - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rashida_Jones_2017_%28cropped%29.jpg/800px-Rashida_Jones_2017_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones and Ezra Koenig are married in the 'eyes of god ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2024/07/10/00/newFile.jpg?width=1200' alt='Rashida Jones and Ezra Koenig are married in the 'eyes of god ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2024/07/10/00/newFile.jpg?width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones Almost Gave Up on Acting Before Her Big Break on ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/63126ea1e247b3652b89ef28/1720424779499-8K45D0P5XJHX8BKFGLQM/TGC+%2395++-++Rashida+Jones+-+Website+Art.jpg' alt='Rashida Jones Almost Gave Up on Acting Before Her Big Break on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Great Creators with Guy Raz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/63126ea1e247b3652b89ef28/1720424779499-8K45D0P5XJHX8BKFGLQM/TGC+%2395++-++Rashida+Jones+-+Website+Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rashida_Jones_at_2017_MIFF_%28cropped%29.jpg/220px-Rashida_Jones_at_2017_MIFF_%28cropped%29.jpg' alt='Rashida Jones - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rashida_Jones_at_2017_MIFF_%28cropped%29.jpg/220px-Rashida_Jones_at_2017_MIFF_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quincy Jones death: Rashida Jones breaks her silence">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2018/09/19/USAT/67c10581-b3d9-4cae-854d-7e3356c8adb1-XXX_Quincy_Jones_and_Rashida_Jones_20180918_USA_djm_0024.jpg?width=1733&height=975&fit=crop&format=pjpg&auto=webp' alt='Quincy Jones death: Rashida Jones breaks her silence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1733">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2018/09/19/USAT/67c10581-b3d9-4cae-854d-7e3356c8adb1-XXX_Quincy_Jones_and_Rashida_Jones_20180918_USA_djm_0024.jpg?width=1733&height=975&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones | Inside Out Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/insideout/images/9/93/Rashida_Jones_ibx.png/revision/latest?cb=20171223180257' alt='Rashida Jones | Inside Out Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inside Out Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/insideout/images/9/93/Rashida_Jones_ibx.png/revision/latest?cb=20171223180257' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones | Dunderpedia: The Office Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/theoffice/images/3/30/Rashida_Jones.jpg/revision/latest?cb=20171022172218' alt='Rashida Jones | Dunderpedia: The Office Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Office Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/theoffice/images/3/30/Rashida_Jones.jpg/revision/latest?cb=20171022172218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones Says Dad Quincy Jones Was 'Working on His Speech ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/sjGm_tYyAl3JnpWULsABVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/people_218/862acbb56524e92803249fc137b2625c' alt='Rashida Jones Says Dad Quincy Jones Was 'Working on His Speech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/sjGm_tYyAl3JnpWULsABVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/people_218/862acbb56524e92803249fc137b2625c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rashida Jones | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/3/30/Rashida_Jones.jpg/revision/latest?cb=20190211214306' alt='Rashida Jones | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/3/30/Rashida_Jones.jpg/revision/latest?cb=20190211214306' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

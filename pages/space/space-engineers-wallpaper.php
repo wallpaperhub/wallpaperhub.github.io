@@ -1,0 +1,129 @@
+<title>Awesome Space Engineers Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover a collection of high-quality Space Engineers wallpapers for your devices. Perfect for fans who want to showcase their love for the game, these wallpapers feature vivid graphics and immersive designs. Download now to elevate your screen’s aesthetic! Perfect for mobile and desktop use.">
+                    <meta name="keywords" content="space engineers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-engineers-wallpaper">
+                            <span itemprop="name">space engineers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Space Engineers Wallpapers for Gamers</h1>
+                <p>Explore stunning Space Engineers wallpapers that bring your favorite game to life on your devices. Featuring breathtaking vistas, intricate spacecraft designs, and epic space battles, these wallpapers are perfect for enthusiasts looking to enhance their gaming experience. Download yours and transform your screens today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers Game HD Wallpaper - Futuristic Exploration">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/848/thumb-1920-848792.jpg' alt='Space Engineers Game HD Wallpaper - Futuristic Exploration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/848/thumb-1920-848792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers HD Wallpaper - Intergalactic Adventure Scene">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/120/1206865.png' alt='Space Engineers HD Wallpaper - Intergalactic Adventure Scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/120/1206865.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers Game Astronaut Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/848/848791.jpg' alt='Space Engineers Game Astronaut Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/848/848791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers Crashed Spaceship Wallpaper - HD Desktop Background">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/120/1206852.jpg' alt='Space Engineers Crashed Spaceship Wallpaper - HD Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/120/1206852.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers - Copper Ice">
+                                <img itemprop="contentUrl url" src='https://copperice.co.uk/wp-content/uploads/2022/03/space-engineers.jpg' alt='Space Engineers - Copper Ice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Copper Ice" />
+                                </span>
+                                <a href='https://copperice.co.uk/wp-content/uploads/2022/03/space-engineers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers 2 Pioneer Edition DLC | Space Engineers 2">
+                                <img itemprop="contentUrl url" src='https://2.spaceengineersgame.com/wp-content/uploads/2024/12/screenshot_10.png' alt='Space Engineers 2 Pioneer Edition DLC | Space Engineers 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Engineers 2" />
+                                </span>
+                                <a href='https://2.spaceengineersgame.com/wp-content/uploads/2024/12/screenshot_10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thrilling Space Engineers Starship HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/120/1206850.png' alt='Thrilling Space Engineers Starship HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/120/1206850.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper        : r/spaceengineers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hfrpb1ttd0yd1.jpeg' alt='New wallpaper        : r/spaceengineers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hfrpb1ttd0yd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers Game HD Wallpaper – Cosmic Exploration Scene">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/848/848789.jpg' alt='Space Engineers Game HD Wallpaper – Cosmic Exploration Scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/848/848789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Engineers 2 Pioneer Edition DLC | Space Engineers 2">
+                                <img itemprop="contentUrl url" src='https://2.spaceengineersgame.com/wp-content/uploads/2021/01/PioneerDLC_Logo_HighDef-768x432.png' alt='Space Engineers 2 Pioneer Edition DLC | Space Engineers 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Engineers 2" />
+                                </span>
+                                <a href='https://2.spaceengineersgame.com/wp-content/uploads/2021/01/PioneerDLC_Logo_HighDef-768x432.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

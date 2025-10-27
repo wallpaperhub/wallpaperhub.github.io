@@ -1,0 +1,129 @@
+<title>Exploring the Legacy of Mary: A Name of Strength and Grace</title>
+                    <meta name="description" content="Discover the rich history and significance of the name Mary. Explore its roots, influential figures, and cultural impact, showcasing how this timeless name embodies strength, grace, and resilience in various contexts. Perfect for those seeking inspiration and connection to a meaningful legacy.">
+                    <meta name="keywords" content="mary">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mary">
+                            <span itemprop="name">mary</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Legacy of Mary: A Name of Strength and Grace</h1>
+                <p>Mary is a name steeped in history and meaning, often linked to strength and resilience. From the biblical Mary, mother of Jesus, to countless influential figures throughout history, the name embodies grace and courage. In modern culture, Mary continues to inspire through literature, art, and personal stories of empowerment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immaculate Heart of Mary - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2c/Blessed_Virgin_Mary.jpg' alt='Immaculate Heart of Mary - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2c/Blessed_Virgin_Mary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady Immaculate Conception of Mary POSTER 8x10 Virgin Mary print image  Blessed Mother picture Holy Mary painting Catholic">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bfNiiKKsL._UF894,1000_QL80_.jpg' alt='Our Lady Immaculate Conception of Mary POSTER 8x10 Virgin Mary print image  Blessed Mother picture Holy Mary painting Catholic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bfNiiKKsL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virgin Mary | The Demonic Paradise Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-demonic-paradise/images/e/e0/Virgin_Mary.jpg/revision/latest/thumbnail/width/360/height/450?cb=20161207001604' alt='Virgin Mary | The Demonic Paradise Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Demonic Paradise Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-demonic-paradise/images/e/e0/Virgin_Mary.jpg/revision/latest/thumbnail/width/360/height/450?cb=20161207001604' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The making of Mary - Macleans.ca">
+                                <img itemprop="contentUrl url" src='https://cms.macleans.ca/wp-content/uploads/2018/01/JAN22_BETHUNE_MARY_POST01.jpg' alt='The making of Mary - Macleans.ca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Macleans.ca" />
+                                </span>
+                                <a href='https://cms.macleans.ca/wp-content/uploads/2018/01/JAN22_BETHUNE_MARY_POST01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Virgin Mary was a prophet too, some experts say | Broadview ...">
+                                <img itemprop="contentUrl url" src='https://broadview.org/wp-content/uploads/2023/12/Copy-of-Copy-of-Copy-of-Untitled-Design-1-1.png' alt='The Virgin Mary was a prophet too, some experts say | Broadview ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadview Magazine" />
+                                </span>
+                                <a href='https://broadview.org/wp-content/uploads/2023/12/Copy-of-Copy-of-Copy-of-Untitled-Design-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Importance of Mary | mattersofthemoment">
+                                <img itemprop="contentUrl url" src='https://mattersofthemoment.com/wp-content/uploads/2021/09/mary-1.jpeg' alt='The Importance of Mary | mattersofthemoment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1252">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mattersofthemoment" />
+                                </span>
+                                <a href='https://mattersofthemoment.com/wp-content/uploads/2021/09/mary-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 things to know about Mary : University of Dayton, Ohio">
+                                <img itemprop="contentUrl url" src='https://udayton.edu/news/images/architecture/campus/mary_statue_600x400_112922.jpg' alt='7 things to know about Mary : University of Dayton, Ohio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Dayton" />
+                                </span>
+                                <a href='https://udayton.edu/news/images/architecture/campus/mary_statue_600x400_112922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ways of the Virgin Mother Mary and Her Apparitions">
+                                <img itemprop="contentUrl url" src='https://cdn.modernghana.com/story-/640/457/1031202471705-0f72ylkxws-virgin-mother-mary.jpeg' alt='The Ways of the Virgin Mother Mary and Her Apparitions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Ghana" />
+                                </span>
+                                <a href='https://cdn.modernghana.com/story-/640/457/1031202471705-0f72ylkxws-virgin-mother-mary.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immaculate Heart of Mary, Virgin Mary Print, 8x10",11x14",16x20 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9741580/r/il/cbda82/1586612377/il_fullxfull.1586612377_5zc9.jpg' alt='Immaculate Heart of Mary, Virgin Mary Print, 8x10",11x14",16x20 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9741580/r/il/cbda82/1586612377/il_fullxfull.1586612377_5zc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mary the Blessed Virgin - Saints & Angels - Catholic Online">
+                                <img itemprop="contentUrl url" src='https://www.catholic.org/files/images/saints/4967.jpg' alt='Mary the Blessed Virgin - Saints & Angels - Catholic Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Online" />
+                                </span>
+                                <a href='https://www.catholic.org/files/images/saints/4967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

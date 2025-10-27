@@ -1,0 +1,129 @@
+<title>Annual Background Check: Ensure Safety & Trust</title>
+                    <meta name="description" content="Stay secure with annual background checks! Discover how yearly assessments help protect your organization and foster trust by identifying potential risks like criminal records or employment discrepancies. Secure your peace of mind today!">
+                    <meta name="keywords" content="annual background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/annual-background-check">
+                            <span itemprop="name">annual background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Annual Background Check: Ensure Safety & Trust</h1>
+                <p>Annual background checks are essential for maintaining a safe and secure environment in both personal and professional settings. Conducting these checks yearly can uncover any potential issues such as criminal records, employment history discrepancies, or financial problems. This proactive measure helps organizations build trust and safeguard their interests.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual Background Checks: Why do Employers Need Them? - Certifix ...">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2021/07/Annual-Background-Checks.jpg' alt='Annual Background Checks: Why do Employers Need Them? - Certifix ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2021/07/Annual-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual Background Check - Background Check Central">
+                                <img itemprop="contentUrl url" src='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/04/Annual-Background-Checks.jpg' alt='Annual Background Check - Background Check Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Check Central" />
+                                </span>
+                                <a href='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/04/Annual-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual Background Check is Essential Component for every Business">
+                                <img itemprop="contentUrl url" src='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/03/Hiring-and-background-checks-during-covid-600x296-1.jpg' alt='Annual Background Check is Essential Component for every Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Check Central" />
+                                </span>
+                                <a href='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/03/Hiring-and-background-checks-during-covid-600x296-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safety First! The Importance of Annual Criminal Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.justifacts.com/wp-content/uploads/2024/02/criminal-BGC.png' alt='Safety First! The Importance of Annual Criminal Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Justifacts" />
+                                </span>
+                                <a href='https://www.justifacts.com/wp-content/uploads/2024/02/criminal-BGC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual background check : r/InstacartShoppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/annual-background-check-v0-xqasfo5lqyya1.jpg?auto=webp&s=3b2e68d8f1164a4a015a894f58f1a9d6b1b77bf6' alt='Annual background check : r/InstacartShoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/annual-background-check-v0-xqasfo5lqyya1.jpg?auto=webp&s=3b2e68d8f1164a4a015a894f58f1a9d6b1b77bf6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Free Background Check Authorization Forms ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-03.jpg' alt='47 Free Background Check Authorization Forms ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Continuous Crim, Ongoing Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/365c40f956/continuous-checks-hero-01-2.png/m/' alt='Continuous Crim, Ongoing Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/365c40f956/continuous-checks-hero-01-2.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOBY Annual Background Check Form For Volunteers - Hobymd - Fill ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/337/504/337504086.png' alt='HOBY Annual Background Check Form For Volunteers - Hobymd - Fill ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/337/504/337504086.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Financial Background Checks - Backgrounds Online">
+                                <img itemprop="contentUrl url" src='https://content.backgroundsonline.com/images/sites/bgo/industry/annual.png' alt='Financial Background Checks - Backgrounds Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgrounds Online" />
+                                </span>
+                                <a href='https://content.backgroundsonline.com/images/sites/bgo/industry/annual.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

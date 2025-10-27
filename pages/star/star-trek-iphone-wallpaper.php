@@ -1,0 +1,129 @@
+<title>Stellar Star Trek iPhone Wallpapers for Ultimate Fans</title>
+                    <meta name="description" content="Explore our collection of captivating Star Trek iPhone wallpapers! Perfect for fans, these stunning designs feature iconic characters and starships, ensuring your device reflects your love for the series. Download now and make your iPhone out of this world!">
+                    <meta name="keywords" content="star trek iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-trek-iphone-wallpaper">
+                            <span itemprop="name">star trek iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stellar Star Trek iPhone Wallpapers for Ultimate Fans</h1>
+                <p>Transform your device with stunning Star Trek iPhone wallpapers! From the iconic Starship Enterprise to breathtaking planetary vistas, find HD wallpapers that celebrate the legacy of the beloved series. Show off your fandom and personalize your screen with images that inspire adventure and exploration in the final frontier!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Trek Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-trek-iphone-xf02g5yc1fvr5cib.jpg' alt='100+] Star Trek Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-trek-iphone-xf02g5yc1fvr5cib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Wallpaper: A place to deposit Star Trek desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/edited-photo-i-found-v0-bsj13wrbaz4c1.jpg?width=1290&format=pjpg&auto=webp&s=ce39e28131f06946b1ca27fa582e471f6cbed584' alt='Star Trek Wallpaper: A place to deposit Star Trek desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/edited-photo-i-found-v0-bsj13wrbaz4c1.jpg?width=1290&format=pjpg&auto=webp&s=ce39e28131f06946b1ca27fa582e471f6cbed584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Star Trek iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/d4/63/26d4639ed37dfcbf8a70624c97654f1f.jpg' alt='Awesome Star Trek iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/d4/63/26d4639ed37dfcbf8a70624c97654f1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Iphone Uss Enterprise Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-trek-iphone-uss-enterprise-ci5lphkddoescb00.jpg' alt='Star Trek Iphone Uss Enterprise Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-trek-iphone-uss-enterprise-ci5lphkddoescb00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Star Trek Symbol Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/orange-star-trek-symbol-iphone-6ryaj1ovpto8v2za.jpg' alt='Orange Star Trek Symbol Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/orange-star-trek-symbol-iphone-6ryaj1ovpto8v2za.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a LCARS wallpaper for the iPhone 15 Pro Max : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-lcars-wallpaper-for-the-iphone-15-pro-max-v0-tz58fcdecsub1.jpg?width=640&crop=smart&auto=webp&s=8e898568b75f68bbdaed280d6f1bfddcfe2ab47f' alt='I made a LCARS wallpaper for the iPhone 15 Pro Max : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-lcars-wallpaper-for-the-iphone-15-pro-max-v0-tz58fcdecsub1.jpg?width=640&crop=smart&auto=webp&s=8e898568b75f68bbdaed280d6f1bfddcfe2ab47f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Iphone Retro Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-trek-iphone-retro-art-cw0zp8s8d4um8itr.jpg' alt='Star Trek Iphone Retro Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-trek-iphone-retro-art-cw0zp8s8d4um8itr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boldly Go, TOS, star trek, uss enterprise, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/125/356/HD-wallpaper-boldly-go-tos-star-trek-uss-enterprise.jpg' alt='Boldly Go, TOS, star trek, uss enterprise, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/125/356/HD-wallpaper-boldly-go-tos-star-trek-uss-enterprise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a LCARS wallpaper for the iPhone 15 Pro Max : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-a-lcars-wallpaper-for-the-iphone-15-pro-max-v0-p7tiwbdecsub1.jpg?width=1290&format=pjpg&auto=webp&s=1565fcee50637de8be734c3e387e9c3cb2893be1' alt='I made a LCARS wallpaper for the iPhone 15 Pro Max : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-a-lcars-wallpaper-for-the-iphone-15-pro-max-v0-p7tiwbdecsub1.jpg?width=1290&format=pjpg&auto=webp&s=1565fcee50637de8be734c3e387e9c3cb2893be1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Trek Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-trek-phone-starfleet-command-qxrawqxvbbwha67s.jpg' alt='100+] Star Trek Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-trek-phone-starfleet-command-qxrawqxvbbwha67s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

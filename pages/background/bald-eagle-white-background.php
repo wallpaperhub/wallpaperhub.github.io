@@ -1,0 +1,129 @@
+<title>Bald Eagle: Majestic Icon on White Background</title>
+                    <meta name="description" content="Discover the beauty of the bald eagle against a pristine white background. This stunning imagery highlights the bird's majestic features and symbolizes freedom. Perfect for nature enthusiasts and birdwatchers alike, explore the elegance of America's national bird today!">
+                    <meta name="keywords" content="bald eagle white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bald-eagle-white-background">
+                            <span itemprop="name">bald eagle white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bald Eagle: Majestic Icon on White Background</h1>
+                <p>The majestic bald eagle, with its iconic white head and tail feathers, soars against a stark white background, creating a stunning visual contrast. This symbol of freedom and power captivates audiences worldwide, embodying the spirit of the wild. Experience the beauty and grace of this magnificent bird as it commands the skies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Large Bald Eagle On A White Background Stock Photo - Download ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/93212892/photo/bald-eagle-haliaeetus-leucocephalus.jpg?s=612x612&w=is&k=20&c=xP4xgRqNEEPi_GlY4B0Va9fTPP5vR4wS6y-lDDkHLwo=' alt='A Large Bald Eagle On A White Background Stock Photo - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/93212892/photo/bald-eagle-haliaeetus-leucocephalus.jpg?s=612x612&w=is&k=20&c=xP4xgRqNEEPi_GlY4B0Va9fTPP5vR4wS6y-lDDkHLwo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bald eagle hand draw and paint colors on white background vector ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/16/54/05/1000_F_116540529_LmIUOi3q851spN41CP8YtVxafUjqrJA3.jpg' alt='Bald eagle hand draw and paint colors on white background vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/16/54/05/1000_F_116540529_LmIUOi3q851spN41CP8YtVxafUjqrJA3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="660+ Bald Eagle White Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/452219833/vector/eagle-drawing-on-white-background.jpg?s=612x612&w=0&k=20&c=EuG5Nac_llbWK3pPiymHgvlamx5fE5jqjWV4yMnBIOM=' alt='660+ Bald Eagle White Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/452219833/vector/eagle-drawing-on-white-background.jpg?s=612x612&w=0&k=20&c=EuG5Nac_llbWK3pPiymHgvlamx5fE5jqjWV4yMnBIOM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Bald eagle drawing isolated on white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/bald-eagle-drawing-isolated-white-background_33869-2109.jpg' alt='Premium Photo | Bald eagle drawing isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/bald-eagle-drawing-isolated-white-background_33869-2109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bald eagle with colorful plumage and white head on green ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WX3Y17/bald-eagle-with-colorful-plumage-and-white-head-on-green-background-amazing-portrait-of-american-bald-eagle-as-symbol-and-national-bird-of-the-united-WX3Y17.jpg' alt='Bald eagle with colorful plumage and white head on green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="971">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WX3Y17/bald-eagle-with-colorful-plumage-and-white-head-on-green-background-amazing-portrait-of-american-bald-eagle-as-symbol-and-national-bird-of-the-united-WX3Y17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An American Bald Eagle isolated on a white background | Colourbox">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX2390182.jpg?width=800&height=800&quality=70' alt='An American Bald Eagle isolated on a white background | Colourbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX2390182.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,646 Bald Eagle White Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bald-eagle-soaring-flight-against-white-background-80071595.jpg' alt='7,646 Bald Eagle White Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bald-eagle-soaring-flight-against-white-background-80071595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Bald eagle flying swoop attack hand draw and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/bald-eagle-flying-swoop-attack-hand-draw-paint-color-white-background-vector-illustration_33869-2377.jpg' alt='Premium Vector | Bald eagle flying swoop attack hand draw and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/bald-eagle-flying-swoop-attack-hand-draw-paint-color-white-background-vector-illustration_33869-2377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Bald Eagle Sitting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1601548518/photo/bald-eagle-or-american-eagle-a-bird-of-prey-found-in-north-america-isolated-against-white.jpg?s=612x612&w=0&k=20&c=Pf-hHUaGwn2_EHDDd214R3SrIcW2OoTq_p1nT98fegY=' alt='1,600+ Bald Eagle Sitting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1601548518/photo/bald-eagle-or-american-eagle-a-bird-of-prey-found-in-north-america-isolated-against-white.jpg?s=612x612&w=0&k=20&c=Pf-hHUaGwn2_EHDDd214R3SrIcW2OoTq_p1nT98fegY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic bald eagle showing its wingspan on white background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/054/643/136/non_2x/majestic-bald-eagle-showing-its-wingspan-on-white-background-photo.jpg' alt='Majestic bald eagle showing its wingspan on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/054/643/136/non_2x/majestic-bald-eagle-showing-its-wingspan-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

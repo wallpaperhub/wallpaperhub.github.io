@@ -1,0 +1,129 @@
+<title>Stunning Hollow Purple Background Design</title>
+                    <meta name="description" content="Discover the beauty of the hollow purple background. Ideal for designers and creatives, this elegant backdrop adds a touch of sophistication and vibrancy to any project. Perfect for presentations, websites, and more, it enhances visual appeal while remaining subtly stylish. Elevate your designs today!">
+                    <meta name="keywords" content="hollow purple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hollow-purple-background">
+                            <span itemprop="name">hollow purple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hollow Purple Background Design</h1>
+                <p>Explore the captivating appeal of a hollow purple background. This stunning backdrop captures attention and evokes feelings of creativity and calmness. Perfect for various design projects, it serves as an eye-catching foundation or accent. Use it to enhance your visuals, making them pop while maintaining an elegant and soft touch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7pLV-hCZF3s/maxresdefault.jpg' alt='Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7pLV-hCZF3s/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Hollow Purple Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' alt='Gojo Hollow Purple Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4f/0d/8c/4f0d8c530ae39de651d79e6a96829d3a.jpg' alt='Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4f/0d/8c/4f0d8c530ae39de651d79e6a96829d3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jujutsu Kaisen Gojo Hollow Technique Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jujutsu-kaisen-gojo-hollow-technique-sx02pbp91noojt9k.jpg' alt='Download Jujutsu Kaisen Gojo Hollow Technique Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jujutsu-kaisen-gojo-hollow-technique-sx02pbp91noojt9k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Satoru Gojo Hollow Purple (Jujutsu Kaisen)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1IrQKCDRjI4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-HYAC8BCKAgwIABABGGUgWShOMA8=&rs=AOn4CLAh0a2ABX9zgcZoOHrMXQFSIp2VLw' alt='Live Wallpaper 4K Satoru Gojo Hollow Purple (Jujutsu Kaisen)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1IrQKCDRjI4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-HYAC8BCKAgwIABABGGUgWShOMA8=&rs=AOn4CLAh0a2ABX9zgcZoOHrMXQFSIp2VLw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/98/df/5298dff99b00bdee3143d64a204b8aa2.jpg' alt='Hollow Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/98/df/5298dff99b00bdee3143d64a204b8aa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Satoru Gojo - Hollow Purple">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2047492630802687754/AB9A925B18C0870409F32B1A0BAB4DB729D7F654/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Satoru Gojo - Hollow Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2047492630802687754/AB9A925B18C0870409F32B1A0BAB4DB729D7F654/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gojo satoru hollow purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/77/a7/bb77a7934fe03260af8380f63ae3f6fe.jpg' alt='gojo satoru hollow purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/77/a7/bb77a7934fe03260af8380f63ae3f6fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do you guys have stunning Hollow Purple Wallpapers? : r/Jujutsufolk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/do-you-guys-have-stunning-hollow-purple-wallpapers-v0-tp651ycycb2e1.jpeg?width=2500&format=pjpg&auto=webp&s=d4cfa2b4614cb9bce4ac28ca7d4621072875cc88' alt='Do you guys have stunning Hollow Purple Wallpapers? : r/Jujutsufolk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/do-you-guys-have-stunning-hollow-purple-wallpapers-v0-tp651ycycb2e1.jpeg?width=2500&format=pjpg&auto=webp&s=d4cfa2b4614cb9bce4ac28ca7d4621072875cc88' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got so bored, I drew a crappy drawing of my favorite skin doing a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/got-so-bored-i-drew-a-crappy-drawing-of-my-favorite-skin-v0-2l6glpqzz2hd1.jpg?width=640&crop=smart&auto=webp&s=626d9f8a92a644fff02c2b0dc840f4a2fdf81358' alt='Got so bored, I drew a crappy drawing of my favorite skin doing a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/got-so-bored-i-drew-a-crappy-drawing-of-my-favorite-skin-v0-2l6glpqzz2hd1.jpg?width=640&crop=smart&auto=webp&s=626d9f8a92a644fff02c2b0dc840f4a2fdf81358' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

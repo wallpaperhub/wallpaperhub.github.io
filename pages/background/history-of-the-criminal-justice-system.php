@@ -1,0 +1,129 @@
+<title>History of the Criminal Justice System: A Comprehensive Overview</title>
+                    <meta name="description" content="Explore the fascinating evolution of the criminal justice system, from ancient codes to modern practices. Discover how justice has transformed through history and the ongoing balance between retribution and rehabilitation in today’s society.">
+                    <meta name="keywords" content="history of the criminal justice system">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-the-criminal-justice-system">
+                            <span itemprop="name">history of the criminal justice system</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of the Criminal Justice System: A Comprehensive Overview</h1>
+                <p>The criminal justice system has evolved significantly from ancient societies focused on retribution to modern systems emphasizing rehabilitation and fairness. Ancient Babylon's Code of Hammurabi introduced formalized laws, while the Enlightenment period highlighted individual rights. Today, the system combines law enforcement, judicial processes, and corrections, striving for justice and social order.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Milestones that Changed Criminal Justice Forever | Rasmussen ...">
+                                <img itemprop="contentUrl url" src='https://www.rasmussen.edu/images/rasmussenlibraries/blogs/school-of-justice-studies/1362678416-cj_timeline.jpg?sfvrsn=e41ccebd_1' alt='10 Milestones that Changed Criminal Justice Forever | Rasmussen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rasmussen University" />
+                                </span>
+                                <a href='https://www.rasmussen.edu/images/rasmussenlibraries/blogs/school-of-justice-studies/1362678416-cj_timeline.jpg?sfvrsn=e41ccebd_1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Division | Historical Timeline">
+                                <img itemprop="contentUrl url" src='https://www.justice.gov/sites/default/files/pages/images/2016/01/27/1974org-chartmini.png' alt='Criminal Division | Historical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Department of Justice" />
+                                </span>
+                                <a href='https://www.justice.gov/sites/default/files/pages/images/2016/01/27/1974org-chartmini.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Justice System | Bureau of Justice Statistics">
+                                <img itemprop="contentUrl url" src='https://bjs.ojp.gov/sites/g/files/xyckuh236/files/images/2021-06/flowchart.jpg' alt='The Justice System | Bureau of Justice Statistics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4061">
+                                <meta itemprop="height" content="2247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bureau of Justice Statistics - Office of Justice Programs" />
+                                </span>
+                                <a href='https://bjs.ojp.gov/sites/g/files/xyckuh236/files/images/2021-06/flowchart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of The Criminal Justice System by Taylor Smith on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/5sstmpxp5io3izsvdpjw7bzb276jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='History of The Criminal Justice System by Taylor Smith on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/5sstmpxp5io3izsvdpjw7bzb276jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origins of the Criminal Justice System: Historical ...">
+                                <img itemprop="contentUrl url" src='https://rowman.com/L/15/381/9781538187074.jpg' alt='The Origins of the Criminal Justice System: Historical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="315">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rowman & Littlefield" />
+                                </span>
+                                <a href='https://rowman.com/L/15/381/9781538187074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the US Justice System | Stacker">
+                                <img itemprop="contentUrl url" src='https://static.stacker.com/s3fs-public/2021-04/Justice%20Lead.png' alt='History of the US Justice System | Stacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stacker" />
+                                </span>
+                                <a href='https://static.stacker.com/s3fs-public/2021-04/Justice%20Lead.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crime and Punishment: A History of the Criminal Justice System">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HXCdbt5YL._AC_UF1000,1000_QL80_.jpg' alt='Crime and Punishment: A History of the Criminal Justice System'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="797">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HXCdbt5YL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Criminal Justice System | Free Essay Example">
+                                <img itemprop="contentUrl url" src='https://studycorgi.com/wp-content/uploads/screens/383/38318/the-history-of-the-criminal-justice-system-page1.webp' alt='The History of the Criminal Justice System | Free Essay Example'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudyCorgi" />
+                                </span>
+                                <a href='https://studycorgi.com/wp-content/uploads/screens/383/38318/the-history-of-the-criminal-justice-system-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Criminal Law">
+                                <img itemprop="contentUrl url" src='https://www.grabellaw.com/docs/the_history_of_criminal_law_pic.jpg' alt='The History of Criminal Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grabel & Associates" />
+                                </span>
+                                <a href='https://www.grabellaw.com/docs/the_history_of_criminal_law_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Shaped the American Criminal Justice System?">
+                                <img itemprop="contentUrl url" src='https://titles.cognella.com/pub/media/catalog/product/cache/e2583c2d75317d10cbdb11b428527546/c/o/cover--120328925881882-1A-URT.jpg' alt='Who Shaped the American Criminal Justice System?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cognella Title Catalog" />
+                                </span>
+                                <a href='https://titles.cognella.com/pub/media/catalog/product/cache/e2583c2d75317d10cbdb11b428527546/c/o/cover--120328925881882-1A-URT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

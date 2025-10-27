@@ -1,0 +1,129 @@
+<title>Gothic Wednesday Addams Aesthetic Wallpapers</title>
+                    <meta name="description" content="Discover stunning Wednesday Addams aesthetic wallpapers that embody gothic elegance and eerie charm. Perfect for adding a dramatic touch to your aesthetic, each wallpaper transforms your space into a hauntingly beautiful sanctuary. Elevate your decor today with unique designs inspired by the beloved character!">
+                    <meta name="keywords" content="wallpaper wednesday addams aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-wednesday-addams-aesthetic">
+                            <span itemprop="name">wallpaper wednesday addams aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Wednesday Addams Aesthetic Wallpapers</h1>
+                <p>Explore the enchanting world of Wednesday Addams aesthetic wallpapers! With their dark, moody vibes and whimsical designs, these wallpapers capture the essence of the iconic character. Perfect for lovers of the gothic and unique, each piece reflects a blend of mystery and charm, making your space truly stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/e0/ca/84e0caddbc1433b1398a21ebc704a679.jpg' alt='Wednesday Addams Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/e0/ca/84e0caddbc1433b1398a21ebc704a679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wednesday addams | netflix | show | pfp | icon | wednesday icon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/cd/cf/72cdcf1e164e91c3e1c4985c3faeb976.jpg' alt='wednesday addams | netflix | show | pfp | icon | wednesday icon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/cd/cf/72cdcf1e164e91c3e1c4985c3faeb976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11764446.jpg' alt='Wednesday Addams Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11764446.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wednesday Addams Collage Dark Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wednesday-addams-collage-dark-aesthetic-haclpojqnzkauwn4.jpg' alt='Download Wednesday Addams Collage Dark Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wednesday-addams-collage-dark-aesthetic-haclpojqnzkauwn4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/32/03/453203cd4c9e39a6b9c39bceff342e46.jpg' alt='Wednesday Addams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/32/03/453203cd4c9e39a6b9c39bceff342e46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Phone Backgrounds For More: 30+ Wednesday Addams ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3036fd559461dd63b6f04526ad3a2594/233e7e55b93b0d49-8a/s1280x1920/a220989e7c17dcb26bc0360b9f56614c2ebc0e9c.jpg' alt='Wednesday Addams Phone Backgrounds For More: 30+ Wednesday Addams ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3036fd559461dd63b6f04526ad3a2594/233e7e55b93b0d49-8a/s1280x1920/a220989e7c17dcb26bc0360b9f56614c2ebc0e9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/c6/ed/50c6edec056df0d3e74c260fa12db07d.jpg' alt='Wednesday Addams Wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/c6/ed/50c6edec056df0d3e74c260fa12db07d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wednesday Addams Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/wednesday-addams-6uc7xq301f83uu3s.jpg' alt='100+] Wednesday Addams Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/wednesday-addams-6uc7xq301f83uu3s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out hal3ymiller's Shuffles   ️  ️Wednesday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/e5/9c/f1e59c23259cfabdc3170d7d43410632.jpg' alt='Check out hal3ymiller's Shuffles   ️  ️Wednesday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/e5/9c/f1e59c23259cfabdc3170d7d43410632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some more of Wednesday Wallpapers : r/WednesdayTVSeries">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-more-of-wednesday-wallpapers-v0-sf7jslkwl37a1.jpg?width=640&crop=smart&auto=webp&s=392e7f262d5a2dd79a2c2e1f4e54a584beedfbb0' alt='Some more of Wednesday Wallpapers : r/WednesdayTVSeries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-more-of-wednesday-wallpapers-v0-sf7jslkwl37a1.jpg?width=640&crop=smart&auto=webp&s=392e7f262d5a2dd79a2c2e1f4e54a584beedfbb0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

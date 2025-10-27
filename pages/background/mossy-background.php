@@ -1,0 +1,129 @@
+<title>Mossy Backgrounds: Nature's Tranquil Textures</title>
+                    <meta name="description" content="Explore the beauty of mossy backgrounds, perfect for adding a touch of nature to your work. Ideal for designers and photographers, these textured green visuals provide a calming and organic feel. Discover how mossy backgrounds can enhance your projects with their vibrant, tranquil appeal.">
+                    <meta name="keywords" content="mossy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mossy-background">
+                            <span itemprop="name">mossy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mossy Backgrounds: Nature's Tranquil Textures</h1>
+                <p>Mossy backgrounds evoke a sense of tranquility and connection to nature. Rich with hues of green, these textures create a soothing visual experience, perfect for design projects or photography. Used in various settings from digital art to home decor, mossy backgrounds bring an organic touch that enhances any aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green mossy background. Beautiful bright green moss grown up">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/1eec6fe6266028df47795ad61ebe1fe590f4ba669a7dabab09a4063524c45fd3.jpg' alt='Green mossy background. Beautiful bright green moss grown up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/1eec6fe6266028df47795ad61ebe1fe590f4ba669a7dabab09a4063524c45fd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mossy Forest Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667558441701-bffbb805f6a6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9zc3klMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' alt='Mossy Forest Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667558441701-bffbb805f6a6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9zc3klMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Stone Green Moss Backdrop Plant Leaves for Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/Kate_Stone_Green_Moss_Backdrop_Plant_Leaves_for_Photography_10x8ft_BH1029678U.jpg?v=1629081734&width=1000' alt='Kate Stone Green Moss Backdrop Plant Leaves for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/Kate_Stone_Green_Moss_Backdrop_Plant_Leaves_for_Photography_10x8ft_BH1029678U.jpg?v=1629081734&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mossy Forest Set">
+                                <img itemprop="contentUrl url" src='https://focuswithcaneil.com/wp-content/uploads/2022/11/Mossy-Forest-Overlay-Four-scaled.jpg' alt='Mossy Forest Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Focus With Caneil" />
+                                </span>
+                                <a href='https://focuswithcaneil.com/wp-content/uploads/2022/11/Mossy-Forest-Overlay-Four-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Moss Background Images – Browse 802,076 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/16/37/83/360_F_716378314_sIeAwPPGgfpuA5cX4vj86ryrDfjBKn8A.jpg' alt='Nature Moss Background Images – Browse 802,076 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/16/37/83/360_F_716378314_sIeAwPPGgfpuA5cX4vj86ryrDfjBKn8A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="237,819 Mossy Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/mossy-surface-autumn-forest-small-260nw-2034391433.jpg' alt='237,819 Mossy Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/mossy-surface-autumn-forest-small-260nw-2034391433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="237,819 Mossy Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/india-12-july-2022-moss-260nw-2183596871.jpg' alt='237,819 Mossy Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/india-12-july-2022-moss-260nw-2183596871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mossy forest background. moss covered rock at blured mountain ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/44/73/53/1000_F_344735361_FS8el7h5Byt8NSTXXuDReYX5xWAFXG5d.jpg' alt='Mossy forest background. moss covered rock at blured mountain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/44/73/53/1000_F_344735361_FS8el7h5Byt8NSTXXuDReYX5xWAFXG5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mossy Japanese Tree Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240761/Mossy-Japanese-Tree-Wallpaper-Mural.jpg?v=638164462089800000' alt='Mossy Japanese Tree Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240761/Mossy-Japanese-Tree-Wallpaper-Mural.jpg?v=638164462089800000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moss texture. Moss background. Green moss on grunge texture ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX53433345.jpg?width=800&height=800&quality=70' alt='Moss texture. Moss background. Green moss on grunge texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX53433345.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

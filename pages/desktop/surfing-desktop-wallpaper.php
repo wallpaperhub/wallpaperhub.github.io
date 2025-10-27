@@ -1,0 +1,129 @@
+<title>Ride the Waves: Stunning Surfing Desktop Wallpapers</title>
+                    <meta name="description" content="Discover the ultimate surfing desktop wallpapers! Elevate your workspace with breathtaking ocean views and dynamic surf scenes. Perfect for beach lovers and surf enthusiasts, these wallpapers will inspire you daily. Dive in and transform your desktop today!">
+                    <meta name="keywords" content="surfing desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/surfing-desktop-wallpaper">
+                            <span itemprop="name">surfing desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ride the Waves: Stunning Surfing Desktop Wallpapers</h1>
+                <p>Dive into the thrill of the ocean with stunning surfing desktop wallpapers! Our collection features breathtaking waves, skilled surfers, and vibrant coastal scenes. Transform your workspace into an inspiring surf haven. Perfect for surf enthusiasts and beach lovers alike, these wallpapers will motivate you as you ride the daily waves of life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Surf HD Desktop Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/5d/c6/a05dc6875546b142d4540c3498d0d832.jpg' alt='Awesome Surf HD Desktop Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/5d/c6/a05dc6875546b142d4540c3498d0d832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfing Adventure HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/431/thumb-1920-431411.jpg' alt='Surfing Adventure HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/431/thumb-1920-431411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_9:10/MTk2Mjc2ODcwMTAyNzIxODQw/1508wall-04-miguelpupo-jimmicane.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="4267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.surfer.com" />
+                                </span>
+                                <a href='https://www.surfer.com/.image/w_3840,q_auto:good,c_fill,ar_9:10/MTk2Mjc2ODcwMTAyNzIxODQw/1508wall-04-miguelpupo-jimmicane.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Surfing Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1672510000383-8f46f7b157b0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZmluZ3xlbnwwfHwwfHx8MA%3D%3D' alt='500+ Surfing Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1672510000383-8f46f7b157b0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZmluZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bunch of high res surf wallpapers! : r/surfing">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a-bunch-of-high-res-surf-wallpapers-v0-5y44b9qzf6c81.jpg?width=2000&format=pjpg&auto=webp&s=61603b26ee0783ffa07c1f140a20f45e1f621a56' alt='A bunch of high res surf wallpapers! : r/surfing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a-bunch-of-high-res-surf-wallpapers-v0-5y44b9qzf6c81.jpg?width=2000&format=pjpg&auto=webp&s=61603b26ee0783ffa07c1f140a20f45e1f621a56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Surfing HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/407/407732.jpg' alt='Sunset Surfing HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/407/407732.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surf Photos, Download The BEST Free Surf Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1298684/pexels-photo-1298684.jpeg?cs=srgb&dl=pexels-earano-1298684.jpg&fm=jpg' alt='Surf Photos, Download The BEST Free Surf Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7087">
+                                <meta itemprop="height" content="3986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1298684/pexels-photo-1298684.jpeg?cs=srgb&dl=pexels-earano-1298684.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 Stunning & Thrilling Photos For The Biggest Waves Ever Surfed">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/fc/b7/41fcb762f5fcd355e07c5c9362dc428b.jpg' alt='70 Stunning & Thrilling Photos For The Biggest Waves Ever Surfed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/fc/b7/41fcb762f5fcd355e07c5c9362dc428b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Surfer Pictures [HD] | Download Free Images & Stock Photos on ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675721094347-08f1f4ccb2b2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZmVyfGVufDB8fDB8fHww' alt='100+ Surfer Pictures [HD] | Download Free Images & Stock Photos on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675721094347-08f1f4ccb2b2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZmVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfing Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.surfertoday.com/images/wallpapers/surfingwallpaper13.jpg' alt='Surfing Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SurferToday.com" />
+                                </span>
+                                <a href='https://www.surfertoday.com/images/wallpapers/surfingwallpaper13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

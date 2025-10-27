@@ -1,0 +1,129 @@
+<title>Spidey and His Amazing Friends Clipart Collection</title>
+                    <meta name="description" content="Explore captivating Spidey and His Amazing Friends clipart, ideal for enhancing children's projects and crafts. Discover colorful illustrations of Spidey, Ghost-Spider, and Miles Morales that spark creativity and joy. Perfect for fans looking to add flair to their crafts and designs!">
+                    <meta name="keywords" content="spidey and his amazing friends clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spidey-and-his-amazing-friends-clipart">
+                            <span itemprop="name">spidey and his amazing friends clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spidey and His Amazing Friends Clipart Collection</h1>
+                <p>Discover a vibrant collection of Spidey and His Amazing Friends clipart! Perfect for kids' crafts, school projects, or digital designs, these fun graphics feature Spidey, Ghost-Spider, and Miles Morales in action. Bring your creativity to life with colorful images that delight fans of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and His Amazing Friends Clip Art (PNG Images) | Disney Clip ...">
+                                <img itemprop="contentUrl url" src='https://www.disneyclips.com/images3/images/spidey-spin-ghost-spider.png' alt='Spidey and His Amazing Friends Clip Art (PNG Images) | Disney Clip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Clip Art" />
+                                </span>
+                                <a href='https://www.disneyclips.com/images3/images/spidey-spin-ghost-spider.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clipart image, decor spidey and his amazing friends, spidey, spiderman,  spidey png, sublimation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18815833/r/il/01c56b/3699652891/il_fullxfull.3699652891_bwmn.jpg' alt='Clipart image, decor spidey and his amazing friends, spidey, spiderman,  spidey png, sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2353">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18815833/r/il/01c56b/3699652891/il_fullxfull.3699652891_bwmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and His Amazing Friends Clipart PNG, Superhero Spidey ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36004013/r/il/4d4806/5165385242/il_fullxfull.5165385242_dzy0.jpg' alt='Spidey and His Amazing Friends Clipart PNG, Superhero Spidey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36004013/r/il/4d4806/5165385242/il_fullxfull.5165385242_dzy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and his amazing friends png, Spidey png, Spidey and his ...">
+                                <img itemprop="contentUrl url" src='https://rikunastore.com/wp-content/uploads/2022/09/04.jpg' alt='Spidey and his amazing friends png, Spidey png, Spidey and his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RikunaStore" />
+                                </span>
+                                <a href='https://rikunastore.com/wp-content/uploads/2022/09/04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Clipart - Spidey and his Amazing Friends - EclipArtCo">
+                                <img itemprop="contentUrl url" src='https://eclipartco.com/wp-content/uploads/2022/10/Spidey-P01.jpg' alt='20 Clipart - Spidey and his Amazing Friends - EclipArtCo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eclipartco.com" />
+                                </span>
+                                <a href='https://eclipartco.com/wp-content/uploads/2022/10/Spidey-P01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and his amazing friends by DracoAwesomeness on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dfyvh97-4f2cccce-2ca2-423f-befc-9abc5e07dd80.png/v1/fill/w_1131,h_707/spidey_and_his_amazing_friends__by_dracoawesomeness_dfyvh97-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvYzIwNDc4NjgtZWIzZi00NWE5LTg0YWMtYTEyNTEwYmZlZGQ5XC9kZnl2aDk3LTRmMmNjY2NlLTJjYTItNDIzZi1iZWZjLTlhYmM1ZTA3ZGQ4MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sjtpBsqixsF138rhOVdG5MhEvdlV6bF3gxwM6prSYXo' alt='Spidey and his amazing friends by DracoAwesomeness on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dfyvh97-4f2cccce-2ca2-423f-befc-9abc5e07dd80.png/v1/fill/w_1131,h_707/spidey_and_his_amazing_friends__by_dracoawesomeness_dfyvh97-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvYzIwNDc4NjgtZWIzZi00NWE5LTg0YWMtYTEyNTEwYmZlZGQ5XC9kZnl2aDk3LTRmMmNjY2NlLTJjYTItNDIzZi1iZWZjLTlhYmM1ZTA3ZGQ4MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sjtpBsqixsF138rhOVdG5MhEvdlV6bF3gxwM6prSYXo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and his amazing friends png, Spidey png, Spidey and his ...">
+                                <img itemprop="contentUrl url" src='https://rikunastore.com/wp-content/uploads/2022/09/06-1024x814.jpg' alt='Spidey and his amazing friends png, Spidey png, Spidey and his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RikunaStore" />
+                                </span>
+                                <a href='https://rikunastore.com/wp-content/uploads/2022/09/06-1024x814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey and His Amazing Friends Clip Art (PNG Images) | Disney Clip ...">
+                                <img itemprop="contentUrl url" src='https://www.disneyclips.com/images3/images/ghost-spider.png' alt='Spidey and His Amazing Friends Clip Art (PNG Images) | Disney Clip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="573">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Clip Art" />
+                                </span>
+                                <a href='https://www.disneyclips.com/images3/images/ghost-spider.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spidey His Amazing Friends Png,Spiderman Clipart,Spidey and his Amazing  Friends Birthday Png, Spidey Clipart Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48938593/r/il/1b12c4/6316811579/il_340x270.6316811579_t5u7.jpg' alt='Spidey His Amazing Friends Png,Spiderman Clipart,Spidey and his Amazing  Friends Birthday Png, Spidey Clipart Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48938593/r/il/1b12c4/6316811579/il_340x270.6316811579_t5u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery Pops Marvel Spidey And His Amazing Friends - Spider-Man Wall Art,  Unframed Version, 12'' x 12''">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61doJe+znsL._AC_UF894,1000_QL80_.jpg' alt='Gallery Pops Marvel Spidey And His Amazing Friends - Spider-Man Wall Art,  Unframed Version, 12'' x 12'''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61doJe+znsL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

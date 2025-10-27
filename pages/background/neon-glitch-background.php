@@ -1,0 +1,129 @@
+<title>Vibrant Neon Glitch Backgrounds for Dynamic Design</title>
+                    <meta name="description" content="Discover stunning neon glitch backgrounds that bring a vibrant, modern touch to your projects. Perfect for digital art, websites, and social media, these eye-catching designs feature bold colors and dynamic glitch effects. Enhance your creative vision with our unique backgrounds today!">
+                    <meta name="keywords" content="neon glitch background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-glitch-background">
+                            <span itemprop="name">neon glitch background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Glitch Backgrounds for Dynamic Design</h1>
+                <p>Neon glitch backgrounds are visually striking designs that combine vibrant colors with distorted, glitchy effects. These captivating backgrounds are perfect for digital art, websites, and social media profiles, as they add a modern, edgy aesthetic. Whether you’re looking to enhance your creative projects or simply express your style, neon glitch backgrounds make a bold statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon glitch wallpaper by Cat_Icey - Download on ZEDGE™ | 9420">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/27/2a/e5272ae7534e05b0a03a50fa838a8805.jpg' alt='Neon glitch wallpaper by Cat_Icey - Download on ZEDGE™ | 9420'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/27/2a/e5272ae7534e05b0a03a50fa838a8805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Future Glitch Background Stock Vector - Illustration of party ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/neon-future-glitch-background-futuristic-neon-grid-lines-mountain-landscape-neon-sun-purple-green-glitch-112591844.jpg' alt='Neon Future Glitch Background Stock Vector - Illustration of party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/neon-future-glitch-background-futuristic-neon-grid-lines-mountain-landscape-neon-sun-purple-green-glitch-112591844.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Neon Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210717/pngtree-neon-light-effect-glitch-style-background-image_745709.jpg' alt='Glitch Neon Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210717/pngtree-neon-light-effect-glitch-style-background-image_745709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retrowave background. Cyberpunk Neon Glitch wallpaper. Retro ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/48/56/11/1000_F_348561126_cc4D4ydUoygqGUCKyW6MGmj7QqOnmYaF.jpg' alt='Retrowave background. Cyberpunk Neon Glitch wallpaper. Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/48/56/11/1000_F_348561126_cc4D4ydUoygqGUCKyW6MGmj7QqOnmYaF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,800+ Neon Glitch Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1311040886/vector/glitch-interlaced-textured-futuristic-background.jpg?s=612x612&w=0&k=20&c=yYZfKcd_iTG1cEhVzVcfV619yKqdaLnCuH81qC4tHRg=' alt='6,800+ Neon Glitch Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1311040886/vector/glitch-interlaced-textured-futuristic-background.jpg?s=612x612&w=0&k=20&c=yYZfKcd_iTG1cEhVzVcfV619yKqdaLnCuH81qC4tHRg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract neon background with glitch effect 4334278 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/334/278/non_2x/abstract-neon-background-with-glitch-effect-free-vector.jpg' alt='Abstract neon background with glitch effect 4334278 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/334/278/non_2x/abstract-neon-background-with-glitch-effect-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave glitch neon background retro future Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/97/31/synthwave-glitch-neon-background-retro-future-vector-28429731.jpg' alt='Synthwave glitch neon background retro future Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/97/31/synthwave-glitch-neon-background-retro-future-vector-28429731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic neon glitch background glitched Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/55/84/futuristic-neon-glitch-background-glitched-vector-22685584.jpg' alt='Futuristic neon glitch background glitched Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/55/84/futuristic-neon-glitch-background-glitched-vector-22685584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Effect Neon Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/9/0/3/large1500/309091024.jpg' alt='Glitch Effect Neon Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/9/0/3/large1500/309091024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Glitch Stock Illustrations – 26,053 Neon Glitch Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/neon-glitch-cityscape-digital-dreams-cyberpunk-aesthetics-348293293.jpg' alt='Neon Glitch Stock Illustrations – 26,053 Neon Glitch Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/neon-glitch-cityscape-digital-dreams-cyberpunk-aesthetics-348293293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

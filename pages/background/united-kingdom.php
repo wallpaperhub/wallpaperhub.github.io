@@ -1,0 +1,129 @@
+<title>Discover the Rich Heritage of the United Kingdom</title>
+                    <meta name="description" content="Explore the United Kingdom’s stunning landscapes, iconic landmarks, and rich history. From the bustling streets of London to the serene beauty of the countryside, discover what makes the UK a must-visit destination for travelers and history enthusiasts alike.">
+                    <meta name="keywords" content="united kingdom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/united-kingdom">
+                            <span itemprop="name">united kingdom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Heritage of the United Kingdom</h1>
+                <p>The United Kingdom, comprising England, Scotland, Wales, and Northern Ireland, is rich in history and culture. Known for landmarks like Buckingham Palace and the Scottish Highlands, it boasts a diverse population and vibrant cities. From the rolling countryside to bustling urban life, the UK offers a unique blend of tradition and modernity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom | History, Population, Map, Flag, Capital, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/84/183784-050-9C0C8C6B/World-Data-Locator-Map-United-Kingdom.jpg' alt='United Kingdom | History, Population, Map, Flag, Capital, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/84/183784-050-9C0C8C6B/World-Data-Locator-Map-United-Kingdom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png' alt='United Kingdom - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom | History, Population, Map, Flag, Capital, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/193441-050-13CCA6B5/Terminology-British-Isles-United-Kingdom-Ireland-Great.jpg' alt='United Kingdom | History, Population, Map, Flag, Capital, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/193441-050-13CCA6B5/Terminology-British-Isles-United-Kingdom-Ireland-Great.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which countries make up the United Kingdom? | Government.nl">
+                                <img itemprop="contentUrl url" src='https://www.government.nl/binaries/large/content/gallery/government/content-afbeeldingen/topics/brexit/the-four-countries-of-the-united-kingdom.jpg' alt='Which countries make up the United Kingdom? | Government.nl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Government.nl" />
+                                </span>
+                                <a href='https://www.government.nl/binaries/large/content/gallery/government/content-afbeeldingen/topics/brexit/the-four-countries-of-the-united-kingdom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/655E/production/_129805952_bbcm_united_kingdom_country_profile_map_220523.png' alt='United Kingdom country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/655E/production/_129805952_bbcm_united_kingdom_country_profile_map_220523.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Countries of the United Kingdom - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Map_of_the_countries_of_the_United_Kingdom.svg/800px-Map_of_the_countries_of_the_United_Kingdom.svg.png' alt='Countries of the United Kingdom - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Map_of_the_countries_of_the_United_Kingdom.svg/800px-Map_of_the_countries_of_the_United_Kingdom.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/a16ac29a-344f-4438-ade5-2cb761df371d/united-kingdom-textimage_0_3x4.jpg' alt='United Kingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2305">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/a16ac29a-344f-4438-ade5-2cb761df371d/united-kingdom-textimage_0_3x4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The United Kingdom Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/upload/57/b0/c2/uk-01.png' alt='The United Kingdom Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3477">
+                                <meta itemprop="height" content="3739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/upload/57/b0/c2/uk-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Reasons To Visit the United Kingdom">
+                                <img itemprop="contentUrl url" src='https://djn2oq6v2lacp.cloudfront.net/wp-content/uploads/2022/06/United-Kingdom.jpg' alt='The Top Reasons To Visit the United Kingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harlem World Magazine" />
+                                </span>
+                                <a href='https://djn2oq6v2lacp.cloudfront.net/wp-content/uploads/2022/06/United-Kingdom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom | Culture, Facts & Travel | - CountryReports">
+                                <img itemprop="contentUrl url" src='https://d2z7bzwflv7old.cloudfront.net/cdn_image/exW_1200/images/maps/en/uk/uk-area.gif' alt='United Kingdom | Culture, Facts & Travel | - CountryReports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CountryReports.org" />
+                                </span>
+                                <a href='https://d2z7bzwflv7old.cloudfront.net/cdn_image/exW_1200/images/maps/en/uk/uk-area.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

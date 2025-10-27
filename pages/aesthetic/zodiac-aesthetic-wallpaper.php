@@ -1,0 +1,129 @@
+<title>Astrology-Inspired Zodiac Aesthetic Wallpaper Collection</title>
+                    <meta name="description" content="Explore our stunning collection of zodiac aesthetic wallpapers! Perfect for astrology enthusiasts, these cosmic designs elevate your devices while showcasing your star sign's beauty. Download now to personalize your screens with celestial charm and creativity!">
+                    <meta name="keywords" content="zodiac aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/zodiac-aesthetic-wallpaper">
+                            <span itemprop="name">zodiac aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Astrology-Inspired Zodiac Aesthetic Wallpaper Collection</h1>
+                <p>Transform your device with zodiac aesthetic wallpaper that reflects your unique personality and celestial charm. Each design captures the essence of your astrological sign, blending dreamy colors and cosmic patterns. Perfect for astrology lovers, these wallpapers inspire and uplift your daily vibes while keeping your screens stylish and enchanting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Astrology Wallpapers for Desktop & Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/84/7f/da847f5388317b5beab320fee167219c.jpg' alt='Aesthetic Astrology Wallpapers for Desktop & Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/84/7f/da847f5388317b5beab320fee167219c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Zodiac & Astrology Wallpaper For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1d/70/95/1d7095d41d0cbed2ef6a8db689bb59e4.jpg' alt='The Best Zodiac & Astrology Wallpaper For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1d/70/95/1d7095d41d0cbed2ef6a8db689bb59e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Astrology Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-astrology-qpchog2zmn9y2wdf.jpg' alt='100+] Aesthetic Astrology Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-astrology-qpchog2zmn9y2wdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zodiac Signs Aesthetic Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/zodiac-signs-aesthetic-pattern-vff5t1f0n05lgxtk.jpg' alt='Zodiac Signs Aesthetic Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/zodiac-signs-aesthetic-pattern-vff5t1f0n05lgxtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astrology Theme iPhone Wallpaper Download Pack Muted Colors iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41500367/r/il/0e2689/4696056520/il_fullxfull.4696056520_24fl.jpg' alt='Astrology Theme iPhone Wallpaper Download Pack Muted Colors iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41500367/r/il/0e2689/4696056520/il_fullxfull.4696056520_24fl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virgo Zodiac Aesthetic Collage, Cancer Aesthetic Zodiac, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/297/694/HD-wallpaper-virgo-zodiac-aesthetic-collage-cancer-aesthetic-zodiac.jpg' alt='Virgo Zodiac Aesthetic Collage, Cancer Aesthetic Zodiac, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/297/694/HD-wallpaper-virgo-zodiac-aesthetic-collage-cancer-aesthetic-zodiac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover Your Zodiac Sign with Our Astrology Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/c5/0a/50c50a9aa0e6fdacd4c0b8c23be3930b.jpg' alt='Discover Your Zodiac Sign with Our Astrology Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/c5/0a/50c50a9aa0e6fdacd4c0b8c23be3930b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Zodiac Signs Girly Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/zodiac-signs-girly-aesthetic-mwc6hbkvazo9l042.jpg' alt='Download Zodiac Signs Girly Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/zodiac-signs-girly-aesthetic-mwc6hbkvazo9l042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Zodiac & Astrology Wallpaper For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f8/ed/f5/f8edf5aaea8cd84c3a93f5f099035d29.jpg' alt='The Best Zodiac & Astrology Wallpaper For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f8/ed/f5/f8edf5aaea8cd84c3a93f5f099035d29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Explore your astrology in a stunning, aesthetic way ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-astrology-dbat1z9z5gyspsp4.jpg' alt='Download "Explore your astrology in a stunning, aesthetic way ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-astrology-dbat1z9z5gyspsp4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

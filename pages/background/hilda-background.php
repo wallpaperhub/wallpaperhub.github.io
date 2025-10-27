@@ -1,0 +1,129 @@
+<title>Discover the Enchanting Background of Hilda: A Journey into Adventure</title>
+                    <meta name="description" content="Explore the captivating world of Hilda, the adventurous character from Luke Pearson's graphic novels. Delve into her unique background and enchanting stories filled with friendship and discovery in a magical Nordic landscape. Perfect for fans of all ages!">
+                    <meta name="keywords" content="hilda background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hilda-background">
+                            <span itemprop="name">hilda background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchanting Background of Hilda: A Journey into Adventure</h1>
+                <p>Hilda is a beloved character known for her adventurous spirit and lively personality. Originating from the graphic novels by Luke Pearson, Hilda embarks on enchanting quests in a magical Nordic landscape. With her distinctive blue hair and a trusty deerfox companion named Twig, she explores themes of friendship, bravery, and discovery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A background practice. : r/HildaTheSeries">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xzwdcwabip881.png?auto=webp&s=06b23a3216174732951c182c8a78c0b099e891d0' alt='A background practice. : r/HildaTheSeries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xzwdcwabip881.png?auto=webp&s=06b23a3216174732951c182c8a78c0b099e891d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accepting Help in Hilda">
+                                <img itemprop="contentUrl url" src='https://lovethynerd.com/wp-content/uploads/2020/02/hildawoffs-1198x675.png?x17548' alt='Accepting Help in Hilda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1198">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love Thy Nerd -" />
+                                </span>
+                                <a href='https://lovethynerd.com/wp-content/uploads/2020/02/hildawoffs-1198x675.png?x17548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilda Inspired Backgrounds, Aodhan Mc Nicholl">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/06/11/4a0611cc894e0ddbd9952c920ea1480f.jpg' alt='Hilda Inspired Backgrounds, Aodhan Mc Nicholl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/06/11/4a0611cc894e0ddbd9952c920ea1480f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilda Background design | Domestika">
+                                <img itemprop="contentUrl url" src='https://imgproxy.domestika.org/unsafe/w:820/plain/src://content-items/014/378/297/Hilda-04-original.jpg?1696189185' alt='Hilda Background design | Domestika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Domestika" />
+                                </span>
+                                <a href='https://imgproxy.domestika.org/unsafe/w:820/plain/src://content-items/014/378/297/Hilda-04-original.jpg?1696189185' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HIlda Season 1 (Netflix) :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/92b17e77288303.5c832a6f53828.jpg' alt='HIlda Season 1 (Netflix) :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/92b17e77288303.5c832a6f53828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilda background appreciation!⁣⁣Chapter 4: The Sparrow Scouts ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/72/24/d972245621b545392f1cc491b49ea34b.jpg' alt='Hilda background appreciation!⁣⁣Chapter 4: The Sparrow Scouts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/72/24/d972245621b545392f1cc491b49ea34b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilda wallpapers: ages ago the offical Hilda account posted these ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hilda-wallpapers-ages-ago-the-offical-hilda-account-posted-v0-0kbl3e2hd4he1.jpg?width=4096&format=pjpg&auto=webp&s=185454adeb060190e1a0eb79b9504b7bd3a895b4' alt='Hilda wallpapers: ages ago the offical Hilda account posted these ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hilda-wallpapers-ages-ago-the-offical-hilda-account-posted-v0-0kbl3e2hd4he1.jpg?width=4096&format=pjpg&auto=webp&s=185454adeb060190e1a0eb79b9504b7bd3a895b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarah Hochsteiner - Hilda inspired background">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/035/415/102/large/sarah-hochsteiner-final.jpg?1614888088' alt='Sarah Hochsteiner - Hilda inspired background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hochsteiner" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/035/415/102/large/sarah-hochsteiner-final.jpg?1614888088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hilda Backgrounds - Sr. Aderezo">
+                                <img itemprop="contentUrl url" src='https://www.sraderezo.com/wp-content/uploads/2021/05/Hilda-06.jpg' alt='Hilda Backgrounds - Sr. Aderezo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sr. Aderezo" />
+                                </span>
+                                <a href='https://www.sraderezo.com/wp-content/uploads/2021/05/Hilda-06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="H1 Tag: Hilda Cartoon Scenic Sunset Background - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/134/1343191.png' alt='H1 Tag: Hilda Cartoon Scenic Sunset Background - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/134/1343191.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Grasslands: Nature's Vast Beauty</title>
+                    <meta name="description" content="Explore the enchanting beauty of grasslands through captivating images. Discover the diverse ecosystems and wildlife that thrive in these vibrant landscapes. Perfect for nature lovers and photographers alike, our collection showcases the serene charm of grasslands around the world.">
+                    <meta name="keywords" content="picture of grasslands">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-grasslands">
+                            <span itemprop="name">picture of grasslands</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Grasslands: Nature's Vast Beauty</h1>
+                <p>Grasslands are vast, open spaces filled with lush green grasses, vibrant wildflowers, and diverse wildlife. They are essential ecosystems that support numerous species and contribute to carbon storage. Pictures of grasslands capture their beauty, from golden sunsets to rolling hills, evoking a sense of peace and connection to nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grassland | Definition, Animals, Plants, Climate, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/17/133217-050-7EF4B14A/prairie-grassland-Buffalo-Gap-National-Grassland-South.jpg' alt='Grassland | Definition, Animals, Plants, Climate, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/17/133217-050-7EF4B14A/prairie-grassland-Buffalo-Gap-National-Grassland-South.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasslands—facts and information">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/a02a5b5c-a0a7-4cce-bd3b-91524bbd4b7a/grasslands-reference-01.jpg' alt='Grasslands—facts and information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/a02a5b5c-a0a7-4cce-bd3b-91524bbd4b7a/grasslands-reference-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Continuous Grasslands on Earth | Working Lands For Wildlife">
+                                <img itemprop="contentUrl url" src='https://www.wlfw.org/wp-content/uploads/2021/10/20190711_091702-1-scaled-1.jpg' alt='The Last Continuous Grasslands on Earth | Working Lands For Wildlife'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Working Lands for Wildlife" />
+                                </span>
+                                <a href='https://www.wlfw.org/wp-content/uploads/2021/10/20190711_091702-1-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasslands — Ducks Unlimited Canada">
+                                <img itemprop="contentUrl url" src='https://www.ducks.ca/assets/2023/06/3-prairie-parkland-scenic-960x600-c-default.jpg' alt='Grasslands — Ducks Unlimited Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ducks Unlimited Canada" />
+                                </span>
+                                <a href='https://www.ducks.ca/assets/2023/06/3-prairie-parkland-scenic-960x600-c-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Resources Of The Grassland Biome">
+                                <img itemprop="contentUrl url" src='https://www.sciencing.com/sciencing/natural-resources-of-the-grassland-biome-12534175/14db3b83406743b98744c5ef09e15bf6.jpg' alt='Natural Resources Of The Grassland Biome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sciencing" />
+                                </span>
+                                <a href='https://www.sciencing.com/sciencing/natural-resources-of-the-grassland-biome-12534175/14db3b83406743b98744c5ef09e15bf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasslands Explained">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638892283/EducationHub/photos/little-missouri-national-grassland.jpg' alt='Grasslands Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638892283/EducationHub/photos/little-missouri-national-grassland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grassland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Nachusa_Grasslands_Spring_2016.jpg' alt='Grassland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a1/Nachusa_Grasslands_Spring_2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australian Grassland and Savannah Wildlife - Species, Adaptations ...">
+                                <img itemprop="contentUrl url" src='https://aussieanimals.com/wp-content/uploads/2024/07/Grassland-and-Savannah-Wildlife.jpg' alt='Australian Grassland and Savannah Wildlife - Species, Adaptations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Animals" />
+                                </span>
+                                <a href='https://aussieanimals.com/wp-content/uploads/2024/07/Grassland-and-Savannah-Wildlife.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North American Grasslands Conservation Act Brings Restoration ...">
+                                <img itemprop="contentUrl url" src='https://www.nwf.org/-/media/NEW-WEBSITE/Programs/Outdoors/Blog/MattVincenteGrasslands2.jpg' alt='North American Grasslands Conservation Act Brings Restoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4923">
+                                <meta itemprop="height" content="2252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Wildlife Federation" />
+                                </span>
+                                <a href='https://www.nwf.org/-/media/NEW-WEBSITE/Programs/Outdoors/Blog/MattVincenteGrasslands2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What animals live in grasslands? - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/grasslands_ver_1.png' alt='What animals live in grasslands? - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/grasslands_ver_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

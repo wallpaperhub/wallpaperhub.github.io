@@ -1,0 +1,129 @@
+<title>Stunning Wallpaper Ideas to Transform Your Room</title>
+                    <meta name="description" content="Discover the best wallpaper options for your room! Explore a variety of styles and patterns to elevate your space with ease. Get inspired and find the perfect match for your home decor today!">
+                    <meta name="keywords" content="wallpaper for room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-for-room">
+                            <span itemprop="name">wallpaper for room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wallpaper Ideas to Transform Your Room</h1>
+                <p>Transform your room with the perfect wallpaper! Whether you desire a bold pattern or a subtle texture, wallpaper can change the ambiance of any space. Explore various styles—from contemporary to vintage—for walls that reflect your personality. Enjoy easy installation and refreshing designs that enhance your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IwHFQjoTL._AC_UF894,1000_QL80_.jpg' alt='Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IwHFQjoTL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Best Elegant living room wallpaper ideas | room wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' alt='15 Best Elegant living room wallpaper ideas | room wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_fullxfull.3450304411_79zw.jpg' alt='Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_fullxfull.3450304411_79zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' alt='Amazon.com: BZHXBZ - Beautiful 3D Floral Wallpaper Bedroom Modern Flowers  murals Trendy Office Decorative Living Room tv Background Large Wall Mural  - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uiXelZieL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Boy's Room Wallpaper, Kids Room Peel and Stick Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/03acc0/5519321985/il_570xN.5519321985_cphd.jpg' alt='Starry Boy's Room Wallpaper, Kids Room Peel and Stick Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/03acc0/5519321985/il_570xN.5519321985_cphd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Select Wallpaper Color for your Room and How it Affects ...">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=800' alt='How to Select Wallpaper Color for your Room and How it Affects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best 8 Reasons to Use Wallpaper in Your Living Spaces ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d13d68c02222100019644ff/1631639557788-QWCRMR7IZ9DF9A8YD9CD/celeste-jackson-interiors-barrinton-il-wallpaper-floral-wallpaper-in-toddler-bedroom.png' alt='The Best 8 Reasons to Use Wallpaper in Your Living Spaces ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celeste Jackson Interiors" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d13d68c02222100019644ff/1631639557788-QWCRMR7IZ9DF9A8YD9CD/celeste-jackson-interiors-barrinton-il-wallpaper-floral-wallpaper-in-toddler-bedroom.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Choose the Right Wallpaper | Brookfield Residential">
+                                <img itemprop="contentUrl url" src='https://cdn.brookfieldresidential.net/-/media/brp/global/modules/news-and-blog/corporate/how-to-choose-the-right-wallpaper/primary-bedrooms-details-in-asher-at-the-orchards-by-brookfield-residential-in-edmonton-ab.jpg?rev=08b26f12f03f46febc545c552c41d1fc' alt='How to Choose the Right Wallpaper | Brookfield Residential'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brookfield Residential" />
+                                </span>
+                                <a href='https://cdn.brookfieldresidential.net/-/media/brp/global/modules/news-and-blog/corporate/how-to-choose-the-right-wallpaper/primary-bedrooms-details-in-asher-at-the-orchards-by-brookfield-residential-in-edmonton-ab.jpg?rev=08b26f12f03f46febc545c552c41d1fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flowers – trendy wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/65241/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='Wild Flowers – trendy wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/65241/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg?crop=0.668xw:1.00xh;0.226xw,0&resize=1200:*' alt='45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg?crop=0.668xw:1.00xh;0.226xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

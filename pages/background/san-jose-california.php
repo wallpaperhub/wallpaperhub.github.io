@@ -1,0 +1,129 @@
+<title>Discover San Jose: Heart of Silicon Valley</title>
+                    <meta name="description" content="Explore San Jose, California, a dynamic city at the forefront of technology and innovation. Experience its rich culture, stunning parks, and diverse attractions. Perfect for visitors and residents alike, San Jose blends urban living with natural beauty in a truly unique way.">
+                    <meta name="keywords" content="san jose california">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/san-jose-california">
+                            <span itemprop="name">san jose california</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover San Jose: Heart of Silicon Valley</h1>
+                <p>San Jose, California, is a vibrant city located in the heart of Silicon Valley, known for its tech innovations and diverse culture. With beautiful parks, a rich history, and a variety of cultural attractions, San Jose offers a unique blend of urban sophistication and natural beauty, making it a great place to live and visit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose, California - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valencia_Hotel%2C_Santana_Row_%28cropped%29.jpg/1200px-Valencia_Hotel%2C_Santana_Row_%28cropped%29.jpg' alt='San Jose, California - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valencia_Hotel%2C_Santana_Row_%28cropped%29.jpg/1200px-Valencia_Hotel%2C_Santana_Row_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose | History, Attractions, Map, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/11/64411-050-2782B44A/San-Jose-California.jpg' alt='San Jose | History, Attractions, Map, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/11/64411-050-2782B44A/San-Jose-California.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose (California) – Travel guide at Wikivoyage">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/San_Jose_California_Skyline.jpg/640px-San_Jose_California_Skyline.jpg' alt='San Jose (California) – Travel guide at Wikivoyage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikivoyage" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/San_Jose_California_Skyline.jpg/640px-San_Jose_California_Skyline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things To Do & Places To See in San Jose | Visit San Jose">
+                                <img itemprop="contentUrl url" src='https://www.sanjose.org/sites/default/files/styles/attraction_category_tile_393_x_393/public/2017-12/767_0005_san_jose_trip_2_edits-1v2.jpg.webp?itok=a53mzb7o' alt='Things To Do & Places To See in San Jose | Visit San Jose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visit San Jose" />
+                                </span>
+                                <a href='https://www.sanjose.org/sites/default/files/styles/attraction_category_tile_393_x_393/public/2017-12/767_0005_san_jose_trip_2_edits-1v2.jpg.webp?itok=a53mzb7o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to spend the perfect 24 hours in San Jose (Full Itinerary ...">
+                                <img itemprop="contentUrl url" src='https://californiathroughmylens.com/wp-content/uploads/2023/03/day-in-san-jose-1-2.jpg' alt='How to spend the perfect 24 hours in San Jose (Full Itinerary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Through My Lens" />
+                                </span>
+                                <a href='https://californiathroughmylens.com/wp-content/uploads/2023/03/day-in-san-jose-1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose travel - Lonely Planet | California, USA, North America">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2021-10/GettyImages-495123798.jpg' alt='San Jose travel - Lonely Planet | California, USA, North America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5413">
+                                <meta itemprop="height" content="3609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2021-10/GettyImages-495123798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is San Jose Known For? 13 Famous Things | Redfin">
+                                <img itemprop="contentUrl url" src='https://www.redfin.com/blog/wp-content/uploads/2023/03/San-jose-downtown.jpg' alt='What is San Jose Known For? 13 Famous Things | Redfin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redfin" />
+                                </span>
+                                <a href='https://www.redfin.com/blog/wp-content/uploads/2023/03/San-jose-downtown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10th Largest City in the U.S. Might Be the Country's Most Underrated  Tourist Destination — and It Gets 300 Days of Sunshine">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/dD1NlS0nV-CedVt6-8yOXJos2qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-circle-palms-san-jose-california-SANJOSE1222-c17454cf89a742c88f1dfbbc564cd828.jpg' alt='The 10th Largest City in the U.S. Might Be the Country's Most Underrated  Tourist Destination — and It Gets 300 Days of Sunshine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/dD1NlS0nV-CedVt6-8yOXJos2qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-circle-palms-san-jose-california-SANJOSE1222-c17454cf89a742c88f1dfbbc564cd828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose, California - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/upload/e5/f8/08/shutterstock-1714606792.jpg' alt='San Jose, California - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/upload/e5/f8/08/shutterstock-1714606792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Jose, CA">
+                                <img itemprop="contentUrl url" src='https://www.bestplaces.net/images/city/SanJose_CA.gif' alt='San Jose, CA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="264">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BestPlaces" />
+                                </span>
+                                <a href='https://www.bestplaces.net/images/city/SanJose_CA.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

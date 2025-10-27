@@ -1,0 +1,129 @@
+<title>Essential Insights: Firefighter Background Check Disqualifications</title>
+                    <meta name="description" content="Explore the key factors that can disqualify applicants during firefighter background checks. Understand how criminal history, substance abuse, and driving records impact your eligibility and career in firefighting. Make informed decisions to strengthen your application.">
+                    <meta name="keywords" content="firefighter background check disqualifying">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/firefighter-background-check-disqualifying">
+                            <span itemprop="name">firefighter background check disqualifying</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insights: Firefighter Background Check Disqualifications</h1>
+                <p>Firefighter background checks often disqualify applicants based on criminal history, substance abuse, and certain behavioral issues. A felony conviction, especially related to violence or theft, can be a dealbreaker. Additionally, lacking a clean driving record or any flags for dishonesty may also lead to disqualification in this rigorous selection process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefighter Background Check: A Complete Guide [2025] - iprospectcheck">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2022/05/firefighter-background-check-1.jpg' alt='Firefighter Background Check: A Complete Guide [2025] - iprospectcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2022/05/firefighter-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefighter Background Check: What to Expect TODAY">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/f4bcc46f-2563-4021-80fe-c12b879045da/680e7c45-3da6-4d13-b474-d387cb2e6c17.jpg/:/rs=w:1280' alt='Firefighter Background Check: What to Expect TODAY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Firefighter Ambitions" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/f4bcc46f-2563-4021-80fe-c12b879045da/680e7c45-3da6-4d13-b474-d387cb2e6c17.jpg/:/rs=w:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you be a firefighter if you have a criminal record?">
+                                <img itemprop="contentUrl url" src='https://lexipol.brightspotcdn.com/dims4/default/b2ca8af/2147483647/strip/true/crop/1200x676+0+191/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fd5%2F48%2F5a4ed2535ac52d834f780b7f18b3%2Fgettyimages-853927282.jpg' alt='Can you be a firefighter if you have a criminal record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FireRescue1" />
+                                </span>
+                                <a href='https://lexipol.brightspotcdn.com/dims4/default/b2ca8af/2147483647/strip/true/crop/1200x676+0+191/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fd5%2F48%2F5a4ed2535ac52d834f780b7f18b3%2Fgettyimages-853927282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does a Criminal Conviction Affect a Firefighter Certification ...">
+                                <img itemprop="contentUrl url" src='https://thepetersfirm.com/wp-content/uploads/2020/05/firefighter_stock.png' alt='How Does a Criminal Conviction Affect a Firefighter Certification ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Peters Firm, PLLC" />
+                                </span>
+                                <a href='https://thepetersfirm.com/wp-content/uploads/2020/05/firefighter_stock.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefighter Background Check: What to Expect TODAY">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/stock/20853/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194' alt='Firefighter Background Check: What to Expect TODAY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Firefighter Ambitions" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/stock/20853/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFPA 1582 Medication Disqualifications: Firefighter's Guide">
+                                <img itemprop="contentUrl url" src='https://acuityinternational.com/wp-content/uploads/2023/08/nfpa-1582-medical-disqualifications-1024x684.jpg' alt='NFPA 1582 Medication Disqualifications: Firefighter's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acuity International" />
+                                </span>
+                                <a href='https://acuityinternational.com/wp-content/uploads/2023/08/nfpa-1582-medical-disqualifications-1024x684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFPA 1582 Medication Disqualifications: Firefighter's Guide">
+                                <img itemprop="contentUrl url" src='https://acuityinternational.com/wp-content/uploads/2023/08/nfpa-1582-medication-disqualifications.jpg' alt='NFPA 1582 Medication Disqualifications: Firefighter's Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acuity International" />
+                                </span>
+                                <a href='https://acuityinternational.com/wp-content/uploads/2023/08/nfpa-1582-medication-disqualifications.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Disqualifies You From Being a Fireman?">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/41/40/37/25561071/3/rawImage.jpg' alt='What Disqualifies You From Being a Fireman?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Work - Chron.com" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/41/40/37/25561071/3/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Causes for Disqualification | Plano, TX - Official Website">
+                                <img itemprop="contentUrl url" src='https://content.civicplus.com/api/assets/564cf67f-7491-4435-b79b-e51beaba7df2?cache=1800%20alt=' alt='Causes for Disqualification | Plano, TX - Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2600">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Plano" />
+                                </span>
+                                <a href='https://content.civicplus.com/api/assets/564cf67f-7491-4435-b79b-e51beaba7df2?cache=1800%20alt=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Causes for Disqualification | Plano, TX - Official Website">
+                                <img itemprop="contentUrl url" src='https://content.civicplus.com/api/assets/318a75e9-53d4-4d94-a74d-3a6ead99ccf5' alt='Causes for Disqualification | Plano, TX - Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2600">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Plano" />
+                                </span>
+                                <a href='https://content.civicplus.com/api/assets/318a75e9-53d4-4d94-a74d-3a6ead99ccf5' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

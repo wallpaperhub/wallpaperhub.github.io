@@ -1,0 +1,129 @@
+<title>Exclusive Taylor Swift 1989 Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore captivating wallpapers inspired by Taylor Swift's "1989 (Taylor's Version)." Perfect for fans wanting to showcase their love for the album on their devices. Download your favorite designs and bring a touch of Taylor to your screens effortlessly!">
+                    <meta name="keywords" content="wallpaper taylor swift 1989 taylor's version">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/wallpaper-taylor-swift-1989-taylors-version">
+                            <span itemprop="name">wallpaper taylor swift 1989 taylor's version</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exclusive Taylor Swift 1989 Wallpapers for Your Devices</h1>
+                <p>Discover stunning wallpapers inspired by Taylor Swift's "1989 (Taylor's Version)." Perfect for fans looking to elevate their devices with vibrant graphics and lyrics. Choose from a variety of designs featuring iconic imagery and colors that capture the essence of the album. Transform your screens today with these exclusive wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift in 4k on X: "1989 taylor's version mobile wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F3Ke38lbEAAmaeD?format=jpg&name=4096x4096' alt='Taylor Swift in 4k on X: "1989 taylor's version mobile wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="2184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F3Ke38lbEAAmaeD?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylor's Version wallpaper for phone and laptop! (made by me ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1989-taylors-version-wallpaper-for-phone-and-laptop-made-by-v0-cuu3qyrozbhb1.png?width=2560&format=png&auto=webp&s=7781ecaea9a77296b5458bebdd0b6732132be03b' alt='1989 Taylor's Version wallpaper for phone and laptop! (made by me ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1989-taylors-version-wallpaper-for-phone-and-laptop-made-by-v0-cuu3qyrozbhb1.png?width=2560&format=png&auto=webp&s=7781ecaea9a77296b5458bebdd0b6732132be03b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My current wallpaper (1989 Taylor's Version) : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i1xwo7kbrmpb1.jpg' alt='My current wallpaper (1989 Taylor's Version) : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i1xwo7kbrmpb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylor's Version Wallpaper by Virtuoso97 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a802a920-58cb-4c40-8cba-87b1d7dfebeb/dg77ds6-4e7c78aa-7dbe-4526-a552-f205c41de7ef.png/v1/fill/w_1280,h_720/1989_taylor_s_version_wallpaper_by_virtuoso97_dg77ds6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTgwMmE5MjAtNThjYi00YzQwLThjYmEtODdiMWQ3ZGZlYmViXC9kZzc3ZHM2LTRlN2M3OGFhLTdkYmUtNDUyNi1hNTUyLWYyMDVjNDFkZTdlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.20LmDFPklXGXliWkSEnQa4AsU0LG73x_C_7wBVWw7fI' alt='1989 Taylor's Version Wallpaper by Virtuoso97 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a802a920-58cb-4c40-8cba-87b1d7dfebeb/dg77ds6-4e7c78aa-7dbe-4526-a552-f205c41de7ef.png/v1/fill/w_1280,h_720/1989_taylor_s_version_wallpaper_by_virtuoso97_dg77ds6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTgwMmE5MjAtNThjYi00YzQwLThjYmEtODdiMWQ3ZGZlYmViXC9kZzc3ZHM2LTRlN2M3OGFhLTdkYmUtNDUyNi1hNTUyLWYyMDVjNDFkZTdlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.20LmDFPklXGXliWkSEnQa4AsU0LG73x_C_7wBVWw7fI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out kaylamari3's Shuffles taylor swift 1989 (taylor's ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/55/6a/3a/556a3a5a5a1d057c8ce4893e81f078a6.jpg' alt='Check out kaylamari3's Shuffles taylor swift 1989 (taylor's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/55/6a/3a/556a3a5a5a1d057c8ce4893e81f078a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 (Taylor's Version) Wallpapers : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1989-taylors-version-wallpapers-v0-rwa15srgj77b1.jpg?width=1284&format=pjpg&auto=webp&s=f4a8e30dec050bab47d479eac0b5d7690ab30033' alt='1989 (Taylor's Version) Wallpapers : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1989-taylors-version-wallpapers-v0-rwa15srgj77b1.jpg?width=1284&format=pjpg&auto=webp&s=f4a8e30dec050bab47d479eac0b5d7690ab30033' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylor's Version Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/c6/9f/2dc69f925c3a608c37845b5cb2d46b44.jpg' alt='1989 Taylor's Version Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/c6/9f/2dc69f925c3a608c37845b5cb2d46b44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 (Taylor's Version) Wallpapers!!! : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-taylors-version-wallpapers-v0-7ukf636kpzpb1.png?width=2560&format=png&auto=webp&s=407b9be264d0aa03b9b8926c89fcdd21290c6aca' alt='1989 (Taylor's Version) Wallpapers!!! : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-taylors-version-wallpapers-v0-7ukf636kpzpb1.png?width=2560&format=png&auto=webp&s=407b9be264d0aa03b9b8926c89fcdd21290c6aca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift - 1989 (taylor's version) album cover!! out october ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/a4/cf/4fa4cf41d9cf17baf54963e5551f8f62.jpg' alt='taylor swift - 1989 (taylor's version) album cover!! out october ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/a4/cf/4fa4cf41d9cf17baf54963e5551f8f62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift in 4k on X: "1989 (Taylor's Version) Rose Garden Pink ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5a4zb6bAAA3kBX?format=jpg&name=4096x4096' alt='Taylor Swift in 4k on X: "1989 (Taylor's Version) Rose Garden Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5a4zb6bAAA3kBX?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

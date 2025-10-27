@@ -1,0 +1,129 @@
+<title>Stunning January 2023 Desktop Wallpapers for Your Computer</title>
+                    <meta name="description" content="Discover the best January 2023 desktop wallpapers to revitalize your workspace! Choose from calming nature scenes to dynamic abstract art. Download now and elevate your productivity with a fresh look for the new year!">
+                    <meta name="keywords" content="january 2023 desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/january-2023-desktop-wallpaper">
+                            <span itemprop="name">january 2023 desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning January 2023 Desktop Wallpapers for Your Computer</h1>
+                <p>January 2023 desktop wallpapers are a perfect way to freshen up your workspace this new year. Whether you prefer serene landscapes, inspiring quotes, or vibrant abstract designs, our curated selection offers something for everyone. Download your favorite wallpaper and inspire productivity all month long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2022/12/January-2023-wallpapers-OhSoLovelyBlog.com1_.jpg' alt='January 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2022/12/January-2023-wallpapers-OhSoLovelyBlog.com1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opening The Doors To 2023 (January Wallpapers Edition) — Smashing ...">
+                                <img itemprop="contentUrl url" src='https://www.smashingmagazine.com/files/wallpapers/jan-23/bird-bird-bird-bird/cal/jan-23-bird-bird-bird-bird-cal-5120x2880.jpg' alt='Opening The Doors To 2023 (January Wallpapers Edition) — Smashing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smashing Magazine" />
+                                </span>
+                                <a href='https://www.smashingmagazine.com/files/wallpapers/jan-23/bird-bird-bird-bird/cal/jan-23-bird-bird-bird-bird-cal-5120x2880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2022/12/January-2023-wallpapers-OhSoLovelyBlog.com45.jpg' alt='January 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2022/12/January-2023-wallpapers-OhSoLovelyBlog.com45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/01-2023/january-2023-wallpaper-calendar-cute-glitter-1440x900.jpg' alt='January 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/01-2023/january-2023-wallpaper-calendar-cute-glitter-1440x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/01-2023/january-2023-wallpaper-calendar-new-year-1600x900.jpg' alt='January 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6667">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/01-2023/january-2023-wallpaper-calendar-new-year-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JANUARY 2023 Calendar Background (EASY ), HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/97/440/HD-wallpaper-january-2023-calendar-background-easy.jpg' alt='JANUARY 2023 Calendar Background (EASY ), HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/97/440/HD-wallpaper-january-2023-calendar-background-easy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JANUARY 2023 Calendar Background (EASY ), HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/595/603/HD-wallpaper-january-2023-calendar-background-easy.jpg' alt='JANUARY 2023 Calendar Background (EASY ), HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/595/603/HD-wallpaper-january-2023-calendar-background-easy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper: January 2023">
+                                <img itemprop="contentUrl url" src='https://design-milk.com/images/2022/12/January-2023-Desktop-Wallpaper-2560x1440-1.jpg' alt='Desktop Wallpaper: January 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Milk" />
+                                </span>
+                                <a href='https://design-milk.com/images/2022/12/January-2023-Desktop-Wallpaper-2560x1440-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 2023 Illustrated Desktop Wallpaper – Paper Raven Co.">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/T6CHNM8HWa97HMv7rnGly54jl0hoghf5hBmMJkKoNPi8xGTyc1WzK-eQKuhofdm_zLZLpVNX5rZlRVPvyRKPIiJTgM4M2VyGeSpj=s0' alt='January 2023 Illustrated Desktop Wallpaper – Paper Raven Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Raven Co." />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/T6CHNM8HWa97HMv7rnGly54jl0hoghf5hBmMJkKoNPi8xGTyc1WzK-eQKuhofdm_zLZLpVNX5rZlRVPvyRKPIiJTgM4M2VyGeSpj=s0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January Calendar 2023 Desktop Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/a2/c1/e9a2c19a2b73b7a8c3232de951025f4f.jpg' alt='January Calendar 2023 Desktop Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/a2/c1/e9a2c19a2b73b7a8c3232de951025f4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

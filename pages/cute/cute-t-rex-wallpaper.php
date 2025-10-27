@@ -1,0 +1,129 @@
+<title>Cute T-Rex Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover adorable T-Rex wallpapers that lighten up your screens! Perfect for kids and dino lovers, our collection features vibrant designs and playful illustrations. Enhance your device with a delightful prehistoric touch today!">
+                    <meta name="keywords" content="cute t rex wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-t-rex-wallpaper">
+                            <span itemprop="name">cute t rex wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute T-Rex Wallpapers for Your Devices</h1>
+                <p>Cute T-Rex wallpapers are a fun way to bring a prehistoric charm to your devices. Adorn your screens with adorable illustrations of this fierce yet lovable dinosaur. From playful motifs to vibrant colors, there's a T-Rex design for everyone. Perfect for kids and dino enthusiasts alike, these wallpapers add a joyful touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Tyrannosaurus rex in Asian kawaii style and monstera leaves ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/045/902/620/non_2x/cute-tyrannosaurus-rex-in-asian-kawaii-style-and-monstera-leaves-seamless-pattern-dinosaur-t-rex-prehistoric-lizard-cartoon-character-funny-illustration-for-wallpaper-fabric-wrapping-background-vector.jpg' alt='Cute Tyrannosaurus rex in Asian kawaii style and monstera leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/045/902/620/non_2x/cute-tyrannosaurus-rex-in-asian-kawaii-style-and-monstera-leaves-seamless-pattern-dinosaur-t-rex-prehistoric-lizard-cartoon-character-funny-illustration-for-wallpaper-fabric-wrapping-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute T Rex Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-blue-tyrannosaurus-rex_138676-2073.jpg' alt='Cute T Rex Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-blue-tyrannosaurus-rex_138676-2073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tea rex cute wallpaper dinosaur">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/30/05/243005d1f0dcfb582ab00a256cf463fd.jpg' alt='tea rex cute wallpaper dinosaur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/30/05/243005d1f0dcfb582ab00a256cf463fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,300+ Cute T Rex Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/695167708/vector/cute-dinosaur-tyrannosaurus-cartoon-vector.jpg?s=612x612&w=0&k=20&c=JnuGKZ-nNR6CJHFrgd1qdFBRejjlXXnbj-_EswWWBzw=' alt='13,300+ Cute T Rex Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/695167708/vector/cute-dinosaur-tyrannosaurus-cartoon-vector.jpg?s=612x612&w=0&k=20&c=JnuGKZ-nNR6CJHFrgd1qdFBRejjlXXnbj-_EswWWBzw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="t-rex wallpaper design with plants Stock Vector Image & Art - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H8KM42/t-rex-wallpaper-design-with-plants-2H8KM42.jpg' alt='t-rex wallpaper design with plants Stock Vector Image & Art - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H8KM42/t-rex-wallpaper-design-with-plants-2H8KM42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/89/09/96/890996156c73760b820bd0999661c662.jpg' alt='66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/89/09/96/890996156c73760b820bd0999661c662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Pink Dinosaur King T-rex Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pink-dinosaur-king-t-rex-613kb0xgvd1zgayd.jpg' alt='Download Cute Pink Dinosaur King T-rex Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pink-dinosaur-king-t-rex-613kb0xgvd1zgayd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,036 Cute Tyrannosaurus Rex Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-dinosaurs-set-vector-flat-600nw-2270906111.jpg' alt='19,036 Cute Tyrannosaurus Rex Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-dinosaurs-set-vector-flat-600nw-2270906111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dinosaur cute portrait wallpaper for phone 46906794 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/906/794/non_2x/dinosaur-cute-portrait-wallpaper-for-phone-free-vector.jpg' alt='dinosaur cute portrait wallpaper for phone 46906794 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/906/794/non_2x/dinosaur-cute-portrait-wallpaper-for-phone-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tyrannosaurus Rex, DimDom, Dinosaur, Purple, T-rex, animal, cute ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/266/170/HD-wallpaper-tyrannosaurus-rex-dimdom-dinosaur-purple-t-rex-animal-cute-geometric-low-poly-thumbnail.jpg' alt='Tyrannosaurus Rex, DimDom, Dinosaur, Purple, T-rex, animal, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/266/170/HD-wallpaper-tyrannosaurus-rex-dimdom-dinosaur-purple-t-rex-animal-cute-geometric-low-poly-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

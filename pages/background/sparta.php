@@ -1,0 +1,129 @@
+<title>Discovering Ancient Sparta: The Warrior State</title>
+                    <meta name="description" content="Explore the rich history of Sparta, the legendary warrior state of ancient Greece. Learn about its military culture, famed warriors, and influence on history, all in a concise guide perfect for mobile viewing.">
+                    <meta name="keywords" content="sparta">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sparta">
+                            <span itemprop="name">sparta</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Ancient Sparta: The Warrior State</h1>
+                <p>Sparta, an ancient Greek city-state, was renowned for its military prowess and austere lifestyle. Its citizens, the Spartans, emphasized discipline, strength, and endurance. The famous Spartan warriors, known for their fierce combat skills, played a pivotal role in the Greco-Persian Wars. Sparta's legacy endures in history and popular culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/1200px-Spartan_Territory_Before_371_BC.png' alt='Sparta - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/1200px-Spartan_Territory_Before_371_BC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/r/p/500x600/1225.jpg?v=1686182883' alt='Sparta - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/r/p/500x600/1225.jpg?v=1686182883' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sparta_territory.jpg/640px-Sparta_territory.jpg' alt='Sparta - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sparta_territory.jpg/640px-Sparta_territory.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Sparta Like Today?">
+                                <img itemprop="contentUrl url" src='https://www.grunge.com/img/gallery/what-is-sparta-like-today/l-intro-1675876297.jpg' alt='What Is Sparta Like Today?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grunge" />
+                                </span>
+                                <a href='https://www.grunge.com/img/gallery/what-is-sparta-like-today/l-intro-1675876297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta | History, Location, Population, Map, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/241249-050-DB926C20/Locator-map-Sparta.jpg' alt='Sparta | History, Location, Population, Map, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/241249-050-DB926C20/Locator-map-Sparta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta Facts for Kids - History for Kids">
+                                <img itemprop="contentUrl url" src='https://cdn-kcfgd.nitrocdn.com/OEMJIDJtRbDkQdCJKqpetrVzJvWcUcLl/assets/images/optimized/rev-8343227/historyforkids.org/wp-content/uploads/2021/11/Sparta-Facts-for-Kids-png1-1-1024x768.png' alt='Sparta Facts for Kids - History for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- History for Kids" />
+                                </span>
+                                <a href='https://cdn-kcfgd.nitrocdn.com/OEMJIDJtRbDkQdCJKqpetrVzJvWcUcLl/assets/images/optimized/rev-8343227/historyforkids.org/wp-content/uploads/2021/11/Sparta-Facts-for-Kids-png1-1-1024x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta and Athens: A Comparison of Greek City-States - Owlcation">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTczOTU3MTk4NzkwNDAzMzc5/sparta-and-athens.jpg' alt='Sparta and Athens: A Comparison of Greek City-States - Owlcation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owlcation" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTczOTU3MTk4NzkwNDAzMzc5/sparta-and-athens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPARTA - Ancient Faction Emblem & Symbol - Digital Printable Logo ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37232243/r/il/4ab23f/4548323667/il_570xN.4548323667_25qx.jpg' alt='SPARTA - Ancient Faction Emblem & Symbol - Digital Printable Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37232243/r/il/4ab23f/4548323667/il_570xN.4548323667_25qx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts About Sparta, an Ancient Greek City-State - Primary Facts">
+                                <img itemprop="contentUrl url" src='http://primaryfacts.com/wp-content/uploads/2013/05/Sparta.jpg' alt='Facts About Sparta, an Ancient Greek City-State - Primary Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Primary Facts" />
+                                </span>
+                                <a href='http://primaryfacts.com/wp-content/uploads/2013/05/Sparta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparta | History, Location, Population, Map, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/14/9314-004-F558D673/Metropolis-Mistra-St-Demetrios-Byzantine-Sparta-city.jpg' alt='Sparta | History, Location, Population, Map, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/14/9314-004-F558D673/Metropolis-Mistra-St-Demetrios-Byzantine-Sparta-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

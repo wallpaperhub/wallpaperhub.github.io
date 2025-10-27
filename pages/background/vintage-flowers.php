@@ -1,0 +1,129 @@
+<title>Explore the Charm of Vintage Flowers</title>
+                    <meta name="description" content="Discover the enchanting world of vintage flowers! Uncover timeless varieties that bring nostalgia and charm to any space. Perfect for gardening enthusiasts, interior design lovers, and anyone seeking a touch of beauty from the past. Embrace the elegance of vintage blooms today!">
+                    <meta name="keywords" content="vintage flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-flowers">
+                            <span itemprop="name">vintage flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Charm of Vintage Flowers</h1>
+                <p>Vintage flowers evoke a sense of nostalgia, transporting us to a time when gardens flourished with blooms of yesteryear. From delicate roses to vibrant peonies, these timeless botanicals inspire art, fashion, and home décor. Incorporate vintage varieties into your space for a charming, romantic ambiance that never goes out of style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vintage Flower Posters 12pcs 8"x10", Vintage Wall Art Botanical  Prints, Vintage Aesthetic Floral Picture Set, Cottagecore Decor, Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Vc3rVJxnL.jpg' alt='Amazon.com: Vintage Flower Posters 12pcs 8"x10", Vintage Wall Art Botanical  Prints, Vintage Aesthetic Floral Picture Set, Cottagecore Decor, Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Vc3rVJxnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Botanical Prints | Vintage Flower Print | Vintage Artwork | Vintage  French Painting | Vintage Flower Print | Public Domain Print">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19690446/r/il/3ff7c5/1969847212/il_fullxfull.1969847212_rnso.jpg' alt='Vintage Botanical Prints | Vintage Flower Print | Vintage Artwork | Vintage  French Painting | Vintage Flower Print | Public Domain Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2064">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19690446/r/il/3ff7c5/1969847212/il_fullxfull.1969847212_rnso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Vintage Flowers">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/62102/pink-vintage-flowers.jpg?h=699&q=85' alt='Pink Vintage Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/62102/pink-vintage-flowers.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Art Print - Floral Still Life Reproductions ...">
+                                <img itemprop="contentUrl url" src='http://museumqualityart.com/cdn/shop/products/VintageFlowers_WebRes_16x20_MuseumQualityArt_4d07bdba-3b29-40bb-babd-18a8c163ae7c.jpg?v=1669060731&width=1024' alt='Vintage Flowers Art Print - Floral Still Life Reproductions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Museum Quality Art" />
+                                </span>
+                                <a href='http://museumqualityart.com/cdn/shop/products/VintageFlowers_WebRes_16x20_MuseumQualityArt_4d07bdba-3b29-40bb-babd-18a8c163ae7c.jpg?v=1669060731&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Vintage Flowers Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676272612763-a67c0dd2c19c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmludGFnZSUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' alt='550+ Vintage Flowers Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676272612763-a67c0dd2c19c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmludGFnZSUyMGZsb3dlcnN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Wallpaper Lilipinso">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/343667/vintage-flowers-wallpaper-lilipinso.jpg' alt='Vintage Flowers Wallpaper Lilipinso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/343667/vintage-flowers-wallpaper-lilipinso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/teepublic/image/private/s--e9I2exFN--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1657299953/production/designs/32978424_0.jpg' alt='Vintage Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeePublic" />
+                                </span>
+                                <a href='https://res.cloudinary.com/teepublic/image/private/s--e9I2exFN--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1657299953/production/designs/32978424_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="" Blooming Vintage Flowers I " 10'' H x 20'' W x 0.78'' D">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/49702750/resize-h800-w800%5Ecompr-r85/2509/250952783/%22+Blooming+Vintage+Flowers+I+%22.jpg' alt='" Blooming Vintage Flowers I " 10'' H x 20'' W x 0.78'' D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/49702750/resize-h800-w800%5Ecompr-r85/2509/250952783/%22+Blooming+Vintage+Flowers+I+%22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wall Art Poster Prints Set of 4, Retro Floral Wall Art,  Wildflower Artwork Printing Posters Wall Decor, Botanical Floral Flowers  Prints ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Vintage-Floral-Wall-Art-Poster-Prints-Set-4-Retro-Art-Wildflower-Artwork-Printing-Posters-Decor-Botanical-Flowers-Living-Room-Bedroom-8-x10-Unframed_55f3999e-171e-4b43-a758-a335111e17c7.dcccf2dd7a78c28e564b22074844adf4.jpeg' alt='Vintage Floral Wall Art Poster Prints Set of 4, Retro Floral Wall Art,  Wildflower Artwork Printing Posters Wall Decor, Botanical Floral Flowers  Prints ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Vintage-Floral-Wall-Art-Poster-Prints-Set-4-Retro-Art-Wildflower-Artwork-Printing-Posters-Decor-Botanical-Flowers-Living-Room-Bedroom-8-x10-Unframed_55f3999e-171e-4b43-a758-a335111e17c7.dcccf2dd7a78c28e564b22074844adf4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65820/vintage-flowers-1.jpg?h=699&q=85' alt='Vintage Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1036">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65820/vintage-flowers-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

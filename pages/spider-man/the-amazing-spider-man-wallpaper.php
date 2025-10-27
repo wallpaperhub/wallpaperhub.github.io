@@ -1,0 +1,129 @@
+<title>Stunning Amazing Spider-Man Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover vibrant and stunning Amazing Spider-Man wallpapers that bring the superhero's thrilling world to your screens. Perfect for desktops and mobiles, these wallpapers showcase iconic scenes and artwork. Elevate your device's look with the best Spider-Man backgrounds today!">
+                    <meta name="keywords" content="the amazing spider man wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/the-amazing-spider-man-wallpaper">
+                            <span itemprop="name">the amazing spider man wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Amazing Spider-Man Wallpapers for Your Devices</h1>
+                <p>The Amazing Spider-Man wallpaper brings the thrilling world of your favorite superhero right to your screen. Featuring stunning artwork, vibrant colors, and iconic scenes, these wallpapers allow fans to showcase their love for Spidey. Perfect for desktops and mobile devices, transform your background and feel immersed in the action today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spiderman 2 iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/02/06/5a0206d83ba933482248203479c7afdc.jpg' alt='The Amazing Spiderman 2 iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/02/06/5a0206d83ba933482248203479c7afdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Spiderman Superhero Full Wall Mural Photo Wallpaper Print Home 3D  Decal">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/bgsAAOSwTuJYpPuh/s-l400.jpg' alt='Amazing Spiderman Superhero Full Wall Mural Photo Wallpaper Print Home 3D  Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/bgsAAOSwTuJYpPuh/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spiderman Ready To Take On Evil Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-amazing-spiderman-ready-to-take-on-evil-voyeklvw5gwkk6zn.jpg' alt='The Amazing Spiderman Ready To Take On Evil Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-amazing-spiderman-ready-to-take-on-evil-voyeklvw5gwkk6zn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man (Andrew Garfield) Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/2/2/477804-1536x2733-mobile-hd-spider-man-andrew-garfield-background.jpg' alt='Spider-Man (Andrew Garfield) Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/2/2/477804-1536x2733-mobile-hd-spider-man-andrew-garfield-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An Incredible Wallpaper of Amazing Spider Man for your ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/amazing-spider-man-iphone-vmycl88fyob52r4f.jpg' alt='Download An Incredible Wallpaper of Amazing Spider Man for your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/amazing-spider-man-iphone-vmycl88fyob52r4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man & Gwen Stacy HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/272/272738.jpg' alt='The Amazing Spider-Man & Gwen Stacy HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/272/272738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man - Digital Download – IOSArt">
+                                <img itemprop="contentUrl url" src='http://ioswallpaper.art/cdn/shop/products/TASMwatermark.png?v=1666459040' alt='The Amazing Spider-Man - Digital Download – IOSArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="991">
+                                <meta itemprop="height" content="1761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IOSArt" />
+                                </span>
+                                <a href='http://ioswallpaper.art/cdn/shop/products/TASMwatermark.png?v=1666459040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD the amazing spiderman art wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/92/843/HD-wallpaper-spiderman-amazing-art-man-marvel-mortal-spider.jpg' alt='HD the amazing spiderman art wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/92/843/HD-wallpaper-spiderman-amazing-art-man-marvel-mortal-spider.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider-Man 2 Wallpapers [HD] & Facebook Cover Photos">
+                                <img itemprop="contentUrl url" src='https://www.designbolts.com/wp-content/uploads/2014/04/The-Amazing-Spider-Man-2-Wallpaper-HD1.jpg' alt='The Amazing Spider-Man 2 Wallpapers [HD] & Facebook Cover Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designbolts" />
+                                </span>
+                                <a href='https://www.designbolts.com/wp-content/uploads/2014/04/The-Amazing-Spider-Man-2-Wallpaper-HD1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get the Amazing Spider Man theme on your iPhone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/amazing-spider-man-iphone-dpuha6kr676n7naf.jpg' alt='Download Get the Amazing Spider Man theme on your iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/amazing-spider-man-iphone-dpuha6kr676n7naf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

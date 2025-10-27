@@ -1,0 +1,129 @@
+<title>Amazon Gift Card with Transparent Background</title>
+                    <meta name="description" content="Discover the versatility of Amazon gift cards with transparent backgrounds. Ideal for digital creations and personalized gifts, these cards enhance your celebrations. Easily integrate them into your designs for birthdays, holidays, and more. Gift smarter with a stylish twist!">
+                    <meta name="keywords" content="amazon gift card transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/amazon-gift-card-transparent-background">
+                            <span itemprop="name">amazon gift card transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Amazon Gift Card with Transparent Background</h1>
+                <p>Amazon gift cards with a transparent background are perfect for personalized gifting. They can easily blend into any design or be featured as a standalone graphic in digital invitations or greeting cards. Whether for birthdays or holidays, these gift cards add a touch of customization and style to your gift-giving experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon 50$ Gift Card Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/amazon-50-gift-card-transparent-background-701751695133909fdr5l4rlgx.png' alt='Amazon 50$ Gift Card Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/amazon-50-gift-card-transparent-background-701751695133909fdr5l4rlgx.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon US Gift Card $100">
+                                <img itemprop="contentUrl url" src='https://gamecardsdirect.com/content/picture/46732/amazon-us-gift-card-100.png' alt='Amazon US Gift Card $100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamecardsdirect" />
+                                </span>
+                                <a href='https://gamecardsdirect.com/content/picture/46732/amazon-us-gift-card-100.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25$ Amazon Gift Card | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/amazon-card-shape-contains-a-logo-symbol-701751695133844xqfl7co6gz.png' alt='25$ Amazon Gift Card | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/amazon-card-shape-contains-a-logo-symbol-701751695133844xqfl7co6gz.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Gift Card PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180329/tlw/kisspng-amazon-com-gift-card-product-return-online-shoppin-gift-card-5abda54c522ee3.7037097715223780603366.jpg' alt='Amazon Gift Card PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180329/tlw/kisspng-amazon-com-gift-card-product-return-online-shoppin-gift-card-5abda54c522ee3.7037097715223780603366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Gift Card - Amazon Gift Card - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180529/vs/avpcw72lh.webp' alt='Amazon Gift Card - Amazon Gift Card - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180529/vs/avpcw72lh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100$ Amazon Gift Card | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/100-amazon-gift-card-701751695133901x9vg2lrsv6.png' alt='100$ Amazon Gift Card | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/100-amazon-gift-card-701751695133901x9vg2lrsv6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Amazon Gift Cards | Instant Delivery | PerfectGift.com">
+                                <img itemprop="contentUrl url" src='https://www.perfectgift.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fgift-card-granny%2Fimage%2Fupload%2Fv1686319346%2FGY%2Fmerchant_images%2FAmazon_qxyo6f.png&w=828&q=75' alt='Buy Amazon Gift Cards | Instant Delivery | PerfectGift.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PerfectGift.com" />
+                                </span>
+                                <a href='https://www.perfectgift.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fgift-card-granny%2Fimage%2Fupload%2Fv1686319346%2FGY%2Fmerchant_images%2FAmazon_qxyo6f.png&w=828&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Amazon.com Gift card Prize Frosted Leaf, amazon gift card ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/amazon-com-gift-card-prize-frosted-leaf-amazon-gift-card-transparent-background-png-clipart--comhiclipartmccbg.jpg' alt='Free: Amazon.com Gift card Prize Frosted Leaf, amazon gift card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/amazon-com-gift-card-prize-frosted-leaf-amazon-gift-card-transparent-background-png-clipart--comhiclipartmccbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Amazon Gift Card Png Images | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/amazon-gift-card-design-96wumctmukd4mblb-2.png' alt='100+] Amazon Gift Card Png Images | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/amazon-gift-card-design-96wumctmukd4mblb-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="$250 Amazon Gift Card (USA)">
+                                <img itemprop="contentUrl url" src='https://www.giftchill.co.uk/wp-content/uploads/2020/08/amazon-giftcard-usa-250.png' alt='$250 Amazon Gift Card (USA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GiftChill" />
+                                </span>
+                                <a href='https://www.giftchill.co.uk/wp-content/uploads/2020/08/amazon-giftcard-usa-250.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

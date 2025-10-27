@@ -1,0 +1,129 @@
+<title>Exploring the Setting of The Yellow Wallpaper</title>
+                    <meta name="description" content="Discover the isolated setting of The Yellow Wallpaper, a haunting story about mental health. Explore how the mansion and its wallpaper reflect the narrator's journey through depression in this chilling tale from the 19th century.">
+                    <meta name="keywords" content="where is the yellow wallpaper set">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/where-is-the-yellow-wallpaper-set">
+                            <span itemprop="name">where is the yellow wallpaper set</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Setting of The Yellow Wallpaper</h1>
+                <p>The Yellow Wallpaper is set in a secluded, rented mansion in the late 19th century. This isolated estate, surrounded by nature, serves as a therapeutic retreat for the narrator, who is suffering from what we now understand as postpartum depression. The setting plays a crucial role in reflecting her mental deterioration as she becomes obsessed with the room's wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' alt='The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary & Plot Diagram Activity">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' alt='The Yellow Wallpaper Summary & Plot Diagram Activity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Yellow_Wall_Paper_pg_1.jpg/640px-The_Yellow_Wall_Paper_pg_1.jpg' alt='The Yellow Wallpaper - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Yellow_Wall_Paper_pg_1.jpg/640px-The_Yellow_Wall_Paper_pg_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Northerner | The Yellow Wallpaper: A Play Adaptation">
+                                <img itemprop="contentUrl url" src='https://www.thenortherner.com/wp-content/uploads/2017/03/wallpaper_13-900x378.jpg' alt='The Northerner | The Yellow Wallpaper: A Play Adaptation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Northerner" />
+                                </span>
+                                <a href='https://www.thenortherner.com/wp-content/uploads/2017/03/wallpaper_13-900x378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: The Yellow Wallpaper at the Omnibus Theatre – Exeunt Magazine">
+                                <img itemprop="contentUrl url" src='https://exeuntmagazine.com/wp-content/uploads/TheYellowWallpaper56-PRESS1-credit-Lidia-Crisafulli-600x399.jpg' alt='Review: The Yellow Wallpaper at the Omnibus Theatre – Exeunt Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exeunt Magazine" />
+                                </span>
+                                <a href='https://exeuntmagazine.com/wp-content/uploads/TheYellowWallpaper56-PRESS1-credit-Lidia-Crisafulli-600x399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Character Evolution Analysis">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/character-evolution-in--the-yellow-wall-paper-.png' alt='The Yellow Wallpaper | Character Evolution Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2058">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/character-evolution-in--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary and Analysis - College Transitions">
+                                <img itemprop="contentUrl url" src='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' alt='The Yellow Wallpaper Summary and Analysis - College Transitions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Transitions" />
+                                </span>
+                                <a href='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wall-Paper">
+                                <img itemprop="contentUrl url" src='http://payload47.cargocollective.com/1/5/179769/3243217/room%20interior005copy_900.jpg' alt='The Yellow Wall-Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wall-Paper" />
+                                </span>
+                                <a href='http://payload47.cargocollective.com/1/5/179769/3243217/room%20interior005copy_900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021) - Projected Figures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?resize=810%2C540&ssl=1' alt='The Yellow Wallpaper (2021) - Projected Figures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Projected Figures" />
+                                </span>
+                                <a href='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?resize=810%2C540&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Yellow Wallpaper : Alexandra Loreth, Jeanne O’Connor, Clara  Harte, Joe Mullins: Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IveUwFSwL.jpg' alt='Amazon.com: The Yellow Wallpaper : Alexandra Loreth, Jeanne O’Connor, Clara  Harte, Joe Mullins: Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IveUwFSwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

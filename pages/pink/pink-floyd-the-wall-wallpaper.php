@@ -1,0 +1,129 @@
+<title>Vibrant Pink Floyd The Wall Wallpaper for Your Space</title>
+                    <meta name="description" content="Explore unique Pink Floyd The Wall wallpaper to enhance your room's vibe. Ideal for fans, this decor combines art and music, creating a captivating atmosphere. Perfect for any music lover's space!">
+                    <meta name="keywords" content="pink floyd the wall wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-floyd-the-wall-wallpaper">
+                            <span itemprop="name">pink floyd the wall wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Floyd The Wall Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning Pink Floyd The Wall wallpaper. Featuring iconic imagery and vibrant colors, this wallpaper embodies the band's legendary spirit and artistic vision. Perfect for music lovers, it creates a unique atmosphere in any room. Elevate your decor and celebrate the timeless essence of classic rock!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - The Wall [4786x2693] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fvd7u4w8jmg21.png' alt='Pink Floyd - The Wall [4786x2693] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4786">
+                                <meta itemprop="height" content="2693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fvd7u4w8jmg21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Pink Floyd - The Wall">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/611/611954.jpg' alt='HD Wallpaper: Pink Floyd - The Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/611/611954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xau8utqqonb71.png' alt='Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xau8utqqonb71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink floyd TheWall, classic rock, pink floyd, the wall, wall, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/914/833/HD-wallpaper-pink-floyd-thewall-classic-rock-pink-floyd-the-wall-wall.jpg' alt='Pink floyd TheWall, classic rock, pink floyd, the wall, wall, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/914/833/HD-wallpaper-pink-floyd-thewall-classic-rock-pink-floyd-the-wall-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - The Wall | Stephen Clark (sgclark.com)">
+                                <img itemprop="contentUrl url" src='https://www.sgclark.com/blog/wp-content/uploads/2020/04/music_pink_floyd_the_wall.png' alt='Pink Floyd - The Wall | Stephen Clark (sgclark.com)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sgclark.com" />
+                                </span>
+                                <a href='https://www.sgclark.com/blog/wp-content/uploads/2020/04/music_pink_floyd_the_wall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd 'The Wall' Brick Wall Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2e/d8/b1/2ed8b15b24d2106fb2ed6decc7b28a7f.jpg' alt='Pink Floyd 'The Wall' Brick Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2e/d8/b1/2ed8b15b24d2106fb2ed6decc7b28a7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd's The Wall by AliasBurn on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7db4127d-e1cd-4fbd-bf1d-d0ea801ccce8/dah0u0-ff8ed2fa-fa1f-41e4-a005-28fa4d7e1ddc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkYjQxMjdkLWUxY2QtNGZiZC1iZjFkLWQwZWE4MDFjY2NlOFwvZGFoMHUwLWZmOGVkMmZhLWZhMWYtNDFlNC1hMDA1LTI4ZmE0ZDdlMWRkYy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.CCIia63bOpjQ-3w369jWhw1tjr2R_1gt86OdCGUpl5c' alt='Pink Floyd's The Wall by AliasBurn on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7db4127d-e1cd-4fbd-bf1d-d0ea801ccce8/dah0u0-ff8ed2fa-fa1f-41e4-a005-28fa4d7e1ddc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkYjQxMjdkLWUxY2QtNGZiZC1iZjFkLWQwZWE4MDFjY2NlOFwvZGFoMHUwLWZmOGVkMmZhLWZhMWYtNDFlNC1hMDA1LTI4ZmE0ZDdlMWRkYy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.CCIia63bOpjQ-3w369jWhw1tjr2R_1gt86OdCGUpl5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Pink Floyd wallpaper : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/dj1Jysi.jpg' alt='I made a Pink Floyd wallpaper : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/dj1Jysi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Pink Floyd The Wall Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/45/c9/4e45c93d061a34261d1e87813dffe71c.jpg' alt='   Pink Floyd The Wall Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/45/c9/4e45c93d061a34261d1e87813dffe71c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Creative Tribute to Pink Floyd's Album "The Wall ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-floyd-the-wall-fp8axu9501w3zbpf.jpg' alt='Download A Creative Tribute to Pink Floyd's Album "The Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-floyd-the-wall-fp8axu9501w3zbpf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

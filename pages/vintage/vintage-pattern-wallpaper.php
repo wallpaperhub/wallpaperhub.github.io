@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Pattern Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of vintage pattern wallpaper. Elevate your interiors with timeless designs that blend nostalgia and modern flair. Perfect for any room, these wallpapers create warmth and charm, inviting a unique aesthetic to your home. Explore our collection and redefine your space today!">
+                    <meta name="keywords" content="vintage pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-pattern-wallpaper">
+                            <span itemprop="name">vintage pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Pattern Wallpaper</h1>
+                <p>Vintage pattern wallpaper brings timeless elegance to any space, showcasing intricate designs and rich colors. Perfect for adding character to modern interiors, these wallpapers reflect the charm of bygone eras. Whether used in a single accent wall or throughout a room, vintage patterns create a warm, inviting atmosphere that captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/vintage-pattern-repeat-removable-wallpaper-design.jpg' alt='Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/vintage-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Green Damask Design - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2649/13781/vintage-wallpaper-44__57264.1678918060.jpg?c=2' alt='1960s Vintage Wallpaper Green Damask Design - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2649/13781/vintage-wallpaper-44__57264.1678918060.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Meadow – North and Finch">
+                                <img itemprop="contentUrl url" src='http://northandfinch.com/cdn/shop/products/image_aab5fc19-5980-4586-be8e-b1ddd9afea25.jpg?v=1666179032' alt='Vintage Meadow – North and Finch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North and Finch" />
+                                </span>
+                                <a href='http://northandfinch.com/cdn/shop/products/image_aab5fc19-5980-4586-be8e-b1ddd9afea25.jpg?v=1666179032' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Textured Vintage Damasks Floral Pattern Wallpaper  Wallcoverings for Walls, 57 Square ft/Roll (Green(Stripes))">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BUsDNZuLL._AC_UF894,1000_QL80_.jpg' alt='Blooming Wall Textured Vintage Damasks Floral Pattern Wallpaper  Wallcoverings for Walls, 57 Square ft/Roll (Green(Stripes))'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BUsDNZuLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/06/WR563HC-S-MeadowsAntique-Stone-1.jpg' alt='Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/06/WR563HC-S-MeadowsAntique-Stone-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Vintage Wallpaper by the Yard - Leaf Pattern in Geometric ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5251483/r/il/4f4d6a/547934805/il_570xN.547934805_ifz6.jpg' alt='1940s Vintage Wallpaper by the Yard - Leaf Pattern in Geometric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5251483/r/il/4f4d6a/547934805/il_570xN.547934805_ifz6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker Seamless vintage wallpaper pattern">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/15/34/97/64/2/700_FO153497642_34df46ad3bd2f49b6bbc806887d9d89b.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-seamless-vintage-wallpaper-pattern.jpg.jpg' alt='Sticker Seamless vintage wallpaper pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/15/34/97/64/2/700_FO153497642_34df46ad3bd2f49b6bbc806887d9d89b.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-seamless-vintage-wallpaper-pattern.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_ab02973e-604a-4b58-acea-a052e2b71c78.jpg?v=1706127268&width=1621' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1621">
+                                <meta itemprop="height" content="1621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_ab02973e-604a-4b58-acea-a052e2b71c78.jpg?v=1706127268&width=1621' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Vintage Wallpaper, Butterflies Pattern, Dark Green ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16834792/r/il/08ccb4/2587243864/il_570xN.2587243864_d8nb.jpg' alt='Removable Vintage Wallpaper, Butterflies Pattern, Dark Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16834792/r/il/08ccb4/2587243864/il_570xN.2587243864_d8nb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Geometric Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_8678.jpg?v=1496864829' alt='1960s Geometric Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures Vintage Wallpaper" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_8678.jpg?v=1496864829' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

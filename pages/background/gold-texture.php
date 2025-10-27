@@ -1,0 +1,129 @@
+<title>Discovering the Beauty of Gold Texture</title>
+                    <meta name="description" content="Explore the allure of gold texture in design. Learn how its shimmering surfaces enhance aesthetics in art and architecture, creating a sense of luxury and warmth in any space. Perfect for designers and enthusiasts seeking inspiration and insights into this captivating material.">
+                    <meta name="keywords" content="gold texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-texture">
+                            <span itemprop="name">gold texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Beauty of Gold Texture</h1>
+                <p>Gold texture is a captivating feature in design, symbolizing luxury and opulence. Its shimmering surface reflects light beautifully, enhancing the visual appeal of any artwork or architecture. Gold textures can range from polished, high-gloss finishes to matte, brushed surfaces, each offering unique aesthetics and feelings of warmth and richness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Gold Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1545873509-33e944ca7655?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' alt='1500+ Gold Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1545873509-33e944ca7655?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smooth Gold Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-shiny-gold-texture-background_44706-177.jpg?semt=ais_hybrid' alt='Smooth Gold Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-shiny-gold-texture-background_44706-177.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Gold Images – Browse 6,242,444 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg' alt='Shiny Gold Images – Browse 6,242,444 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gold texture background. close up of shiny surface of gold. golden ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/561/934/non_2x/gold-texture-background-close-up-of-shiny-surface-of-gold-golden-smooth-material-gold-leaf-generative-ai-photo.jpg' alt='gold texture background. close up of shiny surface of gold. golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/561/934/non_2x/gold-texture-background-close-up-of-shiny-surface-of-gold-golden-smooth-material-gold-leaf-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper background, gold, golden, gold, texture for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/6600x6600/c/ba/gold-texture-golden-zoloto-fon.jpg' alt='Wallpaper background, gold, golden, gold, texture for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6600">
+                                <meta itemprop="height" content="6600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/6600x6600/c/ba/gold-texture-golden-zoloto-fon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Best gold texture / background ideas | gold texture background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2f/af/c6/2fafc686f0d88bc80216062f2a64aad4.jpg' alt='22 Best gold texture / background ideas | gold texture background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4218">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2f/af/c6/2fafc686f0d88bc80216062f2a64aad4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Gold Texture Images – Browse 739,237 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/10/89/85/360_F_410898570_0p01AeZtok1rITjrMRGxGZpp8EYTRFDH.jpg' alt='Old Gold Texture Images – Browse 739,237 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/10/89/85/360_F_410898570_0p01AeZtok1rITjrMRGxGZpp8EYTRFDH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 | Seamless Gold Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-solid-gold-background_23-2150993772.jpg' alt='Page 7 | Seamless Gold Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-solid-gold-background_23-2150993772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Gold Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1545873692-64145c8c42ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29sZCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' alt='1500+ Gold Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1545873692-64145c8c42ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29sZCUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmering Gold Texture A Luxurious Background With A Liquid ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250109/original/pngtree-shimmering-gold-texture-a-luxurious-background-with-a-liquid-effect-picture-image_13591344.jpg' alt='Shimmering Gold Texture A Luxurious Background With A Liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250109/original/pngtree-shimmering-gold-texture-a-luxurious-background-with-a-liquid-effect-picture-image_13591344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

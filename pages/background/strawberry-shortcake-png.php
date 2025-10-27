@@ -1,0 +1,129 @@
+<title>Delicious Strawberry Shortcake PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover high-quality strawberry shortcake PNG images ideal for your creative projects. Perfect for designs, scrapbooking, or social media use, these images feature vibrant strawberries and fluffy cake, bringing a sweet touch to your visuals. Download now for a delightful design enhancement!">
+                    <meta name="keywords" content="strawberry shortcake png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/strawberry-shortcake-png">
+                            <span itemprop="name">strawberry shortcake png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Strawberry Shortcake PNG Images for Your Projects</h1>
+                <p>Strawberry shortcake PNG images are perfect for enhancing your culinary projects, scrapbooking, or social media posts. These high-quality, transparent background graphics showcase luscious strawberries and fluffy cake layers, making them visually appealing. Ideal for both personal and professional use, they add a touch of sweetness to any design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake PNG Images (Transparent HD Photo Clipart)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/de/79/4bde791b474883c0a3f97307874785db.jpg' alt='Strawberry Shortcake PNG Images (Transparent HD Photo Clipart)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/de/79/4bde791b474883c0a3f97307874785db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry shortcake png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/965/100/png-clipart-strawberry-shortcake-strawberry-shortcake-strawberry-pie-cheesecake-strawberry-girl-frutti-di-bosco-food-thumbnail.png' alt='Strawberry shortcake png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/965/100/png-clipart-strawberry-shortcake-strawberry-shortcake-strawberry-pie-cheesecake-strawberry-girl-frutti-di-bosco-food-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake Cartoon 80s PNG Clipart » PeaceSVG">
+                                <img itemprop="contentUrl url" src='https://peacesvg.com/wp-content/uploads/2024/03/MR-peacesvgcom-0903241020-133202492254-1.jpeg.webp' alt='Strawberry Shortcake Cartoon 80s PNG Clipart » PeaceSVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeaceSVG" />
+                                </span>
+                                <a href='https://peacesvg.com/wp-content/uploads/2024/03/MR-peacesvgcom-0903241020-133202492254-1.jpeg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download HD Clipart Hat Strawberry Shortcake - Strawberry ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/4a/c5/bc4ac515d4c8c3c2d160423534a988fd.jpg' alt='Download HD Clipart Hat Strawberry Shortcake - Strawberry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/4a/c5/bc4ac515d4c8c3c2d160423534a988fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake">
+                                <img itemprop="contentUrl url" src='https://bowologydesigns.com/wp-content/uploads/2024/03/Strawberry-Shortcake-PNG-Photo.png' alt='Strawberry Shortcake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bowology Designs" />
+                                </span>
+                                <a href='https://bowologydesigns.com/wp-content/uploads/2024/03/Strawberry-Shortcake-PNG-Photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake - Strawberry Shortcake Cartoon Character ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180425/ile/kisspng-shortcake-wedding-invitation-strawberry-cream-cake-80s-5ae01067bba643.6302765715246337037686.jpg' alt='Strawberry Shortcake - Strawberry Shortcake Cartoon Character ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180425/ile/kisspng-shortcake-wedding-invitation-strawberry-cream-cake-80s-5ae01067bba643.6302765715246337037686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake Logo PNG Transparent & SVG Vector - Freebie ...">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/strawberry-shortcake-logo-png-transparent.png' alt='Strawberry Shortcake Logo PNG Transparent & SVG Vector - Freebie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/strawberry-shortcake-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake | Ultimate Character and/or Object Fusion ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ultimate-character-andor-object-fusion/images/a/a0/Strawberry_shortcake_png_by_jacobstout_dds9k69-fullview.png/revision/latest?cb=20220520152139' alt='Strawberry Shortcake | Ultimate Character and/or Object Fusion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultimate Character and/or Object Fusion Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ultimate-character-andor-object-fusion/images/a/a0/Strawberry_shortcake_png_by_jacobstout_dds9k69-fullview.png/revision/latest?cb=20220520152139' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Shortcake - Strawberry Shortcake Character on Bicycle ...">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180825/sro/kisspng-strawberry-shortcake-strawberry-cream-cake-design-wilds-cat-strawberry-dolls-1713948208924.webp' alt='Strawberry Shortcake - Strawberry Shortcake Character on Bicycle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180825/sro/kisspng-strawberry-shortcake-strawberry-cream-cake-design-wilds-cat-strawberry-dolls-1713948208924.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry shortcake Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/S/strawberry-shortcake-logo-549D736983-seeklogo.com.png' alt='Strawberry shortcake Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="203">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/S/strawberry-shortcake-logo-549D736983-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

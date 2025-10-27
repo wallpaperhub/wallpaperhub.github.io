@@ -1,0 +1,129 @@
+<title>Mookie Betts iPhone Wallpapers: Elevate Your Device</title>
+                    <meta name="description" content="Discover stunning Mookie Betts iPhone wallpapers that bring the excitement of baseball to your screen. Choose from a variety of eye-catching designs and showcase your love for this legendary player. Perfect for fans seeking a unique way to personalize their device with vibrant images of Mookie Betts in action!">
+                    <meta name="keywords" content="mookie betts wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mookie-betts-wallpaper-iphone">
+                            <span itemprop="name">mookie betts wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mookie Betts iPhone Wallpapers: Elevate Your Device</h1>
+                <p>Mookie Betts wallpaper for iPhone brings a touch of baseball elegance to your device. Featuring the star player's dynamic plays and captivating moments, these wallpapers celebrate his journey and skills. Personalize your iPhone with stunning images that reflect your passion for the game and admiration for Betts' incredible talent!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/26/31/a4263150faf55ae571209268086e303c.jpg' alt='Mookie Betts Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/26/31/a4263150faf55ae571209268086e303c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/43/2b/4a/432b4ab97b6fbd0a4b4e153a02fa8fc3.jpg' alt='Mookie Betts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/43/2b/4a/432b4ab97b6fbd0a4b4e153a02fa8fc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts Hitting Pose Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mookie-betts-hitting-pose-777p6nyqxn2mmm5c.jpg' alt='Mookie Betts Hitting Pose Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mookie-betts-hitting-pose-777p6nyqxn2mmm5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Los Angeles Dodgers Mookie Betts Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/los-angeles-dodgers-mookie-betts-o9p2gv2kgaie3ey5.jpg' alt='Download Los Angeles Dodgers Mookie Betts Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/los-angeles-dodgers-mookie-betts-o9p2gv2kgaie3ey5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevin J Kalick  on X: "[Personal] Mookie Betts “MVP” iPhone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Dpj8eFRUwAA4Qbl.jpg:large' alt='Trevin J Kalick  on X: "[Personal] Mookie Betts “MVP” iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Dpj8eFRUwAA4Qbl.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts X Wallpaper Wednesday    - Spectrum SportsNet LA ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3278699455585448' alt='Mookie Betts X Wallpaper Wednesday    - Spectrum SportsNet LA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1119">
+                                <meta itemprop="height" content="2005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3278699455585448' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts wallpaper      : r/Dodgers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a17wyagl7q951.jpg' alt='Mookie Betts wallpaper      : r/Dodgers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a17wyagl7q951.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mookie Betts Back Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mookie-betts-back-jjes112p3s5mtu2j.jpg' alt='Download Mookie Betts Back Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mookie-betts-back-jjes112p3s5mtu2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mookie Betts On Smokey Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mookie-betts-on-smokey-blue-lkfjru5yodh3okt6.jpg' alt='Mookie Betts On Smokey Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mookie-betts-on-smokey-blue-lkfjru5yodh3okt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/27/e7/1727e7814c44c4c723404a637b0a640c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/27/e7/1727e7814c44c4c723404a637b0a640c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

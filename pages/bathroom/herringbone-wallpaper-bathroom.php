@@ -1,0 +1,129 @@
+<title>Elegant Herringbone Wallpaper for a Stunning Bathroom Makeover</title>
+                    <meta name="description" content="Discover the charm of herringbone wallpaper for your bathroom. Perfect for adding a modern yet classic touch, this design enhances your space’s appeal. Explore various styles and colors that suit your decor while enjoying easy installation. Upgrade your bathroom effortlessly with our herringbone wallpaper selection!">
+                    <meta name="keywords" content="herringbone wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/herringbone-wallpaper-bathroom">
+                            <span itemprop="name">herringbone wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Herringbone Wallpaper for a Stunning Bathroom Makeover</h1>
+                <p>Transform your bathroom with herringbone wallpaper, a stylish choice that adds depth and texture. This pattern, known for its elegance, works wonders in creating a chic ambiance. Easy to install and available in various colors and designs, herringbone wallpaper can rejuvenate your space, making your bathroom feel more inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern delicate herringbone removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Etsy-client-photo-listing-1.jpg?v=1637840116' alt='Modern delicate herringbone removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Etsy-client-photo-listing-1.jpg?v=1637840116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tile Progress • Simple Herringbone Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/10/Wallpaper-IngridMika-Progress-Tile-11-1100x1320.jpg.optimal.jpg' alt='Tile Progress • Simple Herringbone Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/10/Wallpaper-IngridMika-Progress-Tile-11-1100x1320.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erfoni Yellow and White Peel and Stick Wallpaper Modern Herringbone  Wallpaper Bathroom 17.7inch x 393.7inch Geometric Removable Contact Paper  Peel and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZTcOE-fBL._AC_UF894,1000_QL80_.jpg' alt='Erfoni Yellow and White Peel and Stick Wallpaper Modern Herringbone  Wallpaper Bathroom 17.7inch x 393.7inch Geometric Removable Contact Paper  Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZTcOE-fBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 118.1 in Black Chevron Removable Wall Paper Peel ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/819jdL2R+eL.jpg' alt='Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 118.1 in Black Chevron Removable Wall Paper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/819jdL2R+eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochrome Herringbone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/monochrome-herringbone-wallpaper-peel-stick-157856.png?v=1666799201' alt='Monochrome Herringbone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/monochrome-herringbone-wallpaper-peel-stick-157856.png?v=1666799201' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Herringbone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lelandswallpaper.com/wp-content/uploads/2021/04/CV4452-York-Wallcoverings-Waters-Edge-Painted-Herringbone-Trellis-Wallpaper-Green-Room-Setting.jpg' alt='Painted Herringbone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://lelandswallpaper.com/wp-content/uploads/2021/04/CV4452-York-Wallcoverings-Waters-Edge-Painted-Herringbone-Trellis-Wallpaper-Green-Room-Setting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Watercolor Herringbone Tile in Indigo Navy Blue_ Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32109857/r/il/12fccb/4676588620/il_570xN.4676588620_5jwt.jpg' alt='Brushed Watercolor Herringbone Tile in Indigo Navy Blue_ Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32109857/r/il/12fccb/4676588620/il_570xN.4676588620_5jwt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Decorate With Removable Wallpaper: Modern Delicate ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1566/9911/files/Modern-bohemian-powder-room-interior-with-herringbone-removable-wallpaper-and-greenery-decor_2048x2048.jpg?v=1585060866' alt='How To Decorate With Removable Wallpaper: Modern Delicate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1566/9911/files/Modern-bohemian-powder-room-interior-with-herringbone-removable-wallpaper-and-greenery-decor_2048x2048.jpg?v=1585060866' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waterproof Herringbone Peel and Stick Wallpaper for Cabinets ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ijIAAOSwRJ9m3p3G/s-l1200.jpg' alt='Waterproof Herringbone Peel and Stick Wallpaper for Cabinets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ijIAAOSwRJ9m3p3G/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Minimalistic Herringbone Peel and Stick Wallpaper – The ...">
+                                <img itemprop="contentUrl url" src='https://wallpapertailor.com/cdn/shop/products/il_fullxfull.3359641269_giat.jpg?v=1657654495&width=416' alt='Blue Minimalistic Herringbone Peel and Stick Wallpaper – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallpaper Tailor" />
+                                </span>
+                                <a href='https://wallpapertailor.com/cdn/shop/products/il_fullxfull.3359641269_giat.jpg?v=1657654495&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

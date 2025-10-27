@@ -1,0 +1,129 @@
+<title>Enchanting Purple Boho Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover beautiful purple boho wallpaper that elevates your decor with its unique designs and soothing colors. Perfect for creating a chic, cozy ambiance in any room. Explore our collection and transform your space into a bohemian paradise today!">
+                    <meta name="keywords" content="aesthetic purple boho wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/aesthetic-purple-boho-wallpaper">
+                            <span itemprop="name">aesthetic purple boho wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Purple Boho Wallpaper for Your Space</h1>
+                <p>Aesthetic purple boho wallpaper brings a touch of magic and bohemian flair to any space. With intricate patterns, rich hues, and dreamy vibes, it transforms your walls into a serene retreat. Perfect for creating a cozy atmosphere in bedrooms, living rooms, or creative nooks, this wallpaper serves as a canvas for self-expression and artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="images #Photos #Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/3c/bb/0e3cbb4693d40a0d81d747da5541201e.jpg' alt='images #Photos #Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/3c/bb/0e3cbb4693d40a0d81d747da5541201e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/42/27/91/422791d529b59771a54b992dec822b6a.jpg' alt='iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/42/27/91/422791d529b59771a54b992dec822b6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper purple | Purple wallpaper phone, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/1e/a4/1a1ea41724bce6337c80e3b3109bab56.jpg' alt='Aesthetic wallpaper purple | Purple wallpaper phone, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/1e/a4/1a1ea41724bce6337c80e3b3109bab56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by SOH on aesthetic wallpaper | Purple wallpaper iphone, Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/94/58/48945889b32918833138f312c4c3f59c.jpg' alt='Pin by SOH on aesthetic wallpaper | Purple wallpaper iphone, Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/94/58/48945889b32918833138f312c4c3f59c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper purple ios14">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/76/7a/e5767a16aff2375d4ef3af1f9ebb3d93.jpg' alt='Aesthetic wallpaper purple ios14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/76/7a/e5767a16aff2375d4ef3af1f9ebb3d93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with boho rainbows on purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-boho-rainbows-purple-background_106024-400.jpg' alt='Premium Vector | Seamless pattern with boho rainbows on purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-boho-rainbows-purple-background_106024-400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Boho seamless pattern with white flowers and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/boho-seamless-pattern-with-white-flowers-purple-background_197792-920.jpg' alt='Premium Vector | Boho seamless pattern with white flowers and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/boho-seamless-pattern-with-white-flowers-purple-background_197792-920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Boho Wallpapers for Phone | Download Free images | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/c9d45ba660c9af1a66be6c78bf17aa98/UokGuwxSvetmsABaC6KX.jpg?q=70&w=500' alt='Purple Boho Wallpapers for Phone | Download Free images | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/c9d45ba660c9af1a66be6c78bf17aa98/UokGuwxSvetmsABaC6KX.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Peel and Stick wallpaper - Aesthetic Bohemian Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/files/il_fullxfull.5817738810_co59.jpg?v=1713809878&width=1080' alt='Boho Peel and Stick wallpaper - Aesthetic Bohemian Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/files/il_fullxfull.5817738810_co59.jpg?v=1713809878&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Pao Olvera on fondos in 2022 | Iphone wallpaper lights ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/7c/cc/617cccd4a51417f769df3496c1a69115.jpg' alt='Pin by Pao Olvera on fondos in 2022 | Iphone wallpaper lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/7c/cc/617cccd4a51417f769df3496c1a69115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

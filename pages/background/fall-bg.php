@@ -1,0 +1,129 @@
+<title>Stunning Fall Backgrounds for Autumn Vibes</title>
+                    <meta name="description" content="Discover beautiful fall backgrounds perfect for enhancing your devices with autumn's vibrant colors. Embrace the spirit of the season with warm, inviting imagery that captures the essence of fall, making your digital experience cozy and aesthetically pleasing.">
+                    <meta name="keywords" content="fall bg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-bg">
+                            <span itemprop="name">fall bg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall Backgrounds for Autumn Vibes</h1>
+                <p>Fall backgrounds bring the beauty of autumn to life with vibrant hues of red, orange, and gold. Perfect for digital designs, these wallpapers evoke warm feelings, cozy moments, and the essence of the season. Transform your devices with stunning fall imagery and enjoy the crisp, refreshing spirit of autumn all year round.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Photos, Download The BEST Free Autumn Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Autumn Background Photos, Download The BEST Free Autumn Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Images – Browse 12,352,482 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/23/14/76/360_F_223147682_WkiiomIDecSp5LDabGFRUFlLXLxul4K8.jpg' alt='Autumn Background Images – Browse 12,352,482 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/23/14/76/360_F_223147682_WkiiomIDecSp5LDabGFRUFlLXLxul4K8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg' alt='Autumn Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Photos, Download The BEST Free Autumn Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1114896/pexels-photo-1114896.jpeg?cs=srgb&dl=pexels-jplenio-1114896.jpg&fm=jpg' alt='Autumn Background Photos, Download The BEST Free Autumn Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1114896/pexels-photo-1114896.jpeg?cs=srgb&dl=pexels-jplenio-1114896.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/640/598/non_2x/fall-floral-background-free-vector.jpg' alt='Fall Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/640/598/non_2x/fall-floral-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall BG by Magicpawed on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dddec521-9bbc-4c0c-aa23-a62c26645e2a/d6p4nuk-6fa89de4-803f-4f9b-bcf0-acf5e3aaf234.png/v1/fill/w_730,h_1095,q_70,strp/fall_bg_by_magicpawed_d6p4nuk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcL2RkZGVjNTIxLTliYmMtNGMwYy1hYTIzLWE2MmMyNjY0NWUyYVwvZDZwNG51ay02ZmE4OWRlNC04MDNmLTRmOWItYmNmMC1hY2Y1ZTNhYWYyMzQucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.djMFuHb6D5dNIhpr_xiTzPRpMb7ZPOlXl_MIIlylZdI' alt='Fall BG by Magicpawed on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dddec521-9bbc-4c0c-aa23-a62c26645e2a/d6p4nuk-6fa89de4-803f-4f9b-bcf0-acf5e3aaf234.png/v1/fill/w_730,h_1095,q_70,strp/fall_bg_by_magicpawed_d6p4nuk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcL2RkZGVjNTIxLTliYmMtNGMwYy1hYTIzLWE2MmMyNjY0NWUyYVwvZDZwNG51ay02ZmE4OWRlNC04MDNmLTRmOWItYmNmMC1hY2Y1ZTNhYWYyMzQucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.djMFuHb6D5dNIhpr_xiTzPRpMb7ZPOlXl_MIIlylZdI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,942 Autumn Bg Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/fall-foliage-korean-maple-acer-600nw-2056005425.jpg' alt='3,942 Autumn Bg Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/fall-foliage-korean-maple-acer-600nw-2056005425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ Fall Bg Stock Photos, Pictures & Royalty-Free Images - iStock">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418900060/vector/autumn-leaves-bg.jpg?s=612x612&w=0&k=20&c=qgNTKDiUpofgj8Zw-ZQXizVett2Wn87BlSzHn8EH3tc=' alt='6,500+ Fall Bg Stock Photos, Pictures & Royalty-Free Images - iStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418900060/vector/autumn-leaves-bg.jpg?s=612x612&w=0&k=20&c=qgNTKDiUpofgj8Zw-ZQXizVett2Wn87BlSzHn8EH3tc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves Bg High-Res Vector Graphic - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1284905090/vector/autumn-leaves-bg.jpg?s=612x612&w=gi&k=20&c=cE3W0-mCktYWJ3-4kxzOPjO9EprX22BrzBiuMPwjr-0=' alt='Autumn Leaves Bg High-Res Vector Graphic - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1284905090/vector/autumn-leaves-bg.jpg?s=612x612&w=gi&k=20&c=cE3W0-mCktYWJ3-4kxzOPjO9EprX22BrzBiuMPwjr-0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Background" Images – Browse 47,160 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/54/33/97/360_F_454339741_ULFbSQtsennLNf83v3mka14spoif8uoV.jpg' alt='Fall Background" Images – Browse 47,160 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/54/33/97/360_F_454339741_ULFbSQtsennLNf83v3mka14spoif8uoV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

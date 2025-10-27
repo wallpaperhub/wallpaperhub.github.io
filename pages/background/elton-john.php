@@ -1,0 +1,129 @@
+<title>Elton John: A Musical Legend</title>
+                    <meta name="description" content="Discover the life and music of Elton John, the iconic British artist whose songs have defined generations. From his unforgettable performances to his chart-topping hits, explore his impressive legacy and influence in the music world.">
+                    <meta name="keywords" content="elton john">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elton-john">
+                            <span itemprop="name">elton john</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elton John: A Musical Legend</h1>
+                <p>Elton John is a legendary British musician known for his flamboyant style and captivating performances. With hits like "Rocket Man" and "Tiny Dancer," he has sold over 300 million records worldwide. His contributions to music and culture span decades, making him an iconic figure in pop and rock history, celebrated both for his artistry and philanthropy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/640px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg' alt='Elton John - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/640px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/jw_VcwoCzP3tBaqlvy07KnDEyrvvFvWa2h-WMwrp5WAPkFNo9NRSuGiii24Q_o6p1lMBVir0fGY=s900-c-k-c0x00ffffff-no-rj' alt='Elton John - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/jw_VcwoCzP3tBaqlvy07KnDEyrvvFvWa2h-WMwrp5WAPkFNo9NRSuGiii24Q_o6p1lMBVir0fGY=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Elton_John_2011_Shankbone_2_%28cropped%29.JPG/640px-Elton_John_2011_Shankbone_2_%28cropped%29.JPG' alt='Elton John - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Elton_John_2011_Shankbone_2_%28cropped%29.JPG/640px-Elton_John_2011_Shankbone_2_%28cropped%29.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/5041?ops=fit(480%2C480)%2Crun(%22circle%22)' alt='Elton John | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/5041?ops=fit(480%2C480)%2Crun(%22circle%22)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjM3Njk3Nzc4MF5BMl5BanBnXkFtZTgwODMzNjUxMzE@._V1_.jpg' alt='Elton John - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjM3Njk3Nzc4MF5BMl5BanBnXkFtZTgwODMzNjUxMzE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John - If you're getting ready to step into... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1121226909366385' alt='Elton John - If you're getting ready to step into... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1121226909366385' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John Makes the Best of His Quarantine With 'Lockdown Sessions'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2021/10/25A0603-Credit-Gregg-Kemp-1c.jpg?w=1581&h=1054&crop=1' alt='Elton John Makes the Best of His Quarantine With 'Lockdown Sessions''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2021/10/25A0603-Credit-Gregg-Kemp-1c.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John celebrates last show on his farewell tour | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230708220705-02-elton-john-final-concert-070823.jpg?q=w_1110,c_fill' alt='Elton John celebrates last show on his farewell tour | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230708220705-02-elton-john-final-concert-070823.jpg?q=w_1110,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John's husband and children: Inside their family life and ...">
+                                <img itemprop="contentUrl url" src='https://imgs.smoothradio.com/images/137381?width=3000&crop=16_9&signature=khBwGLynQw42L3IsnwH3X0XsIh4=' alt='Elton John's husband and children: Inside their family life and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smooth" />
+                                </span>
+                                <a href='https://imgs.smoothradio.com/images/137381?width=3000&crop=16_9&signature=khBwGLynQw42L3IsnwH3X0XsIh4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elton John Through the Years: His Life in Photos | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2024/04/fetaure-Elton-John-Through-the-Years.jpg?quality=78&strip=all' alt='Elton John Through the Years: His Life in Photos | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2024/04/fetaure-Elton-John-Through-the-Years.jpg?quality=78&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pinterest christmas desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/pinterest-christmas-desktop-wallpaper">
+                            <span itemprop="name">pinterest christmas desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Decorated With Ornaments" by Stocksy Contributor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/ae/66/d5ae66ec3b18b4ff4eda91dbfb5cbeea.jpg' alt='Christmas Tree Decorated With Ornaments" by Stocksy Contributor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/ae/66/d5ae66ec3b18b4ff4eda91dbfb5cbeea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Nautical Christmas Laptop Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/44/12/204412d1d18210d0ee5e5e69013ccfed.jpg' alt='Homemade Nautical Christmas Laptop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/44/12/204412d1d18210d0ee5e5e69013ccfed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas desktop wallpaper (collage) | Christmas desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/83/be/5d83be277851aa13dd05da5a02f1a32b.jpg' alt='Christmas desktop wallpaper (collage) | Christmas desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/83/be/5d83be277851aa13dd05da5a02f1a32b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pinterest christmas backgrounds for computer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/9d/79/269d79f14bad1ea9a2d61d9d7f011173.jpg' alt='pinterest christmas backgrounds for computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/9d/79/269d79f14bad1ea9a2d61d9d7f011173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/3f/65/083f656f1b5fc2b9bbf46ca00174115f.jpg' alt='Christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/3f/65/083f656f1b5fc2b9bbf46ca00174115f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/93/55/e1/9355e1e405a579b5e3b3e3411b74472f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/93/55/e1/9355e1e405a579b5e3b3e3411b74472f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Christmas Wallpaper Ideas : Background for PC/Laptop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/51/42/675142be9ed3a38411631ca72208bd32.jpg' alt='20+ Christmas Wallpaper Ideas : Background for PC/Laptop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/51/42/675142be9ed3a38411631ca72208bd32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Winter and Christmas Wallpaper For Desktops">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/bf/f8/2abff8827012df0a41ebb038be7120e3.jpg' alt='25 Beautiful Winter and Christmas Wallpaper For Desktops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/bf/f8/2abff8827012df0a41ebb038be7120e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="winter wonderland | Christmas wallpaper ipad, Christmas desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/3e/b1/69/3eb169ddc37de0c13f9817d7da865ef9.jpg' alt='winter wonderland | Christmas wallpaper ipad, Christmas desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/3e/b1/69/3eb169ddc37de0c13f9817d7da865ef9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn christmas background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/44/53/85445322aae5a216235366eb94fd82a8.jpg' alt='Free Vector | Hand drawn christmas background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/44/53/85445322aae5a216235366eb94fd82a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

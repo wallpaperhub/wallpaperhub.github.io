@@ -1,0 +1,129 @@
+<title>Dark Purple Peel and Stick Wallpaper: Elegant and Easy Transformation</title>
+                    <meta name="description" content="Add trendy flair to your home with dark purple peel and stick wallpaper. It's hassle-free to apply and remove, making it perfect for any room. Elevate your decor effortlessly with this chic, removable wallpaper option that combines sophistication and convenience for every design enthusiast.">
+                    <meta name="keywords" content="dark purple peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/dark-purple-peel-and-stick-wallpaper">
+                            <span itemprop="name">dark purple peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Purple Peel and Stick Wallpaper: Elegant and Easy Transformation</h1>
+                <p>Transform your space with dark purple peel and stick wallpaper. Ideal for renters and DIY enthusiasts, this stylish wallpaper adds a touch of elegance while allowing for easy removal and repositioning. Whether in a living room or bedroom, its rich hue sets a moody atmosphere that complements any design scheme.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Small Leaf Branches Photo Wallpaper Peel & Stick Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25396604/r/il/655d08/3476644561/il_570xN.3476644561_36it.jpg' alt='Dark Purple Small Leaf Branches Photo Wallpaper Peel & Stick Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25396604/r/il/655d08/3476644561/il_570xN.3476644561_36it.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Dark Purple Peel and Stick Wallpaper Removable Contact Paper for  Countertops Desk Cabinets Walls Moody Wall Paper for Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WuYfvSypL.jpg' alt='Livelynine Dark Purple Peel and Stick Wallpaper Removable Contact Paper for  Countertops Desk Cabinets Walls Moody Wall Paper for Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WuYfvSypL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dark Purple Grunge Retro Style Navy Blue Black Frame Abstract  Stroking Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper  Roll ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71F7SvArjiL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Dark Purple Grunge Retro Style Navy Blue Black Frame Abstract  Stroking Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper  Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71F7SvArjiL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3376621210_4i5p_46f2f37b-48d5-4084-8fb0-8a3b239108c7.jpg?v=1652600897&width=2400' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3376621210_4i5p_46f2f37b-48d5-4084-8fb0-8a3b239108c7.jpg?v=1652600897&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark floral peonies wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800_1100x.jpg?v=1590580783' alt='Dark floral peonies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800_1100x.jpg?v=1590580783' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Wall Mural, Self Adhesive Botanical Leaves Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18351870/r/il/41621c/1743375321/il_570xN.1743375321_l7gj.jpg' alt='Dark Purple Wall Mural, Self Adhesive Botanical Leaves Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18351870/r/il/41621c/1743375321/il_570xN.1743375321_l7gj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark floral peonies wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Dark-floral-mural-removable.jpg?v=1571398510' alt='Dark floral peonies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Dark-floral-mural-removable.jpg?v=1571398510' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_4-min.jpg?v=1739231685&width=1214' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_4-min.jpg?v=1739231685&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3424298427_j7dd_703ee5e7-6e18-4ee2-897f-89c9346f1d0a.jpg?v=1652600895&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

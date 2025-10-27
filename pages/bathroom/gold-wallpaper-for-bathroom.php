@@ -1,0 +1,129 @@
+<title>Gorgeous Gold Wallpaper Ideas for Your Bathroom</title>
+                    <meta name="description" content="Discover the elegance of gold wallpaper for your bathroom! Perfect for adding a touch of luxury and sophistication, our ideas will inspire your next home makeover. Easy to install and maintain, create a stunning space that reflects your style with gold accents. Upgrade your bathroom décor today!">
+                    <meta name="keywords" content="gold wallpaper for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/gold-wallpaper-for-bathroom">
+                            <span itemprop="name">gold wallpaper for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous Gold Wallpaper Ideas for Your Bathroom</h1>
+                <p>Transform your bathroom into a sanctuary with stunning gold wallpaper. The luxurious metallic finish adds elegance and warmth, creating a chic ambiance perfect for relaxation. Easy to apply and maintain, gold wallpaper can refresh old walls without major renovations. Elevate your décor and make a bold statement with this stylish choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Etna Metallic Wallpaper in Greige and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/EtnaMetallic_Greige_Gold_ILW50467_0025_WEB.jpg?v=1719319177' alt='Etna Metallic Wallpaper in Greige and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/EtnaMetallic_Greige_Gold_ILW50467_0025_WEB.jpg?v=1719319177' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_4.png?v=1715201252&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_4.png?v=1715201252&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Chic Gold Wallpapers - Best Ideas for Metallic Gold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gold-wallpaper-15-1500925956.jpg' alt='15 Chic Gold Wallpapers - Best Ideas for Metallic Gold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gold-wallpaper-15-1500925956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Sunset Sand" Wallpaper | Gold, Beige Large Pattern Wall Decor | Luxury  Wall Design">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/Best-Bathroom-Wall-Decor-Large-Patter-Beige-Wallpaper-Design.webp?v=1683054381&width=1214' alt='"Sunset Sand" Wallpaper | Gold, Beige Large Pattern Wall Decor | Luxury  Wall Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/Best-Bathroom-Wall-Decor-Large-Patter-Beige-Wallpaper-Design.webp?v=1683054381&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Powder Room with Gold Metallic Wallpaper and Chair ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/21/9f/50/219f509a7ec01ca6798a31b00a181d9f.jpg' alt='Chinoiserie Powder Room with Gold Metallic Wallpaper and Chair ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="476">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/21/9f/50/219f509a7ec01ca6798a31b00a181d9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Gold and White Wallpaper Peel and Stick Wallpaper Geometric  Contact Paper 17.7inchx118.1inch Gold Wallpaper Stick and Peel Modern  Stripes ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71zUynRmvOL._AC_UF350,350_QL80_.jpg' alt='Jeweluck Gold and White Wallpaper Peel and Stick Wallpaper Geometric  Contact Paper 17.7inchx118.1inch Gold Wallpaper Stick and Peel Modern  Stripes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71zUynRmvOL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom with gold Chinoiserie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/65/47/9e/65479e3754f5c6f77663a103215178df.jpg' alt='Bathroom with gold Chinoiserie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/65/47/9e/65479e3754f5c6f77663a103215178df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and Black Powder Room Wallpaper - Contemporary - Bathroom">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2019/08/05/groundworks-hutch-gold-wallpaper.jpg' alt='Gold and Black Powder Room Wallpaper - Contemporary - Bathroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2019/08/05/groundworks-hutch-gold-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional powder room with blue and gold chinoiserie wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/bathrooms/traditional-powder-room-with-blue-and-gold-chinoiserie-wallpaper-catherine-nguyen-photography-img~2fa10e8a056dbb8e_4-2742-1-e238f12.jpg' alt='Traditional powder room with blue and gold chinoiserie wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/bathrooms/traditional-powder-room-with-blue-and-gold-chinoiserie-wallpaper-catherine-nguyen-photography-img~2fa10e8a056dbb8e_4-2742-1-e238f12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper Ideas to Enhance Your Space | Robern">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e89f_634706bf7c4a40317282b34c_Profiles_Install_9%2520(7).jpeg' alt='Bathroom Wallpaper Ideas to Enhance Your Space | Robern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1930">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robern" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e89f_634706bf7c4a40317282b34c_Profiles_Install_9%2520(7).jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

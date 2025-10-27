@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers at 3840x2160 Resolution</title>
+                    <meta name="description" content="Discover a collection of vibrant 3840x2160 4K wallpapers. Perfect for enhancing your screens with stunning visuals, our selection offers breathtaking images that fit all devices. Upgrade your display today with high-quality wallpapers that embody clarity and style.">
+                    <meta name="keywords" content="3840x2160 wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/3840x2160-wallpaper-4k">
+                            <span itemprop="name">3840x2160 wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers at 3840x2160 Resolution</h1>
+                <p>Explore stunning 3840x2160 4K wallpapers that elevate your screen's aesthetics. With vibrant colors and breathtaking details, these high-resolution images are perfect for desktops, laptops, or smartphones. Transform your device's display and immerse yourself in breathtaking visuals with our curated collection of 4K wallpapers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "3840x2160 Ultra HD 4K Desktop Wallpaper" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/3840x2160-uhd-4k-desktop-z7g53ku4ein7vaiq.jpg' alt='Download "3840x2160 Ultra HD 4K Desktop Wallpaper" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/3840x2160-uhd-4k-desktop-z7g53ku4ein7vaiq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 3840x2160 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/3840x2160-me8yr4lxsd6kyhkm.jpg' alt='200+] 3840x2160 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/3840x2160-me8yr4lxsd6kyhkm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 3840x2160 digital art, horizon, mountains ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/3840x2160/f5d72b/digital-art-horizon-mountains-forest-pinkish.jpg' alt='Download wallpaper 3840x2160 digital art, horizon, mountains ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/3840x2160/f5d72b/digital-art-horizon-mountains-forest-pinkish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 3840x2160 dark night, river, forest, minimal ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/3840x2160/95afc8/dark-night-river-forest-minimal-art.jpg' alt='Download wallpaper 3840x2160 dark night, river, forest, minimal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/3840x2160/95afc8/dark-night-river-forest-minimal-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160 Uhd 4k Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/experience-the-sharpness-and-clarity-of-a-4k-uhd-desktop-uc88j9mya6pyagua.jpg' alt='3840x2160 Uhd 4k Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/experience-the-sharpness-and-clarity-of-a-4k-uhd-desktop-uc88j9mya6pyagua.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160 Wallpaper 4k Nature 3840x2160 Wallpaper Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/3840x2160-wallpaper-4k-nature-600w-1681461163.jpg' alt='3840x2160 Wallpaper 4k Nature 3840x2160 Wallpaper Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/3840x2160-wallpaper-4k-nature-600w-1681461163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best 3840x2160 wallpaper ideas | 4k wallpapers for pc, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/5e/96/0d/5e960d1dee20c50515618f511f7f142d.jpg' alt='9 Best 3840x2160 wallpaper ideas | 4k wallpapers for pc, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/5e/96/0d/5e960d1dee20c50515618f511f7f142d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New-York-City-4K-Ultra-HD-Wallpaper-3840x2160 | Daniel Lakatos ...">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/40757349333_f4ef5348c5_h.jpg' alt='New-York-City-4K-Ultra-HD-Wallpaper-3840x2160 | Daniel Lakatos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/40757349333_f4ef5348c5_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reflection 4k Wallpaper [3840 x 2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/mcIz3gF9lXbMTnUJj_qmkBteEVZDP2TCd5FYmIQNm78.jpg?width=640&crop=smart&auto=webp&s=6202880c3d24af580c68748bc5e1405e5f8dbaf2' alt='Reflection 4k Wallpaper [3840 x 2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/mcIz3gF9lXbMTnUJj_qmkBteEVZDP2TCd5FYmIQNm78.jpg?width=640&crop=smart&auto=webp&s=6202880c3d24af580c68748bc5e1405e5f8dbaf2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K 8K Wallpaper Background | Ultra HD Wallpapers | UHD">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/sunset-mountain-beautiful-digital-art-scenery-183@1@n-thumb.jpg?dl' alt='4K 8K Wallpaper Background | Ultra HD Wallpapers | UHD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.uhdpaper.com" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/sunset-mountain-beautiful-digital-art-scenery-183@1@n-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

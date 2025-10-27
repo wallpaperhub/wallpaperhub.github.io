@@ -1,0 +1,129 @@
+<title>"Stunning White Wood Floor Backgrounds for Your Design Needs"</title>
+                    <meta name="description" content="Discover beautiful white wood floor backgrounds perfect for enhancing your projects. Ideal for photography, design, and decor, these backgrounds create a bright, elegant atmosphere. Optimize your creative work with versatile and inspiring white wood textures that fit any style.">
+                    <meta name="keywords" content="white wood floor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-wood-floor-background">
+                            <span itemprop="name">white wood floor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stunning White Wood Floor Backgrounds for Your Design Needs"</h1>
+                <p>A white wood floor background brings elegance and brightness to any space. Its light hue creates a fresh, airy feel while enhancing the room's natural light. Ideal for photography, design projects, or home decor inspiration, this choice harmonizes with various colors and styles. Perfect for modern and rustic aesthetics alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate White Wood Floor Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/BH1043231DKateWhiteWoodFloorBackdropforPhotography.jpg?v=1672034063' alt='Kate White Wood Floor Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1173">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/BH1043231DKateWhiteWoodFloorBackdropforPhotography.jpg?v=1672034063' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wood Floor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/close-up-rustic-wood-table-surface-with-grain-texture-vintage-style_54178-349.jpg?semt=ais_hybrid' alt='White Wood Floor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/close-up-rustic-wood-table-surface-with-grain-texture-vintage-style_54178-349.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wood Floor Texture Background Stock Photo 1240342168 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/white-wood-floor-texture-background-260nw-1240342168.jpg' alt='White Wood Floor Texture Background Stock Photo 1240342168 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/white-wood-floor-texture-background-260nw-1240342168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate White Wood Floor Backdrop for Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/files/BH1044748DKateWhiteWoodFloorBackdropforPhotography.jpg?v=1683874733' alt='Kate White Wood Floor Backdrop for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/files/BH1044748DKateWhiteWoodFloorBackdropforPhotography.jpg?v=1683874733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="238,258 White Wood Floor Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/white-wall-wood-floor-background-79131512.jpg' alt='238,258 White Wood Floor Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/white-wall-wood-floor-background-79131512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wood Floor Background Textures - FilterGrade">
+                                <img itemprop="contentUrl url" src='https://cdn.filtergrade.com/wp-content/uploads/2019/12/28145952/white-wood-floor-texture-2-scaled.jpg' alt='White Wood Floor Background Textures - FilterGrade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://cdn.filtergrade.com/wp-content/uploads/2019/12/28145952/white-wood-floor-texture-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered White Wood Floor Drop">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/WDF107.jpg?v=1625505849' alt='Weathered White Wood Floor Drop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/WDF107.jpg?v=1625505849' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wood Floors Color Shades Collection - West | Wood">
+                                <img itemprop="contentUrl url" src='https://www.westflooring.com/wp-content/uploads/2019/02/Winter-Beach-Snowdrop-white-wood-floor-on-white-background-600-300x300.jpg' alt='White Wood Floors Color Shades Collection - West | Wood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WEST | WOOD Architectural Surfaces" />
+                                </span>
+                                <a href='https://www.westflooring.com/wp-content/uploads/2019/02/Winter-Beach-Snowdrop-white-wood-floor-on-white-background-600-300x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wall Wood Floor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-rendering-room-empty-white-wood-plank-texture-floor-background-with-copy-space-your-text_599740-1259.jpg?semt=ais_hybrid' alt='White Wall Wood Floor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-rendering-room-empty-white-wood-plank-texture-floor-background-with-copy-space-your-text_599740-1259.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35,800+ White Wood Floor Texture Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1317427168/photo/wooden-background.jpg?s=612x612&w=0&k=20&c=v9LpFEfyvMLqCkd3r0vqdeO5pJSlgeFsgXbwYJq4_cA=' alt='35,800+ White Wood Floor Texture Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1317427168/photo/wooden-background.jpg?s=612x612&w=0&k=20&c=v9LpFEfyvMLqCkd3r0vqdeO5pJSlgeFsgXbwYJq4_cA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

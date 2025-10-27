@@ -1,0 +1,129 @@
+<title>Lego Monkie Kid Phone Wallpapers: Colorful & Fun!</title>
+                    <meta name="description" content="Explore a variety of stunning Lego Monkie Kid wallpapers for your phone! Perfect for fans of the series, these designs will add color and excitement to your device. Download now and celebrate the adventurous spirit of Monkie Kid on your mobile screen!">
+                    <meta name="keywords" content="lego monkie kid wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/lego-monkie-kid-wallpaper-phone">
+                            <span itemprop="name">lego monkie kid wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lego Monkie Kid Phone Wallpapers: Colorful & Fun!</h1>
+                <p>Transform your phone's appearance with vibrant Lego Monkie Kid wallpapers! Featuring colorful characters and epic adventures, these wallpapers will bring your device to life. Perfect for fans of all ages, immerse yourself in the world of Monkie Kid every time you unlock your screen. Discover the magic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Six Eared Macaque Phone Wallpaper (Lego Monkie Kid)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/2b/3d/342b3d420c263cb8268998aceb47fc64.jpg' alt='Six Eared Macaque Phone Wallpaper (Lego Monkie Kid)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/2b/3d/342b3d420c263cb8268998aceb47fc64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wp10802378-lego-monkie-kid-wallpapers by sillyjellybeans on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95c2b3a3-a1cd-4a18-9229-a637a0ab0076/dfxyj9d-883ff131-477a-4f61-9529-e2457db66378.jpg/v1/fill/w_1280,h_2008,q_75,strp/wp10802378_lego_monkie_kid_wallpapers_by_sillyjellybeans_dfxyj9d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwOCIsInBhdGgiOiJcL2ZcLzk1YzJiM2EzLWExY2QtNGExOC05MjI5LWE2MzdhMGFiMDA3NlwvZGZ4eWo5ZC04ODNmZjEzMS00NzdhLTRmNjEtOTUyOS1lMjQ1N2RiNjYzNzguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fY9tXTGFSK8ymY0Wdk-op35FYnXnBzom0FdFHh2e42c' alt='Wp10802378-lego-monkie-kid-wallpapers by sillyjellybeans on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95c2b3a3-a1cd-4a18-9229-a637a0ab0076/dfxyj9d-883ff131-477a-4f61-9529-e2457db66378.jpg/v1/fill/w_1280,h_2008,q_75,strp/wp10802378_lego_monkie_kid_wallpapers_by_sillyjellybeans_dfxyj9d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwOCIsInBhdGgiOiJcL2ZcLzk1YzJiM2EzLWExY2QtNGExOC05MjI5LWE2MzdhMGFiMDA3NlwvZGZ4eWo5ZC04ODNmZjEzMS00NzdhLTRmNjEtOTUyOS1lMjQ1N2RiNjYzNzguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fY9tXTGFSK8ymY0Wdk-op35FYnXnBzom0FdFHh2e42c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rate my monkie kid wallpaper : r/MonkieKid">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-5ie0bbqzbheb1.jpeg?width=841&format=pjpg&auto=webp&s=cd727c699474fa88b1bb961e9cb9600fe2a5868f' alt='Rate my monkie kid wallpaper : r/MonkieKid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-5ie0bbqzbheb1.jpeg?width=841&format=pjpg&auto=webp&s=cd727c699474fa88b1bb961e9cb9600fe2a5868f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/2d/20/962d2049c1425724d2e5949366ea6904.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/2d/20/962d2049c1425724d2e5949366ea6904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rate my monkie kid wallpaper : r/MonkieKid">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-45zhywu5mkeb1.jpeg?width=720&format=pjpg&auto=webp&s=9a99bfd35a1cd50b4947c893792afbda4e223d84' alt='Rate my monkie kid wallpaper : r/MonkieKid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-45zhywu5mkeb1.jpeg?width=720&format=pjpg&auto=webp&s=9a99bfd35a1cd50b4947c893792afbda4e223d84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Lego Monkie Kid - Key Background Paint 2">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/059/954/045/large/efraim-ninsiima-lanterncitytheatreesta0001-design-colour-v001.jpg?1677515320' alt='ArtStation - Lego Monkie Kid - Key Background Paint 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/059/954/045/large/efraim-ninsiima-lanterncitytheatreesta0001-design-colour-v001.jpg?1677515320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lmk wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f2/72/94/f27294d61f719436f6fd5901ab07c437.jpg' alt='Lmk wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f2/72/94/f27294d61f719436f6fd5901ab07c437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rate my monkie kid wallpaper : r/MonkieKid">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-60p4fsy91feb1.jpeg?width=1170&format=pjpg&auto=webp&s=179c07e54ce5dca00d021358a5f435f78e192c75' alt='Rate my monkie kid wallpaper : r/MonkieKid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rate-my-monkie-kid-wallpaper-v0-60p4fsy91feb1.jpeg?width=1170&format=pjpg&auto=webp&s=179c07e54ce5dca00d021358a5f435f78e192c75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MonkieKing Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/34/fa/7534fa926187eafbfe0169c31ce76f1d.jpg' alt='MonkieKing Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/34/fa/7534fa926187eafbfe0169c31ce76f1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego, Lego Monkie Kid, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/245/179/HD-wallpaper-lego-lego-monkie-kid.jpg' alt='Lego, Lego Monkie Kid, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/245/179/HD-wallpaper-lego-lego-monkie-kid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

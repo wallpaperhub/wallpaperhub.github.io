@@ -1,0 +1,129 @@
+<title>Vibrant Preppy Neon Wallpaper for Trendy Spaces</title>
+                    <meta name="description" content="Discover the perfect blend of style and brightness with our preppy neon wallpaper. Ideal for modern interiors, it adds a lively touch to your decor. Transform your space effortlessly with colors that pop! Refresh your walls and express your individuality today.">
+                    <meta name="keywords" content="preppy neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-neon-wallpaper">
+                            <span itemprop="name">preppy neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Preppy Neon Wallpaper for Trendy Spaces</h1>
+                <p>Preppy neon wallpaper adds a vibrant and playful touch to any room. Blending bright colors and classic patterns, it’s perfect for creating a stylish yet relaxed atmosphere. Whether you’re dressing up a bedroom, dorm, or home office, this wallpaper enhances your space while showcasing your personality. Update your decor with a trendy twist today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Neon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/2c/ce/ed2cce51d9d20dbc6990e64a5324540a.jpg' alt='Retro Neon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/2c/ce/ed2cce51d9d20dbc6990e64a5324540a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Colorful Neon iPhone XR Wallpapers | Preppy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/8f/88/548f88ddeeeda6682fac2e7e2e34537c.jpg' alt='15 Colorful Neon iPhone XR Wallpapers | Preppy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/8f/88/548f88ddeeeda6682fac2e7e2e34537c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Aesthetic, Neon Baddie, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/975/HD-wallpaper-preppy-aesthetic-neon-baddie.jpg' alt='Preppy Aesthetic, Neon Baddie, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/975/HD-wallpaper-preppy-aesthetic-neon-baddie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Neon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/33/92/be/3392be3102c5fdbb1b516c85d1b9b6bf.jpg' alt='Preppy Neon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/33/92/be/3392be3102c5fdbb1b516c85d1b9b6bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon pink aesthetic collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' alt='Neon pink aesthetic collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/76/e8/a876e8ed8fda5ea0e6a6a1306c0cdcb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Preppy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/neon-rocket-star-doodle-pattern-background_53876-97232.jpg' alt='Neon Preppy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/neon-rocket-star-doodle-pattern-background_53876-97232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neon aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/526/199/HD-wallpaper-neon-vibes-aesthetics-neon-vibes-thumbnail.jpg' alt='HD neon aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/526/199/HD-wallpaper-neon-vibes-aesthetics-neon-vibes-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Neon Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8452279/p/f/m/VkD_vq_jllmsvIJa7beallKdu0Qjg2O_70lc390m1Bc5-pV-0XfH9lub/Neon%20Reef%20in%20Pink.jpg' alt='Preppy Neon Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8452279/p/f/m/VkD_vq_jllmsvIJa7beallKdu0Qjg2O_70lc390m1Bc5-pV-0XfH9lub/Neon%20Reef%20in%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Neon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/f2/ad/85f2ad5528c1bc3fda9a83ce77fb2a5a.jpg' alt='Preppy Neon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/f2/ad/85f2ad5528c1bc3fda9a83ce77fb2a5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Tropical Summer Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12846089/p/f/m/gA8FNmcK8oseRQpObEs5242jT8RX4c2YkFJbTcoBaXPKhfWxim0Jphc/Fruity%20Boho%20Floral%20in%20Tropical%20Neon.jpg' alt='Neon Tropical Summer Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12846089/p/f/m/gA8FNmcK8oseRQpObEs5242jT8RX4c2YkFJbTcoBaXPKhfWxim0Jphc/Fruity%20Boho%20Floral%20in%20Tropical%20Neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

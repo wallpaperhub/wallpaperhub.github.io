@@ -1,0 +1,129 @@
+<title>Vibrant Keith Haring Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning Keith Haring phone wallpapers that bring his dynamic art to your screen! Perfect for fans of modern art, these vibrant designs add a lively touch to your device without sacrificing style. Download now and transform your mobile experience!">
+                    <meta name="keywords" content="keith haring phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/keith-haring-phone-wallpaper">
+                            <span itemprop="name">keith haring phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Keith Haring Phone Wallpapers for Your Device</h1>
+                <p>Revamp your device with vibrant Keith Haring phone wallpapers! Featuring his iconic street art style, these wallpapers burst with energy and color, bringing a pop of creativity to your screen. Perfect for art lovers and those who appreciate urban culture, these designs will inspire and excite every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="keith haring pink iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/dd/6c/99dd6c82b5f2b3ba0cce51ddee1b88fc.jpg' alt='keith haring pink iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/dd/6c/99dd6c82b5f2b3ba0cce51ddee1b88fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Eyed Face Wallpaper, YP x Keith Haring – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPKHTHREYDFC900.jpg?v=1653409108' alt='Three Eyed Face Wallpaper, YP x Keith Haring – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPKHTHREYDFC900.jpg?v=1653409108' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/30/62/dc3062deacd80abce4330e13707f4e0d.jpg' alt='Keith Haring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/30/62/dc3062deacd80abce4330e13707f4e0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Keith Haring style wallpapers, original art by ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mhd6619oxzq61.png' alt='More Keith Haring style wallpapers, original art by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mhd6619oxzq61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K HD Wallpaper Background - Keith Allen Haring for iPhone and ...">
+                                <img itemprop="contentUrl url" src='http://ttpops.top/cdn/shop/files/7aef96b7eef1a2a082e09231282e080.jpg?v=1707316249' alt='4K HD Wallpaper Background - Keith Allen Haring for iPhone and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ttpop studio" />
+                                </span>
+                                <a href='http://ttpops.top/cdn/shop/files/7aef96b7eef1a2a082e09231282e080.jpg?v=1707316249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Keith Haring style wallpapers, original art by ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iwpii69oxzq61.png' alt='More Keith Haring style wallpapers, original art by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iwpii69oxzq61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4b/40/79/4b4079cc1d88ff1d4a15c16bc1378c29.jpg' alt='Lovu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4b/40/79/4b4079cc1d88ff1d4a15c16bc1378c29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Magnet Wallpaper, YP x Keith Haring – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPKHHRTMGNT000.png?v=1653408640' alt='Heart Magnet Wallpaper, YP x Keith Haring – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1735">
+                                <meta itemprop="height" content="1734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPKHHRTMGNT000.png?v=1653408640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Eyed Face Wallpaper, YP x Keith Haring – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPKHTHREYDFC100.png?v=1653409108&width=350' alt='Three Eyed Face Wallpaper, YP x Keith Haring – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPKHTHREYDFC100.png?v=1653409108&width=350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Keith Haring style wallpapers, original art by ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rdzbs09oxzq61.png' alt='More Keith Haring style wallpapers, original art by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rdzbs09oxzq61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Perfect Photo Op Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover the best photo op backgrounds to elevate your events! From vibrant floral displays to customized themes, create unforgettable snapshots that capture the moment. Ideal for weddings, parties, or corporate gatherings, find ideas that resonate with your style and make every photo count!">
+                    <meta name="keywords" content="photo op background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-op-background">
+                            <span itemprop="name">photo op background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Photo Op Backgrounds for Every Occasion</h1>
+                <p>A photo op background can transform any snapshot into a memorable moment. Whether you're at a wedding, party, or corporate event, selecting vibrant and thematic backdrops enhances the visual appeal. Consider options like floral walls, cityscapes, or personalized graphics to engage guests and capture the essence of the occasion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step and Repeat Backdrops for Event Photo Ops | Full Color, 8x6 | 8x8  Backdrop, Backdrop Banner, Backdrop Printing, cheap custom backdrops,  Custom ...">
+                                <img itemprop="contentUrl url" src='https://www.signartetc.com/v/vspfiles/photos/SAR86D-2.jpg' alt='Step and Repeat Backdrops for Event Photo Ops | Full Color, 8x6 | 8x8  Backdrop, Backdrop Banner, Backdrop Printing, cheap custom backdrops,  Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sign Art Etc" />
+                                </span>
+                                <a href='https://www.signartetc.com/v/vspfiles/photos/SAR86D-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon City Photo Op Backdrop Kit">
+                                <img itemprop="contentUrl url" src='https://cdn.andersons.com/-/media/Products/hs/themes/props-and-kit-separates/other-kits-and-props/20s22-neon-city-photo-op-backdrop-kit-000.ashx' alt='Neon City Photo Op Backdrop Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anderson's" />
+                                </span>
+                                <a href='https://cdn.andersons.com/-/media/Products/hs/themes/props-and-kit-separates/other-kits-and-props/20s22-neon-city-photo-op-backdrop-kit-000.ashx' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Trade Shows Backdrops Custom Promotional Events Backdrop ...">
+                                <img itemprop="contentUrl url" src='http://www.ibackdrop.com/cdn/shop/products/TR0001-1_c83a2573-f860-4dcf-be5e-ca65391f85e4_grande.jpg?v=1627628516' alt='Custom Trade Shows Backdrops Custom Promotional Events Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='http://www.ibackdrop.com/cdn/shop/products/TR0001-1_c83a2573-f860-4dcf-be5e-ca65391f85e4_grande.jpg?v=1627628516' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Op Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/4e/71/924e711584ba7e23e8948c69a6aa2436.jpg' alt='Photo Op Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/4e/71/924e711584ba7e23e8948c69a6aa2436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Carpet Photo Op Background | Infinite Closet: Neopets ...">
+                                <img itemprop="contentUrl url" src='https://impress-2020.openneo.net/api/assetImage?libraryUrl=https%3A%2F%2Fimages.neopets.com%2Fcp%2Fitems%2Fdata%2F000%2F000%2F604%2F604283_47c1276ff2%2Fall-background.js&size=600' alt='Red Carpet Photo Op Background | Infinite Closet: Neopets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dress to Impress" />
+                                </span>
+                                <a href='https://impress-2020.openneo.net/api/assetImage?libraryUrl=https%3A%2F%2Fimages.neopets.com%2Fcp%2Fitems%2Fdata%2F000%2F000%2F604%2F604283_47c1276ff2%2Fall-background.js&size=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bioreconstruct on X: "Long Hollywood press event style photo op ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DRMUV9SW0AAbsU7.jpg:large' alt='bioreconstruct on X: "Long Hollywood press event style photo op ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DRMUV9SW0AAbsU7.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360º Selfie Photo Op">
+                                <img itemprop="contentUrl url" src='https://cdn.andersons.com/-/media/Products/hs/themes/photo-booth-themes-and-props/photo-booth-themes-and-backdrops/s4j-360-1-4-selfie-photo-op-000.ashx?bc=FFFFFF&w=540&h=540' alt='360º Selfie Photo Op'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anderson's" />
+                                </span>
+                                <a href='https://cdn.andersons.com/-/media/Products/hs/themes/photo-booth-themes-and-props/photo-booth-themes-and-backdrops/s4j-360-1-4-selfie-photo-op-000.ashx?bc=FFFFFF&w=540&h=540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To - DIY Photo Op Background">
+                                <img itemprop="contentUrl url" src='https://hallmark.brightspotcdn.com/dims4/default/8161e45/2147483647/strip/true/crop/3000x2000+0+0/resize/960x640!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F6b%2Fb4%2F67a603a3d941759623ecf05e5e30%2Fhome-family-diy-photo-op-background.jpg' alt='How To - DIY Photo Op Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallmark Channel" />
+                                </span>
+                                <a href='https://hallmark.brightspotcdn.com/dims4/default/8161e45/2147483647/strip/true/crop/3000x2000+0+0/resize/960x640!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F6b%2Fb4%2F67a603a3d941759623ecf05e5e30%2Fhome-family-diy-photo-op-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Op Art Background Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/5/0/2/large1500/205929604.jpg' alt='Op Art Background Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/5/0/2/large1500/205929604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To - DIY Photo Op Background">
+                                <img itemprop="contentUrl url" src='https://hallmark.brightspotcdn.com/6b/ae/0616b526977f0742b09fb3ef9639/vs-20010.jpg' alt='How To - DIY Photo Op Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallmark Channel" />
+                                </span>
+                                <a href='https://hallmark.brightspotcdn.com/6b/ae/0616b526977f0742b09fb3ef9639/vs-20010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

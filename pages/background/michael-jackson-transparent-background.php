@@ -1,0 +1,129 @@
+<title>Michael Jackson Transparent Background Images</title>
+                    <meta name="description" content="Discover high-quality transparent background images of Michael Jackson for your creative projects. Perfect for wallpapers, graphics, and more, these images celebrate the King of Pop's iconic style in a versatile format. Enhance your designs effortlessly with these unique MJ visuals today!">
+                    <meta name="keywords" content="michael jackson transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/michael-jackson-transparent-background">
+                            <span itemprop="name">michael jackson transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Michael Jackson Transparent Background Images</h1>
+                <p>Michael Jackson's transparent background images are perfect for creative projects, allowing fans to incorporate the King of Pop's iconic look into their designs. Whether for wallpapers, digital art, or personal use, these high-quality images capture his legendary style, making them a must-have for any MJ enthusiast.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 473x632px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG45.png' alt='Michael Jackson PNG transparent image download, size: 473x632px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG45.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 615x674px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG46.png' alt='Michael Jackson PNG transparent image download, size: 615x674px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG46.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 1024x1511px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG39.png' alt='Michael Jackson PNG transparent image download, size: 1024x1511px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG39.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 1920x1920px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG65.png' alt='Michael Jackson PNG transparent image download, size: 1920x1920px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG65.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 546x916px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG14.png' alt='Michael Jackson PNG transparent image download, size: 546x916px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael jackson png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/137/256/png-clipart-michael-jackson-michael-jackson.png' alt='Michael jackson png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/137/256/png-clipart-michael-jackson-michael-jackson.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG transparent image download, size: 300x513px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/michael_jackson_PNG10.png' alt='Michael Jackson PNG transparent image download, size: 300x513px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/michael_jackson_PNG10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Bad Michael Jackson transparent PNG - StickPNG - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/350/bad-michael-jackson-transparent-png-stickpng--comdlpng6948155.jpg' alt='Free: Bad Michael Jackson transparent PNG - StickPNG - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="262">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/350/bad-michael-jackson-transparent-png-stickpng--comdlpng6948155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MICHAEL JACKSON KING OF POP PNG TRANSPARENT 2 by Deadnie1 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/164d5514-ad89-4d7f-8438-fe278685c626/dgc8lgk-c7fd902a-d46d-4b63-9f07-007924cb8b0e.png/v1/fill/w_894,h_894/michael_jackson_king_of_pop_png_transparent_2_by_deadnie1_dgc8lgk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzE2NGQ1NTE0LWFkODktNGQ3Zi04NDM4LWZlMjc4Njg1YzYyNlwvZGdjOGxnay1jN2ZkOTAyYS1kNDZkLTRiNjMtOWYwNy0wMDc5MjRjYjhiMGUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6BjihK1TKkmir8iu6sdjrwzmskQpCWeb9vuXYSHkuKY' alt='MICHAEL JACKSON KING OF POP PNG TRANSPARENT 2 by Deadnie1 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/164d5514-ad89-4d7f-8438-fe278685c626/dgc8lgk-c7fd902a-d46d-4b63-9f07-007924cb8b0e.png/v1/fill/w_894,h_894/michael_jackson_king_of_pop_png_transparent_2_by_deadnie1_dgc8lgk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzE2NGQ1NTE0LWFkODktNGQ3Zi04NDM4LWZlMjc4Njg1YzYyNlwvZGdjOGxnay1jN2ZkOTAyYS1kNDZkLTRiNjMtOWYwNy0wMDc5MjRjYjhiMGUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6BjihK1TKkmir8iu6sdjrwzmskQpCWeb9vuXYSHkuKY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jackson PNG image with transparent background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d3/ab/80/d3ab80ca0cbd52a0f058fc329aec7ca1.jpg' alt='Michael Jackson PNG image with transparent background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d3/ab/80/d3ab80ca0cbd52a0f058fc329aec7ca1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

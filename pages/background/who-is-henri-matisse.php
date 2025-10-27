@@ -1,0 +1,129 @@
+<title>Who is Henri Matisse? Discover the Fauvist Master</title>
+                    <meta name="description" content="Explore the life and legacy of Henri Matisse, the French artist renowned for his colorful Fauvist style. Learn about his impactful works and artistic innovations that continue to influence the art world today.">
+                    <meta name="keywords" content="who is henri matisse">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-is-henri-matisse">
+                            <span itemprop="name">who is henri matisse</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who is Henri Matisse? Discover the Fauvist Master</h1>
+                <p>Henri Matisse (1869-1954) was a French artist known for his vibrant use of color and innovative techniques in painting, drawing, and sculpture. A leading figure of Fauvism, he emphasized bold, expressive forms, capturing emotion through color. Matisse's works, such as "The Dance" and "Woman with a Hat," remain influential in modern art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse | Biography, Art Style, Paintings, Prints, & Collage ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/23/189523-050-214F59F1/Henri-Matisse-photograph-Alvin-Langdon-Coburn-1913.jpg' alt='Henri Matisse | Biography, Art Style, Paintings, Prints, & Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1052">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/23/189523-050-214F59F1/Henri-Matisse-photograph-Alvin-Langdon-Coburn-1913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse - Paintings, Artworks & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517318552.jpg' alt='Henri Matisse - Paintings, Artworks & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517318552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse | Biography, Art Style, Paintings, Prints, & Collage ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/84/175684-050-924BB01D/Henri-Matisse-photograph-Carl-Van-Vechten.jpg' alt='Henri Matisse | Biography, Art Style, Paintings, Prints, & Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/84/175684-050-924BB01D/Henri-Matisse-photograph-Carl-Van-Vechten.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse - Ordovas">
+                                <img itemprop="contentUrl url" src='https://www.ordovasart.com/cms/wp-content/uploads/Henri-Matisse1.jpg' alt='Henri Matisse - Ordovas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ordovas" />
+                                </span>
+                                <a href='https://www.ordovasart.com/cms/wp-content/uploads/Henri-Matisse1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse - Paintings, Artworks & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517318552.jpg?crop=1xw:0.5625xh;center,top&resize=1200:*' alt='Henri Matisse - Paintings, Artworks & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517318552.jpg?crop=1xw:0.5625xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MoMA | Henri Matisse: About Matisse">
+                                <img itemprop="contentUrl url" src='https://www.moma.org/interactives/exhibitions/2014/matisse/img/about/matisse.jpg' alt='MoMA | Henri Matisse: About Matisse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MoMA" />
+                                </span>
+                                <a href='https://www.moma.org/interactives/exhibitions/2014/matisse/img/about/matisse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was Henri Matisse? Why is His Artwork Important?">
+                                <img itemprop="contentUrl url" src='https://www.artnews.com/wp-content/uploads/2022/04/AP5410070196-e1651179503231.jpg?w=2000' alt='Who Was Henri Matisse? Why is His Artwork Important?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARTnews.com" />
+                                </span>
+                                <a href='https://www.artnews.com/wp-content/uploads/2022/04/AP5410070196-e1651179503231.jpg?w=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse - the great French Fauve painter and colourist">
+                                <img itemprop="contentUrl url" src='https://arthistoryschool.com/wp-content/uploads/2022/07/Henri-Matisse.jpg' alt='Henri Matisse - the great French Fauve painter and colourist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art History School" />
+                                </span>
+                                <a href='https://arthistoryschool.com/wp-content/uploads/2022/07/Henri-Matisse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse - Park West Gallery">
+                                <img itemprop="contentUrl url" src='https://www.parkwestgallery.com/wp-content/uploads/2013/05/henri-matisse-e1378485555910.jpg' alt='Henri Matisse - Park West Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="215">
+                                <meta itemprop="height" content="215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Park West Gallery" />
+                                </span>
+                                <a href='https://www.parkwestgallery.com/wp-content/uploads/2013/05/henri-matisse-e1378485555910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse on How to Be an Artist | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQit9Dyj6FQBBbNZa91DTpg%2Fnormalized.jpg&width=450' alt='Henri Matisse on How to Be an Artist | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQit9Dyj6FQBBbNZa91DTpg%2Fnormalized.jpg&width=450' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

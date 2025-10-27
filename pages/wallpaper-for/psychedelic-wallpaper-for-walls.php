@@ -1,0 +1,129 @@
+<title>Psychedelic Wallpaper: Transform Your Walls with Colorful Designs</title>
+                    <meta name="description" content="Discover the magic of psychedelic wallpaper! Perfect for adding a burst of color and creativity to any space, these wallpapers feature intricate patterns and vibrant hues that inspire imagination. Elevate your home decor with unique designs that make a bold statement. Transform your walls today!">
+                    <meta name="keywords" content="psychedelic wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/psychedelic-wallpaper-for-walls">
+                            <span itemprop="name">psychedelic wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Psychedelic Wallpaper: Transform Your Walls with Colorful Designs</h1>
+                <p>Psychedelic wallpaper transforms ordinary walls into vibrant visual experiences, bursting with color and intricate patterns. Ideal for creative spaces, it inspires imagination while adding a modern touch to any room. From swirling designs to kaleidoscopic colors, this wallpaper invites curiosity and makes a bold statement, perfect for personalizing your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Colorful Psychedelic Seamless Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719ZwEW3fAL.jpg' alt='Abstract Colorful Psychedelic Seamless Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719ZwEW3fAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fluid Soap Bubble Abstract Psychedelic Colorful Rainbows Interior ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40962208/r/il/20643f/5379778220/il_fullxfull.5379778220_xpnf.jpg' alt='Fluid Soap Bubble Abstract Psychedelic Colorful Rainbows Interior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40962208/r/il/20643f/5379778220/il_fullxfull.5379778220_xpnf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Psychedelic Marble Peel & Stick Wallpaper Removable Self-Adhesive  Large Wallpaper Roll Wall Mural Sticker Home Decor for Living Room Bedroom">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7125qzBkNoL.jpg' alt='Colorful Psychedelic Marble Peel & Stick Wallpaper Removable Self-Adhesive  Large Wallpaper Roll Wall Mural Sticker Home Decor for Living Room Bedroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7125qzBkNoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Psychedelic Wallpaper | Lust Home">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0268/0307/7299/products/LH900403_MaryJane_RainbowBrights_0309_WEB_350x.jpg?v=1663159889' alt='Trippy Psychedelic Wallpaper | Lust Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lust Home" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0268/0307/7299/products/LH900403_MaryJane_RainbowBrights_0309_WEB_350x.jpg?v=1663159889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSYCHEDELIC Wallpaper - Wallpaper - Products">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/p/s/psychedelic-wp20383_1.jpg' alt='PSYCHEDELIC Wallpaper - Wallpaper - Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/p/s/psychedelic-wp20383_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Removable Vinyl Mural / Peel and Stick Psychedelic Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21403697/r/il/60829c/6103839396/il_fullxfull.6103839396_8t7s.jpg' alt='Groovy Removable Vinyl Mural / Peel and Stick Psychedelic Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21403697/r/il/60829c/6103839396/il_fullxfull.6103839396_8t7s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="an Abstract Wavy Psychedelic Image Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sNRqWnG7L.jpg' alt='an Abstract Wavy Psychedelic Image Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sNRqWnG7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Trippy Psychedelic Wall Mural Ideas | Muralunique">
+                                <img itemprop="contentUrl url" src='https://www.muralunique.com/wp-content/uploads/2022/09/paisley-pattern-psychedelic-1.jpg' alt='5 Trippy Psychedelic Wall Mural Ideas | Muralunique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralunique" />
+                                </span>
+                                <a href='https://www.muralunique.com/wp-content/uploads/2022/09/paisley-pattern-psychedelic-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Keys">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/309850/pr22/1/1280/psychedelic-keys-colourful-psychedelic-keys.jpg' alt='Psychedelic Keys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/309850/pr22/1/1280/psychedelic-keys-colourful-psychedelic-keys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Chess, Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1678779299/articles/R19478_interior1.jpg' alt='Psychedelic Chess, Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1678779299/articles/R19478_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

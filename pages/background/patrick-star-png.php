@@ -1,0 +1,129 @@
+<title>Patrick Star PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Find top-quality Patrick Star PNG images for your creative needs! Perfect for designs, memes, and more, our vibrant collection is ready for easy download. Enhance your projects with these fun and engaging graphics today!">
+                    <meta name="keywords" content="patrick star png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/patrick-star-png">
+                            <span itemprop="name">patrick star png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Patrick Star PNG Images for Your Creative Projects</h1>
+                <p>Discover a vibrant collection of Patrick Star PNG images perfect for your projects! Whether you're designing graphics, creating memes, or enhancing presentations, these high-quality images of the beloved starfish from SpongeBob SquarePants are easily downloadable and can add a playful touch to any design. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png' alt='Patrick Star - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Png by steamy2021 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b109830-ee08-48d4-92d6-3a1fa5a5a58f/dhz49w5-84edd1a4-ccde-4027-8b57-3b642583fe0e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA5ODMwLWVlMDgtNDhkNC05MmQ2LTNhMWZhNWE1YTU4ZlwvZGh6NDl3NS04NGVkZDFhNC1jY2RlLTQwMjctOGI1Ny0zYjY0MjU4M2ZlMGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.awG9vxrRmMeMSapIjt4q6t6Mv50_kMZIsZvtN7NulCA' alt='Patrick Star Png by steamy2021 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b109830-ee08-48d4-92d6-3a1fa5a5a58f/dhz49w5-84edd1a4-ccde-4027-8b57-3b642583fe0e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA5ODMwLWVlMDgtNDhkNC05MmQ2LTNhMWZhNWE1YTU4ZlwvZGh6NDl3NS04NGVkZDFhNC1jY2RlLTQwMjctOGI1Ny0zYjY0MjU4M2ZlMGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.awG9vxrRmMeMSapIjt4q6t6Mv50_kMZIsZvtN7NulCA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Saint Patrick's Day PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/25/e1/3225e173abc61af55252e25305ea3628.jpg' alt='Patrick Star Saint Patrick's Day PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/25/e1/3225e173abc61af55252e25305ea3628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/20/477/png-clipart-patrick-the-starfish-sticker-patrick-star-mr-krabs-stationery-picsart-studio-st-patrick-miscellaneous-food-thumbnail.png' alt='Patrick png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/20/477/png-clipart-patrick-the-starfish-sticker-patrick-star-mr-krabs-stationery-picsart-studio-st-patrick-miscellaneous-food-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Happy Patrick Star Cartoon | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-patrick-star-cartoon-5m8vbfpx28dvhywg.jpg' alt='Download Happy Patrick Star Cartoon | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-patrick-star-cartoon-5m8vbfpx28dvhywg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/0e/3f/ee0e3f326e02a366b51caa30368bfcf5.jpg' alt='Patrick Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/0e/3f/ee0e3f326e02a366b51caa30368bfcf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star | Encyclopedia SpongeBobia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20210812083708' alt='Patrick Star | Encyclopedia SpongeBobia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20210812083708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Png - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36471220/r/il/d542d4/6626694194/il_fullxfull.6626694194_bsih.jpg' alt='Patrick Star Png - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36471220/r/il/d542d4/6626694194/il_fullxfull.6626694194_bsih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mademark x SpongeBob SquarePants Patrick Star Feelin Cute PNG Download">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/7340/1703140615_MademarkxSpongeBobSquarePantsPatrickStarFeelinCutePNGDownload.jpg' alt='Mademark x SpongeBob SquarePants Patrick Star Feelin Cute PNG Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2900">
+                                <meta itemprop="height" content="2900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/7340/1703140615_MademarkxSpongeBobSquarePantsPatrickStarFeelinCutePNGDownload.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/857/405/png-clipart-the-ultimate-patrick-star-thumbnail.png' alt='Patrick Star png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/857/405/png-clipart-the-ultimate-patrick-star-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

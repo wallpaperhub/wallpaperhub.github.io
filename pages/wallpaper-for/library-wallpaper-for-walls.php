@@ -1,0 +1,129 @@
+<title>Library Wallpaper: Transform Your Walls with Literary Elegance</title>
+                    <meta name="description" content="Discover the charm of library wallpaper for your walls! Our collection features designs that celebrate books and reading, adding a touch of elegance to any space. Perfect for home libraries, offices, or cozy corners, these wallpapers create an inviting atmosphere for every book lover.">
+                    <meta name="keywords" content="library wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/library-wallpaper-for-walls">
+                            <span itemprop="name">library wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Library Wallpaper: Transform Your Walls with Literary Elegance</h1>
+                <p>Transform your space with stunning library wallpaper designed for walls. Perfect for book lovers, these wallpapers create an immersive reading experience and add sophistication to any room. Choose from classic literary designs, modern graphics, or cozy book-inspired patterns to bring the warmth of a library into your home or office.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Library">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1662715271/articles/R19133_interior1.jpg' alt='Vintage Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1662715271/articles/R19133_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Library Wallpaper in Cream – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ILW072_ModernLibrary_Cream_Roomset_WEB.webp?crop=center&height=850&v=1706004358&width=850' alt='Modern Library Wallpaper in Cream – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ILW072_ModernLibrary_Cream_Roomset_WEB.webp?crop=center&height=850&v=1706004358&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookshelfs Mural Reading Room Wallpaper Books Library Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21567594/r/il/0837e7/3169243115/il_570xN.3169243115_780o.jpg' alt='Bookshelfs Mural Reading Room Wallpaper Books Library Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21567594/r/il/0837e7/3169243115/il_570xN.3169243115_780o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo's Library Wallpaper">
+                                <img itemprop="contentUrl url" src='http://anewall.com/cdn/shop/products/leos-library-mural-wallpaper_1200x1200.jpg?v=1561242432' alt='Leo's Library Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='http://anewall.com/cdn/shop/products/leos-library-mural-wallpaper_1200x1200.jpg?v=1561242432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Books Wallpaper, Library Wall Mural, A Lot of Books, Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15486500/r/il/ec258c/3151947144/il_fullxfull.3151947144_oq8v.jpg' alt='Old Books Wallpaper, Library Wall Mural, A Lot of Books, Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15486500/r/il/ec258c/3151947144/il_fullxfull.3151947144_oq8v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Library Wallpapers - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/Sekel-05-mobile.jpg?w=400&h=400&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzMxNTgzLzMxNTgzLTMwOS0zMzc2eDMzNzZmNGZmNDI0YzkwYTVmNmY4OWU5NDViZmU1OGZjNmU5Zi5qcGc_dz00MDAmcT05OSZibGVuZC1hbHBoYT0xJmJsZW5kLWNvbG9yPTAwMDAwMCZicmk9NiZzYXQ9MTA%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9TZWtlbC0wNS1tb2JpbGUucG5nP3c9NDAwJmg9NDAwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' alt='Library Wallpapers - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/Sekel-05-mobile.jpg?w=400&h=400&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzMxNTgzLzMxNTgzLTMwOS0zMzc2eDMzNzZmNGZmNDI0YzkwYTVmNmY4OWU5NDViZmU1OGZjNmU5Zi5qcGc_dz00MDAmcT05OSZibGVuZC1hbHBoYT0xJmJsZW5kLWNvbG9yPTAwMDAwMCZicmk9NiZzYXQ9MTA%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9TZWtlbC0wNS1tb2JpbGUucG5nP3c9NDAwJmg9NDAwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyFun Faux Vintage Bookshelf Wallpaper Peel and Stick PVC Removable, School  Library Antique Bookcase DIY Wall Sticker - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61g+vMFIbtL.jpg' alt='MyFun Faux Vintage Bookshelf Wallpaper Peel and Stick PVC Removable, School  Library Antique Bookcase DIY Wall Sticker - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61g+vMFIbtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Library Wallpaper in White">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ModernLibrary_White_ILW071_Roomset_WEB.webp?crop=center&height=1024&v=1706004368&width=1024' alt='Modern Library Wallpaper in White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ModernLibrary_White_ILW071_Roomset_WEB.webp?crop=center&height=1024&v=1706004368&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookshelf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Bookshelf-1.jpg' alt='Bookshelf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Bookshelf-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Library Peel & Stick Mural">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/files/RMK12806M_Room.jpg?v=1720185317' alt='Library Peel & Stick Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/files/RMK12806M_Room.jpg?v=1720185317' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

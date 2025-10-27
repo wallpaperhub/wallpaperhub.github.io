@@ -1,0 +1,129 @@
+<title>Download Bloodborne PC Wallpapers - Stunning HD Themes</title>
+                    <meta name="description" content="Explore a fantastic collection of Bloodborne PC wallpapers designed to enhance your gaming setup. Discover high-quality images featuring iconic characters and chilling environments from the beloved RPG. Perfect for fans looking to personalize their desktop with dark, atmospheric art. Download now!">
+                    <meta name="keywords" content="bloodborne pc wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/bloodborne-pc-wallpaper">
+                            <span itemprop="name">bloodborne pc wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Bloodborne PC Wallpapers - Stunning HD Themes</h1>
+                <p>Transform your desktop with stunning Bloodborne PC wallpapers that capture the eerie beauty of Yharnam. From haunting landscapes to fearsome beasts, these high-resolution images are perfect for fans of this gothic horror RPG. Elevate your gaming experience and immerse yourself in the dark, atmospheric world of Bloodborne.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Bloodborne-PS4-Wallpaper-46.jpg' alt='Bloodborne Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Bloodborne-PS4-Wallpaper-46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bloodborne Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-bloodborne-romance-art-8wsevrbzz9biwrw1.jpg' alt='100+] Bloodborne Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="823">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-bloodborne-romance-art-8wsevrbzz9biwrw1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne HD Wallpaper: A Haunting Journey Awaits">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/130/1305260.jpeg' alt='Bloodborne HD Wallpaper: A Haunting Journey Awaits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/130/1305260.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My desktop wallpaper. I love the composition, I took the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pjrq8vy99vl71.jpg' alt='My desktop wallpaper. I love the composition, I took the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pjrq8vy99vl71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne's Flaws Are Part Of What Make It So Special">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-02-dec-2024-04-18-pm-9395.jpg' alt='Bloodborne's Flaws Are Part Of What Make It So Special'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-02-dec-2024-04-18-pm-9395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne PC Remaster Mod V0.87 Available for Download">
+                                <img itemprop="contentUrl url" src='https://www.dsogaming.com/wp-content/uploads/2024/11/Bloodborne-feature-2-672x372.jpg' alt='Bloodborne PC Remaster Mod V0.87 Available for Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DSOGaming" />
+                                </span>
+                                <a href='https://www.dsogaming.com/wp-content/uploads/2024/11/Bloodborne-feature-2-672x372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne Gothic City - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/548/548706.jpg' alt='Bloodborne Gothic City - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/548/548706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne Game Wallpaper, HD Games 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/bloodborne-game_a2tnaWyUmZqaraWkpJRobWllrWdobWY.jpg' alt='Bloodborne Game Wallpaper, HD Games 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/bloodborne-game_a2tnaWyUmZqaraWkpJRobWllrWdobWY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Bloodborne Remaster on PC Isn't What Fans Actually Need">
+                                <img itemprop="contentUrl url" src='https://www.escapistmagazine.com/wp-content/uploads/2023/11/Bloodborne-PC-Not-Needed.jpg?fit=1200%2C663' alt='A Bloodborne Remaster on PC Isn't What Fans Actually Need'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Escapist Magazine" />
+                                </span>
+                                <a href='https://www.escapistmagazine.com/wp-content/uploads/2023/11/Bloodborne-PC-Not-Needed.jpg?fit=1200%2C663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Maria in Bloodborne - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/641/641193.jpg' alt='Lady Maria in Bloodborne - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6083">
+                                <meta itemprop="height" content="3802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/641/641193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

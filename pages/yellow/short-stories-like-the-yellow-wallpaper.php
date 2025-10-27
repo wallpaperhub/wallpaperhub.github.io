@@ -1,0 +1,129 @@
+<title>Discover Short Stories Like The Yellow Wallpaper</title>
+                    <meta name="description" content="Explore captivating short stories that mirror the haunting themes of "The Yellow Wallpaper." Delve into narratives that address mental health, isolation, and societal influences, perfect for readers seeking psychological depth and emotional resonance. Dive into these powerful tales today!">
+                    <meta name="keywords" content="short stories like the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/short-stories-like-the-yellow-wallpaper">
+                            <span itemprop="name">short stories like the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Short Stories Like The Yellow Wallpaper</h1>
+                <p>Explore chilling narratives that echo the themes of isolation and mental health, akin to "The Yellow Wallpaper." Discover powerful short stories that delve into the psyche, self-identity, and societal constraints. These tales captivate and provoke thought, making them essential reads for those intrigued by psychological depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Books like The Yellow Wallpaper by Charlotte Perkins Gilman">
+                                <img itemprop="contentUrl url" src='https://assets.meetnewbooks.com/docImage/91929_the_yellow_wallpaper-doc-image.webp' alt='Books like The Yellow Wallpaper by Charlotte Perkins Gilman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meet New Books" />
+                                </span>
+                                <a href='https://assets.meetnewbooks.com/docImage/91929_the_yellow_wallpaper-doc-image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper & Other Stories: Gilman, Charlotte Perkins: 9781788881159:  Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MEgu23qjL.jpg' alt='Yellow Wallpaper & Other Stories: Gilman, Charlotte Perkins: 9781788881159:  Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1524">
+                                <meta itemprop="height" content="2339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MEgu23qjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper and Other Stories by Charlotte Perkins Gilman ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300.jpg' alt='The Yellow Wallpaper and Other Stories by Charlotte Perkins Gilman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="244">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Project Gutenberg">
+                                <img itemprop="contentUrl url" src='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' alt='The Yellow Wallpaper | Project Gutenberg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Gutenberg" />
+                                </span>
+                                <a href='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Short Story by Charlotte Perkins Gilman See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91DJxOSO4rL._UF1000,1000_QL80_.jpg' alt='The Yellow Wallpaper: Short Story by Charlotte Perkins Gilman See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91DJxOSO4rL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman Did More Than Write One Classic Short ...">
+                                <img itemprop="contentUrl url" src='https://www.neh.gov/sites/default/files/styles/1000x1000_square/public/2022-09/2022-Fall_web-images_Perkins-Gilman_42.jpg?h=8b9ba458&itok=PuH91xfT' alt='Charlotte Perkins Gilman Did More Than Write One Classic Short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Humanities" />
+                                </span>
+                                <a href='https://www.neh.gov/sites/default/files/styles/1000x1000_square/public/2022-09/2022-Fall_web-images_Perkins-Gilman_42.jpg?h=8b9ba458&itok=PuH91xfT' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:470/1*n6Dbw8pJQNPt_SvjoayF2Q@2x.jpeg' alt='The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:470/1*n6Dbw8pJQNPt_SvjoayF2Q@2x.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fuel] The Yellow Wallpaper (a short story) : r/SCP">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/poR-bos9xd6gexZHg5PQredQriBhQfl3qu4uKGYjQm8.jpg?auto=webp&s=2655fcb74e899cf07f2fbcacb746b3d3252e6fae' alt='Fuel] The Yellow Wallpaper (a short story) : r/SCP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/poR-bos9xd6gexZHg5PQredQriBhQfl3qu4uKGYjQm8.jpg?auto=webp&s=2655fcb74e899cf07f2fbcacb746b3d3252e6fae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper eBook by Charlotte Perkins Gilman | Official ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781627933957/the-yellow-wallpaper-9781627933957_hr.jpg' alt='The Yellow Wallpaper eBook by Charlotte Perkins Gilman | Official ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781627933957/the-yellow-wallpaper-9781627933957_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia">
+                                <img itemprop="contentUrl url" src='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg?w=640' alt='The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pagesofjulia" />
+                                </span>
+                                <a href='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

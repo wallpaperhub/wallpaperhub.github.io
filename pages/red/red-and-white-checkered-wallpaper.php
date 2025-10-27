@@ -1,0 +1,129 @@
+<title>Charming Red & White Checkered Wallpaper for Any Space</title>
+                    <meta name="description" content="Add warmth to your home with red and white checkered wallpaper. Perfect for kitchens and dining areas, this classic design creates a cheerful backdrop that enhances your décor while providing a cozy, inviting atmosphere. Explore stylish options to transform your space today!">
+                    <meta name="keywords" content="red and white checkered wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-and-white-checkered-wallpaper">
+                            <span itemprop="name">red and white checkered wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Red & White Checkered Wallpaper for Any Space</h1>
+                <p>Red and white checkered wallpaper is a timeless design choice that adds charm and warmth to any room. Its classic pattern evokes a sense of nostalgia while offering versatility for modern interiors. Ideal for kitchens, dining areas, or cozy spaces, this wallpaper enhances aesthetics while providing a cheerful backdrop, perfect for creating a welcoming atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls By Me Peel and Stick Red and White Plaid Removable Wallpaper 6879-2ft  x 4ft (61x122cm) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91xb503JY5L.jpg' alt='Walls By Me Peel and Stick Red and White Plaid Removable Wallpaper 6879-2ft  x 4ft (61x122cm) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91xb503JY5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Checkered Background Images – Browse 171,275 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/50/71/99/360_F_450719990_Ir7jbdGWKDuU8l0IGS98jBQrIFHrUf6l.jpg' alt='Red And White Checkered Background Images – Browse 171,275 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/50/71/99/360_F_450719990_Ir7jbdGWKDuU8l0IGS98jBQrIFHrUf6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checked Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' alt='Red Checked Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Checkered Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/checkered-red-white-pattern_1192088-49.jpg?semt=ais_hybrid' alt='Red White Checkered Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/checkered-red-white-pattern_1192088-49.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/07/4a/07074ad792aa1ab7ef298c5e73e9002c.jpg' alt='Checkered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/07/4a/07074ad792aa1ab7ef298c5e73e9002c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Checkered Background Images – Browse 171,275 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/55/05/11/360_F_55051194_VOUzHnSPNHzgSVZK8IbWFE7cV7HlrdnC.jpg' alt='Red And White Checkered Background Images – Browse 171,275 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/55/05/11/360_F_55051194_VOUzHnSPNHzgSVZK8IbWFE7cV7HlrdnC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Checkered Images – Browse 245,497 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/53/79/73/360_F_353797354_AgO2TjWFcDBhvaYtDl9IfdKJRFruSydS.jpg' alt='Red And White Checkered Images – Browse 245,497 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/53/79/73/360_F_353797354_AgO2TjWFcDBhvaYtDl9IfdKJRFruSydS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checked Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/a/e/798514-2560x1440-desktop-hd-red-checked-background.jpg' alt='Red Checked Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/a/e/798514-2560x1440-desktop-hd-red-checked-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checkered Wallpaper HD iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/8c/f0/0e8cf04346f7b711380d719b56d25c46.jpg' alt='Red Checkered Wallpaper HD iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/8c/f0/0e8cf04346f7b711380d719b56d25c46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls By Me Peel and Stick Red and White Plaid Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1SzvsiIhnL.jpg' alt='Walls By Me Peel and Stick Red and White Plaid Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1SzvsiIhnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

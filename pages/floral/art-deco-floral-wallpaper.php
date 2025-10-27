@@ -1,0 +1,129 @@
+<title>Elegant Art Deco Floral Wallpaper Designs</title>
+                    <meta name="description" content="Discover the charm of Art Deco floral wallpaper. With its bold patterns and vibrant colors, it adds vintage elegance to any space. Perfect for home decor enthusiasts looking to elevate their interiors with a touch of sophistication and style. Transform your walls with stunning floral designs today!">
+                    <meta name="keywords" content="art deco floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/art-deco-floral-wallpaper">
+                            <span itemprop="name">art deco floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Art Deco Floral Wallpaper Designs</h1>
+                <p>Art Deco floral wallpaper is a stunning blend of geometric patterns and botanical motifs that exudes vintage elegance. Perfect for creating an atmosphere of glamour and sophistication, these wallpapers can transform any room into a stylish retreat. Featuring vibrant colors and intricate designs, Art Deco florals bring life to your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Art Nouveau Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D408">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5254300685_qh3k.jpg?v=1725048341&width=1946' alt='Floral Art Nouveau Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D408'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5254300685_qh3k.jpg?v=1725048341&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oriental Paisley Illustration Wallpaper, Opulent Art Deco Floral ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/002_Angle_Interior_Scene-19-scaled.jpg' alt='Oriental Paisley Illustration Wallpaper, Opulent Art Deco Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/002_Angle_Interior_Scene-19-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Art Deco Wallpaper With Colorful Leaf and Floral Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21115285/r/il/007ad8/3535957390/il_570xN.3535957390_szqf.jpg' alt='Dark Art Deco Wallpaper With Colorful Leaf and Floral Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21115285/r/il/007ad8/3535957390/il_570xN.3535957390_szqf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Art deco with Flowers Mural Wallpaper M1205">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GoldArtdecowithFlowersMuralWallpaper.2.jpg?v=1698076012&width=1200' alt='Gold Art deco with Flowers Mural Wallpaper M1205'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GoldArtdecowithFlowersMuralWallpaper.2.jpg?v=1698076012&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Mural Wallpaper | Flowers and Retro Decor with Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeintartdecoFleursetdecorretroaveccouleursvives10393_700x700.jpg?v=1715278286' alt='Art Deco Mural Wallpaper | Flowers and Retro Decor with Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeintartdecoFleursetdecorretroaveccouleursvives10393_700x700.jpg?v=1715278286' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Yellow Floral Ethnic Art Deco Pattern Wallpaper Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25396604/r/il/8c5c83/3587559743/il_570xN.3587559743_rman.jpg' alt='Warm Yellow Floral Ethnic Art Deco Pattern Wallpaper Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25396604/r/il/8c5c83/3587559743/il_570xN.3587559743_rman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' alt='Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Peel and Stick Wallpaper Dark Floral Beadboard Wallpaper Wall  Decor Tv Background Easy to Install (W) 98.4" X(H) 91"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BPcGvb+VL._AC_UF894,1000_QL80_.jpg' alt='Art Deco Peel and Stick Wallpaper Dark Floral Beadboard Wallpaper Wall  Decor Tv Background Easy to Install (W) 98.4" X(H) 91"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BPcGvb+VL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mimosa Art Deco Floral - Mustard - Large Wallpaper - Mimosa Art Deco Floral  Pattern - Mustard Yellow Ochre - Large Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/65233/mimosa-art-deco-floral-mustard-large-roll.jpg?w=1400&auto=format&q=40' alt='Mimosa Art Deco Floral - Mustard - Large Wallpaper - Mimosa Art Deco Floral  Pattern - Mustard Yellow Ochre - Large Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/65233/mimosa-art-deco-floral-mustard-large-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York Wallcoverings Shirley Green Deco Floral Peel and Stick Wallpaper  PSW1570RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b14afbb3-3237-4acd-a930-83fa59c9311c/svn/york-wallcoverings-wallpaper-rolls-psw1570rl-64_600.jpg' alt='York Wallcoverings Shirley Green Deco Floral Peel and Stick Wallpaper  PSW1570RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b14afbb3-3237-4acd-a930-83fa59c9311c/svn/york-wallcoverings-wallpaper-rolls-psw1570rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

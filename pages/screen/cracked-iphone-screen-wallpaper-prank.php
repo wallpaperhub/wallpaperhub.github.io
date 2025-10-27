@@ -1,0 +1,129 @@
+<title>Funny Cracked iPhone Screen Wallpaper Prank</title>
+                    <meta name="description" content="Discover the ultimate prank with our cracked iPhone screen wallpaper! Fool your friends into believing your phone is broken with realistic designs. It’s an easy, fun way to share laughs and create memorable moments. Download now for harmless, entertaining pranks!">
+                    <meta name="keywords" content="cracked iphone screen wallpaper prank">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/cracked-iphone-screen-wallpaper-prank">
+                            <span itemprop="name">cracked iphone screen wallpaper prank</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Cracked iPhone Screen Wallpaper Prank</h1>
+                <p>Looking for a hilarious prank? Try the cracked iPhone screen wallpaper! With realistic designs, it’ll trick your friends into thinking your phone is damaged. Just download a cracked screen wallpaper, set it as your background, and watch their reactions. It’s harmless fun that’s sure to surprise everyone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/17/2e/95172e3f22dded944ddf76b9c30451ef.jpg' alt='24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/17/2e/95172e3f22dded944ddf76b9c30451ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fake cracked sreen, cracked screen, funny, iphone, prank, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/145/504/HD-wallpaper-fake-cracked-sreen-cracked-screen-funny-iphone-prank.jpg' alt='Fake cracked sreen, cracked screen, funny, iphone, prank, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/145/504/HD-wallpaper-fake-cracked-sreen-cracked-screen-funny-iphone-prank.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/48/16/6d/48166d86dfe82350b086f7bfad6dca88.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/48/16/6d/48166d86dfe82350b086f7bfad6dca88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Broken Screen - Wallpaper on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c4/88/f6/c488f6a4-2c66-4982-674a-1005a252ad90/9700e78a-a1e5-40ed-a5bf-c09b392524c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-14_at_14.00.33.png/643x0w.jpg' alt='Live Broken Screen - Wallpaper on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c4/88/f6/c488f6a4-2c66-4982-674a-1005a252ad90/9700e78a-a1e5-40ed-a5bf-c09b392524c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-14_at_14.00.33.png/643x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets">
+                                <img itemprop="contentUrl url" src='https://cdn2.geckoandfly.com/wp-content/uploads/2023/10/smartphone-iphone-android-cracked-wallpaper-06.jpg' alt='24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2556">
+                                <meta itemprop="height" content="5541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geckoandfly" />
+                                </span>
+                                <a href='https://cdn2.geckoandfly.com/wp-content/uploads/2023/10/smartphone-iphone-android-cracked-wallpaper-06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screen crack, funny, prank, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/373/741/HD-wallpaper-screen-crack-funny-prank.jpg' alt='Screen crack, funny, prank, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/373/741/HD-wallpaper-screen-crack-funny-prank.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen Prank!! - Instructables">
+                                <img itemprop="contentUrl url" src='https://content.instructables.com/FZV/Q75F/GLWQVBQQ/FZVQ75FGLWQVBQQ.jpg?auto=webp' alt='Cracked Screen Prank!! - Instructables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instructables" />
+                                </span>
+                                <a href='https://content.instructables.com/FZV/Q75F/GLWQVBQQ/FZVQ75FGLWQVBQQ.jpg?auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/e2/b6/cae2b6a5b6c7ae550545dfc79d77fe65.jpg' alt='24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/e2/b6/cae2b6a5b6c7ae550545dfc79d77fe65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets">
+                                <img itemprop="contentUrl url" src='https://cdn3.geckoandfly.com/wp-content/uploads/2023/10/smartphone-iphone-android-cracked-wallpaper-14.jpg' alt='24 Broken Cracked Screen Wallpapers For iPhone, iPad or Tablets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2556">
+                                <meta itemprop="height" content="5541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geckoandfly" />
+                                </span>
+                                <a href='https://cdn3.geckoandfly.com/wp-content/uploads/2023/10/smartphone-iphone-android-cracked-wallpaper-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screen Impact #122637, Black, Crack, Cracked, dark, LCD, OLED, RGB ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/186/663/HD-wallpaper-screen-impact-122637-black-crack-cracked-dark-lcd-oled-rgb-vibrant-thumbnail.jpg' alt='Screen Impact #122637, Black, Crack, Cracked, dark, LCD, OLED, RGB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/186/663/HD-wallpaper-screen-impact-122637-black-crack-cracked-dark-lcd-oled-rgb-vibrant-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

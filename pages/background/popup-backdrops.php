@@ -1,0 +1,129 @@
+<title>Stunning Popup Backdrops for Events & Photography</title>
+                    <meta name="description" content="Discover eye-catching popup backdrops perfect for events, trade shows, and photos. Easy to set up and portable, they elevate your space with custom designs and vibrant visuals. Ideal for branding, promotions, or personal use, our backdrops make your display stand out. Explore our collection now!">
+                    <meta name="keywords" content="popup backdrops">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/popup-backdrops">
+                            <span itemprop="name">popup backdrops</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Popup Backdrops for Events & Photography</h1>
+                <p>Popup backdrops are versatile, portable displays ideal for events, trade shows, or photography. They create a stunning backdrop instantly, enhancing visual appeal while offering easy setup and takedown. Available in various designs, sizes, and materials, popup backdrops are essential for branding, promotions, or simply enhancing any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8ft. Urge Curved Tension Fabric Pop Up Backdrop Display">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-q9yxxozf54/images/stencil/1280x1280/products/204/1831/POP08TC__35169.1528933975.jpg?c=2' alt='8ft. Urge Curved Tension Fabric Pop Up Backdrop Display'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoothPop" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-q9yxxozf54/images/stencil/1280x1280/products/204/1831/POP08TC__35169.1528933975.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: AD.HOOMAI UPGRADE 8x10ft Portable Aluminum Tension Fabric Pop  Up Display Stand for Trade Show Backdrop Booth Display Stand，Carrying Bag  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71EAMsqX1IL.jpg' alt='Amazon.com: AD.HOOMAI UPGRADE 8x10ft Portable Aluminum Tension Fabric Pop  Up Display Stand for Trade Show Backdrop Booth Display Stand，Carrying Bag  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71EAMsqX1IL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tiger-Hoo（Shipping from SF.CA USA） Tension Fabric Straight Pop  Up Display Stand 8'x10' (3x4) Trade Show Backdrop Booth Display Frame with  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71zT1zLtDgL.jpg' alt='Amazon.com: Tiger-Hoo（Shipping from SF.CA USA） Tension Fabric Straight Pop  Up Display Stand 8'x10' (3x4) Trade Show Backdrop Booth Display Frame with  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71zT1zLtDgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 FT Custom Fabric Pop Up Backdrop Display No Endcaps">
+                                <img itemprop="contentUrl url" src='https://getnoticeddisplays.com/cdn/shop/products/RPL-10ft-X-8ft-Straight-noendcaps-get-noticed-displays.jpg?v=1634495618&width=1000' alt='10 FT Custom Fabric Pop Up Backdrop Display No Endcaps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Get Noticed Displays" />
+                                </span>
+                                <a href='https://getnoticeddisplays.com/cdn/shop/products/RPL-10ft-X-8ft-Straight-noendcaps-get-noticed-displays.jpg?v=1634495618&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Up Backdrops – Backdrop City">
+                                <img itemprop="contentUrl url" src='https://www.backdropcity.com/cdn/shop/collections/Thick_pop_up_280G_Fabric_460x@2x.jpg?v=1521151236' alt='Pop Up Backdrops – Backdrop City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrop City" />
+                                </span>
+                                <a href='https://www.backdropcity.com/cdn/shop/collections/Thick_pop_up_280G_Fabric_460x@2x.jpg?v=1521151236' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8' x 8' Media Backdrop - Tension Fabric Pop Up">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-q0y33pnff1/images/stencil/1280x1280/products/348/5422/8x8-Popup-Media__95986.1662124996.jpg?c=1' alt='8' x 8' Media Backdrop - Tension Fabric Pop Up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Wave Printing and Display" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-q0y33pnff1/images/stencil/1280x1280/products/348/5422/8x8-Popup-Media__95986.1662124996.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Kate Pop up Backdrop Gray Collapsible Backdrops for  Photography Studio Portable Backdrop for Headshot, 5x6.5ft : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Ud53daKeL.jpg' alt='Amazon.com : Kate Pop up Backdrop Gray Collapsible Backdrops for  Photography Studio Portable Backdrop for Headshot, 5x6.5ft : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Ud53daKeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VELCRO POP UP BACKDROP - Exibu Modular Displays">
+                                <img itemprop="contentUrl url" src='https://exibu.in/wp-content/uploads/2020/05/Exiu-VELCRO-POP-UP-BACKDROP-600x600.jpg' alt='VELCRO POP UP BACKDROP - Exibu Modular Displays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exibu Modular Displays" />
+                                </span>
+                                <a href='https://exibu.in/wp-content/uploads/2020/05/Exiu-VELCRO-POP-UP-BACKDROP-600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luminous Backlit Pop Up Backdrop 120" x 90" SEG Display (XL)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-q9yxxozf54/images/stencil/1280x1280/products/178/2853/LB04_2023__42738.1703090482.jpg?c=2' alt='Luminous Backlit Pop Up Backdrop 120" x 90" SEG Display (XL)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BoothPop" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-q9yxxozf54/images/stencil/1280x1280/products/178/2853/LB04_2023__42738.1703090482.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x8 Custom Portable Backdrop (MAX Frame) - No Back Panel">
+                                <img itemprop="contentUrl url" src='https://www.showbackdrops.com/wp-content/uploads/2022/10/5ftx8ft-Custom.jpg' alt='5x8 Custom Portable Backdrop (MAX Frame) - No Back Panel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shows To Go Backdrops" />
+                                </span>
+                                <a href='https://www.showbackdrops.com/wp-content/uploads/2022/10/5ftx8ft-Custom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

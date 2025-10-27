@@ -1,0 +1,129 @@
+<title>Stunning Kirito Wallpapers for iPhone: Anime Aesthetics</title>
+                    <meta name="description" content="Enhance your iPhone experience with mesmerizing Kirito wallpapers! Perfect for Sword Art Online fans, these designs showcase Kirito in dynamic poses and enchanting scenes. Download now to personalize your device and express your love for anime effortlessly!">
+                    <meta name="keywords" content="kirito wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/kirito-wallpaper-iphone">
+                            <span itemprop="name">kirito wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Kirito Wallpapers for iPhone: Anime Aesthetics</h1>
+                <p>Discover stunning Kirito wallpapers for your iPhone, bringing the essence of your favorite anime character to your device. Choose from a variety of designs, featuring Kirito's iconic sword skills and captivating expressions. Elevate your iPhone's aesthetic with unique wallpapers that reflect your passion for Sword Art Online!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image] my current phone wallpaper : r/swordartonline">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/5HJdNRYXOrlwZHX6AK2jT9sC5TLBpXnueGInwoa-Ckw.jpg?auto=webp&s=e04885f47fd5b700df89140b85d3182fff105168' alt='Image] my current phone wallpaper : r/swordartonline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/5HJdNRYXOrlwZHX6AK2jT9sC5TLBpXnueGInwoa-Ckw.jpg?auto=webp&s=e04885f47fd5b700df89140b85d3182fff105168' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kirito Sword Art Online Top iPhone HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kirito-sword-art-online-top-iphone-hd-g8mmf5zz1y4ni5wa.jpg' alt='Download Kirito Sword Art Online Top iPhone HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kirito-sword-art-online-top-iphone-hd-g8mmf5zz1y4ni5wa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Kirito iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/f7/d0/30f7d0713bd29e9f4e23fd966737a001.jpg' alt='   Kirito iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/f7/d0/30f7d0713bd29e9f4e23fd966737a001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="78+ Kirito Iphone Wallpapers On Wallpaperplay 2F">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/3b/b5/b93bb5d0db3ee023519c05126ea7b371.jpg' alt='78+ Kirito Iphone Wallpapers On Wallpaperplay 2F'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/3b/b5/b93bb5d0db3ee023519c05126ea7b371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirito, sao, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/225/192/HD-wallpaper-kirito-sao.jpg' alt='Kirito, sao, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/225/192/HD-wallpaper-kirito-sao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sword Art Online Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sword-art-online-iphone-8lirumtk56j9igy7.jpg' alt='100+] Sword Art Online Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sword-art-online-iphone-8lirumtk56j9igy7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Sword Art Online Phone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/5f/40/2d5f4024e242009bdc7253f821284532.jpg' alt='   Sword Art Online Phone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/5f/40/2d5f4024e242009bdc7253f821284532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirito Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/1/f/864105-1125x2436-iphone-hd-kirito-background-photo.jpg' alt='Kirito Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/1/f/864105-1125x2436-iphone-hd-kirito-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirito And Friends Anime Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kirito-and-friends-anime-iphone-yurlt2e5hyro4mc7.jpg' alt='Kirito And Friends Anime Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kirito-and-friends-anime-iphone-yurlt2e5hyro4mc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirito black theme wallpaper formatted for iPhone X [Sword Art ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/46w4ke0v9gm61.jpg' alt='Kirito black theme wallpaper formatted for iPhone X [Sword Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1034">
+                                <meta itemprop="height" content="2427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/46w4ke0v9gm61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

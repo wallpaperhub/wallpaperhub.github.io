@@ -1,0 +1,129 @@
+<title>Vibrant Cute Color Wallpapers for Every Space</title>
+                    <meta name="description" content="Discover a delightful range of cute, bright color wallpapers that will uplift your room's atmosphere. Ideal for kids' spaces or any area needing vibrancy, our collection features unique patterns and uplifting colors to bring joy and creativity to your home. Transform your walls today!">
+                    <meta name="keywords" content="cute bright color wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-bright-color-wallpaper">
+                            <span itemprop="name">cute bright color wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Cute Color Wallpapers for Every Space</h1>
+                <p>Brighten up your space with cute, colorful wallpaper that radiates joy! From playful patterns to vibrant hues, these wallpapers transform any room into a cheerful haven. Perfect for nurseries, playrooms, or any area that needs a touch of whimsy. Explore a variety of designs and let your decor shine with personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cute Bright Colorful Backgrounds Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0d/05/e9/0d05e9c4c09fcb5e139b541fb1c91c1c.jpg' alt='   Cute Bright Colorful Backgrounds Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0d/05/e9/0d05e9c4c09fcb5e139b541fb1c91c1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700 Colorful & bright ideas | colorful wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3c/30/6d/3c306d1d38a66f9056dbb66ba06b8cdc.jpg' alt='700 Colorful & bright ideas | colorful wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3c/30/6d/3c306d1d38a66f9056dbb66ba06b8cdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700 Colorful & bright ideas | colorful wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2b/cc/45/2bcc45a415b95a12da9ea434c05ef0b2.jpg' alt='700 Colorful & bright ideas | colorful wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2b/cc/45/2bcc45a415b95a12da9ea434c05ef0b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Bright and Joyful View Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-colorful-w154m4svx3cvpj4c.jpg' alt='Download A Bright and Joyful View Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-colorful-w154m4svx3cvpj4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nice rainbow texture. Holographic foil background. Smooth colorful ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/37/57/75/1000_F_237577596_6AoZgWBcoUBnPxYtzrwI38zMTf1fYDNU.jpg' alt='Nice rainbow texture. Holographic foil background. Smooth colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/37/57/75/1000_F_237577596_6AoZgWBcoUBnPxYtzrwI38zMTf1fYDNU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700 Colorful & bright ideas | colorful wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ba/1e/cc/ba1ecc6038f885e719d3124b6e573af7.jpg' alt='700 Colorful & bright ideas | colorful wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ba/1e/cc/ba1ecc6038f885e719d3124b6e573af7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky colors, funky bright, fantasy, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/520/571/HD-wallpaper-funky-colors-funky-bright-fantasy.jpg' alt='Funky colors, funky bright, fantasy, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/520/571/HD-wallpaper-funky-colors-funky-bright-fantasy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. "bright large circle design' (3)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/69/5b/7d695be6aa65f7b798e80775bbf30b9e.jpg' alt='Phone wallpaper, background. "bright large circle design' (3)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/69/5b/7d695be6aa65f7b798e80775bbf30b9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy this fun, vibrant and cute display of color ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-colorful-lutw273vobgr0rzj.jpg' alt='Download Enjoy this fun, vibrant and cute display of color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-colorful-lutw273vobgr0rzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Colors Against A Clear Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bright-colors-against-a-clear-sky-u9uqslmy354zkkxc.jpg' alt='Bright Colors Against A Clear Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="1032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bright-colors-against-a-clear-sky-u9uqslmy354zkkxc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

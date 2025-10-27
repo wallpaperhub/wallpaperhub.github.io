@@ -1,0 +1,129 @@
+<title>Duke Dennis: NBA 2K Gaming Icon</title>
+                    <meta name="description" content="Explore the exciting world of Duke Dennis, a gaming sensation known for his NBA 2K content. Discover gameplay tips, challenges, and entertaining commentary that captivates fans. Join Duke's community for an engaging and fun experience in the gaming universe!">
+                    <meta name="keywords" content="duke dennis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/duke-dennis">
+                            <span itemprop="name">duke dennis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Duke Dennis: NBA 2K Gaming Icon</h1>
+                <p>Duke Dennis is a popular gaming content creator, known for his engaging personality and entertaining videos on platforms like YouTube and Twitch. He focuses primarily on NBA 2K gameplay, offering tips, challenges, and hilarious commentary. Duke has built a loyal fanbase through his charismatic style and relatable content.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis⚡️ (@dukedennis) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3443442041449483462' alt='Duke Dennis⚡️ (@dukedennis) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3443442041449483462' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis | AMP (Any Means Possible) Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/amp/images/7/79/Duke_Dennis.jpg/revision/latest?cb=20240705055935' alt='Duke Dennis | AMP (Any Means Possible) Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AMP (Any Means Possible) Wiki AMP (Any Means Possible) Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/amp/images/7/79/Duke_Dennis.jpg/revision/latest?cb=20240705055935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis Goes Sneaker Shopping With Complex">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/coql2j3ugo8/sddefault.jpg' alt='Duke Dennis Goes Sneaker Shopping With Complex'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/coql2j3ugo8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis randomly posted my brand on IG today & I didn't even ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/duke-dennis-randomly-posted-my-brand-on-ig-today-i-didnt-v0-4cmltngufr5c1.jpg?width=2384&format=pjpg&auto=webp&s=f985041b7cc84cb4014d872771150ca2d5098721' alt='Duke Dennis randomly posted my brand on IG today & I didn't even ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2384">
+                                <meta itemprop="height" content="4240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/duke-dennis-randomly-posted-my-brand-on-ig-today-i-didnt-v0-4cmltngufr5c1.jpg?width=2384&format=pjpg&auto=webp&s=f985041b7cc84cb4014d872771150ca2d5098721' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis⚡️ (@dukedennis) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3397086607180586580' alt='Duke Dennis⚡️ (@dukedennis) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3397086607180586580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis: 10 Intriguing Facts About the Gaming YouTuber Taking ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6784e6c5c40ec1001d44f981.jpg' alt='Duke Dennis: 10 Intriguing Facts About the Gaming YouTuber Taking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6784e6c5c40ec1001d44f981.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Duke Dennis music | Listen to songs, albums, playlists for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/avatars-maDffCWy15Y7kC63-HxC3mA-t1080x1080.jpg' alt='Stream Duke Dennis music | Listen to songs, albums, playlists for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/avatars-maDffCWy15Y7kC63-HxC3mA-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis Gaming - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_mgNePfVGTFUng3nbqyDt3MGsxh_7L4nzYE9sPGtZqVEzck=s900-c-k-c0x00ffffff-no-rj' alt='Duke Dennis Gaming - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_mgNePfVGTFUng3nbqyDt3MGsxh_7L4nzYE9sPGtZqVEzck=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/headshots/duke-dennis-13.jpg' alt='Duke Dennis - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/headshots/duke-dennis-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duke Dennis Fashion: Trendy Outfits & Signature Style">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311922293905673515&location=0&aid=1988' alt='Duke Dennis Fashion: Trendy Outfits & Signature Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311922293905673515&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

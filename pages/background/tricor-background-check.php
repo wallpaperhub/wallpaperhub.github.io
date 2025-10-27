@@ -1,0 +1,129 @@
+<title>Understanding Tricor Background Checks: A Comprehensive Guide</title>
+                    <meta name="description" content="Discover how Tricor background checks can ensure safer hiring practices. Dive into the importance of verifying employment records and more, empowering employers to make informed decisions about potential candidates efficiently. Get the insights you need in this essential guide!">
+                    <meta name="keywords" content="tricor background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tricor-background-check">
+                            <span itemprop="name">tricor background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Tricor Background Checks: A Comprehensive Guide</h1>
+                <p>Tricor background checks are comprehensive assessments used to verify an individual’s history, including employment, criminal records, and credit scores. These checks ensure that hiring companies make informed decisions when selecting candidates, enhancing workplace safety and integrity. Tricor’s reliable process provides peace of mind for employers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - TriCor Employment Screening">
+                                <img itemprop="contentUrl url" src='https://customerportal.tricorinfo.com/static/images/header-logo.png' alt='Home - TriCor Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tricorinfo.com" />
+                                </span>
+                                <a href='https://customerportal.tricorinfo.com/static/images/header-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berea company takes employment screening high-tech: Community ...">
+                                <img itemprop="contentUrl url" src='https://www.cleveland.com/resizer/v2/2EVGI4X44FGSTGQZCUQS2TPRXA.JPG?auth=0a7564ea20c33d1a86c1c445b6f23fcab7d6d3e2b3515af6635ef888d5839fbc&width=800&quality=90' alt='Berea company takes employment screening high-tech: Community ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://www.cleveland.com/resizer/v2/2EVGI4X44FGSTGQZCUQS2TPRXA.JPG?auth=0a7564ea20c33d1a86c1c445b6f23fcab7d6d3e2b3515af6635ef888d5839fbc&width=800&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TriCor Employment Screening Overview of Services | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/tricoremploymentscreeningoverview-210126170909-thumbnail.jpg?width=640&height=640&fit=bounds' alt='TriCor Employment Screening Overview of Services | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/tricoremploymentscreeningoverview-210126170909-thumbnail.jpg?width=640&height=640&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TriCor Employment Screening Overview of Services | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/whatisabackgroundcheckforemployeesinontario-230901191452-58e8c3ad-thumbnail.jpg?width=560&fit=bounds' alt='TriCor Employment Screening Overview of Services | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/whatisabackgroundcheckforemployeesinontario-230901191452-58e8c3ad-thumbnail.jpg?width=560&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TriCor Employment Screening | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E1BAQGZ2KvU3oU8Ow/company-background_10000/company-background_10000/0/1584708537970/tricor_employment_screening_cover?e=2147483647&v=beta&t=TIqwCe7oWpJihNneQLav5oCf8x3AJFvOIIX2delGBzQ' alt='TriCor Employment Screening | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E1BAQGZ2KvU3oU8Ow/company-background_10000/company-background_10000/0/1584708537970/tricor_employment_screening_cover?e=2147483647&v=beta&t=TIqwCe7oWpJihNneQLav5oCf8x3AJFvOIIX2delGBzQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overview of Services - TriCor Employment Screening">
+                                <img itemprop="contentUrl url" src='https://tricorinfo.com/website/wp-content/uploads/2015/12/tricor-logo-dark-2.png' alt='Overview of Services - TriCor Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="80">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TriCor Employment Screening" />
+                                </span>
+                                <a href='https://tricorinfo.com/website/wp-content/uploads/2015/12/tricor-logo-dark-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TriCor Employment Screening Overview of Services | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/allaboutcriminalbackgroundchecks-230317142939-a3972e55-thumbnail.jpg?width=560&fit=bounds' alt='TriCor Employment Screening Overview of Services | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/allaboutcriminalbackgroundchecks-230317142939-a3972e55-thumbnail.jpg?width=560&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - TriCor Employment Screening">
+                                <img itemprop="contentUrl url" src='https://tricorinfo.com/website/wp-content/uploads/2015/12/TriCor-Facebook.png' alt='Home - TriCor Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tricorinfo.com" />
+                                </span>
+                                <a href='https://tricorinfo.com/website/wp-content/uploads/2015/12/TriCor-Facebook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for TriCor Employment Screening">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=537823884997873' alt='Profile for TriCor Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=537823884997873' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile and Web Development - Green Bay, Chicago, Rockford">
+                                <img itemprop="contentUrl url" src='https://appdroplet.com/images/portfolio/websites/tricor.jpg' alt='Mobile and Web Development - Green Bay, Chicago, Rockford'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile and Web Development - Green Bay, Chicago, Rockford" />
+                                </span>
+                                <a href='https://appdroplet.com/images/portfolio/websites/tricor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Abstract Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the perfect aesthetic wallpaper with abstract designs to enhance your home. Explore a variety of colors and patterns that transform your space, making it stylish and inviting. Ideal for any decor, our wallpapers infuse creativity and personality into your walls effortlessly.">
+                    <meta name="keywords" content="aesthetic wallpaper abstract">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-wallpaper-abstract">
+                            <span itemprop="name">aesthetic wallpaper abstract</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Abstract Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with aesthetic wallpaper featuring stunning abstract designs. These wallpapers add depth and personality to any room, creating an inviting atmosphere. From vibrant colors to soft pastels, abstract patterns complement modern decor and ignite creativity. Elevate your walls with unique designs that inspire!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable abstract wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFy_zStyIg/1/0/900w/canva-pink-abstract-leaf-phone-wallpaper--UWoGLsNNtk.jpg' alt='Free and customizable abstract wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFy_zStyIg/1/0/900w/canva-pink-abstract-leaf-phone-wallpaper--UWoGLsNNtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Abstract Background Illustration Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220731/original/pngtree-aesthetic-abstract-background-illustration-picture-image_1908954.jpg' alt='Aesthetic Abstract Background Illustration Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220731/original/pngtree-aesthetic-abstract-background-illustration-picture-image_1908954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/47/33/ff473398177b52b76d50656e7647e70f.jpg' alt='abstract aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/47/33/ff473398177b52b76d50656e7647e70f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper #aesthetic #abstract - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT7TeTMpKSNpxCJHmKas7NifXhRQP1nIemPhC5Xp6_JHjMwnCiIRGnq0ohoqfHOKcJPABXbqB2vA3AbQSvFmIKSQJPbMB7JjQFD_I8I9h6YCD9h4GNudJ0SCPw3SuHdb5gv9Oa5lrMLeo/w1600/wallpaper-aesthetic-heroscreen+%25281%2529.jpg' alt='Wallpaper #aesthetic #abstract - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT7TeTMpKSNpxCJHmKas7NifXhRQP1nIemPhC5Xp6_JHjMwnCiIRGnq0ohoqfHOKcJPABXbqB2vA3AbQSvFmIKSQJPbMB7JjQFD_I8I9h6YCD9h4GNudJ0SCPw3SuHdb5gv9Oa5lrMLeo/w1600/wallpaper-aesthetic-heroscreen+%25281%2529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper abstract">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/06/a4/1d06a4b89bd448aeeebac74ab6da2207.jpg' alt='iphone wallpaper abstract'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/06/a4/1d06a4b89bd448aeeebac74ab6da2207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 - Free and customizable abstract wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGOS6F7lZw/2/0/900w/canva-brown-beige-green-abstract-aesthetic-wallpaper-instagram-story-AsmxaGSOgaU.jpg' alt='Page 4 - Free and customizable abstract wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGOS6F7lZw/2/0/900w/canva-brown-beige-green-abstract-aesthetic-wallpaper-instagram-story-AsmxaGSOgaU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern abstract aesthetic background with hand drawn shapes and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/873/024/non_2x/modern-abstract-aesthetic-background-with-hand-drawn-shapes-and-leaves-wall-decor-in-boho-style-mid-century-print-for-cover-wallpaper-card-social-media-interior-decor-vector.jpg' alt='Modern abstract aesthetic background with hand drawn shapes and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/873/024/non_2x/modern-abstract-aesthetic-background-with-hand-drawn-shapes-and-leaves-wall-decor-in-boho-style-mid-century-print-for-cover-wallpaper-card-social-media-interior-decor-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/7b/33/717b334425e6cfd6c12d719e16fa389f.jpg' alt='Abstract Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/7b/33/717b334425e6cfd6c12d719e16fa389f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Abstract Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-abstract-x9hfd32k42o9rmry.jpg' alt='100+] Aesthetic Abstract Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-abstract-x9hfd32k42o9rmry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMV9wYWxtX2xlYXZlc19pbl90aGVfc3R5bGVfb2ZfcGFzdGVsX2RyZWFtX2FydF9ub18wOWUwMmNiMy1iZDRlLTQyNDAtYWQzNy02Y2U3MDFjZmJiMTFfMS5qcGc.jpg' alt='Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMV9wYWxtX2xlYXZlc19pbl90aGVfc3R5bGVfb2ZfcGFzdGVsX2RyZWFtX2FydF9ub18wOWUwMmNiMy1iZDRlLTQyNDAtYWQzNy02Y2U3MDFjZmJiMTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

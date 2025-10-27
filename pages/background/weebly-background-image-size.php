@@ -1,0 +1,129 @@
+<title>Optimal Weebly Background Image Size Explained</title>
+                    <meta name="description" content="Discover the best background image sizes for Weebly to enhance your website's appearance. Learn ideal pixel dimensions and tips for fast loading times, ensuring your site looks great on all devices. Optimizing your images is key to user experience and engagement. Get started now!">
+                    <meta name="keywords" content="weebly background image size">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weebly-background-image-size">
+                            <span itemprop="name">weebly background image size</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimal Weebly Background Image Size Explained</h1>
+                <p>When using Weebly, the ideal background image size is typically 1200 x 800 pixels. This resolution ensures a sharp and vibrant display across devices. However, it’s best to keep the file size below 1MB to enhance loading speed and performance. Always preview the image on different screens for optimal appearance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Optimize Images for Your Weebly Site - Baamboo Studio">
+                                <img itemprop="contentUrl url" src='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Background-Split-Layout-App-.png' alt='How to Optimize Images for Your Weebly Site - Baamboo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baamboo Studio" />
+                                </span>
+                                <a href='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Background-Split-Layout-App-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Optimize Images for Your Weebly Site - Baamboo Studio">
+                                <img itemprop="contentUrl url" src='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Background-Image-Size-Example.png' alt='How to Optimize Images for Your Weebly Site - Baamboo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1416">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baamboo Studio" />
+                                </span>
+                                <a href='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Background-Image-Size-Example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Optimize Images for Your Weebly Site - Baamboo Studio">
+                                <img itemprop="contentUrl url" src='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Header-Image-Size.jpeg' alt='How to Optimize Images for Your Weebly Site - Baamboo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baamboo Studio" />
+                                </span>
+                                <a href='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/Weebly-Header-Image-Size.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Optimize Images for Your Weebly Site - Baamboo Studio">
+                                <img itemprop="contentUrl url" src='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/headerim.jpg' alt='How to Optimize Images for Your Weebly Site - Baamboo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baamboo Studio" />
+                                </span>
+                                <a href='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/08/headerim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Your Backgrounds | Weebly Support - US">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/gc4s9mi2asix/6RRQMedwf6Mwm0UoYywKke/b72ae136f3597682ebafe449038d6b7b/custom-backgrounds.jpg' alt='Customize Your Backgrounds | Weebly Support - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='https://images.ctfassets.net/gc4s9mi2asix/6RRQMedwf6Mwm0UoYywKke/b72ae136f3597682ebafe449038d6b7b/custom-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Your Backgrounds | Weebly Support - US">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/gc4s9mi2asix/6BSl2GNo3K6ywkYcwUaSWa/e097dd496cb92265674192c36c6114b3/upload-video.jpg' alt='Customize Your Backgrounds | Weebly Support - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='https://images.ctfassets.net/gc4s9mi2asix/6BSl2GNo3K6ywkYcwUaSWa/e097dd496cb92265674192c36c6114b3/upload-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Optimize Images for Your Weebly Site - Baamboo Studio">
+                                <img itemprop="contentUrl url" src='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/10/Linenimage1.png' alt='How to Optimize Images for Your Weebly Site - Baamboo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baamboo Studio" />
+                                </span>
+                                <a href='https://149638950.v2.pressablecdn.com/wp-content/uploads/2021/10/Linenimage1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find out the size of your Weebly Header & Create that exact size in Adobe  Photoshop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yINbTrMqEKE/maxresdefault.jpg' alt='Find out the size of your Weebly Header & Create that exact size in Adobe  Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yINbTrMqEKE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Your Backgrounds | Weebly Support - US">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/gc4s9mi2asix/fq1oW4iEG4GGuwUYMmAOS/b89bc59e52c210019ba51eb19b57bffe/video-settings-composite.jpg' alt='Customize Your Backgrounds | Weebly Support - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='https://images.ctfassets.net/gc4s9mi2asix/fq1oW4iEG4GGuwUYMmAOS/b89bc59e52c210019ba51eb19b57bffe/video-settings-composite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Your Backgrounds | Weebly Support - US">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/gc4s9mi2asix/16IBMQMLyqAA0Ycc2kmIQi/34f0de6863c00c53634753438db334fe/upload-select-image.jpg' alt='Customize Your Backgrounds | Weebly Support - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='https://images.ctfassets.net/gc4s9mi2asix/16IBMQMLyqAA0Ycc2kmIQi/34f0de6863c00c53634753438db334fe/upload-select-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

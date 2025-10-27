@@ -1,0 +1,129 @@
+<title>Bright Yellow Butterfly Wallpaper: Aesthetic Charm for Your Space</title>
+                    <meta name="description" content="Discover the beauty of yellow butterfly wallpaper, perfect for adding a cheerful touch to any room. This aesthetic design brings nature indoors, creating a tranquil and whimsical atmosphere. Ideal for personalizing your space, our wallpaper selection elevates your home decor to new heights.">
+                    <meta name="keywords" content="yellow butterfly wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/yellow-butterfly-wallpaper-aesthetic">
+                            <span itemprop="name">yellow butterfly wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright Yellow Butterfly Wallpaper: Aesthetic Charm for Your Space</h1>
+                <p>Enhance your space with stunning yellow butterfly wallpaper that embodies nature's beauty and tranquility. This aesthetic design brightens any room, creating a cheerful atmosphere. Perfect for bedrooms, living rooms, or creative spaces, yellow butterflies add a touch of whimsy and charm, transforming your home into a vibrant sanctuary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/22/58/0f2258e0382825c45a52b9f2d6696019.jpg' alt='Wallpaper yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/22/58/0f2258e0382825c45a52b9f2d6696019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Butterfly Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-multiple-yellow-butterflies-contemporary-composition-print_7087-2853.jpg?semt=ais_hybrid' alt='Yellow Butterfly Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-multiple-yellow-butterflies-contemporary-composition-print_7087-2853.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Yellow Butterflies">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/68/5b/c8/685bc86e22e3ebcc5eedb29da96fbd64.jpg' alt='Retro Yellow Butterflies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/68/5b/c8/685bc86e22e3ebcc5eedb29da96fbd64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Yellow Butterflies Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-yellow-butterflies-y7m2nlsu2n1wejb8.jpg' alt='100+] Cute Yellow Butterflies Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-yellow-butterflies-y7m2nlsu2n1wejb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Butterfly Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV8zOV9hX2Nsb3NlX3VwX3Bob3RvZ3JhcGhfb2ZfcmVhbF9wcmVzc2VkX3llbGxvd185MTI4MDZhOC04MjgyLTRkNDYtYmQyOC03ZDFiM2Y1YzFjZjguanBn.jpg' alt='Yellow Butterfly Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV8zOV9hX2Nsb3NlX3VwX3Bob3RvZ3JhcGhfb2ZfcmVhbF9wcmVzc2VkX3llbGxvd185MTI4MDZhOC04MjgyLTRkNDYtYmQyOC03ZDFiM2Y1YzFjZjguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow butterfly wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bd/b3/b6/bdb3b6f2788964ac3cd9ccc24672b7ec.jpg' alt='Yellow butterfly wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bd/b3/b6/bdb3b6f2788964ac3cd9ccc24672b7ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic yellow butterflies wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/782/751/HD-wallpaper-butterflies-uwu-aesthetic-yellow-you-thumbnail.jpg' alt='HD aesthetic yellow butterflies wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/782/751/HD-wallpaper-butterflies-uwu-aesthetic-yellow-you-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A sea of cute yellow butterflies Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-yellow-butterflies-564-x-1002-noaafzkk4wsxqkoe.jpg' alt='Download A sea of cute yellow butterflies Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-yellow-butterflies-564-x-1002-noaafzkk4wsxqkoe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by ΔҿβℴԿҝα ς ҝαթτนዙҝน on Յαςταβҝน | Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/e7/5f/dae75f919ba7d6184a83e15ecf819b97.jpg' alt='Pin by ΔҿβℴԿҝα ς ҝαթτนዙҝน on Յαςταβҝน | Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/e7/5f/dae75f919ba7d6184a83e15ecf819b97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Orange Butterfly With Sunflowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-orange-butterfly-with-sunflowers-q8p8hsh99sxflk13.jpg' alt='Aesthetic Orange Butterfly With Sunflowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-orange-butterfly-with-sunflowers-q8p8hsh99sxflk13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Classic iPhone Wallpapers: Nostalgic Designs for Your Screen</title>
+                    <meta name="description" content="Enhance your device with classic iPhone wallpapers that celebrate vintage aesthetics. Explore a curated selection of unique designs that bring nostalgia and style to your screen. Perfect fit for anyone looking to add a touch of personality to their device!">
+                    <meta name="keywords" content="old iphone wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-iphone-wallpapers">
+                            <span itemprop="name">old iphone wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic iPhone Wallpapers: Nostalgic Designs for Your Screen</h1>
+                <p>Discover a nostalgic collection of old iPhone wallpapers that evoke memories and style. From retro patterns to classic landscapes, these wallpapers bring a touch of the past to your device. Revamp your screen with unique designs that reflect your personality and love for vintage aesthetics. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Original iphone wallpaper ideas | original iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/42/2b/6a/422b6a0402b5a54555cd20eb2d8f5b43.png' alt='8 Original iphone wallpaper ideas | original iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/42/2b/6a/422b6a0402b5a54555cd20eb2d8f5b43.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old iphone 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2017/06/get-ios-11-default-wallpaper.jpg' alt='Old iphone 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2017/06/get-ios-11-default-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original iPhone Wallpaper (1st Gen) for Download">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2017/06/original-iphone-wallpaper-clounfish.jpg' alt='Original iPhone Wallpaper (1st Gen) for Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2017/06/original-iphone-wallpaper-clounfish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Iphone Default Ocean Surface Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/apple-iphone-default-ocean-surface-sd7wz4qeugm12pmc.jpg' alt='Apple Iphone Default Ocean Surface Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/apple-iphone-default-ocean-surface-sd7wz4qeugm12pmc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody like the old iOS wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anybody-like-the-old-ios-wallpaper-v0-86ufwcq61rzb1.jpg?width=640&crop=smart&auto=webp&s=1d54bd36a6f9b1ac19d06b83eba5c1cf10ae7c94' alt='Anybody like the old iOS wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anybody-like-the-old-ios-wallpaper-v0-86ufwcq61rzb1.jpg?width=640&crop=smart&auto=webp&s=1d54bd36a6f9b1ac19d06b83eba5c1cf10ae7c94' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dc/f8/50/dcf850f1f2de66ac894d58e6a792b83a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dc/f8/50/dcf850f1f2de66ac894d58e6a792b83a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD original iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/561/730/HD-wallpaper-iphone-x-original-2018-8plus-colorfull-iphone-iphone8-iphone8plus-iphonex-original-thumbnail.jpg' alt='HD original iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/561/730/HD-wallpaper-iphone-x-original-2018-8plus-colorfull-iphone-iphone8-iphone8plus-iphonex-original-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got a new iPhone and can't find my old wa… - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/3037ec18-6435-4548-9429-86c6e2cc4c7a' alt='Got a new iPhone and can't find my old wa… - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/3037ec18-6435-4548-9429-86c6e2cc4c7a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' alt='Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

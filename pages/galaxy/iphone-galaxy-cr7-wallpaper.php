@@ -1,0 +1,129 @@
+<title>Ultimate iPhone Galaxy CR7 Wallpapers for Football Fans</title>
+                    <meta name="description" content="Discover an exclusive collection of iPhone Galaxy CR7 wallpapers featuring Cristiano Ronaldo. Perfect for football enthusiasts, these stunning images will elevate your mobile experience. Download yours today and show off your love for the game with high-quality, vibrant designs!">
+                    <meta name="keywords" content="iphone galaxy cr7 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/iphone-galaxy-cr7-wallpaper">
+                            <span itemprop="name">iphone galaxy cr7 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate iPhone Galaxy CR7 Wallpapers for Football Fans</h1>
+                <p>Transform your device with stunning iPhone Galaxy CR7 wallpapers that celebrate the legendary footballer Cristiano Ronaldo. From action-packed shots to striking portraits, these wallpapers enhance your screen and showcase your passion for football. Download now and enjoy the perfect blend of style and sport on your mobile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 55 Cristiano Ronaldo iPhone Wallpapers Download [ HD ]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/12/11/1a/12111a24ba8448d68ca14fb8f64f7be1.jpg' alt='Top 55 Cristiano Ronaldo iPhone Wallpapers Download [ HD ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/12/11/1a/12111a24ba8448d68ca14fb8f64f7be1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cr7, real madrid, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/125/408/HD-wallpaper-cr7-real-madrid-thumbnail.jpg' alt='Cr7, real madrid, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/125/408/HD-wallpaper-cr7-real-madrid-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art CR7 Wallpaper Poster iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/art-cr7-wallpaper-poster-vern-jeremy.jpg' alt='Art CR7 Wallpaper Poster iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/art-cr7-wallpaper-poster-vern-jeremy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo, cristiano, real marid, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/155/201/HD-wallpaper-ronaldo-cristiano-real-marid.jpg' alt='Ronaldo, cristiano, real marid, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/155/201/HD-wallpaper-ronaldo-cristiano-real-marid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo CR7 soccer player football player. Cristiano ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/19/de/9719de3a0d90259e6602b929dcc0e2eb.jpg' alt='Cristiano Ronaldo CR7 soccer player football player. Cristiano ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/19/de/9719de3a0d90259e6602b929dcc0e2eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x1080px, 4K free download | Real Madrid 10, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/109/114/HD-wallpaper-ronaldo-cr7-cris-cristiano-cristiano-ronaldo-madrid-portugal-real-real-madrid-ronaldo-cristiano-thumbnail.jpg' alt='3840x1080px, 4K free download | Real Madrid 10, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/109/114/HD-wallpaper-ronaldo-cr7-cris-cristiano-cristiano-ronaldo-madrid-portugal-real-real-madrid-ronaldo-cristiano-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo ⚽️ on X: "IPhone 5(s) wallpaper: CR7 Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/BXMr2XUCQAAgzkM.jpg' alt='Cristiano Ronaldo ⚽️ on X: "IPhone 5(s) wallpaper: CR7 Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/BXMr2XUCQAAgzkM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6a/cb/bf/6acbbfa92ce3011b891ed980c6c06630.jpg' alt='Cristiano Ronaldo iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6a/cb/bf/6acbbfa92ce3011b891ed980c6c06630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stunning Cristiano Ronaldo iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/stunning-cristiano-ronaldo-iphone-cs9xg02b9f0mc9mv.jpg' alt='Download Stunning Cristiano Ronaldo iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/stunning-cristiano-ronaldo-iphone-cs9xg02b9f0mc9mv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/18/60/e518608253abd34c1a32dcbb6dc972c7.jpg' alt='Ronaldo Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/18/60/e518608253abd34c1a32dcbb6dc972c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Celebrating the Art of Drag Queens: A Vibrant Expression of Identity</title>
+                    <meta name="description" content="Discover the dazzling world of drag queens, vibrant performers who break boundaries with creativity and flair. Explore their impact on art and culture, and celebrate diversity in identity through stunning performances and stunning aesthetics. Join the movement that embraces inclusivity and self-expression!">
+                    <meta name="keywords" content="drag queen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/drag-queen">
+                            <span itemprop="name">drag queen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrating the Art of Drag Queens: A Vibrant Expression of Identity</h1>
+                <p>Drag queens are bold performers who blend artistry and entertainment, often showcasing their extravagant costumes, makeup, and unique personalities. They challenge traditional gender norms, using humor and creativity to celebrate diversity. Through lip-syncing, dancing, and comedy, they captivate audiences and foster inclusivity within the LGBTQ+ community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drag queen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7f/DC_High_Heel_Drag_Queen_Race_2014_%2815567688849%29.jpg' alt='Drag queen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2456">
+                                <meta itemprop="height" content="3680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7f/DC_High_Heel_Drag_Queen_Race_2014_%2815567688849%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution and Influence of Drag Queen Fashion in Modern Culture">
+                                <img itemprop="contentUrl url" src='https://fashionmingle.com/wp-content/uploads/2023/10/CACEE4DE-CAB4-42F8-A5C4-5CEE767394BB-888x592.jpeg' alt='The Evolution and Influence of Drag Queen Fashion in Modern Culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fashion Mingle" />
+                                </span>
+                                <a href='https://fashionmingle.com/wp-content/uploads/2023/10/CACEE4DE-CAB4-42F8-A5C4-5CEE767394BB-888x592.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drag queen? Beginner's guide to understanding drag culture | BØWIE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5f5e1d8a999a26ccc7a92019/64b15d47f49dadf5b928ca35_Drag_h.jpg' alt='Drag queen? Beginner's guide to understanding drag culture | BØWIE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bowie Creators" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5f5e1d8a999a26ccc7a92019/64b15d47f49dadf5b928ca35_Drag_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PT.2 Of my favorite and most beautiful Drag Race queens to ever ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1lfc61p3tvu91.jpg' alt='PT.2 Of my favorite and most beautiful Drag Race queens to ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2133">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1lfc61p3tvu91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drag Queen - Beauty Photos, Trends & News | Allure">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/6219146d526b3ac03034f2cf/1:1/w_354%2Cc_limit/trixie%2520mattel%2520katya%2520zamolodchikova%2520.jpg' alt='Drag Queen - Beauty Photos, Trends & News | Allure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="354">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/6219146d526b3ac03034f2cf/1:1/w_354%2Cc_limit/trixie%2520mattel%2520katya%2520zamolodchikova%2520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drag Queens – Queer Cultures 101">
+                                <img itemprop="contentUrl url" src='https://scholarblogs.emory.edu/queercultures101/files/2023/10/alyssa-edwards-644b90273c253.jpg' alt='Drag Queens – Queer Cultures 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScholarBlogs" />
+                                </span>
+                                <a href='https://scholarblogs.emory.edu/queercultures101/files/2023/10/alyssa-edwards-644b90273c253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RuPaul's Drag Race UK crowns series six queen">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/2da0/live/a9ff6280-ad75-11ef-a890-e3983cd58adf.jpg.webp' alt='RuPaul's Drag Race UK crowns series six queen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/2da0/live/a9ff6280-ad75-11ef-a890-e3983cd58adf.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trixie's Behind-The-Scenes Facts About RuPaul's Drag Race! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eurpLojLz7w/sddefault.jpg' alt='Trixie's Behind-The-Scenes Facts About RuPaul's Drag Race! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eurpLojLz7w/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trixie Mattel Breaks Down the History of "Drag" | Them">
+                                <img itemprop="contentUrl url" src='https://media.them.us/photos/5ba3c357fc82350011a70ff5/1:1/w_1080,h_1080,c_limit/TRIXIE%20HEADER.jpg' alt='Trixie Mattel Breaks Down the History of "Drag" | Them'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Them" />
+                                </span>
+                                <a href='https://media.them.us/photos/5ba3c357fc82350011a70ff5/1:1/w_1080,h_1080,c_limit/TRIXIE%20HEADER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Drag?">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/251f5d_c26a60a37b204569839ffeae1aeb7051~mv2.jpg/v1/fill/w_568,h_406,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/251f5d_c26a60a37b204569839ffeae1aeb7051~mv2.jpg' alt='What is Drag?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dragička" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/251f5d_c26a60a37b204569839ffeae1aeb7051~mv2.jpg/v1/fill/w_568,h_406,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/251f5d_c26a60a37b204569839ffeae1aeb7051~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

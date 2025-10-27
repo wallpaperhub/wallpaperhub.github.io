@@ -1,0 +1,129 @@
+<title>Discover Indiana University's Rich History and Academic Excellence</title>
+                    <meta name="description" content="Explore the legacy of Indiana University, established in 1820. Learn about its academic programs, research initiatives, and the vibrant campus life that fosters growth and innovation. Join a community of over 40,000 students at one of the nation's leading public universities.">
+                    <meta name="keywords" content="indiana university background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indiana-university-background">
+                            <span itemprop="name">indiana university background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Indiana University's Rich History and Academic Excellence</h1>
+                <p>Indiana University, founded in 1820, is a prominent public research university located in Bloomington, Indiana. It's known for its diverse academic programs, strong emphasis on research, and vibrant campus culture. With over 40,000 students, IU offers a rich history and numerous extracurricular opportunities, fostering a dynamic learning environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History: About: Indiana University Bloomington">
+                                <img itemprop="contentUrl url" src='https://bloomington.iu.edu/images/about/about-sample-gates.jpg' alt='History: About: Indiana University Bloomington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana University Bloomington" />
+                                </span>
+                                <a href='https://bloomington.iu.edu/images/about/about-sample-gates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZOOM Backgrounds - Indiana University Athletics">
+                                <img itemprop="contentUrl url" src='https://iuhoosiers.com/images/2020/3/25/20191023_FallBeauty_KSD_0096_1_.jpg' alt='ZOOM Backgrounds - Indiana University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana University Athletics" />
+                                </span>
+                                <a href='https://iuhoosiers.com/images/2020/3/25/20191023_FallBeauty_KSD_0096_1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/4/3/2167766-2560x1440-desktop-hd-indiana-university-wallpaper-image.jpg' alt='Indiana University Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/4/3/2167766-2560x1440-desktop-hd-indiana-university-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/e/7/2168215-1125x2000-samsung-hd-indiana-university-wallpaper-image.jpg' alt='Indiana University Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/e/7/2168215-1125x2000-samsung-hd-indiana-university-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/b/b/2167899-1756x3264-mobile-hd-indiana-university-wallpaper-image.jpg' alt='Indiana University Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1756">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/b/b/2167899-1756x3264-mobile-hd-indiana-university-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Background – Designed by Julia">
+                                <img itemprop="contentUrl url" src='https://designedbyjulia.co/cdn/shop/products/Copyofdesignedbyjulia_2_2048x.jpg?v=1609180672' alt='Indiana University Background – Designed by Julia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designed by Julia - Designed by Julia" />
+                                </span>
+                                <a href='https://designedbyjulia.co/cdn/shop/products/Copyofdesignedbyjulia_2_2048x.jpg?v=1609180672' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Indiana University Northwest">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064249113333' alt='Profile for Indiana University Northwest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064249113333' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/4/1/2168008-1920x1080-desktop-1080p-indiana-university-background-photo.jpg' alt='Indiana University Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/4/1/2168008-1920x1080-desktop-1080p-indiana-university-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to IU Bloomington! – Voices from the IU Bicentennial">
+                                <img itemprop="contentUrl url" src='https://blogs.iu.edu/bicentennialblogs/files/2016/11/Sample-Gates-Kirkwood_700-1lf942m.jpg' alt='Welcome to IU Bloomington! – Voices from the IU Bicentennial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IU Blogs - Indiana University" />
+                                </span>
+                                <a href='https://blogs.iu.edu/bicentennialblogs/files/2016/11/Sample-Gates-Kirkwood_700-1lf942m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Indiana University Bloomington Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indiana-university-bloomington-interconnected-logo-10wn4i61bin01z98.jpg' alt='100+] Indiana University Bloomington Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indiana-university-bloomington-interconnected-logo-10wn4i61bin01z98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

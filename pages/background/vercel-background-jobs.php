@@ -1,0 +1,129 @@
+<title>Optimize Your Apps with Vercel Background Jobs</title>
+                    <meta name="description" content="Discover how to enhance your application performance with Vercel background jobs. Learn to manage long-running tasks efficiently, ensuring a seamless user experience and optimal responsiveness for your web apps. Optimize your workflows and scale effectively with Vercel today!">
+                    <meta name="keywords" content="vercel background jobs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vercel-background-jobs">
+                            <span itemprop="name">vercel background jobs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Apps with Vercel Background Jobs</h1>
+                <p>Vercel background jobs allow developers to run long-running tasks outside the request/response cycle, enhancing application performance. By offloading processes like image processing or bulk data management, Vercel provides seamless scalability. This promotes a stress-free user experience, keeping applications responsive and efficient.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inngest for Vercel">
+                                <img itemprop="contentUrl url" src='https://vercel.com/_next/image?url=https%3A%2F%2Fvercel.com%2Fapi%2Fv1%2Fintegrations%2Fassets%2Foac_H9biZULoTuJYFO32xkUydDmT%2Fimages%2Feab52c9186da7a0f781da59cc1a5c6253606181a.jpeg&w=3840&q=75' alt='Inngest for Vercel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2538">
+                                <meta itemprop="height" content="1692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vercel" />
+                                </span>
+                                <a href='https://vercel.com/_next/image?url=https%3A%2F%2Fvercel.com%2Fapi%2Fv1%2Fintegrations%2Fassets%2Foac_H9biZULoTuJYFO32xkUydDmT%2Fimages%2Feab52c9186da7a0f781da59cc1a5c6253606181a.jpeg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run background jobs on Vercel without a queue">
+                                <img itemprop="contentUrl url" src='https://zackproser.com/api/og?title=How%20to%20Run%20background%20jobs%20on%20Vercel%20without%20a%20queue%20&description=I%20recently%20needed%20to%20figure%20out%20how%20to%20have%20my%20Vercel%20API%20route%20accept%20a%20new%20job%20and%20return%20a%20response%20immediately%20while%20still%20performing%20long%20running%20processing%20in%20the%20background.%20This%20is%20what%20I%20learned.%20' alt='How to Run background jobs on Vercel without a queue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zack Proser" />
+                                </span>
+                                <a href='https://zackproser.com/api/og?title=How%20to%20Run%20background%20jobs%20on%20Vercel%20without%20a%20queue%20&description=I%20recently%20needed%20to%20figure%20out%20how%20to%20have%20my%20Vercel%20API%20route%20accept%20a%20new%20job%20and%20return%20a%20response%20immediately%20while%20still%20performing%20long%20running%20processing%20in%20the%20background.%20This%20is%20what%20I%20learned.%20' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long-running background functions on Vercel - Inngest Blog">
+                                <img itemprop="contentUrl url" src='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/function-steps.png?v=2' alt='Long-running background functions on Vercel - Inngest Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inngest" />
+                                </span>
+                                <a href='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/function-steps.png?v=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vercel + Inngest: The fastest way to ship background functions ...">
+                                <img itemprop="contentUrl url" src='https://www.inngest.com/_next/image?url=%2Fassets%2Fblog%2Fvercel-integration%2Ffeatured-image.jpg&w=1920&q=95' alt='Vercel + Inngest: The fastest way to ship background functions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inngest" />
+                                </span>
+                                <a href='https://www.inngest.com/_next/image?url=%2Fassets%2Fblog%2Fvercel-integration%2Ffeatured-image.jpg&w=1920&q=95' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inngest for Vercel">
+                                <img itemprop="contentUrl url" src='https://integrations-og-image.vercel.sh/api/og/inngest?c3b1b4d4f69b1bcaccf4fbbf63f09a9d' alt='Inngest for Vercel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2529">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vercel" />
+                                </span>
+                                <a href='https://integrations-og-image.vercel.sh/api/og/inngest?c3b1b4d4f69b1bcaccf4fbbf63f09a9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Jobs for Node.js using Next.js, Inngest, Supabase, and ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*B3hPHkAEbFFjNjbzyi9iQg.png' alt='Background Jobs for Node.js using Next.js, Inngest, Supabase, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1359">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*B3hPHkAEbFFjNjbzyi9iQg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Running background jobs · vercel next.js · Discussion #33989 · GitHub">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/ad08e433f1b235606f0d2d49e2e9ebb6c8c54b8fe50b0cc389a309d574f97eff/vercel/next.js/discussions/33989' alt='Running background jobs · vercel next.js · Discussion #33989 · GitHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/ad08e433f1b235606f0d2d49e2e9ebb6c8c54b8fe50b0cc389a309d574f97eff/vercel/next.js/discussions/33989' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long-running background functions on Vercel - Inngest Blog">
+                                <img itemprop="contentUrl url" src='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/featured-image.png' alt='Long-running background functions on Vercel - Inngest Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inngest" />
+                                </span>
+                                <a href='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/featured-image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vercel + Inngest: The fastest way to ship background functions ...">
+                                <img itemprop="contentUrl url" src='https://www.inngest.com/assets/blog/vercel-integration/code-snippets.jpg' alt='Vercel + Inngest: The fastest way to ship background functions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inngest" />
+                                </span>
+                                <a href='https://www.inngest.com/assets/blog/vercel-integration/code-snippets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long-running background functions on Vercel - Inngest Blog">
+                                <img itemprop="contentUrl url" src='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/how-inngest-works.png' alt='Long-running background functions on Vercel - Inngest Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inngest" />
+                                </span>
+                                <a href='https://www.inngest.com/assets/blog/vercel-long-running-background-functions/how-inngest-works.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

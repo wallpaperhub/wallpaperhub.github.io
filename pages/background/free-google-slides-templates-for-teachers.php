@@ -1,0 +1,129 @@
+<title>Free Google Slides Templates for Teachers: Engaging & Customizable</title>
+                    <meta name="description" content="Explore free Google Slides templates tailored for teachers! Easily customize these engaging designs to create impactful presentations that will captivate your students. Download now and elevate your classroom experience with stunning visuals and organized content!">
+                    <meta name="keywords" content="free google slides templates for teachers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-google-slides-templates-for-teachers">
+                            <span itemprop="name">free google slides templates for teachers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Google Slides Templates for Teachers: Engaging & Customizable</h1>
+                <p>Discover an array of free Google Slides templates designed specifically for teachers! These customizable templates enhance presentations, making lessons more engaging and visually appealing. From classroom management to project showcases, find the perfect template to suit your teaching style and captivate your students!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Teacher Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39125072/meet-our-professors1691679312.jpg' alt='Free Teacher Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39125072/meet-our-professors1691679312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Teacher Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/1364851/teacher-binder1608106322.png' alt='Free Teacher Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/1364851/teacher-binder1608106322.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Free Google Slides Templates for Teachers and Classrooms">
+                                <img itemprop="contentUrl url" src='https://www.weareteachers.com/wp-content/uploads/google-slides-templates.png' alt='35 Free Google Slides Templates for Teachers and Classrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Are Teachers" />
+                                </span>
+                                <a href='https://www.weareteachers.com/wp-content/uploads/google-slides-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Teacher Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39129727/notebook-lesson1691686801.jpg' alt='Free Teacher Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39129727/notebook-lesson1691686801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Styles of Google Slides Templates for Teachers (You Don't Want ...">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/gg4lSzlrVVBP8wZ5MA2vawYNKmuMY9IWbZ4xdtLEhmP9nKwGma6gdRFWovIvVnRCFtGO_XBSBFwdoQFmtW4hLw3pN3nHGaJSfeO5is_JwWinradnljtLlsv7fveRvrbcJ2nvaqlcWlEspd8eA98sRV8' alt='10 Styles of Google Slides Templates for Teachers (You Don't Want ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shayna Vohs" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/gg4lSzlrVVBP8wZ5MA2vawYNKmuMY9IWbZ4xdtLEhmP9nKwGma6gdRFWovIvVnRCFtGO_XBSBFwdoQFmtW4hLw3pN3nHGaJSfeO5is_JwWinradnljtLlsv7fveRvrbcJ2nvaqlcWlEspd8eA98sRV8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Free Google Slides Templates for Teachers and Classrooms">
+                                <img itemprop="contentUrl url" src='https://www.weareteachers.com/wp-content/uploads/google-slides-templates-reading-log.jpg' alt='35 Free Google Slides Templates for Teachers and Classrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Are Teachers" />
+                                </span>
+                                <a href='https://www.weareteachers.com/wp-content/uploads/google-slides-templates-reading-log.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Google Slides Templates for Elementary Teachers - LTHEME">
+                                <img itemprop="contentUrl url" src='https://ltheme.com/wp-content/uploads/2022/05/30_teachers.jpg' alt='30+ Free Google Slides Templates for Elementary Teachers - LTHEME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ltheme" />
+                                </span>
+                                <a href='https://ltheme.com/wp-content/uploads/2022/05/30_teachers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calm Colors Powerpoint and Google Slides Templates for Teachers ...">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/O1cIJE3berlRWNnaj4jMsO6eywtSSO7exSL0oLvaHul_YyZduwdJF1Z7LExOWwERqvbFcSUcnF5nkcU7D_FlneABJMCPE2lgGT5Pw8oHjLp3HJgfC4Q_6vBjPiIxB5y9BdS7CLn0LKH4uYX1-aHn31BrlRR68qhJkUskBRTAwGKTX8A-O1kYh2n4HXosGA' alt='Calm Colors Powerpoint and Google Slides Templates for Teachers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shayna Vohs" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/O1cIJE3berlRWNnaj4jMsO6eywtSSO7exSL0oLvaHul_YyZduwdJF1Z7LExOWwERqvbFcSUcnF5nkcU7D_FlneABJMCPE2lgGT5Pw8oHjLp3HJgfC4Q_6vBjPiIxB5y9BdS7CLn0LKH4uYX1-aHn31BrlRR68qhJkUskBRTAwGKTX8A-O1kYh2n4HXosGA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Teacher Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/48291203/teacher-newsletter1706704209.jpg' alt='Free Teacher Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/48291203/teacher-newsletter1706704209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cool Free Education Google Slides Templates and Themes for Teachers">
+                                <img itemprop="contentUrl url" src='https://cdn.atomisystems.com/uploads/2023/05/sketch-note-Google-Slides-template.webp' alt='10 Cool Free Education Google Slides Templates and Themes for Teachers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atomi Systems" />
+                                </span>
+                                <a href='https://cdn.atomisystems.com/uploads/2023/05/sketch-note-Google-Slides-template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Fernando Tatis Jr.: MLB Superstar & Padres Icon</title>
+                    <meta name="description" content="Discover the dynamic world of Fernando Tatis Jr., the San Diego Padres' talented shortstop. Explore his journey, skills, and impact on MLB. Follow his rise as a baseball icon and witness the excitement he brings to the field! Stay updated on his performances and achievements.">
+                    <meta name="keywords" content="fernando tatis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fernando-tatis">
+                            <span itemprop="name">fernando tatis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fernando Tatis Jr.: MLB Superstar & Padres Icon</h1>
+                <p>Fernando Tatis Jr. is a rising star in Major League Baseball, known for his explosive play and charismatic style. As the shortstop for the San Diego Padres, Tatis has quickly become a fan favorite. His impressive batting skills and extraordinary athleticism have made him one of the most exciting players to watch in today’s game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatis Jr. - San Diego Padres Right Fielder - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/mlb/players/full/35983.png' alt='Fernando Tatis Jr. - San Diego Padres Right Fielder - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/mlb/players/full/35983.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatís - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Fernando_Tatis.jpg' alt='Fernando Tatís - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2379">
+                                <meta itemprop="height" content="2267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a1/Fernando_Tatis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatís Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/13/Padres_Visit_3rd_MAW_Marines_at_Miramar_%282%29_%28cropped%29.jpg' alt='Fernando Tatís Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="2855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/13/Padres_Visit_3rd_MAW_Marines_at_Miramar_%282%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Padres Truly Commit to Fernando Tatis Jr. - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/02/19/sports/19kepner-padres-print1/18kepner-padres-1-mediumSquareAt3X.jpg' alt='The Padres Truly Commit to Fernando Tatis Jr. - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/02/19/sports/19kepner-padres-print1/18kepner-padres-1-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatis Jr. Stats, Age, Position, Height, Weight, Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665487/headshot/67/current' alt='Fernando Tatis Jr. Stats, Age, Position, Height, Weight, Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665487/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Fernando Tatis Jr. Still Mash After A Year Away From MLB ...">
+                                <img itemprop="contentUrl url" src='https://fivethirtyeight.com/wp-content/uploads/2023/04/GettyImages-1483714287-4x3-1.jpg?w=916' alt='Can Fernando Tatis Jr. Still Mash After A Year Away From MLB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="916">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="538 — Election Polls, Politics, and Analysis - ABC News" />
+                                </span>
+                                <a href='https://fivethirtyeight.com/wp-content/uploads/2023/04/GettyImages-1483714287-4x3-1.jpg?w=916' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TUBALU Fernando Tatis Jr Poster Baseball Art Canvas Wall Art Decor Print  Picture Paintings for Living Room Bedroom Decoration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GUXcql02L._AC_UF894,1000_QL80_.jpg' alt='TUBALU Fernando Tatis Jr Poster Baseball Art Canvas Wall Art Decor Print  Picture Paintings for Living Room Bedroom Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GUXcql02L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatis Jr. extends his hitting streak to 15 games with a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3386867238970225040' alt='Fernando Tatis Jr. extends his hitting streak to 15 games with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3386867238970225040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatis Jr.'s Redemption Tour Hits Yankee Stadium - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/05/25/multimedia/25mlb-tatis-top-blgq/25mlb-tatis-top-blgq-superJumbo.jpg' alt='Fernando Tatis Jr.'s Redemption Tour Hits Yankee Stadium - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1454">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/05/25/multimedia/25mlb-tatis-top-blgq/25mlb-tatis-top-blgq-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fernando Tatis Jr. Trade Has Proven To Be A Bad Bargain For The ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6707e602e58d712a1f63b01b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' alt='Fernando Tatis Jr. Trade Has Proven To Be A Bad Bargain For The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6707e602e58d712a1f63b01b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

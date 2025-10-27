@@ -1,0 +1,129 @@
+<title>Stunning Moana Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a delightful collection of Moana wallpapers! Perfect for any fan, these vibrant designs will bring joy to your device. Enjoy the beauty of Moana and her incredible journey every day with captivating images that fit perfectly on mobile screens. Download yours now!">
+                    <meta name="keywords" content="moana wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moana-wallpaper">
+                            <span itemprop="name">moana wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moana Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Moana wallpapers! Celebrate the adventurous spirit of Moana and her vibrant world. Discover a variety of designs featuring Moana, Maui, and the breathtaking ocean scenery. Perfect for fans of all ages to enjoy on their phones, tablets, or desktops!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana Wall Mural Peel and Stick,moana Wallpaper Non-woven,moana ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48715412/r/il/cd336a/6431524088/il_fullxfull.6431524088_5g8a.jpg' alt='Moana Wall Mural Peel and Stick,moana Wallpaper Non-woven,moana ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48715412/r/il/cd336a/6431524088/il_fullxfull.6431524088_5g8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana & Maui Disney Princess Woven Self-Adhesive Removable Wallpaper Modern  Mural M132">
+                                <img itemprop="contentUrl url" src='https://www.decalz.co/cdn/shop/products/M132moana2-EX.jpg?v=1603558344' alt='Moana & Maui Disney Princess Woven Self-Adhesive Removable Wallpaper Modern  Mural M132'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz" />
+                                </span>
+                                <a href='https://www.decalz.co/cdn/shop/products/M132moana2-EX.jpg?v=1603558344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana 2 iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/77/7a/cc777aa8f0e636687d61fa083849c3bf.jpg' alt='Moana 2 iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/77/7a/cc777aa8f0e636687d61fa083849c3bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Komar Disney XXL 2-801 Non-Woven Photo Wallpaper - Moana and Maui - Size:  184 x 248 cm (Width x Height) - South Sea Children's Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81LaD2vBigL.jpg' alt='Komar Disney XXL 2-801 Non-Woven Photo Wallpaper - Moana and Maui - Size:  184 x 248 cm (Width x Height) - South Sea Children's Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1855">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81LaD2vBigL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana Wallpaper by Thekingblader995 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df1kygl-4e932cbb-e450-463a-be39-937f1d251ad7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGYxa3lnbC00ZTkzMmNiYi1lNDUwLTQ2M2EtYmUzOS05MzdmMWQyNTFhZDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bc4HRkaiWUC90a0DVvcOv_FYSW7d60D6MVoKPaiu-3o' alt='Moana Wallpaper by Thekingblader995 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df1kygl-4e932cbb-e450-463a-be39-937f1d251ad7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGYxa3lnbC00ZTkzMmNiYi1lNDUwLTQ2M2EtYmUzOS05MzdmMWQyNTFhZDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bc4HRkaiWUC90a0DVvcOv_FYSW7d60D6MVoKPaiu-3o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana Wall Mural | Moana Wallpaper | Moana Wall Decor | Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33244676/r/il/692335/3597208709/il_570xN.3597208709_3kgv.jpg' alt='Moana Wall Mural | Moana Wallpaper | Moana Wall Decor | Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33244676/r/il/692335/3597208709/il_570xN.3597208709_3kgv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Moana 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/moana-4k-portrait-poster-5172antol1oar0cc.webp' alt='Baby Moana 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/moana-4k-portrait-poster-5172antol1oar0cc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Key Art and Images | UK Press">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/unknown_a41d625e.jpeg?region=0,297,770,434' alt='Key Art and Images | UK Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/unknown_a41d625e.jpeg?region=0,297,770,434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Moana 2 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/137/1372320.jpeg' alt='Download Moana 2 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/137/1372320.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/e/7/50740-1536x2732-iphone-hd-moana-wallpaper-photo.jpg' alt='Moana Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/e/7/50740-1536x2732-iphone-hd-moana-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

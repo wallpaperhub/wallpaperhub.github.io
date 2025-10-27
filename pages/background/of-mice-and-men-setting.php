@@ -1,0 +1,129 @@
+<title>Of Mice and Men: Exploring Its Setting</title>
+                    <meta name="description" content="Discover the compelling setting of "Of Mice and Men," a poignant tale set during the Great Depression. Explore the Salinas Valley ranch, its beautiful landscapes, and the harsh realities of life for migrant workers, shedding light on themes of hope and loneliness in this classic novel.">
+                    <meta name="keywords" content="of mice and men setting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/of-mice-and-men-setting">
+                            <span itemprop="name">of mice and men setting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Of Mice and Men: Exploring Its Setting</h1>
+                <p>The setting of "Of Mice and Men" is during the Great Depression in California's Salinas Valley. It highlights both the beauty of nature and the harsh realities of the time. The ranch serves as the primary backdrop, symbolizing hope and the American Dream, while also showcasing the loneliness and struggles faced by itinerant workers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men Setting | Shmoop">
+                                <img itemprop="contentUrl url" src='https://media1.shmoop.com/images/chart/Of-Mice-and-Men/map.png' alt='Of Mice and Men Setting | Shmoop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shmoop" />
+                                </span>
+                                <a href='https://media1.shmoop.com/images/chart/Of-Mice-and-Men/map.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men - Setting | Steinbeck in the Schools">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6109dc75661ecdc2af67db77/614a1b45efbb3ca03fd2f7e7_TEACHING_OfMiceandMen.jpeg' alt='Of Mice and Men - Setting | Steinbeck in the Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steinbeck in the Schools" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6109dc75661ecdc2af67db77/614a1b45efbb3ca03fd2f7e7_TEACHING_OfMiceandMen.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men by John Steinbeck | Setting, Time Period ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/dust_bowl_in_texas_county_oklahoma1135136036419904232.jpg' alt='Of Mice and Men by John Steinbeck | Setting, Time Period ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/dust_bowl_in_texas_county_oklahoma1135136036419904232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story - US English-Of Mice and Men - LibGuides at American ...">
+                                <img itemprop="contentUrl url" src='https://www.yorknotes.com/images/onlineguides/of-mice-and-men/6-MAP.jpg' alt='The Story - US English-Of Mice and Men - LibGuides at American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LibGuides at American School of Madrid" />
+                                </span>
+                                <a href='https://www.yorknotes.com/images/onlineguides/of-mice-and-men/6-MAP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men (John Steinbeck) | RVGFanatic">
+                                <img itemprop="contentUrl url" src='http://rvgfanatic.com/wordpress/wp-content/uploads/2021/05/MiceMenJS18.jpg' alt='Of Mice and Men (John Steinbeck) | RVGFanatic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RVG Fanatic" />
+                                </span>
+                                <a href='http://rvgfanatic.com/wordpress/wp-content/uploads/2021/05/MiceMenJS18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unit #3: "Of Mice and Men" - John Steinbeck - Ms. Neals' Classroom">
+                                <img itemprop="contentUrl url" src='http://nealsclassroom.weebly.com/uploads/1/8/4/1/18412039/1422890155.png' alt='Unit #3: "Of Mice and Men" - John Steinbeck - Ms. Neals' Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="366">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ms. Neals' Classroom - Weebly" />
+                                </span>
+                                <a href='http://nealsclassroom.weebly.com/uploads/1/8/4/1/18412039/1422890155.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait I Overview: Of Mice and Men – Nicholas Porcella">
+                                <img itemprop="contentUrl url" src='https://wordpress.clarku.edu/wp-content/uploads/sites/416/2016/01/mice-and-men.jpg' alt='Portrait I Overview: Of Mice and Men – Nicholas Porcella'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="207">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wordpress.clarku.edu" />
+                                </span>
+                                <a href='https://wordpress.clarku.edu/wp-content/uploads/sites/416/2016/01/mice-and-men.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men - Setting | Steinbeck in the Schools">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6109dc75661ecdc2af67db77/613c189185f55ef024b7586e_OGI-Mice-RG.png' alt='Of Mice and Men - Setting | Steinbeck in the Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steinbeck in the Schools" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6109dc75661ecdc2af67db77/613c189185f55ef024b7586e_OGI-Mice-RG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men (1992 film) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/d/dc/OfMiceAndMenPoster.jpg' alt='Of Mice and Men (1992 film) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="248">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/d/dc/OfMiceAndMenPoster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Of Mice and Men by John Steinbeck - Suntup Editions">
+                                <img itemprop="contentUrl url" src='https://suntup.press/wp-content/uploads/2024/02/cover-Of-Mice-and-Men-DPi-400.jpg' alt='Of Mice and Men by John Steinbeck - Suntup Editions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Suntup Editions" />
+                                </span>
+                                <a href='https://suntup.press/wp-content/uploads/2024/02/cover-Of-Mice-and-Men-DPi-400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning June Wallpapers for a Bright Summer Vibe</title>
+                    <meta name="description" content="Discover vibrant June wallpapers that capture the essence of summer! From blooming flowers to sun-filled landscapes, find the perfect wallpaper to brighten your device and celebrate the season. Refresh your screens with our beautiful collection today!">
+                    <meta name="keywords" content="june wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/june-wallpaper">
+                            <span itemprop="name">june wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning June Wallpapers for a Bright Summer Vibe</h1>
+                <p>June wallpapers are a perfect way to embrace the vibrant spirit of summer. Featuring colorful landscapes, blooming flowers, and sun-kissed scenes, they bring life to your devices. Whether you prefer serene nature themes or fun, festive designs, June wallpapers can refresh your home screen and uplift your mood for the sunny days ahead.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE June Desktop Background & Wallpaper – Pen & Paint">
+                                <img itemprop="contentUrl url" src='http://pen-and-paint.com/cdn/shop/articles/june_pen_and_paint_1200x1200.jpg?v=1654101062' alt='FREE June Desktop Background & Wallpaper – Pen & Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pen & Paint" />
+                                </span>
+                                <a href='http://pen-and-paint.com/cdn/shop/articles/june_pen_and_paint_1200x1200.jpg?v=1654101062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hello June Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-june-1weve93g6wptcjgc.jpg' alt='100+] Hello June Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-june-1weve93g6wptcjgc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/june-in-ombre-watercolor-ctwj48vnb9u4jacl.jpg' alt='June Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/june-in-ombre-watercolor-ctwj48vnb9u4jacl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June 2024 Phone Wallpapers | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2024/03/Beach-June-2024-Phone-Wallpaper-Calendar.jpg' alt='June 2024 Phone Wallpapers | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2024/03/Beach-June-2024-Phone-Wallpaper-Calendar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June Desktop Downloads!">
+                                <img itemprop="contentUrl url" src='https://ohsobeautifulpaper.com/wp-content/uploads/2017/06/Summer-Fruit-Illustrated-Wallpaper-The-Good-Twin-OSBP-iPhone.jpg' alt='June Desktop Downloads!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Beautiful Paper" />
+                                </span>
+                                <a href='https://ohsobeautifulpaper.com/wp-content/uploads/2017/06/Summer-Fruit-Illustrated-Wallpaper-The-Good-Twin-OSBP-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello June">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/27/cd/2427cd77437c81661530c4e86be65dc1.jpg' alt='Hello June'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/27/cd/2427cd77437c81661530c4e86be65dc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebie: June 2018 Desktop Wallpapers - Every-Tuesday | Blog ...">
+                                <img itemprop="contentUrl url" src='https://every-tuesday.com/wp-content/uploads/2018/05/free-June-2018-desktop-wallpapers.jpg' alt='Freebie: June 2018 Desktop Wallpapers - Every-Tuesday | Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Every-Tuesday" />
+                                </span>
+                                <a href='https://every-tuesday.com/wp-content/uploads/2018/05/free-June-2018-desktop-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/16/94/05/169405d4dd24ea451b5d6edfc75a7b31.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/16/94/05/169405d4dd24ea451b5d6edfc75a7b31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download hello june wallpapers Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-june-s0xlnemheyt9xnjj.jpg' alt='Download hello june wallpapers Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-june-s0xlnemheyt9xnjj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June 2018 Wallpapers!">
+                                <img itemprop="contentUrl url" src='http://bit.ly/2Lem3PF' alt='June 2018 Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Beautiful Paper" />
+                                </span>
+                                <a href='http://bit.ly/2Lem3PF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

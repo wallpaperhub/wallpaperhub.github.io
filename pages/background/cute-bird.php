@@ -1,0 +1,129 @@
+<title>Adorable Birds: Discover Nature's Tiny Marvels</title>
+                    <meta name="description" content="Discover the enchanting world of cute birds! From their vibrant feathers to cheerful melodies, learn about various species and their delightful behaviors, perfect for bird lovers and nature enthusiasts. Explore how these adorable creatures brighten our days and enrich our lives!">
+                    <meta name="keywords" content="cute bird">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-bird">
+                            <span itemprop="name">cute bird</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Birds: Discover Nature's Tiny Marvels</h1>
+                <p>Cute birds captivate us with their vibrant colors, cheerful chirps, and charming personalities. From tiny finches to playful parakeets, these feathered friends bring joy to our lives. Watching them flit about or hearing their sweet songs can uplift any mood. Explore the enchanting world of cute birds and uncover their unique behaviors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cutest Looking Birds In The World">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EoRdPeegLqg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBrjZdZPh8sMPVMy7DDonhmZcOO_A' alt='20 Cutest Looking Birds In The World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EoRdPeegLqg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBrjZdZPh8sMPVMy7DDonhmZcOO_A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE 10 TOP CUTEST BIRDS IN THE WORLD (THEY WILL MAKE YOUR DAY!)">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1317/9597/files/bluebird_480x480.png?v=1622625506' alt='THE 10 TOP CUTEST BIRDS IN THE WORLD (THEY WILL MAKE YOUR DAY!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Anywhere" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1317/9597/files/bluebird_480x480.png?v=1622625506' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 8 Cutest Birds in The US | Nest Box Live">
+                                <img itemprop="contentUrl url" src='https://nestboxlive.com/wp-content/uploads/2024/05/chickadee-cute.webp' alt='Top 8 Cutest Birds in The US | Nest Box Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nest Box Live" />
+                                </span>
+                                <a href='https://nestboxlive.com/wp-content/uploads/2024/05/chickadee-cute.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is THE CUTEST bird you know? : r/birding">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-the-cutest-bird-you-know-v0-5s97sgnulc9d1.jpeg?width=1920&format=pjpg&auto=webp&s=5b334764dc53204269016828219d3b1f610c0ceb' alt='What is THE CUTEST bird you know? : r/birding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-the-cutest-bird-you-know-v0-5s97sgnulc9d1.jpeg?width=1920&format=pjpg&auto=webp&s=5b334764dc53204269016828219d3b1f610c0ceb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Cute Baby Bird Photos That Will Melt Your Heart">
+                                <img itemprop="contentUrl url" src='https://www.thesprucepets.com/thmb/Xljyp9TusVxW-jznYb8sBsHhnVY=/1080x0/filters:no_upscale():strip_icc()/79590861_556150255242597_5576742561921620521_n-91402a6c979f429ab5e4554fd6a21f14.jpg' alt='9 Cute Baby Bird Photos That Will Melt Your Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Pets" />
+                                </span>
+                                <a href='https://www.thesprucepets.com/thmb/Xljyp9TusVxW-jznYb8sBsHhnVY=/1080x0/filters:no_upscale():strip_icc()/79590861_556150255242597_5576742561921620521_n-91402a6c979f429ab5e4554fd6a21f14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images Of Cutest Birds | Wallpaper Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/03/71/87/037187aa5414a3d1b252442c08dce90b.jpg' alt='Images Of Cutest Birds | Wallpaper Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/03/71/87/037187aa5414a3d1b252442c08dce90b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 8 Cutest Birds in The US | Nest Box Live">
+                                <img itemprop="contentUrl url" src='https://nestboxlive.com/wp-content/uploads/2024/05/cute-bushtit.webp' alt='Top 8 Cutest Birds in The US | Nest Box Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nest Box Live" />
+                                </span>
+                                <a href='https://nestboxlive.com/wp-content/uploads/2024/05/cute-bushtit.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top 12 Cutest Birds in America - Birds and Blooms">
+                                <img itemprop="contentUrl url" src='https://www.birdsandblooms.com/wp-content/uploads/2020/08/cardinal_leah-hallett.jpg?fit=680%2C513' alt='The Top 12 Cutest Birds in America - Birds and Blooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birds and Blooms" />
+                                </span>
+                                <a href='https://www.birdsandblooms.com/wp-content/uploads/2020/08/cardinal_leah-hallett.jpg?fit=680%2C513' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A tufted titmouse">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/92/91/8a92919023eb73b7ef21914ec572e4ef.jpg' alt='A tufted titmouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/92/91/8a92919023eb73b7ef21914ec572e4ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Cutest Birds in the World">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MjEaniGTrx0/maxresdefault.jpg' alt='12 Cutest Birds in the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MjEaniGTrx0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

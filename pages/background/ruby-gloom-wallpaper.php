@@ -1,0 +1,129 @@
+<title>Whimsical Ruby Gloom Wallpaper for Every Fan</title>
+                    <meta name="description" content="Discover delightful Ruby Gloom wallpaper that brings your favorite characters to life! Perfect for bedrooms or playrooms, these designs offer a spooky yet cheerful vibe, making any space feel special. Ideal for fans of all ages, elevate your decor with a touch of whimsy and charm today!">
+                    <meta name="keywords" content="ruby gloom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ruby-gloom-wallpaper">
+                            <span itemprop="name">ruby gloom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Ruby Gloom Wallpaper for Every Fan</h1>
+                <p>Transform your space with enchanting Ruby Gloom wallpaper! Featuring whimsical designs inspired by the beloved animated series, these wallpapers add a touch of spookiness and charm to any room. Perfect for fans of all ages, Ruby Gloom wallpaper combines vibrant colors and unique characters to create an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="classic Ruby gloom wallpapers : r/RubyGloom">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/classic-ruby-gloom-wallpapers-v0-uoqnbwa7btea1.jpg?width=1024&format=pjpg&auto=webp&s=459157a8aef37ffcdc2ad1616c1ece0f552c4afa' alt='classic Ruby gloom wallpapers : r/RubyGloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/classic-ruby-gloom-wallpapers-v0-uoqnbwa7btea1.jpg?width=1024&format=pjpg&auto=webp&s=459157a8aef37ffcdc2ad1616c1ece0f552c4afa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="classic Ruby gloom wallpapers : r/RubyGloom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-yfzw8wa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=11e0f0cf18b4bdfbbb2e020630bf819cd9a3d5d1' alt='classic Ruby gloom wallpapers : r/RubyGloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-yfzw8wa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=11e0f0cf18b4bdfbbb2e020630bf819cd9a3d5d1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ruby gloom, boo boo, doom kitty wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/6d/fa/266dfae66060bcc05840a18213f79a39.jpg' alt='ruby gloom, boo boo, doom kitty wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/6d/fa/266dfae66060bcc05840a18213f79a39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="classic Ruby gloom wallpapers : r/RubyGloom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-mfnvjwa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=80d17e7334948b2afa625b07db52f8ac88181157' alt='classic Ruby gloom wallpapers : r/RubyGloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-mfnvjwa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=80d17e7334948b2afa625b07db52f8ac88181157' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruby Gloom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4b/df/ff/4bdfff02d7b429024026613b67c9ca50.jpg' alt='Ruby Gloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4b/df/ff/4bdfff02d7b429024026613b67c9ca50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruby Gloom Wallpaper 6 : Free Download, Borrow, and Streaming ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/download/ruby_gloom_background_25_by_lady_angelia_13_dearipv/ruby_gloom_background_25_by_lady_angelia_13_dearipv.png' alt='Ruby Gloom Wallpaper 6 : Free Download, Borrow, and Streaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/download/ruby_gloom_background_25_by_lady_angelia_13_dearipv/ruby_gloom_background_25_by_lady_angelia_13_dearipv.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Ruby Gloom ideas | ruby gloom, ruby, cartoon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/61/b9/7f/61b97f975e364921e16e6199d78f15ac.jpg' alt='160 Ruby Gloom ideas | ruby gloom, ruby, cartoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/61/b9/7f/61b97f975e364921e16e6199d78f15ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="classic Ruby gloom wallpapers : r/RubyGloom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-xfa89wa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=1b2bafde2667c849bec22b825ced2af1e5d46417' alt='classic Ruby gloom wallpapers : r/RubyGloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/classic-ruby-gloom-wallpapers-v0-xfa89wa7btea1.jpg?width=1600&format=pjpg&auto=webp&s=1b2bafde2667c849bec22b825ced2af1e5d46417' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruby Gloom Wallpaper 5 : Free Download, Borrow, and Streaming ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/download/ruby_gloom_background_48_by_lady_angelia_13_dearkt8/ruby_gloom_background_48_by_lady_angelia_13_dearkt8.png' alt='Ruby Gloom Wallpaper 5 : Free Download, Borrow, and Streaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/download/ruby_gloom_background_48_by_lady_angelia_13_dearkt8/ruby_gloom_background_48_by_lady_angelia_13_dearkt8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruby Gloom Wallpaper by XUnlimited on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f17406f4-0d43-4056-ba68-bb9892ac1eef/dyl8xn-8d552b27-9820-4a6d-a821-26eae2154669.png/v1/fill/w_600,h_450,q_80,strp/ruby_gloom_wallpaper_by_xunlimited_dyl8xn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6IlwvZlwvZjE3NDA2ZjQtMGQ0My00MDU2LWJhNjgtYmI5ODkyYWMxZWVmXC9keWw4eG4tOGQ1NTJiMjctOTgyMC00YTZkLWE4MjEtMjZlYWUyMTU0NjY5LnBuZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xJhDmnWOcVtttMTuMjUYDr4rfdM28C_ziGudKjrIkes' alt='Ruby Gloom Wallpaper by XUnlimited on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f17406f4-0d43-4056-ba68-bb9892ac1eef/dyl8xn-8d552b27-9820-4a6d-a821-26eae2154669.png/v1/fill/w_600,h_450,q_80,strp/ruby_gloom_wallpaper_by_xunlimited_dyl8xn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6IlwvZlwvZjE3NDA2ZjQtMGQ0My00MDU2LWJhNjgtYmI5ODkyYWMxZWVmXC9keWw4eG4tOGQ1NTJiMjctOTgyMC00YTZkLWE4MjEtMjZlYWUyMTU0NjY5LnBuZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xJhDmnWOcVtttMTuMjUYDr4rfdM28C_ziGudKjrIkes' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

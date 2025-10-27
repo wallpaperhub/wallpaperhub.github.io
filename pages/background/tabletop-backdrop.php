@@ -1,0 +1,129 @@
+<title>Elevate Your Tabletop Gaming with Stunning Backdrops</title>
+                    <meta name="description" content="Discover how tabletop backdrops can enhance your gaming experience. With vibrant designs and immersive themes, these backdrops bring your miniatures to life and create an exciting atmosphere for play and photography. Perfect for gamers and collectors alike, transform your tabletop today!">
+                    <meta name="keywords" content="tabletop backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tabletop-backdrop">
+                            <span itemprop="name">tabletop backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Tabletop Gaming with Stunning Backdrops</h1>
+                <p>Tabletop backdrops are essential for adding depth and character to your tabletop gaming experience. They serve as scenic backgrounds, enhancing the visual appeal of your games and miniatures. Whether for photography or gameplay, choosing the right backdrop can transform a simple table into a captivating setting that immerses players in adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Photography Backdrops Small Product Background: Flat Lay  Seamless Paper Props - Tabletop Photo Shoot for Jewelry Cosmetics Food ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51nPv7ZgyTL.jpg' alt='Amazon.com : Photography Backdrops Small Product Background: Flat Lay  Seamless Paper Props - Tabletop Photo Shoot for Jewelry Cosmetics Food ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51nPv7ZgyTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 2PCS Double Sided Photo Backdrop Boards for Flat Lay, 24x24IN  Wooden Cement Food Photography Background Tabletop Backdrop for Video ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7143knpGlXL.jpg' alt='Amazon.com : 2PCS Double Sided Photo Backdrop Boards for Flat Lay, 24x24IN  Wooden Cement Food Photography Background Tabletop Backdrop for Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7143knpGlXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9PCS 18PCS Product Food Photography Background Boards with Papers, 24x24  Inch 2-in-1 Double Sided Flat Lay Photo Tabletop Backdrops Boards for  Jewelry ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41UHulHS+oL._AC_UF894,1000_QL80_.jpg' alt='9PCS 18PCS Product Food Photography Background Boards with Papers, 24x24  Inch 2-in-1 Double Sided Flat Lay Photo Tabletop Backdrops Boards for  Jewelry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41UHulHS+oL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Food Photography Photo Backdrops Board: 7Pcs 12Patterns  Product Background Table Top Kit - Flat Lay Props for Jewelry.(Medium Size  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ko1KKT+xL.jpg' alt='Amazon.com : Food Photography Photo Backdrops Board: 7Pcs 12Patterns  Product Background Table Top Kit - Flat Lay Props for Jewelry.(Medium Size  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ko1KKT+xL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8PCS 16Patterns Tabletop Photography Backdrops Paper with Stand Small  Product Photo Background Double-Side 22x34IN Seamless Flat Lay Paper Props  Shoot ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Rp9UFayjL._AC_UF894,1000_QL80_.jpg' alt='8PCS 16Patterns Tabletop Photography Backdrops Paper with Stand Small  Product Photo Background Double-Side 22x34IN Seamless Flat Lay Paper Props  Shoot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Rp9UFayjL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : LDMJNL 39x27in Product Photography Backdrops with Stand 7PCS  14Patterns Reusable Flat Lay Backdrops for Food Photography : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wc1nPsLEL.jpg' alt='Amazon.com : LDMJNL 39x27in Product Photography Backdrops with Stand 7PCS  14Patterns Reusable Flat Lay Backdrops for Food Photography : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wc1nPsLEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 8Pcs 16Patterns Table Top Small Food Background Kit Makeup  Product Shooting Backdrop Photo Backdrop Board Product Photography for  Small ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/611QnyVKnHL.jpg' alt='Amazon.com : 8Pcs 16Patterns Table Top Small Food Background Kit Makeup  Product Shooting Backdrop Photo Backdrop Board Product Photography for  Small ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1593">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/611QnyVKnHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop, Graduation Backdrop, Table Top Backdrop, Pop up Shop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10589505/r/il/7a938d/3848376359/il_570xN.3848376359_ef1v.jpg' alt='Backdrop, Graduation Backdrop, Table Top Backdrop, Pop up Shop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10589505/r/il/7a938d/3848376359/il_570xN.3848376359_ef1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Product Photography Backdrops Stand Kit: 31x59in White Backdrop Background  Black Backdrop Background with 26x29in Small T-Shape Backdrop Stand ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51FolR8BQwL._AC_UF894,1000_QL80_.jpg' alt='Product Photography Backdrops Stand Kit: 31x59in White Backdrop Background  Black Backdrop Background with 26x29in Small T-Shape Backdrop Stand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51FolR8BQwL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Ohiyoo Photography Backdrop 12 Pcs 24 Patterns Product  Photography Backdrops 34 x 22 in Tabletop Backdrop for Photography Small  Product ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51OZsls0h3L.jpg' alt='Amazon.com : Ohiyoo Photography Backdrop 12 Pcs 24 Patterns Product  Photography Backdrops 34 x 22 in Tabletop Backdrop for Photography Small  Product ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51OZsls0h3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

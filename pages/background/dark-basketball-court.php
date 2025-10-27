@@ -1,0 +1,129 @@
+<title>Experience the Thrill of a Dark Basketball Court</title>
+                    <meta name="description" content="Discover the allure of a dark basketball court, where shadows enhance the excitement. Perfect your skills in a unique environment that sharpens your instincts and deepens your love for the game. Join the night players who thrive in this exhilarating setting!">
+                    <meta name="keywords" content="dark basketball court">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-basketball-court">
+                            <span itemprop="name">dark basketball court</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Thrill of a Dark Basketball Court</h1>
+                <p>In the depths of night, the dark basketball court transforms into a realm of challenge and thrill. Shadows play tricks on the mind, while the sound of sneakers squeaking echoes in the silence. Players navigate the dimly lit space, relying on instinct and skill. Every shot becomes a gamble, every dribble a heartbeat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1309683017/photo/futuristic-illuminated-sports-goal.jpg?s=612x612&w=0&k=20&c=1bb7HjMqRiZz_L6kX55lz_5S_o0S5P2q8-hfMNJNMgg=' alt='2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1309683017/photo/futuristic-illuminated-sports-goal.jpg?s=612x612&w=0&k=20&c=1bb7HjMqRiZz_L6kX55lz_5S_o0S5P2q8-hfMNJNMgg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,680 Black Basketball Court Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/black-basketball-hall-empty-stands-600nw-2259831867.jpg' alt='34,680 Black Basketball Court Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/black-basketball-hall-empty-stands-600nw-2259831867.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1195558598/photo/basketball-court-with-wooden-floor-and-a-basketball-hoop.jpg?s=612x612&w=0&k=20&c=Ngw-lKaYSnLxoZp4p0NswVcng91KfM1y6FwfA0oPt9I=' alt='2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1195558598/photo/basketball-court-with-wooden-floor-and-a-basketball-hoop.jpg?s=612x612&w=0&k=20&c=Ngw-lKaYSnLxoZp4p0NswVcng91KfM1y6FwfA0oPt9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,005 Dark Basketball Court Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/grand-basketball-arena-dark-spot-lights-light-109194675.jpg' alt='2,005 Dark Basketball Court Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/grand-basketball-arena-dark-spot-lights-light-109194675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1551911414/photo/empty-basketball-court-on-3d-illustration.jpg?s=612x612&w=0&k=20&c=YvuL1dHY2WM-FxXibF5pqt4gED0atDDh0dHcKZc08xA=' alt='2,000+ Dark Basketball Court Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1551911414/photo/empty-basketball-court-on-3d-illustration.jpg?s=612x612&w=0&k=20&c=YvuL1dHY2WM-FxXibF5pqt4gED0atDDh0dHcKZc08xA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170+ Dark Basketball Gym Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1220445873/photo/empty-box-on-basketball-field.jpg?s=612x612&w=0&k=20&c=1e3Iccl37AQr9A1ZIZDj0khvjRUdWntrPxDv_76Lc7I=' alt='170+ Dark Basketball Gym Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1220445873/photo/empty-box-on-basketball-field.jpg?s=612x612&w=0&k=20&c=1e3Iccl37AQr9A1ZIZDj0khvjRUdWntrPxDv_76Lc7I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="268 Dark Basketball Court Playground Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/illuminated-basketball-hoop-dark-urban-court-neon-lights-fog-effects-creating-dramatic-atmosphere-ai-generated-355459910.jpg' alt='268 Dark Basketball Court Playground Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/illuminated-basketball-hoop-dark-urban-court-neon-lights-fog-effects-creating-dramatic-atmosphere-ai-generated-355459910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Basketball Court Images – Browse 17,380 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/11/32/73/360_F_311327327_BcpcuX1WH5JCZ2pCsL3ZYYzUg8GkbgEd.jpg' alt='Dark Basketball Court Images – Browse 17,380 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/11/32/73/360_F_311327327_BcpcuX1WH5JCZ2pCsL3ZYYzUg8GkbgEd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="floodlights dark basketball court">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/d7e94066a223836e1a92cbb52ecdf35f7af50c05142fcdcb0f9829896909d9c4.jpg' alt='floodlights dark basketball court'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/d7e94066a223836e1a92cbb52ecdf35f7af50c05142fcdcb0f9829896909d9c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,400+ Empty Basketball Court Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/466336640/photo/basketball-arena.jpg?s=612x612&w=0&k=20&c=danGq0S3VD4-Eh2RY39YsMFTpn2saw_7YRgpS157Q1M=' alt='18,400+ Empty Basketball Court Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/466336640/photo/basketball-arena.jpg?s=612x612&w=0&k=20&c=danGq0S3VD4-Eh2RY39YsMFTpn2saw_7YRgpS157Q1M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

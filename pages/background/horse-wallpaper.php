@@ -1,0 +1,129 @@
+<title>Stunning Horse Wallpaper for Your Home Decor</title>
+                    <meta name="description" content="Discover our beautiful selection of horse wallpaper, perfect for enhancing any room. With designs that capture the spirit and elegance of horses, you can create a cozy, inspiring atmosphere. Shop now and bring the elegance of equine art into your space!">
+                    <meta name="keywords" content="horse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horse-wallpaper">
+                            <span itemprop="name">horse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Horse Wallpaper for Your Home Decor</h1>
+                <p>Elevate your space with stunning horse wallpaper that showcases the beauty and grace of these magnificent creatures. From serene pastures to dynamic galloping scenes, our collection offers something for every equestrian lover. Transform your home or office with designs that inspire and captivate. Browse now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Horse ideas in 2025 | beautiful horses, horse wallpaper, horse ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1a/1b/7a/1a1b7aad33d09cdfc6fe794b79db7581.jpg' alt='40 Horse ideas in 2025 | beautiful horses, horse wallpaper, horse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1a/1b/7a/1a1b7aad33d09cdfc6fe794b79db7581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horses">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/54866/horses-3.jpg?h=699&q=85' alt='Horses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/54866/horses-3.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Wallpaper (Galloping, Sky) #1531">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_h/1531.jpg' alt='Horse Wallpaper (Galloping, Sky) #1531'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_h/1531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Running Horses Wallpaper at ₹ 400/roll | Designer Wallpaper in ...">
+                                <img itemprop="contentUrl url" src='https://5.imimg.com/data5/ND/JX/DP/SELLER-86666099/customized-printed-wallpaper-500x500.jpg' alt='Running Horses Wallpaper at ₹ 400/roll | Designer Wallpaper in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndiaMART" />
+                                </span>
+                                <a href='https://5.imimg.com/data5/ND/JX/DP/SELLER-86666099/customized-printed-wallpaper-500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Wallpaper HD / Horse Images 4K / Horse Photos 3D">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1CYkJsTchL.jpg' alt='Horse Wallpaper HD / Horse Images 4K / Horse Photos 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1CYkJsTchL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/db/e4/badbe4965d608d63c34f763276b9ffce.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/db/e4/badbe4965d608d63c34f763276b9ffce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Wallpaper (Countryside, Pasture) #26489">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/pic_v/26489.jpg' alt='Horse Wallpaper (Countryside, Pasture) #26489'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/pic_v/26489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="horse Archives - Magic Decor ®">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/02/29225657/image-1683298564-4588-710x488.jpg' alt='horse Archives - Magic Decor ®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/02/29225657/image-1683298564-4588-710x488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Horse wallpaper Elegant High Quality wall Art poster Choose your Size">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/ODAwWDEyODA=/z/5fAAAOSwK6RZGmRi/$_57.JPG?set_id=8800005007' alt='Wild Horse wallpaper Elegant High Quality wall Art poster Choose your Size'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/ODAwWDEyODA=/z/5fAAAOSwK6RZGmRi/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Wallpaper Mural Ideas For Your Space | Limitless Walls">
+                                <img itemprop="contentUrl url" src='http://www.limitlesswalls.com/cdn/shop/articles/beautiful-bay-horse-3-e1584117719723.jpg?v=1666217037' alt='Horse Wallpaper Mural Ideas For Your Space | Limitless Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limitless Walls" />
+                                </span>
+                                <a href='http://www.limitlesswalls.com/cdn/shop/articles/beautiful-bay-horse-3-e1584117719723.jpg?v=1666217037' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

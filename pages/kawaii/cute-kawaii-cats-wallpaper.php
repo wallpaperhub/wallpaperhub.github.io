@@ -1,0 +1,129 @@
+<title>Kawaii Cats Wallpaper: Adorable Designs for Every Screen</title>
+                    <meta name="description" content="Discover the cutest kawaii cats wallpaper collection! Perfect for cat lovers, our wallpapers feature charming illustrations that brighten your screens. Enjoy a delightful selection of designs that add a playful touch to your device while reflecting your love for all things feline.">
+                    <meta name="keywords" content="cute kawaii cats wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cute-kawaii-cats-wallpaper">
+                            <span itemprop="name">cute kawaii cats wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Cats Wallpaper: Adorable Designs for Every Screen</h1>
+                <p>Transform your device with cute kawaii cats wallpaper! These adorable feline designs bring joy and warmth to your screens, featuring playful cat illustrations in soft pastel colors. Perfect for cat lovers, our collection offers a variety of styles to suit any taste, ensuring your wallpaper is as charming as it is delightful!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii cat wallpaper by Ch0uka - Download on ZEDGE™ | 976c">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/cf/9c/f6cf9c3b98508af43e7761811c3ba69f.jpg' alt='Kawaii cat wallpaper by Ch0uka - Download on ZEDGE™ | 976c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/cf/9c/f6cf9c3b98508af43e7761811c3ba69f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii cat wallpapers    : r/midjourney">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kawaii-cat-wallpapers-v0-77khw3wazwga1.jpg?width=640&crop=smart&auto=webp&s=7561c779d9cdfbcac9c757e3430935ea3f8c7171' alt='Kawaii cat wallpapers    : r/midjourney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kawaii-cat-wallpapers-v0-77khw3wazwga1.jpg?width=640&crop=smart&auto=webp&s=7561c779d9cdfbcac9c757e3430935ea3f8c7171' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Backgrounds & Wallpapers - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/peach-goma-august-boat-ride-swans-wallpaper-kawaii-hoshi-311x212.jpg' alt='Cat Backgrounds & Wallpapers - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="311">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/peach-goma-august-boat-ride-swans-wallpaper-kawaii-hoshi-311x212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kawaii-cat-7va4ri70il24d2u7.jpg' alt='100+] Kawaii Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kawaii-cat-7va4ri70il24d2u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Cat Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-kawaii-cat-cuddle-bn3kwctxxkn8r5u5.jpg' alt='Cute Kawaii Cat Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-kawaii-cat-cuddle-bn3kwctxxkn8r5u5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute / Kawaii Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/39/b5/4539b5db50d997492c215b3f70226e31.jpg' alt='Cute / Kawaii Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/39/b5/4539b5db50d997492c215b3f70226e31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Cat Kitten Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-kawaii-cat-kitten-koeo0o98y5gwzkie.jpg' alt='Cute Kawaii Cat Kitten Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-kawaii-cat-kitten-koeo0o98y5gwzkie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuddle cats, aww, cat, cute, kawaii, meow, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/389/159/HD-wallpaper-cuddle-cats-aww-cat-cute-kawaii-meow.jpg' alt='Cuddle cats, aww, cat, cute, kawaii, meow, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/389/159/HD-wallpaper-cuddle-cats-aww-cat-cute-kawaii-meow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Kawaii Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-kawaii-cat-o5nlaxb3ben2x7gw.jpg' alt='100+] Cute Kawaii Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-kawaii-cat-o5nlaxb3ben2x7gw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mitao Cat Cafe Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/03/peach-goma-seaside-cafe-desktop-wallpaper-kawaii-hoshi.jpg' alt='Cute Mitao Cat Cafe Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/03/peach-goma-seaside-cafe-desktop-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

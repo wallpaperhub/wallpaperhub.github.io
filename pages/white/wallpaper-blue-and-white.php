@@ -1,0 +1,129 @@
+<title>Transform Your Space with Blue and White Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of blue and white wallpaper! Perfect for creating a serene ambiance in any room, this versatile design adds elegance to your home. Explore various patterns and styles to elevate your decor with this timeless color combination.">
+                    <meta name="keywords" content="wallpaper blue and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/wallpaper-blue-and-white">
+                            <span itemprop="name">wallpaper blue and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Blue and White Wallpaper</h1>
+                <p>Blue and white wallpaper combines elegance and tranquility, perfect for any room. This timeless color palette offers endless design possibilities, from classic patterns to modern prints. It brings a refreshing feel to your space, creating a serene atmosphere. Ideal for bedrooms, living rooms, or dining areas, blue and white wallpaper enhances the beauty of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Geometric Wallpaper Modern Stripe Contact Paper Self  Adhesive Removable Waterproof Wall Paper for Cabinets Shiplap  Decoration17.71In X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ErFX+TyHL.jpg' alt='Blue and White Geometric Wallpaper Modern Stripe Contact Paper Self  Adhesive Removable Waterproof Wall Paper for Cabinets Shiplap  Decoration17.71In X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ErFX+TyHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old World Toile Wallpaper // Blue & White">
+                                <img itemprop="contentUrl url" src='http://nuelookathome.com/cdn/shop/files/Wallpaper-Old-World-Toile-Wallpaper-Blue-White.jpg?v=1738352793' alt='Old World Toile Wallpaper // Blue & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nue Look" />
+                                </span>
+                                <a href='http://nuelookathome.com/cdn/shop/files/Wallpaper-Old-World-Toile-Wallpaper-Blue-White.jpg?v=1738352793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripes Resource Library 3 inch Stripe Wallpaper - Blue & White">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SA9176-Stripes-Resource-Library-3-inch-Stripe-Wallpaper-Blue-White.jpg?v=1571709022&width=1946' alt='Stripes Resource Library 3 inch Stripe Wallpaper - Blue & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SA9176-Stripes-Resource-Library-3-inch-Stripe-Wallpaper-Blue-White.jpg?v=1571709022&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' alt='Indigo Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/12/Wallpaper-Geaorgia-McMillian-IndigoGarden-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper, Blue and White Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/7593f1/4692630987/il_570xN.4692630987_935b.jpg' alt='Floral Wallpaper, Blue and White Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/7593f1/4692630987/il_570xN.4692630987_935b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, Light Blue & White Plums and Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' alt='Blue, Light Blue & White Plums and Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Powder Blue – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePowderBlue_Thumbnail_ILW50309_WEB_6f449b6f-83aa-4ee4-982f-5b5a8bbe683a.webp?crop=center&height=1024&v=1737041758&width=1024' alt='Classic Stripe Wallpaper in Powder Blue – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePowderBlue_Thumbnail_ILW50309_WEB_6f449b6f-83aa-4ee4-982f-5b5a8bbe683a.webp?crop=center&height=1024&v=1737041758&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And White Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-background_23-2148998041.jpg' alt='Blue And White Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-background_23-2148998041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic French Countryside Light Blue & White Toile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/classic-french-countryside-light-blue-w-fals.jpg' alt='Classic French Countryside Light Blue & White Toile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/classic-french-countryside-light-blue-w-fals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

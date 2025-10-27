@@ -1,0 +1,129 @@
+<title>Explore the Enchanting World of Keeper of the Lost Cities</title>
+                    <meta name="description" content="Discover the magical journey of Sophie Foster in the Keeper of the Lost Cities series. Join her as she navigates a hidden elf society filled with secrets, friendships, and thrilling adventures. Perfect for fantasy lovers seeking an enchanting escape!">
+                    <meta name="keywords" content="keeper of the lost cities background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/keeper-of-the-lost-cities-background">
+                            <span itemprop="name">keeper of the lost cities background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enchanting World of Keeper of the Lost Cities</h1>
+                <p>Keeper of the Lost Cities is a captivating series by Shannon Messenger that follows Sophie Foster, a telepathic girl who discovers a secret world hidden from humans. Abandoned as a child, Sophie learns she belongs to a magical society filled with elves, danger, and adventure. This richly woven narrative explores themes of friendship, identity, and belonging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper of the Lost Cities phone wallpaper I made! | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/b3bc3dad-598e-4ce7-a611-0f38034085c6' alt='Keeper of the Lost Cities phone wallpaper I made! | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keeper of the Lost Cities Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/b3bc3dad-598e-4ce7-a611-0f38034085c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who here has Kotlc themed wallpaper? : r/KeeperoftheLostCities">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/who-here-has-kotlc-themed-wallpaper-v0-iao0lhm4dwd91.jpg?width=945&format=pjpg&auto=webp&s=ef3bc1e8f87f3643afc597f4c32ff9d9cd64f016' alt='Who here has Kotlc themed wallpaper? : r/KeeperoftheLostCities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/who-here-has-kotlc-themed-wallpaper-v0-iao0lhm4dwd91.jpg?width=945&format=pjpg&auto=webp&s=ef3bc1e8f87f3643afc597f4c32ff9d9cd64f016' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper of the Lost Cities | Fan Activities">
+                                <img itemprop="contentUrl url" src='https://www.keeperofthelostcities.com/images/90049-Keepers-Stellarlune-Zoom-Background.jpg' alt='Keeper of the Lost Cities | Fan Activities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keeper of the Lost Cities by Shannon Messenger" />
+                                </span>
+                                <a href='https://www.keeperofthelostcities.com/images/90049-Keepers-Stellarlune-Zoom-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper of the Lost Cities Exile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/dc/09/2edc0917a1ad4ca5ca2f3717723edb14.jpg' alt='Keeper of the Lost Cities Exile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/dc/09/2edc0917a1ad4ca5ca2f3717723edb14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper Of The Lost Cities wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/0d/7e/470d7e718688c1aa2e48673fd8b952f2.jpg' alt='Keeper Of The Lost Cities wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/0d/7e/470d7e718688c1aa2e48673fd8b952f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper of the Lost Cities | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3977809550.1815/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Keeper of the Lost Cities | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3977809550.1815/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Keeper wallapr ideas | lost city, the best series ever, best series">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/dc/47/b1dc47ac18e8fb8c8dfa1e56fea676b6.jpg' alt='21 Keeper wallapr ideas | lost city, the best series ever, best series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/dc/47/b1dc47ac18e8fb8c8dfa1e56fea676b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeper of the Lost Cities | Fan Activities">
+                                <img itemprop="contentUrl url" src='https://www.keeperofthelostcities.com/images/76194-Keeper-Character-Desktop.jpg' alt='Keeper of the Lost Cities | Fan Activities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keeper of the Lost Cities by Shannon Messenger" />
+                                </span>
+                                <a href='https://www.keeperofthelostcities.com/images/76194-Keeper-Character-Desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lost cities wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/74/105/HD-wallpaper-dora-and-the-lost-city-of-gold-movie-poster-thumbnail.jpg' alt='HD lost cities wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/74/105/HD-wallpaper-dora-and-the-lost-city-of-gold-movie-poster-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Update: Expanded all the Keeper album covers. They are still kind ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/update-expanded-all-the-keeper-album-covers-they-are-still-v0-1wyv6s5xmo2b1.jpg?width=640&crop=smart&auto=webp&s=6215821733c926db3150ec57a4ee47798eb0d2f6' alt='Update: Expanded all the Keeper album covers. They are still kind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/update-expanded-all-the-keeper-album-covers-they-are-still-v0-1wyv6s5xmo2b1.jpg?width=640&crop=smart&auto=webp&s=6215821733c926db3150ec57a4ee47798eb0d2f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

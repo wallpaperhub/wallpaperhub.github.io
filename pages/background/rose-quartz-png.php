@@ -1,0 +1,129 @@
+<title>Stunning Rose Quartz PNG Images for Your Designs</title>
+                    <meta name="description" content="Discover high-quality rose quartz PNG images to elevate your creative projects. Perfect for websites, social media, and more, these transparent files bring a touch of love and tranquility to your designs. Download now for a captivating visual experience!">
+                    <meta name="keywords" content="rose quartz png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rose-quartz-png">
+                            <span itemprop="name">rose quartz png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rose Quartz PNG Images for Your Designs</h1>
+                <p>Rose quartz PNG images are perfect for enhancing your digital designs with their soft pink hues and serene energy. These transparent files allow for easy layering and integration into various projects, from website graphics to social media posts. Elevate your creativity with stunning rose quartz visuals that exude love and healing vibes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Images – Browse 49,968 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/05/54/70/360_F_105547020_M1oQ3LzAyeUykMSj8zBhCsZr4XZ8IyHU.jpg' alt='Rose Quartz Images – Browse 49,968 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/05/54/70/360_F_105547020_M1oQ3LzAyeUykMSj8zBhCsZr4XZ8IyHU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz And Crystal PNG Images | PSD Free Download - Pikbest">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/origin/09/11/33/90bpIkbEsTDCn.png!w700wp' alt='Rose Quartz And Crystal PNG Images | PSD Free Download - Pikbest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/origin/09/11/33/90bpIkbEsTDCn.png!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/647/422/png-clipart-rose-quartz-crystal-rock-rock-herbal-rock-thumbnail.png' alt='Rose Quartz png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/647/422/png-clipart-rose-quartz-crystal-rock-rock-herbal-rock-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Gem | Rose Quartz Stone – GIA">
+                                <img itemprop="contentUrl url" src='https://www.gia.edu/images/85065_roseQuartz_rough_hero.png' alt='Rose Quartz Gem | Rose Quartz Stone – GIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIA" />
+                                </span>
+                                <a href='https://www.gia.edu/images/85065_roseQuartz_rough_hero.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20241107/ourmid/pngtree-rose-quartz-stone-isolated-on-transparent-background-png-image_14315580.png' alt='Rose Quartz PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20241107/ourmid/pngtree-rose-quartz-stone-isolated-on-transparent-background-png-image_14315580.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Crystals — Spa Kingston">
+                                <img itemprop="contentUrl url" src='http://images.squarespace-cdn.com/content/v1/5a8cb80e49fc2b3406bd750e/1610497485457-RDQ7HHGONDY1OA23OBK4/Screen+Shot+2021-01-12+at+4.22.09+PM.png' alt='Rose Quartz Crystals — Spa Kingston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spa Kingston" />
+                                </span>
+                                <a href='http://images.squarespace-cdn.com/content/v1/5a8cb80e49fc2b3406bd750e/1610497485457-RDQ7HHGONDY1OA23OBK4/Screen+Shot+2021-01-12+at+4.22.09+PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz | Character Profile Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/characterprofile/images/5/5c/Rose-Quartz-deko3-swordnshield.png/revision/latest?cb=20160204135627' alt='Rose Quartz | Character Profile Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Profile Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/characterprofile/images/5/5c/Rose-Quartz-deko3-swordnshield.png/revision/latest?cb=20160204135627' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROSE QUARTZ - Truth">
+                                <img itemprop="contentUrl url" src='http://becauseirock.com/cdn/shop/products/6.png?v=1617959885' alt='ROSE QUARTZ - Truth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BECAUSE I ROCK" />
+                                </span>
+                                <a href='http://becauseirock.com/cdn/shop/products/6.png?v=1617959885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparents">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/e6/75/f8e675998d0befcdf78cf24f8fa2419b.jpg' alt='Transparents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/e6/75/f8e675998d0befcdf78cf24f8fa2419b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Heart — Heal Thy Goddess">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5feac6f5d766a320f4e4628e/1641238851889-ODWSZEVSYH3AMM7KYPPS/rosequartzheart-livrockscrystalslarge_620x.png?format=1000w' alt='Rose Quartz Heart — Heal Thy Goddess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heal Thy Goddess" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5feac6f5d766a320f4e4628e/1641238851889-ODWSZEVSYH3AMM7KYPPS/rosequartzheart-livrockscrystalslarge_620x.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

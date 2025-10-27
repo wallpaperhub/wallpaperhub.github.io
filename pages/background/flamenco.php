@@ -1,0 +1,129 @@
+<title>Experience the Passion of Flamenco: Dance & Music</title>
+                    <meta name="description" content="Discover flamenco, the soulful blend of dance and music from Spain. Embrace its vibrant rhythms, expressive movements, and cultural heritage. Perfect for enthusiasts and newcomers alike, explore the beauty of flamenco and its captivating traditions today!">
+                    <meta name="keywords" content="flamenco">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flamenco">
+                            <span itemprop="name">flamenco</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Passion of Flamenco: Dance & Music</h1>
+                <p>Flamenco, a passionate art form from Spain, intertwines vibrant music, intricate guitar melodies, and expressive dance. Originating from the Andalusian region, it reflects deep emotions and cultural heritage. With colorful costumes and rhythmic clapping, flamenco captivates audiences worldwide, celebrating life and tradition through movement and sound.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg' alt='Flamenco - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco | Dance, Music, History, Artists, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/85/177485-050-34B42C5C/dancer.jpg' alt='Flamenco | Dance, Music, History, Artists, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/85/177485-050-34B42C5C/dancer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco: In Song and Dance | ATOMIC Ballroom | Irvine, CA in ...">
+                                <img itemprop="contentUrl url" src='https://atomicballroom.com/wp-content/uploads//2015/08/Flamenco-.jpg' alt='Flamenco: In Song and Dance | ATOMIC Ballroom | Irvine, CA in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATOMIC Ballroom" />
+                                </span>
+                                <a href='https://atomicballroom.com/wp-content/uploads//2015/08/Flamenco-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco Music + Dance Performances">
+                                <img itemprop="contentUrl url" src='https://www.famsf.org/storage/images/289d3439-71be-45d7-b357-dba9d595baa6/foto-company.jpg?crop=2048,1365,x0,y0&format=jpg&quality=80&width=1000' alt='Flamenco Music + Dance Performances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Arts Museums of San Francisco" />
+                                </span>
+                                <a href='https://www.famsf.org/storage/images/289d3439-71be-45d7-b357-dba9d595baa6/foto-company.jpg?crop=2048,1365,x0,y0&format=jpg&quality=80&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is it Falmingo, Flamingo, or Flamenco Music? - Insider's Travel">
+                                <img itemprop="contentUrl url" src='https://insiderstravel.io/wp-content/uploads/2021/10/Sara-Baras-on-set-of-Flamenco-by-Carlos-Saura-photographer-Federico-Calvo.jpg' alt='Is it Falmingo, Flamingo, or Flamenco Music? - Insider's Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insider's Travel" />
+                                </span>
+                                <a href='https://insiderstravel.io/wp-content/uploads/2021/10/Sara-Baras-on-set-of-Flamenco-by-Carlos-Saura-photographer-Federico-Calvo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco, Spain's most famous “art” | spain.info">
+                                <img itemprop="contentUrl url" src='https://www.spain.info/export/sites/segtur/.content/imagenes/reportajes/genericas/ballet-nac-esp-festival-musica-y-danza-granada-flamenco-s293943533-c-ed-alfaguarilla540x540.jpg' alt='Flamenco, Spain's most famous “art” | spain.info'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spain.info" />
+                                </span>
+                                <a href='https://www.spain.info/export/sites/segtur/.content/imagenes/reportajes/genericas/ballet-nac-esp-festival-musica-y-danza-granada-flamenco-s293943533-c-ed-alfaguarilla540x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rich History of Flamenco Dancing and Its Place in Spanish ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/msgsndr/7HbsW8DKL2Ah9MSJaQgC/media/6671aac335c48a6f8c3689ce.jpeg' alt='The Rich History of Flamenco Dancing and Its Place in Spanish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spanish Pavillion" />
+                                </span>
+                                <a href='https://storage.googleapis.com/msgsndr/7HbsW8DKL2Ah9MSJaQgC/media/6671aac335c48a6f8c3689ce.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flamenco Show at the Flamenco Dance Museum | Tiqets">
+                                <img itemprop="contentUrl url" src='https://aws-tiqets-cdn.imgix.net/images/content/07678bb2f8924b7d889167dba0eda822.jpg?auto=format%2Ccompress&fit=crop&h=800&ixlib=python-3.2.1&q=70&w=800&s=8f9ed4973e93a818a21570a0a69ae305' alt='Flamenco Show at the Flamenco Dance Museum | Tiqets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiqets" />
+                                </span>
+                                <a href='https://aws-tiqets-cdn.imgix.net/images/content/07678bb2f8924b7d889167dba0eda822.jpg?auto=format%2Ccompress&fit=crop&h=800&ixlib=python-3.2.1&q=70&w=800&s=8f9ed4973e93a818a21570a0a69ae305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Flamenco: Gypsy Dance and Music from Andalusia (Amadeus):  9781574670134: Schreiner, Claus: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Wg6gqOWyL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Flamenco: Gypsy Dance and Music from Andalusia (Amadeus):  9781574670134: Schreiner, Claus: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Wg6gqOWyL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Authentic Flamenco Presents Paula Rodríguez - Seymour Centre">
+                                <img itemprop="contentUrl url" src='https://www.seymourcentre.com/media/sllefkjk/1080x1920-1.jpg?anchor=center&mode=crop&width=1024&height=768&rnd=133391555027400000' alt='Authentic Flamenco Presents Paula Rodríguez - Seymour Centre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seymour Centre" />
+                                </span>
+                                <a href='https://www.seymourcentre.com/media/sllefkjk/1080x1920-1.jpg?anchor=center&mode=crop&width=1024&height=768&rnd=133391555027400000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

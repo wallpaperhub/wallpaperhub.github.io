@@ -1,0 +1,129 @@
+<title>The Colorful World of The Lego Movie: A Creative Journey</title>
+                    <meta name="description" content="Discover the imaginative universe of The Lego Movie! Explore its vibrant characters, thrilling adventures, and the creative spirit that brings LEGO bricks to life. Perfect for fans of all ages, this animated feature celebrates individuality and teamwork, making it a must-watch for families and LEGO enthusiasts alike!">
+                    <meta name="keywords" content="lego movie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lego-movie-background">
+                            <span itemprop="name">lego movie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Colorful World of The Lego Movie: A Creative Journey</h1>
+                <p>The Lego Movie, released in 2014, takes place in a vibrant, blocky universe where LEGO characters live according to the rules of creativity and imagination. Directed by Phil Lord and Christopher Miller, it combines humor, action, and a heartfelt story, following Emmet, an ordinary LEGO figure destined to save the world from an evil tyrant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Storytelling: What do Lego blocks, Ancient History & Ryan Gosling ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:5760/1*_HEXQOt7cl3TJT_MI0VM7g.jpeg' alt='Storytelling: What do Lego blocks, Ancient History & Ryan Gosling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:5760/1*_HEXQOt7cl3TJT_MI0VM7g.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie 2: The Second Part Wallpapers (25 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/d/2062463-3840x2160-desktop-4k-the-lego-movie-2-the-second-part-wallpaper-image.jpg' alt='The Lego Movie 2: The Second Part Wallpapers (25 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/d/2062463-3840x2160-desktop-4k-the-lego-movie-2-the-second-part-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie (2014) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_FMjpg_UX1000_.jpg' alt='The Lego Movie (2014) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Logo Text Lego Movie The Lego Movie HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/491/491620.jpg' alt='Download Logo Text Lego Movie The Lego Movie HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/491/491620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/8/f/50285-1920x1080-desktop-1080p-the-lego-movie-background-photo.jpg' alt='The Lego Movie Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/8/f/50285-1920x1080-desktop-1080p-the-lego-movie-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/4/a/50329-1920x1080-desktop-full-hd-the-lego-movie-background.jpg' alt='The Lego Movie Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/4/a/50329-1920x1080-desktop-full-hd-the-lego-movie-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The LEGO Movie wallpaper 2048 x 1152 px | With lots of bleed… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3688/11071452694_5760dd99ec_h.jpg' alt='The LEGO Movie wallpaper 2048 x 1152 px | With lots of bleed… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3688/11071452694_5760dd99ec_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bricksburg | The LEGO Movie Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/theofficialmovieoflego/images/6/6d/Bricksburg.jpeg/revision/latest?cb=20150328233857' alt='Bricksburg | The LEGO Movie Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The LEGO Movie Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/theofficialmovieoflego/images/6/6d/Bricksburg.jpeg/revision/latest?cb=20150328233857' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything is Awesome” (The LEGO Movie) – The Fortress of Helixity">
+                                <img itemprop="contentUrl url" src='https://thefortressofhelixity.wordpress.com/wp-content/uploads/2014/07/the-lego-movie-wallpaper.jpg' alt='Everything is Awesome” (The LEGO Movie) – The Fortress of Helixity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fortress of Helixity - WordPress.com" />
+                                </span>
+                                <a href='https://thefortressofhelixity.wordpress.com/wp-content/uploads/2014/07/the-lego-movie-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lego Movie 2 With Heroes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-lego-movie-2-with-heroes-axjrv7q0389oik66.jpg' alt='The Lego Movie 2 With Heroes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-lego-movie-2-with-heroes-axjrv7q0389oik66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

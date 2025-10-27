@@ -1,0 +1,129 @@
+<title>Essential Oregon Background Check Rules for Employers</title>
+                    <meta name="description" content="Discover the essential background check rules in Oregon for employers. Learn about consent, the types of checks, reporting limits, and how individuals can dispute inaccuracies. Stay informed to ensure compliance and maintain a fair hiring process.">
+                    <meta name="keywords" content="oregon background check rules">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oregon-background-check-rules">
+                            <span itemprop="name">oregon background check rules</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Oregon Background Check Rules for Employers</h1>
+                <p>In Oregon, background check rules mandate that employers must disclose when a check will be conducted and obtain written consent from the individual. Most checks assess criminal history, driving records, and employment history. Certain convictions may not be reported after seven years, and individuals can dispute inaccuracies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Oregon State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSP details gun-purchase background check process, works to clear ...">
+                                <img itemprop="contentUrl url" src='https://ktvz.b-cdn.net/2022/11/OSP-firearm-background-check-request-process-860x512.jpg' alt='OSP details gun-purchase background check process, works to clear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTVZ" />
+                                </span>
+                                <a href='https://ktvz.b-cdn.net/2022/11/OSP-firearm-background-check-request-process-860x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon State Police : Firearms Instant Check System (FICS ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/osp/Docs/Fingerprint_Instructions.jpg' alt='Oregon State Police : Firearms Instant Check System (FICS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/osp/Docs/Fingerprint_Instructions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 1 of 6 Policy Title: Criminal Background Checks Governing ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///97473e41bfd9e7c023c507a4ec4091cec2fd843df5af52a2632264245ada7dcf' alt='Page 1 of 6 Policy Title: Criminal Background Checks Governing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Oregon University Policies" />
+                                </span>
+                                <a href='x-raw-image:///97473e41bfd9e7c023c507a4ec4091cec2fd843df5af52a2632264245ada7dcf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Criminal Background Checks for Pre-Employment">
+                                <img itemprop="contentUrl url" src='https://www.instantcriminalchecks.com/images/states/oregon-criminal-background-check.jpg' alt='Oregon Criminal Background Checks for Pre-Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant Criminal Background Checks" />
+                                </span>
+                                <a href='https://www.instantcriminalchecks.com/images/states/oregon-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check in Oregon: Laws & Criminal Records Search">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Oregon-1.png' alt='Background Check in Oregon: Laws & Criminal Records Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Oregon-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Oregon Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1270x934/6659e88e02/state-guide-hero_or.webp/m/' alt='Guide to Oregon Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1270x934/6659e88e02/state-guide-hero_or.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Background Check: Staffing Services | PreSearch">
+                                <img itemprop="contentUrl url" src='https://presearchinc.com/wp-content/uploads/2022/08/Oregon-Background-Check-1024x576.jpg' alt='Oregon Background Check: Staffing Services | PreSearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreSearch Background Services" />
+                                </span>
+                                <a href='https://presearchinc.com/wp-content/uploads/2022/08/Oregon-Background-Check-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='Oregon Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Department of Human Services : ORCHARDS : Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.oregon.gov/odhs/background-checks/PublishingImages/orchards-logo.png' alt='Oregon Department of Human Services : ORCHARDS : Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='https://www.oregon.gov/odhs/background-checks/PublishingImages/orchards-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

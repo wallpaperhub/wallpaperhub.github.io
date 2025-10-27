@@ -1,0 +1,129 @@
+<title>Charming Duck Wallpaper: Perfect Aesthetic for Every Room</title>
+                    <meta name="description" content="Discover the beauty of duck wallpaper! Elevate your décor with playful and charming designs that fit any space. Perfect for nurseries and accent walls, our collection brings tranquility and nature indoors. Shop now to transform your ambience!">
+                    <meta name="keywords" content="aesthetic:46cyz7tvdok= duck wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic46cyz7tvdok-duck-wallpaper">
+                            <span itemprop="name">aesthetic:46cyz7tvdok= duck wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Duck Wallpaper: Perfect Aesthetic for Every Room</h1>
+                <p>Transform your space with charming duck wallpaper! This delightful aesthetic brings warmth and whimsy to any room. Perfect for nurseries, kitchens, or as a playful accent wall in your living space, our duck-themed designs in soft pastels or vibrant colors add a touch of nature’s beauty and tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Duck Aesthetic wallpaper | 4k free wallpaper | Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d3/11/11/d311115ff2275fe813f2335661f3959b.jpg' alt='Cute Duck Aesthetic wallpaper | 4k free wallpaper | Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d3/11/11/d311115ff2275fe813f2335661f3959b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper duck aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/4a/ca/104aca2a1b125f02e346ce87d4aea4fb.jpg' alt='Wallpaper duck aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/4a/ca/104aca2a1b125f02e346ce87d4aea4fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1d/a6/e0/1da6e096b70a2f90d677c61ac2964e25.jpg' alt='Duck Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1d/a6/e0/1da6e096b70a2f90d677c61ac2964e25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Duck Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/duck-px752pz3biq4fs4f.jpg' alt='200+] Duck Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/duck-px752pz3biq4fs4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   ducky   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/93/a5/8d93a54f9c61ef4d0a2e9be7373daaf6.jpg' alt='   ducky   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/93/a5/8d93a54f9c61ef4d0a2e9be7373daaf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/de/a6/1a/dea61a34dd89a8011f3b4eed05f5e11f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/de/a6/1a/dea61a34dd89a8011f3b4eed05f5e11f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck, duck cute, duck walk, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/804/403/HD-wallpaper-duck-duck-cute-duck-walk.jpg' alt='Duck, duck cute, duck walk, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/804/403/HD-wallpaper-duck-duck-cute-duck-walk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="duck days">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/83/7c/c7837c3b33a0041b774e753e59e8f84a.jpg' alt='duck days'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/83/7c/c7837c3b33a0041b774e753e59e8f84a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Wallpapers (58 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/a/f/1027652-1440x2560-samsung-hd-duck-background-image.jpg' alt='Duck Wallpapers (58 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/a/f/1027652-1440x2560-samsung-hd-duck-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/32/26/32/3226326a4e82cddf07a37eee21b87cc9.jpg' alt='Duck Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/32/26/32/3226326a4e82cddf07a37eee21b87cc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

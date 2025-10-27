@@ -1,0 +1,129 @@
+<title>Transform Your Space with Camping Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add a touch of nature to your home with camping peel and stick wallpaper. Easy to apply and remove, these vibrant designs bring the feel of the outdoors inside, perfect for any space. Ideal for city dwellers and outdoor lovers alike, enhance your decor while embracing your adventurous spirit!">
+                    <meta name="keywords" content="camping peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/camping-peel-and-stick-wallpaper">
+                            <span itemprop="name">camping peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Camping Peel and Stick Wallpaper</h1>
+                <p>Camping peel and stick wallpaper is a fun and easy way to bring the great outdoors into your home. With vibrant designs featuring forests, mountains, and wildlife, this wallpaper adds charm and adventure to any room. Ideal for campers and nature lovers, it’s simple to apply and remove, making it perfect for temporary or permanent decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's Go Camping Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/files/AC55C448-2971-4AFC-825C-54A8C857E818.jpg?v=1713212628' alt='Let's Go Camping Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2630">
+                                <meta itemprop="height" content="3818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/files/AC55C448-2971-4AFC-825C-54A8C857E818.jpg?v=1713212628' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Wallpaper, Camping Wallpaper, Peel and Stick Wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/f1d118/3326264832/il_fullxfull.3326264832_tqmy.jpg' alt='Kids Wallpaper, Camping Wallpaper, Peel and Stick Wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/f1d118/3326264832/il_fullxfull.3326264832_tqmy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's Go Camping Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/files/56.jpg?v=1713212366' alt='Let's Go Camping Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4984">
+                                <meta itemprop="height" content="4966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/files/56.jpg?v=1713212366' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Camping Forest Hand Drawn Illustrations Wild  Animals Wall Mural Boho Contact Paper Removable Self Adhesive Wallpaper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613g1l+DX9L._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Camping Forest Hand Drawn Illustrations Wild  Animals Wall Mural Boho Contact Paper Removable Self Adhesive Wallpaper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613g1l+DX9L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camping Wallpaper for Baby & Kids - Removable Peel and Stick Wall Mural for  Nursery Decor — Rose Lindo">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/638f48de2f1c55090dbfc698/1708619496868-U7JKYP5683R3J1DPKDQ2/outdoor-adventure-wallpaper-lake-houses-nursery-baby-kids-room-decor-1.jpeg?format=1000w' alt='Camping Wallpaper for Baby & Kids - Removable Peel and Stick Wall Mural for  Nursery Decor — Rose Lindo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rose Lindo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/638f48de2f1c55090dbfc698/1708619496868-U7JKYP5683R3J1DPKDQ2/outdoor-adventure-wallpaper-lake-houses-nursery-baby-kids-room-decor-1.jpeg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Night Camping Illuminated Tent and Campfire Near  Forest Under Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71xW2z2sHRL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Night Camping Illuminated Tent and Campfire Near  Forest Under Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71xW2z2sHRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 6ft x 2ft - Lake Life Black White Forest Theme Trees  Woods Toile Camping Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61jObAGn8NL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 6ft x 2ft - Lake Life Black White Forest Theme Trees  Woods Toile Camping Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61jObAGn8NL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camping Wallpaper, Nursery Boho Style Vintage Illustration Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5944669/r/il/33cf3c/3694222641/il_570xN.3694222641_esp9.jpg' alt='Camping Wallpaper, Nursery Boho Style Vintage Illustration Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5944669/r/il/33cf3c/3694222641/il_570xN.3694222641_esp9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Camping Earth Tones Adventure Exploration  Great Outdoors Tents Trees Nature Sunrise Sunset Red Beige Cozy Hygge  Custom ...">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/2306301372427026016.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Camping Earth Tones Adventure Exploration  Great Outdoors Tents Trees Nature Sunrise Sunset Red Beige Cozy Hygge  Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/2306301372427026016.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventures Camping Tent Under Pine Forest Near Water Outdoor Morning Peel &  Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eqQ-i1y5L.jpg' alt='Adventures Camping Tent Under Pine Forest Near Water Outdoor Morning Peel &  Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eqQ-i1y5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

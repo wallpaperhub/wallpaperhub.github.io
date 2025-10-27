@@ -1,0 +1,129 @@
+<title>2022 Ohio State Football Wallpaper: Game Day Style</title>
+                    <meta name="description" content="Explore captivating 2022 Ohio State football wallpapers to elevate your device! Perfect for Buckeye fans, these vibrant designs celebrate the team's spirit and iconic moments. Download your favorite wallpaper today and sport your team pride every time you check your phone!">
+                    <meta name="keywords" content="ohio state football wallpaper 2022">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/ohio-state-football-wallpaper-2022">
+                            <span itemprop="name">ohio state football wallpaper 2022</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>2022 Ohio State Football Wallpaper: Game Day Style</h1>
+                <p>Enhance your device's look with stunning Ohio State football wallpaper from 2022! Celebrate the Buckeyes' passion and pride with vibrant images showcasing team colors, iconic moments, and memorable players. Perfect for fans, these wallpapers inspire team spirit and keep you connected to the game every day. Download yours now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 Ohio State Football Schedule: Downloadable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://buckeyeswire.usatoday.com/wp-content/uploads/sites/32/2022/07/BuckeyesWire_wallpaper.png' alt='2022 Ohio State Football Schedule: Downloadable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buckeyes Wire - USA Today" />
+                                </span>
+                                <a href='https://buckeyeswire.usatoday.com/wp-content/uploads/sites/32/2022/07/BuckeyesWire_wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 Ohio State Football Schedule: Downloadable Wallpaper - Yahoo ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/2OSj8NHLUvnnIyp088rHIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxOA--/https://media.zenfs.com/en/buckeyes_wire_usa_today_articles_592/561cc6be66872f4a78a42e22ddf5cd68' alt='2022 Ohio State Football Schedule: Downloadable Wallpaper - Yahoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/2OSj8NHLUvnnIyp088rHIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxOA--/https://media.zenfs.com/en/buckeyes_wire_usa_today_articles_592/561cc6be66872f4a78a42e22ddf5cd68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Buckeyes Football Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/52/8b/53528b7c1f8d01fb7030a265fcefa652.jpg' alt='Ohio State Buckeyes Football Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/52/8b/53528b7c1f8d01fb7030a265fcefa652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Football on X: "Wallpaper drip⚫️   #GoBucks https://t ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FdSRVckagAEG459.jpg:large' alt='Ohio State Football on X: "Wallpaper drip⚫️   #GoBucks https://t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FdSRVckagAEG459.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Ohio State Buckeyes Football Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/34/70/1b34704dd6e2cbb1a1b666999b7009cc.jpg' alt='HD Ohio State Buckeyes Football Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/34/70/1b34704dd6e2cbb1a1b666999b7009cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Football on X: "These two       https://t.co/fJClymoXe5 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fc5RifxagAEjvP-.jpg:large' alt='Ohio State Football on X: "These two       https://t.co/fJClymoXe5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fc5RifxagAEjvP-.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Buckeyes Football Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/3e/a8/e43ea8350d973f3ff475f5272dfa0953.jpg' alt='Ohio State Buckeyes Football Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/3e/a8/e43ea8350d973f3ff475f5272dfa0953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Ohio State Buckeyes Football Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/dc/aa/71dcaad1b690f6e2340d0ab96ac72376.jpg' alt='HD Ohio State Buckeyes Football Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/dc/aa/71dcaad1b690f6e2340d0ab96ac72376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Pulls From 12 States For Class of 2022 – Buckeye Sports ...">
+                                <img itemprop="contentUrl url" src='https://www.buckeyesports.com/wp-content/uploads/2021/12/FGpeskVUYAQHNHt-scaled.jpeg' alt='Ohio State Pulls From 12 States For Class of 2022 – Buckeye Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2144">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buckeye Sports Bulletin" />
+                                </span>
+                                <a href='https://www.buckeyesports.com/wp-content/uploads/2021/12/FGpeskVUYAQHNHt-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Ohio State Football Schedule: Downloadable smartphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://buckeyeswire.usatoday.com/wp-content/uploads/sites/32/2023/08/BuckeyesWire_WP_23.png' alt='2023 Ohio State Football Schedule: Downloadable smartphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buckeyes Wire - USA Today" />
+                                </span>
+                                <a href='https://buckeyeswire.usatoday.com/wp-content/uploads/sites/32/2023/08/BuckeyesWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

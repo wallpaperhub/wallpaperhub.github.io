@@ -1,0 +1,129 @@
+<title>Career Paths with a Health Science Degree</title>
+                    <meta name="description" content="Explore exciting career options with a health science degree. Discover how you can work in healthcare, research, or public health, making a difference in communities while pursuing rewarding job opportunities. Your journey toward a fulfilling career starts here!">
+                    <meta name="keywords" content="what can you do with a health science degree">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-can-you-do-with-a-health-science-degree">
+                            <span itemprop="name">what can you do with a health science degree</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Career Paths with a Health Science Degree</h1>
+                <p>A health science degree opens doors to diverse careers in healthcare, research, and public health. Graduates can become healthcare professionals, laboratory technicians, wellness coordinators, or health administrators. With a focus on improving community health, this degree empowers individuals to make impactful changes in their communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do with a Health Science Degree? | USAHS">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.usa.edu/wp-content/uploads/2023/12/what-can-i-do-with-a-bhs-and-advanced-degrees.jpg?resize=1440%2C1426&ssl=1' alt='What Can You Do with a Health Science Degree? | USAHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of St. Augustine for Health Sciences" />
+                                </span>
+                                <a href='https://i0.wp.com/www.usa.edu/wp-content/uploads/2023/12/what-can-i-do-with-a-bhs-and-advanced-degrees.jpg?resize=1440%2C1426&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do With a Health Science Degree? | Franklin.edu">
+                                <img itemprop="contentUrl url" src='https://www.franklin.edu/sites/default/files/fr/back%20to%20college%20blog/graphics/Health%20Sciences%20vs.%20Other%20Healthcare%20Degrees.png' alt='What Can You Do With a Health Science Degree? | Franklin.edu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1395">
+                                <meta itemprop="height" content="1898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Franklin University" />
+                                </span>
+                                <a href='https://www.franklin.edu/sites/default/files/fr/back%20to%20college%20blog/graphics/Health%20Sciences%20vs.%20Other%20Healthcare%20Degrees.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do with a Health Science Degree? | USAHS">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.usa.edu/wp-content/uploads/2023/12/what-can-i-do-with-a-bachelors-in-health-science.jpg?resize=1440%2C1010&ssl=1' alt='What Can You Do with a Health Science Degree? | USAHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of St. Augustine for Health Sciences" />
+                                </span>
+                                <a href='https://i0.wp.com/www.usa.edu/wp-content/uploads/2023/12/what-can-i-do-with-a-bachelors-in-health-science.jpg?resize=1440%2C1010&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Jobs for Health Science Majors | The University Network">
+                                <img itemprop="contentUrl url" src='https://www.tun.com/blog/wp-content/uploads/2019/03/Health-Science-Major-Web.png' alt='12 Jobs for Health Science Majors | The University Network'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The University Network" />
+                                </span>
+                                <a href='https://www.tun.com/blog/wp-content/uploads/2019/03/Health-Science-Major-Web.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do with a Health Science Degree? 10 Popular Careers ...">
+                                <img itemprop="contentUrl url" src='https://eq47oznpfsr.exactdn.com/wp-content/uploads/2024/09/What-You-Can-Do-with-Health-Sciences-Degree-Job-Infographic.jpg?lossy=1&quality=70&ssl=1' alt='What Can You Do with a Health Science Degree? 10 Popular Careers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Cincinnati Online" />
+                                </span>
+                                <a href='https://eq47oznpfsr.exactdn.com/wp-content/uploads/2024/09/What-You-Can-Do-with-Health-Sciences-Degree-Job-Infographic.jpg?lossy=1&quality=70&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 15 Health Science Degree Jobs – Career Sidekick">
+                                <img itemprop="contentUrl url" src='https://careersidekick.com/wp-content/uploads/2023/07/Health-Science-Degree-Guide-infographic-1.png' alt='Top 15 Health Science Degree Jobs – Career Sidekick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Career Sidekick" />
+                                </span>
+                                <a href='https://careersidekick.com/wp-content/uploads/2023/07/Health-Science-Degree-Guide-infographic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bachelor Of Health Science Jobs And Career Opportunities">
+                                <img itemprop="contentUrl url" src='https://www3.nnu.edu/imagex/bachelor-of-health-science-jobs-and-career-opportunities-12345.jpg' alt='Bachelor Of Health Science Jobs And Career Opportunities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www3.nnu.edu" />
+                                </span>
+                                <a href='https://www3.nnu.edu/imagex/bachelor-of-health-science-jobs-and-career-opportunities-12345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Become a Nurse with a Health Science Degree?">
+                                <img itemprop="contentUrl url" src='https://www.excelsior.edu/wp-content/uploads/2024/07/24-1260051_jobs-health-sciences-degrees-vs-nursing-degrees-venn-diagram_900x511-600x341.jpg' alt='Can You Become a Nurse with a Health Science Degree?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Excelsior University" />
+                                </span>
+                                <a href='https://www.excelsior.edu/wp-content/uploads/2024/07/24-1260051_jobs-health-sciences-degrees-vs-nursing-degrees-venn-diagram_900x511-600x341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steps to a Career in Health Science | All Allied Health Schools">
+                                <img itemprop="contentUrl url" src='https://www.allalliedhealthschools.com/wp-content/uploads/2024/11/Health-science-degree-careers.webp' alt='Steps to a Career in Health Science | All Allied Health Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allied Health Schools" />
+                                </span>
+                                <a href='https://www.allalliedhealthschools.com/wp-content/uploads/2024/11/Health-science-degree-careers.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Health Science | BS - Anna Maria College">
+                                <img itemprop="contentUrl url" src='https://annamaria.edu/wp-content/uploads/2024/03/What-Can-You-Do-With-a-Health-Sciences-Degree-1.png' alt='Health Science | BS - Anna Maria College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anna Maria College" />
+                                </span>
+                                <a href='https://annamaria.edu/wp-content/uploads/2024/03/What-Can-You-Do-With-a-Health-Sciences-Degree-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

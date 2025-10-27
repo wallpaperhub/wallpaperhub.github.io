@@ -1,0 +1,129 @@
+<title>Stylish Tan iPhone Wallpapers for Every Aesthetic</title>
+                    <meta name="description" content="Discover the perfect tan iPhone wallpapers to elevate your device's style. From minimalist designs to intricate patterns, find a variety of options that suit any aesthetic. Download now to give your iPhone a sophisticated and warm look!">
+                    <meta name="keywords" content="tan iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/tan-iphone-wallpaper">
+                            <span itemprop="name">tan iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Tan iPhone Wallpapers for Every Aesthetic</h1>
+                <p>Transform your iPhone with stunning tan wallpapers that add warmth and elegance to your device. Whether you prefer subtle patterns or bold designs, a tan wallpaper can enhance your iPhone's aesthetic. Explore a variety of styles that complement your personality and taste, creating a beautiful backdrop for your apps and photos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/ae/21/1dae21cc120f0d7f957c0ec625811352.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/ae/21/1dae21cc120f0d7f957c0ec625811352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Beige Plain Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/beige-iphone-1256-x-2353-q92ro1dwxml19tz3.jpg' alt='Download Beige Plain Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/beige-iphone-1256-x-2353-q92ro1dwxml19tz3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Wallpaper iPhone - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/5c/2c/a55c2c7d98b4c5a6b8b1a80edbc813d5.jpg' alt='Tan Wallpaper iPhone - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/5c/2c/a55c2c7d98b4c5a6b8b1a80edbc813d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="solid tan background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/71/a7/ff71a7fbe3fa21db124e804cad4841ca.jpg' alt='solid tan background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/71/a7/ff71a7fbe3fa21db124e804cad4841ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Golden Tan Landscape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/majestic-golden-tan-landscape-pvubwc39z01hw2uq.jpg' alt='Majestic Golden Tan Landscape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="593">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/majestic-golden-tan-landscape-pvubwc39z01hw2uq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' alt='Boho iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="si15-gold-shampagne-yellow-gradation-blur-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-si15-gold-shampagne-yellow-gradation-blur-41-iphone-wallpaper.jpg' alt='si15-gold-shampagne-yellow-gradation-blur-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-si15-gold-shampagne-yellow-gradation-blur-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Leather, 929, apple, brown, iphone, logo, minimal, q, simple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/705/283/HD-wallpaper-tan-leather-929-apple-brown-iphone-logo-minimal-q-simple.jpg' alt='Tan Leather, 929, apple, brown, iphone, logo, minimal, q, simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/705/283/HD-wallpaper-tan-leather-929-apple-brown-iphone-logo-minimal-q-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="free aesthetic iPhone backgrounds, wallpapers & screensavers ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f0f2fbce253b472c5950148/1598328370034-AFXWT08Z9VDT57VZVITO/iphone-tan-minimal-free-screensaveer.png' alt='free aesthetic iPhone backgrounds, wallpapers & screensavers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taylor Wynn" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f0f2fbce253b472c5950148/1598328370034-AFXWT08Z9VDT57VZVITO/iphone-tan-minimal-free-screensaveer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Warm Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/66/33/c766339cb4cf2254c3fab323eed25777.jpg' alt='Tan Warm Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/66/33/c766339cb4cf2254c3fab323eed25777.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

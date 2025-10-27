@@ -1,0 +1,129 @@
+<title>Stunning Space Girl Wallpaper for Cosmic Vibes</title>
+                    <meta name="description" content="Discover the beauty of space girl wallpaper! Explore our unique collection of vibrant and imaginative designs that will bring a cosmic touch to your device. Perfect for anyone who loves the universe and wants to add a splash of creativity to their screen. Download your favorite today!">
+                    <meta name="keywords" content="space girl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-girl-wallpaper">
+                            <span itemprop="name">space girl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Girl Wallpaper for Cosmic Vibes</h1>
+                <p>Transform your device with stunning space girl wallpaper! Featuring vibrant cosmic landscapes and imaginative designs, these wallpapers will elevate your aesthetic with futuristic flair. Perfect for space enthusiasts and dreamers alike, our collection invites you to explore the universe from the comfort of your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper space, girl, fantasy, Earth, computer, science fiction ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/5/fc/earth-planet-girl-spaceschip-stars-space-computer-science-fi.jpg' alt='Wallpaper space, girl, fantasy, Earth, computer, science fiction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/5/fc/earth-planet-girl-spaceschip-stars-space-computer-science-fi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-Fi, Astronaut, Digital Art, 4K, #156 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/35/e5/1f/35e51f29956df949aac2eeba817d7467.jpg' alt='Sci-Fi, Astronaut, Digital Art, 4K, #156 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/35/e5/1f/35e51f29956df949aac2eeba817d7467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Space Girl">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/82592462912312963/E1456B7FD9827FCE36842E7B48F946FFC84ADAB0/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Space Girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/82592462912312963/E1456B7FD9827FCE36842E7B48F946FFC84ADAB0/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Out Girl - My first ever Rainmeter wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Tk1-VWNj9tEjdBsTsFF2p7pH-VNAmP7DpHivgiooSoM.png?width=640&crop=smart&format=pjpg&auto=webp&s=6a08b3c03ea863334c9bdd55fbed1e9f0c4a0b89' alt='Space Out Girl - My first ever Rainmeter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Tk1-VWNj9tEjdBsTsFF2p7pH-VNAmP7DpHivgiooSoM.png?width=640&crop=smart&format=pjpg&auto=webp&s=6a08b3c03ea863334c9bdd55fbed1e9f0c4a0b89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530 Space Girl Aesthetic ideas | galaxy wallpaper, space art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b2/fd/c7/b2fdc7b2f5db94da4cc768516946198a.jpg' alt='530 Space Girl Aesthetic ideas | galaxy wallpaper, space art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b2/fd/c7/b2fdc7b2f5db94da4cc768516946198a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, space, fiction, planet, space, girl, spaceships ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1200/e/ae/ancient-space-game-wallpapers.jpg' alt='Wallpaper girl, space, fiction, planet, space, girl, spaceships ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1200/e/ae/ancient-space-game-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Anime Girl Anime Girl HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/123/1232798.jpg' alt='Download Space Anime Girl Anime Girl HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/123/1232798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 7 Plus Space Girl Hair Buns Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-7-plus-space-girl-hair-buns-l7bfyev26c2u9p6t.jpg' alt='Iphone 7 Plus Space Girl Hair Buns Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-7-plus-space-girl-hair-buns-l7bfyev26c2u9p6t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 3840x2160 girl astronaut, artwork, fantasy 4k ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/3840x2160/85367c/girl-astronaut-fantasy.jpg' alt='Download wallpaper 3840x2160 girl astronaut, artwork, fantasy 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/3840x2160/85367c/girl-astronaut-fantasy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl in space - Fantasy & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2386/2386974-bigthumbnail.jpg' alt='Girl in space - Fantasy & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2386/2386974-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

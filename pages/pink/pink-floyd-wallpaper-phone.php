@@ -1,0 +1,129 @@
+<title>Stunning Pink Floyd Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover vibrant Pink Floyd wallpapers to enhance your phone's look. Perfect for fans, these designs feature iconic imagery that bring the spirit of the band to your device. Download now and showcase your love for Pink Floyd with stunning backgrounds!">
+                    <meta name="keywords" content="pink floyd wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-floyd-wallpaper-phone">
+                            <span itemprop="name">pink floyd wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Floyd Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with stunning Pink Floyd wallpaper! Dive into vibrant designs featuring iconic album covers and mesmerizing artwork. Perfect for fans of psychedelic rock, these wallpapers will elevate your device's style and reflect your love for the band. Explore the collection and personalize your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Part 2 of phone wallpapers inspired by Pink Floyd albums! Now from ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/part-2-of-phone-wallpapers-inspired-by-pink-floyd-albums-v0-xeayho4n841a1.jpg?width=1344&format=pjpg&auto=webp&s=5efd1e34214119bc9373fb071c999f238b8629a3' alt='Part 2 of phone wallpapers inspired by Pink Floyd albums! Now from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="2912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/part-2-of-phone-wallpapers-inspired-by-pink-floyd-albums-v0-xeayho4n841a1.jpg?width=1344&format=pjpg&auto=webp&s=5efd1e34214119bc9373fb071c999f238b8629a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/398ncwqqonb71.png' alt='Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/398ncwqqonb71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u9uy2vk9pnb71.png' alt='Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u9uy2vk9pnb71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd, pink floyd, rock, the wall, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/f4/62/84f4628d9c3659f817f732b7b67da681.jpg' alt='Pink Floyd, pink floyd, rock, the wall, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/f4/62/84f4628d9c3659f817f732b7b67da681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Android Phone Images Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1b/65/0d/1b650d9887475fcce844c6a2391250f2.jpg' alt='Android Phone Images Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1b/65/0d/1b650d9887475fcce844c6a2391250f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pink floyd wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/279/525/HD-wallpaper-pink-floyd-pink-floyd-rock-wish-where-you-here.jpg' alt='HD pink floyd wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/279/525/HD-wallpaper-pink-floyd-pink-floyd-rock-wish-where-you-here.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Pink Floyd" wallpapers for mobile phone, free "Pink ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/46/46e2021cd3ffcc786c612ca16f491dc6.jpeg' alt='Download "Pink Floyd" wallpapers for mobile phone, free "Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1987">
+                                <meta itemprop="height" content="1987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/46/46e2021cd3ffcc786c612ca16f491dc6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers in HD    : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3lbylodly1k81.png' alt='Phone wallpapers in HD    : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3lbylodly1k81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Black, Music, Background, Triangle, Pink Floyd, Prism ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/4/44/trianguliarnaia-prizma-pink-floid-tiomnaia-storona-luny-pi-3.webp' alt='Wallpaper Black, Music, Background, Triangle, Pink Floyd, Prism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/4/44/trianguliarnaia-prizma-pink-floid-tiomnaia-storona-luny-pi-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Floyd 4K Minimalist Wish You Were Here On Gray ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-floyd-4k-minimalist-wish-you-were-here-on-gray-w0bzo1t4eur7nf8w.jpg' alt='Download Pink Floyd 4K Minimalist Wish You Were Here On Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-floyd-4k-minimalist-wish-you-were-here-on-gray-w0bzo1t4eur7nf8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

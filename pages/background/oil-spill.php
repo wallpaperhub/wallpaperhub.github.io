@@ -1,0 +1,129 @@
+<title>Preventing and Responding to Oil Spills</title>
+                    <meta name="description" content="Discover the causes and impacts of oil spills, as well as effective prevention and response strategies. Learn how to protect marine ecosystems and mitigate environmental damage, ensuring a sustainable future for our waters. Stay informed with expert insights and tips for managing oil spills effectively.">
+                    <meta name="keywords" content="oil spill">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oil-spill">
+                            <span itemprop="name">oil spill</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preventing and Responding to Oil Spills</h1>
+                <p>Oil spills are environmental disasters that occur when petroleum or its derivatives leak into oceans, rivers, or lakes. These spills can devastate marine life, contaminate water, and disrupt ecosystems. Immediate response and clean-up efforts are crucial to mitigate ecological and economic damage, ensuring the restoration of affected areas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happens during an oil spill? Coastal Pollution Tutorial">
+                                <img itemprop="contentUrl url" src='https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os-03-skimming-oil.jpg' alt='What happens during an oil spill? Coastal Pollution Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NOAA's National Ocean Service - National Oceanic and Atmospheric ..." />
+                                </span>
+                                <a href='https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os-03-skimming-oil.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil spill - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Oil-spill.jpg' alt='Oil spill - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2e/Oil-spill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil spills | National Oceanic and Atmospheric Administration">
+                                <img itemprop="contentUrl url" src='https://www.noaa.gov/sites/default/files/styles/square_width_325/public/legacy/image/2020/Jan/PHOTO%20-%20Deepwater%20Horizon%20oil%20spill%20-%20011020%20-4416x3312px%20-%20landscape.jpg?itok=TG4HgguI' alt='Oil spills | National Oceanic and Atmospheric Administration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Oceanic and Atmospheric Administration" />
+                                </span>
+                                <a href='https://www.noaa.gov/sites/default/files/styles/square_width_325/public/legacy/image/2020/Jan/PHOTO%20-%20Deepwater%20Horizon%20oil%20spill%20-%20011020%20-4416x3312px%20-%20landscape.jpg?itok=TG4HgguI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Spill Cleanups Are Dangerously Deceptive | Audubon">
+                                <img itemprop="contentUrl url" src='https://media.audubon.org/web_oil_pelican_c2b197.jpg?width=1400&auto=webp&quality=90&fit=bounds&disable=upscale' alt='Oil Spill Cleanups Are Dangerously Deceptive | Audubon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Audubon Society" />
+                                </span>
+                                <a href='https://media.audubon.org/web_oil_pelican_c2b197.jpg?width=1400&auto=webp&quality=90&fit=bounds&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How oil spills harm birds, dolphins, sea lions and other wildlife ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/211005124857-01-wildlife-oil-spill-file.jpg?q=x_0,y_0,h_1688,w_2999,c_fill/h_833,w_1480' alt='How oil spills harm birds, dolphins, sea lions and other wildlife ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/211005124857-01-wildlife-oil-spill-file.jpg?q=x_0,y_0,h_1688,w_2999,c_fill/h_833,w_1480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mysterious Oil Spill Becomes New Environmental Crisis for Brazil ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/10/08/world/08brazil/merlin_161994702_2436c075-fe49-4402-95a1-fbb7fca93756-videoSixteenByNineJumbo1600.jpg?year=2019&h=899&w=1600&s=09f41b9327bbb79c3f3465d72f06d94964cc5ae4e5ca6ecc21310f3d2a81272b&k=ZQJBKqZ0VN&tw=1' alt='Mysterious Oil Spill Becomes New Environmental Crisis for Brazil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/10/08/world/08brazil/merlin_161994702_2436c075-fe49-4402-95a1-fbb7fca93756-videoSixteenByNineJumbo1600.jpg?year=2019&h=899&w=1600&s=09f41b9327bbb79c3f3465d72f06d94964cc5ae4e5ca6ecc21310f3d2a81272b&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seagull blood shows delayed effects of oil spills">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/msnbc/Components/Photo_StoryLevel/080118/080118-prestige-oil-spill-hmed-10a.jpg' alt='Seagull blood shows delayed effects of oil spills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/msnbc/Components/Photo_StoryLevel/080118/080118-prestige-oil-spill-hmed-10a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What did we learn from the <i>Deepwater Horizon</i> disaster?">
+                                <img itemprop="contentUrl url" src='https://s7d1.scene7.com/is/image/CENODS/09835-cover-webopener?$hero$' alt='What did we learn from the <i>Deepwater Horizon</i> disaster?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C&EN - American Chemical Society" />
+                                </span>
+                                <a href='https://s7d1.scene7.com/is/image/CENODS/09835-cover-webopener?$hero$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solutions sought for Thai oil spills | Dialogue Earth">
+                                <img itemprop="contentUrl url" src='https://dialogue.earth/content/uploads/2024/03/Thailand-Rayong_Oil-spill-star-petroleum_Alamy_2MCBGM4.jpg' alt='Solutions sought for Thai oil spills | Dialogue Earth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dialogue Earth" />
+                                </span>
+                                <a href='https://dialogue.earth/content/uploads/2024/03/Thailand-Rayong_Oil-spill-star-petroleum_Alamy_2MCBGM4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gulf Oil Spill: Scientists Develop New Model for Deep-water Oil ...">
+                                <img itemprop="contentUrl url" src='https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/news/deepwater_horizon5_f1.jpg.webp?VersionId=pg5N69YGhGNMWuIJvSJx2owlDm0Sn7Pz&itok=dYoWADIN' alt='Gulf Oil Spill: Scientists Develop New Model for Deep-water Oil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NSF" />
+                                </span>
+                                <a href='https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/news/deepwater_horizon5_f1.jpg.webp?VersionId=pg5N69YGhGNMWuIJvSJx2owlDm0Sn7Pz&itok=dYoWADIN' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

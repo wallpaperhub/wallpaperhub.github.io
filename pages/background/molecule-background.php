@@ -1,0 +1,129 @@
+<title>Understanding Molecules: The Building Blocks of Matter</title>
+                    <meta name="description" content="Explore the fascinating world of molecules, the essential units of matter. Learn about their structures, types, and roles in chemistry, biology, and our daily lives. Discover how molecules shape the universe around us and their significance in a variety of scientific applications.">
+                    <meta name="keywords" content="molecule background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/molecule-background">
+                            <span itemprop="name">molecule background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Molecules: The Building Blocks of Matter</h1>
+                <p>Molecules are the fundamental building blocks of matter, composed of atoms bonded together in fixed proportions. They can range from simple diatomic structures like O2 to complex organic compounds. Understanding molecular structure and interactions is crucial in various scientific fields, including chemistry, biology, and pharmacology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/116/034/non_2x/molecule-atomium-blue-background-vector.jpg' alt='Molecule Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/116/034/non_2x/molecule-atomium-blue-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule Background Images – Browse 848,072 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/23/67/07/360_F_423670788_BXfrZxhavYGppdS3NmnXgRCAsbmgWq0Y.jpg' alt='Molecule Background Images – Browse 848,072 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/23/67/07/360_F_423670788_BXfrZxhavYGppdS3NmnXgRCAsbmgWq0Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/730/845/non_2x/molecules-or-dna-medical-structure-background-design-free-vector.jpg' alt='Molecule Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1674">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/730/845/non_2x/molecules-or-dna-medical-structure-background-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecules Background Images – Browse 848,128 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/65/31/80/360_F_265318078_VHJWZnzly32CcH3tUWb9ruOLf8lBRJOn.jpg' alt='Molecules Background Images – Browse 848,128 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/65/31/80/360_F_265318078_VHJWZnzly32CcH3tUWb9ruOLf8lBRJOn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule Structure Icon Background Graphic by WANGSINAWANG ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2018/11/Molecule-structure-icon-background-by-ojosujono96.jpg' alt='Molecule Structure Icon Background Graphic by WANGSINAWANG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2018/11/Molecule-structure-icon-background-by-ojosujono96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Science background with molecule or atom, Abstract ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/science-background-with-molecule-atom-abstract-structure-science-medical-background-3d-illustration_36845-312.jpg?w=360' alt='Premium Photo | Science background with molecule or atom, Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/science-background-with-molecule-atom-abstract-structure-science-medical-background-3d-illustration_36845-312.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Molecule Background for Medicine, Science, Technology ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/scientific-molecule-background-medicine-science-technology-chemistry-wallpaper-banner-dna-molecules-vector-geometric-113747479.jpg' alt='Scientific Molecule Background for Medicine, Science, Technology ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/scientific-molecule-background-medicine-science-technology-chemistry-wallpaper-banner-dna-molecules-vector-geometric-113747479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/071/772/small/abstract-hexagon-pattern-background-medical-and-science-concept-and-structure-molecule-and-communication-free-vector.jpg' alt='Molecule Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/071/772/small/abstract-hexagon-pattern-background-medical-and-science-concept-and-structure-molecule-and-communication-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecule background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2F4JK2P/models-of-abstract-molecular-structure-on-green-background-horizontal-banner-with-glass-model-of-molecule-copy-space-for-your-text-mock-up-template-2F4JK2P.jpg' alt='Molecule background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2F4JK2P/models-of-abstract-molecular-structure-on-green-background-horizontal-banner-with-glass-model-of-molecule-copy-space-for-your-text-mock-up-template-2F4JK2P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,700+ Molecule Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/464688684/vector/simple-science-seamless-background.jpg?s=612x612&w=0&k=20&c=to87tXLEQUqIOpgNgvTcmnW6r3wOUYnFpOAI0UYhGPA=' alt='97,700+ Molecule Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/464688684/vector/simple-science-seamless-background.jpg?s=612x612&w=0&k=20&c=to87tXLEQUqIOpgNgvTcmnW6r3wOUYnFpOAI0UYhGPA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

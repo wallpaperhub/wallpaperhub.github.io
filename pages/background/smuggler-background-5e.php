@@ -1,0 +1,129 @@
+<title>Uncovering the Smuggler Background in D&D 5E</title>
+                    <meta name="description" content="Explore the thrilling smuggler background in Dungeons & Dragons 5E. Learn about the skills and abilities that make these cunning characters masters of deception and navigation in the shadowy underbelly of society. Perfect for players seeking intrigue and adventure!">
+                    <meta name="keywords" content="smuggler background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smuggler-background-5e">
+                            <span itemprop="name">smuggler background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncovering the Smuggler Background in D&D 5E</h1>
+                <p>In Dungeons & Dragons 5th Edition, a smuggler background offers a character rich in intrigue and deception. These individuals often have connections in the underworld, skills in navigating legal gray areas, and knowledge of secret routes. Their abilities in persuasion and stealth allow them to import and export goods discreetly, making them valuable allies or cunning enemies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smuggler: A Fifth Edition Background - Kobold Press">
+                                <img itemprop="contentUrl url" src='https://koboldpress.com/wp-content/uploads/2016/03/Philippe-Jacques-de-Loutherbourg.jpg' alt='Smuggler: A Fifth Edition Background - Kobold Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kobold Press" />
+                                </span>
+                                <a href='https://koboldpress.com/wp-content/uploads/2016/03/Philippe-Jacques-de-Loutherbourg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got the Goods? A Guide to the Smuggler Background 5e - Kobold Press">
+                                <img itemprop="contentUrl url" src='https://koboldpress.com/wp-content/uploads/2020/02/thief-lord.jpg' alt='Got the Goods? A Guide to the Smuggler Background 5e - Kobold Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kobold Press" />
+                                </span>
+                                <a href='https://koboldpress.com/wp-content/uploads/2020/02/thief-lord.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GHOSTS OF SALTMARSH Adds New Backgrounds and Flavor to Old ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1558559745443-KM38DVM6H0AIJWVJNT1H/ghosts_saltmarsh.jpg' alt='GHOSTS OF SALTMARSH Adds New Backgrounds and Flavor to Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeekTyrant" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1558559745443-KM38DVM6H0AIJWVJNT1H/ghosts_saltmarsh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Criminal Background - Help Action - D&D Tips, Guides ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/07/criminal-background-dnd-1024x715.jpg' alt='Exploring the Criminal Background - Help Action - D&D Tips, Guides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/07/criminal-background-dnd-1024x715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Criminal Background - Help Action - D&D Tips, Guides ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/07/crime.png' alt='Exploring the Criminal Background - Help Action - D&D Tips, Guides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/07/crime.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Player Class - Smuggler | Dark Heresy of the Secundus Sector Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dark-heresy-rp/images/1/11/Smuggler_male_by_phade01-d370jzl.jpg/revision/latest?cb=20180211162459' alt='Player Class - Smuggler | Dark Heresy of the Secundus Sector Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dark Heresy of the Secundus Sector Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dark-heresy-rp/images/1/11/Smuggler_male_by_phade01-d370jzl.jpg/revision/latest?cb=20180211162459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #48: Smuggler (DnD 5E)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/h6GVfatliXY/maxresdefault.jpg' alt='Background #48: Smuggler (DnD 5E)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/h6GVfatliXY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Rogue Professions in D&D 5e – Flutes Loot">
+                                <img itemprop="contentUrl url" src='https://www.flutesloot.com/wp-content/uploads/2019/12/2-bounty_hunter__threads_of_fate_game_art__by_feael_dd1fuhh-fullview.jpg' alt='Criminal Rogue Professions in D&D 5e – Flutes Loot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flutes Loot" />
+                                </span>
+                                <a href='https://www.flutesloot.com/wp-content/uploads/2019/12/2-bounty_hunter__threads_of_fate_game_art__by_feael_dd1fuhh-fullview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 16 DnD 2024 Backgrounds 5E (PHB Official)">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-21-at-12.27.35-PM.png' alt='Top 16 DnD 2024 Backgrounds 5E (PHB Official)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5ebackgrounds.com" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-21-at-12.27.35-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal / Spy - Backgrounds - D&D Beyond">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' alt='Criminal / Spy - Backgrounds - D&D Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

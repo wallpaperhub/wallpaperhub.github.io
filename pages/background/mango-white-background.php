@@ -1,0 +1,129 @@
+<title>Captivating Mango on White Background</title>
+                    <meta name="description" content="Discover the beauty of mangoes against a pristine white background. This visually striking presentation highlights the fruit's vibrant colors and delicious appeal. Perfect for food lovers and photographers seeking inspiration, it captures the essence of tropical delight in a minimalist style.">
+                    <meta name="keywords" content="mango white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mango-white-background">
+                            <span itemprop="name">mango white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Mango on White Background</h1>
+                <p>Mangoes are tropical fruits that enchant with their vibrant yellow-orange hue and sweet, juicy flavor. Set against a clean white background, their lush color pops, emphasizing the fruit's smooth skin and inviting texture. This contrast showcases the mango's natural beauty, making it a delightful visual element in food photography.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango with section on a white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/BG809W/mango-with-section-on-a-white-background-BG809W.jpg' alt='Mango with section on a white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/BG809W/mango-with-section-on-a-white-background-BG809W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Mango isolated on white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/yellow-mango-white-background_253984-3987.jpg' alt='Premium Photo | Mango isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/yellow-mango-white-background_253984-3987.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango Isolated On White Background Stock Photo - Download Image ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/911274308/photo/mango-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=HGg_0OGyxMU6yL0gtKAKkffYa-cLG8WlwcG5nTzzCQU=' alt='Mango Isolated On White Background Stock Photo - Download Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/911274308/photo/mango-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=HGg_0OGyxMU6yL0gtKAKkffYa-cLG8WlwcG5nTzzCQU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango with leaf on white background 8166913 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/166/913/non_2x/mango-with-leaf-on-white-background-vector.jpg' alt='Mango with leaf on white background 8166913 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/166/913/non_2x/mango-with-leaf-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango fruit and mango slices on a white background. Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/10/40/57/1000_F_110405732_lfLyTPzAAMH48U4IzZuNRjZWgarBkEiL.jpg' alt='Mango fruit and mango slices on a white background. Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/10/40/57/1000_F_110405732_lfLyTPzAAMH48U4IzZuNRjZWgarBkEiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango On White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/delicious-mango-studio_23-2151843109.jpg?semt=ais_hybrid' alt='Mango On White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/delicious-mango-studio_23-2151843109.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="74,266 Mango White Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mango-leaf-long-slices-isolated-white-background-fresh-cut-as-package-design-element-71454082.jpg' alt='74,266 Mango White Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mango-leaf-long-slices-isolated-white-background-fresh-cut-as-package-design-element-71454082.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh Mango Fruit Isolated White Background Stock Photo - Image of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/fresh-mango-fruit-isolated-white-background-ripe-yellow-tropical-123879388.jpg' alt='Fresh Mango Fruit Isolated White Background Stock Photo - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/fresh-mango-fruit-isolated-white-background-ripe-yellow-tropical-123879388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mango With Slices On A White Background Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/volff/volff1203/volff120300113/12892803-mango-with-slices-on-a-white-background.jpg' alt='Mango With Slices On A White Background Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/volff/volff1203/volff120300113/12892803-mango-with-slices-on-a-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,000+ Mango Isolated White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1417819877/photo/beautiful-delicious-mango-isolated-on-white-table-background.jpg?s=612x612&w=0&k=20&c=Nc7qBj0bnVzg6eUoFUw4YvUc0MFlcvWpxEsyDBBpDFI=' alt='21,000+ Mango Isolated White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1417819877/photo/beautiful-delicious-mango-isolated-on-white-table-background.jpg?s=612x612&w=0&k=20&c=Nc7qBj0bnVzg6eUoFUw4YvUc0MFlcvWpxEsyDBBpDFI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

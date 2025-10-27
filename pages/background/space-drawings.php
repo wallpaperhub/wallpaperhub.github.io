@@ -1,0 +1,129 @@
+<title>Explore Stunning Space Drawings: Art of the Cosmos</title>
+                    <meta name="description" content="Discover the beauty of space drawings that inspire awe and curiosity. From captivating nebulae to imaginative alien landscapes, dive into the world of cosmic art and fuel your passion for the universe. Perfect for art lovers and space enthusiasts alike!">
+                    <meta name="keywords" content="space drawings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/space-drawings">
+                            <span itemprop="name">space drawings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Space Drawings: Art of the Cosmos</h1>
+                <p>Space drawings ignite the imagination and transcend the boundaries of our world. From detailed sketches of nebulae to whimsical interpretations of alien life, these artworks capture the wonder of the cosmos. Artists use various mediums to portray the vastness of space, inspiring curiosity about the universe and our place within it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Space Step By Step      Space Drawing EASY">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wSBLWhBQ2GU/maxresdefault.jpg' alt='How To Draw Space Step By Step      Space Drawing EASY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wSBLWhBQ2GU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Drawings - HelloArtsy">
+                                <img itemprop="contentUrl url" src='https://helloartsy.com/wp-content/uploads/kids/space/draw-a-comet/draw-a-comet-step-6-1024x1024.jpg' alt='Space Drawings - HelloArtsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelloArtsy" />
+                                </span>
+                                <a href='https://helloartsy.com/wp-content/uploads/kids/space/draw-a-comet/draw-a-comet-step-6-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="218,400+ Outer Space Drawings Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1073243388/vector/ufo-and-aliens-doodles.jpg?s=612x612&w=0&k=20&c=5-7mnOGxPAvk1OybqsaBZbK0ubY9Kk3bcxzj2TF5QMI=' alt='218,400+ Outer Space Drawings Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1073243388/vector/ufo-and-aliens-doodles.jpg?s=612x612&w=0&k=20&c=5-7mnOGxPAvk1OybqsaBZbK0ubY9Kk3bcxzj2TF5QMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut in Space - Drawing | Instructor: Karin">
+                                <img itemprop="contentUrl url" src='http://artistspalettedurham.com/cdn/shop/products/274579874_476389717526612_7043747443817863004_n.jpg?v=1669776275&width=1024' alt='Astronaut in Space - Drawing | Instructor: Karin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artists Palette Durham" />
+                                </span>
+                                <a href='http://artistspalettedurham.com/cdn/shop/products/274579874_476389717526612_7043747443817863004_n.jpg?v=1669776275&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space doodles, cute stars and planets sketch drawings. Hand drawn ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GDM3A1/space-doodles-cute-stars-and-planets-sketch-drawings-hand-drawn-spaceship-ufo-planet-galaxy-moon-asteroid-astrology-doodle-vector-set-celestial-bodies-astronomy-science-objects-2GDM3A1.jpg' alt='Space doodles, cute stars and planets sketch drawings. Hand drawn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GDM3A1/space-doodles-cute-stars-and-planets-sketch-drawings-hand-drawn-spaceship-ufo-planet-galaxy-moon-asteroid-astrology-doodle-vector-set-celestial-bodies-astronomy-science-objects-2GDM3A1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="astronaut in space • tutorial『                            』">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ndjBOyT9U0U/maxresdefault.jpg' alt='astronaut in space • tutorial『                            』'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ndjBOyT9U0U/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Easy Space Drawing Ideas You Can Try At Home">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2b/19/81/2b1981d9d514283a26910ce589420d49.jpg' alt='45 Easy Space Drawing Ideas You Can Try At Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2b/19/81/2b1981d9d514283a26910ce589420d49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Space - HelloArtsy">
+                                <img itemprop="contentUrl url" src='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-space/how-to-draw-space-step-8.jpg' alt='How to Draw Space - HelloArtsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelloArtsy" />
+                                </span>
+                                <a href='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-space/how-to-draw-space-step-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Space Drawing - How To Draw A Cartoon Space Step By Step">
+                                <img itemprop="contentUrl url" src='https://iheartcraftythings.com/wp-content/uploads/2022/01/Preview-82.jpg' alt='Cartoon Space Drawing - How To Draw A Cartoon Space Step By Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1389">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Heart Crafty Things" />
+                                </span>
+                                <a href='https://iheartcraftythings.com/wp-content/uploads/2022/01/Preview-82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Easy Outer Space Drawing Ideas">
+                                <img itemprop="contentUrl url" src='https://www.shihoriobata.com/wp-content/uploads/2023/05/astronaut-trex-drawing-space.jpg' alt='20 Easy Outer Space Drawing Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shihori Obata" />
+                                </span>
+                                <a href='https://www.shihoriobata.com/wp-content/uploads/2023/05/astronaut-trex-drawing-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

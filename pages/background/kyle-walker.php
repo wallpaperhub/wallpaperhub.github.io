@@ -1,0 +1,129 @@
+<title>Kyle Walker: Speed, Skill, and Success in Football</title>
+                    <meta name="description" content="Discover the impressive journey of Kyle Walker, a top footballer who excels as a right-back for Manchester City and the England national team. Explore his skills, career highlights, and impact on the game, all in a concise and engaging format.">
+                    <meta name="keywords" content="kyle walker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kyle-walker">
+                            <span itemprop="name">kyle walker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kyle Walker: Speed, Skill, and Success in Football</h1>
+                <p>Kyle Walker is a professional footballer known for his exceptional speed and defensive skills. Playing as a right-back for Manchester City and the England national team, Walker has earned a reputation for his tactical awareness and versatility on the field. His contributions have been pivotal in numerous victories and championships.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kyle_Walker.jpg/640px-Kyle_Walker.jpg' alt='Kyle Walker - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kyle_Walker.jpg/640px-Kyle_Walker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker - Profile, News & Videos - Manchester City F.C.">
+                                <img itemprop="contentUrl url" src='https://www.mancity.com/meta/media/rbfb2hbj/kyle-walker.png' alt='Kyle Walker - Profile, News & Videos - Manchester City F.C.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manchester City FC" />
+                                </span>
+                                <a href='https://www.mancity.com/meta/media/rbfb2hbj/kyle-walker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Kyle Walker">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044385190791' alt='Profile for Kyle Walker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044385190791' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker transfer news: Man City defender joins AC Milan on ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/24/12/2048x1152/skysports-kyle-walker-manchester_6774234.jpg?20241212154954' alt='Kyle Walker transfer news: Man City defender joins AC Milan on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/24/12/2048x1152/skysports-kyle-walker-manchester_6774234.jpg?20241212154954' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker - Player profile 24/25 | Transfermarkt">
+                                <img itemprop="contentUrl url" src='https://tmssl.akamaized.net/images/foto/galerie/kyle-walker-england-2024-1718184014-139249.jpg' alt='Kyle Walker - Player profile 24/25 | Transfermarkt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1002">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Transfermarkt" />
+                                </span>
+                                <a href='https://tmssl.akamaized.net/images/foto/galerie/kyle-walker-england-2024-1718184014-139249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker: AC Milan complete loan deal for Man City captain ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/585f/live/92401fc0-da8b-11ef-bf21-81c5146ef2ab.jpg' alt='Kyle Walker: AC Milan complete loan deal for Man City captain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/585f/live/92401fc0-da8b-11ef-bf21-81c5146ef2ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker - Player profile 24/25 | Transfermarkt">
+                                <img itemprop="contentUrl url" src='https://img.a.transfermarkt.technology/portrait/big/95424-1668090663.jpg?lm=1' alt='Kyle Walker - Player profile 24/25 | Transfermarkt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Transfermarkt" />
+                                </span>
+                                <a href='https://img.a.transfermarkt.technology/portrait/big/95424-1668090663.jpg?lm=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker - Soccer News, Rumors, & Updates | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/soccer/headshots/469.png' alt='Kyle Walker - Soccer News, Rumors, & Updates | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/soccer/headshots/469.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker reveals his bizarre pre-match meal ahead of Man City ...">
+                                <img itemprop="contentUrl url" src='https://assets.goal.com/images/v3/blt08fe5737671b7ad0/Kyle_Walker_Manchester_City_2023-24_(2).jpg?auto=webp&format=pjpg&width=3840&quality=60' alt='Kyle Walker reveals his bizarre pre-match meal ahead of Man City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goal.com" />
+                                </span>
+                                <a href='https://assets.goal.com/images/v3/blt08fe5737671b7ad0/Kyle_Walker_Manchester_City_2023-24_(2).jpg?auto=webp&format=pjpg&width=3840&quality=60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Walker refuses to commit future to Tottenham amid Manchester ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/07/12/kyle-walker.jpg' alt='Kyle Walker refuses to commit future to Tottenham amid Manchester ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/07/12/kyle-walker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

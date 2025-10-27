@@ -1,0 +1,129 @@
+<title>Ford Logo: The Evolution of the Iconic White Design</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="ford logo white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ford-logo-white">
+                            <span itemprop="name">ford logo white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ford Logo: The Evolution of the Iconic White Design</h1>
+                <p>The Ford logo, characterized by its iconic blue oval shape and white lettering, symbolizes the brand's rich heritage and commitment to quality. The white color represents purity and simplicity, embodying Ford's values of innovation and reliability. The logo has evolved, but its core design remains a powerful emblem in the automotive world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White ford icon - Free white car logo icons">
+                                <img itemprop="contentUrl url" src='https://www.iconsdb.com/icons/download/white/ford-512.png' alt='White ford icon - Free white car logo icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iconsDB" />
+                                </span>
+                                <a href='https://www.iconsdb.com/icons/download/white/ford-512.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White ford icon - Free white car logo icons">
+                                <img itemprop="contentUrl url" src='https://www.iconsdb.com/icons/preview/white/ford-xxl.png' alt='White ford icon - Free white car logo icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iconsDB" />
+                                </span>
+                                <a href='https://www.iconsdb.com/icons/preview/white/ford-xxl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo Vinyl Sticker Decal 4" 6" 8" 12" 16" 20" 24" 30 ...">
+                                <img itemprop="contentUrl url" src='http://stickers-4u.myshopify.com/cdn/shop/products/fordwhite_1200x1200.jpg?v=1629992006' alt='Ford Logo Vinyl Sticker Decal 4" 6" 8" 12" 16" 20" 24" 30 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stickers_4u" />
+                                </span>
+                                <a href='http://stickers-4u.myshopify.com/cdn/shop/products/fordwhite_1200x1200.jpg?v=1629992006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford brand logo symbol name white design car usa Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/18/52/ford-brand-logo-symbol-name-white-design-car-usa-vector-46021852.jpg' alt='Ford brand logo symbol name white design car usa Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/18/52/ford-brand-logo-symbol-name-white-design-car-usa-vector-46021852.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Ford Logo 1976 Print Ver.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ford_Logo_1976_Print_Ver.svg/1280px-Ford_Logo_1976_Print_Ver.svg.png' alt='File:Ford Logo 1976 Print Ver.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ford_Logo_1976_Print_Ver.svg/1280px-Ford_Logo_1976_Print_Ver.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo, Vehicle Symbol, Classic Badge, Automotive Emblem ...">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Ford-Logo-PNG-Isolated-Image.png' alt='Ford Logo, Vehicle Symbol, Classic Badge, Automotive Emblem ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1464">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Ford-Logo-PNG-Isolated-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of The Ford Logo Design - Ford's Brand 1900 - 2025">
+                                <img itemprop="contentUrl url" src='https://inkbotdesign.com/wp-content/uploads/2019/07/black-ford-logo.jpg' alt='History Of The Ford Logo Design - Ford's Brand 1900 - 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inkbot Design" />
+                                </span>
+                                <a href='https://inkbotdesign.com/wp-content/uploads/2019/07/black-ford-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo History, meaning, PNG, SVG, vector">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/03/Ford-Emblem.png' alt='Ford Logo History, meaning, PNG, SVG, vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/03/Ford-Emblem.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford logo vector, Ford icon free vector 20336454 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/020/500/239/small_2x/ford-brand-logo-car-symbol-white-design-usa-automobile-illustration-with-blue-background-free-vector.jpg' alt='Ford logo vector, Ford icon free vector 20336454 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/020/500/239/small_2x/ford-brand-logo-car-symbol-white-design-usa-automobile-illustration-with-blue-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford">
+                                <img itemprop="contentUrl url" src='https://voodooneon.com/cdn/shop/files/ford-warm-white.jpg?v=1699937232&width=1066' alt='Ford'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voodoo Neon" />
+                                </span>
+                                <a href='https://voodooneon.com/cdn/shop/files/ford-warm-white.jpg?v=1699937232&width=1066' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

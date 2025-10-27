@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Stunning Yellow Diamond Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of yellow diamond wallpaper. Perfect for adding luxury to any room, this chic design transforms your space with bold patterns and rich textures. Ideal for homes and offices alike, make a statement with yellow diamond wallpaper today!">
+                    <meta name="keywords" content="yellow diamond wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-diamond-wallpaper">
+                            <span itemprop="name">yellow diamond wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Stunning Yellow Diamond Wallpaper</h1>
+                <p>Yellow diamond wallpaper brings a touch of luxury and elegance to any space. Its rich, warm tones and shimmering textures create a captivating environment, perfect for homes or offices. This stunning wallpaper enhances rooms with a bold statement while maintaining a sense of chic sophistication. Elevate your decor with yellow diamond patterns today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="That Happy Feeling - 25” wide by 32” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-yellow-diamond-pattern-peel-and-stick-wallpaper-that-happy-feeling-6967514693732.png?v=1619649289' alt='That Happy Feeling - 25” wide by 32” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-yellow-diamond-pattern-peel-and-stick-wallpaper-that-happy-feeling-6967514693732.png?v=1619649289' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Diamonds Background Images – Browse 206,910 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/12/61/31/64/360_F_1261316458_MCuj5oLgYGtdG5eSS6BaATNsiuzbEi97.jpg' alt='Yellow Diamonds Background Images – Browse 206,910 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/12/61/31/64/360_F_1261316458_MCuj5oLgYGtdG5eSS6BaATNsiuzbEi97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Diamond Images – Browse 258,777 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/17/14/02/360_F_1117140215_O5tPyxw0A2KCCIjq5pqiuG2gxgGdPQ3Y.jpg' alt='Yellow Diamond Images – Browse 258,777 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/17/14/02/360_F_1117140215_O5tPyxw0A2KCCIjq5pqiuG2gxgGdPQ3Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Diamond's portrait is finished and onto blue's : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gaxf7vo6ldd11.jpg' alt='Yellow Diamond's portrait is finished and onto blue's : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1325">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gaxf7vo6ldd11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Gold Diamond iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/92/f1/5392f1923e830c6fa2c75e87a6368fc7.jpg' alt='Geometric Gold Diamond iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/92/f1/5392f1923e830c6fa2c75e87a6368fc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Diamond Background: Over 303,237 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/beautiful-bright-yellow-diamond-isolated-260nw-657209533.jpg' alt='Yellow Diamond Background: Over 303,237 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/beautiful-bright-yellow-diamond-isolated-260nw-657209533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling yellow diamond background 27981927 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/981/927/non_2x/sparkling-yellow-diamond-background-photo.jpg' alt='Sparkling yellow diamond background 27981927 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/981/927/non_2x/sparkling-yellow-diamond-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper... By Artist Unknown...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/74/6f/17746fe3a22900abbe4aecd0c21fe536.jpg' alt='Wallpaper... By Artist Unknown...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/74/6f/17746fe3a22900abbe4aecd0c21fe536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Diamonds Background Images – Browse 201,317 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/49/98/36/360_F_1149983644_T2sFye37INXpuCk4cb8FSIyc6wqdIg8e.jpg' alt='Yellow Diamonds Background Images – Browse 201,317 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/49/98/36/360_F_1149983644_T2sFye37INXpuCk4cb8FSIyc6wqdIg8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling yellow diamond background 27981933 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/027/981/933/small_2x/sparkling-yellow-diamond-background-photo.jpg' alt='Sparkling yellow diamond background 27981933 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/027/981/933/small_2x/sparkling-yellow-diamond-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

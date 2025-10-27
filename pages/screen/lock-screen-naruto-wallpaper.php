@@ -1,0 +1,129 @@
+<title>Stunning Naruto Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore a collection of vibrant Naruto lock screen wallpapers that showcase your favorite moments and characters from the beloved anime. Perfectly designed for mobile display, our selections will elevate your device's look while celebrating the thrilling world of Naruto. Download and personalize today!">
+                    <meta name="keywords" content="lock screen naruto wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-naruto-wallpaper">
+                            <span itemprop="name">lock screen naruto wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Naruto Lock Screen Wallpapers for Your Phone</h1>
+                <p>Enhance your device's aesthetics with stunning Naruto lock screen wallpapers! Featuring iconic moments, beloved characters, and vibrant artwork, these wallpapers bring the spirit of the anime to your phone. Transform your lock screen into a dynamic and inspiring display that reflects your passion for Naruto and its thrilling adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Lock Screen Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/d9/78/c1d97855a62ab57543b0512d22e260b1.jpg' alt='Naruto Lock Screen Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/d9/78/c1d97855a62ab57543b0512d22e260b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys...do you like my lockscreen wallpaper? : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e9mpauz63p751.png?auto=webp&s=17c98627b14a2f56f7642be284acaac40f966c07' alt='Hey guys...do you like my lockscreen wallpaper? : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e9mpauz63p751.png?auto=webp&s=17c98627b14a2f56f7642be284acaac40f966c07' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Lock Screen Naruto Uzumaki Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-lock-screen-naruto-uzumaki-71gqnvfi8slfu1ul.jpg' alt='Download Anime Lock Screen Naruto Uzumaki Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1949">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-lock-screen-naruto-uzumaki-71gqnvfi8slfu1ul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Lock Screen Naruto Shippuden Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-lock-screen-naruto-shippuden-2r2tyiess39iieka.jpg' alt='Download Anime Lock Screen Naruto Shippuden Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-lock-screen-naruto-shippuden-2r2tyiess39iieka.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto, aesthetic, lock screen, Naruto shippuden, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/865/659/HD-wallpaper-naruto-aesthetic-lock-screen-naruto-shippuden.jpg' alt='Naruto, aesthetic, lock screen, Naruto shippuden, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/865/659/HD-wallpaper-naruto-aesthetic-lock-screen-naruto-shippuden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Lock Screen Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/a1/ee/87a1ee962cc421fc268c98ce0bf28323.jpg' alt='Naruto Lock Screen Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/a1/ee/87a1ee962cc421fc268c98ce0bf28323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Naruto themed Lock screen and home screen    : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9hi6l7s2e4h61.png' alt='My Naruto themed Lock screen and home screen    : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9hi6l7s2e4h61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lock Screen Naruto Sage Mode Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-lock-screen-naruto-sage-mode-km8sy0lumeomnx3g.jpg' alt='Anime Lock Screen Naruto Sage Mode Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-lock-screen-naruto-sage-mode-km8sy0lumeomnx3g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Lock Screen Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/e9/c3/e1e9c3674a695afe7c6faddea0e1aa7f.jpg' alt='Naruto Lock Screen Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/e9/c3/e1e9c3674a695afe7c6faddea0e1aa7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto, aesthetic, naruto aesthetic, simple, lockscreen, naruto ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/914/686/HD-wallpaper-naruto-aesthetic-naruto-aesthetic-simple-lockscreen-naruto-uzumaki-hokage-anime.jpg' alt='Naruto, aesthetic, naruto aesthetic, simple, lockscreen, naruto ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/914/686/HD-wallpaper-naruto-aesthetic-naruto-aesthetic-simple-lockscreen-naruto-uzumaki-hokage-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

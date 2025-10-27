@@ -1,0 +1,129 @@
+<title>Light Old School RuneScape Wallpaper - Classic Gaming Aesthetic</title>
+                    <meta name="description" content="Discover the perfect light-themed Old School RuneScape wallpaper! Ideal for fans of the classic game, our collection brings vibrant visuals and nostalgia to your screen. Upgrade your gaming setup today with these beautifully designed wallpapers, optimized for all devices!">
+                    <meta name="keywords" content="light runescape oldschool wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-runescape-oldschool-wallpaper">
+                            <span itemprop="name">light runescape oldschool wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Old School RuneScape Wallpaper - Classic Gaming Aesthetic</h1>
+                <p>Transform your desktop with a stunning light-themed Old School RuneScape wallpaper! Featuring vibrant colors and iconic elements from Gielinor, this wallpaper captures the magic of your favorite game. Perfect for fans who love nostalgia and adventure, elevate your gaming experience with a touch of classic style! Ideal for any screen size.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The official Hydra wallpaper : r/2007scape">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/uxutokspkf921.png?auto=webp&s=49789e100c50682a0df89e0e1f567084875a7cbe' alt='The official Hydra wallpaper : r/2007scape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/uxutokspkf921.png?auto=webp&s=49789e100c50682a0df89e0e1f567084875a7cbe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Runescape Ground With Turquoise Light Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/runescape-ground-with-turquoise-light-lflbqlbf01wqz1lp.jpg' alt='Runescape Ground With Turquoise Light Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/runescape-ground-with-turquoise-light-lflbqlbf01wqz1lp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old School RuneScape Wallpaper, HD Games 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/wxl-old-school-runescape_66187.jpg' alt='Old School RuneScape Wallpaper, HD Games 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/wxl-old-school-runescape_66187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally Ful sized wallpapers are available (these are at least Bik ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0ua9xx8b2gx71.png?width=640&crop=smart&auto=webp&s=a966596e23a70c2473349dd73fc26370ec57d58f' alt='Finally Ful sized wallpapers are available (these are at least Bik ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0ua9xx8b2gx71.png?width=640&crop=smart&auto=webp&s=a966596e23a70c2473349dd73fc26370ec57d58f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Dragon Is Standing In The Water With A Light Shining On ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-cqdgtkug8uzy56we.jpg' alt='Download A Dragon Is Standing In The Water With A Light Shining On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-cqdgtkug8uzy56we.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oldschool Runescape Wallpapers - Now without watermarks! : r/2007scape">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/EUK9zmEmtNqUhiGIf9lJyGgQWSGqu-zcVeMr0roaNBs.jpg?auto=webp&s=1f467a0380c9df95b5ed42d5af07fa1a36df7a84' alt='Oldschool Runescape Wallpapers - Now without watermarks! : r/2007scape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/EUK9zmEmtNqUhiGIf9lJyGgQWSGqu-zcVeMr0roaNBs.jpg?auto=webp&s=1f467a0380c9df95b5ed42d5af07fa1a36df7a84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suggestion] Add retro login backgrounds : r/runescape">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xwvzch6jabwy.png?auto=webp&s=3c629e24a61b39e14ecd1ea0aaf6f8da868f83d5' alt='Suggestion] Add retro login backgrounds : r/runescape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="777">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xwvzch6jabwy.png?auto=webp&s=3c629e24a61b39e14ecd1ea0aaf6f8da868f83d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Man With A Sword In Front Of A Dragon | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-crni8hysg8f20ok2.jpg' alt='Download A Man With A Sword In Front Of A Dragon | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-crni8hysg8f20ok2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Old school runescape ideas | old school runescape ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7b/9b/76/7b9b76edcd4b2866eada760144f293d3.png' alt='10 Best Old school runescape ideas | old school runescape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7b/9b/76/7b9b76edcd4b2866eada760144f293d3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Runescape Oldschool Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-tm7b5zwanwq7i7pm.jpg' alt='100+] Hd Runescape Oldschool Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-runescape-oldschool-background-tm7b5zwanwq7i7pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Purple Lily Wallpaper: Elegance for Every Room</title>
+                    <meta name="description" content="Elevate your home decor with our exquisite purple lily wallpaper. Perfect for adding a touch of elegance and serenity to any space, this vibrant floral design enhances your living environment, making it truly inviting. Discover the beauty of nature indoors today!">
+                    <meta name="keywords" content="purple lily wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-lily-wallpaper">
+                            <span itemprop="name">purple lily wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Lily Wallpaper: Elegance for Every Room</h1>
+                <p>Transform your space with stunning purple lily wallpaper that brings elegance and charm to any room. The vibrant hues and delicate designs create a serene atmosphere, perfect for living rooms, bedrooms, or offices. Enjoy a touch of nature indoors while elevating your decor with this beautiful floral motif.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Purple Lily Butterfly 767">
+                                <img itemprop="contentUrl url" src='https://www.ajwallpaper.com/cdn/shop/products/BJQ-1973_47dde573-8be7-4b79-9a97-12d0856e55e9.jpg?v=1575937222' alt='3D Purple Lily Butterfly 767'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AJ Wallpaper" />
+                                </span>
+                                <a href='https://www.ajwallpaper.com/cdn/shop/products/BJQ-1973_47dde573-8be7-4b79-9a97-12d0856e55e9.jpg?v=1575937222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Gems of nature - lily flowers in a purple ...">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/90316/role/image/size/1500x2240/type/ft-osmr-ng1/65da543d54548f80735ee9c761fed7a5.webp' alt='Photo Wallpaper Gems of nature - lily flowers in a purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/90316/role/image/size/1500x2240/type/ft-osmr-ng1/65da543d54548f80735ee9c761fed7a5.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Purple lily - flower composition with delicate wave pattern -  bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/63922/role/image/size/1500x2240/type/ft-osmr-wiz3/7c0b87a7b6c0fc37a4abee15716dd320.webp' alt='Wall Mural Purple lily - flower composition with delicate wave pattern -  bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/63922/role/image/size/1500x2240/type/ft-osmr-wiz3/7c0b87a7b6c0fc37a4abee15716dd320.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lily Photos, Download The BEST Free Purple Lily Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5734338/pexels-photo-5734338.jpeg?cs=srgb&dl=pexels-inga-sv-5734338.jpg&fm=jpg' alt='Purple Lily Photos, Download The BEST Free Purple Lily Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5734338/pexels-photo-5734338.jpeg?cs=srgb&dl=pexels-inga-sv-5734338.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="artgeist Wall Mural Purple Lily 157x110 in - Non-Woven Wallpaper Fleece  Wall Decor Photo Print Picture Image Design Floral Flowers Home Floral  Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+IJAn-XmL._AC_UF894,1000_QL80_.jpg' alt='artgeist Wall Mural Purple Lily 157x110 in - Non-Woven Wallpaper Fleece  Wall Decor Photo Print Picture Image Design Floral Flowers Home Floral  Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+IJAn-XmL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/af/ec/b3/afecb3b5af4142a7ff401a905ee46208.jpg' alt='Purple flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/af/ec/b3/afecb3b5af4142a7ff401a905ee46208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lily Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/025/375/small_2x/closeup-of-delicate-purple-lilies-with-soft-pink-and-gold-background-free-photo.jpeg' alt='Purple Lily Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/025/375/small_2x/closeup-of-delicate-purple-lilies-with-soft-pink-and-gold-background-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="never give up">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/b0/e1/76/b0e176feda914d2ccde50d3321f2cbb9.0000000.jpg' alt='never give up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/b0/e1/76/b0e176feda914d2ccde50d3321f2cbb9.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="artgeist Premium Wall Mural Purple Lily 138x101 in - Non-Woven Wallpaper  Fleece Wall Decor Photo Print Picture Image Design Floral Flowers Home  Floral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rufKVjMyL.jpg' alt='artgeist Premium Wall Mural Purple Lily 138x101 in - Non-Woven Wallpaper  Fleece Wall Decor Photo Print Picture Image Design Floral Flowers Home  Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rufKVjMyL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Purple comet - lily flowers on a fancy background with a  glow effect - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/92905/role/image/size/1500x2240/type/ft-osmr-ng1/0c8b8a8f8da5d57e87603198a70f1938.webp' alt='Photo Wallpaper Purple comet - lily flowers on a fancy background with a  glow effect - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/92905/role/image/size/1500x2240/type/ft-osmr-ng1/0c8b8a8f8da5d57e87603198a70f1938.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

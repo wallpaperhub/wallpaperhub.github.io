@@ -1,0 +1,129 @@
+<title>Retro Beach Vibes: Vintage Backgrounds for Your Projects</title>
+                    <meta name="description" content="Discover enchanting retro beach backgrounds that evoke nostalgia with their vibrant colors and classic elements. Ideal for enhancing your projects, these vintage-inspired designs are perfect for summer themes. Dive into a world of sun-soaked memories today!">
+                    <meta name="keywords" content="retro beach background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-beach-background">
+                            <span itemprop="name">retro beach background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Beach Vibes: Vintage Backgrounds for Your Projects</h1>
+                <p>Experience the nostalgic charm of a retro beach background, where vibrant colors and vintage vibes come together. Picture palm trees swaying under a pastel sky, classic surfboards lining the shore, and a relaxing atmosphere that transports you back to sun-soaked days of the past. Perfect for any summer-themed project!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 419,427 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/56/89/68/360_F_256896810_6MYD5cMjunKCgZVIf9zBdJTe9fe66pe3.jpg' alt='Retro Beach Background Images – Browse 419,427 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/56/89/68/360_F_256896810_6MYD5cMjunKCgZVIf9zBdJTe9fe66pe3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 419,427 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/18/61/28/360_F_618612815_7ZovVhuQimLyBrCbsIXorzBw6WtYV0nZ.jpg' alt='Retro Beach Background Images – Browse 419,427 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/18/61/28/360_F_618612815_7ZovVhuQimLyBrCbsIXorzBw6WtYV0nZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="263,100+ Vintage Beach Scene Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165958447/vector/postcard-palms-sea.jpg?s=612x612&w=0&k=20&c=6A8hIdZwed0_6SOS5f14K25kvXioPxVOoxsOt6G2W5I=' alt='263,100+ Vintage Beach Scene Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165958447/vector/postcard-palms-sea.jpg?s=612x612&w=0&k=20&c=6A8hIdZwed0_6SOS5f14K25kvXioPxVOoxsOt6G2W5I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135,800+ Retro Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184097168/photo/palm-tree-on-a-mexican-beach-vintage-postcard.jpg?s=612x612&w=0&k=20&c=qJjNZXWXP_1e6BLq1mJYLoAQuufPK2Qb4SGyAEnHr7U=' alt='135,800+ Retro Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184097168/photo/palm-tree-on-a-mexican-beach-vintage-postcard.jpg?s=612x612&w=0&k=20&c=qJjNZXWXP_1e6BLq1mJYLoAQuufPK2Qb4SGyAEnHr7U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 419,427 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/56/89/67/360_F_256896799_EsLJK0THX9YYWWOzVpGVOwl1oDal8OSD.jpg' alt='Retro Beach Background Images – Browse 419,427 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/56/89/67/360_F_256896799_EsLJK0THX9YYWWOzVpGVOwl1oDal8OSD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro vintage beach with coconut tree at sunset ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-vintage-beach-with-coconut-tree-sunset-background-illustration_26507-927.jpg' alt='Premium Vector | Retro vintage beach with coconut tree at sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-vintage-beach-with-coconut-tree-sunset-background-illustration_26507-927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 419,427 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/02/60/72/360_F_602607200_6mRXT1vDkj2bRRHxGEEcupZDeghSGz08.jpg' alt='Retro Beach Background Images – Browse 419,427 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/02/60/72/360_F_602607200_6mRXT1vDkj2bRRHxGEEcupZDeghSGz08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 419,427 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/23/88/97/360_F_623889724_aMTt1Y8dNCDqPRhKYM9zyrsSCtqcXIwt.jpg' alt='Retro Beach Background Images – Browse 419,427 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/23/88/97/360_F_623889724_aMTt1Y8dNCDqPRhKYM9zyrsSCtqcXIwt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Beach Poster Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/033/842/614/non_2x/retro-beach-paradise-digital-art-illustration-generative-ai-photo.jpeg' alt='Vintage Beach Poster Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/033/842/614/non_2x/retro-beach-paradise-digital-art-illustration-generative-ai-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera Moves Along Synthwave Wireframe Net">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1046208517/thumb/1.jpg?ip=x480' alt='Camera Moves Along Synthwave Wireframe Net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1046208517/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

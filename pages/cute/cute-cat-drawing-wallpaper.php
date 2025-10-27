@@ -1,0 +1,129 @@
+<title>Adorable Cat Drawing Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of cute cat drawing wallpapers designed to brighten your screen. Ideal for cat lovers, these charming designs add a playful touch to your device. Download now and enjoy a daily dose of cuteness!">
+                    <meta name="keywords" content="cute cat drawing wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-cat-drawing-wallpaper">
+                            <span itemprop="name">cute cat drawing wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cat Drawing Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable cat drawing wallpapers that bring joy and charm to your everyday life. These cute cat designs feature playful kittens, whimsical poses, and vibrant colors, perfect for cat lovers. Admire their cuteness every time you glance at your screen and let their antics brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Hand Drawing | Cat Drawing Wallpaper | Cute Cat Drawing | Cat ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/51/46/7d5146baeab9428d72291e75586752f4.jpg' alt='Cat Hand Drawing | Cat Drawing Wallpaper | Cute Cat Drawing | Cat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/51/46/7d5146baeab9428d72291e75586752f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Art Drawing Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-cat-art-drawing-e3pgg0ur5fo226zd.jpg' alt='Cute Cat Art Drawing Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-cat-art-drawing-e3pgg0ur5fo226zd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Best Cat Wallpaper ideas | cat wallpaper, cute cats, cute cat ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/80/bd/a080bdac6e64a929fa79f9d26c74e077.jpg' alt='110 Best Cat Wallpaper ideas | cat wallpaper, cute cats, cute cat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/80/bd/a080bdac6e64a929fa79f9d26c74e077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/423/831/small_2x/cute-cat-kitten-greeting-cartoon-doodle-background-wallpaper-free-vector.jpg' alt='Cat Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/423/831/small_2x/cute-cat-kitten-greeting-cartoon-doodle-background-wallpaper-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Drawing Cute Cats Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-drawing-cute-cats-yaytbopw078wpmfj.jpg' alt='Cool Drawing Cute Cats Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-drawing-cute-cats-yaytbopw078wpmfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/904/115/small/cute-animal-black-cats-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' alt='Cat Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/904/115/small/cute-animal-black-cats-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b5/ed/47/b5ed476bf269b5d74414a773286ba275.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b5/ed/47/b5ed476bf269b5d74414a773286ba275.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGAPfbZlbs/1/0/900w/canva-cute-grey-illustrative-cat-phone-wallpaper-bkZaeDjSrOI.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGAPfbZlbs/1/0/900w/canva-cute-grey-illustrative-cat-phone-wallpaper-bkZaeDjSrOI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Mochi Cat Drawing Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-drawing-pictures-dygwoksxvxpbicev.jpg' alt='Download Cute Mochi Cat Drawing Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-drawing-pictures-dygwoksxvxpbicev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute cat kitten seamless pattern kid drawing doodle style ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/11/27/99/1000_F_211279982_8wjxc5J04fzMwQE0U0SmQueQqzibRB6P.jpg' alt='Cute cat kitten seamless pattern kid drawing doodle style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/11/27/99/1000_F_211279982_8wjxc5J04fzMwQE0U0SmQueQqzibRB6P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

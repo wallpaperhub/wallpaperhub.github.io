@@ -1,0 +1,129 @@
+<title>Change Background Color to Blue-Gray for All Slides</title>
+                    <meta name="description" content="Learn how to quickly change your presentation's background color to blue-gray text 2 for all slides. Enhance your slides' visual appeal with this easy step-by-step guide. Perfect for creating cohesive and professional presentations!">
+                    <meta name="keywords" content="change the background color for all slides in the presentation to blue-gray text 2">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/change-the-background-color-for-all-slides-in-the-presentation-to-blue-gray-text-2">
+                            <span itemprop="name">change the background color for all slides in the presentation to blue-gray text 2</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Change Background Color to Blue-Gray for All Slides</h1>
+                <p>To change the background color for all slides in your presentation to blue-gray text 2, go to the 'Design' tab, select 'Format Background,' and choose the solid fill option. Pick the blue-gray text 2 color from the palette. Finally, click 'Apply to All' to ensure all slides reflect the new background color, enhancing your presentation's overall look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Slide Background Color in Microsoft PowerPoint 2017">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k4JG5MISfz8/mqdefault.jpg' alt='How to Change Slide Background Color in Microsoft PowerPoint 2017'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k4JG5MISfz8/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PowerPoint: Modifying Themes">
+                                <img itemprop="contentUrl url" src='https://media.gcflearnfree.org/content/56d886966aa91509c874342c_03_03_2016/save%20theme%20color%20edit.png' alt='PowerPoint: Modifying Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1299">
+                                <meta itemprop="height" content="1151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCFGlobal" />
+                                </span>
+                                <a href='https://media.gcflearnfree.org/content/56d886966aa91509c874342c_03_03_2016/save%20theme%20color%20edit.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video: Change the theme background - Microsoft Support">
+                                <img itemprop="contentUrl url" src='https://videoencodingpublic-hgeaeyeba8gycee3.b01.azurefd.net/public-0c86273b-9e83-42db-b569-2c14961d852c/thumbnail_w800.jpeg' alt='Video: Change the theme background - Microsoft Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Support" />
+                                </span>
+                                <a href='https://videoencodingpublic-hgeaeyeba8gycee3.b01.azurefd.net/public-0c86273b-9e83-42db-b569-2c14961d852c/thumbnail_w800.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Text Color in PowerPoint: A Visual Guide - SlidesAI Blog">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesai.io/cdn-cgi/image/width=1080/https://cms-media.slidesai.io/wp-content/uploads/2023/10/31024038/Untitled-4-1024x511.png' alt='How to Change Text Color in PowerPoint: A Visual Guide - SlidesAI Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slides AI" />
+                                </span>
+                                <a href='https://cdn.slidesai.io/cdn-cgi/image/width=1080/https://cms-media.slidesai.io/wp-content/uploads/2023/10/31024038/Untitled-4-1024x511.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Theme Colors in Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/kiUuZ131LscjbtV3ii3pAYkUfbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GoogleSlides-DefaultPalette-4f0017ba6de44a19b749a8ea0fe83f4b-224ad069947d4c838fb56c09029e1001.jpg' alt='How to Change Theme Colors in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/kiUuZ131LscjbtV3ii3pAYkUfbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GoogleSlides-DefaultPalette-4f0017ba6de44a19b749a8ea0fe83f4b-224ad069947d4c838fb56c09029e1001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change a Theme and its Variants in PowerPoint 2019 & 365">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SdhY97lyIcM/sddefault.jpg' alt='How to Change a Theme and its Variants in PowerPoint 2019 & 365'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SdhY97lyIcM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PowerPoint Secrets: Color (Part 1) | powerpointy">
+                                <img itemprop="contentUrl url" src='https://pptcrafter.wordpress.com/wp-content/uploads/2019/06/col11.png?w=280&h=309' alt='PowerPoint Secrets: Color (Part 1) | powerpointy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="powerpointy - WordPress.com" />
+                                </span>
+                                <a href='https://pptcrafter.wordpress.com/wp-content/uploads/2019/06/col11.png?w=280&h=309' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PowerPoint: Modifying Themes">
+                                <img itemprop="contentUrl url" src='https://media.gcflearnfree.org/content/56d886966aa91509c874342c_03_03_2016/select%20background%20styles.png' alt='PowerPoint: Modifying Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCFGlobal" />
+                                </span>
+                                <a href='https://media.gcflearnfree.org/content/56d886966aa91509c874342c_03_03_2016/select%20background%20styles.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Custom Color Palette in PowerPoint – Speaking ...">
+                                <img itemprop="contentUrl url" src='https://speakingppt.com/wp-content/uploads/2012/12/text.png' alt='How to Create a Custom Color Palette in PowerPoint – Speaking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1328">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Speaking PowerPoint" />
+                                </span>
+                                <a href='https://speakingppt.com/wp-content/uploads/2012/12/text.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color in PowerPoint (3 Easy Ways)">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2024/03/change-background-color-powerpoint.png' alt='How to Change Background Color in PowerPoint (3 Easy Ways)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2024/03/change-background-color-powerpoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

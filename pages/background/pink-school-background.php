@@ -1,0 +1,129 @@
+<title>Cheerful Pink School Background for a Fun Learning Environment</title>
+                    <meta name="description" content="Discover the perfect pink school background to brighten your learning space. This vibrant color enhances creativity and positivity, making education enjoyable. Ideal for classrooms or online platforms, our pink backgrounds inspire a welcoming atmosphere for students. Transform your educational environment today!">
+                    <meta name="keywords" content="pink school background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-school-background">
+                            <span itemprop="name">pink school background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Pink School Background for a Fun Learning Environment</h1>
+                <p>A pink school background adds a vibrant and cheerful touch to any educational space. It creates an inviting atmosphere, promoting creativity and positivity among students. Whether for classrooms, online learning environments, or promotional materials, this color choice fosters a sense of warmth and inclusivity, making education delightful and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,800+ Pink School Supplies Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1001766018/photo/school-supplies-double-border-over-a-pastel-pink-background.jpg?s=170667a&w=is&k=20&c=vTRkdukD6qlhmgXOLI9fyNR0HHK2evYZjH3hP9P90yk=' alt='20,800+ Pink School Supplies Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1001766018/photo/school-supplies-double-border-over-a-pastel-pink-background.jpg?s=170667a&w=is&k=20&c=vTRkdukD6qlhmgXOLI9fyNR0HHK2evYZjH3hP9P90yk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Vector Pink Background School Office Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-vector-pink-background-school-260nw-398284870.jpg' alt='Seamless Vector Pink Background School Office Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-vector-pink-background-school-260nw-398284870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,800+ Pink School Supplies Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1408107858/photo/pink-office-supplies-on-pink-background-flat-lay-top-view-minimal-style-back-to-school-concept.jpg?s=612x612&w=0&k=20&c=ccrBZ14C9IrBIPm1_YHlU0FZ8jloFMRsD3MXO4McOZM=' alt='20,800+ Pink School Supplies Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1408107858/photo/pink-office-supplies-on-pink-background-flat-lay-top-view-minimal-style-back-to-school-concept.jpg?s=612x612&w=0&k=20&c=ccrBZ14C9IrBIPm1_YHlU0FZ8jloFMRsD3MXO4McOZM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to school background - pink girl's different stationery set ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/15/34/13/1000_F_215341369_kNdQCReTENjdlvRCvjeF79LTZ67l0yLb.jpg' alt='Back to school background - pink girl's different stationery set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/15/34/13/1000_F_215341369_kNdQCReTENjdlvRCvjeF79LTZ67l0yLb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | School supplies on pink background with copy space ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/school-supplies-pink-background-with-copy-space-back-school-concept_106006-6293.jpg' alt='Premium Photo | School supplies on pink background with copy space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/school-supplies-pink-background-with-copy-space-back-school-concept_106006-6293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Watercolor Style Return Background, Pink, Watercolor, Return ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-pink-watercolor-style-return-picture-image_1435745.jpg' alt='Pink Watercolor Style Return Background, Pink, Watercolor, Return ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-pink-watercolor-style-return-picture-image_1435745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink School Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-office-stationery-with-notebook-copy-space_23-2148524792.jpg?semt=ais_hybrid' alt='Pink School Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-office-stationery-with-notebook-copy-space_23-2148524792.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Shading Paint Bottle Hand Drawn Back To School Education ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-cute-pink-shading-paint-bottle-hand-drawn-back-to-school-education-picture-image_1459309.jpg' alt='Cute Pink Shading Paint Bottle Hand Drawn Back To School Education ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-cute-pink-shading-paint-bottle-hand-drawn-back-to-school-education-picture-image_1459309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Supplies Side Border Over a Pastel Pink Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/school-supplies-side-border-over-pastel-pink-background-against-paper-121443341.jpg' alt='School Supplies Side Border Over a Pastel Pink Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/school-supplies-side-border-over-pastel-pink-background-against-paper-121443341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand drawn doodle seamless pattern with school icons on pink ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/380/217/non_2x/hand-drawn-doodle-seamless-pattern-with-school-icons-on-pink-background-illustration-of-supplies-back-to-school-concept-for-print-web-and-textile-design-stationery-vector.jpg' alt='Hand drawn doodle seamless pattern with school icons on pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/380/217/non_2x/hand-drawn-doodle-seamless-pattern-with-school-icons-on-pink-background-illustration-of-supplies-back-to-school-concept-for-print-web-and-textile-design-stationery-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

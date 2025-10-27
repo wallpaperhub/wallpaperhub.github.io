@@ -1,0 +1,129 @@
+<title>Discover the Talent of Laura Marano: Actress & Singer</title>
+                    <meta name="description" content="Explore the life and achievements of Laura Marano, the beloved star of "Austin & Ally." From her acting prowess to her musical career, get insights into her journey and influences in the entertainment industry. Discover why she remains a favorite among fans everywhere!">
+                    <meta name="keywords" content="laura marano">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/laura-marano">
+                            <span itemprop="name">laura marano</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Talent of Laura Marano: Actress & Singer</h1>
+                <p>Laura Marano is a talented actress and singer best known for her role as Ally Dawson on the Disney Channel's hit show "Austin & Ally." With her captivating performances and diverse musical style, she has won the hearts of fans around the globe. Laura's journey in the entertainment industry continues to inspire many young artists.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Laura_Marano_%40_Troubadour_08_05_2022_%2852514020744%29_%28cropped%29_%28cropped%29_%28cropped%29.jpg' alt='Laura Marano - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="1845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/05/Laura_Marano_%40_Troubadour_08_05_2022_%2852514020744%29_%28cropped%29_%28cropped%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/6/6a/Laura_Marano.jpg/revision/latest?cb=20180803222651' alt='Laura Marano | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/6/6a/Laura_Marano.jpg/revision/latest?cb=20180803222651' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGQwM2E2NmUtM2IyNi00OTE3LTk2NWYtMGQzN2FkMWQ2M2JjXkEyXkFqcGc@._V1_.jpg' alt='Laura Marano - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGQwM2E2NmUtM2IyNi00OTE3LTk2NWYtMGQzN2FkMWQ2M2JjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/268971_v9_bc.jpg' alt='Laura Marano | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/268971_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano – Movies, Bio and Lists on MUBI">
+                                <img itemprop="contentUrl url" src='https://images.mubicdn.net/images/cast_member/281565/cache-556360-1592107867/image-w856.jpg' alt='Laura Marano – Movies, Bio and Lists on MUBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUBI" />
+                                </span>
+                                <a href='https://images.mubicdn.net/images/cast_member/281565/cache-556360-1592107867/image-w856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano | Bad Hair Day Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/badhairday/images/6/6a/Laura_Marano.jpg/revision/latest?cb=20140708183018' alt='Laura Marano | Bad Hair Day Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bad Hair Day Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/badhairday/images/6/6a/Laura_Marano.jpg/revision/latest?cb=20140708183018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY3MDQxNTI5NF5BMl5BanBnXkFtZTgwNTc0NDI1NDM@._V1_.jpg' alt='Laura Marano - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY3MDQxNTI5NF5BMl5BanBnXkFtZTgwNTc0NDI1NDM@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Ross Lynch, Laura Marano Still Friends After 'Austin & Ally ...">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2023/05/laura-marano-ross-lynch-.jpg?fit=800%2C1000&quality=86&strip=all' alt='Are Ross Lynch, Laura Marano Still Friends After 'Austin & Ally ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2023/05/laura-marano-ross-lynch-.jpg?fit=800%2C1000&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano on 'The Royal Treatment' and embracing Netflix's ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EQ6KWTMFBGT3B7G4UJDCBK6CA.jpg&w=1200' alt='Laura Marano on 'The Royal Treatment' and embracing Netflix's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EQ6KWTMFBGT3B7G4UJDCBK6CA.jpg&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Marano | Sabrina Carpenter Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sabrina-carpenter/images/0/04/LauraMarano.png/revision/latest?cb=20241221152833' alt='Laura Marano | Sabrina Carpenter Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sabrina Carpenter Wiki Sabrina Carpenter Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sabrina-carpenter/images/0/04/LauraMarano.png/revision/latest?cb=20241221152833' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

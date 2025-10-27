@@ -1,0 +1,129 @@
+<title>Cozy Winter Phone Wallpaper: Warmth in Your Pocket</title>
+                    <meta name="description" content="Discover the charm of winter with our cozy phone wallpapers. Designed for warmth and tranquility, these beautiful images will brighten your device while bringing the holiday spirit to life. Perfect for chilly days—download now and enjoy a cozy aesthetic on the go!">
+                    <meta name="keywords" content="cozy winter phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cozy-winter-phone-wallpaper">
+                            <span itemprop="name">cozy winter phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Winter Phone Wallpaper: Warmth in Your Pocket</h1>
+                <p>Transform your phone into a winter wonderland with our cozy winter wallpapers. These serene images evoke warmth and comfort—think snow-dusted pine trees, crackling fireplaces, and soft blankets. Perfect for those chilly days, our wallpapers set a tranquil mood that’s just a tap away, bringing seasonal cheer to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/e7/60/6de76098b40532bdbe859bf1863fc889.jpg' alt='Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/e7/60/6de76098b40532bdbe859bf1863fc889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter Cafe And Shops Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cozy-winter-cafe-and-shops-8l81hf7nk7l7ksnn.jpg' alt='Cozy Winter Cafe And Shops Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cozy-winter-cafe-and-shops-8l81hf7nk7l7ksnn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Cozy winter wallpapers for iPhone (Free 4K download) - iGeeksBlog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/36/e2/bf36e2cc6f3b5723dbf74f6e56b40c8b.jpg' alt='20+ Cozy winter wallpapers for iPhone (Free 4K download) - iGeeksBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/36/e2/bf36e2cc6f3b5723dbf74f6e56b40c8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10253482.jpg' alt='Cozy Winter iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10253482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm And Cozy Winter Drink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' alt='Warm And Cozy Winter Drink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers: Get Stunning Seasonal Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/a8/24/50a824c000ddae48abb1c840d17b757b.jpg' alt='Winter iPhone Wallpapers: Get Stunning Seasonal Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/a8/24/50a824c000ddae48abb1c840d17b757b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter Wallpapers [46+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/512/cozy-winter-iphone-wallpaper-1080x1349.jpg' alt='Cozy Winter Wallpapers [46+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/512/cozy-winter-iphone-wallpaper-1080x1349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Forest Phone Wallpapers for a Festive Touch">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' alt='Christmas Forest Phone Wallpapers for a Festive Touch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Free Aesthetic Winter Wallpapers for IPhone - Cappuccino and ...">
+                                <img itemprop="contentUrl url" src='https://cappuccinoandfashion.com/wp-content/uploads/2023/11/zachary-kyra-derksen-f7PF7yGqpEM-unsplash-874x1092.jpg' alt='60+ Free Aesthetic Winter Wallpapers for IPhone - Cappuccino and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cappuccino and Fashion" />
+                                </span>
+                                <a href='https://cappuccinoandfashion.com/wp-content/uploads/2023/11/zachary-kyra-derksen-f7PF7yGqpEM-unsplash-874x1092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cozy Mountain Retreat Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/6/d/16da514c-747b-4f34-ab6a-401096e4d406_large/cozy-mountain-retreat-stockcake.jpg' alt='Free Cozy Mountain Retreat Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/6/d/16da514c-747b-4f34-ab6a-401096e4d406_large/cozy-mountain-retreat-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

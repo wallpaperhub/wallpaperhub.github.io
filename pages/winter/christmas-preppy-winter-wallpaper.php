@@ -1,0 +1,129 @@
+<title>Cozy Christmas Preppy Winter Wallpaper for Festive Decor</title>
+                    <meta name="description" content="Explore our Christmas preppy winter wallpaper collection! Perfect for adding festive flair to your space, our wallpaper features charming designs that bring warmth and style to your holiday decor. Ideal for creating a cheerful atmosphere, shop now to transform your home this winter!">
+                    <meta name="keywords" content="christmas preppy winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/christmas-preppy-winter-wallpaper">
+                            <span itemprop="name">christmas preppy winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Christmas Preppy Winter Wallpaper for Festive Decor</h1>
+                <p>Transform your space this holiday season with our Christmas preppy winter wallpaper. Featuring festive patterns like plaid, snowflakes, and cheerful motifs, it's perfect for creating a cozy, stylish atmosphere. Add a touch of winter charm to your home decor and celebrate the season with vibrant, eye-catching designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 new aesthetic christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/e3/57/2de35797c5d4ae711b4daebdc3358b7c.jpg' alt='2022 new aesthetic christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/e3/57/2de35797c5d4ae711b4daebdc3358b7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy winter wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/4d/d7/444dd75bd7372fe62c168133f7ef3d88.jpg' alt='preppy winter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/4d/d7/444dd75bd7372fe62c168133f7ef3d88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15696262/p/f/m/_bl9Hw-Om4w0SjCNcfaeZP4TmS2y-upHjT43h3PWkxnQItK2cl2-LJ33eg/Christmas%20Nutcracker%204%22%20Ballet%20Ballerina%2C%20Nutcracker%20Solider%2C%20Christmas%20Tree%2C%20Gifts%2C%20Red%20Ribbon%20Bow%2C%20Lattice%2C%20Scallop%2C%20Balletcore%2C%20Ballet%20Shoes%2C%20Dancing%2C%20Mouse%20King%2C%20Classic%20Childrens%2C%20Preppy%20Grand%20Millennial%20PF144A.jpg' alt='Preppy Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15696262/p/f/m/_bl9Hw-Om4w0SjCNcfaeZP4TmS2y-upHjT43h3PWkxnQItK2cl2-LJ33eg/Christmas%20Nutcracker%204%22%20Ballet%20Ballerina%2C%20Nutcracker%20Solider%2C%20Christmas%20Tree%2C%20Gifts%2C%20Red%20Ribbon%20Bow%2C%20Lattice%2C%20Scallop%2C%20Balletcore%2C%20Ballet%20Shoes%2C%20Dancing%2C%20Mouse%20King%2C%20Classic%20Childrens%2C%20Preppy%20Grand%20Millennial%20PF144A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Christmas Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-christmas-collage-fd4o9b8c9cdcozsd.jpg' alt='Download Preppy Christmas Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-christmas-collage-fd4o9b8c9cdcozsd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD preppy christmas wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/305/622/HD-wallpaper-smiley-face-christmas-digital-seamless-pattern-for-fabrics-and-preppy-christmas-thumbnail.jpg' alt='HD preppy christmas wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/305/622/HD-wallpaper-smiley-face-christmas-digital-seamless-pattern-for-fabrics-and-preppy-christmas-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Christmas ideas | winter wallpaper, christmas wallpaper, winter ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/bb/c8/7d/bbc87d72832a3fe0c77272f5488ef9bd.jpg' alt='7 Christmas ideas | winter wallpaper, christmas wallpaper, winter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/bb/c8/7d/bbc87d72832a3fe0c77272f5488ef9bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christmas wallpapers  ⭐️❤️ | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7321551503528575493&index=1&sign=12355ad62689320153b2c18df0940ebc' alt='Preppy Christmas wallpapers  ⭐️❤️ | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7321551503528575493&index=1&sign=12355ad62689320153b2c18df0940ebc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christmas wallpapers  ⭐️❤️ | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7304521597711319558&index=2&sign=f448a378c74801606fcf3b538e47ac4c' alt='Preppy Christmas wallpapers  ⭐️❤️ | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7304521597711319558&index=2&sign=f448a378c74801606fcf3b538e47ac4c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD preppy christmas wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/845/667/HD-wallpaper-christmas-aesthetic-grey-winter-1-fab-mood-wedding-colours-wedding-themes-wedding-colour-palettes-preppy-christmas.jpg' alt='HD preppy christmas wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/845/667/HD-wallpaper-christmas-aesthetic-grey-winter-1-fab-mood-wedding-colours-wedding-themes-wedding-colour-palettes-preppy-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Winter Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-background-white-snowflake-illustration-vector_53876-154347.jpg' alt='Preppy Winter Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-background-white-snowflake-illustration-vector_53876-154347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

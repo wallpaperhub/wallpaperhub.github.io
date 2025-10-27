@@ -1,0 +1,129 @@
+<title>Stunning Pokémon Legends Arceus Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of breathtaking Pokémon Legends Arceus wallpapers perfect for your mobile device. Transform your screen with vibrant, captivating images from the Hisui region and showcase your love for Pokémon. Download your favorites now and immerse yourself in this exciting adventure!">
+                    <meta name="keywords" content="pokemon legends arceus wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-legends-arceus-wallpaper">
+                            <span itemprop="name">pokemon legends arceus wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pokémon Legends Arceus Wallpapers for Your Device</h1>
+                <p>Discover stunning Pokémon Legends Arceus wallpapers that bring the breathtaking landscapes and iconic Pokémon to your device! From serene vistas to thrilling encounters, find the perfect background that captures the spirit of the Hisui region. Elevate your screen with vibrant artwork and celebrate your Pokémon journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Legends: Arceus Wallpapers (51 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/a/6/11681-1080x1920-mobile-full-hd-pokemon-legends-arceus-wallpaper.jpg' alt='Pokemon Legends: Arceus Wallpapers (51 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/a/6/11681-1080x1920-mobile-full-hd-pokemon-legends-arceus-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Legends: Arceus HD 4K Wallpaper PC & Phone">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/pokemon-legends-arceus-characters-159@1@f-thumb.jpg?dl' alt='Pokemon Legends: Arceus HD 4K Wallpaper PC & Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/pokemon-legends-arceus-characters-159@1@f-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Legends: Arceus - Artwork Version 2 Wallpaper - Cat with ...">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2021/08/pokemon-legends-arceus-artwork-02-1366x768-1.jpg' alt='Pokémon Legends: Arceus - Artwork Version 2 Wallpaper - Cat with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2021/08/pokemon-legends-arceus-artwork-02-1366x768-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pokémon legends: arceus wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/209/589/HD-wallpaper-pokemon-pokemon-legends-arceus-akari-pokemon-braviary-pokemon.jpg' alt='HD pokémon legends: arceus wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/209/589/HD-wallpaper-pokemon-pokemon-legends-arceus-akari-pokemon-braviary-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Legends: Arceus HD 4K Wallpaper PC & Phone">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/pokemon-legends-arceus-characters-149@1@f-thumb.jpg?dl' alt='Pokemon Legends: Arceus HD 4K Wallpaper PC & Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/pokemon-legends-arceus-characters-149@1@f-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Legends Arceus' Is Nearly the Game I've Dreamed About ...">
+                                <img itemprop="contentUrl url" src='https://www.vice.com/wp-content/uploads/sites/2/2022/02/1643671787269-pokemonlegendsarceus1.png' alt='Pokémon Legends Arceus' Is Nearly the Game I've Dreamed About ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICE" />
+                                </span>
+                                <a href='https://www.vice.com/wp-content/uploads/sites/2/2022/02/1643671787269-pokemonlegendsarceus1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Legends: Arceus - Artwork Version 3 Wallpaper - Cat with ...">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2021/08/pokemon-legends-arceus-artwork-03-1080x2340-1.jpg' alt='Pokémon Legends: Arceus - Artwork Version 3 Wallpaper - Cat with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2021/08/pokemon-legends-arceus-artwork-03-1080x2340-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just got the game! Give me some tips and tricks!! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-got-the-game-give-me-some-tips-and-tricks-v0-jl5y4rbe77ec1.jpeg?auto=webp&s=f7d32fe14e6c4d6c12dc77b5f1d912e8c4368a60' alt='Just got the game! Give me some tips and tricks!! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1914">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-got-the-game-give-me-some-tips-and-tricks-v0-jl5y4rbe77ec1.jpeg?auto=webp&s=f7d32fe14e6c4d6c12dc77b5f1d912e8c4368a60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="catastropika⚡️ — Official wallpaper of Pokémon Legends: Arceus...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/643fbd687a1c61eb13ea2412c147af62/6fba81fc81a4fadb-81/s1280x1920/305b92dcc7b7deb5d3ce881bdbc5039e5e9cabf2.jpg' alt='catastropika⚡️ — Official wallpaper of Pokémon Legends: Arceus...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@z-moves on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/643fbd687a1c61eb13ea2412c147af62/6fba81fc81a4fadb-81/s1280x1920/305b92dcc7b7deb5d3ce881bdbc5039e5e9cabf2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLDH on X: "Wallpaper number four in @poke_times' seven-day ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FKY5h4gUcAQ-dBT?format=jpg&name=4096x4096' alt='PLDH on X: "Wallpaper number four in @poke_times' seven-day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2188">
+                                <meta itemprop="height" content="3889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FKY5h4gUcAQ-dBT?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

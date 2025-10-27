@@ -1,0 +1,129 @@
+<title>Gettysburg: The Turning Point of the Civil War</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="gettysburg history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gettysburg-history">
+                            <span itemprop="name">gettysburg history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gettysburg: The Turning Point of the Civil War</h1>
+                <p>Gettysburg, a small town in Pennsylvania, is renowned for its pivotal role in the Civil War. The Battle of Gettysburg, fought from July 1 to 3, 1863, marked a turning point in the war, resulting in a significant Union victory. The site is now home to the Gettysburg National Military Park, preserving its rich history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle History | Gettysburg PA">
+                                <img itemprop="contentUrl url" src='https://www.gettysburgpa.gov/sites/g/files/vyhlif3156/f/imce/battle.jpg' alt='Battle History | Gettysburg PA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gettysburg Borough" />
+                                </span>
+                                <a href='https://www.gettysburgpa.gov/sites/g/files/vyhlif3156/f/imce/battle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle of Gettysburg: Summary, Facts & Casualties | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/battle-of-gettysburg-gettyimages-3433799.jpg' alt='Battle of Gettysburg: Summary, Facts & Casualties | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/battle-of-gettysburg-gettyimages-3433799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Battle of Gettysburg">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/7beffd67-9522-4c39-a251-40319ae6a729/gettysburg-textimage_6_2x3.jpg' alt='The Battle of Gettysburg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/7beffd67-9522-4c39-a251-40319ae6a729/gettysburg-textimage_6_2x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gettysburg Battle Facts and Summary | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/hero_large/public/thumbnails/image/Gettysburg%20Battle%20Page%20Hero.jpg?h=1a7cb72a&itok=9QUZExpG' alt='Gettysburg Battle Facts and Summary | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/hero_large/public/thumbnails/image/Gettysburg%20Battle%20Page%20Hero.jpg?h=1a7cb72a&itok=9QUZExpG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Significance and casualties of the Battle of Gettysburg | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/13/913-050-BF67B227/troops-Confederate-objective-progress-mark-Cemetery-Ridge.jpg' alt='Significance and casualties of the Battle of Gettysburg | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/13/913-050-BF67B227/troops-Confederate-objective-progress-mark-Cemetery-Ridge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Reasons Why Gettysburg Completely Changed American History">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/03bb7a_8549c55a8d764570b35d19dd027263aa~mv2.jpg/v1/fill/w_724,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/03bb7a_8549c55a8d764570b35d19dd027263aa~mv2.jpg' alt='4 Reasons Why Gettysburg Completely Changed American History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gettysburg Sentinels" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/03bb7a_8549c55a8d764570b35d19dd027263aa~mv2.jpg/v1/fill/w_724,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/03bb7a_8549c55a8d764570b35d19dd027263aa~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Battle of Gettysburg Turned the Tide of the Civil War ...">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2019/07/battle-of-gettysburg-gettyimages-3090040-copy.jpg' alt='How the Battle of Gettysburg Turned the Tide of the Civil War ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3684">
+                                <meta itemprop="height" content="1674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2019/07/battle-of-gettysburg-gettyimages-3090040-copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Gettysburg Facts You May Not Know About the Battle | GBT Blog">
+                                <img itemprop="contentUrl url" src='https://www.gettysburgbattlefieldtours.com/wp-content/uploads/2022/05/Battle-of-Gettysburg-by-Paul-Philippoteaux.jpg' alt='4 Gettysburg Facts You May Not Know About the Battle | GBT Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gettysburg Battlefield Tours" />
+                                </span>
+                                <a href='https://www.gettysburgbattlefieldtours.com/wp-content/uploads/2022/05/Battle-of-Gettysburg-by-Paul-Philippoteaux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle History | Gettysburg PA">
+                                <img itemprop="contentUrl url" src='https://www.gettysburgpa.gov/sites/g/files/vyhlif3156/f/resize/imce/dead-400x350.jpg' alt='Battle History | Gettysburg PA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gettysburg Borough" />
+                                </span>
+                                <a href='https://www.gettysburgpa.gov/sites/g/files/vyhlif3156/f/resize/imce/dead-400x350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Significance of the Battle of Gettysburg">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/6y2fERC6mOrA0e6YUp83zn1vdb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/prang-painting-gettysburg-168450997-59e78f34aad52b0011e9bfb6.jpg' alt='Significance of the Battle of Gettysburg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/6y2fERC6mOrA0e6YUp83zn1vdb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/prang-painting-gettysburg-168450997-59e78f34aad52b0011e9bfb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

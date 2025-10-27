@@ -1,0 +1,129 @@
+<title>Explore El Salvador: A Hidden Gem in Central America</title>
+                    <meta name="description" content="Discover El Salvador, a vibrant Central American country with breathtaking landscapes, rich history, and a warm culture. Experience its stunning beaches, explore ancient ruins, and savor delicious local cuisine. Perfect for adventure seekers and culture enthusiasts alike, El Salvador awaits your visit!">
+                    <meta name="keywords" content="el salvador">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/el-salvador">
+                            <span itemprop="name">el salvador</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore El Salvador: A Hidden Gem in Central America</h1>
+                <p>El Salvador, a small Central American nation, is known for its stunning landscapes, vibrant culture, and rich history. Home to beautiful beaches, volcanic mountains, and ancient Mayan ruins, it offers adventurous activities like surfing and hiking. The friendly locals and delicious cuisine enhance its appeal as a unique travel destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png' alt='El Salvador - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador | History, Flag, Map, Population, Capital, Religion ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/34/183634-050-1548554F/World-Data-Locator-Map-El-Salvador.jpg' alt='El Salvador | History, Flag, Map, Population, Capital, Religion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/34/183634-050-1548554F/World-Data-Locator-Map-El-Salvador.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador Facts | Compassion International">
+                                <img itemprop="contentUrl url" src='https://www.compassion.com/Images/elsalvador-hero-1224.jpg' alt='El Salvador Facts | Compassion International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compassion International" />
+                                </span>
+                                <a href='https://www.compassion.com/Images/elsalvador-hero-1224.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador country profile - BBC News">
+                                <img itemprop="contentUrl url" src='http://c.files.bbci.co.uk/5295/production/_128314112_bbcmp_el-salvador.png' alt='El Salvador country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='http://c.files.bbci.co.uk/5295/production/_128314112_bbcmp_el-salvador.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador | History, Flag, Map, Population, Capital, Religion ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/17/7217-050-841ABAE8/El-Salvador-boundaries-map-cities-locator.jpg' alt='El Salvador | History, Flag, Map, Population, Capital, Religion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/17/7217-050-841ABAE8/El-Salvador-boundaries-map-cities-locator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador - United States Department of State">
+                                <img itemprop="contentUrl url" src='https://www.state.gov/wp-content/uploads/2019/04/shutterstock_1648483984v2-2048x1437-1-2004x1406.jpg' alt='El Salvador - United States Department of State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2004">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State Department" />
+                                </span>
+                                <a href='https://www.state.gov/wp-content/uploads/2019/04/shutterstock_1648483984v2-2048x1437-1-2004x1406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of arms of El Salvador - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_El_Salvador.svg' alt='Coat of arms of El Salvador - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_El_Salvador.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/8dcf6407-8d90-4ff5-8ed9-edf3b75e867c/el-salvador-textimage_0_3x2.jpg' alt='El Salvador Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/8dcf6407-8d90-4ff5-8ed9-edf3b75e867c/el-salvador-textimage_0_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador Vacation Packages 2025/2026 | Goway Travel">
+                                <img itemprop="contentUrl url" src='https://images.goway.com/production/hero/iStock-907453614_0.jpg' alt='El Salvador Vacation Packages 2025/2026 | Goway Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3100">
+                                <meta itemprop="height" content="2075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goway Travel" />
+                                </span>
+                                <a href='https://images.goway.com/production/hero/iStock-907453614_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador: All You Must Know Before You Go (2025) - Tripadvisor">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/48/cf/30/epic-tours-day-tours.jpg?w=1400&h=1400&s=1' alt='El Salvador: All You Must Know Before You Go (2025) - Tripadvisor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/48/cf/30/epic-tours-day-tours.jpg?w=1400&h=1400&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

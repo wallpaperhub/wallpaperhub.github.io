@@ -1,0 +1,129 @@
+<title>Nelly Furtado: Chart-Topping Pop Sensation</title>
+                    <meta name="description" content="Explore the vibrant musical journey of Nelly Furtado, a Canadian superstar renowned for her hits and eclectic sound. Discover her chart-topping songs and artistic evolution that continues to captivate fans globally. Stay updated on her latest projects and performances!">
+                    <meta name="keywords" content="nelly furtado">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nelly-furtado">
+                            <span itemprop="name">nelly furtado</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nelly Furtado: Chart-Topping Pop Sensation</h1>
+                <p>Nelly Furtado is a Canadian singer-songwriter known for her unique blend of pop, R&B, and folk influences. Bursting onto the music scene in the early 2000s with hits like "I'm Like a Bird" and "Promiscuous," she quickly gained international fame. Furtado is celebrated for her versatile voice and innovative sound, continuing to inspire fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%285%29.jpg/640px-Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%285%29.jpg' alt='Nelly Furtado - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%285%29.jpg/640px-Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%285%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado On Her 7th Album And TikTok Renaissance">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-07/nelly-furtado-exclusive-mc-1x1-240711-copy-852d4c.jpg' alt='Nelly Furtado On Her 7th Album And TikTok Renaissance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-07/nelly-furtado-exclusive-mc-1x1-240711-copy-852d4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado Says Magazines Would 'Lighten' Her 'Olive Skin'">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2024/09/nelly-furtado-egyptian-theater-2024-billboard-1548.jpg?w=1024' alt='Nelly Furtado Says Magazines Would 'Lighten' Her 'Olive Skin''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2024/09/nelly-furtado-egyptian-theater-2024-billboard-1548.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTQ5OTMxMTMyOF5BMl5BanBnXkFtZTcwMzExMjQ4Mg@@._V1_.jpg' alt='Nelly Furtado - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTQ5OTMxMTMyOF5BMl5BanBnXkFtZTcwMzExMjQ4Mg@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive | Nelly Furtado looks back at her early-2000s outfits">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2023/10/nelly-furtado-2000s-outfits.jpg?quality=75&strip=all&1696846234&w=1200' alt='Exclusive | Nelly Furtado looks back at her early-2000s outfits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2023/10/nelly-furtado-2000s-outfits.jpg?quality=75&strip=all&1696846234&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loose">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ilPm8+O4L._UF1000,1000_QL80_.jpg' alt='Loose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ilPm8+O4L._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado | Official Site">
+                                <img itemprop="contentUrl url" src='https://photos.bandsintown.com/large/17111372.jpeg' alt='Nelly Furtado | Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.nellyfurtado.com" />
+                                </span>
+                                <a href='https://photos.bandsintown.com/large/17111372.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado appreciation    her music and her collabs with ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nelly-furtado-appreciation-her-music-and-her-collabs-with-v0-5emad5f8domb1.jpg?width=1415&format=pjpg&auto=webp&s=6afd68348ada6e44aabd9784c868477fa8ed6282' alt='Nelly Furtado appreciation    her music and her collabs with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1415">
+                                <meta itemprop="height" content="2670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nelly-furtado-appreciation-her-music-and-her-collabs-with-v0-5emad5f8domb1.jpg?width=1415&format=pjpg&auto=webp&s=6afd68348ada6e44aabd9784c868477fa8ed6282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No makeup. No editing. No filters. Why Nelly Furtado, 46, is ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/odRmaBEqHez99F_mhI07yA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/13bdbc20-cc7b-11ef-8b55-743bcb7fb1a4' alt='No makeup. No editing. No filters. Why Nelly Furtado, 46, is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/odRmaBEqHez99F_mhI07yA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/13bdbc20-cc7b-11ef-8b55-743bcb7fb1a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelly Furtado on the Music That Terrified and Changed Her">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/e5f/de3/2bc653be6f61936b620b2954b8cff8d0ae-nelly-furtado-superlatives.2x.rsocial.w600.jpg' alt='Nelly Furtado on the Music That Terrified and Changed Her'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/e5f/de3/2bc653be6f61936b620b2954b8cff8d0ae-nelly-furtado-superlatives.2x.rsocial.w600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

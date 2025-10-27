@@ -1,0 +1,129 @@
+<title>All About Bryce Harper: MLB Star</title>
+                    <meta name="description" content="Discover the journey of Bryce Harper, a powerhouse in MLB. From his early days as the first overall draft pick to becoming a two-time MVP, explore his achievements, playing style, and the impact he's made in baseball today. Join the excitement surrounding this iconic player!">
+                    <meta name="keywords" content="bryce harper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bryce-harper">
+                            <span itemprop="name">bryce harper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>All About Bryce Harper: MLB Star</h1>
+                <p>Bryce Harper, a dynamic outfielder known for his powerful bat and exceptional fielding skills, has made a significant impact in Major League Baseball. Drafted first overall in 2010, he quickly became a star player. Harper's charisma and competitive spirit have earned him multiple All-Star selections and an MVP award, captivating fans across the league.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper - Philadelphia Phillies First Baseman - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/mlb/players/full/30951.png' alt='Bryce Harper - Philadelphia Phillies First Baseman - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/mlb/players/full/30951.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bryce_Harper_Stare_Down_Pregame_from_Nationals_vs._Phillies_at_Nationals_Park%2C_May_13th%2C_2021_%28All-Pro_Reels_Photography%29_%2851188354283%29_%28cropped%29.jpg/1200px-Bryce_Harper_Stare_Down_Pregame_from_Nationals_vs._Phillies_at_Nationals_Park%2C_May_13th%2C_2021_%28All-Pro_Reels_Photography%29_%2851188354283%29_%28cropped%29.jpg' alt='Bryce Harper - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bryce_Harper_Stare_Down_Pregame_from_Nationals_vs._Phillies_at_Nationals_Park%2C_May_13th%2C_2021_%28All-Pro_Reels_Photography%29_%2851188354283%29_%28cropped%29.jpg/1200px-Bryce_Harper_Stare_Down_Pregame_from_Nationals_vs._Phillies_at_Nationals_Park%2C_May_13th%2C_2021_%28All-Pro_Reels_Photography%29_%2851188354283%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper Stats, Age, Position, Height, Weight, Fantasy & News ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current' alt='Bryce Harper Stats, Age, Position, Height, Weight, Fantasy & News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper's career timeline - MLB Stories">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/iyoweeorku8muz0wjhdp' alt='Bryce Harper's career timeline - MLB Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2608">
+                                <meta itemprop="height" content="4636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/iyoweeorku8muz0wjhdp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NLCS: Bryce Harper Is Building His Legacy With Phillies - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/10/23/multimedia/23kepner-harper-1-680a/23kepner-harper-1-680a-superJumbo.jpg' alt='NLCS: Bryce Harper Is Building His Legacy With Phillies - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/10/23/multimedia/23kepner-harper-1-680a/23kepner-harper-1-680a-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies superstar Bryce Harper captures second ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2021/1118/r939364_1296x729_16-9.jpg' alt='Philadelphia Phillies superstar Bryce Harper captures second ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2021/1118/r939364_1296x729_16-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper Is All-In On Pilates | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/64249f0e187153589604b1f2/3:2/w_1686,h_1124,c_limit/brycerld.jpg' alt='Bryce Harper Is All-In On Pilates | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1686">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/64249f0e187153589604b1f2/3:2/w_1686,h_1124,c_limit/brycerld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLB on X: "BRYCE HARPER IS BACK. The @Phillies have activated the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FvJ5ry7WwAU2UrW.jpg:large' alt='MLB on X: "BRYCE HARPER IS BACK. The @Phillies have activated the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FvJ5ry7WwAU2UrW.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper | Biography, Stats, & Contract | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/71/236871-050-A7175B4A/Bryce-Harper-batting-Philadelphia-Phillies-October-1-2022.jpg' alt='Bryce Harper | Biography, Stats, & Contract | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/71/236871-050-A7175B4A/Bryce-Harper-batting-Philadelphia-Phillies-October-1-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Philadelphia Phillie Bryce Harper on rejecting $300 million ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2019/0306/r510721_1600x801cc.jpg' alt='New Philadelphia Phillie Bryce Harper on rejecting $300 million ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2019/0306/r510721_1600x801cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

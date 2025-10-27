@@ -1,0 +1,129 @@
+<title>Vintage Scrapbook Backgrounds: Timeless Aesthetic Ideas</title>
+                    <meta name="description" content="Discover vintage scrapbook backgrounds that evoke nostalgia. Perfect for crafting unique, timeless pages. Dive into a world of charming designs, florals, and rustic textures to enhance your scrapbooking experience. Create lasting memories with a vintage flair today!">
+                    <meta name="keywords" content="vintage aesthetic scrapbook background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-aesthetic-scrapbook-background">
+                            <span itemprop="name">vintage aesthetic scrapbook background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Scrapbook Backgrounds: Timeless Aesthetic Ideas</h1>
+                <p>Embrace nostalgia with a vintage aesthetic scrapbook background that transforms your cherished memories into timeless treasures. Delicate floral patterns, faded photographs, and rustic textures create a warm ambiance, inviting creativity. Enhance your scrapbooking journey with these enchanting, old-world designs that spark joy and connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/5f/49/bb5f491f0b89f3704d160af934bcb580.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/5f/49/bb5f491f0b89f3704d160af934bcb580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage scrapbook Instagram story frame, | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3JtNDUyLWYtMDE0Yy14LmpwZw.jpg' alt='Vintage scrapbook Instagram story frame, | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3JtNDUyLWYtMDE0Yy14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moodboard #aesthetic #vintage #collage #brownaesthetic #newspaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/c0/6d/48c06d565a00074a1e23a0e154807ac8.jpg' alt='moodboard #aesthetic #vintage #collage #brownaesthetic #newspaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/c0/6d/48c06d565a00074a1e23a0e154807ac8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scrapbook Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/free-vector-vintage-note-paper-scrapbook-template-background_705652-488.jpg' alt='Vintage Scrapbook Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/free-vector-vintage-note-paper-scrapbook-template-background_705652-488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Vintage Aesthetic Scrapbook Background Instagram Story">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/78/32/8b783292ed3061cc5fd4403c06d47b03.jpg' alt='Brown Vintage Aesthetic Scrapbook Background Instagram Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/78/32/8b783292ed3061cc5fd4403c06d47b03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BROWN VINTAGE PAPER BACKGROUND | AESTHETIC SCRAPBOOK PAPER by ...">
+                                <img itemprop="contentUrl url" src='https://raketcontent.com/Brown_Vintage_Blank_Paper_Note_Your_Story_4_58a5089a99.png' alt='BROWN VINTAGE PAPER BACKGROUND | AESTHETIC SCRAPBOOK PAPER by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.raket.ph" />
+                                </span>
+                                <a href='https://raketcontent.com/Brown_Vintage_Blank_Paper_Note_Your_Story_4_58a5089a99.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scrapbook Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/vintage-scrapbook-torn-paper-background_705652-475.jpg?semt=ais_hybrid' alt='Vintage Scrapbook Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/vintage-scrapbook-torn-paper-background_705652-475.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Background for Scrapbook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/50/c4/12/50c4120d08b525fa2bd7a267d49268ce.jpg' alt='Vintage Background for Scrapbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/50/c4/12/50c4120d08b525fa2bd7a267d49268ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="74,989 Vintage Scrapbook Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/antique-victorian-floral-scrapbook-background-20047551.jpg' alt='74,989 Vintage Scrapbook Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/antique-victorian-floral-scrapbook-background-20047551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable vintage templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGIwAfKKLs/1/0/900w/canva-brown-beige-vintage-paper-scrapbook-background-instagram-story-3oWZl2hwjRE.jpg' alt='Free and customizable vintage templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGIwAfKKLs/1/0/900w/canva-brown-beige-vintage-paper-scrapbook-background-instagram-story-3oWZl2hwjRE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

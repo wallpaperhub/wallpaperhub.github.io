@@ -1,0 +1,129 @@
+<title>Supreme iPhone Wallpapers: Stylish Designs for Your Device</title>
+                    <meta name="description" content="Discover trendy Supreme wallpapers for your iPhone! Upgrade your device's look with bold, iconic designs that express your style. Perfect for streetwear enthusiasts, these wallpapers bring a unique flair to your screen. Download now and make your iPhone stand out!">
+                    <meta name="keywords" content="iphone:w9qhgts9nrq= supreme wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonew9qhgts9nrq-supreme-wallpaper">
+                            <span itemprop="name">iphone:w9qhgts9nrq= supreme wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Supreme iPhone Wallpapers: Stylish Designs for Your Device</h1>
+                <p>Elevate your iPhone's style with the latest Supreme wallpaper! Featuring bold designs and iconic branding, these wallpapers are perfect for fans of streetwear culture. Browse through a collection that adds an edge to your device while showcasing your unique personality. Stand out with Supreme's vibrant aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/supreme-iphone-p0dcacifrarlk5zy.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/supreme-iphone-p0dcacifrarlk5zy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/supreme-iphone-uexwlmyku73x9rs0.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/supreme-iphone-uexwlmyku73x9rs0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/supreme-iphone-hyacd03mm2vtnhkv.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/supreme-iphone-hyacd03mm2vtnhkv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dope-gangster-t9qzf4gztu786rvi.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dope-gangster-t9qzf4gztu786rvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e0/36/e9/e036e9b1e7d7b691eb5df7edd31c0c12.jpg' alt='88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e0/36/e9/e036e9b1e7d7b691eb5df7edd31c0c12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/supreme-iphone-oevogdb3kb7pmgev.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/supreme-iphone-oevogdb3kb7pmgev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Iphone Wallpaper by krongraphics on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ea51256-2524-47f1-9552-77b6e95efba0/dccl4lz-ec5dc902-381c-4294-be1f-3f21e2583c6c.png/v1/fill/w_600,h_1068,q_80,strp/supreme_iphone_wallpaper_by_krongraphics_dccl4lz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlYTUxMjU2LTI1MjQtNDdmMS05NTUyLTc3YjZlOTVlZmJhMFwvZGNjbDRsei1lYzVkYzkwMi0zODFjLTQyOTQtYmUxZi0zZjIxZTI1ODNjNmMucG5nIiwiaGVpZ2h0IjoiPD0xMDY4Iiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8yZWE1MTI1Ni0yNTI0LTQ3ZjEtOTU1Mi03N2I2ZTk1ZWZiYTBcL2tyb25ncmFwaGljcy00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.mKnTA_s0gUc6-leOCPkuPCuoEJJaP_4aSTLAyu-Jf3o' alt='Supreme Iphone Wallpaper by krongraphics on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ea51256-2524-47f1-9552-77b6e95efba0/dccl4lz-ec5dc902-381c-4294-be1f-3f21e2583c6c.png/v1/fill/w_600,h_1068,q_80,strp/supreme_iphone_wallpaper_by_krongraphics_dccl4lz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlYTUxMjU2LTI1MjQtNDdmMS05NTUyLTc3YjZlOTVlZmJhMFwvZGNjbDRsei1lYzVkYzkwMi0zODFjLTQyOTQtYmUxZi0zZjIxZTI1ODNjNmMucG5nIiwiaGVpZ2h0IjoiPD0xMDY4Iiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8yZWE1MTI1Ni0yNTI0LTQ3ZjEtOTU1Mi03N2I2ZTk1ZWZiYTBcL2tyb25ncmFwaGljcy00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.mKnTA_s0gUc6-leOCPkuPCuoEJJaP_4aSTLAyu-Jf3o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/eb/70/9b/eb709b9ec6550188740c3a3c2bf56c8b.jpg' alt='88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/eb/70/9b/eb709b9ec6550188740c3a3c2bf56c8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/supreme-aesthetic-drawing-topnax79kknxqz1e.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/supreme-aesthetic-drawing-topnax79kknxqz1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e2/70/2a/e2702a9ab5dc05d6cee32799fbc81d9b.jpg' alt='88 Supreme wallpaper iphone ideas | supreme wallpaper, hypebeast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e2/70/2a/e2702a9ab5dc05d6cee32799fbc81d9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

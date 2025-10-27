@@ -1,0 +1,129 @@
+<title>Understanding CCA: A Quick Guide to Community Choice Aggregation</title>
+                    <meta name="description" content="Explore the essentials of Community Choice Aggregation (CCA). Learn how CCA empowers local governments to provide renewable energy, enhance sustainability, and stimulate local economies. Discover its impact on energy choice and environmental benefits in your community today!">
+                    <meta name="keywords" content="cca background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cca-background">
+                            <span itemprop="name">cca background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding CCA: A Quick Guide to Community Choice Aggregation</h1>
+                <p>CCA background refers to the history and significance of Community Choice Aggregation, a program enabling cities and counties to source renewable energy for their residents. It empowers local governments to choose energy suppliers and promote sustainability, reducing reliance on traditional utilities while fostering local economic growth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First-Gen Virtual Backgrounds - CCA Portal">
+                                <img itemprop="contentUrl url" src='https://portal-media.cca.edu/documents/FirstGenCCA5.png' alt='First-Gen Virtual Backgrounds - CCA Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCA Portal - California College of the Arts" />
+                                </span>
+                                <a href='https://portal-media.cca.edu/documents/FirstGenCCA5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First-Gen Virtual Backgrounds - CCA Portal">
+                                <img itemprop="contentUrl url" src='https://portal-media.cca.edu/documents/FirstGenCCA4.png' alt='First-Gen Virtual Backgrounds - CCA Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCA Portal - California College of the Arts" />
+                                </span>
+                                <a href='https://portal-media.cca.edu/documents/FirstGenCCA4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First-Gen Virtual Backgrounds - CCA Portal">
+                                <img itemprop="contentUrl url" src='https://portal-media.cca.edu/documents/FirstGenCCA3.png' alt='First-Gen Virtual Backgrounds - CCA Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCA Portal - California College of the Arts" />
+                                </span>
+                                <a href='https://portal-media.cca.edu/documents/FirstGenCCA3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CCA 2023 Honor Society Induction Ceremony - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4LNc5yRkasA/sddefault.jpg' alt='CCA 2023 Honor Society Induction Ceremony - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4LNc5yRkasA/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CCA-Slide-Background 2 | Cooperative Communicators Association">
+                                <img itemprop="contentUrl url" src='https://www.communicators.coop/wp-content/uploads/2020/08/CCA-Slide-Background-2.jpg' alt='CCA-Slide-Background 2 | Cooperative Communicators Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cooperative Communicators Association" />
+                                </span>
+                                <a href='https://www.communicators.coop/wp-content/uploads/2020/08/CCA-Slide-Background-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commonwealth Charter Academy Jobs | PA National Guard Association">
+                                <img itemprop="contentUrl url" src='https://siteresource.blob.core.windows.net/assets/prod/ztdz/fsh9/employerLogo.png?v=201105192719' alt='Commonwealth Charter Academy Jobs | PA National Guard Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGAS Job Board" />
+                                </span>
+                                <a href='https://siteresource.blob.core.windows.net/assets/prod/ztdz/fsh9/employerLogo.png?v=201105192719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CCA Logo and Graphics design vector art, Icons isolated on black ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/019/585/105/non_2x/cca-logo-and-graphics-design-art-icons-isolated-on-black-background-vector.jpg' alt='CCA Logo and Graphics design vector art, Icons isolated on black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/019/585/105/non_2x/cca-logo-and-graphics-design-art-icons-isolated-on-black-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CCA - It's the season of color! Show us your favorite fall ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3758571754187124' alt='CCA - It's the season of color! Show us your favorite fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3758571754187124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CCA letter logo design on black background. CCA creative initials ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/332/021/non_2x/cca-letter-logo-design-on-black-background-cca-creative-initials-letter-logo-concept-cca-letter-design-vector.jpg' alt='CCA letter logo design on black background. CCA creative initials ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/332/021/non_2x/cca-letter-logo-design-on-black-background-cca-creative-initials-letter-logo-concept-cca-letter-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy National Parental Involvement Day from CCA! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6KRip6aZzw4/hqdefault.jpg' alt='Happy National Parental Involvement Day from CCA! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6KRip6aZzw4/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pochacco Purple Wallpaper: A Cute Digital Touch</title>
+                    <meta name="description" content="Add a splash of joy to your device with our purple Pochacco wallpaper! Featuring the lovable Sanrio character, this whimsical design is perfect for fans seeking a cute and vibrant background. Download now for a delightful, eye-catching display on your smartphone or tablet!">
+                    <meta name="keywords" content="purple pochacco wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-pochacco-wallpaper">
+                            <span itemprop="name">purple pochacco wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pochacco Purple Wallpaper: A Cute Digital Touch</h1>
+                <p>Transform your device with a delightful purple Pochacco wallpaper! This charming design features Pochacco, the adorable Sanrio character, surrounded by a soft purple backdrop that adds a touch of whimsy and joy to your screen. Perfect for fans of cute aesthetics and Sanrio lovers alike, it brightens up any digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pochacco Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/0a/a3/d50aa37e033c04bb86f8d99fa19d53d2.jpg' alt='Purple Pochacco Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/0a/a3/d50aa37e033c04bb86f8d99fa19d53d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pochacco  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/7c/0e/c97c0ea8182d9efa46fe3d41e6cfc723.jpg' alt='Pochacco  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/7c/0e/c97c0ea8182d9efa46fe3d41e6cfc723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pochacco wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c2/03/6e/c2036ea3bd40b16a6732885c25563822.jpg' alt='pochacco wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c2/03/6e/c2036ea3bd40b16a6732885c25563822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/c8/8f/14c88f27b62d75e0e99d98b4e27edcc4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/c8/8f/14c88f27b62d75e0e99d98b4e27edcc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out itsabell_'s Shuffles new wallpaper :]!! #pochacco ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/78/b3/ae/78b3aee216be6569908a8cd1d082342b.jpg' alt='Check out itsabell_'s Shuffles new wallpaper :]!! #pochacco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/78/b3/ae/78b3aee216be6569908a8cd1d082342b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pochacco">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/62/b5/1362b5c88873b384d794da191424dcdb.jpg' alt='Pochacco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/62/b5/1362b5c88873b384d794da191424dcdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio on X: "Take #Pochacco on the go with new backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FLF8UIVXMAU6AQJ.jpg' alt='Sanrio on X: "Take #Pochacco on the go with new backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FLF8UIVXMAU6AQJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/17/91/51/1791515975416f2d79d2dd9548b6ff9e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1153">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/17/91/51/1791515975416f2d79d2dd9548b6ff9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cartoon Pochacco Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-cartoon-pochacco-wallpaper.webp' alt='Cute Cartoon Pochacco Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-cartoon-pochacco-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pochacco pfp and wallpaper | Gallery posted by   _SHERYL_   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7403103930018316805&index=1&sign=57e995e00d59ed931a5b5541488b9135' alt='Pochacco pfp and wallpaper | Gallery posted by   _SHERYL_   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1114">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7403103930018316805&index=1&sign=57e995e00d59ed931a5b5541488b9135' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

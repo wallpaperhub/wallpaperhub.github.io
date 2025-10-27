@@ -1,0 +1,129 @@
+<title>Enhance Your Designs with Stunning Ombre Backgrounds</title>
+                    <meta name="description" content="Create captivating visuals with our collection of pretty ombre backgrounds. Perfect for any project, these stylish gradients offer a unique aesthetic that elevates your designs. Explore a variety of colors and styles to find the perfect ombre effect that resonates with your creative vision!">
+                    <meta name="keywords" content="pretty ombre background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pretty-ombre-background">
+                            <span itemprop="name">pretty ombre background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Designs with Stunning Ombre Backgrounds</h1>
+                <p>Pretty ombre backgrounds blend colors seamlessly, creating a gradient effect that adds depth and visual interest to any design. Ideal for both digital and print projects, these backgrounds can evoke various moods and themes. From soft pastels to bold, vibrant hues, an ombre background enhances aesthetics beautifully, making it perfect for invitations, presentations, or social media graphics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1059454732/vector/soft-cloudy-is-gradient-pastel-abstract-rose-background-in-sweet-color.jpg?s=612x612&w=0&k=20&c=cfi-gsF3jT-vESWBnXQg80QtCwEJnVzend6NP21TQf4=' alt='8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1059454732/vector/soft-cloudy-is-gradient-pastel-abstract-rose-background-in-sweet-color.jpg?s=612x612&w=0&k=20&c=cfi-gsF3jT-vESWBnXQg80QtCwEJnVzend6NP21TQf4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Ombre Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/captivating-ombre-horizon-3j5lk6sm66dq3lqe.jpg' alt='200+] Ombre Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/captivating-ombre-horizon-3j5lk6sm66dq3lqe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Ombre Background/Texture Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Beautiful-Ombre-BackgroundTexture-Graphics-4325649-1.jpg' alt='Beautiful Ombre Background/Texture Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Beautiful-Ombre-BackgroundTexture-Graphics-4325649-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg' alt='Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333801737/vector/pink-coral-and-orange-colors-gradient-background.jpg?s=612x612&w=0&k=20&c=ZwK-2fLztcmIE6dIOXCC3IT6b5V3I9nDFWXCgOY0wn4=' alt='8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333801737/vector/pink-coral-and-orange-colors-gradient-background.jpg?s=612x612&w=0&k=20&c=ZwK-2fLztcmIE6dIOXCC3IT6b5V3I9nDFWXCgOY0wn4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/26/52/a0265259008408d775b602f5c1b06a59.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/26/52/a0265259008408d775b602f5c1b06a59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1089590624/vector/vibrant-blue-watercolor-painting-background.jpg?s=612x612&w=0&k=20&c=o5Ov54SFaHcJeBSuTuFKLEXOolXSxBLcxcaW-qHucA4=' alt='8,600+ Ombre Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1089590624/vector/vibrant-blue-watercolor-painting-background.jpg?s=612x612&w=0&k=20&c=o5Ov54SFaHcJeBSuTuFKLEXOolXSxBLcxcaW-qHucA4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Ombre Gradient Background/Texture Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Soft-Ombre-Gradient-BackgroundTexture-Graphics-4325653-1-1-580x387.jpg' alt='Soft Ombre Gradient Background/Texture Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/10/Soft-Ombre-Gradient-BackgroundTexture-Graphics-4325653-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ombre Pastel Color Background Stock Illustration 2295779831 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/cute-ombre-pastel-color-background-260nw-2295779831.jpg' alt='Cute Ombre Pastel Color Background Stock Illustration 2295779831 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/cute-ombre-pastel-color-background-260nw-2295779831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Ombre Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/caption-dramatic-sunrise-ombre-background-dbxmav0qqxuz2s11.jpg' alt='200+] Ombre Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/caption-dramatic-sunrise-ombre-background-dbxmav0qqxuz2s11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

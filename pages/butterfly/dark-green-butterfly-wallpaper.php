@@ -1,0 +1,129 @@
+<title>Dark Green Butterfly Wallpaper: Nature’s Elegance</title>
+                    <meta name="description" content="Add a touch of sophistication to your home with dark green butterfly wallpaper. Perfect for nature lovers, this gorgeous wallpaper enhances any room with its vibrant colors and serene vibes. Discover how it can transform your space effortlessly—shop now!">
+                    <meta name="keywords" content="dark green butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/dark-green-butterfly-wallpaper">
+                            <span itemprop="name">dark green butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Green Butterfly Wallpaper: Nature’s Elegance</h1>
+                <p>Transform your space with stunning dark green butterfly wallpaper, a perfect blend of nature's elegance and modern design. This wallpaper brings a touch of serenity and vibrancy to any room, making it ideal for bedrooms, living areas, or offices. Elevate your decor with this beautiful, nature-inspired choice today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green butterfly wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/00/bc/3200bc7fe38ef4df621ef1bc23970e70.jpg' alt='Green butterfly wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/00/bc/3200bc7fe38ef4df621ef1bc23970e70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green butterfly">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/70/b0/a2/70b0a2deba7280c37cd94de2343b6c9a.jpg' alt='Green butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/70/b0/a2/70b0a2deba7280c37cd94de2343b6c9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/dd/60/1edd600d91599b60c8f0463e44ab1437.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/dd/60/1edd600d91599b60c8f0463e44ab1437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The beauty of nature - a delicate green butterfly ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-butterfly-83hze2md7ezpztft.jpg' alt='Download The beauty of nature - a delicate green butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-butterfly-83hze2md7ezpztft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable butterfly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFG85cqrWw/1/0/225w/canva-dark-green-butterfly-aesthetic-phone-wallpaper-VzZFyIz37xM.jpg' alt='Page 2 - Free and customizable butterfly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFG85cqrWw/1/0/225w/canva-dark-green-butterfly-aesthetic-phone-wallpaper-VzZFyIz37xM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/6c/d2/b16cd2d36b6803dce38b5d9110d5362d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/6c/d2/b16cd2d36b6803dce38b5d9110d5362d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Butterfly Iphone White Sparkles Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-butterfly-giptqvzsa72ixs2l.jpg' alt='Download Green Butterfly Iphone White Sparkles Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-butterfly-giptqvzsa72ixs2l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterflies on a black background with a green background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/butterflies-black-background-with-green-background_1348312-4739.jpg' alt='Butterflies on a black background with a green background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/butterflies-black-background-with-green-background_1348312-4739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Butterfly Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/08/dark_green_butterfly_wallpaper_pattern.jpg' alt='Dark Green Butterfly Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/08/dark_green_butterfly_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic green, aesthetic, aesthetic butterfly, black, butterfly ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall.jpg' alt='Aesthetic green, aesthetic, aesthetic butterfly, black, butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

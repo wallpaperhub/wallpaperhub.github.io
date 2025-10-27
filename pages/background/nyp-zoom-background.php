@@ -1,0 +1,129 @@
+<title>NYP Zoom Backgrounds: Elevate Your Virtual Meetings</title>
+                    <meta name="description" content="Discover the perfect NYP Zoom backgrounds to enhance your online presence. Choose from a variety of designs that showcase your spirit and professionalism, perfect for any virtual meeting. Make a lasting impression with engaging backdrops that reflect your New York pride!">
+                    <meta name="keywords" content="nyp zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nyp-zoom-background">
+                            <span itemprop="name">nyp zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NYP Zoom Backgrounds: Elevate Your Virtual Meetings</h1>
+                <p>Transform your virtual meetings with stunning NYP Zoom backgrounds! Whether you want to showcase your school spirit, professional environment, or a place you love, NYP offers a variety of vibrant and engaging backdrops. Stand out in your next virtual gathering while representing the New York campus in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NewYork-Presbyterian Launches $50M Hauser Institute for Health ...">
+                                <img itemprop="contentUrl url" src='https://hitconsultant.net/wp-content/uploads/2019/06/NewYork-Presbyterian-Launches-50M-Hauser-Institute-for-Health-Innovation.jpg' alt='NewYork-Presbyterian Launches $50M Hauser Institute for Health ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HIT Consultant" />
+                                </span>
+                                <a href='https://hitconsultant.net/wp-content/uploads/2019/06/NewYork-Presbyterian-Launches-50M-Hauser-Institute-for-Health-Innovation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NewYork-Presbyterian's follow-up to 'Stay Amazing'">
+                                <img itemprop="contentUrl url" src='https://www.mmm-online.com/wp-content/uploads/sites/2/2022/09/Screen-Shot-2022-09-12-at-3.11.03-PM.png' alt='NewYork-Presbyterian's follow-up to 'Stay Amazing''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medical Marketing and Media" />
+                                </span>
+                                <a href='https://www.mmm-online.com/wp-content/uploads/sites/2/2022/09/Screen-Shot-2022-09-12-at-3.11.03-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NYP In Your Community updated... - NYP In Your Community">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=6663151460392241' alt='NYP In Your Community updated... - NYP In Your Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=6663151460392241' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds | Strategic Communications & External Affairs ...">
+                                <img itemprop="contentUrl url" src='https://site.nyit.edu/files/scea/Zoom_New_York_Tech_Institutional_Background.jpg' alt='Zoom Backgrounds | Strategic Communications & External Affairs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Institute of Technology" />
+                                </span>
+                                <a href='https://site.nyit.edu/files/scea/Zoom_New_York_Tech_Institutional_Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affinity Month Zoom Virtual Backgrounds | Brand Center">
+                                <img itemprop="contentUrl url" src='https://brand.weill.cornell.edu/sites/default/files/Final_CDM_Zoom_Background.jpg' alt='Affinity Month Zoom Virtual Backgrounds | Brand Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3998">
+                                <meta itemprop="height" content="2251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brand Center | Weill Cornell Medicine" />
+                                </span>
+                                <a href='https://brand.weill.cornell.edu/sites/default/files/Final_CDM_Zoom_Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds | Strategic Communications & External Affairs ...">
+                                <img itemprop="contentUrl url" src='https://site.nyit.edu/files/scea/Zoom_New_York_Tech_Background_SoHP.jpg' alt='Zoom Backgrounds | Strategic Communications & External Affairs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Institute of Technology" />
+                                </span>
+                                <a href='https://site.nyit.edu/files/scea/Zoom_New_York_Tech_Background_SoHP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bianca Smith - Multi-Specialty Practice Manager - NewYork ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E16AQFSzbfD185yqA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687809872999?e=2147483647&v=beta&t=hhGKlzaYxE_icJw9ur0umosKJ9extde0mSazVUCxd38' alt='Bianca Smith - Multi-Specialty Practice Manager - NewYork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E16AQFSzbfD185yqA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687809872999?e=2147483647&v=beta&t=hhGKlzaYxE_icJw9ur0umosKJ9extde0mSazVUCxd38' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affinity Month Zoom Virtual Backgrounds | Brand Center">
+                                <img itemprop="contentUrl url" src='https://brand.weill.cornell.edu/sites/default/files/Pride_Zoom_060122.jpg' alt='Affinity Month Zoom Virtual Backgrounds | Brand Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brand Center | Weill Cornell Medicine" />
+                                </span>
+                                <a href='https://brand.weill.cornell.edu/sites/default/files/Pride_Zoom_060122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NewYork-Presbyterian working on machine learning analytics to ...">
+                                <img itemprop="contentUrl url" src='https://www.healthcareitnews.com/sites/hitn/files/020619%20NewYork-Presbyterian-Weill%20Cornell%20Medical%20Center%20712.jpg' alt='NewYork-Presbyterian working on machine learning analytics to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthcare IT News" />
+                                </span>
+                                <a href='https://www.healthcareitnews.com/sites/hitn/files/020619%20NewYork-Presbyterian-Weill%20Cornell%20Medical%20Center%20712.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32BJ severs ties with NewYork-Presbyterian amid broader fight for ...">
+                                <img itemprop="contentUrl url" src='https://static.politico.com/61/15/709708424247be45f4ae94e5c810/20200328-newyorkpresbyterianhospital-getty-900.jpg' alt='32BJ severs ties with NewYork-Presbyterian amid broader fight for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://static.politico.com/61/15/709708424247be45f4ae94e5c810/20200328-newyorkpresbyterianhospital-getty-900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

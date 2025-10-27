@@ -1,0 +1,129 @@
+<title>Thurgood Marshall: A Legacy of Justice from Childhood</title>
+                    <meta name="description" content="Discover the impactful childhood of Thurgood Marshall, the first African American Supreme Court Justice. Learn about his early experiences with discrimination, the influence of his family, and how these shaped his commitment to justice and equality. Explore the foundation of a remarkable legacy.">
+                    <meta name="keywords" content="thurgood marshall childhood">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thurgood-marshall-childhood">
+                            <span itemprop="name">thurgood marshall childhood</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thurgood Marshall: A Legacy of Justice from Childhood</h1>
+                <p>Thurgood Marshall, born on July 2, 1908, in Baltimore, Maryland, faced racial discrimination from a young age. Growing up, he was encouraged by his mother, who instilled values of education and resilience. His experiences fueled his passion for justice, ultimately leading him to become the first African American Supreme Court Justice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five More Things You Didn't Know About Thurgood Marshall | AFRO ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/afro.com/wp-content/uploads/2017/06/Article8-Young-Thurgood-Marshall2.jpg?fit=362%2C508&ssl=1' alt='Five More Things You Didn't Know About Thurgood Marshall | AFRO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AFRO American Newspapers" />
+                                </span>
+                                <a href='https://i0.wp.com/afro.com/wp-content/uploads/2017/06/Article8-Young-Thurgood-Marshall2.jpg?fit=362%2C508&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall Profile timeline | Timetoast Timelines">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/9516510/image/6864a4fa5f7647497742dd03801a5ecd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250302T013336Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ed85468bbe00d9c232f1ffc5834bc60861ca0d4c35f9c022d6580f928266ff7' alt='Thurgood Marshall Profile timeline | Timetoast Timelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timetoast" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/9516510/image/6864a4fa5f7647497742dd03801a5ecd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250302T013336Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ed85468bbe00d9c232f1ffc5834bc60861ca0d4c35f9c022d6580f928266ff7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Law | Know-It-All">
+                                <img itemprop="contentUrl url" src='https://empoweryourknowledgeandhappytrivia.wordpress.com/wp-content/uploads/2020/02/childhood-n.jpg?w=584' alt='Law | Know-It-All'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Know-It-All - WordPress.com" />
+                                </span>
+                                <a href='https://empoweryourknowledgeandhappytrivia.wordpress.com/wp-content/uploads/2020/02/childhood-n.jpg?w=584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall Lesson for Kids: Facts & Biography | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/thurgood_marshall_young_man_227x339.jpg' alt='Thurgood Marshall Lesson for Kids: Facts & Biography | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="227">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/thurgood_marshall_young_man_227x339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall House – Pic of the Week | In Custodia Legis">
+                                <img itemprop="contentUrl url" src='https://blogs.loc.gov/law/files/2022/01/Division-Street-Info-2.jpg' alt='Thurgood Marshall House – Pic of the Week | In Custodia Legis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress Blogs" />
+                                </span>
+                                <a href='https://blogs.loc.gov/law/files/2022/01/Division-Street-Info-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall | Book by Montrew Dunham, Meryl Henderson ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780689820427_9780689820427_hr.jpg' alt='Thurgood Marshall | Book by Montrew Dunham, Meryl Henderson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1538">
+                                <meta itemprop="height" content="2284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780689820427_9780689820427_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall. Childhood Born in Baltimore, Maryland in His ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/15/4649096/slides/slide_2.jpg' alt='Thurgood Marshall. Childhood Born in Baltimore, Maryland in His ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/15/4649096/slides/slide_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Thurgoodmarshall1967.jpg/1200px-Thurgoodmarshall1967.jpg' alt='Thurgood Marshall - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Thurgoodmarshall1967.jpg/1200px-Thurgoodmarshall1967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall | Oyez">
+                                <img itemprop="contentUrl url" src='https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.jpg' alt='Thurgood Marshall | Oyez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oyez" />
+                                </span>
+                                <a href='https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thurgood Marshall (1908-1993) •">
+                                <img itemprop="contentUrl url" src='https://www.blackpast.org/wp-content/uploads/prodimages/files/Thurgood_Marshall.jpg' alt='Thurgood Marshall (1908-1993) •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="215">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackPast" />
+                                </span>
+                                <a href='https://www.blackpast.org/wp-content/uploads/prodimages/files/Thurgood_Marshall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

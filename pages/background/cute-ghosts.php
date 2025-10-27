@@ -1,0 +1,129 @@
+<title>Adorable Ghosts: The Cutest Spirits You'll Ever Meet</title>
+                    <meta name="description" content="Dive into the enchanting world of cute ghosts! Discover playful spirits that spread joy and charm instead of fright. Perfect for Halloween and beyond, these adorable apparitions are here to brighten your day. Explore their delightful antics and embrace the fun side of the supernatural!">
+                    <meta name="keywords" content="cute ghosts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-ghosts">
+                            <span itemprop="name">cute ghosts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Ghosts: The Cutest Spirits You'll Ever Meet</h1>
+                <p>Imagine a world where adorable little ghosts float around, spreading smiles instead of scares. These cute specters come in all shapes and sizes, with big eyes and fluffy forms. Instead of haunting, they play tricks, cozy up for cuddles, and help decorate for spooky season. Who wouldn't love a ghost like that?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghosts Poster">
+                                <img itemprop="contentUrl url" src='https://img.posterstore.com/zoom/ps53051-91829.jpg' alt='Cute Ghosts Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poster Store" />
+                                </span>
+                                <a href='https://img.posterstore.com/zoom/ps53051-91829.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Htdsks Cute Ghosts On Swing Posters Retro Dark Surreal Boo Ghost Halloween  Wall Art Pink Ghosts Deep Forest Tree Prints For Home Bedroom Dorm ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LXjlMa9XL._AC_UF894,1000_QL80_.jpg' alt='Htdsks Cute Ghosts On Swing Posters Retro Dark Surreal Boo Ghost Halloween  Wall Art Pink Ghosts Deep Forest Tree Prints For Home Bedroom Dorm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LXjlMa9XL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="195,673 Cute Ghost Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-halloween-sheet-ghosts-vector-600nw-2501166743.jpg' alt='195,673 Cute Ghost Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-halloween-sheet-ghosts-vector-600nw-2501166743.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked cute little ghost | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5229552389.4995/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Shocked cute little ghost | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5229552389.4995/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Ghost Photos, Images and Pictures">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/halloween-cute-ghosts-set-vector-260nw-2518265171.jpg' alt='Kawaii Ghost Photos, Images and Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/halloween-cute-ghosts-set-vector-260nw-2518265171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: JarThenaAMCS 48Pcs Halloween Ghost Cutouts Pink Cute Ghost  Paper Cut-Outs Halloween Bulletin Board Decor with 100Pcs Glue Points for  DIY ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71q3rQENngL.jpg' alt='Amazon.com: JarThenaAMCS 48Pcs Halloween Ghost Cutouts Pink Cute Ghost  Paper Cut-Outs Halloween Bulletin Board Decor with 100Pcs Glue Points for  DIY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71q3rQENngL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85 Ghost Svg Png, Halloween, Cute Ghost, Boo, Ghosts Clip Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14651500/r/il/bac0b2/4071854768/il_570xN.4071854768_8y0a.jpg' alt='85 Ghost Svg Png, Halloween, Cute Ghost, Boo, Ghosts Clip Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14651500/r/il/bac0b2/4071854768/il_570xN.4071854768_8y0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Pattern Stock Illustration - Download Image Now - Ghost ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487137758/vector/cute-ghost-pattern.jpg?s=612x612&w=0&k=20&c=ULZNbrkZ2V0--XOLEKVMZpSFB7LrAa8n68wNqaTFH_A=' alt='Cute Ghost Pattern Stock Illustration - Download Image Now - Ghost ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487137758/vector/cute-ghost-pattern.jpg?s=612x612&w=0&k=20&c=ULZNbrkZ2V0--XOLEKVMZpSFB7LrAa8n68wNqaTFH_A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute ghost icon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/3b/9c/043b9cf5fe7032d6d3497a3f63da2de5.jpg' alt='Cute ghost icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/3b/9c/043b9cf5fe7032d6d3497a3f63da2de5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-ghost-with-love-heart-cartoon-vector-icon-illustration-people-holiday-icon-isolated-flat-vector_138676-12633.jpg' alt='Cute Ghost Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-ghost-with-love-heart-cartoon-vector-icon-illustration-people-holiday-icon-isolated-flat-vector_138676-12633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Eras Tour: A Celebration of Taylor Swift's Musical Journey</title>
+                    <meta name="description" content="Join Taylor Swift on the Eras Tour, a spectacular journey through her musical evolution. Experience breathtaking performances and iconic hits from each album, all in one unforgettable show. Don't miss this chance to witness the magic of her artistry live!">
+                    <meta name="keywords" content="eras tour background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eras-tour-background">
+                            <span itemprop="name">eras tour background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eras Tour: A Celebration of Taylor Swift's Musical Journey</h1>
+                <p>The Eras Tour is a monumental concert series by Taylor Swift, celebrating her diverse musical journey across all her albums. It showcases iconic songs that define different phases of her career, featuring elaborate stage designs and immersive visuals. This tour connects fans to the evolution of her artistry in a vibrant, unforgettable experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this eras tour wallpaper! : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8l72mu44z3ua1.jpg' alt='Made this eras tour wallpaper! : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8l72mu44z3ua1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eras Tour Background Minimal | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4414565032.3683/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='The Eras Tour Background Minimal | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4414565032.3683/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In honour of the last 2023 show, I made an Eras Tour 1920x1080 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qruu479ois2c1.png' alt='In honour of the last 2023 show, I made an Eras Tour 1920x1080 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qruu479ois2c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone here have a wallpaper like this but updated with the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9642656199081821' alt='Does anyone here have a wallpaper like this but updated with the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9642656199081821' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eras Tour Background Minimal | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4414564924.3683/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='The Eras Tour Background Minimal | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4414564924.3683/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the eras tour poster (wallpaper) | Taylor swift wallpaper, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/31/bb/8a31bbf6936bb47ddc9da82d6f2ecda9.jpg' alt='the eras tour poster (wallpaper) | Taylor swift wallpaper, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/31/bb/8a31bbf6936bb47ddc9da82d6f2ecda9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ERAS TOUR VISUALS ✨ - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VYttQOuQpow/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLArmuJqbwPVsfyylE5I7tzaiJ5Juw' alt='ERAS TOUR VISUALS ✨ - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VYttQOuQpow/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLArmuJqbwPVsfyylE5I7tzaiJ5Juw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TAYLOR SWIFT | THE ERAS TOUR (2023) - Backdrops — The Movie ...">
+                                <img itemprop="contentUrl url" src='https://image.tmdb.org/t/p/original/Ab472Dqe0pIh0TcSxeoGMnD0eLZ.jpg' alt='TAYLOR SWIFT | THE ERAS TOUR (2023) - Backdrops — The Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://image.tmdb.org/t/p/original/Ab472Dqe0pIh0TcSxeoGMnD0eLZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eras Tour Stage: See the Intricate World-Building of Every Set ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/664215bbe8f993fb5b10e7dc/16:9/w_2560%2Cc_limit/GettyImages-2152509342.jpg' alt='The Eras Tour Stage: See the Intricate World-Building of Every Set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/664215bbe8f993fb5b10e7dc/16:9/w_2560%2Cc_limit/GettyImages-2152509342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eras Tour Visuals - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Wt_2GufHgWU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-i_4kMc6P61GUZjEEJP8Dkj5OIA' alt='The Eras Tour Visuals - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Wt_2GufHgWU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-i_4kMc6P61GUZjEEJP8Dkj5OIA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Accessing Gwinnett County Criminal Records: A Quick Guide</title>
+                    <meta name="description" content="Discover how to access Gwinnett County criminal records efficiently. Obtain essential details about arrests and convictions, whether for employment screening or personal inquiries. Quick tips and resources are included for easy navigation. Stay informed about criminal history in Gwinnett County.">
+                    <meta name="keywords" content="gwinnett county criminal records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gwinnett-county-criminal-records">
+                            <span itemprop="name">gwinnett county criminal records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Accessing Gwinnett County Criminal Records: A Quick Guide</h1>
+                <p>Gwinnett County criminal records provide essential information about an individual's criminal history in this Georgia jurisdiction. These records include arrests, charges, convictions, and sentencing details. Accessible through the Gwinnett County Clerk of Courts or online databases, these documents serve crucial roles for employers, landlords, and legal proceedings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Gwinnett County Public Records: Uncover Anyone's Information">
+                                <img itemprop="contentUrl url" src='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Criminal-History-Request-Form-Screenshot.webp' alt='Free Gwinnett County Public Records: Uncover Anyone's Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gwinnettcounty.georgia.recordspage.org" />
+                                </span>
+                                <a href='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Criminal-History-Request-Form-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Gwinnett County Public Records: Uncover Anyone's Information">
+                                <img itemprop="contentUrl url" src='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Gwinnett-County-Georgia-Records-Page-Logo.png' alt='Free Gwinnett County Public Records: Uncover Anyone's Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gwinnettcounty.georgia.recordspage.org" />
+                                </span>
+                                <a href='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Gwinnett-County-Georgia-Records-Page-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwinnett County Criminal Records Search | Enter Any Name">
+                                <img itemprop="contentUrl url" src='https://criminalrecords.us/assets/Gwinnett_County_Criminal_Records_Search_bccac975d8.gif' alt='Gwinnett County Criminal Records Search | Enter Any Name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Criminal Records Search" />
+                                </span>
+                                <a href='https://criminalrecords.us/assets/Gwinnett_County_Criminal_Records_Search_bccac975d8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwinnett County Online Court Records">
+                                <img itemprop="contentUrl url" src='https://gwinnett-county-online-court-records.govbackgroundchecks.com/screenshots/gwinnett-county-online-court-records/0.jpg' alt='Gwinnett County Online Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://gwinnett-county-online-court-records.govbackgroundchecks.com/screenshots/gwinnett-county-online-court-records/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Gwinnett County Public Records: Uncover Anyone's Information">
+                                <img itemprop="contentUrl url" src='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Jail-Booking-List-Screenshot.webp' alt='Free Gwinnett County Public Records: Uncover Anyone's Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gwinnettcounty.georgia.recordspage.org" />
+                                </span>
+                                <a href='https://gwinnettcounty.georgia.recordspage.org/wp-content/uploads/sites/233/2023/10/Jail-Booking-List-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Find Gwinnett County, Georgia Court Records? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9MPdkmh6WBU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOI-coo_udzIiZSxgMxcyXbaOZ2w' alt='How To Find Gwinnett County, Georgia Court Records? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9MPdkmh6WBU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOI-coo_udzIiZSxgMxcyXbaOZ2w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwinnett County Online Court Records">
+                                <img itemprop="contentUrl url" src='https://gwinnett-county-online-court-records.govbackgroundchecks.com/screenshots/gwinnett-county-online-court-records/4.jpg' alt='Gwinnett County Online Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://gwinnett-county-online-court-records.govbackgroundchecks.com/screenshots/gwinnett-county-online-court-records/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwinnett authorities, other agencies nab 13 gang suspec ...">
+                                <img itemprop="contentUrl url" src='https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/articles/2015/314226/gang-arrest-060215_p3.jpg' alt='Gwinnett authorities, other agencies nab 13 gang suspec ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AccessWDUN" />
+                                </span>
+                                <a href='https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/articles/2015/314226/gang-arrest-060215_p3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Details - Gwinnett | Gwinnett County">
+                                <img itemprop="contentUrl url" src='https://www.gwinnettcounty.com/static/images/suspects/bloods.jpg' alt='News Details - Gwinnett | Gwinnett County'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News Details - Gwinnett | Gwinnett County" />
+                                </span>
+                                <a href='https://www.gwinnettcounty.com/static/images/suspects/bloods.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Details - Gwinnett | Gwinnett County">
+                                <img itemprop="contentUrl url" src='https://www.gwinnettcounty.com/static/images/suspects/may20sus.jpg' alt='News Details - Gwinnett | Gwinnett County'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News Details - Gwinnett | Gwinnett County" />
+                                </span>
+                                <a href='https://www.gwinnettcounty.com/static/images/suspects/may20sus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

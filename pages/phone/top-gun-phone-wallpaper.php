@@ -1,0 +1,129 @@
+<title>Top Gun Phone Wallpaper: Elevate Your Screen!</title>
+                    <meta name="description" content="Discover the ultimate collection of Top Gun phone wallpapers! Perfect for aviation lovers and movie fans, these high-quality images will transform your screen with iconic scenes and quotes. Download now and show off your love for the sky and adventure, all in a sleek, mobile-friendly format!">
+                    <meta name="keywords" content="top gun phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/top-gun-phone-wallpaper">
+                            <span itemprop="name">top gun phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Gun Phone Wallpaper: Elevate Your Screen!</h1>
+                <p>Get ready to elevate your phone’s aesthetic with stunning Top Gun phone wallpapers! Featuring iconic planes and memorable quotes, these wallpapers bring the adrenaline of the skies right to your screen. Whether you're a Maverick fan or just love the thrill of aviation, customize your device with these high-quality images that capture the essence of courage and camaraderie!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top gun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/61/21/006121f165ac309cef9363b8b19cb9bc.jpg' alt='Top gun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/61/21/006121f165ac309cef9363b8b19cb9bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this wallpaper for phones : r/topgun">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/earcztnko1291.jpg?width=640&crop=smart&auto=webp&s=fb459db15244f67ca84643c0729cd0fb5a29c4a4' alt='I made this wallpaper for phones : r/topgun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/earcztnko1291.jpg?width=640&crop=smart&auto=webp&s=fb459db15244f67ca84643c0729cd0fb5a29c4a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A mobile wallpaper I made myself for the new movie FINALLY coming ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/53tg7qf42px81.jpg' alt='A mobile wallpaper I made myself for the new movie FINALLY coming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/53tg7qf42px81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun: Maverick Digital Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/top-gun-maverick-digital-poster-dveuq1w4ogz48k9e.jpg' alt='Top Gun: Maverick Digital Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1221">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/top-gun-maverick-digital-poster-dveuq1w4ogz48k9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun: Maverick Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/c/8/7154-1080x1920-phone-1080p-top-gun-maverick-background-image.jpg' alt='Top Gun: Maverick Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/c/8/7154-1080x1920-phone-1080p-top-gun-maverick-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top gun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/fd/8d/fafd8ddc0efb49f5b07e6053647365dd.jpg' alt='Top gun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/fd/8d/fafd8ddc0efb49f5b07e6053647365dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun, aircraft, jets, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/777/509/HD-wallpaper-top-gun-aircraft-jets.jpg' alt='Top Gun, aircraft, jets, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/777/509/HD-wallpaper-top-gun-aircraft-jets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun: Maverick Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/0/f/7136-2160x3840-samsung-4k-top-gun-maverick-wallpaper.jpg' alt='Top Gun: Maverick Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/0/f/7136-2160x3840-samsung-4k-top-gun-maverick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD top gun wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/428/460/HD-wallpaper-top-gun-maverick-top-gun-2-top-gun-maverick-thumbnail.jpg' alt='HD top gun wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/428/460/HD-wallpaper-top-gun-maverick-top-gun-2-top-gun-maverick-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Top Gun Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/top-gun-a1irwmoib8y7io3o.jpg' alt='100+] Top Gun Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/top-gun-a1irwmoib8y7io3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

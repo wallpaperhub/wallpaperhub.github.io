@@ -1,0 +1,129 @@
+<title>Felix from Stray Kids: The Charismatic Star</title>
+                    <meta name="description" content="Discover Felix, the talented member of Stray Kids known for his incredible rap skills and captivating stage presence. Get insights into his journey, charm, and what makes him a beloved figure in the K-pop community. Join the fandom and celebrate Felix's contributions to Stray Kids!">
+                    <meta name="keywords" content="felix stray kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/felix-stray-kids">
+                            <span itemprop="name">felix stray kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Felix from Stray Kids: The Charismatic Star</h1>
+                <p>Felix, a member of the popular South Korean group Stray Kids, has won hearts with his stunning rap skills, dance moves, and charming personality. Born in Australia, he brings a unique blend of multicultural flair to the group. Fans admire his talent, charisma, and dedication, making him a standout figure in K-pop culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felix (rapper) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Felix_Lee_of_Stray_Kids%2C_July_8%2C_2024_%282%29_%28cropped%29.png/800px-Felix_Lee_of_Stray_Kids%2C_July_8%2C_2024_%282%29_%28cropped%29.png' alt='Felix (rapper) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Felix_Lee_of_Stray_Kids%2C_July_8%2C_2024_%282%29_%28cropped%29.png/800px-Felix_Lee_of_Stray_Kids%2C_July_8%2C_2024_%282%29_%28cropped%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felix | Stray Kids Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/stray-kids/images/f/f5/Felix_Profile_Picture_-_Japan.jpg/revision/latest/scale-to-width/360?cb=20241014123013' alt='Felix | Stray Kids Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stray Kids Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/stray-kids/images/f/f5/Felix_Profile_Picture_-_Japan.jpg/revision/latest/scale-to-width/360?cb=20241014123013' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   #stay #felix #straykids">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540001487139444155' alt='   #stay #felix #straykids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540001487139444155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Felix - Stray Kids">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100032431646478' alt='Profile for Felix - Stray Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100032431646478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220209 Stray Kids' Felix Injures Back + Upcoming Fan Meeting ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/CrkKdZgOzBMC2XtZnfy_tk4PdVSUO1xLBNNJzMDMem0.jpg?width=640&crop=smart&auto=webp&s=f82c06a4ab42cefd01764574335f874c397a7dba' alt='220209 Stray Kids' Felix Injures Back + Upcoming Fan Meeting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/CrkKdZgOzBMC2XtZnfy_tk4PdVSUO1xLBNNJzMDMem0.jpg?width=640&crop=smart&auto=webp&s=f82c06a4ab42cefd01764574335f874c397a7dba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stray Kids's Felix Called His Louis Vuitton Runway Debut One of ...">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/6659f4318c8aa34b8ab406ae/16:9/w_2560%2Cc_limit/2151788038' alt='Stray Kids's Felix Called His Louis Vuitton Runway Debut One of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/6659f4318c8aa34b8ab406ae/16:9/w_2560%2Cc_limit/2151788038' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felix (Stray Kids) Profile">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0469/3927/5428/files/Bildschirmfoto_2024-03-21_um_12.18.05.png?v=1711019911' alt='Felix (Stray Kids) Profile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nolae" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0469/3927/5428/files/Bildschirmfoto_2024-03-21_um_12.18.05.png?v=1711019911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felix Portrait : r/straykids">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/felix-portrait-v0-a1hwputoh8rd1.jpg?width=640&crop=smart&auto=webp&s=aa5c3244c000ba42dd5057b38f42ce14e527604f' alt='Felix Portrait : r/straykids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/felix-portrait-v0-a1hwputoh8rd1.jpg?width=640&crop=smart&auto=webp&s=aa5c3244c000ba42dd5057b38f42ce14e527604f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stray Kids' Felix Just Won the Shirtless Suit Vest Trend | Teen Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/677d416688f1c900d9640ebf/4:3/w_3656,h_2742,c_limit/2191539150' alt='Stray Kids' Felix Just Won the Shirtless Suit Vest Trend | Teen Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3656">
+                                <meta itemprop="height" content="2742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/677d416688f1c900d9640ebf/4:3/w_3656,h_2742,c_limit/2191539150' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="241028] Felix    11:09 AM KST    : I'll give you the original pics ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3488645301551251841' alt='241028] Felix    11:09 AM KST    : I'll give you the original pics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3488645301551251841' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

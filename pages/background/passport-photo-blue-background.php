@@ -1,0 +1,129 @@
+<title>How to Capture a Perfect Passport Photo with a Blue Background</title>
+                    <meta name="description" content="Discover tips for taking the perfect passport photo against a blue background. From lighting to outfit choices, learn how to meet official requirements with ease. Perfect for travelers who want a hassle-free photo experience!">
+                    <meta name="keywords" content="passport photo blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/passport-photo-blue-background">
+                            <span itemprop="name">passport photo blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Capture a Perfect Passport Photo with a Blue Background</h1>
+                <p>When taking a passport photo, a blue background is often required for official purposes. Ensure that the background is a solid, light blue color without distractions. Proper lighting and framing are essential for capturing a clear image of your face. Dress in neutral colors and keep the focus on your expression to meet standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanzania Azania Bank photo 2x2 inch blue background size, tool ...">
+                                <img itemprop="contentUrl url" src='https://visafoto.com/img/docs/tz_azania_bank_2x2.jpg' alt='Tanzania Azania Bank photo 2x2 inch blue background size, tool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visafoto.com" />
+                                </span>
+                                <a href='https://visafoto.com/img/docs/tz_azania_bank_2x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malaysia passport photo 35x50 mm blue background size, tool ...">
+                                <img itemprop="contentUrl url" src='https://visafoto.com/img/docs/my_passport.jpg' alt='Malaysia passport photo 35x50 mm blue background size, tool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1006">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visafoto.com" />
+                                </span>
+                                <a href='https://visafoto.com/img/docs/my_passport.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qatar passport photo 38x48 mm blue background size, tool, requirements">
+                                <img itemprop="contentUrl url" src='https://visafoto.com/img/docs/qa_passport_38x48mm_blue.jpg' alt='Qatar passport photo 38x48 mm blue background size, tool, requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visafoto.com" />
+                                </span>
+                                <a href='https://visafoto.com/img/docs/qa_passport_38x48mm_blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Plain Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L2pvYjE4NzItYmFja2dyb3VuZC1ib29tLTAzLTAxai5qcGc.jpg' alt='Blue Background Plain Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L2pvYjE4NzItYmFja2dyb3VuZC1ib29tLTAzLTAxai5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Malaysia Passport (Blue background) Photo Online with 35x50 ...">
+                                <img itemprop="contentUrl url" src='https://www.idphotodiy.com/images/malaysia_passport_photo_blue.jpg' alt='Make Malaysia Passport (Blue background) Photo Online with 35x50 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="idPhotoDIY" />
+                                </span>
+                                <a href='https://www.idphotodiy.com/images/malaysia_passport_photo_blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Passport Photo with Blue Background">
+                                <img itemprop="contentUrl url" src='https://image.pi7.org/static/img/Make-Passport-Photo-with-Blue-Background.jpeg' alt='Make Passport Photo with Blue Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pi7 Image Tool" />
+                                </span>
+                                <a href='https://image.pi7.org/static/img/Make-Passport-Photo-with-Blue-Background.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2560x1600 True Blue Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/2560x1600/2560x1600-true-blue-solid-color-background.jpg' alt='2560x1600 True Blue Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/2560x1600/2560x1600-true-blue-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passport photo with blue background">
+                                <img itemprop="contentUrl url" src='https://visafoto.com/img/docs/ps_passport_35x45mm.jpg' alt='Passport photo with blue background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visafoto.com" />
+                                </span>
+                                <a href='https://visafoto.com/img/docs/ps_passport_35x45mm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to edit passport size photo with blue background in pixelLab ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FEpcYCdfXFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeZKzwuWLvt4yh9VgFy2J30mi6Eg' alt='How to edit passport size photo with blue background in pixelLab ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FEpcYCdfXFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeZKzwuWLvt4yh9VgFy2J30mi6Eg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change Passport Size Photo Background in Mobile">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Mk1RmaV8e5A/maxresdefault.jpg' alt='How To Change Passport Size Photo Background in Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Mk1RmaV8e5A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Effortless Photo Background Editing Made Easy</title>
+                    <meta name="description" content="Enhance your images with our user-friendly photo background editor. Quickly remove or replace backgrounds to create stunning visuals perfect for social media or professional use. Try it today and unleash your creative potential with just a few clicks!">
+                    <meta name="keywords" content="photo background editor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-background-editor">
+                            <span itemprop="name">photo background editor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Effortless Photo Background Editing Made Easy</h1>
+                <p>Transform your photos effortlessly with a photo background editor. This tool allows you to remove, replace, or blur backgrounds for stunning images. Whether you're enhancing a personal snapshot or creating professional graphics, a background editor makes your editing process quick and intuitive. Bring your creativity to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edit Image Background Online - Use Online Photo Editor to Change ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f1/01/ef/f101ef96110a9ec9dd0a7fa86c78514e.jpg' alt='Edit Image Background Online - Use Online Photo Editor to Change ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f1/01/ef/f101ef96110a9ec9dd0a7fa86c78514e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edit Image Background Online - Use Online Photo Editor to Change ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/41/12/1a/41121aad6c41074215e8c47d7fd4eec7.jpg' alt='Edit Image Background Online - Use Online Photo Editor to Change ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/41/12/1a/41121aad6c41074215e8c47d7fd4eec7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editing Background Photos, Download The BEST Free Editing ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Editing Background Photos, Download The BEST Free Editing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download HD Backgrounds for editing your photos - 2020">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/91/77/cd9177c1cf2513476c0e20decc08e764.jpg' alt='Download HD Backgrounds for editing your photos - 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/91/77/cd9177c1cf2513476c0e20decc08e764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If You looking CB Background for Picsart Editing, So I'm Sharing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6a/aa/ab/6aaaab354709ef2fa16fbd72299c8f55.jpg' alt='If You looking CB Background for Picsart Editing, So I'm Sharing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6a/aa/ab/6aaaab354709ef2fa16fbd72299c8f55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Online Free Photo Editor - Newspatrolling.com">
+                                <img itemprop="contentUrl url" src='https://newspatrolling.com/wp-content/uploads/2024/08/photo-editor.jpg' alt='Best Online Free Photo Editor - Newspatrolling.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newspatrolling.com" />
+                                </span>
+                                <a href='https://newspatrolling.com/wp-content/uploads/2024/08/photo-editor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo editor wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://e1.pxfuel.com/desktop-wallpaper/890/81/desktop-wallpaper-afaf-editor-backgrounds-background-thumbnail.jpg' alt='Photo editor wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://e1.pxfuel.com/desktop-wallpaper/890/81/desktop-wallpaper-afaf-editor-backgrounds-background-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOP 10 +Photo Editing Background Picture Download">
+                                <img itemprop="contentUrl url" src='https://1mphoto.com/wp-content/uploads/2023/10/editing-background-hd.jpg' alt='TOP 10 +Photo Editing Background Picture Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1mphoto" />
+                                </span>
+                                <a href='https://1mphoto.com/wp-content/uploads/2023/10/editing-background-hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Editing Background Images HD Download">
+                                <img itemprop="contentUrl url" src='https://1mphoto.com/wp-content/uploads/2023/11/photo-editing-background-images-hd.jpg' alt='Photo Editing Background Images HD Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1mphoto" />
+                                </span>
+                                <a href='https://1mphoto.com/wp-content/uploads/2023/11/photo-editing-background-images-hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="171 Fantasy Photo Editing Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/view-train-tracks-towards-bright-light-view-train-tracks-towards-bright-light-photo-editing-background-stock-216214548.jpg' alt='171 Fantasy Photo Editing Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/view-train-tracks-towards-bright-light-view-train-tracks-towards-bright-light-photo-editing-background-stock-216214548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

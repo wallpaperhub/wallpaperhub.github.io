@@ -1,0 +1,129 @@
+<title>Explore Exciting Security Clearance Investigator Jobs</title>
+                    <meta name="description" content="Discover rewarding security clearance investigator jobs where you can ensure the safety and integrity of sensitive information. Ideal for detail-oriented individuals, these roles focus on background checks and risk assessment, contributing to national security and organizational trust. Start your career today!">
+                    <meta name="keywords" content="security clearance investigator jobs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/security-clearance-investigator-jobs">
+                            <span itemprop="name">security clearance investigator jobs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Exciting Security Clearance Investigator Jobs</h1>
+                <p>Security clearance investigator jobs involve vetting individuals for sensitive positions within government and private sectors. These professionals conduct thorough background checks, verifying employment history and personal information. Attention to detail and analytical skills are crucial, as they assess risks and ensure compliance with security regulations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day Security Clearance Background Investigator Jobs">
+                                <img itemprop="contentUrl url" src='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/dirps_images/day-security-clearance-background-investigator-dirp.webp' alt='Day Security Clearance Background Investigator Jobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZipRecruiter" />
+                                </span>
+                                <a href='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/dirps_images/day-security-clearance-background-investigator-dirp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personnel Security Background Investigations">
+                                <img itemprop="contentUrl url" src='https://2009-2017.state.gov/cms_images/AtDoorA.jpg' alt='Personnel Security Background Investigations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State.gov - Department of State" />
+                                </span>
+                                <a href='https://2009-2017.state.gov/cms_images/AtDoorA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Investigators and Productivity - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2015/06/Interview-NewSize1-720x400.png' alt='Background Investigators and Productivity - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2015/06/Interview-NewSize1-720x400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Security Clearance Process Works > DCAA > Article View">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2020/Jan/21/2002237135/1920/1080/0/200129-D-DV043-1002.PNG' alt='How the Security Clearance Process Works > DCAA > Article View'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1845">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Defense Contract Audit Agency" />
+                                </span>
+                                <a href='https://media.defense.gov/2020/Jan/21/2002237135/1920/1080/0/200129-D-DV043-1002.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Path to a Top Secret Security Clearance Job - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2020/02/top-secret-1-720x460.jpeg' alt='The Path to a Top Secret Security Clearance Job - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2020/02/top-secret-1-720x460.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Differences Between Tier 4 and Tier 5 Security Clearance ...">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2020/04/Ask-CJ-security-clearance-process-JPG-720x460.jpg' alt='Differences Between Tier 4 and Tier 5 Security Clearance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2020/04/Ask-CJ-security-clearance-process-JPG-720x460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Embassy - Port Moresby, Papua New Guinea - The U.S. Embassy ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=785898470386116' alt='U.S. Embassy - Port Moresby, Papua New Guinea - The U.S. Embassy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=785898470386116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did Continuous... - DC Security Clearance Consultants, LLC. | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=976189647839355' alt='Did Continuous... - DC Security Clearance Consultants, LLC. | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=976189647839355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Much Does a Background Investigator Make? - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2022/11/Investigation-8-720x460.jpg' alt='How Much Does a Background Investigator Make? - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2022/11/Investigation-8-720x460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Day in the Life of a Background Investigator - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2016/04/Tin-Can-720x400.png' alt='A Day in the Life of a Background Investigator - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2016/04/Tin-Can-720x400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Fascinating History of Amazon</title>
+                    <meta name="description" content="Discover the intriguing journey of Amazon, from its humble beginnings as a bookstore to a global e-commerce powerhouse. Learn how the company's innovations have reshaped shopping, technology, and entertainment, making it a pivotal player in the digital age.">
+                    <meta name="keywords" content="history of amazon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-amazon">
+                            <span itemprop="name">history of amazon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fascinating History of Amazon</h1>
+                <p>Amazon began in 1994 as an online bookstore founded by Jeff Bezos. It quickly expanded to offer a wide range of products and services, transforming e-commerce. With innovations like Amazon Prime and Alexa, it became a tech giant, reshaping retail, cloud computing, and entertainment while influencing global consumer habits.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon history timeline">
+                                <img itemprop="contentUrl url" src='https://img.officetimeline.com/uploads/assets/lg_amazon_history_timeline_da9e50630d.webp' alt='Amazon history timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Office Timeline" />
+                                </span>
+                                <a href='https://img.officetimeline.com/uploads/assets/lg_amazon_history_timeline_da9e50630d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Amazon and its Success From A to Z">
+                                <img itemprop="contentUrl url" src='https://www.ecomcrew.com/wp-content/uploads/2024/01/Amazon-timeline.jpg' alt='The History of Amazon and its Success From A to Z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EcomCrew" />
+                                </span>
+                                <a href='https://www.ecomcrew.com/wp-content/uploads/2024/01/Amazon-timeline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon History Timeline - Venngage">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/thumbnails.venngage.com/template/5e9942ed-1474-44d3-ba8a-3d283eabe34a.png' alt='Amazon History Timeline - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/thumbnails.venngage.com/template/5e9942ed-1474-44d3-ba8a-3d283eabe34a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Amazon – Feedough">
+                                <img itemprop="contentUrl url" src='https://www.feedough.com/wp-content/uploads/2020/04/Feedough_History_of_Amazon_Logos.webp' alt='The History Of Amazon – Feedough'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feedough" />
+                                </span>
+                                <a href='https://www.feedough.com/wp-content/uploads/2020/04/Feedough_History_of_Amazon_Logos.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Amazon – Feedough">
+                                <img itemprop="contentUrl url" src='https://www.feedough.com/wp-content/uploads/2020/04/Feedough_History_of_Amazon_Acquisitions.webp' alt='The History Of Amazon – Feedough'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feedough" />
+                                </span>
+                                <a href='https://www.feedough.com/wp-content/uploads/2020/04/Feedough_History_of_Amazon_Acquisitions.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can the History of Amazon Logos Teach Us?">
+                                <img itemprop="contentUrl url" src='https://logopoppin.com/wp-content/uploads/2022/02/Amazon-Logo-Feature-Image.png' alt='What Can the History of Amazon Logos Teach Us?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Poppin" />
+                                </span>
+                                <a href='https://logopoppin.com/wp-content/uploads/2022/02/Amazon-Logo-Feature-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Amazon – Feedough">
+                                <img itemprop="contentUrl url" src='https://www.feedough.com/wp-content/uploads/2020/04/history-of-amazon.png' alt='The History Of Amazon – Feedough'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feedough" />
+                                </span>
+                                <a href='https://www.feedough.com/wp-content/uploads/2020/04/history-of-amazon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon's Biggest Acquisitions: What Companies Does Amazon Own?">
+                                <img itemprop="contentUrl url" src='https://www.forex.com/en-us/-/media/research/global/rt/2023/04/amazon-acquisition-timeline.png?h=519&w=800' alt='Amazon's Biggest Acquisitions: What Companies Does Amazon Own?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOREX.com" />
+                                </span>
+                                <a href='https://www.forex.com/en-us/-/media/research/global/rt/2023/04/amazon-acquisition-timeline.png?h=519&w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Evolution of the Amazon Logo - Famous Company Logos">
+                                <img itemprop="contentUrl url" src='https://companylogos.org/wp-content/uploads/2024/10/Amazon-logo-history.jpg' alt='The History and Evolution of the Amazon Logo - Famous Company Logos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company Logos" />
+                                </span>
+                                <a href='https://companylogos.org/wp-content/uploads/2024/10/Amazon-logo-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Amazon: How Amazon came to dominate retail">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/StaMb1iwPNE/maxresdefault.jpg' alt='The history of Amazon: How Amazon came to dominate retail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/StaMb1iwPNE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

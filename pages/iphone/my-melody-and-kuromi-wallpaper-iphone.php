@@ -1,0 +1,129 @@
+<title>Charming My Melody & Kuromi iPhone Wallpapers</title>
+                    <meta name="description" content="Add a fun twist to your iPhone with our My Melody and Kuromi wallpapers! Discover cute and stylish designs that perfectly capture the essence of your favorite Sanrio characters. Perfect for personalization and enhancing your mobile experience. Download now to display your love for My Melody and Kuromi!">
+                    <meta name="keywords" content="my melody and kuromi wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/my-melody-and-kuromi-wallpaper-iphone">
+                            <span itemprop="name">my melody and kuromi wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming My Melody & Kuromi iPhone Wallpapers</h1>
+                <p>Transform your iPhone with adorable My Melody and Kuromi wallpapers! Enjoy vibrant colors and cute designs that bring a touch of sweetness and edge to your screen. Perfect for fans of Sanrio characters, these wallpapers add personality to your device. Download your favorite now and showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi and melody">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/2c/73/4e2c739b2012670e88c0e911a3b50b8a.jpg' alt='Kuromi and melody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/2c/73/4e2c739b2012670e88c0e911a3b50b8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody and Kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/02/8e/03028e5e13b8e41193ee7fa94b79356a.jpg' alt='My Melody and Kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/02/8e/03028e5e13b8e41193ee7fa94b79356a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody and Kuromi Wallpapers - Best Sanrio Wallpapers iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/06/my-melody-kuromi-cute-wallpaper.jpg' alt='My Melody and Kuromi Wallpapers - Best Sanrio Wallpapers iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/06/my-melody-kuromi-cute-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi and My Melody - Best Friends Forever Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-and-my-melody-1080-x-1920-wallpaper-qok3cfqr9b19ktmp.jpg' alt='Download Kuromi and My Melody - Best Friends Forever Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-and-my-melody-1080-x-1920-wallpaper-qok3cfqr9b19ktmp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi, precious, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/240/236/HD-wallpaper-kuromi-precious.jpg' alt='Kuromi, precious, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/240/236/HD-wallpaper-kuromi-precious.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi Iphone My Melody Maid Outfit Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-iphone-t92h0jkxo7rt1xr8.jpg' alt='Download Kuromi Iphone My Melody Maid Outfit Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-iphone-t92h0jkxo7rt1xr8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨My Melody & Kuromi ✨ ~(Complete)~ -   My Melody/Kuromi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/04/2e/f6042e5b4a5795f467965a7c5b507dcb.jpg' alt='✨My Melody & Kuromi ✨ ~(Complete)~ -   My Melody/Kuromi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/04/2e/f6042e5b4a5795f467965a7c5b507dcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Kuromi Wallpapers: Cute and Stylish Sanrio Designs for Your ...">
+                                <img itemprop="contentUrl url" src='https://kuromi.co.uk/wp-content/uploads/2024/06/kuromi-and-melody-wallpaper-iphone-576x1024.jpg' alt='iPhone Kuromi Wallpapers: Cute and Stylish Sanrio Designs for Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kuromi" />
+                                </span>
+                                <a href='https://kuromi.co.uk/wp-content/uploads/2024/06/kuromi-and-melody-wallpaper-iphone-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10647115.jpg' alt='Kuromi iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1154">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10647115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Melody And Kuromi The Pirates Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/melody-and-kuromi-the-pirates-1rp9jqgh15ujz89c.jpg' alt='Download Melody And Kuromi The Pirates Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/melody-and-kuromi-the-pirates-1rp9jqgh15ujz89c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

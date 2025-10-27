@@ -1,0 +1,129 @@
+<title>Explore the Timeless Charm of Typewriter Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of typewriter backgrounds that blend nostalgia with creativity. Perfect for enhancing your designs, these vintage elements bring character to any project. Explore various styles and find inspiration to incorporate the classic charm of typewriters into your work today!">
+                    <meta name="keywords" content="typewriter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/typewriter-background">
+                            <span itemprop="name">typewriter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Timeless Charm of Typewriter Backgrounds</h1>
+                <p>Typewriter backgrounds evoke a sense of nostalgia, connecting us to the artistry of written communication. These vintage machines are not just tools but symbols of creativity and expression. From classic manuscripts to modern designs, typewriter elements add character and charm to any space, enriching it with a unique, timeless aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typewriter Background Images – Browse 73,248 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/43/73/76/360_F_143737660_fCk65IfvJXT3YEQfXz1lGv9bYZvQtO3O.jpg' alt='Typewriter Background Images – Browse 73,248 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/43/73/76/360_F_143737660_fCk65IfvJXT3YEQfXz1lGv9bYZvQtO3O.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Corona typewriter on brown wood planks photo – Free Writing ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Black Corona typewriter on brown wood planks photo – Free Writing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Typewriter Scene Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/5/d/1/5d18f6bf-43f3-4964-adb5-20489a61287f_large/vintage-typewriter-scene-stockcake.jpg' alt='Free Vintage Typewriter Scene Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/5/d/1/5d18f6bf-43f3-4964-adb5-20489a61287f_large/vintage-typewriter-scene-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typewriter Vintage Background Images – Browse 46,111 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/89/40/46/360_F_89404646_1r4daYoXErHCYUFj5ZBaQMUF71HrNO6F.jpg' alt='Typewriter Vintage Background Images – Browse 46,111 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/89/40/46/360_F_89404646_1r4daYoXErHCYUFj5ZBaQMUF71HrNO6F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,000+ Typewriter Page Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/911882318/photo/vintage-typewriter.jpg?s=612x612&w=0&k=20&c=3l3ykT5vnZemtbFWqCE-PszHsETxQA0IsZ98PIXmwc0=' alt='9,000+ Typewriter Page Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/911882318/photo/vintage-typewriter.jpg?s=612x612&w=0&k=20&c=3l3ykT5vnZemtbFWqCE-PszHsETxQA0IsZ98PIXmwc0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,453 Vintage Typewriter Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/170005774/photo/fairy-tale.jpg?s=612x612&w=gi&k=20&c=C1AHWQ5ijSjfauU2PCwpBLqUaKBpBrW-KaAdkVOgq8w=' alt='8,453 Vintage Typewriter Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/170005774/photo/fairy-tale.jpg?s=612x612&w=gi&k=20&c=C1AHWQ5ijSjfauU2PCwpBLqUaKBpBrW-KaAdkVOgq8w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get a Typewriter Obsession | by Andrew Macrae | The Startup ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:9764/1*7LBOkkaVQBoxIDBYY62bPQ.jpeg' alt='How to Get a Typewriter Obsession | by Andrew Macrae | The Startup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4882">
+                                <meta itemprop="height" content="3255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:9764/1*7LBOkkaVQBoxIDBYY62bPQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typewriter Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/036/749/744/non_2x/ai-generated-vintage-typewriter-with-golden-keys-on-a-textured-grey-background-photo.jpg' alt='Typewriter Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/036/749/744/non_2x/ai-generated-vintage-typewriter-with-golden-keys-on-a-textured-grey-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Close Up Of Vintage Typewriter With Paper Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/536978729/photo/antique-typewriter-with-aged-textured-paper-sheet.jpg?s=612x612&w=0&k=20&c=usdyqVqDAljgqsmLrZyCXeU46EAT4iNEvpkILkenEHM=' alt='6,900+ Close Up Of Vintage Typewriter With Paper Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/536978729/photo/antique-typewriter-with-aged-textured-paper-sheet.jpg?s=612x612&w=0&k=20&c=usdyqVqDAljgqsmLrZyCXeU46EAT4iNEvpkILkenEHM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typewriter Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/old-writing-instrument-arrangement_23-2148913965.jpg' alt='Typewriter Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/old-writing-instrument-arrangement_23-2148913965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

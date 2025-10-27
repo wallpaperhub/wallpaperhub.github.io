@@ -1,0 +1,129 @@
+<title>Transform Your Space with Pink Adhesive Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of pink adhesive wallpaper! Easy to apply and remove, this stylish decor option offers endless design possibilities for any room. Perfect for renters, children’s spaces, or a chic accent wall. Explore patterns and styles that bring life to your walls effortlessly.">
+                    <meta name="keywords" content="pink adhesive wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-adhesive-wallpaper">
+                            <span itemprop="name">pink adhesive wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Pink Adhesive Wallpaper</h1>
+                <p>Pink adhesive wallpaper adds a charming touch to any space, easily transforming walls into a vibrant canvas. Its peel-and-stick design simplifies installation and removal, making it perfect for renters or DIY enthusiasts. Available in patterns ranging from floral to geometric, this versatile decor option can enhance children's rooms, accent walls, or even office spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper, Pink Watercolor Limewash">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' alt='Pink Wallpaper, Pink Watercolor Limewash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cohoo Home Silk Pink Wallpaper Peel and Stick Contact Paper Pink Textured  Silk Wallpaper for Bedroom Self Adhesive Removable Wall Sticker Paper Girls  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71kW3xZs7SL.jpg' alt='Cohoo Home Silk Pink Wallpaper Peel and Stick Contact Paper Pink Textured  Silk Wallpaper for Bedroom Self Adhesive Removable Wall Sticker Paper Girls  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71kW3xZs7SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Retro Peel and Stick Wallpaper / Geometric Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/cf7180/4622515484/il_570xN.4622515484_fa6r.jpg' alt='Pink Retro Peel and Stick Wallpaper / Geometric Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/cf7180/4622515484/il_570xN.4622515484_fa6r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15.7"x118" Pink Wallpaper Contact Paper Pink Peel and Stick Wallpaper  Lavender Self Adhesive Contact Paper for Cabinets Girls Bedroom  Wallcovering ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cdoTzK6fL._AC_UF894,1000_QL80_.jpg' alt='15.7"x118" Pink Wallpaper Contact Paper Pink Peel and Stick Wallpaper  Lavender Self Adhesive Contact Paper for Cabinets Girls Bedroom  Wallcovering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cdoTzK6fL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Delicate Pink Mural With Rose Motive Self Adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/9014bc/3824591478/il_570xN.3824591478_hbaq.jpg' alt='Light Delicate Pink Mural With Rose Motive Self Adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/9014bc/3824591478/il_570xN.3824591478_hbaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coloritto Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural,  Watercolor Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RTeu8IpGL.jpg' alt='Coloritto Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural,  Watercolor Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RTeu8IpGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EGD Floral Pink Wallpaper | Peel and Stick Room Decor | Self Adhesive  Wallpaper | Wall Paper Decor Living Room | Wall Decal for Interior Design  (4 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81uIJaoSEuL.jpg' alt='EGD Floral Pink Wallpaper | Peel and Stick Room Decor | Self Adhesive  Wallpaper | Wall Paper Decor Living Room | Wall Decal for Interior Design  (4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81uIJaoSEuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRE8TIVE 24"x118" Pink Wallpaper Peel and Stick Thick Pink Contact Paper  for Cabinet Self Adhesive Decorative Wall Covering Vinyl Roll for Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/CRE8TIVE-Pink-Wallpaper-Peel-Stick-118-x24-Wide-Thick-Contact-Paper-Self-Adhesive-Removable-Matte-Decorative-Wall-Covering-Vinyl-Roll-Bedroom-Girls-R_ed547775-3828-4f9a-a123-56ee8dd9e970.f06a209d971df6dd6ad903f5fe1d35be.jpeg' alt='CRE8TIVE 24"x118" Pink Wallpaper Peel and Stick Thick Pink Contact Paper  for Cabinet Self Adhesive Decorative Wall Covering Vinyl Roll for Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/CRE8TIVE-Pink-Wallpaper-Peel-Stick-118-x24-Wide-Thick-Contact-Paper-Self-Adhesive-Removable-Matte-Decorative-Wall-Covering-Vinyl-Roll-Bedroom-Girls-R_ed547775-3828-4f9a-a123-56ee8dd9e970.f06a209d971df6dd6ad903f5fe1d35be.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ivy Cottage Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/the-ivy-cottage-removable-peel-and-stick-wallpaper-710959.png?crop=center&height=1142&v=1718902434&width=1142' alt='The Ivy Cottage Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/the-ivy-cottage-removable-peel-and-stick-wallpaper-710959.png?crop=center&height=1142&v=1718902434&width=1142' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush pink moroccan print removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Foyer-interior-with-pink-moroccan-removable-wallpaper.jpg?v=1595362715' alt='Blush pink moroccan print removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Foyer-interior-with-pink-moroccan-removable-wallpaper.jpg?v=1595362715' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

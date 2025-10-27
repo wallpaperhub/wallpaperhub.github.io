@@ -1,0 +1,129 @@
+<title>Fresh & Fun Preppy Fruit Wallpaper for Your Decor</title>
+                    <meta name="description" content="Discover the charm of preppy fruit wallpaper! Brighten your home with playful designs that add a pop of color and whimsy. Perfect for kitchens and children's spaces, it's time to refresh your decor with this delightful decor touch that combines style and fun!">
+                    <meta name="keywords" content="preppy fruit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-fruit-wallpaper">
+                            <span itemprop="name">preppy fruit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh & Fun Preppy Fruit Wallpaper for Your Decor</h1>
+                <p>Preppy fruit wallpaper brings a fresh and vibrant touch to any space. Featuring cheerful patterns of colorful fruits, this wallpaper reflects a fun, youthful vibe perfect for kitchens, dining areas, or children's rooms. It's an easy way to elevate your decor, creating a lively atmosphere that invites relaxation and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/b7/01/b2b701084bb8d9ed8dacf3c1bfe644e6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/b7/01/b2b701084bb8d9ed8dacf3c1bfe644e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Cute Fruits Epic 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-23_63863893206962.1.jpg' alt='Preppy Cute Fruits Epic 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-23_63863893206962.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pastel grapefruit iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/e5/4a/83e54ac0841b912e3c6f31f94e2134df.jpg' alt='Download premium image of Pastel grapefruit iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/e5/4a/83e54ac0841b912e3c6f31f94e2134df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit phone wallpaper           ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/40/4b/af404b4a88e60e22dc2e1fffa9d18370.jpg' alt='Fruit phone wallpaper           '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/40/4b/af404b4a88e60e22dc2e1fffa9d18370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on PINTEREST LIKES">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/1f/dc/cd1fdc081d6ed11cf59ae5176aa9de8e.jpg' alt='Pin on PINTEREST LIKES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/1f/dc/cd1fdc081d6ed11cf59ae5176aa9de8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="roller rabbit wallpaper ~ fruits">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/3b/43/d23b433c80851edd54fbbf0dd6b99ae8.jpg' alt='roller rabbit wallpaper ~ fruits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/3b/43/d23b433c80851edd54fbbf0dd6b99ae8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry and rainbow wallpaper background for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/bb/23/88bb23d4089ca57c03e66458cd91cab5.jpg' alt='Strawberry and rainbow wallpaper background for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/bb/23/88bb23d4089ca57c03e66458cd91cab5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Fruits In White Background HD Preppy Wallpapers | HD ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/pineapple_fruits_in_white_background_hd_preppy-1600x900.jpg' alt='Pineapple Fruits In White Background HD Preppy Wallpapers | HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/pineapple_fruits_in_white_background_hd_preppy-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watermelon Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/6e/99/7e6e99afe2c0d8ede6fc84cefc292400.jpg' alt='Watermelon Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/6e/99/7e6e99afe2c0d8ede6fc84cefc292400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Summer Fruits Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' alt='Cute Summer Fruits Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Lawrence Taylor Wallpaper: Celebrate a Football Legend!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lawrence taylor wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/lawrence-taylor-wallpaper">
+                            <span itemprop="name">lawrence taylor wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lawrence Taylor Wallpaper: Celebrate a Football Legend!</h1>
+                <p>Transform your space with stunning Lawrence Taylor wallpaper, featuring vibrant designs and iconic moments of the legendary linebacker. Perfect for sports fans, these wallpapers celebrate Taylor's dynamic career and impact on football. Enhance your room with unique styles that pay homage to a true sports icon!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Giants 366 - Wallpaper Wednesday featuring Giants legend ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2846418895467629' alt='New York Giants 366 - Wallpaper Wednesday featuring Giants legend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2846418895467629' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lawrence Taylor Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lawrence-taylor-7f8s8ouzsq98atcc.jpg' alt='100+] Lawrence Taylor Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lawrence-taylor-7f8s8ouzsq98atcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lawrence Taylor, NY Giants">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/96/d3/56/96d35635ecd1f5b54ed32c5949afec34.jpg' alt='Lawrence Taylor, NY Giants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/96/d3/56/96d35635ecd1f5b54ed32c5949afec34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: LB Lawrence Taylor">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/giants/xzt2iqcho1nxlcmzezjm' alt='Photos: LB Lawrence Taylor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giants.com" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/giants/xzt2iqcho1nxlcmzezjm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lawrence Taylor custom iphone screensaver.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/b7/f9/e1b7f9e98817211be473c9588fecbfa5.jpg' alt='Lawrence Taylor custom iphone screensaver.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/b7/f9/e1b7f9e98817211be473c9588fecbfa5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cool Lawrence Taylor Art New York Giants Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lawrence-taylor-03yuj3mg5ah8j9de.jpg' alt='Download Cool Lawrence Taylor Art New York Giants Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lawrence-taylor-03yuj3mg5ah8j9de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linebacker Lawrence Taylor of the New York Giants in this portrait...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c7/b2/8f/c7b28f93bb50339f4718c3f019c3b25d.jpg' alt='Linebacker Lawrence Taylor of the New York Giants in this portrait...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c7/b2/8f/c7b28f93bb50339f4718c3f019c3b25d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lawerence Taylor, New York Giants: Art Print, Canvas Print, Man ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40973977/r/il/5937aa/4642612695/il_fullxfull.4642612695_jsjr.jpg' alt='Lawerence Taylor, New York Giants: Art Print, Canvas Print, Man ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40973977/r/il/5937aa/4642612695/il_fullxfull.4642612695_jsjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lawrence Taylor Cool Drawing Football Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lawrence-taylor-n44bvoj1izut4fr9.jpg' alt='Download Lawrence Taylor Cool Drawing Football Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lawrence-taylor-n44bvoj1izut4fr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   56 of 56: Rare photos of Lawrence Taylor">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/giants/y5kh7uuj7s3fijvrqsd3' alt='   56 of 56: Rare photos of Lawrence Taylor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giants.com" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/giants/y5kh7uuj7s3fijvrqsd3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

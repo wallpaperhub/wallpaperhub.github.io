@@ -1,0 +1,129 @@
+<title>Delicious Journey: The History of Grilled Cheese</title>
+                    <meta name="description" content="Explore the rich and flavorful history of grilled cheese sandwiches, from ancient origins to modern gourmet twists. Discover how this beloved comfort food has evolved over time and continues to delight taste buds everywhere. Perfect for food lovers seeking nostalgia and innovation!">
+                    <meta name="keywords" content="history of grilled cheese">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-grilled-cheese">
+                            <span itemprop="name">history of grilled cheese</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Journey: The History of Grilled Cheese</h1>
+                <p>Grilled cheese sandwiches date back to ancient times when bread and cheese were baked together. In the 1920s, the modern version emerged with sliced bread and processed cheese, becoming a staple during the Great Depression. Today, grilled cheese has evolved into a comfort food, inspiring gourmet variations and endless creativity in kitchens around the world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Grilled Cheese Sandwich – grilledshane.com">
+                                <img itemprop="contentUrl url" src='http://www.grilledshane.com/wp-content/uploads/2009/03/history.jpg' alt='The History of the Grilled Cheese Sandwich – grilledshane.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="grilledshane.com" />
+                                </span>
+                                <a href='http://www.grilledshane.com/wp-content/uploads/2009/03/history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Grilled Cheese Sandwich | HowStuffWorks">
+                                <img itemprop="contentUrl url" src='https://cdn.hswstatic.com/gif/grilled-cheese-2.jpg' alt='The History of the Grilled Cheese Sandwich | HowStuffWorks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food and Recipes | HowStuffWorks" />
+                                </span>
+                                <a href='https://cdn.hswstatic.com/gif/grilled-cheese-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Grilled Cheese - Just A Pinch">
+                                <img itemprop="contentUrl url" src='https://www.justapinch.com/blog/wp-content/uploads/2020/04/55c3f72b-the-history-of-grilled-cheese.png' alt='History of Grilled Cheese - Just A Pinch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just A Pinch" />
+                                </span>
+                                <a href='https://www.justapinch.com/blog/wp-content/uploads/2020/04/55c3f72b-the-history-of-grilled-cheese.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ancient History Of Grilled Cheese">
+                                <img itemprop="contentUrl url" src='https://www.mashed.com/img/gallery/the-ancient-history-of-grilled-cheese/l-intro-1659033263.jpg' alt='The Ancient History Of Grilled Cheese'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashed" />
+                                </span>
+                                <a href='https://www.mashed.com/img/gallery/the-ancient-history-of-grilled-cheese/l-intro-1659033263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grilled Cheese: History Of The Classic Quick Dinner With Infinite ...">
+                                <img itemprop="contentUrl url" src='https://canadatakeout.com/wp-content/uploads/2023/04/Grilled-Cheese.jpeg' alt='Grilled Cheese: History Of The Classic Quick Dinner With Infinite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canada Takeout" />
+                                </span>
+                                <a href='https://canadatakeout.com/wp-content/uploads/2023/04/Grilled-Cheese.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Grilled Cheese - Fresh Melt Grilled Cheese & Soup ...">
+                                <img itemprop="contentUrl url" src='http://freshmelt.com/wp-content/uploads/2016/03/The-Big-Cheese-1.jpg' alt='The History of Grilled Cheese - Fresh Melt Grilled Cheese & Soup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Melt Grilled Cheese & Soup Company" />
+                                </span>
+                                <a href='http://freshmelt.com/wp-content/uploads/2016/03/The-Big-Cheese-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grilled cheese">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Classic_Grilled_Cheese_Sandwich_%2825791331763%29_%28cropped%29.jpg/1200px-Classic_Grilled_Cheese_Sandwich_%2825791331763%29_%28cropped%29.jpg' alt='Grilled cheese'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Classic_Grilled_Cheese_Sandwich_%2825791331763%29_%28cropped%29.jpg/1200px-Classic_Grilled_Cheese_Sandwich_%2825791331763%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grilled Cheese: History Of The Classic Quick Dinner With Infinite ...">
+                                <img itemprop="contentUrl url" src='https://canadatakeout.com/wp-content/uploads/2023/04/grilled-cheese-and-bacon-sandwich-2021-08-26-16-57-53-utc-scaled.jpg' alt='Grilled Cheese: History Of The Classic Quick Dinner With Infinite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canada Takeout" />
+                                </span>
+                                <a href='https://canadatakeout.com/wp-content/uploads/2023/04/grilled-cheese-and-bacon-sandwich-2021-08-26-16-57-53-utc-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Delicious Comfort of a Grilled Cheese Sandwich">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f6b5f83-cbd6-487e-9487-9a6a38de075d_1047x1376.jpeg' alt='The Delicious Comfort of a Grilled Cheese Sandwich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time Travel Kitchen - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f6b5f83-cbd6-487e-9487-9a6a38de075d_1047x1376.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Grilled Cheese Day: Gustidude's ode to the master of ...">
+                                <img itemprop="contentUrl url" src='https://www.austinchronicle.com/binary/7b6e/Grilledcheese.JPG' alt='National Grilled Cheese Day: Gustidude's ode to the master of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="201">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Austin Chronicle" />
+                                </span>
+                                <a href='https://www.austinchronicle.com/binary/7b6e/Grilledcheese.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

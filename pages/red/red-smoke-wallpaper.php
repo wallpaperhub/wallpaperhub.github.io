@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Red Smoke Wallpaper</title>
+                    <meta name="description" content="Discover the allure of red smoke wallpaper! This stylish design adds energy and sophistication to any room. Perfect for home makeovers, it brings a dramatic flair and warmth. Explore our collection to find the perfect match for your decor and transform your living space today!">
+                    <meta name="keywords" content="red smoke wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-smoke-wallpaper">
+                            <span itemprop="name">red smoke wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Red Smoke Wallpaper</h1>
+                <p>Transform your space with our striking red smoke wallpaper. Ideal for adding a bold touch to any room, this design combines elegance and charisma. The swirling patterns evoke a sense of depth and intrigue, perfect for modern interiors. Elevate your decor and create a captivating atmosphere with this unique wallpaper choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/47288/red-smoke.jpg?h=699&q=85' alt='Red Smoke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/47288/red-smoke.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Fiery Red Smoke Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/8/a/9/8a9fd720-9089-46cb-9674-f78ae62111df_large/fiery-red-smoke-stockcake.jpg' alt='Free Fiery Red Smoke Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/8/a/9/8a9fd720-9089-46cb-9674-f78ae62111df_large/fiery-red-smoke-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke Background Stock Illustrations – 96,373 Red Smoke ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dynamic-red-smoke-background-billowing-intertwining-bold-shapes-evoking-energy-passion-striking-contrast-against-338761648.jpg' alt='Red Smoke Background Stock Illustrations – 96,373 Red Smoke ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dynamic-red-smoke-background-billowing-intertwining-bold-shapes-evoking-energy-passion-striking-contrast-against-338761648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/810/551/small/red-smoke-abstract-background-photo.jpg' alt='Red Smoke Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/810/551/small/red-smoke-abstract-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red Smoke Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/red-smoke-background-w3hdwa3nmvwv5apk.jpg' alt='100+] Red Smoke Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/red-smoke-background-w3hdwa3nmvwv5apk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke" Images – Browse 8,142 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/38/41/21/360_F_1138412112_2H5sP7GzMH3G7GGhHok7Ss4lAxTBSevl.jpg' alt='Red Smoke" Images – Browse 8,142 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/38/41/21/360_F_1138412112_2H5sP7GzMH3G7GGhHok7Ss4lAxTBSevl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/color-smoke-abstract-wallpaper-aesthetic-background-design_53876-128271.jpg' alt='Red Smoke Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/color-smoke-abstract-wallpaper-aesthetic-background-design_53876-128271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Smoke Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20191025/pngtree-red-smoke-in-black-background-image_320082.jpg' alt='Red Smoke Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20191025/pngtree-red-smoke-in-black-background-image_320082.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car in Red Smoke · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/6584288/pexels-photo-6584288.jpeg' alt='Car in Red Smoke · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/6584288/pexels-photo-6584288.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Red smoke swirling against black background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4f/42/75/4f427511c71abd2755f81eae4ca18699.jpg' alt='Premium Photo | Red smoke swirling against black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="939">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4f/42/75/4f427511c71abd2755f81eae4ca18699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

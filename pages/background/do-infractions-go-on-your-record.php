@@ -1,0 +1,129 @@
+<title>Do Infractions Impact Your Record? Understanding the Consequences</title>
+                    <meta name="description" content="Learn how infractions affect your record and what you can do to manage them. Explore the differences between minor and major offenses, their impact on insurance rates, and the potential for expungement. Stay informed to protect your legal and driving status.">
+                    <meta name="keywords" content="do infractions go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-infractions-go-on-your-record">
+                            <span itemprop="name">do infractions go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Infractions Impact Your Record? Understanding the Consequences</h1>
+                <p>Infractions, like traffic violations, can appear on your driving record. However, not all infractions are permanent. Minor offenses may be eligible for expungement or removal after a certain period. It's crucial to understand how infractions affect insurance rates and future legal matters, so always check your local regulations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Infraction Expungement | Clear Your Record">
+                                <img itemprop="contentUrl url" src='http://freshstartlawcenter.com/images/Infraction-Expungement-Pric.jpg' alt='California Infraction Expungement | Clear Your Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Start Law Center" />
+                                </span>
+                                <a href='http://freshstartlawcenter.com/images/Infraction-Expungement-Pric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speeding Citation Texas - How Long It Stays On Your Record">
+                                <img itemprop="contentUrl url" src='http://www.pevetolaw.com/wp-content/uploads/2022/12/How-Long-Do-Traffic-Tickets-Stay-On-Your-Record.jpg' alt='Speeding Citation Texas - How Long It Stays On Your Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plano Criminal Defense Lawyers" />
+                                </span>
+                                <a href='http://www.pevetolaw.com/wp-content/uploads/2022/12/How-Long-Do-Traffic-Tickets-Stay-On-Your-Record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a clean driving record? 6 tips for cleaning yours up">
+                                <img itemprop="contentUrl url" src='https://cdn.thezebra.com/zfront/media/production/images/how-much-is-your-dr.format-jpeg.jpegquality-70.width-960.jpg' alt='What is a clean driving record? 6 tips for cleaning yours up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Zebra" />
+                                </span>
+                                <a href='https://cdn.thezebra.com/zfront/media/production/images/how-much-is-your-dr.format-jpeg.jpegquality-70.width-960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Infractions Go on Your Record? The Good News (Civil, Traffic ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Do-Infractions-Go-On-Your-Record.png' alt='Do Infractions Go on Your Record? The Good News (Civil, Traffic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Do-Infractions-Go-On-Your-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a clean driving record? 6 tips for cleaning yours up">
+                                <img itemprop="contentUrl url" src='https://cdn.thezebra.com/zfront/media/production/images/what-youll-find-on-.format-jpeg.jpegquality-70.width-960.jpg' alt='What is a clean driving record? 6 tips for cleaning yours up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Zebra" />
+                                </span>
+                                <a href='https://cdn.thezebra.com/zfront/media/production/images/what-youll-find-on-.format-jpeg.jpegquality-70.width-960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference Between Infraction vs Misdemeanor | Lawrina">
+                                <img itemprop="contentUrl url" src='https://lawrina.org/_next/image/?url=https%3A%2F%2Flawrina-strapi-production.s3.amazonaws.com%2Fblob_1c6fc0cc60&w=828&q=100' alt='Difference Between Infraction vs Misdemeanor | Lawrina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lawrina" />
+                                </span>
+                                <a href='https://lawrina.org/_next/image/?url=https%3A%2F%2Flawrina-strapi-production.s3.amazonaws.com%2Fblob_1c6fc0cc60&w=828&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is the Difference Between an Infraction And A Misdemeanor?">
+                                <img itemprop="contentUrl url" src='https://megeredchianlaw.com/wp-content/uploads/2022/10/infractions-1024x684.jpg' alt='What Is the Difference Between an Infraction And A Misdemeanor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Megeredchian Law" />
+                                </span>
+                                <a href='https://megeredchianlaw.com/wp-content/uploads/2022/10/infractions-1024x684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FL - The status of your license is a result of infractions on your ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fl-the-status-of-your-license-is-a-result-of-infractions-on-v0-nfiorqvcs4xd1.jpeg?width=1080&crop=smart&auto=webp&s=83cab3a55a864a80793af954eb1e8799797998c7' alt='FL - The status of your license is a result of infractions on your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fl-the-status-of-your-license-is-a-result-of-infractions-on-v0-nfiorqvcs4xd1.jpeg?width=1080&crop=smart&auto=webp&s=83cab3a55a864a80793af954eb1e8799797998c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Maintain a Clean Driving Record | SmartFinancial">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/assets.smartfinancial/uploads/1720029044723_mceu_11795115021720029045734.jpg' alt='How To Maintain a Clean Driving Record | SmartFinancial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SmartFinancial" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/assets.smartfinancial/uploads/1720029044723_mceu_11795115021720029045734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ticket a Civil Traffic Ticket or a Traffic Offense ...">
+                                <img itemprop="contentUrl url" src='https://www.contant-law.com/wp-content/uploads/2021/03/Citation_front.jpg' alt='Ticket a Civil Traffic Ticket or a Traffic Offense ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Contant Law, P.C." />
+                                </span>
+                                <a href='https://www.contant-law.com/wp-content/uploads/2021/03/Citation_front.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Join the Fun: Banana Ball Teams!</title>
+                    <meta name="description" content="Discover the exhilarating world of banana ball teams! Experience a fun-filled twist on baseball with unique rules, lively teams, and a vibrant community atmosphere. Perfect for fans of all ages, banana ball brings the joy back to the game!">
+                    <meta name="keywords" content="banana ball teams">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/banana-ball-teams">
+                            <span itemprop="name">banana ball teams</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Join the Fun: Banana Ball Teams!</h1>
+                <p>Banana ball teams are a unique twist on traditional baseball, emphasizing fun and creativity. With quirky rules, vibrant team names like the "Dancing Bananas," and engaging fan experiences, they bring energy and excitement to games. These teams celebrate community spirit while offering a lighthearted take on America's pastime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who are the Savannah Bananas?">
+                                <img itemprop="contentUrl url" src='https://www.mytwintiers.com/wp-content/uploads/sites/89/2023/09/GettyImages-1612477286.jpg?w=2560&h=1440&crop=1' alt='Who are the Savannah Bananas?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WETM" />
+                                </span>
+                                <a href='https://www.mytwintiers.com/wp-content/uploads/sites/89/2023/09/GettyImages-1612477286.jpg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to know: Savannah Bananas open 2023 world tour with 33 cities">
+                                <img itemprop="contentUrl url" src='https://www.savannahnow.com/gcdn/presto/2022/07/07/NSMN/ed907f4d-577f-4a5b-bc89-9482fad7425d-031222_5_Bananas.jpg?crop=2063,1161,x0,y104&width=660&height=371&format=pjpg&auto=webp' alt='What to know: Savannah Bananas open 2023 world tour with 33 cities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Savannah Morning News" />
+                                </span>
+                                <a href='https://www.savannahnow.com/gcdn/presto/2022/07/07/NSMN/ed907f4d-577f-4a5b-bc89-9482fad7425d-031222_5_Bananas.jpg?crop=2063,1161,x0,y104&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Banana Ball? Rules for Baseball's Savannah Bananas - Parade">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk5ODQ4ODM1NzU1ODEyNDgw/banana-ball.jpg' alt='What Is Banana Ball? Rules for Baseball's Savannah Bananas - Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk5ODQ4ODM1NzU1ODEyNDgw/banana-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savannah Bananas on X: "Halfway through the tour, the Party ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F0sBUeiWYAMDrLW.jpg' alt='Savannah Bananas on X: "Halfway through the tour, the Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F0sBUeiWYAMDrLW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More than baseball': how the Savannah Bananas became the greatest ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/4d7b08760f795ae914fe4d7b3bed8284a1bc1a3a/396_597_5604_3362/master/5604.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8e73dc94f8294ac80dc913929a726c90' alt='More than baseball': how the Savannah Bananas became the greatest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/4d7b08760f795ae914fe4d7b3bed8284a1bc1a3a/396_597_5604_3362/master/5604.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8e73dc94f8294ac80dc913929a726c90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet the Savannah Bananas, who wow fans and have MLB's attention ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/c570ce0/2147483647/strip/true/crop/6000x4000+0+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2Fc6%2F9ff6200d463f8c63cda8a8856277%2F956116-sp-0506-savannah-bananas-kkn-21155.jpg' alt='Meet the Savannah Bananas, who wow fans and have MLB's attention ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/c570ce0/2147483647/strip/true/crop/6000x4000+0+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2Fc6%2F9ff6200d463f8c63cda8a8856277%2F956116-sp-0506-savannah-bananas-kkn-21155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hottest Team in Banana Ball | The Firefighters">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SS3T9Vd3KiE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAlZwDBpARl55RwF4LV7X593W4W8g' alt='The Hottest Team in Banana Ball | The Firefighters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SS3T9Vd3KiE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAlZwDBpARl55RwF4LV7X593W4W8g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Savannah Bananas are taking the sports world by storm. : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2023/03/15/savannah-bananas-huddle1-65a4a63889c5d3dd7fde95ce4ad0027db3592c2c.jpg' alt='The Savannah Bananas are taking the sports world by storm. : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5236">
+                                <meta itemprop="height" content="3927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2023/03/15/savannah-bananas-huddle1-65a4a63889c5d3dd7fde95ce4ad0027db3592c2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For the first time in Banana Ball History, we'll be announcing the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3454125753119609376' alt='For the first time in Banana Ball History, we'll be announcing the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3454125753119609376' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us | The Savannah Bananas">
+                                <img itemprop="contentUrl url" src='https://thesavannahbananas.com/wp-content/uploads/2023/11/Bananas-Friday-497-scaled.jpg' alt='About Us | The Savannah Bananas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Savannah Bananas" />
+                                </span>
+                                <a href='https://thesavannahbananas.com/wp-content/uploads/2023/11/Bananas-Friday-497-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

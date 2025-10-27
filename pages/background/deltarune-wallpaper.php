@@ -1,0 +1,129 @@
+<title>Deltarune Wallpaper: Best Designs for Fans</title>
+                    <meta name="description" content="Explore stunning Deltarune wallpapers that will transform your devices! Choose from a variety of unique designs featuring beloved characters and scenes from the game. Perfect for fans looking to personalize their screens with high-quality imagery. Download your favorite today!">
+                    <meta name="keywords" content="deltarune wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/deltarune-wallpaper">
+                            <span itemprop="name">deltarune wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deltarune Wallpaper: Best Designs for Fans</h1>
+                <p>Discover vibrant Deltarune wallpapers that bring the unique characters and enchanting worlds of the game to your screen. Explore a variety of designs, from pixel art to stunning illustrations, perfect for fans and newcomers alike. Customize your devices with high-quality images and immerse yourself in the Deltarune universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recreated animated wallpaper (1920x1080) from DELTARUNE menu for ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hx2er6ahcrv11.gif?width=600&auto=webp&s=055bc4f4d72ba61da589e76cae161e58e5f91a5a' alt='Recreated animated wallpaper (1920x1080) from DELTARUNE menu for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hx2er6ahcrv11.gif?width=600&auto=webp&s=055bc4f4d72ba61da589e76cae161e58e5f91a5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deltarune Desktop Backgrounds in different Colours! My first Post ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/deltarune-desktop-backgrounds-in-different-colours-my-first-v0-ktzy0vufsqa91.png?width=3840&format=png&auto=webp&s=398091636778b0955348c90a3aa08bbdc9e6e7b4' alt='Deltarune Desktop Backgrounds in different Colours! My first Post ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/deltarune-desktop-backgrounds-in-different-colours-my-first-v0-ktzy0vufsqa91.png?width=3840&format=png&auto=webp&s=398091636778b0955348c90a3aa08bbdc9e6e7b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Adventures Of Deltarune Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-adventures-of-deltarune-va8onvehx9jg3tqa.jpg' alt='Explore The Adventures Of Deltarune Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-adventures-of-deltarune-va8onvehx9jg3tqa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Power of Cool Wallpapers Shine Within Your Phone! (Original ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4f3e9n34y2881.png' alt='The Power of Cool Wallpapers Shine Within Your Phone! (Original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4f3e9n34y2881.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Susie (deltarune) Kris (deltarune) Video Game Deltarune ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/131/1315322.jpeg' alt='Download Susie (deltarune) Kris (deltarune) Video Game Deltarune ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4093">
+                                <meta itemprop="height" content="2894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/131/1315322.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light And Darkness Collide As Two Deltarune Heroes Find Themselves ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-and-darkness-collide-as-two-deltarune-heroes-find-themselves-in-battle-against-a-mysterious-force-aliqfub1bewvs4i5.jpg' alt='Light And Darkness Collide As Two Deltarune Heroes Find Themselves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-and-darkness-collide-as-two-deltarune-heroes-find-themselves-in-battle-against-a-mysterious-force-aliqfub1bewvs4i5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Deltarune Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/deltarune-poz7szusxkepaozv.jpg' alt='100+] Deltarune Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/deltarune-poz7szusxkepaozv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Deltarune Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/deltarune-pictures-0svqna9mlpr2ds7a.jpg' alt='100+] Deltarune Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/deltarune-pictures-0svqna9mlpr2ds7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Workshop Steam::DELTARUNE">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2202883306567856451/94605F55F65C0A7D7CA6FF3C376722B87EBF2AB8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Workshop Steam::DELTARUNE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2202883306567856451/94605F55F65C0A7D7CA6FF3C376722B87EBF2AB8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kris (deltarune) Video Game Deltarune 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/131/1315306.jpeg' alt='Download Kris (deltarune) Video Game Deltarune 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4093">
+                                <meta itemprop="height" content="2894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/131/1315306.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

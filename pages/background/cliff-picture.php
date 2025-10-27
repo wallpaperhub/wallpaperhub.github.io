@@ -1,0 +1,129 @@
+<title>Stunning Cliff Pictures: Nature's Majestic Beauty</title>
+                    <meta name="description" content="Discover breathtaking cliff pictures that highlight nature's grandeur. From rugged coastlines to mountain vistas, our collection showcases the awe-inspiring beauty of cliffs. Perfect for nature lovers and photography enthusiasts! Explore now to find inspiration in every angle.">
+                    <meta name="keywords" content="cliff picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cliff-picture">
+                            <span itemprop="name">cliff picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cliff Pictures: Nature's Majestic Beauty</h1>
+                <p>A cliff picture can capture the raw beauty of nature, showcasing towering rock faces against a stunning backdrop. Whether it’s the jagged coastline meeting the waves, or a majestic mountain range piercing the sky, these images evoke feelings of awe and adventure. Explore the power and tranquility that cliffs can inspire in your photography.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="925,600+ Ocean Cliff Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/154996769/photo/cliffs-of-moher.jpg?s=612x612&w=0&k=20&c=53GOeEkG8GFBQyj8-P0qIgs4I1kZXaz0894tRXn7n-4=' alt='925,600+ Ocean Cliff Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/154996769/photo/cliffs-of-moher.jpg?s=612x612&w=0&k=20&c=53GOeEkG8GFBQyj8-P0qIgs4I1kZXaz0894tRXn7n-4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,851,900+ Cliff Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/497256652/photo/travel-to-norway-person-looking-on-the-fjords.jpg?s=612x612&w=0&k=20&c=4fWDJ4J68fgTaS7wsbIR3_WStPqp74PSk3HwEO6r73s=' alt='1,851,900+ Cliff Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/497256652/photo/travel-to-norway-person-looking-on-the-fjords.jpg?s=612x612&w=0&k=20&c=4fWDJ4J68fgTaS7wsbIR3_WStPqp74PSk3HwEO6r73s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cliff Photos, Download The BEST Free Cliff Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/614495/pexels-photo-614495.jpeg?cs=srgb&dl=pexels-tiana-18128-614495.jpg&fm=jpg' alt='Cliff Photos, Download The BEST Free Cliff Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3872">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/614495/pexels-photo-614495.jpeg?cs=srgb&dl=pexels-tiana-18128-614495.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Epic Coastal Cliffs">
+                                <img itemprop="contentUrl url" src='https://www.treehugger.com/thmb/pYHWwiTZ1f9N5RgG-ZRC-xDn-PM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-520365413-abfd9955eb1144e282cdea3c6a693cf1.jpg' alt='10 Epic Coastal Cliffs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treehugger" />
+                                </span>
+                                <a href='https://www.treehugger.com/thmb/pYHWwiTZ1f9N5RgG-ZRC-xDn-PM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-520365413-abfd9955eb1144e282cdea3c6a693cf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Stunning Latrabjarg Sea Cliffs | Westfjords | Iceland Travel">
+                                <img itemprop="contentUrl url" src='https://www.icelandtravel.is/_next/image/?url=https%3A%2F%2Fcontent.icelandtravel.is%2Fwp-content%2Fuploads%2F2018%2F02%2Ffile-908.jpg&w=3840&q=75' alt='The Stunning Latrabjarg Sea Cliffs | Westfjords | Iceland Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iceland Travel" />
+                                </span>
+                                <a href='https://www.icelandtravel.is/_next/image/?url=https%3A%2F%2Fcontent.icelandtravel.is%2Fwp-content%2Fuploads%2F2018%2F02%2Ffile-908.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cliff Photos, Download The BEST Free Cliff Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/259425/pexels-photo-259425.jpeg?cs=srgb&dl=pexels-pixabay-259425.jpg&fm=jpg' alt='Cliff Photos, Download The BEST Free Cliff Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/259425/pexels-photo-259425.jpeg?cs=srgb&dl=pexels-pixabay-259425.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cliff">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638886113/EducationHub/photos/dun-aengus.jpg' alt='Cliff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638886113/EducationHub/photos/dun-aengus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Mountain Cliff Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1509149037-37dc57ccbd13?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW4lMjBjbGlmZnxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Mountain Cliff Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1509149037-37dc57ccbd13?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW4lMjBjbGlmZnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="119,516 Cliff Field Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/steep-cliffs-faroe-islands-green-600nw-1547344433.jpg' alt='119,516 Cliff Field Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/steep-cliffs-faroe-islands-green-600nw-1547344433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Cliff Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-shot-high-rock-sea_181624-331.jpg' alt='A Cliff Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-shot-high-rock-sea_181624-331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

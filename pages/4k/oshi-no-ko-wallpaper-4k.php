@@ -1,0 +1,129 @@
+<title>Stunning 4K Oshi no Ko Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover amazing 4K wallpapers of "Oshi no Ko"! Transform your device with captivating and high-resolution images of beloved characters and stunning scenes. Perfect for fans who want to keep the anime's beauty at their fingertips. Download now and elevate your screen experience!">
+                    <meta name="keywords" content="oshi no ko wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/oshi-no-ko-wallpaper-4k">
+                            <span itemprop="name">oshi no ko wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Oshi no Ko Wallpapers for Your Device</h1>
+                <p>Experience the vibrant world of "Oshi no Ko" with stunning 4K wallpapers that bring your favorite characters to life! Perfect for desktop and mobile devices, these high-resolution images showcase the anime's breathtaking art style and emotional depth. Enhance your screens with captivating visuals that immerse you in the story!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="380+] Oshi No Ko Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/f4/8f/88f48f94c2b60bb17a009a1513c53716.jpg' alt='380+] Oshi No Ko Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/f4/8f/88f48f94c2b60bb17a009a1513c53716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ai Hoshino Wallpaper 4K, Oshi no Ko, Anime girl, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ai-hoshino-oshi-no-3840x2160-16193.jpg' alt='Ai Hoshino Wallpaper 4K, Oshi no Ko, Anime girl, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ai-hoshino-oshi-no-3840x2160-16193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oshi no Ko Wallpaper 4K, Anime girl, Ai Hoshino, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/oshi-no-ko-anime-3840x2160-16194.jpg' alt='Oshi no Ko Wallpaper 4K, Anime girl, Ai Hoshino, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/oshi-no-ko-anime-3840x2160-16194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="380+] Oshi No Ko Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/134/1343080.jpeg' alt='380+] Oshi No Ko Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="1949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/134/1343080.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oshi no Ko 1080P, 2K, 4K, 5K HD wallpapers free download ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/237/280/1007/oshi-no-ko-anime-girls-hd-wallpaper-preview.jpg' alt='Oshi no Ko 1080P, 2K, 4K, 5K HD wallpapers free download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/237/280/1007/oshi-no-ko-anime-girls-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Oshi No Ko 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2049743254957124665/C0266F78093483B70352C18DCA8E47C79D330307/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Oshi No Ko 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2049743254957124665/C0266F78093483B70352C18DCA8E47C79D330307/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOP 10 Oshi no Ko Live Wallpaper From Wallpaper Engine.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oWcc_XlJnEo/maxresdefault.jpg' alt='TOP 10 Oshi no Ko Live Wallpaper From Wallpaper Engine.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oWcc_XlJnEo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made An Oshi no ko wallpaper kinda cause I was bored : r/OshiNoKo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lkgtbacihfw81.jpg' alt='Made An Oshi no ko wallpaper kinda cause I was bored : r/OshiNoKo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lkgtbacihfw81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ai Hoshino Oshi No Ko 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/132/1329792.png' alt='Download Ai Hoshino Oshi No Ko 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/132/1329792.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oshi no Ko 1080P, 2K, 4K, 5K HD wallpapers free download ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/678/860/992/oshi-no-ko-star-eyes-hd-wallpaper-preview.jpg' alt='Oshi no Ko 1080P, 2K, 4K, 5K HD wallpapers free download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/678/860/992/oshi-no-ko-star-eyes-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

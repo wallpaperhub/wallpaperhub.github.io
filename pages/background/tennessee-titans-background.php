@@ -1,0 +1,129 @@
+<title>Tennessee Titans: Team History & Highlights</title>
+                    <meta name="description" content="Explore the rich history of the Tennessee Titans, from their origins as the Houston Oilers to their current status in the NFL. Discover key moments, team colors, and their unforgettable Super Bowl journey. Perfect for Titans fans and football enthusiasts!">
+                    <meta name="keywords" content="tennessee titans background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tennessee-titans-background">
+                            <span itemprop="name">tennessee titans background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tennessee Titans: Team History & Highlights</h1>
+                <p>The Tennessee Titans are a professional football team based in Nashville, Tennessee. Established in 1960 as the Houston Oilers, they became the Titans in 1999 after relocating. Known for their blue, navy, and white colors, they play at Nissan Stadium and have made multiple playoff appearances, including a Super Bowl appearance in 2000.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tennessee Titans Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tennessee-titans-v2t675rvi4psnmxw.jpg' alt='100+] Tennessee Titans Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tennessee-titans-v2t675rvi4psnmxw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Tennessee Titans Backgrounds - 2025 NFL Football Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/3f/be/b13fbe7996fd1517b9a0a3d52ef20470.jpg' alt='HD Tennessee Titans Backgrounds - 2025 NFL Football Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/3f/be/b13fbe7996fd1517b9a0a3d52ef20470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Tennessee Titans wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Tennessee-Titans-wallpaper-logo-mobile-NFL-2024.png' alt='2025 Tennessee Titans wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Tennessee-Titans-wallpaper-logo-mobile-NFL-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Emblem Logo NFL Tennessee Titans Sports HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/981/981702.png' alt='Download Emblem Logo NFL Tennessee Titans Sports HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/981/981702.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennessee Titans Sports Team Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tennessee-titans-sports-team-q1akw2i4zy1z0nli.jpg' alt='Tennessee Titans Sports Team Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tennessee-titans-sports-team-q1akw2i4zy1z0nli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds Tennessee Titans HD - 2024 NFL Football Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/4f/9c/114f9c5028433be9265e12013269b2e7.jpg' alt='Backgrounds Tennessee Titans HD - 2024 NFL Football Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/4f/9c/114f9c5028433be9265e12013269b2e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tn Titans Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tn-titans-iphone-eup4fgvjnauz5ttt.jpg' alt='100+] Tn Titans Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tn-titans-iphone-eup4fgvjnauz5ttt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Latest Tennessee Titans News | EssentiallySports">
+                                <img itemprop="contentUrl url" src='https://www.essentiallysports.com/wp-content/uploads/tennesse.jpg' alt='Latest Tennessee Titans News | EssentiallySports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EssentiallySports" />
+                                </span>
+                                <a href='https://www.essentiallysports.com/wp-content/uploads/tennesse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titans Activate RB Derrick Henry From Injured Reserve">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/titans/kyuwglxpu6uvwbxfypbu.jpg' alt='Titans Activate RB Derrick Henry From Injured Reserve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tennessee Titans" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/titans/kyuwglxpu6uvwbxfypbu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Tennessee Titans wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Tennessee-Titans-wallpaper-logo-geometric-desktop-NFL-2024.jpg' alt='2025 Tennessee Titans wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Tennessee-Titans-wallpaper-logo-geometric-desktop-NFL-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

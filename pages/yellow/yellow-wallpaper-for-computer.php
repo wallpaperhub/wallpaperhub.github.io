@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Wallpaper for Your Computer</title>
+                    <meta name="description" content="Discover the perfect yellow wallpaper for your computer! Brighten up your workspace with vibrant designs that enhance creativity and energy. Easy to download and customize, our wallpapers are optimized for a refreshing and inviting digital environment. Transform your screen today!">
+                    <meta name="keywords" content="yellow wallpaper for computer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-wallpaper-for-computer">
+                            <span itemprop="name">yellow wallpaper for computer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Wallpaper for Your Computer</h1>
+                <p>Yellow wallpaper for computer provides a vibrant and uplifting backdrop for your digital workspace. It's perfect for adding a splash of color to your desktop, enhancing creativity and mood. With various designs available, you can customize your computer's appearance effortlessly. Transform your screen and enjoy a cheerful ambiance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unique Line Art Graphics Cute Yellow Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/unique-line-art-graphics-cute-yellow-mk655ggc39v2i5go.jpg' alt='Unique Line Art Graphics Cute Yellow Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/unique-line-art-graphics-cute-yellow-mk655ggc39v2i5go.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/04/large-33.jpg' alt='Yellow Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/04/large-33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400,000+ Free Yellow Wallpaper & Yellow Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/12/06/16/12/birds-3860034_1280.jpg' alt='400,000+ Free Yellow Wallpaper & Yellow Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/12/06/16/12/birds-3860034_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Yellow Desktop Wallpaper - Digital Drawings & Illustrations - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13577914/r/il/d78727/4252490583/il_1080xN.4252490583_9rjc.jpg' alt='Aesthetic Yellow Desktop Wallpaper - Digital Drawings & Illustrations - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13577914/r/il/d78727/4252490583/il_1080xN.4252490583_9rjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1037998/pexels-photo-1037998.jpeg?cs=srgb&dl=pexels-moose-photos-170195-1037998.jpg&fm=jpg' alt='Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1037998/pexels-photo-1037998.jpeg?cs=srgb&dl=pexels-moose-photos-170195-1037998.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Desktop Wallpaper:)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/0f/6a/790f6a042734446a843829ee516734c7.jpg' alt='Yellow Aesthetic Desktop Wallpaper:)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/0f/6a/790f6a042734446a843829ee516734c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Yellow Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-yellow-desktop-wallpaper-79ld9clfbw2kxzt6.jpg' alt='100+] Cute Yellow Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-yellow-desktop-wallpaper-79ld9clfbw2kxzt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic White Flowers For Computer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yellow-aesthetic-white-flowers-for-computer-l3kpdglzxynen3pw.jpg' alt='Yellow Aesthetic White Flowers For Computer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yellow-aesthetic-white-flowers-for-computer-l3kpdglzxynen3pw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Laptop/Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30923035/r/il/03b1c5/3199603048/il_570xN.3199603048_gdtk.jpg' alt='Yellow Aesthetic Laptop/Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30923035/r/il/03b1c5/3199603048/il_570xN.3199603048_gdtk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Cute, Bright and Cheery Desktop Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-yellow-desktop-wallpaper-316yimqt5uyiw5qb.jpg' alt='Download A Cute, Bright and Cheery Desktop Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-yellow-desktop-wallpaper-316yimqt5uyiw5qb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Space Dog Wallpaper: Cosmic Canine Decor</title>
+                    <meta name="description" content="Explore our whimsical space dog wallpaper collection! Perfect for adding a unique touch to any room, these designs feature adventurous pups amongst stars and planets. Bring creativity and joy into your space. Ideal for kids and adults alike—perfect for a galactic home transformation!">
+                    <meta name="keywords" content="space dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-dog-wallpaper">
+                            <span itemprop="name">space dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Space Dog Wallpaper: Cosmic Canine Decor</h1>
+                <p>Transform your space with adorable space dog wallpaper that brings a cosmic vibe to your home! Featuring playful pups in spacesuits and celestial backgrounds, these designs spark joy and imagination. Perfect for kids' rooms or a fun adult space, let your walls take you on an outer-world journey every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="227,700+ Space Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/898916798/photo/portrait-of-a-dog-astronaut-in-space-on-background-of-the-globe-elements-of-this-image.jpg?s=612x612&w=0&k=20&c=AVPn_D80n5blmw_mK5zJa8jE9bxeQGQT3bFMT0cmmLY=' alt='227,700+ Space Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/898916798/photo/portrait-of-a-dog-astronaut-in-space-on-background-of-the-globe-elements-of-this-image.jpg?s=612x612&w=0&k=20&c=AVPn_D80n5blmw_mK5zJa8jE9bxeQGQT3bFMT0cmmLY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cosmos background space dog Shamudy Print">
+                                <img itemprop="contentUrl url" src='https://img.cdn-pictorem.com/uploads/collection/F/FU9NME7UUL/900_Shamudy_cosmos-background-space-dog.jpg' alt='cosmos background space dog Shamudy Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictorem.com" />
+                                </span>
+                                <a href='https://img.cdn-pictorem.com/uploads/collection/F/FU9NME7UUL/900_Shamudy_cosmos-background-space-dog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: dog space">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/a0/5e/61a05ead808ead051787f99671d3fb75.jpg' alt='HD wallpaper: dog space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/a0/5e/61a05ead808ead051787f99671d3fb75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Space Dog with Moon and Rockets Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/k/i/kids-space-wallpaper-for-boys-rocke_dog-wall_g08kawl2bqrjzn_3d_3d_0.jpg' alt='Kids Space Dog with Moon and Rockets Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/k/i/kids-space-wallpaper-for-boys-rocke_dog-wall_g08kawl2bqrjzn_3d_3d_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="puppy in space. [1920×1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/k34bq0j4dsw61.jpg' alt='puppy in space. [1920×1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/k34bq0j4dsw61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dog_space_flight_sky_bone_suit_63599_640x1136">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/57/7f/9b577fddf93719ecf8d3684d05002e51.jpg' alt='dog_space_flight_sky_bone_suit_63599_640x1136'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/57/7f/9b577fddf93719ecf8d3684d05002e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="596 Dog Astronaut Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dog-astronaut-exploring-starry-galaxy-planets-golden-wearing-spacesuit-colorful-nebulae-345418404.jpg' alt='596 Dog Astronaut Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dog-astronaut-exploring-starry-galaxy-planets-golden-wearing-spacesuit-colorful-nebulae-345418404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A man and a dog in space, anime art, full screen desktop wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/oQ_DPp-gWp6O6VRq1PLlIQ_ahXAwGMgCrIAxElc0CUU.jpg?width=640&crop=smart&auto=webp&s=8b726fafc24c1e17180da666f8708a1a8a8e9608' alt='A man and a dog in space, anime art, full screen desktop wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/oQ_DPp-gWp6O6VRq1PLlIQ_ahXAwGMgCrIAxElc0CUU.jpg?width=640&crop=smart&auto=webp&s=8b726fafc24c1e17180da666f8708a1a8a8e9608' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Astronaut Dog Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/adorable-astronaut-dog-aol2ofw3bbhcb8b1-3.jpg' alt='Adorable Astronaut Dog Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/adorable-astronaut-dog-aol2ofw3bbhcb8b1-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD space dog wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/129/462/HD-wallpaper-laika-dog-animals-space-space-art-universe-sputnik-space-travel-space-shuttle-portrait-illustration-thumbnail.jpg' alt='HD space dog wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/129/462/HD-wallpaper-laika-dog-animals-space-space-art-universe-sputnik-space-travel-space-shuttle-portrait-illustration-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

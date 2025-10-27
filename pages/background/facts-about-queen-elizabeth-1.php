@@ -1,0 +1,129 @@
+<title>Discover Fascinating Facts About Queen Elizabeth I</title>
+                    <meta name="description" content="Explore intriguing facts about Queen Elizabeth I, the remarkable last Tudor monarch. Learn about her reign, political brilliance, and lasting impact on culture, including her connection to Shakespeare and the arts. Delve into her life and legacy in this concise overview.">
+                    <meta name="keywords" content="facts about queen elizabeth 1">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-queen-elizabeth-1">
+                            <span itemprop="name">facts about queen elizabeth 1</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating Facts About Queen Elizabeth I</h1>
+                <p>Queen Elizabeth I, the last Tudor monarch, reigned from 1558 to 1603, known as the Elizabethan Era. She was the daughter of Henry VIII and Anne Boleyn. Famous for her intelligence and political acumen, she never married, earning the title “The Virgin Queen.” Elizabeth’s reign saw flourishing arts, with Shakespeare at the fore.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elizabeth I | Biography, Facts, Mother, & Death | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/85/285-050-EB9954ED/Elizabeth-I-oil-panel-George-Gower-1588.jpg' alt='Elizabeth I | Biography, Facts, Mother, & Death | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/85/285-050-EB9954ED/Elizabeth-I-oil-panel-George-Gower-1588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen Elizabeth the First Biography for Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0591/9493/articles/Queen-Elizabeth-the-First.jpg?v=1604302067' alt='Queen Elizabeth the First Biography for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lottie Dolls" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0591/9493/articles/Queen-Elizabeth-the-First.jpg?v=1604302067' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen Elizabeth I facts and myths | Royal Museums Greenwich">
+                                <img itemprop="contentUrl url" src='https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/L9995-001_ElizI_ArmadaPortrait_1224x800.jpg?itok=9nJNXfpN' alt='Queen Elizabeth I facts and myths | Royal Museums Greenwich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Museums Greenwich" />
+                                </span>
+                                <a href='https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/L9995-001_ElizI_ArmadaPortrait_1224x800.jpg?itok=9nJNXfpN' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elizabeth I: facts for kids | National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-3.jpg' alt='Elizabeth I: facts for kids | National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Amazing Facts About Queen Elizabeth I">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01jaze0n1qvnbpkfnteh.jpg' alt='15 Amazing Facts About Queen Elizabeth I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01jaze0n1qvnbpkfnteh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen Elizabeth I - Siblings, Reign & Death">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/queenelizabeth_facts_desktop.jpg' alt='Queen Elizabeth I - Siblings, Reign & Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/queenelizabeth_facts_desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Elizabeth I | History Hit">
+                                <img itemprop="contentUrl url" src='https://www.historyhit.com/app/uploads/2020/07/elizabeth-i-hampden-portrait-3.jpg' alt='10 Facts About Elizabeth I | History Hit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Hit" />
+                                </span>
+                                <a href='https://www.historyhit.com/app/uploads/2020/07/elizabeth-i-hampden-portrait-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elizabeth I: facts for kids | National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-4.jpg' alt='Elizabeth I: facts for kids | National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elizabeth I - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg' alt='Elizabeth I - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="2313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elizabeth I: facts for kids | National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-1.jpg' alt='Elizabeth I: facts for kids | National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://cdn.creatureandcoagency.com/uploads/2018/02/Elizabeth-I-facts-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

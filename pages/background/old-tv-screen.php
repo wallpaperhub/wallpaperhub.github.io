@@ -1,0 +1,129 @@
+<title>Rediscovering the Charm of Old TV Screens</title>
+                    <meta name="description" content="Explore the nostalgia and charm of old TV screens. Discover their role in entertainment history, from bulky designs to collector's items. Join us in reminiscing about a simpler time and the evolution of viewing technology. Perfect for vintage enthusiasts!">
+                    <meta name="keywords" content="old tv screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-tv-screen">
+                            <span itemprop="name">old tv screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rediscovering the Charm of Old TV Screens</h1>
+                <p>Old TV screens evoke nostalgia, reminding us of a bygone era where screens were bulky and the picture quality was often grainy. These retro devices, once the center of family entertainment, are now collectibles. They symbolize the evolution of technology and a simpler time, making them a cherished piece of many homes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/175496278/photo/vintage-tv-with-blank-screen.jpg?s=612x612&w=0&k=20&c=CaaWSUurMkmC8K_Tet9KMWekf2nlmWHQG_XHoQTy128=' alt='16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/175496278/photo/vintage-tv-with-blank-screen.jpg?s=612x612&w=0&k=20&c=CaaWSUurMkmC8K_Tet9KMWekf2nlmWHQG_XHoQTy128=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old tv found working somewhat in my grandmas house (Rip)don't know ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9qlbmkyc9q9a1.jpg' alt='Old tv found working somewhat in my grandmas house (Rip)don't know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9qlbmkyc9q9a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184988042/photo/early-1980s-blank-computer-screen-looks-like-early-tv-set.jpg?s=612x612&w=0&k=20&c=bWc8U80aqIS8HjVqDPDqXViCJKt7EmGapE5VO_DvepI=' alt='16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184988042/photo/early-1980s-blank-computer-screen-looks-like-early-tv-set.jpg?s=612x612&w=0&k=20&c=bWc8U80aqIS8HjVqDPDqXViCJKt7EmGapE5VO_DvepI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Of Old Television Stock Photo, Picture and Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/suljo/suljo0903/suljo090300001/4410106-broken-screen-of-old-television.jpg' alt='Broken Screen Of Old Television Stock Photo, Picture and Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/suljo/suljo0903/suljo090300001/4410106-broken-screen-of-old-television.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody remember rubbing your hand across the TV screen static ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/WtVDrR0qfR1H8halXGpXLoE8vxPpaCyXUI09hDdCDuI.jpg?width=1080&crop=smart&auto=webp&s=1e4f194cbd7f2977f1deefc4174335c0d128fabd' alt='Anybody remember rubbing your hand across the TV screen static ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/WtVDrR0qfR1H8halXGpXLoE8vxPpaCyXUI09hDdCDuI.jpg?width=1080&crop=smart&auto=webp&s=1e4f194cbd7f2977f1deefc4174335c0d128fabd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Tv Glitch Screen Include Tv Stock Photo 1215420319 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1215420319/display_1500/stock-photo-old-tv-with-glitch-screen-include-tv-screen-texture-1215420319.jpg' alt='Old Tv Glitch Screen Include Tv Stock Photo 1215420319 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1215420319/display_1500/stock-photo-old-tv-with-glitch-screen-include-tv-screen-texture-1215420319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Tv Screen Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/919/558/small/retro-tv-green-screen-4k-hd-resolution-free-video.jpg' alt='Old Tv Screen Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/919/558/small/retro-tv-green-screen-4k-hd-resolution-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Television High fidelity, Old TV , powered-on vintage TV ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/23/cf/2f23cf686d13803ca3d5010bacceb538.jpg' alt='Television High fidelity, Old TV , powered-on vintage TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/23/cf/2f23cf686d13803ca3d5010bacceb538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/471372185/photo/television-texture.jpg?s=612x612&w=0&k=20&c=0SWhrEW8gy3MKPtV7RVzeJxBgBv6JAXGA93FmqVRyKE=' alt='16,100+ Old Tv Screen Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/471372185/photo/television-texture.jpg?s=612x612&w=0&k=20&c=0SWhrEW8gy3MKPtV7RVzeJxBgBv6JAXGA93FmqVRyKE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old TV Television Empty Screen (PNG Transparent) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2024/07/old-tv-television-empty-screen-1-cover.jpg' alt='Old TV Television Empty Screen (PNG Transparent) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2024/07/old-tv-television-empty-screen-1-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Brazil Football Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover vibrant Brazil football wallpaper that brings the passion of the game into your home. Perfect for fans looking to celebrate their love for Brazilian football, these stunning designs will transform any room with color and energy. Shop now for the ultimate sports decor!">
+                    <meta name="keywords" content="brazil wallpaper football">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/brazil-wallpaper-football">
+                            <span itemprop="name">brazil wallpaper football</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brazil Football Wallpaper: Brighten Your Space</h1>
+                <p>Elevate your space with Brazil football wallpaper, showcasing vibrant colors and iconic moments from the beautiful game. Perfect for fans, these wallpapers embody the passion and spirit of Brazilian football. Transform your room into a tribute to the sport, igniting joy and excitement every time you walk in.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Brazil">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/68/38/3f683843973945b8d95170a20dd78c4b.jpg' alt='Wallpaper Brazil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/68/38/3f683843973945b8d95170a20dd78c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil National Football Team Hall Of Fame Players Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brazil-national-football-team-hall-of-fame-players-t0xddwnsw6y45tyi.jpg' alt='Brazil National Football Team Hall Of Fame Players Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1765">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brazil-national-football-team-hall-of-fame-players-t0xddwnsw6y45tyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil World Cup 2018 Phone Wallpaper by GraphicSamHD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7bd2f4fc-1c76-4bf6-999f-e85e1d631ee2/dcekspa-faae3b33-2252-4a35-8a3d-9232162f123c.jpg/v1/fill/w_1024,h_1821,q_75,strp/brazil_world_cup_2018_phone_wallpaper_by_graphicsamhd_dcekspa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzdiZDJmNGZjLTFjNzYtNGJmNi05OTlmLWU4NWUxZDYzMWVlMlwvZGNla3NwYS1mYWFlM2IzMy0yMjUyLTRhMzUtOGEzZC05MjMyMTYyZjEyM2MuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nvCIJmEqUMoDPQKWpuQ_fGPqnmO-bV27wGnEznmuhNs' alt='Brazil World Cup 2018 Phone Wallpaper by GraphicSamHD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7bd2f4fc-1c76-4bf6-999f-e85e1d631ee2/dcekspa-faae3b33-2252-4a35-8a3d-9232162f123c.jpg/v1/fill/w_1024,h_1821,q_75,strp/brazil_world_cup_2018_phone_wallpaper_by_graphicsamhd_dcekspa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzdiZDJmNGZjLTFjNzYtNGJmNi05OTlmLWU4NWUxZDYzMWVlMlwvZGNla3NwYS1mYWFlM2IzMy0yMjUyLTRhMzUtOGEzZC05MjMyMTYyZjEyM2MuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nvCIJmEqUMoDPQKWpuQ_fGPqnmO-bV27wGnEznmuhNs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil National Football Team Game Faces Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brazil-national-football-team-game-faces-omcaj1j7gvddwzu4.jpg' alt='Brazil National Football Team Game Faces Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brazil-national-football-team-game-faces-omcaj1j7gvddwzu4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Brazil National Football Team Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/brazil-national-football-team-4r51yfnjucjk63fe.jpg' alt='200+] Brazil National Football Team Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/brazil-national-football-team-4r51yfnjucjk63fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil National Football Team 1080P, 2K, 4K, 5K HD wallpapers free ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/612/331/706/soccer-neymar-brazil-national-football-team-hd-wallpaper-preview.jpg' alt='Brazil National Football Team 1080P, 2K, 4K, 5K HD wallpapers free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/612/331/706/soccer-neymar-brazil-national-football-team-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil National Football Team HD Wallpapers - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91W3fV+2ZzL.png' alt='Brazil National Football Team HD Wallpapers - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91W3fV+2ZzL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil Football wallpaper by ElnazTajaddod - Download on ZEDGE™ | 7767">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/8d/c5/f18dc51533e1dd9dfa2d0d3f6d1769f8.jpg' alt='Brazil Football wallpaper by ElnazTajaddod - Download on ZEDGE™ | 7767'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/8d/c5/f18dc51533e1dd9dfa2d0d3f6d1769f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brazil Football Team Wallpapers - Top 30 Best Brazil Football Team ...">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/wp-content/uploads/2022/11/Brazil-Football-Team-Wallpaper.jpg' alt='Brazil Football Team Wallpapers - Top 30 Best Brazil Football Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/wp-content/uploads/2022/11/Brazil-Football-Team-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Emblem Logo Soccer Brazil Brazil National Football Team ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/978/978923.jpg' alt='Download Emblem Logo Soccer Brazil Brazil National Football Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/978/978923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

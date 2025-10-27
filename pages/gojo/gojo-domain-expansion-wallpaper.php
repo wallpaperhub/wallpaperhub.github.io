@@ -1,0 +1,129 @@
+<title>Stunning Gojo Domain Expansion Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a vibrant collection of Gojo Domain Expansion wallpapers perfect for any fan. Dive into the world of Jujutsu Kaisen and transform your device with eye-catching designs and visuals inspired by Gojo Satoru. Download your favorite wallpapers now and showcase your anime love!">
+                    <meta name="keywords" content="gojo domain expansion wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo">
+                            <span itemprop="name">Gojo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo/gojo-domain-expansion-wallpaper">
+                            <span itemprop="name">gojo domain expansion wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gojo Domain Expansion Wallpapers for Your Device</h1>
+                <p>Explore stunning Gojo Domain Expansion wallpapers that capture the essence of your favorite anime character. From vibrant colors to intricate designs, our collection showcases the world of Jujutsu Kaisen like never before. Elevate your device's background and immerse yourself in the power of Gojo Satoru's techniques with these unique wallpapers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Domain Expansion (Jujutsu Kaisen) Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://image-0.uhdpaper.com/wallpaper/satoru-gojo-domain-expansion-jujutsu-kaisen-4k-wallpaper-uhdpaper.com-545@0@e.jpg' alt='Satoru Gojo Domain Expansion (Jujutsu Kaisen) Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-0.uhdpaper.com/wallpaper/satoru-gojo-domain-expansion-jujutsu-kaisen-4k-wallpaper-uhdpaper.com-545@0@e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOJO, cursed spirits, domain expansion, hollow purple, jujutsu ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/112/868/HD-wallpaper-gojo-cursed-spirits-domain-expansion-hollow-purple-jujutsu-kaisen-void.jpg' alt='GOJO, cursed spirits, domain expansion, hollow purple, jujutsu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/112/868/HD-wallpaper-gojo-cursed-spirits-domain-expansion-hollow-purple-jujutsu-kaisen-void.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Domain Expansion Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12325840.jpg' alt='Gojo Domain Expansion Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12325840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Domain Expansion by zthunderedmm on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d1096d5-7fd4-4e98-b45c-4be18f9f4ca9/df3e29k-a7f44cf9-321f-4077-875f-945566753add.jpg/v1/fill/w_1280,h_800,q_75,strp/gojo_satoru_domain_expansion_by_zthunderedmm_df3e29k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNmQxMDk2ZDUtN2ZkNC00ZTk4LWI0NWMtNGJlMThmOWY0Y2E5XC9kZjNlMjlrLWE3ZjQ0Y2Y5LTMyMWYtNDA3Ny04NzVmLTk0NTU2Njc1M2FkZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gOZ6PKP46cg9A1XBOrRKuLj82rMBaYa3wnxaUV44TXE' alt='Gojo Satoru Domain Expansion by zthunderedmm on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d1096d5-7fd4-4e98-b45c-4be18f9f4ca9/df3e29k-a7f44cf9-321f-4077-875f-945566753add.jpg/v1/fill/w_1280,h_800,q_75,strp/gojo_satoru_domain_expansion_by_zthunderedmm_df3e29k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNmQxMDk2ZDUtN2ZkNC00ZTk4LWI0NWMtNGJlMThmOWY0Y2E5XC9kZjNlMjlrLWE3ZjQ0Y2Y5LTMyMWYtNDA3Ny04NzVmLTk0NTU2Njc1M2FkZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gOZ6PKP46cg9A1XBOrRKuLj82rMBaYa3wnxaUV44TXE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu kaisen domain expansion 4K wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9kV7enN9fQ/1/image.jpg' alt='Jujutsu kaisen domain expansion 4K wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9kV7enN9fQ/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Satoru Gojo | Domain Expansion | 4K | HD |">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2002466147811150493/A67327171B3158999A7EF7279DBB36FBE94B541B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Satoru Gojo | Domain Expansion | 4K | HD |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2002466147811150493/A67327171B3158999A7EF7279DBB36FBE94B541B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru wallpaper by Mizumaru - Download on ZEDGE™ | fa5a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/50/82/fd5082e7ff2d49f4356b4825446e9873.jpg' alt='Gojo Satoru wallpaper by Mizumaru - Download on ZEDGE™ | fa5a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/50/82/fd5082e7ff2d49f4356b4825446e9873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Caption: Unmasking the Power - Gojo Domain Expansion ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/domain-expansion-gojo-pfp-asx29dfhr3xlj4hx.jpg' alt='Download Caption: Unmasking the Power - Gojo Domain Expansion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/domain-expansion-gojo-pfp-asx29dfhr3xlj4hx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukuna Domain Expansion Technique Jujutsu Kaisen Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/elegantly-designed-satoru-gojo-moon-fanart-jujutsu-kaisen-phone-wallpaper-ghv3et7343c6poe8.webp' alt='Sukuna Domain Expansion Technique Jujutsu Kaisen Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/elegantly-designed-satoru-gojo-moon-fanart-jujutsu-kaisen-phone-wallpaper-ghv3et7343c6poe8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Episode 7">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/1f/49/251f49b9061e3ef0b3a862135258f151.jpg' alt='Jujutsu Kaisen Episode 7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/1f/49/251f49b9061e3ef0b3a862135258f151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

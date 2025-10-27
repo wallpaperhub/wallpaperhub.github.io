@@ -1,0 +1,129 @@
+<title>Dance Wallpapers for Your Phone: Energize Your Screen</title>
+                    <meta name="description" content="Discover stunning dance wallpapers for your phone! Our curated selection features dynamic designs that celebrate movement and artistry. Perfect for dancers and enthusiasts alike, these wallpapers will inspire you every time you unlock your screen. Download now to bring the joy of dance to your mobile experience!">
+                    <meta name="keywords" content="dance wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dance-wallpaper-for-phone">
+                            <span itemprop="name">dance wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dance Wallpapers for Your Phone: Energize Your Screen</h1>
+                <p>Transform your phone screen with mesmerizing dance wallpapers! Explore a vibrant collection that captures the energy and grace of dance styles from ballet to hip-hop. Each wallpaper is designed to inspire and energize, bringing rhythm and movement to your device. Elevate your phone's aesthetic and express your passion for dance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ FREE Dance Wallpapers for your Phone and Desktop!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/df/93/20df9301e18816dc1409ed9ccbc3c8f5.jpg' alt='10+ FREE Dance Wallpapers for your Phone and Desktop!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/df/93/20df9301e18816dc1409ed9ccbc3c8f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Aesthetic Dance Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/e3/d3/69e3d35379c870cb3b4539b5122e19c9.jpg' alt='10 Aesthetic Dance Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/e3/d3/69e3d35379c870cb3b4539b5122e19c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Screens — En Pointe Dance School">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a563ce39f8dce3f9a70579b/1577187716187-9QAUEKBAJLR46U5TFYCF/En+Pointe+Dance+School+iPhone+Wallpaper' alt='Mobile Screens — En Pointe Dance School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="En Pointe Dance School" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a563ce39f8dce3f9a70579b/1577187716187-9QAUEKBAJLR46U5TFYCF/En+Pointe+Dance+School+iPhone+Wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Amazing Free Dance Wallpapers for your iPhone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/1f/67/3b1f6779b5a07f87d36e9b0a810f25f6.jpg' alt='Get Amazing Free Dance Wallpapers for your iPhone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/1f/67/3b1f6779b5a07f87d36e9b0a810f25f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Ballerina Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/5e/63/995e637018364f0d4974ffc613f4a66b.jpg' alt='Glitter Ballerina Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/5e/63/995e637018364f0d4974ffc613f4a66b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Music Dance Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/602/thumb-1920-602536.jpg' alt='Download Music Dance Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/602/thumb-1920-602536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm So Happy About How This Phone Wallpaper Came Out, I'm ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5rp0vkic1e181.jpg?width=640&crop=smart&auto=webp&s=b388c439ea0bf8db8d96c51c486e1f983a97b6a9' alt='I'm So Happy About How This Phone Wallpaper Came Out, I'm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5rp0vkic1e181.jpg?width=640&crop=smart&auto=webp&s=b388c439ea0bf8db8d96c51c486e1f983a97b6a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Dance" wallpapers for mobile phone, free "Dance" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/74/74f59730408504bfbc1e1384158e6fa1.jpeg' alt='Download "Dance" wallpapers for mobile phone, free "Dance" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5348">
+                                <meta itemprop="height" content="5348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/74/74f59730408504bfbc1e1384158e6fa1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance, dancer, hip hop, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/190/541/HD-wallpaper-dance-dancer-hip-hop-music.jpg' alt='Dance, dancer, hip hop, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/190/541/HD-wallpaper-dance-dancer-hip-hop-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dance Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11571863.jpg' alt='Aesthetic Dance Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11571863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

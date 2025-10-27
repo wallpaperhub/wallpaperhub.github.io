@@ -1,0 +1,129 @@
+<title>Boho Flowers Wallpaper: Vibrant Floral Designs for Your Home</title>
+                    <meta name="description" content="Add a touch of bohemian elegance to your home with our boho flowers wallpaper. Featuring vibrant floral patterns, it's perfect for creating an artistic and inviting atmosphere. Ideal for any room, this wallpaper is a simple way to enhance your decor and express your unique style. Explore our collection now!">
+                    <meta name="keywords" content="boho flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/boho-flowers-wallpaper">
+                            <span itemprop="name">boho flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Flowers Wallpaper: Vibrant Floral Designs for Your Home</h1>
+                <p>Transform your space with boho flowers wallpaper, a vibrant and artistic choice that infuses nature's beauty into your home. Featuring whimsical floral patterns and rich colors, this wallpaper complements a variety of decor styles. Perfect for living rooms, bedrooms, or creative spaces, it adds a touch of bohemian charm and warmth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akywall Green Floral Wallpaper Peel and Stick 394In Vintage Boho Flower  Contact Paper Textured Retro Self Adhesive Removable Vinyl Roll Forest ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ruPd8i1RL.jpg' alt='Akywall Green Floral Wallpaper Peel and Stick 394In Vintage Boho Flower  Contact Paper Textured Retro Self Adhesive Removable Vinyl Roll Forest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ruPd8i1RL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VI3v6JDqL._AC_UF894,1000_QL80_.jpg' alt='Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VI3v6JDqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho floral digital seamless pattern for fabrics and wallpapers, Boho  floral seamless repeat pattern, Boho floral digital paper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/629855/3428672517/il_570xN.3428672517_4hg2.jpg' alt='Boho floral digital seamless pattern for fabrics and wallpapers, Boho  floral seamless repeat pattern, Boho floral digital paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/629855/3428672517/il_570xN.3428672517_4hg2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' alt='Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 143'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2369">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3969361377_joj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho flowers watercolor broun background wallpaper #3320">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3800792058_os4n_1800x1800.jpg?v=1657244623' alt='Boho flowers watercolor broun background wallpaper #3320'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3800792058_os4n_1800x1800.jpg?v=1657244623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Style Flowers Wallpaper – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/boho-style-flowers-wallpaper-15802774356045_2400x.jpg?v=1693312695' alt='Boho Style Flowers Wallpaper – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/boho-style-flowers-wallpaper-15802774356045_2400x.jpg?v=1693312695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Soft Wild Flowers Wallpaper Mural | Delicate Boho Floral Girl  Nursery Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/files/Screenshot2024-02-27at2.55.20PM_6030be90-7d22-4bc5-aac7-0eb70c27aa8f.png?v=1722638317&width=1080' alt='Watercolor Soft Wild Flowers Wallpaper Mural | Delicate Boho Floral Girl  Nursery Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/files/Screenshot2024-02-27at2.55.20PM_6030be90-7d22-4bc5-aac7-0eb70c27aa8f.png?v=1722638317&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caltero Large Floral Peel and Stick Wallpaper Vintage Floral Wallpaper Boho  Floral Contact Paper Leaf Wallpaper Self Adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Caltero-Large-Floral-Peel-Stick-Wallpaper-Vintage-Boho-Contact-Paper-Leaf-Self-Adhesive-Removable-Wallpaper-17-71-x-394_e1f9e9df-a405-4f83-b603-f0918f69fd37.8ea99496abe3407f62729d3329fe0323.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' alt='Caltero Large Floral Peel and Stick Wallpaper Vintage Floral Wallpaper Boho  Floral Contact Paper Leaf Wallpaper Self Adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Business" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Caltero-Large-Floral-Peel-Stick-Wallpaper-Vintage-Boho-Contact-Paper-Leaf-Self-Adhesive-Removable-Wallpaper-17-71-x-394_e1f9e9df-a405-4f83-b603-f0918f69fd37.8ea99496abe3407f62729d3329fe0323.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D056">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4961647417_fvgo.jpg?v=1709562909' alt='Boho Vintage Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D056'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4961647417_fvgo.jpg?v=1709562909' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Hand Drawn Floral Wallpaper WW2118">
+                                <img itemprop="contentUrl url" src='https://wallabywalls.com/cdn/shop/files/il_fullxfull.3245705092_k3ne_d8081e54-44c6-4fb7-996e-9ba01823d16b_1445x.jpg?v=1734034541' alt='Boho Hand Drawn Floral Wallpaper WW2118'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1036">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallaby Walls" />
+                                </span>
+                                <a href='https://wallabywalls.com/cdn/shop/files/il_fullxfull.3245705092_k3ne_d8081e54-44c6-4fb7-996e-9ba01823d16b_1445x.jpg?v=1734034541' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

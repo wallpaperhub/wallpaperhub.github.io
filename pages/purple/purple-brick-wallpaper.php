@@ -1,0 +1,129 @@
+<title>Purple Brick Wallpaper: Stylish & Unique Home Decor</title>
+                    <meta name="description" content="Discover the allure of purple brick wallpaper for your home. This stylish design blends rustic charm with modern elegance, perfect for any space. Enhance your interior decor with vibrant colors and textures that create a captivating atmosphere. Ideal for feature walls or entire rooms! Shop now!">
+                    <meta name="keywords" content="purple brick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-brick-wallpaper">
+                            <span itemprop="name">purple brick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Brick Wallpaper: Stylish & Unique Home Decor</h1>
+                <p>Transform your space with striking purple brick wallpaper. This unique design combines the rugged texture of brick with the elegance of purple hues, making it perfect for accent walls or full room applications. Ideal for contemporary and rustic styles, it adds a sophisticated feel that captivates and inspires creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-purple-brick-wall-background_181624-2861.jpg' alt='Purple Brick Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-purple-brick-wall-background_181624-2861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Digital Paper Background Texture Neon Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/7619e4/3920718343/il_fullxfull.3920718343_h1wc.jpg' alt='Purple Brick Wall Digital Paper Background Texture Neon Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/7619e4/3920718343/il_fullxfull.3920718343_h1wc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1144130818/vector/purple-brick-wall.jpg?s=612x612&w=0&k=20&c=F2TpL5aW5bdHgu0ApjtTJNBzJKlMhKxEumCvNc1wru8=' alt='14,200+ Purple Brick Wall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1144130818/vector/purple-brick-wall.jpg?s=612x612&w=0&k=20&c=F2TpL5aW5bdHgu0ApjtTJNBzJKlMhKxEumCvNc1wru8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple brick wall background, wallpaper. Purple bricks pattern ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/05/26/79/1000_F_205267999_zuR5kRJxtYipND6Hz8tSeuFsMpmKU8aJ.jpg' alt='Purple brick wall background, wallpaper. Purple bricks pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/05/26/79/1000_F_205267999_zuR5kRJxtYipND6Hz8tSeuFsMpmKU8aJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatsapp Chat Purple Brick Wall Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/whatsapp-chat-purple-brick-wall-54pmlq9pfgqr11ht.jpg' alt='Whatsapp Chat Purple Brick Wall Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/whatsapp-chat-purple-brick-wall-54pmlq9pfgqr11ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHFEOIV9RE Wallpaper Peel and Stick Purple Brick Building Wall Wallpaper  Self-Adhesive Removable Large Wall Mural Sticker Roll Home Decor for Living  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81QZ7g-SlkL.jpg' alt='WHFEOIV9RE Wallpaper Peel and Stick Purple Brick Building Wall Wallpaper  Self-Adhesive Removable Large Wall Mural Sticker Roll Home Decor for Living  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81QZ7g-SlkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wall Background Wallpaper Bricks Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/purple-brick-wall-background-wallpaper-260nw-242594092.jpg' alt='Purple Brick Wall Background Wallpaper Bricks Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="396">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/purple-brick-wall-background-wallpaper-260nw-242594092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Brick Wallpaper Home Screen – HDWallpaper9">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/cc/ca/a5cccacfcd0dd01beaf0b3fc417807cc.jpg' alt='3d Brick Wallpaper Home Screen – HDWallpaper9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/cc/ca/a5cccacfcd0dd01beaf0b3fc417807cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple New Brick Wall Perfectly Background Best Clean Brick Wall ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/965401170/photo/purple-new-brick-wall-perfectly-background-best-clean-brick-wall-sweet-and-cute-pastel-color.jpg?s=1024x1024&w=is&k=20&c=mF8QBuWMTpWDtpBiaMfzG_5bWRtEGT6epTzphA8ZDpI=' alt='Purple New Brick Wall Perfectly Background Best Clean Brick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/965401170/photo/purple-new-brick-wall-perfectly-background-best-clean-brick-wall-sweet-and-cute-pastel-color.jpg?s=1024x1024&w=is&k=20&c=mF8QBuWMTpWDtpBiaMfzG_5bWRtEGT6epTzphA8ZDpI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Brick Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/oil-spill-brick-wall-surface-texture_23-2151262471.jpg' alt='Purple Brick Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/oil-spill-brick-wall-surface-texture_23-2151262471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

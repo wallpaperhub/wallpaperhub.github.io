@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Christmas Background Ideas</title>
+                    <meta name="description" content="Discover unique Halloween Christmas background ideas that blend the spookiness of Halloween with the cheer of Christmas. Perfect for parties and festive invitations, these creative themes will captivate your guests and elevate your holiday celebrations. Get inspired today!">
+                    <meta name="keywords" content="halloween christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-christmas-background">
+                            <span itemprop="name">halloween christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Christmas Background Ideas</h1>
+                <p>Halloween and Christmas, two of the most celebrated festivities of the year, can be themed together for a unique background. Imagine ghoulish pumpkins alongside twinkling lights, and spooky skeletons with Christmas hats. This creative blend creates a delightful visual treat, perfect for party decorations or holiday invitations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 12x10ft Halloween Nightmare Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91iVsuTRd7L._AC_UF350,350_QL80_.jpg' alt='Amazon.com : CHNYWORK 12x10ft Halloween Nightmare Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91iVsuTRd7L._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pumpkin sits next to a christmas tree with a christmas tree in ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pumpkin-sits-christmas-tree-with-christmas-tree-background_997657-38680.jpg' alt='A pumpkin sits next to a christmas tree with a christmas tree in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pumpkin-sits-christmas-tree-with-christmas-tree-background_997657-38680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Christmas Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2511351955/display_1500/stock-photo-half-christmas-half-halloween-background-2511351955.jpg' alt='Halloween Christmas Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2511351955/display_1500/stock-photo-half-christmas-half-halloween-background-2511351955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13672191/p/f/m/tiNeI-Xdngly-Ju_HMiLF_4q02ONfnoFwDyWQygDppo2HSCeBU0rmm8/Halloween%20Trees%20on%20Gray%20(Large%20Scale).jpg' alt='Halloween Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13672191/p/f/m/tiNeI-Xdngly-Ju_HMiLF_4q02ONfnoFwDyWQygDppo2HSCeBU0rmm8/Halloween%20Trees%20on%20Gray%20(Large%20Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Christmas Tree Halloween Set Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/318180/preview/creepy-christmas-tree-halloween-set-af4963.png' alt='Creepy Christmas Tree Halloween Set Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/318180/preview/creepy-christmas-tree-halloween-set-af4963.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : YYNXSY6X9FT Halloween Theme Background Horror Full  moonThriller Decoration Background Holiday Party Banner Christmas  Pre-Christmas ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71K0QRaKqDL.jpg' alt='Amazon.com : YYNXSY6X9FT Halloween Theme Background Horror Full  moonThriller Decoration Background Holiday Party Banner Christmas  Pre-Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71K0QRaKqDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/97/98/7b979847245c80acc4562b0661bfa9ae.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/97/98/7b979847245c80acc4562b0661bfa9ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Christmas in Halloween Style Background Image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-halloween-style-background-image_492154-269.jpg' alt='Premium Photo | Christmas in Halloween Style Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-halloween-style-background-image_492154-269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,482 Christmas Halloween Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/festive-holiday-mashup-halloween-pumpkin-christmas-ornaments-festive-holiday-mashup-halloween-pumpkin-christmas-320810444.jpg' alt='23,482 Christmas Halloween Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/festive-holiday-mashup-halloween-pumpkin-christmas-ornaments-festive-holiday-mashup-halloween-pumpkin-christmas-320810444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AIIKES 12-474 Halloween Background Nightmare Before Christmas ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61TVcomJkfL.jpg' alt='AIIKES 12-474 Halloween Background Nightmare Before Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61TVcomJkfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Purple & Blue Marble Wallpaper for a Chic Interior</title>
+                    <meta name="description" content="Discover the beauty of purple and blue marble wallpaper for your home. Enhance your interior with vibrant colors and unique patterns that provide a stylish and calming ambiance. Perfect for any room, this wallpaper transforms your walls into art and elevates your décor effortlessly.">
+                    <meta name="keywords" content="purple and blue marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-and-blue-marble-wallpaper">
+                            <span itemprop="name">purple and blue marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple & Blue Marble Wallpaper for a Chic Interior</h1>
+                <p>Transform your space with stunning purple and blue marble wallpaper. This elegant design adds a touch of sophistication to any room, creating a calming atmosphere. Perfect for bedrooms, living rooms, or offices, the rich colors and unique patterns bring depth and character, making your walls a true focal point.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alcohol Ink Purple Marble Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/22123/alcohol_ink_purple_marble_limited.jpg' alt='Alcohol Ink Purple Marble Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/22123/alcohol_ink_purple_marble_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Blue Marble Background, Purple, Blue, Marble Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/04/a3/8504a30da25c238ae4113d53afc39b4f.jpg' alt='Purple Blue Marble Background, Purple, Blue, Marble Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/04/a3/8504a30da25c238ae4113d53afc39b4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper Purple, Pink and Blue Removable Peel-n-stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/452d99/3536212864/il_fullxfull.3536212864_39wr.jpg' alt='Marble Wallpaper Purple, Pink and Blue Removable Peel-n-stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2588">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/452d99/3536212864/il_fullxfull.3536212864_39wr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Blue Marble Images – Browse 151,180 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/60/20/24/360_F_560202438_cRRH96Zu8mhnsPOlsdS4MkTS2BZ8FimT.jpg' alt='Purple And Blue Marble Images – Browse 151,180 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/60/20/24/360_F_560202438_cRRH96Zu8mhnsPOlsdS4MkTS2BZ8FimT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract white blue purple marble background with golden veins by Julien">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/abstract-white-blue-purple-marble-background-with-golden-veins-julien.jpg' alt='Abstract white blue purple marble background with golden veins by Julien'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/abstract-white-blue-purple-marble-background-with-golden-veins-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Liquid marble background purple blue gradient and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/liquid-marble-background-purple-blue-gradient-gold-tones-liquid-art_332160-131.jpg' alt='Premium Vector | Liquid marble background purple blue gradient and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/liquid-marble-background-purple-blue-gradient-gold-tones-liquid-art_332160-131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Blue Marble Images – Browse 151,180 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/81/97/31/360_F_581973126_XzjdCzKMx38oBF0ZoLfgPAU1XPROE1HQ.jpg' alt='Purple And Blue Marble Images – Browse 151,180 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/81/97/31/360_F_581973126_XzjdCzKMx38oBF0ZoLfgPAU1XPROE1HQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Purple Gold Marble Seamless Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-blue-and-purple-gold-marble-seamless-background-picture-image_1395919.jpg' alt='Blue And Purple Gold Marble Seamless Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-blue-and-purple-gold-marble-seamless-background-picture-image_1395919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Marble Texture Abstract Background With Purple And Liquid ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/blue-marble-texture-abstract-background-with-purple-and-liquid_9919895.jpg!w700wp' alt='Blue Marble Texture Abstract Background With Purple And Liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/blue-marble-texture-abstract-background-with-purple-and-liquid_9919895.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper Peel and Stick Abstract Art Wall Mural (Pink, Teal.  Purple) | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/gr0AAOSwOC1ju4DF/s-l400.jpg' alt='Marble Wallpaper Peel and Stick Abstract Art Wall Mural (Pink, Teal.  Purple) | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/gr0AAOSwOC1ju4DF/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

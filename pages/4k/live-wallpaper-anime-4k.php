@@ -1,0 +1,129 @@
+<title>Vibrant 4K Anime Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a captivating collection of 4K anime live wallpapers! Enhance your device with dynamic visuals featuring popular characters and breathtaking scenes. Perfect for anime enthusiasts looking to personalize their smartphones or tablets with vibrant and eye-catching designs. Download now for an immersive experience!">
+                    <meta name="keywords" content="live wallpaper anime 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/live-wallpaper-anime-4k">
+                            <span itemprop="name">live wallpaper anime 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Anime Live Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning 4K anime live wallpapers that bring vibrant scenes and your favorite characters to life. Discover a wide range of visually captivating designs that enrich your smartphone or tablet experience. Perfect for anime fans, these wallpapers offer dynamic visuals that change with every touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2550+ Anime Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' alt='2550+ Anime Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' alt='100+] Anime Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' alt='4K Anime Purple Evening Sky - Relaxing Live Wallpaper - 1 Hour Screensaver  - Infinite Loop !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zTK9DhM6OQc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4k - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GU6ncikl11Y/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyAnKH8wDw==&rs=AOn4CLBO2r_BFVbMboxGFf5bAnwsVk1LqA' alt='Live Wallpaper 4k - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GU6ncikl11Y/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyAnKH8wDw==&rs=AOn4CLBO2r_BFVbMboxGFf5bAnwsVk1LqA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw=w240-h480-rw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Anime Girl and Computers 4K Live Wallpaper | Streamable">
+                                <img itemprop="contentUrl url" src='https://cdn-cf-east.streamable.com/image/794ao.jpg' alt='Watch Anime Girl and Computers 4K Live Wallpaper | Streamable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamable" />
+                                </span>
+                                <a href='https://cdn-cf-east.streamable.com/image/794ao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k live wallpaper anime #4kwallpaper #livewallpaper #wallpaperlive3d  #wallpaperlive4k #animelivewallpaper #anime #animeedit">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7413289536010063109&location=0&aid=1988' alt='4k live wallpaper anime #4kwallpaper #livewallpaper #wallpaperlive3d  #wallpaperlive4k #animelivewallpaper #anime #animeedit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7413289536010063109&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime live wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' alt='anime live wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto's 3d animated wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' alt='Naruto's 3d animated wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/ibShLSiK5chy8E_40_IfLf5mVgGo_9qtEAJFOidWR_9yGUoqP_CJRcwLxLbVs4px6So=w526-h296-rw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="221">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/ibShLSiK5chy8E_40_IfLf5mVgGo_9qtEAJFOidWR_9yGUoqP_CJRcwLxLbVs4px6So=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

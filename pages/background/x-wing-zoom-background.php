@@ -1,0 +1,129 @@
+<title>X-Wing Zoom Backgrounds: Elevate Your Virtual Meetings</title>
+                    <meta name="description" content="Explore exciting X-Wing zoom backgrounds to enhance your virtual calls! Bring the Star Wars universe into your meetings with stunning visuals, perfect for fans. Make a memorable impression while enjoying your favorite sci-fi theme. Ideal for any casual or professional setting!">
+                    <meta name="keywords" content="x wing zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/x-wing-zoom-background">
+                            <span itemprop="name">x wing zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>X-Wing Zoom Backgrounds: Elevate Your Virtual Meetings</h1>
+                <p>Transform your virtual meetings with an X-Wing zoom background that immerses you in the iconic Star Wars universe. Perfect for fans and gamers, these stunning visuals provide a fun and dynamic atmosphere, making every call feel like an adventure. Stand out in your meetings while showcasing your love for Star Wars!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been making rendered Star Wars backgrounds for Zoom/WebEx ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f8osqei4hdg51.jpg' alt='I've been making rendered Star Wars backgrounds for Zoom/WebEx ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f8osqei4hdg51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's another version of the X-Wing Animated Background I edited but with  the Death Star Trench Run as the background">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/84KhxL-CkTvTC7V4ywMt5Q8Dj0xbjZsXRj97vEj25Fw.png?format=pjpg&auto=webp&s=f5436172ae7958b51479a464b93828079d8a8222' alt='Here's another version of the X-Wing Animated Background I edited but with  the Death Star Trench Run as the background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/84KhxL-CkTvTC7V4ywMt5Q8Dj0xbjZsXRj97vEj25Fw.png?format=pjpg&auto=webp&s=f5436172ae7958b51479a464b93828079d8a8222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Wars Zoom Background X Wing Fighter Fighting ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-zoom-background-3mh89twwmqs760mg.jpg' alt='Download Star Wars Zoom Background X Wing Fighter Fighting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-zoom-background-3mh89twwmqs760mg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X-Wing Pilot (Dog Fight) - Zoom Video Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/o90CkhOKnsU/hqdefault.jpg' alt='X-Wing Pilot (Dog Fight) - Zoom Video Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/o90CkhOKnsU/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Luke X-Wing Zoom Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TgtWRNyWP_0/maxresdefault.jpg' alt='Star Wars Luke X-Wing Zoom Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TgtWRNyWP_0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hottest Star Wars Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://blog.zoombackground.io/1580116/wp-content/uploads/2020/04/take-your-video-meetings-to-the-star-wars-galaxy-with-lucasfilms-official-downloadable-backgrounds-size-1024x1024-lossy-0-strip-0-webp-1.jpg' alt='Hottest Star Wars Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Background Image Collections - Zoom Background Images" />
+                                </span>
+                                <a href='https://blog.zoombackground.io/1580116/wp-content/uploads/2020/04/take-your-video-meetings-to-the-star-wars-galaxy-with-lucasfilms-official-downloadable-backgrounds-size-1024x1024-lossy-0-strip-0-webp-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Video Backgrounds for Virtual Calls - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/X-Wing-Pilot-Death-Star-Trench-Run-Zoom-Video-Background-720-300x169.png' alt='Virtual Video Backgrounds for Virtual Calls - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/X-Wing-Pilot-Death-Star-Trench-Run-Zoom-Video-Background-720-300x169.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated X-Wing cockpit (zoom virtual background) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JNB-DzaY91E/sddefault.jpg' alt='Animated X-Wing cockpit (zoom virtual background) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JNB-DzaY91E/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been making rendered Star Wars backgrounds for Zoom/WebEx ...">
+                                <img itemprop="contentUrl url" src='https://media.contentapi.ea.com/content/dam/ea/lt-pete-mitchell/media/common/sws-zoom-background-rebel-cockpit.png' alt='I've been making rendered Star Wars backgrounds for Zoom/WebEx ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://media.contentapi.ea.com/content/dam/ea/lt-pete-mitchell/media/common/sws-zoom-background-rebel-cockpit.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Virtual Backgrounds for Zoom, Teams, Skype & Meet ...">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Star-Wars-millennium-falcon-light-jump-virtual-background-300x169.jpg' alt='Star Wars Virtual Backgrounds for Zoom, Teams, Skype & Meet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Star-Wars-millennium-falcon-light-jump-virtual-background-300x169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

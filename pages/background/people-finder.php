@@ -1,0 +1,129 @@
+<title>Effortless People Finder: Locate Anyone Instantly</title>
+                    <meta name="description" content="Unlock the power of our people finder service! Quickly and easily search for individuals using public records and social media. Whether you're reconnecting or researching, our tool delivers fast, accurate results for all your needs.">
+                    <meta name="keywords" content="people finder">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/people-finder">
+                            <span itemprop="name">people finder</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Effortless People Finder: Locate Anyone Instantly</h1>
+                <p>People finders are valuable tools for reconnecting with old friends, family members, or colleagues. By utilizing public records and social media data, these services help track down individuals quickly and accurately. Whether you're searching for a lost loved one or investigating a business contact, people finders streamline the process, saving you time and effort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Finder – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/zxYnLyTF-IMpakLjDkmORuX-WHpLHdi7WCgml2uVRDfr1KfwdfNIwqING_y9MVXIaA=w240-h480-rw' alt='People Finder – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/zxYnLyTF-IMpakLjDkmORuX-WHpLHdi7WCgml2uVRDfr1KfwdfNIwqING_y9MVXIaA=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleFinders: People Search - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/61DicSRoIR6Yx3lroafH6dz9_kdpyGYp_usNXNdJs4PqkwIIQvCKb9L7QKj0Ium0zxU=w526-h296-rw' alt='PeopleFinders: People Search - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/61DicSRoIR6Yx3lroafH6dz9_kdpyGYp_usNXNdJs4PqkwIIQvCKb9L7QKj0Ium0zxU=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Finder - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/8rAKThgizRuKn6YHO-vL9yXAaym6NWY4WNNLY0m0gQqi15iga7vIH7b53jpxK9JC6GPiLx5QGCclnnl26l0AiFYI9a4=s1280-w1280-h800' alt='People Finder - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/8rAKThgizRuKn6YHO-vL9yXAaym6NWY4WNNLY0m0gQqi15iga7vIH7b53jpxK9JC6GPiLx5QGCclnnl26l0AiFYI9a4=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 People Search Engines for Finding Anyone">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/xMyOm66gyC2hSd3xs5RJQBxhsAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/truthfinder-9a75a1ecd8054ad0b53ddb76f6f84444.png' alt='8 People Search Engines for Finding Anyone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1207">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/xMyOm66gyC2hSd3xs5RJQBxhsAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/truthfinder-9a75a1ecd8054ad0b53ddb76f6f84444.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleFinders - People Search & Reverse Phone Number Lookup">
+                                <img itemprop="contentUrl url" src='https://www.peoplefinders.com/assets/img/find-people-online.svg' alt='PeopleFinders - People Search & Reverse Phone Number Lookup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.peoplefinders.com" />
+                                </span>
+                                <a href='https://www.peoplefinders.com/assets/img/find-people-online.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleFinders review | ITPro">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/DjneRSutT6ehteGqNry3eX-970-80.jpg' alt='PeopleFinders review | ITPro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ITPro" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/DjneRSutT6ehteGqNry3eX-970-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best People Search and Reverse Lookup. Find names, addresses ...">
+                                <img itemprop="contentUrl url" src='https://www.searchbug.com/images/og/people-finder-find-names-addresses-phone-numbers-emails.jpg' alt='Best People Search and Reverse Lookup. Find names, addresses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Searchbug" />
+                                </span>
+                                <a href='https://www.searchbug.com/images/og/people-finder-find-names-addresses-phone-numbers-emails.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People List - People Finder - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/h-R_Ks_T6997uDt2_6JcKety-g9yeJSHD6wq_Evte4aJyEEdRhe3wNw30pLSBxtDbO0' alt='People List - People Finder - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/h-R_Ks_T6997uDt2_6JcKety-g9yeJSHD6wq_Evte4aJyEEdRhe3wNw30pLSBxtDbO0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleFinders Reviews | Read Customer Service Reviews of ...">
+                                <img itemprop="contentUrl url" src='https://consumersiteimages.trustpilot.net/business-units/5797b3320000ff000592c534-198x149-1x.jpg' alt='PeopleFinders Reviews | Read Customer Service Reviews of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="198">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trustpilot" />
+                                </span>
+                                <a href='https://consumersiteimages.trustpilot.net/business-units/5797b3320000ff000592c534-198x149-1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Finder">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100030929306692' alt='People Finder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100030929306692' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

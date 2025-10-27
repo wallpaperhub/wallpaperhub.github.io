@@ -1,0 +1,129 @@
+<title>Discover the Magic of the House of Mouse</title>
+                    <meta name="description" content="Explore the enchanting world of the House of Mouse, where classic and new Disney characters unite in fun-filled adventures. Join Mickey Mouse and friends for a nostalgic journey brimming with laughter and charm, perfect for Disney fans of all ages!">
+                    <meta name="keywords" content="house of mouse background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/house-of-mouse-background">
+                            <span itemprop="name">house of mouse background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of the House of Mouse</h1>
+                <p>The "House of Mouse" is an animated television series created by Disney, which first aired in 2001. Set in a magical club, it features beloved Disney characters who gather to experience various comedic sketches and short films. Mickey Mouse serves as the host, providing a nostalgic blend of classic and new characters while entertaining audiences of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse background practice 1 by AverageJoeArtwork on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67b8d58d-d230-4dec-8dfe-aaf4df521450/dbrjj4y-3ebc4714-30d0-45a8-ac47-d460927943e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3YjhkNThkLWQyMzAtNGRlYy04ZGZlLWFhZjRkZjUyMTQ1MFwvZGJyamo0eS0zZWJjNDcxNC0zMGQwLTQ1YTgtYWM0Ny1kNDYwOTI3OTQzZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-prsJSCt37QWIziBTKpXhYFYOGF1pfMSmUb3ZcJ3WgU' alt='House of Mouse background practice 1 by AverageJoeArtwork on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="11651">
+                                <meta itemprop="height" content="5871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67b8d58d-d230-4dec-8dfe-aaf4df521450/dbrjj4y-3ebc4714-30d0-45a8-ac47-d460927943e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3YjhkNThkLWQyMzAtNGRlYy04ZGZlLWFhZjRkZjUyMTQ1MFwvZGJyamo0eS0zZWJjNDcxNC0zMGQwLTQ1YTgtYWM0Ny1kNDYwOTI3OTQzZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-prsJSCt37QWIziBTKpXhYFYOGF1pfMSmUb3ZcJ3WgU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse background practice 2 by AverageJoeArtwork on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67b8d58d-d230-4dec-8dfe-aaf4df521450/dbrjmp9-61d5cbce-f00c-4092-8cd7-a69498df576a.jpg/v1/fill/w_1023,h_268,q_75,strp/house_of_mouse_background_practice_2_by_averagejoeartwork_dbrjmp9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY4IiwicGF0aCI6IlwvZlwvNjdiOGQ1OGQtZDIzMC00ZGVjLThkZmUtYWFmNGRmNTIxNDUwXC9kYnJqbXA5LTYxZDVjYmNlLWYwMGMtNDA5Mi04Y2Q3LWE2OTQ5OGRmNTc2YS5qcGciLCJ3aWR0aCI6Ijw9MTAyMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.km79WLkUmUZH6ow0_LAP9eyvPvZC_BZKB8tDfSoACLc' alt='House of Mouse background practice 2 by AverageJoeArtwork on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67b8d58d-d230-4dec-8dfe-aaf4df521450/dbrjmp9-61d5cbce-f00c-4092-8cd7-a69498df576a.jpg/v1/fill/w_1023,h_268,q_75,strp/house_of_mouse_background_practice_2_by_averagejoeartwork_dbrjmp9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY4IiwicGF0aCI6IlwvZlwvNjdiOGQ1OGQtZDIzMC00ZGVjLThkZmUtYWFmNGRmNTIxNDUwXC9kYnJqbXA5LTYxZDVjYmNlLWYwMGMtNDA5Mi04Y2Q3LWE2OTQ5OGRmNTc2YS5qcGciLCJ3aWR0aCI6Ijw9MTAyMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.km79WLkUmUZH6ow0_LAP9eyvPvZC_BZKB8tDfSoACLc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse (night club) | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/8/8e/Unplugged_Club_-_Club_from_the_outside_2.png/revision/latest?cb=20190209103629' alt='House of Mouse (night club) | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/8/8e/Unplugged_Club_-_Club_from_the_outside_2.png/revision/latest?cb=20190209103629' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse Stage in 3D by TPPercival on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a7bfe91-c737-4379-81c5-2c818e1dc90f/df9opfk-ad684eeb-65eb-414d-963b-4d27d8c137f1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhN2JmZTkxLWM3MzctNDM3OS04MWM1LTJjODE4ZTFkYzkwZlwvZGY5b3Bmay1hZDY4NGVlYi02NWViLTQxNGQtOTYzYi00ZDI3ZDhjMTM3ZjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jy0akYT4ODf28OvqI5h695jFuk4SFpxcOxWlqP16HpI' alt='House of Mouse Stage in 3D by TPPercival on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a7bfe91-c737-4379-81c5-2c818e1dc90f/df9opfk-ad684eeb-65eb-414d-963b-4d27d8c137f1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhN2JmZTkxLWM3MzctNDM3OS04MWM1LTJjODE4ZTFkYzkwZlwvZGY5b3Bmay1hZDY4NGVlYi02NWViLTQxNGQtOTYzYi00ZDI3ZDhjMTM3ZjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jy0akYT4ODf28OvqI5h695jFuk4SFpxcOxWlqP16HpI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What if The House of Mouse was sent to Wasteland? - My newest ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-if-the-house-of-mouse-was-sent-to-wasteland-my-newest-v0-g9tlmeh5yfja1.png?auto=webp&s=dfb44d0f378c5e6bebf132d05396890120088f78' alt='What if The House of Mouse was sent to Wasteland? - My newest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-if-the-house-of-mouse-was-sent-to-wasteland-my-newest-v0-g9tlmeh5yfja1.png?auto=webp&s=dfb44d0f378c5e6bebf132d05396890120088f78' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse at Daytime 1 by Disneyfanwithautism on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/287d91d4-1d3a-4493-a988-4720faa9ca1e/dfw6jyc-5dcbaa11-caa2-45e7-b562-67574d05e897.png/v1/fill/w_1192,h_670,q_70,strp/house_of_mouse_at_daytime_1_by_disneyfanwithautism_dfw6jyc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjg3ZDkxZDQtMWQzYS00NDkzLWE5ODgtNDcyMGZhYTljYTFlXC9kZnc2anljLTVkY2JhYTExLWNhYTItNDVlNy1iNTYyLTY3NTc0ZDA1ZTg5Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4Jf6SPBtPBu-11PXyfLf9N8Vz-3thf-dHI6obvDM_Gw' alt='House of Mouse at Daytime 1 by Disneyfanwithautism on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/287d91d4-1d3a-4493-a988-4720faa9ca1e/dfw6jyc-5dcbaa11-caa2-45e7-b562-67574d05e897.png/v1/fill/w_1192,h_670,q_70,strp/house_of_mouse_at_daytime_1_by_disneyfanwithautism_dfw6jyc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjg3ZDkxZDQtMWQzYS00NDkzLWE5ODgtNDcyMGZhYTljYTFlXC9kZnc2anljLTVkY2JhYTExLWNhYTItNDVlNy1iNTYyLTY3NTc0ZDA1ZTg5Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4Jf6SPBtPBu-11PXyfLf9N8Vz-3thf-dHI6obvDM_Gw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse Wallpaper | Disney Plus? by Thekingblader995 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dilza34-4a02dd8c-c4d0-4175-bd8a-84ef75bcba09.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGlsemEzNC00YTAyZGQ4Yy1jNGQwLTQxNzUtYmQ4YS04NGVmNzViY2JhMDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FicmZf3aepjsHAbbZ43GtWK3q4Ky3GZKtqbvrn5R4Yw' alt='House of Mouse Wallpaper | Disney Plus? by Thekingblader995 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dilza34-4a02dd8c-c4d0-4175-bd8a-84ef75bcba09.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGlsemEzNC00YTAyZGQ4Yy1jNGQwLTQxNzUtYmQ4YS04NGVmNzViY2JhMDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FicmZf3aepjsHAbbZ43GtWK3q4Ky3GZKtqbvrn5R4Yw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse | Cartoon Network City Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cartoon-network-city-fanon/images/b/b2/Houseofmouseclub.png/revision/latest/scale-to-width-down/1990?cb=20180427152222' alt='House of Mouse | Cartoon Network City Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1990">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Network City Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cartoon-network-city-fanon/images/b/b2/Houseofmouseclub.png/revision/latest/scale-to-width-down/1990?cb=20180427152222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey's House of Villains Master Background (Walt Disney, 2002 ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F3%2F1%2F5%2F3%2F23153542%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='Mickey's House of Villains Master Background (Walt Disney, 2002 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F3%2F1%2F5%2F3%2F23153542%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House of Mouse - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c4/House_of_Mouse_%28Logo%29.svg' alt='House of Mouse - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c4/House_of_Mouse_%28Logo%29.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

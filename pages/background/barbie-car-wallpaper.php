@@ -1,0 +1,129 @@
+<title>Barbie Car Wallpaper: Fun & Stylish Decor for Kids</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="barbie car wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barbie-car-wallpaper">
+                            <span itemprop="name">barbie car wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barbie Car Wallpaper: Fun & Stylish Decor for Kids</h1>
+                <p>Transform your space with vibrant Barbie car wallpaper! Perfect for kids' rooms or any Barbie fan, these fun prints feature stylish designs that inspire adventure and creativity. Easy to apply and remove, this wallpaper helps you bring a touch of Barbie magic into your home while adding a playful and colorful atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Car Front Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cute-doll-accessory-ai-generated_23-2150651748.jpg' alt='Barbie Car Front Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cute-doll-accessory-ai-generated_23-2150651748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Barbie Themed Vintage Car Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-barbie-themed-vintage-car-irsdesp6paf8rz8h.jpg' alt='Download Pink Barbie Themed Vintage Car Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-barbie-themed-vintage-car-irsdesp6paf8rz8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie (2023) lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' alt='Barbie The Movie (2023) lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="barbie car wallpaper : r/ForzaHorizon5">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/barbie-car-wallpaper-v0-qhadhiqsp29b1.png?width=1500&format=png&auto=webp&s=e488bb710a1a26ad3a93a706a14224f994266c5d' alt='barbie car wallpaper : r/ForzaHorizon5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/barbie-car-wallpaper-v0-qhadhiqsp29b1.png?width=1500&format=png&auto=webp&s=e488bb710a1a26ad3a93a706a14224f994266c5d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Barbie Themed Roadtrip Adventure Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-barbie-themed-roadtrip-adventure-cujas8ktk4ro5xrr.jpg' alt='Download Pink Barbie Themed Roadtrip Adventure Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-barbie-themed-roadtrip-adventure-cujas8ktk4ro5xrr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie car, carros, barbie, pink, car, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/148/799/HD-wallpaper-barbie-car-cars-barbie-pink-car.jpg' alt='Barbie car, carros, barbie, pink, car, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/148/799/HD-wallpaper-barbie-car-cars-barbie-pink-car.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Car Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14071014.jpg' alt='Barbie Car Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14071014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie the movie iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' alt='Barbie the movie iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Movie Car 2023: Buy Hot Wheels Pink Corvette Convertible Online">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/06/barbie-movie-corvette-buy-online.jpg?w=1600&h=900&crop=1' alt='Barbie Movie Car 2023: Buy Hot Wheels Pink Corvette Convertible Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/06/barbie-movie-corvette-buy-online.jpg?w=1600&h=900&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie 2023, movie, car, barbie, poster, couple, ken, blinde, pink ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/669/567/HD-wallpaper-ken-and-barbie-barbie-movie-barbie-ryan-gosling-2023-movies-movies-margot-robbie-1-thumbnail.jpg' alt='Barbie 2023, movie, car, barbie, poster, couple, ken, blinde, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/669/567/HD-wallpaper-ken-and-barbie-barbie-movie-barbie-ryan-gosling-2023-movies-movies-margot-robbie-1-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

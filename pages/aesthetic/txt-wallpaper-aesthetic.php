@@ -1,0 +1,129 @@
+<title>Discover Aesthetic Txt Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a stunning collection of txt wallpaper aesthetic designs. Perfect for adding a touch of inspiration to your screens, these wallpapers combine minimalism and typography for a unique look. Discover the perfect backdrop that resonates with your style today!">
+                    <meta name="keywords" content="txt wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/txt-wallpaper-aesthetic">
+                            <span itemprop="name">txt wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Aesthetic Txt Wallpapers for Your Device</h1>
+                <p>Transform your device's look with txt wallpaper aesthetic. This trend marries typography with minimalistic design, providing a refreshing backdrop that elevates any screen. Choose words that inspire you, incorporate soothing fonts, and play with colors to make your phone or laptop uniquely yours. Embrace simplicity and style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 TXT Wallpaper ideas | txt, wallpaper, kpop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/7f/d3/a2/7fd3a2bcc6877dec07102547e99d5c30.jpg' alt='55 TXT Wallpaper ideas | txt, wallpaper, kpop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/7f/d3/a2/7fd3a2bcc6877dec07102547e99d5c30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TXT white desktop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/1e/b5/8e1eb53e569e8114bbf270cdbeadf0fb.jpg' alt='TXT white desktop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/1e/b5/8e1eb53e569e8114bbf270cdbeadf0fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Txt With Books And Neon Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/txt-with-books-and-neon-lights-1mrm44x9q6yanawa.jpg' alt='Txt With Books And Neon Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/txt-with-books-and-neon-lights-1mrm44x9q6yanawa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="txt ot5 wallpaper lovkscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/2b/92/372b924b4a78d9103fb9beea611881f4.jpg' alt='txt ot5 wallpaper lovkscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/2b/92/372b924b4a78d9103fb9beea611881f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TXT, aesthetic, colorful, crown, cute, kpop, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/584/856/HD-wallpaper-txt-aesthetic-colorful-crown-cute-kpop.jpg' alt='TXT, aesthetic, colorful, crown, cute, kpop, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/584/856/HD-wallpaper-txt-aesthetic-colorful-crown-cute-kpop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="requesting TXT wallpapers : r/TomorrowByTogether">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/requesting-txt-wallpapers-v0-tzgf2gqnzm5d1.jpeg?width=1500&format=pjpg&auto=webp&s=6c7f90ea9e8380f198fa7c5f40ff84a4543d8268' alt='requesting TXT wallpapers : r/TomorrowByTogether'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/requesting-txt-wallpapers-v0-tzgf2gqnzm5d1.jpeg?width=1500&format=pjpg&auto=webp&s=6c7f90ea9e8380f198fa7c5f40ff84a4543d8268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="part.2⭐TXT Aesthetic wallpapers-Free for moa's | TXT (투모로우 ...">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7492/211a836efb9b4c835348aca76518326dbe382c66r1-783-1324v2_uhq.jpg' alt='part.2⭐TXT Aesthetic wallpapers-Free for moa's | TXT (투모로우 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7492/211a836efb9b4c835348aca76518326dbe382c66r1-783-1324v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TXT Wallpaper | TXT (투모로우바이투게더) Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7086/06fc35d6f9d38038bbd70634bb795c4d26c06fb4r1-1152-2048v2_uhq.jpg' alt='TXT Wallpaper | TXT (투모로우바이투게더) Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7086/06fc35d6f9d38038bbd70634bb795c4d26c06fb4r1-1152-2048v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="txt wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/6d/d2/726dd2d6bb418c48e230753c68a8f167.jpg' alt='txt wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/6d/d2/726dd2d6bb418c48e230753c68a8f167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD txt wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/13/296/HD-wallpaper-txt-and-moa-fandom-moa-txt.jpg' alt='HD txt wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/13/296/HD-wallpaper-txt-and-moa-fandom-moa-txt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

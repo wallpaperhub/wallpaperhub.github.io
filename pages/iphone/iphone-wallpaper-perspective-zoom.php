@@ -1,0 +1,129 @@
+<title>Enhance Your iPhone with Stunning Perspective Zoom Wallpapers</title>
+                    <meta name="description" content="Explore amazing perspective zoom wallpapers for your iPhone. Transform your screen with visuals that add depth and style, making your device truly yours. Perfect for showcasing your personality, these wallpapers offer a captivating experience that resonates on every swipe. Upgrade your mobile look today!">
+                    <meta name="keywords" content="iphone wallpaper perspective zoom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-perspective-zoom">
+                            <span itemprop="name">iphone wallpaper perspective zoom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your iPhone with Stunning Perspective Zoom Wallpapers</h1>
+                <p>Discover the captivating world of iPhone wallpaper perspective zoom! Transform your device with stunning images that create an illusion of depth. Whether you prefer breathtaking landscapes, abstract art, or vibrant colors, perspective zoom wallpapers enhance your iPhone's aesthetic. Elevate your mobile experience and showcase your unique style today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16: How to Disable Lock Screen Perspective Zoom - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/article-new/2022/07/ios-16-disable-perspective-zoom.jpg' alt='iOS 16: How to Disable Lock Screen Perspective Zoom - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2540">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/article-new/2022/07/ios-16-disable-perspective-zoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adjust Moving Wallpapers in iOS with Perspective Zoom">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2014/03/perspective-zoom-moving-wallpaper-ios.jpg' alt='Adjust Moving Wallpapers in iOS with Perspective Zoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2014/03/perspective-zoom-moving-wallpaper-ios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adjust Moving Wallpapers in iOS with Perspective Zoom">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2014/03/adjust-moving-wallpapers-ios.jpg' alt='Adjust Moving Wallpapers in iOS with Perspective Zoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2014/03/adjust-moving-wallpapers-ios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perspective Zoom (Parallax Effect) not wo… - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/54b7bd6d-7d22-46f5-a186-9d5cbdc2de62' alt='Perspective Zoom (Parallax Effect) not wo… - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/54b7bd6d-7d22-46f5-a186-9d5cbdc2de62' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to enable Perspective Zoom in iOS 16 … - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/ecd8621f-4749-4fe7-9deb-bb52d198a224' alt='How to enable Perspective Zoom in iOS 16 … - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="295">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/ecd8621f-4749-4fe7-9deb-bb52d198a224' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 7.1: Fix Wallpaper Zooming Issues with Perspective Zoom ...">
+                                <img itemprop="contentUrl url" src='https://d.ibtimes.co.uk/en/full/1369885/perspective-zoom.jpg?w=593&f=f1d21737c464230f4b323c40537c6781' alt='iOS 7.1: Fix Wallpaper Zooming Issues with Perspective Zoom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="593">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IBTimes UK" />
+                                </span>
+                                <a href='https://d.ibtimes.co.uk/en/full/1369885/perspective-zoom.jpg?w=593&f=f1d21737c464230f4b323c40537c6781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16: How to Disable Lock Screen Perspective Zoom - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/lHwjNCDH1EIrSVKDDPnnK0gq2to=/1600x/article-new/2022/01/ios-16-lock-screen-customization.jpg' alt='iOS 16: How to Disable Lock Screen Perspective Zoom - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/lHwjNCDH1EIrSVKDDPnnK0gq2to=/1600x/article-new/2022/01/ios-16-lock-screen-customization.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Enable/Disable Perspective Zoom on iPhone Lock Screen in iOS 16   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4yLk3KmZoF8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdkvUrG2oXqQxVJYor_5noKbj4rQ' alt='How to Enable/Disable Perspective Zoom on iPhone Lock Screen in iOS 16   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4yLk3KmZoF8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdkvUrG2oXqQxVJYor_5noKbj4rQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 15 wallpaper with perspective zoom (12 pro max) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qnex4rxiwz371.jpg' alt='iOS 15 wallpaper with perspective zoom (12 pro max) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qnex4rxiwz371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perspective Zoom - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/e1384a69-939e-4281-b982-7700d578a2a0' alt='Perspective Zoom - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/e1384a69-939e-4281-b982-7700d578a2a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Nezuko Wallpaper GIFs for Anime Lovers</title>
+                    <meta name="description" content="Discover charming Nezuko wallpaper GIFs, perfect for any anime fan! These cute animations showcase Nezuko Kamado from Demon Slayer, bringing your device to life with vibrant colors and captivating motion. Download now for the perfect blend of style and fandom!">
+                    <meta name="keywords" content="cute:tf0qa-mgzfs= nezuko wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cutetf0qa-mgzfs-nezuko-wallpaper-gif">
+                            <span itemprop="name">cute:tf0qa-mgzfs= nezuko wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Nezuko Wallpaper GIFs for Anime Lovers</h1>
+                <p>Enhance your screen with an adorable Nezuko wallpaper GIF! This cute animation captures Nezuko Kamado's charm from Demon Slayer, perfect for fans who want to add a touch of anime magic to their device. From her signature pink kimono to her determined expression, these GIF wallpapers are a delightful way to express your love for the series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko GIF - Nezuko - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/07/1e/0e071ecbaf0ce9a4d9e118be2f67c303.gif' alt='Nezuko GIF - Nezuko - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/07/1e/0e071ecbaf0ce9a4d9e118be2f67c303.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/11/icegif-1378.gif' alt='Nezuko Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/11/icegif-1378.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kamado Nezuko GIF - Cute Kamado Nezuko Kimetsu No Yaiba ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3b/7a/8e/3b7a8e44729879cd45e281cc8d3e3a54.gif' alt='Cute Kamado Nezuko GIF - Cute Kamado Nezuko Kimetsu No Yaiba ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3b/7a/8e/3b7a8e44729879cd45e281cc8d3e3a54.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/nezuko-kamado-oh-no-2vgswjiebxdgugao.gif' alt='Nezuko GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/nezuko-kamado-oh-no-2vgswjiebxdgugao.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Kamado Demon Slayer GIF - Nezuko Kamado Demon Slayer Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ff/cf/78/ffcf78986e78563d4bfd0637f37b38e4.gif' alt='Nezuko Kamado Demon Slayer GIF - Nezuko Kamado Demon Slayer Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ff/cf/78/ffcf78986e78563d4bfd0637f37b38e4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/S3higFz8inGcBDUls2/200w.gif?cid=6c09b952p4182qakohia92culmpseti43disfq5snn59e4gn&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Nezuko GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/S3higFz8inGcBDUls2/200w.gif?cid=6c09b952p4182qakohia92culmpseti43disfq5snn59e4gn&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kamadonezuko Anime GIF - Kamadonezuko Nezuko Kamado - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/51/d1/94/51d19426b7a5fd86d188a77f13b92ba2.gif' alt='Kamadonezuko Anime GIF - Kamadonezuko Nezuko Kamado - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/51/d1/94/51d19426b7a5fd86d188a77f13b92ba2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hungry Nezuko Kamado GIF - Hungry Nezuko Kamado Kimetsu No Yaiba ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/65/36/17/653617319ece07508abe8cccf63525dc.gif' alt='Hungry Nezuko Kamado GIF - Hungry Nezuko Kamado Kimetsu No Yaiba ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/65/36/17/653617319ece07508abe8cccf63525dc.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Live Wallpaper Nezuko GIF - Nezuko Live Wallpaper Nezuko ...">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/rCt8wIH7bBUAAAAM/gif-de-nezuko.gif' alt='Nezuko Live Wallpaper Nezuko GIF - Nezuko Live Wallpaper Nezuko ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/rCt8wIH7bBUAAAAM/gif-de-nezuko.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/nezuko-angry-demonic-transformation-ninnyvcnae8z3n0j.gif' alt='Nezuko GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/nezuko-angry-demonic-transformation-ninnyvcnae8z3n0j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

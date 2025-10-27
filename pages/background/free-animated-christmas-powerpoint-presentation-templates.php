@@ -1,0 +1,129 @@
+<title>Free Animated Christmas PowerPoint Templates: Festive & Fun!</title>
+                    <meta name="description" content="Discover free animated Christmas PowerPoint presentation templates for a merry touch! Perfect for holiday events, these festive and customizable designs will captivate your audience. Easily create stunning presentations that spread the Christmas spirit. Download your template today!">
+                    <meta name="keywords" content="free animated christmas powerpoint presentation templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-animated-christmas-powerpoint-presentation-templates">
+                            <span itemprop="name">free animated christmas powerpoint presentation templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Animated Christmas PowerPoint Templates: Festive & Fun!</h1>
+                <p>Explore our collection of free animated Christmas PowerPoint presentation templates to elevate your holiday presentations! These customizable templates feature festive designs, engaging animations, and user-friendly layouts, perfect for classrooms, offices, or family gatherings. Make your festive message shine this season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Best Creative Animated Christmas PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/12/Animated-Santa-Claus-PowerPoint-Template.jpg' alt='10+ Best Creative Animated Christmas PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/12/Animated-Santa-Claus-PowerPoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Hanging Ornaments PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2016/12/hanging-ornaments-powerpoint-template.png' alt='Animated Hanging Ornaments PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2016/12/hanging-ornaments-powerpoint-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Christmas PPT Backgrounds Free and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/702038-animated-christmas-powerpoint-backgrounds-free.png' alt='Animated Christmas PPT Backgrounds Free and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/702038-animated-christmas-powerpoint-backgrounds-free.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Christmas PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2014/12/Animated-Lights-of-Holly-PowerPoint-template.jpg' alt='Animated Christmas PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2014/12/Animated-Lights-of-Holly-PowerPoint-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free And Premium Christmas PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Christmas-Snow-PowerPoint-Template.jpg' alt='Best Free And Premium Christmas PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Hunter" />
+                                </span>
+                                <a href='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Christmas-Snow-PowerPoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Animated Christmas PowerPoint Presentation Templates">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/86568-animated-christmas-powerpoint-templates-free-download.png' alt='Free Animated Christmas PowerPoint Presentation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/86568-animated-christmas-powerpoint-templates-free-download.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Christmas presentation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGVpUTPwcY/1/0/1600w/canva-red-illustration-christmas-presentation-fY8SOlMFk_I.jpg' alt='Free customizable Christmas presentation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGVpUTPwcY/1/0/1600w/canva-red-illustration-christmas-presentation-fY8SOlMFk_I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Merry Christmas Presentation Theme for PowerPoint and Google ...">
+                                <img itemprop="contentUrl url" src='https://www.sketchbubble.com/blog/wp-content/uploads/2023/02/merry-christmas-theme.png' alt='Free Merry Christmas Presentation Theme for PowerPoint and Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://www.sketchbubble.com/blog/wp-content/uploads/2023/02/merry-christmas-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Ice Eclipse Christmas PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Animated-Ice-Eclipse-Christmas-PowerPoint-Template.png' alt='Animated Ice Eclipse Christmas PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Hunter" />
+                                </span>
+                                <a href='https://d7c2r9g9.delivery.rocketcdn.me/wp-content/uploads/Animated-Ice-Eclipse-Christmas-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Christmas PowerPoint Templates and Google Slides Themes ...">
+                                <img itemprop="contentUrl url" src='https://i.poweredtemplates.com/p/pp/00/175/ppt_slide1.jpg' alt='Animated Christmas PowerPoint Templates and Google Slides Themes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PoweredTemplate" />
+                                </span>
+                                <a href='https://i.poweredtemplates.com/p/pp/00/175/ppt_slide1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

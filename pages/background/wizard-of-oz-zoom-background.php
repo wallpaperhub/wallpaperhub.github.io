@@ -1,0 +1,129 @@
+<title>Magical Wizard of Oz Zoom Backgrounds for Your Virtual Meetings</title>
+                    <meta name="description" content="Elevate your Zoom calls with stunning Wizard of Oz backgrounds. Explore enchanting scenes like the Yellow Brick Road and Emerald City. Perfect for fans and those seeking a delightful ambiance in their virtual meetings. Add a splash of magic to your online interactions today!">
+                    <meta name="keywords" content="wizard of oz zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wizard-of-oz-zoom-background">
+                            <span itemprop="name">wizard of oz zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Wizard of Oz Zoom Backgrounds for Your Virtual Meetings</h1>
+                <p>Transform your virtual meetings with a Wizard of Oz zoom background! Whether you want to journey down the Yellow Brick Road or visit the Emerald City, these enchanting backgrounds will add a touch of magic to your online presence. Perfect for fans of the classic tale or anyone looking to create a whimsical atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Wizard of Oz Backdrop, Instant Download, 6ft X 4ft ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6649911/r/il/644d6e/737812536/il_fullxfull.737812536_g5st.jpg' alt='Printable Wizard of Oz Backdrop, Instant Download, 6ft X 4ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6649911/r/il/644d6e/737812536/il_fullxfull.737812536_g5st.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wizard Of Oz Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wizard-of-oz-background-wu3m9v6ts8udm5pt.jpg' alt='100+] Wizard Of Oz Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wizard-of-oz-background-wu3m9v6ts8udm5pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard of Oz Yellow Brick Road Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/wizard-of-oz-yellow-brick-road-photo-backdrop-pro-8ft-w-x-8ft-h-w-o-floor-31799710089407_3b36366e-6e21-4356-adc6-379c61a15825.jpg?v=1738771507&width=1445' alt='Wizard of Oz Yellow Brick Road Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/wizard-of-oz-yellow-brick-road-photo-backdrop-pro-8ft-w-x-8ft-h-w-o-floor-31799710089407_3b36366e-6e21-4356-adc6-379c61a15825.jpg?v=1738771507&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard of Oz Backdrops - Grosh Digital Backdrops">
+                                <img itemprop="contentUrl url" src='https://www.groshdigital.com/media/Wizard-of-Oz-projected-backdrop-image.jpg' alt='Wizard of Oz Backdrops - Grosh Digital Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://www.groshdigital.com/media/Wizard-of-Oz-projected-backdrop-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wizard Of Oz Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wizard-of-oz-background-qzced02v1epb7uei.jpg' alt='100+] Wizard Of Oz Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wizard-of-oz-background-qzced02v1epb7uei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Zoom Virtual Backgrounds | Kustom Imprints">
+                                <img itemprop="contentUrl url" src='https://kustomimprints.com/wp-content/uploads/2020/04/Yello-Brick-Road-1024x576.jpg' alt='Free Zoom Virtual Backgrounds | Kustom Imprints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kustom Imprints" />
+                                </span>
+                                <a href='https://kustomimprints.com/wp-content/uploads/2020/04/Yello-Brick-Road-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald City, Wizard of Oz Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/emerald-city-wizard-of-oz-photo-backdrop-pro-8ft-w-x-8ft-h-w-o-floor-31799054893247_fc3686ef-cd61-4d3a-82b6-a4c54e855a7f.jpg?v=1738773206&width=1445' alt='Emerald City, Wizard of Oz Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/emerald-city-wizard-of-oz-photo-backdrop-pro-8ft-w-x-8ft-h-w-o-floor-31799054893247_fc3686ef-cd61-4d3a-82b6-a4c54e855a7f.jpg?v=1738773206&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Wizard of Oz at Night Backdrop, Instant Download, 6ft x 4ft,  Emerald City at Night, Wizard of Oz Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6649911/r/il/4f61a8/1572332013/il_fullxfull.1572332013_4qr2.jpg' alt='Printable Wizard of Oz at Night Backdrop, Instant Download, 6ft x 4ft,  Emerald City at Night, Wizard of Oz Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6649911/r/il/4f61a8/1572332013/il_fullxfull.1572332013_4qr2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="858 Wizard Oz Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2502992937/display_1500/stock-photo-a-vibrant-and-colorful-background-inspired-by-the-wizard-of-oz-featuring-the-yellow-brick-road-2502992937.jpg' alt='858 Wizard Oz Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2502992937/display_1500/stock-photo-a-vibrant-and-colorful-background-inspired-by-the-wizard-of-oz-featuring-the-yellow-brick-road-2502992937.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theatre Review: The Wonderful Wizard of Oz on Zoom - Culturefly">
+                                <img itemprop="contentUrl url" src='https://culturefly.co.uk/wp-content/uploads/2020/12/wonderful-wizard-of-oz-1024x576.jpg' alt='Theatre Review: The Wonderful Wizard of Oz on Zoom - Culturefly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Culturefly" />
+                                </span>
+                                <a href='https://culturefly.co.uk/wp-content/uploads/2020/12/wonderful-wizard-of-oz-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone 14 lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/iphone-14-lock-screen-wallpaper">
+                            <span itemprop="name">iphone 14 lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 14 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/730/501/HD-wallpaper-iphone-14-pro-thumbnail.jpg' alt='HD iphone 14 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/730/501/HD-wallpaper-iphone-14-pro-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-wallpaper-1.jpeg?quality=82&strip=all' alt='Download the iPhone 14 and 14 Pro wallpapers here - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-wallpaper-1.jpeg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/f0/9b/05f09bbfa0e5af88a8a8adb1a249fde1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/f0/9b/05f09bbfa0e5af88a8a8adb1a249fde1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Lock Screen with iPhone 14 wallpaper : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ios-16-lock-screen-with-iphone-14-wallpaper-v0-3so3ieczbum91.jpg?width=1080&crop=smart&auto=webp&s=e920d5582d412902314efd091109ca9109710ba9' alt='iOS 16 Lock Screen with iPhone 14 wallpaper : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ios-16-lock-screen-with-iphone-14-wallpaper-v0-3so3ieczbum91.jpg?width=1080&crop=smart&auto=webp&s=e920d5582d412902314efd091109ca9109710ba9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 14 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1e/c8/d7/1ec8d7315c29c287b702bf1d871c450b.jpg' alt='iphone 14 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="342">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1e/c8/d7/1ec8d7315c29c287b702bf1d871c450b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strong Lights Game (from iOS 14 Lockscreen Concept) - Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/05/x-768x1662.png' alt='Strong Lights Game (from iOS 14 Lockscreen Concept) - Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/05/x-768x1662.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/O_74qv0W-R2yna7siOuvBK8cAA8=/4137x/article-new/2023/02/lock-screen-photo-shuffle.jpg' alt='Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4137">
+                                <meta itemprop="height" content="2716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/O_74qv0W-R2yna7siOuvBK8cAA8=/4137x/article-new/2023/02/lock-screen-photo-shuffle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 14 Pro Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-14-pro-3d-microscopic-blue-yhruhmvfj1bts0iq.jpg' alt='100+] Iphone 14 Pro Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-14-pro-3d-microscopic-blue-yhruhmvfj1bts0iq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/54/a4/40/54a44053eab293e65fd65f4024732507.jpg' alt='iPhone 14 Pro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/54/a4/40/54a44053eab293e65fd65f4024732507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple iPhone 14 Event Wallpapers — 9 Tech Eleven">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1661778059684-3WGSPCDTUFNQKS1AKV26/20220829+-+iPhone.png' alt='Apple iPhone 14 Event Wallpapers — 9 Tech Eleven'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9 Tech Eleven" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1661778059684-3WGSPCDTUFNQKS1AKV26/20220829+-+iPhone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

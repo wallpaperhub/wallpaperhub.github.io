@@ -1,0 +1,129 @@
+<title>Robert Lewandowski: Soccer's Ultimate Goal Scoring Machine</title>
+                    <meta name="description" content="Discover the remarkable journey of Robert Lewandowski, one of football's greatest strikers. Explore his record-breaking career, incredible skills, and contributions to FC Barcelona and the Poland national team. Get insights into his life on and off the pitch, and learn why he is a football legend.">
+                    <meta name="keywords" content="robert lewandowski">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/robert-lewandowski">
+                            <span itemprop="name">robert lewandowski</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Robert Lewandowski: Soccer's Ultimate Goal Scoring Machine</h1>
+                <p>Robert Lewandowski is a Polish professional footballer known for his incredible goal-scoring ability and sharp football intelligence. He currently plays as a striker for FC Barcelona and the Poland national team. With numerous awards, including FIFA Best Men's Player, Lewandowski is regarded as one of the best strikers in football history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg' alt='Robert Lewandowski - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2373">
+                                <meta itemprop="height" content="3290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Player Dorsal Assignment">
+                                <img itemprop="contentUrl url" src='https://www.fcbarcelona.com/photo-resources/2024/10/13/b666059e-1d0a-493f-a7e5-dd7a258d8165/09-Lewandowski-M.jpg?width=1200&height=750' alt='Player Dorsal Assignment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Player Dorsal Assignment" />
+                                </span>
+                                <a href='https://www.fcbarcelona.com/photo-resources/2024/10/13/b666059e-1d0a-493f-a7e5-dd7a258d8165/09-Lewandowski-M.jpg?width=1200&height=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski - Soccer News, Rumors, & Updates | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/soccer/headshots/2100.png' alt='Robert Lewandowski - Soccer News, Rumors, & Updates | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/soccer/headshots/2100.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="77,321 Robert Lewandowski Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2179828625/photo/barcelona-spain-robert-lewandowski-of-fc-barcelona-celebrates-scoring-his-teams-second-goal.jpg?s=612x612&w=gi&k=20&c=cAS7S5uo6v46qPK-S92jtaR4fmjHbhiibEAI94YatYg=' alt='77,321 Robert Lewandowski Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2179828625/photo/barcelona-spain-robert-lewandowski-of-fc-barcelona-celebrates-scoring-his-teams-second-goal.jpg?s=612x612&w=gi&k=20&c=cAS7S5uo6v46qPK-S92jtaR4fmjHbhiibEAI94YatYg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robert_Lewandoski%2C_jugador_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped%29.jpg/190px-Robert_Lewandoski%2C_jugador_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped%29.jpg' alt='Robert Lewandowski - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robert_Lewandoski%2C_jugador_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped%29.jpg/190px-Robert_Lewandoski%2C_jugador_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bayern Munich's Robert Lewandowski wins 2021/22 European Golden ...">
+                                <img itemprop="contentUrl url" src='https://assets.bundesliga.com/tachyon/sites/2/2022/06/wob_fcb_lewandowski_1920.jpg?crop=285px,0px,1350px,1080px&fit=540,540' alt='Bayern Munich's Robert Lewandowski wins 2021/22 European Golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bundesliga" />
+                                </span>
+                                <a href='https://assets.bundesliga.com/tachyon/sites/2/2022/06/wob_fcb_lewandowski_1920.jpg?crop=285px,0px,1350px,1080px&fit=540,540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski stats | FC Barcelona Players">
+                                <img itemprop="contentUrl url" src='https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/LEWANDOWSKI-min.jpg' alt='Robert Lewandowski stats | FC Barcelona Players'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FC Barcelona Players" />
+                                </span>
+                                <a href='https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/LEWANDOWSKI-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski enjoying best ever season for Barcelona as ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/1P9bD7MrzU5YlT4qvf3Z6Uq3BsY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73937191/2201355358.0.jpg' alt='Robert Lewandowski enjoying best ever season for Barcelona as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barca Blaugranes" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/1P9bD7MrzU5YlT4qvf3Z6Uq3BsY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73937191/2201355358.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Robert Lewandowski">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044284516881' alt='Profile for Robert Lewandowski'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044284516881' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Lewandowski: News & player profile - FC Bayern Munich">
+                                <img itemprop="contentUrl url" src='https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-4x3-seo/v1656615315/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/robert_lewandowski.png' alt='Robert Lewandowski: News & player profile - FC Bayern Munich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FC Bayern" />
+                                </span>
+                                <a href='https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-4x3-seo/v1656615315/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/robert_lewandowski.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

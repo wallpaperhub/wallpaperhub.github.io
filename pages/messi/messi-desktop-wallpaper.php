@@ -1,0 +1,129 @@
+<title>Stunning Messi Desktop Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an array of breathtaking Messi desktop wallpapers that bring the magic of football to your screen. Perfect for fans, these wallpapers are high-resolution and showcase Messi's unforgettable moments. Download today and celebrate the legendary player's brilliance right on your desktop!">
+                    <meta name="keywords" content="messi desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-desktop-wallpaper">
+                            <span itemprop="name">messi desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Messi Desktop Wallpapers for Every Fan</h1>
+                <p>Elevate your desktop with stunning Messi wallpapers that capture his iconic moments on the field. From breathtaking goals to joyful celebrations, these high-resolution images will motivate and inspire you daily. Perfect for any football fan wanting to showcase their admiration for one of the greatest players of all time!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi FC Barcelona HD Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/133/1335727.jpeg' alt='Messi FC Barcelona HD Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/133/1335727.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi Desktop wallpaper HD by Ropn1996 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85d6da3c-4fa2-4559-95b2-05e1f2fbc3ab/db75w6i-1bfd45c7-cdc0-4a69-9445-964434b423f2.jpg/v1/fill/w_1024,h_820,q_75,strp/leo_messi_desktop_wallpaper_hd_by_ropn1996_db75w6i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvODVkNmRhM2MtNGZhMi00NTU5LTk1YjItMDVlMWYyZmJjM2FiXC9kYjc1dzZpLTFiZmQ0NWM3LWNkYzAtNGE2OS05NDQ1LTk2NDQzNGI0MjNmMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.H_ep9XzgSvlOx4fEX5bsN2-lZsCGPBHQIar6cZAny9Q' alt='Leo Messi Desktop wallpaper HD by Ropn1996 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85d6da3c-4fa2-4559-95b2-05e1f2fbc3ab/db75w6i-1bfd45c7-cdc0-4a69-9445-964434b423f2.jpg/v1/fill/w_1024,h_820,q_75,strp/leo_messi_desktop_wallpaper_hd_by_ropn1996_db75w6i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvODVkNmRhM2MtNGZhMi00NTU5LTk1YjItMDVlMWYyZmJjM2FiXC9kYjc1dzZpLTFiZmQ0NWM3LWNkYzAtNGE2OS05NDQ1LTk2NDQzNGI0MjNmMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.H_ep9XzgSvlOx4fEX5bsN2-lZsCGPBHQIar6cZAny9Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/2005/lionel-messi-fifa-2023.jpg' alt='Messi Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/2005/lionel-messi-fifa-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper sport, back, Football, sport, gesture, Lionel Messi ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/9b/lionel-messi-futbol-barselona-zhest-spina-sport-lionel-messi.webp' alt='Wallpaper sport, back, Football, sport, gesture, Lionel Messi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/9b/lionel-messi-futbol-barselona-zhest-spina-sport-lionel-messi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/c/4/192417-3840x2160-desktop-4k-lionel-messi-background-image.jpg' alt='Lionel Messi Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/c/4/192417-3840x2160-desktop-4k-lionel-messi-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi 4K Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2544764.jpg' alt='Messi 4K Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2544764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Barcelona Celebration HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/771/thumb-1920-771163.jpg' alt='Lionel Messi Barcelona Celebration HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/771/thumb-1920-771163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi - Top messi, Messi - 24, FC Barcelona Messi, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/585/26/HD-wallpaper-messi-top-messi-messi-24-fc-barcelona-messi.jpg' alt='Messi - Top messi, Messi - 24, FC Barcelona Messi, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/585/26/HD-wallpaper-messi-top-messi-messi-24-fc-barcelona-messi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Lionel Messi, Barcelona, celebration for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/b/60/lionel-messi-barcelona-7192.webp' alt='Wallpaper Lionel Messi, Barcelona, celebration for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/b/60/lionel-messi-barcelona-7192.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Lionel Messi 2012, Lionel Messi wallpaper, Sports ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/00/5e/f8005eb3138843c192fa014920fe8fac.jpg' alt='HD wallpaper: Lionel Messi 2012, Lionel Messi wallpaper, Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/00/5e/f8005eb3138843c192fa014920fe8fac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

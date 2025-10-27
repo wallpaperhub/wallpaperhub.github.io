@@ -1,0 +1,129 @@
+<title>Cute Santa Wallpaper: Festive Designs for Your Devices</title>
+                    <meta name="description" content="Discover adorable cute Santa wallpapers to brighten your devices this holiday season! Our festive designs feature Santa in delightful poses, perfect for spreading cheer. Download now for an instant holiday makeover on your screens!">
+                    <meta name="keywords" content="cute santa wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-santa-wallpaper">
+                            <span itemprop="name">cute santa wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Santa Wallpaper: Festive Designs for Your Devices</h1>
+                <p>Cute Santa wallpaper adds a festive touch to your device, filling it with joy and cheer. Perfect for the holiday season, these charming designs feature Santa in playful poses, surrounded by snowflakes, gifts, and reindeer. Transform your screen into a winter wonderland with delightful wallpapers that spread holiday spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper | Winter season | Christmas |mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/f5/52/e1f552208bfc26bd032a80331dc33d74.jpg' alt='Christmas Wallpaper | Winter season | Christmas |mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/f5/52/e1f552208bfc26bd032a80331dc33d74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Santa Wallpaper Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-background-hand-drawn_23-2148330949.jpg' alt='Cute Santa Wallpaper Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-background-hand-drawn_23-2148330949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Cute Christmas Wallpapers Featuring Santa Claus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/1c/85/851c85945dba9924820290309eae7fe0.jpg' alt='25 Cute Christmas Wallpapers Featuring Santa Claus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/1c/85/851c85945dba9924820290309eae7fe0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cute Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-christmas-9yav81zxoilvilv9.jpg' alt='200+] Cute Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-christmas-9yav81zxoilvilv9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FUN SANTA WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/59/81/495981068854f9ee2526b1b5050cc35a.jpg' alt='FUN SANTA WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/59/81/495981068854f9ee2526b1b5050cc35a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Simple Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-simple-christmas-qaq7kvsxz8b81gug.jpg' alt='100+] Cute Simple Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-simple-christmas-qaq7kvsxz8b81gug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's some cute xmas wallpapers ♡ :D : r/feemagers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/heres-some-cute-xmas-wallpapers-d-v0-r7yrgn187k2c1.jpg?width=758&format=pjpg&auto=webp&s=609183630aa6a7768dda6043b6f094c34ee185ed' alt='Here's some cute xmas wallpapers ♡ :D : r/feemagers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/heres-some-cute-xmas-wallpapers-d-v0-r7yrgn187k2c1.jpg?width=758&format=pjpg&auto=webp&s=609183630aa6a7768dda6043b6f094c34ee185ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Santa Claus Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/16/12/db16128a0718b166de7e7fa61e4be5f5.jpg' alt='Cute Santa Claus Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/16/12/db16128a0718b166de7e7fa61e4be5f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Cute Christmas Holidays Cartoon Seamless ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZkZPei94L._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Cute Christmas Holidays Cartoon Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZkZPei94L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Santa Claus With Christmas Gifts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-santa-claus-with-christmas-gifts-vnqjbnwlf8zrmncm-3.jpg' alt='Cute Santa Claus With Christmas Gifts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-santa-claus-with-christmas-gifts-vnqjbnwlf8zrmncm-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

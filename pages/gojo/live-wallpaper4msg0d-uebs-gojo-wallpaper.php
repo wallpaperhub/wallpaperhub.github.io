@@ -1,0 +1,129 @@
+<title>Vibrant Gojo Live Wallpaper for Your Device</title>
+                    <meta name="description" content="Enhance your device with our captivating Gojo live wallpaper! Experience dynamic visuals and vibrant colors that bring your screen to life. Perfect for Jujutsu Kaisen fans, it’s an easy way to add personality to your device. Download today for a stunning aesthetic upgrade!">
+                    <meta name="keywords" content="live wallpaper:4msg0d-uebs= gojo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo">
+                            <span itemprop="name">Gojo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo/live-wallpaper4msg0d-uebs-gojo-wallpaper">
+                            <span itemprop="name">live wallpaper:4msg0d-uebs= gojo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gojo Live Wallpaper for Your Device</h1>
+                <p>Transform your device’s screen with stunning live wallpaper featuring Gojo from Jujutsu Kaisen! This mesmerizing wallpaper, labeled as 4msg0d-uebs, brings dynamic visuals and vibrant colors to life, enhancing your experience whether you’re scrolling through apps or enjoying your home screen. Download now to elevate your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Satoru Gojo Live Wallpapers 4K PC & Mobile">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' alt='90+ Satoru Gojo Live Wallpapers 4K PC & Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Live Wallpapers and More | DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/1726055779.webp' alt='Gojo Live Wallpapers and More | DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/1726055779.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-cYLJ-dsKBM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgKSh_MA8=&rs=AOn4CLDWz6wc9NlLAz8_79Pbx7tSLiYbOg' alt='Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-cYLJ-dsKBM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgKSh_MA8=&rs=AOn4CLDWz6wc9NlLAz8_79Pbx7tSLiYbOg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/57WRtZbQdvs/maxresdefault.jpg' alt='Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/57WRtZbQdvs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Satoru Gojo Live Wallpapers, Animated Wallpapers - MoeWalls">
+                                <img itemprop="contentUrl url" src='https://moewalls.com/wp-content/uploads/2025/01/gojo-cursed-technique-lapse-blue-jujutsu-kaisen-thumb.jpg' alt='60 Satoru Gojo Live Wallpapers, Animated Wallpapers - MoeWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MoeWalls" />
+                                </span>
+                                <a href='https://moewalls.com/wp-content/uploads/2025/01/gojo-cursed-technique-lapse-blue-jujutsu-kaisen-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Jujutsu Kaisen Live Wallpaper by WallpaperWaves on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b71edbb-cd57-4b5f-97dd-d324906acb60/dhqppbz-b2907d6b-127c-495b-8723-d2b0fa350019.jpg/v1/fill/w_1192,h_670,q_70,strp/gojo_jujutsu_kaisen_live_wallpaper_by_wallpaperwaves_dhqppbz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWI3MWVkYmItY2Q1Ny00YjVmLTk3ZGQtZDMyNDkwNmFjYjYwXC9kaHFwcGJ6LWIyOTA3ZDZiLTEyN2MtNDk1Yi04NzIzLWQyYjBmYTM1MDAxOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.E1I76Uc0nXZFRhSJHO2USW5emjmFJu6ORj8TJteHWdY' alt='Gojo Jujutsu Kaisen Live Wallpaper by WallpaperWaves on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b71edbb-cd57-4b5f-97dd-d324906acb60/dhqppbz-b2907d6b-127c-495b-8723-d2b0fa350019.jpg/v1/fill/w_1192,h_670,q_70,strp/gojo_jujutsu_kaisen_live_wallpaper_by_wallpaperwaves_dhqppbz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWI3MWVkYmItY2Q1Ny00YjVmLTk3ZGQtZDMyNDkwNmFjYjYwXC9kaHFwcGJ6LWIyOTA3ZDZiLTEyN2MtNDk1Yi04NzIzLWQyYjBmYTM1MDAxOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.E1I76Uc0nXZFRhSJHO2USW5emjmFJu6ORj8TJteHWdY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Jujutsu Sorcerer Live Wallpaper : r/DesktopHut">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/gojo-jujutsu-sorcerer-live-wallpaper-v0-2HjKa3vsdKpopd7_Tyx-c8BZL8ApFnIt_yQYtOl2zqE.jpg?auto=webp&s=677d26ef0cdfd83123716ed596694c775112c0b4' alt='Gojo Jujutsu Sorcerer Live Wallpaper : r/DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/gojo-jujutsu-sorcerer-live-wallpaper-v0-2HjKa3vsdKpopd7_Tyx-c8BZL8ApFnIt_yQYtOl2zqE.jpg?auto=webp&s=677d26ef0cdfd83123716ed596694c775112c0b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rOByQdVjFEw/maxresdefault.jpg' alt='Jujutsu Kaisen - Gojo Satoru [ Live Wallpaper ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rOByQdVjFEw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90+ Satoru Gojo Live Wallpapers 4K PC & Mobile">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/5971/gojo-hollow-purple.jpg' alt='90+ Satoru Gojo Live Wallpapers 4K PC & Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/5971/gojo-hollow-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K: Satoru Gojo from Jujutsu Kaisen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7449586867059658017&location=0&aid=1988' alt='Live Wallpaper 4K: Satoru Gojo from Jujutsu Kaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7449586867059658017&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

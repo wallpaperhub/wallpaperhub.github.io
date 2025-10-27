@@ -1,0 +1,129 @@
+<title>Unique Broken Phone Wallpapers: Embrace Imperfections</title>
+                    <meta name="description" content="Discover artistic wallpapers for cracked screens! Showcase your phone's unique character with creative designs, turning flaws into fabulous expressions. Perfect for those who embrace their device's imperfections in style. Stand out with a custom touch today!">
+                    <meta name="keywords" content="broke phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/broke-phone-wallpaper">
+                            <span itemprop="name">broke phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unique Broken Phone Wallpapers: Embrace Imperfections</h1>
+                <p>Transform your broken phone's screen into a canvas of creativity! Explore a variety of unique phone wallpapers that showcase cracks, chips, and breakage in an artistic way. Stand out and celebrate your phone's imperfections with stunning designs that reflect your personality. Make your broken device a conversation starter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken screen wallpaper by IsaiahTheGoat - Download on ZEDGE™ | 7ab9">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/fe/ca/9bfeca555d5ea0a2fafd5f2b5aa7881d.jpg' alt='Broken screen wallpaper by IsaiahTheGoat - Download on ZEDGE™ | 7ab9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/fe/ca/9bfeca555d5ea0a2fafd5f2b5aa7881d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic broken phone screen wallpaper + Wallpapers Download 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/02/71/e802719263dab45f9ad2136bdc5eaa71.jpg' alt='Realistic broken phone screen wallpaper + Wallpapers Download 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/02/71/e802719263dab45f9ad2136bdc5eaa71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked-iPhone XR Screen Wallpaper - Doc Pop's Weblog">
+                                <img itemprop="contentUrl url" src='https://docpop.org/wp-content/uploads/2023/09/10091489-1AF1-48BF-9BA5-7E4C03947D91_1_105_c.jpeg' alt='Cracked-iPhone XR Screen Wallpaper - Doc Pop's Weblog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="docpop.org" />
+                                </span>
+                                <a href='https://docpop.org/wp-content/uploads/2023/09/10091489-1AF1-48BF-9BA5-7E4C03947D91_1_105_c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Display, rainbow line, rainbow, line, display, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/448/676/HD-wallpaper-broken-display-rainbow-line-rainbow-line-display.jpg' alt='Broken Display, rainbow line, rainbow, line, display, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/448/676/HD-wallpaper-broken-display-rainbow-line-rainbow-line-display.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/0e/33/8c0e33bf38663f466d6ed1ab8d1c2ac1.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/0e/33/8c0e33bf38663f466d6ed1ab8d1c2ac1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shattered Screen On Awesome Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/shattered-screen-on-awesome-phone-b8cx81gbbdi4zf5v.jpg' alt='Shattered Screen On Awesome Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/shattered-screen-on-awesome-phone-b8cx81gbbdi4zf5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Broken, Colorful, display damage, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/225/809/HD-wallpaper-mobile-broken-colorful-display-damage.jpg' alt='Mobile Broken, Colorful, display damage, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/225/809/HD-wallpaper-mobile-broken-colorful-display-damage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I think my new wallpaper will stop potential thieves. : r/funny">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/bC7xlZV.jpg' alt='I think my new wallpaper will stop potential thieves. : r/funny'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/bC7xlZV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 5 Wallpaper Cracked Screen - Colab">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3e/0d/58/3e0d58777fb64575125d90b20b1b82a8.jpg' alt='Iphone 5 Wallpaper Cracked Screen - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colab - Google" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3e/0d/58/3e0d58777fb64575125d90b20b1b82a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Phone Wallpaper - Cracked Screen Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6791476297207008517&location=0&aid=1988' alt='Broken Phone Wallpaper - Cracked Screen Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6791476297207008517&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

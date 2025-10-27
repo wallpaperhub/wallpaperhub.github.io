@@ -1,0 +1,129 @@
+<title>Vibrant Wiggle Room Wallpaper: Fun & Flexible Decor</title>
+                    <meta name="description" content="Discover the joy of wiggle room wallpaper! Perfect for playful spaces, this versatile and fun decor option revitalizes your interiors. Easy to apply and change, it's ideal for kids' rooms and creative areas. Transform your home with lively patterns and colors that inspire imagination and creativity.">
+                    <meta name="keywords" content="wiggle room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wiggle-room-wallpaper">
+                            <span itemprop="name">wiggle room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Wiggle Room Wallpaper: Fun & Flexible Decor</h1>
+                <p>Wiggle room wallpaper brings a playful twist to your home decor. With vibrant colors and fun patterns, it creates a lively atmosphere while allowing flexibility in design. Ideal for children’s rooms or creative spaces, this wallpaper is easy to apply and remove, making it a perfect choice for those who love to refresh their interiors frequently.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Peel and Stick Wallpaper By Bobby Berk">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/BB14157-blue-cream-wiggle-room-bobby-berk-wallpaper-living-room_1800x1800.jpg?v=1724346623' alt='Wiggle Room Peel and Stick Wallpaper By Bobby Berk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/BB14157-blue-cream-wiggle-room-bobby-berk-wallpaper-living-room_1800x1800.jpg?v=1724346623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Peel and Stick Wallpaper By Bobby Berk">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/98007286/resize-h600-w600%5Ecompr-r85/2014/201491754/Wiggle+Room+Peel+and+Stick+Wallpaper+By+Bobby+Berk.jpg' alt='Wiggle Room Peel and Stick Wallpaper By Bobby Berk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/98007286/resize-h600-w600%5Ecompr-r85/2014/201491754/Wiggle+Room+Peel+and+Stick+Wallpaper+By+Bobby+Berk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobby Berk Wiggle Room Wallpaper - Bobby Berk">
+                                <img itemprop="contentUrl url" src='https://bobbyberk.com/wp-content/uploads/2021/02/bb4035-wiggle-room-blackwhite-bobby-berk-removable-wallpaper-entryway-red-door-web.jpg' alt='Bobby Berk Wiggle Room Wallpaper - Bobby Berk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobby Berk" />
+                                </span>
+                                <a href='https://bobbyberk.com/wp-content/uploads/2021/02/bb4035-wiggle-room-blackwhite-bobby-berk-removable-wallpaper-entryway-red-door-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper x Bobby Berk White & Black Wiggle Room Removable Peel and Stick  Wallpaper, 20.5 in X 16.5 ft, Made in The USA - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MsS0zJITL.jpg' alt='Tempaper x Bobby Berk White & Black Wiggle Room Removable Peel and Stick  Wallpaper, 20.5 in X 16.5 ft, Made in The USA - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MsS0zJITL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Wallpaper by Bobby Berk for Tempaper">
+                                <img itemprop="contentUrl url" src='https://assets.weimgs.com/weimgs/ab/images/wcm/products/202445/0012/wiggle-room-wallpaper-by-bobby-berk-for-tempaper-o.jpg' alt='Wiggle Room Wallpaper by Bobby Berk for Tempaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="West Elm" />
+                                </span>
+                                <a href='https://assets.weimgs.com/weimgs/ab/images/wcm/products/202445/0012/wiggle-room-wallpaper-by-bobby-berk-for-tempaper-o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Bobby Berk White and Black Wiggle Room Vinyl Peel and ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2fe019a8-8f7b-4cf1-9aa3-45652ad08f58/svn/tempaper-wallpaper-rolls-bb14035-64_1000.jpg' alt='Tempaper Bobby Berk White and Black Wiggle Room Vinyl Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2fe019a8-8f7b-4cf1-9aa3-45652ad08f58/svn/tempaper-wallpaper-rolls-bb14035-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Peel-and-Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/b0/ef/17b0efca1a5be38103b00c397dfb349b.jpg' alt='Wiggle Room Peel-and-Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/b0/ef/17b0efca1a5be38103b00c397dfb349b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Sand & White Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://makerandmoss.com/cdn/shop/products/BB14158-bobby-berk-Wiggle-Room-Sand-White-tempaper-living-room-RGB.jpg?v=1668197715' alt='Wiggle Room Sand & White Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maker & Moss" />
+                                </span>
+                                <a href='https://makerandmoss.com/cdn/shop/products/BB14158-bobby-berk-Wiggle-Room-Sand-White-tempaper-living-room-RGB.jpg?v=1668197715' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Peel And Stick Wallpaper By Bobby Berk">
+                                <img itemprop="contentUrl url" src='https://franceandson.com/cdn/shop/files/BB14157-blue-cream-wiggle-room-bobby-berk-wallpaper-bedroom_1800x1800_d75c04e1-c3cd-41b5-aefd-05a6a2a6daeb.jpg?v=1718459789&width=1080' alt='Wiggle Room Peel And Stick Wallpaper By Bobby Berk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="France & Son" />
+                                </span>
+                                <a href='https://franceandson.com/cdn/shop/files/BB14157-blue-cream-wiggle-room-bobby-berk-wallpaper-bedroom_1800x1800_d75c04e1-c3cd-41b5-aefd-05a6a2a6daeb.jpg?v=1718459789&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiggle Room Peel and Stick Wallpaper By Bobby Berk">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/76618640/resize-h755-w755%5Ecompr-r85/2014/201491770/Wiggle+Room+Peel+and+Stick+Wallpaper+By+Bobby+Berk.jpg' alt='Wiggle Room Peel and Stick Wallpaper By Bobby Berk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllModern" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/76618640/resize-h755-w755%5Ecompr-r85/2014/201491770/Wiggle+Room+Peel+and+Stick+Wallpaper+By+Bobby+Berk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spook-tacular Halloween Phone Wallpapers</title>
+                    <meta name="description" content="Discover the best Halloween wallpapers for your phone! Dive into a collection of spooky, fun, and festive designs that will elevate your mobile experience this season. Perfect for adding a touch of Halloween spirit to your everyday life!">
+                    <meta name="keywords" content="phone halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-halloween-wallpaper">
+                            <span itemprop="name">phone halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spook-tacular Halloween Phone Wallpapers</h1>
+                <p>Transform your phone this Halloween with spooky wallpapers that bring haunted vibes to your screen! Choose from creepy pumpkins, ghostly apparitions, and chilling Halloween motifs that remind you of the magic and thrills of this haunting season. Get into the spirit of Halloween and delight in the fright!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Halloween Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/halloween-phone-background-ny3dyp0a6pedprrw.jpg' alt='200+] Halloween Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/halloween-phone-background-ny3dyp0a6pedprrw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Cute Halloween Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/a8/a3/2da8a3260b8b3a2dc956bdf84ba98099.jpg' alt='26 Cute Halloween Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/a8/a3/2da8a3260b8b3a2dc956bdf84ba98099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' alt='Halloween phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Halloween wallpaper for your phone": "Don't forget to prepare your phone  for Halloween" See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KmffaNpjL._UF1000,1000_QL80_.jpg' alt='"Halloween wallpaper for your phone": "Don't forget to prepare your phone  for Halloween" See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KmffaNpjL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Reading Atmosphere #livewallpaper #halloween #iphone #4kwallpaper  #books">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7421999876419915050&location=0&aid=1988' alt='Halloween Reading Atmosphere #livewallpaper #halloween #iphone #4kwallpaper  #books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7421999876419915050&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Phone Wallpaper – Retro Pop Paper">
+                                <img itemprop="contentUrl url" src='https://retropoppaper.com/cdn/shop/files/ErnWallpaper.png?v=1692723719&width=1445' alt='Free Halloween Phone Wallpaper – Retro Pop Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retro Pop Paper" />
+                                </span>
+                                <a href='https://retropoppaper.com/cdn/shop/files/ErnWallpaper.png?v=1692723719&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Halloween Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-halloween-phone-80u2nivh0d9gijwb.jpg' alt='100+] Cute Halloween Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-halloween-phone-80u2nivh0d9gijwb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween sales phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/977/977829.jpg' alt='Halloween sales phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.antel.com.ph" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/977/977829.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Halloween Mobile Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/3e/5b/c03e5b229978b0f3a416e82c86e7af6d.jpg' alt='   Halloween Mobile Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/3e/5b/c03e5b229978b0f3a416e82c86e7af6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg' alt='Halloween Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

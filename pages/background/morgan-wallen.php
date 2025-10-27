@@ -1,0 +1,129 @@
+<title>Discover the Rise of Morgan Wallen: Country Music Sensation</title>
+                    <meta name="description" content="Explore the journey of Morgan Wallen, a talented country music artist whose unique sound and relatable lyrics have captivated fans worldwide. Learn about his hit singles, musical style, and the impact he's making on the genre. Join us in celebrating this rising star!">
+                    <meta name="keywords" content="morgan wallen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/morgan-wallen">
+                            <span itemprop="name">morgan wallen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rise of Morgan Wallen: Country Music Sensation</h1>
+                <p>Morgan Wallen is a rising star in country music, known for his distinctive voice and heartfelt lyrics. His blend of traditional country and modern influences has resonated with a wide audience. With hit songs like "Whiskey Glasses" and "7 Summers," Wallen's popularity continues to soar, solidifying his place in the industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Morgan Wallen">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044378441110' alt='Profile for Morgan Wallen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044378441110' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Morgan_Wallen_performing_at_Freedom_Fest_2019.jpg' alt='Morgan Wallen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1687">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d2/Morgan_Wallen_performing_at_Freedom_Fest_2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen canceling and rescheduling next 6 weeks of tour">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/Wpg2Sf5m_8d5rYDklieoojWbPgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Morgan-Wallen-01-050923-9d31ae250be8498ab16a1d1c12630931.jpg' alt='Morgan Wallen canceling and rescheduling next 6 weeks of tour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/Wpg2Sf5m_8d5rYDklieoojWbPgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Morgan-Wallen-01-050923-9d31ae250be8498ab16a1d1c12630931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/TCOrTAH5FGrS5XJ6eTr4TtA3Nuau8Q-5iZ9zWlU_aQ_0bk_GYdboBjUvBAy7f6ZCkbOfQbHvNg=s900-c-k-c0x00ffffff-no-rj' alt='Morgan Wallen - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/TCOrTAH5FGrS5XJ6eTr4TtA3Nuau8Q-5iZ9zWlU_aQ_0bk_GYdboBjUvBAy7f6ZCkbOfQbHvNg=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another Day, Another Object: Morgan Wallen Hit With Phone at ...">
+                                <img itemprop="contentUrl url" src='https://ca.billboard.com/media-library/morgan-wallen-performs-onstage-during-night-one-of-his-one-night-at-a-time-2024-tour-at-nissan-stadium-on-may-2-2024-in-nashvil.jpg?id=52544334&width=980' alt='Another Day, Another Object: Morgan Wallen Hit With Phone at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard Canada" />
+                                </span>
+                                <a href='https://ca.billboard.com/media-library/morgan-wallen-performs-onstage-during-night-one-of-his-one-night-at-a-time-2024-tour-at-nissan-stadium-on-may-2-2024-in-nashvil.jpg?id=52544334&width=980' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On Morgan Wallen, Reckless White Men, and America's Imperiled ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*img0ir1Nsr90bKpTGSl4gA.jpeg' alt='On Morgan Wallen, Reckless White Men, and America's Imperiled ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marcus K. Dowling - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*img0ir1Nsr90bKpTGSl4gA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/30731053?ops=fit(480%2C480)%2Crun(%22circle%22)' alt='Morgan Wallen | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/30731053?ops=fit(480%2C480)%2Crun(%22circle%22)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen Hits No. 1 On MusicRow Top Songwriter Chart ...">
+                                <img itemprop="contentUrl url" src='https://music-row-website-assets.s3.amazonaws.com/wp-content/uploads/2023/02/06201945/morgan_wallen_john_shearer_aug_22_image-scaled.jpg' alt='Morgan Wallen Hits No. 1 On MusicRow Top Songwriter Chart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusicRow.com" />
+                                </span>
+                                <a href='https://music-row-website-assets.s3.amazonaws.com/wp-content/uploads/2023/02/06201945/morgan_wallen_john_shearer_aug_22_image-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Wallen fans left disappointed over country star's 'I'm the ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1200/675/morgan-wallen-friends.jpg?ve=1&tl=1' alt='Morgan Wallen fans left disappointed over country star's 'I'm the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1200/675/morgan-wallen-friends.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Morgan Wallen">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1063367418768403&get_thumbnail=1' alt='Profile for Morgan Wallen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1063367418768403&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

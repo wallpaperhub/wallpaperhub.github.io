@@ -1,0 +1,129 @@
+<title>Exploring the Early Life of Jane Goodall: A Journey into Nature</title>
+                    <meta name="description" content="Discover the early life of Jane Goodall, the leading primatologist. Learn about her childhood inspirations, education, and groundbreaking journey to study chimpanzees in Africa, shaping our understanding of wildlife conservation.">
+                    <meta name="keywords" content="early life jane goodall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/early-life-jane-goodall">
+                            <span itemprop="name">early life jane goodall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Early Life of Jane Goodall: A Journey into Nature</h1>
+                <p>Jane Goodall was born on April 3, 1934, in London, England. From an early age, she displayed a strong interest in animals and nature. Inspired by books like "Tarzan," she dreamed of studying wildlife in Africa. After completing her education, she seized the opportunity to travel to Tanzania, where she made groundbreaking discoveries about chimpanzees.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dame Jane Goodall | Academy of Achievement">
+                                <img itemprop="contentUrl url" src='https://achievement.org/wp-content/uploads/2016/05/2-goo1-046-goodall-baby-and-monkey-IMG00465-scaled.jpg' alt='Dame Jane Goodall | Academy of Achievement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2186">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academy of Achievement" />
+                                </span>
+                                <a href='https://achievement.org/wp-content/uploads/2016/05/2-goo1-046-goodall-baby-and-monkey-IMG00465-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="READ: Jane Goodall (article) | Early Humans | Khan Academy">
+                                <img itemprop="contentUrl url" src='https://cdn.kastatic.org/ka-perseus-images/2f92d895b1b40df069a974de7542012574f456b3.jpg' alt='READ: Jane Goodall (article) | Early Humans | Khan Academy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Khan Academy" />
+                                </span>
+                                <a href='https://cdn.kastatic.org/ka-perseus-images/2f92d895b1b40df069a974de7542012574f456b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Defining Moments In One Exceptional Life: Jane Goodall">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2014_14/296876/140402-goodall-family-1244.jpg' alt='Five Defining Moments In One Exceptional Life: Jane Goodall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2014_14/296876/140402-goodall-family-1244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall - Roots & Shoots Türkiye">
+                                <img itemprop="contentUrl url" src='https://rootsandshootsturkey.org/wp-content/uploads/2020/10/rootsandshoots_Jane13.jpg' alt='Jane Goodall - Roots & Shoots Türkiye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roots & Shoots Türkiye" />
+                                </span>
+                                <a href='https://rootsandshootsturkey.org/wp-content/uploads/2020/10/rootsandshoots_Jane13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Jane - Jane Goodall Institute USA">
+                                <img itemprop="contentUrl url" src='https://janegoodall.org/wp-content/uploads/gallery_06_jg3.jpg' alt='About Jane - Jane Goodall Institute USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jane Goodall Institute" />
+                                </span>
+                                <a href='https://janegoodall.org/wp-content/uploads/gallery_06_jg3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dame Jane Goodall | Academy of Achievement">
+                                <img itemprop="contentUrl url" src='https://achievement.org/wp-content/uploads/2016/05/2-goo1-040-goodall-scannedfrombook-a-pensive-shot.jpg' alt='Dame Jane Goodall | Academy of Achievement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1848">
+                                <meta itemprop="height" content="2266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academy of Achievement" />
+                                </span>
+                                <a href='https://achievement.org/wp-content/uploads/2016/05/2-goo1-040-goodall-scannedfrombook-a-pensive-shot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane has said, “I was born loving... - Dr. Jane Goodall | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156728297817171' alt='Jane has said, “I was born loving... - Dr. Jane Goodall | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156728297817171' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane Goodall">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638891221/EducationHub/photos/jane-goodall-05.jpg' alt='Jane Goodall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5121">
+                                <meta itemprop="height" content="3417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638891221/EducationHub/photos/jane-goodall-05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Jane - Jane Goodall Institute USA">
+                                <img itemprop="contentUrl url" src='https://janegoodall.org/wp-content/uploads/gallery_05_jane-goodall.jpg' alt='About Jane - Jane Goodall Institute USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jane Goodall Institute" />
+                                </span>
+                                <a href='https://janegoodall.org/wp-content/uploads/gallery_05_jane-goodall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Trove of Unseen Footage Reveals Jane Goodall's Early ...">
+                                <img itemprop="contentUrl url" src='https://www.sierraclub.org/sites/default/files/styles/amp_1200x900_4_3/public/sierra/articles/big/2018-1-Mixed-Media-Jane-Goodall-documentary-WB.jpg.webp?itok=f07hoFos' alt='A Trove of Unseen Footage Reveals Jane Goodall's Early ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sierra Club" />
+                                </span>
+                                <a href='https://www.sierraclub.org/sites/default/files/styles/amp_1200x900_4_3/public/sierra/articles/big/2018-1-Mixed-Media-Jane-Goodall-documentary-WB.jpg.webp?itok=f07hoFos' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

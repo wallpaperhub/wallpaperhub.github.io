@@ -1,0 +1,129 @@
+<title>Captivating Dark Tropical Backgrounds for Your Space</title>
+                    <meta name="description" content="Discover stunning dark tropical backgrounds that transform your environment with rich colors and lush textures. Perfect for design inspiration, these captivating visuals bring tranquility and exotic allure to any project. Explore the beauty of tropical landscapes today!">
+                    <meta name="keywords" content="dark tropical background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-tropical-background">
+                            <span itemprop="name">dark tropical background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Dark Tropical Backgrounds for Your Space</h1>
+                <p>Immerse yourself in the enchanting allure of dark tropical backgrounds, where deep greens and rich browns blend seamlessly. These striking visuals evoke mystery and tranquility, perfect for creating a serene atmosphere in any space. Explore lush foliage, shadowy canopies, and the vibrancy of tropical flora against a twilight sky.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,500+ Dark Tropical Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1195333469/vector/branch-palm-realistic-leaves-and-branches-of-palm-trees-tropical-leaf-background.jpg?s=612x612&w=0&k=20&c=AGRXMvW4Fe7EbgVho4Oj35HcgX91iMjQKrCKEgJg_gc=' alt='4,500+ Dark Tropical Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1195333469/vector/branch-palm-realistic-leaves-and-branches-of-palm-trees-tropical-leaf-background.jpg?s=612x612&w=0&k=20&c=AGRXMvW4Fe7EbgVho4Oj35HcgX91iMjQKrCKEgJg_gc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Realistic dark tropical leaves background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-dark-tropical-leaves-background_52683-32885.jpg' alt='Free Vector | Realistic dark tropical leaves background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-dark-tropical-leaves-background_52683-32885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Realistic dark tropical leaves background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-dark-tropical-leaves-background_52683-30654.jpg' alt='Free Vector | Realistic dark tropical leaves background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-dark-tropical-leaves-background_52683-30654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Tropical Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/712/805/small_2x/vibrant-foliage-illuminates-dark-tropical-rainforest-backdrop-generated-by-ai-free-photo.jpg' alt='Dark Tropical Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/712/805/small_2x/vibrant-foliage-illuminates-dark-tropical-rainforest-backdrop-generated-by-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Background Tropical Wallpaper, Floral Wall Mural, Green Leaf ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/be83aa/2632954261/il_570xN.2632954261_63i6.jpg' alt='Dark Background Tropical Wallpaper, Floral Wall Mural, Green Leaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/be83aa/2632954261/il_570xN.2632954261_63i6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Leaves - Dark">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/61725/tropical-leaves-dark.jpg?h=699&q=85' alt='Tropical Leaves - Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/61725/tropical-leaves-dark.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Tropical Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-dark-tropical-garden-green-leaf-background-image_968889.jpg' alt='Dark Tropical Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-dark-tropical-garden-green-leaf-background-image_968889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Tropical Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/tropical-leaves-dark-jungle-background-600nw-2207669679.jpg' alt='Dark Tropical Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/tropical-leaves-dark-jungle-background-600nw-2207669679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,600+ Dark Tropical Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1295953969/vector/tropical-exotic-seamless-pattern-with-protea-flowers-in-tropical-leaves.jpg?s=612x612&w=0&k=20&c=4Fop3xlfWsBJWqYNosp7yF-9oLP93049Iv-4R59isXA=' alt='9,600+ Dark Tropical Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1295953969/vector/tropical-exotic-seamless-pattern-with-protea-flowers-in-tropical-leaves.jpg?s=612x612&w=0&k=20&c=4Fop3xlfWsBJWqYNosp7yF-9oLP93049Iv-4R59isXA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Dark Tropical ideas | tropical, framed wallpaper, tropical ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/7b/1a/5e7b1ab0e0f822eefa623c5e560e0a1f.jpg' alt='9 Dark Tropical ideas | tropical, framed wallpaper, tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/7b/1a/5e7b1ab0e0f822eefa623c5e560e0a1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

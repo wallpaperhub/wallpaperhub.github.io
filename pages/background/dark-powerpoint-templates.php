@@ -1,0 +1,129 @@
+<title>Bold Dark PowerPoint Templates for Stunning Presentations</title>
+                    <meta name="description" content="Discover striking dark PowerPoint templates designed to captivate your audience. Perfectly suited for business or creative presentations, these templates enhance your content and deliver a professional look. Elevate your next slideshow with dynamic designs that maximize impact and readability.">
+                    <meta name="keywords" content="dark powerpoint templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-powerpoint-templates">
+                            <span itemprop="name">dark powerpoint templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Dark PowerPoint Templates for Stunning Presentations</h1>
+                <p>Dark PowerPoint templates are perfect for making a bold statement in your presentations. They create a striking contrast, allowing your content to stand out while providing a professional look. Ideal for corporate settings, creative pitches, or tech showcases, these templates enhance readability and offer a visually appealing backdrop for your ideas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22+ Best Free Dark PowerPoint Background Templates for 2025 PPT ...">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2273/posts/35287/image/Corvo%20PPT%20Template.jpg' alt='22+ Best Free Dark PowerPoint Background Templates for 2025 PPT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2273/posts/35287/image/Corvo%20PPT%20Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/48005345/new-darkle-slideshow1706175442.jpg' alt='Free Dark Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/48005345/new-darkle-slideshow1706175442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Elegance Google Slides and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/5068851/conversions/0-dark-elegance-thumb.jpg' alt='Dark Elegance Google Slides and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/5068851/conversions/0-dark-elegance-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark PowerPoint Templates & Presentation Designs">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/70102-01-business-pitch-deck-powerpoint-template-16x9-1-558x314.jpg' alt='Dark PowerPoint Templates & Presentation Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/70102-01-business-pitch-deck-powerpoint-template-16x9-1-558x314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark PowerPoint Templates and Google Slides for Presentation">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85389-dark-powerpoint-templates.png' alt='Dark PowerPoint Templates and Google Slides for Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideEgg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85389-dark-powerpoint-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Dark Templates For Google Slides Themes and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85288-dark-powerpoint-presentation-templates.png' alt='Free Dark Templates For Google Slides Themes and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85288-dark-powerpoint-presentation-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern & Minimal Dark Theme PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2022/05/Modern-Minimal-Dark-Theme-Pitch-Deck-Presentation-Templates-for-PowerPoint-and-Google-Slides-Theme.jpg' alt='Modern & Minimal Dark Theme PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2022/05/Modern-Minimal-Dark-Theme-Pitch-Deck-Presentation-Templates-for-PowerPoint-and-Google-Slides-Theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Roads Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2020/06/DARK-ROADS-PowerPoint-Google-Slides-Template.png' alt='Dark Roads Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2020/06/DARK-ROADS-PowerPoint-Google-Slides-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Professional Theme & Background PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/edd/2021/08/dark-professional-powerpoint-theme-background-768x576.jpg' alt='Dark Professional Theme & Background PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/edd/2021/08/dark-professional-powerpoint-theme-background-768x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Dark Theme Presentation Slide | Slidestack">
+                                <img itemprop="contentUrl url" src='https://slidestack-prod.s3.amazonaws.com/templates/rgfOpi2gITJ0rklWTF6QNMNjlEOj2WeZTPCOl4fs.jpg' alt='Modern Dark Theme Presentation Slide | Slidestack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidestack" />
+                                </span>
+                                <a href='https://slidestack-prod.s3.amazonaws.com/templates/rgfOpi2gITJ0rklWTF6QNMNjlEOj2WeZTPCOl4fs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Flower Painting Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance to your interiors with flower painting wallpaper. Ideal for any room, these vibrant designs create a harmonious atmosphere while showcasing natural beauty. Explore our collection for the perfect floral accent that enhances your decor effortlessly!">
+                    <meta name="keywords" content="flower painting wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-painting-wallpaper">
+                            <span itemprop="name">flower painting wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Flower Painting Wallpaper</h1>
+                <p>Flower painting wallpaper brings nature's beauty into your home, with vibrant colors and intricate designs that brighten any space. Perfect for creating a cheerful atmosphere in living rooms, bedrooms, or hallways, these wallpapers can transform simple walls into stunning focal points. Embrace the elegance of floral art today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Painted Flowers Floral Wallpaper RM2068">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BluePaintedFlowersFloralWallpaperRM2068.jpg?v=1736260455&width=1200' alt='Blue Painted Flowers Floral Wallpaper RM2068'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BluePaintedFlowersFloralWallpaperRM2068.jpg?v=1736260455&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Hand Painted Orchids Floral Wallpaper R8142">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' alt='Dark Green Hand Painted Orchids Floral Wallpaper R8142'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Oil Painting Mural, Dutch Painting Wallpaper, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13633394/r/il/5aba55/2069626200/il_fullxfull.2069626200_2nk5.jpg' alt='Dark Floral Oil Painting Mural, Dutch Painting Wallpaper, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13633394/r/il/5aba55/2069626200/il_fullxfull.2069626200_2nk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cornelia Blue">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715781765/articles/FL0112DA03W_product.jpg' alt='Cornelia Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715781765/articles/FL0112DA03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Flower Painting Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1579167728798-a1cf3d595960?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwcGFpbnRpbmd8ZW58MHx8MHx8fDA%3D' alt='1000+ Flower Painting Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1579167728798-a1cf3d595960?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwcGFpbnRpbmd8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D arch flower painting door mural | AJ Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.ajwallpaper.com/cdn/shop/products/shutterstock_287446367.jpg?v=1575937399' alt='3D arch flower painting door mural | AJ Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="484">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AJ Wallpaper" />
+                                </span>
+                                <a href='https://www.ajwallpaper.com/cdn/shop/products/shutterstock_287446367.jpg?v=1575937399' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Floral Oil Painting Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/542321570/vector/oil-painting-field-of-daisies-colorfull-art-drawing.jpg?s=612x612&w=0&k=20&c=2_PCtv77ugNeGO_55pXnce491WoLGAT9Y1seveek_MU=' alt='10,000+ Floral Oil Painting Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/542321570/vector/oil-painting-field-of-daisies-colorfull-art-drawing.jpg?s=612x612&w=0&k=20&c=2_PCtv77ugNeGO_55pXnce491WoLGAT9Y1seveek_MU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Flower Arrangement Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/1b/80/4f1b802d281f4b31a42ffd1a6aa532f8.jpg' alt='Dark Floral Flower Arrangement Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/1b/80/4f1b802d281f4b31a42ffd1a6aa532f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Painting White Flowers Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/6/16371362-crop.jpg' alt='Watercolor Painting White Flowers Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/6/16371362-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vase of Flowers - de Heem Vase of Flowers Oil Painting Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/products/Vase_of_Flower_Artwork.jpg?v=1740501481' alt='Vase of Flowers - de Heem Vase of Flowers Oil Painting Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1352">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/products/Vase_of_Flower_Artwork.jpg?v=1740501481' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

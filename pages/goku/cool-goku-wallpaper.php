@@ -1,0 +1,129 @@
+<title>Cool Goku Wallpapers for Ultimate Fan Vibes</title>
+                    <meta name="description" content="Explore stunning Goku wallpapers that bring your favorite character to life! Perfect for fans of Dragon Ball Z, these vibrant images will elevate your device, showcasing Goku's epic adventures and iconic moments. Download your favorite backgrounds and express your fandom in style!">
+                    <meta name="keywords" content="cool goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/cool-goku-wallpaper">
+                            <span itemprop="name">cool goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Goku Wallpapers for Ultimate Fan Vibes</h1>
+                <p>Discover an amazing collection of cool Goku wallpapers that capture the spirit and power of this iconic character from Dragon Ball Z. Whether you’re a fan of his epic battles or his serene moments, these stunning backgrounds will enhance your device with vibrant colors and dynamic imagery. Transform your screen and showcase your love for Goku today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="230 Goku ideas | dragon ball super wallpapers, dragon ball super ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/f8/74/59/f874591b0bfad0cae8aa49cb940f7ccc.jpg' alt='230 Goku ideas | dragon ball super wallpapers, dragon ball super ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/f8/74/59/f874591b0bfad0cae8aa49cb940f7ccc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Drip Son Goku Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-drip-son-goku-3dtp5mlifjxtzmxa.jpg' alt='Cool Drip Son Goku Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-drip-son-goku-3dtp5mlifjxtzmxa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goku Ultra Instinct Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/goku-ultra-instinct-cgebo5hue38ak78m.jpg' alt='100+] Goku Ultra Instinct Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/goku-ultra-instinct-cgebo5hue38ak78m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Supreme Power Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/d1/5f/4ad15f0fae6898054caa83bfc6275c7c.jpg' alt='Goku Supreme Power Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/d1/5f/4ad15f0fae6898054caa83bfc6275c7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a late little Goku Day wallpaper. : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-is-a-late-little-goku-day-wallpaper-v0-b77r43of89za1.jpg?auto=webp&s=5ed8d28e9c64a491dcce8ba8a2056524410c5681' alt='Here is a late little Goku Day wallpaper. : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-is-a-late-little-goku-day-wallpaper-v0-b77r43of89za1.jpg?auto=webp&s=5ed8d28e9c64a491dcce8ba8a2056524410c5681' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku supreme, cool, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/528/788/HD-wallpaper-goku-supreme-cool.jpg' alt='Goku supreme, cool, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/528/788/HD-wallpaper-goku-supreme-cool.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Dragon Ball HD Goku Fire Art Wallpaper, HD Artist 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/cool-dragon-ball-hd-goku-fire-art_bW1sZWqUmZqaraWkpJRmbmdlrWZmaGg.jpg' alt='Cool Dragon Ball HD Goku Fire Art Wallpaper, HD Artist 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/cool-dragon-ball-hd-goku-fire-art_bW1sZWqUmZqaraWkpJRmbmdlrWZmaGg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A simple SSGSS Goku wallpaper I wanted to make! : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tytlg8b1a6y31.png?width=1080&crop=smart&auto=webp&s=6893b864fa805ea17c137f948c1c04d0df00fb66' alt='A simple SSGSS Goku wallpaper I wanted to make! : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tytlg8b1a6y31.png?width=1080&crop=smart&auto=webp&s=6893b864fa805ea17c137f948c1c04d0df00fb66' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Wallpaper Scaled Goku Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/kid-goku-happy-wallpaper-scaled-goku-dragon-ball-z-anime-cartoon-manga-28-10-2024-1730184414-hd-wallpaper.jpg' alt='Most Popular Wallpaper Scaled Goku Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/kid-goku-happy-wallpaper-scaled-goku-dragon-ball-z-anime-cartoon-manga-28-10-2024-1730184414-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super's Toyotarou Draws Ultra Instinct Goku for Download">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/12/goku-ultra-instinct-1.jpg' alt='Dragon Ball Super's Toyotarou Draws Ultra Instinct Goku for Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/12/goku-ultra-instinct-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

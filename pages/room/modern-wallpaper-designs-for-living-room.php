@@ -1,0 +1,129 @@
+<title>Chic Modern Wallpaper Designs for Your Living Room</title>
+                    <meta name="description" content="Discover stylish modern wallpaper designs perfect for your living room. Explore a variety of patterns, textures, and colors that enhance any decor. Find inspiration for your next home makeover and create a cozy, inviting atmosphere with contemporary wallpaper choices.">
+                    <meta name="keywords" content="modern wallpaper designs for living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/modern-wallpaper-designs-for-living-room">
+                            <span itemprop="name">modern wallpaper designs for living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Modern Wallpaper Designs for Your Living Room</h1>
+                <p>Transform your living room with modern wallpaper designs that elevate your space. From bold geometric patterns to soft, natural textures, today's wallpapers offer versatility and style. Choose vibrant colors to energize the ambiance or subtle hues for a calming effect. Explore various materials, like vinyl and fabric, for added durability and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' alt='Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Best Elegant living room wallpaper ideas | room wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' alt='15 Best Elegant living room wallpaper ideas | room wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/PearlWallpaperBlackandWhiteGeometricPrint_2.png?v=1714600725&width=2048' alt='Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/PearlWallpaperBlackandWhiteGeometricPrint_2.png?v=1714600725&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls, buy wallpaper living room in UK ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.co.uk/products/43000/43058/u93578pig14r_900.webp' alt='Wallpaper for living room walls, buy wallpaper living room in UK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper and wall murals UK buy online at Uwalls.co.uk" />
+                                </span>
+                                <a href='https://static.uwalls.co.uk/products/43000/43058/u93578pig14r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_570xN.3450304411_79zw.jpg' alt='Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_570xN.3450304411_79zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lined Meadow Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' alt='Lined Meadow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/17000/17356/u72104pig3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827">
+                                <img itemprop="contentUrl url" src='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' alt='Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper designs for living room: 6 ideas!">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/articles/CAPA.jpg?v=1646746602' alt='Wallpaper designs for living room: 6 ideas!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/articles/CAPA.jpg?v=1646746602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Modern Living room Wallpaper design ideas | home interior wall  decorating ideas 2023">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XxAIEOd9HMI/maxresdefault.jpg' alt='100 Modern Living room Wallpaper design ideas | home interior wall  decorating ideas 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XxAIEOd9HMI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

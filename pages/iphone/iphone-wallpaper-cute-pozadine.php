@@ -1,0 +1,129 @@
+<title>Charming Cute iPhone Wallpapers for Personalization</title>
+                    <meta name="description" content="Explore our curated collection of cute iPhone wallpapers, designed to brighten your screen! Perfect for expressing your personality, these charming pozadine will make your device truly unique. Download now to give your iPhone a fresh, adorable look!">
+                    <meta name="keywords" content="iphone wallpaper cute pozadine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-cute-pozadine">
+                            <span itemprop="name">iphone wallpaper cute pozadine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Cute iPhone Wallpapers for Personalization</h1>
+                <p>Discover a delightful collection of cute iPhone wallpapers (pozadine) that adds charm to your device! From adorable animals to whimsical patterns, our selection caters to every taste. Transform your screen with vibrant and playful designs that brighten your day. Perfect for anyone wanting to personalize their iPhone experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/84/6c/96/846c96eaf708dc6aedbb60b38ba28eb3.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/84/6c/96/846c96eaf708dc6aedbb60b38ba28eb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 + amazing phone Wallpapers In 2019 - Page 6 of 52 - LoveIn Home">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0c/33/8c/0c338c9cffef42dce3d4bb3423343945.jpg' alt='50 + amazing phone Wallpapers In 2019 - Page 6 of 52 - LoveIn Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0c/33/8c/0c338c9cffef42dce3d4bb3423343945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gray-daisy-template-vector-social-media-story-quote-everyday-is-fresh-start_53876-126120.jpg' alt='Cute Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gray-daisy-template-vector-social-media-story-quote-everyday-is-fresh-start_53876-126120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://anastasiablogger.com/wp-content/uploads/2018/11/1b4480b477316754a3ff6e68f962f370.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anastasia Blogger" />
+                                </span>
+                                <a href='https://anastasiablogger.com/wp-content/uploads/2018/11/1b4480b477316754a3ff6e68f962f370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019 Cute Wallpaper + Girly Wallpaper {FREE Pretty iPhone Backgrounds}">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/78/e7/fa78e7cc7dd1a2515f0aae4113ed7897.jpg' alt='2019 Cute Wallpaper + Girly Wallpaper {FREE Pretty iPhone Backgrounds}'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/78/e7/fa78e7cc7dd1a2515f0aae4113ed7897.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Pozadine ideas | iphone wallpaper, cute wallpapers, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d2/8a/96/d28a96ef2e6567a7dc303c0282f62626.jpg' alt='120 Pozadine ideas | iphone wallpaper, cute wallpapers, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d2/8a/96/d28a96ef2e6567a7dc303c0282f62626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple And Leaves Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pineapple-and-leaves-cute-iphone-xsuc4oxtepv2q0n0.jpg' alt='Pineapple And Leaves Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1087">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pineapple-and-leaves-cute-iphone-xsuc4oxtepv2q0n0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDUxLmpwZw.jpg' alt='Cute Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDUxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper,  Minimalistic Wallpaper, Cute iPhone X/xs/11/11 Pro Max Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_1080xN.2779013450_qrvy.jpg' alt='40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper,  Minimalistic Wallpaper, Cute iPhone X/xs/11/11 Pro Max Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_1080xN.2779013450_qrvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' alt='Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Rengoku Wallpaper: Stunning Designs for Fans</title>
+                    <meta name="description" content="Explore a collection of aesthetic Rengoku wallpapers that bring the fiery warrior to life on your device. Perfect for fans of Demon Slayer, these wallpapers feature vibrant colors and striking designs to enhance your screen. Download now and showcase your love for Rengoku!">
+                    <meta name="keywords" content="aesthetic rengoku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-rengoku-wallpaper">
+                            <span itemprop="name">aesthetic rengoku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Rengoku Wallpaper: Stunning Designs for Fans</h1>
+                <p>Aesthetic Rengoku wallpapers showcase the fiery spirit of the beloved Demon Slayer character. With vibrant colors and dynamic designs, these images capture Rengoku's fierce determination and warm personality. Perfect for fans who want to personalize their devices with stunning visuals that embody strength, courage, and beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rengoku Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rengoku-aesthetic-1080-x-1920-wallpaper-0q0jaog4pt9dbrzy.jpg' alt='100+] Rengoku Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rengoku-aesthetic-1080-x-1920-wallpaper-0q0jaog4pt9dbrzy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/ea/e2/22eae2bb1a4e452d720eeaccceaf0f6d.jpg' alt='Rengoku Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/ea/e2/22eae2bb1a4e452d720eeaccceaf0f6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Demon Slayer Aesthetic Kyojuro Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bloody-demon-slayer-aesthetic-kyojuro-uhf9dglc34upct21.jpg' alt='Bloody Demon Slayer Aesthetic Kyojuro Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bloody-demon-slayer-aesthetic-kyojuro-uhf9dglc34upct21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku Wallpaper made by me : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n51hm43idi371.jpg' alt='Rengoku Wallpaper made by me : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n51hm43idi371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku, anime, demon slayer, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/41/483/HD-wallpaper-rengoku-anime-demon-slayer.jpg' alt='Rengoku, anime, demon slayer, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/41/483/HD-wallpaper-rengoku-anime-demon-slayer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku wallpaper    for   ℝ                              created ...">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/8151/62496d6ca2ed790c1e642eaeca80852be9ec55ccr1-1152-2048v2_uhq.jpg' alt='Rengoku wallpaper    for   ℝ                              created ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/8151/62496d6ca2ed790c1e642eaeca80852be9ec55ccr1-1152-2048v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku Orange Mood Board Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rengoku-orange-mood-board-joyglbmvf0pl9hma.jpg' alt='Rengoku Orange Mood Board Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rengoku-orange-mood-board-joyglbmvf0pl9hma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fiery Hero - a Stunning Rengoku Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rengoku-aesthetic-900-x-1907-wallpaper-mmegreenfq6d7ruu.jpg' alt='Download Fiery Hero - a Stunning Rengoku Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rengoku-aesthetic-900-x-1907-wallpaper-mmegreenfq6d7ruu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11096344.jpg' alt='Rengoku Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11096344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyojuro Rengoku, aesthetics, anime, demon slayer, kimetsunoyaiba ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/15/259/HD-wallpaper-kyojuro-rengoku-aesthetics-anime-demon-slayer-kimetsunoyaiba-manga.jpg' alt='Kyojuro Rengoku, aesthetics, anime, demon slayer, kimetsunoyaiba ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/15/259/HD-wallpaper-kyojuro-rengoku-aesthetics-anime-demon-slayer-kimetsunoyaiba-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

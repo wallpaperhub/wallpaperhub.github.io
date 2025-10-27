@@ -1,0 +1,129 @@
+<title>Stranger Things Wallpaper GIFs - Elevate Your Screen Experience</title>
+                    <meta name="description" content="Discover mesmerizing "Stranger Things" wallpaper gifs that bring your favorite moments to life! Perfect for fans of the series, these animated wallpapers add a touch of the Upside Down to your devices, creating a vibrant experience. Explore and personalize your screens with the magic of Hawkins today!">
+                    <meta name="keywords" content="stranger things wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stranger-things-wallpaper-gif">
+                            <span itemprop="name">stranger things wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stranger Things Wallpaper GIFs - Elevate Your Screen Experience</h1>
+                <p>Looking for the perfect "Stranger Things" wallpaper gif to enhance your devices? Dive into the Upside Down with captivating animations that showcase your favorite characters and iconic scenes. Whether you're a superfans of Eleven or the entire gang, these gifs will bring the nostalgic vibes of Hawkins to life on your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights (Stranger Things gif) by VarshaVijayan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b72a518-2060-4b2d-bda4-97183c751cfe/dars9rm-e86ee2b8-24a0-4a04-b54e-0e03a87678fb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiNzJhNTE4LTIwNjAtNGIyZC1iZGE0LTk3MTgzYzc1MWNmZVwvZGFyczlybS1lODZlZTJiOC0yNGEwLTRhMDQtYjU0ZS0wZTAzYTg3Njc4ZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.onBYmmNsAK1fOgjmMiyhCVGS4N1D0tPm68-19pVZ16g' alt='Lights (Stranger Things gif) by VarshaVijayan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b72a518-2060-4b2d-bda4-97183c751cfe/dars9rm-e86ee2b8-24a0-4a04-b54e-0e03a87678fb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiNzJhNTE4LTIwNjAtNGIyZC1iZGE0LTk3MTgzYzc1MWNmZVwvZGFyczlybS1lODZlZTJiOC0yNGEwLTRhMDQtYjU0ZS0wZTAzYTg3Njc4ZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.onBYmmNsAK1fOgjmMiyhCVGS4N1D0tPm68-19pVZ16g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things GIF - Stranger Things - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/01/23/11/012311ea213fc97a2a246d6027470168.gif' alt='Stranger Things GIF - Stranger Things - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="328">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/01/23/11/012311ea213fc97a2a246d6027470168.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster GIF by Stranger Things - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/c6/0b/5cc60ba87cb430d964aa0c9af3338c03.gif' alt='Monster GIF by Stranger Things - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/c6/0b/5cc60ba87cb430d964aa0c9af3338c03.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Gif Series - Everyone - Wattpad">
+                                <img itemprop="contentUrl url" src='https://img.wattpad.com/eb3dfcc7d68da1c894c18d6bb2ae83d5d1a0ba57/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4e45584461556d356848575f6c773d3d2d313233303937373537302e313666336663643537393063643334653238333934373632353436332e676966' alt='Stranger Things Gif Series - Everyone - Wattpad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wattpad" />
+                                </span>
+                                <a href='https://img.wattpad.com/eb3dfcc7d68da1c894c18d6bb2ae83d5d1a0ba57/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4e45584461556d356848575f6c773d3d2d313233303937373537302e313666336663643537393063643334653238333934373632353436332e676966' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF by Stranger Things - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/xTcf1nHvc0GX8vovPW/giphy.gif?cid=6c09b952kbrzlcklz66bcgxesobqj7h3nm57pm7u63wpxt5l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='GIF by Stranger Things - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/xTcf1nHvc0GX8vovPW/giphy.gif?cid=6c09b952kbrzlcklz66bcgxesobqj7h3nm57pm7u63wpxt5l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things wallpaper by Glenn Brosens on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/22317113/file/original-faefa94186483b9c6f807706088337c5.gif' alt='Stranger Things wallpaper by Glenn Brosens on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/22317113/file/original-faefa94186483b9c6f807706088337c5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/54/a0/56/54a056b7717f9ab46d775ad99e093be0.gif' alt='Stranger Things'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/54/a0/56/54a056b7717f9ab46d775ad99e093be0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="netflix duncan GIF by Stranger Things - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/CjANOkT7JsbtApOV58/giphy.gif?cid=6c09b9521inmmk28crc0anq89b0lz554vt8dq14l6rs6zeyg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='netflix duncan GIF by Stranger Things - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/CjANOkT7JsbtApOV58/giphy.gif?cid=6c09b9521inmmk28crc0anq89b0lz554vt8dq14l6rs6zeyg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/stranger-things-icegif-20.gif' alt='Stranger Things Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/stranger-things-icegif-20.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Fan Art with GIF :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/0a6ba441294449.57a087e637c4b.gif' alt='Stranger Things Fan Art with GIF :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/0a6ba441294449.57a087e637c4b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

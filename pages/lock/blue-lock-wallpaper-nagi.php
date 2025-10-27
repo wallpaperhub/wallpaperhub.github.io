@@ -1,0 +1,129 @@
+<title>Stunning Nagi Blue Lock Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating Nagi-inspired Blue Lock wallpapers that enhance your device's aesthetics. Perfect for fans, these vibrant designs bring your favorite character and moments to life, making every glance at your screen an exciting experience. Download now to showcase your love for Blue Lock!">
+                    <meta name="keywords" content="blue lock wallpaper nagi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/blue-lock-wallpaper-nagi">
+                            <span itemprop="name">blue lock wallpaper nagi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nagi Blue Lock Wallpapers for Your Device</h1>
+                <p>Transform your device's appearance with stunning Blue Lock wallpaper featuring Nagi! Dive into the world of sports and aesthetics as you showcase your passion for football and this captivating character. These wallpapers provide vibrant colors and impressive designs that can invigorate your screen, perfect for all fans!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi Seishiro | Blue Lock wallpaper #1 by ZeroSwim on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/deaz8pn-ba927531-f509-418d-a6f2-274d682032b7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVhejhwbi1iYTkyNzUzMS1mNTA5LTQxOGQtYTZmMi0yNzRkNjgyMDMyYjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pmQXAJVU0WD1pcbWk9ts51qklwZnJTTuoR3ROt0FSrs' alt='Nagi Seishiro | Blue Lock wallpaper #1 by ZeroSwim on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8bb0381-7a30-495f-9caf-79162c056cdb/deaz8pn-ba927531-f509-418d-a6f2-274d682032b7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4YmIwMzgxLTdhMzAtNDk1Zi05Y2FmLTc5MTYyYzA1NmNkYlwvZGVhejhwbi1iYTkyNzUzMS1mNTA5LTQxOGQtYTZmMi0yNzRkNjgyMDMyYjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pmQXAJVU0WD1pcbWk9ts51qklwZnJTTuoR3ROt0FSrs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi Seishiro Wallpaper - Blue Lock">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/04/2c/6e042cd8bb76bb75bdbfec4a27cb9415.jpg' alt='Nagi Seishiro Wallpaper - Blue Lock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/04/2c/6e042cd8bb76bb75bdbfec4a27cb9415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seishiro Nagi (Blue Lock) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5508/seishiro-nagi-blue-lock.jpg' alt='Seishiro Nagi (Blue Lock) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5508/seishiro-nagi-blue-lock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue lock nagi seishiro Anime Studio Print">
+                                <img itemprop="contentUrl url" src='https://img.cdn-pictorem.com/uploads/collection/C/CT6MGA1OBR/900_Tokyo-Revengers__1.jpg' alt='blue lock nagi seishiro Anime Studio Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictorem.com" />
+                                </span>
+                                <a href='https://img.cdn-pictorem.com/uploads/collection/C/CT6MGA1OBR/900_Tokyo-Revengers__1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi doing his specialty (phone wallpaper dimensions) : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/n2tvj4w0zrm81.png?width=640&crop=smart&auto=webp&s=2e739bb74118c2d093bf0248f29d5422283fecdd' alt='Nagi doing his specialty (phone wallpaper dimensions) : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/n2tvj4w0zrm81.png?width=640&crop=smart&auto=webp&s=2e739bb74118c2d093bf0248f29d5422283fecdd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/95/01/7b950190cdaccff9fc69992ac03798d2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/95/01/7b950190cdaccff9fc69992ac03798d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Seishiro Nagi Anime Blue Lock Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/161/161159.jpeg' alt='Download Seishiro Nagi Anime Blue Lock Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/161/161159.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi doing his specialty (phone wallpaper dimensions) : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jygkvdi0zrm81.png?width=950&format=png&auto=webp&s=a945c7e7c421483d9e183bbf852b4138ed328cca' alt='Nagi doing his specialty (phone wallpaper dimensions) : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="2050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jygkvdi0zrm81.png?width=950&format=png&auto=webp&s=a945c7e7c421483d9e183bbf852b4138ed328cca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi Seishiro in Blue Lock Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5522/nagi-seishiro-in-blue-lock.jpg' alt='Nagi Seishiro in Blue Lock Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5522/nagi-seishiro-in-blue-lock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nagi blue lock #animewallpapers #wallpaper #bluelock #nagi #anime">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCBR8Nazkrr/0/image.jpg' alt='Nagi blue lock #animewallpapers #wallpaper #bluelock #nagi #anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCBR8Nazkrr/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

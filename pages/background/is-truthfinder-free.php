@@ -1,0 +1,129 @@
+<title>Is TruthFinder Free? Find Out Here!</title>
+                    <meta name="description" content="Explore whether TruthFinder offers free background checks or requires a subscription. Get the facts on pricing and services, ensuring you make informed decisions when looking for personal information or conducting background investigations.">
+                    <meta name="keywords" content="is truthfinder free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-truthfinder-free">
+                            <span itemprop="name">is truthfinder free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is TruthFinder Free? Find Out Here!</h1>
+                <p>TruthFinder is not free; it offers a subscription model after a trial period. Users can access background checks, contact information, and criminal records, but all these services come with a fee. While it provides valuable insights, expect to pay for full access to the data.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is TruthFinder free: explore its pricing, privacy, and alternatives">
+                                <img itemprop="contentUrl url" src='https://parental-control.flashget.com/wp-content/uploads/sites/3/2025/01/TruthFinder.jpg' alt='Is TruthFinder free: explore its pricing, privacy, and alternatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlashGet Kids" />
+                                </span>
+                                <a href='https://parental-control.flashget.com/wp-content/uploads/sites/3/2025/01/TruthFinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is TruthFinder free: explore its pricing, privacy, and alternatives">
+                                <img itemprop="contentUrl url" src='https://parental-control.flashget.com/wp-content/uploads/sites/3/2025/01/Is-TruthFinder-free.jpg' alt='Is TruthFinder free: explore its pricing, privacy, and alternatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlashGet Kids" />
+                                </span>
+                                <a href='https://parental-control.flashget.com/wp-content/uploads/sites/3/2025/01/Is-TruthFinder-free.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truthfinder Review: What does a Public Record Search Engine Know ...">
+                                <img itemprop="contentUrl url" src='https://www.ireviews.com/wp-content/uploads/2022/08/https-www.truthfinder.com-.png' alt='Truthfinder Review: What does a Public Record Search Engine Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iReviews" />
+                                </span>
+                                <a href='https://www.ireviews.com/wp-content/uploads/2022/08/https-www.truthfinder.com-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use TruthFinder: A Comprehensive Guide">
+                                <img itemprop="contentUrl url" src='https://cms.truthfinder.com/content/images/2022/12/Truthfinder-Reports-Tab.png' alt='How to Use TruthFinder: A Comprehensive Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1525">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruthFinder" />
+                                </span>
+                                <a href='https://cms.truthfinder.com/content/images/2022/12/Truthfinder-Reports-Tab.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is TruthFinder Free? No, But We Do Have A Trial">
+                                <img itemprop="contentUrl url" src='https://www.truthfinder.com/infomania/content/images/2023/01/trutfinder-result-loading.jpeg' alt='Is TruthFinder Free? No, But We Do Have A Trial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruthFinder" />
+                                </span>
+                                <a href='https://www.truthfinder.com/infomania/content/images/2023/01/trutfinder-result-loading.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Safety - TruthFinder's Infomania Blog">
+                                <img itemprop="contentUrl url" src='https://www.truthfinder.com/infomania/content/images/2023/03/truthfinder-free-trial.png?size=full-xs' alt='Online Safety - TruthFinder's Infomania Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TruthFinder" />
+                                </span>
+                                <a href='https://www.truthfinder.com/infomania/content/images/2023/03/truthfinder-free-trial.png?size=full-xs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is TruthFinder Free? Pricing & Cost explained - Expert Cog">
+                                <img itemprop="contentUrl url" src='https://expertcog.com/wp-content/uploads/2020/08/truthfinder-website.jpg' alt='Is TruthFinder Free? Pricing & Cost explained - Expert Cog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1888">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expert Cog" />
+                                </span>
+                                <a href='https://expertcog.com/wp-content/uploads/2020/08/truthfinder-website.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truthfinder Free Search">
+                                <img itemprop="contentUrl url" src='https://truthfinder-free-search.govbackgroundchecks.com/screenshots/truthfinder-free-search/10.jpg' alt='Truthfinder Free Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://truthfinder-free-search.govbackgroundchecks.com/screenshots/truthfinder-free-search/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TruthFinder | TechRadar">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/6o66Qodjx8STQdGNUn2pTC-1200-80.jpg' alt='TruthFinder | TechRadar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/6o66Qodjx8STQdGNUn2pTC-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is TruthFinder Free? Pricing & Cost explained - Expert Cog">
+                                <img itemprop="contentUrl url" src='https://expertcog.com/wp-content/uploads/2020/08/Is-TruthFinder-Free-.png' alt='Is TruthFinder Free? Pricing & Cost explained - Expert Cog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expert Cog" />
+                                </span>
+                                <a href='https://expertcog.com/wp-content/uploads/2020/08/Is-TruthFinder-Free-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

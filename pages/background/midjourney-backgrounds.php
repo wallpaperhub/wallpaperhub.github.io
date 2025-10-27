@@ -1,0 +1,129 @@
+<title>Stunning Midjourney Backgrounds for Creative Projects</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="midjourney backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/midjourney-backgrounds">
+                            <span itemprop="name">midjourney backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Midjourney Backgrounds for Creative Projects</h1>
+                <p>Midjourney backgrounds play a crucial role in enhancing visual storytelling. These dynamic backdrops elevate your imagery, offering depth and context. Explore a variety of styles, from abstract to realistic, that cater to different themes and moods. Transform your creative projects with stunning midjourney backgrounds today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Im using midjourney to create backgrounds for my own videogame. I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ydveio81lz9a1.jpg' alt='Im using midjourney to create backgrounds for my own videogame. I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5312">
+                                <meta itemprop="height" content="1762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ydveio81lz9a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Midjourney Images">
+                                <img itemprop="contentUrl url" src='https://michaelhoweely.com/wp-content/uploads/2022/08/image-106-1024x576.png' alt='More Midjourney Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michael Howe-Ely" />
+                                </span>
+                                <a href='https://michaelhoweely.com/wp-content/uploads/2022/08/image-106-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31+ Synthwave Phone Wallpapers Made with Midjourney | Gold Penguin">
+                                <img itemprop="contentUrl url" src='https://goldpenguin.org/wp-content/uploads/2024/04/image10-2.png' alt='31+ Synthwave Phone Wallpapers Made with Midjourney | Gold Penguin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gold Penguin" />
+                                </span>
+                                <a href='https://goldpenguin.org/wp-content/uploads/2024/04/image10-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Brand-Consistent Background Images with Midjourney ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*2nNAzvYGj1jnSz8mcgvsQg.png' alt='How to Create Brand-Consistent Background Images with Midjourney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*2nNAzvYGj1jnSz8mcgvsQg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some new wallpaper for my desktop : r/midjourney">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/43uz127dmlf91.png' alt='Made some new wallpaper for my desktop : r/midjourney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/43uz127dmlf91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midjourney for game backgrounds - Echoes of Somewhere">
+                                <img itemprop="contentUrl url" src='https://echoesofsomewhere.com/wp-content/uploads/2023/09/image-90.png' alt='Midjourney for game backgrounds - Echoes of Somewhere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1642">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Echoes of Somewhere" />
+                                </span>
+                                <a href='https://echoesofsomewhere.com/wp-content/uploads/2023/09/image-90.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagifly | Midjourney tutorial: creating abstract background ...">
+                                <img itemprop="contentUrl url" src='https://imagifly.co/web/img/articles/abstract-wallpaper/midjourney-wallpaper-4.jpg' alt='Imagifly | Midjourney tutorial: creating abstract background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagifly" />
+                                </span>
+                                <a href='https://imagifly.co/web/img/articles/abstract-wallpaper/midjourney-wallpaper-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagifly | Midjourney tutorial: creating abstract background ...">
+                                <img itemprop="contentUrl url" src='https://imagifly.co/web/img/articles/abstract-wallpaper/midjourney-wallpaper-1.jpg' alt='Imagifly | Midjourney tutorial: creating abstract background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagifly" />
+                                </span>
+                                <a href='https://imagifly.co/web/img/articles/abstract-wallpaper/midjourney-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midjourney Quick Prompts - How to make Abstract Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tTjM_68AUis/maxresdefault.jpg' alt='Midjourney Quick Prompts - How to make Abstract Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tTjM_68AUis/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Drift Backgrounds – AI Backgrounds with Midjourney | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/eecb60dd-3dc5-4009-ab76-a810bea778e0/thumbnail' alt='Indigo Drift Backgrounds – AI Backgrounds with Midjourney | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/eecb60dd-3dc5-4009-ab76-a810bea778e0/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

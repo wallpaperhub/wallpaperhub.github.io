@@ -1,0 +1,129 @@
+<title>SpongeBob's Coral Reef Adventures: A Colorful Underwater World</title>
+                    <meta name="description" content="Explore the magical coral reef of SpongeBob SquarePants! Discover the vibrant underwater life and exciting adventures in Bikini Bottom with SpongeBob and friends. Join them for fun-filled moments and valuable lessons beneath the waves.">
+                    <meta name="keywords" content="spongebob coral reef">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-coral-reef">
+                            <span itemprop="name">spongebob coral reef</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SpongeBob's Coral Reef Adventures: A Colorful Underwater World</h1>
+                <p>SpongeBob SquarePants lives in a vibrant coral reef under the sea, where he works at the Krusty Krab and enjoys adventures with his friends like Patrick and Squidward. This colorful marine world is full of life, featuring diverse coral formations and aquatic creatures. Dive into the fun and lessons learned in Bikini Bottom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob SquarePants" Jellyfishing/Plankton! (TV Episode 1999) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjMyMGRlM2MtNDFmZC00OGUxLThlMjAtMTdlZWExNjVjOGMzXkEyXkFqcGc@._V1_.jpg' alt='SpongeBob SquarePants" Jellyfishing/Plankton! (TV Episode 1999) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjMyMGRlM2MtNDFmZC00OGUxLThlMjAtMTdlZWExNjVjOGMzXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Production Art — A painting of two pieces of coral used ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d9e91f7026acd683515201011c6406b2/b98bca047457fec6-be/s1280x1920/2be714f420af06e04efdf26475865bdbd3d7887e.png' alt='SpongeBob Production Art — A painting of two pieces of coral used ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1003">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpongeBob Production Art - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d9e91f7026acd683515201011c6406b2/b98bca047457fec6-be/s1280x1920/2be714f420af06e04efdf26475865bdbd3d7887e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Barrier Reef | Encyclopedia SpongeBobia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/spongebob/images/b/bd/Australia_1_02.png/revision/latest/thumbnail/width/360/height/450?cb=20201113102156' alt='Great Barrier Reef | Encyclopedia SpongeBobia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/spongebob/images/b/bd/Australia_1_02.png/revision/latest/thumbnail/width/360/height/450?cb=20201113102156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make-Out Reef | Encyclopedia SpongeBobia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/spongebob/images/a/ab/Make-Out_Reef.png/revision/latest?cb=20150424004219' alt='Make-Out Reef | Encyclopedia SpongeBobia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/spongebob/images/a/ab/Make-Out_Reef.png/revision/latest?cb=20150424004219' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Ep 01 (PILOT): Original Cell Setup Reef Blowers — GALACTIC GALLERY">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56608ba6e4b0527b5cbad513/1587590139227-GGXQ14DO9WKMWGUIWRBB/Spongebob_0351.jpeg?format=1000w' alt='Spongebob Ep 01 (PILOT): Original Cell Setup Reef Blowers — GALACTIC GALLERY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GALACTIC GALLERY" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56608ba6e4b0527b5cbad513/1587590139227-GGXQ14DO9WKMWGUIWRBB/Spongebob_0351.jpeg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Visits The Great Barrier Reef To Launch Ocean ...">
+                                <img itemprop="contentUrl url" src='https://www.bandt.com.au/information/uploads/2019/06/spongebob-316x500.jpg' alt='SpongeBob Visits The Great Barrier Reef To Launch Ocean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="B&T" />
+                                </span>
+                                <a href='https://www.bandt.com.au/information/uploads/2019/06/spongebob-316x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I painted a coral from the show one morning, I think I did a good ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6js7pz52si871.jpg' alt='I painted a coral from the show one morning, I think I did a good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6js7pz52si871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Saves Coral Island">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9UqTJsOpjAc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2Ch0oGl2SzLmrRRey74Rlur7jnA' alt='SpongeBob Saves Coral Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9UqTJsOpjAc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2Ch0oGl2SzLmrRRey74Rlur7jnA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brain Coral Fields | Encyclopedia SpongeBobia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/spongebob/images/3/32/Patrick_SmartPants_183.png/revision/latest?cb=20191114222708' alt='Brain Coral Fields | Encyclopedia SpongeBobia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1424">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/spongebob/images/3/32/Patrick_SmartPants_183.png/revision/latest?cb=20191114222708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Science Of SpongeBob – Nick Helps">
+                                <img itemprop="contentUrl url" src='https://www.nick.com/nick-helps/assets/2021/07/30163611/NICKDT-185878_NICK-HELPS-SCIENCE-OF-SPONGEBOB-ENVIRONMENT-ECOSYSTEM-THUMBNAIL-v3.jpg' alt='The Science Of SpongeBob – Nick Helps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nickelodeon" />
+                                </span>
+                                <a href='https://www.nick.com/nick-helps/assets/2021/07/30163611/NICKDT-185878_NICK-HELPS-SCIENCE-OF-SPONGEBOB-ENVIRONMENT-ECOSYSTEM-THUMBNAIL-v3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

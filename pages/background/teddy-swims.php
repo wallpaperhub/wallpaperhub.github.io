@@ -1,0 +1,129 @@
+<title>Teddy Swims: Soulful Singer-Songwriter on the Rise</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="teddy swims">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/teddy-swims">
+                            <span itemprop="name">teddy swims</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Teddy Swims: Soulful Singer-Songwriter on the Rise</h1>
+                <p>Teddy Swims, an American singer-songwriter, blends soulful melodies with authentic lyrics that resonate with fans. He gained popularity through viral performances on social media, showcasing his powerful voice and emotional depth. With a growing discography, Teddy captivates audiences, delivering unforgettable live experiences and connecting deeply through music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/w7Psek1OEj7_LV9C2oWuY7p13N7fvSL4YIsOVdcUGq7KHheoyw1ZTCGz8wpc7m4ECeWDEwVNTA=s900-c-k-c0x00ffffff-no-rj' alt='Teddy Swims - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/w7Psek1OEj7_LV9C2oWuY7p13N7fvSL4YIsOVdcUGq7KHheoyw1ZTCGz8wpc7m4ECeWDEwVNTA=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teddy_Swims_Warner_Records.jpg/640px-Teddy_Swims_Warner_Records.jpg' alt='Teddy Swims - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teddy_Swims_Warner_Records.jpg/640px-Teddy_Swims_Warner_Records.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/32982679?ops=fit(480%2C480)%2Crun(%22circle%22)' alt='Teddy Swims | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/32982679?ops=fit(480%2C480)%2Crun(%22circle%22)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebf9cf783eb03eb66aa43943ba' alt='Teddy Swims Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebf9cf783eb03eb66aa43943ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims | iHeart">
+                                <img itemprop="contentUrl url" src='https://iscale.iheart.com/catalog/artist/32982679' alt='Teddy Swims | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://iscale.iheart.com/catalog/artist/32982679' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims on His Breakout Hit 'Lose Control' and Long-Awaited Rise">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/02/20230810_INKED_TEDDY_SWIMS_SHOT_05_0768_final-1-e1707328445879.jpg' alt='Teddy Swims on His Breakout Hit 'Lose Control' and Long-Awaited Rise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6720">
+                                <meta itemprop="height" content="3785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/02/20230810_INKED_TEDDY_SWIMS_SHOT_05_0768_final-1-e1707328445879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims' debut album is powered by toxic relationships and ...">
+                                <img itemprop="contentUrl url" src='https://images.seattletimes.com/wp-content/uploads/2023/09/urnpublicidap.org6aa0c8d5cc1edd1470d17584d8516926Teddy_Swims_Portrait_Session_63013.jpg?d=2040x1360' alt='Teddy Swims' debut album is powered by toxic relationships and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://images.seattletimes.com/wp-content/uploads/2023/09/urnpublicidap.org6aa0c8d5cc1edd1470d17584d8516926Teddy_Swims_Portrait_Session_63013.jpg?d=2040x1360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Official Website Of Teddy Swims">
+                                <img itemprop="contentUrl url" src='https://www.teddyswims.com/sites/g/files/g2000019031/files/2024-09/_FBOG.png' alt='The Official Website Of Teddy Swims'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.teddyswims.com" />
+                                </span>
+                                <a href='https://www.teddyswims.com/sites/g/files/g2000019031/files/2024-09/_FBOG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims Releases 'I've Tried Everything But Therapy (Part 2)'">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2024/11/feature-warner-records-teddy-swims-billboard-2024-bb17-chris-polk-1-1548.jpg?w=942&h=623&crop=1' alt='Teddy Swims Releases 'I've Tried Everything But Therapy (Part 2)''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2024/11/feature-warner-records-teddy-swims-billboard-2024-bb17-chris-polk-1-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Swims, Julian Bunetta Unpack the Lessons Behind 'Lose Control'">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/12/Teddy-Swims-Variety-Hitmakers.jpg' alt='Teddy Swims, Julian Bunetta Unpack the Lessons Behind 'Lose Control''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/12/Teddy-Swims-Variety-Hitmakers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

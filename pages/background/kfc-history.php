@@ -1,0 +1,129 @@
+<title>KFC: A Brief History of the Iconic Fried Chicken Brand</title>
+                    <meta name="description" content="Discover the fascinating history of KFC, from Colonel Sanders' secret recipe to its global expansion. Learn how Kentucky Fried Chicken became a fast-food phenomenon and a beloved brand worldwide, appealing to chicken lovers everywhere.">
+                    <meta name="keywords" content="kfc history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kfc-history">
+                            <span itemprop="name">kfc history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>KFC: A Brief History of the Iconic Fried Chicken Brand</h1>
+                <p>KFC, or Kentucky Fried Chicken, was founded by Colonel Harland Sanders in 1952. Sanders developed his secret blend of 11 herbs and spices to create a unique fried chicken recipe. The first franchise opened in Salt Lake City, Utah, and KFC quickly became popular for its distinctive taste, expanding globally to become a fast-food icon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The inspiring story of KFC's Colonel Sanders | Frank E. Kaden ...">
+                                <img itemprop="contentUrl url" src='https://www.kadenchiropractic.com/wp-content/uploads/2020/05/KFC-Colonel-Sanders-Redondo-Beach-Chiropractor-249x300.jpg' alt='The inspiring story of KFC's Colonel Sanders | Frank E. Kaden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frank E. Kaden, D.C. Chiropractic, Inc." />
+                                </span>
+                                <a href='https://www.kadenchiropractic.com/wp-content/uploads/2020/05/KFC-Colonel-Sanders-Redondo-Beach-Chiropractor-249x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KFC | The Colonel's Story Timeline | The Life of Harland Sanders">
+                                <img itemprop="contentUrl url" src='https://brand-uk.assets.kfc.co.uk/2020-01/timeline-desktop-1900.png' alt='KFC | The Colonel's Story Timeline | The Life of Harland Sanders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2980">
+                                <meta itemprop="height" content="2164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KFC.ie" />
+                                </span>
+                                <a href='https://brand-uk.assets.kfc.co.uk/2020-01/timeline-desktop-1900.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of KFC - FourWeekMBA">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/01/History-of-KFC.png?resize=569%2C1024&ssl=1' alt='History of KFC - FourWeekMBA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FourWeekMBA" />
+                                </span>
+                                <a href='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/01/History-of-KFC.png?resize=569%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of KFC - FourWeekMBA">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/01/history-of-kfc.png?fit=2560%2C1931&ssl=1' alt='History of KFC - FourWeekMBA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FourWeekMBA" />
+                                </span>
+                                <a href='https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/01/history-of-kfc.png?fit=2560%2C1931&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Story Of KFC Founder: Colonel Sanders Was 62 Years Old When He ...">
+                                <img itemprop="contentUrl url" src='https://img.mensxp.com/media/content/2017/Mar/story-of-kfc-founder-colonel-sanders-was-62-years-old-when-he-started-kfc-980x457-1490104921.jpg' alt='Story Of KFC Founder: Colonel Sanders Was 62 Years Old When He ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MensXP" />
+                                </span>
+                                <a href='https://img.mensxp.com/media/content/2017/Mar/story-of-kfc-founder-colonel-sanders-was-62-years-old-when-he-started-kfc-980x457-1490104921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Colonel Sanders Turned A Gas Station Into An Empire | The Story of KFC">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nBV-gWfLh4A/maxresdefault.jpg' alt='How Colonel Sanders Turned A Gas Station Into An Empire | The Story of KFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nBV-gWfLh4A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Was the First KFC? Timeline & History of the Franchise">
+                                <img itemprop="contentUrl url" src='https://insightsartist.com/wp-content/uploads/2022/11/Where-was-the-first-kfc.webp' alt='Where Was the First KFC? Timeline & History of the Franchise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="5765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insights Artist" />
+                                </span>
+                                <a href='https://insightsartist.com/wp-content/uploads/2022/11/Where-was-the-first-kfc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Evolution of the KFC Logo - Famous Company Logos">
+                                <img itemprop="contentUrl url" src='https://companylogos.org/wp-content/uploads/2024/08/KFC-logo-history.jpg' alt='The History and Evolution of the KFC Logo - Famous Company Logos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company Logos" />
+                                </span>
+                                <a href='https://companylogos.org/wp-content/uploads/2024/08/KFC-logo-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanders Cafe & Museum">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/574cbbd5ab48de41ef96ded2/1594531863703-U4Y05QJFAIBDQCD7IIAV/gallery03.jpg' alt='Sanders Cafe & Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sanderscafe.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/574cbbd5ab48de41ef96ded2/1594531863703-U4Y05QJFAIBDQCD7IIAV/gallery03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of KFC, Finger Lickin' Good - Toasty Kettle">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.toastykettle.com/wp-content/uploads/2020/02/KFC.jpg?resize=750%2C421&ssl=1' alt='The History of KFC, Finger Lickin' Good - Toasty Kettle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toasty Kettle" />
+                                </span>
+                                <a href='https://i0.wp.com/www.toastykettle.com/wp-content/uploads/2020/02/KFC.jpg?resize=750%2C421&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

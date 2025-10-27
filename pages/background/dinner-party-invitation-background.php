@@ -1,0 +1,129 @@
+<title>Elegant Dinner Party Invitation Ideas</title>
+                    <meta name="description" content="Discover creative dinner party invitation backgrounds to impress your guests! From elegant themes to cozy vibes, find the perfect designs to set the mood for your gathering. Make your invitation stand out and ensure your dinner party is memorable!">
+                    <meta name="keywords" content="dinner party invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinner-party-invitation-background">
+                            <span itemprop="name">dinner party invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dinner Party Invitation Ideas</h1>
+                <p>Hosting a dinner party? Set the perfect tone with an inviting background! Choose elegant table settings, ambient lighting, and tasteful decor to create a warm atmosphere. Incorporate soft colors and textures to enhance the experience. Invite your guests with style, making your dinner unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinner Party Invitation Images – Browse 65,050 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/58/95/03/360_F_58950355_dCj4asaBwv7XTETUAH3J2CMKNrp39AQd.jpg' alt='Dinner Party Invitation Images – Browse 65,050 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="516">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/58/95/03/360_F_58950355_dCj4asaBwv7XTETUAH3J2CMKNrp39AQd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinner Party Invitation Templates (Free) | Greetings Island">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/party%20theme/dinner-party/previews/dine-with-us-43061.jpeg?auto=format,compress' alt='Dinner Party Invitation Templates (Free) | Greetings Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/party%20theme/dinner-party/previews/dine-with-us-43061.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinner Party Invitation Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-dinner-party-invitation_23-2149432021.jpg' alt='Dinner Party Invitation Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-dinner-party-invitation_23-2149432021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,000+ Dinner Invitation Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515521526/vector/food-and-drinks-vector-illustration.jpg?s=612x612&w=0&k=20&c=hIV7k3ykHKdFErixU3U6TisCFmlfR0TyYPrsEh_T-q4=' alt='13,000+ Dinner Invitation Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515521526/vector/food-and-drinks-vector-illustration.jpg?s=612x612&w=0&k=20&c=hIV7k3ykHKdFErixU3U6TisCFmlfR0TyYPrsEh_T-q4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy dinner party invitation hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2J0N232/copy-space-elegant-design-dinner-2J0N232.jpg' alt='Fancy dinner party invitation hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2J0N232/copy-space-elegant-design-dinner-2J0N232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Background - Free Dinner Party Invitation Templates | Invitanku">
+                                <img itemprop="contentUrl url" src='https://images.invitanku.com/images/posts/d79003f3d3b7417c92b919142b3bcc4e.webp' alt='Green Background - Free Dinner Party Invitation Templates | Invitanku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Invitanku" />
+                                </span>
+                                <a href='https://images.invitanku.com/images/posts/d79003f3d3b7417c92b919142b3bcc4e.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinner Party Invitation Images – Browse 65,050 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/25/09/10/360_F_225091064_CVLaEDAw4Ogm7V79k9rXyLZHzMbix3o0.jpg' alt='Dinner Party Invitation Images – Browse 65,050 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/25/09/10/360_F_225091064_CVLaEDAw4Ogm7V79k9rXyLZHzMbix3o0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Elegant Fall Dinner Party Invitation Template Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/597926598/vector/elegant-fall-dinner-party-invitation-template.jpg?s=612x612&w=0&k=20&c=va4W-5REAAVysp8y-G7NRNqBFvBQNVlPV1IZqx7ck-A=' alt='30+ Elegant Fall Dinner Party Invitation Template Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/597926598/vector/elegant-fall-dinner-party-invitation-template.jpg?s=612x612&w=0&k=20&c=va4W-5REAAVysp8y-G7NRNqBFvBQNVlPV1IZqx7ck-A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinner Party Invitation Templates (Free)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/53/82/e9/5382e92e6d2a4c943ae6d120d350ca35.jpg' alt='Dinner Party Invitation Templates (Free)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/53/82/e9/5382e92e6d2a4c943ae6d120d350ca35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105 Elegant Dinner Party High Res Vector Graphics - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/846473032/vector/hand-drawn-leaves-background-in-black-and-gold.jpg?s=612x612&w=gi&k=20&c=tWbHpOCLLZug91aOTIJYq4U2sSzggrY7r3id12pQot4=' alt='105 Elegant Dinner Party High Res Vector Graphics - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/846473032/vector/hand-drawn-leaves-background-in-black-and-gold.jpg?s=612x612&w=gi&k=20&c=tWbHpOCLLZug91aOTIJYq4U2sSzggrY7r3id12pQot4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

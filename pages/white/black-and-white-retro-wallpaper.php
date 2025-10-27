@@ -1,0 +1,129 @@
+<title>"Elevate Your Space with Black and White Retro Wallpaper"</title>
+                    <meta name="description" content="Discover the timeless appeal of black and white retro wallpaper. Perfect for adding a stylish touch to any room, this wallpaper offers classic patterns that enhance your decor. Transform your living space today with stunning vintage designs that never go out of style.">
+                    <meta name="keywords" content="black and white retro wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-retro-wallpaper">
+                            <span itemprop="name">black and white retro wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Elevate Your Space with Black and White Retro Wallpaper"</h1>
+                <p>Black and white retro wallpaper brings a nostalgic charm to your walls, combining vintage aesthetics with modern design. Ideal for living rooms or bedrooms, these patterns evoke memories of bygone eras while offering a bold and stylish statement. Enhance your space with timeless elegance and eye-catching contrast.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Geometric | black & white modern wallpaper - belarteSTUDIO">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/VintageVibe-RetroGeometric-BAS00707010-Black-10.jpg?v=1699363377' alt='Retro Geometric | black & white modern wallpaper - belarteSTUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/VintageVibe-RetroGeometric-BAS00707010-Black-10.jpg?v=1699363377' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Vintage News Ads Retro Black and White Traditional Old World  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/oAoAAOSwry1aHj~7/s-l1200.jpg' alt='Classic Vintage News Ads Retro Black and White Traditional Old World  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/oAoAAOSwry1aHj~7/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Retro Lines Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/1-black-retro-lines_1100x.jpg?v=1661518213' alt='Black Retro Lines Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/1-black-retro-lines_1100x.jpg?v=1661518213' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro wallpaper Black and White Stock Photos & Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/HJX1H2/graphic-modern-modernity-retro-wallpaper-frame-page-sheet-conspicuous-HJX1H2.jpg' alt='Retro wallpaper Black and White Stock Photos & Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1297">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/HJX1H2/graphic-modern-modernity-retro-wallpaper-frame-page-sheet-conspicuous-HJX1H2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Retro Manhattan Skyline Wallpaper | A.S.">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/a9/de/73/1687702677/8cd242a02c66e00556f40bc2c3e29d6b.jpg' alt='Black and White Retro Manhattan Skyline Wallpaper | A.S.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/a9/de/73/1687702677/8cd242a02c66e00556f40bc2c3e29d6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Black And White Retro Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1694475252828-17c1b5d3b40b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJldHJvfGVufDB8fDB8fHww' alt='30k+ Black And White Retro Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1694475252828-17c1b5d3b40b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJldHJvfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Grade Wallpaper Swatch - Modern Check Wavy Checkerboard ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Af1BqOOXL._AC_UF894,1000_QL80_.jpg' alt='Commercial Grade Wallpaper Swatch - Modern Check Wavy Checkerboard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Af1BqOOXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,900+ Vintage Black And White Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360050574/vector/abstract-seamless-pattern-on-a-newspaper-theme.jpg?s=612x612&w=0&k=20&c=bVU5Z0HvV-dXuG89kC3Pjhmt_X7s0AxcShjGmahMODU=' alt='88,900+ Vintage Black And White Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360050574/vector/abstract-seamless-pattern-on-a-newspaper-theme.jpg?s=612x612&w=0&k=20&c=bVU5Z0HvV-dXuG89kC3Pjhmt_X7s0AxcShjGmahMODU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classical wallpaper with retro pattern of black and white houndstooth">
+                                <img itemprop="contentUrl url" src='https://www.dekoori.com/upload/file-tap-0075-bc_10072-klasyczna-tapeta-w-retro-wzor-czarno-biala-pepitka-sklpe-dekoori-pl-1-png.webp' alt='Classical wallpaper with retro pattern of black and white houndstooth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dekoori" />
+                                </span>
+                                <a href='https://www.dekoori.com/upload/file-tap-0075-bc_10072-klasyczna-tapeta-w-retro-wzor-czarno-biala-pepitka-sklpe-dekoori-pl-1-png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pop - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0279_1s_Pop-Art-Lines-_-Chevrons-Pattern-Wallpaper-for-Walls-Retro-Pop_Repeating-Pattern-Sample-1.jpg?v=1734717960' alt='Retro Pop - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0279_1s_Pop-Art-Lines-_-Chevrons-Pattern-Wallpaper-for-Walls-Retro-Pop_Repeating-Pattern-Sample-1.jpg?v=1734717960' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

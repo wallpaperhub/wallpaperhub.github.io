@@ -1,0 +1,129 @@
+<title>Transform Your Bathroom with Blue Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="blue bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/blue-bathroom-wallpaper">
+                            <span itemprop="name">blue bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Bathroom with Blue Wallpaper</h1>
+                <p>Revamp your bathroom with stunning blue wallpaper that brings serenity and elegance to your space. From soft sky blue to deep navy, incorporating blue hues can create a calming atmosphere. Choose patterns that reflect your style, whether modern or classic, and transform your bathroom into a tranquil retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' alt='Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plethora | Navy - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' alt='Plethora | Navy - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson">
+                                <img itemprop="contentUrl url" src='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' alt='Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caitlin Wilson" />
+                                </span>
+                                <a href='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thatcher Midnight">
+                                <img itemprop="contentUrl url" src='https://pepper-home.com/cdn/shop/files/Thatcher-Midnight-Wallpaper2_7cb0df3a-36ae-48db-b40a-69a5b836f470.jpg?v=1696985687&width=1500' alt='Thatcher Midnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pepper Home" />
+                                </span>
+                                <a href='https://pepper-home.com/cdn/shop/files/Thatcher-Midnight-Wallpaper2_7cb0df3a-36ae-48db-b40a-69a5b836f470.jpg?v=1696985687&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' alt='67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling">
+                                <img itemprop="contentUrl url" src='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' alt='MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Darling" />
+                                </span>
+                                <a href='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana 17.7"x197" Navy Blue Wallpaper Striped Peel and Stick Wallpaper Blue  and White Contact Paper Self-Adhesive Wallpaper Modern DIY Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814noCL47SL.jpg' alt='Guvana 17.7"x197" Navy Blue Wallpaper Striped Peel and Stick Wallpaper Blue  and White Contact Paper Self-Adhesive Wallpaper Modern DIY Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1702">
+                                <meta itemprop="height" content="2495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814noCL47SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Abstract Navy Large ...">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' alt='Wallpaper Peel and Stick Wallpaper Abstract Navy Large ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/mockup2_cfcfb7c7-cbd8-481e-88a4-b012952fabd7.jpg?v=1717012378&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/mockup2_cfcfb7c7-cbd8-481e-88a4-b012952fabd7.jpg?v=1717012378&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

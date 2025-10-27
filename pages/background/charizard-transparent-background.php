@@ -1,0 +1,129 @@
+<title>Download Charizard with Transparent Background for Your Projects</title>
+                    <meta name="description" content="Get high-quality Charizard images with a transparent background, ideal for various creative projects. Enhance your digital designs effortlessly with this iconic Pokémon. Perfect for wallpapers, graphics, and more. Download now and let your imagination soar!">
+                    <meta name="keywords" content="charizard transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charizard-transparent-background">
+                            <span itemprop="name">charizard transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Charizard with Transparent Background for Your Projects</h1>
+                <p>Discover the iconic Charizard with a transparent background, perfect for your design projects! This beloved Pokémon can enhance your digital artwork, social media graphics, or personal collections. Whether for a wallpaper or a promotional poster, Charizard's fierce look shines through seamlessly against any backdrop. Unleash your creativity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/1f/Pok%C3%A9mon_Charizard_art.png' alt='Charizard - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="326">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/1f/Pok%C3%A9mon_Charizard_art.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/12/Charizard-PNG-Image.png' alt='Charizard PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/12/Charizard-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Trading Card Game Charizard Moltres Pokémon Red and Blue ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/869/836/png-clipart-pokemon-trading-card-game-charizard-moltres-pokemon-red-and-blue-charmeleon.png' alt='Pokémon Trading Card Game Charizard Moltres Pokémon Red and Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/869/836/png-clipart-pokemon-trading-card-game-charizard-moltres-pokemon-red-and-blue-charmeleon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Charizard Transparent Image - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/350/charizard-transparent-image--comdlpng6954510.jpg' alt='Free: Charizard Transparent Image - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/350/charizard-transparent-image--comdlpng6954510.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/808/220/png-clipart-pokemon-charizard-charizard-pokemon-games-pokemon-thumbnail.png' alt='Charizard png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/808/220/png-clipart-pokemon-charizard-charizard-pokemon-games-pokemon-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard PNG , Charizard Clipart PNG, Transparent Images PNG, Printable  Pokemon, Digital Pokemon, Instant Download, Charizard Png Images">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49391921/r/il/6cbdd7/6163930769/il_fullxfull.6163930769_jnsb.jpg' alt='Charizard PNG , Charizard Clipart PNG, Transparent Images PNG, Printable  Pokemon, Digital Pokemon, Instant Download, Charizard Png Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2503">
+                                <meta itemprop="height" content="2004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49391921/r/il/6cbdd7/6163930769/il_fullxfull.6163930769_jnsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard Logo PNG Vector (SVG) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/C/charizard-logo-C9856A6142-seeklogo.com.png' alt='Charizard Logo PNG Vector (SVG) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/C/charizard-logo-C9856A6142-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Charizard Aesthetic Sticker">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/fa/58/85fa58a1340bb3057bc6eb42100034a3.jpg' alt='Pokemon Charizard Aesthetic Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/fa/58/85fa58a1340bb3057bc6eb42100034a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/12/Charizard-PNG-Background-Image.png' alt='Charizard PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/12/Charizard-PNG-Background-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard Logo PNG Vector (AI) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/C/charizard-logo-DB13CC1850-seeklogo.com.png' alt='Charizard Logo PNG Vector (AI) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/C/charizard-logo-DB13CC1850-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

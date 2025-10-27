@@ -1,0 +1,129 @@
+<title>Yuji Itadori: The Hero of Jujutsu Kaisen</title>
+                    <meta name="description" content="Discover the thrilling journey of Yuji Itadori, the courageous hero of "Jujutsu Kaisen." From a normal high schooler to a powerful jujutsu sorcerer, learn about his battles against curses and his quest to save humanity. Join Yuji’s adventure today!">
+                    <meta name="keywords" content="yuji itadori">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yuji-itadori">
+                            <span itemprop="name">yuji itadori</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Yuji Itadori: The Hero of Jujutsu Kaisen</h1>
+                <p>Yuji Itadori is the main protagonist of the popular anime and manga series "Jujutsu Kaisen." A high school student with extraordinary physical abilities, he becomes a jujutsu sorcerer after swallowing a cursed object—Ryomen Sukuna's finger. Yuji's journey is marked by incredible battles, friendships, and a quest to protect humanity from curses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png' alt='Yuji Itadori - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori | Jujutsu Kaisen Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6f/Yuji_Itadori_%28Anime_2%29.png/revision/latest?cb=20240621133654' alt='Yuji Itadori | Jujutsu Kaisen Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1524">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jujutsu Kaisen Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6f/Yuji_Itadori_%28Anime_2%29.png/revision/latest?cb=20240621133654' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cringe warning: What-if Yuji Itadori dies at the end of JJK and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gd7366srixsc1.png' alt='Cringe warning: What-if Yuji Itadori dies at the end of JJK and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="1583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gd7366srixsc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori | Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/p__/images/1/1d/Yuji_Itadori_%28Anime_3%29.png/revision/latest?cb=20240526142400&path-prefix=protagonist' alt='Yuji Itadori | Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="1094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/p__/images/1/1d/Yuji_Itadori_%28Anime_3%29.png/revision/latest?cb=20240526142400&path-prefix=protagonist' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen: Who is Yuji Itadori?">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Jujutsu-Kaisen-Itadori.jpg' alt='Jujutsu Kaisen: Who is Yuji Itadori?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Jujutsu-Kaisen-Itadori.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ideals VS Reality: The Tragedy of Itadori Yuji – Jonah's Books & Rants">
+                                <img itemprop="contentUrl url" src='https://jonahwrites.blog/wp-content/uploads/2024/01/screenshot-332.png' alt='Ideals VS Reality: The Tragedy of Itadori Yuji – Jonah's Books & Rants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jonah's Books & Rants" />
+                                </span>
+                                <a href='https://jonahwrites.blog/wp-content/uploads/2024/01/screenshot-332.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori | Jujutsu Kaisen Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3e/Yuji_Itadori_Final.png/revision/latest?cb=20240824035931' alt='Yuji Itadori | Jujutsu Kaisen Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="1527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jujutsu Kaisen Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3e/Yuji_Itadori_Final.png/revision/latest?cb=20240824035931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Jujutsu Kaisen Contact Lenses – Lensmate">
+                                <img itemprop="contentUrl url" src='https://lensmate.co.uk/cdn/shop/files/YujiItadori.jpg?v=1712943337' alt='Yuji Itadori Jujutsu Kaisen Contact Lenses – Lensmate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lensmate" />
+                                </span>
+                                <a href='https://lensmate.co.uk/cdn/shop/files/YujiItadori.jpg?v=1712943337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Yuji Itadori Uniform Jacket">
+                                <img itemprop="contentUrl url" src='https://alexgear.com/cdn/shop/files/Jujutsu-Kaisen-Yuji-Itadori-Cosplay-Jacket.jpg?v=1722974535' alt='Jujutsu Kaisen Yuji Itadori Uniform Jacket'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AlexGear" />
+                                </span>
+                                <a href='https://alexgear.com/cdn/shop/files/Jujutsu-Kaisen-Yuji-Itadori-Cosplay-Jacket.jpg?v=1722974535' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yuji Itadori Vs. Tanjiro Kamado (0-8-0) (Concluded) | VS Battles ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/972b563d-3313-466a-be04-62aa7100ef89/dgapngs-f0a0e86b-1c2f-4381-840e-b02e8897d0f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk3MmI1NjNkLTMzMTMtNDY2YS1iZTA0LTYyYWE3MTAwZWY4OVwvZGdhcG5ncy1mMGEwZTg2Yi0xYzJmLTQzODEtODQwZS1iMDJlODg5N2QwZjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U-sw3k9N9sEhAy2LhMT2zEyNxiVp47uqs32y1QxQ0Bg' alt='Yuji Itadori Vs. Tanjiro Kamado (0-8-0) (Concluded) | VS Battles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="1715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VS Battles Wiki Forum" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/972b563d-3313-466a-be04-62aa7100ef89/dgapngs-f0a0e86b-1c2f-4381-840e-b02e8897d0f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk3MmI1NjNkLTMzMTMtNDY2YS1iZTA0LTYyYWE3MTAwZWY4OVwvZGdhcG5ncy1mMGEwZTg2Yi0xYzJmLTQzODEtODQwZS1iMDJlODg5N2QwZjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U-sw3k9N9sEhAy2LhMT2zEyNxiVp47uqs32y1QxQ0Bg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

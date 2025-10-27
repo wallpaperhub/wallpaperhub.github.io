@@ -1,0 +1,129 @@
+<title>Discover Central Cee: UK Rap Sensation</title>
+                    <meta name="description" content="Explore the world of Central Cee, an emerging UK rap artist known for his captivating lyrics and distinctive sound. Dive into his journey, hit tracks, and the impact he's making in the music industry today. Stay tuned for the latest updates and releases!">
+                    <meta name="keywords" content="central cee">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/central-cee">
+                            <span itemprop="name">central cee</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Central Cee: UK Rap Sensation</h1>
+                <p>Central Cee is a rising star in the UK rap scene, known for his unique sound and relatable lyrics. Bursting onto the music stage with tracks like "Loading" and "Commitment Issues," he captures the struggles and stories of urban life. His dynamic flow and catchy hooks have garnered a loyal fanbase and critical acclaim.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/30/Central_cee-5.jpg' alt='Central Cee - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3078">
+                                <meta itemprop="height" content="4617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/30/Central_cee-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAN'T RUSH GREATNESS - Album by Central Cee | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2735609b89507db8644ff7e1e7a' alt='CAN'T RUSH GREATNESS - Album by Central Cee | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2735609b89507db8644ff7e1e7a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebf6469f2cbf0a7e78744a3173' alt='Central Cee Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebf6469f2cbf0a7e78744a3173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee - Ungrateful [Net Video] - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YtmqU4J-5X8/sddefault.jpg?v=6238caa0' alt='Central Cee - Ungrateful [Net Video] - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YtmqU4J-5X8/sddefault.jpg?v=6238caa0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do you find Central Cee attractive? What would you rate him? : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/do-you-find-central-cee-attractive-what-would-you-rate-him-v0-2zcwislvzk2c1.jpg?width=736&format=pjpg&auto=webp&s=631b4b7f65d13697581c6bd6ce520ac9f2550dd7' alt='Do you find Central Cee attractive? What would you rate him? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/do-you-find-central-cee-attractive-what-would-you-rate-him-v0-2zcwislvzk2c1.jpg?width=736&format=pjpg&auto=webp&s=631b4b7f65d13697581c6bd6ce520ac9f2550dd7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice Reveals Her DREAM Collab & Twerk Moves | Ask Me Anything | ELLE">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ice-spice-central-cee-668843bb2b4a4.jpeg?crop=1.00xw:0.853xh;0,0&resize=1200:*' alt='Ice Spice Reveals Her DREAM Collab & Twerk Moves | Ask Me Anything | ELLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ice-spice-central-cee-668843bb2b4a4.jpeg?crop=1.00xw:0.853xh;0,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee: albums, songs, playlists | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/artist/25fe719f51af3ee2de27aa267e2a6ac9/1900x1900-000000-80-0-0.jpg' alt='Central Cee: albums, songs, playlists | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/artist/25fe719f51af3ee2de27aa267e2a6ac9/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYTEyZDQ2ZWYtMDc3MS00Y2EyLTlmZjctYjI5OTUwZjJhMmU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Central Cee - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYTEyZDQ2ZWYtMDc3MS00Y2EyLTlmZjctYjI5OTUwZjJhMmU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Cee — Can't Rush Greatness UK Tour | Co-op Live">
+                                <img itemprop="contentUrl url" src='https://img.cooplive.com/PDR_WJF7_PrKzZESFEhTmJLVc_yYoplqs5_SRPzerMQ/c:5615:3158:fp:0.5:0.33/s:1920:1080:1/aHR0cHM6Ly93d3cuY29vcGxpdmUuY29tLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMTIyX29yaWcuanBn' alt='Central Cee — Can't Rush Greatness UK Tour | Co-op Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Co-op Live" />
+                                </span>
+                                <a href='https://img.cooplive.com/PDR_WJF7_PrKzZESFEhTmJLVc_yYoplqs5_SRPzerMQ/c:5615:3158:fp:0.5:0.33/s:1920:1080:1/aHR0cHM6Ly93d3cuY29vcGxpdmUuY29tLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMTIyX29yaWcuanBn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is r/rap thoughts on UK artist Central Cee? : r/rap">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-r-rap-thoughts-on-uk-artist-central-cee-v0-tsqk2oj1dq2a1.jpg?width=640&crop=smart&auto=webp&s=0966b2f7ab8e707368f8f030977ace74c59abf77' alt='what is r/rap thoughts on UK artist Central Cee? : r/rap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-r-rap-thoughts-on-uk-artist-central-cee-v0-tsqk2oj1dq2a1.jpg?width=640&crop=smart&auto=webp&s=0966b2f7ab8e707368f8f030977ace74c59abf77' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Fun Background of Patrick Star from SpongeBob SquarePants</title>
+                    <meta name="description" content="Discover the colorful background of Patrick Star, the iconic character from "SpongeBob SquarePants." Learn about his origins, personality traits, and his close friendship with SpongeBob in this concise overview. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="patrick star background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/patrick-star-background">
+                            <span itemprop="name">patrick star background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fun Background of Patrick Star from SpongeBob SquarePants</h1>
+                <p>Patrick Star is a beloved character from the animated series "SpongeBob SquarePants." He is an enthusiastic yet dim-witted sea star who lives under a rock in Bikini Bottom. Known for his pink color, round shape, and carefree attitude, Patrick adds humor to the show and often joins SpongeBob in his adventures, showcasing their strong friendship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Patrick Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/patrick-star-ko0pafe6m29b00fb.jpg' alt='300+] Patrick Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/patrick-star-ko0pafe6m29b00fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star (SpongeBob SquarePants) Wallpapers (54 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/5/7/1078263-1920x1080-desktop-1080p-patrick-star-spongebob-squarepants-background-photo.jpg' alt='Patrick Star (SpongeBob SquarePants) Wallpapers (54 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/5/7/1078263-1920x1080-desktop-1080p-patrick-star-spongebob-squarepants-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Patrick Star Show Customizable Zoom Backgrounds | Nickelodeon ...">
+                                <img itemprop="contentUrl url" src='https://www.nickelodeonparents.com/wp-content/uploads/2020/10/PSS101_PatrickStills_Shot4A_HDPATS101A_90309624_KSUVY8VV2.jpg' alt='The Patrick Star Show Customizable Zoom Backgrounds | Nickelodeon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nickelodeon Parents" />
+                                </span>
+                                <a href='https://www.nickelodeonparents.com/wp-content/uploads/2020/10/PSS101_PatrickStills_Shot4A_HDPATS101A_90309624_KSUVY8VV2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob's Patrick Star HD Wallpaper - Vibrant Backgrounds">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/688/thumb-1920-688277.jpg' alt='Spongebob's Patrick Star HD Wallpaper - Vibrant Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/688/thumb-1920-688277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick! #wallpaper #iphone #spongebob">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/65/ec/5d65ecfbc5523be6b3905d643fe607d8.jpg' alt='Patrick! #wallpaper #iphone #spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/65/ec/5d65ecfbc5523be6b3905d643fe607d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob's Friend Patrick Star HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/688/thumb-1920-688276.jpg' alt='Spongebob's Friend Patrick Star HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/688/thumb-1920-688276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Wallpaper by CriChTon on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9963e357-3671-4fa4-a005-d02f1d49004d/dnafyz-cab65949-6a51-4054-8969-64b3c966aae4.jpg/v1/fill/w_1024,h_768,q_75,strp/patrick_star_wallpaper_by_crichton_dnafyz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvOTk2M2UzNTctMzY3MS00ZmE0LWEwMDUtZDAyZjFkNDkwMDRkXC9kbmFmeXotY2FiNjU5NDktNmE1MS00MDU0LTg5NjktNjRiM2M5NjZhYWU0LmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iMQRmR1kIpBScLLCD33nZkgT336novwxcBXsFSMSfvo' alt='Patrick Star Wallpaper by CriChTon on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9963e357-3671-4fa4-a005-d02f1d49004d/dnafyz-cab65949-6a51-4054-8969-64b3c966aae4.jpg/v1/fill/w_1024,h_768,q_75,strp/patrick_star_wallpaper_by_crichton_dnafyz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvOTk2M2UzNTctMzY3MS00ZmE0LWEwMDUtZDAyZjFkNDkwMDRkXC9kbmFmeXotY2FiNjU5NDktNmE1MS00MDU0LTg5NjktNjRiM2M5NjZhYWU0LmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iMQRmR1kIpBScLLCD33nZkgT336novwxcBXsFSMSfvo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Patrick Star, Spongebob Squarepants, Colored - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/23/b8/bc23b8465b88ae0ff5272eec8e16b84a.jpg' alt='Wallpaper Patrick Star, Spongebob Squarepants, Colored - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/23/b8/bc23b8465b88ae0ff5272eec8e16b84a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Thanks for visiting us down here in Bikini Bottom, where ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/patrick-star-background-aq6n9haqw2f2w46c.jpg' alt='Download "Thanks for visiting us down here in Bikini Bottom, where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/patrick-star-background-aq6n9haqw2f2w46c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD patrick star and background wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/462/210/HD-wallpaper-patrick-star-spongbob-in-yellow-background-spongbob.jpg' alt='HD patrick star and background wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/462/210/HD-wallpaper-patrick-star-spongbob-in-yellow-background-spongbob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

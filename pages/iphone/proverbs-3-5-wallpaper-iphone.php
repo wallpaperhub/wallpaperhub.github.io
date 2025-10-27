@@ -1,0 +1,129 @@
+<title>Proverbs 3:5 iPhone Wallpapers - Trust and Inspire</title>
+                    <meta name="description" content="Discover beautiful iPhone wallpapers inspired by Proverbs 3:5! Trust in the Lord with stunning designs that motivate and uplift. Perfect for daily inspiration, these wallpapers blend faith and style seamlessly for your smartphone. Download now to elevate your device and spirit!">
+                    <meta name="keywords" content="proverbs 3 5 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/proverbs-3-5-wallpaper-iphone">
+                            <span itemprop="name">proverbs 3 5 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Proverbs 3:5 iPhone Wallpapers - Trust and Inspire</h1>
+                <p>Transform your iPhone with stunning wallpapers inspired by Proverbs 3:5. These uplifting backgrounds remind us to trust in the Lord wholeheartedly. Enhance your device's look while staying connected to your faith. Explore a variety of designs that inspire positivity and spiritual growth, perfect for daily motivation on the go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Wallpaper ideas | proverbs 3 5 6, proverbs 3, proverbs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9d/99/b0/9d99b0da871494d49ba763affb5aaf2c.jpg' alt='7 Wallpaper ideas | proverbs 3 5 6, proverbs 3, proverbs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9d/99/b0/9d99b0da871494d49ba763affb5aaf2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord With All Your Heart Proverbs 3:5 Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8716072/r/il/73529a/5770871113/il_1080xN.5770871113_d6a8.jpg' alt='Trust in the Lord With All Your Heart Proverbs 3:5 Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8716072/r/il/73529a/5770871113/il_1080xN.5770871113_d6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treeline Proverbs 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Treeline_Prov_3-5-6_Web-1.jpg' alt='Treeline Proverbs 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Treeline_Prov_3-5-6_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Bible Verse Proverbs 3:5 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-bible-verse-proverbs-3-5-glfihlln5f2prh5n.jpg' alt='Download Aesthetic Bible Verse Proverbs 3:5 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-bible-verse-proverbs-3-5-glfihlln5f2prh5n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Proverbs 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Purple_Prov_3-5-6_Web-1.jpg' alt='Purple Proverbs 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Purple_Prov_3-5-6_Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 3:5-6, Trust in the Lord, Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/a2/57/cba257f5e8a5b0e8c1709347c18df999.jpg' alt='Proverbs 3:5-6, Trust in the Lord, Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/a2/57/cba257f5e8a5b0e8c1709347c18df999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Proverbs 3:5-6 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Pink_Prov_3-5-6_Web-1.png' alt='Pink Proverbs 3:5-6 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Pink_Prov_3-5-6_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust In The Lord With All Your Heart And Lean Not On Your Own ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/trust-in-the-lord-with-all-your-heart-and-lean-not-on-your-own-understanding-proverbs-3-5-etbs52vn8zwsdh8x.jpg' alt='Trust In The Lord With All Your Heart And Lean Not On Your Own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/trust-in-the-lord-with-all-your-heart-and-lean-not-on-your-own-understanding-proverbs-3-5-etbs52vn8zwsdh8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 3:5 Bibleverse wallpaper - Trust in the Lord with all ...">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623266279/quotes/en/t6gyh8vhq1ezitgmv0ih.jpg' alt='Proverbs 3:5 Bibleverse wallpaper - Trust in the Lord with all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623266279/quotes/en/t6gyh8vhq1ezitgmv0ih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2019/02/Trust-in-the-Lord-mobile-wallpaper.jpg' alt='Trust in the Lord - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2019/02/Trust-in-the-Lord-mobile-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

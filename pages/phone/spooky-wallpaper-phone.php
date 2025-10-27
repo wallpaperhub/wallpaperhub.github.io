@@ -1,0 +1,129 @@
+<title>Spooky Phone Wallpapers: Embrace the Haunting Vibes</title>
+                    <meta name="description" content="Discover the best spooky phone wallpapers to celebrate the eerie aesthetic of Halloween! Transform your device with ghostly imagery and haunting designs that captivate and thrill. Perfect for fans of the supernatural, these wallpapers enhance your phone's look while keeping it stylish. Download now!">
+                    <meta name="keywords" content="spooky wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/spooky-wallpaper-phone">
+                            <span itemprop="name">spooky wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Phone Wallpapers: Embrace the Haunting Vibes</h1>
+                <p>Transform your phone into a haunting masterpiece with spooky wallpaper! Embrace the eerie spirit of Halloween year-round, featuring ghostly apparitions, haunting landscapes, and chilling creatures. Perfect for those who love the thrill of the supernatural, these wallpapers add an element of fright to your device while keeping it stylish and fun.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Spooky Halloween Wallpaper Backgrounds for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/bd/33/b7bd33ce6155e0d61de7f5dac7a995c1.jpg' alt='50 Spooky Halloween Wallpaper Backgrounds for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/bd/33/b7bd33ce6155e0d61de7f5dac7a995c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' alt='17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg?w=360' alt='Halloween Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/free-halloween-background-wallpaper-template_1264014-13449.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Spooky Halloween Wallpapers For Phones - The XO Factor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/b5/43/03b543caaf1f6cb8823a0166e80128a7.jpg' alt='100 Spooky Halloween Wallpapers For Phones - The XO Factor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/b5/43/03b543caaf1f6cb8823a0166e80128a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Halloween Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/halloween-phone-background-ny3dyp0a6pedprrw.jpg' alt='200+] Halloween Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/halloween-phone-background-ny3dyp0a6pedprrw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spooky scary skeletons wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/681/292/HD-wallpaper-skeleton-halloween-october-spooky-spooky-scary-skeletons-spoopy.jpg' alt='HD spooky scary skeletons wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/681/292/HD-wallpaper-skeleton-halloween-october-spooky-spooky-scary-skeletons-spoopy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_haunted_house_with_glowing_windows_and_bats_flyin_cd88b5e5-cf4f-4561-9b8a-750d1cc24ba2_3.webp?resize=574%2C1024&ssl=1' alt='17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_haunted_house_with_glowing_windows_and_bats_flyin_cd88b5e5-cf4f-4561-9b8a-750d1cc24ba2_3.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy The Spooky Holiday Season With This Fall Halloween ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-halloween-iphone-rkxv3kvkrso2cj1x.jpg' alt='Download Enjoy The Spooky Holiday Season With This Fall Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-halloween-iphone-rkxv3kvkrso2cj1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Halloween phone wallpaper ideas | halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/80/59/73/80597366b5bbee718cb70462ea6f3263.jpg' alt='170 Halloween phone wallpaper ideas | halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/80/59/73/80597366b5bbee718cb70462ea6f3263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Wallpapers | Download High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWItMDYxLmpwZw.jpg' alt='Halloween iPhone Wallpapers | Download High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWItMDYxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Loving Memory Flower Funeral Background: A Heartfelt Tribute</title>
+                    <meta name="description" content="Discover the perfect loving memory flower funeral background to honor your loved ones. This serene floral backdrop celebrates life and remembrance, creating a beautiful atmosphere for your memorial event. Tradition meets elegance in our design, ensuring a touching tribute that resonates with all who attend.">
+                    <meta name="keywords" content="loving memory flower funeral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/loving-memory-flower-funeral-background">
+                            <span itemprop="name">loving memory flower funeral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Loving Memory Flower Funeral Background: A Heartfelt Tribute</h1>
+                <p>When celebrating the life of a loved one, a loving memory flower funeral background serves as a heartfelt tribute. This backdrop can feature soft blooms and serene colors, creating a peaceful atmosphere. Flowers symbolize love, remembrance, and the beauty of life, making them a perfect element for honoring those we've lost.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Png-purple Flowers Butterfly Memorial Template ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40124995/r/il/0ae378/5165913809/il_570xN.5165913809_rdbr.jpg' alt='In Loving Memory Png-purple Flowers Butterfly Memorial Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40124995/r/il/0ae378/5165913809/il_570xN.5165913809_rdbr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Png-Blue Flowers Butterfly Memorial Template | instant  download | printable funeral RIP memorial | sublimation background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34622374/r/il/c80336/4447345211/il_570xN.4447345211_3uhh.jpg' alt='In Loving Memory Png-Blue Flowers Butterfly Memorial Template | instant  download | printable funeral RIP memorial | sublimation background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34622374/r/il/c80336/4447345211/il_570xN.4447345211_3uhh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loving Memory Funeral Flowers Background Vectors & Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/loving-memory-background-composition-with-flowers-black-ribbon-funeral-cross-with-editable-condolences-text-vector-illustration_1284-71348.jpg' alt='Loving Memory Funeral Flowers Background Vectors & Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/loving-memory-background-composition-with-flowers-black-ribbon-funeral-cross-with-editable-condolences-text-vector-illustration_1284-71348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Guest Book: Funeral Guest Book For Memorial Service |  Beautiful Floral Red Rose Flower Condolence Book Funeral Guest Book In Pink  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61sP3+BcqwL._AC_UF1000,1000_QL80_.jpg' alt='In Loving Memory Guest Book: Funeral Guest Book For Memorial Service |  Beautiful Floral Red Rose Flower Condolence Book Funeral Guest Book In Pink  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61sP3+BcqwL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,100+ In Loving Memory Flower Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/667087892/photo/flower-concept.jpg?s=612x612&w=0&k=20&c=AXP9IN3PcnHB-XkJEbBOg1EGJFoXLLKKXjiOIf5ttCg=' alt='25,100+ In Loving Memory Flower Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/667087892/photo/flower-concept.jpg?s=612x612&w=0&k=20&c=AXP9IN3PcnHB-XkJEbBOg1EGJFoXLLKKXjiOIf5ttCg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loving Memory Flower Border Stock Illustrations – 132 Loving ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/wreath-white-rose-oval-frame-loving-memory-text-vector-design-wreath-white-rose-oval-frame-loving-118496266.jpg' alt='Loving Memory Flower Border Stock Illustrations – 132 Loving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/wreath-white-rose-oval-frame-loving-memory-text-vector-design-wreath-white-rose-oval-frame-loving-118496266.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,100+ In Loving Memory Flower Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1291129850/vector/funereal-round-frame-with-roses-flowers-and-thorns.jpg?s=612x612&w=0&k=20&c=qf4ESMp_uBTolYa0tUHl6Evy9UF0gPJXqev12DiHwos=' alt='25,100+ In Loving Memory Flower Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1291129850/vector/funereal-round-frame-with-roses-flowers-and-thorns.jpg?s=612x612&w=0&k=20&c=qf4ESMp_uBTolYa0tUHl6Evy9UF0gPJXqev12DiHwos=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Png-red Flowers Butterfly Memorial Template | Instant  Download | Printable Funeral RIP Memorial | Sublimation Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34622374/r/il/f95ea0/4049794647/il_1080xN.4049794647_tocq.jpg' alt='In Loving Memory Png-red Flowers Butterfly Memorial Template | Instant  Download | Printable Funeral RIP Memorial | Sublimation Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34622374/r/il/f95ea0/4049794647/il_1080xN.4049794647_tocq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Guest Book: Funeral Guest Book For Memorial Service |  Hardcover | Beautiful Floral Purple Watercolor Flower Condolence Book  Funeral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ad0fnaz7L._AC_UF1000,1000_QL80_.jpg' alt='In Loving Memory Guest Book: Funeral Guest Book For Memorial Service |  Hardcover | Beautiful Floral Purple Watercolor Flower Condolence Book  Funeral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ad0fnaz7L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral vector card with red rose sketch flowers wreath. Obituary ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2ER608T/funeral-vector-card-with-red-rose-sketch-flowers-wreath-obituary-frame-with-engraved-floral-decoration-and-in-loving-memory-typography-vintage-poste-2ER608T.jpg' alt='Funeral vector card with red rose sketch flowers wreath. Obituary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1274">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2ER608T/funeral-vector-card-with-red-rose-sketch-flowers-wreath-obituary-frame-with-engraved-floral-decoration-and-in-loving-memory-typography-vintage-poste-2ER608T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

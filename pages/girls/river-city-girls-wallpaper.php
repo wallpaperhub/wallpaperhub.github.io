@@ -1,0 +1,129 @@
+<title>Vibrant River City Girls Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a collection of eye-catching "River City Girls" wallpapers that enhance your device's look. Perfect for fans, these stylish backgrounds are designed to celebrate the vibrant art and characters of the game. Discover your ideal wallpaper today!">
+                    <meta name="keywords" content="river city girls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/river-city-girls-wallpaper">
+                            <span itemprop="name">river city girls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant River City Girls Wallpapers for Your Devices</h1>
+                <p>Transform your devices with stunning "River City Girls" wallpapers, showcasing the vibrant characters and dynamic art style of this beloved game. Perfect for fans who want a unique backdrop for their screens, these wallpapers bring the energetic spirit of River City to life. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kyoko (River City Girls) Misako (River City Girls) Video ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/107/1073756.jpg' alt='Download Kyoko (River City Girls) Misako (River City Girls) Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2076">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/107/1073756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="River City Girls | WayForward">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/235455/1920x1290/35807b3d82/jumbo_bk.jpg/m/fit-in/1920x1080/filters:quality(100)' alt='River City Girls | WayForward'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1607">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WayForward" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/235455/1920x1290/35807b3d82/jumbo_bk.jpg/m/fit-in/1920x1080/filters:quality(100)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="River City Girls Wallpapers – @anthonlatein on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d793aeb0e00b272cfa62ee104c0c144f/fc212fb8b2fcd90b-33/s640x960/394344086fac2337006c2772c14a8560a1a73c21.pnj' alt='River City Girls Wallpapers – @anthonlatein on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d793aeb0e00b272cfa62ee104c0c144f/fc212fb8b2fcd90b-33/s640x960/394344086fac2337006c2772c14a8560a1a73c21.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy River City Girls | Xbox">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.47482.13744198789091182.d176867c-ff91-4e0a-b1f7-00b2797de9c7.fab94637-3aac-4bc7-82e9-08729189a510?q=90&w=480&h=270' alt='Buy River City Girls | Xbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox.com" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.47482.13744198789091182.d176867c-ff91-4e0a-b1f7-00b2797de9c7.fab94637-3aac-4bc7-82e9-08729189a510?q=90&w=480&h=270' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheapest River City Girls Key - $4.38">
+                                <img itemprop="contentUrl url" src='https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco2r5w&w=640&q=75' alt='Cheapest River City Girls Key - $4.38'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameGator" />
+                                </span>
+                                <a href='https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco2r5w&w=640&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="River City Girls wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/fd/0a/0afd0acf7a2c4619f8c3809f0d6a5f12.jpg' alt='River City Girls wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/fd/0a/0afd0acf7a2c4619f8c3809f0d6a5f12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's Play River City Girls Episode 3">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GnhhPa2Qc6o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAz_naMfXWylTCbkJekVRHNLW3rgw' alt='Let's Play River City Girls Episode 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GnhhPa2Qc6o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAz_naMfXWylTCbkJekVRHNLW3rgw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="River City Girls 2">
+                                <img itemprop="contentUrl url" src='https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000047444/757522f7548bbb768f453846a578b9af7d6740732238b0735e8c3dce55e18654' alt='River City Girls 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo" />
+                                </span>
+                                <a href='https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000047444/757522f7548bbb768f453846a578b9af7d6740732238b0735e8c3dce55e18654' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WayForward On Expanding The 'River City Girls' Universe, And ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/YJsqDlryCaZv6SL5CF6a1FjDapHAhCGTKP-hy5wJAR0.jpg?width=640&crop=smart&auto=webp&s=774b20bf8032094e4761deee0e258f352d037004' alt='WayForward On Expanding The 'River City Girls' Universe, And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/YJsqDlryCaZv6SL5CF6a1FjDapHAhCGTKP-hy5wJAR0.jpg?width=640&crop=smart&auto=webp&s=774b20bf8032094e4761deee0e258f352d037004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="River City Girls Zero Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/f907c9a8-df0a-4f17-be29-afd1dd4a7d3a.jpg' alt='River City Girls Zero Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/f907c9a8-df0a-4f17-be29-afd1dd4a7d3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

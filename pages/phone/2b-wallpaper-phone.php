@@ -1,0 +1,129 @@
+<title>Stunning 2b Phone Wallpapers to Elevate Your Device</title>
+                    <meta name="description" content="Discover a collection of stylish 2b phone wallpapers that breathe life into your device. Perfectly designed for vibrant aesthetics, these wallpapers make personalization easy and fun. Download now to transform your phone with unique designs that reflect your individuality!">
+                    <meta name="keywords" content="2b wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/2b-wallpaper-phone">
+                            <span itemprop="name">2b wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 2b Phone Wallpapers to Elevate Your Device</h1>
+                <p>Enhance your phone's look with trendy 2b wallpapers! Perfect for personalizing your device, these wallpapers feature vibrant colors and unique designs that reflect your style. Easy to download and set, 2b wallpapers are suitable for all phone models. Transform your screen into a stunning visual treat today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2B Mobile Background : r/nier">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f5mfqj4ktnf31.png' alt='2B Mobile Background : r/nier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1418">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f5mfqj4ktnf31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2B Phone Wallpaper (im not the original creator, i just changed ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ew35x6lbg5e51.png' alt='2B Phone Wallpaper (im not the original creator, i just changed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ew35x6lbg5e51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR Automata 2B iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/e0/70/aae070307b90684198c01dfee88dbf55.jpg' alt='NieR Automata 2B iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/e0/70/aae070307b90684198c01dfee88dbf55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nier Automata Phone Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/28/c3/e528c38ae0549c38d8676277ac9846ee.jpg' alt='Nier Automata Phone Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/28/c3/e528c38ae0549c38d8676277ac9846ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Captivating 2B Phone Wallpapers - Stunning HD Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/ea/b1/b0eab109a60dc2295e472887efdbc474.jpg' alt='Explore Captivating 2B Phone Wallpapers - Stunning HD Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/ea/b1/b0eab109a60dc2295e472887efdbc474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2b, nier, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/359/643/HD-wallpaper-2b-nier.jpg' alt='2b, nier, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/359/643/HD-wallpaper-2b-nier.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Nier: Automata, 2B (Nier: Automata), sword">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/9d/60/869d604e5066a921d47dcc5f1291bb4a.jpg' alt='HD wallpaper: Nier: Automata, 2B (Nier: Automata), sword'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/9d/60/869d604e5066a921d47dcc5f1291bb4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic 2B wallpaper, I'm not the original creator : r/nier">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8mei6kcilf651.jpg' alt='Minimalistic 2B wallpaper, I'm not the original creator : r/nier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8mei6kcilf651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2B">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/6kQkgpU.png' alt='2B'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreestylersWorld" />
+                                </span>
+                                <a href='https://i.imgur.com/6kQkgpU.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Nier: Automata" wallpapers for mobile phone, free "Nier ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/c4/c4b9afb3994c0a4fd59f2bd225d8ebfe.jpeg' alt='Download "Nier: Automata" wallpapers for mobile phone, free "Nier ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/c4/c4b9afb3994c0a4fd59f2bd225d8ebfe.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

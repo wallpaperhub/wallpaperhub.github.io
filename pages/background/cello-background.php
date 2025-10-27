@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History of the Cello</title>
+                    <meta name="description" content="Explore the enchanting background of the cello, a timeless string instrument with roots dating back to the 16th century. Learn about its evolution, key composers, and its significance in orchestras, ideal for music lovers and aspiring musicians alike!">
+                    <meta name="keywords" content="cello background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cello-background">
+                            <span itemprop="name">cello background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History of the Cello</h1>
+                <p>Cello, a bowed string instrument, has a rich history dating back to the 16th century. Evolving from early viols, it gained prominence during the Baroque period, notably in the works of composers like Bach. Celebrated for its deep, warm tones, it plays a vital role in orchestras and chamber music, captivating audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic cello resting on a textured and abstract background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/906/524/large_2x/classic-cello-resting-on-a-textured-and-abstract-background-photo.jpg' alt='Classic cello resting on a textured and abstract background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/906/524/large_2x/classic-cello-resting-on-a-textured-and-abstract-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cello Images – Browse 87,114 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/91/56/91/360_F_91569184_E7gdGCe2WXkqyebpoScLD1zKHj62DzsH.jpg' alt='Cello Images – Browse 87,114 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/91/56/91/360_F_91569184_E7gdGCe2WXkqyebpoScLD1zKHj62DzsH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cello in Alley Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/4/0/a/40a19e1c-b700-486c-9a32-5ae3e29ea485_large/cello-in-alley-stockcake.jpg' alt='Free Cello in Alley Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/4/0/a/40a19e1c-b700-486c-9a32-5ae3e29ea485_large/cello-in-alley-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,558 Cello Background Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cello-closeup-on-dark-gray-600nw-1636908502.jpg' alt='34,558 Cello Background Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cello-closeup-on-dark-gray-600nw-1636908502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cello with Beautiful Light on Abandoned Industrial Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cello-beautiful-light-abandoned-industrial-backdrop-generated-ai-high-quality-photo-278784114.jpg' alt='Cello with Beautiful Light on Abandoned Industrial Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cello-beautiful-light-abandoned-industrial-backdrop-generated-ai-high-quality-photo-278784114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cello Wallpaper by Chachai on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25be1e8b-4741-4ede-80d3-287f6ad47dd6/d16w3pu-10aa622f-4a1c-4eb8-b746-9818b5cc271e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YmUxZThiLTQ3NDEtNGVkZS04MGQzLTI4N2Y2YWQ0N2RkNlwvZDE2dzNwdS0xMGFhNjIyZi00YTFjLTRlYjgtYjc0Ni05ODE4YjVjYzI3MWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ByjNDu3pZS85R_7WasJlM5HOWl0Rvt_zg9Rd7pUR31U' alt='Cello Wallpaper by Chachai on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25be1e8b-4741-4ede-80d3-287f6ad47dd6/d16w3pu-10aa622f-4a1c-4eb8-b746-9818b5cc271e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YmUxZThiLTQ3NDEtNGVkZS04MGQzLTI4N2Y2YWQ0N2RkNlwvZDE2dzNwdS0xMGFhNjIyZi00YTFjLTRlYjgtYjc0Ni05ODE4YjVjYzI3MWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ByjNDu3pZS85R_7WasJlM5HOWl0Rvt_zg9Rd7pUR31U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cello on wood background — Stock Photo © BrianAJackson #156529138">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/2288675/14694/i/450/depositphotos_146949993-stock-photo-cello-background-with-copy-space.jpg' alt='Cello on wood background — Stock Photo © BrianAJackson #156529138'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/2288675/14694/i/450/depositphotos_146949993-stock-photo-cello-background-with-copy-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cello Watercolor Stock Illustrations – 332 Cello Watercolor Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-cello-watercolor-dark-background-artwork-features-beautifully-painted-style-against-backdrop-showcasing-rich-342813319.jpg' alt='Cello Watercolor Stock Illustrations – 332 Cello Watercolor Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-cello-watercolor-dark-background-artwork-features-beautifully-painted-style-against-backdrop-showcasing-rich-342813319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Music Cello HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/109/1090851.jpg' alt='Download Music Cello HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/109/1090851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closeup of a Cello with Strings and FHoles against a Dark ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/closeup-cello-with-strings-fholes-against-dark-background_309199-26469.jpg' alt='Closeup of a Cello with Strings and FHoles against a Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/closeup-cello-with-strings-fholes-against-dark-background_309199-26469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

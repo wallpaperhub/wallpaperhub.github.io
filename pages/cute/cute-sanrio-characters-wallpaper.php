@@ -1,0 +1,129 @@
+<title>Cute Sanrio Characters Wallpapers for Your Screens</title>
+                    <meta name="description" content="Discover charming Sanrio character wallpapers that add a splash of cuteness to any device! Perfect for fans of Hello Kitty, Cinnamoroll, and friends. Upgrade your backgrounds effortlessly with these vibrant and lovable designs!">
+                    <meta name="keywords" content="cute sanrio characters wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-sanrio-characters-wallpaper">
+                            <span itemprop="name">cute sanrio characters wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Sanrio Characters Wallpapers for Your Screens</h1>
+                <p>Explore a delightful collection of cute Sanrio character wallpapers that bring joy to your screens! From Hello Kitty to My Melody and Keroppi, these vibrant designs are perfect for fans of all ages. Transform your desktop or mobile background with these adorable and whimsical images, making every glance a smile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/35/35/97/3535978ed8bcbe2ce0319a1e1c76e4fa.jpg' alt='900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/35/35/97/3535978ed8bcbe2ce0319a1e1c76e4fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/65/d6/2265d67829059f2ad1b15a6c0e29bf89.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/65/d6/2265d67829059f2ad1b15a6c0e29bf89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Bag With Sanrio Characters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/paper-bag-with-sanrio-characters-pvazuexy5ii4lftn.jpg' alt='Paper Bag With Sanrio Characters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/paper-bag-with-sanrio-characters-pvazuexy5ii4lftn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii sanrio wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/0a/22/f50a22bc6b9dc0f6c118914496d9b226.jpg' alt='Kawaii sanrio wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/0a/22/f50a22bc6b9dc0f6c118914496d9b226.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Cute Characters Pink Wallpapers - Free Kawaii Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/08/sanrio-cute-characters-pink-wallpaper.jpg' alt='Sanrio Cute Characters Pink Wallpapers - Free Kawaii Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/08/sanrio-cute-characters-pink-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/c/0/2165052-1080x1920-samsung-1080p-hello-kitty-and-friends-background-image.jpg' alt='Hello Kitty and Friends Wallpapers (18 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/c/0/2165052-1080x1920-samsung-1080p-hello-kitty-and-friends-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SANRIO WALLPAPERS – @yellow-maiden on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/5af7dff04ac0e3b2421eb88eec44e2a0/4812e20a3bd13667-2a/s1280x1920/cd5e365c8ebef5f44f51a0f8463605ab95569ee9.jpg' alt='SANRIO WALLPAPERS – @yellow-maiden on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/5af7dff04ac0e3b2421eb88eec44e2a0/4812e20a3bd13667-2a/s1280x1920/cd5e365c8ebef5f44f51a0f8463605ab95569ee9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Cute Characters HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-5_63861322477144.jpg' alt='Sanrio Cute Characters HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-5_63861322477144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Sanrio Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sanrio-y88x4mratmrdxuq3.jpg' alt='100+] Cute Sanrio Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sanrio-y88x4mratmrdxuq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio X Sailor Moon Eternal Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/sanrio-sailor-moon-wallpaper-kawaii-hoshi.jpg' alt='Sanrio X Sailor Moon Eternal Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/sanrio-sailor-moon-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

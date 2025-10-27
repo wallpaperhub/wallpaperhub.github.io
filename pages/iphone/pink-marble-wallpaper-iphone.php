@@ -1,0 +1,129 @@
+<title>Gorgeous Pink Marble Wallpaper for iPhone: Style Your Screen</title>
+                    <meta name="description" content="Elevate your iPhone's look with beautiful pink marble wallpaper! Perfectly crafted to combine elegance with a modern touch, this wallpaper is ideal for anyone looking to personalize their device. Explore a variety of designs and find your perfect match today!">
+                    <meta name="keywords" content="pink marble wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pink-marble-wallpaper-iphone">
+                            <span itemprop="name">pink marble wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous Pink Marble Wallpaper for iPhone: Style Your Screen</h1>
+                <p>Discover the elegance of pink marble wallpaper for your iPhone! Transform your device with stunning designs that combine sophistication and style. Perfect for adding a touch of luxury to your home screen or lock screen, this wallpaper not only enhances your phone's look but also expresses your unique aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink marble wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/ea/63/6bea63a90a731a946b1673a0fcb786cb.jpg' alt='Pink marble wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/ea/63/6bea63a90a731a946b1673a0fcb786cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' alt='Pink Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink marble pattern iPhone wallpaper | Pink marble wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/7a/6f/db7a6fcc174888db69de08a7a055a13e.jpg' alt='Soft pink marble pattern iPhone wallpaper | Pink marble wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/7a/6f/db7a6fcc174888db69de08a7a055a13e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble With White Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-marble-with-white-pattern-avugosfalarhbecn.jpg' alt='Pink Marble With White Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-marble-with-white-pattern-avugosfalarhbecn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble iPhone Background in Illustrator, JPG, EPS, SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/75655/Free-pink-marble-iphone-background-1.jpg' alt='Pink Marble iPhone Background in Illustrator, JPG, EPS, SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/75655/Free-pink-marble-iphone-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink phone wallpaper, aesthetic marble ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1b/a4/f0/1ba4f0c69ac981558a1785da4302cffc.jpg' alt='Download premium image of Pink phone wallpaper, aesthetic marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1b/a4/f0/1ba4f0c69ac981558a1785da4302cffc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink, glitter, marble, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/328/982/HD-wallpaper-pink-glitter-marble.jpg' alt='Pink, glitter, marble, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/328/982/HD-wallpaper-pink-glitter-marble.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Hot Pink Marble Smartphone Wallpaper, iPhone Wallpaper, Android  Wallpaper, Phone Background, Cell Phone Wallpaper, Phone Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28476617/r/il/2485ca/4341018028/il_570xN.4341018028_3e1n.jpg' alt='4K Hot Pink Marble Smartphone Wallpaper, iPhone Wallpaper, Android  Wallpaper, Phone Background, Cell Phone Wallpaper, Phone Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28476617/r/il/2485ca/4341018028/il_570xN.4341018028_3e1n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Am Strong Pink Marble Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/i-am-strong-pink-marble-iphone-lnnblye1ro585o5o.jpg' alt='I Am Strong Pink Marble Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/i-am-strong-pink-marble-iphone-lnnblye1ro585o5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD Pink Marble Wallpapers — Page 5">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/ipad/pink-and-gold-marble-25-09-2024-1727257312-hd-wallpaper.jpg' alt='Free HD Pink Marble Wallpapers — Page 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="5135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/ipad/pink-and-gold-marble-25-09-2024-1727257312-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

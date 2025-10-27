@@ -1,0 +1,129 @@
+<title>Discover Hecate: The Enigmatic Goddess of Magic and Mysteries</title>
+                    <meta name="description" content="Explore the intriguing world of Hecate, the Greek goddess of magic and witchcraft. Learn about her role in mythology, symbolism at crossroads, and connection to the moon. Uncover her significance in ancient lore and modern spirituality, empowering those who seek knowledge and guidance.">
+                    <meta name="keywords" content="hecate goddess">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hecate-goddess">
+                            <span itemprop="name">hecate goddess</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Hecate: The Enigmatic Goddess of Magic and Mysteries</h1>
+                <p>Hecate, the ancient Greek goddess, embodies magic, witchcraft, and the moon. Often depicted at crossroads, she symbolizes choices and transitions. Revered as a protector of the household, she guides souls and offers wisdom. Celebrated during the full moon, Hecate represents empowerment and mystery, connecting the spiritual and physical realms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1e/Relief_triplicate_Hekate_marble%2C_Hadrian_clasicism%2C_Prague_Kinsky%2C_NM-H10_4742%2C_140995.jpg' alt='Hecate - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3106">
+                                <meta itemprop="height" content="4659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1e/Relief_triplicate_Hekate_marble%2C_Hadrian_clasicism%2C_Prague_Kinsky%2C_NM-H10_4742%2C_140995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hekate: An introduction to the goddess of the crossroads">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cosettepaneque.com/wp-content/uploads/2021/10/Hecate-by-Carolina-Mylius.jpg?fit=1457%2C2093&ssl=1' alt='Hekate: An introduction to the goddess of the crossroads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1457">
+                                <meta itemprop="height" content="2093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Divine Hours" />
+                                </span>
+                                <a href='https://i0.wp.com/cosettepaneque.com/wp-content/uploads/2021/10/Hecate-by-Carolina-Mylius.jpg?fit=1457%2C2093&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate: Goddess of Magic, Witchcraft, and the Crossroads | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*RYatLVG9d2wvbZE7AQYcNA.png' alt='Hecate: Goddess of Magic, Witchcraft, and the Crossroads | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*RYatLVG9d2wvbZE7AQYcNA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Blood's First Encounter with Hecate, Goddess of Witches">
+                                <img itemprop="contentUrl url" src='https://www.carolmckibben.com/uploads/1/4/6/5/14654868/published/hecate-6.jpg?1547484706' alt='Snow Blood's First Encounter with Hecate, Goddess of Witches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carol F. McKibben" />
+                                </span>
+                                <a href='https://www.carolmckibben.com/uploads/1/4/6/5/14654868/published/hecate-6.jpg?1547484706' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate | Myth & Symbols | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/75/139775-050-88D08121/wood-engraving-Hecate.jpg' alt='Hecate | Myth & Symbols | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/75/139775-050-88D08121/wood-engraving-Hecate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goddess Hecate | Journeying to the Goddess">
+                                <img itemprop="contentUrl url" src='https://journeyingtothegoddess.wordpress.com/wp-content/uploads/2012/12/395655_10150460228851962_427400950_n.jpg?w=432&h=631' alt='Goddess Hecate | Journeying to the Goddess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Journeying to the Goddess - WordPress.com" />
+                                </span>
+                                <a href='https://journeyingtothegoddess.wordpress.com/wp-content/uploads/2012/12/395655_10150460228851962_427400950_n.jpg?w=432&h=631' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate Goddess of Magic and Witchcraft Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ca9ceba-283f-480e-942f-803ab69eed8e/dieojev-300458d4-928b-4954-8b40-3a9fb68c63a1.png/v1/fill/w_676,h_1183,q_70,strp/hecate_goddess_of_magic_and_witchcraft_wallpaper_by_pixelalchemy777_dieojev-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0NCIsInBhdGgiOiJcL2ZcLzFjYTljZWJhLTI4M2YtNDgwZS05NDJmLTgwM2FiNjllZWQ4ZVwvZGllb2pldi0zMDA0NThkNC05MjhiLTQ5NTQtOGI0MC0zYTlmYjY4YzYzYTEucG5nIiwid2lkdGgiOiI8PTc2OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.i4YZIsQQjY1E8AxjwZ-ZilD7qh8YYXjNb79xxKAUZx8' alt='Hecate Goddess of Magic and Witchcraft Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ca9ceba-283f-480e-942f-803ab69eed8e/dieojev-300458d4-928b-4954-8b40-3a9fb68c63a1.png/v1/fill/w_676,h_1183,q_70,strp/hecate_goddess_of_magic_and_witchcraft_wallpaper_by_pixelalchemy777_dieojev-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0NCIsInBhdGgiOiJcL2ZcLzFjYTljZWJhLTI4M2YtNDgwZS05NDJmLTgwM2FiNjllZWQ4ZVwvZGllb2pldi0zMDA0NThkNC05MjhiLTQ5NTQtOGI0MC0zYTlmYjY4YzYzYTEucG5nIiwid2lkdGgiOiI8PTc2OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.i4YZIsQQjY1E8AxjwZ-ZilD7qh8YYXjNb79xxKAUZx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate Goddess, Louiz Brito">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/0f/75/710f750fe6b6f5776e25e5066e85c1be.jpg' alt='Hecate Goddess, Louiz Brito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/0f/75/710f750fe6b6f5776e25e5066e85c1be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate Greek Goddess of the Underworld Deity Statue">
+                                <img itemprop="contentUrl url" src='https://www.mysticconvergence.com/image/cache/catalog/pacificgifts/11358-hecate-bone-resin-statue-1200x1200.jpg' alt='Hecate Greek Goddess of the Underworld Deity Statue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mystic Convergence" />
+                                </span>
+                                <a href='https://www.mysticconvergence.com/image/cache/catalog/pacificgifts/11358-hecate-bone-resin-statue-1200x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hecate, Greek goddess of crossroads, she is associated with ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2349400602474184423' alt='Hecate, Greek goddess of crossroads, she is associated with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2349400602474184423' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

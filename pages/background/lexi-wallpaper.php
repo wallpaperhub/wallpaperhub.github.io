@@ -1,0 +1,129 @@
+<title>Stunning Lexi Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover the beauty of Lexi wallpaper! Perfect for transforming any room, our range features modern designs and easy application. Elevate your decor today with stunning colors and patterns that suit every style. Ideal for those seeking a fresh look with minimal effort!">
+                    <meta name="keywords" content="lexi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lexi-wallpaper">
+                            <span itemprop="name">lexi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lexi Wallpaper for Every Room</h1>
+                <p>Transform your space with Lexi wallpaper! Featuring contemporary designs and stunning colors, Lexi wallpaper is perfect for any room. Whether you're looking to make a bold statement or create a soothing atmosphere, our wallpapers cater to all styles. Durable and easy to apply, elevate your interiors effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with lexi name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1020/593/HD-wallpaper-lexi-with-names-female-names-lexi-name-purple-neon-lights-horizontal-text-with-lexi-name.jpg' alt='HD with lexi name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1020/593/HD-wallpaper-lexi-with-names-female-names-lexi-name-purple-neon-lights-horizontal-text-with-lexi-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Lexi name art ideas | aesthetic iphone wallpaper, name art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/77/04/bc/7704bc23f3d27b70270c1a9d56043400.jpg' alt='13 Lexi name art ideas | aesthetic iphone wallpaper, name art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/77/04/bc/7704bc23f3d27b70270c1a9d56043400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Put a name and 1 or 2 colours !!            | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7188557679600635142&location=0&aid=1988' alt='Put a name and 1 or 2 colours !!            | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7188557679600635142&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper names (Lexi )">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/c7/63/e6c763ef314b4e1adb34bb6ffbbbcf24.jpg' alt='Wallpaper names (Lexi )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/c7/63/e6c763ef314b4e1adb34bb6ffbbbcf24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lexi Girls Name | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5081806747.4396/fposter,small,wall_texture,product,750x1000.u1.jpg' alt='Lexi Girls Name | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5081806747.4396/fposter,small,wall_texture,product,750x1000.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Lexi - Name" Poster for Sale by kindxinn">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4702999480.7904/fposter,small,wall_texture,square_product,600x600.jpg' alt='"Lexi - Name" Poster for Sale by kindxinn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4702999480.7904/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/aa/3f/0caa3f0dc3eeb465a5c6943a3650ff3a.jpg' alt='Cute Baby Names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/aa/3f/0caa3f0dc3eeb465a5c6943a3650ff3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reply to @itsme_lexi2010 #wallpaper #fyp  #Lexiwallpapersbywallpaper_heheheehe">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7070175485803711750&location=0&aid=1988' alt='Reply to @itsme_lexi2010 #wallpaper #fyp  #Lexiwallpapersbywallpaper_heheheehe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7070175485803711750&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Female Name Lexi Blue Font Composition Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/female-name-lexi-blue-font-260nw-1677318982.jpg' alt='Female Name Lexi Blue Font Composition Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="743">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/female-name-lexi-blue-font-260nw-1677318982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lexi Name Sticker by ashleymanheim">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/92/f9/fe92f95adae978494b8ecf92fe93a599.jpg' alt='Lexi Name Sticker by ashleymanheim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/92/f9/fe92f95adae978494b8ecf92fe93a599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

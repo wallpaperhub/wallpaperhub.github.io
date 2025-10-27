@@ -1,0 +1,129 @@
+<title>Stunning iPhone 11 Pro Max Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Explore a curated selection of wallpapers for your iPhone 11 Pro Max. Discover designs that elevate your phone's aesthetics and showcase your personality. Choose from landscapes, art, and minimalist styles to make your device truly yours. Perfect for any taste!">
+                    <meta name="keywords" content="wallpaper iphone 11 pro max">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-11-pro-max">
+                            <span itemprop="name">wallpaper iphone 11 pro max</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 11 Pro Max Wallpapers: Personalize Your Device</h1>
+                <p>Transform your iPhone 11 Pro Max with stunning wallpapers that reflect your unique style! From breathtaking landscapes and minimalist designs to vibrant abstract art, discover a vast collection that enhances your home screen and lock screen. Personalize your device and make a statement with eye-catching visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 11 pro max wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/775/927/HD-wallpaper-iphone-11-pro-silver-apple-iphone-iphone-11-iphone-11-pro-iphone-11-pro-max-new-iphone-thumbnail.jpg' alt='HD iphone 11 pro max wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/775/927/HD-wallpaper-iphone-11-pro-silver-apple-iphone-iphone-11-iphone-11-pro-iphone-11-pro-max-new-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave F24">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/77/48/a5/7748a573f25b8c5457524289fba79ccd.jpg' alt='Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave F24'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/77/48/a5/7748a573f25b8c5457524289fba79ccd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 pro max wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/09/iPhone-11-Pro-stock-wallpaper-via-AR72014-rose.png' alt='Iphone 11 pro max wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/09/iPhone-11-Pro-stock-wallpaper-via-AR72014-rose.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Pattern Iphone 11 Pro Max Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flower-pattern-iphone-11-pro-max-u4fgj2ykjgzcnci5.jpg' alt='Flower Pattern Iphone 11 Pro Max Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flower-pattern-iphone-11-pro-max-u4fgj2ykjgzcnci5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 11 Pro Max Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-11-white-blue-green-waves-quc88qh2bndbyblo.jpg' alt='100+] Iphone 11 Pro Max Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-11-white-blue-green-waves-quc88qh2bndbyblo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow iPhone 11 Pro Max wallpaper for iPhone 11-11 pro : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b36dtwjj7as41.jpg' alt='Rainbow iPhone 11 Pro Max wallpaper for iPhone 11-11 pro : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b36dtwjj7as41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Trap Iphone 11 Pro Max Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/space-trap-iphone-11-pro-max-j9pyttf4hm7dkr86.jpg' alt='Space Trap Iphone 11 Pro Max Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/space-trap-iphone-11-pro-max-j9pyttf4hm7dkr86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Iphone 11 Pro Full Hd Wallpapers - Wallpaper Cave 730">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/64/5d/8d645deb2f916c33432431c1129d9c86.jpg' alt='Apple Iphone 11 Pro Full Hd Wallpapers - Wallpaper Cave 730'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/64/5d/8d645deb2f916c33432431c1129d9c86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 11 pro max wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/510/45/HD-wallpaper-iphone-11-pro-max-11-apple-curved-huawei-iphone-iphone11-max-premium-pro-promax-thumbnail.jpg' alt='HD iphone 11 pro max wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/510/45/HD-wallpaper-iphone-11-pro-max-11-apple-curved-huawei-iphone-iphone11-max-premium-pro-promax-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro – Space Midnight Green (Dark) – Stock Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-Verde-Dark-iSpazio-1-768x1662.png' alt='iPhone 11 Pro – Space Midnight Green (Dark) – Stock Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-Verde-Dark-iSpazio-1-768x1662.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

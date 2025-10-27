@@ -1,0 +1,129 @@
+<title>Stunning Underwater Wallpaper: Dive into Oceanic Beauty</title>
+                    <meta name="description" content="Discover the charm of underwater wallpaper to enhance your interiors. Experience the ocean's beauty with vibrant designs that create a serene environment. Perfect for any room, our wallpapers bring the tranquility of marine life into your home. Shop now for a refreshing decor upgrade!">
+                    <meta name="keywords" content="underwater wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/underwater-wallpaper">
+                            <span itemprop="name">underwater wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Underwater Wallpaper: Dive into Oceanic Beauty</h1>
+                <p>Transform your space with stunning underwater wallpaper designs. Bring the beauty of the ocean into your home with vibrant marine life, serene coral reefs, and tranquil underwater scenes. Perfect for creating a calming atmosphere in any room, these wallpapers add depth and character, making your walls come alive with the wonders of the sea.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Ocean Bottom Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/238964/Underwater-Ocean-Bottom-Mural-Wallpaper.jpg?v=638164497054230000' alt='Underwater Ocean Bottom Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/238964/Underwater-Ocean-Bottom-Mural-Wallpaper.jpg?v=638164497054230000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Photos, Download The BEST Free Underwater Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2446439/pexels-photo-2446439.jpeg?cs=srgb&dl=pexels-npandey-2446439.jpg&fm=jpg' alt='Underwater Photos, Download The BEST Free Underwater Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2446439/pexels-photo-2446439.jpeg?cs=srgb&dl=pexels-npandey-2446439.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean underwater with coral reef Wall Mural Wallpaper | Canvas Art ...">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Ocean_underwater_with_coral_reef_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833254' alt='Ocean underwater with coral reef Wall Mural Wallpaper | Canvas Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Ocean_underwater_with_coral_reef_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walltastic Underwater Scene Wallpaper Mural, FSC Paper, Multi, 8 feet High  x 10 feet Wide, 1 Size - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pejQfP+6L.jpg' alt='Walltastic Underwater Scene Wallpaper Mural, FSC Paper, Multi, 8 feet High  x 10 feet Wide, 1 Size - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1173">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pejQfP+6L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Colors Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240320/Ocean-Colors-Mural-Wallpaper.jpg?v=638165377600070000' alt='Ocean Colors Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240320/Ocean-Colors-Mural-Wallpaper.jpg?v=638165377600070000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Photos, Download The BEST Free Underwater Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg?cs=srgb&dl=pexels-jeremy-bishop-1260133-2397653.jpg&fm=jpg' alt='Underwater Photos, Download The BEST Free Underwater Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7952">
+                                <meta itemprop="height" content="5304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg?cs=srgb&dl=pexels-jeremy-bishop-1260133-2397653.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Underwater Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/underwater-9mpre0hzrqth75ag.jpg' alt='400+] Underwater Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/underwater-9mpre0hzrqth75ag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Photos, Download The BEST Free Underwater Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1452701/pexels-photo-1452701.jpeg?cs=srgb&dl=pexels-berend-1452701.jpg&fm=jpg' alt='Underwater Photos, Download The BEST Free Underwater Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1452701/pexels-photo-1452701.jpeg?cs=srgb&dl=pexels-berend-1452701.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Possible phone wallpaper #102 - Awesome">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/02/43/dd0243cbe665393f488cd4160afad6f2.jpg' alt='Possible phone wallpaper #102 - Awesome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/02/43/dd0243cbe665393f488cd4160afad6f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Wallpaper - Ocean and Marine Life Designs">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/b113-underwater-sea-dophine-wall-wallpaper-murals.jpg?quality=90&v=1730375715&width=1326' alt='Underwater Wallpaper - Ocean and Marine Life Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/b113-underwater-sea-dophine-wall-wallpaper-murals.jpg?quality=90&v=1730375715&width=1326' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

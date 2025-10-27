@@ -1,0 +1,129 @@
+<title>Transform Your Space with Grounded Wallpaper</title>
+                    <meta name="description" content="Discover how grounded wallpaper can rejuvenate your interiors with nature-inspired designs and earthy tones. Perfect for creating a calm and inviting atmosphere in any room, this trendy decor option merges style with relaxation for a refreshing home experience.">
+                    <meta name="keywords" content="grounded wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grounded-wallpaper">
+                            <span itemprop="name">grounded wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Grounded Wallpaper</h1>
+                <p>Grounded wallpaper is a captivating design trend that brings nature indoors, combining earthy tones and textures to create a serene atmosphere. Perfect for various spaces, it enhances décor while promoting relaxation. From forest scenes to abstract patterns, grounded wallpaper invites the tranquility of the outdoors inside, refreshing any room effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PC Wallpapers : r/GroundedGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xr6rbkksiwu71.jpg' alt='PC Wallpapers : r/GroundedGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xr6rbkksiwu71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The wallpapers that was in the fan kit zip file : r/GroundedGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1a6zp21dppj51.png' alt='The wallpapers that was in the fan kit zip file : r/GroundedGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1a6zp21dppj51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Grounded - Grasslands Animated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1747980869030417409/F3B58A8E40609F1BDD9FAE962166721CFF6ADCB3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Grounded - Grasslands Animated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1747980869030417409/F3B58A8E40609F1BDD9FAE962166721CFF6ADCB3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[4K] Xbox Series X|S Grounded Backyard Sunset Dynamic Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GijOfUj0a3c/maxresdefault.jpg' alt='[4K] Xbox Series X|S Grounded Backyard Sunset Dynamic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GijOfUj0a3c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grounded on X: "psssst, wanna know a secret?    the Grounded Fan ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Es7gbarU4AAgX7q.jpg:large' alt='Grounded on X: "psssst, wanna know a secret?    the Grounded Fan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Es7gbarU4AAgX7q.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Backyard Adventure HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/121/1213059.jpg' alt='Fantasy Backyard Adventure HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/121/1213059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GROUNDED is a Horror Game (Change My Mind) [1080p 60FPS PC Gameplay]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Mbg43cJs7zs/maxresdefault.jpg' alt='GROUNDED is a Horror Game (Change My Mind) [1080p 60FPS PC Gameplay]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Mbg43cJs7zs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grounded">
+                                <img itemprop="contentUrl url" src='https://d1079ywfijtdjs.cloudfront.net/images/grounded/grounded-poster-1920.jpg' alt='Grounded'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Obsidian Entertainment" />
+                                </span>
+                                <a href='https://d1079ywfijtdjs.cloudfront.net/images/grounded/grounded-poster-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grounded Just Got Hotter and Hazier - Xbox Wire">
+                                <img itemprop="contentUrl url" src='https://xxboxnews.blob.core.windows.net/prod/sites/2/2021/10/Grounded_Hazy_KeyArt_JPG.jpg' alt='Grounded Just Got Hotter and Hazier - Xbox Wire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox Wire" />
+                                </span>
+                                <a href='https://xxboxnews.blob.core.windows.net/prod/sites/2/2021/10/Grounded_Hazy_KeyArt_JPG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Places To Build A Base In Grounded">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/07/Grounded-(10).jpg' alt='Best Places To Build A Base In Grounded'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/07/Grounded-(10).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

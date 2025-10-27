@@ -1,0 +1,129 @@
+<title>TSA No Fly List: Understanding its Impact</title>
+                    <meta name="description" content="Discover the TSA No Fly List—what it is, how it works, and its implications for safety and privacy. Learn about the criteria for inclusion, the appeal process, and its role in national security in this concise guide.">
+                    <meta name="keywords" content="tsa no fly list">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tsa-no-fly-list">
+                            <span itemprop="name">tsa no fly list</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TSA No Fly List: Understanding its Impact</h1>
+                <p>The TSA No Fly List is a security measure aimed at preventing individuals deemed a threat from boarding flights. Managed by the U.S. government, the list helps enhance aviation safety. While controversial, it is a crucial tool in counterterrorism efforts, sparking discussions on privacy rights and due process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TSA No-Fly">
+                                <img itemprop="contentUrl url" src='http://www.cavucompanies.com/phplist/images/TSAscreen2.PNG' alt='TSA No-Fly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CAVU Companies" />
+                                </span>
+                                <a href='http://www.cavucompanies.com/phplist/images/TSAscreen2.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Put them on the no-fly list!” – Papers, Please!">
+                                <img itemprop="contentUrl url" src='https://papersplease.org/wp/wp-content/uploads/2021/01/nofly.png' alt='Put them on the no-fly list!” – Papers, Please!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1615">
+                                <meta itemprop="height" content="1922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers, Please!" />
+                                </span>
+                                <a href='https://papersplease.org/wp/wp-content/uploads/2021/01/nofly.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. No Fly list shared on a hacking forum, government investigating">
+                                <img itemprop="contentUrl url" src='https://www.bleepstatic.com/images/news/u/1164866/2023/Jan/no-fly-list-hacking-forum/breached-post(1).jpg' alt='U.S. No Fly list shared on a hacking forum, government investigating'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1442">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeping Computer" />
+                                </span>
+                                <a href='https://www.bleepstatic.com/images/news/u/1164866/2023/Jan/no-fly-list-hacking-forum/breached-post(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You have been removed from the No Fly List.” – MLFA">
+                                <img itemprop="contentUrl url" src='https://mlfa.org/wp-content/uploads/2023/10/Removed-from-No-Fly_Redacted-232x300.jpg' alt='You have been removed from the No Fly List.” – MLFA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLFA" />
+                                </span>
+                                <a href='https://mlfa.org/wp-content/uploads/2023/10/Removed-from-No-Fly_Redacted-232x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the scenes, crafting the U.S. no-fly list">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/ap/no%20fly%20list--1603598586.jpg' alt='Behind the scenes, crafting the U.S. no-fly list'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/ap/no%20fly%20list--1603598586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TSA 'no fly' list leaked after being found on unsecured airline ...">
+                                <img itemprop="contentUrl url" src='https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/01/1280/720/TSA-identification-1.jpg?ve=1&tl=1' alt='TSA 'no fly' list leaked after being found on unsecured airline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 7 Austin" />
+                                </span>
+                                <a href='https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/01/1280/720/TSA-identification-1.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The #NoFly list is a #MuslimBan list – Papers, Please!">
+                                <img itemprop="contentUrl url" src='https://papersplease.org/wp/wp-content/uploads/2023/01/binladen-nofly-2019.jpg' alt='The #NoFly list is a #MuslimBan list – Papers, Please!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers, Please!" />
+                                </span>
+                                <a href='https://papersplease.org/wp/wp-content/uploads/2023/01/binladen-nofly-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What the "No Fly List" Means for Travelers and the Future of ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQH9gjqMWygx_A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1682432948774?e=2147483647&v=beta&t=Jk1SFtI0KRlzi9mJqZ5OECqrKwIVxHx4zLKiSaeXu_I' alt='What the "No Fly List" Means for Travelers and the Future of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQH9gjqMWygx_A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1682432948774?e=2147483647&v=beta&t=Jk1SFtI0KRlzi9mJqZ5OECqrKwIVxHx4zLKiSaeXu_I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The #NoFly list is a #MuslimBan list – Papers, Please!">
+                                <img itemprop="contentUrl url" src='https://papersplease.org/wp/wp-content/uploads/2023/01/commuteair-routes-20JAN2023.jpg' alt='The #NoFly list is a #MuslimBan list – Papers, Please!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers, Please!" />
+                                </span>
+                                <a href='https://papersplease.org/wp/wp-content/uploads/2023/01/commuteair-routes-20JAN2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New proposal could place unruly passengers on TSA 'no fly' list">
+                                <img itemprop="contentUrl url" src='https://media.wtsp.com/assets/WTSP/images/af673a29-d67b-455d-8136-8f94b5cd304d/af673a29-d67b-455d-8136-8f94b5cd304d_1920x1080.jpg' alt='New proposal could place unruly passengers on TSA 'no fly' list'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WTSP.com" />
+                                </span>
+                                <a href='https://media.wtsp.com/assets/WTSP/images/af673a29-d67b-455d-8136-8f94b5cd304d/af673a29-d67b-455d-8136-8f94b5cd304d_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

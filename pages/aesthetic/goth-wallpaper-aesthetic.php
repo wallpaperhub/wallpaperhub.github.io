@@ -1,0 +1,129 @@
+<title>Goth Wallpaper Aesthetic: Dark Elegance for Your Space</title>
+                    <meta name="description" content="Explore the dark allure of goth wallpaper aesthetics. Discover stunning designs that infuse your space with rich colors and mysterious motifs. Perfect for creating a unique atmosphere, our curated selection enhances your decor and showcases your style. Dive into the world of gothic elegance today!">
+                    <meta name="keywords" content="goth wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/goth-wallpaper-aesthetic">
+                            <span itemprop="name">goth wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goth Wallpaper Aesthetic: Dark Elegance for Your Space</h1>
+                <p>Transform your space with goth wallpaper aesthetics that blend dark elegance and moody vibes. This style features rich textures, occult motifs, and striking colors like deep purples and blacks. Perfect for personalizing your bedroom or creative studio, gothic wallpapers evoke mystery and allure, making a bold statement in any setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goth Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-lsw200vgodnx8gwd.jpg' alt='100+] Goth Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-lsw200vgodnx8gwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink skeleton aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/22/ee/3822ee419748ed9c876b406fd63d22f0.jpg' alt='Pink skeleton aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/22/ee/3822ee419748ed9c876b406fd63d22f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark/goth wallpaper by YourlocalCrazyfriend on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/385d94a0-bb72-4b8c-9aa4-7f8e00ba78ef/dgk343r-0db8cbec-1b77-46cb-9e77-b4166b24a30b.jpg/v1/fill/w_1029,h_777,q_70,strp/dark_goth_wallpaper_by_yourlocalcrazyfriend_dgk343r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY3IiwicGF0aCI6IlwvZlwvMzg1ZDk0YTAtYmI3Mi00YjhjLTlhYTQtN2Y4ZTAwYmE3OGVmXC9kZ2szNDNyLTBkYjhjYmVjLTFiNzctNDZjYi05ZTc3LWI0MTY2YjI0YTMwYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0iRoOfU7elEIsaM9L1q10dc7UfAbTPHhmgZ2MmIFCLk' alt='Dark/goth wallpaper by YourlocalCrazyfriend on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/385d94a0-bb72-4b8c-9aa4-7f8e00ba78ef/dgk343r-0db8cbec-1b77-46cb-9e77-b4166b24a30b.jpg/v1/fill/w_1029,h_777,q_70,strp/dark_goth_wallpaper_by_yourlocalcrazyfriend_dgk343r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY3IiwicGF0aCI6IlwvZlwvMzg1ZDk0YTAtYmI3Mi00YjhjLTlhYTQtN2Y4ZTAwYmE3OGVmXC9kZ2szNDNyLTBkYjhjYmVjLTFiNzctNDZjYi05ZTc3LWI0MTY2YjI0YTMwYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0iRoOfU7elEIsaM9L1q10dc7UfAbTPHhmgZ2MmIFCLk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goth Aesthetic Black Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-black-m0cbh8d1l2gfqam2.jpg' alt='100+] Goth Aesthetic Black Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-black-m0cbh8d1l2gfqam2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' alt='Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Goth Aesthetic Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' alt='Pink Goth Aesthetic Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD goth aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/444/457/HD-wallpaper-black-aesthetic-goth-black-thumbnail.jpg' alt='HD goth aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/444/457/HD-wallpaper-black-aesthetic-goth-black-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "A mysterious and beautiful scene, featuring a gothic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-cmcz4a65tulo8dtw.jpg' alt='Download "A mysterious and beautiful scene, featuring a gothic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-cmcz4a65tulo8dtw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12" Vintage dramatic halloween aesthetic Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528156/p/f/m/uDlc3piHrfEo6bhQ7b5wNejswVR5h1yFaRfALiEjCvc_IjEi8Vg/12%22_Vintage_dramatic_halloween_aesthetic_goth_wallpaper%3A__Girly_Gothic__Antique_Mystic_Horror_Spooky__Skulls_and_Flowers_with_Goth_Fabric%2C_Victorian_Pink_Witchy_Gothic__dark_red_.jpg' alt='12" Vintage dramatic halloween aesthetic Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528156/p/f/m/uDlc3piHrfEo6bhQ7b5wNejswVR5h1yFaRfALiEjCvc_IjEi8Vg/12%22_Vintage_dramatic_halloween_aesthetic_goth_wallpaper%3A__Girly_Gothic__Antique_Mystic_Horror_Spooky__Skulls_and_Flowers_with_Goth_Fabric%2C_Victorian_Pink_Witchy_Gothic__dark_red_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/b7/81/c5b781bc2f1417a4bc000b8a053f2858.jpg' alt='Aesthetic Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/b7/81/c5b781bc2f1417a4bc000b8a053f2858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

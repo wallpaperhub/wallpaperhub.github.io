@@ -1,0 +1,129 @@
+<title>Perfect Matching Lockscreens for Couples</title>
+                    <meta name="description" content="Explore matching couple wallpapers for your lock screens! Find beautiful designs that reflect your bond and style, creating a unified look for your phones. Perfect for showcasing your love and connection, even when you're apart. Elevate your digital love story today!">
+                    <meta name="keywords" content="matching lockscreens matching couple wallpaper for two phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/matching-lockscreens-matching-couple-wallpaper-for-two-phone">
+                            <span itemprop="name">matching lockscreens matching couple wallpaper for two phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Matching Lockscreens for Couples</h1>
+                <p>Transform your couple's aesthetic with matching lock screens! Discover stunning wallpapers that complement each other's style, embodying your love and unity. Choose from a variety of designs, colors, and themes that will make your phones feel like a perfect pair. It's a cute way to connect, even when apart!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 pairs of cute couple phone wallpapers ❤ part-2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9f/12/66/9f12660e893a82526353250ccd14c92a.jpg' alt='50 pairs of cute couple phone wallpapers ❤ part-2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9f/12/66/9f12660e893a82526353250ccd14c92a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Wallpaper for Couples, Friends, Phone Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_fullxfull.4363038478_r4g5.jpg' alt='Matching Wallpaper for Couples, Friends, Phone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2670">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_fullxfull.4363038478_r4g5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Panda Matching Wallpaper | Couple Background | Samsung ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41442667/r/il/1de647/5922946573/il_fullxfull.5922946573_dsc8.jpg' alt='Cute Panda Matching Wallpaper | Couple Background | Samsung ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1982">
+                                <meta itemprop="height" content="1963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41442667/r/il/1de647/5922946573/il_fullxfull.5922946573_dsc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peach & Goma (Matching Lockscreens)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/ba/1b/b0ba1b6a32d89062494d91a5d1bbb42f.jpg' alt='Peach & Goma (Matching Lockscreens)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/ba/1b/b0ba1b6a32d89062494d91a5d1bbb42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/6iABJrSWSYFEOqUsazbIjQenX7C93FhoI9weH_vR5BTxrVzPUWeKpKqFdcagqnw2=w526-h296-rw' alt='Couple Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/6iABJrSWSYFEOqUsazbIjQenX7C93FhoI9weH_vR5BTxrVzPUWeKpKqFdcagqnw2=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Couple Black Cat Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/matching-couple-black-cat-zirevlw9389wyywi.jpg' alt='Matching Couple Black Cat Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/matching-couple-black-cat-zirevlw9389wyywi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/IBvXzau-C-Imp83Gnt7KPxgfwMT5W5OdsUzktAM_UfwLeLyuBU_s05WUOLGgmhEqttE=w526-h296-rw' alt='Couple Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/IBvXzau-C-Imp83Gnt7KPxgfwMT5W5OdsUzktAM_UfwLeLyuBU_s05WUOLGgmhEqttE=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Matching Couple Female Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/matching-couple-female-art-slb4sfd61j28e8nl.jpg' alt='Download Matching Couple Female Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/matching-couple-female-art-slb4sfd61j28e8nl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/36/46/e2364662764d401cff5f2181e35ab9d2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/36/46/e2364662764d401cff5f2181e35ab9d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For a Lifetime - Matching Wallpaper Set for Couples Bffs, Pinky ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40150591/r/il/74c9d3/5248162415/il_570xN.5248162415_7i55.jpg' alt='For a Lifetime - Matching Wallpaper Set for Couples Bffs, Pinky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40150591/r/il/74c9d3/5248162415/il_570xN.5248162415_7i55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

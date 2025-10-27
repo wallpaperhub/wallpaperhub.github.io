@@ -1,0 +1,129 @@
+<title>Celtics Wallpaper: Transform Your Space with Team Spirit</title>
+                    <meta name="description" content="Discover the ultimate Celtics wallpaper collection! Perfect for fans looking to showcase their team pride, our vibrant designs will transform any room into a Boston Celtics paradise. Shop now and let your passion for basketball shine through your decor!">
+                    <meta name="keywords" content="celtics wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/celtics-wallpaper">
+                            <span itemprop="name">celtics wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celtics Wallpaper: Transform Your Space with Team Spirit</h1>
+                <p>Elevate your space with stunning Celtics wallpaper! Perfect for fans, our collection features vibrant designs celebrating the iconic team, from classic logos to action-packed scenes. Transform your room into a Boston Celtics haven, showcasing your team spirit. Ideal for bedrooms, game rooms, or offices—bring the Celtics home today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Boston Celtics | NBA ID">
+                                <img itemprop="contentUrl url" src='https://spain.id.nba.com/storage/images/wallpapers/1718694131.jpg' alt='Wallpapers Boston Celtics | NBA ID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA ID" />
+                                </span>
+                                <a href='https://spain.id.nba.com/storage/images/wallpapers/1718694131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celtics Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/wp-content/uploads/2023/07/Boston-Celtics-Wallpaper-.jpg' alt='Celtics Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/wp-content/uploads/2023/07/Boston-Celtics-Wallpaper-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Boston Celtics | NBA ID">
+                                <img itemprop="contentUrl url" src='https://spain.id.nba.com/storage/images/wallpapers/1684317484.jpg' alt='Wallpapers Boston Celtics | NBA ID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA ID" />
+                                </span>
+                                <a href='https://spain.id.nba.com/storage/images/wallpapers/1684317484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Celtics Twitter page posted a JT and Bird wallpaper in white ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ie69kk6f3fs61.jpg' alt='The Celtics Twitter page posted a JT and Bird wallpaper in white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ie69kk6f3fs61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics (NBA) iPhone X/XS/11/Android Lock Screen Wa… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/49571982416_7946af1a99_b.jpg' alt='Boston Celtics (NBA) iPhone X/XS/11/Android Lock Screen Wa… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/49571982416_7946af1a99_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13686919.jpg' alt='Boston Celtics iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13686919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics Big 4 Wallpaper by Lancetastic27 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7910614f-e93a-43b0-bc76-021939796c2b/ddfoqg1-7aa0e06f-15f8-4a80-865d-f9ca996ffa66.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5MTA2MTRmLWU5M2EtNDNiMC1iYzc2LTAyMTkzOTc5NmMyYlwvZGRmb3FnMS03YWEwZTA2Zi0xNWY4LTRhODAtODY1ZC1mOWNhOTk2ZmZhNjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z4BrBJO3q7KUSTv0POqut4vhCQGjIH_HhGjqvy6ZTJU' alt='Boston Celtics Big 4 Wallpaper by Lancetastic27 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7910614f-e93a-43b0-bc76-021939796c2b/ddfoqg1-7aa0e06f-15f8-4a80-865d-f9ca996ffa66.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5MTA2MTRmLWU5M2EtNDNiMC1iYzc2LTAyMTkzOTc5NmMyYlwvZGRmb3FnMS03YWEwZTA2Zi0xNWY4LTRhODAtODY1ZC1mOWNhOTk2ZmZhNjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z4BrBJO3q7KUSTv0POqut4vhCQGjIH_HhGjqvy6ZTJU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Boston Celtics wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Boston-Celtics-wallpaper-logo-desktop-NBA-2024-2025-thumb.jpg' alt='2025 Boston Celtics wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Boston-Celtics-wallpaper-logo-desktop-NBA-2024-2025-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some custom and non- custom Celtics wallpapers if you like them ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hgohkq0qdw771.jpg' alt='Some custom and non- custom Celtics wallpapers if you like them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1187">
+                                <meta itemprop="height" content="1548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hgohkq0qdw771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/972/972125.jpg' alt='Boston Celtics Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/972/972125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

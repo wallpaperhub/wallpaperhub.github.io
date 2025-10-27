@@ -1,0 +1,129 @@
+<title>Download Gervonta Davis iPhone Wallpapers - Stunning & HD</title>
+                    <meta name="description" content="Explore a collection of stunning Gervonta Davis wallpapers for your iPhone. Perfect for fans, our HD wallpapers feature the boxing star in action. Customize your device with eye-catching designs that showcase Gervonta's spirit. Download now and elevate your phone's look!">
+                    <meta name="keywords" content="gervonta davis wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gervonta-davis-wallpaper-iphone">
+                            <span itemprop="name">gervonta davis wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Gervonta Davis iPhone Wallpapers - Stunning & HD</h1>
+                <p>Elevate your iPhone's aesthetics with stunning Gervonta Davis wallpapers! Perfect for fans of the boxing champion, these wallpapers showcase Davis in action and his iconic style. Transform your device's home and lock screens with dynamic images that capture his fierce spirit. Download your favorite Gervonta Davis wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/40/9d/95409dbec2098844fc8813d7857069cc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/40/9d/95409dbec2098844fc8813d7857069cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boxing gervonta davis | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3692494792.3673/flat,750x1000,075,t.jpg' alt='Boxing gervonta davis | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3692494792.3673/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis Motivational Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/94/f3/9d94f3ce3a42d9cf7a92806ef9e951d6.jpg' alt='Gervonta Davis Motivational Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/94/f3/9d94f3ce3a42d9cf7a92806ef9e951d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#creatorsearchinsights Live wallpaper vidéo photo/3D de Gervonta Davis, né  le 7 novembre 1994 à Baltimore (Maryland), est un boxeur américain.  Surnommé Tank #wallpaper #flowerlanguage #flowerwallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7450446768208235798&location=0&aid=1988' alt='#creatorsearchinsights Live wallpaper vidéo photo/3D de Gervonta Davis, né  le 7 novembre 1994 à Baltimore (Maryland), est un boxeur américain.  Surnommé Tank #wallpaper #flowerlanguage #flowerwallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7450446768208235798&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis Wallpapers (18 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/4/6/1935783-2160x3840-phone-4k-gervonta-davis-background-image.jpg' alt='Gervonta Davis Wallpapers (18 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/4/6/1935783-2160x3840-phone-4k-gervonta-davis-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ac/e6/6d/ace66dff68c747c877adf5e782bec530.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ac/e6/6d/ace66dff68c747c877adf5e782bec530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis v Rolando Romero | MMA Junkie">
+                                <img itemprop="contentUrl url" src='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/05/gervonta-davis-rolando-romero-28.jpg?w=856' alt='Gervonta Davis v Rolando Romero | MMA Junkie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gervonta Davis v Rolando Romero | MMA Junkie" />
+                                </span>
+                                <a href='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/05/gervonta-davis-rolando-romero-28.jpg?w=856' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis T-Shirt | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5014129740.3759/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Gervonta Davis T-Shirt | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5014129740.3759/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/49/14/88491436c97e6700b9a5cd11a42b69f2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/49/14/88491436c97e6700b9a5cd11a42b69f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Left Hook on X: "Negotiations for Gervonta Davis vs Ryan ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FoUnz54WcAs0CPp.jpg:large' alt='Bad Left Hook on X: "Negotiations for Gervonta Davis vs Ryan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FoUnz54WcAs0CPp.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

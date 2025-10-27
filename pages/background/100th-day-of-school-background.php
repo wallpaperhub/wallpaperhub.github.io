@@ -1,0 +1,129 @@
+<title>Fun 100th Day of School Celebrations and Ideas</title>
+                    <meta name="description" content="Discover creative ways to celebrate the 100th day of school! Explore fun activities, projects, and themes that engage students in counting and learning, making this milestone a memorable occasion for everyone. Perfect for teachers, parents, and students alike!">
+                    <meta name="keywords" content="100th day of school background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/100th-day-of-school-background">
+                            <span itemprop="name">100th day of school background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun 100th Day of School Celebrations and Ideas</h1>
+                <p>Celebrating the 100th day of school is a milestone in the academic year, marking students' growth and achievements. It's a fun opportunity to engage in projects that showcase counting and learning. Themes can include 100 days of creativity, gratitude, and community, making it a festive day for everyone involved!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 100th Day of School Backdrop, Happy 100 Days Background Banner  for Kindergarten Preschool Primary School Celebrate 100th Day Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71COYZr-WiL.jpg' alt='Amazon.com: 100th Day of School Backdrop, Happy 100 Days Background Banner  for Kindergarten Preschool Primary School Celebrate 100th Day Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71COYZr-WiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tiamon 100th Day of School Banner Decorations 100 Days School  Background Backdrop Happy 100th Day School Photography Props Photo for Kids  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81R65l7RmLL.jpg' alt='Amazon.com: Tiamon 100th Day of School Banner Decorations 100 Days School  Background Backdrop Happy 100th Day School Photography Props Photo for Kids  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81R65l7RmLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Black Happy 100th Day of School Backdrop 100 Days of ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71v6fzPAtEL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Black Happy 100th Day of School Backdrop 100 Days of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71v6fzPAtEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: JKQ Happy 100th Day of School Backdrop Banner 73 x 43 Inch  Large Size Colorful 100 Days of School Background Banner Preschool  Kindergarten ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rDSEYi4uL.jpg' alt='Amazon.com: JKQ Happy 100th Day of School Backdrop Banner 73 x 43 Inch  Large Size Colorful 100 Days of School Background Banner Preschool  Kindergarten ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rDSEYi4uL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Happy 100 Days of School Banner Decoration,100th Day of School  Backdrop Photography Background for Kids Student Kindergarten Preschool ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rz3BApMML.jpg' alt='Amazon.com: Happy 100 Days of School Banner Decoration,100th Day of School  Backdrop Photography Background for Kids Student Kindergarten Preschool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rz3BApMML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130+ 100 Days Of School Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1985703654/vector/100-days-of-school-banner-on-white.jpg?s=612x612&w=0&k=20&c=a3fi-YrDkwCkaEttpB3xT9mjpNPutqboN7VMz8cOmfY=' alt='130+ 100 Days Of School Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1985703654/vector/100-days-of-school-banner-on-white.jpg?s=612x612&w=0&k=20&c=a3fi-YrDkwCkaEttpB3xT9mjpNPutqboN7VMz8cOmfY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiamon 100 Days of School Decoration Banner Party Backdrop Photography  Background for Kids Student Decor Kindergarten Preschool Primary Supplies,  72.8 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jDLkwc8ML._AC_UF894,1000_QL80_.jpg' alt='Tiamon 100 Days of School Decoration Banner Party Backdrop Photography  Background for Kids Student Decor Kindergarten Preschool Primary Supplies,  72.8 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jDLkwc8ML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 days of school lettering typography t shirt design or ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/018/725/658/non_2x/100-days-of-school-lettering-typography-t-shirt-design-or-calligraphic-100-days-of-school-background-vector.jpg' alt='100 days of school lettering typography t shirt design or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/018/725/658/non_2x/100-days-of-school-lettering-typography-t-shirt-design-or-calligraphic-100-days-of-school-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100th Day of School Activites - Play with a Purpose Blog">
+                                <img itemprop="contentUrl url" src='http://blog.pwap.com/wp-content/uploads/2020/01/shutterstock_2023052867-300x265.jpg' alt='100th Day of School Activites - Play with a Purpose Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play with a Purpose Blog" />
+                                </span>
+                                <a href='http://blog.pwap.com/wp-content/uploads/2020/01/shutterstock_2023052867-300x265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy 100th Day of School PNG, one hundred days of school, 100th ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/5a/fe/1c5afe1d2cd38cec1262fce4eca5c8d5.jpg' alt='Happy 100th Day of School PNG, one hundred days of school, 100th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/5a/fe/1c5afe1d2cd38cec1262fce4eca5c8d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

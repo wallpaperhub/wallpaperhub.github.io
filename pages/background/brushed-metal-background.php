@@ -1,0 +1,129 @@
+<title>Stylish Brushed Metal Backgrounds for Modern Designs</title>
+                    <meta name="description" content="Discover sleek brushed metal backgrounds that elevate your design projects. Perfect for modern aesthetics, these textures enhance visual appeal while keeping a minimalist vibe. Ideal for websites, graphics, and more to achieve a sophisticated look.">
+                    <meta name="keywords" content="brushed metal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brushed-metal-background">
+                            <span itemprop="name">brushed metal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Brushed Metal Backgrounds for Modern Designs</h1>
+                <p>Brushed metal backgrounds offer a sleek and modern aesthetic, perfect for various design projects. This finish provides a subtle texture, adding depth and sophistication to websites, graphics, and product presentations. Ideal for tech and industrial themes, it enhances visual appeal while maintaining a minimalist approach.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Seamless Brushed Metal Background Textures. DOWNLOAD :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f8759060064327.5a3a5a50d6a57.jpg' alt='20 Seamless Brushed Metal Background Textures. DOWNLOAD :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f8759060064327.5a3a5a50d6a57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33,600+ Brushed Metal Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/477679508/photo/gray-brushed-metal-texture-background-steel-or-aluminium.jpg?s=612x612&w=0&k=20&c=eaTrJihfJYPkpdIrVQP9W2qDvGYw6uLLMWQFOpDRkdA=' alt='33,600+ Brushed Metal Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/477679508/photo/gray-brushed-metal-texture-background-steel-or-aluminium.jpg?s=612x612&w=0&k=20&c=eaTrJihfJYPkpdIrVQP9W2qDvGYw6uLLMWQFOpDRkdA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Brushed Metal Background Textures By Textures & Overlays Store ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_111529_6c330507f0ff6440f350aa3871a3dca7a7a4275d_20-brushed-metal-background-textures.jpg' alt='20 Brushed Metal Background Textures By Textures & Overlays Store ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_111529_6c330507f0ff6440f350aa3871a3dca7a7a4275d_20-brushed-metal-background-textures.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Metal Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/silver-metallic-textured-background_53876-90845.jpg' alt='Brushed Metal Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/silver-metallic-textured-background_53876-90845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Brushed Metal Background Textures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/textures.world/wp-content/uploads/2018/10/Aluminum-Brushed-Metal-Seamless-Background-Textures-3-copy-1.jpg?w=391&h=260&ssl=1' alt='20 Brushed Metal Background Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures.World" />
+                                </span>
+                                <a href='https://i0.wp.com/textures.world/wp-content/uploads/2018/10/Aluminum-Brushed-Metal-Seamless-Background-Textures-3-copy-1.jpg?w=391&h=260&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Seamless Brushed Metal Background Textures. DOWNLOAD :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cd40e860064327.5a3a5a50d41e1.jpg' alt='20 Seamless Brushed Metal Background Textures. DOWNLOAD :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cd40e860064327.5a3a5a50d41e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brushed steel metal background texture | Free Textures, Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.myfreetextures.com/wp-content/uploads/2011/06/brmetal801.jpg' alt='brushed steel metal background texture | Free Textures, Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Free Textures" />
+                                </span>
+                                <a href='https://www.myfreetextures.com/wp-content/uploads/2011/06/brmetal801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Brushed Metal Images – Browse 133,530 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/42/45/60/360_F_142456029_GaJ0KkZu8VqUa7QiAxSCnFhO5bJtIayO.jpg' alt='Black Brushed Metal Images – Browse 133,530 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/42/45/60/360_F_142456029_GaJ0KkZu8VqUa7QiAxSCnFhO5bJtIayO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33,600+ Brushed Metal Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/466280981/photo/metal-background.jpg?s=612x612&w=0&k=20&c=XCA1KW4-KFuKxS0sOIECB9JTqCPGv4Nky8xATLMjH_w=' alt='33,600+ Brushed Metal Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/466280981/photo/metal-background.jpg?s=612x612&w=0&k=20&c=XCA1KW4-KFuKxS0sOIECB9JTqCPGv4Nky8xATLMjH_w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Metal Background High-Res Vector Graphic - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/611066078/vector/brushed-metal-background.jpg?s=1024x1024&w=gi&k=20&c=7ygxvJ1XF2ED0V1y7Bcxosr1zOdSE4_eojs-LxYRLk8=' alt='Brushed Metal Background High-Res Vector Graphic - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/611066078/vector/brushed-metal-background.jpg?s=1024x1024&w=gi&k=20&c=7ygxvJ1XF2ED0V1y7Bcxosr1zOdSE4_eojs-LxYRLk8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>You Got This: Inspiring iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of motivational iPhone wallpapers to keep you inspired daily. From vibrant designs to uplifting quotes, personalize your device and boost your mood. Perfect for anyone looking for daily motivation at their fingertips! Download your favorite wallpaper today!">
+                    <meta name="keywords" content="you got this iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/you-got-this-iphone-wallpaper">
+                            <span itemprop="name">you got this iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>You Got This: Inspiring iPhone Wallpapers</h1>
+                <p>You got this iPhone wallpaper! Brighten your device with stunning visuals that inspire motivation and positivity. Choose from a variety of designs featuring uplifting quotes, vibrant landscapes, or minimalist art. Personalize your iPhone while reminding yourself that you can achieve great things. Download now and keep your spirits high!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday | 10 | Free, Downloadable Backgrounds - Bon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/92/a6/f992a6a32e7ac605b81027376706b3e9.jpg' alt='Wallpaper Wednesday | 10 | Free, Downloadable Backgrounds - Bon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/92/a6/f992a6a32e7ac605b81027376706b3e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You got this">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/1a/47/151a47747486dba0d0190eb4b853ff4b.jpg' alt='You got this'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/1a/47/151a47747486dba0d0190eb4b853ff4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Got This On A Pink Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/you-got-this-on-a-pink-background-uywt634ser0dpxsp.jpg' alt='You Got This On A Pink Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/you-got-this-on-a-pink-background-uywt634ser0dpxsp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You got this! Free Iphone wallpaper. Ocean, beach, breathe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/32/c8/a832c84db5b73996a80d96207e816fb7.jpg' alt='You got this! Free Iphone wallpaper. Ocean, beach, breathe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/32/c8/a832c84db5b73996a80d96207e816fb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD you got this wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/938/67/HD-wallpaper-you-got-this-anxiety-inspiration-motivation-purple-quotes-words-thumbnail.jpg' alt='HD you got this wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/938/67/HD-wallpaper-you-got-this-anxiety-inspiration-motivation-purple-quotes-words-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational IPhone Wallpapers | Scribbles&Pebbles">
+                                <img itemprop="contentUrl url" src='https://www.scribblesnpebbles.com/wp-content/uploads/2017/08/scribblesnpebbles_iphone_inspirational_wallpaper4.png' alt='Inspirational IPhone Wallpapers | Scribbles&Pebbles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribbles & Pebbles" />
+                                </span>
+                                <a href='https://www.scribblesnpebbles.com/wp-content/uploads/2017/08/scribblesnpebbles_iphone_inspirational_wallpaper4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey You Got This Screensaver Phone Background Pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/36/c1/4836c1892f6f7094cf7185dfea212934.jpg' alt='Hey You Got This Screensaver Phone Background Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/36/c1/4836c1892f6f7094cf7185dfea212934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper You Got This Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2Z0LTI1MDQyNC10cG1pbmlqb2ItbnVlLTAwMi1zdG9yeS5qcGc.jpg' alt='Iphone Wallpaper You Got This Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2Z0LTI1MDQyNC10cG1pbmlqb2ItbnVlLTAwMi1zdG9yeS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Quotes Motivational You got this!. iPhone. Positive ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/134/742/HD-wallpaper-aesthetic-quotes-motivational-you-got-this-iphone-positive-quotes-iphone-quotes-inspirational-inspirational-quotes-motivational-life-quotes.jpg' alt='Aesthetic Quotes Motivational You got this!. iPhone. Positive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/134/742/HD-wallpaper-aesthetic-quotes-motivational-you-got-this-iphone-positive-quotes-iphone-quotes-inspirational-inspirational-quotes-motivational-life-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE IPHONE WALLPAPER - You Got This, Girl! | thefreewoman.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/bd/f1/53bdf1c3b8b8fb7724de40415315ad1b.jpg' alt='FREE IPHONE WALLPAPER - You Got This, Girl! | thefreewoman.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/bd/f1/53bdf1c3b8b8fb7724de40415315ad1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

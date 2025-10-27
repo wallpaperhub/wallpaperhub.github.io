@@ -1,0 +1,129 @@
+<title>Mastering CSS Background Color for Stunning Designs</title>
+                    <meta name="description" content="Learn how to effectively use CSS background color to create beautiful, vibrant web designs. Discover tips, methods, and color combinations that enhance user experience and make your website stand out. Perfect for beginners and experienced developers alike!">
+                    <meta name="keywords" content="css background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-background-color">
+                            <span itemprop="name">css background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering CSS Background Color for Stunning Designs</h1>
+                <p>CSS background color is a fundamental property used in web design to enhance the visual appeal of websites. By defining the background color, you can create contrast, set the mood, or improve readability. Use colors by naming them, or using HEX, RGB, or HSL values. Experimenting with opacity can also add depth to your designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS background-color Property (With Examples)">
+                                <img itemprop="contentUrl url" src='https://www.programiz.com/sites/tutorial2program/files/css-background-color-example.png' alt='CSS background-color Property (With Examples)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Programiz" />
+                                </span>
+                                <a href='https://www.programiz.com/sites/tutorial2program/files/css-background-color-example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS doubt related to the background color, ID and Classes - HTML ...">
+                                <img itemprop="contentUrl url" src='https://global.discourse-cdn.com/freecodecamp/original/3X/e/4/e4395b7491b84115b0fcb8fdd5078836aca60081.png' alt='CSS doubt related to the background color, ID and Classes - HTML ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="873">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The freeCodeCamp Forum" />
+                                </span>
+                                <a href='https://global.discourse-cdn.com/freecodecamp/original/3X/e/4/e4395b7491b84115b0fcb8fdd5078836aca60081.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transition animation for background change | by MasaKudamatsu ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1080/1*Q2hzB1g3_NuZX0zBYobt6A.png' alt='Transition animation for background change | by MasaKudamatsu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1080/1*Q2hzB1g3_NuZX0zBYobt6A.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background-color | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://css-tricks.com/wp-content/uploads/2011/08/photoshopcolorpicker.png' alt='Background-color | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://css-tricks.com/wp-content/uploads/2011/08/photoshopcolorpicker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - My CSS codes for background color for body cannot work ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/IGGAv.jpg' alt='html - My CSS codes for background color for body cannot work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/IGGAv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every CSS Background Property Illustrated and Explained with Code ...">
+                                <img itemprop="contentUrl url" src='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0j3e3r6kobycowckdxg.png' alt='Every CSS Background Property Illustrated and Explained with Code ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1324">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0j3e3r6kobycowckdxg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS background | CSS Tutorials">
+                                <img itemprop="contentUrl url" src='http://referencedesigner.com/tutorials/css/images/background-color.png' alt='CSS background | CSS Tutorials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reference Designer" />
+                                </span>
+                                <a href='http://referencedesigner.com/tutorials/css/images/background-color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Color — HTML Color Codes">
+                                <img itemprop="contentUrl url" src='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' alt='CSS Background Color — HTML Color Codes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HTML Color Codes" />
+                                </span>
+                                <a href='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS background-color property | Uxcel">
+                                <img itemprop="contentUrl url" src='https://img.uxcel.com/practices/the-background-color-property-1621254810589/b-1664875917217-2x.jpg' alt='CSS background-color property | Uxcel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uxcel" />
+                                </span>
+                                <a href='https://img.uxcel.com/practices/the-background-color-property-1621254810589/b-1664875917217-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the main background color with css - Customization - Logseq">
+                                <img itemprop="contentUrl url" src='https://discuss.logseq.com/uploads/default/original/3X/1/3/13e386d0b321f5c6350174b18625cd3d27ddc8fe.png' alt='Change the main background color with css - Customization - Logseq'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="discuss.logseq.com" />
+                                </span>
+                                <a href='https://discuss.logseq.com/uploads/default/original/3X/1/3/13e386d0b321f5c6350174b18625cd3d27ddc8fe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

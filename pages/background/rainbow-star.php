@@ -1,0 +1,129 @@
+<title>Discover the Magic of Rainbow Stars</title>
+                    <meta name="description" content="Explore the enchanting world of rainbow stars—vibrant, colorful celestial wonders! Learn how they symbolize hope and creativity. Perfect for crafts, decor, and inspiring art, rainbow stars bring joy and imagination to life. Dive into this beautiful phenomenon today!">
+                    <meta name="keywords" content="rainbow star">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-star">
+                            <span itemprop="name">rainbow star</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Rainbow Stars</h1>
+                <p>Rainbow stars, a mesmerizing celestial phenomenon, blend vibrant colors that evoke joy and wonder. Symbolizing hope and positivity, these stars often appear after rain and sunlight mingles. They inspire creativity and imagination, making them a perfect theme for decor, crafts, and art, enchanting everyone with their beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star - Super Mario Wiki, the Mario encyclopedia">
+                                <img itemprop="contentUrl url" src='https://mario.wiki.gallery/images/9/9e/SMG_RainbowStar.jpg' alt='Rainbow Star - Super Mario Wiki, the Mario encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Mario Wiki" />
+                                </span>
+                                <a href='https://mario.wiki.gallery/images/9/9e/SMG_RainbowStar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star | Eeveelution Quest Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/eeveelutionquest/images/8/84/Rainbowstar.png/revision/latest?cb=20240302163205' alt='Rainbow Star | Eeveelution Quest Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eeveelution Quest Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/eeveelutionquest/images/8/84/Rainbowstar.png/revision/latest?cb=20240302163205' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow star Cut Out Stock Images & Pictures - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T6B200/rainbow-colors-star-shape-face-happy-illustration-T6B200.jpg' alt='Rainbow star Cut Out Stock Images & Pictures - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T6B200/rainbow-colors-star-shape-face-happy-illustration-T6B200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Pride Month! Pride Month Colorful Rainbow Stars Abstract Background  Loop. LGBTQIA+ Flag Colors. Stars Tunnel Abstract Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/08/21/24/360_F_608212492_VqtVBvtZQk02H5ZhJZ5ScwIvSXEkicjY.jpg' alt='Happy Pride Month! Pride Month Colorful Rainbow Stars Abstract Background  Loop. LGBTQIA+ Flag Colors. Stars Tunnel Abstract Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/08/21/24/360_F_608212492_VqtVBvtZQk02H5ZhJZ5ScwIvSXEkicjY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star - Vinyl Sticker — Jenipher Lyn + Nightly Doodles">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/52ed5935e4b0593421a0fbfa/5500cdc3e4b0f6069c5f48b6/601968c9d9bfea17a250fce8/1729776808623/Screen+Shot+2020-12-30+at+9.51.39+PM.png?format=1500w' alt='Rainbow Star - Vinyl Sticker — Jenipher Lyn + Nightly Doodles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jenipher Lyn" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/52ed5935e4b0593421a0fbfa/5500cdc3e4b0f6069c5f48b6/601968c9d9bfea17a250fce8/1729776808623/Screen+Shot+2020-12-30+at+9.51.39+PM.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/star-with-rainbow-background_1013369-133867.jpg?semt=ais_hybrid' alt='Rainbow Star Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/star-with-rainbow-background_1013369-133867.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Rainbow star.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rainbow_star.svg/1200px-Rainbow_star.svg.png' alt='File:Rainbow star.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rainbow_star.svg/1200px-Rainbow_star.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multicolored Rounded Rainbow Star Graphic by davidzydd · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/03/05/Multicolored-Rounded-Rainbow-Star-Graphics-3128845-1.jpg' alt='Multicolored Rounded Rainbow Star Graphic by davidzydd · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/03/05/Multicolored-Rounded-Rainbow-Star-Graphics-3128845-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration of cute rainbow star on white background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/007/734/non_2x/illustration-of-cute-rainbow-star-on-white-background-vector.jpg' alt='Vector illustration of cute rainbow star on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/007/734/non_2x/illustration-of-cute-rainbow-star-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star Images – Browse 415,342 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/88/03/21/360_F_788032104_hLUuYsJY2x2cUWeQLM5XAMyZ3WaxKOWX.jpg' alt='Rainbow Star Images – Browse 415,342 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="363">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/88/03/21/360_F_788032104_hLUuYsJY2x2cUWeQLM5XAMyZ3WaxKOWX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

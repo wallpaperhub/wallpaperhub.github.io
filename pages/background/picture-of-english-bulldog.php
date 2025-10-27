@@ -1,0 +1,129 @@
+<title>Adorable English Bulldog Pictures: A Visual Delight</title>
+                    <meta name="description" content="Discover captivating pictures of English Bulldogs, showcasing their unique charm and lovable personalities. Perfect for dog lovers, these images highlight their adorable wrinkles and sturdy build, making it easy to appreciate why they're such beloved companions. Explore now for your daily dose of cuteness!">
+                    <meta name="keywords" content="picture of english bulldog">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-english-bulldog">
+                            <span itemprop="name">picture of english bulldog</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable English Bulldog Pictures: A Visual Delight</h1>
+                <p>A picture of an English Bulldog captures the breed's adorable wrinkled face and stocky build. Known for their gentle nature and loyalty, these dogs make great companions. With a unique look featuring broad shoulders and a pushed-in nose, English Bulldogs are both charming and endearing, making any photo of them a visual delight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulldog - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/1200px-Bulldog_inglese.jpg' alt='Bulldog - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/1200px-Bulldog_inglese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The English Bulldog: origin, temperament, health and price">
+                                <img itemprop="contentUrl url" src='https://d128mjo55rz53e.cloudfront.net/media/images/blog-breed-bulldog_pvbswXQ.max-500x500.format-jpeg.jpg' alt='The English Bulldog: origin, temperament, health and price'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weenect" />
+                                </span>
+                                <a href='https://d128mjo55rz53e.cloudfront.net/media/images/blog-breed-bulldog_pvbswXQ.max-500x500.format-jpeg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About English Bulldogs">
+                                <img itemprop="contentUrl url" src='https://www.aspcapetinsurance.com/media/2420/all-about-english-bulldogs.jpg' alt='All About English Bulldogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASPCA Pet Insurance" />
+                                </span>
+                                <a href='https://www.aspcapetinsurance.com/media/2420/all-about-english-bulldogs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Care For English Bulldogs | VIDA Veterinary Care">
+                                <img itemprop="contentUrl url" src='https://geniusvets.s3.amazonaws.com/gv-dog-breeds/english-bulldog-1.jpg' alt='How To Care For English Bulldogs | VIDA Veterinary Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VIDA Veterinary Care" />
+                                </span>
+                                <a href='https://geniusvets.s3.amazonaws.com/gv-dog-breeds/english-bulldog-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulldog (English Bulldog): Dog Breed Characteristics & Care">
+                                <img itemprop="contentUrl url" src='https://www.thesprucepets.com/thmb/zXkzVVV5P8h2JG0ZUFtXtvIq-lM=/3600x0/filters:no_upscale():strip_icc()/bulldog-4584344-hero-8b60f1e867f046e792ba092eec669256.jpg' alt='Bulldog (English Bulldog): Dog Breed Characteristics & Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Pets" />
+                                </span>
+                                <a href='https://www.thesprucepets.com/thmb/zXkzVVV5P8h2JG0ZUFtXtvIq-lM=/3600x0/filters:no_upscale():strip_icc()/bulldog-4584344-hero-8b60f1e867f046e792ba092eec669256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulldog Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg' alt='Bulldog Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                                       !!          ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3466621425551384550' alt='                                                       !!          ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3466621425551384550' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulldog (English Bulldog) Dog Breed Health and Care | PetMD">
+                                <img itemprop="contentUrl url" src='https://image.petmd.com/files/inline-images/english-bulldog-5.jpg?VersionId=1KyTFgo4HZwpAcjf.WZ8mM_2yt6f9Zc3' alt='Bulldog (English Bulldog) Dog Breed Health and Care | PetMD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2120">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PetMD" />
+                                </span>
+                                <a href='https://image.petmd.com/files/inline-images/english-bulldog-5.jpg?VersionId=1KyTFgo4HZwpAcjf.WZ8mM_2yt6f9Zc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Bulldog Small Animal blue merle ID:1257 Located at Petland ...">
+                                <img itemprop="contentUrl url" src='https://petlandoklahoma.com/wp-content/uploads/2022/12/2620880_800-600x450.jpg' alt='English Bulldog Small Animal blue merle ID:1257 Located at Petland ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Petland Oklahoma" />
+                                </span>
+                                <a href='https://petlandoklahoma.com/wp-content/uploads/2022/12/2620880_800-600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulldog (English Bulldog): Dog Breed Characteristics & Care">
+                                <img itemprop="contentUrl url" src='https://www.thesprucepets.com/thmb/ulW6LUNbvUv7gPZ4NVF6vlvgFHY=/3600x0/filters:no_upscale():strip_icc()/bulldog-4584344-05-b05974de04be496aac87ff43f104b428.jpg' alt='Bulldog (English Bulldog): Dog Breed Characteristics & Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Pets" />
+                                </span>
+                                <a href='https://www.thesprucepets.com/thmb/ulW6LUNbvUv7gPZ4NVF6vlvgFHY=/3600x0/filters:no_upscale():strip_icc()/bulldog-4584344-05-b05974de04be496aac87ff43f104b428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

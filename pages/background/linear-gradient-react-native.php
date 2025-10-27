@@ -1,0 +1,129 @@
+<title>Creating Stunning Linear Gradients in React Native</title>
+                    <meta name="description" content="Discover how to implement linear gradients in your React Native app easily. Learn to use the `react-native-linear-gradient` library for visually striking components and improve user engagement with smooth color transitions. Unlock the potential of dynamic designs today!">
+                    <meta name="keywords" content="linear gradient react native">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/linear-gradient-react-native">
+                            <span itemprop="name">linear gradient react native</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creating Stunning Linear Gradients in React Native</h1>
+                <p>Linear gradients in React Native allow developers to create smooth color transitions, enhancing the visual appeal of mobile applications. By utilizing the `react-native-linear-gradient` library, you can easily implement gradients in your components. Customize angles, colors, and locations for dynamic designs that captivate users.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="react-native-linear-gradient - npm">
+                                <img itemprop="contentUrl url" src='https://github.com/react-native-linear-gradient/react-native-linear-gradient/assets/743291/9c738be3-6fba-43d5-9c9f-1db1c10fd377' alt='react-native-linear-gradient - npm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPM" />
+                                </span>
+                                <a href='https://github.com/react-native-linear-gradient/react-native-linear-gradient/assets/743291/9c738be3-6fba-43d5-9c9f-1db1c10fd377' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linear Gradients in React Native. Don't we all love Gradients? I ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*ifTWxx8OYY32qgdAohkSaA.png' alt='Linear Gradients in React Native. Don't we all love Gradients? I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1985">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*ifTWxx8OYY32qgdAohkSaA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="React Native Linear Gradient: Colors washed out - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/5xewL.jpg' alt='React Native Linear Gradient: Colors washed out - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1676">
+                                <meta itemprop="height" content="1828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/5xewL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - react-native-linear-gradient/react-native-linear-gradient ...">
+                                <img itemprop="contentUrl url" src='https://raw.githubusercontent.com/react-native-community/react-native-linear-gradient/HEAD/images/example-animated.gif' alt='GitHub - react-native-linear-gradient/react-native-linear-gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://raw.githubusercontent.com/react-native-community/react-native-linear-gradient/HEAD/images/example-animated.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linear Gradients in React Native. Don't we all love Gradients? I ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*oWAgkxrMWroPmW_CN4hGpQ.png' alt='Linear Gradients in React Native. Don't we all love Gradients? I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*oWAgkxrMWroPmW_CN4hGpQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animating Gradients in React Native | by Rafael Mendiola | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:5164/1*0KO9ysjwLwO7cv3cnbKybQ.png' alt='Animating Gradients in React Native | by Rafael Mendiola | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2582">
+                                <meta itemprop="height" content="1326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:5164/1*0KO9ysjwLwO7cv3cnbKybQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Children" of LinearGradient outside of view in iOS, but not ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/8528904/28430767-b4d3180a-6d4f-11e7-9ceb-e91b7a3b23f1.png' alt='Children" of LinearGradient outside of view in iOS, but not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/8528904/28430767-b4d3180a-6d4f-11e7-9ceb-e91b7a3b23f1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use Linear Gradient in react native (react-native-linear-gradient).">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TQuNzqTuAyY/maxresdefault.jpg' alt='How to use Linear Gradient in react native (react-native-linear-gradient).'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TQuNzqTuAyY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="react-native-easing-gradient - Create smooth gradients in React ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2ed5x2ni4bw61.png' alt='react-native-easing-gradient - Create smooth gradients in React ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2ed5x2ni4bw61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating complex gradients with react-native-linear-gradient ...">
+                                <img itemprop="contentUrl url" src='https://blog.logrocket.com/wp-content/uploads/2022/04/horizontal-purple-gradient-background-home-screen.png' alt='Creating complex gradients with react-native-linear-gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="394">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogRocket Blog" />
+                                </span>
+                                <a href='https://blog.logrocket.com/wp-content/uploads/2022/04/horizontal-purple-gradient-background-home-screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

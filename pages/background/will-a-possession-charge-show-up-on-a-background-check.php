@@ -1,0 +1,129 @@
+<title>Do Possession Charges Appear on Background Checks?</title>
+                    <meta name="description" content="Discover if a possession charge will appear on background checks. Understand how criminal records impact employment and housing opportunities, and learn about options for expunging or sealing your record for a fresh start.">
+                    <meta name="keywords" content="will a possession charge show up on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-a-possession-charge-show-up-on-a-background-check">
+                            <span itemprop="name">will a possession charge show up on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Possession Charges Appear on Background Checks?</h1>
+                <p>Yes, a possession charge can show up on a background check. If the charge is still on your criminal record, employers, landlords, and other entities may see it when they conduct a background check. The specifics can vary based on the state laws and the type of check being performed. Expunging or sealing the record can help mitigate this issue.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Minor Possession Charge Show Up on a Job Applicant's ...">
+                                <img itemprop="contentUrl url" src='https://www.ere.net/_next/image?url=https%3A%2F%2Fapi.eremedia.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fbackground.jpg&w=3840&q=75' alt='Will a Minor Possession Charge Show Up on a Job Applicant's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1818">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ERE.net" />
+                                </span>
+                                <a href='https://www.ere.net/_next/image?url=https%3A%2F%2Fapi.eremedia.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fbackground.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will My Employer Find Out About My Drug Possession Case ...">
+                                <img itemprop="contentUrl url" src='https://www.justcriminallaw.com/wp-content/uploads/primary-images/1604-1603.jpg' alt='Will My Employer Find Out About My Drug Possession Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Criminal Law" />
+                                </span>
+                                <a href='https://www.justcriminallaw.com/wp-content/uploads/primary-images/1604-1603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pro Resources - Guides - Porch">
+                                <img itemprop="contentUrl url" src='https://porch.com/advice/wp-content/uploads/2018/10/Background-Check-Chart.png' alt='Pro Resources - Guides - Porch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porch" />
+                                </span>
+                                <a href='https://porch.com/advice/wp-content/uploads/2018/10/Background-Check-Chart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show up on a Background Check? What Employers ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2022/11/pending-charges-background-check.jpg' alt='Do Pending Charges Show up on a Background Check? What Employers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2022/11/pending-charges-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Dropped Charges Show Up on a Background Check? Do This Now">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrecords.com/wp-content/uploads/2022/07/Do-Dropped-Charges-Show-Up-On-A-Background-Check.png' alt='Do Dropped Charges Show Up on a Background Check? Do This Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks & Criminal Records" />
+                                </span>
+                                <a href='https://backgroundcheckrecords.com/wp-content/uploads/2022/07/Do-Dropped-Charges-Show-Up-On-A-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will You Pass a Background Check with a Misdemeanor?">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' alt='Will You Pass a Background Check with a Misdemeanor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Shoplifting Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/does-shoplifting-appear-on-background-checks/' alt='Will Shoplifting Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/does-shoplifting-appear-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A DUI Show Up On A Criminal Background Check?">
+                                <img itemprop="contentUrl url" src='https://baldanilaw.com/wp-content/uploads/2019/12/Will-A-DUI-Show-Up-On-A-Criminal-Background-Check-1024x477.png' alt='Will A DUI Show Up On A Criminal Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baldani Law Group" />
+                                </span>
+                                <a href='https://baldanilaw.com/wp-content/uploads/2019/12/Will-A-DUI-Show-Up-On-A-Criminal-Background-Check-1024x477.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Shoplifting Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/whats-included-in-a-background-check/' alt='Will Shoplifting Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-shoplifting-show-up-on-a-background-check/whats-included-in-a-background-check/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

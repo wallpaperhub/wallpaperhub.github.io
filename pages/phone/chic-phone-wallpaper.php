@@ -1,0 +1,129 @@
+<title>Discover Chic Phone Wallpapers: Stylish Designs for Your Mobile</title>
+                    <meta name="description" content="Explore a collection of chic phone wallpapers that elevate your mobile style. Find trendy, elegant designs perfect for expressing your personality while keeping your phone fashionable. Update your look today with the latest in mobile wallpaper trends!">
+                    <meta name="keywords" content="chic phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/chic-phone-wallpaper">
+                            <span itemprop="name">chic phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Chic Phone Wallpapers: Stylish Designs for Your Mobile</h1>
+                <p>Transform your mobile aesthetic with chic phone wallpapers that exude elegance and style. From minimalist designs and vibrant colors to nature-inspired patterns, find the perfect wallpaper that reflects your personality. Update your phone's look and keep it trendy while making a statement wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho and Chic Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36082803/r/il/429ca6/3938637156/il_570xN.3938637156_cfjm.jpg' alt='Boho and Chic Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36082803/r/il/429ca6/3938637156/il_570xN.3938637156_cfjm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e9/b9/86/e9b9861c5d3cabf17eb59f882a5cf0fa.jpg' alt='160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e9/b9/86/e9b9861c5d3cabf17eb59f882a5cf0fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cb/8f/24/cb8f2407724d351159d262280d62e750.jpg' alt='160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cb/8f/24/cb8f2407724d351159d262280d62e750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best High Res Wallpapers For Your New iPhone 13 Phone – The Dairy">
+                                <img itemprop="contentUrl url" src='https://blogstudio.s3.theshoppad.net/the-dairy/0aee47ff385be29d6d7467a930066e75.jpg' alt='The Best High Res Wallpapers For Your New iPhone 13 Phone – The Dairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dairy" />
+                                </span>
+                                <a href='https://blogstudio.s3.theshoppad.net/the-dairy/0aee47ff385be29d6d7467a930066e75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Close-up Image Of A Chic, Pink Pretty Phone. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-close-up-image-of-a-chic-pink-pretty-phone-r69k27xopehijplg.jpg' alt='A Close-up Image Of A Chic, Pink Pretty Phone. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-close-up-image-of-a-chic-pink-pretty-phone-r69k27xopehijplg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/51/a7/29/51a7291efb30d2fdd5dd10e612071ccb.jpg' alt='160 IPhone chic ideas | wallpaper backgrounds, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/51/a7/29/51a7291efb30d2fdd5dd10e612071ccb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Floral Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/floral-phone-uzgx1der0vvmgrn0.jpg' alt='100+] Floral Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/floral-phone-uzgx1der0vvmgrn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chic phone background. Floral phone wallpaper. Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/7b/51/267b51feae4b3bd50e1146472ba25de5.jpg' alt='Chic phone background. Floral phone wallpaper. Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/7b/51/267b51feae4b3bd50e1146472ba25de5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chic Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00OTgtYmctMTBkLWwwYnJmcjRrLmpwZw.jpg' alt='Chic Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00OTgtYmctMTBkLWwwYnJmcjRrLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chic & Sleek Rose Gold Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/chic-sleek-rose-gold-phone-sifa79ygavw33dew.jpg' alt='Chic & Sleek Rose Gold Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/chic-sleek-rose-gold-phone-sifa79ygavw33dew.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

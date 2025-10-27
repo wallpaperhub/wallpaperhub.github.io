@@ -1,0 +1,129 @@
+<title>Urban Bounty Hunter: Mastering the City in D&D 5E</title>
+                    <meta name="description" content="Explore the unique role of the Urban Bounty Hunter in D&D 5E. Uncover skills, strategies, and tips for navigating city life, capturing targets, and creating a dynamic gameplay experience. Perfect for adventurers looking to blend urban strategy with thrilling combat!">
+                    <meta name="keywords" content="urban bounty hunter 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/urban-bounty-hunter-5e">
+                            <span itemprop="name">urban bounty hunter 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Urban Bounty Hunter: Mastering the City in D&D 5E</h1>
+                <p>In the world of Dungeons & Dragons, an Urban Bounty Hunter is an intriguing character class that thrives in bustling cities. Skilled in tracking, negotiation, and combat, these bounty hunters navigate urban landscapes to capture or retrieve targets. Steeped in lore, they can forge alliances or face betrayal, making for thrilling gameplay.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e Homebrew — Urban Bounty Hunter from the “Sword Coast...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b1b6fba7d66b4a23b6f2629d2ef7d9c0/tumblr_nxidbqETNE1ukgbqco1_1280.jpg' alt='DnD 5e Homebrew — Urban Bounty Hunter from the “Sword Coast...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD 5e Homebrew - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b1b6fba7d66b4a23b6f2629d2ef7d9c0/tumblr_nxidbqETNE1ukgbqco1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e Homebrew — Urban Bounty Hunter from the “Sword Coast...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/111906c3a77e9f2a6a807759a535c768/tumblr_nxidbqETNE1ukgbqco2_1280.png' alt='DnD 5e Homebrew — Urban Bounty Hunter from the “Sword Coast...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD 5e Homebrew - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/111906c3a77e9f2a6a807759a535c768/tumblr_nxidbqETNE1ukgbqco2_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bounty Hunter: A traps and toxins using rogue subclass! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m1zsshiswu651.png' alt='The Bounty Hunter: A traps and toxins using rogue subclass! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m1zsshiswu651.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranger - Bounty Hunter | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/NzGfUwW.png' alt='Ranger - Bounty Hunter | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2082">
+                                <meta itemprop="height" content="2644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/NzGfUwW.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Build: Bounty Hunter Ranger | Dungeon Solvers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/img.4plebs.org/boards/tg/image/1427/49/1427497529641.jpg' alt='Character Build: Bounty Hunter Ranger | Dungeon Solvers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeon Solvers - WordPress.com" />
+                                </span>
+                                <a href='https://i0.wp.com/img.4plebs.org/boards/tg/image/1427/49/1427497529641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shildytch, half-orc, fighters, urban bounty hunter. Water color ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/6Hz4BAAm3sitJyvn-aNxGePysaZGRz09lHtpJULKzZ4.jpg?width=640&crop=smart&auto=webp&s=0af9497675b184d4916f1e07a6179070c1edc97b' alt='Shildytch, half-orc, fighters, urban bounty hunter. Water color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/6Hz4BAAm3sitJyvn-aNxGePysaZGRz09lHtpJULKzZ4.jpg?width=640&crop=smart&auto=webp&s=0af9497675b184d4916f1e07a6179070c1edc97b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background - Bounty Hunter : r/DnDHomebrew">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rnfp2t3rppt71.jpg?width=1080&crop=smart&auto=webp&s=60b9f9f3d523dab3b8d74b94e85ce4a09ca3f4b2' alt='Background - Bounty Hunter : r/DnDHomebrew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rnfp2t3rppt71.jpg?width=1080&crop=smart&auto=webp&s=60b9f9f3d523dab3b8d74b94e85ce4a09ca3f4b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bounty Hunter – new DnD NPC monster - Arcadian Media">
+                                <img itemprop="contentUrl url" src='https://arcadian.tv/wp-content/uploads/2023/08/Social-Media-post-1080-Bounty-Hunter-1024x1024.jpg' alt='Bounty Hunter – new DnD NPC monster - Arcadian Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arcadian Media" />
+                                </span>
+                                <a href='https://arcadian.tv/wp-content/uploads/2023/08/Social-Media-post-1080-Bounty-Hunter-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Category:Urban Bounty Hunter | Grattoverse Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/grattoverse/images/b/bf/Vedalken.png/revision/latest?cb=20200506041147' alt='Category:Urban Bounty Hunter | Grattoverse Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grattoverse Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/grattoverse/images/b/bf/Vedalken.png/revision/latest?cb=20200506041147' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sword Coast Adventurer's Guide Preview - Bounty Hunter Background ...">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2015/10/sword5.jpg' alt='Sword Coast Adventurer's Guide Preview - Bounty Hunter Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2015/10/sword5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

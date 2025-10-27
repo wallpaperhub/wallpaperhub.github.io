@@ -1,0 +1,129 @@
+<title>Stunning Dark Mode Wallpapers for iPhone 15 Pro Max</title>
+                    <meta name="description" content="Discover the best dark mode wallpapers for your iPhone 15 Pro Max. Enhance your device's style while reducing eye strain with high-quality, aesthetic designs. Perfect for any mood or vibe, these wallpapers will elevate your smartphone experience to a whole new level.">
+                    <meta name="keywords" content="dark mode iphone 15 pro max wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dark-mode-iphone-15-pro-max-wallpaper">
+                            <span itemprop="name">dark mode iphone 15 pro max wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Mode Wallpapers for iPhone 15 Pro Max</h1>
+                <p>Upgrade your iPhone 15 Pro Max with stunning dark mode wallpapers that enhance aesthetics and minimize eye strain. These wallpapers beautifully contrast with your device's sleek design, providing a cool, modern look. Choose from a variety of themes, from minimalistic art to dark landscapes, ensuring a sleek and stylish interface.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro – Official Stock Wallpaper – Dark Mode | Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8b/22/79/8b2279c064de177f1de391f4229b64c7.jpg' alt='iPhone 15 Pro – Official Stock Wallpaper – Dark Mode | Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8b/22/79/8b2279c064de177f1de391f4229b64c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro Max Dark Blue Gradient Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/88/07/028807488440589bb5c7a186250153cf.jpg' alt='iPhone 15 Pro Max Dark Blue Gradient Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/88/07/028807488440589bb5c7a186250153cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro – Official Stock Wallpaper – Dark Mode | Natural ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/09/ispazio-46-768x1664.jpg' alt='iPhone 15 Pro – Official Stock Wallpaper – Dark Mode | Natural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/09/ispazio-46-768x1664.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark mode 15 Pro stock wallpapers | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/2277734/' alt='Dark mode 15 Pro stock wallpapers | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/2277734/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iPhone 15 Wallpaper Here - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/91483/438218/438218.jpg' alt='Download the Official iPhone 15 Wallpaper Here - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/91483/438218/438218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 15 Wallpaper 4K, Stock, Dark Mode, iPadOS 15">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ios-15-stock-dark-mode-ipados-15-wwdc-21-hdr-1284x2778-5586.jpg' alt='iOS 15 Wallpaper 4K, Stock, Dark Mode, iPadOS 15'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ios-15-stock-dark-mode-ipados-15-wwdc-21-hdr-1284x2778-5586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone 15 Pro Black Titanium Wallpaper Extra Set, Aerospace Grade ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39484203/r/il/50a3c5/5534320203/il_fullxfull.5534320203_ftyo.jpg' alt='IPhone 15 Pro Black Titanium Wallpaper Extra Set, Aerospace Grade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39484203/r/il/50a3c5/5534320203/il_fullxfull.5534320203_ftyo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black 4k iPhone 15 Pro Max Hd Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/8f/39/ea8f39e2367d24e53eaf8f7cd5dd383b.jpg' alt='Black 4k iPhone 15 Pro Max Hd Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/8f/39/ea8f39e2367d24e53eaf8f7cd5dd383b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 15 Pro Max Wallpaper Darker Times by rix-wn on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dgc9lza-34160e6d-1eaa-4e88-bc5f-2f6a9a2b7b5a.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_darker_times_by_rix_wn_dgc9lza-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGdjOWx6YS0zNDE2MGU2ZC0xZWFhLTRlODgtYmM1Zi0yZjZhOWEyYjdiNWEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nWJy_zhJ-aU1qhnswa2dFcSkB-YoE05VXpeYpgzKIIg' alt='iphone 15 Pro Max Wallpaper Darker Times by rix-wn on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dgc9lza-34160e6d-1eaa-4e88-bc5f-2f6a9a2b7b5a.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_darker_times_by_rix_wn_dgc9lza-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGdjOWx6YS0zNDE2MGU2ZC0xZWFhLTRlODgtYmM1Zi0yZjZhOWEyYjdiNWEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nWJy_zhJ-aU1qhnswa2dFcSkB-YoE05VXpeYpgzKIIg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 15 Pro Max Wallpaper Pattern No.205 Dark by rix-wn on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhb6gwl-84628498-eca4-49a1-9865-5e70b8d4ccb4.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_pattern_no_205_dark_by_rix_wn_dhb6gwl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhiNmd3bC04NDYyODQ5OC1lY2E0LTQ5YTEtOTg2NS01ZTcwYjhkNGNjYjQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4VexA0kzLz0So8qfAwRtvuEWlcRePDg9WwC1PnMAeus' alt='iphone 15 Pro Max Wallpaper Pattern No.205 Dark by rix-wn on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhb6gwl-84628498-eca4-49a1-9865-5e70b8d4ccb4.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_pattern_no_205_dark_by_rix_wn_dhb6gwl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhiNmd3bC04NDYyODQ5OC1lY2E0LTQ5YTEtOTg2NS01ZTcwYjhkNGNjYjQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4VexA0kzLz0So8qfAwRtvuEWlcRePDg9WwC1PnMAeus' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Fascinating Facts About Jeff Koons: The Pop Art Pioneer</title>
+                    <meta name="description" content="Explore intriguing facts about Jeff Koons, the iconic figure of pop art. Learn about his unique sculptures, creativity, and impact on contemporary art. Perfect for art enthusiasts interested in the intersection of culture and creativity.">
+                    <meta name="keywords" content="facts about jeff koons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-jeff-koons">
+                            <span itemprop="name">facts about jeff koons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating Facts About Jeff Koons: The Pop Art Pioneer</h1>
+                <p>Jeff Koons is a prominent American artist known for his large-scale sculptures and vibrant pop art. Born in 1955, he gained fame for his balloon animal sculptures and works incorporating everyday objects. Koons blends consumer culture with fine art, provoking discussion on art's value and experience. His pieces challenge traditional aesthetics and commercialism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 things to know about Jeff Koons - Artsper Magazine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.artsper.com/wp-content/uploads/2014/11/vers1.jpg?ssl=1' alt='15 things to know about Jeff Koons - Artsper Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magazine Artsper" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.artsper.com/wp-content/uploads/2014/11/vers1.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Jeff Koons">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0692/6021/files/Schermata_2020-11-16_alle_17.06.00_c021b6fd-71d5-45e9-b187-314689b96ece.png?v=1605546935' alt='10 Facts About Jeff Koons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quay Books" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0692/6021/files/Schermata_2020-11-16_alle_17.06.00_c021b6fd-71d5-45e9-b187-314689b96ece.png?v=1605546935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Facts About Jeff Koons | Contemporary Art | Sotheby's">
+                                <img itemprop="contentUrl url" src='https://sothebys-com.brightspotcdn.com/6e/d4/f34215a74633bbfd0371bda8392b/c7yx3g.jpg' alt='21 Facts About Jeff Koons | Contemporary Art | Sotheby's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="5400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sotheby's" />
+                                </span>
+                                <a href='https://sothebys-com.brightspotcdn.com/6e/d4/f34215a74633bbfd0371bda8392b/c7yx3g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Facts About Jeff Koons | Contemporary Art | Sotheby's">
+                                <img itemprop="contentUrl url" src='https://sothebys-com.brightspotcdn.com/dims4/default/b60ffc9/2147483647/strip/true/crop/3000x1707+0+0/resize/1154x657!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F7a%2Fa0%2F26596d5e40419f365019e77ffef2%2Fjeff-koons-853l19023-b7yqc.jpg' alt='21 Facts About Jeff Koons | Contemporary Art | Sotheby's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1154">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sotheby's" />
+                                </span>
+                                <a href='https://sothebys-com.brightspotcdn.com/dims4/default/b60ffc9/2147483647/strip/true/crop/3000x1707+0+0/resize/1154x657!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F7a%2Fa0%2F26596d5e40419f365019e77ffef2%2Fjeff-koons-853l19023-b7yqc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeff Koons | Artwork, Balloon Dog, Rabbit, Biography, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/14/136814-050-47064938/Puppy-topiary-sculpture-Jeff-Koons-Spain-Bilbao.jpg' alt='Jeff Koons | Artwork, Balloon Dog, Rabbit, Biography, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/14/136814-050-47064938/Puppy-topiary-sculpture-Jeff-Koons-Spain-Bilbao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeff Koons Art, Bio, Ideas | TheArtStory">
+                                <img itemprop="contentUrl url" src='https://www.theartstory.org/images20/works/koons_jeff_5.jpg?1' alt='Jeff Koons Art, Bio, Ideas | TheArtStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Story" />
+                                </span>
+                                <a href='https://www.theartstory.org/images20/works/koons_jeff_5.jpg?1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So what is it about Jeff Koons that has so captured art world's ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/15/20/46.jeffkoons.REX.jpg?width=1200' alt='So what is it about Jeff Koons that has so captured art world's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/15/20/46.jeffkoons.REX.jpg?width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeff Koons | Artwork, Balloon Dog, Rabbit, Biography, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/16/191216-050-32E4BF3C/Tulips-sculpture-group-colour-coating-stainless-steel-2004.jpg' alt='Jeff Koons | Artwork, Balloon Dog, Rabbit, Biography, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/16/191216-050-32E4BF3C/Tulips-sculpture-group-colour-coating-stainless-steel-2004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Jeff Koons">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0692/6021/files/Schermata_2020-11-16_alle_17.07.07.png?v=1605547359' alt='10 Facts About Jeff Koons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quay Books" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0692/6021/files/Schermata_2020-11-16_alle_17.07.07.png?v=1605547359' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeff Koons - Artworks & Biography | David Zwirner">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/juzvn5an/release-adp/a058e350e60f819a8f79b46a0aa8e686703414fa-2500x1880.jpg?w=3840' alt='Jeff Koons - Artworks & Biography | David Zwirner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Zwirner" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/juzvn5an/release-adp/a058e350e60f819a8f79b46a0aa8e686703414fa-2500x1880.jpg?w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

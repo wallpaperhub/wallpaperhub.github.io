@@ -1,0 +1,129 @@
+<title>Vibrant Neon Circles: Illuminate Your Space</title>
+                    <meta name="description" content="Explore the enchanting world of neon circles! These vibrant, glowing designs add a modern flair to any environment, perfect for events or home décor. Brighten your space and captivate with these stunning artistic elements that are sure to make a statement.">
+                    <meta name="keywords" content="neon circle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-circle">
+                            <span itemprop="name">neon circle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Circles: Illuminate Your Space</h1>
+                <p>Neon circles are captivating artistic elements that blend vibrant colors with glowing lights, creating a captivating atmosphere. Often used in advertising and modern décor, these luminous shapes add a trendy touch to any space. Perfect for events, photography, or home design, neon circles are sure to light up your world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Circle LED Neon Sign, Zen Circle Neon Sign, Japanese Enso Sign  Decoration, Custom Japanese Neon Sign (Orange Yellow 21.6'') : Tools & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716TOGzGf+L.jpg' alt='Amazon.com : Circle LED Neon Sign, Zen Circle Neon Sign, Japanese Enso Sign  Decoration, Custom Japanese Neon Sign (Orange Yellow 21.6'') : Tools & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716TOGzGf+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Neon - HiNeon Custom Neon Sign">
+                                <img itemprop="contentUrl url" src='https://hineon.com/wp-content/uploads/2023/08/white-circle-LED-neon-sign.webp' alt='Circle Neon - HiNeon Custom Neon Sign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HiNeon" />
+                                </span>
+                                <a href='https://hineon.com/wp-content/uploads/2023/08/white-circle-LED-neon-sign.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: AOOS CUSTOM Single Color Circle Round Neon Sign for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/616mDUQEtSL._UF1000,1000_QL80_.jpg' alt='Amazon.com: AOOS CUSTOM Single Color Circle Round Neon Sign for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/616mDUQEtSL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,373 Neon Lights Circle Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1320766134/vector/blue-ultraviolet-neon-round-frame.jpg?s=612x612&w=gi&k=20&c=A3M2Sv9ehJ5WB3uSav1n96v-cJFGcAoHMfVftLiGSJc=' alt='17,373 Neon Lights Circle Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1320766134/vector/blue-ultraviolet-neon-round-frame.jpg?s=612x612&w=gi&k=20&c=A3M2Sv9ehJ5WB3uSav1n96v-cJFGcAoHMfVftLiGSJc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Circle Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/shape-light-blue-pink-vector-illustration-frame-promotion-advertising_66219-1872.jpg?semt=ais_hybrid' alt='Neon Circle Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/shape-light-blue-pink-vector-illustration-frame-promotion-advertising_66219-1872.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Red Neon Glowing Circle Transparent PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-red-neon-glowing-circle-transparent-png-701751694615541lrhj1a5ivx.png' alt='HD Red Neon Glowing Circle Transparent PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-red-neon-glowing-circle-transparent-png-701751694615541lrhj1a5ivx.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Circle Light Round LED Neon Sign 15" Circle Wall Light - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14627737/r/il/d039e0/2375872552/il_570xN.2375872552_fjer.jpg' alt='Neon Circle Light Round LED Neon Sign 15" Circle Wall Light - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14627737/r/il/d039e0/2375872552/il_570xN.2375872552_fjer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700 Neon Circle Isolated Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1021981230/photo/the-magical-form-of-pink-orange-purple-circle-abstract-background.jpg?s=612x612&w=gi&k=20&c=wt88A930C2I24bPMqYylA8nPRWVvQPUQQ8fYFECady4=' alt='2,700 Neon Circle Isolated Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1021981230/photo/the-magical-form-of-pink-orange-purple-circle-abstract-background.jpg?s=612x612&w=gi&k=20&c=wt88A930C2I24bPMqYylA8nPRWVvQPUQQ8fYFECady4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,400+ Neon Light Circle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1141495869/photo/3d-render-blue-pink-neon-round-frame-circle-ring-shape-empty-space-ultraviolet-light-80s.jpg?s=612x612&w=0&k=20&c=s_k3XrnKy9qRzTR2vdLg_BC6smrY1WymKpBsBfAvLNU=' alt='84,400+ Neon Light Circle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1141495869/photo/3d-render-blue-pink-neon-round-frame-circle-ring-shape-empty-space-ultraviolet-light-80s.jpg?s=612x612&w=0&k=20&c=s_k3XrnKy9qRzTR2vdLg_BC6smrY1WymKpBsBfAvLNU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Neon - HiNeon Custom Neon Sign">
+                                <img itemprop="contentUrl url" src='https://hineon.com/wp-content/uploads/2023/08/red-and-white-neon-LED-circle-intertwined-2.webp' alt='Circle Neon - HiNeon Custom Neon Sign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HiNeon" />
+                                </span>
+                                <a href='https://hineon.com/wp-content/uploads/2023/08/red-and-white-neon-LED-circle-intertwined-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

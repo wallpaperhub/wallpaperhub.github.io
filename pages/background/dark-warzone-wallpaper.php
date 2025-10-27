@@ -1,0 +1,129 @@
+<title>Dark Warzone: Epic Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of dark warzone wallpapers designed for gamers! Elevate your device's look with intense, atmospheric designs that capture the thrill of battle. Perfect for mobile users looking for striking visuals that reflect their gaming passion. Explore now and enhance your screen!">
+                    <meta name="keywords" content="dark warzone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-warzone-wallpaper">
+                            <span itemprop="name">dark warzone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Warzone: Epic Wallpapers for Gamers</h1>
+                <p>Transform your device with a striking dark warzone wallpaper that embodies intensity and mystery. Immerse yourself in a world where shadows and light collide, creating an atmosphere of suspense and thrill. Perfect for gamers and lovers of dark aesthetics, these wallpapers bring a unique edge and set a bold tone for your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Warzone Wallpaper 4K by XioxGraphix on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01b3ab40-08d5-4899-baaa-9f05eac92ad9/ddjjmgx-aff54ae7-ca3e-4061-9620-0def6e682d05.jpg/v1/fill/w_1192,h_670,q_70,strp/modern_warzone_wallpaper_4k_by_xioxgraphix_ddjjmgx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzAxYjNhYjQwLTA4ZDUtNDg5OS1iYWFhLTlmMDVlYWM5MmFkOVwvZGRqam1neC1hZmY1NGFlNy1jYTNlLTQwNjEtOTYyMC0wZGVmNmU2ODJkMDUuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.oixOpqyMHgA8wEnS_mGfjZRinSy6PFDqdYUp22GtwtE' alt='Modern Warzone Wallpaper 4K by XioxGraphix on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01b3ab40-08d5-4899-baaa-9f05eac92ad9/ddjjmgx-aff54ae7-ca3e-4061-9620-0def6e682d05.jpg/v1/fill/w_1192,h_670,q_70,strp/modern_warzone_wallpaper_4k_by_xioxgraphix_ddjjmgx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzAxYjNhYjQwLTA4ZDUtNDg5OS1iYWFhLTlmMDVlYWM5MmFkOVwvZGRqam1neC1hZmY1NGFlNy1jYTNlLTQwNjEtOTYyMC0wZGVmNmU2ODJkMDUuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.oixOpqyMHgA8wEnS_mGfjZRinSy6PFDqdYUp22GtwtE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Caption: The Thrilling Intensity of Call of Duty: Warzone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/call-of-duty-warzone-4k-purple-46vsgmrhdaetubs1.jpg' alt='Download Caption: The Thrilling Intensity of Call of Duty: Warzone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1371">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/call-of-duty-warzone-4k-purple-46vsgmrhdaetubs1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty Modern Warfare Warzone- Wallpaper 2 by thetruemask on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35271885-b64b-49da-b43d-e9aa8fa4d471/ddtf89c-ca90d3f4-ef60-438a-b0e1-a9608e54ae79.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MjcxODg1LWI2NGItNDlkYS1iNDNkLWU5YWE4ZmE0ZDQ3MVwvZGR0Zjg5Yy1jYTkwZDNmNC1lZjYwLTQzOGEtYjBlMS1hOTYwOGU1NGFlNzkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z5F6pxEeWXp4ccdmPYU2bmUbeJTcB0RzLO2yn2-mggI' alt='Call Of Duty Modern Warfare Warzone- Wallpaper 2 by thetruemask on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35271885-b64b-49da-b43d-e9aa8fa4d471/ddtf89c-ca90d3f4-ef60-438a-b0e1-a9608e54ae79.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MjcxODg1LWI2NGItNDlkYS1iNDNkLWU5YWE4ZmE0ZDQ3MVwvZGR0Zjg5Yy1jYTkwZDNmNC1lZjYwLTQzOGEtYjBlMS1hOTYwOGU1NGFlNzkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z5F6pxEeWXp4ccdmPYU2bmUbeJTcB0RzLO2yn2-mggI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Warzone 2 Wallpaper 4K, 2024 Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/call-of-duty-2560x1440-15557.jpg' alt='Call of Duty Warzone 2 Wallpaper 4K, 2024 Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/call-of-duty-2560x1440-15557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Call Of Duty Video Game Call Of Duty: Warzone HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/114/thumb-1920-1143161.jpg' alt='Download Call Of Duty Video Game Call Of Duty: Warzone HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/114/thumb-1920-1143161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost, Call of Duty, Warzone, COD, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/531/191/HD-wallpaper-ghost-call-of-duty-warzone-cod.jpg' alt='Ghost, Call of Duty, Warzone, COD, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/531/191/HD-wallpaper-ghost-call-of-duty-warzone-cod.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Ghost 4k Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/34/32/1a3432795d5e796fc56012b120404a0c.jpg' alt='Call of Duty Ghost 4k Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/34/32/1a3432795d5e796fc56012b120404a0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Warzone Live Twitch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/6d/f7/566df7ad792474da98a836f3a6c4d175.jpg' alt='Call of Duty Warzone Live Twitch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/6d/f7/566df7ad792474da98a836f3a6c4d175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Take the battlefield in Call of Duty Warzone | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/warzone-background-fgbyf0m4ivb16vhh.jpg' alt='Download Take the battlefield in Call of Duty Warzone | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/warzone-background-fgbyf0m4ivb16vhh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD WARZONE WALLPAPER :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/7016d7119368847.609bf52870d2b.png' alt='COD WARZONE WALLPAPER :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/7016d7119368847.609bf52870d2b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Slap Battles Logo: Unleashing Fun and Fury</title>
+                    <meta name="description" content="Discover the captivating Slap Battles logo, designed to embody the game's excitement and energy. Featuring bold colors and playful elements, this emblem reflects the fun and competitive spirit of slap-based gameplay. Explore how the logo enhances the gaming experience and draws in players worldwide!">
+                    <meta name="keywords" content="slap battles logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/slap-battles-logo">
+                            <span itemprop="name">slap battles logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Slap Battles Logo: Unleashing Fun and Fury</h1>
+                <p>In the vibrant world of Slap Battles, the logo stands out with its dynamic design, featuring bold colors and playful typography. It embodies the essence of the game, capturing the thrill of the slap-based combat and the fun community behind it. A true representation of an exciting gaming experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slap Battles | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/7/7b/Slap_Battles_2022.png/revision/latest?cb=20231119230621' alt='Slap Battles | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/7/7b/Slap_Battles_2022.png/revision/latest?cb=20231119230621' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thumbnails and Icons | Slap Battles Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/roblox-slap-battles/images/6/63/New_Logo_Icon.png/revision/latest/scale-to-width-down/250?cb=20240621171824' alt='Thumbnails and Icons | Slap Battles Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slap Battles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/roblox-slap-battles/images/6/63/New_Logo_Icon.png/revision/latest/scale-to-width-down/250?cb=20240621171824' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discuss Everything About Slap Battles Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/roblox-slap-battles/images/e/e6/Site-logo.png/revision/latest?cb=20230415185740' alt='Discuss Everything About Slap Battles Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1847">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slap Battles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/roblox-slap-battles/images/e/e6/Site-logo.png/revision/latest?cb=20230415185740' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i need slap battles logo for a video thumbnail | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/032f66b6-5572-49b2-9ac3-eb02c9cc5701/scale-to-width/755' alt='i need slap battles logo for a video thumbnail | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slap Battles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/032f66b6-5572-49b2-9ac3-eb02c9cc5701/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  OG LOBBY!] Slap Battles   - Roblox">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-d1577d2ea324ed13705ca83ebf653563/768/432/Image/Webp/noFilter' alt='  OG LOBBY!] Slap Battles   - Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roblox" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-d1577d2ea324ed13705ca83ebf653563/768/432/Image/Webp/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slap Battles on X: "Big Loaded Update! 3 New Gloves + Fixes ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GLiy042XAAAAB3T.jpg:large' alt='Slap Battles on X: "Big Loaded Update! 3 New Gloves + Fixes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GLiy042XAAAAB3T.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slap Battles - Fight Area - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/rrmJ4VJuDJ60BUsbtnHpIRiLG03HMLiCTvS2B9bfzBG_qKq2-YkXwgTVer2q-rdt0w' alt='Slap Battles - Fight Area - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/rrmJ4VJuDJ60BUsbtnHpIRiLG03HMLiCTvS2B9bfzBG_qKq2-YkXwgTVer2q-rdt0w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="(OLD) Slap Battles TRAILER">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LlSGDYBiQ0s/maxresdefault.jpg' alt='(OLD) Slap Battles TRAILER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LlSGDYBiQ0s/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slap Battles for ROBLOX - Game Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-icon-m/p/64301168-df94-4da0-a633-705453785202/2506713101/slap-battles-logo' alt='Slap Battles for ROBLOX - Game Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slap-battles.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-icon-m/p/64301168-df94-4da0-a633-705453785202/2506713101/slap-battles-logo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew some of the slap battles thumbnails i ain't that good at ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-drew-some-of-the-slap-battles-thumbnails-i-aint-that-good-v0-buvpy4ze3hyc1.jpg?width=750&format=pjpg&auto=webp&s=09baf941c1cb55cd4bc451d25613aabb26371180' alt='I drew some of the slap battles thumbnails i ain't that good at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-drew-some-of-the-slap-battles-thumbnails-i-aint-that-good-v0-buvpy4ze3hyc1.jpg?width=750&format=pjpg&auto=webp&s=09baf941c1cb55cd4bc451d25613aabb26371180' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

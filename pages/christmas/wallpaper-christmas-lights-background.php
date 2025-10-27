@@ -1,0 +1,129 @@
+<title>Delightful Christmas Lights Wallpaper Background</title>
+                    <meta name="description" content="Discover the enchanting wallpaper with Christmas lights to brighten your home this festive season. Perfect for creating a cozy holiday atmosphere, our designs are mobile-optimized for easy access. Elevate your decor and embrace the joy of Christmas with beautiful, vibrant backgrounds today!">
+                    <meta name="keywords" content="wallpaper christmas lights background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/wallpaper-christmas-lights-background">
+                            <span itemprop="name">wallpaper christmas lights background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Christmas Lights Wallpaper Background</h1>
+                <p>Transform your space this holiday season with our stunning wallpaper featuring Christmas lights! Perfect for creating a festive atmosphere, this background adds warmth and cheer to any room. Whether for your home office or living area, immerse yourself in a cozy ambiance that invites the spirit of Christmas indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Photos, Download The BEST Free Christmas Lights ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/759435/pexels-photo-759435.jpeg?cs=srgb&dl=pexels-iriser-759435.jpg&fm=jpg' alt='Christmas Lights Photos, Download The BEST Free Christmas Lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5466">
+                                <meta itemprop="height" content="3774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/759435/pexels-photo-759435.jpeg?cs=srgb&dl=pexels-iriser-759435.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background" Images – Browse 4,446 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/63/87/07/360_F_1063870713_IIbab6wjW3XpcHMk93VFmn00ztZlmEt8.jpg' alt='Christmas Lights Background" Images – Browse 4,446 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/63/87/07/360_F_1063870713_IIbab6wjW3XpcHMk93VFmn00ztZlmEt8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/art-colorful-lights-wooden-background-christmasl-garland_156341-56.jpg' alt='Christmas Lights Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/art-colorful-lights-wooden-background-christmasl-garland_156341-56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701454736122-14b846cfb3c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' alt='Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701454736122-14b846cfb3c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background Images – Browse 7,222,384 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/27/58/63/360_F_227586381_AXsJ639oGELp0XDJyUlnLMDDZYeVpPxq.jpg' alt='Christmas Lights Background Images – Browse 7,222,384 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/27/58/63/360_F_227586381_AXsJ639oGELp0XDJyUlnLMDDZYeVpPxq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1575376650076-a868ecb24609?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' alt='Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1575376650076-a868ecb24609?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="560 Best Christmas Lights ideas | christmas lights, christmas, holiday">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/08/84/2008849002c3154f6cebf0b3eb473de4.jpg' alt='560 Best Christmas Lights ideas | christmas lights, christmas, holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/08/84/2008849002c3154f6cebf0b3eb473de4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background Digital Download - Fine Art Photography -  screen saver - computer wallpaper from William Britten">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8278375/r/il/5aaf07/614408211/il_fullxfull.614408211_rneh.jpg' alt='Christmas Lights Background Digital Download - Fine Art Photography -  screen saver - computer wallpaper from William Britten'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8278375/r/il/5aaf07/614408211/il_fullxfull.614408211_rneh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ Christmas Lights On Black Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1065560790/photo/merry-christmas-and-happy-new-year-background.jpg?s=612x612&w=0&k=20&c=5lBzjIrQ3qusmujZ7ETod46Yt6w-AgU0pp0SgrUJJ4o=' alt='8,000+ Christmas Lights On Black Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1065560790/photo/merry-christmas-and-happy-new-year-background.jpg?s=612x612&w=0&k=20&c=5lBzjIrQ3qusmujZ7ETod46Yt6w-AgU0pp0SgrUJJ4o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background Images – Browse 7,222,384 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/65/14/35/360_F_965143537_hHK7NpsqUXTattGroiVEO7fb4QdkgIls.jpg' alt='Christmas Lights Background Images – Browse 7,222,384 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/65/14/35/360_F_965143537_hHK7NpsqUXTattGroiVEO7fb4QdkgIls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

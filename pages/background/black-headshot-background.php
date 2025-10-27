@@ -1,0 +1,129 @@
+<title>Professional Black Headshot Background for Your Profile</title>
+                    <meta name="description" content="Discover the benefits of using a black headshot background to elevate your professional image. This elegant backdrop enhances your features, ensuring you stand out in portfolios, resumes, and social media profiles. Perfect for making a lasting impression with simplicity and style.">
+                    <meta name="keywords" content="black headshot background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-headshot-background">
+                            <span itemprop="name">black headshot background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Professional Black Headshot Background for Your Profile</h1>
+                <p>A black headshot background provides a sleek and professional appearance that enhances the subject's features. This minimalist backdrop helps to eliminate distractions, allowing viewers to focus solely on the individual. Ideal for portfolios, LinkedIn profiles, and promotional materials, a black background exudes confidence and sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark background headshots | Chris Gillett Photography">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2022/12/Marlin-Champion090-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' alt='Dark background headshots | Chris Gillett Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2022/12/Marlin-Champion090-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark background headshots | Chris Gillett Photography">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2022/12/Azeb-Kingsmore008-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' alt='Dark background headshots | Chris Gillett Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2022/12/Azeb-Kingsmore008-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Headshot Background Guide, Best Pro Background Options">
+                                <img itemprop="contentUrl url" src='https://orlandosydney.com/wp-content/uploads/2023/05/Radial-Gradient-Grey-to-Black-Headshot-Background-Example.-By-Orlandosydney.com-0064.jpg' alt='Headshot Background Guide, Best Pro Background Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orlando Sydney Corporate Photography" />
+                                </span>
+                                <a href='https://orlandosydney.com/wp-content/uploads/2023/05/Radial-Gradient-Grey-to-Black-Headshot-Background-Example.-By-Orlandosydney.com-0064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark background headshots | Chris Gillett Photography">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2022/12/Sarah-Nguyen260-Edit-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' alt='Dark background headshots | Chris Gillett Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2022/12/Sarah-Nguyen260-Edit-Edit-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="204,256 Black Photo Backdrop Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/black-headshot-background-portrait-abstract-600nw-2254196619.jpg' alt='204,256 Black Photo Backdrop Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/black-headshot-background-portrait-abstract-600nw-2254196619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark background headshots | Chris Gillett Photography">
+                                <img itemprop="contentUrl url" src='https://liketherazor.com/wp-content/uploads/2022/12/Alla-Nueva508c-1-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' alt='Dark background headshots | Chris Gillett Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Gillett" />
+                                </span>
+                                <a href='https://liketherazor.com/wp-content/uploads/2022/12/Alla-Nueva508c-1-WEB-VERSION-Chris-Gillett-Houston-Headshot-Photographer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Professional Black Textured Digital Backdrop, Photography ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/1a53ad/1908612041/il_570xN.1908612041_haoz.jpg' alt='The Professional Black Textured Digital Backdrop, Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/1a53ad/1908612041/il_570xN.1908612041_haoz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Headshot Backgrounds | HeadShots Inc">
+                                <img itemprop="contentUrl url" src='https://headshots-inc.com/wp-content/uploads/2022/03/website-photos-3-2.jpg' alt='Professional Headshot Backgrounds | HeadShots Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeadShots Inc" />
+                                </span>
+                                <a href='https://headshots-inc.com/wp-content/uploads/2022/03/website-photos-3-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Headshot Backdrop Grunge Abstract Texture Dark Gray Backdrop DBD25-18">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/files/DBD25-18.jpg?v=1736235579' alt='Headshot Backdrop Grunge Abstract Texture Dark Gray Backdrop DBD25-18'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/files/DBD25-18.jpg?v=1736235579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 3 Best Background Colours for Headshots and How To Choose Yours">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54c81c02e4b0caafc972b5b0/1643410343388-19JJ5AGCH11CAU56KQOX/hamilton+headshots+photographer+christina+de+melo.jpg' alt='The 3 Best Background Colours for Headshots and How To Choose Yours'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="christina de melo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54c81c02e4b0caafc972b5b0/1643410343388-19JJ5AGCH11CAU56KQOX/hamilton+headshots+photographer+christina+de+melo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Great Wave Phone Wallpapers for a Serene Look</title>
+                    <meta name="description" content="Discover beautiful Great Wave phone wallpapers that elevate your mobile screen with artful designs. Perfect for art lovers, these wallpapers blend style and serenity, making your device an expression of beauty and tranquility. Download now and personalize your phone with iconic ocean-inspired imagery!">
+                    <meta name="keywords" content="great wave phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/great-wave-phone-wallpaper">
+                            <span itemprop="name">great wave phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Great Wave Phone Wallpapers for a Serene Look</h1>
+                <p>Transform your phone's aesthetic with stunning Great Wave wallpapers. Inspired by Hokusai's iconic artwork, these vibrant designs bring a touch of nature's power and beauty to your screen. Dive into a world of swirling blue waves and serene imagery, perfect for anyone who appreciates art and tranquility on their mobile device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2160x3840]My take on an AMOLED Great Wave off Kanagawa : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b94wm5z6yx621.png?auto=webp&s=0f3113ba75f1b17df1bb8cdc5bcfc4ba4db37df6' alt='2160x3840]My take on an AMOLED Great Wave off Kanagawa : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2162">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b94wm5z6yx621.png?auto=webp&s=0f3113ba75f1b17df1bb8cdc5bcfc4ba4db37df6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Great Wave off Kanagawa : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ufp2utfy8mb51.png?auto=webp&s=fb3e73e1553548dd97b3a94b30fb5af7c8cb01f1' alt='The Great Wave off Kanagawa : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ufp2utfy8mb51.png?auto=webp&s=fb3e73e1553548dd97b3a94b30fb5af7c8cb01f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic/The Great Wave Off Kanagawa (1440x2560) Wallpaper ID ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/dc/be/d8dcbe01b1a261151f7748752acffb3c.jpg' alt='Artistic/The Great Wave Off Kanagawa (1440x2560) Wallpaper ID ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/dc/be/d8dcbe01b1a261151f7748752acffb3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the great wave off kanagawa wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/57/db/18/57db186c176a51d743bc09d2d70a72f2.jpg' alt='the great wave off kanagawa wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/57/db/18/57db186c176a51d743bc09d2d70a72f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Picture Sensations Canvas Texture Wall Mural, The Great Wave  Off Kanagawa - Hokusai, Self-Adhesive Vinyl Wallpaper, Peel & Stick Fabric  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61F9iUP6VjL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Picture Sensations Canvas Texture Wall Mural, The Great Wave  Off Kanagawa - Hokusai, Self-Adhesive Vinyl Wallpaper, Peel & Stick Fabric  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61F9iUP6VjL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popular Phone Great Wave Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/popular-phone-great-wave-5au2zqqq654xtvin.jpg' alt='Popular Phone Great Wave Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/popular-phone-great-wave-5au2zqqq654xtvin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 Phone wallpaper ideas | cute wallpapers, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9e/89/1b/9e891b764b73fc7e0ff3040d1a22a1d2.jpg' alt='87 Phone wallpaper ideas | cute wallpapers, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9e/89/1b/9e891b764b73fc7e0ff3040d1a22a1d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Great Wave, art, hokusai, japan, water, woodblock, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/60/916/HD-wallpaper-wave-ocean-waves-great-japan-floor-water-link-thumbnail.jpg' alt='The Great Wave, art, hokusai, japan, water, woodblock, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/60/916/HD-wallpaper-wave-ocean-waves-great-japan-floor-water-link-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the great wave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/fe/d0/91fed0cf7de85f8125e6fa62367e4678.jpg' alt='the great wave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/fe/d0/91fed0cf7de85f8125e6fa62367e4678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Purple Wave off Kanagawa | Waves wallpaper iphone, Waves ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/02/78/b70278409c8bebb4c0fcf1ee85befd44.jpg' alt='The Purple Wave off Kanagawa | Waves wallpaper iphone, Waves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/02/78/b70278409c8bebb4c0fcf1ee85befd44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>4K Goku Wallpaper for iPhone - Ultimate Dragon Ball Aesthetic</title>
+                    <meta name="description" content="Download the latest 4K Goku wallpaper for your iPhone! Experience high-resolution imagery that brings your favorite Dragon Ball character to life. Perfect for fans looking to enhance their device's look with vibrant colors and stunning graphics. Get yours today!">
+                    <meta name="keywords" content="iphone:ml9cq_uaokm= goku wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/iphoneml9cq_uaokm-goku-wallpaper-4k">
+                            <span itemprop="name">iphone:ml9cq_uaokm= goku wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Goku Wallpaper for iPhone - Ultimate Dragon Ball Aesthetic</h1>
+                <p>Discover the stunning Goku wallpaper in 4K resolution, perfect for your iPhone. Dive into the vibrant colors and crisp details of this iconic character from Dragon Ball. Transform your device's home screen or lock screen with this high-quality image, bringing the spirit of Goku into your daily life in breathtaking clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K Iphone Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/7f/f1/697ff19456cf078e34971f30309fb776.jpg' alt='Goku Wallpaper 4K Iphone Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/7f/f1/697ff19456cf078e34971f30309fb776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Beast Mode, AMOLED">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-beast-mode-amoled-black-background-minimal-1284x2778-4946.png' alt='Goku Wallpaper 4K, Beast Mode, AMOLED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-beast-mode-amoled-black-background-minimal-1284x2778-4946.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' alt='Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4K iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7223197.jpg' alt='Goku 4K iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7223197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/cb/98/0bcb986dab6fe628d83a27cbc8276ef5.jpg' alt='Goku 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/cb/98/0bcb986dab6fe628d83a27cbc8276ef5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Instinct Goku, kamehameha, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/287/221/HD-wallpaper-goku-ultra-instinct-dbz-super-ultra-instinct.jpg' alt='Ultra Instinct Goku, kamehameha, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/287/221/HD-wallpaper-goku-ultra-instinct-dbz-super-ultra-instinct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4K iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4975144.jpg' alt='Goku 4K iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4975144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, ani, anime, ball, black, blue, dbz, dragon, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/392/166/HD-wallpaper-ultra-instinct-goku-anime-dark-dbz-dragon-ball-iphone-manga-saiyan-ultra-instinct.jpg' alt='Goku, ani, anime, ball, black, blue, dbz, dragon, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/392/166/HD-wallpaper-ultra-instinct-goku-anime-dark-dbz-dragon-ball-iphone-manga-saiyan-ultra-instinct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4K iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4906269.jpg' alt='Goku 4K iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4906269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Mastered Ultra Instinct Wallpaper 4K, 5K, Dragon Ball Super">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-mastered-ultra-instinct-dragon-ball-super-5k-1284x2778-5089.jpg' alt='Goku Mastered Ultra Instinct Wallpaper 4K, 5K, Dragon Ball Super'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-mastered-ultra-instinct-dragon-ball-super-5k-1284x2778-5089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

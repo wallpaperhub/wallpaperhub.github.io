@@ -1,0 +1,129 @@
+<title>Vibrant Red Paper Texture: Enhance Your Designs</title>
+                    <meta name="description" content="Explore the dynamic charm of red paper texture! Perfect for invitations, cards, and crafts, this striking design element adds vibrancy and warmth to your projects. Discover various finishes to elevate your creativity and bring your ideas to life with this bold color choice.">
+                    <meta name="keywords" content="red paper texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-paper-texture">
+                            <span itemprop="name">red paper texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Paper Texture: Enhance Your Designs</h1>
+                <p>Red paper texture is an eye-catching design element that adds warmth and vibrancy to any project. Its rich, bold hue can evoke feelings of excitement and passion, making it perfect for invitations, cards, and festive decorations. Experiment with different finishes, like matte or glossy, to enhance the visual appeal and complement your creative work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crumpled Red Paper Texture – Photos Public Domain">
+                                <img itemprop="contentUrl url" src='https://www.photos-public-domain.com/wp-content/uploads/2012/01/crumpled-red-paper-texture.jpg' alt='Crumpled Red Paper Texture – Photos Public Domain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3888">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos Public Domain" />
+                                </span>
+                                <a href='https://www.photos-public-domain.com/wp-content/uploads/2012/01/crumpled-red-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Paper Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/closeup-seamless-red-paper-texture-background-artworks_414617-500.jpg?semt=ais_hybrid' alt='Red Paper Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/closeup-seamless-red-paper-texture-background-artworks_414617-500.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Wrinkled Red Paper Textures (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2016/07/wrinkled-red-paper-4.jpg' alt='5 Wrinkled Red Paper Textures (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2016/07/wrinkled-red-paper-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Paper Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/138/017/small_2x/red-wide-crumpled-paper-texture-background-crush-paper-so-that-it-becomes-creased-and-wrinkled-free-vector.jpg' alt='Red Paper Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/138/017/small_2x/red-wide-crumpled-paper-texture-background-crush-paper-so-that-it-becomes-creased-and-wrinkled-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Paper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675738775239-e49c432c5ee2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='Red Paper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675738775239-e49c432c5ee2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="221,000+ Red Texture Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/927602980/photo/texture-of-old-red-scratched-and-torn-paper-abstract-background-for-design.jpg?s=612x612&w=0&k=20&c=pIbOyyj28mwkxEivhDx_tZ_pKditOE6vMlUVX8seI0o=' alt='221,000+ Red Texture Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/927602980/photo/texture-of-old-red-scratched-and-torn-paper-abstract-background-for-design.jpg?s=612x612&w=0&k=20&c=pIbOyyj28mwkxEivhDx_tZ_pKditOE6vMlUVX8seI0o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Red Images – Browse 674,524 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/43/47/81/360_F_943478100_rFcb2AiWfyeQ0Ipvp8JbNlr0eeX2NhrE.jpg' alt='Old Paper Red Images – Browse 674,524 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/43/47/81/360_F_943478100_rFcb2AiWfyeQ0Ipvp8JbNlr0eeX2NhrE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wrinkled red paper | Free Textures">
+                                <img itemprop="contentUrl url" src='https://everytexture.com/wp-content/uploads/2021/03/everytexture.com-stock-paper-texture-00128.jpg' alt='Wrinkled red paper | Free Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EveryTexture.com" />
+                                </span>
+                                <a href='https://everytexture.com/wp-content/uploads/2021/03/everytexture.com-stock-paper-texture-00128.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Close up of red paper texture or background. High ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-handmade-paper-texture-high-resolution-photo_463999-470.jpg' alt='Premium Photo | Close up of red paper texture or background. High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-handmade-paper-texture-high-resolution-photo_463999-470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red paper texture Free Photo Download | FreeImages">
+                                <img itemprop="contentUrl url" src='https://images.freeimages.com/images/large-previews/bf1/red-paper-texture-1198320.jpg' alt='Red paper texture Free Photo Download | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://images.freeimages.com/images/large-previews/bf1/red-paper-texture-1198320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

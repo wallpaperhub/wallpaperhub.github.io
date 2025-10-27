@@ -1,0 +1,129 @@
+<title>Uber Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover how Uber ensures safety with comprehensive background checks for drivers. Learn about the process, what it entails, and why it matters for both drivers and passengers in this concise overview. Stay informed about Uber's commitment to safety!">
+                    <meta name="keywords" content="does uber do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-uber-do-background-checks">
+                            <span itemprop="name">does uber do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uber Background Checks: What You Need to Know</h1>
+                <p>Yes, Uber conducts background checks on all potential drivers before they can start driving. These checks include a review of driving records and criminal history to ensure passenger safety. The process varies by region to comply with local laws, but maintaining a safe environment is a priority for the company.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber Background Check - How does the background check process ...">
+                                <img itemprop="contentUrl url" src='https://www.ridesharingforum.com/uploads/default/original/1X/5473448b5b7b16e30f962d0918c4b81d69563849.jpg' alt='Uber Background Check - How does the background check process ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum For Customer Service, Tips, Experience" />
+                                </span>
+                                <a href='https://www.ridesharingforum.com/uploads/default/original/1X/5473448b5b7b16e30f962d0918c4b81d69563849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips to prepare for the Uber background check | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/nnkhUP2Q8tMMqv4slx6QOAW2n-jELakffmdJmPHW2aYoPf7IgT7xcX3LCAgg7vhz3fV43bokHVnxIuaBmdVsT0bwKU0cmnRUoih58aKi7qaFCtzc0aMMjqcj075EuFnUWGJKdpvDxRVVXEcgYC6V2bYAaQzUso-7wxk8cVPujrvamuteq_2yZfHNfed1rA' alt='Tips to prepare for the Uber background check | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/nnkhUP2Q8tMMqv4slx6QOAW2n-jELakffmdJmPHW2aYoPf7IgT7xcX3LCAgg7vhz3fV43bokHVnxIuaBmdVsT0bwKU0cmnRUoih58aKi7qaFCtzc0aMMjqcj075EuFnUWGJKdpvDxRVVXEcgYC6V2bYAaQzUso-7wxk8cVPujrvamuteq_2yZfHNfed1rA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Fast Did Our Uber Background Check Take?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0IXDc3rvZIY/maxresdefault.jpg' alt='How Fast Did Our Uber Background Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0IXDc3rvZIY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long to complete Uber background check | Why is it taking so LONG?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lE9m5JkR_Wg/maxresdefault.jpg' alt='How long to complete Uber background check | Why is it taking so LONG?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lE9m5JkR_Wg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Problem submitting a background check | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/screenshot_20200714-203159_uber-driver-jpg.487030/' alt='Problem submitting a background check | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/screenshot_20200714-203159_uber-driver-jpg.487030/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check issue....NOT about length of check or timeframe ...">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/img_3699-jpeg.660790/' alt='Background Check issue....NOT about length of check or timeframe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/img_3699-jpeg.660790/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So my background check just came back and it's not looking good ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/so-my-background-check-just-came-back-and-its-not-looking-v0-r6m7nvms6a6b1.jpg?auto=webp&s=3eb1e8538c70f3df042df5e75b49dcd0f4213ae9' alt='So my background check just came back and it's not looking good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/so-my-background-check-just-came-back-and-its-not-looking-v0-r6m7nvms6a6b1.jpg?auto=webp&s=3eb1e8538c70f3df042df5e75b49dcd0f4213ae9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1170&format=pjpg&auto=webp&s=65e55f988707cdfe707a3aae56f638eb6e4f5a17' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1170&format=pjpg&auto=webp&s=65e55f988707cdfe707a3aae56f638eb6e4f5a17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does Uber Background Check Take? Average Timeframe">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/a/aa/How-Long-Does-Uber-Background-Check-Take-Step-3.jpg/v4-460px-How-Long-Does-Uber-Background-Check-Take-Step-3.jpg' alt='How Long Does Uber Background Check Take? Average Timeframe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow Life" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/a/aa/How-Long-Does-Uber-Background-Check-Take-Step-3.jpg/v4-460px-How-Long-Does-Uber-Background-Check-Take-Step-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why are so many Uber drivers failing Background checks? Is UBER cleaning up?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IWJtvcfpW0s/maxresdefault.jpg' alt='Why are so many Uber drivers failing Background checks? Is UBER cleaning up?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IWJtvcfpW0s/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

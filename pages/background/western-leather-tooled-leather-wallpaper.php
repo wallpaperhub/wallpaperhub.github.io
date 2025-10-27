@@ -1,0 +1,129 @@
+<title>Stylish Western Leather Tooled Wallpaper for Unique Interiors</title>
+                    <meta name="description" content="Discover the charm of western leather tooled wallpaper, designed to elevate your interiors with its rustic elegance. Perfect for adding a unique flair to any room, this wallpaper combines durability with intricate designs, making it an ideal choice for both contemporary and traditional spaces. Shop now!">
+                    <meta name="keywords" content="western leather tooled leather wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/western-leather-tooled-leather-wallpaper">
+                            <span itemprop="name">western leather tooled leather wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Western Leather Tooled Wallpaper for Unique Interiors</h1>
+                <p>Transform your space with western leather tooled wallpaper, blending rustic charm with modern design. This unique wall covering showcases intricate patterns reminiscent of handcrafted leather goods. Perfect for creating a warm, inviting atmosphere in homes, offices, or cabins, it offers durability and style, making every room feel extraordinary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather Tooled Western Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16358386/p/f/m/jLiuzU3ARbBj_gWIGhqCjlQQdEsATBx8YWF3f2laB-K9uE9dTqpcEVBT8g/Saddle%20Leathers.jpg' alt='Leather Tooled Western Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16358386/p/f/m/jLiuzU3ARbBj_gWIGhqCjlQQdEsATBx8YWF3f2laB-K9uE9dTqpcEVBT8g/Saddle%20Leathers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320+ Tooled Leather Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/450836339/photo/hand-tooled-leather.jpg?s=612x612&w=0&k=20&c=5QQE23Ot_TA4EVVjsgV-ZNLW3_6pR9ekU0FLjP2yvDo=' alt='320+ Tooled Leather Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/450836339/photo/hand-tooled-leather.jpg?s=612x612&w=0&k=20&c=5QQE23Ot_TA4EVVjsgV-ZNLW3_6pR9ekU0FLjP2yvDo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Tooled Leather Pattern Fabric, Wallpaper and Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16981900/p/f/m/lpMWQdEayE4qm_DjFHzqFCciIxBU6kY9yWyorHpK_pRp1Y9GeM18hmguXQ/%20tooled%20leather%20brown.jpg' alt='Vintage Tooled Leather Pattern Fabric, Wallpaper and Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16981900/p/f/m/lpMWQdEayE4qm_DjFHzqFCciIxBU6kY9yWyorHpK_pRp1Y9GeM18hmguXQ/%20tooled%20leather%20brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Tooled Leather Western Background Wall Art (2812459)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/tooled-leatherb-present1-6aa457d568b5aa6310a61a5e328f255c7f921575f5bda8bfe5bdaf6dff19286f.jpg' alt='3D Tooled Leather Western Background Wall Art (2812459)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/tooled-leatherb-present1-6aa457d568b5aa6310a61a5e328f255c7f921575f5bda8bfe5bdaf6dff19286f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tooled Leather Background Images – Browse 57,974 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/61/05/22/360_F_61052282_cXItyWV1SJI7SzJGV4mKnEFb0DYuBiSd.jpg' alt='Tooled Leather Background Images – Browse 57,974 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/61/05/22/360_F_61052282_cXItyWV1SJI7SzJGV4mKnEFb0DYuBiSd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Western Tooled Leather Digital Paper, Leather Pattern, Western ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42132892/r/il/b427fe/5514861699/il_fullxfull.5514861699_3r89.jpg' alt='12 Western Tooled Leather Digital Paper, Leather Pattern, Western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42132892/r/il/b427fe/5514861699/il_fullxfull.5514861699_3r89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hand tooled leather #tooled #leather ***Research for possible ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/d0/54/68d054b9a56ea199a94ba86353b4d501.jpg' alt='hand tooled leather #tooled #leather ***Research for possible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/d0/54/68d054b9a56ea199a94ba86353b4d501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320+ Tooled Leather Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/183537771/photo/westrn-style-leather.jpg?s=612x612&w=0&k=20&c=gym_FQk94glZlQoSF9a1TS_YHoeeU-mFyX2QBagaoSM=' alt='320+ Tooled Leather Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/183537771/photo/westrn-style-leather.jpg?s=612x612&w=0&k=20&c=gym_FQk94glZlQoSF9a1TS_YHoeeU-mFyX2QBagaoSM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tooled Leather Background Stock Illustrations – 28 Tooled Leather ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/tooled-leather-print-5116673.jpg' alt='Tooled Leather Background Stock Illustrations – 28 Tooled Leather ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/tooled-leather-print-5116673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Tooled Leather Pattern Fabric, Wallpaper and Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14123122/p/f/m/bBDoro7lgWSmSlVMY3LRt02ZjBbI14TvHZjPiqG1hrn2iTizWL2O/carved%20tooled%20leather%20dark.jpg' alt='Vintage Tooled Leather Pattern Fabric, Wallpaper and Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14123122/p/f/m/bBDoro7lgWSmSlVMY3LRt02ZjBbI14TvHZjPiqG1hrn2iTizWL2O/carved%20tooled%20leather%20dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

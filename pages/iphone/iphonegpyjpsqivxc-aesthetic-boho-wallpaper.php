@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Boho Wallpaper for iPhone</title>
+                    <meta name="description" content="Explore our collection of aesthetic boho wallpapers for iPhone. Perfectly designed to enhance your device's look with vibrant, artistic themes that reflect your unique style. Download now to give your screen a fresh, bohemian vibe!">
+                    <meta name="keywords" content="iphone:gpyjpsqivxc= aesthetic boho wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonegpyjpsqivxc-aesthetic-boho-wallpaper">
+                            <span itemprop="name">iphone:gpyjpsqivxc= aesthetic boho wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Boho Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with our stunning aesthetic boho wallpaper. Embrace vibrant colors, intricate designs, and natural motifs that embody the free-spirited bohemian lifestyle. Perfect for those who love a touch of artistic flair, this wallpaper will elevate your device's look while reflecting your unique style. Dive into a world of creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' alt='Boho iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Boho Aesthetic Wallpaper, Neutral Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/76/89/c6/7689c6d6f7e0875fa5e63a7a642c3f7a.jpg' alt='Minimalist Boho Aesthetic Wallpaper, Neutral Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/76/89/c6/7689c6d6f7e0875fa5e63a7a642c3f7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic boho wallpaper | Wallpaper iphone boho, Phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/60/89/d5608931e8cf910aed04d1d0fdc73a52.jpg' alt='Aesthetic boho wallpaper | Wallpaper iphone boho, Phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/60/89/d5608931e8cf910aed04d1d0fdc73a52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Boho Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/boho-iphone-with-orange-sunflowers-2ghhg7k9q5vdzuy8.jpg' alt='100+] Boho Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/boho-iphone-with-orange-sunflowers-2ghhg7k9q5vdzuy8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Boho iPhone Wallpaper: 50 FREE Gorgeous Boho Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/e3/75/55e37543613153c9d3f0b19961d2309d.jpg' alt='Aesthetic Boho iPhone Wallpaper: 50 FREE Gorgeous Boho Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/e3/75/55e37543613153c9d3f0b19961d2309d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CuteAesthetic Sun Wallpapers to Brighten up Your Phone Screen this ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/86/16/1d/86161d5e66e05dce293a79d2bfd81df6.jpg' alt='CuteAesthetic Sun Wallpapers to Brighten up Your Phone Screen this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/86/16/1d/86161d5e66e05dce293a79d2bfd81df6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Boho Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/butterfly-and-rainbow-cutouts-boho-iphone-m4d8b5mdut1lnvov.jpg' alt='100+] Boho Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/butterfly-and-rainbow-cutouts-boho-iphone-m4d8b5mdut1lnvov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/17/ea/4d/17ea4dcb5eb79e2cdc2b2668c04bd685.jpg' alt='Boho Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/17/ea/4d/17ea4dcb5eb79e2cdc2b2668c04bd685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho phone in 2022. Phone boho, iphone boho, Simplistic tattoos ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/503/532/HD-wallpaper-boho-phone-in-2022-phone-boho-iphone-boho-simplistic-tattoos-bohemian.jpg' alt='Boho phone in 2022. Phone boho, iphone boho, Simplistic tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/503/532/HD-wallpaper-boho-phone-in-2022-phone-boho-iphone-boho-simplistic-tattoos-bohemian.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho iPhone Wallpaper | fall 2021   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/74/32/4a/74324a70afc1613fc917eaac2b2d9cfb.jpg' alt='Boho iPhone Wallpaper | fall 2021   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/74/32/4a/74324a70afc1613fc917eaac2b2d9cfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

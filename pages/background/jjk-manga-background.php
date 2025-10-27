@@ -1,0 +1,129 @@
+<title>Jujutsu Kaisen: Unraveling Its Dark Fantasy Origins</title>
+                    <meta name="description" content="Discover the captivating background of Jujutsu Kaisen (JJK), a manga that merges modern life with dark fantasy. Explore the thrilling world of cursed energies, dynamic characters, and intricate storytelling that has taken manga lovers by storm. Insights await on its creation and influence!">
+                    <meta name="keywords" content="jjk manga background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jjk-manga-background">
+                            <span itemprop="name">jjk manga background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jujutsu Kaisen: Unraveling Its Dark Fantasy Origins</h1>
+                <p>Jujutsu Kaisen (JJK) blends dark fantasy with modern elements, vividly illustrating a world where cursed energies haunt society. Set against a backdrop of occult lore, it follows Yuji Itadori and his friends battling monstrous curses, revealing human fears and vulnerabilities. The artwork enhances the gripping narrative, captivating readers worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shibuya Arc Jujutsu Kaisen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/dd/2c/2add2c1232f88d3b9114f9dd4a93c29c.jpg' alt='Shibuya Arc Jujutsu Kaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/dd/2c/2add2c1232f88d3b9114f9dd4a93c29c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Manga City Backgrounds for Edits">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7404854968630529313&location=0&aid=1988' alt='Creative Manga City Backgrounds for Edits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7404854968630529313&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Collage Manga Wallpaper for iPhone 14">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/5b/18/155b188761cefd9e998b37031cf5e7ef.jpg' alt='Jujutsu Kaisen Collage Manga Wallpaper for iPhone 14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/5b/18/155b188761cefd9e998b37031cf5e7ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Architecture in Japanese Manga: Exploring the World of Jujutsu ...">
+                                <img itemprop="contentUrl url" src='https://images.adsttc.com/media/images/62bf/0cd3/3e4b/31ed/8e00/0005/medium_jpg/Metropolitan_Expressway_Shibuya_Line.jpg?1656687824' alt='Architecture in Japanese Manga: Exploring the World of Jujutsu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArchDaily" />
+                                </span>
+                                <a href='https://images.adsttc.com/media/images/62bf/0cd3/3e4b/31ed/8e00/0005/medium_jpg/Metropolitan_Expressway_Shibuya_Line.jpg?1656687824' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some manga wallpapers I made (they're basically all white with a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-1wmfknav4loa1.jpg?width=640&crop=smart&auto=webp&s=b799e4fdc043ae0a1e613af528f2f061bf5b9bda' alt='Some manga wallpapers I made (they're basically all white with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-manga-wallpapers-i-made-theyre-basically-all-white-v0-1wmfknav4loa1.jpg?width=640&crop=smart&auto=webp&s=b799e4fdc043ae0a1e613af528f2f061bf5b9bda' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jujutsu Kaisen Manga 8k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/137/1376072.jpg' alt='Download Jujutsu Kaisen Manga 8k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8071">
+                                <meta itemprop="height" content="5048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/137/1376072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I photoshopped a couple manga panels to make a gojo wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n74idmvhbpz61.jpg' alt='I photoshopped a couple manga panels to make a gojo wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n74idmvhbpz61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Manga Backgrounds: Create Stunning Manga Edits">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7388602786734296352&location=0&aid=1988' alt='Best Manga Backgrounds: Create Stunning Manga Edits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7388602786734296352&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Wallpaper with the main cast (spoilers for current manga arc ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-wallpaper-with-the-main-cast-spoilers-for-current-manga-v0-71yj9x3n7bvc1.jpeg?auto=webp&s=6ba8eb6adecd91dba7861755d4e68f9dfb564d44' alt='New Wallpaper with the main cast (spoilers for current manga arc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-wallpaper-with-the-main-cast-spoilers-for-current-manga-v0-71yj9x3n7bvc1.jpeg?auto=webp&s=6ba8eb6adecd91dba7861755d4e68f9dfb564d44' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Architecture in Japanese Manga: Exploring the World of Jujutsu ...">
+                                <img itemprop="contentUrl url" src='https://images.adsttc.com/media/images/62bf/0cef/3e4b/3194/9a00/0006/newsletter/Shibuya_Tower.jpg?1656687851' alt='Architecture in Japanese Manga: Exploring the World of Jujutsu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArchDaily" />
+                                </span>
+                                <a href='https://images.adsttc.com/media/images/62bf/0cef/3e4b/3194/9a00/0006/newsletter/Shibuya_Tower.jpg?1656687851' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vintage Arkansas Razorback Wallpaper: A Nostalgic Touch</title>
+                    <meta name="description" content="Add a classic touch to your space with vintage Arkansas Razorback wallpaper. Ideal for fans and collectors, this unique decor blends nostalgia with team spirit. Perfect for creating a themed room or accent wall, it embraces the pride of being a Razorback! Shop vintage styles now for a timeless look.">
+                    <meta name="keywords" content="vintage arkansas razorback wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-arkansas-razorback-wallpaper">
+                            <span itemprop="name">vintage arkansas razorback wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Arkansas Razorback Wallpaper: A Nostalgic Touch</h1>
+                <p>Explore the charm of vintage Arkansas Razorback wallpaper, perfect for any sports enthusiast's home or office decor. With nostalgic designs showcasing the iconic Razorback logo and colors, this wallpaper brings a touch of heritage and team spirit. Transform your space into a tribute to the University of Arkansas and its rich history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Show your support for the Arkansas Razorbacks! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/arkansas-razorbacks-5ogsr44k141wd0xa.jpg' alt='Download Show your support for the Arkansas Razorbacks! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1435">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/arkansas-razorbacks-5ogsr44k141wd0xa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Arkansas Razorbacks Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/arkansas-razorbacks-o7cgmwr48q32dbmw.jpg' alt='100+] Arkansas Razorbacks Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/arkansas-razorbacks-o7cgmwr48q32dbmw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arkansas Alumni Online Community - Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.arkansasalumni.org/s/1429/images/editor/0.2016_and_beyond/website_graphics/wallpaperdownloads/razorback_logo_evolution_phone_background_copy.png' alt='Arkansas Alumni Online Community - Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arkansas Alumni Association" />
+                                </span>
+                                <a href='https://www.arkansasalumni.org/s/1429/images/editor/0.2016_and_beyond/website_graphics/wallpaperdownloads/razorback_logo_evolution_phone_background_copy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arkansas Razorbacks Secondary Logo History">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/95/1a/02951ae3dc89257736b721c143d2d530.jpg' alt='Arkansas Razorbacks Secondary Logo History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/95/1a/02951ae3dc89257736b721c143d2d530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Arkansas Razorbacks Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/1f/b8/9d1fb8b877b8520f1615b10dec3abea8.jpg' alt='Awesome Arkansas Razorbacks Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/1f/b8/9d1fb8b877b8520f1615b10dec3abea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/4e/79/294e79c5cf376185e0c07fe3b3c331ed.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/4e/79/294e79c5cf376185e0c07fe3b3c331ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Arkansas Razorbacks U of A Art | Row 1 by Row One Brand Wall Art">
+                                <img itemprop="contentUrl url" src='https://img.cdn-pictorem.com/uploads/collection/S/SO5PKP9NEK/900_Row-One-Brand_1970s-arkansas-razorback-art-row-1-final.jpg' alt='Retro Arkansas Razorbacks U of A Art | Row 1 by Row One Brand Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pictorem.com" />
+                                </span>
+                                <a href='https://img.cdn-pictorem.com/uploads/collection/S/SO5PKP9NEK/900_Row-One-Brand_1970s-arkansas-razorback-art-row-1-final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To me mascot designs will always have a place in sports. Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/ba/77/9aba77833c77394aff1f5da9ab90adfe.jpg' alt='To me mascot designs will always have a place in sports. Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/ba/77/9aba77833c77394aff1f5da9ab90adfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/35/cd/2335cde3d296f3ebafb4a8fd682a9480.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/35/cd/2335cde3d296f3ebafb4a8fd682a9480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arkansas Razorbacks 8" x 32" Premium Heritage Banner">
+                                <img itemprop="contentUrl url" src='https://images.footballfanatics.com/arkansas-razorbacks/arkansas-razorbacks-8-x-32-premium-heritage-banner_pi3191000_altimages_ff_3191828alt2_full.jpg?_hv=2&w=600' alt='Arkansas Razorbacks 8" x 32" Premium Heritage Banner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEC Store" />
+                                </span>
+                                <a href='https://images.footballfanatics.com/arkansas-razorbacks/arkansas-razorbacks-8-x-32-premium-heritage-banner_pi3191000_altimages_ff_3191828alt2_full.jpg?_hv=2&w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

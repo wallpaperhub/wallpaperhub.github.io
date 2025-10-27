@@ -1,0 +1,129 @@
+<title>Hello Winter Wallpapers: Cozy & Captivating Designs</title>
+                    <meta name="description" content="Discover the charm of winter with our stunning "Hello Winter" wallpapers. Perfect for phones and desktops, these cozy designs bring frosty landscapes and holiday cheer to your screen. Download now to elevate your winter aesthetic and enjoy the season’s beauty at your fingertips!">
+                    <meta name="keywords" content="hello winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/hello-winter-wallpaper">
+                            <span itemprop="name">hello winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hello Winter Wallpapers: Cozy & Captivating Designs</h1>
+                <p>Embrace the chill with enchanting "Hello Winter" wallpapers! Let your screens showcase stunning snowy landscapes, cozy firesides, and festive vibes. Perfect for bringing the winter spirit to your phone or desktop, these wallpapers capture the magic of the season. Transform your device and celebrate winter in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,807 Hello Winter Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hand-drawing-hello-winter-inscription-holiday-compositio-composition-fir-branches-snow-great-season-texture-mood-129922736.jpg' alt='13,807 Hello Winter Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hand-drawing-hello-winter-inscription-holiday-compositio-composition-fir-branches-snow-great-season-texture-mood-129922736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Winter Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/037/814/300/non_2x/ai-generated-female-hands-holding-a-card-with-hello-winter-text-winter-background-photo.jpg' alt='Hello Winter Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/037/814/300/non_2x/ai-generated-female-hands-holding-a-card-with-hello-winter-text-winter-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Winter Images – Browse 50,510 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/16/81/34/360_F_516813403_LbOtNayVyGpj4WnCr2LZBt9dLhCDJTuG.jpg' alt='Hello Winter Images – Browse 50,510 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/16/81/34/360_F_516813403_LbOtNayVyGpj4WnCr2LZBt9dLhCDJTuG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Winter ❄️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/b3/27/feb327df4e21e7bfeff66a9140956254.jpg' alt='Hello Winter ❄️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/b3/27/feb327df4e21e7bfeff66a9140956254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Winter Images – Browse 50,510 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/01/41/69/360_F_301416916_jiVPNSt6HP7YQanucdOs4kvEwkmnXxV7.jpg' alt='Hello Winter Images – Browse 50,510 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/01/41/69/360_F_301416916_jiVPNSt6HP7YQanucdOs4kvEwkmnXxV7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Phone Hello Winter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/winter-phone-hello-winter-3n6x3ztb4c40xcdu.webp' alt='Winter Phone Hello Winter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/winter-phone-hello-winter-3n6x3ztb4c40xcdu.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Winter - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/45090-hellowinter_mobile.jpg' alt='Hello Winter - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/45090-hellowinter_mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,807 Hello Winter Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/textured-hello-winter-sign-adorned-frost-stands-snow-dusted-pine-branches-celebrating-beauty-season-generative-347542440.jpg' alt='13,807 Hello Winter Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/textured-hello-winter-sign-adorned-frost-stands-snow-dusted-pine-branches-celebrating-beauty-season-generative-347542440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowflake Hello Winter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/cb/1f/2f/cb1f2f326f3fa3a24c348715a23ed31b.jpg' alt='Snowflake Hello Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/cb/1f/2f/cb1f2f326f3fa3a24c348715a23ed31b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,200+ Hello Winter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1680891853/vector/winter-landscape.jpg?s=612x612&w=0&k=20&c=QUJX9ZcSWA9LaALKSuPXu-tUi8q5SHTWoYustQYqu6Q=' alt='4,200+ Hello Winter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1680891853/vector/winter-landscape.jpg?s=612x612&w=0&k=20&c=QUJX9ZcSWA9LaALKSuPXu-tUi8q5SHTWoYustQYqu6Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

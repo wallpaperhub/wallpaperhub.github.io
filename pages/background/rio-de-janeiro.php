@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Rio de Janeiro: A Vibrant Brazilian Paradise</title>
+                    <meta name="description" content="Uncover the allure of Rio de Janeiro! Experience breathtaking beaches, iconic landmarks, and rich cultural festivities. From the vibrant Carnival to delicious local cuisine, Rio offers an unforgettable adventure in one of Brazil's most captivating cities. Perfect for travelers seeking excitement and natural beauty.">
+                    <meta name="keywords" content="rio de janeiro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rio-de-janeiro">
+                            <span itemprop="name">rio de janeiro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Rio de Janeiro: A Vibrant Brazilian Paradise</h1>
+                <p>Rio de Janeiro, known for its stunning beaches and vibrant culture, is a must-visit destination in Brazil. Famous landmarks like Christ the Redeemer and Sugarloaf Mountain attract millions of tourists. Explore the lively streets of Copacabana and Ipanema, savor local cuisine, and enjoy the thrilling atmosphere of Carnival.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/800px-Cidade_Maravilhosa.jpg' alt='Rio de Janeiro - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/800px-Cidade_Maravilhosa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro: Carioca Landscapes between the Mountain and the ...">
+                                <img itemprop="contentUrl url" src='https://whc.unesco.org/uploads/thumbs/site_1100_0004-750-750-20120625114004.jpg' alt='Rio de Janeiro: Carioca Landscapes between the Mountain and the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNESCO World Heritage Centre" />
+                                </span>
+                                <a href='https://whc.unesco.org/uploads/thumbs/site_1100_0004-750-750-20120625114004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Local's Guide to Rio De Janeiro, Brazil – Blog ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5bb2cb199758ce1535f85891/5ea6d21ffadd3c7c97d7d957_agustin-diaz-7F65HDP0-E0-unsplash%20copy.jpg' alt='A Local's Guide to Rio De Janeiro, Brazil – Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flashpacker Connect" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5bb2cb199758ce1535f85891/5ea6d21ffadd3c7c97d7d957_agustin-diaz-7F65HDP0-E0-unsplash%20copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro, Brazil: All You Must Know Before You Go (2025 ...">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/57/8a/a2/copacabana.jpg?w=600&h=-1&s=1' alt='Rio de Janeiro, Brazil: All You Must Know Before You Go (2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/57/8a/a2/copacabana.jpg?w=600&h=-1&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro Travel Guide">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/560b293d-80b2-4449-ad6c-036a249d46f8/rio-de-janeiro-travel_square.jpg' alt='Rio de Janeiro Travel Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/560b293d-80b2-4449-ad6c-036a249d46f8/rio-de-janeiro-travel_square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro | History, Population, Map, Climate, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/03/94403-050-03683FB0/Rio-de-Janeiro-Braz.jpg' alt='Rio de Janeiro | History, Population, Map, Climate, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/03/94403-050-03683FB0/Rio-de-Janeiro-Braz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro, in Fantastically High Definition - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/urSCd_gFdzdCPRkXv3wtvqh3KHw=/80x38:1553x1142/1200x900/media/img/mt/2015/02/5468623992_df1e3df9a5_o_copy/original.jpg' alt='Rio de Janeiro, in Fantastically High Definition - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/urSCd_gFdzdCPRkXv3wtvqh3KHw=/80x38:1553x1142/1200x900/media/img/mt/2015/02/5468623992_df1e3df9a5_o_copy/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro travel - Lonely Planet | Brazil, South America">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2023-02/500pxRF_68764197.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75' alt='Rio de Janeiro travel - Lonely Planet | Brazil, South America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2023-02/500pxRF_68764197.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotels In Rio De Janeiro | Pestana Hotel Group | Best Price">
+                                <img itemprop="contentUrl url" src='https://www.pestana.com/en/destinos/south-america/brazil/rio-janeiro/_jcr_content/root/container/hero_banner/cmp-hero-banner__container__background-image.coreimg.jpeg/1733414709992/herobanner-region-rio-de-janeiro.jpeg' alt='Hotels In Rio De Janeiro | Pestana Hotel Group | Best Price'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pestana Hotel Group" />
+                                </span>
+                                <a href='https://www.pestana.com/en/destinos/south-america/brazil/rio-janeiro/_jcr_content/root/container/hero_banner/cmp-hero-banner__container__background-image.coreimg.jpeg/1733414709992/herobanner-region-rio-de-janeiro.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rio de Janeiro, Brazil: All You Must Know Before You Go (2025 ...">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ff/05/8b/visita-obrigatoria-para.jpg?w=1400&h=1400&s=1' alt='Rio de Janeiro, Brazil: All You Must Know Before You Go (2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ff/05/8b/visita-obrigatoria-para.jpg?w=1400&h=1400&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

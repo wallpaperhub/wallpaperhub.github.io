@@ -1,0 +1,129 @@
+<title>Stunning AMD Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover a collection of breathtaking AMD wallpapers that elevate your desktop experience. Perfect for tech enthusiasts, these designs combine style and performance, giving your screen a powerful look. Explore vibrant and sleek options to reflect your passion for AMD technology!">
+                    <meta name="keywords" content="amd wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/amd-wallpaper">
+                            <span itemprop="name">amd wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning AMD Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop with stunning AMD wallpapers that celebrate the power of advanced technology and performance. From vibrant graphics showcasing the latest AMD processors to sleek designs reflecting speed and innovation, our collection offers something for every AMD fan. Download your favorite wallpaper today and enhance your workspace!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Neon AMD Wallpaper [3840 x 2160] : r/Amd">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/54q1wuddlex51.png?auto=webp&s=9b2e05702bd0a715cb6b0bc207f6f44183d46be8' alt='3D Neon AMD Wallpaper [3840 x 2160] : r/Amd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/54q1wuddlex51.png?auto=webp&s=9b2e05702bd0a715cb6b0bc207f6f44183d46be8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Amd Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/amd-wpyulqyqm4zt567i.jpg' alt='100+] Amd Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/amd-wpyulqyqm4zt567i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers : r/Amd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wallpapers-v0-fia7vdc40mda1.png?width=1728&format=png&auto=webp&s=23b85f07e90e0ef4202f34a29e9b8ccee5ed30a1' alt='Wallpapers : r/Amd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wallpapers-v0-fia7vdc40mda1.png?width=1728&format=png&auto=webp&s=23b85f07e90e0ef4202f34a29e9b8ccee5ed30a1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMD 4K Wallpaper | Big thanks to u/thom0075 for the logo posted ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q0h7bdu1mv251.png' alt='AMD 4K Wallpaper | Big thanks to u/thom0075 for the logo posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q0h7bdu1mv251.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMD Gaming Wallpaper by SamBox436 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfuxydq-f09fdeae-b053-492e-8d5b-18a339d61b1b.jpg/v1/fill/w_1280,h_720,q_75,strp/amd_gaming_wallpaper_by_sambox436_dfuxydq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnV4eWRxLWYwOWZkZWFlLWIwNTMtNDkyZS04ZDViLTE4YTMzOWQ2MWIxYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jDo4kazdPLfWtcZxRZnHdO3AS_yeZswnzPP0R-Wj9dU' alt='AMD Gaming Wallpaper by SamBox436 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfuxydq-f09fdeae-b053-492e-8d5b-18a339d61b1b.jpg/v1/fill/w_1280,h_720,q_75,strp/amd_gaming_wallpaper_by_sambox436_dfuxydq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnV4eWRxLWYwOWZkZWFlLWIwNTMtNDkyZS04ZDViLTE4YTMzOWQ2MWIxYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jDo4kazdPLfWtcZxRZnHdO3AS_yeZswnzPP0R-Wj9dU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Amd, Neon, Logo, Minimalism - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/12/c9/2e12c946b361fbfc70466777adb70d5d.jpg' alt='Wallpaper Amd, Neon, Logo, Minimalism - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/12/c9/2e12c946b361fbfc70466777adb70d5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Amd Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/monochrome-amd-4k-8luob4fcwx2stsrf.jpg' alt='100+] Amd Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/monochrome-amd-4k-8luob4fcwx2stsrf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Technology AMD 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/102/1021136.jpg' alt='Download Technology AMD 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/102/1021136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMD Wallpaper 4K, Minimal logo, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/amd-minimal-logo-5120x2880-10739.png' alt='AMD Wallpaper 4K, Minimal logo, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/amd-minimal-logo-5120x2880-10739.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMD Radeon Graphic Wallpaper, HD Hi-Tech 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/amd-radeon-graphic_bGdsaG6UmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='AMD Radeon Graphic Wallpaper, HD Hi-Tech 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/amd-radeon-graphic_bGdsaG6UmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

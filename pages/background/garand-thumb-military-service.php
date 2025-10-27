@@ -1,0 +1,129 @@
+<title>Garand Thumb: The Icon of Military Excellence</title>
+                    <meta name="description" content="Explore the journey of Garand Thumb, a respected military figure and firearms expert. Discover insights into his service, tactical expertise, and tips on firearms safety—all aimed at enhancing your knowledge in military gear and shooting techniques.">
+                    <meta name="keywords" content="garand thumb military service">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/garand-thumb-military-service">
+                            <span itemprop="name">garand thumb military service</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Garand Thumb: The Icon of Military Excellence</h1>
+                <p>Garand Thumb is a prominent figure known for his contributions to military service and firearms training. His experience in the armed forces has shaped his expertise in tactical operations and equipment. Through engaging content and insightful reviews, he educates the community about military gear, firearms safety, and effective shooting techniques.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tactical Air Control Party (TACP) Mike Jones AKA Garand Thumb with ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jf4c1ye62d481.jpg' alt='Tactical Air Control Party (TACP) Mike Jones AKA Garand Thumb with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jf4c1ye62d481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Thank you Mike for doing what you do! : r/GarandThumb">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/thank-you-mike-for-doing-what-you-do-v0-pzl5gzdlnla91.jpg?width=1170&format=pjpg&auto=webp&s=412884666099aecf9bbfd0bdc151865ed16939aa' alt='   Thank you Mike for doing what you do! : r/GarandThumb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/thank-you-mike-for-doing-what-you-do-v0-pzl5gzdlnla91.jpg?width=1170&format=pjpg&auto=webp&s=412884666099aecf9bbfd0bdc151865ed16939aa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evan Royalty has just announced that Garand Thumb, YouTuber and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/evan-royalty-has-just-announced-that-garand-thumb-youtuber-v0-o2b91neuqrc81.jpg?width=1080&format=pjpg&auto=webp&s=761a5ab0a465404a3a8c7f70bc82de16e39c7155' alt='Evan Royalty has just announced that Garand Thumb, YouTuber and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/evan-royalty-has-just-announced-that-garand-thumb-youtuber-v0-o2b91neuqrc81.jpg?width=1080&format=pjpg&auto=webp&s=761a5ab0a465404a3a8c7f70bc82de16e39c7155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evan Royalty has just announced that Garand Thumb, YouTuber and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/evan-royalty-has-just-announced-that-garand-thumb-youtuber-v0-1t1j2neuqrc81.jpg?width=640&format=pjpg&auto=webp&s=f68750d682a5a3a5eed2ba598e7ce928949f43f9' alt='Evan Royalty has just announced that Garand Thumb, YouTuber and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/evan-royalty-has-just-announced-that-garand-thumb-youtuber-v0-1t1j2neuqrc81.jpg?width=640&format=pjpg&auto=webp&s=f68750d682a5a3a5eed2ba598e7ce928949f43f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garand Thumb - A recent photo from when I had just finished ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2465238453498735' alt='Garand Thumb - A recent photo from when I had just finished ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2465238453498735' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just saw this photo recently, what's the reasoning for the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ds27jbfpefhb1.jpg' alt='Just saw this photo recently, what's the reasoning for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="1694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ds27jbfpefhb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garand Thumb - We airborne now | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1336212186401373' alt='Garand Thumb - We airborne now | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1336212186401373' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Military Perfected the M4 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Z8bpWFTEJaQ/hqdefault.jpg' alt='How the Military Perfected the M4 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Z8bpWFTEJaQ/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mega based : r/GarandThumb">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mega-based-v0-pw0zw0jza5bb1.jpg?width=640&crop=smart&auto=webp&s=eac33bdc6271194b90685b0800b660808c937d40' alt='Mega based : r/GarandThumb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mega-based-v0-pw0zw0jza5bb1.jpg?width=640&crop=smart&auto=webp&s=eac33bdc6271194b90685b0800b660808c937d40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Deadliest Service Rifle Ever Fielded by The US Military; The M4A1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nBY2lZlmIEI/maxresdefault.jpg' alt='The Deadliest Service Rifle Ever Fielded by The US Military; The M4A1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nBY2lZlmIEI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

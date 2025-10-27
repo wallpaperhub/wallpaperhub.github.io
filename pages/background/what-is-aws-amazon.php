@@ -1,0 +1,129 @@
+<title>Simple Guide to AWS: What Is Amazon Web Services?</title>
+                    <meta name="description" content="Discover AWS (Amazon Web Services) and how it revolutionizes cloud computing. Learn about its diverse services that empower businesses to enhance efficiency, cut costs, and innovate rapidly in an ever-changing digital landscape. Perfect for businesses of all sizes seeking scalable solutions!">
+                    <meta name="keywords" content="what is aws amazon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-aws-amazon">
+                            <span itemprop="name">what is aws amazon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple Guide to AWS: What Is Amazon Web Services?</h1>
+                <p>AWS (Amazon Web Services) is a comprehensive cloud computing platform offered by Amazon, providing a wide range of services such as computing power, storage options, and networking. It enables businesses to deploy applications globally, scale resources as needed, and reduce IT costs. AWS supports various tools for software development, analytics, and AI.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Web Services - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' alt='Amazon Web Services - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is AWS? Overview, Services, and Pricing Calculator - Spiceworks">
+                                <img itemprop="contentUrl url" src='https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/04/26162217/AWS.png' alt='What Is AWS? Overview, Services, and Pricing Calculator - Spiceworks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spiceworks" />
+                                </span>
+                                <a href='https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2022/04/26162217/AWS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Introduction to the Amazon Web Services (AWS) – A Complete Guide">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5112AQHEMFNOkDBcaQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1584011512789?e=2147483647&v=beta&t=cfjNn9KGM_ek3HEnjFtAu4w4KdtniMt-bvvxfMgbPiU' alt='An Introduction to the Amazon Web Services (AWS) – A Complete Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5112AQHEMFNOkDBcaQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1584011512789?e=2147483647&v=beta&t=cfjNn9KGM_ek3HEnjFtAu4w4KdtniMt-bvvxfMgbPiU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is AWS? Introduction to Amazon Web Services">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5612AQE0qWdKWlaImA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1614762890788?e=1744848000&v=beta&t=QvxxE7ew_4pFl4WIRCvYAcuBqk-ot0Bdr4ABOCF2RHY' alt='What is AWS? Introduction to Amazon Web Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5612AQE0qWdKWlaImA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1614762890788?e=1744848000&v=beta&t=QvxxE7ew_4pFl4WIRCvYAcuBqk-ot0Bdr4ABOCF2RHY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Amazon AWS? How Does Aws Work?-Everything Explained">
+                                <img itemprop="contentUrl url" src='https://www.tekkiwebsolutions.com/wp-content/uploads/How-does-aws-works.webp' alt='What Is Amazon AWS? How Does Aws Work?-Everything Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tekki Web Solutions" />
+                                </span>
+                                <a href='https://www.tekkiwebsolutions.com/wp-content/uploads/How-does-aws-works.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Wanted to Know About Amazon Web Services (AWS) | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:640/1*1S-Iwvkh_TRNuMHjDgavBw.png' alt='Everything You Wanted to Know About Amazon Web Services (AWS) | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:640/1*1S-Iwvkh_TRNuMHjDgavBw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Web Services">
+                                <img itemprop="contentUrl url" src='https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1732563774810&$square_desktop$&dpr=off' alt='Amazon Web Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DXC Technology" />
+                                </span>
+                                <a href='https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1732563774810&$square_desktop$&dpr=off' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is AWS: An Ultimate Guide to Amazon Web Services">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EUFOW6a-_24/maxresdefault.jpg' alt='What is AWS: An Ultimate Guide to Amazon Web Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simplilearn.com" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EUFOW6a-_24/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Amazon Web Services And Why Is It So Successful?">
+                                <img itemprop="contentUrl url" src='https://www.cetpainfotech.com/wp-content/uploads/2020/04/What-is-amazon-web-services-and-why-is-it-so-successful-1.jpg' alt='What is Amazon Web Services And Why Is It So Successful?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CETPA Infotech" />
+                                </span>
+                                <a href='https://www.cetpainfotech.com/wp-content/uploads/2020/04/What-is-amazon-web-services-and-why-is-it-so-successful-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is AWS: An Ultimate Guide to Amazon Web Services">
+                                <img itemprop="contentUrl url" src='https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_aws.jpg' alt='What is AWS: An Ultimate Guide to Amazon Web Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simplilearn.com" />
+                                </span>
+                                <a href='https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_aws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

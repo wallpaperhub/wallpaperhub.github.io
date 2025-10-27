@@ -1,0 +1,129 @@
+<title>Explore the Haunting Backgrounds of Resident Evil 2</title>
+                    <meta name="description" content="Dive into the chilling world of Resident Evil 2. Discover how dark backgrounds enhance the horror experience, creating an unsettling atmosphere that grips players. Uncover the secrets hidden in Raccoon City and the eerie police station, and experience the thrilling narrative like never before.">
+                    <meta name="keywords" content="dark resident evil 2 backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-resident-evil-2-backgrounds">
+                            <span itemprop="name">dark resident evil 2 backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Haunting Backgrounds of Resident Evil 2</h1>
+                <p>Dark backgrounds in Resident Evil 2 serve as a haunting canvas, amplifying the horror experience. The eerie environments, from the desolate Raccoon City to the shadowy police station, create a sense of dread and urgency. Each location is meticulously designed to evoke fear and suspense, immersing players in a chilling narrative.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 1920x1080 Resident Evil 2 Background Raccoon Police ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-g1hgp7a43sxk3g9o.jpg' alt='Download 1920x1080 Resident Evil 2 Background Raccoon Police ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-g1hgp7a43sxk3g9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Wallpaper 4K, Game poster, Horror games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/resident-evil-2-2880x1800-18280.jpg' alt='Resident Evil 2 Wallpaper 4K, Game poster, Horror games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/resident-evil-2-2880x1800-18280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Remake Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/ResidentEvil2-Remake-PS4-Wallpapers-01.jpg' alt='Resident Evil 2 Remake Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/ResidentEvil2-Remake-PS4-Wallpapers-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Wallpaper 4K, Game poster, Horror games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/resident-evil-2-2048x2048-18280.jpg' alt='Resident Evil 2 Wallpaper 4K, Game poster, Horror games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/resident-evil-2-2048x2048-18280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 1920x1080 Resident Evil 2 Background Dark And Burning ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-8rutum8wwccrxee9.jpg' alt='Download 1920x1080 Resident Evil 2 Background Dark And Burning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-8rutum8wwccrxee9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Remake Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2019/01/Resident-Evil-2-Remake1080P-Wallpaper-1.jpg' alt='Resident Evil 2 Remake Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2019/01/Resident-Evil-2-Remake1080P-Wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 2 Remake, PC gaming, video games, dark, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/728/355/HD-wallpaper-resident-evil-2-remake-pc-gaming-video-games-dark.jpg' alt='Resident Evil 2 Remake, PC gaming, video games, dark, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/728/355/HD-wallpaper-resident-evil-2-remake-pc-gaming-video-games-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 2560x1080 zombie, dark, poster, video game ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/2560x1080/31c9cf/zombie-resident-evil-2.jpg' alt='Download wallpaper 2560x1080 zombie, dark, poster, video game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/2560x1080/31c9cf/zombie-resident-evil-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Resident Evil 2 Remake, video games, dark hair ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/27/00/fa270087fa2ad8389ce4546d80025c7e.jpg' alt='HD wallpaper: Resident Evil 2 Remake, video games, dark hair ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/27/00/fa270087fa2ad8389ce4546d80025c7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 1920x1080 Resident Evil 2 Background Leon In Front Of RPD ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-nizq4pcbfykg1prf.jpg' alt='Download 1920x1080 Resident Evil 2 Background Leon In Front Of RPD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-nizq4pcbfykg1prf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

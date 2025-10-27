@@ -1,0 +1,129 @@
+<title>My Melody & Kuromi PC Wallpapers: Cute Designs</title>
+                    <meta name="description" content="Discover charming My Melody and Kuromi wallpapers for your PC! Enhance your screen with these delightful Sanrio characters, perfect for adding a touch of fun and personality. Enjoy a variety of designs that brighten your workspace—ideal for fans of cuteness and creativity!">
+                    <meta name="keywords" content="my melody and kuromi wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/my-melody-and-kuromi-wallpaper-pc">
+                            <span itemprop="name">my melody and kuromi wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>My Melody & Kuromi PC Wallpapers: Cute Designs</h1>
+                <p>Transform your PC with adorable My Melody and Kuromi wallpapers! Perfect for fans of Sanrio, these vibrant designs bring a playful touch to your workspace. Choose from a variety of styles that feature your favorite characters in charming poses. Personalize your computer background for inspiration and joy every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kuromi & My Melody Gothic Lolita Wallpaper For Desktop ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-lolita-desktop-wallpaper-kawaii-hoshi.jpg' alt='Cute Kuromi & My Melody Gothic Lolita Wallpaper For Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-lolita-desktop-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/119/1197449.jpg' alt='Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2158">
+                                <meta itemprop="height" content="1798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/119/1197449.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kuromi And My Melody Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kuromi-and-my-melody-oj2ngxqb6qythw0q.jpg' alt='100+] Kuromi And My Melody Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kuromi-and-my-melody-oj2ngxqb6qythw0q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    kuromi and friend    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/47/81/0647815337c0a7733795c87ae493e895.jpg' alt='    kuromi and friend    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/47/81/0647815337c0a7733795c87ae493e895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] My Melody Kuromi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/my-melody-kuromi-who2fsl6i6gz0g80.jpg' alt='100+] My Melody Kuromi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/my-melody-kuromi-who2fsl6i6gz0g80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Kuromi Gothic My Room 1000 Piece Jigsaw Puzzle BEVERLY ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/crQAAOSwQsVnUuHg/s-l400.jpg' alt='My Melody Kuromi Gothic My Room 1000 Piece Jigsaw Puzzle BEVERLY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/crQAAOSwQsVnUuHg/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/4c/98/f64c98630c7097bd7c19d9d5bc83dad7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/4c/98/f64c98630c7097bd7c19d9d5bc83dad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kuromi & My Melody Nurse Desktop & Mobile Wallpaper - Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-nurse-wallpaper-kawaii-hoshi.jpg' alt='Cute Kuromi & My Melody Nurse Desktop & Mobile Wallpaper - Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/my-melody-kuromi-nurse-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Kawaii Kuromi Poster Cinnamoroll My Melody Anime Cute ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Sanrio-Kawaii-Kuromi-Poster-Cinnamoroll-My-Melody-Anime-Cute-Dormitory-HD-Waterproof-Moisture-proof-Bedroom-Decorative-Wallpaper_8ea16ca4-284a-49bd-bd16-0eec41e4824a.301030735f972e1beea51c88bd0695e8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Sanrio Kawaii Kuromi Poster Cinnamoroll My Melody Anime Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio Kawaii Kuromi Poster Cinnamoroll My Melody Anime Cute ..." />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Sanrio-Kawaii-Kuromi-Poster-Cinnamoroll-My-Melody-Anime-Cute-Dormitory-HD-Waterproof-Moisture-proof-Bedroom-Decorative-Wallpaper_8ea16ca4-284a-49bd-bd16-0eec41e4824a.301030735f972e1beea51c88bd0695e8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Express Your Style with Stunning Kuromi Wallpaper Options - Kuromi">
+                                <img itemprop="contentUrl url" src='https://kuromi.co.uk/wp-content/uploads/2024/04/kuromi-and-my-melody-wallpaper-1024x576.jpg' alt='Express Your Style with Stunning Kuromi Wallpaper Options - Kuromi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kuromi" />
+                                </span>
+                                <a href='https://kuromi.co.uk/wp-content/uploads/2024/04/kuromi-and-my-melody-wallpaper-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

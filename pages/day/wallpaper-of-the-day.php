@@ -1,0 +1,129 @@
+<title>Daily Stunning Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our daily selection of beautiful wallpapers, perfect for personalizing your devices. From nature scenes to modern art, find inspiration and freshness every day. Download your favorite wallpaper and elevate your screen today!">
+                    <meta name="keywords" content="wallpaper of the day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/wallpaper-of-the-day">
+                            <span itemprop="name">wallpaper of the day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Daily Stunning Wallpapers for Your Device</h1>
+                <p>Discover the "Wallpaper of the Day" that brings a fresh vibe to your space! Each day, we showcase a stunning, high-quality wallpaper design, perfect for personalizing your phone or desktop. Whether you love nature, abstract art, or minimalism, we've got something for everyone. Stay inspired daily with our curated selections!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ Day Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1669821048911-bb28a136e4fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF5fGVufDB8fDB8fHww' alt='350+ Day Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1669821048911-bb28a136e4fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Day Wallpaper - Free Creation Desktop Backgrounds">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/23714-beautiful-day-ipad.jpg' alt='Beautiful Day Wallpaper - Free Creation Desktop Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/23714-beautiful-day-ipad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bing Wallpaper updates your desktop with Bing's image of the day ...">
+                                <img itemprop="contentUrl url" src='https://betanews.com/wp-content/uploads/2017/01/BingWallpaper-768x432.png' alt='Bing Wallpaper updates your desktop with Bing's image of the day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BetaNews" />
+                                </span>
+                                <a href='https://betanews.com/wp-content/uploads/2017/01/BingWallpaper-768x432.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3057844.jpg' alt='Day Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3057844.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy The Peaceful Beauty Of A Sunny Day! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/enjoy-the-peaceful-beauty-of-a-sunny-day-h9is1coaf2nfom3y.jpg' alt='Enjoy The Peaceful Beauty Of A Sunny Day! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/enjoy-the-peaceful-beauty-of-a-sunny-day-h9is1coaf2nfom3y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Day Wallpaper - Free Creation Desktop Backgrounds">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/23716-beautiful-day-iphone-4.jpg' alt='Beautiful Day Wallpaper - Free Creation Desktop Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/23716-beautiful-day-iphone-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Cool Retro Desktop Wallpaper Changes Throughout The Day ...">
+                                <img itemprop="contentUrl url" src='https://www.omgubuntu.co.uk/wp-content/uploads/2016/12/axNNqyH.jpg.png' alt='This Cool Retro Desktop Wallpaper Changes Throughout The Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OMG! Ubuntu" />
+                                </span>
+                                <a href='https://www.omgubuntu.co.uk/wp-content/uploads/2016/12/axNNqyH.jpg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD day night wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/965/341/HD-wallpaper-day-night-background-day-moon-night-sky-stars-thumbnail.jpg' alt='HD day night wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/965/341/HD-wallpaper-day-night-background-day-moon-night-sky-stars-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day and night minimalist wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/85/fc/0f85fc65f1455283f785ad64525b4146.jpg' alt='Day and night minimalist wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/85/fc/0f85fc65f1455283f785ad64525b4146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine Wallpaper" Images – Browse 4,605 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/42/68/86/360_F_1042688648_NiCEnaBk3WCCwGSwdvIBkK2jdZGtZqYm.jpg' alt='Valentine Wallpaper" Images – Browse 4,605 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/42/68/86/360_F_1042688648_NiCEnaBk3WCCwGSwdvIBkK2jdZGtZqYm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

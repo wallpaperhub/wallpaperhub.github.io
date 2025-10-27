@@ -1,0 +1,129 @@
+<title>Mastering CSS Background Gradients: A Quick Guide</title>
+                    <meta name="description" content="Explore the world of CSS background gradients! Learn how to create eye-catching designs with linear, radial, and conic gradients to enhance your web pages. Get tips and tricks for effective usage, making your site visually appealing and modern.">
+                    <meta name="keywords" content="css background gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-background-gradient">
+                            <span itemprop="name">css background gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering CSS Background Gradients: A Quick Guide</h1>
+                <p>CSS background gradients are a powerful way to enhance your website's aesthetics with smooth color transitions. You can create linear, radial, or conic gradients using the background-image property. With multiple color stops and directional control, gradients add depth and visual interest, making your designs more engaging and modern.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - css background gradient with opaque pattern on top - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/9WYxT.png' alt='html - css background gradient with opaque pattern on top - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/9WYxT.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Gradients Guide | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/11/css-gradient.png' alt='CSS Gradients Guide | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/11/css-gradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using CSS gradients for background gradient images | by Kirsten ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1000/1*PWdG4Rs528yuQgIOY0b8-g.jpeg' alt='Using CSS gradients for background gradient images | by Kirsten ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1000/1*PWdG4Rs528yuQgIOY0b8-g.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using CSS gradients for background gradient images | by Kirsten ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*nyU2IcNL3TVxZ_GPkkmt2g.png' alt='Using CSS gradients for background gradient images | by Kirsten ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*nyU2IcNL3TVxZ_GPkkmt2g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Background Design: Get in on the trend. How-to and examples!">
+                                <img itemprop="contentUrl url" src='https://www.readz.com/image/8359264.1620928269000/gradient-backgrounds.webp' alt='Gradient Background Design: Get in on the trend. How-to and examples!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Readz" />
+                                </span>
+                                <a href='https://www.readz.com/image/8359264.1620928269000/gradient-backgrounds.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create linear gradient background using CSS ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210723050322/Lineargradient2-660x322.png' alt='How to create linear gradient background using CSS ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210723050322/Lineargradient2-660x322.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Linear Gradient Animation | Codeconvey">
+                                <img itemprop="contentUrl url" src='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' alt='CSS Background Linear Gradient Animation | Codeconvey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codeconvey" />
+                                </span>
+                                <a href='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Stylish CSS Background Gradient Examples">
+                                <img itemprop="contentUrl url" src='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dusk-gradient.jpg' alt='35 Stylish CSS Background Gradient Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakeUseOf" />
+                                </span>
+                                <a href='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dusk-gradient.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Linear Gradient Explained with Examples">
+                                <img itemprop="contentUrl url" src='https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg' alt='CSS Linear Gradient Explained with Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create linear gradient background using CSS ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210724024414/135deg2-660x322.png' alt='How to create linear gradient background using CSS ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210724024414/135deg2-660x322.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Joe Gomez: Liverpool’s Defensive Star</title>
+                    <meta name="description" content="Discover Joe Gomez’s impact at Liverpool FC. A versatile defender known for his speed and tactical prowess, Gomez plays a crucial role in the team's success. Stay updated on his journey and contributions on and off the pitch!">
+                    <meta name="keywords" content="gomez liverpool">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gomez-liverpool">
+                            <span itemprop="name">gomez liverpool</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joe Gomez: Liverpool’s Defensive Star</h1>
+                <p>Joe Gomez is a key player for Liverpool FC, known for his versatility in defense. Rising through the ranks, he has shown tremendous growth since his debut. Gomez's speed, tackling ability, and tactical awareness make him a vital asset in Liverpool's pursuit of trophies, contributing to the team's strong defensive lineup.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gomez, defender - Liverpool FC">
+                                <img itemprop="contentUrl url" src='https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2024-06/joe-gomez-profile-body-shot-202425.webp?itok=t7Mobau_' alt='Joe Gomez, defender - Liverpool FC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liverpool FC" />
+                                </span>
+                                <a href='https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2024-06/joe-gomez-profile-body-shot-202425.webp?itok=t7Mobau_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gomez | Liverpool FC Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/liverpoolfc/images/4/4c/JGomez2024.png/revision/latest?cb=20240830093808' alt='Joe Gomez | Liverpool FC Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liverpool FC Wiki Liverpool FC Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/liverpoolfc/images/4/4c/JGomez2024.png/revision/latest?cb=20240830093808' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England confirm Joe Gomez withdraws from squad due to injury ...">
+                                <img itemprop="contentUrl url" src='https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/14/thumb_113468_default_news_size_5.jpeg' alt='England confirm Joe Gomez withdraws from squad due to injury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liverpool FC" />
+                                </span>
+                                <a href='https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/14/thumb_113468_default_news_size_5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liverpool: 'Gomez was outstanding' - BBC Sport">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d786/live/f7cef940-a23f-11ee-ae39-51d6ea038592.jpg' alt='Liverpool: 'Gomez was outstanding' - BBC Sport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d786/live/f7cef940-a23f-11ee-ae39-51d6ea038592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gomez | Liverpool | UEFA Champions League 2024/25 | UEFA.com">
+                                <img itemprop="contentUrl url" src='https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250058215.webp' alt='Joe Gomez | Liverpool | UEFA Champions League 2024/25 | UEFA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UEFA.com" />
+                                </span>
+                                <a href='https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250058215.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gomez (footballer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Joe_Gomez_before_game_v_Spartak.jpg/170px-Joe_Gomez_before_game_v_Spartak.jpg' alt='Joe Gomez (footballer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Joe_Gomez_before_game_v_Spartak.jpg/170px-Joe_Gomez_before_game_v_Spartak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gomez's Liverpool form has been Jurgen Klopp's 'life saver ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/24/01/2048x1152/skysports-joe-gomez-liverpool_6433532.jpg?20240126083632' alt='Joe Gomez's Liverpool form has been Jurgen Klopp's 'life saver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/24/01/2048x1152/skysports-joe-gomez-liverpool_6433532.jpg?20240126083632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Kompany Targeting Liverpool Star for Bayern Munich Transfer">
+                                <img itemprop="contentUrl url" src='https://anfieldindex.com/wp-content/uploads/2023/09/IMG_8988.jpeg' alt='Vincent Kompany Targeting Liverpool Star for Bayern Munich Transfer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anfield Index" />
+                                </span>
+                                <a href='https://anfieldindex.com/wp-content/uploads/2023/09/IMG_8988.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just the opening chapters' - Joe Gomez on five years at Liverpool ...">
+                                <img itemprop="contentUrl url" src='https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/07/thumb_106377_default_news_size_5.jpeg' alt='Just the opening chapters' - Joe Gomez on five years at Liverpool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liverpool FC" />
+                                </span>
+                                <a href='https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/07/thumb_106377_default_news_size_5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Could Joe Gomez's Future at Liverpool Be Decided This Week ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/0aJrv1stXSpyHHBSOGG0Mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1Nw--/https://media.zenfs.com/en/anfield_index_166/80a102806ccfe96dd80d2cfb676a7668' alt='Could Joe Gomez's Future at Liverpool Be Decided This Week ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/0aJrv1stXSpyHHBSOGG0Mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1Nw--/https://media.zenfs.com/en/anfield_index_166/80a102806ccfe96dd80d2cfb676a7668' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

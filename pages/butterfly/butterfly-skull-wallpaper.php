@@ -1,0 +1,129 @@
+<title>Butterfly Skull Wallpaper: Unique Decor for Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="butterfly skull wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/butterfly-skull-wallpaper">
+                            <span itemprop="name">butterfly skull wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Butterfly Skull Wallpaper: Unique Decor for Your Space</h1>
+                <p>Transform your space with our captivating butterfly skull wallpaper, blending elegance and edginess. Perfect for adding a unique vibe to any room, this wallpaper features intricate designs that evoke a sense of mystery and beauty. Ideal for those who love to express their individuality through art and décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull and Butterfly Wallpaper Maximalist Wallpaper Peel and Stick and  Traditional Wallpaper - D897">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5663896840_9jjz.jpg?v=1719942582&width=1946' alt='Skull and Butterfly Wallpaper Maximalist Wallpaper Peel and Stick and  Traditional Wallpaper - D897'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5663896840_9jjz.jpg?v=1719942582&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Skull wallpaper by SzDFlores - Download on ZEDGE™ | 67c0">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=7W1uzzKQU_pwfDLo8ZqaZLJp89V9TiigwMhqB_K2boVG40xRs4gsMUZm48EDxNog4LYOTxvXjn3MRZEKEcMo2Uyjy24RJHH3n4HpbEgOQAQ3qJssB7duYsGGvyNP15TZnSz_p2VHPmlZdmx4KUiv5R8sfm8nJbJEhV4Jamd6creg7R4SjdxRxxiWotcUDRfLSGIhKwa3BAN_eegGlE3KX0JJn69SFbBcC8OYRhTP7L3nfcTcxLBdE-JJvyg' alt='Butterfly Skull wallpaper by SzDFlores - Download on ZEDGE™ | 67c0'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=7W1uzzKQU_pwfDLo8ZqaZLJp89V9TiigwMhqB_K2boVG40xRs4gsMUZm48EDxNog4LYOTxvXjn3MRZEKEcMo2Uyjy24RJHH3n4HpbEgOQAQ3qJssB7duYsGGvyNP15TZnSz_p2VHPmlZdmx4KUiv5R8sfm8nJbJEhV4Jamd6creg7R4SjdxRxxiWotcUDRfLSGIhKwa3BAN_eegGlE3KX0JJn69SFbBcC8OYRhTP7L3nfcTcxLBdE-JJvyg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull and Butterfly Wallpaper Dark Floral Wallpaper Peel and Stick and  Traditional Wallpaper - D898">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5726403781_ma9k.jpg?v=1709558363&width=416' alt='Skull and Butterfly Wallpaper Dark Floral Wallpaper Peel and Stick and  Traditional Wallpaper - D898'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5726403781_ma9k.jpg?v=1709558363&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skulls Butterflies Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14969103/p/f/m/7vCtuYLoMgZ57T2U36AQf3Vjh87zF3AZHWXamo2WQ_x87qgVKvDA3po/Skulls%20and%20Butterflies.jpg' alt='Skulls Butterflies Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14969103/p/f/m/7vCtuYLoMgZ57T2U36AQf3Vjh87zF3AZHWXamo2WQ_x87qgVKvDA3po/Skulls%20and%20Butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ✨️  Dark Butterfly Wallpapers  ✨️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/7c/b6/527cb6e2e0c957b4c003a479444496f6.jpg' alt='  ✨️  Dark Butterfly Wallpapers  ✨️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/7c/b6/527cb6e2e0c957b4c003a479444496f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monarch Butterfly Gothic Skull Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/dark-skeleton-and-butterfly-wallpaper-for-home.jpg?v=1650356242&width=1445' alt='Monarch Butterfly Gothic Skull Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/dark-skeleton-and-butterfly-wallpaper-for-home.jpg?v=1650356242&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e8/46/f4/e846f4f83c01930b789206b45ca0b646.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e8/46/f4/e846f4f83c01930b789206b45ca0b646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Site Suspended - This site has stepped out for a bit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/1c/00/801c006721400b29e8c8536c4a091ff7.jpg' alt='Site Suspended - This site has stepped out for a bit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/1c/00/801c006721400b29e8c8536c4a091ff7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Butterfly Crown Poster Print by GraphINC - Item # VARPDXIN31509">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1156633/4305729/apivrswxw__73418.1626464128.jpg?c=2' alt='Skull Butterfly Crown Poster Print by GraphINC - Item # VARPDXIN31509'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterazzi" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1156633/4305729/apivrswxw__73418.1626464128.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/b6/0a/39b60a326cbd2c5735e28f8cf83ffd83.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/b6/0a/39b60a326cbd2c5735e28f8cf83ffd83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

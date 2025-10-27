@@ -1,0 +1,129 @@
+<title>Understanding CIC Background Reports: What You Need to Know</title>
+                    <meta name="description" content="Discover what a CIC background report entails, its significance in employment screening, and how it impacts hiring decisions. Learn how this report ensures a secure work environment by assessing an individual's history. Get the essential insights here!">
+                    <meta name="keywords" content="what is cic background report">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-cic-background-report">
+                            <span itemprop="name">what is cic background report</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding CIC Background Reports: What You Need to Know</h1>
+                <p>A CIC background report is a comprehensive document that details a person's criminal history, credit status, employment, and other personal records. It's often used by employers for pre-employment screening, ensuring they hire individuals with a clean record and trustworthy background. This report helps assess risk and establish a safe work environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Credit Report - CIC-ILA Tenant Background Checks">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/chYwYyIB72A/maxresdefault.jpg' alt='How to Read a Credit Report - CIC-ILA Tenant Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/chYwYyIB72A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Data Solutions for Rental Housing, Insurance, and Banking ...">
+                                <img itemprop="contentUrl url" src='https://www.cicreports.com/wp-content/uploads/2020/05/CIC-LOGO-Tiny.svg' alt='Data Solutions for Rental Housing, Insurance, and Banking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.cicreports.com" />
+                                </span>
+                                <a href='https://www.cicreports.com/wp-content/uploads/2020/05/CIC-LOGO-Tiny.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Canada Dream Diary: CIC Background Check Updated (Part 1)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguhEQSLqwVPQkF4Kbe-VqCU-7JY7vlaqb-JwlLsY42qbtcMYiKHI-o3ergqfjtKFTgjbF2iW_ekP4GKWi4GT6Ug8thZTsh1oizv7_UDv5tVVXimCofrH8NN4QbShCe5LLWKo4FMCukcDs/s1600/IMG_1116.PNG' alt='Our Canada Dream Diary: CIC Background Check Updated (Part 1)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Canada Dream Diary" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguhEQSLqwVPQkF4Kbe-VqCU-7JY7vlaqb-JwlLsY42qbtcMYiKHI-o3ergqfjtKFTgjbF2iW_ekP4GKWi4GT6Ug8thZTsh1oizv7_UDv5tVVXimCofrH8NN4QbShCe5LLWKo4FMCukcDs/s1600/IMG_1116.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dealing with Contemporary Information Corp Background Check Errors">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' alt='Dealing with Contemporary Information Corp Background Check Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONSUMER CREDIT REPORT - NACM Nashville">
+                                <img itemprop="contentUrl url" src='https://www.nacmnashville.com/wp-content/uploads/2020/11/howtoread-consumerreport_rev5.png' alt='CONSUMER CREDIT REPORT - NACM Nashville'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NACM Nashville" />
+                                </span>
+                                <a href='https://www.nacmnashville.com/wp-content/uploads/2020/11/howtoread-consumerreport_rev5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Consumer Portal FAQ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QDXA3Q6ZBQM/maxresdefault.jpg' alt='Consumer Portal FAQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Reports" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QDXA3Q6ZBQM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CIC Tenant Screening Report">
+                                <img itemprop="contentUrl url" src='http://www.specialtycreditreports.com/wp-content/uploads/2015/09/CIC_Tenant_Screening_Logo_400x400.jpg' alt='CIC Tenant Screening Report'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Specialty Credit Requests -" />
+                                </span>
+                                <a href='http://www.specialtycreditreports.com/wp-content/uploads/2015/09/CIC_Tenant_Screening_Logo_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reviewing Background Check Reports - CIC">
+                                <img itemprop="contentUrl url" src='https://www.corpintel.com/images/blog/corpintel_background-check-reports.jpg' alt='Reviewing Background Check Reports - CIC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corporate Intelligence Consultants" />
+                                </span>
+                                <a href='https://www.corpintel.com/images/blog/corpintel_background-check-reports.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Screening for AAGLA Members">
+                                <img itemprop="contentUrl url" src='https://www.cicreports.com/wp-content/uploads/2019/03/4-core-values_2018.jpg' alt='Tenant Screening for AAGLA Members'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Reports" />
+                                </span>
+                                <a href='https://www.cicreports.com/wp-content/uploads/2019/03/4-core-values_2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credit Reports for Resident and Employment Screening">
+                                <img itemprop="contentUrl url" src='https://www.cicreports.com/wp-content/uploads/2019/08/what-is-a-credit-report.jpg' alt='Credit Reports for Resident and Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4528">
+                                <meta itemprop="height" content="4528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Reports" />
+                                </span>
+                                <a href='https://www.cicreports.com/wp-content/uploads/2019/08/what-is-a-credit-report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

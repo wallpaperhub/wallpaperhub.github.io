@@ -1,0 +1,129 @@
+<title>Beautiful Pink Wallpaper Ideas for Your Bedroom</title>
+                    <meta name="description" content="Discover stunning pink wallpaper designs for your bedroom. Enhance your space with soft pastels or bold hues, creating a cozy and trendy atmosphere. Perfect for any style, explore our top picks to find the perfect wallpaper that elevates your home decor in no time!">
+                    <meta name="keywords" content="pink wallpaper for bedroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-wallpaper-for-bedroom">
+                            <span itemprop="name">pink wallpaper for bedroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Pink Wallpaper Ideas for Your Bedroom</h1>
+                <p>Transform your bedroom into a serene oasis with pink wallpaper. Ideal for adding a touch of elegance and warmth, pink wallpaper creates a cozy atmosphere. Choose from soft pastels for a gentle feel or vibrant shades for a bold statement. Pair with white bedding and natural accents for a harmonious look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink toile pattern removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-bohemian-girls-bedroom-interior-with-pink-wallpaper.jpg?v=1680512084' alt='Pink toile pattern removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-bohemian-girls-bedroom-interior-with-pink-wallpaper.jpg?v=1680512084' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Joy Mural • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2020/11/Wallpaper-Andler-White-Foliage-Pink-3.jpg.optimal.jpg' alt='Blooming Joy Mural • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2020/11/Wallpaper-Andler-White-Foliage-Pink-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YQWDMX - Children 3D Pink Cloud Wallpaper for Kid's Room (Not Peel and  Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71jGIHFDlIL.jpg' alt='YQWDMX - Children 3D Pink Cloud Wallpaper for Kid's Room (Not Peel and  Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71jGIHFDlIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_570xN.3272710358_oocb.jpg' alt='Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_570xN.3272710358_oocb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Floral wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.itsmywallstore.com/cdn/shop/products/floral-pink-wallpaper-mural-for-bedroom-living-room-accent-wall.jpg?v=1665439762&width=1946' alt='Light Pink Floral wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="It's my wall" />
+                                </span>
+                                <a href='https://www.itsmywallstore.com/cdn/shop/products/floral-pink-wallpaper-mural-for-bedroom-living-room-accent-wall.jpg?v=1665439762&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper Designs 25% OFF Shop Quality Pink Wallpapers Online ...">
+                                <img itemprop="contentUrl url" src='https://oliveetoriel.com/cdn/shop/files/pink-wallpaper-online.png?v=1736313063&width=1192' alt='Pink Wallpaper Designs 25% OFF Shop Quality Pink Wallpapers Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='https://oliveetoriel.com/cdn/shop/files/pink-wallpaper-online.png?v=1736313063&width=1192' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nora Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/1_1b59020d-9ca3-472b-ae47-a360a46205e2.jpg?v=1698947447&width=2048' alt='The Nora Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/1_1b59020d-9ca3-472b-ae47-a360a46205e2.jpg?v=1698947447&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beadboard Panel Wallpaper in Blush Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-Beadboard-Panel-wallpaper_blush-pink_694303_Roomset_WEB.webp?crop=center&height=850&v=1734009465&width=850' alt='Beadboard Panel Wallpaper in Blush Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-Beadboard-Panel-wallpaper_blush-pink_694303_Roomset_WEB.webp?crop=center&height=850&v=1734009465&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper, Pink Watercolor Limewash">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' alt='Pink Wallpaper, Pink Watercolor Limewash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Girl Room Peel and Stick Wallpaper Sky Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/3dc3bd/3155911935/il_fullxfull.3155911935_5l2p.jpg' alt='Pastel Pink Girl Room Peel and Stick Wallpaper Sky Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/3dc3bd/3155911935/il_fullxfull.3155911935_5l2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

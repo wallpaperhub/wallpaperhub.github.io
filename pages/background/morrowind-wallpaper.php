@@ -1,0 +1,129 @@
+<title>Morrowind Wallpaper: Stunning Elder Scrolls III Backgrounds</title>
+                    <meta name="description" content="Discover captivating Morrowind wallpapers featuring breathtaking landscapes and iconic characters from The Elder Scrolls III. Perfect for gamers and fans alike, these wallpapers enhance your device with the magic and adventure of Tamriel. Download your favorite design today!">
+                    <meta name="keywords" content="morrowind wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/morrowind-wallpaper">
+                            <span itemprop="name">morrowind wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Morrowind Wallpaper: Stunning Elder Scrolls III Backgrounds</h1>
+                <p>Morrowind wallpaper offers stunning visuals from the iconic Elder Scrolls III game, showcasing vibrant landscapes, mystical creatures, and legendary architecture. Perfect for fans and gamers, these wallpapers bring the beauty of Tamriel to your screen, creating an immersive experience every time you glance at your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Request: Some cool Morrowind wallpapers; Scenery, Important people ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/rX-ir7pseSszC7q8aUZYsBylEH3KskH8v0Lf7Eb6QK0.jpg?auto=webp&s=1d7373fde95916f84f48f5895f50aa77540c95f9' alt='Request: Some cool Morrowind wallpapers; Scenery, Important people ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/rX-ir7pseSszC7q8aUZYsBylEH3KskH8v0Lf7Eb6QK0.jpg?auto=webp&s=1d7373fde95916f84f48f5895f50aa77540c95f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the New ESO: Morrowind Hero Art Wallpaper - The Elder ...">
+                                <img itemprop="contentUrl url" src='https://esossl-a.akamaihd.net/uploads/ESOMorrowindHeroArtWallpaper/Wallpapers/ESO_Morrowind_1920x1200_2.jpg' alt='Download the New ESO: Morrowind Hero Art Wallpaper - The Elder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Elder Scrolls Online" />
+                                </span>
+                                <a href='https://esossl-a.akamaihd.net/uploads/ESOMorrowindHeroArtWallpaper/Wallpapers/ESO_Morrowind_1920x1200_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESO: Morrowind Concept Artist Q&A and Wallpaper - The Elder ...">
+                                <img itemprop="contentUrl url" src='https://esossl-a.akamaihd.net/uploads/TheWardensWallpaper/ESO_Morrowind_keyart2_1920x1200_2.jpg' alt='ESO: Morrowind Concept Artist Q&A and Wallpaper - The Elder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Elder Scrolls Online" />
+                                </span>
+                                <a href='https://esossl-a.akamaihd.net/uploads/TheWardensWallpaper/ESO_Morrowind_keyart2_1920x1200_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The god above the island : r/Morrowind">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/wBEJJopkcOeiQqSuWnfnrrzyx-5-YmxnyCsm9nGh2jU.jpg?width=640&crop=smart&auto=webp&s=294e5658f51d5ba15fa58785d20b9079e811532a' alt='The god above the island : r/Morrowind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/wBEJJopkcOeiQqSuWnfnrrzyx-5-YmxnyCsm9nGh2jU.jpg?width=640&crop=smart&auto=webp&s=294e5658f51d5ba15fa58785d20b9079e811532a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Morrowind HD Wallpapers : r/Morrowind">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cyZMzAyNlL7F3seUsrIqCPSluAsc3g_-IOlmKh8l15M.jpg?auto=webp&s=d37e401cc1242a57f1ea9359606e9ffb22a14380' alt='Beautiful Morrowind HD Wallpapers : r/Morrowind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cyZMzAyNlL7F3seUsrIqCPSluAsc3g_-IOlmKh8l15M.jpg?auto=webp&s=d37e401cc1242a57f1ea9359606e9ffb22a14380' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download ESO Morrowind Wallpaper by ScottRayGames - 53 - Free on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/f0/e8/def0e8c947d80f95dc0813fe9454d36b.jpg' alt='Download ESO Morrowind Wallpaper by ScottRayGames - 53 - Free on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/f0/e8/def0e8c947d80f95dc0813fe9454d36b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of The Elder Scrolls III: Morrowind Adventure">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/584/584625.jpg' alt='HD Wallpaper of The Elder Scrolls III: Morrowind Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/584/584625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game The Elder Scrolls III: Morrowind Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/687/68785.jpg' alt='Download Video Game The Elder Scrolls III: Morrowind Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2050">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/687/68785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media] I removed the text from the morrowind wallpaper if anyone ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/Nm1LDvs.png' alt='Media] I removed the text from the morrowind wallpaper if anyone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/Nm1LDvs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morrowind Wallpaper by Revan1337 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a799759-f8bb-40e0-9141-c33d0d27e97f/d5upe3e-db60cdaa-ca20-4937-ac7e-d17a261f19e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNzk5NzU5LWY4YmItNDBlMC05MTQxLWMzM2QwZDI3ZTk3ZlwvZDV1cGUzZS1kYjYwY2RhYS1jYTIwLTQ5MzctYWM3ZS1kMTdhMjYxZjE5ZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jUecoAfWfqnXd2zaF_y6Car1VmwlepYFqp4W9ihsX54' alt='Morrowind Wallpaper by Revan1337 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a799759-f8bb-40e0-9141-c33d0d27e97f/d5upe3e-db60cdaa-ca20-4937-ac7e-d17a261f19e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNzk5NzU5LWY4YmItNDBlMC05MTQxLWMzM2QwZDI3ZTk3ZlwvZDV1cGUzZS1kYjYwY2RhYS1jYTIwLTQ5MzctYWM3ZS1kMTdhMjYxZjE5ZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jUecoAfWfqnXd2zaF_y6Car1VmwlepYFqp4W9ihsX54' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

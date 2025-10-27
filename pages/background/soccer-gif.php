@@ -1,0 +1,129 @@
+<title>Exciting Soccer GIFs: Relive the Thrills!</title>
+                    <meta name="description" content="Discover a collection of thrilling soccer GIFs! Share the excitement of goals, saves, and epic moments in the game. Perfect for fans wanting to relive highlights and share fun memories with friends. Enjoy the best of soccer in animated form now!">
+                    <meta name="keywords" content="soccer gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soccer-gif">
+                            <span itemprop="name">soccer gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting Soccer GIFs: Relive the Thrills!</h1>
+                <p>Soccer GIFs are a fantastic way to capture and share the thrill of the beautiful game! From stunning goals to hilarious moments, these animated shorts bring the excitement of soccer to life. Whether you're a fan of dazzling tricks or unforgettable celebrations, there's a soccer GIF for everyone to enjoy and share with friends!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="football soccer GIF by AS Roma - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/3oKIPajoA890v1Cwco/giphy.gif?cid=6c09b952irgl7l6rgwenw9ipqw19bx659pt5zjyunbde3z3a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='football soccer GIF by AS Roma - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/3oKIPajoA890v1Cwco/giphy.gif?cid=6c09b952irgl7l6rgwenw9ipqw19bx659pt5zjyunbde3z3a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Soccer GIF by FC Schalke 04 - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/bmT7SAxeg3CzYIh5sx/giphy.gif?cid=6c09b9520oxyhaajgzd7iosowqovcsp5mun0v3vk1j6e576q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Football Soccer GIF by FC Schalke 04 - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/bmT7SAxeg3CzYIh5sx/giphy.gif?cid=6c09b9520oxyhaajgzd7iosowqovcsp5mun0v3vk1j6e576q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/12/icegif-247.gif' alt='Soccer Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/12/icegif-247.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Us Mens Soccer GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/3o7bu2D938PkrKrcYw/giphy.gif?cid=6c09b952m8urdtn97ikztib9i11vspa9ldbd3pg8ktmfrb4o&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Us Mens Soccer GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/3o7bu2D938PkrKrcYw/giphy.gif?cid=6c09b952m8urdtn97ikztib9i11vspa9ldbd3pg8ktmfrb4o&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Soccer GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/yVdFCbZBwVEAAAAM/soccer-soccer-ball.gif' alt='Happy Soccer GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/yVdFCbZBwVEAAAAM/soccer-soccer-ball.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sport Soccer GIF by FC Bayern Munich - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/9rt1iVpVGOC9y72sND/giphy.gif?cid=6c09b952t16s8hnk8ouhtul0q0ztleh1uzwbyk2pl3clom9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Sport Soccer GIF by FC Bayern Munich - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/9rt1iVpVGOC9y72sND/giphy.gif?cid=6c09b952t16s8hnk8ouhtul0q0ztleh1uzwbyk2pl3clom9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/05/icegif-55.gif' alt='Soccer Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/05/icegif-55.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Soccer GIF by FC Schalke 04 - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/trcehK05t8qr5RFuyI/giphy.gif?cid=6c09b95202t9qql96q3lqv1uhblu66p0r068ghw9u95wpux9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Football Soccer GIF by FC Schalke 04 - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/trcehK05t8qr5RFuyI/giphy.gif?cid=6c09b95202t9qql96q3lqv1uhblu66p0r068ghw9u95wpux9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Kick GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/xNBmTyiDwORmi3o2pD/200w.gif?cid=6c09b9528yy0i0evxo85sjfemdufuwf0rstxyhke4yv286go&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Soccer Kick GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/xNBmTyiDwORmi3o2pD/200w.gif?cid=6c09b9528yy0i0evxo85sjfemdufuwf0rstxyhke4yv286go&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="serie a football GIF by AS Roma - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/kv7p61gEOj5pkFeS3t/giphy.gif?cid=6c09b952xr8ffe853qgx3pvuazq0ttc2710br55zmr8r0f8a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='serie a football GIF by AS Roma - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/kv7p61gEOj5pkFeS3t/giphy.gif?cid=6c09b952xr8ffe853qgx3pvuazq0ttc2710br55zmr8r0f8a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

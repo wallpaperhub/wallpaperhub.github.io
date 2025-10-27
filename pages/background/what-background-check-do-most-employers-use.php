@@ -1,0 +1,129 @@
+<title>Essential Background Checks Employers Use</title>
+                    <meta name="description" content="Discover the most common background checks that employers conduct. Learn how identity verification, criminal history, and employment verification play roles in securing a reliable workforce. Stay informed about what to expect in the hiring process!">
+                    <meta name="keywords" content="what background check do most employers use">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-background-check-do-most-employers-use">
+                            <span itemprop="name">what background check do most employers use</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Background Checks Employers Use</h1>
+                <p>Most employers conduct background checks to verify a candidate's identity, employment history, and criminal record. Common checks include social security verification, education verification, and reference checks. Some employers also check credit reports or use services that provide comprehensive reports to ensure a safe and reliable workforce.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips to Compare & Choose a Background Check Company">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/background-check-companies/_jcr_content/root/pagesection/image_1913931410.coreimg.png/1684246985483/sfh-options.png' alt='Tips to Compare & Choose a Background Check Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/background-check-companies/_jcr_content/root/pagesection/image_1913931410.coreimg.png/1684246985483/sfh-options.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What you need to know about background checks when applying | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' alt='What you need to know about background checks when applying | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1474">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Consist of?">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' alt='What Does a Background Check Consist of?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Background Checks for Medical Professionals">
+                                <img itemprop="contentUrl url" src='https://lp-seotool.s3.us-west-2.amazonaws.com/task_attachments/stlhDxcHQinp4rIs7PGhVfzRXyg1HoNP1605279267.jpg' alt='Types of Background Checks for Medical Professionals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://lp-seotool.s3.us-west-2.amazonaws.com/task_attachments/stlhDxcHQinp4rIs7PGhVfzRXyg1HoNP1605279267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Employers Try Continuous Background Screening">
+                                <img itemprop="contentUrl url" src='https://www.shrm.org/content/dam/en/shrm/topics-tools/news/talent-acquisition/181484_EmploymentScreening.png' alt='More Employers Try Continuous Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SHRM" />
+                                </span>
+                                <a href='https://www.shrm.org/content/dam/en/shrm/topics-tools/news/talent-acquisition/181484_EmploymentScreening.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check | Meaning, Need and Importance - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20231003163956/What-do-Employers-look-for-in-a-Background-Check-copy.webp' alt='Background Check | Meaning, Need and Importance - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20231003163956/What-do-Employers-look-for-in-a-Background-Check-copy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Checks: What Are the Limits? | Your Work, Your Way">
+                                <img itemprop="contentUrl url" src='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' alt='Employee Background Checks: What Are the Limits? | Your Work, Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Work, Your Way" />
+                                </span>
+                                <a href='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

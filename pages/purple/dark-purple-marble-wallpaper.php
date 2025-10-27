@@ -1,0 +1,129 @@
+<title>Elegant Dark Purple Marble Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Enhance your interiors with our stunning dark purple marble wallpaper. Perfect for any room, this wallpaper showcases a luxurious design that seamlessly blends elegance and style, making it ideal for modern and traditional themes alike. Discover the beauty of marbled rich purple tones for your home today!">
+                    <meta name="keywords" content="dark purple marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/dark-purple-marble-wallpaper">
+                            <span itemprop="name">dark purple marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Purple Marble Wallpaper for Timeless Decor</h1>
+                <p>Transform your space with dark purple marble wallpaper, a luxurious and elegant choice that adds depth and sophistication to any room. Its rich hues and natural veining create a stunning focal point, perfect for accent walls or entire rooms. Ideal for modern or classic decor, this wallpaper brings a touch of opulence to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple + Black Marble Seamless Digital Paper Background - Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/e2a209/4041296787/il_fullxfull.4041296787_5ye7.jpg' alt='Purple + Black Marble Seamless Digital Paper Background - Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/e2a209/4041296787/il_fullxfull.4041296787_5ye7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' alt='Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9b/80/2a/9b802aa03af91ac6c88853754a1b61e5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9b/80/2a/9b802aa03af91ac6c88853754a1b61e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Marble Wallpaper, Wall Mural, Removable, Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22826657/r/il/aa6ba3/4724691578/il_fullxfull.4724691578_ao3o.jpg' alt='Dark Purple Marble Wallpaper, Wall Mural, Removable, Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22826657/r/il/aa6ba3/4724691578/il_fullxfull.4724691578_ao3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Purple Gold Black Marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/9b/96/669b96309ee32132643cfbd9f70771e2.jpg' alt='Aesthetic Purple Gold Black Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/9b/96/669b96309ee32132643cfbd9f70771e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Dark purple marble texture background natural tile ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/dark-purple-marble-texture-background-natural-tile-stone-floor_38607-1273.jpg' alt='Premium Photo | Dark purple marble texture background natural tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/dark-purple-marble-texture-background-natural-tile-stone-floor_38607-1273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac Purple Marble Seamless Background Texture Purple Black White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/c1397a/4108958531/il_570xN.4108958531_r8hk.jpg' alt='Lilac Purple Marble Seamless Background Texture Purple Black White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/c1397a/4108958531/il_570xN.4108958531_r8hk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark purple marble top view texture background in seamless glitter PVC  Wallpaper Removable Self-Adhesive Contact Paper Peel and Stick Waterproof  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6189o-AvAlL.jpg' alt='Dark purple marble top view texture background in seamless glitter PVC  Wallpaper Removable Self-Adhesive Contact Paper Peel and Stick Waterproof  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6189o-AvAlL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/56/0b/62/560b623b7f60f65187ef4e81f0021db5.jpg' alt='Purple marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/56/0b/62/560b623b7f60f65187ef4e81f0021db5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Stunning Marble Dark Purple Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/ipad/stunning-marble-dark-purple-violet-25-09-2024-1727258137-hd-wallpaper.jpg' alt='Most Popular Stunning Marble Dark Purple Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="4444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/ipad/stunning-marble-dark-purple-violet-25-09-2024-1727258137-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

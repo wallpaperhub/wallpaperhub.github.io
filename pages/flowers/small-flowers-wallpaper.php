@@ -1,0 +1,129 @@
+<title>Charming Small Flowers Wallpaper for Any Space</title>
+                    <meta name="description" content="Discover the beauty of small flowers wallpaper, perfect for enhancing your home decor. Our collection features vibrant, delicate designs that add charm to any room. Explore various styles and colors to transform your space effortlessly. Ideal for any project—bringing nature indoors has never been easier!">
+                    <meta name="keywords" content="small flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/small-flowers-wallpaper">
+                            <span itemprop="name">small flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Small Flowers Wallpaper for Any Space</h1>
+                <p>Transform your space with enchanting small flowers wallpaper, perfect for adding a touch of nature's beauty to any room. Ideal for accent walls or complete makeovers, these delicate designs bring vibrancy and charm, available in various colors and styles. Elevate your decor effortlessly with floral patterns that inspire tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G23286">
+                                <img itemprop="contentUrl url" src='https://dcdeb370061a2f96ba54-cb731e64799a4e011b6a04b00ef66067.ssl.cf5.rackcdn.com/Galerie/G23286.jpg' alt='Galerie G23286'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoingDecor" />
+                                </span>
+                                <a href='https://dcdeb370061a2f96ba54-cb731e64799a4e011b6a04b00ef66067.ssl.cf5.rackcdn.com/Galerie/G23286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Vintage Wallpaper Small Flowers on Mauve">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3083/15009/vintage-wallpaper-68__13432.1714466789.jpg?c=2' alt='1940s Vintage Wallpaper Small Flowers on Mauve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3083/15009/vintage-wallpaper-68__13432.1714466789.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Vine Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-itni.jpg' alt='Tiny Vine Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-itni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/small-floral-trail-wallpaper-owph-l.jpg' alt='Small Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/small-floral-trail-wallpaper-owph-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Little Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35673/sweet-little-flowers-wallpaper-2x.jpg?q=1693430271' alt='Sweet Little Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35673/sweet-little-flowers-wallpaper-2x.jpg?q=1693430271' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7887504/p/f/m/CcACAR_hZtFqOo8nF-SW5e8BThpxMkG0LoFs7FotY8EZtz6E-3UqCYZrTb0/TINY%20Woodland%20Flowers%20-%20Pink%20Peach%20Blush%20Blue%20Floral.jpg' alt='Tiny Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7887504/p/f/m/CcACAR_hZtFqOo8nF-SW5e8BThpxMkG0LoFs7FotY8EZtz6E-3UqCYZrTb0/TINY%20Woodland%20Flowers%20-%20Pink%20Peach%20Blush%20Blue%20Floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute small flower wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XBKvhu43L.png' alt='cute small flower wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XBKvhu43L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottage Rose Trail Wallpaper, Small Flower Botanical, Petite ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/3ac7bd/2850235988/il_1080xN.2850235988_rgn9.jpg' alt='Cottage Rose Trail Wallpaper, Small Flower Botanical, Petite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/3ac7bd/2850235988/il_1080xN.2850235988_rgn9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little flowers wallpaper | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/little-flowers-wallpaper/_1000xAUTO_cover_center-center_line/Little-flowers-wallpaper-10.jpeg' alt='Little flowers wallpaper | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/little-flowers-wallpaper/_1000xAUTO_cover_center-center_line/Little-flowers-wallpaper-10.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro floral wallpaper small flowers Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EYGXC5/seamless-pattern-with-pink-roses-vector-illustration-EYGXC5.jpg' alt='Retro floral wallpaper small flowers Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EYGXC5/seamless-pattern-with-pink-roses-vector-illustration-EYGXC5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Battle Arena Backgrounds: Immersive Combat Settings</title>
+                    <meta name="description" content="Dive into the world of battle arena backgrounds! Explore dynamic settings that enhance combat experiences, from ancient ruins to vibrant forests. Perfect for creating immersive gameplay or narratives, these backdrops elevate the intensity of battles and keep players engaged. Discover your perfect arena today!">
+                    <meta name="keywords" content="battle arena background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/battle-arena-background">
+                            <span itemprop="name">battle arena background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Battle Arena Backgrounds: Immersive Combat Settings</h1>
+                <p>In a battle arena, warriors clash amidst grand landscapes, echoing the fervor of ancient combat. These dynamic environments, from crumbling castles to lush forests, fuel the adrenaline of participants and spectators alike. The backdrop, rich with lore and challenges, immerses fighters in a thrilling spectacle that tests their skills and strategies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Stylized Battle Arena 2 | 2D Environments | Unity ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/7769222e-4768-47d6-b60c-262f70713cee_scaled.jpg' alt='BACKGROUND - Stylized Battle Arena 2 | 2D Environments | Unity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/7769222e-4768-47d6-b60c-262f70713cee_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Arena Backgrounds in 2D Assets - UE Marketplace">
+                                <img itemprop="contentUrl url" src='https://cdn1.epicgames.com/ue/product/Screenshot/3a-1920x1080-02f233befdd4fcc1d215e35b13a8bc42.png?resize=1&w=1920' alt='Battle Arena Backgrounds in 2D Assets - UE Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unreal Engine" />
+                                </span>
+                                <a href='https://cdn1.epicgames.com/ue/product/Screenshot/3a-1920x1080-02f233befdd4fcc1d215e35b13a8bc42.png?resize=1&w=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Stylized Battle Arena 1 | 2D Environments | Unity ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/22fe30e2-689f-40a3-bf2b-2c5359d73658_scaled.jpg' alt='BACKGROUND - Stylized Battle Arena 1 | 2D Environments | Unity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/22fe30e2-689f-40a3-bf2b-2c5359d73658_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Arena Backgrounds in 2D Assets - UE Marketplace">
+                                <img itemprop="contentUrl url" src='https://cdn1.epicgames.com/ue/product/Screenshot/2a-1920x1080-07c9dfe6bf588f8db7dac536c295896a.png?resize=1&w=1920' alt='Battle Arena Backgrounds in 2D Assets - UE Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unreal Engine" />
+                                </span>
+                                <a href='https://cdn1.epicgames.com/ue/product/Screenshot/2a-1920x1080-07c9dfe6bf588f8db7dac536c295896a.png?resize=1&w=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Arena Backgrounds in 2D Assets - UE Marketplace">
+                                <img itemprop="contentUrl url" src='https://cdn1.epicgames.com/ue/product/Screenshot/4a-1920x1080-a7691befb6390dbf2969f271c17356f2.png?resize=1&w=1920' alt='Battle Arena Backgrounds in 2D Assets - UE Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unreal Engine" />
+                                </span>
+                                <a href='https://cdn1.epicgames.com/ue/product/Screenshot/4a-1920x1080-a7691befb6390dbf2969f271c17356f2.png?resize=1&w=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,818 Battle Arena Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/realistic-arena-warrior-battles-background-600nw-2017225166.jpg' alt='29,818 Battle Arena Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/realistic-arena-warrior-battles-background-600nw-2017225166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Stylized Battle Arena 2">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/514e7372-2554-4fa0-9c8a-e7847b1b0736_scaled.jpg' alt='BACKGROUND - Stylized Battle Arena 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Asset Deals" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/514e7372-2554-4fa0-9c8a-e7847b1b0736_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Arena Backgrounds Pack">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2020/06/Battle-Arena-Backgrounds-Pack4.webp' alt='Battle Arena Backgrounds Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix.net" />
+                                </span>
+                                <a href='https://img.craftpix.net/2020/06/Battle-Arena-Backgrounds-Pack4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,098 Battle Arena Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/game-battle-arena-background-hell-600nw-2224118419.jpg' alt='3,098 Battle Arena Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/game-battle-arena-background-hell-600nw-2224118419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Arena Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/254/007/small_2x/empty-boxing-ring-awaits-its-contenders-surrounded-by-rising-smoke-and-illuminated-by-dramatic-backlighting-the-atmosphere-is-thick-with-tension-and-anticipation-photo.jpeg' alt='Battle Arena Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/254/007/small_2x/empty-boxing-ring-awaits-its-contenders-surrounded-by-rising-smoke-and-illuminated-by-dramatic-backlighting-the-atmosphere-is-thick-with-tension-and-anticipation-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

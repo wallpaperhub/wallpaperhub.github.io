@@ -1,0 +1,129 @@
+<title>All About White Guinea Pigs: Traits & Care Tips</title>
+                    <meta name="description" content="Discover the beauty and charm of white guinea pigs! Learn about their unique traits, care requirements, and why they make perfect pets for families. Explore essential tips for keeping your furry friend happy and healthy. Ideal for new pet owners and guinea pig enthusiasts alike!">
+                    <meta name="keywords" content="white guinea pig">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-guinea-pig">
+                            <span itemprop="name">white guinea pig</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>All About White Guinea Pigs: Traits & Care Tips</h1>
+                <p>White Guinea Pigs are charming pets known for their friendly personalities and stunning appearance. These small rodents come in various shades of white, often with unique markings. They require a spacious cage, a balanced diet, and regular social interaction. Their gentle nature makes them ideal companions for kids and adults alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Types of Guinea Pig Breeds to Learn About | Kaytee">
+                                <img itemprop="contentUrl url" src='https://www.kaytee.com/-/media/Project/OneWeb/Kaytee/US/learn-care/small-animals/Guinea-Pig-Breeds/Abyssinian-Guinea-Pig.jpg' alt='11 Types of Guinea Pig Breeds to Learn About | Kaytee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaytee" />
+                                </span>
+                                <a href='https://www.kaytee.com/-/media/Project/OneWeb/Kaytee/US/learn-care/small-animals/Guinea-Pig-Breeds/Abyssinian-Guinea-Pig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Guinea Pig Breeds">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0530/3762/9610/files/Lunkarya_Guinea_Pig_1024x1024.jpg?v=1707905788' alt='The Ultimate Guide to Guinea Pig Breeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kavee" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0530/3762/9610/files/Lunkarya_Guinea_Pig_1024x1024.jpg?v=1707905788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my JayJay, I saw a post on fb about Lethal white guinea ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-my-jayjay-i-saw-a-post-on-fb-about-lethal-white-v0-6keru15merab1.jpg?width=640&crop=smart&auto=webp&s=de13171a8295a10626f9476b6e1abc41554e9e35' alt='This is my JayJay, I saw a post on fb about Lethal white guinea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-my-jayjay-i-saw-a-post-on-fb-about-lethal-white-v0-6keru15merab1.jpg?width=640&crop=smart&auto=webp&s=de13171a8295a10626f9476b6e1abc41554e9e35' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oxbow's Complete List of Guinea Pig Breeds - Oxbow Animal Health">
+                                <img itemprop="contentUrl url" src='https://oxbowanimalhealth.com/wp-content/uploads/2024/08/shutterstock_1976557259lunkarya.jpg' alt='Oxbow's Complete List of Guinea Pig Breeds - Oxbow Animal Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oxbow Animal Health" />
+                                </span>
+                                <a href='https://oxbowanimalhealth.com/wp-content/uploads/2024/08/shutterstock_1976557259lunkarya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Bathe a Guinea Pig: Step-by-Step Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2530/6030/files/white_guinea_pig_having_a_bath_1024x1024.png?v=1632486215' alt='How to Bathe a Guinea Pig: Step-by-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kavee UK" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2530/6030/files/white_guinea_pig_having_a_bath_1024x1024.png?v=1632486215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Guinea Pig Cream & White Male">
+                                <img itemprop="contentUrl url" src='https://critterlove.com/cdn/shop/files/Untitleddesign_38_800x.png?v=1714085205' alt='American Guinea Pig Cream & White Male'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Critter Love" />
+                                </span>
+                                <a href='https://critterlove.com/cdn/shop/files/Untitleddesign_38_800x.png?v=1714085205' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is my guinea pig a PEW or lethal white?' If you've ever asked ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nqdty28js3bb1.jpg' alt='Is my guinea pig a PEW or lethal white?' If you've ever asked ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nqdty28js3bb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All White Guinea Pig 2025 | thundermountainline.com">
+                                <img itemprop="contentUrl url" src='https://www.warrenphotographic.co.uk/photography/bigs/27883-White-Guinea-pig-white-background.jpg' alt='All White Guinea Pig 2025 | thundermountainline.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1342">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="thundermountainline.com" />
+                                </span>
+                                <a href='https://www.warrenphotographic.co.uk/photography/bigs/27883-White-Guinea-pig-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lethal White Guinea Pigs need love too... | Small Pet Select">
+                                <img itemprop="contentUrl url" src='https://smallpetselect.com/wp-content/uploads/2019/01/lethal-gps-blog_1200x500.jpg' alt='Lethal White Guinea Pigs need love too... | Small Pet Select'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Small Pet Select" />
+                                </span>
+                                <a href='https://smallpetselect.com/wp-content/uploads/2019/01/lethal-gps-blog_1200x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Eyed White Pedigree Cavy Breed">
+                                <img itemprop="contentUrl url" src='https://nzuniquecavyclub.yolasite.com/resources/28164832_1955684398081303_3910207460671558346_o.jpg.opt799x532o0%2C0s799x532.jpg' alt='Dark Eyed White Pedigree Cavy Breed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Zealand Unique and Rare Guinea Pigs Cavy Club - New Zealand ..." />
+                                </span>
+                                <a href='https://nzuniquecavyclub.yolasite.com/resources/28164832_1955684398081303_3910207460671558346_o.jpg.opt799x532o0%2C0s799x532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Game Boy Wallpapers: Nostalgic Pixel Art for Your Phone</title>
+                    <meta name="description" content="Explore unique Game Boy phone wallpapers featuring classic pixel art! Perfect for gamers and retro lovers, these wallpapers bring nostalgia and vibrant colors to your mobile device. Upgrade your screen with iconic gaming characters and designs today!">
+                    <meta name="keywords" content="gameboy phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gameboy-phone-wallpaper">
+                            <span itemprop="name">gameboy phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Game Boy Wallpapers: Nostalgic Pixel Art for Your Phone</h1>
+                <p>Discover the nostalgic charm of Game Boy phone wallpapers! Transform your device with pixel art graphics, retro colors, and iconic characters from classic games. Whether you're an avid gamer or simply love vintage aesthetics, these wallpapers will bring a touch of fun and nostalgia to your mobile screen. Dive into the world of gaming history today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper] Game boy advance SP lock screen : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4ocjz2ljyg2b1.jpg' alt='Wallpaper] Game boy advance SP lock screen : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4ocjz2ljyg2b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL PHONE WALLPAPERS 4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/e4/79/a6e479cdaceb02a27d90cc831f8ba6d1.jpg' alt='COOL PHONE WALLPAPERS 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/e4/79/a6e479cdaceb02a27d90cc831f8ba6d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GameBoy Wallpaper iPhone | GBA Black - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/GBA-SP-iPhone-14-Pro-14-Pro-Max-Black.png' alt='GameBoy Wallpaper iPhone | GBA Black - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/GBA-SP-iPhone-14-Pro-14-Pro-Max-Black.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool wallpaper - can someone find this? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/81k0ckq9ytfb1.jpg' alt='Cool wallpaper - can someone find this? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/81k0ckq9ytfb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Boy Color Wallpaper by mattmcmanis on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4592740d-aa28-4bae-bf98-80e888200666/dcsf6re-f0b5bbd5-92eb-48ca-8d67-b781b4c687b4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1OTI3NDBkLWFhMjgtNGJhZS1iZjk4LTgwZTg4ODIwMDY2NlwvZGNzZjZyZS1mMGI1YmJkNS05MmViLTQ4Y2EtOGQ2Ny1iNzgxYjRjNjg3YjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BeVqALBYayUDSrjFGxAQzWopzr0rpfN9V5ITi-Rl4kY' alt='Game Boy Color Wallpaper by mattmcmanis on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4592740d-aa28-4bae-bf98-80e888200666/dcsf6re-f0b5bbd5-92eb-48ca-8d67-b781b4c687b4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1OTI3NDBkLWFhMjgtNGJhZS1iZjk4LTgwZTg4ODIwMDY2NlwvZGNzZjZyZS1mMGI1YmJkNS05MmViLTQ4Y2EtOGQ2Ny1iNzgxYjRjNjg3YjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BeVqALBYayUDSrjFGxAQzWopzr0rpfN9V5ITi-Rl4kY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GameBoy Wallpaper iPhone | GBA Orange">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/ee/55/0fee55a7ae88bda34e1c3a9dead54df2.jpg' alt='GameBoy Wallpaper iPhone | GBA Orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/ee/55/0fee55a7ae88bda34e1c3a9dead54df2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE GAMEBOY WALLPAPER IPHONE - HeroWall | Phone Backgrounds. Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjgQfGMBw1aHZ2zQegLkMh57X0Sg1eA92cMfftJssmZwkaMDRJBz7TyRovvwG9wac8RSQ_ou4jYeflqrwpRItQiaPs2KoX1oGt8PpLQQKdImlKU80m0apEtAHBmuZps8PRNP_FRL5mWoBymMo5mpmkqwKM3ugCa8KUggaaWm3aSxft_UYDns7gDNrX7n8s' alt='BLUE GAMEBOY WALLPAPER IPHONE - HeroWall | Phone Backgrounds. Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjgQfGMBw1aHZ2zQegLkMh57X0Sg1eA92cMfftJssmZwkaMDRJBz7TyRovvwG9wac8RSQ_ou4jYeflqrwpRItQiaPs2KoX1oGt8PpLQQKdImlKU80m0apEtAHBmuZps8PRNP_FRL5mWoBymMo5mpmkqwKM3ugCa8KUggaaWm3aSxft_UYDns7gDNrX7n8s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gameboy, game, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/732/958/HD-wallpaper-gameboy-game.jpg' alt='Gameboy, game, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/732/958/HD-wallpaper-gameboy-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GameBoy Wallpaper iPhone | GBA Pink - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/wallpaper_iphone-1.png' alt='GameBoy Wallpaper iPhone | GBA Pink - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/wallpaper_iphone-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Iphone Yellow Game Boy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-iphone-yellow-game-boy-v8h5jxklcdl9wzf0.jpg' alt='Vintage Iphone Yellow Game Boy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-iphone-yellow-game-boy-v8h5jxklcdl9wzf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

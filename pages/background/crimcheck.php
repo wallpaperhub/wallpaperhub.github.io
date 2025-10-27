@@ -1,0 +1,129 @@
+<title>Effortless Criminal Background Checks with Crimcheck</title>
+                    <meta name="description" content="Discover Crimcheck for reliable and efficient criminal background checks. Safeguard hiring decisions and enhance safety with accurate information. Perfect for both personal and professional use—simplify your screening process today!">
+                    <meta name="keywords" content="crimcheck">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crimcheck">
+                            <span itemprop="name">crimcheck</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Effortless Criminal Background Checks with Crimcheck</h1>
+                <p>Crimcheck is an essential tool for background checks, enabling individuals and businesses to verify criminal records quickly and efficiently. This service helps in making informed decisions during hiring, tenant screening, and personal safety checks. With accurate and up-to-date information, users can mitigate risks associated with potential legal issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FCRA Certified Background Checks & Screening | Crimcheck">
+                                <img itemprop="contentUrl url" src='http://crimcheck.net/wp-content/uploads/2021/12/Crimcheck-Logo-2022-512x512-1.png' alt='FCRA Certified Background Checks & Screening | Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="crimcheck.net" />
+                                </span>
+                                <a href='http://crimcheck.net/wp-content/uploads/2021/12/Crimcheck-Logo-2022-512x512-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CrimCheck - American Staffing Association">
+                                <img itemprop="contentUrl url" src='https://americanstaffing.net/wp-content/uploads/2021/09/crimcheck.png' alt='CrimCheck - American Staffing Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="326">
+                                <meta itemprop="height" content="145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Staffing Association" />
+                                </span>
+                                <a href='https://americanstaffing.net/wp-content/uploads/2021/09/crimcheck.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck - PageUp">
+                                <img itemprop="contentUrl url" src='https://www.pageuppeople.com/wp-content/uploads/2023/10/pageup_partner_crimcheck_logo.png' alt='Crimcheck - PageUp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PageUp" />
+                                </span>
+                                <a href='https://www.pageuppeople.com/wp-content/uploads/2023/10/pageup_partner_crimcheck_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/90/279/90279839/large.png' alt='Crimcheck: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/90/279/90279839/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck – Massachusetts Staffing Association">
+                                <img itemprop="contentUrl url" src='https://msastaffing.org/wp-content/uploads/2021/01/CC-Logo_COLOR.png' alt='Crimcheck – Massachusetts Staffing Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Massachusetts Staffing Association" />
+                                </span>
+                                <a href='https://msastaffing.org/wp-content/uploads/2021/01/CC-Logo_COLOR.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck and DISA Announcement | Crimcheck">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2023/01/Crimcheck-and-DISA.jpg' alt='Crimcheck and DISA Announcement | Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2023/01/Crimcheck-and-DISA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck software development by Alliance Software">
+                                <img itemprop="contentUrl url" src='https://www.alliancesoftware.com.au/wp-content/uploads/Crim-Check@2x.png' alt='Crimcheck software development by Alliance Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alliance Software" />
+                                </span>
+                                <a href='https://www.alliancesoftware.com.au/wp-content/uploads/Crim-Check@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FCRA Certified Background Checks & Screening | Crimcheck">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2022/01/Screen-Angled-Mockup-Onboarding@2x-768x652-1.webp' alt='FCRA Certified Background Checks & Screening | Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="crimcheck.net" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2022/01/Screen-Angled-Mockup-Onboarding@2x-768x652-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crimcheck's 30th Anniversary | DISA - Formerly Crimcheck">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2021/09/Crimcheck-30th-Anniversary.jpg' alt='Crimcheck's 30th Anniversary | DISA - Formerly Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2021/09/Crimcheck-30th-Anniversary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FCRA Certified Background Checks & Screening | Crimcheck">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2023/11/crimcheck-logo-bluecollar.png' alt='FCRA Certified Background Checks & Screening | Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="crimcheck.net" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2023/11/crimcheck-logo-bluecollar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

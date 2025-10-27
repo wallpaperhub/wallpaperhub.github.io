@@ -1,0 +1,129 @@
+<title>Justin Gaethje: Age & Career Highlights</title>
+                    <meta name="description" content="Explore the age and impressive career milestones of Justin Gaethje, a standout star in mixed martial arts. Discover how his fighting style and dedication have shaped his journey in the lightweight division. Stay updated on the latest news and insights into this remarkable fighter's life and career.">
+                    <meta name="keywords" content="justin gaethje age">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/justin-gaethje-age">
+                            <span itemprop="name">justin gaethje age</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Justin Gaethje: Age & Career Highlights</h1>
+                <p>Justin Gaethje was born on November 14, 1988, making him 34 years old as of 2023. Known for his aggressive fighting style and resilience, Gaethje has become a prominent figure in mixed martial arts. He has garnered a significant following and is widely regarded as one of the top fighters in the lightweight division.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6c/Justin_Gaethje_at_press_conference.png' alt='Justin Gaethje - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6c/Justin_Gaethje_at_press_conference.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin "The Highlight" Gaethje MMA Stats, Pictures, News, Videos ...">
+                                <img itemprop="contentUrl url" src='https://www.sherdog.com/image_crop/200/300/_images/fighter/20220331053637_Justin_Gaethje_ff.JPG' alt='Justin "The Highlight" Gaethje MMA Stats, Pictures, News, Videos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sherdog" />
+                                </span>
+                                <a href='https://www.sherdog.com/image_crop/200/300/_images/fighter/20220331053637_Justin_Gaethje_ff.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/5/GAETHJE_JUSTIN_L_03-18.png?itok=bz8FaBqn' alt='Justin Gaethje | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/5/GAETHJE_JUSTIN_L_03-18.png?itok=bz8FaBqn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/2025-01/5/GAETHJE_JUSTIN_03-18.png' alt='Justin Gaethje | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/2025-01/5/GAETHJE_JUSTIN_03-18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/faces/gaethje-justin-image.jpg' alt='Justin Gaethje - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/faces/gaethje-justin-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje «The Highlight» - stats MMA fighter, Rank, News ...">
+                                <img itemprop="contentUrl url" src='https://gidstats.com/img/fighters/0/0/1-89.png' alt='Justin Gaethje «The Highlight» - stats MMA fighter, Rank, News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIDStats" />
+                                </span>
+                                <a href='https://gidstats.com/img/fighters/0/0/1-89.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje ("The Highlight") Stats, News, Bio & More">
+                                <img itemprop="contentUrl url" src='https://staticg.sportskeeda.com/editor/2019/09/79ed2-15683505037313-800.jpg' alt='Justin Gaethje ("The Highlight") Stats, News, Bio & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://staticg.sportskeeda.com/editor/2019/09/79ed2-15683505037313-800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje (Lightweight) MMA Profile - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/mma/players/full/3022345.png' alt='Justin Gaethje (Lightweight) MMA Profile - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/mma/players/full/3022345.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justin Gaethje - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMmJhZDhjMWYtYWFiZi00MmU0LTk1OGMtMDgzMzBiNDZkY2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Justin Gaethje - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMmJhZDhjMWYtYWFiZi00MmU0LTk1OGMtMDgzMzBiNDZkY2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How old is Justin Gaethje and what's his UFC record? | The US Sun">
+                                <img itemprop="contentUrl url" src='https://www.thesun.co.uk/wp-content/uploads/2023/01/r-l-justin-gaethje-punches-615393398.jpg?strip=all&w=960' alt='How old is Justin Gaethje and what's his UFC record? | The US Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.thesun.co.uk/wp-content/uploads/2023/01/r-l-justin-gaethje-punches-615393398.jpg?strip=all&w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

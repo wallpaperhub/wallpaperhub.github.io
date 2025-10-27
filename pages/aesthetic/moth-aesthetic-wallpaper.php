@@ -1,0 +1,129 @@
+<title>Moth Aesthetic Wallpaper: Enchant Your Space</title>
+                    <meta name="description" content="Discover the allure of moth aesthetic wallpaper! Elevate your interiors with stunning designs that blend nature and artistry, creating a serene ambiance. Perfect for any room, these wallpapers offer a unique aesthetic that inspires and delights. Transform your home today!">
+                    <meta name="keywords" content="moth aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/moth-aesthetic-wallpaper">
+                            <span itemprop="name">moth aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moth Aesthetic Wallpaper: Enchant Your Space</h1>
+                <p>Transform your space with captivating moth aesthetic wallpaper. Featuring intricate designs and soft hues, these wallpapers bring a sense of whimsy and tranquility to any room. Perfect for nature lovers or anyone seeking a unique touch, moth patterns inspire a dreamlike atmosphere that enhances your home’s beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2e/95/a8/2e95a8be36abb8c41159ac263f7c3e28.jpg' alt='Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2e/95/a8/2e95a8be36abb8c41159ac263f7c3e28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moths">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/24/7e/4a247e62c8aedb47d50c0fd4efbd5942.jpg' alt='moths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/24/7e/4a247e62c8aedb47d50c0fd4efbd5942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Star Moth - Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27887577/r/il/fab76b/3961244601/il_1080xN.3961244601_3ycc.jpg' alt='Sky Star Moth - Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27887577/r/il/fab76b/3961244601/il_1080xN.3961244601_3ycc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth Wallpaper • Australian Vintage Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Moth-Deep-Ocean-1.jpg' alt='Moth Wallpaper • Australian Vintage Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Moth-Deep-Ocean-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moth Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/moth-aesthetic-zk1k8hqn0cv0oklk.jpg' alt='100+] Moth Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/moth-aesthetic-zk1k8hqn0cv0oklk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper // Earthy Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/83/7b/18/837b1845521379673bd2d0211aa7ba93.jpg' alt='Iphone Wallpaper // Earthy Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/83/7b/18/837b1845521379673bd2d0211aa7ba93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="94,795 Moth Isolated On White Background Images, Stock Photos, and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/mystical-illustration-butterfly-moth-mysterious-260nw-2033473766.jpg' alt='94,795 Moth Isolated On White Background Images, Stock Photos, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/mystical-illustration-butterfly-moth-mysterious-260nw-2033473766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moth Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-moth-illustration-2ukjdcci9vl4s386.jpg' alt='100+] Moth Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-moth-illustration-2ukjdcci9vl4s386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystic Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/c6/ce/d5c6cef1051000061fd1dea38f192f05.jpg' alt='Mystic Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/c6/ce/d5c6cef1051000061fd1dea38f192f05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth Green Aesthetic On Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/moth-green-aesthetic-on-black-5oxrf40wl50qyerg.jpg' alt='Moth Green Aesthetic On Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/moth-green-aesthetic-on-black-5oxrf40wl50qyerg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

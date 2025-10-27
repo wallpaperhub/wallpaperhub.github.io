@@ -1,0 +1,129 @@
+<title>Exciting Football Plays Wallpaper for Fans</title>
+                    <meta name="description" content="Discover vibrant football plays wallpaper to enhance your environment! Perfect for sports enthusiasts, these designs showcase dynamic moments from the game. Ideal for any room, bring your love for football to life in style. Shop now and energize your space!">
+                    <meta name="keywords" content="football plays wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-plays-wallpaper">
+                            <span itemprop="name">football plays wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting Football Plays Wallpaper for Fans</h1>
+                <p>Transform your space with stunning football plays wallpaper! Capturing thrilling moments on the field, these wallpapers bring energy and excitement into your home or office. Perfect for fans, they serve as a daily reminder of your passion for the game, inspiring you with every glance. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Playbook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33875/football-playbook-wallpaper-2x.jpg?q=1727473408' alt='Football Playbook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33875/football-playbook-wallpaper-2x.jpg?q=1727473408' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Playbook Peel And Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/football_playbook_wallpaper/football_playbook_wallpaper_wall.png.webp' alt='Football Playbook Peel And Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/football_playbook_wallpaper/football_playbook_wallpaper_wall.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Sports Peel and Stick Wallpaper, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6062353/r/il/aaa78c/4209237139/il_340x270.4209237139_c8ct.jpg' alt='Custom Sports Peel and Stick Wallpaper, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6062353/r/il/aaa78c/4209237139/il_340x270.4209237139_c8ct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Defense Images – Browse 28,750 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/21/08/51/360_F_21085154_V1rHjR6MHmfjiUoqcUD0vy8zswMC9y7V.jpg' alt='Football Defense Images – Browse 28,750 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/21/08/51/360_F_21085154_V1rHjR6MHmfjiUoqcUD0vy8zswMC9y7V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Playbook Images – Browse 3,180 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/69/76/95/360_F_169769519_YsXsr1vruCew2WuqNX2rkiVMMMwm71oW.jpg' alt='Football Playbook Images – Browse 3,180 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/69/76/95/360_F_169769519_YsXsr1vruCew2WuqNX2rkiVMMMwm71oW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Illustration American Football Play Xs Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/grunge-illustration-american-football-play-260nw-59410525.jpg' alt='Grunge Illustration American Football Play Xs Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/grunge-illustration-american-football-play-260nw-59410525.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Playbook Images – Browse 3,180 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/40/39/73/360_F_240397388_4GeCO6wLYHIeWm5XAQPrPvJ8hERkDa28.jpg' alt='Football Playbook Images – Browse 3,180 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/40/39/73/360_F_240397388_4GeCO6wLYHIeWm5XAQPrPvJ8hERkDa28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Playbook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/33875/football-playbook-wallpaper-5-preview-2x.jpg?q=1727473421' alt='Football Playbook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/33875/football-playbook-wallpaper-5-preview-2x.jpg?q=1727473421' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Plays Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8238175/p/f/m/IwIZ9UNo4-Tuy3UlATFtuXroJh9pvb6OgAQz5bJqVrGWb5SzQSiUdQ/x%20and%20o%20scatter.jpg' alt='Football Plays Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8238175/p/f/m/IwIZ9UNo4-Tuy3UlATFtuXroJh9pvb6OgAQz5bJqVrGWb5SzQSiUdQ/x%20and%20o%20scatter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tactics football, coach, move, play, steps, xoxo, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/459/212/HD-wallpaper-tactics-football-coach-move-play-steps-xoxo.jpg' alt='Tactics football, coach, move, play, steps, xoxo, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/459/212/HD-wallpaper-tactics-football-coach-move-play-steps-xoxo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

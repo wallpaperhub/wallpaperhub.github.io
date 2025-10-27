@@ -1,0 +1,129 @@
+<title>Transform Your Space with White & Green Floral Wallpaper</title>
+                    <meta name="description" content="Add a touch of nature to your home with our stunning white and green floral wallpaper. Ideal for any room, this elegant design creates a serene ambiance while showcasing your style. Discover the perfect backdrop for a fresh and inviting atmosphere.">
+                    <meta name="keywords" content="white and green floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-and-green-floral-wallpaper">
+                            <span itemprop="name">white and green floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White & Green Floral Wallpaper</h1>
+                <p>White and green floral wallpaper brings a fresh, vibrant touch to any space. Perfect for brightening up living rooms, bedrooms, or offices, this design combines elegance with nature's beauty. The soft white background complements lush green patterns, creating a tranquil and inviting atmosphere that enhances your décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Green/White Leaves Wallpaper Peel and Stick Floral Wallpaper for  Cabinet Boho Green Leaf Contact Paper Home Decor Removable Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eylA40c8L.jpg' alt='Wallercity Green/White Leaves Wallpaper Peel and Stick Floral Wallpaper for  Cabinet Boho Green Leaf Contact Paper Home Decor Removable Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eylA40c8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Flowers With Dark Green Background Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/69994/white_flowers_with_dark_green_background_limited.jpg' alt='White Flowers With Dark Green Background Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/69994/white_flowers_with_dark_green_background_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SCOTT LIVING Ada Green Floral Wallpaper Sample 2975-26204SAM - The Home  Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4b72e028-f78b-4533-acfc-c6c12f20f6da/svn/scott-living-wallpaper-samples-2975-26204sam-64_1000.jpg' alt='SCOTT LIVING Ada Green Floral Wallpaper Sample 2975-26204SAM - The Home  Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4b72e028-f78b-4533-acfc-c6c12f20f6da/svn/scott-living-wallpaper-samples-2975-26204sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper With White Floral Motive | Self Adhesive | Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/3b7e4e/3554910691/il_fullxfull.3554910691_r6ys.jpg' alt='Green Wallpaper With White Floral Motive | Self Adhesive | Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/3b7e4e/3554910691/il_fullxfull.3554910691_r6ys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey, Green & White Hydrangea Floral Rifle Paper Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grey-green-white-hydrangea-floral-rifle-pscg.jpg' alt='Grey, Green & White Hydrangea Floral Rifle Paper Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grey-green-white-hydrangea-floral-rifle-pscg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper for Wall With White Flowers | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/floral_1331502863_01_grande.jpg?v=1622566428' alt='Green Wallpaper for Wall With White Flowers | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/floral_1331502863_01_grande.jpg?v=1622566428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick Wallpaper White Background Light Green Rose  Contact Paper Removable Vinyl Boho Watercolor Wall Paper Renter Friendly ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LSBtElTbL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick Wallpaper White Background Light Green Rose  Contact Paper Removable Vinyl Boho Watercolor Wall Paper Renter Friendly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LSBtElTbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/GreenValleyWallpaperNeutralFloralPrint_4.png?v=1715121515&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/GreenValleyWallpaperNeutralFloralPrint_4.png?v=1715121515&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Gwendolyn Wallpaper - Ecru & Green">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/MF4751.jpg?v=1722357474' alt='Magnolia Home Gwendolyn Wallpaper - Ecru & Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/MF4751.jpg?v=1722357474' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_600.jpg' alt='Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

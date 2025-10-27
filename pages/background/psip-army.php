@@ -1,0 +1,129 @@
+<title>"Empowering Public Services: The Role of PSIP Army"</title>
+                    <meta name="description" content="Discover how the PSIP Army transforms public services with innovative governance strategies. Improve accountability and efficiency in institutional reforms for better citizen services. Learn more about this impactful movement dedicated to enhancing public service delivery.">
+                    <meta name="keywords" content="psip army">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/psip-army">
+                            <span itemprop="name">psip army</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Empowering Public Services: The Role of PSIP Army"</h1>
+                <p>The PSIP Army refers to a specialized group within the framework of public service institutional reform. This army focuses on enhancing governance, accountability, and efficiency in public services. By employing innovative strategies and practices, the PSIP Army aims to transform the way public institutions operate, ensuring better service delivery to citizens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psip Army: Complete with ease | airSlate SignNow">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/382/645/382645450.png' alt='Psip Army: Complete with ease | airSlate SignNow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/382/645/382645450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personnel Security Investigation Portal (PSIP): Update and ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/9374534/28/images/3/What+is+PSIP+Personnel+Security+Investigation+Portal+%28PSIP%29.jpg' alt='Personnel Security Investigation Portal (PSIP): Update and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/9374534/28/images/3/What+is+PSIP+Personnel+Security+Investigation+Portal+%28PSIP%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psip Army - Fill Online, Printable, Fillable, Blank | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/79/592/79592460.png' alt='Psip Army - Fill Online, Printable, Fillable, Blank | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/79/592/79592460.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personnel Security Investigation Portal (PSIP): Update and ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/9374534/28/images/2/What+are+Personnel+Security+Investigations+%28PSI%29.jpg' alt='Personnel Security Investigation Portal (PSIP): Update and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/9374534/28/images/2/What+are+Personnel+Security+Investigations+%28PSI%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSIP Test > Home">
+                                <img itemprop="contentUrl url" src='https://psip.psiptest.com/Portals/0/PSIP_Test_LogoBlue.png?ver=88I0AsnszMgrwiZOO5xABw%3D%3D' alt='PSIP Test > Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="psip.psiptest.com" />
+                                </span>
+                                <a href='https://psip.psiptest.com/Portals/0/PSIP_Test_LogoBlue.png?ver=88I0AsnszMgrwiZOO5xABw%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Electronic Application Guide provides an overview of the ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///c68a3e495951cfbf3967fe2d9707420285192fe2ade66add971de150be2a7c1f' alt='The Electronic Application Guide provides an overview of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="366">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army.mil" />
+                                </span>
+                                <a href='x-raw-image:///c68a3e495951cfbf3967fe2d9707420285192fe2ade66add971de150be2a7c1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personnel Security Investigation Portal (PSIP): Update and ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/9374534/28/images/17/Impact+of+PSIP+Does+not+change+CPAC+procedure+or+guidance+on+establishing+effective+dates..jpg' alt='Personnel Security Investigation Portal (PSIP): Update and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/9374534/28/images/17/Impact+of+PSIP+Does+not+change+CPAC+procedure+or+guidance+on+establishing+effective+dates..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Electronic Application Guide provides an overview of the ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///748b18adee6bf14d284ef06fb4fe3196a5dfb76374b47da41f5a24aec9117cd0' alt='The Electronic Application Guide provides an overview of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army.mil" />
+                                </span>
+                                <a href='x-raw-image:///748b18adee6bf14d284ef06fb4fe3196a5dfb76374b47da41f5a24aec9117cd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psip Army - Fill Online, Printable, Fillable, Blank | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/403/100403291.png' alt='Psip Army - Fill Online, Printable, Fillable, Blank | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/403/100403291.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="psip Doc Template | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/422/202/422202409.png' alt='psip Doc Template | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/422/202/422202409.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

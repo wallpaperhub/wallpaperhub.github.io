@@ -1,0 +1,129 @@
+<title>Dynamic Fire Clipart for Creative Projects</title>
+                    <meta name="description" content="Add a spark to your designs with our dynamic fire clipart collections! Perfect for educational materials, themed projects, or creative endeavors, these vibrant images bring warmth and energy to your visuals. Easy to download and use, they are ideal for both personal and professional use. Explore now!">
+                    <meta name="keywords" content="fire clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fire-clipart">
+                            <span itemprop="name">fire clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Fire Clipart for Creative Projects</h1>
+                <p>Fire clipart is a vibrant and versatile graphic resource ideal for various projects. Perfect for illustrating fire safety materials, cooking websites, or seasonal themes, these images capture the essence of flames in a visually appealing way. Available in different styles, fire clipart adds a dynamic touch to any design, ensuring it stands out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37,900+ Flame Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1328395235/vector/fire-emoji-icon.jpg?s=612x612&w=0&k=20&c=LMqmebDm3137x_e5H3aF4ccqYTMYB7Ioj2uYVoHJK_Y=' alt='37,900+ Flame Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1328395235/vector/fire-emoji-icon.jpg?s=612x612&w=0&k=20&c=LMqmebDm3137x_e5H3aF4ccqYTMYB7Ioj2uYVoHJK_Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/25947/fire-clipart-lg.png' alt='Fire - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/25947/fire-clipart-lg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Clipart, Download Free Transparent PNG Format Clipart Images ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201208/original/pngtree-orange-red-flame-flame-clipart-png-image_5566526.jpg' alt='Fire Clipart, Download Free Transparent PNG Format Clipart Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201208/original/pngtree-orange-red-flame-flame-clipart-png-image_5566526.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire clipart Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st5.depositphotos.com/85792019/70600/v/450/depositphotos_706000296-stock-illustration-fire-thick-thin-outline-flat.jpg' alt='Fire clipart Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st5.depositphotos.com/85792019/70600/v/450/depositphotos_706000296-stock-illustration-fire-thick-thin-outline-flat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Flame Clipart PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/146887/isolated/preview/41faeb4b7129b75f4883d75c72627835-fire-flame-clipart.png?w=360' alt='Fire Flame Clipart PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/146887/isolated/preview/41faeb4b7129b75f4883d75c72627835-fire-flame-clipart.png?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flame Clipart Stock Illustrations – 13,738 Flame Clipart Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/realistic-fire-flame-clipart-illustration-perfect-projects-realistic-fire-flame-clipart-illustration-336019967.jpg' alt='Flame Clipart Stock Illustrations – 13,738 Flame Clipart Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/realistic-fire-flame-clipart-illustration-perfect-projects-realistic-fire-flame-clipart-illustration-336019967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/burning-campfire-flame-icon-isolated_24877-83545.jpg' alt='Fire Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/burning-campfire-flame-icon-isolated_24877-83545.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Clipart Images – Browse 143,545 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/77/45/93/360_F_877459351_RTjwB5IpSjCj34edA7zFGxHjX1TsRGfV.jpg' alt='Fire Clipart Images – Browse 143,545 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/77/45/93/360_F_877459351_RTjwB5IpSjCj34edA7zFGxHjX1TsRGfV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37,900+ Flame Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/465733884/vector/seamless-fire-flame.jpg?s=612x612&w=0&k=20&c=-549Ezap8QAdTdNWwrHeAri6uJobg2u670HTSlp40Iw=' alt='37,900+ Flame Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/465733884/vector/seamless-fire-flame.jpg?s=612x612&w=0&k=20&c=-549Ezap8QAdTdNWwrHeAri6uJobg2u670HTSlp40Iw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flame Ball Clipart Hd PNG, Orange Red Fire Ball Flame Clip Art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/35/25/9a35253e139236ce1e9e0027cb6f811c.jpg' alt='Flame Ball Clipart Hd PNG, Orange Red Fire Ball Flame Clip Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/35/25/9a35253e139236ce1e9e0027cb6f811c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

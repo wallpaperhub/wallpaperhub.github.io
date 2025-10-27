@@ -1,0 +1,129 @@
+<title>Rapunzel's Tower: Transparent Background Images for Creative Projects</title>
+                    <meta name="description" content="Explore stunning transparent background images of Rapunzel's tower! Ideal for digital art and creative designs, these visuals bring the fairytale to life, making them perfect for artists, graphic designers, and enthusiasts. Download and let your imagination soar!">
+                    <meta name="keywords" content="rapunzel tower transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rapunzel-tower-transparent-background">
+                            <span itemprop="name">rapunzel tower transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rapunzel's Tower: Transparent Background Images for Creative Projects</h1>
+                <p>Discover the enchanting world of Rapunzel's tower with a transparent background! Perfect for creative projects, wallpaper, or digital art. The whimsical design captures the fairytale essence, allowing the beauty of Rapunzel's story to shine through without distractions. Perfect for artists and fans alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Tangled PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1d/45/d0/1d45d0d7f40fdbffcfecf0b46d288ea8.jpg' alt='Rapunzel Tangled PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1d/45/d0/1d45d0d7f40fdbffcfecf0b46d288ea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Tangled Tower Illustration - Rapunzel's Tower Artwork">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/7c/0a/fb7c0a6e72728fbeb7bb61701066dad2.jpg' alt='Disney Tangled Tower Illustration - Rapunzel's Tower Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/7c/0a/fb7c0a6e72728fbeb7bb61701066dad2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steeple Tower PNG Images, Steeple, Tower, Purple Roof PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c5/23/38/c5233841509f2ea87346d880f8f43571.jpg' alt='Steeple Tower PNG Images, Steeple, Tower, Purple Roof PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c5/23/38/c5233841509f2ea87346d880f8f43571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel's Tower | Disney Infinity Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney-infinity/images/7/78/RapunzelsTower.png/revision/latest?cb=20150526220904' alt='Rapunzel's Tower | Disney Infinity Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Infinity Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney-infinity/images/7/78/RapunzelsTower.png/revision/latest?cb=20150526220904' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel's Tower (now it's Emilia's Tower) by EmiliaFairy2004 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3513e55e-ba5e-450c-bac7-9fc0a2207d73/dewqadx-58107572-cfa3-482e-90ca-a1d5d25c2553.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MTNlNTVlLWJhNWUtNDUwYy1iYWM3LTlmYzBhMjIwN2Q3M1wvZGV3cWFkeC01ODEwNzU3Mi1jZmEzLTQ4MmUtOTBjYS1hMWQ1ZDI1YzI1NTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tx8fU-53UrQNSCPji8wLdvJ_8VK6axIJmZhEzSMbhpM' alt='Rapunzel's Tower (now it's Emilia's Tower) by EmiliaFairy2004 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3513e55e-ba5e-450c-bac7-9fc0a2207d73/dewqadx-58107572-cfa3-482e-90ca-a1d5d25c2553.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MTNlNTVlLWJhNWUtNDUwYy1iYWM3LTlmYzBhMjIwN2Q3M1wvZGV3cWFkeC01ODEwNzU3Mi1jZmEzLTQ4MmUtOTBjYS1hMWQ1ZDI1YzI1NTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tx8fU-53UrQNSCPji8wLdvJ_8VK6axIJmZhEzSMbhpM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Tower">
+                                <img itemprop="contentUrl url" src='https://juliegcreates.com/wp-content/uploads/2021/12/RT_3-scaled.jpg' alt='Rapunzel Tower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julie G. Creates" />
+                                </span>
+                                <a href='https://juliegcreates.com/wp-content/uploads/2021/12/RT_3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Tower png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/217/75/png-clipart-princess-rapunzel-and-tower-illustration-rapunzel-tower-disney-princess-tangled-rapunzel-cartoon-walt-disney-company-thumbnail.png' alt='Rapunzel Tower png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/217/75/png-clipart-princess-rapunzel-and-tower-illustration-rapunzel-tower-disney-princess-tangled-rapunzel-cartoon-walt-disney-company-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verwirrter Rapunzel-Turm 3D-Modell - TurboSquid 2145552">
+                                <img itemprop="contentUrl url" src='https://p.turbosquid.com/ts-thumb/Dz/ZgMkx4/0n/tangledrapunzeltower3dmodel000/jpg/1698545087/600x600/fit_q87/38cb0f1cc85ff44c39be500dbd5cb8efa7483fa2/tangledrapunzeltower3dmodel000.jpg' alt='Verwirrter Rapunzel-Turm 3D-Modell - TurboSquid 2145552'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TurboSquid" />
+                                </span>
+                                <a href='https://p.turbosquid.com/ts-thumb/Dz/ZgMkx4/0n/tangledrapunzeltower3dmodel000/jpg/1698545087/600x600/fit_q87/38cb0f1cc85ff44c39be500dbd5cb8efa7483fa2/tangledrapunzeltower3dmodel000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Game Video Rapunzel Tangled The Drawing Transparent HQ PNG ...">
+                                <img itemprop="contentUrl url" src='https://freepngimg.com/save/88680-tree-game-video-rapunzel-tangled-the-drawing/900x1714' alt='Tree Game Video Rapunzel Tangled The Drawing Transparent HQ PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePNGimg" />
+                                </span>
+                                <a href='https://freepngimg.com/save/88680-tree-game-video-rapunzel-tangled-the-drawing/900x1714' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel tower - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/1990030/rapunzel-tower-clipart-xl.png' alt='Rapunzel tower - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/1990030/rapunzel-tower-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

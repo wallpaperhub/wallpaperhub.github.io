@@ -1,0 +1,129 @@
+<title>Cute Coral Pink Wallpaper: Brighten Up Your Space!</title>
+                    <meta name="description" content="Discover adorable coral pink wallpaper that brings warmth and charm to any room. Perfect for nurseries or stylish living spaces, it adds a cheerful touch to your decor. Explore designs that fit your style and transform your walls today!">
+                    <meta name="keywords" content="cute coral pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/cute-coral-pink-wallpaper">
+                            <span itemprop="name">cute coral pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Coral Pink Wallpaper: Brighten Up Your Space!</h1>
+                <p>Cute coral pink wallpaper is the perfect way to transform any room into a cozy and cheerful space. With its soft yet vibrant tones, it can add a touch of playfulness to your walls. Whether you're aiming for a whimsical nursery or a chic living room, coral pink wallpaper complements various decor styles while bringing warmth and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mostly Coral Pink on Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52443/mostly-coral-pink-on-pink.jpg?h=699&q=85' alt='Mostly Coral Pink on Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52443/mostly-coral-pink-on-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration, abstrac pattern. Cute living coral color ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/89/28/47/1000_F_289284715_Fu6o0ZGQViJynhno9GeCrQ4fhCyZBIIG.jpg' alt='Vector illustration, abstrac pattern. Cute living coral color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/89/28/47/1000_F_289284715_Fu6o0ZGQViJynhno9GeCrQ4fhCyZBIIG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Tropical Flower Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/9e/58/1e9e581fabf23c8c2930d63b146895bd.jpg' alt='Coral Tropical Flower Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/9e/58/1e9e581fabf23c8c2930d63b146895bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Color Graphics Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-coral-orange-color-background_53876-104720.jpg' alt='Coral Pink Color Graphics Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-coral-orange-color-background_53876-104720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Coral Color Wallpaper Image Pictures Becuo on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/06/74/bd06749a679c6b7b89ff243a8d152b15.jpg' alt='   Free download Coral Color Wallpaper Image Pictures Becuo on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/06/74/bd06749a679c6b7b89ff243a8d152b15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Graphic Flower' Wallpaper by Tea Collection - Coral">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Coral_detail_720x.jpg?v=1633380676' alt=''Graphic Flower' Wallpaper by Tea Collection - Coral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Coral_detail_720x.jpg?v=1633380676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e0/da/fe/e0dafe8a69fb16ddfc155ff31beed033.jpg' alt='Coral Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e0/da/fe/e0dafe8a69fb16ddfc155ff31beed033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Tropical Plant Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-coral-pink-tropical-plant-background-picture-image_982397.jpg' alt='Coral Pink Tropical Plant Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-coral-pink-tropical-plant-background-picture-image_982397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-creative-background-of-coral-pink-texture-picture-image_983605.jpg' alt='Coral Pink Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-creative-background-of-coral-pink-texture-picture-image_983605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Mid Mod Wiggly Lines Coral-Pink Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/60364/boho_mid_mod_wiggly_lines_coral_pink_limited.jpg' alt='Boho Mid Mod Wiggly Lines Coral-Pink Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/60364/boho_mid_mod_wiggly_lines_coral_pink_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

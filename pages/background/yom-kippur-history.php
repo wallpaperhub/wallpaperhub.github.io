@@ -1,0 +1,129 @@
+<title>History of Yom Kippur: Significance & Traditions</title>
+                    <meta name="description" content="Explore the rich history of Yom Kippur, Judaism's holiest day. Discover its significance, age-old traditions, and practices that foster repentance and spiritual renewal. Learn how this sacred occasion cultivates meaningful connections and forgiveness.">
+                    <meta name="keywords" content="yom kippur history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yom-kippur-history">
+                            <span itemprop="name">yom kippur history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of Yom Kippur: Significance & Traditions</h1>
+                <p>Yom Kippur, known as the Day of Atonement, is the holiest day in Judaism, observed since ancient times. It occurs on the 10th day of Tishrei and emphasizes repentance, reflection, and prayer. Traditionally, fasting and synagogue services mark the day, allowing individuals to seek forgiveness for their sins and strive for spiritual renewal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg' alt='Yom Kippur - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1647">
+                                <meta itemprop="height" content="2130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur: A First Step to Peace | Origins">
+                                <img itemprop="contentUrl url" src='https://origins.osu.edu/sites/default/files/styles/twitter_card_format/public/2022-01/1024px-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpeg?itok=OPMp2p-d' alt='Yom Kippur: A First Step to Peace | Origins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Origins: Current Events in Historical Perspective - The Ohio State ..." />
+                                </span>
+                                <a href='https://origins.osu.edu/sites/default/files/styles/twitter_card_format/public/2022-01/1024px-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpeg?itok=OPMp2p-d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur: History | Reform Judaism">
+                                <img itemprop="contentUrl url" src='https://reformjudaism.org/sites/default/files/images/rj-feature-yomkippurhistory.jpg' alt='Yom Kippur: History | Reform Judaism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2917">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reform Judaism" />
+                                </span>
+                                <a href='https://reformjudaism.org/sites/default/files/images/rj-feature-yomkippurhistory.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Yom Kippur Facts Every Jew Should Know - Chabad.org">
+                                <img itemprop="contentUrl url" src='https://w2.chabad.org/media/images/1025/rWGd10256692.png?_i=_n504BC99DD0473598AAE3BCDC5D75568D' alt='19 Yom Kippur Facts Every Jew Should Know - Chabad.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chabad.org" />
+                                </span>
+                                <a href='https://w2.chabad.org/media/images/1025/rWGd10256692.png?_i=_n504BC99DD0473598AAE3BCDC5D75568D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Weinles_On_the_eve_of_Yom_Kippur.jpg/220px-Weinles_On_the_eve_of_Yom_Kippur.jpg' alt='Yom Kippur - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Weinles_On_the_eve_of_Yom_Kippur.jpg/220px-Weinles_On_the_eve_of_Yom_Kippur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Yom Kippur, explained">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/authoring/video-thumbnails/cac95c3e-1d91-40c8-9a3e-3d1424e943d4_poster.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp' alt='The history of Yom Kippur, explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Detroit Free Press" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/authoring/video-thumbnails/cac95c3e-1d91-40c8-9a3e-3d1424e943d4_poster.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur: A time for feasting as well as fasting">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/236689/original/file-20180917-158228-1qkrm6f.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip' alt='Yom Kippur: A time for feasting as well as fasting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/236689/original/file-20180917-158228-1qkrm6f.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Yom Kippur Legend – St Annes Hebrew Congregation">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.nli.org.il/wp-content/uploads/2020/09/715Yom-Kippur-painting-by-Jacob-Weinles-HUJI-997003451190405171-cropped.jpg?resize=404%2C304&ssl=1' alt='A Yom Kippur Legend – St Annes Hebrew Congregation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St Annes Hebrew Congregation" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.nli.org.il/wp-content/uploads/2020/09/715Yom-Kippur-painting-by-Jacob-Weinles-HUJI-997003451190405171-cropped.jpg?resize=404%2C304&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yom Kippur Part 4 - Temple Institute">
+                                <img itemprop="contentUrl url" src='https://templeinstitute.org/wp-content/uploads/2020/09/yom-kippur-two-goats-small.jpg' alt='Yom Kippur Part 4 - Temple Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Temple Institute" />
+                                </span>
+                                <a href='https://templeinstitute.org/wp-content/uploads/2020/09/yom-kippur-two-goats-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jewish Clothing | History, Traditional & Orthodox | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/jakub_weinles_-_ydzi_modlcy_sie_w_jom_kippur_resize_511360258072502992586.jpg' alt='Jewish Clothing | History, Traditional & Orthodox | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/jakub_weinles_-_ydzi_modlcy_sie_w_jom_kippur_resize_511360258072502992586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

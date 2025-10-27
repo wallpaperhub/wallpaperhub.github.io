@@ -1,0 +1,129 @@
+<title>How to Legally Buy a Gun in Alabama: A Step-by-Step Guide</title>
+                    <meta name="description" content="Learn how to buy a gun in Alabama safely and legally. This concise guide covers eligibility, purchasing options, and essential steps to ensure compliance with state laws, making your buying experience smooth and informed.">
+                    <meta name="keywords" content="how to buy a gun in alabama">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-buy-a-gun-in-alabama">
+                            <span itemprop="name">how to buy a gun in alabama</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Legally Buy a Gun in Alabama: A Step-by-Step Guide</h1>
+                <p>To buy a gun in Alabama, first, ensure you meet eligibility criteria: be at least 18 years old, a U.S. citizen or legal resident, and not prohibited by law. Visit a licensed dealer or consider a private sale. Complete a background check at a dealer, pay any fees, and for handguns, a pistol permit may be required.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guns in Alabama: Most guns are easy to purchase, some are not - al.com">
+                                <img itemprop="contentUrl url" src='http://media.al.com/alphotos/images/2016/01/06/ANY%20OTHER%20WEAPON.jpg' alt='Guns in Alabama: Most guns are easy to purchase, some are not - al.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AL.com" />
+                                </span>
+                                <a href='http://media.al.com/alphotos/images/2016/01/06/ANY%20OTHER%20WEAPON.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guns in Alabama: Most guns are easy to purchase, some are not - al.com">
+                                <img itemprop="contentUrl url" src='http://media.al.com/alphotos/photo/2016/01/05/-60b73d89d1f53a9e.JPG' alt='Guns in Alabama: Most guns are easy to purchase, some are not - al.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AL.com" />
+                                </span>
+                                <a href='http://media.al.com/alphotos/photo/2016/01/05/-60b73d89d1f53a9e.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who in Alabama can and cannot buy a gun?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oK2sAnN3eVw/maxresdefault.jpg' alt='Who in Alabama can and cannot buy a gun?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oK2sAnN3eVw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Alabama Firearm (Gun) Bill of Sale Form | PDF | Word">
+                                <img itemprop="contentUrl url" src='https://freeforms.com/wp-content/uploads/2019/02/Alabama-Firearm-Gun-Bill-of-Sale-Form.png' alt='Free Alabama Firearm (Gun) Bill of Sale Form | PDF | Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Forms" />
+                                </span>
+                                <a href='https://freeforms.com/wp-content/uploads/2019/02/Alabama-Firearm-Gun-Bill-of-Sale-Form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Process of buying guns from Alabama pawnshops">
+                                <img itemprop="contentUrl url" src='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wvtm/4104908-4104908.jpg?crop=1xw:0.75000000000000000xh;center,top&resize=640:*' alt='Process of buying guns from Alabama pawnshops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WVTM 13" />
+                                </span>
+                                <a href='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wvtm/4104908-4104908.jpg?crop=1xw:0.75000000000000000xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Owning a machine gun in Alabama requires big bucks">
+                                <img itemprop="contentUrl url" src='https://www.montgomeryadvertiser.com/gcdn/-mm-/e92f0dfa70ee2a7325115fd17dcd9144ca2ddf23/c=0-283-5091-3159/local/-/media/2017/12/22/Montgomery/Montgomery/636495355945397383-GettyImages-892556080.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' alt='Owning a machine gun in Alabama requires big bucks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Montgomery Advertiser" />
+                                </span>
+                                <a href='https://www.montgomeryadvertiser.com/gcdn/-mm-/e92f0dfa70ee2a7325115fd17dcd9144ca2ddf23/c=0-283-5091-3159/local/-/media/2017/12/22/Montgomery/Montgomery/636495355945397383-GettyImages-892556080.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guns in Alabama: Most guns are easy to purchase, some are not - al.com">
+                                <img itemprop="contentUrl url" src='https://image.al.com/home/bama-media/width960/img/alphotos/photo/2016/01/05/-760fad5515ac6e0f.JPG' alt='Guns in Alabama: Most guns are easy to purchase, some are not - al.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AL.com" />
+                                </span>
+                                <a href='https://image.al.com/home/bama-media/width960/img/alphotos/photo/2016/01/05/-760fad5515ac6e0f.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Gun Laws - Pew Pew Tactical">
+                                <img itemprop="contentUrl url" src='https://www.pewpewtactical.com/wp-content/uploads/2017/06/defensive-ar15-use-e1498436856487.png' alt='Alabama Gun Laws - Pew Pew Tactical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pew Pew Tactical" />
+                                </span>
+                                <a href='https://www.pewpewtactical.com/wp-content/uploads/2017/06/defensive-ar15-use-e1498436856487.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to purchase a gun in Alabama in less than 18 minutes - al.com">
+                                <img itemprop="contentUrl url" src='https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Foutdoors_impact%2Fphoto%2Fpurchasing-a-gun-in-alabama-20179e94a7e38ecc.jpg?auth=13fa91ad15920627780ce9e79333a887b6e09efb0561b8d653b30f75b0b6a0f2&width=1280&quality=90' alt='How to purchase a gun in Alabama in less than 18 minutes - al.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AL.com" />
+                                </span>
+                                <a href='https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Foutdoors_impact%2Fphoto%2Fpurchasing-a-gun-in-alabama-20179e94a7e38ecc.jpg?auth=13fa91ad15920627780ce9e79333a887b6e09efb0561b8d653b30f75b0b6a0f2&width=1280&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Sell a Gun in Alabama: Simple Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64067332b1d5fb39611d1a42/66bb6b1438c8dd7b64eaa2ef_66bb67a456f7540de5073ec8_gunshop.webp' alt='How to Sell a Gun in Alabama: Simple Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cash for Arms" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64067332b1d5fb39611d1a42/66bb6b1438c8dd7b64eaa2ef_66bb67a456f7540de5073ec8_gunshop.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

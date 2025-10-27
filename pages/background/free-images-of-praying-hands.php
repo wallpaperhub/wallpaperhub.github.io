@@ -1,0 +1,129 @@
+<title>Free Praying Hands Images: Download High-Quality Pictures</title>
+                    <meta name="description" content="Explore a collection of free praying hands images ideal for personal or commercial use. Download high-quality pictures that capture the beauty and spirituality of prayer. Perfect for enhancing your projects, these images are easy to access and royalty-free!">
+                    <meta name="keywords" content="free images of praying hands">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-images-of-praying-hands">
+                            <span itemprop="name">free images of praying hands</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Praying Hands Images: Download High-Quality Pictures</h1>
+                <p>Discover a wide selection of free images of praying hands, perfect for your creative projects. Whether you're designing a website, crafting social media posts, or seeking inspiration for your art, these high-quality images are royalty-free and easy to download. Enhance your content with these meaningful visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praying Hands Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/praying-hands-religion-holy-catholic-christian-spirituality-belief-hope_1284-41654.jpg' alt='Praying Hands Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/praying-hands-religion-holy-catholic-christian-spirituality-belief-hope_1284-41654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free praying hand Photos & Pictures | FreeImages">
+                                <img itemprop="contentUrl url" src='https://images.freeimages.com/images/large-previews/bb5/praying-hands-1179301.jpg' alt='Free praying hand Photos & Pictures | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://images.freeimages.com/images/large-previews/bb5/praying-hands-1179301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Praying Hands Pictures for Free Download - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2017/07/25/21/24/praying-hands-2539580_640.jpg' alt='30,000+ Praying Hands Pictures for Free Download - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2017/07/25/21/24/praying-hands-2539580_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,600+ Praying Hands Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1181376545/photo/praying-hands-with-faith-in-religion-and-belief-in-god-on-dark-background-power-of-hope-or.jpg?s=612x612&w=0&k=20&c=63Z_n7OH2ZgV2jsjsHI_FY633svOd1J1BekGCCC3mmE=' alt='105,600+ Praying Hands Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1181376545/photo/praying-hands-with-faith-in-religion-and-belief-in-god-on-dark-background-power-of-hope-or.jpg?s=612x612&w=0&k=20&c=63Z_n7OH2ZgV2jsjsHI_FY633svOd1J1BekGCCC3mmE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praying Hands Photos, Download The BEST Free Praying Hands Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5206842/pexels-photo-5206842.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5206842.jpg&fm=jpg' alt='Praying Hands Photos, Download The BEST Free Praying Hands Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="6720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5206842/pexels-photo-5206842.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5206842.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praying Hands Images – Browse 484,462 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/18/91/95/360_F_118919531_ofuL1xInHeTfntuhMBuswPmVxkq0Jlty.jpg' alt='Praying Hands Images – Browse 484,462 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/18/91/95/360_F_118919531_ofuL1xInHeTfntuhMBuswPmVxkq0Jlty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Prayer - Person Praying - Hands | Download ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/119130/prayer--person-praying--hands.jpg' alt='Free Stock Photo of Prayer - Person Praying - Hands | Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/119130/prayer--person-praying--hands.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Free Praying Hands Silhouettes Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1463321704/photo/silhouettes-of-hands-reaching-out-for-hope-and-supporting-each-other-on-sunset-background.jpg?s=612x612&w=0&k=20&c=HLZSuCpButLkNCiIO30i_JSJZAttySzNlJDxwBZB9Vw=' alt='2,400+ Free Praying Hands Silhouettes Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1463321704/photo/silhouettes-of-hands-reaching-out-for-hope-and-supporting-each-other-on-sunset-background.jpg?s=612x612&w=0&k=20&c=HLZSuCpButLkNCiIO30i_JSJZAttySzNlJDxwBZB9Vw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Praying Hands Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/490/428/small_2x/praying-hand-element-illustration-with-sunburst-background-vintage-and-retro-style-design-eps-10-vector.jpg' alt='Praying Hands Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/490/428/small_2x/praying-hand-element-illustration-with-sunburst-background-vintage-and-retro-style-design-eps-10-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Praying Hands     ideas | praying hands, children praying, prayers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/80/31/28/803128fa4693349ce2dac4a5002a195c.jpg' alt='100 Praying Hands     ideas | praying hands, children praying, prayers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/80/31/28/803128fa4693349ce2dac4a5002a195c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

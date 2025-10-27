@@ -1,0 +1,129 @@
+<title>Download Customizable Wanted Poster Templates</title>
+                    <meta name="description" content="Discover customizable wanted poster templates for creative projects and events. Perfect for parties or storytelling, our templates are easy to edit, allowing you to personalize the details to your liking. Stand out with unique designs tailored to your theme—download now!">
+                    <meta name="keywords" content="wanted poster template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wanted-poster-template">
+                            <span itemprop="name">wanted poster template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Customizable Wanted Poster Templates</h1>
+                <p>Creating a "wanted poster template" is a fun and creative way to design your custom posters for events, parties, or themed gatherings. This template allows you to personalize details like character names, descriptions, and reward amounts. Easily edit the design to suit your needs and let your imagination run wild!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blank Wanted Poster Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blank-wanted-poster-template-design-37a9a451cb794713d8bba77bd3c0ca6f_screen.jpg?ts=1698190633' alt='Free Blank Wanted Poster Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blank-wanted-poster-template-design-37a9a451cb794713d8bba77bd3c0ca6f_screen.jpg?ts=1698190633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wanted Poster Generator">
+                                <img itemprop="contentUrl url" src='https://edit.org/img/blog/n/vfa-1024-wanted-old-west-poster-template.webp' alt='Free Wanted Poster Generator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edit.org" />
+                                </span>
+                                <a href='https://edit.org/img/blog/n/vfa-1024-wanted-old-west-poster-template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wanted Poster Templates (GDocs, Adobe, Word) - WordLayouts">
+                                <img itemprop="contentUrl url" src='https://image.wordlayouts.com/wp-content/uploads/2024/04/1.wanted-poster-template-11-865d040uj.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&ssl=1' alt='Free Wanted Poster Templates (GDocs, Adobe, Word) - WordLayouts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WordLayouts" />
+                                </span>
+                                <a href='https://image.wordlayouts.com/wp-content/uploads/2024/04/1.wanted-poster-template-11-865d040uj.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted Poster Maker: Free Templates for Custom Wanted Poster">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/poster-templates/wanted-poster-1.png' alt='Wanted Poster Maker: Free Templates for Custom Wanted Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1425">
+                                <meta itemprop="height" content="2214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/poster-templates/wanted-poster-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Wanted Poster Template | Make Your Own Wanted Poster">
+                                <img itemprop="contentUrl url" src='https://timvandevall.com/wp-content/uploads/Wanted-Poster-Template.jpg' alt='Blank Wanted Poster Template | Make Your Own Wanted Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tim's Printables" />
+                                </span>
+                                <a href='https://timvandevall.com/wp-content/uploads/Wanted-Poster-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted Poster Template for Teachers | Perfect for grades 3rd, 4th ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/kami-uploads-public/library-resource-RtBZ3p5LC3pW-71P7M3-wanted-poster-template-png' alt='Wanted Poster Template for Teachers | Perfect for grades 3rd, 4th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kami" />
+                                </span>
+                                <a href='https://storage.googleapis.com/kami-uploads-public/library-resource-RtBZ3p5LC3pW-71P7M3-wanted-poster-template-png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Wanted Poster Template | Make Your Own Wanted Poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2a/13/ba/2a13ba040a3d3a3dcb6f7be0e080d8a4.jpg' alt='Blank Wanted Poster Template | Make Your Own Wanted Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2a/13/ba/2a13ba040a3d3a3dcb6f7be0e080d8a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted Poster Maker: Free Templates for Custom Wanted Poster">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/poster-templates/wanted-poster-9.png' alt='Wanted Poster Maker: Free Templates for Custom Wanted Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1425">
+                                <meta itemprop="height" content="2214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/poster-templates/wanted-poster-9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wanted Poster Templates| Adobe Express">
+                                <img itemprop="contentUrl url" src='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:8a564acd-eaef-42f0-89e8-6c900c6b79fc/component?assetType=TEMPLATE&etag=ce8c374f143f6b82ab2747cec9bb08ba&revision=0&component_id=babc3336-ab1a-43eb-93ca-35452b8da163' alt='Free Wanted Poster Templates| Adobe Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:8a564acd-eaef-42f0-89e8-6c900c6b79fc/component?assetType=TEMPLATE&etag=ce8c374f143f6b82ab2747cec9bb08ba&revision=0&component_id=babc3336-ab1a-43eb-93ca-35452b8da163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wanted Poster Templates (GDocs, Adobe, Word) - WordLayouts">
+                                <img itemprop="contentUrl url" src='https://image.wordlayouts.com/wp-content/uploads/2024/06/1.western-wanted-poster-template-11-865d040uq.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&ssl=1' alt='Free Wanted Poster Templates (GDocs, Adobe, Word) - WordLayouts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WordLayouts" />
+                                </span>
+                                <a href='https://image.wordlayouts.com/wp-content/uploads/2024/06/1.western-wanted-poster-template-11-865d040uq.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

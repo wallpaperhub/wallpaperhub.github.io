@@ -1,0 +1,129 @@
+<title>Vibrant Floral Backgrounds: Nature's Touch</title>
+                    <meta name="description" content="Discover stunning floral backgrounds that transform your designs with elegance and color. Perfect for invitations, home decor, or digital art. Explore the beauty of nature in various styles, from bold blooms to soft pastels, ideal for all your creative needs. Elevate your projects with floral inspiration!">
+                    <meta name="keywords" content="floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/floral-background">
+                            <span itemprop="name">floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Backgrounds: Nature's Touch</h1>
+                <p>Floral backgrounds enhance any design with their vibrant colors and intricate patterns. They bring a touch of nature indoors, perfect for digital art, invitations, or home decor. Whether you prefer bold blooms or subtle pastels, floral designs add elegance and personality to any space, making them a favorite choice for various projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF5ckQLPlQ/1/0/900w/canva-pink-white-watercolor-floral-instagram-story-background-1P2cYYQ3wEE.jpg' alt='Free and customizable floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF5ckQLPlQ/1/0/900w/canva-pink-white-watercolor-floral-instagram-story-background-1P2cYYQ3wEE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF_8NvO6Fk/1/0/900w/canva-blue-aesthetic-floral-watercolor-background-instagram-story-asUKpN8gqfI.jpg' alt='Free and customizable floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF_8NvO6Fk/1/0/900w/canva-blue-aesthetic-floral-watercolor-background-instagram-story-asUKpN8gqfI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Background with Red Flowers on (2816501)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/watercolor-floral-bg-23-416-73fb98db139cf94e02af2a2e0f3d2570d972853da5946a058f0fc6be01be32f0.jpg' alt='Watercolor Floral Background with Red Flowers on (2816501)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/watercolor-floral-bg-23-416-73fb98db139cf94e02af2a2e0f3d2570d972853da5946a058f0fc6be01be32f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-abstract-floral-background_52683-134424.jpg' alt='Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-abstract-floral-background_52683-134424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Floral Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/042/648/952/non_2x/ai-generated-elegant-floral-design-on-vintage-background-digital-art-frame-with-copy-space-wedding-invitation-and-greeting-card-concept-for-design-photo.jpg' alt='Elegant Floral Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/042/648/952/non_2x/ai-generated-elegant-floral-design-on-vintage-background-digital-art-frame-with-copy-space-wedding-invitation-and-greeting-card-concept-for-design-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Background, Photos, and Wallpaper for Free Download">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-floral-flowers-bright-blank-background-image_2160290.jpg' alt='Floral Background, Photos, and Wallpaper for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-floral-flowers-bright-blank-background-image_2160290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-floral-wallpaper_52683-67169.jpg' alt='Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-floral-wallpaper_52683-67169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Floral Background For Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/100817/preview/abstract-floral-background-for-design-8ae644.png' alt='Abstract Floral Background For Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/100817/preview/abstract-floral-background-for-design-8ae644.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable pink floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGEX5nC6FI/1/0/900w/canva-pink-white-watercolor-floral-background-instagram-story-zmsNqbTeRko.jpg' alt='Free and customizable pink floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGEX5nC6FI/1/0/900w/canva-pink-white-watercolor-floral-background-instagram-story-zmsNqbTeRko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Blue Floral Background Graphic by dinomikael01 ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/06/15/watercolor-blue-floral-background-Graphics-13411515-1.jpg' alt='Watercolor Blue Floral Background Graphic by dinomikael01 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/06/15/watercolor-blue-floral-background-Graphics-13411515-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

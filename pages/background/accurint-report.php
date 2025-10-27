@@ -1,0 +1,129 @@
+<title>Uncover Insights with Accurint Reports: Your Guide to Data</title>
+                    <meta name="description" content="Discover how Accurint reports provide comprehensive data for effective decision-making. Learn about its applications in background checks and investigations in our concise, informative guide, designed for professionals in various sectors. Optimize your research with accurate insights today!">
+                    <meta name="keywords" content="accurint report">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accurint-report">
+                            <span itemprop="name">accurint report</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncover Insights with Accurint Reports: Your Guide to Data</h1>
+                <p>An Accurint report is a powerful tool used for gathering detailed information about individuals and businesses. It compiles data from various public and proprietary records, unveiling insights that can assist in backgrounds checks, investigations, and risk assessments. Ideal for professionals in law enforcement, finance, and legal sectors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Run bulk data with Batch Services - Accurint for Legal Professionals">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/images/productimages/accurint/results.png' alt='Run bulk data with Batch Services - Accurint for Legal Professionals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1881">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/images/productimages/accurint/results.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relavint Desktop">
+                                <img itemprop="contentUrl url" src='https://www.accurint.com/images/relavintdesktop-1-screen.gif' alt='Relavint Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurint" />
+                                </span>
+                                <a href='https://www.accurint.com/images/relavintdesktop-1-screen.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ordering Police Reports">
+                                <img itemprop="contentUrl url" src='https://www.accurint.com/help/ln/images/police_reports/image005.jpg' alt='Ordering Police Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurint" />
+                                </span>
+                                <a href='https://www.accurint.com/help/ln/images/police_reports/image005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customer Education">
+                                <img itemprop="contentUrl url" src='x-raw-image:///12dfb4f7371bf60c04f60aaebb86818464a065f448648738fced573f2d20732c' alt='Customer Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurint" />
+                                </span>
+                                <a href='x-raw-image:///12dfb4f7371bf60c04f60aaebb86818464a065f448648738fced573f2d20732c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accurint AI Insights">
+                                <img itemprop="contentUrl url" src='https://risk.lexisnexis.com/-/media/images/government/ai%20insights/ln%20accurint%20ai%20insights%20infographic_001%20png.png?h=1215&iar=0&w=612&hash=E809BB60C9D34E0A1414E08EA198E500' alt='Accurint AI Insights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis Risk Solutions" />
+                                </span>
+                                <a href='https://risk.lexisnexis.com/-/media/images/government/ai%20insights/ln%20accurint%20ai%20insights%20infographic_001%20png.png?h=1215&iar=0&w=612&hash=E809BB60C9D34E0A1414E08EA198E500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LexisNexis Accurint report from Salesforce">
+                                <img itemprop="contentUrl url" src='https://northteq.com/wp-content/uploads/2020/05/3devices_macbook_iPad_iPhone_salesforce-1024x791-768x593.png' alt='LexisNexis Accurint report from Salesforce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northteq" />
+                                </span>
+                                <a href='https://northteq.com/wp-content/uploads/2020/05/3devices_macbook_iPad_iPhone_salesforce-1024x791-768x593.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public records can help accelerate investigations. Search smarter ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1aaf891a32c845e736b11b3379d5d4821539da23a0e744e4a4e93ad5d3180e2d' alt='Public records can help accelerate investigations. Search smarter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1268">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumpkin County" />
+                                </span>
+                                <a href='x-raw-image:///1aaf891a32c845e736b11b3379d5d4821539da23a0e744e4a4e93ad5d3180e2d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ordering Police Reports">
+                                <img itemprop="contentUrl url" src='https://www.accurint.com/help/ln/images/police_reports/image011.jpg' alt='Ordering Police Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurint" />
+                                </span>
+                                <a href='https://www.accurint.com/help/ln/images/police_reports/image011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customer Education">
+                                <img itemprop="contentUrl url" src='x-raw-image:///a7436dbbf1e9e39e317a0b0996f8a912b43822fa9fdd8551cad96d78e7801912' alt='Customer Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurint" />
+                                </span>
+                                <a href='x-raw-image:///a7436dbbf1e9e39e317a0b0996f8a912b43822fa9fdd8551cad96d78e7801912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accurint Background Check - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/5/509/5509306.png' alt='Accurint Background Check - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/5/509/5509306.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

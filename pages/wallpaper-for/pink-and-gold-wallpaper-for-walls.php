@@ -1,0 +1,129 @@
+<title>Chic Pink & Gold Wallpaper for Trendy Walls</title>
+                    <meta name="description" content="Discover elegant pink and gold wallpaper that elevates your home's aesthetic. Perfect for any room, our stylish designs blend modern charm with classic luxury, making it easy to create a stunning backdrop. Shop now for the perfect update to your walls!">
+                    <meta name="keywords" content="pink and gold wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/pink-and-gold-wallpaper-for-walls">
+                            <span itemprop="name">pink and gold wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink & Gold Wallpaper for Trendy Walls</h1>
+                <p>Transform your space with stunning pink and gold wallpaper that adds elegance and warmth to your walls. Perfect for creating a chic atmosphere in nurseries, bedrooms, or living rooms, this charming design combines soft hues of pink with luxurious gold accents. Bring your walls to life and make a bold style statement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' alt='Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mimosa Removable Wall Mural, Blush and Gold Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20953942/r/il/f63d58/2686486293/il_fullxfull.2686486293_6v16.jpg' alt='Mimosa Removable Wall Mural, Blush and Gold Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20953942/r/il/f63d58/2686486293/il_fullxfull.2686486293_6v16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/RoseQuartzWallpaperFauxMarblePrintFieldPrintVintageBlueFloralPrint.png?v=1715377923&width=2048' alt='Rose Quartz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/RoseQuartzWallpaperFauxMarblePrintFieldPrintVintageBlueFloralPrint.png?v=1715377923&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive PVC Wallpaper abstract floral pastel dusty pink gold blush  textured decor Peel & Stick Wallpaper Wall Mural Wall Decal Wall Poster  Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71w56o4AVuL.jpg' alt='Self Adhesive PVC Wallpaper abstract floral pastel dusty pink gold blush  textured decor Peel & Stick Wallpaper Wall Mural Wall Decal Wall Poster  Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71w56o4AVuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/3-Liquid-Marble-Pink-and-Gold_ILW035_Roomset_Detail_WEB.webp?crop=center&height=1024&v=1706010649&width=1024' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/3-Liquid-Marble-Pink-and-Gold_ILW035_Roomset_Detail_WEB.webp?crop=center&height=1024&v=1706010649&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Beige Rose Gold Marble Swirls Illustration Wallpaper, Blush ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/005_Angle_Interior_Scene11-17.jpg' alt='Large Beige Rose Gold Marble Swirls Illustration Wallpaper, Blush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/005_Angle_Interior_Scene11-17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705576650&width=850' alt='Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705576650&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Pink Gold Abstract of Marble Liquid Ink Art  Painting on Paper Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MFSRINRDL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Pink Gold Abstract of Marble Liquid Ink Art  Painting on Paper Self Adhesive Removable and Contact Paper for Room Home  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MFSRINRDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gold Marble Wallpaper, Removable Wallpaper, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23041200/r/il/e53595/3609918684/il_fullxfull.3609918684_tab8.jpg' alt='Pink and Gold Marble Wallpaper, Removable Wallpaper, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23041200/r/il/e53595/3609918684/il_fullxfull.3609918684_tab8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gold Swirl Marble">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/465459/pr22/1/1280/pink-gold-swirl-marble-rose-gold-watercolor-wallpaper.jpg' alt='Pink and Gold Swirl Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/465459/pr22/1/1280/pink-gold-swirl-marble-rose-gold-watercolor-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

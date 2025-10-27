@@ -1,0 +1,129 @@
+<title>Master of Puppets: A Thrash Metal Classic</title>
+                    <meta name="description" content="Explore the impact and significance of Metallica's "Master of Puppets," a defining album in thrash metal that combines powerful themes and intricate music to leave a lasting legacy in rock history. Discover its influence and iconic tracks today!">
+                    <meta name="keywords" content="master of puppets background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/master-of-puppets-background">
+                            <span itemprop="name">master of puppets background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Master of Puppets: A Thrash Metal Classic</h1>
+                <p>Released in 1986, Metallica's "Master of Puppets" is a landmark thrash metal album that showcases the band's intricate sound and lyrical depth. Themes of addiction and manipulation resonate through powerful tracks like "Battery" and the title song. It solidified Metallica's place in music history and influenced countless bands.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Master of Puppets - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg' alt='Master of Puppets - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I restored the original Master of Puppets painting in Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c8o36i2p3qy31.jpg' alt='I restored the original Master of Puppets painting in Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c8o36i2p3qy31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Years of Master of Puppets and Philosophy | The Blackwell ...">
+                                <img itemprop="contentUrl url" src='https://andphilosophy.com/wp-content/uploads/2016/03/master-of-puppets.jpg' alt='30 Years of Master of Puppets and Philosophy | The Blackwell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Blackwell Philosophy and Pop Culture Series" />
+                                </span>
+                                <a href='https://andphilosophy.com/wp-content/uploads/2016/03/master-of-puppets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica's Master Of Puppets: the story behind the album | Louder">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/9FFGeKeVxmmyMGGi5j7iQQ.jpg' alt='Metallica's Master Of Puppets: the story behind the album | Louder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louder Sound" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/9FFGeKeVxmmyMGGi5j7iQQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica Master of Puppets Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/7c/45/de7c451cfc1527077d23edf8b04b4c58.jpg' alt='Metallica Master of Puppets Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/7c/45/de7c451cfc1527077d23edf8b04b4c58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Master Of Puppets Computer Wallpaper Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/04/eb/3304eb48dd15f213e35dfd9be5627fcf.jpg' alt='   Free download Master Of Puppets Computer Wallpaper Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/04/eb/3304eb48dd15f213e35dfd9be5627fcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Master of Puppets”, Political and Musical Analysis on an All-Time ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:800/0*Dy1OfsCwvZWyGTx0.jpg' alt='Master of Puppets”, Political and Musical Analysis on an All-Time ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:800/0*Dy1OfsCwvZWyGTx0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 things you might not know about Master Of Puppets | Louder">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/xhmE8ZjxJWcVUfS5pxMZ8P.jpg' alt='30 things you might not know about Master Of Puppets | Louder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louder Sound" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/xhmE8ZjxJWcVUfS5pxMZ8P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Story Behind the Cover of Metallica's 'Master of Puppets ...">
+                                <img itemprop="contentUrl url" src='https://www.ultimate-guitar.com/static/article/news/0/160870_0_wide_ver1703949970.jpg@1200' alt='Story Behind the Cover of Metallica's 'Master of Puppets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultimate Guitar" />
+                                </span>
+                                <a href='https://www.ultimate-guitar.com/static/article/news/0/160870_0_wide_ver1703949970.jpg@1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Master of Puppets Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/b0/7f/6db07f3aa0d07c72240896e3ee24a216.jpg' alt='   Master of Puppets Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/b0/7f/6db07f3aa0d07c72240896e3ee24a216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cisco: Leading Networking Solutions for a Digital Future</title>
+                    <meta name="description" content="Discover Cisco's cutting-edge networking technologies and solutions that connect and secure your digital world. Explore how Cisco enhances business communication and enables organizations to thrive in a fast-paced environment. Join the digital revolution with Cisco's expert solutions today!">
+                    <meta name="keywords" content="cisco">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cisco">
+                            <span itemprop="name">cisco</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cisco: Leading Networking Solutions for a Digital Future</h1>
+                <p>Cisco is a leader in networking technology, providing innovative solutions to connect and secure the digital world. From routers and switches to advanced cybersecurity, Cisco enhances business communication and collaboration globally. Their technologies empower organizations to operate efficiently while overcoming various challenges in the digital landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png' alt='Cisco - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco IoT Operations Dashboard Advantage - Term License (3 years) - 1  license">
+                                <img itemprop="contentUrl url" src='https://webobjects2.cdw.com/is/image/CDW/7571548?$product-main$' alt='Cisco IoT Operations Dashboard Advantage - Term License (3 years) - 1  license'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDW" />
+                                </span>
+                                <a href='https://webobjects2.cdw.com/is/image/CDW/7571548?$product-main$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco - Genesis BCS">
+                                <img itemprop="contentUrl url" src='https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png' alt='Cisco - Genesis BCS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genesis BCS" />
+                                </span>
+                                <a href='https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco launches new AI networking chips to compete with Broadcom ...">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/H32KIETGHJMGNPRCC2IO5NXKPU.jpg?auth=cd9d4614479d1158876427cec1db91a45d221f2fb8b0064d7995135fb9adf970' alt='Cisco launches new AI networking chips to compete with Broadcom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/H32KIETGHJMGNPRCC2IO5NXKPU.jpg?auth=cd9d4614479d1158876427cec1db91a45d221f2fb8b0064d7995135fb9adf970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco Expands Full-Stack Observability Ecosystem with Seven New ...">
+                                <img itemprop="contentUrl url" src='https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2023/m10/cisco_logo_blue_1200x675.jpg' alt='Cisco Expands Full-Stack Observability Ecosystem with Seven New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisco Newsroom" />
+                                </span>
+                                <a href='https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2023/m10/cisco_logo_blue_1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco Q2 2024: Security, Collaboration, and Observability Shine ...">
+                                <img itemprop="contentUrl url" src='https://futurumgroup.com/wp-content/uploads/2024/02/Cisco-Q2-2024-Security-Collaboration-and-Observability-Shine.jpg' alt='Cisco Q2 2024: Security, Collaboration, and Observability Shine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Futurum Group" />
+                                </span>
+                                <a href='https://futurumgroup.com/wp-content/uploads/2024/02/Cisco-Q2-2024-Security-Collaboration-and-Observability-Shine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco warns of attacks targeting high severity router vulnerability">
+                                <img itemprop="contentUrl url" src='https://www.bleepstatic.com/content/hl-images/2020/10/20/Cisco.jpg' alt='Cisco warns of attacks targeting high severity router vulnerability'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeping Computer" />
+                                </span>
+                                <a href='https://www.bleepstatic.com/content/hl-images/2020/10/20/Cisco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco Showcases Vision to Simplify Networking and Securely Connect ...">
+                                <img itemprop="contentUrl url" src='https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2023/m04/Simplify-your-security-operations-with-cisco-xdr_1200x675.jpg' alt='Cisco Showcases Vision to Simplify Networking and Securely Connect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisco Newsroom" />
+                                </span>
+                                <a href='https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2023/m04/Simplify-your-security-operations-with-cisco-xdr_1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LobbyMap Cisco Systems">
+                                <img itemprop="contentUrl url" src='https://lobbymap.org/site//data/001/361/1361662.png' alt='LobbyMap Cisco Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australia" />
+                                </span>
+                                <a href='https://lobbymap.org/site//data/001/361/1361662.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cisco SD-WAN Routers and WAN Appliances - Cisco">
+                                <img itemprop="contentUrl url" src='https://www.cisco.com/content/dam/cisco-cdc/site/us/en/images/networking/Routing_Listing_Rendering_758x484_v2.png' alt='Cisco SD-WAN Routers and WAN Appliances - Cisco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisco" />
+                                </span>
+                                <a href='https://www.cisco.com/content/dam/cisco-cdc/site/us/en/images/networking/Routing_Listing_Rendering_758x484_v2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

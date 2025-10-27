@@ -1,0 +1,129 @@
+<title>Chic Cowgirl Wallpaper: Rustic Designs for a Western Vibe</title>
+                    <meta name="description" content="Discover stunning cowgirl wallpaper that adds rustic charm and adventure to your home. Explore vibrant designs and patterns that capture the spirit of the Wild West, perfect for any room. Transform your space into a stylish cowboy haven today!">
+                    <meta name="keywords" content="cowgirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cowgirl-wallpaper">
+                            <span itemprop="name">cowgirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Cowgirl Wallpaper: Rustic Designs for a Western Vibe</h1>
+                <p>Cowgirl wallpaper brings a touch of the Wild West into your space, combining rustic charm with vibrant imagery. Whether featuring rodeo scenes, serene landscapes, or vintage cowgirl motifs, this wallpaper is perfect for adding personality to any room. Transform your home into a cowboy haven with stylish designs that celebrate adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowgirl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/cb/38/eecb386b0d6f597ae34c808b3f68d0ca.jpg' alt='Cowgirl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/cb/38/eecb386b0d6f597ae34c808b3f68d0ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cowgirl Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' alt='Pink Cowgirl Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Cowgirl Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brown-cowgirl-aesthetic-oyv7pgxitxv26f3k.jpg' alt='Brown Cowgirl Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brown-cowgirl-aesthetic-oyv7pgxitxv26f3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cowgirl wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/4a/fd/2b4afd4ca6fe965825077e3f816f324b.jpg' alt='cowgirl wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/4a/fd/2b4afd4ca6fe965825077e3f816f324b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Cute_Rodeo_Cowgirl_seamless_vector_pattern._Howdy_Cowboy_boots_in_desert_repeating_background._Wild_West_surface_pattern_1-min.jpg?v=1739231728&width=1214' alt='Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Cute_Rodeo_Cowgirl_seamless_vector_pattern._Howdy_Cowboy_boots_in_desert_repeating_background._Wild_West_surface_pattern_1-min.jpg?v=1739231728&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowgirls Boots With Hat Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cowgirls-boots-with-hat-em81ampijb9t9sbu.jpg' alt='Cowgirls Boots With Hat Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cowgirls-boots-with-hat-em81ampijb9t9sbu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cowgirl    | Country backgrounds, Western aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/eb/f8/18ebf829893973ebb0b3227ba94c7438.jpg' alt='cowgirl    | Country backgrounds, Western aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/eb/f8/18ebf829893973ebb0b3227ba94c7438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Cowgirl: HD Wallpaper of Horse Riding Adventure">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/533/533679.jpg' alt='Dynamic Cowgirl: HD Wallpaper of Horse Riding Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/533/533679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowprint Cowgirl Design Custom Wallpaper & Surface Covering">
+                                <img itemprop="contentUrl url" src='https://www.youcustomizeit.com/common/MAKE/43479/Cowprint-Cowgirl-Wallpaper-Square.jpg?lm=1554145816' alt='Cowprint Cowgirl Design Custom Wallpaper & Surface Covering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouCustomizeIt" />
+                                </span>
+                                <a href='https://www.youcustomizeit.com/common/MAKE/43479/Cowprint-Cowgirl-Wallpaper-Square.jpg?lm=1554145816' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Gemstone Cowgirl Hat Distressed Background Png Design, Cowgirl Hat  Png, Cowgirl Background Png, Leopard Cowgirl Hat, Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30999522/r/il/80eafe/3425203043/il_fullxfull.3425203043_3evd.jpg' alt='Floral Gemstone Cowgirl Hat Distressed Background Png Design, Cowgirl Hat  Png, Cowgirl Background Png, Leopard Cowgirl Hat, Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2280">
+                                <meta itemprop="height" content="1824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30999522/r/il/80eafe/3425203043/il_fullxfull.3425203043_3evd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

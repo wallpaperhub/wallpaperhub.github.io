@@ -1,0 +1,129 @@
+<title>Stunning Ikat Peel and Stick Wallpaper for Effortless Style</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="ikat peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/ikat-peel-and-stick-wallpaper">
+                            <span itemprop="name">ikat peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ikat Peel and Stick Wallpaper for Effortless Style</h1>
+                <p>Ikat peel and stick wallpaper adds a touch of elegance and artistry to your space effortlessly. With its vibrant patterns and easy application, you can transform any room without the commitment of traditional wallpaper. Perfect for renters or DIY enthusiasts, it offers versatility and style while ensuring a mess-free installation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Striped Ikat Peel and Stick Wallpaper (Ebony & Linen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81g0lO7YQ2L.jpg' alt='NextWall Striped Ikat Peel and Stick Wallpaper (Ebony & Linen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81g0lO7YQ2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK11769RL_RS1.jpg?v=1599063247' alt='Persian Ikat Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK11769RL_RS1.jpg?v=1599063247' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawthorne Ikat Premium Peel + Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/PSW1143RL_YWDD99HawthorneIkat_RS2ex.jpg?v=1703792370&width=800' alt='Hawthorne Ikat Premium Peel + Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/PSW1143RL_YWDD99HawthorneIkat_RS2ex.jpg?v=1703792370&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striped Ikat Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW46404-C_2000x2000.jpg?v=1671497292' alt='Striped Ikat Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW46404-C_2000x2000.jpg?v=1671497292' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1mBx+lurHL.jpg' alt='RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1mBx+lurHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12370PL_RS2ex.jpg?v=1670942736' alt='Persian Ikat Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12370PL_RS2ex.jpg?v=1670942736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ikat Wallpaper - Fashionable Wall Decor">
+                                <img itemprop="contentUrl url" src='https://claire-bella.com/cdn/shop/products/ikat600_84af9adc-e8a2-451f-904c-eca49541b2e1.jpg?v=1668190578' alt='Ikat Wallpaper - Fashionable Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clairebella" />
+                                </span>
+                                <a href='https://claire-bella.com/cdn/shop/products/ikat600_84af9adc-e8a2-451f-904c-eca49541b2e1.jpg?v=1668190578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 30.75 sq. ft. Persian Ikat Blue Peel and Stick Wallpaper  RMK12372PL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8c692954-31ca-492f-9978-358f2d18c8be/svn/roommates-wallpaper-rolls-rmk12372pl-64_600.jpg' alt='RoomMates 30.75 sq. ft. Persian Ikat Blue Peel and Stick Wallpaper  RMK12372PL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8c692954-31ca-492f-9978-358f2d18c8be/svn/roommates-wallpaper-rolls-rmk12372pl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casbah Ikat / Spice Peel 'n Stick Wallpaper Custom Colors! • Vinyl-Free •  Non-toxic">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9696664/r/il/ace5a8/1123990781/il_570xN.1123990781_3go3.jpg' alt='Casbah Ikat / Spice Peel 'n Stick Wallpaper Custom Colors! • Vinyl-Free •  Non-toxic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9696664/r/il/ace5a8/1123990781/il_570xN.1123990781_3go3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York PSW1143RL Hawthorne Ikat Blue Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/220486.jpg' alt='York PSW1143RL Hawthorne Ikat Blue Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/220486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

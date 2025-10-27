@@ -1,0 +1,129 @@
+<title>Epic Marvel Spider-Man Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an amazing collection of Marvel Spider-Man wallpapers to elevate your devices! From classic to modern designs, find the perfect backdrop capturing the essence of your favorite web-slinger. Browse now for high-quality, vibrant images that showcase Spider-Man in all his glory!">
+                    <meta name="keywords" content="marvel wallpaper spiderman">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman">
+                            <span itemprop="name">Spiderman</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman/marvel-wallpaper-spiderman">
+                            <span itemprop="name">marvel wallpaper spiderman</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Marvel Spider-Man Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Marvel Spider-Man wallpapers! Dive into the thrilling world of Spider-Man with high-resolution images showcasing your favorite web-slinger in action. Whether you prefer classic comic art or modern cinematic designs, these wallpapers will bring excitement and style to your screens. Perfect for fans of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12390M Blue Marvel Spider-Man Peel & Stick Wallpaper Mural -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81F2116cWJL.jpg' alt='RoomMates RMK12390M Blue Marvel Spider-Man Peel & Stick Wallpaper Mural -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81F2116cWJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider Man Video Game Marvel's Spider-Man Remastered 4k ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/127/1270256.jpg' alt='Download Spider Man Video Game Marvel's Spider-Man Remastered 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="3292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/127/1270256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Spider-Man Character Pow! White and Red - Marvel Wallpaper-  Spiderman Design- Typography Design- Perfect for Kids room- Suitable for  play ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81WmeUXlfVL.jpg' alt='Marvel Spider-Man Character Pow! White and Red - Marvel Wallpaper-  Spiderman Design- Typography Design- Perfect for Kids room- Suitable for  play ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81WmeUXlfVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Spider-man 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/marvel-spider-man-4k-auheltooor1v9zio.jpg' alt='Marvel Spider-man 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/marvel-spider-man-4k-auheltooor1v9zio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man Wallpaper 4K, Advanced suit">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-2880x1800-11990.jpeg' alt='Marvel's Spider-Man Wallpaper 4K, Advanced suit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-2880x1800-11990.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Komar Marvel 4-4123 Photo Wallpaper Spider-Man Graffiti Art Size 368 x 127  cm (Width x Height) 4 Parts Including Paste Wallpaper for Children's Room -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Ij2Gf2bJL.jpg' alt='Komar Marvel 4-4123 Photo Wallpaper Spider-Man Graffiti Art Size 368 x 127  cm (Width x Height) 4 Parts Including Paste Wallpaper for Children's Room -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Ij2Gf2bJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/marvels-spider-man-2-wallpapers-v0-g5ssmmgi395b1.jpg?width=4000&format=pjpg&auto=webp&s=40a26715ce24038fb072d51b309f6cae0263a764' alt='Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="3796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/marvels-spider-man-2-wallpapers-v0-g5ssmmgi395b1.jpg?width=4000&format=pjpg&auto=webp&s=40a26715ce24038fb072d51b309f6cae0263a764' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Heroes Wallpaper | Peel and Stick | Removable | Marvel Wallpaper |  Kid Wallpaper | Batman Spiderman Decal | Kid Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32690780/r/il/d6eb10/3583374956/il_570xN.3583374956_rhc7.jpg' alt='Super Heroes Wallpaper | Peel and Stick | Removable | Marvel Wallpaper |  Kid Wallpaper | Batman Spiderman Decal | Kid Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32690780/r/il/d6eb10/3583374956/il_570xN.3583374956_rhc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15+ Popular Spider-Man (PS4) HD Wallpapers, Backgrounds and Photos">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/marvel-comic-spider-man-ps4_bGxqbmeUmZqaraWkpJRobWllrWdma20.jpg' alt='15+ Popular Spider-Man (PS4) HD Wallpapers, Backgrounds and Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/marvel-comic-spider-man-ps4_bGxqbmeUmZqaraWkpJRobWllrWdma20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Spider-Man, Marvel's Spider-Man, Spider-Man (2018 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/6e/4d/a66e4d1c54d59dbbbc94d3e0f45b062e.jpg' alt='HD wallpaper: Spider-Man, Marvel's Spider-Man, Spider-Man (2018 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/6e/4d/a66e4d1c54d59dbbbc94d3e0f45b062e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Gold Leaf Peel and Stick Wallpaper: Luxe Transformation Made Easy</title>
+                    <meta name="description" content="Add elegance to your home with gold leaf peel and stick wallpaper. Effortlessly transform your walls with this stunning, easy-to-apply decor solution. Perfect for renters and DIY enthusiasts, it combines style and convenience for a glamorous look in any room.">
+                    <meta name="keywords" content="gold leaf peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/gold-leaf-peel-and-stick-wallpaper">
+                            <span itemprop="name">gold leaf peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gold Leaf Peel and Stick Wallpaper: Luxe Transformation Made Easy</h1>
+                <p>Gold leaf peel and stick wallpaper adds a touch of luxury to any space with its stunning metallic finish. Easy to apply and remove, this wallpaper transforms walls without the mess of traditional methods. Perfect for renters or those looking for an affordable update, it creates a glamorous atmosphere that impresses guests.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Gold Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/distressed-gold-leaf_di543_rgb_01_7bee7cfb-4fd0-4064-9555-38d2018dacb3.jpg?v=1737731116' alt='Distressed Gold Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/distressed-gold-leaf_di543_rgb_01_7bee7cfb-4fd0-4064-9555-38d2018dacb3.jpg?v=1737731116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho  Leaves Peel and Stick Wallpaper Self-Adhesive Wallpaper Waterproof ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AX6FitYPL.jpg' alt='Amazon.com: Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho  Leaves Peel and Stick Wallpaper Self-Adhesive Wallpaper Waterproof ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1602">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AX6FitYPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Gold Leaf Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11381WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3ebf22cc-96c6-4bf1-99a2-984b01a1617b/svn/roommates-wallpaper-rolls-rmk11381wp-31_600.jpg' alt='RoomMates Gold Leaf Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11381WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3ebf22cc-96c6-4bf1-99a2-984b01a1617b/svn/roommates-wallpaper-rolls-rmk11381wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Leaves - Small Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-gold-leaves-removable-wallpaper-golden-prairie-46131690340668.png?v=1713458623' alt='Gold Leaves - Small Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-gold-leaves-removable-wallpaper-golden-prairie-46131690340668.png?v=1713458623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Gold Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/di543-distressedgoldleaf-holiday-tempaper-removable-wallpaper-livingroom_27f4fc54-0405-4f72-9d16-9a8381892504_1800x1800.jpg?v=1724530565' alt='Distressed Gold Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/di543-distressedgoldleaf-holiday-tempaper-removable-wallpaper-livingroom_27f4fc54-0405-4f72-9d16-9a8381892504_1800x1800.jpg?v=1724530565' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Leaves Wallpaper, Self Adhesive Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/2f2875/6102287427/il_570xN.6102287427_3trz.jpg' alt='Golden Leaves Wallpaper, Self Adhesive Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/2f2875/6102287427/il_570xN.6102287427_3trz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Gold Leaves Peel and Stick Wallpaper Tropical Wallpaper 17.7in  x118.1in Boho Contact Paper Peel and Stick Modern Leaf Self Adhesive  Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zF3V4GdoL.jpg' alt='Orainege Gold Leaves Peel and Stick Wallpaper Tropical Wallpaper 17.7in  x118.1in Boho Contact Paper Peel and Stick Modern Leaf Self Adhesive  Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zF3V4GdoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Gold Leaf Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11381WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/aa4412a6-c988-4774-b3c7-82cada7ee357/svn/roommates-wallpaper-rolls-rmk11381wp-fa_600.jpg' alt='RoomMates Gold Leaf Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11381WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/aa4412a6-c988-4774-b3c7-82cada7ee357/svn/roommates-wallpaper-rolls-rmk11381wp-fa_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Gold Leaf Distressed Gold Peel And Stick Wallpaper, 56 Sq.  Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899910869038.jpg?v=1693660785' alt='Decoratorsbest Gold Leaf Distressed Gold Peel And Stick Wallpaper, 56 Sq.  Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899910869038.jpg?v=1693660785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Leaf Wallpaper Peel and Stick, Black and Gold Wallpaper, Palm ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31588809/r/il/826976/4099527352/il_570xN.4099527352_87fc.jpg' alt='Gold Leaf Wallpaper Peel and Stick, Black and Gold Wallpaper, Palm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31588809/r/il/826976/4099527352/il_570xN.4099527352_87fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

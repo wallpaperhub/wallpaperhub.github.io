@@ -1,0 +1,129 @@
+<title>Paul Walker Skyline Wallpapers: Stunning 4K Collection</title>
+                    <meta name="description" content="Discover a collection of 4K Paul Walker skyline wallpapers that beautifully capture the essence of the legendary actor and car lover. Perfect for enhancing your devices, these stunning images blend urban landscapes with high-speed thrills. Download your favorites today and celebrate Paul Walker's legacy!">
+                    <meta name="keywords" content="paul walker skyline wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/paul-walker-skyline-wallpaper-4k">
+                            <span itemprop="name">paul walker skyline wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Paul Walker Skyline Wallpapers: Stunning 4K Collection</h1>
+                <p>Explore stunning Paul Walker skyline wallpapers in 4K resolution that pay tribute to the iconic actor and car enthusiast. Each wallpaper captures breathtaking cityscapes combined with high-performance vehicles, offering a perfect blend for fans and car lovers. Enhance your device's aesthetic with these quality images!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast and Furious Skyline Wallpapers (17 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/e/0/1420146-1920x1080-desktop-1080p-fast-and-furious-skyline-background.jpg' alt='Fast and Furious Skyline Wallpapers (17 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/e/0/1420146-1920x1080-desktop-1080p-fast-and-furious-skyline-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Paul Walker Skyline Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/paul-walker-skyline-srgb7ceksgjkiamh.jpg' alt='100+] Paul Walker Skyline Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/paul-walker-skyline-srgb7ceksgjkiamh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul Walker Skyline R34 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8162678.jpg' alt='Paul Walker Skyline R34 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8162678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul Walker's Nissan Skyline R34 Forza Horizon 4">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1aR0uUvXHpc/sddefault.jpg' alt='Paul Walker's Nissan Skyline R34 Forza Horizon 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1aR0uUvXHpc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Several Cars, Supra, Skyline, Paul Walker - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/0b/af/bd0baf858f79c1f64e1d8997847ae010.jpg' alt='Wallpaper Several Cars, Supra, Skyline, Paul Walker - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/0b/af/bd0baf858f79c1f64e1d8997847ae010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gtr 34 skyline, car, fast and furious, gtr-34, paul walker, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/658/301/HD-wallpaper-gtr-34-skyline-car-fast-and-furious-gtr-34-paul-walker.jpg' alt='Gtr 34 skyline, car, fast and furious, gtr-34, paul walker, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/658/301/HD-wallpaper-gtr-34-skyline-car-fast-and-furious-gtr-34-paul-walker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: RİP PAUL WALKER">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/924795399429593595/4C72F1A9988DD6FC81676D303763E9127FAB0386/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: :: RİP PAUL WALKER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/924795399429593595/4C72F1A9988DD6FC81676D303763E9127FAB0386/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul Walker Skyline Wallpapers - Top Free Paul Walker Skyline ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/95/63/0395636d615e996552b7ddc9ef4e5954.jpg' alt='Paul Walker Skyline Wallpapers - Top Free Paul Walker Skyline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/95/63/0395636d615e996552b7ddc9ef4e5954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Skyline A Tribute For Paul Walker Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/nissan-skyline-a-tribute-for-paul-walker-1n635qk0nfmrgtob.jpg' alt='Nissan Skyline A Tribute For Paul Walker Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/nissan-skyline-a-tribute-for-paul-walker-1n635qk0nfmrgtob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fast and Furious | Paul Walker's Nissan Skyline Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/paul-walker-skyline-1420-x-800-cschiko1x6vm9t4a.jpg' alt='Download Fast and Furious | Paul Walker's Nissan Skyline Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/paul-walker-skyline-1420-x-800-cschiko1x6vm9t4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

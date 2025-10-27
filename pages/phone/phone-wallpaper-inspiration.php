@@ -1,0 +1,129 @@
+<title>Stunning Phone Wallpaper Ideas for Every Style</title>
+                    <meta name="description" content="Discover a variety of phone wallpaper inspirations that elevate your device's aesthetic. From calming nature scenes to dynamic abstract designs, find the perfect fit for your style. Refresh your screen regularly to express your personality and keep your device looking vibrant and unique!">
+                    <meta name="keywords" content="phone wallpaper inspiration">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-wallpaper-inspiration">
+                            <span itemprop="name">phone wallpaper inspiration</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Phone Wallpaper Ideas for Every Style</h1>
+                <p>Explore a world of creativity with stunning phone wallpaper inspiration! From serene landscapes to vibrant patterns, let your screen reflect your personality. Choose from minimalist designs or bold art that uplifts your mood. Change your wallpaper regularly to keep your device feeling fresh and uniquely yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Inspirational Phone Wallpapers - February 2022 - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2022/02/Untitled-6.png' alt='New Inspirational Phone Wallpapers - February 2022 - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2022/02/Untitled-6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAExHBvuoCQ/1/0/900w/canva-nature-lake-mountains-balance-motivational-quote-phone-wallpaper-5y0rpIY2MOc.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAExHBvuoCQ/1/0/900w/canva-nature-lake-mountains-balance-motivational-quote-phone-wallpaper-5y0rpIY2MOc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Inspirational Wallpapers For Your Phone - Mash Elle">
+                                <img itemprop="contentUrl url" src='https://mash-elle.com/wp-content/uploads/2020/07/simple-minimalist-wallpaper-1.jpg' alt='New Inspirational Wallpapers For Your Phone - Mash Elle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="2420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mash Elle" />
+                                </span>
+                                <a href='https://mash-elle.com/wp-content/uploads/2020/07/simple-minimalist-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Progress is Still Progress Inspirational iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_570xN.3214261641_i9ps.jpg' alt='Small Progress is Still Progress Inspirational iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_570xN.3214261641_i9ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable Phone Wallpapers Inspirational Quotes | SheIn ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.allaboutgoodvibes.com/wp-content/uploads/2017/07/Wallpaper-Quotes-Dowload-All-About-Good-Vibes_5.jpg?fit=1066%2C1895&ssl=1' alt='Free Downloadable Phone Wallpapers Inspirational Quotes | SheIn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Good Vibes |" />
+                                </span>
+                                <a href='https://i0.wp.com/www.allaboutgoodvibes.com/wp-content/uploads/2017/07/Wallpaper-Quotes-Dowload-All-About-Good-Vibes_5.jpg?fit=1066%2C1895&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Inspirational Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inspirational-phone-mq52kztwel1j68nx.jpg' alt='100+] Inspirational Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inspirational-phone-mq52kztwel1j68nx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Motivational Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/ca/b6/8ccab6ca687f0036eba319b432c5884b.jpg' alt='10 Motivational Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/ca/b6/8ccab6ca687f0036eba319b432c5884b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Inspirational Quotes Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/80/71/4f80712df2c315d7e0a35155edfbaf2d.jpg' alt='Aesthetic Inspirational Quotes Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/80/71/4f80712df2c315d7e0a35155edfbaf2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

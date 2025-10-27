@@ -1,0 +1,129 @@
+<title>Discovering Ancient Greece: The Birthplace of Civilization</title>
+                    <meta name="description" content="Explore the fascinating world of Ancient Greece, where democracy, philosophy, and art blossomed. Uncover the legacies of great thinkers and magnificent structures that continue to influence modern society. Dive into the rich history that shaped the Western world!">
+                    <meta name="keywords" content="ancient greece">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ancient-greece">
+                            <span itemprop="name">ancient greece</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Ancient Greece: The Birthplace of Civilization</h1>
+                <p>Ancient Greece, the cradle of Western civilization, flourished between the 8th and 6th centuries BCE. Known for its rich mythology, philosophy, and democracy, it produced influential figures like Socrates and Plato. The architectural wonders of Athens, such as the Parthenon, showcase the era's artistic brilliance and enduring legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greece - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parthenon_%2830276156187%29.jpg/300px-Parthenon_%2830276156187%29.jpg' alt='Ancient Greece - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parthenon_%2830276156187%29.jpg/300px-Parthenon_%2830276156187%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greek civilization | History, Map, Culture, Politics ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/53/150953-050-2E0836EB/Parthenon-Acropolis-Athens.jpg' alt='Ancient Greek civilization | History, Map, Culture, Politics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/53/150953-050-2E0836EB/Parthenon-Acropolis-Athens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greek civilization | History, Map, Culture, Politics ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/33/1033-050-895AB1EE/Ancient-Greece.jpg' alt='Ancient Greek civilization | History, Map, Culture, Politics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/33/1033-050-895AB1EE/Ancient-Greece.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greece ‑ Government, Facts & Timeline | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2010/03/ancient-greece-gettyimages-475594807.jpg' alt='Ancient Greece ‑ Government, Facts & Timeline | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2010/03/ancient-greece-gettyimages-475594807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clothing in Ancient Greece: A Comprehensive Summary - Crunch Learning">
+                                <img itemprop="contentUrl url" src='https://crunchlearning.com/wp-content/uploads/2023/01/Clothing-in-Ancient-Greece-1024x738.jpg' alt='Clothing in Ancient Greece: A Comprehensive Summary - Crunch Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunch Learning" />
+                                </span>
+                                <a href='https://crunchlearning.com/wp-content/uploads/2023/01/Clothing-in-Ancient-Greece-1024x738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greek City-States">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638891951/EducationHub/photos/athens-from-the-east.jpg' alt='Greek City-States'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638891951/EducationHub/photos/athens-from-the-east.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Culture of Ancient Greece | Maryville Online">
+                                <img itemprop="contentUrl url" src='https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/Parthenon-in-Greece.jpg' alt='Social Culture of Ancient Greece | Maryville Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maryville University Online" />
+                                </span>
+                                <a href='https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/Parthenon-in-Greece.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Was Ancient Greece Located?">
+                                <img itemprop="contentUrl url" src='https://cdn.thecollector.com/wp-content/uploads/2022/03/where-was-ancient-greece-located.jpg' alt='Where Was Ancient Greece Located?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheCollector" />
+                                </span>
+                                <a href='https://cdn.thecollector.com/wp-content/uploads/2022/03/where-was-ancient-greece-located.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Greece ‑ Government, Facts & Timeline | HISTORY">
+                                <img itemprop="contentUrl url" src='https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/167/history_deconstructed_acropolis_sf_S3_2500_1_HD.jpg' alt='Ancient Greece ‑ Government, Facts & Timeline | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/167/history_deconstructed_acropolis_sf_S3_2500_1_HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Culture of Ancient Greece: A Comprehensive Summary - Crunch Learning">
+                                <img itemprop="contentUrl url" src='https://crunchlearning.com/wp-content/uploads/2023/01/The-Parthenon-of-Athens-1024x658.jpg' alt='Culture of Ancient Greece: A Comprehensive Summary - Crunch Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunch Learning" />
+                                </span>
+                                <a href='https://crunchlearning.com/wp-content/uploads/2023/01/The-Parthenon-of-Athens-1024x658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

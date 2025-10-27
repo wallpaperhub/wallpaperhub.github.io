@@ -1,0 +1,129 @@
+<title>Stunning Dragon Galaxy Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover breathtaking dragon galaxy wallpaper that combines fantasy and cosmic beauty. Perfect for enhancing your device's aesthetic, our collection features vibrant colors and majestic designs. Download now to bring your love for dragons and space to your screen!">
+                    <meta name="keywords" content="dragon galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-galaxy-wallpaper">
+                            <span itemprop="name">dragon galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Galaxy Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning dragon galaxy wallpaper! Experience the fusion of majestic dragons soaring through vivid cosmic landscapes. These wallpapers bring a touch of fantasy and wonder, perfect for any dragon lover or space enthusiast. Explore our collection and elevate your screen aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dragon">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/74799/galaxy-dragon.jpg?h=699&q=85' alt='Galaxy Dragon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/74799/galaxy-dragon.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-dragon-k9qql28gl76lc4wt.jpg' alt='100+] Galaxy Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-dragon-k9qql28gl76lc4wt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy dragon wallpaper by Darth4284 - Download on ZEDGE™ | 2c53">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=-5qLfJsmG-DU6LqS_h4vtar1_qr_rDycp6CxbyBfFn4qDpo-RMTXaXctmEujJy7U28Lhh511QyjyW8yzJ52nuTyJxmB0QRFo3rRRbhhVFOvJrcD3Neoeqr2CexfAnbnjnbgVckT6R3-sLMtUy_nwUZUPH2PMob6xpXUGYoJGS595Gh3SHsKuVcsXgH6454kRjIZoAcFGbNE0l2-tuOfrm7XysYpwd0W0hhKxk_MNCDmdm_COs-2S0qz35R0' alt='Galaxy dragon wallpaper by Darth4284 - Download on ZEDGE™ | 2c53'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=-5qLfJsmG-DU6LqS_h4vtar1_qr_rDycp6CxbyBfFn4qDpo-RMTXaXctmEujJy7U28Lhh511QyjyW8yzJ52nuTyJxmB0QRFo3rRRbhhVFOvJrcD3Neoeqr2CexfAnbnjnbgVckT6R3-sLMtUy_nwUZUPH2PMob6xpXUGYoJGS595Gh3SHsKuVcsXgH6454kRjIZoAcFGbNE0l2-tuOfrm7XysYpwd0W0hhKxk_MNCDmdm_COs-2S0qz35R0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="galaxy dragon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/ca/7b/71ca7b6724c61f8643a2a77dd69e5ee9.jpg' alt='galaxy dragon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/ca/7b/71ca7b6724c61f8643a2a77dd69e5ee9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy dragon, dragon, galaxy, glow, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/503/755/HD-wallpaper-galaxy-dragon-dragon-galaxy-glow.jpg' alt='Galaxy dragon, dragon, galaxy, glow, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/503/755/HD-wallpaper-galaxy-dragon-dragon-galaxy-glow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Dragon With A Sword Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-dragon-323o2idgcb6wce0t.jpg' alt='Download Galaxy Dragon With A Sword Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-dragon-323o2idgcb6wce0t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dragon Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4648437.jpg' alt='Galaxy Dragon Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4648437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dragon Fantasy Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/galaxy-dragon-fantasy-wallpaper-3.webp' alt='Galaxy Dragon Fantasy Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/galaxy-dragon-fantasy-wallpaper-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Dragon in Space, Cosmic Abstract Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cosmic-dragon-space-abstract-background-stars-blue-152200992.jpg' alt='Cosmic Dragon in Space, Cosmic Abstract Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cosmic-dragon-space-abstract-background-stars-blue-152200992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Starry Dragon in the Deep Space, Nebula Background, Rainbow Dragon  | Samsung Galaxy Phone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4689846016.0532/pad,750x1000,f8f8f8.u1.jpg' alt='Colorful Starry Dragon in the Deep Space, Nebula Background, Rainbow Dragon  | Samsung Galaxy Phone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4689846016.0532/pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

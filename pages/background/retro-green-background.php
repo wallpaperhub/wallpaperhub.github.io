@@ -1,0 +1,129 @@
+<title>Vibrant Retro Green Backgrounds for Creative Design</title>
+                    <meta name="description" content="Discover the charm of retro green backgrounds! Perfect for adding a nostalgic touch to your designs, these vibrant hues and vintage patterns will elevate your creative projects. Explore how retro greens can transform your digital space today!">
+                    <meta name="keywords" content="retro green background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-green-background">
+                            <span itemprop="name">retro green background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Retro Green Backgrounds for Creative Design</h1>
+                <p>Retro green backgrounds evoke a sense of nostalgia, reminiscent of 70s and 80s design aesthetics. These vibrant hues paired with vintage patterns create a unique atmosphere, perfect for digital art, websites, or interior spaces. Embrace the whimsical charm of retro greens to uplift your creative projects and bring a pop of color to any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green retro sunburst background. Vintage green rays sunburst style ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/16/92/18/1000_F_116921846_z97YcKApv9W24ncgfBHtahkImDHUcJaR.jpg' alt='Green retro sunburst background. Vintage green rays sunburst style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/16/92/18/1000_F_116921846_z97YcKApv9W24ncgfBHtahkImDHUcJaR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Green groovy background Retro background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' alt='Premium Vector | Green groovy background Retro background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and white sunburst vintage and pattern background with space ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R2A7WP/green-and-white-sunburst-vintage-and-pattern-background-with-space-R2A7WP.jpg' alt='Green and white sunburst vintage and pattern background with space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R2A7WP/green-and-white-sunburst-vintage-and-pattern-background-with-space-R2A7WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro green ray background in vintage style Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/43/99/retro-green-ray-background-in-vintage-style-vector-22614399.jpg' alt='Retro green ray background in vintage style Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/43/99/retro-green-ray-background-in-vintage-style-vector-22614399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Retro Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/893/471/small_2x/comic-green-book-pop-art-background-bright-green-backdrop-with-halftone-retro-comic-pop-art-background-in-cartoon-style-illustration-vector.jpg' alt='Green Retro Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/893/471/small_2x/comic-green-book-pop-art-background-bright-green-backdrop-with-halftone-retro-comic-pop-art-background-in-cartoon-style-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/82/07/ab82077552023d3837e6ce0934c1b23e.jpg' alt='Retro Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/82/07/ab82077552023d3837e6ce0934c1b23e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro rays green background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/87/89/retro-rays-green-background-vector-22508789.jpg' alt='Retro rays green background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/87/89/retro-rays-green-background-vector-22508789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Grunge Sunburst Retro Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/2260516-nbmXNbLTQE-high_0006.jpg?w=660&q=60&fit=max&auto=format' alt='Green Grunge Sunburst Retro Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/2260516-nbmXNbLTQE-high_0006.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Retro Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/437/234/non_2x/sun-rays-retro-vintage-style-on-green-background-comic-pattern-with-starburst-and-halftone-cartoon-retro-sunburst-effect-with-dots-rays-summer-banner-illustration-vector.jpg' alt='Green Retro Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/437/234/non_2x/sun-rays-retro-vintage-style-on-green-background-comic-pattern-with-starburst-and-halftone-cartoon-retro-sunburst-effect-with-dots-rays-summer-banner-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Vintage Texture Design Textured Background Aged Green Paper ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/retro-vintage-texture-design-textured-background-aged-green-paper_9925010.jpg!w700wp' alt='Retro Vintage Texture Design Textured Background Aged Green Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/retro-vintage-texture-design-textured-background-aged-green-paper_9925010.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

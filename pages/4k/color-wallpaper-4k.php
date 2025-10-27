@@ -1,0 +1,129 @@
+<title>Vibrant 4K Color Wallpapers for Every Space</title>
+                    <meta name="description" content="Explore a stunning collection of vibrant 4K color wallpapers to elevate your decor. Perfect for any device, these high-resolution images bring life to your walls and inspire creativity. Discover designs that suit your style—whether vibrant or subtle, we've got the ideal wallpaper for you!">
+                    <meta name="keywords" content="color wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/color-wallpaper-4k">
+                            <span itemprop="name">color wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Color Wallpapers for Every Space</h1>
+                <p>Transform your space with stunning 4K color wallpapers! Elevate your decor with vibrant patterns, abstract designs, and breathtaking landscapes that capture the beauty of every hue. Explore a diverse collection that suits any taste and enhances your environment. Discover the perfect 4K wallpaper to inspire creativity and add life to your walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color burst Wallpaper 4K, CGI, Colorful, Explosion, Cosmic">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/color-burst-colorful-explosion-cgi-cosmic-black-background-2880x1800-6654.jpg' alt='Color burst Wallpaper 4K, CGI, Colorful, Explosion, Cosmic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/color-burst-colorful-explosion-cgi-cosmic-black-background-2880x1800-6654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful background Wallpaper 4K, Texture, Multicolor, Orange">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/colorful-background-texture-multi-color-orange-illustration-3840x2160-3104.jpg' alt='Colorful background Wallpaper 4K, Texture, Multicolor, Orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/colorful-background-texture-multi-color-orange-illustration-3840x2160-3104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Pure Solid Color Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61vxrB8dTeL.png' alt='4K Pure Solid Color Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61vxrB8dTeL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Fusion Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/color-fusion-3840x2160.jpg' alt='Color Fusion Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/color-fusion-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Splash Mountains Abstract - Free 4k Wallpapers - 40.000+ ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b6/ee/31/b6ee31573476aa9eac295bf4bc7cb961.jpg' alt='Color Splash Mountains Abstract - Free 4k Wallpapers - 40.000+ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b6/ee/31/b6ee31573476aa9eac295bf4bc7cb961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Rey of Colors 4k Wallpaper, HD Abstract 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/abstract-rey-of-colors-4k_bGxuZ2eUmZqaraWkpJRobWllrWdma2U.jpg' alt='Abstract Rey of Colors 4k Wallpaper, HD Abstract 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/abstract-rey-of-colors-4k_bGxuZ2eUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Colorful 4k Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/colorful-4k-phone-3d6qiwtvlbe1gsp5.jpg' alt='100+] Colorful 4k Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/colorful-4k-phone-3d6qiwtvlbe1gsp5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette Abstract 4K Wallpaper, HD Abstract 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/color-palette-abstract-4k_a2lsa2uUmZqaraWkpJRobWllrWdma2U.jpg' alt='Color Palette Abstract 4K Wallpaper, HD Abstract 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/color-palette-abstract-4k_a2lsa2uUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper 4K Hdr Trick">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/bc/3d/02bc3d1d4a8d5e1ff9f617e9cd59c7bb.jpg' alt='Iphone Wallpaper 4K Hdr Trick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/bc/3d/02bc3d1d4a8d5e1ff9f617e9cd59c7bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Colors Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/7/1/176071-3840x2160-desktop-4k-rainbow-background-photo.jpg' alt='Rainbow Colors Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/7/1/176071-3840x2160-desktop-4k-rainbow-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

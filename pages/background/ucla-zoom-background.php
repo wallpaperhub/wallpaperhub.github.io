@@ -1,0 +1,129 @@
+<title>UCLA Zoom Backgrounds: Elevate Your Virtual Space</title>
+                    <meta name="description" content="Discover the best UCLA Zoom backgrounds to enhance your virtual meetings! Express your pride and personalize your online experience with stunning images from campus. Ideal for students and alumni alike, these backgrounds will make your Zoom calls uniquely yours.">
+                    <meta name="keywords" content="ucla zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ucla-zoom-background">
+                            <span itemprop="name">ucla zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>UCLA Zoom Backgrounds: Elevate Your Virtual Space</h1>
+                <p>Transform your Zoom meetings with vibrant UCLA-themed backgrounds! Showcase your school spirit by customizing your virtual space with iconic campus landmarks, the UCLA Bruins logo, or beautiful campus scenery. Perfect for students, alumni, or fans, these backgrounds add a personal touch to your virtual interactions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-1-300x169.jpeg' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-1-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/8-bit-royce.png' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/8-bit-royce.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/UCLA-Janss-Lawn-300x169.jpg' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/UCLA-Janss-Lawn-300x169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-3-300x169.jpeg' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-3-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/UCLA-_22_no1-Zooms-Working-F-300x169.jpg' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/UCLA-_22_no1-Zooms-Working-F-300x169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - HumTech - UCLA">
+                                <img itemprop="contentUrl url" src='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-2-300x169.jpeg' alt='Zoom Backgrounds - HumTech - UCLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HumTech - UCLA" />
+                                </span>
+                                <a href='https://humtech.ucla.edu/wp-content/uploads/2020/04/royce-2-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - Brand Identity | UCLA Health">
+                                <img itemprop="contentUrl url" src='https://www.uclahealth.org/sites/default/files/styles/max_width_016000_640/public/images/UCLA-Health-Zoom-1.png?itok=Bb5D8e70' alt='Zoom Backgrounds - Brand Identity | UCLA Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Health" />
+                                </span>
+                                <a href='https://www.uclahealth.org/sites/default/files/styles/max_width_016000_640/public/images/UCLA-Health-Zoom-1.png?itok=Bb5D8e70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - UCLA Social Sciences Computing">
+                                <img itemprop="contentUrl url" src='https://computing.sscnet.ucla.edu/wp-content/uploads/2022/10/UCLA_Royce_Afternoon.png' alt='Zoom Backgrounds - UCLA Social Sciences Computing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Social Sciences Computing" />
+                                </span>
+                                <a href='https://computing.sscnet.ucla.edu/wp-content/uploads/2022/10/UCLA_Royce_Afternoon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds - Brand Identity | UCLA Health">
+                                <img itemprop="contentUrl url" src='https://www.uclahealth.org/sites/default/files/styles/max_width_016000_640/public/images/UCLA-Health-Zoom-2.png?itok=g5aLPySA' alt='Zoom Backgrounds - Brand Identity | UCLA Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Health" />
+                                </span>
+                                <a href='https://www.uclahealth.org/sites/default/files/styles/max_width_016000_640/public/images/UCLA-Health-Zoom-2.png?itok=g5aLPySA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UCLA Zoom Background Featured in License Global — UCLA Lifestyle">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/62292afd17acdd3462d9ed11/622947ba0ddfc37797466360/622947ba0ddfc37797466366/1646954924143/Screen+Shot+2022-03-10+at+11.02.50+AM.png?format=1500w' alt='UCLA Zoom Background Featured in License Global — UCLA Lifestyle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Lifestyle" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/62292afd17acdd3462d9ed11/622947ba0ddfc37797466360/622947ba0ddfc37797466366/1646954924143/Screen+Shot+2022-03-10+at+11.02.50+AM.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

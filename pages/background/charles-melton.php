@@ -1,0 +1,129 @@
+<title>"Charles Melton: Rising Star of Hollywood"</title>
+                    <meta name="description" content="Discover the journey of Charles Melton, the talented star of "Riverdale." From his breakthrough role to his advocacy for representation, learn how he is shaping the entertainment industry today. Stay updated on his latest projects and achievements!">
+                    <meta name="keywords" content="charles melton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charles-melton">
+                            <span itemprop="name">charles melton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Charles Melton: Rising Star of Hollywood"</h1>
+                <p>Charles Melton is an American actor and model, best known for his role as Reggie Mantle in the TV series "Riverdale." Born on January 4, 1991, in Guam, he gained recognition for his charm and versatility. Beyond acting, Melton has made an impact in advocacy, particularly promoting Asian representation in Hollywood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYzdkN2MxZDgtY2I4MS00MGY0LWJjYTgtMTFjYjc4MjU0OTQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Charles Melton - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYzdkN2MxZDgtY2I4MS00MGY0LWJjYTgtMTFjYjc4MjU0OTQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton">
+                                <img itemprop="contentUrl url" src='https://dotorg.brightspotcdn.com/92/84/c38a8da0463f9c35c026a6d43b32/800x800-charles-melton.jpg' alt='Charles Melton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Special Olympics" />
+                                </span>
+                                <a href='https://dotorg.brightspotcdn.com/92/84/c38a8da0463f9c35c026a6d43b32/800x800-charles-melton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_melton_2024_1.jpg' alt='Charles Melton - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_melton_2024_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton on Loving His Mom, Being a Father Figure and ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/ff4wLu0UziGKrSZWTnBfSbPBMU0=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/charles_melton_people-2-2c874777695945d7befaeb71d1d4f544.jpg' alt='Charles Melton on Loving His Mom, Being a Father Figure and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/ff4wLu0UziGKrSZWTnBfSbPBMU0=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/charles_melton_people-2-2c874777695945d7befaeb71d1d4f544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton on How 'Riverdale' and Heath Ledger Informed His ...">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/655cd9eca742a3b1491f84e3/16:9/w_4800,h_2700,c_limit/01_Charles_Melton_Single_0016_R.jpeg' alt='Charles Melton on How 'Riverdale' and Heath Ledger Informed His ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/655cd9eca742a3b1491f84e3/16:9/w_4800,h_2700,c_limit/01_Charles_Melton_Single_0016_R.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton Is the Biggest Surprise This Awards Season">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/12/GettyImages-1831519963.jpg?w=1581&h=1054&crop=1' alt='Charles Melton Is the Biggest Surprise This Awards Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/12/GettyImages-1831519963.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton | American Horror Story Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/americanhorrorstory/images/9/9f/CharlesMelton.jpg/revision/latest?cb=20210806021754' alt='Charles Melton | American Horror Story Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Horror Story Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/americanhorrorstory/images/9/9f/CharlesMelton.jpg/revision/latest?cb=20210806021754' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview: Charles Melton — Mixed Asian Media">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/59543ad972af659452cb2c86/1558365909478-KKB9X0F5RXQL7XGGDH7A/rev-1-TSIAS-TRL1-040rc_High_Res_JPEG+%284%29.jpeg?format=500w' alt='Interview: Charles Melton — Mixed Asian Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixed Asian Media" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/59543ad972af659452cb2c86/1558365909478-KKB9X0F5RXQL7XGGDH7A/rev-1-TSIAS-TRL1-040rc_High_Res_JPEG+%284%29.jpeg?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riverdale's' Camila Mendes and Charles Melton Relationship Timeline">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/camila-mendes-and-charles-melton-attend-the-2018-gq-men-of-news-photo-1708540678.jpg?crop=0.737xw:1.00xh;0.239xw,0&resize=1200:*' alt='Riverdale's' Camila Mendes and Charles Melton Relationship Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmopolitan" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/camila-mendes-and-charles-melton-attend-the-2018-gq-men-of-news-photo-1708540678.jpg?crop=0.737xw:1.00xh;0.239xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Melton: It's good 'May December' breakthrough took years ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/b91496e/2147483647/strip/false/crop/5552x3662+0+0/resize/1486x980!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2Fcf%2F1f06bbcd673dd4072379b64f544d%2Fb29c48fa2b60488f8a2d7ff31607d6c4' alt='Charles Melton: It's good 'May December' breakthrough took years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/b91496e/2147483647/strip/false/crop/5552x3662+0+0/resize/1486x980!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2Fcf%2F1f06bbcd673dd4072379b64f544d%2Fb29c48fa2b60488f8a2d7ff31607d6c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Black & White Floral Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the charm of black and white floral wallpaper. Perfect for adding elegance to any room, this versatile design beautifully contrasts bold patterns with timeless colors. Elevate your interior decor effortlessly with this stylish choice that suits any aesthetic!">
+                    <meta name="keywords" content="black white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-white-floral-wallpaper">
+                            <span itemprop="name">black white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black & White Floral Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning black and white floral wallpaper. This timeless design combines elegance and modernity, making it perfect for any room. Whether you're looking to create a bold accent wall or a subtle backdrop, the contrast of black and white enhances the beauty of floral patterns, bringing art and nature inside.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick  Black Rose Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91MhwTNrxOL.jpg' alt='JiffDiff Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick  Black Rose Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91MhwTNrxOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://anewall.com/cdn/shop/products/black-and-white-floral-wallpaper-wallpaper_1200x1200.jpeg?v=1561243419' alt='Black and White Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='http://anewall.com/cdn/shop/products/black-and-white-floral-wallpaper-wallpaper_1200x1200.jpeg?v=1561243419' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' alt='Sketch Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper With Black and White Floral Prints, Floral Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/2736e2/4114566005/il_fullxfull.4114566005_4as9.jpg' alt='Wallpaper With Black and White Floral Prints, Floral Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1996">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/2736e2/4114566005/il_fullxfull.4114566005_4as9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Black And White Floral 10.4' L x 25" W Wallpaper Tile |  Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/31896229/compr-r85/1927/192734333/Black+And+White+Floral+Wallpaper+Floral+Tile.jpg' alt='Red Barrel Studio® Black And White Floral 10.4' L x 25" W Wallpaper Tile |  Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/31896229/compr-r85/1927/192734333/Black+And+White+Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Black and Cream White Floral Wallpaper Peel and Stick Wallpaper  17.7in×118.1in Vintage Floral Contact Paper Flowers Birds Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' alt='Froluya Black and Cream White Floral Wallpaper Peel and Stick Wallpaper  17.7in×118.1in Vintage Floral Contact Paper Flowers Birds Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lVtYZpd4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIMPLIFY Black and White Floral Adhesive Wall Paper 3004-BW">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bfb261f3-a811-46e7-b014-20ef3c0d1ab2/svn/simplify-wallpaper-rolls-3004-bw-64_600.jpg' alt='SIMPLIFY Black and White Floral Adhesive Wall Paper 3004-BW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bfb261f3-a811-46e7-b014-20ef3c0d1ab2/svn/simplify-wallpaper-rolls-3004-bw-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/media/catalog/product/6/5/6554d5e227b5b.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=896&width=896&canvas=896:896' alt='Dark Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/media/catalog/product/6/5/6554d5e227b5b.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=896&width=896&canvas=896:896' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black Gold Floral Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/files/uk-elegant-floral-wallpaper-mural-living-room.jpg?v=1732535332' alt='Elegant Black Gold Floral Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/files/uk-elegant-floral-wallpaper-mural-living-room.jpg?v=1732535332' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

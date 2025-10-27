@@ -1,0 +1,129 @@
+<title>Heartwarming Baby Jesus Pictures for a Joyful Christmas</title>
+                    <meta name="description" content="Explore beautiful Baby Jesus pictures that capture the essence of Christmas. Perfect for holiday decor or personal reflection, these images radiate warmth and hope. Discover the joy and serenity they bring to your festive celebrations.">
+                    <meta name="keywords" content="baby jesus picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baby-jesus-picture">
+                            <span itemprop="name">baby jesus picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartwarming Baby Jesus Pictures for a Joyful Christmas</h1>
+                <p>Capturing the innocence and joy of the season, a picture of Baby Jesus invites warmth and reverence. Often depicted in a manger, surrounded by loving figures, these images embody hope and faith. Whether for personal reflection or holiday decor, Baby Jesus pictures enhance the sacred spirit of Christmas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="alottagifts Nativity Baby Jesus Lighted Canvas Wall Art Print 16" x 12"  With Timer | LED Canvas Wall Art Print Design | Modern Artwork for Living  Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71278XuCCKL._AC_UF894,1000_QL80_.jpg' alt='alottagifts Nativity Baby Jesus Lighted Canvas Wall Art Print 16" x 12"  With Timer | LED Canvas Wall Art Print Design | Modern Artwork for Living  Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71278XuCCKL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Baby Jesus In The Manger">
+                                <img itemprop="contentUrl url" src='https://armondscavophotography.com/wp-content/uploads/2015/05/Baby-Jesus-in-manger-old-style_292.jpg' alt='The Baby Jesus In The Manger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Armond Scavo Photography" />
+                                </span>
+                                <a href='https://armondscavophotography.com/wp-content/uploads/2015/05/Baby-Jesus-in-manger-old-style_292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Nativity Light Up Religious Baby Jesus In A Manger ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ssYR3pXpL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Nativity Light Up Religious Baby Jesus In A Manger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ssYR3pXpL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Jesus Art Print">
+                                <img itemprop="contentUrl url" src='https://www.catholicartandjewelry.com/cdn/shop/files/baby-jesus-art-print-165260_grande.jpg?v=1719245691' alt='Baby Jesus Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Art and Jewelry" />
+                                </span>
+                                <a href='https://www.catholicartandjewelry.com/cdn/shop/files/baby-jesus-art-print-165260_grande.jpg?v=1719245691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Nativity Manger Mary Joseph Baby Jesus Wreath  Sign-Sublimation-Round-Christmas-Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39602425/r/il/02fa74/5121883867/il_fullxfull.5121883867_h58t.jpg' alt='Christmas Nativity Manger Mary Joseph Baby Jesus Wreath  Sign-Sublimation-Round-Christmas-Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39602425/r/il/02fa74/5121883867/il_fullxfull.5121883867_h58t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Jesus with Lamb Box Sign - [Consumer]Autom">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-zjzn8ssx4n/images/stencil/1280x1280/products/35680/107476/BK-12907__34176.1694552988.JPG?c=1' alt='Baby Jesus with Lamb Box Sign - [Consumer]Autom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autom" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-zjzn8ssx4n/images/stencil/1280x1280/products/35680/107476/BK-12907__34176.1694552988.JPG?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby jesus christmas 2025 images">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/939/675/non_2x/miracle-of-christmas-biblical-nativity-of-jesus-christ-generative-ai-photo.jpg' alt='Baby jesus christmas 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/939/675/non_2x/miracle-of-christmas-biblical-nativity-of-jesus-christ-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Baby Jesus Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/948/273/small/mary-and-the-baby-jesus-son-of-god-christmas-story-christmas-night-photo.JPG' alt='Christmas Baby Jesus Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/948/273/small/mary-and-the-baby-jesus-son-of-god-christmas-story-christmas-night-photo.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus, Our Savior Religious Lifelike Baby Doll Featuring Hand ...">
+                                <img itemprop="contentUrl url" src='https://media.bradfordexchange.com/image/upload/b_auto,c_pad,dpr_2.0,f_auto,h_375,q_auto,w_375/e_sharpen:200/c_pad,h_375,w_375/v1/ashton-drake/0302968001_alt3?pgw=1' alt='Jesus, Our Savior Religious Lifelike Baby Doll Featuring Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bradford Exchange" />
+                                </span>
+                                <a href='https://media.bradfordexchange.com/image/upload/b_auto,c_pad,dpr_2.0,f_auto,h_375,q_auto,w_375/e_sharpen:200/c_pad,h_375,w_375/v1/ashton-drake/0302968001_alt3?pgw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross stitch pattern Birh of BABY JESUS Nativity Christmas patterns symbols  pdf files DMC colors coloured">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14575310/r/il/23d9bb/1338017717/il_fullxfull.1338017717_l659.jpg' alt='Cross stitch pattern Birh of BABY JESUS Nativity Christmas patterns symbols  pdf files DMC colors coloured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14575310/r/il/23d9bb/1338017717/il_fullxfull.1338017717_l659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Target History: Evolution of Goals</title>
+                    <meta name="description" content="Explore the evolution of target history, uncovering how goals and objectives have adapted over time. Learn about impactful changes across industries and discover strategies for aligning with modern market dynamics for future success. A concise look into the past to shape a better tomorrow!">
+                    <meta name="keywords" content="target history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/target-history">
+                            <span itemprop="name">target history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Target History: Evolution of Goals</h1>
+                <p>Target history involves tracing the development and transformation of goals and objectives across various fields. Understanding how targets have evolved helps organizations refine their strategies, ensuring alignment with changing market dynamics. A comprehensive approach encourages adaptive planning for future success.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Target Corporation - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/79/Target_logo_%281968%29.png' alt='History of Target Corporation - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/79/Target_logo_%281968%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target History Timeline">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/f22a9d4e-8911-47a2-83d4-75bdf1798c10/1975b.jpeg?width=620' alt='Target History Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/f22a9d4e-8911-47a2-83d4-75bdf1798c10/1975b.jpeg?width=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Companies Re-invent Themselves? The Target Story - Business ...">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/americanbusinesshistory.org/wp-content/uploads/2019/03/target-story-top-pic-better.jpeg?fit=800%2C449&ssl=1' alt='Can Companies Re-invent Themselves? The Target Story - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The American Business History Center" />
+                                </span>
+                                <a href='https://i1.wp.com/americanbusinesshistory.org/wp-content/uploads/2019/03/target-story-top-pic-better.jpeg?fit=800%2C449&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target History Timeline">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/7df355c4-8fb9-4b02-9377-76c3c7057073/1970-Billion.jpg?width=620' alt='Target History Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/7df355c4-8fb9-4b02-9377-76c3c7057073/1970-Billion.jpg?width=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Logo And the History Behind the Business | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2020/12/target-logo-evolution.jpg' alt='Target Logo And the History Behind the Business | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2020/12/target-logo-evolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target History Timeline">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/e477ba59-d7fc-400d-93ed-0b844e88de37/1961a.jpeg?width=620' alt='Target History Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/e477ba59-d7fc-400d-93ed-0b844e88de37/1961a.jpeg?width=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Logo History: A Brief Look into the Logo Evolution">
+                                <img itemprop="contentUrl url" src='https://logopoppin.com/wp-content/uploads/2021/07/Feature-Image.png' alt='Target Logo History: A Brief Look into the Logo Evolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Poppin" />
+                                </span>
+                                <a href='https://logopoppin.com/wp-content/uploads/2021/07/Feature-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fifty, Fun and Friendly: A Look Back at Target Firsts">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/b453773f-17d2-4ca4-948e-24c7535de517/target-924x462.jpg' alt='Fifty, Fun and Friendly: A Look Back at Target Firsts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/b453773f-17d2-4ca4-948e-24c7535de517/target-924x462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Logo: A Bullseye of Branding Brilliance - GraphicSprings">
+                                <img itemprop="contentUrl url" src='https://graphicsprings.com/wp-content/uploads/2023/07/image-56-1024x898.png' alt='Target Logo: A Bullseye of Branding Brilliance - GraphicSprings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicSprings" />
+                                </span>
+                                <a href='https://graphicsprings.com/wp-content/uploads/2023/07/image-56-1024x898.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fifty, Fun and Friendly: A Look Back at Target Firsts">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/af10215e-1060-4458-b506-d0003f1e2885/1962.png' alt='Fifty, Fun and Friendly: A Look Back at Target Firsts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/af10215e-1060-4458-b506-d0003f1e2885/1962.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

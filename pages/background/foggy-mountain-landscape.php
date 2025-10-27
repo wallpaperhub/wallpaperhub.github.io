@@ -1,0 +1,129 @@
+<title>Enchanting Foggy Mountain Landscapes</title>
+                    <meta name="description" content="Explore breathtaking foggy mountain landscapes where mist dances over towering peaks and serene valleys. Discover tranquility amid nature's beauty in this captivating setting, ideal for adventurers and photographers alike. Immerse yourself in the magic of mist-shrouded mountains.">
+                    <meta name="keywords" content="foggy mountain landscape">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/foggy-mountain-landscape">
+                            <span itemprop="name">foggy mountain landscape</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Foggy Mountain Landscapes</h1>
+                <p>In the heart of the mountains, a thick fog blankets the landscape, shrouding towering peaks and lush valleys. Wispy tendrils of mist weave through ancient trees, creating an ethereal atmosphere. The muted colors and soft sounds evoke a sense of tranquility, inviting adventurers to explore a hidden world where nature whispers its secrets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty foggy mountain landscape with fir forest and copyspace in ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/34/98/60/1000_F_434986041_GoO6XsfpYKpIyyae8i5pDo0DbVcO59pC.jpg' alt='Misty foggy mountain landscape with fir forest and copyspace in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/34/98/60/1000_F_434986041_GoO6XsfpYKpIyyae8i5pDo0DbVcO59pC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Mountain Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675874984346-2837d5e423a2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9nZ3klMjBtb3VudGFpbnxlbnwwfHwwfHx8MA%3D%3D' alt='Foggy Mountain Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675874984346-2837d5e423a2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9nZ3klMjBtb3VudGFpbnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Mountain Landscape Royalty-Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://isorepublic.com/wp-content/uploads/2022/08/iso-republic-nature-mountains-fog.jpg' alt='Foggy Mountain Landscape Royalty-Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4752">
+                                <meta itemprop="height" content="3168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ISO Republic" />
+                                </span>
+                                <a href='https://isorepublic.com/wp-content/uploads/2022/08/iso-republic-nature-mountains-fog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="foggy mountains and trees with fog in the background and the sky ...">
+                                <img itemprop="contentUrl url" src='https://d1vcy8ih94g58p.cloudfront.net/eyJrZXkiOiIyNDUyODJcL3JlclAyNjk3REhPSlRwbTZiZFI1MFBJMDhJOTlTaVIxMjJtanVaUUcuanBnIiwiYnVja2V0Ijoid2lyZXN0b2NrLW9yaWdpbmFsLXByb2R1Y3Rpb24iLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMjQsImZpdCI6ImNvdmVyIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6IndpcmVzdG9jay1vcmlnaW5hbC1wcm9kdWN0aW9uIiwia2V5Ijoid2F0ZXJtYXJrc1wvd2F0ZXJtYXJrLXJlcGVhdC12MC4wLjIucG5nIiwib3B0aW9ucyI6eyJ0aWxlIjp0cnVlfX0sImpwZWciOnsicXVhbGl0eSI6ODB9fX0=?signature=b974a62c5f07b9faed28e05d157333797a0b08f39b10f635f009b935772372dc' alt='foggy mountains and trees with fog in the background and the sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wirestock" />
+                                </span>
+                                <a href='https://d1vcy8ih94g58p.cloudfront.net/eyJrZXkiOiIyNDUyODJcL3JlclAyNjk3REhPSlRwbTZiZFI1MFBJMDhJOTlTaVIxMjJtanVaUUcuanBnIiwiYnVja2V0Ijoid2lyZXN0b2NrLW9yaWdpbmFsLXByb2R1Y3Rpb24iLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMjQsImZpdCI6ImNvdmVyIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6IndpcmVzdG9jay1vcmlnaW5hbC1wcm9kdWN0aW9uIiwia2V5Ijoid2F0ZXJtYXJrc1wvd2F0ZXJtYXJrLXJlcGVhdC12MC4wLjIucG5nIiwib3B0aW9ucyI6eyJ0aWxlIjp0cnVlfX0sImpwZWciOnsicXVhbGl0eSI6ODB9fX0=?signature=b974a62c5f07b9faed28e05d157333797a0b08f39b10f635f009b935772372dc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Foggy Mountain Road Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/a/9/a/a9abd3dc-918a-4688-a26b-7f499f78b894_large/foggy-mountain-road-stockcake.jpg' alt='Free Foggy Mountain Road Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/a/9/a/a9abd3dc-918a-4688-a26b-7f499f78b894_large/foggy-mountain-road-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape of Foggy Mountains at Dawn · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/19582155/pexels-photo-19582155/free-photo-of-landscape-of-foggy-mountains-at-dawn.jpeg' alt='Landscape of Foggy Mountains at Dawn · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5568">
+                                <meta itemprop="height" content="3712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/19582155/pexels-photo-19582155/free-photo-of-landscape-of-foggy-mountains-at-dawn.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Mountain Landscape · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/14900787/pexels-photo-14900787.jpeg' alt='Foggy Mountain Landscape · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4024">
+                                <meta itemprop="height" content="6048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/14900787/pexels-photo-14900787.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty foggy mountain landscape with fir forest by Julien">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/misty-foggy-mountain-landscape-with-fir-forest-julien.jpg' alt='Misty foggy mountain landscape with fir forest by Julien'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/misty-foggy-mountain-landscape-with-fir-forest-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fog on the Mountain | Braid Mission">
+                                <img itemprop="contentUrl url" src='https://braidmission.org/wp-content/uploads/bb-plugin/cache/fog-mountain-landscape-4bf92a2fba3d9c542fd55b5c0209db9b-.jpg' alt='Fog on the Mountain | Braid Mission'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Braid Mission" />
+                                </span>
+                                <a href='https://braidmission.org/wp-content/uploads/bb-plugin/cache/fog-mountain-landscape-4bf92a2fba3d9c542fd55b5c0209db9b-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,975 Foggy Mountain Scenery Sunset Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/foggy-mountain-landscape-dawn-autumn-scenery-slovenia-sveti-toma%C3%A5%C2%BE-hill-sunrise-130067571.jpg' alt='30,975 Foggy Mountain Scenery Sunset Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/foggy-mountain-landscape-dawn-autumn-scenery-slovenia-sveti-toma%C3%A5%C2%BE-hill-sunrise-130067571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Welcome to the Team: Inspiring Images for New Beginnings</title>
+                    <meta name="description" content="Discover captivating "welcome to the team" images that inspire connection and excitement. Perfect for celebrating new members, these visuals enhance team spirit and promote unity. Ideal for sharing on your website or social media, they create a warm and inviting atmosphere for everyone joining your organization.">
+                    <meta name="keywords" content="welcome to the team images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-to-the-team-images">
+                            <span itemprop="name">welcome to the team images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Welcome to the Team: Inspiring Images for New Beginnings</h1>
+                <p>Welcome to the team images are a vibrant way to celebrate new beginnings and foster a sense of unity. These images can feature diverse groups engaging in team-building activities or simply enjoying shared moments. Use them to create a warm atmosphere, enhancing camaraderie and excitement for new members joining your organization.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To The Team Images – Browse 83,637 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/14/99/66/360_F_414996646_lhPcI6r4O0EyOUGpnUvURn2KL9IEcRhD.jpg' alt='Welcome To The Team Images – Browse 83,637 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/14/99/66/360_F_414996646_lhPcI6r4O0EyOUGpnUvURn2KL9IEcRhD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To The Team Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/457/379/non_2x/welcome-to-the-team-welcome-illustration-with-text-vector.jpg' alt='Welcome To The Team Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/457/379/non_2x/welcome-to-the-team-welcome-illustration-with-text-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To The Team Images – Browse 83,637 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/00/27/18/360_F_400271848_F6VOYPfgKC34jDHQnQ1tPvheNQkDdnHj.jpg' alt='Welcome To The Team Images – Browse 83,637 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/00/27/18/360_F_400271848_F6VOYPfgKC34jDHQnQ1tPvheNQkDdnHj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280+ Welcome To The Team Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2187160964/vector/welcome-to-the-team-poster-banner-template-with-colorful-typography-illustration-job.jpg?s=612x612&w=0&k=20&c=wcVJ-Ny4m4TlDC-Brl3m1-25aQMjKcmMMG0BAR7uUiI=' alt='280+ Welcome To The Team Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2187160964/vector/welcome-to-the-team-poster-banner-template-with-colorful-typography-illustration-job.jpg?s=612x612&w=0&k=20&c=wcVJ-Ny4m4TlDC-Brl3m1-25aQMjKcmMMG0BAR7uUiI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Black Glittery Welcome To The Team Banner And Welcome Sign  Hanging Decorations, Welcome Banner, Welcome Decorations for New Employee  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xEEmVf9jL.jpg' alt='Amazon.com: Black Glittery Welcome To The Team Banner And Welcome Sign  Hanging Decorations, Welcome Banner, Welcome Decorations for New Employee  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xEEmVf9jL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Team Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/welcome-team-colorful-modern-text-effect-with-celebration-elements-blue-background_375539-1498.jpg?semt=ais_hybrid' alt='Welcome Team Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/welcome-team-colorful-modern-text-effect-with-celebration-elements-blue-background_375539-1498.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Team Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/welcome-team-quote-lettering_271392-373.jpg?semt=ais_hybrid' alt='Welcome Team Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/welcome-team-quote-lettering_271392-373.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="370+ Welcome To The Team Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2052068199/vector/creative-welcome-to-the-team-banner-for-your-recruitment-process.jpg?s=612x612&w=0&k=20&c=UN9zYHy_PaW8aV6V020w2gjlBgDWrs98XTk0IT1uTA0=' alt='370+ Welcome To The Team Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2052068199/vector/creative-welcome-to-the-team-banner-for-your-recruitment-process.jpg?s=612x612&w=0&k=20&c=UN9zYHy_PaW8aV6V020w2gjlBgDWrs98XTk0IT1uTA0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Group Cards - welcome to the team">
+                                <img itemprop="contentUrl url" src='https://groupleavingcards.com/assets/design/61d35a1c116573293fddd39c.jpg' alt='Group Cards - welcome to the team'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Group Cards" />
+                                </span>
+                                <a href='https://groupleavingcards.com/assets/design/61d35a1c116573293fddd39c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Team Welcome Stock Illustrations – 8,602 Team Welcome Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/handwritten-lettering-welcome-to-team-vector-illustration-template-banner-invitation-party-postcard-poster-print-172986771.jpg' alt='Team Welcome Stock Illustrations – 8,602 Team Welcome Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/handwritten-lettering-welcome-to-team-vector-illustration-template-banner-invitation-party-postcard-poster-print-172986771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

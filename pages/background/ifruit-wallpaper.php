@@ -1,0 +1,129 @@
+<title>Stunning iFruit Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover vibrant iFruit wallpaper options for your devices. Perfectly capturing the spirit of the popular app, these wallpapers provide a fresh and fun look to your screens. Explore various designs that enhance your mobile experience while showcasing your love for gaming and creativity!">
+                    <meta name="keywords" content="ifruit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ifruit-wallpaper">
+                            <span itemprop="name">ifruit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iFruit Wallpaper for Your Device</h1>
+                <p>Ifruit wallpaper is a trendy choice for those wanting to personalize their devices with vibrant and fun backgrounds. Featuring eye-catching designs inspired by the popular iFruit app from the Grand Theft Auto V universe, these wallpapers enhance any screen. Perfect for fans of gaming and unique aesthetics, they bring creativity right to your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ifruit wallpaper by ale17537 - Download on ZEDGE™ | f57a">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=9tQ50YyRxDXoXzsKOG9wBCKRPYQEIHSsLeNNT2M96JGumHd1q0r0ySglOHlYQUjJEs5j1cxS3_SKRZHWGnDwVG_Bd1k_TG3k8cEfJ6hx1TQWU-kxSrax4KfSyJriF2qrjlkRIWULxPNlcwX7rNpYYYnMU85LptanUIb29Yz6dW01I9x449ciBr_WvrEs7MxTWW44XX6HWxm7jOWaVBwmbjX7SyLOjQAeLM2YcA' alt='Ifruit wallpaper by ale17537 - Download on ZEDGE™ | f57a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=9tQ50YyRxDXoXzsKOG9wBCKRPYQEIHSsLeNNT2M96JGumHd1q0r0ySglOHlYQUjJEs5j1cxS3_SKRZHWGnDwVG_Bd1k_TG3k8cEfJ6hx1TQWU-kxSrax4KfSyJriF2qrjlkRIWULxPNlcwX7rNpYYYnMU85LptanUIb29Yz6dW01I9x449ciBr_WvrEs7MxTWW44XX6HWxm7jOWaVBwmbjX7SyLOjQAeLM2YcA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ifruit wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/848/747/HD-wallpaper-ifruit-gta-v-logo.jpg' alt='HD ifruit wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/848/747/HD-wallpaper-ifruit-gta-v-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA V iFruit wallpaper by R3NCruz - Download on ZEDGE™ | 61a6">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=6utnoqjgsDq6m855uAvAJIftVQlEgfAzarlAp4xVvdSwXASy6_qAimdA-IbuT4v0eCelA0IJyZGyg2KibfItmGUrnbzOCoercjhR5ls514AsrdP22GsML_msjc-1UePxXDAxghSAYzrbFBNEMhhTeknGNn00peOs_QII-04gBVMfXKyWHsQjUsEt3KfGkwwYfTmlTL2LGvWQOWfmF2iY7kpcMpVktwoTTYO5Ag' alt='GTA V iFruit wallpaper by R3NCruz - Download on ZEDGE™ | 61a6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=6utnoqjgsDq6m855uAvAJIftVQlEgfAzarlAp4xVvdSwXASy6_qAimdA-IbuT4v0eCelA0IJyZGyg2KibfItmGUrnbzOCoercjhR5ls514AsrdP22GsML_msjc-1UePxXDAxghSAYzrbFBNEMhhTeknGNn00peOs_QII-04gBVMfXKyWHsQjUsEt3KfGkwwYfTmlTL2LGvWQOWfmF2iY7kpcMpVktwoTTYO5Ag' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I tried to imagine what a modern iFruit phone would look like. : r/GTA">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/53yrxj3gqgm91.jpg' alt='I tried to imagine what a modern iFruit phone would look like. : r/GTA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/53yrxj3gqgm91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ifruit Colorido, apple, galaxy, gta, gta 5, gta v, logo, phone, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/535/834/HD-wallpaper-ifruit-colorido-apple-galaxy-gta-gta-5-gta-v-logo-phone.jpg' alt='Ifruit Colorido, apple, galaxy, gta, gta 5, gta v, logo, phone, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/535/834/HD-wallpaper-ifruit-colorido-apple-galaxy-gta-gta-5-gta-v-logo-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've always loved the ifruit wallpapers so I stole them from the ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/mmcn3YG8EgMsQUGi_94WiVqFQ31EWjxEtN249FZEuac.jpg?auto=webp&s=80b6e04d95ede26fc4374ddf513b1b9921d2095a' alt='I've always loved the ifruit wallpapers so I stole them from the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/mmcn3YG8EgMsQUGi_94WiVqFQ31EWjxEtN249FZEuac.jpg?auto=webp&s=80b6e04d95ede26fc4374ddf513b1b9921d2095a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35975498-A485-4915-B7F5- » homescreen for iPhone 6 (from « iFruit ...">
+                                <img itemprop="contentUrl url" src='https://data.tooliphone.net/iskin/themes/44378/23492/homescreen/homescreen-12360.jpeg' alt='35975498-A485-4915-B7F5- » homescreen for iPhone 6 (from « iFruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iSkin" />
+                                </span>
+                                <a href='https://data.tooliphone.net/iskin/themes/44378/23492/homescreen/homescreen-12360.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ifruit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/18/ba/4118ba3b4bc6839a19dfeaaaae3d8a2b.jpg' alt='ifruit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/18/ba/4118ba3b4bc6839a19dfeaaaae3d8a2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Logos and Wallpapers for Ifruit/Bittersweet Phones - GTA5 ...">
+                                <img itemprop="contentUrl url" src='https://img.gta5-mods.com/q95/images/real-logos-and-wallpapers-for-ifruit-bittersweet-phones/d5108c-Untitled.png' alt='Real Logos and Wallpapers for Ifruit/Bittersweet Phones - GTA5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GTA5-Mods.com" />
+                                </span>
+                                <a href='https://img.gta5-mods.com/q95/images/real-logos-and-wallpapers-for-ifruit-bittersweet-phones/d5108c-Untitled.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iFruit Phone Background by Mr123Spiky on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f06a5152-4c13-4335-99c8-87346e51e7eb/d6qg8z7-17455203-99d6-40f6-bc67-041a613fcf51.jpg/v1/fill/w_320,h_480,q_75,strp/ifruit_phone_background_by_mr123spiky_d6qg8z7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgwIiwicGF0aCI6IlwvZlwvZjA2YTUxNTItNGMxMy00MzM1LTk5YzgtODczNDZlNTFlN2ViXC9kNnFnOHo3LTE3NDU1MjAzLTk5ZDYtNDBmNi1iYzY3LTA0MWE2MTNmY2Y1MS5qcGciLCJ3aWR0aCI6Ijw9MzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.VvqVPDnCZsycSbj3aGs-C7lKnn8r-jUn3AmLMjMMxNs' alt='iFruit Phone Background by Mr123Spiky on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f06a5152-4c13-4335-99c8-87346e51e7eb/d6qg8z7-17455203-99d6-40f6-bc67-041a613fcf51.jpg/v1/fill/w_320,h_480,q_75,strp/ifruit_phone_background_by_mr123spiky_d6qg8z7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgwIiwicGF0aCI6IlwvZlwvZjA2YTUxNTItNGMxMy00MzM1LTk5YzgtODczNDZlNTFlN2ViXC9kNnFnOHo3LTE3NDU1MjAzLTk5ZDYtNDBmNi1iYzY3LTA0MWE2MTNmY2Y1MS5qcGciLCJ3aWR0aCI6Ijw9MzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.VvqVPDnCZsycSbj3aGs-C7lKnn8r-jUn3AmLMjMMxNs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

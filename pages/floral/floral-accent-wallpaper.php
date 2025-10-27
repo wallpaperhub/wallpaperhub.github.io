@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Accent Wallpaper</title>
+                    <meta name="description" content="Add elegance to your home with floral accent wallpaper. Ideal for any room, these stunning designs bring nature indoors, enhancing your interior decor. Explore patterns that suit your style and elevate your space effortlessly.">
+                    <meta name="keywords" content="floral accent wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-accent-wallpaper">
+                            <span itemprop="name">floral accent wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Accent Wallpaper</h1>
+                <p>Floral accent wallpaper adds a touch of nature to your interior decor, bringing warmth and vibrancy to any space. Whether you choose bold blooms or subtle patterns, floral wallpapers create an inviting atmosphere that enhances your home. Perfect for bedrooms, living rooms, or accent walls, they offer endless possibilities for creative expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' alt='Moody Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_570xN.3576068430_62az.jpg' alt='Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_570xN.3576068430_62az.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813ltMDmcwL.jpg' alt='Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813ltMDmcwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Floral Wallpaper. Original Colors. Peel and Stick and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21549347/r/il/3ecef1/5454081504/il_570xN.5454081504_egfw.jpg' alt='Garden Floral Wallpaper. Original Colors. Peel and Stick and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21549347/r/il/3ecef1/5454081504/il_570xN.5454081504_egfw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique Peony Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/284/1459/antique_vintage_peony_wallpaper4__20447.1720452985.jpg?c=2' alt='Antique Peony Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/284/1459/antique_vintage_peony_wallpaper4__20447.1720452985.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dahlia (Tan) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/DahliaTanWallpaperBohoFloralPrint_4.png?v=1715275914&width=2048' alt='Dahlia (Tan) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/DahliaTanWallpaperBohoFloralPrint_4.png?v=1715275914&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flowers Accent Mural Wall Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/a2aeccdbc0eef1741f698a981eed463931d4295d.jpg?v=1686243924' alt='Wild Flowers Accent Mural Wall Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/a2aeccdbc0eef1741f698a981eed463931d4295d.jpg?v=1686243924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/812wTQpeopL.jpg' alt='Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/812wTQpeopL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.kokoartshop.com/cdn/shop/products/002_Angle_Interior_Scene_cc7bba40-b5a4-402e-94a0-5efcd374e150.jpg?v=1636660339' alt='Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='http://www.kokoartshop.com/cdn/shop/products/002_Angle_Interior_Scene_cc7bba40-b5a4-402e-94a0-5efcd374e150.jpg?v=1636660339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Flower" Wallpaper | Large Pattern Wall Decor | Luxury ...">
+                                <img itemprop="contentUrl url" src='http://vivianferne.com/cdn/shop/files/Floral-Wall-Decor-Wallpaper-Large-Pattern-Luxury-Flower-Design.webp?crop=center&height=1200&v=1682965184&width=1200' alt='Stone Flower" Wallpaper | Large Pattern Wall Decor | Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='http://vivianferne.com/cdn/shop/files/Floral-Wall-Decor-Wallpaper-Large-Pattern-Luxury-Flower-Design.webp?crop=center&height=1200&v=1682965184&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

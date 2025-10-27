@@ -1,0 +1,129 @@
+<title>Mellow Backgrounds: Enhance Your Space</title>
+                    <meta name="description" content="Discover the beauty of mellow backgrounds that set a tranquil tone for any environment. Perfect for personal or professional use, these serene designs promote relaxation and creativity. Transform your space and elevate your mood effortlessly with soothing colors and subtle patterns.">
+                    <meta name="keywords" content="mellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mellow-background">
+                            <span itemprop="name">mellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mellow Backgrounds: Enhance Your Space</h1>
+                <p>Mellow backgrounds create a serene atmosphere, offering a perfect backdrop for relaxation and creativity. Whether it's a soft pastel hue or a gentle gradient, these subtle designs promote calmness and focus. Ideal for personal spaces or professional settings, a mellow background enhances your mood while maintaining visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,638 Mellow Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/mellow-yellow-watercolor-texture-background-260nw-2523186909.jpg' alt='53,638 Mellow Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/mellow-yellow-watercolor-texture-background-260nw-2523186909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mellow Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-golden-white-mellow-ink-background-banner-background-image_519983.jpg' alt='Mellow Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-golden-white-mellow-ink-background-banner-background-image_519983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | Mellow light blue curve gradient background">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/6e/6e1b40240f729968325420e7f7218556_t.jpeg' alt='Free Photos | Mellow light blue curve gradient background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/6e/6e1b40240f729968325420e7f7218556_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gradient Three-dimensional Mellow Poster Background ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20190127/dark-gradient-three-dimensional-mellow-poster-background_1858384.jpg!w700wp' alt='Dark Gradient Three-dimensional Mellow Poster Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20190127/dark-gradient-three-dimensional-mellow-poster-background_1858384.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mellow Days - Intuition Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.intuitionbackgrounds.com/cdn/shop/files/mellow-days-horizontal-poly-5x4-backdrop-522_1200x.webp?v=1724952677' alt='Mellow Days - Intuition Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intuition Backgrounds" />
+                                </span>
+                                <a href='https://www.intuitionbackgrounds.com/cdn/shop/files/mellow-days-horizontal-poly-5x4-backdrop-522_1200x.webp?v=1724952677' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mellow | Free stock photos - Rgbstock - Free stock images | Gramps ...">
+                                <img itemprop="contentUrl url" src='https://b.rgbimg.com/users/g/gr/gramps/600/mRNNCG4.jpg' alt='Mellow | Free stock photos - Rgbstock - Free stock images | Gramps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rgbstock" />
+                                </span>
+                                <a href='https://b.rgbimg.com/users/g/gr/gramps/600/mRNNCG4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mellow Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mellow-qqqs2vgq7qrxpbk8.jpg' alt='100+] Mellow Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mellow-qqqs2vgq7qrxpbk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,638 Mellow Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/beautiful-blue-pale-sky-smooth-260nw-176277914.jpg' alt='53,638 Mellow Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/beautiful-blue-pale-sky-smooth-260nw-176277914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Mellow Yellow Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-mellow-yellow-solid-color-background.jpg' alt='1920x1080 Mellow Yellow Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-mellow-yellow-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mellow Stock Photos, Royalty Free Mellow Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1003368/13781/i/450/depositphotos_137813308-stock-photo-wood-textured-background.jpg' alt='Mellow Stock Photos, Royalty Free Mellow Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1003368/13781/i/450/depositphotos_137813308-stock-photo-wood-textured-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

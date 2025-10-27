@@ -1,0 +1,129 @@
+<title>Stunning Purple Wallpapers for Your Computer</title>
+                    <meta name="description" content="Discover a vibrant collection of purple wallpapers for your computer! Perfect for adding a touch of elegance and personality, these designs cater to every taste. Enhance your workspace with eye-catching visuals that inspire productivity and creativity. Browse now and find your perfect match!">
+                    <meta name="keywords" content="purple:i7f-w3ppo7e= wallpaper for computer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purplei7f-w3ppo7e-wallpaper-for-computer">
+                            <span itemprop="name">purple:i7f-w3ppo7e= wallpaper for computer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Wallpapers for Your Computer</h1>
+                <p>Elevate your computer's aesthetic with stunning purple wallpaper! This vibrant color adds a touch of elegance and creativity to your workspace. Explore various designs, from minimalist patterns to intricate graphics, ensuring your screen reflects your unique style. Transform your digital environment today with captivating purple hues!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 7 Purple Ultra HD Wallpaper for 4K UHD TV & Desktop ...">
+                                <img itemprop="contentUrl url" src='https://wallpaperswide.com/download/windows_7_purple-wallpaper-1366x768.jpg' alt='Windows 7 Purple Ultra HD Wallpaper for 4K UHD TV & Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://wallpaperswide.com/download/windows_7_purple-wallpaper-1366x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-laptop-3000-x-1573-bjd58yh9jnejo4cx.jpg' alt='100+] Purple Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-laptop-3000-x-1573-bjd58yh9jnejo4cx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 7 Purple (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/windows-7-purple-1920x1080-v0-rkx7pyyvj4m81.jpg?width=640&crop=smart&auto=webp&s=b053653ea6bb0c8fd38b6c293e8d56213488abd1' alt='Windows 7 Purple (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/windows-7-purple-1920x1080-v0-rkx7pyyvj4m81.jpg?width=640&crop=smart&auto=webp&s=b053653ea6bb0c8fd38b6c293e8d56213488abd1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper for Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/33/6f/37/336f37e0bf3b864bc8a2f8f8ef4e375c.png' alt='Purple Wallpaper for Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/33/6f/37/336f37e0bf3b864bc8a2f8f8ef4e375c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Windows 7 Purple Full HD, pink color, illuminated ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/740/998/382/windows-7-purple-full-hd-wallpaper-preview.jpg' alt='HD wallpaper: Windows 7 Purple Full HD, pink color, illuminated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/740/998/382/windows-7-purple-full-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper - PERFECT PURPLE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/cd/23/c7cd23fa6fdee1d5ecc5a5cb9e008700.jpg' alt='Desktop Wallpaper - PERFECT PURPLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/cd/23/c7cd23fa6fdee1d5ecc5a5cb9e008700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple desktop wallpaper | Desktop wallpaper organizer, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/7d/b0/e47db09fbb5afced1fa05d7e9143e0f0.jpg' alt='purple desktop wallpaper | Desktop wallpaper organizer, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/7d/b0/e47db09fbb5afced1fa05d7e9143e0f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple wallpapers for computer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/09/9f/3a099f393f621a66f8b4f3ced62f1b4e.jpg' alt='purple wallpapers for computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/09/9f/3a099f393f621a66f8b4f3ced62f1b4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Purple HD Desktop Wallpapers HQ Wallpapers - Free Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fb/f6/e9/fbf6e965328121f93408f896594e6031.jpg' alt='22 Purple HD Desktop Wallpapers HQ Wallpapers - Free Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fb/f6/e9/fbf6e965328121f93408f896594e6031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Desktop Wallpaper Hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif' alt='Purple Desktop Wallpaper Hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

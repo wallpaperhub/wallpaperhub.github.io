@@ -1,0 +1,129 @@
+<title>Harley-Davidson: A Legendary Motorcycle Journey</title>
+                    <meta name="description" content="Discover the rich history of Harley-Davidson, an American motorcycle legend. From its humble beginnings in 1903 to becoming a symbol of freedom and adventure. Explore the innovations that shaped the brand and its enduring cultural impact. Join the ride and celebrate this iconic legacy!">
+                    <meta name="keywords" content="harley davidson history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harley-davidson-history">
+                            <span itemprop="name">harley davidson history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harley-Davidson: A Legendary Motorcycle Journey</h1>
+                <p>Harley-Davidson was founded in 1903 in Milwaukee, Wisconsin, by William S. Harley and Arthur Davidson. Initially producing small engines, the company steadily grew, becoming iconic for its heavyweight motorcycles and a distinctive culture. With a storied legacy of innovation, rebellion, and Americana, Harley remains synonymous with freedom and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline Of Harley-Davidson History | Motorcycle Cruiser">
+                                <img itemprop="contentUrl url" src='http://thumbor-prod-us-east-1.photo.aws.arc.pub/AbC1oapjPBoYacY0n-ExJt0taAg=/arc-photo-octane/arc3-prod/public/46IWM2PKZUZCEQ2TWYRRRJBTXA.jpg' alt='Timeline Of Harley-Davidson History | Motorcycle Cruiser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorcycle Cruiser" />
+                                </span>
+                                <a href='http://thumbor-prod-us-east-1.photo.aws.arc.pub/AbC1oapjPBoYacY0n-ExJt0taAg=/arc-photo-octane/arc3-prod/public/46IWM2PKZUZCEQ2TWYRRRJBTXA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big List - Important Harley-Davidsons Throughout Time">
+                                <img itemprop="contentUrl url" src='https://cdn.motor1.com/images/mgl/KR9zG/s1/the-big-list-important-harley-davidsons-throughout-time.jpg' alt='The Big List - Important Harley-Davidsons Throughout Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RideApart.com" />
+                                </span>
+                                <a href='https://cdn.motor1.com/images/mgl/KR9zG/s1/the-big-list-important-harley-davidsons-throughout-time.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline Of Harley-Davidson History | Motorcycle Cruiser">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/octane/R6TYWDEOOBBXNFHLFWN5WE6ICI.jpg' alt='Timeline Of Harley-Davidson History | Motorcycle Cruiser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorcycle Cruiser" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/octane/R6TYWDEOOBBXNFHLFWN5WE6ICI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley-Davidson - a brief history of the world's most famous motorcycl">
+                                <img itemprop="contentUrl url" src='https://roadskin.co.uk/cdn/shop/articles/harley-davidson-a-brief-history-of-the-world-s-most-famous-motorcycle-company-roadskin-r_1200x.jpg?v=1716994397' alt='Harley-Davidson - a brief history of the world's most famous motorcycl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roadskin" />
+                                </span>
+                                <a href='https://roadskin.co.uk/cdn/shop/articles/harley-davidson-a-brief-history-of-the-world-s-most-famous-motorcycle-company-roadskin-r_1200x.jpg?v=1716994397' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Davidson History Of America's Motorcycle Exhibit">
+                                <img itemprop="contentUrl url" src='https://www.aacamuseum.org/wp-content/uploads/2019/07/fi-HarleyDavidson.jpg' alt='Harley Davidson History Of America's Motorcycle Exhibit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AACA Museum" />
+                                </span>
+                                <a href='https://www.aacamuseum.org/wp-content/uploads/2019/07/fi-HarleyDavidson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Moments in Harley-Davidson History. Celebrating 120 Years of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.room58.com/2023/01/28/442df459ebbf3d9a19483d14c88dacd3_945cb585752ef4a4.jpg' alt='Top Moments in Harley-Davidson History. Celebrating 120 Years of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peterson's Harley-Davidson" />
+                                </span>
+                                <a href='https://cdn.room58.com/2023/01/28/442df459ebbf3d9a19483d14c88dacd3_945cb585752ef4a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harley Davidson Motorcycle Evolution 1903-2020">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_nu19_rIcgY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDdlp-p5RPwCewzZNZB3FIGMpFOoQ' alt='Harley Davidson Motorcycle Evolution 1903-2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_nu19_rIcgY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDdlp-p5RPwCewzZNZB3FIGMpFOoQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Harley-Davidson, an Iconic US Company Facing New ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5ccc7d49e9f08a366a22019f?width=600&format=jpeg&auto=webp' alt='History of Harley-Davidson, an Iconic US Company Facing New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5ccc7d49e9f08a366a22019f?width=600&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of Harley-Davidson motorcycles | Carole Nash">
+                                <img itemprop="contentUrl url" src='https://www.carolenash.com/images/librariesprovider6/blog-posts/harley_1.jpg?sfvrsn=b06e9ade_1' alt='A brief history of Harley-Davidson motorcycles | Carole Nash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carole Nash" />
+                                </span>
+                                <a href='https://www.carolenash.com/images/librariesprovider6/blog-posts/harley_1.jpg?sfvrsn=b06e9ade_1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Machines That Built America: Harley-Davidson Transforms Motorcycles  Forever | History">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oT__Ai80-7k/maxresdefault.jpg' alt='The Machines That Built America: Harley-Davidson Transforms Motorcycles  Forever | History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oT__Ai80-7k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

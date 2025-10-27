@@ -1,0 +1,129 @@
+<title>Colorful Pink, Blue & Yellow Wallpaper Ideas</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink blue and yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/pink-blue-and-yellow-wallpaper">
+                            <span itemprop="name">pink blue and yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Pink, Blue & Yellow Wallpaper Ideas</h1>
+                <p>Experience the perfect blend of color and design with pink, blue, and yellow wallpaper! This vibrant trio creates a cheerful atmosphere in any room, offering a playful yet sophisticated touch. Ideal for nurseries, living spaces, or accent walls, this wallpaper transforms your home into a lively retreat and sparks joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Background Blurry Pink Blue Yellow Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pretty-background-blurry-pink-blue-yellow-l845i8kofg6l14xf.jpg' alt='Pretty Background Blurry Pink Blue Yellow Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pretty-background-blurry-pink-blue-yellow-l845i8kofg6l14xf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Yellow And Blue Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-yellow-and-blue-spor6rcc6tfrm9k6.jpg' alt='100+] Pink Yellow And Blue Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-yellow-and-blue-spor6rcc6tfrm9k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract gradient blue pink and yellow wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-gradient-blue-pink-yellow-wallpaper-background-illustration_640644-178.jpg' alt='Premium Vector | Abstract gradient blue pink and yellow wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-gradient-blue-pink-yellow-wallpaper-background-illustration_640644-178.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Yellow Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240102/pngtree-vibrant-watercolor-background-in-pink-yellow-and-blue-hues-image_13913022.png' alt='Pink Blue Yellow Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240102/pngtree-vibrant-watercolor-background-in-pink-yellow-and-blue-hues-image_13913022.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract pastel color paper background. Flat design. Creative ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/90/98/89/1000_F_190988969_t9a6XQTHO9iHEhbSEsoYopnJYxyh2XVm.jpg' alt='Abstract pastel color paper background. Flat design. Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/90/98/89/1000_F_190988969_t9a6XQTHO9iHEhbSEsoYopnJYxyh2XVm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Abstract modern pink yellow blue background. Tie dye  pattern., 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/04/81/29/78/1000_F_481297851_dXn7NrOnhvzrN4pvRYxAR8wr2InrkMiV.jpg' alt='Poster, Print Abstract modern pink yellow blue background. Tie dye  pattern., 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/04/81/29/78/1000_F_481297851_dXn7NrOnhvzrN4pvRYxAR8wr2InrkMiV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Blue Pink Wavy Colorful Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-yellow-blue-pink-wavy-multi-colored-funky-background-picture-image_1331990.jpg' alt='Yellow Blue Pink Wavy Colorful Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-yellow-blue-pink-wavy-multi-colored-funky-background-picture-image_1331990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Yellow Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/decorative-surface-with-three-colors_23-2147628498.jpg' alt='Pink Blue Yellow Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/decorative-surface-with-three-colors_23-2147628498.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy, purple, pink, yellow, pastel phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/7a/e4/757ae44fcd22dcf9364f9fc81e8c1ba6.jpg' alt='Wavy, purple, pink, yellow, pastel phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/7a/e4/757ae44fcd22dcf9364f9fc81e8c1ba6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Pink Blue Yellow Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/gradient-yellow-blue-pink-pastel-baby-color-19-09-2024-1726775165.webp' alt='Most Popular Pink Blue Yellow Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/gradient-yellow-blue-pink-pastel-baby-color-19-09-2024-1726775165.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

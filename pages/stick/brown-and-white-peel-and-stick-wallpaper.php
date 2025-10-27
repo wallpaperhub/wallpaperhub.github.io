@@ -1,0 +1,129 @@
+<title>Chic Brown & White Peel and Stick Wallpaper for Easy Home Makeovers</title>
+                    <meta name="description" content="Add a touch of elegance to your home with brown and white peel and stick wallpaper. Effortlessly transform any room with this easy-to-use, removable design. Perfect for renters and DIY projects, it offers a stylish update to your decor without the hassle of traditional wallpaper. Shop now!">
+                    <meta name="keywords" content="brown and white peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/brown-and-white-peel-and-stick-wallpaper">
+                            <span itemprop="name">brown and white peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Brown & White Peel and Stick Wallpaper for Easy Home Makeovers</h1>
+                <p>Elevate your space with stunning brown and white peel and stick wallpaper! Ideal for renters and DIY enthusiasts, this stylish wallpaper is easy to apply and remove. Perfect for accent walls, nurseries, or kitchens, it adds warmth and character without the commitment of traditional wallpaper. Transform your home effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-brown.jpg?q=1699648034' alt='Brown Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-brown.jpg?q=1699648034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and White Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C889">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C889_03.png?v=1737244274&width=1946' alt='Brown and White Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C889'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C889_03.png?v=1737244274&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Paintbrush Maze Wallpaper in Latte & off White Colors ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9140003/r/il/8966e9/3134050936/il_570xN.3134050936_1kxm.jpg' alt='Brown Paintbrush Maze Wallpaper in Latte & off White Colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9140003/r/il/8966e9/3134050936/il_570xN.3134050936_1kxm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in×23ft Tan Brown Wallpaper Peel and Stick Wallpaper Self  Adhesive Tropical Fruit Wallpaper Light Tan & White Coconut Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81tuTLZZu4L.jpg' alt='ReWallpaper 17.5in×23ft Tan Brown Wallpaper Peel and Stick Wallpaper Self  Adhesive Tropical Fruit Wallpaper Light Tan & White Coconut Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81tuTLZZu4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Boho Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D133">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5045004477_stv1.jpg?v=1717308214&width=1946' alt='Brown Boho Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D133'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5045004477_stv1.jpg?v=1717308214&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18"x236" Boho Brown/White Flower Floral Peel and Stick Wallpaper Easy Peel  Off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on Wall Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZmTbv73BL._AC_UF894,1000_QL80_.jpg' alt='18"x236" Boho Brown/White Flower Floral Peel and Stick Wallpaper Easy Peel  Off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on Wall Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZmTbv73BL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smooth Moroccan Off White Brown Peel and Stick Vinyl Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f4ccc88b-25b6-4850-a99d-b18e22749980/svn/wallpaper-rolls-w9010-vinyl-offwhitebrown-216-44_600.jpg' alt='Smooth Moroccan Off White Brown Peel and Stick Vinyl Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f4ccc88b-25b6-4850-a99d-b18e22749980/svn/wallpaper-rolls-w9010-vinyl-offwhitebrown-216-44_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and White Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C889">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C889_08.png?v=1737244274&width=1946' alt='Brown and White Modern Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C889'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C889_08.png?v=1737244274&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds on Branches With White Leaves on a Brown Background Removable  wallpaper #3345">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3950631001_etvs.jpg?v=1657244667&width=1080' alt='Birds on Branches With White Leaves on a Brown Background Removable  wallpaper #3345'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3950631001_etvs.jpg?v=1657244667&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15639703/r/il/e6813a/6142806282/il_570xN.6142806282_ejf5.jpg' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15639703/r/il/e6813a/6142806282/il_570xN.6142806282_ejf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

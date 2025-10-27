@@ -1,0 +1,129 @@
+<title>Stunning Sparkle Diamond Backgrounds for Elegant Designs</title>
+                    <meta name="description" content="Discover dazzling sparkle diamond backgrounds that elevate your designs with elegance. Perfect for any creative project, our high-quality visuals enhance invitations, websites, and more. Add a touch of luxury and sophistication effortlessly with these captivating textures.">
+                    <meta name="keywords" content="sparkle diamond background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sparkle-diamond-background">
+                            <span itemprop="name">sparkle diamond background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sparkle Diamond Backgrounds for Elegant Designs</h1>
+                <p>A sparkle diamond background adds a touch of elegance and luxury to any design project. Perfect for invitations, presentations, or website aesthetics, these shimmering visuals capture attention with their radiant clarity and brilliance. Ideal for events that require a flashy vibe, a diamond texture enhances sophistication and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkle Diamond Background Images – Browse 326,810 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/61/68/99/360_F_161689955_EpKC0KL9j377yZPjRrmm4mc1sXxuKG9P.jpg' alt='Sparkle Diamond Background Images – Browse 326,810 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/61/68/99/360_F_161689955_EpKC0KL9j377yZPjRrmm4mc1sXxuKG9P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sparkling Diamond Brilliance Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/3/c/13c4da8d-9edf-46c3-9386-7bf47938e709_large/sparkling-diamond-brilliance-stockcake.jpg' alt='Free Sparkling Diamond Brilliance Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/3/c/13c4da8d-9edf-46c3-9386-7bf47938e709_large/sparkling-diamond-brilliance-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,200+ Sparkling Diamond On Blue Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/962086290/photo/polarization-pearl-sequins-shiny-glitter-background-3.jpg?s=612x612&w=0&k=20&c=R37aCAm0HnQpGHms9xxZFW0pXxntYfo3LklgBCC5p8E=' alt='6,200+ Sparkling Diamond On Blue Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/962086290/photo/polarization-pearl-sequins-shiny-glitter-background-3.jpg?s=612x612&w=0&k=20&c=R37aCAm0HnQpGHms9xxZFW0pXxntYfo3LklgBCC5p8E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,500+ Diamond Sparkle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1291470173/photo/silver-glitter-light.jpg?s=612x612&w=0&k=20&c=y0DuAQOGZUKLnqKqe9z977vFt9lisHevq1jStuqSsvk=' alt='41,500+ Diamond Sparkle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1291470173/photo/silver-glitter-light.jpg?s=612x612&w=0&k=20&c=y0DuAQOGZUKLnqKqe9z977vFt9lisHevq1jStuqSsvk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sparkling diamond gems Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/3/1/b/31b1f997-f655-4f31-84c5-841b9ae99093_large/sparkling-diamond-gems-stockcake.jpg' alt='Free Sparkling diamond gems Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/3/1/b/31b1f997-f655-4f31-84c5-841b9ae99093_large/sparkling-diamond-gems-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/christmas-with-bokeh-lights-snowflakes_1048-13593.jpg?semt=ais_hybrid' alt='Diamond Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/christmas-with-bokeh-lights-snowflakes_1048-13593.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : KUKUSOUL 7x5ft Sparkling Diamond Backdrop Shinging Glitter  Photography Background Woman Girl's Birthday Party Decor Photo Booth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811nyYN6ZpL.jpg' alt='Amazon.com : KUKUSOUL 7x5ft Sparkling Diamond Backdrop Shinging Glitter  Photography Background Woman Girl's Birthday Party Decor Photo Booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811nyYN6ZpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling diamonds on blue gradient background 47340807 Stock ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/340/807/large_2x/sparkling-diamonds-on-blue-gradient-background-photo.jpg' alt='Sparkling diamonds on blue gradient background 47340807 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/340/807/large_2x/sparkling-diamonds-on-blue-gradient-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Yeele 8x4ft Diamond Backdrop for Photography ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713xtpUTnDL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Yeele 8x4ft Diamond Backdrop for Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713xtpUTnDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Diamond Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/871/413/small_2x/elegant-background-featuring-dazzling-diamonds-gemstones-sparkle-magnificently-in-the-light-photo.jpg' alt='Sparkling Diamond Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/871/413/small_2x/elegant-background-featuring-dazzling-diamonds-gemstones-sparkle-magnificently-in-the-light-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

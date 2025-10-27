@@ -1,0 +1,129 @@
+<title>Astronomy Aesthetic Wallpaper: Cosmic Beauty for Your Screens</title>
+                    <meta name="description" content="Discover breathtaking astronomy aesthetic wallpaper that brings the universe to your device. Perfect for stargazers and dreamers, our curated collection features stunning designs of galaxies, stars, and cosmic landscapes to elevate your screen. Explore now and immerse yourself in celestial beauty!">
+                    <meta name="keywords" content="astronomy aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/astronomy-aesthetic-wallpaper">
+                            <span itemprop="name">astronomy aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Astronomy Aesthetic Wallpaper: Cosmic Beauty for Your Screens</h1>
+                <p>Astronomy aesthetic wallpaper transforms your screen into a cosmic wonderland. Featuring stunning visuals of galaxies, nebulae, and starry skies, these wallpapers inspire awe and ignite imagination. Perfect for stargazers and dreamers, each design captures the beauty of the universe, making everyday views a celestial experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you hear me Major Tom? #space #moon #stardust #cosmic #blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/d3/0f/1ad30fccc93e674a2016bac3c45995d1.jpg' alt='Can you hear me Major Tom? #space #moon #stardust #cosmic #blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/d3/0f/1ad30fccc93e674a2016bac3c45995d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy wallpaper 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b5/d9/a6/b5d9a687308d592edb2f7e515963ac31.jpg' alt='Astronomy wallpaper 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b5/d9/a6/b5d9a687308d592edb2f7e515963ac31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/57/55/3a575543c4a5e4dabcb42166bef5d0ae.jpg' alt='Astronomy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/57/55/3a575543c4a5e4dabcb42166bef5d0ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy iPhone wallpaper, aesthetic celestial | Premium Vector ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3YxMDgwLTE5OV8xLWt1dXl6eWNkLmpwZw.jpg' alt='Astronomy iPhone wallpaper, aesthetic celestial | Premium Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3YxMDgwLTE5OV8xLWt1dXl6eWNkLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue aesthetic stars, universe, wallpaper ᴄɪᴇʟᴏ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/99/c0/ab99c0162a17289aa03749275a6b99cf.jpg' alt='Blue aesthetic stars, universe, wallpaper ᴄɪᴇʟᴏ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/99/c0/ab99c0162a17289aa03749275a6b99cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpapers for ppl who like astronomy    | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7327500731471413765&index=5&sign=5ae370af0a139933bf87ccddedf03aa9' alt='wallpapers for ppl who like astronomy    | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7327500731471413765&index=5&sign=5ae370af0a139933bf87ccddedf03aa9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out ang3lcrying's Shuffles #space #spaceaesthetic #astronomy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b8/5d/01/b85d01a71e8824fd5bb6836574ae8585.jpg' alt='Check out ang3lcrying's Shuffles #space #spaceaesthetic #astronomy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b8/5d/01/b85d01a71e8824fd5bb6836574ae8585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtY2hvbmctMDAxYi5qcGc.jpg' alt='Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtY2hvbmctMDAxYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic planets wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/226/975/HD-wallpaper-space-aesthetic-earth-jupiter-moon-planet-saturn-stars-universe.jpg' alt='HD aesthetic planets wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/226/975/HD-wallpaper-space-aesthetic-earth-jupiter-moon-planet-saturn-stars-universe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Planets, Space, Galaxy, Astronomy, Aesthetic, Solar ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/56/solar-system-planets-aesthetic-galaxy-astronomy-space.webp' alt='Wallpaper Planets, Space, Galaxy, Astronomy, Aesthetic, Solar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/56/solar-system-planets-aesthetic-galaxy-astronomy-space.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

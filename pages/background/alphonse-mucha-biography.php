@@ -1,0 +1,129 @@
+<title>Explore the Fascinating Life of Alphonse Mucha: Master of Art Nouveau</title>
+                    <meta name="description" content="Dive into the life of Alphonse Mucha, the influential Art Nouveau artist. Discover his journey, iconic works, and enduring legacy that transformed the world of art and design. Perfect for art lovers and history enthusiasts alike!">
+                    <meta name="keywords" content="alphonse mucha biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alphonse-mucha-biography">
+                            <span itemprop="name">alphonse mucha biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fascinating Life of Alphonse Mucha: Master of Art Nouveau</h1>
+                <p>Alfons Mucha, born in 1860 in the Czech Republic, became a pivotal figure in the Art Nouveau movement. Renowned for his decorative paintings, illustrations, and advertisements, he blended natural forms with elegant women. His iconic style emphasized ornate patterns and flowing lines, making his work timeless and influential in design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography - Mucha Museum E-shop">
+                                <img itemprop="contentUrl url" src='https://www.mucha.cz/en/image/catalog/biography/alfons-mucha-loc-3c05828u.jpg' alt='Biography - Mucha Museum E-shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2877">
+                                <meta itemprop="height" content="3574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mucha Museum Prague" />
+                                </span>
+                                <a href='https://www.mucha.cz/en/image/catalog/biography/alfons-mucha-loc-3c05828u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphonse Mucha - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alfons_Mucha_in_Studio_%28c._1899%29.jpg/220px-Alfons_Mucha_in_Studio_%28c._1899%29.jpg' alt='Alphonse Mucha - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alfons_Mucha_in_Studio_%28c._1899%29.jpg/220px-Alfons_Mucha_in_Studio_%28c._1899%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphonse Mucha Paintings, Bio, Ideas | TheArtStory">
+                                <img itemprop="contentUrl url" src='https://www.theartstory.org/images20/new_design/c/c_mucha_alphonse.jpg' alt='Alphonse Mucha Paintings, Bio, Ideas | TheArtStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Story" />
+                                </span>
+                                <a href='https://www.theartstory.org/images20/new_design/c/c_mucha_alphonse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mucha Foundation">
+                                <img itemprop="contentUrl url" src='https://www.muchafoundation.org/static/img/timeline/timeline_landing.png' alt='Mucha Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mucha Foundation" />
+                                </span>
+                                <a href='https://www.muchafoundation.org/static/img/timeline/timeline_landing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphonse Maria Mucha Biography In Details">
+                                <img itemprop="contentUrl url" src='https://alfonsmucha.org/media//paintingsL/220102/self-portrait-3-reproduction-m.jpg?width=600' alt='Alphonse Maria Mucha Biography In Details'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphonse Maria Mucha" />
+                                </span>
+                                <a href='https://alfonsmucha.org/media//paintingsL/220102/self-portrait-3-reproduction-m.jpg?width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography - Mucha Museum E-shop">
+                                <img itemprop="contentUrl url" src='https://www.mucha.cz/en/image/catalog/biography/mucham.jpg' alt='Biography - Mucha Museum E-shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1263">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mucha Museum Prague" />
+                                </span>
+                                <a href='https://www.mucha.cz/en/image/catalog/biography/mucham.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphonse Mucha Paintings, Bio, Ideas | TheArtStory">
+                                <img itemprop="contentUrl url" src='https://www.theartstory.org/images20/photo/mucha_1.jpg' alt='Alphonse Mucha Paintings, Bio, Ideas | TheArtStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Story" />
+                                </span>
+                                <a href='https://www.theartstory.org/images20/photo/mucha_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alfons Mucha: Czech king of the Art Nouveau – Prague Blog">
+                                <img itemprop="contentUrl url" src='https://www.private-prague-guide.com/wp-content/uploads/alfons-mucha4.jpg' alt='Alfons Mucha: Czech king of the Art Nouveau – Prague Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prague Guide ~ Prague Tours ~ Private Guided Tours" />
+                                </span>
+                                <a href='https://www.private-prague-guide.com/wp-content/uploads/alfons-mucha4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography of Alphonse Mucha, Czech Art Nouveau Artist">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/le9NyfNNvjnHKO3kLE5HAQLkZCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/alphonse-mucha-5c0129ab46e0fb0001438551.jpg' alt='Biography of Alphonse Mucha, Czech Art Nouveau Artist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/le9NyfNNvjnHKO3kLE5HAQLkZCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/alphonse-mucha-5c0129ab46e0fb0001438551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alphonse Maria Mucha">
+                                <img itemprop="contentUrl url" src='https://alfonsmucha.org/media//paintingsL/135531/princess-hyacinth-1911-reprodu.jpg?width=600' alt='Alphonse Maria Mucha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphonse Maria Mucha" />
+                                </span>
+                                <a href='https://alfonsmucha.org/media//paintingsL/135531/princess-hyacinth-1911-reprodu.jpg?width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

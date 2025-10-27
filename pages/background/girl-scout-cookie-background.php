@@ -1,0 +1,129 @@
+<title>Discover the History and Impact of Girl Scout Cookies</title>
+                    <meta name="description" content="Uncover the rich history and significance of Girl Scout Cookies. Learn how these beloved treats support young girls in developing essential skills while indulging in tasty flavors. Join the movement that combines fun, community, and important life lessons with every delicious bite!">
+                    <meta name="keywords" content="girl scout cookie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/girl-scout-cookie-background">
+                            <span itemprop="name">girl scout cookie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the History and Impact of Girl Scout Cookies</h1>
+                <p>Girl Scout Cookies are more than just a delicious treat; they represent a long-standing tradition of community and entrepreneurship. Launched in the early 20th century, these cookies are sold by Girl Scouts to fund troop activities and promote skills such as teamwork, money management, and leadership. Today, they continue to delight consumers nationwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Scout Cookies 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/girlscoutcookies_grande.png?v=1676913587' alt='Girl Scout Cookies 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/girlscoutcookies_grande.png?v=1676913587' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Scout Cookies Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/223/434/small_2x/girls-scout-cookies-party-concept-free-vector.jpg' alt='Girl Scout Cookies Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/223/434/small_2x/girls-scout-cookies-party-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Becky Grimes on Girl Scouts | Girl scout cookies booth ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/9b/da/e09bda9d32e4f361bf4e655de702e82f.jpg' alt='Pin by Becky Grimes on Girl Scouts | Girl scout cookies booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/9b/da/e09bda9d32e4f361bf4e655de702e82f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GS cookie border">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/da/39/1eda399dd675adc081fcbdf4aa5e2d9d.jpg' alt='GS cookie border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/da/39/1eda399dd675adc081fcbdf4aa5e2d9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You can begin ordering Girl Scout cookies on Monday">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/15/61/31/20387396/4/rawImage.jpg' alt='You can begin ordering Girl Scout cookies on Monday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MySA" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/15/61/31/20387396/4/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Order Girl Scout Cookies Food Girl Prints Bullet, DBP, Rib Knit + other  fabrics">
+                                <img itemprop="contentUrl url" src='http://noragracefabric.com/cdn/shop/products/Screenshot2023-01-31173657.png?v=1675208263' alt='Pre-Order Girl Scout Cookies Food Girl Prints Bullet, DBP, Rib Knit + other  fabrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nora Grace's Fabric" />
+                                </span>
+                                <a href='http://noragracefabric.com/cdn/shop/products/Screenshot2023-01-31173657.png?v=1675208263' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The wait is OVER! Girl Scout Cookie season kicks off today! This ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3283910010399647207' alt='The wait is OVER! Girl Scout Cookie season kicks off today! This ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3283910010399647207' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/2a/f0/082af0f2e828003143a2f18cba8112db.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/2a/f0/082af0f2e828003143a2f18cba8112db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="606 Girl Scout Cookies Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1232312838/photo/los-angeles-ca-an-array-of-girl-scouts-cookies-in-studio-on-tuesday-feb-16-2021-in-los.jpg?s=612x612&w=gi&k=20&c=k1XkzyckGjWJH6Df4YzlFzWvtirGTPrkU4xxElCqnF0=' alt='606 Girl Scout Cookies Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1232312838/photo/los-angeles-ca-an-array-of-girl-scouts-cookies-in-studio-on-tuesday-feb-16-2021-in-los.jpg?s=612x612&w=gi&k=20&c=k1XkzyckGjWJH6Df4YzlFzWvtirGTPrkU4xxElCqnF0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Girl Scout Cookie Flavors, Ranked - Thrillist">
+                                <img itemprop="contentUrl url" src='https://assets3.thrillist.com/v1/image/1661703/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70' alt='Best Girl Scout Cookie Flavors, Ranked - Thrillist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thrillist" />
+                                </span>
+                                <a href='https://assets3.thrillist.com/v1/image/1661703/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

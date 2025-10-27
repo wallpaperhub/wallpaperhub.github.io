@@ -1,0 +1,129 @@
+<title>Stunning Taylor Swift Eras Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect Taylor Swift eras wallpapers for your iPhone! These vibrant designs celebrate Swift's unique musical journey, allowing you to showcase your favorite album aesthetics on your device. Download now and personalize your iPhone with styles reflecting her amazing evolution!">
+                    <meta name="keywords" content="taylor swift eras wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-eras-wallpaper-iphone">
+                            <span itemprop="name">taylor swift eras wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Swift Eras Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Taylor Swift eras wallpapers that beautifully capture each phase of her iconic journey. From her country roots to pop anthems, these visually striking designs showcase album aesthetics, vibrant colors, and meaningful lyrics. Celebrate your favorite tracks while personalizing your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers for each Eras show : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' alt='Phone wallpapers for each Eras show : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1755">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eras Tour phone wallpapers! : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eras-tour-phone-wallpapers-v0-q8v43fhbi9pa1.jpg?width=1170&format=pjpg&auto=webp&s=6db30a7d845d8ea71f5a405510caee7d08ec9cd9' alt='Eras Tour phone wallpapers! : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/eras-tour-phone-wallpapers-v0-q8v43fhbi9pa1.jpg?width=1170&format=pjpg&auto=webp&s=6db30a7d845d8ea71f5a405510caee7d08ec9cd9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift in 4k on X: "Taylor Swift: The Eras Tour Mobile ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FgesHJsagAc7XCT?format=jpg&name=4096x4096' alt='Taylor Swift in 4k on X: "Taylor Swift: The Eras Tour Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FgesHJsagAc7XCT?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers for each Eras show : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-mmg8d7l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=85cd78bf9f7c1461ac7f565f1ca24e0c8a9f571e' alt='Phone wallpapers for each Eras show : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1755">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-mmg8d7l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=85cd78bf9f7c1461ac7f565f1ca24e0c8a9f571e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper taylor swift eras">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/44/ee/9344ee3e949b3663eb0ed8882eabf2ef.jpg' alt='Wallpaper taylor swift eras'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/44/ee/9344ee3e949b3663eb0ed8882eabf2ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Eras Wallpapers | 10 Album Cover Designs | iPhone and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25095745/r/il/8ce9e2/5233764245/il_fullxfull.5233764245_4g2a.jpg' alt='Taylor Swift Eras Wallpapers | 10 Album Cover Designs | iPhone and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25095745/r/il/8ce9e2/5233764245/il_fullxfull.5233764245_4g2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Phone Wallpaper, Eras Tour Phone Wallpaper, Taylor Swift Eras  Phone Wallpaper, Taylor Swift Eras Tour Phone Wallpaper, Eras TS">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17151998/r/il/6d6a19/5279137481/il_570xN.5279137481_5ryl.jpg' alt='Taylor Swift Phone Wallpaper, Eras Tour Phone Wallpaper, Taylor Swift Eras  Phone Wallpaper, Taylor Swift Eras Tour Phone Wallpaper, Eras TS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17151998/r/il/6d6a19/5279137481/il_570xN.5279137481_5ryl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - The Eras Tour - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/5f/f3/585ff3ceabda1d76895acafa89810e31.jpg' alt='Taylor Swift - The Eras Tour - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/5f/f3/585ff3ceabda1d76895acafa89810e31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eras Tour phone wallpapers! : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eras-tour-phone-wallpapers-v0-19uz0sgbi9pa1.jpg?width=1170&format=pjpg&auto=webp&s=ee81cdbb1404e8ed091f64bd7ddfc901e6a92d50' alt='Eras Tour phone wallpapers! : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/eras-tour-phone-wallpapers-v0-19uz0sgbi9pa1.jpg?width=1170&format=pjpg&auto=webp&s=ee81cdbb1404e8ed091f64bd7ddfc901e6a92d50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift The Eras Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/4b/4e/074b4ed03431dbc4a739582d925c67d7.jpg' alt='Taylor Swift The Eras Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/4b/4e/074b4ed03431dbc4a739582d925c67d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

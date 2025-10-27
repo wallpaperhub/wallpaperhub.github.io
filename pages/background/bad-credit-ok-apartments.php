@@ -1,0 +1,129 @@
+<title>Bad Credit? Find Your Perfect Apartment Today!</title>
+                    <meta name="description" content="Discover apartments that accept bad credit with ease. Explore listings that provide flexible lease options and understand unique circumstances. Your ideal home is just a search away—secure a place that fits your budget and lifestyle. Start your search now!">
+                    <meta name="keywords" content="bad credit ok apartments">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bad-credit-ok-apartments">
+                            <span itemprop="name">bad credit ok apartments</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bad Credit? Find Your Perfect Apartment Today!</h1>
+                <p>Finding apartments that accept bad credit can feel daunting, but there are options available! Many landlords understand that credit scores don't reflect a person's reliability. Look for properties that cater to "bad credit OK" listings, offer flexible leasing agreements, or consider co-signers. Research and negotiate to secure the home you deserve.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Credit Ok, Junior one bedroom apartments - apts/housing for ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/00v0v_2iMfHWr0ggO_0ew07g_600x450.jpg' alt='Bad Credit Ok, Junior one bedroom apartments - apts/housing for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/00v0v_2iMfHWr0ggO_0ew07g_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Credit Ok, Newly renovated studio apartments - apts/housing ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/00g0g_ffZiUvTOiha_0ew07g_600x450.jpg' alt='Bad Credit Ok, Newly renovated studio apartments - apts/housing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/00g0g_ffZiUvTOiha_0ew07g_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rent an Apartment with Bad Credit | Apartments.com">
+                                <img itemprop="contentUrl url" src='https://www.apartments.com/blog/sites/default/files/styles/small/public/image/2023-06/bad-credit-calculator.jpg?itok=wmQghSSy' alt='How to Rent an Apartment with Bad Credit | Apartments.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartments.com" />
+                                </span>
+                                <a href='https://www.apartments.com/blog/sites/default/files/styles/small/public/image/2023-06/bad-credit-calculator.jpg?itok=wmQghSSy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Credit Ok, Large studio apartments - apts/housing for rent ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/00000_8UnHYtFJPb0_0cU09G_600x450.jpg' alt='Bad Credit Ok, Large studio apartments - apts/housing for rent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/00000_8UnHYtFJPb0_0cU09G_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is how to get an apartment with bad credit (2024)">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/qr8kennq1pom/6jB35SFi9Sab8JuE3Rj3ni/feb305874e86d48343881aafc00d8196/how_to_get_an_apartment_with_bad_credit.avif?fm=jpg&fl=progressive&q=70' alt='This is how to get an apartment with bad credit (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5125">
+                                <meta itemprop="height" content="2888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HousingAnywhere" />
+                                </span>
+                                <a href='https://images.ctfassets.net/qr8kennq1pom/6jB35SFi9Sab8JuE3Rj3ni/feb305874e86d48343881aafc00d8196/how_to_get_an_apartment_with_bad_credit.avif?fm=jpg&fl=progressive&q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Credit Ok, Furnished and unfurnished apartments, Studio 1/ba ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/00t0t_ht97Kt9L6Wv_0ew07g_600x450.jpg' alt='Bad Credit Ok, Furnished and unfurnished apartments, Studio 1/ba ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/00t0t_ht97Kt9L6Wv_0ew07g_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rent an Apartment or House with Bad Credit - Self. Credit ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/90p5z8n8rnuv/3yBQSk7IR6FWdBn3xp3zEn/7e4a3c34114c4e411ebc71ac23c3aecb/How_to_Rent_an_Apartment_or_House_with_Bad_Credit__Asset_-_02.jpg' alt='How to Rent an Apartment or House with Bad Credit - Self. Credit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Self" />
+                                </span>
+                                <a href='https://images.ctfassets.net/90p5z8n8rnuv/3yBQSk7IR6FWdBn3xp3zEn/7e4a3c34114c4e411ebc71ac23c3aecb/How_to_Rent_an_Apartment_or_House_with_Bad_Credit__Asset_-_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BAD CREDIT OK at this NEW LUXURY Apt ~ 2 Months FREE - apts ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/01313_cfPIjmK9THP_0lR0ey_600x450.jpg' alt='BAD CREDIT OK at this NEW LUXURY Apt ~ 2 Months FREE - apts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/01313_cfPIjmK9THP_0lR0ey_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garland / Rowlette Lux Apts Bad Credit Broken Lease Eviction OK ...">
+                                <img itemprop="contentUrl url" src='https://apartmentgorilla.com/wp-content/uploads/2020/06/night-pool-WA.jpg' alt='Garland / Rowlette Lux Apts Bad Credit Broken Lease Eviction OK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Gorilla" />
+                                </span>
+                                <a href='https://apartmentgorilla.com/wp-content/uploads/2020/06/night-pool-WA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One bedroom apartments, Bad Credit Ok, Exercise room - apts ...">
+                                <img itemprop="contentUrl url" src='https://images.craigslist.org/00y0y_1FymdNvCTC9_0cU08B_600x450.jpg' alt='One bedroom apartments, Bad Credit Ok, Exercise room - apts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craigslist" />
+                                </span>
+                                <a href='https://images.craigslist.org/00y0y_1FymdNvCTC9_0cU08B_600x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

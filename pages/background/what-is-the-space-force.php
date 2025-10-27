@@ -1,0 +1,129 @@
+<title>Understanding the Space Force: Protecting America's Interests in Space</title>
+                    <meta name="description" content="Discover the Space Force, the latest U.S. military branch dedicated to securing the nation's assets in outer space. Learn how it protects satellites and advances space operations for national defense. Stay informed about America's strategic presence in the cosmos!">
+                    <meta name="keywords" content="what is the space force">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-space-force">
+                            <span itemprop="name">what is the space force</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Space Force: Protecting America's Interests in Space</h1>
+                <p>The Space Force is the newest branch of the U.S. military, established to ensure national security in outer space. It focuses on protecting American interests by organizing, training, and equipping military personnel for space operations. The Space Force is crucial for defending satellites, conducting space operations, and maintaining U.S. superiority in this increasingly strategic domain.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Force Song Shoots for the Stars, but Some Think It Falls ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/09/21/reader-center/21xp-spaceforce-ukz/21xp-spaceforce-ukz-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Space Force Song Shoots for the Stars, but Some Think It Falls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/09/21/reader-center/21xp-spaceforce-ukz/21xp-spaceforce-ukz-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's What The Space Force Will Do : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2019/12/21/gettyimages-1189671640-3c57efc391d3f513eace2eb5347afc2f9925d749.jpg?s=1100&c=50&f=jpeg' alt='Here's What The Space Force Will Do : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2019/12/21/gettyimages-1189671640-3c57efc391d3f513eace2eb5347afc2f9925d749.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Space Force Captain explains what it means to be a Guardian">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/08/USAT/72521006007-240123-xox-4461225.jpg' alt='U.S. Space Force Captain explains what it means to be a Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4575">
+                                <meta itemprop="height" content="3044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/08/USAT/72521006007-240123-xox-4461225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History - U.S. Space Force">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/jv40w9pms0ga/6nS5GLvGsvx2tbidzQbrwF/57c326b3d890edc236b4d357fc737f3e/Spaceforce.com_History_Air_Force_Academy_Graduates2.jpg?fm=jpg' alt='Our History - U.S. Space Force'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Force" />
+                                </span>
+                                <a href='https://images.ctfassets.net/jv40w9pms0ga/6nS5GLvGsvx2tbidzQbrwF/57c326b3d890edc236b4d357fc737f3e/Spaceforce.com_History_Air_Force_Academy_Graduates2.jpg?fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Space Force - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Seal_of_the_United_States_Space_Force.svg/640px-Seal_of_the_United_States_Space_Force.svg.png' alt='United States Space Force - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Seal_of_the_United_States_Space_Force.svg/640px-Seal_of_the_United_States_Space_Force.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover Space Force Careers | U.S. Space Force">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/jv40w9pms0ga/X6GAdttL3YdtUCzBQ0RnS/abfa12df24886853426e901592c1d988/spaceforce.com_Careers4_FY22.JPG' alt='Discover Space Force Careers | U.S. Space Force'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5304">
+                                <meta itemprop="height" content="6091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Force" />
+                                </span>
+                                <a href='https://images.ctfassets.net/jv40w9pms0ga/X6GAdttL3YdtUCzBQ0RnS/abfa12df24886853426e901592c1d988/spaceforce.com_Careers4_FY22.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the Space Force needs and deserves greater resources - SpaceNews">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/spacenews.com/wp-content/uploads/2023/12/231208-F-AF999-0033-scaled.jpg?fit=2560%2C1848&quality=89&ssl=1' alt='Why the Space Force needs and deserves greater resources - SpaceNews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpaceNews" />
+                                </span>
+                                <a href='https://i0.wp.com/spacenews.com/wp-content/uploads/2023/12/231208-F-AF999-0033-scaled.jpg?fit=2560%2C1848&quality=89&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2024/Sep/18/2003552552/1300/700/0/240913-X-X1914-1001.JPG' alt='Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.spaceforce.mil" />
+                                </span>
+                                <a href='https://media.defense.gov/2024/Sep/18/2003552552/1300/700/0/240913-X-X1914-1001.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The US Space Force Has a Rough Launch on the Internet | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/5e2f8e7c7f8364000969b422/master/w_2560%2Cc_limit/Science_spaceforce_1189672147.jpg' alt='The US Space Force Has a Rough Launch on the Internet | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/5e2f8e7c7f8364000969b422/master/w_2560%2Cc_limit/Science_spaceforce_1189672147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Force Guardian set to launch to International Space Station ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2024/Jan/31/2003385415/-1/-1/0/240131-F-AF000-1716.JPG' alt='Space Force Guardian set to launch to International Space Station ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6194">
+                                <meta itemprop="height" content="7743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Force" />
+                                </span>
+                                <a href='https://media.defense.gov/2024/Jan/31/2003385415/-1/-1/0/240131-F-AF000-1716.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

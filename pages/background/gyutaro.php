@@ -1,0 +1,129 @@
+<title>Discover the Enigmatic Gyutaro: A Demon Slayer Character</title>
+                    <meta name="description" content="Explore the captivating world of Gyutaro from "Demon Slayer." Learn about his tragic past, powerful abilities, and the complexities that define him as a character. Unravel the depths of his story and see why he stands out in the battle against demons. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="gyutaro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gyutaro">
+                            <span itemprop="name">gyutaro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enigmatic Gyutaro: A Demon Slayer Character</h1>
+                <p>Gyutaro, a prominent character from the anime and manga "Demon Slayer," is known for his tragic backstory and fierce combat skills. As a member of the Twelve Kizuki, he uses his unique Blood Demon Art to manipulate weapons and strike fear into his opponents. His complex personality and relentless determination showcase the duality of his character, making him a standout figure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gyutaro | Top-Strongest Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/topstrongest/images/8/82/Gyutaro_Render_%28KnY%29.png/revision/latest/scale-to-width-down/1200?cb=20220403125456' alt='Gyutaro | Top-Strongest Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top-Strongest Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/topstrongest/images/8/82/Gyutaro_Render_%28KnY%29.png/revision/latest/scale-to-width-down/1200?cb=20220403125456' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What do you like the most about Gyutaro as a character: : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-do-you-like-the-most-about-gyutaro-as-a-character-v0-uzigfb85v71a1.jpg?width=1080&crop=smart&auto=webp&s=22d0225fcf5819396ed9f59cbcb8c5f7d1051560' alt='What do you like the most about Gyutaro as a character: : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-do-you-like-the-most-about-gyutaro-as-a-character-v0-uzigfb85v71a1.jpg?width=1080&crop=smart&auto=webp&s=22d0225fcf5819396ed9f59cbcb8c5f7d1051560' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gyutaro | Anime-Planet">
+                                <img itemprop="contentUrl url" src='https://cdn.anime-planet.com/characters/primary/gyutaro-1.webp?t=1642728880' alt='Gyutaro | Anime-Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime-Planet" />
+                                </span>
+                                <a href='https://cdn.anime-planet.com/characters/primary/gyutaro-1.webp?t=1642728880' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gyutaro | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/79/Gyutaro_mocks_Tanjiro_for_being_unable_to_protect_Nezuko.png/revision/latest?cb=20220208084606' alt='Gyutaro | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/79/Gyutaro_mocks_Tanjiro_for_being_unable_to_protect_Nezuko.png/revision/latest?cb=20220208084606' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Trading Card W#6 Gyutaro BANDAI 2022 Japan">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/fu0AAOSwc1NjH97o/s-l1200.jpg' alt='Demon Slayer Trading Card W#6 Gyutaro BANDAI 2022 Japan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/fu0AAOSwc1NjH97o/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer | Character Analysis | Gyutaro, The Upper Rank 6 ...">
+                                <img itemprop="contentUrl url" src='https://poggers.com/cdn/shop/articles/76187099215e7d9bbe395979c322e845.webp?v=1708121056' alt='Demon Slayer | Character Analysis | Gyutaro, The Upper Rank 6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poggers" />
+                                </span>
+                                <a href='https://poggers.com/cdn/shop/articles/76187099215e7d9bbe395979c322e845.webp?v=1708121056' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer | Character Analysis | Gyutaro, The Upper Rank 6 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0400/9767/7479/files/Demon-Slayer-Gyutaro-Face.png?v=1688960146' alt='Demon Slayer | Character Analysis | Gyutaro, The Upper Rank 6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poggers" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0400/9767/7479/files/Demon-Slayer-Gyutaro-Face.png?v=1688960146' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Gyutaro Turns the Tables with Deadly Consequences">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/Gyutaro-Gyutaro-Article-HEADER.png' alt='Demon Slayer: Gyutaro Turns the Tables with Deadly Consequences'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/Gyutaro-Gyutaro-Article-HEADER.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Daki Holding Gyutaro Back? : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u258u1zdh8o81.jpg' alt='Was Daki Holding Gyutaro Back? : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u258u1zdh8o81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gyutaro | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/fb/Gyutaro_colored_profile_3.png/revision/latest?cb=20191023131717' alt='Gyutaro | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/fb/Gyutaro_colored_profile_3.png/revision/latest?cb=20191023131717' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

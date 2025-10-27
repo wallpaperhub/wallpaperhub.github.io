@@ -1,0 +1,129 @@
+<title>Stunning Folding Phone Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a curated selection of beautiful wallpapers for your folding phone. Enhance your device with visuals that pop and suit your personal style, ensuring a unique experience each time you unfold your phone. Perfect for adding a touch of creativity to your everyday tech!">
+                    <meta name="keywords" content="folding phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/folding-phone-wallpaper">
+                            <span itemprop="name">folding phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Folding Phone Wallpapers for Every Style</h1>
+                <p>Transform your folding phone into a work of art with stunning wallpapers designed specifically for its unique screen. From breathtaking landscapes to modern abstract designs, find wallpapers that adapt seamlessly to your device. Enjoy a fresh look every time you open your phone, showcasing your style and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Fold phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs_2t/11091.png' alt='4K Fold phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs_2t/11091.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Samsung W23 foldable phone wallpapers - Sammy Fans">
+                                <img itemprop="contentUrl url" src='https://www.sammyfans.com/wp-content/uploads/2022/10/samsung-w23-wallpapers.jpg' alt='Download Samsung W23 foldable phone wallpapers - Sammy Fans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sammy Fans" />
+                                </span>
+                                <a href='https://www.sammyfans.com/wp-content/uploads/2022/10/samsung-w23-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Folding wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/286/733/HD-wallpaper-fold-galaxy-fold-samsung-thumbnail.jpg' alt='HD Folding wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/286/733/HD-wallpaper-fold-galaxy-fold-samsung-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Fold phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs/11086.png' alt='4K Fold phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs/11086.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharing is caring....Share your Galaxy Fold Wallpapers : r/GalaxyFold">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/50M0VVG.jpg' alt='Sharing is caring....Share your Galaxy Fold Wallpapers : r/GalaxyFold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/50M0VVG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy Fold 2 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/64/a8/1364a8e95a325cef27899a8287db4a8a.jpg' alt='Samsung Galaxy Fold 2 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/64/a8/1364a8e95a325cef27899a8287db4a8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD galaxy fold wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/517/855/HD-wallpaper-galaxy-fold-butterfly-samsung-trending.jpg' alt='HD galaxy fold wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/517/855/HD-wallpaper-galaxy-fold-butterfly-samsung-trending.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy Fold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/83/bb/1983bb36965296881f5f79aeba5a66f8.jpg' alt='Samsung Galaxy Fold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/83/bb/1983bb36965296881f5f79aeba5a66f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers (Samsung ZFold) | 100+ best free building, grey, land ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1645053218952-14624f9d6e11?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxoWmpOWGxQMktVNHx8ZW58MHx8fHx8' alt='Wallpapers (Samsung ZFold) | 100+ best free building, grey, land ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1645053218952-14624f9d6e11?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxoWmpOWGxQMktVNHx8ZW58MHx8fHx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy Z Fold Abstract Background 4K Wallpaper iPhone HD ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/samsung-galaxy-z-fold-abstract-background-digital-art-261@0@g-phone-4k.jpg' alt='Samsung Galaxy Z Fold Abstract Background 4K Wallpaper iPhone HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/samsung-galaxy-z-fold-abstract-background-digital-art-261@0@g-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

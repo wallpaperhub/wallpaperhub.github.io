@@ -1,0 +1,129 @@
+<title>Understanding Greasers: A 1950s Subculture</title>
+                    <meta name="description" content="Dive into the world of greasers, the iconic 1950s subculture known for their slicked-back hair and leather jackets. Explore their rebellious spirit, cultural impact, and enduring legacy in music and fashion. Discover the essence of greasers and their contribution to youth culture today.">
+                    <meta name="keywords" content="greasers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/greasers">
+                            <span itemprop="name">greasers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Greasers: A 1950s Subculture</h1>
+                <p>Greasers, a quintessential subculture from the 1950s, are characterized by their distinctive hairstyles, leather jackets, and love for rock 'n' roll. Often seen as rebellious youth, greasers defy mainstream norms. Their identity, marked by camaraderie and defiance, has influenced fashion and music, leaving a lasting legacy in pop culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greaser (subculture) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/20/MHBgreaser.jpg' alt='Greaser (subculture) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/20/MHBgreaser.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greaser | Aesthetics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aesthetics/images/d/d8/Cry.png/revision/latest?cb=20201130040101' alt='Greaser | Aesthetics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aesthetics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aesthetics/images/d/d8/Cry.png/revision/latest?cb=20201130040101' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greasers History and Style - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Pcuz5htHCrA/sddefault.jpg' alt='Greasers History and Style - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Pcuz5htHCrA/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Balancing Act: Greasers and Socs">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwjYdaPFRSP8c-JYfNqpKiAt2T3z-8j7s5ifAqlcu2MoxKGcjgY2_RxmecU_cimOXKcMqSZmn1jErws8XhgzjZHrPL_DYsIjqmWaMZh081n_DdqqCDnYuRGD3aYlYBUfkMk8q8Ku_DklR/s1600/outsiders-cast-photo-ftr.jpg' alt='Balancing Act: Greasers and Socs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balancing Act" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwjYdaPFRSP8c-JYfNqpKiAt2T3z-8j7s5ifAqlcu2MoxKGcjgY2_RxmecU_cimOXKcMqSZmn1jErws8XhgzjZHrPL_DYsIjqmWaMZh081n_DdqqCDnYuRGD3aYlYBUfkMk8q8Ku_DklR/s1600/outsiders-cast-photo-ftr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greaser | Subculture Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/subculture/images/b/bd/A266132f43e2126c93c3ff26d86be62b.jpg/revision/latest?cb=20200308165531' alt='Greaser | Subculture Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Subculture Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/subculture/images/b/bd/A266132f43e2126c93c3ff26d86be62b.jpg/revision/latest?cb=20200308165531' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Greasers: Everything You Know about Greasers is Wrong">
+                                <img itemprop="contentUrl url" src='https://vintagedancer.com/wp-content/uploads/danny-zuko-from-grease.jpg' alt='1950s Greasers: Everything You Know about Greasers is Wrong'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Dancer" />
+                                </span>
+                                <a href='https://vintagedancer.com/wp-content/uploads/danny-zuko-from-grease.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greaser Delinquents - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/mafia2_greasers.jpg' alt='Greaser Delinquents - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/mafia2_greasers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Outsiders, Greaser, Greasers, Pony Boy, Ponyboy Curtis, C Thomas  Howell, Stay Gold, Do it for Johnny, Johnny Cade, Ralph Macchio, Karate Kid  | ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.873687628.0764/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='The Outsiders, Greaser, Greasers, Pony Boy, Ponyboy Curtis, C Thomas  Howell, Stay Gold, Do it for Johnny, Johnny Cade, Ralph Macchio, Karate Kid  | ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.873687628.0764/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Greaser Culture: Unpacking The 1950s Youth Rebellion ...">
+                                <img itemprop="contentUrl url" src='https://bluecollarbrain.com/wp-content/uploads/2024/03/greasers-movie-wild-one.jpg' alt='What Is Greaser Culture: Unpacking The 1950s Youth Rebellion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Collar Brain" />
+                                </span>
+                                <a href='https://bluecollarbrain.com/wp-content/uploads/2024/03/greasers-movie-wild-one.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greaser Girl: 16 Reasons Why Being Bad Can Feel So Darn Good">
+                                <img itemprop="contentUrl url" src='https://www.lovepanky.com/wp-content/uploads/2021/09/Greaser-Girl.jpg' alt='Greaser Girl: 16 Reasons Why Being Bad Can Feel So Darn Good'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LovePanky" />
+                                </span>
+                                <a href='https://www.lovepanky.com/wp-content/uploads/2021/09/Greaser-Girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

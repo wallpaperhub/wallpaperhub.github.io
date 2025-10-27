@@ -1,0 +1,129 @@
+<title>Vibrant MLP Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the magic of My Little Pony phone wallpapers! Explore our collection of colorful designs featuring your favorite characters, perfect for personalizing your device. Embrace nostalgia and bring joy to your screen with these stunning wallpapers. Ideal for MLP fans everywhere!">
+                    <meta name="keywords" content="mlp phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mlp-phone-wallpaper">
+                            <span itemprop="name">mlp phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant MLP Phone Wallpapers for Every Fan</h1>
+                <p>Transform your phone with stunning My Little Pony (MLP) wallpapers! Choose from a vibrant selection of characters and scenes that capture the magic of Equestria. Perfect for fans of all ages, these wallpapers bring joy and nostalgia to your device. Dive into a colorful world and showcase your love for MLP!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLP main 6 wallpaper ♡  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/64/6e/0b646e7694795449aab945e7204ce3f9.jpg' alt='MLP main 6 wallpaper ♡  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/64/6e/0b646e7694795449aab945e7204ce3f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mlp Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mlp-phone-p9i982gz6uzsg4xx.jpg' alt='100+] Mlp Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mlp-phone-p9i982gz6uzsg4xx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Little Pony new generation mobile wallpapers and profile ...">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2022-05/1652868325_youloveit_com_my_little_pony_new_generation_mobile_wallpaper_profile_pic07.jpg' alt='My Little Pony new generation mobile wallpapers and profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2022-05/1652868325_youloveit_com_my_little_pony_new_generation_mobile_wallpaper_profile_pic07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mlp Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mlp-phone-background-0nxt4li9dgfztex1.jpg' alt='100+] Mlp Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mlp-phone-background-0nxt4li9dgfztex1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD my little pony wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/158/587/HD-wallpaper-my-little-pony-colyrful-ponies-thumbnail.jpg' alt='HD my little pony wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/158/587/HD-wallpaper-my-little-pony-colyrful-ponies-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My MLP wallpapers : r/mylittlepony">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-mlp-wallpapers-v0-eeyhvur2le2c1.jpeg?width=896&format=pjpg&auto=webp&s=c36f9ee3bf28fecedc0614acaa361fa330e2a5fd' alt='My MLP wallpapers : r/mylittlepony'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="1839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-mlp-wallpapers-v0-eeyhvur2le2c1.jpeg?width=896&format=pjpg&auto=webp&s=c36f9ee3bf28fecedc0614acaa361fa330e2a5fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pony Scouts Downloadable Iphone Wallpapers.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/18/dc/7518dce3c48c21cb5c433f90b5d7f079.jpg' alt='Pony Scouts Downloadable Iphone Wallpapers.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/18/dc/7518dce3c48c21cb5c433f90b5d7f079.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equestria Daily - MLP Stuff!: Phone Wallpaper Set">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW_7IMjrKDdkHX4y3zg-y1k8Iz5D0Q25_-1njOHskqVTAQURS12Etb7b6zq6uh4jxWbUEnT_08pDf82VqTou5YdTtrk94GNmiPk1yVTLO3ZbBfjUe6pbMpD0TjKVoZ3pcdq2lUpWjGnHo/w1200-h630-p-k-no-nu/twilight_sparkle_iphone_wp_by_tecknojock-d3je486.png' alt='Equestria Daily - MLP Stuff!: Phone Wallpaper Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Equestria Daily" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW_7IMjrKDdkHX4y3zg-y1k8Iz5D0Q25_-1njOHskqVTAQURS12Etb7b6zq6uh4jxWbUEnT_08pDf82VqTou5YdTtrk94GNmiPk1yVTLO3ZbBfjUe6pbMpD0TjKVoZ3pcdq2lUpWjGnHo/w1200-h630-p-k-no-nu/twilight_sparkle_iphone_wp_by_tecknojock-d3je486.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLP Wallpapers : r/mylittlepony">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9mk7pqw0otb91.jpg' alt='MLP Wallpapers : r/mylittlepony'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9mk7pqw0otb91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Little Pony new generation mobile wallpapers and profile ...">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2022-05/1652868357_youloveit_com_my_little_pony_new_generation_mobile_wallpaper_profile_pic06.jpg' alt='My Little Pony new generation mobile wallpapers and profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2022-05/1652868357_youloveit_com_my_little_pony_new_generation_mobile_wallpaper_profile_pic06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

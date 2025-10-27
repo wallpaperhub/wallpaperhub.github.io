@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Pearl Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of white pearl wallpaper for your home. Its shimmering finish enhances any interior, offering a luxurious touch that suits all decor styles. Ideal for creating a serene ambiance, this wallpaper is the perfect choice for those seeking to elevate their living spaces effortlessly.">
+                    <meta name="keywords" content="white pearl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-pearl-wallpaper">
+                            <span itemprop="name">white pearl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Pearl Wallpaper</h1>
+                <p>White pearl wallpaper brings elegance and sophistication to any space. Its lustrous finish reflects light, creating an airy and serene atmosphere. Perfect for bedrooms or living rooms, this wallpaper complements a variety of decor styles, from modern to classic. Elevate your interior with the timeless beauty of white pearl wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OI0697 Natural Grid White Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/OI0697ex.jpg?v=1702251075' alt='OI0697 Natural Grid White Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/OI0697ex.jpg?v=1702251075' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sierra Pearl White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/sierra-pearl-white-wallpaper-hehj.jpg' alt='Sierra Pearl White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/sierra-pearl-white-wallpaper-hehj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Shagreen White Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/2074706083907.jpg?v=1714030635' alt='Schumacher Shagreen White Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/2074706083907.jpg?v=1714030635' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl White Background Images – Browse 303,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/34/54/30/360_F_134543020_dnOCUQ49aGY2ZVZzjBMLQjOKPjWWWsE0.jpg' alt='Pearl White Background Images – Browse 303,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/34/54/30/360_F_134543020_dnOCUQ49aGY2ZVZzjBMLQjOKPjWWWsE0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall SK34710 Damask Pearl White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/222592.jpg' alt='Patton Norwall SK34710 Damask Pearl White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/222592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Pearl Background Lovely Vertical Wallpaper Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/185429231/display_1500/stock-photo-white-pearl-background-lovely-vertical-wallpaper-185429231.jpg' alt='White Pearl Background Lovely Vertical Wallpaper Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1115">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/185429231/display_1500/stock-photo-white-pearl-background-lovely-vertical-wallpaper-185429231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/13/27/a9/1327a9576e88972877ce5f3e6e3df768.jpg' alt='White Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/13/27/a9/1327a9576e88972877ce5f3e6e3df768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Satin Plain Textured Wallpaper R3749">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/PearlSatinPlainTexturedWallpaperR3749.png?v=1735841839&width=1024' alt='Pearl Satin Plain Textured Wallpaper R3749'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/PearlSatinPlainTexturedWallpaperR3749.png?v=1735841839&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochromatic Marble Pearl White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0019540_silk-marble-l.jpeg' alt='Monochromatic Marble Pearl White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0019540_silk-marble-l.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maya Romanoff Mother of Pearl On the Half Shell Natural Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.ladesignconcepts.com/maya_romanoff/mr-mf-01-2.jpg' alt='Maya Romanoff Mother of Pearl On the Half Shell Natural Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://images.ladesignconcepts.com/maya_romanoff/mr-mf-01-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

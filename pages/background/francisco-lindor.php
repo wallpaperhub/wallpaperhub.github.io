@@ -1,0 +1,129 @@
+<title>Francisco Lindor: MLB Star and Shortstop Sensation</title>
+                    <meta name="description" content="Explore the rise of Francisco Lindor, the electrifying shortstop for the New York Mets. Discover his impact on MLB, career highlights, and inspiring journey from Puerto Rico to stardom. Perfect for fans and aspiring athletes!">
+                    <meta name="keywords" content="francisco lindor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/francisco-lindor">
+                            <span itemprop="name">francisco lindor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Francisco Lindor: MLB Star and Shortstop Sensation</h1>
+                <p>Francisco Lindor, the dynamic shortstop for the New York Mets, has quickly become one of MLB's brightest stars. Known for his exceptional defensive skills and powerful bat, Lindor excites fans with his energetic style of play. His journey from Puerto Rico to the majors inspires many aspiring athletes around the globe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e6/Francisco_Lindor_during_warmups%2C_March_15%2C_2024_%281%29_%28cropped%29.jpg' alt='Francisco Lindor - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1975">
+                                <meta itemprop="height" content="2633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e6/Francisco_Lindor_during_warmups%2C_March_15%2C_2024_%281%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor - New York Mets Shortstop - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32129.png' alt='Francisco Lindor - New York Mets Shortstop - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32129.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor Stats, Age, Position, Height, Weight, Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596019/headshot/67/current' alt='Francisco Lindor Stats, Age, Position, Height, Weight, Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596019/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mets fans will be fired up with Francisco Lindor injury update ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-10/francisco-lindor-091221-getty-ftr_ku6wabrzebsk1t0t1p96t9hy6.jpg?itok=iLn0ZPNw' alt='Mets fans will be fired up with Francisco Lindor injury update ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-10/francisco-lindor-091221-getty-ftr_ku6wabrzebsk1t0t1p96t9hy6.jpg?itok=iLn0ZPNw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor top career moments - MLB Stories">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/yfi8k35iefupnwxpqek1' alt='Francisco Lindor top career moments - MLB Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2608">
+                                <meta itemprop="height" content="4636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/mlb/yfi8k35iefupnwxpqek1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor | RevUp Sports">
+                                <img itemprop="contentUrl url" src='https://revupsports.com/media/athletes/profile/Francisco_Lindor_Avatar.png' alt='Francisco Lindor | RevUp Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RevUp Sports" />
+                                </span>
+                                <a href='https://revupsports.com/media/athletes/profile/Francisco_Lindor_Avatar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Could Francisco Lindor be the Best All-Around Mets Player Ever ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/03/31/sports/31mlb-lindor-subtop/31mlb-lindor-subtop-mediumSquareAt3X.jpg' alt='Could Francisco Lindor be the Best All-Around Mets Player Ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/03/31/sports/31mlb-lindor-subtop/31mlb-lindor-subtop-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/09/Francisco-Lindor.jpg' alt='Francisco Lindor Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/09/Francisco-Lindor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Francisco Lindor is leading the Mets' charge and challenging ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/3621bdf/2147483647/strip/false/crop/4229x2633+0+0/resize/1486x925!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F04%2Feb%2Fd071333582340cf52963d872939e%2F61a64d509442416bb0ccb427af5de357' alt='Francisco Lindor is leading the Mets' charge and challenging ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/3621bdf/2147483647/strip/false/crop/4229x2633+0+0/resize/1486x925!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F04%2Feb%2Fd071333582340cf52963d872939e%2F61a64d509442416bb0ccb427af5de357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is good      let’s keep climbing!">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3135314879744851611' alt='God is good      let’s keep climbing!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2836">
+                                <meta itemprop="height" content="5038">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3135314879744851611' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

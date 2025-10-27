@@ -1,0 +1,129 @@
+<title>Cute Ghost PNGs: Adorable & Spooky Designs</title>
+                    <meta name="description" content="Discover our collection of cute ghost PNGs, perfect for your creative projects! Enhance invitations, stickers, and social media posts with these playful, whimsical designs. Easy to use with transparent backgrounds for seamless integration. Explore now for charming spooky vibes!">
+                    <meta name="keywords" content="cute ghost png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-ghost-png">
+                            <span itemprop="name">cute ghost png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Ghost PNGs: Adorable & Spooky Designs</h1>
+                <p>Cute ghost PNGs are perfect for adding a playful touch to your projects! These adorable, whimsical characters bring charm to invitations, stickers, and social media posts. With transparent backgrounds, they are easy to use and can enhance any design. Discover an array of cute ghost PNGs to enchant your audience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/028/153/295/small_2x/retro-ghost-halloween-t-shirt-design-cute-cartoon-vintage-illustration-png.png' alt='Cute Ghost PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/028/153/295/small_2x/retro-ghost-halloween-t-shirt-design-cute-cartoon-vintage-illustration-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Png, Halloween Png, Coffee Png, Cute Halloween Png ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41554293/r/il/cae389/6035622106/il_fullxfull.6035622106_9l0y.jpg' alt='Cute Ghost Png, Halloween Png, Coffee Png, Cute Halloween Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2605">
+                                <meta itemprop="height" content="2083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41554293/r/il/cae389/6035622106/il_fullxfull.6035622106_9l0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Drinking Coffee Png, Ghost Ice Coffee png, Halloween Ghost Png,  Halloween Ghost Png, Ghost Png, Stay Spooky Png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18801838/r/il/539d75/5246174525/il_570xN.5246174525_9gnt.jpg' alt='Cute Ghost Drinking Coffee Png, Ghost Ice Coffee png, Halloween Ghost Png,  Halloween Ghost Png, Ghost Png, Stay Spooky Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18801838/r/il/539d75/5246174525/il_570xN.5246174525_9gnt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost PNG - Download Free & Premium Transparent Cute Ghost ...">
+                                <img itemprop="contentUrl url" src='https://images.creativefabrica.com/products/previews/2024/03/04/xQA4ajeQb/2dETDxwxnDEmvdEWgE57qcykuCq-mobile.jpg' alt='Cute Ghost PNG - Download Free & Premium Transparent Cute Ghost ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://images.creativefabrica.com/products/previews/2024/03/04/xQA4ajeQb/2dETDxwxnDEmvdEWgE57qcykuCq-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Png, Halloween Png, Coffee Png, Bougie Png, Bougie ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30756183/r/il/948df7/5968095270/il_300x300.5968095270_sk8z.jpg' alt='Cute Ghost Png, Halloween Png, Coffee Png, Bougie Png, Bougie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30756183/r/il/948df7/5968095270/il_300x300.5968095270_sk8z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230928/original/pngtree-sticker-halloween-cute-ghost-png-image_13010111.png' alt='Cute Ghost PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230928/original/pngtree-sticker-halloween-cute-ghost-png-image_13010111.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghosts PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190520/original/pngtree-cute-ghost-ghostly-cute-ghost-halloween-halloween-ghost-png-image_3933462.jpg' alt='Cute Ghosts PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190520/original/pngtree-cute-ghost-ghostly-cute-ghost-halloween-halloween-ghost-png-image_3933462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Drinking Coffee Png, Ghost Ice Coffee png, Halloween Ghost Png,  Ghost Png, Stay Spooky Png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18801838/r/il/07782d/5352528879/il_570xN.5352528879_4489.jpg' alt='Cute Ghost Drinking Coffee Png, Ghost Ice Coffee png, Halloween Ghost Png,  Ghost Png, Stay Spooky Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18801838/r/il/07782d/5352528879/il_570xN.5352528879_4489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost PNG transparent image download, size: 6766x5949px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/ghost_PNG63.png' alt='Ghost PNG transparent image download, size: 6766x5949px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6766">
+                                <meta itemprop="height" content="5949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/ghost_PNG63.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Cartoon Icon PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/202578/isolated/preview/37c0c0bccf346e484086ff3a05f73251-cute-ghost-cartoon-icon.png' alt='Cute Ghost Cartoon Icon PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/202578/isolated/preview/37c0c0bccf346e484086ff3a05f73251-cute-ghost-cartoon-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

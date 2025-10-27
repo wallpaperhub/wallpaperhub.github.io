@@ -1,0 +1,129 @@
+<title>Lava Backgrounds: Fiery Visuals for Your Creative Projects</title>
+                    <meta name="description" content="Discover stunning lava backgrounds that bring vibrant energy to your designs. Perfect for wallpapers, graphics, and more, these visuals capture the beauty of molten rock and volcanic landscapes. Elevate your creative projects with this unique and captivating aesthetic.">
+                    <meta name="keywords" content="lava background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lava-background">
+                            <span itemprop="name">lava background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lava Backgrounds: Fiery Visuals for Your Creative Projects</h1>
+                <p>Immerse yourself in the mesmerizing world of lava backgrounds, where the fiery beauty of molten rock and vivid colors create stunning visuals. These captivating images evoke the raw power and dynamic nature of volcanic activity, perfect for wallpapers, designs, or artistic inspiration. Elevate your projects with this unique aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Background Images – Browse 297,661 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/83/14/47/360_F_183144766_dbGaN37u6a4VCliXQ6wcarerpYmuLAto.jpg' alt='Lava Background Images – Browse 297,661 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/83/14/47/360_F_183144766_dbGaN37u6a4VCliXQ6wcarerpYmuLAto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PARALLAX BACKGROUND - LAVA LANDS | GameDev Market">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20191203172609/11859917a291de7bead7853bb5f40b9b.png' alt='PARALLAX BACKGROUND - LAVA LANDS | GameDev Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20191203172609/11859917a291de7bead7853bb5f40b9b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="192,800+ Lava Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398516147/photo/fire-flame-lava-pattern-abstract-exploding-volcano-eruption-crater-asteroid-meteor-background.jpg?s=612x612&w=0&k=20&c=jTwQUH619W5wR6k6w6Y2dYS5Emnrdn1Vw2vpNT2Zi2k=' alt='192,800+ Lava Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398516147/photo/fire-flame-lava-pattern-abstract-exploding-volcano-eruption-crater-asteroid-meteor-background.jpg?s=612x612&w=0&k=20&c=jTwQUH619W5wR6k6w6Y2dYS5Emnrdn1Vw2vpNT2Zi2k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Surface Of The Lava Background Stock Photo - Download Image ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1169495140/photo/the-surface-of-the-lava-background.jpg?s=612x612&w=0&k=20&c=SmmEexArJ-2BKmPgDxC5wCA5AWzkNQwzJg2sulwHFss=' alt='The Surface Of The Lava Background Stock Photo - Download Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1169495140/photo/the-surface-of-the-lava-background.jpg?s=612x612&w=0&k=20&c=SmmEexArJ-2BKmPgDxC5wCA5AWzkNQwzJg2sulwHFss=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Molten Stock Illustrations – 13,959 Lava Molten Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/river-fire-close-up-flowing-lava-molten-rock-texture-patterns-natural-background-350127030.jpg' alt='Lava Molten Stock Illustrations – 13,959 Lava Molten Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/river-fire-close-up-flowing-lava-molten-rock-texture-patterns-natural-background-350127030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Texture Images – Browse 210,138 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/64/01/75/360_F_464017578_mDXDssMUGQZ3tZxdepXwyWbYwYGJwU7A.jpg' alt='Lava Texture Images – Browse 210,138 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/64/01/75/360_F_464017578_mDXDssMUGQZ3tZxdepXwyWbYwYGJwU7A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lava, Cracked, Background. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2015/03/03/01/51/lava-656827_1280.jpg' alt='Download Lava, Cracked, Background. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2015/03/03/01/51/lava-656827_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Seamless Background of Lava Flowing">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/238761671/preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=2dedab540813fbf82816929f02857b2c436abc18e3ab83e8dcdbf4fbfc234d34' alt='Abstract Seamless Background of Lava Flowing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/238761671/preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=2dedab540813fbf82816929f02857b2c436abc18e3ab83e8dcdbf4fbfc234d34' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/053/748/217/non_2x/a-lava-rock-background-with-orange-flames-photo.jpg' alt='Lava Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1745">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/053/748/217/non_2x/a-lava-rock-background-with-orange-flames-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Additional Background for the Fire Themed slot, Slotopaint GameDesign">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/d1/16/1ad116d068b37d14f0cccb2fcfc358f6.jpg' alt='Additional Background for the Fire Themed slot, Slotopaint GameDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/d1/16/1ad116d068b37d14f0cccb2fcfc358f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

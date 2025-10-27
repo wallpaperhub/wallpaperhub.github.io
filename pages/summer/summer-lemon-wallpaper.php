@@ -1,0 +1,129 @@
+<title>Vibrant Summer Lemon Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Transform your home with our stunning summer lemon wallpaper! Ideal for adding a fresh, vibrant touch to any room. Shop now to bring the essence of summer into your decor and enjoy a lively atmosphere all year long.">
+                    <meta name="keywords" content="summer lemon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-lemon-wallpaper">
+                            <span itemprop="name">summer lemon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Lemon Wallpaper: Brighten Your Space</h1>
+                <p>Brighten up your space with our vibrant summer lemon wallpaper! Featuring refreshing lemon patterns, this design brings a burst of sunshine to your walls. Perfect for kitchens or living areas, it adds a touch of zest to your decor. Experience the warmth of summer all year round and transform your home with this cheerful wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh Lemon Summer Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40725194/r/il/6928b2/4611558307/il_1080xN.4611558307_7klc.jpg' alt='Fresh Lemon Summer Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40725194/r/il/6928b2/4611558307/il_1080xN.4611558307_7klc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Lemon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallvy.com/pic/ga/tap/788-175/l/summer-lemon-wallpaper.jpg' alt='Summer Lemon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1481">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallvy" />
+                                </span>
+                                <a href='https://wallvy.com/pic/ga/tap/788-175/l/summer-lemon-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/9f/3b/fb9f3bb8b7b365525fb7d7ecfde00b15.jpg' alt='Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/9f/3b/fb9f3bb8b7b365525fb7d7ecfde00b15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Background, Lemons, Summer. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/06/27/17/00/background-6369442_960_720.jpg' alt='Download Background, Lemons, Summer. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/06/27/17/00/background-6369442_960_720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon, Watercolor Pattern, Background, Fruit, Wallpaper, Lemon ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/boykotaart/boykotaart2004/boykotaart200400105/145163114-lemon-watercolor-pattern-background-fruit-wallpaper-lemon-wreath-hello-summer.jpg' alt='Lemon, Watercolor Pattern, Background, Fruit, Wallpaper, Lemon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/boykotaart/boykotaart2004/boykotaart200400105/145163114-lemon-watercolor-pattern-background-fruit-wallpaper-lemon-wreath-hello-summer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stylishphone #wallpaper #summer #lemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/89/74/2c8974a6a7bad188ff0f66ca4a53caba.jpg' alt='stylishphone #wallpaper #summer #lemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/89/74/2c8974a6a7bad188ff0f66ca4a53caba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Fresh Hand Drawn Fruit Lemon Pattern Collage Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210712/original/pngtree-summer-fresh-hand-drawn-fruit-lemon-pattern-collage-background-picture-image_1173360.jpg' alt='Summer Fresh Hand Drawn Fruit Lemon Pattern Collage Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210712/original/pngtree-summer-fresh-hand-drawn-fruit-lemon-pattern-collage-background-picture-image_1173360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | Summer, lemon wallpaper (9:16)">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/dc/dcbecc1443bf39378835ebf83cd06aba_t.jpeg' alt='Free Photos | Summer, lemon wallpaper (9:16)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/dc/dcbecc1443bf39378835ebf83cd06aba_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon seamless pattern. Trendy summer background. Vector bright ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/735/817/non_2x/lemon-seamless-pattern-trendy-summer-background-bright-print-for-fabric-or-wallpaper-vector.jpg' alt='Lemon seamless pattern. Trendy summer background. Vector bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/735/817/non_2x/lemon-seamless-pattern-trendy-summer-background-bright-print-for-fabric-or-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Lemon Wallpaper Self Adhesive Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/3bb055/3955574528/il_570xN.3955574528_ef1c.jpg' alt='Summer Lemon Wallpaper Self Adhesive Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/3bb055/3955574528/il_570xN.3955574528_ef1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

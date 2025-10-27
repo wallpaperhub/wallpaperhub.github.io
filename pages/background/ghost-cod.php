@@ -1,0 +1,129 @@
+<title>Discover the Delights of Ghost Cod: A Culinary Treasure</title>
+                    <meta name="description" content="Explore the unique taste and culinary uses of ghost cod, a sustainable fish favorite. Learn its benefits, cooking tips, and why it's a delicious choice for your next meal. Perfect for seafood lovers and eco-conscious chefs looking for quality and flavor!">
+                    <meta name="keywords" content="ghost cod">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ghost-cod">
+                            <span itemprop="name">ghost cod</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Delights of Ghost Cod: A Culinary Treasure</h1>
+                <p>Ghost cod, also known as red cod or Mola mola, refers to a popular fish found in cold waters around New Zealand and Australia. Its firm, white flesh is highly sought after for its subtle flavor and versatility in dishes, from fish and chips to gourmet seafood platters. The ghost cod is a sustainable choice, supporting responsible fishing practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty's Rumored Ghost Campaign Could Start a New Trend">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/cod-mw2-ghost-glancing-up.jpg' alt='Call of Duty's Rumored Ghost Campaign Could Start a New Trend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/cod-mw2-ghost-glancing-up.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon "Ghost" Riley | Call of Duty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/callofduty/images/b/b4/Ghost_Infobox_2023_MWIII.png/revision/latest?cb=20231118184755' alt='Simon "Ghost" Riley | Call of Duty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call of Duty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/callofduty/images/b/b4/Ghost_Infobox_2023_MWIII.png/revision/latest?cb=20231118184755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD Ghost - Character Review">
+                                <img itemprop="contentUrl url" src='https://mmonster.co/media/10/7f/79/1720547206/ghost.webp' alt='COD Ghost - Character Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MmonsteR" />
+                                </span>
+                                <a href='https://mmonster.co/media/10/7f/79/1720547206/ghost.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ever Wondered How a Call of Duty Ghost Movie Would Be Like ...">
+                                <img itemprop="contentUrl url" src='https://image-cdn.essentiallysports.com/wp-content/uploads/call-of-duty-modern-warfare-II-ghost-image-1-640x853.jpg' alt='Ever Wondered How a Call of Duty Ghost Movie Would Be Like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EssentiallySports" />
+                                </span>
+                                <a href='https://image-cdn.essentiallysports.com/wp-content/uploads/call-of-duty-modern-warfare-II-ghost-image-1-640x853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD] This is an unpopular opinion but the new Simon 'Ghost' Riley ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cod-this-is-an-unpopular-opinion-but-the-new-simon-ghost-v0-vy5ykt50po9d1.jpeg?auto=webp&s=aa6e1e8be3487cff2d5e30f3fc8140791c87abe6' alt='COD] This is an unpopular opinion but the new Simon 'Ghost' Riley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="3276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cod-this-is-an-unpopular-opinion-but-the-new-simon-ghost-v0-vy5ykt50po9d1.jpeg?auto=webp&s=aa6e1e8be3487cff2d5e30f3fc8140791c87abe6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon "Ghost" Riley | Call of Duty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/callofduty/images/0/04/Ghost_in_Loose_Ends_MW2CR.jpg/revision/latest?cb=20200929024444' alt='Simon "Ghost" Riley | Call of Duty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call of Duty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/callofduty/images/0/04/Ghost_in_Loose_Ends_MW2CR.jpg/revision/latest?cb=20200929024444' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD Ghost - Character Review">
+                                <img itemprop="contentUrl url" src='https://mmonster.co/media/86/9a/cb/1720545549/Ghost%202.webp' alt='COD Ghost - Character Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MmonsteR" />
+                                </span>
+                                <a href='https://mmonster.co/media/86/9a/cb/1720545549/Ghost%202.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Ghost from Call of Duty by Pavseh on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c14b5952-daba-4cd1-8aa9-0c44e6e6cbcf/de3sfi6-bb65f3f8-ae89-4e56-9080-ef14199e7442.png/v1/fill/w_744,h_1074/classic_ghost_from_call_of_duty_by_pavseh_de3sfi6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjEzMCIsInBhdGgiOiJcL2ZcL2MxNGI1OTUyLWRhYmEtNGNkMS04YWE5LTBjNDRlNmU2Y2JjZlwvZGUzc2ZpNi1iYjY1ZjNmOC1hZTg5LTRlNTYtOTA4MC1lZjE0MTk5ZTc0NDIucG5nIiwid2lkdGgiOiI8PTE0NzUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3DWB9TztI1mpCwiJNE7_Ub077Jij3iXU7Gc3vnDsAqc' alt='Classic Ghost from Call of Duty by Pavseh on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c14b5952-daba-4cd1-8aa9-0c44e6e6cbcf/de3sfi6-bb65f3f8-ae89-4e56-9080-ef14199e7442.png/v1/fill/w_744,h_1074/classic_ghost_from_call_of_duty_by_pavseh_de3sfi6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjEzMCIsInBhdGgiOiJcL2ZcL2MxNGI1OTUyLWRhYmEtNGNkMS04YWE5LTBjNDRlNmU2Y2JjZlwvZGUzc2ZpNi1iYjY1ZjNmOC1hZTg5LTRlNTYtOTA4MC1lZjE0MTk5ZTc0NDIucG5nIiwid2lkdGgiOiI8PTE0NzUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3DWB9TztI1mpCwiJNE7_Ub077Jij3iXU7Gc3vnDsAqc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD] i cosplayed ghost from the reboot : r/CallOfDuty">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cod-i-cosplayed-ghost-from-the-reboot-v0-cd9us32hnf4e1.jpg?width=4501&format=pjpg&auto=webp&s=92557a124c073b15dbf5768adefa8936ae56e2e5' alt='COD] i cosplayed ghost from the reboot : r/CallOfDuty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4501">
+                                <meta itemprop="height" content="6751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cod-i-cosplayed-ghost-from-the-reboot-v0-cd9us32hnf4e1.jpg?width=4501&format=pjpg&auto=webp&s=92557a124c073b15dbf5768adefa8936ae56e2e5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghosthrob: Going behind the mask with Call of Duty's Most Eligible ...">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c52a21-bfe6-4845-8352-59b0009b9783_6000x7200.jpeg' alt='Ghosthrob: Going behind the mask with Call of Duty's Most Eligible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="7200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Activision Blizzard King" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c52a21-bfe6-4845-8352-59b0009b9783_6000x7200.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

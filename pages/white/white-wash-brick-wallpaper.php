@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Wash Brick Wallpaper</title>
+                    <meta name="description" content="Add a touch of rustic elegance to your home with white wash brick wallpaper. Perfect for accent walls and easy to install, it gives your space a chic, modern vibe. Discover the beauty of brick without the hassle of renovations!">
+                    <meta name="keywords" content="white wash brick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-wash-brick-wallpaper">
+                            <span itemprop="name">white wash brick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Wash Brick Wallpaper</h1>
+                <p>White wash brick wallpaper adds a stylish and rustic charm to any interior. Perfect for creating a cozy atmosphere, it mimics the look of real brick with a soft, white finish. Ideal for accent walls, living rooms, or kitchens, this wallpaper is easy to apply and remove, making it a versatile choice for any home decor project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitewash Bricks Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Whitewashed-Bricks-5.jpg.optimal.jpg' alt='Whitewash Bricks Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Whitewashed-Bricks-5.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Whitewashed White Brick Wallpaper - Photographic Design - 3D  Effect - Realistic Rustic Brick - Urban Industrial Loft Effect - Paste The  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91gqBlnvISL.jpg' alt='Arthouse Whitewashed White Brick Wallpaper - Photographic Design - 3D  Effect - Realistic Rustic Brick - Urban Industrial Loft Effect - Paste The  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2056">
+                                <meta itemprop="height" content="2039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91gqBlnvISL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitewashed Wall by Arthouse - White - Wallpaper - 671100">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/130042/tiled/arthouse-whitewashed-wall-white-wallpaper-tiled-130042.jpg' alt='Whitewashed Wall by Arthouse - White - Wallpaper - 671100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/130042/tiled/arthouse-whitewashed-wall-white-wallpaper-tiled-130042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitewashed Antique Brick | Peel 'n Stick or Traditional Wallpaper | Made  in the USA! • Vinyl-Free • Non-toxic">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9696664/r/il/8765e7/1155762817/il_fullxfull.1155762817_olea.jpg' alt='Whitewashed Antique Brick | Peel 'n Stick or Traditional Wallpaper | Made  in the USA! • Vinyl-Free • Non-toxic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9696664/r/il/8765e7/1155762817/il_fullxfull.1155762817_olea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Vintage Whitewashed Faux Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71umr35wk3L._AC_UF894,1000_QL80_.jpg' alt='NextWall Vintage Whitewashed Faux Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71umr35wk3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitewash Brick Effect Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715851569/articles/BR5003WH30W_product.jpg' alt='Whitewash Brick Effect Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715851569/articles/BR5003WH30W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aged Brick Effect Wall Mural | White Washed Brick – WallsNeedLove">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/m1906_1s_White-Washed-Brick-Wall-Mural-WallsNeedLove_For-Interior-Walls-9a-NEW_1800x1800.jpg?v=1734717886' alt='Aged Brick Effect Wall Mural | White Washed Brick – WallsNeedLove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/m1906_1s_White-Washed-Brick-Wall-Mural-WallsNeedLove_For-Interior-Walls-9a-NEW_1800x1800.jpg?v=1734717886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Whitewashed Vintage Brick Peel and Stick Smooth Vinyl Wallpaper  W9202-Vinyl-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0e239db4-d3d5-46fd-b379-5740ee3017a1/svn/wallpaper-rolls-w9202-vinyl-216-64_600.jpg' alt='Unbranded Whitewashed Vintage Brick Peel and Stick Smooth Vinyl Wallpaper  W9202-Vinyl-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0e239db4-d3d5-46fd-b379-5740ee3017a1/svn/wallpaper-rolls-w9202-vinyl-216-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whitewash Brick White Peel & Stick">
+                                <img itemprop="contentUrl url" src='http://chelsealaneco.com/cdn/shop/products/RMK11237WPex.jpg?v=1588303506' alt='Whitewash Brick White Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsea Lane & Co." />
+                                </span>
+                                <a href='http://chelsealaneco.com/cdn/shop/products/RMK11237WPex.jpg?v=1588303506' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Washed Brick">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/41761/pr22/2/414/white-washed-brick-white-brick-wallpaper.jpg' alt='White Washed Brick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/41761/pr22/2/414/white-washed-brick-white-brick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

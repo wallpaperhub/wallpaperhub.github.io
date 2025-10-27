@@ -1,0 +1,129 @@
+<title>Essential Guide to Company Background Checks</title>
+                    <meta name="description" content="Discover the importance of company background checks, how they safeguard your business, and ensure trustworthy partnerships. Learn about the key aspects to evaluate, from financial history to legal concerns, helping you make informed decisions with confidence.">
+                    <meta name="keywords" content="company background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/company-background-check">
+                            <span itemprop="name">company background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Company Background Checks</h1>
+                <p>A company background check is a crucial process that helps organizations verify the legitimacy and credibility of potential partners, employees, and vendors. This thorough examination includes checking financial records, legal history, creditworthiness, and previous business conduct. Ensuring your business relationships are built on trust promotes stability and reputation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips to Compare & Choose a Background Check Company">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/background-check-companies/_jcr_content/root/pagesection/image_1913931410.coreimg.png/1684246985483/sfh-options.png' alt='Tips to Compare & Choose a Background Check Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/background-check-companies/_jcr_content/root/pagesection/image_1913931410.coreimg.png/1684246985483/sfh-options.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check | Steps, Benefits, & More">
+                                <img itemprop="contentUrl url" src='https://www.patriotsoftware.com/wp-content/uploads/2019/10/background-check-1.png' alt='How to Do a Background Check | Steps, Benefits, & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patriot Software" />
+                                </span>
+                                <a href='https://www.patriotsoftware.com/wp-content/uploads/2019/10/background-check-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Reasons Why You Should Hire a Background Check Company">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/08/professionalscreeninginformationinc-134104-background-check-company-infographic1.jpg' alt='5 Reasons Why You Should Hire a Background Check Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/08/professionalscreeninginformationinc-134104-background-check-company-infographic1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Things to Know about Background Check / Investigative Due ...">
+                                <img itemprop="contentUrl url" src='https://diligencevault.com/wp-content/uploads/2022/08/background-check-providers.png' alt='5 Things to Know about Background Check / Investigative Due ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DiligenceVault" />
+                                </span>
+                                <a href='https://diligencevault.com/wp-content/uploads/2022/08/background-check-providers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Checks: What Are the Limits? | Your Work, Your Way">
+                                <img itemprop="contentUrl url" src='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' alt='Employee Background Checks: What Are the Limits? | Your Work, Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Work, Your Way" />
+                                </span>
+                                <a href='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks: What employers can find out about you">
+                                <img itemprop="contentUrl url" src='https://i2.cdn.turner.com/money/dam/assets/141222143406-employment-background-checks-640x360.png' alt='Background checks: What employers can find out about you'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - CNN" />
+                                </span>
+                                <a href='https://i2.cdn.turner.com/money/dam/assets/141222143406-employment-background-checks-640x360.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common Background Checks and What It Tells Employers - SimpliVerified">
+                                <img itemprop="contentUrl url" src='http://simpliverified.com/wp-content/uploads/2022/02/employment-screening-company.jpg' alt='Common Background Checks and What It Tells Employers - SimpliVerified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimpliVerified" />
+                                </span>
+                                <a href='http://simpliverified.com/wp-content/uploads/2022/02/employment-screening-company.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

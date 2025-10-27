@@ -1,0 +1,129 @@
+<title>Bridgerton Aesthetic Wallpaper: Regal Elegance for Your Space</title>
+                    <meta name="description" content="Discover the enchanting world of Bridgerton aesthetic wallpaper. Perfect for fans and interior enthusiasts alike, our collection features elegant designs inspired by Regency style. Elevate your home decor with soft colors and captivating patterns that bring the charm of Bridgerton to your living spaces.">
+                    <meta name="keywords" content="bridgerton aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/bridgerton-aesthetic-wallpaper">
+                            <span itemprop="name">bridgerton aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bridgerton Aesthetic Wallpaper: Regal Elegance for Your Space</h1>
+                <p>Transform your space with stunning Bridgerton aesthetic wallpaper, where Regency romance meets contemporary style. Embrace soft pastels, floral patterns, and opulent designs inspired by the beloved Netflix series. Perfect for fans, these wallpapers evoke the elegance of the era and allow you to create a luxurious cocoon in your own home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Bridgerton Wallpaper Options For An Elegant Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/97/b7/e497b7b8441bf6c529163310fd19f1c2.jpg' alt='40+ Bridgerton Wallpaper Options For An Elegant Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/97/b7/e497b7b8441bf6c529163310fd19f1c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper aesthetic | Bridgerton aesthetic | Bridgerton wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/d6/7a/97d67a9263cc0e7d4ca9522ef143d063.jpg' alt='Wallpaper aesthetic | Bridgerton aesthetic | Bridgerton wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/d6/7a/97d67a9263cc0e7d4ca9522ef143d063.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bridgerton">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/56/6b/24566b69b68ff30dc58105a685ef4f90.jpg' alt='Bridgerton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/56/6b/24566b69b68ff30dc58105a685ef4f90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Regent Bridgerton Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-regent-bridgerton-1dehcqo2r0qcr1bh.jpg' alt='Aesthetic Regent Bridgerton Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-regent-bridgerton-1dehcqo2r0qcr1bh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bridgerton Aesthetic wallpaper • • • • #wallpaper #aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/59/21/a95921b0150291db847d5f3b4cbac236.jpg' alt='Bridgerton Aesthetic wallpaper • • • • #wallpaper #aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/59/21/a95921b0150291db847d5f3b4cbac236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bridgerton Family Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-bridgerton-family-aesthetic-j1j7g1jk5hl0jzy8.jpg' alt='The Bridgerton Family Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-bridgerton-family-aesthetic-j1j7g1jk5hl0jzy8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bridgerton inspired wallpaper ideas">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/magefan_blog/b.jpg' alt='bridgerton inspired wallpaper ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/magefan_blog/b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I just did a wallpaper for the Bridgerton and Kanthony lovers and ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mh69y6pq3lq81.png?width=1080&crop=smart&auto=webp&s=e8225e6af3718a5027962b27cfae8e8b90601d5a' alt='I just did a wallpaper for the Bridgerton and Kanthony lovers and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mh69y6pq3lq81.png?width=1080&crop=smart&auto=webp&s=e8225e6af3718a5027962b27cfae8e8b90601d5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bridgerton Design - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46635346/r/il/423d12/5996825047/il_fullxfull.5996825047_tc6s.jpg' alt='Bridgerton Design - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46635346/r/il/423d12/5996825047/il_fullxfull.5996825047_tc6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out kiannaballew's Shuffles anthony     #bridgerton ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/8f/4b/c4/8f4bc4a3dde7b5ffeabb52fe4684202f.jpg' alt='Check out kiannaballew's Shuffles anthony     #bridgerton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/8f/4b/c4/8f4bc4a3dde7b5ffeabb52fe4684202f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

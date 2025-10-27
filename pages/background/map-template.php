@@ -1,0 +1,129 @@
+<title>"Customizable Map Templates for Easy Planning"</title>
+                    <meta name="description" content="Discover versatile map templates designed for efficient planning and visualization. Perfect for projects, travel, or education, these customizable tools streamline your geographic presentations. Create, edit, and share detailed maps effortlessly!">
+                    <meta name="keywords" content="map template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/map-template">
+                            <span itemprop="name">map template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Customizable Map Templates for Easy Planning"</h1>
+                <p>A map template serves as a foundational tool for visualizing geographic data and planning layouts. It offers a structured format for users to input specific locations, landmarks, and routes. Ideal for educational purposes, project presentations, or travel planning, map templates can easily be customized to suit various needs and styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Blank World Map Template for Students and Kids">
+                                <img itemprop="contentUrl url" src='https://timvandevall.com/wp-content/uploads/2014/06/blank-world-map.jpg' alt='Printable Blank World Map Template for Students and Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tim's Printables" />
+                                </span>
+                                <a href='https://timvandevall.com/wp-content/uploads/2014/06/blank-world-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Template | Inkarnate - Create Fantasy Maps Online">
+                                <img itemprop="contentUrl url" src='https://inkarnate-api-as-production.s3.amazonaws.com/mwp2g2cpqtg1tpyfb58eejzkawa3' alt='Template | Inkarnate - Create Fantasy Maps Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inkarnate" />
+                                </span>
+                                <a href='https://inkarnate-api-as-production.s3.amazonaws.com/mwp2g2cpqtg1tpyfb58eejzkawa3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An updated map template (best for 1781 - Today) : r/AlternateHistory">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q8ewalvmgloa1.png' alt='An updated map template (best for 1781 - Today) : r/AlternateHistory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10240">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q8ewalvmgloa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Treasure Map Coloring Page | Printable Template">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/99/ad/t-tp-2670468-blank-treasure-map-colouring-sheet_ver_2.jpg' alt='Blank Treasure Map Coloring Page | Printable Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/99/ad/t-tp-2670468-blank-treasure-map-colouring-sheet_ver_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon island map template for next level game Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/74/94/cartoon-island-map-template-for-next-level-game-vector-44237494.jpg' alt='Cartoon island map template for next level game Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/74/94/cartoon-island-map-template-for-next-level-game-vector-44237494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Community Map Template For Kids - ClipArt Best">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/7d/d3/837dd3d53d048834f6716373f646c38a.jpg' alt='Community Map Template For Kids - ClipArt Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/7d/d3/837dd3d53d048834f6716373f646c38a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Old antique treasure map Cartoon island map ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/old-antique-treasure-map-cartoon-island-map-template-level-game-adventures-quest-treasure-hunt-pirate-grunge-map-hand-drawn-vintage-vector-illustration_87946-5196.jpg' alt='Premium Vector | Old antique treasure map Cartoon island map ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/old-antique-treasure-map-cartoon-island-map-template-level-game-adventures-quest-treasure-hunt-pirate-grunge-map-hand-drawn-vintage-vector-illustration_87946-5196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World map - Template - edding">
+                                <img itemprop="contentUrl url" src='https://www.edding.com/fileadmin/templates/templates-objects-and-symbols/template-world-map.svg' alt='World map - Template - edding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1235">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="edding" />
+                                </span>
+                                <a href='https://www.edding.com/fileadmin/templates/templates-objects-and-symbols/template-world-map.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treasure map template. Aged paper with pirate island">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/one007e-60-e01-mainpreview-be9cab0af27a12615217eef4926d0b6f67ba5ddc1067fbcc813d00f063e2273f.jpg' alt='Treasure map template. Aged paper with pirate island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/one007e-60-e01-mainpreview-be9cab0af27a12615217eef4926d0b6f67ba5ddc1067fbcc813d00f063e2273f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient paper map template Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/13/62/ancient-paper-map-template-vector-44371362.jpg' alt='Ancient paper map template Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/13/62/ancient-paper-map-template-vector-44371362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Russell Westbrook: NBA's Explosive Playmaker</title>
+                    <meta name="description" content="Discover the incredible journey of Russell Westbrook, an NBA legend known for his unmatched skills and relentless determination. Explore his achievements, unique playing style, and contributions to the game that make him a standout athlete in basketball history.">
+                    <meta name="keywords" content="russell westbrook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/russell-westbrook">
+                            <span itemprop="name">russell westbrook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Russell Westbrook: NBA's Explosive Playmaker</h1>
+                <p>Russell Westbrook, an NBA superstar and former league MVP, is known for his explosive athleticism and fierce competitiveness. A versatile player, he excels as a point guard, showcasing incredible scoring ability and playmaking skills. Throughout his career, Westbrook has been a dynamic force, leaving a lasting impact on the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook | Guard | Denver Nuggets | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png' alt='Russell Westbrook | Guard | Denver Nuggets | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/be/Russell_Westbrook_%28March_21%2C_2022%29_%28cropped%29.jpg' alt='Russell Westbrook - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1554">
+                                <meta itemprop="height" content="2222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/be/Russell_Westbrook_%28March_21%2C_2022%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook News, Rumors, Updates - Denver Nuggets | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nba/headshots/1517.vresize.350.350.medium.87.png' alt='Russell Westbrook News, Rumors, Updates - Denver Nuggets | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nba/headshots/1517.vresize.350.350.medium.87.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Westbrook Always Plays With Stars. But Will They Align on the ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/08/10/sports/00nba-westbrook1-print/merlin_184137372_d6303470-72b2-4b28-960e-1a86029623bf-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Westbrook Always Plays With Stars. But Will They Align on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/08/10/sports/00nba-westbrook1-print/merlin_184137372_d6303470-72b2-4b28-960e-1a86029623bf-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook | Height, Trade, Biography, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/99/214999-050-18CBFF26/Houston-Rockets-basketball-player-Russell-Westbrook-2019.jpg' alt='Russell Westbrook | Height, Trade, Biography, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1178">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/99/214999-050-18CBFF26/Houston-Rockets-basketball-player-Russell-Westbrook-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nuggets Make Russell Westbrook Decision Amid Aaron Gordon Injury ...">
+                                <img itemprop="contentUrl url" src='https://athlonsports.com/.image/t_share/MjEyNTM1NzUzODc4NTQ2MDQ4/usatsi_25163758.jpg' alt='Nuggets Make Russell Westbrook Decision Amid Aaron Gordon Injury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athlon Sports" />
+                                </span>
+                                <a href='https://athlonsports.com/.image/t_share/MjEyNTM1NzUzODc4NTQ2MDQ4/usatsi_25163758.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Russell Westbrook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044489436908' alt='Profile for Russell Westbrook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044489436908' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook | Nbafamily Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nbafamily/images/9/92/FYIVIO5IGJKHLO3OV4O66G3PE4.jpg/revision/latest?cb=20230708192829' alt='Russell Westbrook | Nbafamily Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nbafamily Wiki Nbafamily Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nbafamily/images/9/92/FYIVIO5IGJKHLO3OV4O66G3PE4.jpg/revision/latest?cb=20230708192829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook: Biography, NBA Player, Clippers Point Guard">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1233178477.jpg' alt='Russell Westbrook: Biography, NBA Player, Clippers Point Guard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1233178477.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Westbrook, Thunder agree on five-year, $205 million extension">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/b9bfa53a0e1bccab06445c1fc115458c400cda04/c=828-0-2398-2093/local/-/media/2017/09/29/USATODAY/USATODAY/636422963545309889-USATSI-9103998.jpg?width=660&height=880&fit=crop&format=pjpg&auto=webp' alt='Russell Westbrook, Thunder agree on five-year, $205 million extension'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/b9bfa53a0e1bccab06445c1fc115458c400cda04/c=828-0-2398-2093/local/-/media/2017/09/29/USATODAY/USATODAY/636422963545309889-USATSI-9103998.jpg?width=660&height=880&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

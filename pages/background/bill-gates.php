@@ -1,0 +1,129 @@
+<title>Bill Gates: Innovator, Philanthropist, and Tech Pioneer</title>
+                    <meta name="description" content="Discover the life and legacy of Bill Gates, the co-founder of Microsoft. Learn about his impact on technology, philanthropy, and global health initiatives through the Bill and Melinda Gates Foundation. Explore the visionary behind modern computing and his ongoing commitment to improving the world.">
+                    <meta name="keywords" content="bill gates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bill-gates">
+                            <span itemprop="name">bill gates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bill Gates: Innovator, Philanthropist, and Tech Pioneer</h1>
+                <p>Bill Gates, co-founder of Microsoft, is a prominent philanthropist and philanthropist. He played a crucial role in revolutionizing personal computing. Beyond technology, Gates is dedicated to global health and education through the Bill and Melinda Gates Foundation, which addresses critical issues like poverty and disease worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/Lkdq6f24FLF4U0AnMrGXQ-qOfhCdF-SMblNC5rOtVvBGRT4SkUDBt_Gb1Wg5sICw6SSHl51INUk=s900-c-k-c0x00ffffff-no-rj' alt='Bill Gates - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/Lkdq6f24FLF4U0AnMrGXQ-qOfhCdF-SMblNC5rOtVvBGRT4SkUDBt_Gb1Wg5sICw6SSHl51INUk=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates: Biography, Microsoft Cofounder, Gates Foundation">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bill-gates-arrives-to-the-late-show-with-stephen-colbert-at-news-photo-1739214554.pjpeg?crop=0.667xw:0.636xh;0.211xw,0.0406xh&resize=640:*' alt='Bill Gates: Biography, Microsoft Cofounder, Gates Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bill-gates-arrives-to-the-late-show-with-stephen-colbert-at-news-photo-1739214554.pjpeg?crop=0.667xw:0.636xh;0.211xw,0.0406xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/62d599ede3ff49f348f9b9b4/0x0.jpg?format=jpg&crop=821,821,x155,y340,safe&height=416&width=416&fit=bounds' alt='Bill Gates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/62d599ede3ff49f348f9b9b4/0x0.jpg?format=jpg&crop=821,821,x155,y340,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg' alt='Bill Gates - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1810">
+                                <meta itemprop="height" content="2415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fc/Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2025/01/21/multimedia/GATES-1-fqhp/GATES-1-fqhp-square320-v2.jpg?quality=75&auto=webp&disable=upscale' alt='Bill Gates - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2025/01/21/multimedia/GATES-1-fqhp/GATES-1-fqhp-square320-v2.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The website of Bill Gates | Gates Notes">
+                                <img itemprop="contentUrl url" src='https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/a8dfce67-8889-4a88-902d-f11fd6fd3eb7/image-of-bill7.png' alt='The website of Bill Gates | Gates Notes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.gatesnotes.com" />
+                                </span>
+                                <a href='https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/a8dfce67-8889-4a88-902d-f11fd6fd3eb7/image-of-bill7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates | Speaker | TED">
+                                <img itemprop="contentUrl url" src='https://ted-conferences-speaker-photos-production.s3.amazonaws.com/yoa4pm3vyerco6hqbhjxly3bf41d' alt='Bill Gates | Speaker | TED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TED Talks" />
+                                </span>
+                                <a href='https://ted-conferences-speaker-photos-production.s3.amazonaws.com/yoa4pm3vyerco6hqbhjxly3bf41d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates | Speaker | 2023 Earthshot Prize Innovation Summit">
+                                <img itemprop="contentUrl url" src='https://assets.bbhub.io/dotorg/sites/64/2023/09/BillGates-Headshot-2022.jpg' alt='Bill Gates | Speaker | 2023 Earthshot Prize Innovation Summit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg Philanthropies" />
+                                </span>
+                                <a href='https://assets.bbhub.io/dotorg/sites/64/2023/09/BillGates-Headshot-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates on his nuclear energy investment, AI's challenges : NPR">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Ffb%2F62f7bcdd47329b5419411e9a7471%2Fbill-gates-portrait-at-npr.jpg' alt='Bill Gates on his nuclear energy investment, AI's challenges : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Ffb%2F62f7bcdd47329b5419411e9a7471%2Fbill-gates-portrait-at-npr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Bill_Gates%2C_September_2024.jpg' alt='Bill Gates - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/cc/Bill_Gates%2C_September_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

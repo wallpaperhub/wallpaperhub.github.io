@@ -1,0 +1,129 @@
+<title>Nier Automata 4K Wallpapers: Stunning Visuals for Your Device</title>
+                    <meta name="description" content="Explore breathtaking Nier Automata 4K wallpapers! Elevate your device's aesthetics with stunning character art and vibrant landscapes from this iconic game. Perfect for fans looking to showcase their love for Nier Automata with high-resolution images. Download now for a fresh look!">
+                    <meta name="keywords" content="nier automata wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/nier-automata-wallpaper-4k">
+                            <span itemprop="name">nier automata wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nier Automata 4K Wallpapers: Stunning Visuals for Your Device</h1>
+                <p>Nier Automata 4K wallpapers immerse you in the stunning world of this acclaimed action RPG. Featuring breathtaking landscapes, iconic characters like 2B and 9S, and dynamic battles, these high-resolution images bring your screen to life. Upgrade your device's look and showcase your passion for this masterpiece with captivating visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screenshot] 4K Nier Automata wallpaper for the 4.50 update. : r/PS4">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/DRJE_-O1Vb1q-K-1W9s18BP9PpcG7BdWf5iwD24PCYU.png?auto=webp&s=5343c8f6130c63ee0a2b77274510d3f96e1da2f0' alt='Screenshot] 4K Nier Automata wallpaper for the 4.50 update. : r/PS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/DRJE_-O1Vb1q-K-1W9s18BP9PpcG7BdWf5iwD24PCYU.png?auto=webp&s=5343c8f6130c63ee0a2b77274510d3f96e1da2f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR: Automata 4K Ultra HD Wallpaper - YoRHa Warriors with Katana ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/808/808654.jpg' alt='NieR: Automata 4K Ultra HD Wallpaper - YoRHa Warriors with Katana ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4784">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/808/808654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR: Automata HD Wallpaper - Epic Serenade">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/920/thumb-1920-920085.jpg' alt='NieR: Automata HD Wallpaper - Epic Serenade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/920/thumb-1920-920085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download YoRHa No.2 Type B NieR: Automata NieR Replicant 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/135/1352203.jpeg' alt='Download YoRHa No.2 Type B NieR: Automata NieR Replicant 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4271">
+                                <meta itemprop="height" content="2987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/135/1352203.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Nier:Automata wallpaper ideas | nier automata, automata, 2b ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/95/98/ab/9598ab11cdf146b2a56030416aeedfba.jpg' alt='100 Nier:Automata wallpaper ideas | nier automata, automata, 2b ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/95/98/ab/9598ab11cdf146b2a56030416aeedfba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::NieR: Automata - 2B 4K">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1669108755825660995/7FB63A4FAE84C532343267953DE18773CD1988D2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::NieR: Automata - 2B 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1669108755825660995/7FB63A4FAE84C532343267953DE18773CD1988D2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nier Automata Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/nier-automata-3840x2160.jpg' alt='Nier Automata Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/nier-automata-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nier Automata 4K Two Swords Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nier-automata-4k-two-swords-i9juo69ql35bzzy8.jpg' alt='Download Nier Automata 4K Two Swords Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nier-automata-4k-two-swords-i9juo69ql35bzzy8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Nier:Automata wallpaper ideas | nier automata, automata, 2b ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/20/77/332077a6ca1023283978d9f839863b82.jpg' alt='100 Nier:Automata wallpaper ideas | nier automata, automata, 2b ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/20/77/332077a6ca1023283978d9f839863b82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR: Automata 2B HD Wallpaper - Epic Showdown by SEIN">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/785/thumb-1920-785576.png' alt='NieR: Automata 2B HD Wallpaper - Epic Showdown by SEIN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/785/thumb-1920-785576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

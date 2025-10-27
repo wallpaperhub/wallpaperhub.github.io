@@ -1,0 +1,129 @@
+<title>Optimize Your Decisions with Data Facts Background Checks</title>
+                    <meta name="description" content="Discover the importance of data facts background checks for safer hiring and lending. Ensure accurate information and mitigate risks with thorough verification of criminal, employment, and educational backgrounds. Make informed decisions and protect yourself from potential fraud today!">
+                    <meta name="keywords" content="data facts background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/data-facts-background-check">
+                            <span itemprop="name">data facts background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Decisions with Data Facts Background Checks</h1>
+                <p>Data facts background checks are essential to ensure accurate information, especially in hiring and lending processes. They help identify potential risks by verifying criminal records, employment history, education, and other pertinent information. Conducting thorough checks safeguards businesses and individuals from fraud and enhances informed decision-making.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Data Facts integration – Greenhouse Support">
+                                <img itemprop="contentUrl url" src='https://support.greenhouse.io/hc/article_attachments/360046525851/mceclip1.png' alt='Data Facts integration – Greenhouse Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1319">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenhouse Support" />
+                                </span>
+                                <a href='https://support.greenhouse.io/hc/article_attachments/360046525851/mceclip1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Data Facts Background Screening">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057200750937' alt='Profile for Data Facts Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057200750937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Data Facts Reviews 2025: Details, Pricing, & Features | G2">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b3d77162c1a4f2c20508b631bc582e10/data-facts.png' alt='Data Facts Reviews 2025: Details, Pricing, & Features | G2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b3d77162c1a4f2c20508b631bc582e10/data-facts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Data Facts Background Check Wrong? - In Consumer ...">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/data-facts-background-check.webp' alt='Was Your Data Facts Background Check Wrong? - In Consumer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/data-facts-background-check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People Facts: Background Screening Integration : VolunteerHub Support">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/60086371219/original/Wgy6HDb5c4LGFSaIrHTssm53iLXVJoVvjg.png?1681150657' alt='People Facts: Background Screening Integration : VolunteerHub Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VolunteerHub Support" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/60086371219/original/Wgy6HDb5c4LGFSaIrHTssm53iLXVJoVvjg.png?1681150657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Data Facts integration – Greenhouse Support">
+                                <img itemprop="contentUrl url" src='https://support.greenhouse.io/hc/article_attachments/360046400572/mceclip4.png' alt='Data Facts integration – Greenhouse Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenhouse Support" />
+                                </span>
+                                <a href='https://support.greenhouse.io/hc/article_attachments/360046400572/mceclip4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Data360: Progressive Background Screening">
+                                <img itemprop="contentUrl url" src='https://www.datafacts.com/hs-fs/hubfs/Data360_logo.png?width=2293&height=1042&name=Data360_logo.png' alt='Data360: Progressive Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2293">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Data Facts" />
+                                </span>
+                                <a href='https://www.datafacts.com/hs-fs/hubfs/Data360_logo.png?width=2293&height=1042&name=Data360_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certified Background Check | Data Facts">
+                                <img itemprop="contentUrl url" src='https://www.datafacts.com/hubfs/NB%202022/Icons/All-Branded-Icons/DataFacts-Icon-Scale.svg' alt='Certified Background Check | Data Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Data Facts" />
+                                </span>
+                                <a href='https://www.datafacts.com/hubfs/NB%202022/Icons/All-Branded-Icons/DataFacts-Icon-Scale.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Check Services | Data Facts">
+                                <img itemprop="contentUrl url" src='https://www.datafacts.com/hubfs/NB%202022/Icons/All-Branded-Icons/DataFacts-Icon-Gameplan.svg' alt='Employee Background Check Services | Data Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Data Facts" />
+                                </span>
+                                <a href='https://www.datafacts.com/hubfs/NB%202022/Icons/All-Branded-Icons/DataFacts-Icon-Gameplan.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The facts about background checks">
+                                <img itemprop="contentUrl url" src='https://www.hollandsentinel.com/gcdn/authoring/2017/07/03/NHOS/ghows-MI-531db1e9-457b-0237-e053-0100007f7deb-3adfd62e.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='The facts about background checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Holland Sentinel" />
+                                </span>
+                                <a href='https://www.hollandsentinel.com/gcdn/authoring/2017/07/03/NHOS/ghows-MI-531db1e9-457b-0237-e053-0100007f7deb-3adfd62e.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

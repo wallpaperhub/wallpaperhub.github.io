@@ -1,0 +1,129 @@
+<title>Lorette in a Green Robe: A Striking Contrast</title>
+                    <meta name="description" content="Explore the captivating image of Lorette in a vibrant green robe set against a sleek black background. This stunning visual highlights the beauty and emotional depth of the scene, merging elegance with intrigue. Perfect for art enthusiasts and nature lovers alike!">
+                    <meta name="keywords" content="lorette in a green robe against a black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lorette-in-a-green-robe-against-a-black-background">
+                            <span itemprop="name">lorette in a green robe against a black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lorette in a Green Robe: A Striking Contrast</h1>
+                <p>In a striking visual, Lorette stands gracefully in a vibrant green robe that contrasts dramatically against a deep black background. The robe, flowing elegantly, symbolizes nature and renewal, while the darkness amplifies her presence and mystique. This powerful image captivates with a blend of color and emotion, inviting viewers to explore deeper meanings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse | Laurette in a Green Robe, Black Background | The ...">
+                                <img itemprop="contentUrl url" src='https://collectionapi.metmuseum.org/api/collection/v1/iiif/489996/1005007/restricted' alt='Henri Matisse | Laurette in a Green Robe, Black Background | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Metropolitan Museum of Art" />
+                                </span>
+                                <a href='https://collectionapi.metmuseum.org/api/collection/v1/iiif/489996/1005007/restricted' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe against a Black Background, 1916 - Henri ...">
+                                <img itemprop="contentUrl url" src='https://uploads4.wikiart.org/images/henri-matisse/lorette-in-a-green-robe-against-a-black-background-1916.jpg!Large.jpg' alt='Lorette in a Green Robe against a Black Background, 1916 - Henri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WikiArt" />
+                                </span>
+                                <a href='https://uploads4.wikiart.org/images/henri-matisse/lorette-in-a-green-robe-against-a-black-background-1916.jpg!Large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe against a Black Background (1916) by Henri ...">
+                                <img itemprop="contentUrl url" src='https://www.artchive.com/wp-content/uploads/2024/04/lorette-in-a-green-robe-against-a-black-background-henri-matisse-1916.jpg' alt='Lorette in a Green Robe against a Black Background (1916) by Henri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1452">
+                                <meta itemprop="height" content="1991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artchive" />
+                                </span>
+                                <a href='https://www.artchive.com/wp-content/uploads/2024/04/lorette-in-a-green-robe-against-a-black-background-henri-matisse-1916.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Museum Art Reproductions Lorette in a Green Robe against a Black ...">
+                                <img itemprop="contentUrl url" src='https://artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XY7RJ/$FILE/Henri-matisse-lorette-in-a-green-robe-against-a-black-background.Jpg' alt='Museum Art Reproductions Lorette in a Green Robe against a Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1452">
+                                <meta itemprop="height" content="1991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtsDot.com" />
+                                </span>
+                                <a href='https://artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XY7RJ/$FILE/Henri-matisse-lorette-in-a-green-robe-against-a-black-background.Jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe against a Black Background Reproduction">
+                                <img itemprop="contentUrl url" src='https://media.overstockart.com/cache/data/product_images/MT3285-1000x1000.jpg' alt='Lorette in a Green Robe against a Black Background Reproduction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Overstock Art" />
+                                </span>
+                                <a href='https://media.overstockart.com/cache/data/product_images/MT3285-1000x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henri Matisse, Lorette in a Green Robe Against a Black Background ...">
+                                <img itemprop="contentUrl url" src='https://media.overstockart.com/cache/data/product_images/MT3285-FR-7870G20X24-1000x1000.jpg' alt='Henri Matisse, Lorette in a Green Robe Against a Black Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Overstock Art" />
+                                </span>
+                                <a href='https://media.overstockart.com/cache/data/product_images/MT3285-FR-7870G20X24-1000x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe against a Black Background (1916) by Henri ...">
+                                <img itemprop="contentUrl url" src='https://kanvah.com/cdn/shop/files/lorette-in-a-green-robe-against-a-black-background-1916_20___20Canvas_vertical-angled_3-4_0.75_700x700.jpg?v=1735994456' alt='Lorette in a Green Robe against a Black Background (1916) by Henri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kanvah Art" />
+                                </span>
+                                <a href='https://kanvah.com/cdn/shop/files/lorette-in-a-green-robe-against-a-black-background-1916_20___20Canvas_vertical-angled_3-4_0.75_700x700.jpg?v=1735994456' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe Against a Black 1916 -henri Matisse Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47950156/r/il/d11e1b/5965580083/il_570xN.5965580083_sinl.jpg' alt='Lorette in a Green Robe Against a Black 1916 -henri Matisse Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47950156/r/il/d11e1b/5965580083/il_570xN.5965580083_sinl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe Against a Black Background-henri Matisse ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36336650/r/il/55b5d1/4048731089/il_570xN.4048731089_en33.jpg' alt='Lorette in a Green Robe Against a Black Background-henri Matisse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36336650/r/il/55b5d1/4048731089/il_570xN.4048731089_en33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorette in a Green Robe against a Black Background (1916) by Henri ...">
+                                <img itemprop="contentUrl url" src='https://kanvah.com/cdn/shop/files/Mockup-Portrait-3-4_E2_80_946-lorette-in-a-green-robe-against-a-black-background-1916_700x700.jpg?v=1735994456' alt='Lorette in a Green Robe against a Black Background (1916) by Henri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kanvah Art" />
+                                </span>
+                                <a href='https://kanvah.com/cdn/shop/files/Mockup-Portrait-3-4_E2_80_946-lorette-in-a-green-robe-against-a-black-background-1916_700x700.jpg?v=1735994456' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

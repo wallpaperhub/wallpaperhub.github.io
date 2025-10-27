@@ -1,0 +1,129 @@
+<title>Awesome Mario Phone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Discover a variety of stunning Mario wallpapers for your phone. Customize your device with vibrant designs featuring your favorite characters and moments from the Mario universe. Easy to download and perfect for avid fans! Transform your phone into a Mario adventure today.">
+                    <meta name="keywords" content="mario wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mario-wallpaper-for-phone">
+                            <span itemprop="name">mario wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Mario Phone Wallpapers: Download Now!</h1>
+                <p>Looking for the perfect Mario wallpaper for your phone? Explore a vibrant collection of classic and modern Mario designs that capture the fun and adventure of this beloved game character. From pixel art to stunning illustrations, personalize your device with a wallpaper that reflects your love for Mario and brings a smile to your face every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made a phone wallpaper : r/Mario">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sxa34aebujs91.png?auto=webp&s=dbbbfd54520c56dc0d1285e3d64e88b0ce1220ea' alt='i made a phone wallpaper : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sxa34aebujs91.png?auto=webp&s=dbbbfd54520c56dc0d1285e3d64e88b0ce1220ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biggest Collection Of Phone Wallpapers In HD For Mobile">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/8e/f5/1f8ef5a5ccb67ae47dbad3b8a4131069.jpg' alt='Biggest Collection Of Phone Wallpapers In HD For Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/8e/f5/1f8ef5a5ccb67ae47dbad3b8a4131069.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros (2022) - Mobile Wallpaper : r/TextlessPosters">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/545c7hmeavr91.png?width=640&crop=smart&auto=webp&s=217f2cac9a2fac448128e31e0c3c0b7a7fe0cc81' alt='Super Mario Bros (2022) - Mobile Wallpaper : r/TextlessPosters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/545c7hmeavr91.png?width=640&crop=smart&auto=webp&s=217f2cac9a2fac448128e31e0c3c0b7a7fe0cc81' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Super Mario Phone Wallpaper by MrThatKidAlex24 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/26d46c92-1578-41a7-96f2-28d569da7f22/d9na0xr-66653829-cf01-4cbb-913c-feae79dfe417.jpg/v1/fill/w_670,h_1192,q_70,strp/mario_super_mario_phone_wallpaper_by_mrthatkidalex24_d9na0xr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzI2ZDQ2YzkyLTE1NzgtNDFhNy05NmYyLTI4ZDU2OWRhN2YyMlwvZDluYTB4ci02NjY1MzgyOS1jZjAxLTRjYmItOTEzYy1mZWFlNzlkZmU0MTcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IGE4aLhBgj1pOZ7v-uHTdPpB1CCit9v5qRVylbEtU-8' alt='Mario Super Mario Phone Wallpaper by MrThatKidAlex24 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/26d46c92-1578-41a7-96f2-28d569da7f22/d9na0xr-66653829-cf01-4cbb-913c-feae79dfe417.jpg/v1/fill/w_670,h_1192,q_70,strp/mario_super_mario_phone_wallpaper_by_mrthatkidalex24_d9na0xr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzI2ZDQ2YzkyLTE1NzgtNDFhNy05NmYyLTI4ZDU2OWRhN2YyMlwvZDluYTB4ci02NjY1MzgyOS1jZjAxLTRjYmItOTEzYy1mZWFlNzlkZmU0MTcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IGE4aLhBgj1pOZ7v-uHTdPpB1CCit9v5qRVylbEtU-8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/a/4/2124335-1080x1920-samsung-full-hd-mario-background.jpg' alt='Mario Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/a/4/2124335-1080x1920-samsung-full-hd-mario-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Bros, super mario, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/261/291/HD-wallpaper-mario-bros-super-mario.jpg' alt='Mario Bros, super mario, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/261/291/HD-wallpaper-mario-bros-super-mario.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Super Mario Bros. (2023) Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/990/990111.jpg' alt='Download Movie Super Mario Bros. (2023) Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/990/990111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Phone Wallpapers | Mario Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/7311/e56958a13599cd127f916a4641b181bc21b6316cr1-640-1136v2_hq.jpg' alt='Mario Phone Wallpapers | Mario Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/7311/e56958a13599cd127f916a4641b181bc21b6316cr1-640-1136v2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Super Mario Bros World Mobile Phone Wallpapers 1080x1920 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/91/e9/4591e9d57b209f1a86940aa549ccab5a.jpg' alt='HD Super Mario Bros World Mobile Phone Wallpapers 1080x1920 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/91/e9/4591e9d57b209f1a86940aa549ccab5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Wallpapers for mobile and iphone 640x960">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/26/52/35/265235103036f52ff8beec0a2ddbf6e7.jpg' alt='Super Mario Wallpapers for mobile and iphone 640x960'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/26/52/35/265235103036f52ff8beec0a2ddbf6e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

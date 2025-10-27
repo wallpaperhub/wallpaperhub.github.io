@@ -1,0 +1,129 @@
+<title>Stunning Disco Elysium Phone Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an amazing collection of Disco Elysium phone wallpapers! Perfect for fans looking to customize their devices with striking art inspired by the game's universe. Download now and give your phone a unique touch that reflects your love for this iconic RPG!">
+                    <meta name="keywords" content="disco elysium wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/disco-elysium-wallpaper-phone">
+                            <span itemprop="name">disco elysium wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Disco Elysium Phone Wallpapers for Gamers</h1>
+                <p>Transform your phone with stunning Disco Elysium wallpapers! Explore vibrant art inspired by the game's unique style, featuring rich colors and captivating characters. Customize your device with these artistic designs that reflect the game's immersive storytelling and intricate world. Perfect for fans of the cult classic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Elysium wallpaper 01 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/members/getphonewallpaper.php?lowquality=1&titel=Disco+Elysium&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=7107' alt='Disco Elysium wallpaper 01 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/members/getphonewallpaper.php?lowquality=1&titel=Disco+Elysium&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=7107' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a volition piece that doubles as a phone wallpaper! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-volition-piece-that-doubles-as-a-phone-wallpaper-v0-i70wuhqukq4d1.jpg?width=640&crop=smart&auto=webp&s=a4a7cfa6c0016b303814d0d9e6382ebc964c0dfd' alt='Made a volition piece that doubles as a phone wallpaper! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-volition-piece-that-doubles-as-a-phone-wallpaper-v0-i70wuhqukq4d1.jpg?width=640&crop=smart&auto=webp&s=a4a7cfa6c0016b303814d0d9e6382ebc964c0dfd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inland Empire - iPhone 12 wallpaper : r/DiscoElysium">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/uZZEGEa.jpg' alt='Inland Empire - iPhone 12 wallpaper : r/DiscoElysium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/uZZEGEa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is my wallpaper. What's yours? : r/DiscoElysium">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-is-my-wallpaper-whats-yours-v0-4o84tqbi0kmd1.jpg?width=640&crop=smart&auto=webp&s=17706ed3464bf2cfd0b91d5191616bc2d36f34c6' alt='Here is my wallpaper. What's yours? : r/DiscoElysium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-is-my-wallpaper-whats-yours-v0-4o84tqbi0kmd1.jpg?width=640&crop=smart&auto=webp&s=17706ed3464bf2cfd0b91d5191616bc2d36f34c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a volition piece that doubles as a phone wallpaper! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-volition-piece-that-doubles-as-a-phone-wallpaper-v0-6hd2prlukq4d1.png?width=1080&crop=smart&auto=webp&s=06243d48d6564c3220e4f3e99e1e817f7330e345' alt='Made a volition piece that doubles as a phone wallpaper! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-volition-piece-that-doubles-as-a-phone-wallpaper-v0-6hd2prlukq4d1.png?width=1080&crop=smart&auto=webp&s=06243d48d6564c3220e4f3e99e1e817f7330e345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270 Disco Elysium ideas in 2025 | elysium, disco, disco party">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/46/6a/ff/466affd6351b17693c621104bb15329b.jpg' alt='270 Disco Elysium ideas in 2025 | elysium, disco, disco party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/46/6a/ff/466affd6351b17693c621104bb15329b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Disco Elysium" wallpapers for mobile phone, free "Disco ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/1b/1b82d3248134c07f9a1aa0f2ae548108.jpeg' alt='Download "Disco Elysium" wallpapers for mobile phone, free "Disco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/1b/1b82d3248134c07f9a1aa0f2ae548108.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Elysium The Final Cut Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2021/03/Disco-Elysium-Final-Cut-03.jpg' alt='Disco Elysium The Final Cut Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2021/03/Disco-Elysium-Final-Cut-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Disco Elysium" wallpapers for mobile phone, free "Disco ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/21/212e987d77e209fee0b5c4c6eb2d6140.jpeg' alt='Download "Disco Elysium" wallpapers for mobile phone, free "Disco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/21/212e987d77e209fee0b5c4c6eb2d6140.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 Disco Elysium ideas in 2025 | elysium, disco, disco party">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/75/5c/f8/755cf83a85f4cd7a6b161acf263222da.jpg' alt='70 Disco Elysium ideas in 2025 | elysium, disco, disco party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/75/5c/f8/755cf83a85f4cd7a6b161acf263222da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

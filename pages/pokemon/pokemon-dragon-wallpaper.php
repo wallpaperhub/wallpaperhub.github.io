@@ -1,0 +1,129 @@
+<title>Stunning Pokémon Dragon Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the ultimate collection of Pokémon dragon wallpapers! Perfect for fans, these vibrant designs will bring your favorite characters to life, enhancing your device's look. Download now and elevate your screen with captivating dragon-themed art!">
+                    <meta name="keywords" content="pokemon dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-dragon-wallpaper">
+                            <span itemprop="name">pokemon dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pokémon Dragon Wallpapers for Your Device</h1>
+                <p>Elevate your screen experience with mesmerizing Pokémon dragon wallpapers! From fierce dragon-type Pokémon to serene designs, our collection caters to every trainer's aesthetic. Perfect for fans of all ages, these vibrant wallpapers bring your favorite creatures to life. Enhance your device with stunning visuals and ignite your passion for Pokémon!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Dragon Type Pokemon Wallpaper FULL HD 1080p For PC Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/08/e4/6508e4eeac8a2809a6edc88e4b384f08.jpg' alt='10 Top Dragon Type Pokemon Wallpaper FULL HD 1080p For PC Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/08/e4/6508e4eeac8a2809a6edc88e4b384f08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Wallpaper: Every Dragon Pokemon Wallpaper - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static2.minitokyo.net/view/21/36/601821.jpg' alt='Pokémon Wallpaper: Every Dragon Pokemon Wallpaper - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers - Minitokyo" />
+                                </span>
+                                <a href='http://static2.minitokyo.net/view/21/36/601821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Pokemon Wallpaper by CaptainPenguin98 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1681e8bc-7288-4cd4-95c6-d102bfc8c6c2/d7qvxrx-6d9f0c28-94e4-4c3d-86c2-8d353d633a1b.jpg/v1/fill/w_1024,h_640,q_75,strp/dragon_pokemon_wallpaper_by_captainpenguin98_d7qvxrx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMTY4MWU4YmMtNzI4OC00Y2Q0LTk1YzYtZDEwMmJmYzhjNmMyXC9kN3F2eHJ4LTZkOWYwYzI4LTk0ZTQtNGMzZC04NmMyLThkMzUzZDYzM2ExYi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ntOf3MvKKi-f74UZqK3UOrFabJThI2QrlgdUjzrMIHY' alt='Dragon Pokemon Wallpaper by CaptainPenguin98 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1681e8bc-7288-4cd4-95c6-d102bfc8c6c2/d7qvxrx-6d9f0c28-94e4-4c3d-86c2-8d353d633a1b.jpg/v1/fill/w_1024,h_640,q_75,strp/dragon_pokemon_wallpaper_by_captainpenguin98_d7qvxrx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMTY4MWU4YmMtNzI4OC00Y2Q0LTk1YzYtZDEwMmJmYzhjNmMyXC9kN3F2eHJ4LTZkOWYwYzI4LTk0ZTQtNGMzZC04NmMyLThkMzUzZDYzM2ExYi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ntOf3MvKKi-f74UZqK3UOrFabJThI2QrlgdUjzrMIHY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon type Pokemon of Pokemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/e7/82/8ae7827e2873d8b093331065e03df5ea.jpg' alt='Dragon type Pokemon of Pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/e7/82/8ae7827e2873d8b093331065e03df5ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper dragon, art, cave, pokemon, charizard for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1184/c/c9/drakon-art-peshchera-pokemon-charizard.jpg' alt='Wallpaper dragon, art, cave, pokemon, charizard for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1184/c/c9/drakon-art-peshchera-pokemon-charizard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Types (Pre-Gen 5) : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/QN03L9uuacRtzU3ZHkkjDAS5RB5M_3JFcMfOH1FqI14.jpg?width=640&crop=smart&auto=webp&s=a1bf320ca345356eca7a890124ae8bf035002e90' alt='Dragon Types (Pre-Gen 5) : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/QN03L9uuacRtzU3ZHkkjDAS5RB5M_3JFcMfOH1FqI14.jpg?width=640&crop=smart&auto=webp&s=a1bf320ca345356eca7a890124ae8bf035002e90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon And Dragon With Fire Pokemon, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/976/148/HD-wallpaper-pokemon-and-dragon-with-fire-pokemon.jpg' alt='Pokemon And Dragon With Fire Pokemon, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/976/148/HD-wallpaper-pokemon-and-dragon-with-fire-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Type Wallpaper by Reshiramaster on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32e1f677-b62f-498c-b798-96d938e5ba9d/d5yddkg-1ef2c894-3b85-484f-a32a-4615434bc55a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyZTFmNjc3LWI2MmYtNDk4Yy1iNzk4LTk2ZDkzOGU1YmE5ZFwvZDV5ZGRrZy0xZWYyYzg5NC0zYjg1LTQ4NGYtYTMyYS00NjE1NDM0YmM1NWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNCU3iRikmBasdiPpRTUtGyz1xhkEkhdcxSjEStKcZo' alt='Dragon Type Wallpaper by Reshiramaster on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32e1f677-b62f-498c-b798-96d938e5ba9d/d5yddkg-1ef2c894-3b85-484f-a32a-4615434bc55a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyZTFmNjc3LWI2MmYtNDk4Yy1iNzk4LTk2ZDkzOGU1YmE5ZFwvZDV5ZGRrZy0xZWYyYzg5NC0zYjg1LTQ4NGYtYTMyYS00NjE1NDM0YmM1NWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNCU3iRikmBasdiPpRTUtGyz1xhkEkhdcxSjEStKcZo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Raging Dragon Pokémon Hydreigon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/raging-dragon-pokemon-hydreigon-orlqn02memg8sd22.jpg' alt='Download Raging Dragon Pokémon Hydreigon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/raging-dragon-pokemon-hydreigon-orlqn02memg8sd22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chibi Dragon Pokemon Background by VibrantEchoes -- Fur Affinity ...">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/vibrantechoes/1402127105/1402127105.vibrantechoes_0724_chibi_dragon_pokemon_background.png' alt='Chibi Dragon Pokemon Background by VibrantEchoes -- Fur Affinity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/vibrantechoes/1402127105/1402127105.vibrantechoes_0724_chibi_dragon_pokemon_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

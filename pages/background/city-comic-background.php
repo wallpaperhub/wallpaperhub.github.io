@@ -1,0 +1,129 @@
+<title>City Comic Backgrounds: Vibrant Urban Illustrations</title>
+                    <meta name="description" content="Explore the captivating world of city comic backgrounds! Discover how urban landscapes enhance storytelling with vibrant scenes perfect for superheroes and humorous tales. Ideal for illustrators and comic enthusiasts alike seeking to bring life to their creative projects.">
+                    <meta name="keywords" content="city comic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-comic-background">
+                            <span itemprop="name">city comic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>City Comic Backgrounds: Vibrant Urban Illustrations</h1>
+                <p>In the heart of urban landscapes, city comic backgrounds breathe life into illustrations. These vibrant scenes, filled with skyscrapers, bustling streets, and iconic landmarks, serve as a canvas for superhero adventures and comedic escapades. Whether capturing the pulse of city life or the chaos of everyday moments, they create a dynamic backdrop for storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Book City Images – Browse 54,711 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/04/60/60/360_F_604606094_6bygrBg1RlL4lvp2R2n3QDwhDUWsHxeO.jpg' alt='Comic Book City Images – Browse 54,711 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/04/60/60/360_F_604606094_6bygrBg1RlL4lvp2R2n3QDwhDUWsHxeO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Book Style City Background Stock Illustration | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/38/05/33/360_F_538053331_LFtrpVfDPvTqtZW8aghVbjV2jyVKpcAP.jpg' alt='Comic Book Style City Background Stock Illustration | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/38/05/33/360_F_538053331_LFtrpVfDPvTqtZW8aghVbjV2jyVKpcAP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic City Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-comic-book-city-background_23-2151122084.jpg' alt='Comic City Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-comic-book-city-background_23-2151122084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic City Images – Browse 59,760 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/84/18/92/360_F_584189242_vH8jOmHUDxjl9WeQp5G7fcwU2TI6W9bZ.jpg' alt='Comic City Images – Browse 59,760 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/84/18/92/360_F_584189242_vH8jOmHUDxjl9WeQp5G7fcwU2TI6W9bZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic City Background Images – Browse 26,788 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/00/18/44/360_F_700184472_T76yfEJTnlkK8BhJhQu92azk9HmD18P6.jpg' alt='Comic City Background Images – Browse 26,788 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/00/18/44/360_F_700184472_T76yfEJTnlkK8BhJhQu92azk9HmD18P6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic City Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-comic-book-city-background_52683-156228.jpg' alt='Comic City Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-comic-book-city-background_52683-156228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Book City Backgrounds: Over 4,101 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2127155444/display_1500/stock-vector-colorful-comic-scene-background-with-city-silhouette-2127155444.jpg' alt='Comic Book City Backgrounds: Over 4,101 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2127155444/display_1500/stock-vector-colorful-comic-scene-background-with-city-silhouette-2127155444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic City" Images – Browse 47 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/00/18/44/360_F_700184451_uA00dKe22FOKT0Aa73iCz60enQZfcFai.jpg' alt='Comic City" Images – Browse 47 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/00/18/44/360_F_700184451_uA00dKe22FOKT0Aa73iCz60enQZfcFai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="225,100+ Comic City Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1342087127/vector/comic-art-style-clouds-sky-and-city-background-material.jpg?s=612x612&w=0&k=20&c=lqRQS3eP3lx4hdYtBhdhPUYoXvI8s1eCiMXZ_DLIflo=' alt='225,100+ Comic City Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1342087127/vector/comic-art-style-clouds-sky-and-city-background-material.jpg?s=612x612&w=0&k=20&c=lqRQS3eP3lx4hdYtBhdhPUYoXvI8s1eCiMXZ_DLIflo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Sunset in the city, Comic Book Style Background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/06/38/99/97/1000_F_638999723_Cp40laMHNqFPfRCmTDiRy3ouLXydxkYz.jpg' alt='Photo & Art Print Sunset in the city, Comic Book Style Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/06/38/99/97/1000_F_638999723_Cp40laMHNqFPfRCmTDiRy3ouLXydxkYz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

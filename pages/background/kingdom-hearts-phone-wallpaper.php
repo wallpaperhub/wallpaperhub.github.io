@@ -1,0 +1,129 @@
+<title>Kingdom Hearts Phone Wallpapers: Download Your Favorite Designs</title>
+                    <meta name="description" content="Unlock the magic of Kingdom Hearts with our collection of beautiful phone wallpapers. Featuring iconic characters and worlds, these designs are perfect for true fans. Download high-quality wallpapers and personalize your device with the enchanting visuals of Kingdom Hearts today!">
+                    <meta name="keywords" content="kingdom hearts phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kingdom-hearts-phone-wallpaper">
+                            <span itemprop="name">kingdom hearts phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kingdom Hearts Phone Wallpapers: Download Your Favorite Designs</h1>
+                <p>Transform your phone's look with stunning Kingdom Hearts wallpapers! Discover a wide range of designs featuring beloved characters like Sora, Riku, and Kairi, as well as iconic worlds and breathtaking artwork. Perfect for fans, these wallpapers will bring the magic of Kingdom Hearts to your device, making every glance a journey into the heart of the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One of my favorite wallpapers : r/KingdomHearts">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l6zpp0paktd51.png' alt='One of my favorite wallpapers : r/KingdomHearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l6zpp0paktd51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please help, need HQ phone wallpaper! : r/KingdomHearts">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nzf3n7w8gn661.jpg' alt='Please help, need HQ phone wallpaper! : r/KingdomHearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nzf3n7w8gn661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a full size (1440x3120) wallpaper for phones, extending the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ajxp4c3oece21.jpg' alt='I made a full size (1440x3120) wallpaper for phones, extending the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ajxp4c3oece21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media]Cover art edit- phone wallpaper made by my friend in ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hzot2hdv89321.png' alt='Media]Cover art edit- phone wallpaper made by my friend in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hzot2hdv89321.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Anniversary Phone Wallpapers : r/KingdomHearts">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/20th-anniversary-phone-wallpapers-v0-bscyx8qlozs81.png?width=1080&crop=smart&auto=webp&s=debdc2d675a487eb9180b7b4fd8409a00099f267' alt='20th Anniversary Phone Wallpapers : r/KingdomHearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/20th-anniversary-phone-wallpapers-v0-bscyx8qlozs81.png?width=1080&crop=smart&auto=webp&s=debdc2d675a487eb9180b7b4fd8409a00099f267' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Hearts Phone Wallpaper Adventure by QuantumCurator">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/1014782.png' alt='Kingdom Hearts Phone Wallpaper Adventure by QuantumCurator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="4128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/1014782.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Hearts Wallpaper iPhone - KoLPaPer - Awesome Free HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/e0/8a/e2e08ae33edf200b60614822a387ef3b.jpg' alt='Kingdom Hearts Wallpaper iPhone - KoLPaPer - Awesome Free HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/e0/8a/e2e08ae33edf200b60614822a387ef3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Hearts HD CG Wallpaper by DanChaos1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04749c1c-b1cd-4c11-ae97-46be6e940e00/d6zniy3-7ff765a5-40e7-48f4-b086-d351c64b2dea.jpg/v1/fill/w_1280,h_1892,q_75,strp/kingdom_hearts_hd_cg_wallpaper_by_danchaos1_d6zniy3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg5MiIsInBhdGgiOiJcL2ZcLzA0NzQ5YzFjLWIxY2QtNGMxMS1hZTk3LTQ2YmU2ZTk0MGUwMFwvZDZ6bml5My03ZmY3NjVhNS00MGU3LTQ4ZjQtYjA4Ni1kMzUxYzY0YjJkZWEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.HSLe07-tPhnp22YOAyrCg4iohtL9KRNrObnPdf2MIZs' alt='Kingdom Hearts HD CG Wallpaper by DanChaos1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04749c1c-b1cd-4c11-ae97-46be6e940e00/d6zniy3-7ff765a5-40e7-48f4-b086-d351c64b2dea.jpg/v1/fill/w_1280,h_1892,q_75,strp/kingdom_hearts_hd_cg_wallpaper_by_danchaos1_d6zniy3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg5MiIsInBhdGgiOiJcL2ZcLzA0NzQ5YzFjLWIxY2QtNGMxMS1hZTk3LTQ2YmU2ZTk0MGUwMFwvZDZ6bml5My03ZmY3NjVhNS00MGU3LTQ4ZjQtYjA4Ni1kMzUxYzY0YjJkZWEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.HSLe07-tPhnp22YOAyrCg4iohtL9KRNrObnPdf2MIZs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kingdom hearts sora wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/680/554/HD-wallpaper-kingdom-hearts-kingdomhearts-sora-thumbnail.jpg' alt='HD kingdom hearts sora wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/680/554/HD-wallpaper-kingdom-hearts-kingdomhearts-sora-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 16 works nicely with the wallpaper I made : r/KingdomHearts">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/pG3tZrx.jpg' alt='Ios 16 works nicely with the wallpaper I made : r/KingdomHearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/pG3tZrx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

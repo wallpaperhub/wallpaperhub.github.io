@@ -1,0 +1,129 @@
+<title>Irresistible Fries: A Visual Delight on White</title>
+                    <meta name="description" content="Discover the mouthwatering appeal of fries against a white background. Perfect for food lovers and photographers, this visual showcases the golden, crispy texture of fries, ideal for social media shares and culinary inspirations. Great visuals to elevate your food photography game!">
+                    <meta name="keywords" content="fries white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fries-white-background">
+                            <span itemprop="name">fries white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Irresistible Fries: A Visual Delight on White</h1>
+                <p>Fries on a white background create a striking visual that highlights their crispiness and golden allure. This classic side dish, loved worldwide, offers a perfect balance of texture and flavor. Whether served with ketchup, mayo, or enjoyed plain, fries against a pristine backdrop captivate food enthusiasts and photographers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | French fries on a white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/french-fries-white-background_269543-544.jpg' alt='Premium Photo | French fries on a white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/french-fries-white-background_269543-544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,800+ French Fries White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1473588014/vector/french-fries-potatoes-in-paper-box-snack-fast-food-vector.jpg?s=612x612&w=0&k=20&c=yWrHWpns0EkPLTP-74bVw4nZiMwz6OpHFzLjQrx5bCs=' alt='1,800+ French Fries White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1473588014/vector/french-fries-potatoes-in-paper-box-snack-fast-food-vector.jpg?s=612x612&w=0&k=20&c=yWrHWpns0EkPLTP-74bVw4nZiMwz6OpHFzLjQrx5bCs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French fries in a special fast food white box isolated on white ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/271/149/large_2x/french-fries-in-a-special-fast-food-white-box-isolated-on-white-background-photo.jpg' alt='French fries in a special fast food white box isolated on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/271/149/large_2x/french-fries-in-a-special-fast-food-white-box-isolated-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A basket of french fries is on a white background. | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/basket-french-fries-is-white-background_900958-6175.jpg' alt='A basket of french fries is on a white background. | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/basket-french-fries-is-white-background_900958-6175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French fries in a white paper box isolated on white background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/74/15/09/1000_F_174150914_0lMyIPyaSKSYSfnG48ucTMYp5255CLK2.jpg' alt='French fries in a white paper box isolated on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/74/15/09/1000_F_174150914_0lMyIPyaSKSYSfnG48ucTMYp5255CLK2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long cut of french fries in flat lay view on white background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BPGDRG/long-cut-of-french-fries-in-flat-lay-view-on-white-background-2BPGDRG.jpg' alt='Long cut of french fries in flat lay view on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BPGDRG/long-cut-of-french-fries-in-flat-lay-view-on-white-background-2BPGDRG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French fries on white bowl isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/025/062/054/non_2x/french-fries-on-white-bowl-isolated-on-transparent-background-fried-fast-food-snack-isolated-food-photography-junk-food-fried-potatoes-free-png.png' alt='French fries on white bowl isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/025/062/054/non_2x/french-fries-on-white-bowl-isolated-on-transparent-background-fried-fast-food-snack-isolated-food-photography-junk-food-fried-potatoes-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French fries in stripped fry box isolated on white background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/40/94/21/1000_F_240942173_udFeGFE8kWgkDuNeRG2YkzM5m7mUfwZP.jpg' alt='French fries in stripped fry box isolated on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/40/94/21/1000_F_240942173_udFeGFE8kWgkDuNeRG2YkzM5m7mUfwZP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isolated French Fries In White Background, White, On, Isolation ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220719/original/pngtree-isolated-french-fries-in-white-picture-image_1668117.jpg' alt='Isolated French Fries In White Background, White, On, Isolation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220719/original/pngtree-isolated-french-fries-in-white-picture-image_1668117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French fries stock photo. Image of fries, fastfood, finger - 19001058">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/29/5f/84295f50cff8569fa978603709fcce65.jpg' alt='French fries stock photo. Image of fries, fastfood, finger - 19001058'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/29/5f/84295f50cff8569fa978603709fcce65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

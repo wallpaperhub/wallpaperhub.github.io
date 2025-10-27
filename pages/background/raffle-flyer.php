@@ -1,0 +1,129 @@
+<title>Exciting Raffle: Win Big and Support a Cause!</title>
+                    <meta name="description" content="Participate in our exciting raffle for a chance to win fantastic prizes! Our raffle supports a worthy cause while providing you with the thrill of the game. Purchase your tickets now and be part of this unforgettable event! Stay tuned for prize announcements and win big!">
+                    <meta name="keywords" content="raffle flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/raffle-flyer">
+                            <span itemprop="name">raffle flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting Raffle: Win Big and Support a Cause!</h1>
+                <p>Join us for an exciting raffle! Get your tickets for a chance to win amazing prizes while supporting a great cause. Our raffle flyer has all the details you need, including ticket prices and prize descriptions. Don't miss out—grab your tickets today and be part of the fun! Winners will be announced soon!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Flyer Editable Template – Simple Desert Designs">
+                                <img itemprop="contentUrl url" src='https://www.simpledesertdesigns.com/cdn/shop/files/1_28c22736-233d-45b8-b67b-7d4c807b0e05_800x.jpg?v=1708263095' alt='Raffle Flyer Editable Template – Simple Desert Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Desert Designs" />
+                                </span>
+                                <a href='https://www.simpledesertdesigns.com/cdn/shop/files/1_28c22736-233d-45b8-b67b-7d4c807b0e05_800x.jpg?v=1708263095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Flyer Editable Template. Fundraiser Flyer for Church ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35197480/r/il/a68a3c/4246160512/il_fullxfull.4246160512_fft5.jpg' alt='Raffle Flyer Editable Template. Fundraiser Flyer for Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2455">
+                                <meta itemprop="height" content="2020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35197480/r/il/a68a3c/4246160512/il_fullxfull.4246160512_fft5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable raffle templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF6LJi3Q1c/1/0/1131w/canva-yellow-and-green-raffle-contest-poster-7ZYwooGrWH8.jpg' alt='Free and customizable raffle templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF6LJi3Q1c/1/0/1131w/canva-yellow-and-green-raffle-contest-poster-7ZYwooGrWH8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basket Raffle Fundraiser Flyer, Editable Raffle fundraiser Template, Sports  Fundraiser, School pto pta Church Charity Raffle Ticket Sales">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.4197322464_buvw.jpg?v=1666119847' alt='Basket Raffle Fundraiser Flyer, Editable Raffle fundraiser Template, Sports  Fundraiser, School pto pta Church Charity Raffle Ticket Sales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.4197322464_buvw.jpg?v=1666119847' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Fundraiser Flyer, Editable Raffle fundraiser Template, School PTO  PTA, Fundraiser Idea">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.4042134362_1h12.jpg?v=1659359279' alt='Raffle Fundraiser Flyer, Editable Raffle fundraiser Template, School PTO  PTA, Fundraiser Idea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0010/9599/1332/products/il_fullxfull.4042134362_1h12.jpg?v=1659359279' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basket Raffle Flyer, Editable Basket Raffle Fundraiser Template ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7156268/r/il/8454fd/4074857146/il_fullxfull.4074857146_hqnh.jpg' alt='Basket Raffle Flyer, Editable Basket Raffle Fundraiser Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2101">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7156268/r/il/8454fd/4074857146/il_fullxfull.4074857146_hqnh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Flyer Poster Ticket Set – Simple Desert Designs">
+                                <img itemprop="contentUrl url" src='https://www.simpledesertdesigns.com/cdn/shop/files/1_cca1025e-fb98-4788-95c7-27dee1dcc325_800x.jpg?v=1711640245' alt='Raffle Flyer Poster Ticket Set – Simple Desert Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Desert Designs" />
+                                </span>
+                                <a href='https://www.simpledesertdesigns.com/cdn/shop/files/1_cca1025e-fb98-4788-95c7-27dee1dcc325_800x.jpg?v=1711640245' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Flyer Free Google Docs Template - gdoc.io">
+                                <img itemprop="contentUrl url" src='https://gdoc.io/uploads/raffle-flyer-free-google-docs-template-t.jpg' alt='Raffle Flyer Free Google Docs Template - gdoc.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1424">
+                                <meta itemprop="height" content="1968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gdoc.io" />
+                                </span>
+                                <a href='https://gdoc.io/uploads/raffle-flyer-free-google-docs-template-t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn big raffle flyer design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-big-raffle-flyer-design_23-2150068976.jpg' alt='Free Vector | Hand drawn big raffle flyer design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-big-raffle-flyer-design_23-2150068976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Giveaway Flyer Template">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/7f/fd/92/7ffd92b11dbb0df696e3399cf0e2460d.jpg' alt='Raffle Giveaway Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/7f/fd/92/7ffd92b11dbb0df696e3399cf0e2460d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chill Vibes: Lofi Bedroom Background Ideas</title>
+                    <meta name="description" content="Discover the ultimate lofi bedroom background inspiration. Perfect for creating a calming study space or relaxation area, these designs enhance your room's atmosphere with cozy colors and minimalist decor. Elevate your environment and boost your creativity with these serene lofi aesthetics.">
+                    <meta name="keywords" content="lofi bedroom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lofi-bedroom-background">
+                            <span itemprop="name">lofi bedroom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chill Vibes: Lofi Bedroom Background Ideas</h1>
+                <p>Transform your room into a calming sanctuary with a lofi bedroom background. Perfect for studying or chilling, these cozy scenes feature soft colors, gentle textures, and nostalgic vibes. Incorporate elements like pastel posters, fairy lights, and minimalist decor to create an inviting atmosphere that inspires relaxation and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Bedroom Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/there-is-laptop-desk-bedroom-with-view-ocean-generative-ai_958165-63414.jpg?semt=ais_hybrid' alt='Lofi Bedroom Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/there-is-laptop-desk-bedroom-with-view-ocean-generative-ai_958165-63414.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple lofi bedroom 4k live wallpaper - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jjFJjVS-8hY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCMgNCh_MA8=&rs=AOn4CLDbusHfj6KFyHlNUfcPqD0IE10mdA' alt='purple lofi bedroom 4k live wallpaper - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jjFJjVS-8hY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCMgNCh_MA8=&rs=AOn4CLDbusHfj6KFyHlNUfcPqD0IE10mdA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated illustration: Lo-fi - Synthwave, Kerasumi -">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/de/2a/e0de2aa959c81c3228bf26408c1d1ce9.jpg' alt='Animated illustration: Lo-fi - Synthwave, Kerasumi -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/de/2a/e0de2aa959c81c3228bf26408c1d1ce9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Room Beauty [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ls0q4zrqlpb1.jpg' alt='Lofi Room Beauty [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ls0q4zrqlpb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vtuber Background Animated | Cosy Lofi Purple Bedroom | Looped Vtuber  Twitch Stream Overlay | Instant Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41733041/r/il/c6242c/4782592771/il_fullxfull.4782592771_16ky.jpg' alt='Vtuber Background Animated | Cosy Lofi Purple Bedroom | Looped Vtuber  Twitch Stream Overlay | Instant Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1091">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41733041/r/il/c6242c/4782592771/il_fullxfull.4782592771_16ky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Lofi Anime Room - HD Wallpaper by ArseniXC">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/749/thumb-1920-749455.png' alt='Serene Lofi Anime Room - HD Wallpaper by ArseniXC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/749/thumb-1920-749455.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/65/73/ec657382deed5cc8db3f7efb2329f7a3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/65/73/ec657382deed5cc8db3f7efb2329f7a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat with woman falling asleep at music lofi wallpaper. Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/758/629/small_2x/cat-with-woman-falling-asleep-at-music-lofi-wallpaper-bedroom-calming-atmosphere-2d-cartoon-flat-illustration-love-being-at-home-alone-chill-art-lo-fi-aesthetic-colorful-background-vector.jpg' alt='Cat with woman falling asleep at music lofi wallpaper. Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="743">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/758/629/small_2x/cat-with-woman-falling-asleep-at-music-lofi-wallpaper-bedroom-calming-atmosphere-2d-cartoon-flat-illustration-love-being-at-home-alone-chill-art-lo-fi-aesthetic-colorful-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Bedroom Ideas Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cozy-lofi-anime-bedroom-bathed-warm-sunset-light-sleeping-cat-serene-glows-streaming-window-soft-blankets-362776182.jpg' alt='Lofi Bedroom Ideas Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cozy-lofi-anime-bedroom-bathed-warm-sunset-light-sleeping-cat-serene-glows-streaming-window-soft-blankets-362776182.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Room Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-lo-fi-illustration_23-2149333315.jpg' alt='Lofi Room Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-lo-fi-illustration_23-2149333315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

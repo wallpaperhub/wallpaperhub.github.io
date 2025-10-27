@@ -1,0 +1,129 @@
+<title>Hogwarts Legacy 4K Wallpapers: Enchant Your Screen</title>
+                    <meta name="description" content="Explore a collection of breathtaking 4K Hogwarts Legacy wallpapers to elevate your devices. Immerse yourself in the captivating wizarding world with vibrant imagery that features iconic scenes and characters, perfect for any fan of the magical universe.">
+                    <meta name="keywords" content="hogwarts legacy wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/hogwarts-legacy-wallpaper-4k">
+                            <span itemprop="name">hogwarts legacy wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hogwarts Legacy 4K Wallpapers: Enchant Your Screen</h1>
+                <p>Discover the enchanting world of Hogwarts Legacy with stunning 4K wallpapers that capture the magic and adventure of your favorite wizarding universe. Perfect for desktop and mobile devices, these high-resolution images feature iconic locations, characters, and spells, bringing the legacy of Hogwarts to life on your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy "Dark Edition" - Official PC Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hogwarts-legacy-dark-edition-official-pc-wallpaper-v0-potn7vwaxyj91.png?auto=webp&s=2be2adcb6fd6bddf87ec8f4ea55628a3631df1e0' alt='Hogwarts Legacy "Dark Edition" - Official PC Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hogwarts-legacy-dark-edition-official-pc-wallpaper-v0-potn7vwaxyj91.png?auto=webp&s=2be2adcb6fd6bddf87ec8f4ea55628a3631df1e0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy - Community">
+                                <img itemprop="contentUrl url" src='https://cdn-hogwartslegacy.warnerbrosgames.com/community/slide-07.jpg' alt='Hogwarts Legacy - Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hogwarts Legacy" />
+                                </span>
+                                <a href='https://cdn-hogwartslegacy.warnerbrosgames.com/community/slide-07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/6/8/15625-2560x1080-desktop-dual-monitors-hogwarts-legacy-background-photo.jpg' alt='Hogwarts Legacy Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/6/8/15625-2560x1080-desktop-dual-monitors-hogwarts-legacy-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy Wallpaper 4K, Deluxe Edition, PC Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hogwarts-legacy-pc-1080x1920-10493.jpg' alt='Hogwarts Legacy Wallpaper 4K, Deluxe Edition, PC Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hogwarts-legacy-pc-1080x1920-10493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy - Red Edition - 4K Wallpaper by AKSensei on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6703aada-2649-4453-b1cb-c1dade721c88/dg29fpo-e6430306-a974-4406-93db-72a9cabc4029.png/v1/fill/w_1192,h_670,q_70,strp/hogwarts_legacy___red_edition___4k_wallpaper_by_aksensei_dg29fpo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNjcwM2FhZGEtMjY0OS00NDUzLWIxY2ItYzFkYWRlNzIxYzg4XC9kZzI5ZnBvLWU2NDMwMzA2LWE5NzQtNDQwNi05M2RiLTcyYTljYWJjNDAyOS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BSuBdgIrD1BwUP3ZY9vz1-134wh3yiDEFWt1XKm9FxM' alt='Hogwarts Legacy - Red Edition - 4K Wallpaper by AKSensei on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6703aada-2649-4453-b1cb-c1dade721c88/dg29fpo-e6430306-a974-4406-93db-72a9cabc4029.png/v1/fill/w_1192,h_670,q_70,strp/hogwarts_legacy___red_edition___4k_wallpaper_by_aksensei_dg29fpo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNjcwM2FhZGEtMjY0OS00NDUzLWIxY2ItYzFkYWRlNzIxYzg4XC9kZzI5ZnBvLWU2NDMwMzA2LWE5NzQtNDQwNi05M2RiLTcyYTljYWJjNDAyOS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BSuBdgIrD1BwUP3ZY9vz1-134wh3yiDEFWt1XKm9FxM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I marked everything i found in the wallpaper of Hogwarts Legacy ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yvqsaex8d3o71.jpg' alt='I marked everything i found in the wallpaper of Hogwarts Legacy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yvqsaex8d3o71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Hogwarts Legacy 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/130/1302546.jpg' alt='Download Video Game Hogwarts Legacy 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/130/1302546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='http://www.lifetotheend.com/jpg/hogwarts-legacy-ps4-ps5-wallpapers-12.jpg' alt='Hogwarts Legacy Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='http://www.lifetotheend.com/jpg/hogwarts-legacy-ps4-ps5-wallpapers-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Hogwarts Legacy Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/58/cf/df58cf5a382fdd84682f17918cfcd0f0.jpg' alt='HD Hogwarts Legacy Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/58/cf/df58cf5a382fdd84682f17918cfcd0f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Legacy Wallpaper 4K, Winter, Video Game">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hogwarts-legacy-winter-2048x2048-20034.jpeg' alt='Hogwarts Legacy Wallpaper 4K, Winter, Video Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hogwarts-legacy-winter-2048x2048-20034.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

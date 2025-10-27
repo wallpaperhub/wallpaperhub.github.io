@@ -1,0 +1,129 @@
+<title>Kawaii Black Cat Wallpaper: Cute & Charming Designs</title>
+                    <meta name="description" content="Discover the cutest kawaii black cat wallpapers! Perfect for adding charm to your device, these delightful designs are ideal for cat lovers. Download now to brighten your screen with unique and adorable feline art!">
+                    <meta name="keywords" content="kawaii black cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-black-cat-wallpaper">
+                            <span itemprop="name">kawaii black cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Black Cat Wallpaper: Cute & Charming Designs</h1>
+                <p>Transform your device with adorable kawaii black cat wallpapers that blend cuteness with charm. Featuring playful designs and vibrant colors, these wallpapers are perfect for cat lovers and those who enjoy a touch of whimsy. Elevate your screen's aesthetic and showcase your love for these delightful felines.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black cat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/68/f9/4b68f94e15579069656e53b161809aeb.jpg' alt='black cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/68/f9/4b68f94e15579069656e53b161809aeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kawaii-cat-7va4ri70il24d2u7.jpg' alt='100+] Kawaii Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kawaii-cat-7va4ri70il24d2u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat Art, flower, ball, cute, black cat, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/874/586/HD-wallpaper-black-cat-art-flower-ball-cute-black-cat.jpg' alt='Black Cat Art, flower, ball, cute, black cat, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/874/586/HD-wallpaper-black-cat-art-flower-ball-cute-black-cat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Kawaii Anime Cat Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/df/10/55/df10553c6d06122f06a3a705a77e4d5f.jpg' alt='Awesome Kawaii Anime Cat Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/df/10/55/df10553c6d06122f06a3a705a77e4d5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 - Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFsWZgt2G8/1/0/900w/canva-black-and-white-illustrated-cute-cat-phone-wallpaper-Hi8tGP83IMM.jpg' alt='Page 4 - Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFsWZgt2G8/1/0/900w/canva-black-and-white-illustrated-cute-cat-phone-wallpaper-Hi8tGP83IMM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute black cat, cat, cute, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/786/1016/HD-wallpaper-cute-black-cat-cat-cute-pink.jpg' alt='Cute black cat, cat, cute, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/786/1016/HD-wallpaper-cute-black-cat-cat-cute-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cat holding Cup of tea Live wallpaper #nyc #iphone #livewallpaper  #mobilewallpaper #kitten #cute #kittensoftiktok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7422686746946571553&location=0&aid=1988' alt='Black Cat holding Cup of tea Live wallpaper #nyc #iphone #livewallpaper  #mobilewallpaper #kitten #cute #kittensoftiktok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7422686746946571553&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Cat For Girls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-black-cat-for-girls-ee9sbgx2ppso34d4.jpg' alt='Cute Black Cat For Girls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-black-cat-for-girls-ee9sbgx2ppso34d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute animal black cats seamless pattern wallpaper with design ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/904/115/non_2x/cute-animal-black-cats-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' alt='cute animal black cats seamless pattern wallpaper with design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/904/115/non_2x/cute-animal-black-cats-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kitten Cat Wallpaper 4K Halloween Underwater Ocean Witch Black Cat  Adorable Kitty Laptop Background Instant Download 3840x2160">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33575831/r/il/30a3ac/4258241123/il_570xN.4258241123_6nbq.jpg' alt='Cute Kitten Cat Wallpaper 4K Halloween Underwater Ocean Witch Black Cat  Adorable Kitty Laptop Background Instant Download 3840x2160'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33575831/r/il/30a3ac/4258241123/il_570xN.4258241123_6nbq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

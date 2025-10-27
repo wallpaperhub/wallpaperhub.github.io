@@ -1,0 +1,129 @@
+<title>Download High-Quality Diet Coke Logo PNG for Your Projects</title>
+                    <meta name="description" content="Discover high-quality Diet Coke logo PNG images perfect for your next design project. Easy to download and versatile, these logos can enhance your branding, marketing materials, and more. Get your Diet Coke logo PNG now for seamless integration into your creative works!">
+                    <meta name="keywords" content="diet coke logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diet-coke-logo-png">
+                            <span itemprop="name">diet coke logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download High-Quality Diet Coke Logo PNG for Your Projects</h1>
+                <p>Diet Coke logo PNGs are essential for designers and marketers needing high-quality images for projects. With its sleek, modern design and iconic red and silver color scheme, the Diet Coke logo is recognizable worldwide. Whether for ads, social media, or merchandise, having a transparent PNG version is a must for versatile usage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Diet Coke Logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Diet_Coke_Logo.svg/1280px-Diet_Coke_Logo.svg.png' alt='File:Diet Coke Logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Diet_Coke_Logo.svg/1280px-Diet_Coke_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke brand resources: accessing high-guality vector logo SVG ...">
+                                <img itemprop="contentUrl url" src='https://logotyp.us/file/diet-coke.svg' alt='Diet Coke brand resources: accessing high-guality vector logo SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logotyp.us" />
+                                </span>
+                                <a href='https://logotyp.us/file/diet-coke.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5a2d26217141cb29505736a7.png' alt='Diet Coke Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5a2d26217141cb29505736a7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/32/3/diet-coke-logo-png_seeklogo-328606.png?v=1956449062182935384' alt='Diet Coke Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="185">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/32/3/diet-coke-logo-png_seeklogo-328606.png?v=1956449062182935384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke Logo - Diet Coke Logo on Checkered Background - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180811/quz/d25ab9299831518f9130ba3184f42698.webp' alt='Diet Coke Logo - Diet Coke Logo on Checkered Background - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180811/quz/d25ab9299831518f9130ba3184f42698.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/D/Diet_Coke-logo-7F69C21FEB-seeklogo.com.png' alt='Diet Coke Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/D/Diet_Coke-logo-7F69C21FEB-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke - Diet Coke Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180417/uwq/avfn6a3jf.webp' alt='Diet Coke - Diet Coke Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180417/uwq/avfn6a3jf.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/85/431/png-clipart-diet-coke-logo-diet-coke-logo-food-coca-cola.png' alt='Diet Coke png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/85/431/png-clipart-diet-coke-logo-diet-coke-logo-food-coca-cola.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diet Coke Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/diet-coke-logo-svg-vector.svg' alt='Diet Coke Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/diet-coke-logo-svg-vector.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIET COKE 2007 LOGO VECTOR (AI EPS CDR) | HD ICON - RESOURCES FOR ...">
+                                <img itemprop="contentUrl url" src='https://www.hdicon.com/wp-content/uploads/2010/07/diet_coke_2007.png' alt='DIET COKE 2007 LOGO VECTOR (AI EPS CDR) | HD ICON - RESOURCES FOR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HDICON.COM" />
+                                </span>
+                                <a href='https://www.hdicon.com/wp-content/uploads/2010/07/diet_coke_2007.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

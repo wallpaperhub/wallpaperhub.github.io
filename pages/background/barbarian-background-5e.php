@@ -1,0 +1,129 @@
+<title>Unleashing the Warrior: Exploring Barbarian Backgrounds in 5e</title>
+                    <meta name="description" content="Discover the essence of Barbarian backgrounds in D&D 5e. Explore diverse tribal cultures, fierce survival instincts, and how unique histories shape characters' motivations and journeys. Unleash your character's potential with impactful narratives and primal strength!">
+                    <meta name="keywords" content="barbarian background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barbarian-background-5e">
+                            <span itemprop="name">barbarian background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing the Warrior: Exploring Barbarian Backgrounds in 5e</h1>
+                <p>In Dungeons & Dragons 5th Edition, a Barbarian's background influences their fierce persona. Often hailing from tribal societies, they value strength, survival, and primal instincts. With a connection to nature, Barbarians channel their rage into ferocity in battle. Each backstory adds depth, shaping their motivation and heroic journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD 5E Barbarian Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Human_Barbarian.webp' alt='The Ultimate Guide to the DnD 5E Barbarian Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Human_Barbarian.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbarian Character Ideas and Hooks for Tabletop RPG - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2021/10/dnd-dwarf-barbarian-backstory.jpg' alt='Barbarian Character Ideas and Hooks for Tabletop RPG - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2021/10/dnd-dwarf-barbarian-backstory.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD: Powerful Barbarian Build Guide">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/DD-Barbarian-Fighting.jpg' alt='DnD: Powerful Barbarian Build Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/DD-Barbarian-Fighting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 DND Barbarian Backgrounds">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/ca3797_648cb229bde14850bd6e1bb24898c5e6~mv2.png/v1/fill/w_1000,h_387,al_c,q_90,usm_0.66_1.00_0.01/ca3797_648cb229bde14850bd6e1bb24898c5e6~mv2.png' alt='40 DND Barbarian Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enter the Arcverse" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/ca3797_648cb229bde14850bd6e1bb24898c5e6~mv2.png/v1/fill/w_1000,h_387,al_c,q_90,usm_0.66_1.00_0.01/ca3797_648cb229bde14850bd6e1bb24898c5e6~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Barbarian Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/avatars/thumbnails/43940/614/420/618/638607453019977939.png' alt='The Barbarian Class for Dungeons & Dragons (D&D) Fifth Edition (5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/avatars/thumbnails/43940/614/420/618/638607453019977939.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Group of Barbarians is Called a Horde – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2016/02/barbarian-667761.jpg?resize=1024%2C768' alt='A Group of Barbarians is Called a Horde – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2016/02/barbarian-667761.jpg?resize=1024%2C768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant in the Playground Forums">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ca/ed/e2/caede2d1e87aa433c9fe218e8c49a249.jpg' alt='Giant in the Playground Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giant in the Playground Forums" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ca/ed/e2/caede2d1e87aa433c9fe218e8c49a249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Build A Barbarian Using The 2024 Player's Handbook In DND">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/barbarian2024.jpg' alt='How To Build A Barbarian Using The 2024 Player's Handbook In DND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/barbarian2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD 5E Barbarian Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_5E_Barbarian_Guide_Featured_Image.webp' alt='The Ultimate Guide to the DnD 5E Barbarian Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_5E_Barbarian_Guide_Featured_Image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E Barbarian Review: Path of the Beast Subclass – Mythcreants">
+                                <img itemprop="contentUrl url" src='https://mythcreants.com/wp-content/uploads/2020/12/3743-scab-clan-berserker.jpg' alt='D&D 5E Barbarian Review: Path of the Beast Subclass – Mythcreants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mythcreants" />
+                                </span>
+                                <a href='https://mythcreants.com/wp-content/uploads/2020/12/3743-scab-clan-berserker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

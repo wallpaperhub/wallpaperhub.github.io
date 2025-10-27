@@ -1,0 +1,129 @@
+<title>Discover René Lacoste: Tennis Legend & Fashion Pioneer</title>
+                    <meta name="description" content="Explore the remarkable life of René Lacoste, the tennis champion who transformed sportswear. Known for his signature polo shirts, Lacoste's legacy blends athletic prowess with timeless fashion, making him a lasting icon in both tennis and style. Dive into his story today!">
+                    <meta name="keywords" content="rene lacoste">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rene-lacoste">
+                            <span itemprop="name">rene lacoste</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover René Lacoste: Tennis Legend & Fashion Pioneer</h1>
+                <p>René Lacoste was a French tennis champion and sports innovator, known for revolutionizing the sportswear industry. Born in 1904, he earned the nickname "The Crocodile" for his tenacious playing style. He co-founded the Lacoste brand, famed for its iconic polo shirts, blending style and functionality for athletes and casual wearers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/99/Ren%C3%A9_Lacoste_wearing_his_signature_insignia.jpg' alt='René Lacoste - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/99/Ren%C3%A9_Lacoste_wearing_his_signature_insignia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Things You Didn't Know About Lacoste - Rene Lacoste Biography ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1275976-1525980356.jpg?crop=1xw:1xh;center,top&resize=980:*' alt='8 Things You Didn't Know About Lacoste - Rene Lacoste Biography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Town & Country Magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1275976-1525980356.jpg?crop=1xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste, the Founder of Lacoste | Lacosted">
+                                <img itemprop="contentUrl url" src='https://www.lacosted.com/wp-content/uploads/2011/09/rene1.jpg' alt='René Lacoste, the Founder of Lacoste | Lacosted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lacosted" />
+                                </span>
+                                <a href='https://www.lacosted.com/wp-content/uploads/2011/09/rene1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is (the real) René Lacoste?">
+                                <img itemprop="contentUrl url" src='https://lacoste.com.au/on/demandware.static/-/Library-Sites-lacoste-content-library/default/dwd8f485e1/blogimages/LAC-Blog-Rene1.jpg' alt='Who is (the real) René Lacoste?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lacoste" />
+                                </span>
+                                <a href='https://lacoste.com.au/on/demandware.static/-/Library-Sites-lacoste-content-library/default/dwd8f485e1/blogimages/LAC-Blog-Rene1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste, the tennis superstar who became a fashion pioneer ...">
+                                <img itemprop="contentUrl url" src='https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2024/10/Lacoste.jpg' alt='René Lacoste, the tennis superstar who became a fashion pioneer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New European" />
+                                </span>
+                                <a href='https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2024/10/Lacoste.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste">
+                                <img itemprop="contentUrl url" src='https://cdn0.scrvt.com/c2465e9022ba946df66d1244a69b1c75/ba9d6098531fe95b/14186a8b6b11/v/64d78defd240/rene-lacoste.jpg?nowebp=1' alt='René Lacoste'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Tennis Hall of Fame" />
+                                </span>
+                                <a href='https://cdn0.scrvt.com/c2465e9022ba946df66d1244a69b1c75/ba9d6098531fe95b/14186a8b6b11/v/64d78defd240/rene-lacoste.jpg?nowebp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste (Tennis Player) - On This Day">
+                                <img itemprop="contentUrl url" src='https://www.onthisday.com/images/people/rene-lacoste.jpg?w=360' alt='René Lacoste (Tennis Player) - On This Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="On This Day" />
+                                </span>
+                                <a href='https://www.onthisday.com/images/people/rene-lacoste.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Things You Didn't Know About Lacoste - Rene Lacoste Biography ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/rene-lacoste-crocodile-blazer-jpg-1525665662.jpg' alt='8 Things You Didn't Know About Lacoste - Rene Lacoste Biography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1477">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Town & Country Magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/rene-lacoste-crocodile-blazer-jpg-1525665662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Polo Shirt From Rene Lacoste Through Ralph Lauren">
+                                <img itemprop="contentUrl url" src='https://www.heddels.com/wp-content/uploads/2019/04/rene-lacoste-portrait-crocodile-polo-shirt.jpg' alt='The History of the Polo Shirt From Rene Lacoste Through Ralph Lauren'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1045">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heddels" />
+                                </span>
+                                <a href='https://www.heddels.com/wp-content/uploads/2019/04/rene-lacoste-portrait-crocodile-polo-shirt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="René Lacoste, the Founder of Lacoste | Lacosted">
+                                <img itemprop="contentUrl url" src='https://www.lacosted.com/wp-content/uploads/2018/09/Rene%CC%81_Lacoste.jpg' alt='René Lacoste, the Founder of Lacoste | Lacosted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lacosted" />
+                                </span>
+                                <a href='https://www.lacosted.com/wp-content/uploads/2018/09/Rene%CC%81_Lacoste.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

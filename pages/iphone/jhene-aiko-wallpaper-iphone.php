@@ -1,0 +1,129 @@
+<title>Jhene Aiko iPhone Wallpaper: Stunning Designs for Fans</title>
+                    <meta name="description" content="Discover beautiful Jhene Aiko wallpapers for your iPhone! Customize your device with high-quality images that showcase her unique style. Perfect for fans seeking inspiration, our collection offers a range of vibrant and serene designs to reflect your love for her music. Download now for a fresh look!">
+                    <meta name="keywords" content="jhene aiko wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jhene-aiko-wallpaper-iphone">
+                            <span itemprop="name">jhene aiko wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jhene Aiko iPhone Wallpaper: Stunning Designs for Fans</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Jhene Aiko wallpapers. From serene landscapes to vibrant artistic designs, explore a variety of options that reflect her soulful vibe. Enhance your screen with high-resolution images that capture her essence. Perfect for fans, these wallpapers bring a touch of artistry to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhené Aiko wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/1e/b4/851eb416f17b9ea0ba04a7382b424dec.jpg' alt='Jhené Aiko wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/1e/b4/851eb416f17b9ea0ba04a7382b424dec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhene aiko wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/c7/79/58c779e50a98065b2ecfb636c380a30f.jpg' alt='Jhene aiko wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/c7/79/58c779e50a98065b2ecfb636c380a30f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhené Aiko">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/89/52/67895207730c0ef739ce2d67cf7bb9e0.jpg' alt='Jhené Aiko'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/89/52/67895207730c0ef739ce2d67cf7bb9e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhené Aiko">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/bd/4e/fcbd4e2ef9d6b7555cd16b5bc2c2df72.jpg' alt='Jhené Aiko'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/bd/4e/fcbd4e2ef9d6b7555cd16b5bc2c2df72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhene Aiko|Wallpaper|">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/75/bd/6f75bda484a64b170f147f39a7424a79.jpg' alt='Jhene Aiko|Wallpaper|'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/75/bd/6f75bda484a64b170f147f39a7424a79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jhene Aiko Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jhene-aiko-1080-x-1179-wallpaper-0g7zjw0a71tv43pv.jpg' alt='100+] Jhene Aiko Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jhene-aiko-1080-x-1179-wallpaper-0g7zjw0a71tv43pv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhené Aiko wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e0/ab/77/e0ab77f1cf3c89bafe40ef6d5674ff0a.jpg' alt='Jhené Aiko wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="304">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e0/ab/77/e0ab77f1cf3c89bafe40ef6d5674ff0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhené Aiko Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/68/a2/8368a23f37fb1c94d4a25def58056bea.jpg' alt='Jhené Aiko Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/68/a2/8368a23f37fb1c94d4a25def58056bea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jhene aiko lockscreens    Requested Like or reblog if you save ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/dfd4421619b16561eb53fced25b8f27e/tumblr_pfq32do0Q61ta7ll8_640.jpg' alt='Jhene aiko lockscreens    Requested Like or reblog if you save ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/dfd4421619b16561eb53fced25b8f27e/tumblr_pfq32do0Q61ta7ll8_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jhene Aiko striking a pose against a vibrant backdrop ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jhene-aiko-1280-x-1636-wallpaper-ucglx6q7d9tdnueu.jpg' alt='Download Jhene Aiko striking a pose against a vibrant backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jhene-aiko-1280-x-1636-wallpaper-ucglx6q7d9tdnueu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

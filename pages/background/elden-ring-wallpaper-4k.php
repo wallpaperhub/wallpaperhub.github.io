@@ -1,0 +1,129 @@
+<title>Elden Ring 4K Wallpapers: Epic Game Art for Your Screen</title>
+                    <meta name="description" content="Discover breathtaking Elden Ring 4K wallpapers that bring the game's stunning visuals to life. Perfect for gamers and fans, these high-resolution images elevate your device's look while showcasing the mystical worlds and characters from this epic adventure. Download your favorites now!">
+                    <meta name="keywords" content="elden ring wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elden-ring-wallpaper-4k">
+                            <span itemprop="name">elden ring wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elden Ring 4K Wallpapers: Epic Game Art for Your Screen</h1>
+                <p>Elden Ring 4K wallpapers offer stunning visuals that capture the epic landscapes and intricately designed characters of the game. Whether you’re a fan of the ominous castles, vast fields, or mysterious creatures, these high-definition wallpapers enhance your gaming experience and provide an immersive aesthetic for your devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's like 100 MORE environment screenshots in 4K to use as ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/heres-like-100-more-environment-screenshots-in-4k-to-use-as-v0-OdiurmQhB7HNiEZLKdDxwcU_F3qizHXF0Qun8S1RejQ.jpg?auto=webp&s=5469e972b0297a27e7071e86d39ccd48472681bc' alt='Here's like 100 MORE environment screenshots in 4K to use as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/heres-like-100-more-environment-screenshots-in-4k-to-use-as-v0-OdiurmQhB7HNiEZLKdDxwcU_F3qizHXF0Qun8S1RejQ.jpg?auto=webp&s=5469e972b0297a27e7071e86d39ccd48472681bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ELDEN RING NIGHTREIGN - 4k Key Art without logo (wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/elden-ring-nightreign-4k-key-art-without-logo-wallpaper-v0-iba4lotwcj6e1.jpeg?auto=webp&s=fc61901704e8447d8ae641d3ecef213066c9656e' alt='ELDEN RING NIGHTREIGN - 4k Key Art without logo (wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/elden-ring-nightreign-4k-key-art-without-logo-wallpaper-v0-iba4lotwcj6e1.jpeg?auto=webp&s=fc61901704e8447d8ae641d3ecef213066c9656e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012526512/379E6434B473E7BE31C50525EB946D4212A8C8B3/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012526512/379E6434B473E7BE31C50525EB946D4212A8C8B3/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012525685/D0FBE13833A04573BA78B1584C510EFC5CED0DEF/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012525685/D0FBE13833A04573BA78B1584C510EFC5CED0DEF/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Messmer The Impaler Elden Ring Video Game Elden Ring ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/135/1358238.jpeg' alt='Download Messmer The Impaler Elden Ring Video Game Elden Ring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/135/1358238.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring phone wallpaper (HD, FHD and 18:9 versions) : r/Eldenring">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/y1udzivcql471.png?auto=webp&s=50bdf059cca89b8bb0a37fcdaa2802b1519df2cb' alt='Elden Ring phone wallpaper (HD, FHD and 18:9 versions) : r/Eldenring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/y1udzivcql471.png?auto=webp&s=50bdf059cca89b8bb0a37fcdaa2802b1519df2cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012525902/E800E8458A82FDD4F3CDAB133C286F69263492D0/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012525902/E800E8458A82FDD4F3CDAB133C286F69263492D0/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden ring Night reign gonna be straight fire !!! Made a wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1965237503999182' alt='Elden ring Night reign gonna be straight fire !!! Made a wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1965237503999182' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012528274/BA4EBC0AB54B4D48FBA2CD228937CAFDE68CABDD/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012528274/BA4EBC0AB54B4D48FBA2CD228937CAFDE68CABDD/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring: Mystical Aura in 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/115/1151249.jpg' alt='Elden Ring: Mystical Aura in 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/115/1151249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Accessing LexisNexis Criminal Records Made Easy</title>
+                    <meta name="description" content="Discover how to easily access LexisNexis criminal records for thorough background checks. Ideal for employers and legal professionals, this service provides essential criminal history data, ensuring informed decisions. Stay informed and secure with reliable, up-to-date information on potential hires or tenants.">
+                    <meta name="keywords" content="lexisnexis criminal records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lexisnexis-criminal-records">
+                            <span itemprop="name">lexisnexis criminal records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Accessing LexisNexis Criminal Records Made Easy</h1>
+                <p>LexisNexis criminal records provide comprehensive data on an individual's criminal history, including arrests, convictions, and court cases. This invaluable resource is used by employers, landlords, and legal professionals to conduct background checks, ensuring informed decisions. Accessing these records can help safeguard organizations and communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find a Person, Place, or Thing | LexisNexis® Public Records">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/images/public-records/risk-indicators-Dummy.png' alt='Find a Person, Place, or Thing | LexisNexis® Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/images/public-records/risk-indicators-Dummy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lexisnexis Criminal Records">
+                                <img itemprop="contentUrl url" src='https://lexisnexis-criminal-records.govbackgroundchecks.com/screenshots/lexisnexis-criminal-records/1.jpg' alt='Lexisnexis Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://lexisnexis-criminal-records.govbackgroundchecks.com/screenshots/lexisnexis-criminal-records/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Background a Person Using Lexis with ICIJ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8aYk8y9Ym_I/maxresdefault.jpg' alt='How to Background a Person Using Lexis with ICIJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8aYk8y9Ym_I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Up to 1 million new records daily - LexisNexis® Public Records">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/images/public-records/results-list-dummy-copy.png' alt='Up to 1 million new records daily - LexisNexis® Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/images/public-records/results-list-dummy-copy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lexisnexis Criminal Records">
+                                <img itemprop="contentUrl url" src='https://lexisnexis-criminal-records.govbackgroundchecks.com/screenshots/lexisnexis-criminal-records/10.jpg' alt='Lexisnexis Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://lexisnexis-criminal-records.govbackgroundchecks.com/screenshots/lexisnexis-criminal-records/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uncover hidden connections with LexisNexis® Public Records and ...">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/community/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-63/2425.1-PR-Screenshot-1_5F00_1.png' alt='Uncover hidden connections with LexisNexis® Public Records and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/community/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-63/2425.1-PR-Screenshot-1_5F00_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerful Public & Proprietary Records - Accurint for Legal ...">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/images/productimages/accurint/search.png' alt='Powerful Public & Proprietary Records - Accurint for Legal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1877">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/images/productimages/accurint/search.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Guilt Stalking! Helping Students Explore LexisNexis Public ...">
+                                <img itemprop="contentUrl url" src='https://ripslawlibrarian.wordpress.com/wp-content/uploads/2019/09/picture-1.jpg?w=640' alt='No Guilt Stalking! Helping Students Explore LexisNexis Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RIPS Law Librarian Blog - WordPress.com" />
+                                </span>
+                                <a href='https://ripslawlibrarian.wordpress.com/wp-content/uploads/2019/09/picture-1.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lexis Nexis | Tutorial | Berkeley Advanced Media Institute">
+                                <img itemprop="contentUrl url" src='https://multimedia.journalism.berkeley.edu/wp-content/uploads/lexis_nexis-main.jpg' alt='Lexis Nexis | Tutorial | Berkeley Advanced Media Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkeley Advanced Media Institute" />
+                                </span>
+                                <a href='https://multimedia.journalism.berkeley.edu/wp-content/uploads/lexis_nexis-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Research & Due Dilligence | LexisNexis® Public Records">
+                                <img itemprop="contentUrl url" src='https://www.lexisnexis.com/images/public-records/comp-business-uccs-Dummy.png' alt='Research & Due Dilligence | LexisNexis® Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LexisNexis" />
+                                </span>
+                                <a href='https://www.lexisnexis.com/images/public-records/comp-business-uccs-Dummy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

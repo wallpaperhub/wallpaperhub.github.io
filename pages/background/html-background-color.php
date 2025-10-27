@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="html background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/html-background-color">
+                            <span itemprop="name">html background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Change Background Color (Simple How To Tutorial)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sdypOOzHxzg/maxresdefault.jpg' alt='HTML Change Background Color (Simple How To Tutorial)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sdypOOzHxzg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML email background color: The best way to code them - Litmus">
+                                <img itemprop="contentUrl url" src='https://www.litmus.com/wp-content/uploads/2018/03/color-testing.png' alt='HTML email background color: The best way to code them - Litmus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1825">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Litmus" />
+                                </span>
+                                <a href='https://www.litmus.com/wp-content/uploads/2018/03/color-testing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set Background Color in HTML & CSS">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/8/8f/2609629-3-3.jpg/v4-460px-2609629-3-3.jpg' alt='How to Set Background Color in HTML & CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/8/8f/2609629-3-3.jpg/v4-460px-2609629-3-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change Background Color in HTML ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210530212437/1-660x465.png' alt='How to change Background Color in HTML ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210530212437/1-660x465.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Background Color - Set and Change">
+                                <img itemprop="contentUrl url" src='https://www.stechies.com/userfiles/images/backgroundcolorhtml1200x700webp1577801469.webp' alt='HTML Background Color - Set and Change'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stechies" />
+                                </span>
+                                <a href='https://www.stechies.com/userfiles/images/backgroundcolorhtml1200x700webp1577801469.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Colors | Learn How to Use Colors in Website Using HTML Colors">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2019/12/HTML-Colors-.png' alt='HTML Colors | Learn How to Use Colors in Website Using HTML Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="842">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2019/12/HTML-Colors-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Background Color — HTML Color Codes">
+                                <img itemprop="contentUrl url" src='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' alt='HTML Background Color — HTML Color Codes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HTML Color Codes" />
+                                </span>
+                                <a href='https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML 5 Tutorial: Set or Change HTML Background Color">
+                                <img itemprop="contentUrl url" src='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062349.png' alt='HTML 5 Tutorial: Set or Change HTML Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Djamware" />
+                                </span>
+                                <a href='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062349.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change background color in html - Easy Step 2020 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uw-uMQPBjRc/hqdefault.jpg' alt='How to change background color in html - Easy Step 2020 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uw-uMQPBjRc/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML 5 Tutorial: Set or Change HTML Background Color">
+                                <img itemprop="contentUrl url" src='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062407.png' alt='HTML 5 Tutorial: Set or Change HTML Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Djamware" />
+                                </span>
+                                <a href='https://s3-ap-southeast-1.amazonaws.com/djamblog/article-040320062407.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

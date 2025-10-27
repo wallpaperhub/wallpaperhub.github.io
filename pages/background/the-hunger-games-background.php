@@ -1,0 +1,129 @@
+<title>"Exploring the Dystopian World of The Hunger Games"</title>
+                    <meta name="description" content="Dive into the captivating world of "The Hunger Games," a dystopian saga that explores survival, oppression, and rebellion. Discover the chilling backdrop of Panem and the brutal Hunger Games that shape its society. Join the fight for freedom and justice in this gripping tale.">
+                    <meta name="keywords" content="the hunger games background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-hunger-games-background">
+                            <span itemprop="name">the hunger games background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Dystopian World of The Hunger Games"</h1>
+                <p>"The Hunger Games," authored by Suzanne Collins, is set in a dystopian future where the nation of Panem is divided into twelve districts, each controlled by the oppressive Capitol. To maintain control and discourage rebellion, the Capitol hosts the Hunger Games, a televised event where tributes fight to the death. Themes of survival, sacrifice, and societal inequality drive the narrative.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deepening the Conversation Around The Hunger Games - The Family ...">
+                                <img itemprop="contentUrl url" src='https://thefamilydinnerproject.org/wp-content/uploads/2012/03/Picture-5.png' alt='Deepening the Conversation Around The Hunger Games - The Family ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Family Dinner Project" />
+                                </span>
+                                <a href='https://thefamilydinnerproject.org/wp-content/uploads/2012/03/Picture-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lawrence (The Hunger Games) Wallpapers (42 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/6/4/512308-3840x2160-desktop-4k-jennifer-lawrence-the-hunger-games-background.jpg' alt='Jennifer Lawrence (The Hunger Games) Wallpapers (42 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/6/4/512308-3840x2160-desktop-4k-jennifer-lawrence-the-hunger-games-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Hunger Games Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-hunger-games-purple-logo-w4nkr3spyglexidc.jpg' alt='100+] The Hunger Games Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-hunger-games-purple-logo-w4nkr3spyglexidc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games | Books, Movies, Themes, Social Commentary ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/26/179126-050-3F4F6ADA/Jennifer-Lawrence-Katniss-Everdeen-The-Hunger-Games.jpg' alt='The Hunger Games | Books, Movies, Themes, Social Commentary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/26/179126-050-3F4F6ADA/Jennifer-Lawrence-Katniss-Everdeen-The-Hunger-Games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games: How Does it Hold Up?- But Why Tho?">
+                                <img itemprop="contentUrl url" src='https://butwhytho.net/wp-content/uploads/2020/02/The-hunger-Games-But-Why-Tho.jpg' alt='The Hunger Games: How Does it Hold Up?- But Why Tho?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="But Why Tho?" />
+                                </span>
+                                <a href='https://butwhytho.net/wp-content/uploads/2020/02/The-hunger-Games-But-Why-Tho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Hunger Games Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-hunger-games-flaming-bird-58vy5yf3y4eav6h2.jpg' alt='100+] The Hunger Games Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-hunger-games-flaming-bird-58vy5yf3y4eav6h2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hunger Games Review - IGN">
+                                <img itemprop="contentUrl url" src='http://oyster.ignimgs.com/wordpress/stg.ign.com/2012/03/HungerGamesHeader.jpg' alt='The Hunger Games Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='http://oyster.ignimgs.com/wordpress/stg.ign.com/2012/03/HungerGamesHeader.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suzanne Collins Announces 5th Hunger Games Novel">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.abookgeek.com/wp-content/uploads/2024/06/5th-Hunger-Games-Novel.png?fit=1200%2C800&ssl=1' alt='Suzanne Collins Announces 5th Hunger Games Novel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Book Geek" />
+                                </span>
+                                <a href='https://i0.wp.com/www.abookgeek.com/wp-content/uploads/2024/06/5th-Hunger-Games-Novel.png?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katniss Everdeen Fire Mockingjay HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/616/616466.jpg' alt='Katniss Everdeen Fire Mockingjay HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/616/616466.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a simple Hunger Games wallpaper! :) Inspired by OS X Lion ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/nAnTIlBVk1ee7heHwOwVJPm7zQTGxCy5fq7Lb3HAjjw.png?width=640&crop=smart&auto=webp&s=7530a46166364bd71a1fc9c3ef8cc6fb6878869d' alt='I made a simple Hunger Games wallpaper! :) Inspired by OS X Lion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/nAnTIlBVk1ee7heHwOwVJPm7zQTGxCy5fq7Lb3HAjjw.png?width=640&crop=smart&auto=webp&s=7530a46166364bd71a1fc9c3ef8cc6fb6878869d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

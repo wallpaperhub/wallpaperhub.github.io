@@ -1,0 +1,129 @@
+<title>Vibrant Bright Pink iPhone Wallpapers</title>
+                    <meta name="description" content="Discover stunning bright pink wallpaper designs for your iPhone! Explore a variety of styles to personalize your device and express your creativity. Perfect for elevating your phone's aesthetic, these wallpapers are bold, beautiful, and sure to make a statement. Download your favorites today!">
+                    <meta name="keywords" content="bright pink wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/bright-pink-wallpaper-iphone">
+                            <span itemprop="name">bright pink wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Bright Pink iPhone Wallpapers</h1>
+                <p>Bright pink wallpaper for iPhones adds a playful and vibrant touch to your device. Perfect for those who love to stand out, this bold choice can enhance your mood and reflect your personality. Browse a variety of designs, from floral patterns to geometric shapes, and transform your screen into a stylish statement piece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Simple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/03/99/e30399b9df1bb34711cf51999fa464ad.jpg' alt='Hot Pink Simple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/03/99/e30399b9df1bb34711cf51999fa464ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/44.-Hot-Pink-Glitter-Wallpaper-for-iPhone-SaturdayGift-473x1024.jpg' alt='Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/44.-Hot-Pink-Glitter-Wallpaper-for-iPhone-SaturdayGift-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Wallpaper iPhone HD (55+ images)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/69/7e/8a697eedb2758f425a634f745e7abb5c.jpg' alt='Hot Pink Wallpaper iPhone HD (55+ images)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/69/7e/8a697eedb2758f425a634f745e7abb5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1125x2436 Bright Pink Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-bright-pink-solid-color-background.jpg' alt='1125x2436 Bright Pink Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-bright-pink-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pretty-in-Pink iPhone Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-iphone-750-x-1334-background-r5qru7pdu32klyin.jpg' alt='Download Pretty-in-Pink iPhone Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-iphone-750-x-1334-background-r5qru7pdu32klyin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Marisa Michelson on Cool Wallpapers I | Preppy wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/c2/bf/4bc2bf2e4415c48a6f77a5b6eab7ed02.jpg' alt='Pin by Marisa Michelson on Cool Wallpapers I | Preppy wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/c2/bf/4bc2bf2e4415c48a6f77a5b6eab7ed02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: In the Pink - Pink iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2018/03/Pink_iPhone_wallpaper_9.jpg' alt='Wallpaper Weekends: In the Pink - Pink iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2018/03/Pink_iPhone_wallpaper_9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/e7/a3/c9e7a39bdb2584df7127f2eeb9d25398.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/e7/a3/c9e7a39bdb2584df7127f2eeb9d25398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink paper textured iPhone wallpaper | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE4NDktYmFja2dyb3VuZC1ib29tLTAyLTAzYi5qcGc.jpg' alt='Pink paper textured iPhone wallpaper | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE4NDktYmFja2dyb3VuZC1ib29tLTAyLTAzYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/45.-Hot-Pink-and-Black-Aesthetic-Wallpaper-for-iPhone-SaturdayGift-473x1024.jpg' alt='Pink Aesthetic Wallpaper for iPhone - 47 Gorgeous & Cute Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/45.-Hot-Pink-and-Black-Aesthetic-Wallpaper-for-iPhone-SaturdayGift-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

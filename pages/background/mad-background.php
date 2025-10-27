@@ -1,0 +1,129 @@
+<title>Mad Backgrounds: Unleashing Chaos in Art</title>
+                    <meta name="description" content="Explore the world of mad backgrounds that blend chaos with creativity. Discover how vibrant colors and abstract designs can enhance your art, evoke emotions, and infuse energy into your projects. Unlock new artistic possibilities with our guide to this dynamic design style.">
+                    <meta name="keywords" content="mad background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mad-background">
+                            <span itemprop="name">mad background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mad Backgrounds: Unleashing Chaos in Art</h1>
+                <p>Mad backgrounds can evoke a range of emotions, tapping into chaos, confusion, and vibrant energy. These designs often utilize bold colors and abstract shapes, creating a visually striking impact. Embracing a mad background can serve to reflect inner turmoil or amplify creativity, making it an intriguing choice for artists and designers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1133357895/vector/angry-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=U5A4w6NUKayyf3zqlzkz-sQjsZZ3bF3Ge3p5Oct7e08=' alt='25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1133357895/vector/angry-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=U5A4w6NUKayyf3zqlzkz-sQjsZZ3bF3Ge3p5Oct7e08=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1409955134/vector/fire-flame-on-orange-background.jpg?s=612x612&w=0&k=20&c=ESx9UWoI5K66COEUH55dVynNioRZI8i5ayGDFFn0nWs=' alt='25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1409955134/vector/fire-flame-on-orange-background.jpg?s=612x612&w=0&k=20&c=ESx9UWoI5K66COEUH55dVynNioRZI8i5ayGDFFn0nWs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angry Wallpaper Indignant Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/angry-emoji-framed-background_53876-89765.jpg' alt='Angry Wallpaper Indignant Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/angry-emoji-framed-background_53876-89765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anger Background: Over 68,304 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/yellowredblack-background-explosion-force-lines-600nw-2300068687.jpg' alt='Anger Background: Over 68,304 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/yellowredblack-background-explosion-force-lines-600nw-2300068687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,100+ Anger Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1405787183/vector/flames-and-fire-background-with-typography.jpg?s=612x612&w=0&k=20&c=mXlMbTW_N1WoP_eXsxnPNQO-lqcQA4keji_-XIPpPQo=' alt='24,100+ Anger Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1405787183/vector/flames-and-fire-background-with-typography.jpg?s=612x612&w=0&k=20&c=mXlMbTW_N1WoP_eXsxnPNQO-lqcQA4keji_-XIPpPQo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mad Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/orange-grunge-texture_1048-3123.jpg' alt='Mad Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/orange-grunge-texture_1048-3123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1396922984/vector/cartoon-flame-fire-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=c0DtQYHE9oqlXML1Np57XsM93zunhSxqYrPMVRyf0jQ=' alt='25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1396922984/vector/cartoon-flame-fire-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=c0DtQYHE9oqlXML1Np57XsM93zunhSxqYrPMVRyf0jQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1244028252/vector/cartoon-effects-explosion-design-element.jpg?s=612x612&w=0&k=20&c=hPYB_uOQo1fTYv6RU6joBxPBi2Hsh7cqrJUF_y0GcQY=' alt='25,400+ Mad Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1244028252/vector/cartoon-effects-explosion-design-element.jpg?s=612x612&w=0&k=20&c=hPYB_uOQo1fTYv6RU6joBxPBi2Hsh7cqrJUF_y0GcQY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angry Background Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-comics-style-wallpaper_23-2148798289.jpg' alt='Angry Background Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-comics-style-wallpaper_23-2148798289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,100+ Anger Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333934370/vector/vibrant-rustic-bright-orange-brick-red-yellow-and-maroon-coloured-empty-and-blank-colourful.jpg?s=612x612&w=0&k=20&c=DomuI4wQV9WQ-wa3StTpbaLub3-Govz_DiyRELfIr18=' alt='24,100+ Anger Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333934370/vector/vibrant-rustic-bright-orange-brick-red-yellow-and-maroon-coloured-empty-and-blank-colourful.jpg?s=612x612&w=0&k=20&c=DomuI4wQV9WQ-wa3StTpbaLub3-Govz_DiyRELfIr18=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

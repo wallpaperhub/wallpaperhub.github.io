@@ -1,0 +1,129 @@
+<title>Illuminate Your Space: LED Lights with Transparent Background</title>
+                    <meta name="description" content="Discover the beauty of LED lights with a transparent background, ideal for stylish design and versatile applications. Perfect for home decor, signage, and automotive use. Elevate your lighting experience with these modern solutions that blend functionality and aesthetics effortlessly.">
+                    <meta name="keywords" content="led lights transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/led-lights-transparent-background">
+                            <span itemprop="name">led lights transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminate Your Space: LED Lights with Transparent Background</h1>
+                <p>LED lights with a transparent background provide a sleek and modern aesthetic, perfect for enhancing any space. Their versatility allows for creative designs in signage, home decor, and automotive lighting. These lights not only illuminate but also add a decorative touch, making them a popular choice among designers and homeowners alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Neon Line Light Led Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/png-purple-neon-line-light-led-701751694617372995l2domql.png' alt='Green Neon Line Light Led Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/png-purple-neon-line-light-led-701751694617372995l2domql.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of seamless led glowing light stripes on transparent ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PXJ7XR/set-of-seamless-led-glowing-light-stripes-on-transparent-background-PXJ7XR.jpg' alt='Set of seamless led glowing light stripes on transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PXJ7XR/set-of-seamless-led-glowing-light-stripes-on-transparent-background-PXJ7XR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Lights isolated on transparent background for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/lights-isolated-transparent-background-cards-banners-posters-web-design-set-golden-glowing-garland-led-neon-lamp-illustration_136982-836.jpg' alt='Premium Vector | Lights isolated on transparent background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/lights-isolated-transparent-background-cards-banners-posters-web-design-set-golden-glowing-garland-led-neon-lamp-illustration_136982-836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shining Led Vector Stripes, Neon Illumination On Transparent ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/tanandaa/tanandaa1904/tanandaa190400046/122423372-shining-led-vector-stripes-neon-illumination-on-transparent-background-set-of-yellow-white-blue.jpg' alt='Shining Led Vector Stripes, Neon Illumination On Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/tanandaa/tanandaa1904/tanandaa190400046/122423372-shining-led-vector-stripes-neon-illumination-on-transparent-background-set-of-yellow-white-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illuminated Led Light Tape Stock Illustrations – 160 Illuminated ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/led-light-vector-icon-realisticvector-isolated-white-background-logo-178174777.jpg' alt='Illuminated Led Light Tape Stock Illustrations – 160 Illuminated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/led-light-vector-icon-realisticvector-isolated-white-background-logo-178174777.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Led strips with neon glow effect isolated on transparent ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/61/40/26/1000_F_361402616_tU6YAgrk8pbSdyxbBZDySeCk8seX2osl.jpg' alt='Led strips with neon glow effect isolated on transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/61/40/26/1000_F_361402616_tU6YAgrk8pbSdyxbBZDySeCk8seX2osl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Neon Line Light Led Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/green-neon-line-light-led-transparent-background-701751694617377yysmbxltjd.png' alt='Green Neon Line Light Led Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/green-neon-line-light-led-transparent-background-701751694617377yysmbxltjd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Led Light PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221216/ourmid/pngtree-colorful-led-lights-png-image_6525917.png' alt='Led Light PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221216/ourmid/pngtree-colorful-led-lights-png-image_6525917.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Blue white glowing LED light strip on a ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/blue-white-glowing-led-light-strip-transparent-background_36059-210.jpg' alt='Premium Vector | Blue white glowing LED light strip on a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/blue-white-glowing-led-light-strip-transparent-background_36059-210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Led Strip Light PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220611/ourmid/pngtree-energy-led-strip-lights-icon-png-image_5009273.png' alt='Led Strip Light PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220611/ourmid/pngtree-energy-led-strip-lights-icon-png-image_5009273.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Retro Wallpaper: Revive Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute retro wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-retro-wallpaper">
+                            <span itemprop="name">cute retro wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Retro Wallpaper: Revive Your Space</h1>
+                <p>Cute retro wallpaper adds charm and nostalgia to any space, featuring playful patterns, soft pastels, and whimsical designs. From polka dots to floral motifs, these wallpapers create a warm, inviting atmosphere reminiscent of classic interiors. Perfect for a cozy bedroom, cheerful kitchen, or funky living room, they offer a delightful touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable retro desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFfG9wR-FE/1/0/1600w/canva-colorful-funky-retro-desktop-wallpaper-6d4z4q3f2AQ.jpg' alt='Free and customizable retro desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFfG9wR-FE/1/0/1600w/canva-colorful-funky-retro-desktop-wallpaper-6d4z4q3f2AQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro cute iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/8a/d1/438ad1f6bf7bd5f2f1d30a84a70e181f.jpg' alt='Retro cute iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/8a/d1/438ad1f6bf7bd5f2f1d30a84a70e181f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro cute 70s funky aesthetic phone background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/41/90/dd41909455e68471747df3533bee56a3.jpg' alt='retro cute 70s funky aesthetic phone background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/41/90/dd41909455e68471747df3533bee56a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Road Trip • American Retro Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Roadtrip-1-1100x1318.jpg' alt='The Road Trip • American Retro Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Roadtrip-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro background with grunge and cute daisy 70s ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-background-with-grunge-cute-daisy-70s-vintage-background_985938-294.jpg' alt='Premium Vector | Retro background with grunge and cute daisy 70s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-background-with-grunge-cute-daisy-70s-vintage-background_985938-294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Groovy Pastel Retro Background With Flowers Cute Colorful ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1396490915/vector/groovy-retro-daisy-flowers-background-groovy-flowers-seamless-pattern-groovy-floral-pastel.jpg?s=612x612&w=is&k=20&c=ForpIvcIUfqr14ACBcWLCwKVpEdJv3LzXIygm-ynrQM=' alt='Vintage Groovy Pastel Retro Background With Flowers Cute Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1396490915/vector/groovy-retro-daisy-flowers-background-groovy-flowers-seamless-pattern-groovy-floral-pastel.jpg?s=612x612&w=is&k=20&c=ForpIvcIUfqr14ACBcWLCwKVpEdJv3LzXIygm-ynrQM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Items Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-items-retro-aesthetic-iphone-9ghjm5j4jsaitggb.jpg' alt='Vintage Items Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-items-retro-aesthetic-iphone-9ghjm5j4jsaitggb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Groovy Aesthetic Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' alt='Retro Groovy Aesthetic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Retro Backgrounds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-groovy-love-pattern_23-2151060491.jpg' alt='Cute Retro Backgrounds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-groovy-love-pattern_23-2151060491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Retro Cute Pastel Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-cute-pastel-2x8hlwz8z4cyhgo7.jpg' alt='Download Retro Cute Pastel Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-cute-pastel-2x8hlwz8z4cyhgo7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

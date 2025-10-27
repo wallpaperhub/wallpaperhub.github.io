@@ -1,0 +1,129 @@
+<title>What is a Live Scan Background Check?</title>
+                    <meta name="description" content="Discover what a live scan background check is and how it efficiently captures fingerprints for thorough criminal record checks. Ideal for employers in sensitive sectors seeking to enhance safety. Learn about its process, benefits, and importance in hiring today!">
+                    <meta name="keywords" content="what is live scan background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-live-scan-background-check">
+                            <span itemprop="name">what is live scan background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is a Live Scan Background Check?</h1>
+                <p>A live scan background check is a digital method of capturing fingerprints that are then checked against state and federal databases for criminal records. It's commonly used in various job applications, particularly in fields like education, healthcare, and law enforcement. This efficient process enhances security and safety for employers and communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Live Scan and What is the Live Scan Process? - Certifix ...">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2016/10/Live-Scan-Process.jpg' alt='What is Live Scan and What is the Live Scan Process? - Certifix ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2016/10/Live-Scan-Process.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Live Scan System for Background Check">
+                                <img itemprop="contentUrl url" src='https://www.bayometric.com/wp-content/uploads/2021/06/live-scan-background-check-450x450.png' alt='Fingerprint Live Scan System for Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bayometric" />
+                                </span>
+                                <a href='https://www.bayometric.com/wp-content/uploads/2021/06/live-scan-background-check-450x450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luna Live Live Scan + Notary | FAQ">
+                                <img itemprop="contentUrl url" src='https://www.lunalivescan.com/images/images/Blank-DOJ-LIVE-SCAN-FORM.jpg' alt='Luna Live Live Scan + Notary | FAQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2538">
+                                <meta itemprop="height" content="3282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Luna Live Scan + Notary" />
+                                </span>
+                                <a href='https://www.lunalivescan.com/images/images/Blank-DOJ-LIVE-SCAN-FORM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Scan Software">
+                                <img itemprop="contentUrl url" src='https://www.bayometric.com/wp-content/uploads/2019/08/live-scan-fingerprint-software.png' alt='Live Scan Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bayometric" />
+                                </span>
+                                <a href='https://www.bayometric.com/wp-content/uploads/2019/08/live-scan-fingerprint-software.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Live Scan? The Technology, Processes, and Applications">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/648abbf49f11347e2b8b3ddc_what%20is%20live%20scan.jpg' alt='What is a Live Scan? The Technology, Processes, and Applications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARATEK" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/648abbf49f11347e2b8b3ddc_what%20is%20live%20scan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Near Me 1">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/5b2e081a-e918-4a0b-bcbd-b4d33dcc3e6c/Live%20Scan%20Near%20Me%204.jpg/:/' alt='Fingerprinting Near Me 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hawthorne Live Scan" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/5b2e081a-e918-4a0b-bcbd-b4d33dcc3e6c/Live%20Scan%20Near%20Me%204.jpg/:/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Scan Software">
+                                <img itemprop="contentUrl url" src='https://www.bayometric.com/wp-content/uploads/2019/09/fbi-print-to-card-realscan-g10.png' alt='Live Scan Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bayometric" />
+                                </span>
+                                <a href='https://www.bayometric.com/wp-content/uploads/2019/09/fbi-print-to-card-realscan-g10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California AB 506 – Background Check/Livescan Policy for CA ...">
+                                <img itemprop="contentUrl url" src='https://www.aysovolunteers.org/wp-content/uploads/2022/01/Admin-300x212.png' alt='California AB 506 – Background Check/Livescan Policy for CA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AYSO Volunteer Resources" />
+                                </span>
+                                <a href='https://www.aysovolunteers.org/wp-content/uploads/2022/01/Admin-300x212.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Live Scan System for Background Check">
+                                <img itemprop="contentUrl url" src='https://www.bayometric.com/wp-content/uploads/2021/06/live-scan-background-check.png' alt='Fingerprint Live Scan System for Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bayometric" />
+                                </span>
+                                <a href='https://www.bayometric.com/wp-content/uploads/2021/06/live-scan-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live scan question ? how long did your firearm background take, I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/live-scan-question-how-long-did-your-firearm-background-v0-pjcnrpdlyoka1.jpg?width=1080&crop=smart&auto=webp&s=a8715121e91a00eede888cc6d8250985ff2c1850' alt='Live scan question ? how long did your firearm background take, I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/live-scan-question-how-long-did-your-firearm-background-v0-pjcnrpdlyoka1.jpg?width=1080&crop=smart&auto=webp&s=a8715121e91a00eede888cc6d8250985ff2c1850' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spring Aesthetic Wallpapers: Brighten Your Space</title>
+                    <meta name="description" content="Discover beautiful spring aesthetic wallpapers that add a refreshing touch to your surroundings. With floral designs and pastel colors, our collection is perfect for transforming your home or mobile device into a lively spring haven. Enjoy vibrant visuals that capture the essence of the season!">
+                    <meta name="keywords" content="spring asthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spring-asthetic-wallpaper">
+                            <span itemprop="name">spring asthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Aesthetic Wallpapers: Brighten Your Space</h1>
+                <p>Transform your space with vibrant spring aesthetic wallpapers! Featuring blooming flowers, lush greenery, and pastel hues, these wallpapers will breathe fresh life into any room. Perfect for creating a cheerful atmosphere, they're ideal for homes, offices, or even mobile devices—bringing a touch of spring wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Aesthetic Colorful Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spring-aesthetic-colorful-flowers-x6fbbqfrlvdrmbtx.jpg' alt='Spring Aesthetic Colorful Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spring-aesthetic-colorful-flowers-x6fbbqfrlvdrmbtx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring aesthetic wallpaper, feel good beautiful collage background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49439613/r/il/ffd9bd/5833762794/il_570xN.5833762794_fjvv.jpg' alt='Spring aesthetic wallpaper, feel good beautiful collage background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49439613/r/il/ffd9bd/5833762794/il_570xN.5833762794_fjvv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free spring aesthetic phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE1WBQt1lQ/1/0/900w/canva-beige-minimalist-cute-spring-blossom-and-wreath-pattern-phone-wallpaper-CYpTEpZ5Y5s.jpg' alt='Free spring aesthetic phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE1WBQt1lQ/1/0/900w/canva-beige-minimalist-cute-spring-blossom-and-wreath-pattern-phone-wallpaper-CYpTEpZ5Y5s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-spring-aesthetic-cxgty9po173c4vxi.jpg' alt='Cute Spring Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-spring-aesthetic-cxgty9po173c4vxi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free spring aesthetic phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFews_Xqtg/2/0/900w/canva-beige-daisy-flower-quote-spring-aesthetic-phone-wallpaper-E4ngG2rLgnY.jpg' alt='Free spring aesthetic phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFews_Xqtg/2/0/900w/canva-beige-daisy-flower-quote-spring-aesthetic-phone-wallpaper-E4ngG2rLgnY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/58/2b/7d/582b7d8f91eedd775c6399871c85a15f.jpg' alt='35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/58/2b/7d/582b7d8f91eedd775c6399871c85a15f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delight In The Beauty Of Aesthetic Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/enjoy-the-beauty-of-spring-with-aesthetic-spring-t76cylorkouyzhxw.webp' alt='Delight In The Beauty Of Aesthetic Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/enjoy-the-beauty-of-spring-with-aesthetic-spring-t76cylorkouyzhxw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Spring Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spring-aesthetic-collage-uyihwvvmv3b1swrm.jpg' alt='200+] Spring Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spring-aesthetic-collage-uyihwvvmv3b1swrm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOF9waG90b19hZXN0aGV0aWNfdHVsaXBfZmllbGRfbGFuZHNjYXBlX3dhbGxwYV9lYWI4MzFhZi1lOGQzLTQyMGItYmI0MS1jZThiZTY2YmNhZjFfMS5qcGc.jpg' alt='Spring Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOF9waG90b19hZXN0aGV0aWNfdHVsaXBfZmllbGRfbGFuZHNjYXBlX3dhbGxwYV9lYWI4MzFhZi1lOGQzLTQyMGItYmI0MS1jZThiZTY2YmNhZjFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/29/66/7c2966c302bf769ccf0f160707fdbb0b.jpg' alt='Spring Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/29/66/7c2966c302bf769ccf0f160707fdbb0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

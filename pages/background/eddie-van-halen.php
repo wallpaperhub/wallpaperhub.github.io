@@ -1,0 +1,129 @@
+<title>Eddie Van Halen: Guitar Legend and Rock Icon</title>
+                    <meta name="description" content="Explore the life and legacy of Eddie Van Halen, the revolutionary guitarist known for his game-changing techniques and unforgettable riffs. Discover how he shaped the rock music landscape and inspired generations of musicians with his electrifying performances.">
+                    <meta name="keywords" content="eddie van halen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eddie-van-halen">
+                            <span itemprop="name">eddie van halen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eddie Van Halen: Guitar Legend and Rock Icon</h1>
+                <p>Eddie Van Halen was an iconic guitarist and co-founder of the legendary rock band Van Halen. Renowned for his innovative playing style, including the two-handed tapping technique, Eddie revolutionized guitar music. His powerhouse riffs and electrifying solos shaped rock, influencing countless musicians and leaving a lasting legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg/800px-Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg' alt='Eddie Van Halen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg/800px-Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Confirms the OFFICIAL Name of Eddie Van Halen's Guitar">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/366/files/2024/04/attachment-eddie_van_halen_wolfgang_van_halen_frankenstein_guitar.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' alt='Wolfgang Confirms the OFFICIAL Name of Eddie Van Halen's Guitar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loudwire" />
+                                </span>
+                                <a href='https://townsquare.media/site/366/files/2024/04/attachment-eddie_van_halen_wolfgang_van_halen_frankenstein_guitar.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen | Guitar, Virtuoso, & Biography | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/96/249496-050-E70EFC16/Eddie-Van-Halen-1983.jpg' alt='Eddie Van Halen | Guitar, Virtuoso, & Biography | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/96/249496-050-E70EFC16/Eddie-Van-Halen-1983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen's Otherworldly Sounds | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5f7de159e8fd0f281aad5285/master/w_1600%2Cc_limit/Petrusich-VanHalen.jpg' alt='Eddie Van Halen's Otherworldly Sounds | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5f7de159e8fd0f281aad5285/master/w_1600%2Cc_limit/Petrusich-VanHalen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen's family slams Autopsy series">
+                                <img itemprop="contentUrl url" src='https://fox59.com/wp-content/uploads/sites/21/2022/06/GettyImages-473942672.jpg?w=2560&h=1440&crop=1' alt='Eddie Van Halen's family slams Autopsy series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox 59" />
+                                </span>
+                                <a href='https://fox59.com/wp-content/uploads/sites/21/2022/06/GettyImages-473942672.jpg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look Back at Eddie Van Halen One Year After His Death Beyond The ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.beyondthestagemagazine.com/wp-content/uploads/2021/10/Van-Halen.jpg?fit=770%2C1134&ssl=1' alt='A Look Back at Eddie Van Halen One Year After His Death Beyond The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beyond The Stage Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.beyondthestagemagazine.com/wp-content/uploads/2021/10/Van-Halen.jpg?fit=770%2C1134&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen, Hall of Famer Who Revolutionized Guitar, Dead at 65">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/eddie-van-halen-pre-obit.jpg' alt='Eddie Van Halen, Hall of Famer Who Revolutionized Guitar, Dead at 65'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/eddie-van-halen-pre-obit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen - Oral Cancer Foundation | Information and ...">
+                                <img itemprop="contentUrl url" src='https://oralcancerfoundation.org/wp-content/uploads/2016/09/Eddie-Van-Halen.jpg' alt='Eddie Van Halen - Oral Cancer Foundation | Information and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oral Cancer Foundation" />
+                                </span>
+                                <a href='https://oralcancerfoundation.org/wp-content/uploads/2016/09/Eddie-Van-Halen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eddie Van Halen, Virtuoso of the Rock Guitar, Dies at 65 - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/10/07/obituaries/07vanhalen1/06vanhalen1-superJumbo.jpg' alt='Eddie Van Halen, Virtuoso of the Rock Guitar, Dies at 65 - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/10/07/obituaries/07vanhalen1/06vanhalen1-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guitar Virtuoso Eddie Van Halen Dies at 65 | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/5f7cd36b6cac71ad7f787f9a/master/w_2560%2Cc_limit/eddie-van-halen-lede.png' alt='Guitar Virtuoso Eddie Van Halen Dies at 65 | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1304">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/5f7cd36b6cac71ad7f787f9a/master/w_2560%2Cc_limit/eddie-van-halen-lede.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

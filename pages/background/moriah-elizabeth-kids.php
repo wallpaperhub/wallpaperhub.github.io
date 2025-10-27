@@ -1,0 +1,129 @@
+<title>Moriah Elizabeth: Creative Fun for Kids</title>
+                    <meta name="description" content="Discover Moriah Elizabeth's engaging DIY projects designed for kids! Inspiring creativity and fun, her YouTube channel is a treasure trove of art and crafts perfect for young imaginations. Join the adventure today!">
+                    <meta name="keywords" content="moriah elizabeth kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moriah-elizabeth-kids">
+                            <span itemprop="name">moriah elizabeth kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moriah Elizabeth: Creative Fun for Kids</h1>
+                <p>Moriah Elizabeth is a popular YouTuber renowned for her creative DIY projects and relatable content centered around art and crafting. Her channel features numerous engaging videos that appeal to children, showcasing her playful personality and passion for creating. Moriah's fun approach inspires kids to explore their artistic abilities and experiment with various projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Toddler Chooses What I Paint - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1lJ_R2kVVdk/sddefault.jpg' alt='My Toddler Chooses What I Paint - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1lJ_R2kVVdk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Baby Chooses What I Paint?!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HteZuE9rHT0/maxresdefault.jpg' alt='My Baby Chooses What I Paint?!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HteZuE9rHT0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Kid Chooses What I Paint">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xMhFDmra3lA/maxresdefault.jpg' alt='My Kid Chooses What I Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xMhFDmra3lA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah, Mini ME, and Minier ME : r/MoriahElizabeth">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/moriah-mini-me-and-minier-me-v0-f1yp29ao2nsb1.jpg?width=1080&crop=smart&auto=webp&s=203abe9b448f1a5b9047929076fbf5093aa7b60c' alt='Moriah, Mini ME, and Minier ME : r/MoriahElizabeth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/moriah-mini-me-and-minier-me-v0-f1yp29ao2nsb1.jpg?width=1080&crop=smart&auto=webp&s=203abe9b448f1a5b9047929076fbf5093aa7b60c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah and her new baby ❤️ : r/MoriahElizabeth">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sfymw8tw81qb1.jpg' alt='Moriah and her new baby ❤️ : r/MoriahElizabeth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1565">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sfymw8tw81qb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah Elizabeths Daughter | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7119297981622258986&location=0&aid=1988' alt='Moriah Elizabeths Daughter | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7119297981622258986&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah Elizabeth's Baby: All You Need to Know About Her Children">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7121409041221422341&location=0&aid=1988' alt='Moriah Elizabeth's Baby: All You Need to Know About Her Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7121409041221422341&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah as a baby : r/MoriahElizabeth">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/moriah-as-a-baby-v0-qe1vfvtu1ghd1.jpeg?auto=webp&s=5f64b273065f7b7ad1f99908e0de0d7a5e37d3d5' alt='Moriah as a baby : r/MoriahElizabeth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/moriah-as-a-baby-v0-qe1vfvtu1ghd1.jpeg?auto=webp&s=5f64b273065f7b7ad1f99908e0de0d7a5e37d3d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah Elizabeth | Art/Crafts (@moriahelizabethofficial ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3243919233653953305' alt='Moriah Elizabeth | Art/Crafts (@moriahelizabethofficial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3243919233653953305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moriah Elizabeth - New video in just a few hours!! Also, don't ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5257145284307756' alt='Moriah Elizabeth - New video in just a few hours!! Also, don't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5257145284307756' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

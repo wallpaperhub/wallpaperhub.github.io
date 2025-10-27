@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Subway Surfers</title>
+                    <meta name="description" content="Dive into the exciting universe of Subway Surfers, where fast-paced gameplay meets stunning cityscapes. Discover tips, tricks, and updates on your favorite characters while navigating vibrant streets filled with obstacles. Join the chase and elevate your surfing skills today!">
+                    <meta name="keywords" content="subway surfers background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/subway-surfers-background">
+                            <span itemprop="name">subway surfers background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Subway Surfers</h1>
+                <p>Subway Surfers boasts a vibrant urban backdrop where players race through city streets while dodging trains and obstacles. The game's dynamic graphics feature colorful graffiti, busy subway stations, and diverse environments from around the globe. Each location brings unique challenges, encouraging players to keep surfing for high scores and new adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers - Download Free 3D model by Capy Studio's ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/baed87144cab479d91f851eadf678c96/thumbnails/7905fb7ef3e94103b0c92b2c45c4a87c/989a3e468c18406589f5181210940e39.jpeg' alt='Subway Surfers - Download Free 3D model by Capy Studio's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/baed87144cab479d91f851eadf678c96/thumbnails/7905fb7ef3e94103b0c92b2c45c4a87c/989a3e468c18406589f5181210940e39.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers (2023) - Gameplay (PC UHD) [4K60FPS]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7ghSziUQnhs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARSRYa8hWMwOKUUYYrhjltujrCpw' alt='Subway Surfers (2023) - Gameplay (PC UHD) [4K60FPS]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7ghSziUQnhs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARSRYa8hWMwOKUUYYrhjltujrCpw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Creators On Making Its First Game Without ...">
+                                <img itemprop="contentUrl url" src='https://www.gamespot.com/a/uploads/original/1755/17559665/4008778-subwaysurferstag_keyart.jpg' alt='Subway Surfers Creators On Making Its First Game Without ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4858">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameSpot" />
+                                </span>
+                                <a href='https://www.gamespot.com/a/uploads/original/1755/17559665/4008778-subwaysurferstag_keyart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds from SSCV | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/0ac2f60d-c528-45a0-9a2d-f02591934a45/scale-to-width/755' alt='Backgrounds from SSCV | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Subway Surfers Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/0ac2f60d-c528-45a0-9a2d-f02591934a45/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway surfers, amar, ayushi, loves, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/801/74/HD-wallpaper-subway-surfers-amar-ayushi-loves.jpg' alt='Subway surfers, amar, ayushi, loves, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/801/74/HD-wallpaper-subway-surfers-amar-ayushi-loves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers | Spring/Summer">
+                                <img itemprop="contentUrl url" src='https://springsummer.imgix.net/uploads/SS_Madagascar_cover.png?auto=compress%2Cformat&fit=clip&q=35&w=2600' alt='Subway Surfers | Spring/Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2600">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spring/Summer | Copenhagen" />
+                                </span>
+                                <a href='https://springsummer.imgix.net/uploads/SS_Madagascar_cover.png?auto=compress%2Cformat&fit=clip&q=35&w=2600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Main Theme Music [OFFICIAL]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zGhEyEJLChw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gMig9MA8=&rs=AOn4CLB2cCF8WtlIKK8NFuce06lUO5_tyg' alt='Subway Surfers Main Theme Music [OFFICIAL]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zGhEyEJLChw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gMig9MA8=&rs=AOn4CLB2cCF8WtlIKK8NFuce06lUO5_tyg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/06/06/5e0606fa24129d51e2fda7608e9b079a.jpg' alt='Subway Surfers Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/06/06/5e0606fa24129d51e2fda7608e9b079a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Currently addicted to subway surfers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e7/61/a4/e761a4dea6860235fbe384c633e180d0.jpg' alt='Currently addicted to subway surfers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e7/61/a4/e761a4dea6860235fbe384c633e180d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fact Check: This tragic story behind the creation of 'Subway ...">
+                                <img itemprop="contentUrl url" src='https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/subway1.jpeg' alt='Fact Check: This tragic story behind the creation of 'Subway ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="India Today" />
+                                </span>
+                                <a href='https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/subway1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

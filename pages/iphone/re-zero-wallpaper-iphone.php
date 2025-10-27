@@ -1,0 +1,129 @@
+<title>Explore Stunning Re:Zero iPhone Wallpapers</title>
+                    <meta name="description" content="Discover amazing Re:Zero wallpapers for your iPhone! Featuring iconic characters and vibrant scenes, these high-quality designs will personalize your device, showcasing your love for this popular anime. Ideal for fans looking to refresh their home screen with stylish, eye-catching backgrounds!">
+                    <meta name="keywords" content="re zero wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/re-zero-wallpaper-iphone">
+                            <span itemprop="name">re zero wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Re:Zero iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning "Re:Zero" wallpapers! Dive into the enchanting world of Subaru, Emilia, and Rem, showcasing various breathtaking scenes and fan-favorite moments. With vibrant colors and high-resolution designs, these wallpapers will make your device stand out. Perfect for any anime lover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your wallpaper? : r/ReZero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-your-wallpaper-v0-77qk7zr4cizd1.jpeg?width=1024&format=pjpg&auto=webp&s=4f84f26f0782f5dea17f858cab1e07ee02ed5cd1' alt='What is your wallpaper? : r/ReZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-your-wallpaper-v0-77qk7zr4cizd1.jpeg?width=1024&format=pjpg&auto=webp&s=4f84f26f0782f5dea17f858cab1e07ee02ed5cd1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rezero Wallpaper [Media] : r/Re_Zero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b8pnyh5clv771.jpg?width=640&crop=smart&auto=webp&s=813620e09c247ed82d3eb86ebf855b6bc5e6bd74' alt='Rezero Wallpaper [Media] : r/Re_Zero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b8pnyh5clv771.jpg?width=640&crop=smart&auto=webp&s=813620e09c247ed82d3eb86ebf855b6bc5e6bd74' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re: zero Wallpapers for phone.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/d9/c3/cfd9c36e29afe07378a2442ff348f241.jpg' alt='Re: zero Wallpapers for phone.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/d9/c3/cfd9c36e29afe07378a2442ff348f241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Iphone Re:zero Rem Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-anime-iphone-re-zero-rem-ym0kgviauf3ljdug.jpg' alt='4k Anime Iphone Re:zero Rem Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1828">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-anime-iphone-re-zero-rem-ym0kgviauf3ljdug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re zero wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/892/HD-wallpaper-re-zero-2nd-season-emilia-rem-rezero-second-season-subaru.jpg' alt='Re zero wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/892/HD-wallpaper-re-zero-2nd-season-emilia-rem-rezero-second-season-subaru.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your wallpaper? : r/ReZero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-your-wallpaper-v0-k16pm8v8zb1e1.jpeg?width=1440&format=pjpg&auto=webp&s=c5c5a36872c6502276431e6094d066bb8a30f012' alt='What is your wallpaper? : r/ReZero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-your-wallpaper-v0-k16pm8v8zb1e1.jpeg?width=1440&format=pjpg&auto=webp&s=c5c5a36872c6502276431e6094d066bb8a30f012' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re ZERO, rem, subaru natsuki, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/492/203/HD-wallpaper-re-zero-rem-subaru-natsuki.jpg' alt='Re ZERO, rem, subaru natsuki, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1109">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/492/203/HD-wallpaper-re-zero-rem-subaru-natsuki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Re Zero Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/re-zero-pictures-aubsso8ulr2lqw0j.jpg' alt='Download Re Zero Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/re-zero-pictures-aubsso8ulr2lqw0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Re: zero ideas | anime wallpaper, anime art, re:zero subaru">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/7e/f1/4b7ef11ac6b2a61bd128a3703f3575a2.jpg' alt='7 Re: zero ideas | anime wallpaper, anime art, re:zero subaru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/7e/f1/4b7ef11ac6b2a61bd128a3703f3575a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re Zero Mobile Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5427686.png' alt='Re Zero Mobile Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5427686.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

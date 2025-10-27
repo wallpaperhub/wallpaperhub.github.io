@@ -1,0 +1,129 @@
+<title>Anthony Richardson: Rising Star QB</title>
+                    <meta name="description" content="Discover Anthony Richardson, the dynamic quarterback making waves in football. With exceptional athleticism and playmaking ability, he’s a promising talent ready to transition to the NFL. Follow his journey as he seeks to leave a mark in professional football.">
+                    <meta name="keywords" content="anthony richardson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anthony-richardson">
+                            <span itemprop="name">anthony richardson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anthony Richardson: Rising Star QB</h1>
+                <p>Anthony Richardson is an emerging football talent known for his impressive athleticism and strong arm. As a quarterback from Florida, he showcased his skills in college, drawing attention for his dynamic play style. Fans and analysts alike eagerly anticipate his future in the NFL, where he aims to make a significant impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Richardson - Indianapolis Colts Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429084.png' alt='Anthony Richardson - Indianapolis Colts Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429084.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colts prep Anthony Richardson for full-blown QB competition | Reuters">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/NJJK6RM6BJJBVAIHHE4QNXD27I.jpg?auth=d24f1d6e55c49051e3fdc023fa9395e6626d9476c2ffca692a23f065e8da7aaf&width=4135&quality=80' alt='Colts prep Anthony Richardson for full-blown QB competition | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4135">
+                                <meta itemprop="height" content="2854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/NJJK6RM6BJJBVAIHHE4QNXD27I.jpg?auth=d24f1d6e55c49051e3fdc023fa9395e6626d9476c2ffca692a23f065e8da7aaf&width=4135&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Richardson">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/colts/xfj0ibbkemjr8qo4eq8c' alt='Anthony Richardson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indianapolis Colts" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/colts/xfj0ibbkemjr8qo4eq8c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators quarterback Anthony Richardson has prepared as if ...">
+                                <img itemprop="contentUrl url" src='https://www.gatorsports.com/gcdn/presto/2021/08/26/NTGG/a2cb5b10-9ff0-4152-ae0c-8228a371fabd-RichardsonAnthony_210810_3522_IsabellaMarley.jpg' alt='Florida Gators quarterback Anthony Richardson has prepared as if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3696">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gator Sports" />
+                                </span>
+                                <a href='https://www.gatorsports.com/gcdn/presto/2021/08/26/NTGG/a2cb5b10-9ff0-4152-ae0c-8228a371fabd-RichardsonAnthony_210810_3522_IsabellaMarley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Pundit Gives Indianapolis Colts' Anthony Richardson Harsh Critique">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_5328,h_2997,x_0,y_256/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/horseshoe_huddle/01jnbrk5648641rqpass.jpg' alt='NFL Pundit Gives Indianapolis Colts' Anthony Richardson Harsh Critique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_5328,h_2997,x_0,y_256/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/horseshoe_huddle/01jnbrk5648641rqpass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Richardson † (@anthonyrichardson) • Instagram photos and ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3023879638128925262' alt='Anthony Richardson † (@anthonyrichardson) • Instagram photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3023879638128925262' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Ballard Doesn't Commit to Anthony Richardson As Colts ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_4334,h_2437,x_0,y_44/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jmzk335vevae6q2hfj.jpg' alt='Chris Ballard Doesn't Commit to Anthony Richardson As Colts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGET.com" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_4334,h_2437,x_0,y_44/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jmzk335vevae6q2hfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Richardson To face open competition - Fantasy Football News">
+                                <img itemprop="contentUrl url" src='https://cloud.thefantasyfootballers.com/images/web-profile-lg/headshots/fdnobg24117.png' alt='Anthony Richardson To face open competition - Fantasy Football News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fantasy Footballers Podcast" />
+                                </span>
+                                <a href='https://cloud.thefantasyfootballers.com/images/web-profile-lg/headshots/fdnobg24117.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indianapolis Colts 'Breakup' with Anthony Richardson 'Seems Imminent'">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_6055,h_3405,x_0,y_108/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/horseshoe_huddle/01jnbnxjt7se4tc4bydg.jpg' alt='Indianapolis Colts 'Breakup' with Anthony Richardson 'Seems Imminent''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_6055,h_3405,x_0,y_108/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/horseshoe_huddle/01jnbnxjt7se4tc4bydg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Play Prospect: Florida QB Anthony Richardson Scouting Report ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/MTY5MTAzMDMxODUyMzQ0NjA5/image-7.jpg' alt='Five Play Prospect: Florida QB Anthony Richardson Scouting Report ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/MTY5MTAzMDMxODUyMzQ0NjA5/image-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Star Trek: Strange New Worlds Enterprise Wallpapers</title>
+                    <meta name="description" content="Discover the best "Star Trek: Strange New Worlds" Enterprise wallpapers. Perfect for fans seeking to add a touch of interstellar adventure to their devices. Browse our collection and elevate your screen with stunning visuals from the galaxy's favorite starship!">
+                    <meta name="keywords" content="star trek strange new worlds enterprise wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-trek-strange-new-worlds-enterprise-wallpaper">
+                            <span itemprop="name">star trek strange new worlds enterprise wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Trek: Strange New Worlds Enterprise Wallpapers</h1>
+                <p>Explore stunning wallpapers inspired by "Star Trek: Strange New Worlds" featuring the iconic USS Enterprise. Immerse yourself in the adventures of Captain Pike and his crew as they navigate the galaxy. Perfect for fans and anyone who appreciates the beauty of space exploration, our collection is sure to inspire!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Star Trek: Strange New Worlds 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/123/1235435.jpg' alt='Download TV Show Star Trek: Strange New Worlds 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/123/1235435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Took some stills from the Strange New Worlds intro and made them ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/took-some-stills-from-the-strange-new-worlds-intro-and-made-v0-srp92xgd9vw81.png?width=640&crop=smart&auto=webp&s=61f3a31d59c069396a98188d353263b651c77d8a' alt='Took some stills from the Strange New Worlds intro and made them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/took-some-stills-from-the-strange-new-worlds-intro-and-made-v0-srp92xgd9vw81.png?width=640&crop=smart&auto=webp&s=61f3a31d59c069396a98188d353263b651c77d8a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USS Enterprise Star Trek Strange New Worlds by Gazomg on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ae832bb-9041-4e66-8ca5-20c2dd1727a1/df6ajva-ba4ba94c-cfd0-4cd3-bf9c-5b91657398d8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhZTgzMmJiLTkwNDEtNGU2Ni04Y2E1LTIwYzJkZDE3MjdhMVwvZGY2YWp2YS1iYTRiYTk0Yy1jZmQwLTRjZDMtYmY5Yy01YjkxNjU3Mzk4ZDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.afyPQlhDD5k7qOyjH7cjW89_oSTcR7IMUWwIKEWW0r0' alt='USS Enterprise Star Trek Strange New Worlds by Gazomg on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ae832bb-9041-4e66-8ca5-20c2dd1727a1/df6ajva-ba4ba94c-cfd0-4cd3-bf9c-5b91657398d8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhZTgzMmJiLTkwNDEtNGU2Ni04Y2E1LTIwYzJkZDE3MjdhMVwvZGY2YWp2YS1iYTRiYTk0Yy1jZmQwLTRjZDMtYmY5Yy01YjkxNjU3Mzk4ZDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.afyPQlhDD5k7qOyjH7cjW89_oSTcR7IMUWwIKEWW0r0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Star Trek: Strange New Worlds 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/131/1312077.jpeg' alt='Download TV Show Star Trek: Strange New Worlds 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3997">
+                                <meta itemprop="height" content="2248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/131/1312077.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Strange New Worlds Concept Art by Rhys Yorke in 4K, with 3 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-strange-new-worlds-concept-art-by-rhys-yorke-in-4k-v0-cr1q0u6vxul91.jpg?width=3840&format=pjpg&auto=webp&s=43c257eb1dbab3b629a286907be275a30b0e5984' alt='Some Strange New Worlds Concept Art by Rhys Yorke in 4K, with 3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-strange-new-worlds-concept-art-by-rhys-yorke-in-4k-v0-cr1q0u6vxul91.jpg?width=3840&format=pjpg&auto=webp&s=43c257eb1dbab3b629a286907be275a30b0e5984' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starship Enterprise, star, star trek, trek, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/327/879/HD-wallpaper-starship-enterprise-star-star-trek-trek.jpg' alt='Starship Enterprise, star, star trek, trek, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/327/879/HD-wallpaper-starship-enterprise-star-star-trek-trek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USS Enterprise (Star Trek: Strange New Worlds) : r/StarshipPorn">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dhv5sn9kv0o91.jpg' alt='USS Enterprise (Star Trek: Strange New Worlds) : r/StarshipPorn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3048">
+                                <meta itemprop="height" content="1605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dhv5sn9kv0o91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Star Trek: Strange New Worlds HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/122/1226592.jpg' alt='Download TV Show Star Trek: Strange New Worlds HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/122/1226592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Minimalist Strange New World Enterprise Mobile Wallpaper I Made ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5cmgp4bnmol91.png' alt='A Minimalist Strange New World Enterprise Mobile Wallpaper I Made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5cmgp4bnmol91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spaceshipper    on X: "Star Trek: Strange New Worlds (2022 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GZ8hMIzWEAAoylM.jpg' alt='The Spaceshipper    on X: "Star Trek: Strange New Worlds (2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GZ8hMIzWEAAoylM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

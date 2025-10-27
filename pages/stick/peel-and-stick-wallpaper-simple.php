@@ -1,0 +1,129 @@
+<title>Easy Peel and Stick Wallpaper: Transform Your Space!</title>
+                    <meta name="description" content="Discover the convenience of peel and stick wallpaper! Perfect for quick home updates, this simple solution eliminates the need for messy adhesives. With a variety of designs available, revamping your living space has never been easier. Ideal for renters or those seeking temporary decor solutions!">
+                    <meta name="keywords" content="peel and stick wallpaper simple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-simple">
+                            <span itemprop="name">peel and stick wallpaper simple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easy Peel and Stick Wallpaper: Transform Your Space!</h1>
+                <p>Peel and stick wallpaper is a hassle-free way to transform your space quickly and easily. Ideal for DIY enthusiasts, it requires no glue or messy paste and can be applied over most surfaces. Perfect for renters and homeowners alike, it offers endless design options, making it a simple and stylish choice for home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's the Little Things Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' alt='It's the Little Things Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dotted Peel and Stick Wallpaper / Simple Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/d71efe/2672618156/il_570xN.2672618156_o8su.jpg' alt='Dotted Peel and Stick Wallpaper / Simple Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/d71efe/2672618156/il_570xN.2672618156_o8su.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Modern Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/fe43f9b64ef126648c3cc83522e42aef13f45b4b.jpg?v=1678799103' alt='Elegant Modern Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/fe43f9b64ef126648c3cc83522e42aef13f45b4b.jpg?v=1678799103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Olive And Cream Minimalistic Simple  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 3751">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3677395404_bph9.jpg?v=1645846220' alt='Wallpaper Peel and Stick Wallpaper Olive And Cream Minimalistic Simple  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 3751'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3677395404_bph9.jpg?v=1645846220' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Wall Mural Minimalistic Removable Wallpaper Simple  Geometric Removable Peel and Stick Wallpaper Self Adhesive - A015">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5848777999_107j.jpg?v=1719874541&width=1946' alt='Removable Wallpaper Wall Mural Minimalistic Removable Wallpaper Simple  Geometric Removable Peel and Stick Wallpaper Self Adhesive - A015'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5848777999_107j.jpg?v=1719874541&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/simple_mockup3.jpg?v=1717012585&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/simple_mockup3.jpg?v=1717012585&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Circle Peel and Stick Removable Wallpaper 5766 ...">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Circle_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Geometric_124145766_02_grande.jpg?v=1642620296' alt='Black and White Circle Peel and Stick Removable Wallpaper 5766 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Circle_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Geometric_124145766_02_grande.jpg?v=1642620296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Blue Dots Simple Wallpaper - A150">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5914504209_iefz.jpg?v=1722521903&width=1946' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Blue Dots Simple Wallpaper - A150'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5914504209_iefz.jpg?v=1722521903&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' alt='Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2405">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

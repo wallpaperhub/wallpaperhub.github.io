@@ -1,0 +1,129 @@
+<title>Stunning Kill la Kill Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking Kill la Kill wallpapers to enhance your screen's style! Perfect for fans of the anime, these vibrant designs feature iconic characters and scenes. Download now and bring the excitement of Kill la Kill to your devices with eye-catching visuals that stand out!">
+                    <meta name="keywords" content="kill la kill wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kill-la-kill-wallpaper">
+                            <span itemprop="name">kill la kill wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Kill la Kill Wallpapers for Your Device</h1>
+                <p>Elevate your device's aesthetic with stunning Kill la Kill wallpapers! Featuring vibrant art and dynamic character designs, these wallpapers bring the action from the beloved anime directly to your screen. Whether you prefer Ryuko’s bold look or Satsuki’s fierce presence, find the perfect wallpaper to showcase your love for this thrilling series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kill La Kill Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kill-la-kill-ryuko-and-japanese-font-9hkxivo72qxueg2a.jpg' alt='100+] Kill La Kill Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kill-la-kill-ryuko-and-japanese-font-9hkxivo72qxueg2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, sword, motorcycle, anime, Matoi Ryuuko, Kill La ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2300x1294/0/df/badfon-kill-la-kill-matoi-ryuuko-2335.jpg' alt='Wallpaper girl, sword, motorcycle, anime, Matoi Ryuuko, Kill La ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2300x1294/0/df/badfon-kill-la-kill-matoi-ryuuko-2335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryūko Matoi HD Wallpaper - Fierce Icon from Kill La Kill">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/562/562949.jpg' alt='Ryūko Matoi HD Wallpaper - Fierce Icon from Kill La Kill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/562/562949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill la Kill Wallpaper: Wish I could drive to school - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static2.minitokyo.net/view/26/06/650326.jpg' alt='Kill la Kill Wallpaper: Wish I could drive to school - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers - Minitokyo" />
+                                </span>
+                                <a href='http://static2.minitokyo.net/view/26/06/650326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill la Kill | Errant Critic">
+                                <img itemprop="contentUrl url" src='https://errantcritic.wordpress.com/wp-content/uploads/2014/09/kill-la-kill.jpg?w=1000&h=700&crop=1' alt='Kill la Kill | Errant Critic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Errant Critic - WordPress.com" />
+                                </span>
+                                <a href='https://errantcritic.wordpress.com/wp-content/uploads/2014/09/kill-la-kill.jpg?w=1000&h=700&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill La Kill Ryuko And Scissor Blade Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kill-la-kill-ryuko-and-scissor-blade-erbiggzt0ph2rrxq.jpg' alt='Kill La Kill Ryuko And Scissor Blade Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kill-la-kill-ryuko-and-scissor-blade-erbiggzt0ph2rrxq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Anime, Kill la Kill, Ruko for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/6/89/anime-kill-la-kill-ruko.webp' alt='Wallpaper Anime, Kill la Kill, Ruko for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/6/89/anime-kill-la-kill-ruko.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill la Kill Vector Wallpaper by Yuki-Neh">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/881/881542.png' alt='Kill la Kill Vector Wallpaper by Yuki-Neh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/881/881542.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill La Kill - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fe/ec/b5/feecb572d29a98b9f37002e10f4e3687.jpg' alt='Kill La Kill - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fe/ec/b5/feecb572d29a98b9f37002e10f4e3687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kill la Kill Wallpaper by JuaNegro on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec6c8a12-aace-480d-9f60-9bd3a8298c78/d7cg2ny-c2fd5d92-8150-4d08-b179-7930354d7bf5.png/v1/fill/w_1192,h_670,q_70,strp/kill_la_kill_wallpaper_by_juanegro_d7cg2ny-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2VjNmM4YTEyLWFhY2UtNDgwZC05ZjYwLTliZDNhODI5OGM3OFwvZDdjZzJueS1jMmZkNWQ5Mi04MTUwLTRkMDgtYjE3OS03OTMwMzU0ZDdiZjUucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mZTlj_QvM1I9ldiyab9ogj7RaBhXD4AUa469mmerWMI' alt='Kill la Kill Wallpaper by JuaNegro on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec6c8a12-aace-480d-9f60-9bd3a8298c78/d7cg2ny-c2fd5d92-8150-4d08-b179-7930354d7bf5.png/v1/fill/w_1192,h_670,q_70,strp/kill_la_kill_wallpaper_by_juanegro_d7cg2ny-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2VjNmM4YTEyLWFhY2UtNDgwZC05ZjYwLTliZDNhODI5OGM3OFwvZDdjZzJueS1jMmZkNWQ5Mi04MTUwLTRkMDgtYjE3OS03OTMwMzU0ZDdiZjUucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mZTlj_QvM1I9ldiyab9ogj7RaBhXD4AUa469mmerWMI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

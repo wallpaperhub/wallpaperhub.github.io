@@ -1,0 +1,129 @@
+<title>"The Enchanting Backstory of The Wizard of Oz"</title>
+                    <meta name="description" content="Discover the captivating backstory of "The Wizard of Oz," a timeless tale of adventure and friendship. Unravel the origins of Dorothy's journey through the magical land of Oz and the iconic characters she meets along the way. Dive into this beloved narrative that has charmed audiences for generations!">
+                    <meta name="keywords" content="wizard of oz backstory">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wizard-of-oz-backstory">
+                            <span itemprop="name">wizard of oz backstory</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Enchanting Backstory of The Wizard of Oz"</h1>
+                <p>"The Wizard of Oz" was originally a novel by L. Frank Baum, published in 1900. It tells the story of Dorothy, a young girl who is swept away from her Kansas home to the magical land of Oz. Along her journey, she meets memorable characters, including the Scarecrow, Tin Man, and Cowardly Lion, while seeking the Wizard’s help to return home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark & Secret History of Making 'The Wizard of Oz'">
+                                <img itemprop="contentUrl url" src='https://www.sheknows.com/wp-content/uploads/2018/08/jkyxhd9pxin8mvm9pk0x.png?w=800' alt='The Dark & Secret History of Making 'The Wizard of Oz''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SheKnows" />
+                                </span>
+                                <a href='https://www.sheknows.com/wp-content/uploads/2018/08/jkyxhd9pxin8mvm9pk0x.png?w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark & Secret History of Making 'The Wizard of Oz'">
+                                <img itemprop="contentUrl url" src='https://www.sheknows.com/wp-content/uploads/2018/08/ybfduansepe4kz5o7unf.png?w=695' alt='The Dark & Secret History of Making 'The Wizard of Oz''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SheKnows" />
+                                </span>
+                                <a href='https://www.sheknows.com/wp-content/uploads/2018/08/ybfduansepe4kz5o7unf.png?w=695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wonderful Wizard of Oz | Summary, Film, Book, & Characters ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/39/187139-050-A8668502/page-WW-Denslow-L-Frank-Baum-The.jpg' alt='The Wonderful Wizard of Oz | Summary, Film, Book, & Characters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/39/187139-050-A8668502/page-WW-Denslow-L-Frank-Baum-The.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The dark secrets surrounding 'The Wizard of Oz'">
+                                <img itemprop="contentUrl url" src='https://faroutmagazine.co.uk/static/uploads/1/2022/01/The-dark-secrets-surrounding-The-Wizard-of-Oz.jpg' alt='The dark secrets surrounding 'The Wizard of Oz''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Far Out Magazine" />
+                                </span>
+                                <a href='https://faroutmagazine.co.uk/static/uploads/1/2022/01/The-dark-secrets-surrounding-The-Wizard-of-Oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wizard of Oz - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/69/Wizard_of_oz_movie_poster.jpg' alt='The Wizard of Oz - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1399">
+                                <meta itemprop="height" content="2093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/69/Wizard_of_oz_movie_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Legacy of The Wizard of Oz | NBC Insider">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/10/the-wizard-of-oz-3.jpg' alt='The History and Legacy of The Wizard of Oz | NBC Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/10/the-wizard-of-oz-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Untold Truth Of The Wizard Of Oz">
+                                <img itemprop="contentUrl url" src='https://www.looper.com/img/gallery/the-untold-truth-of-the-wizard-of-oz/theres-plenty-more-where-the-book-came-from-1617811583.jpg' alt='The Untold Truth Of The Wizard Of Oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looper" />
+                                </span>
+                                <a href='https://www.looper.com/img/gallery/the-untold-truth-of-the-wizard-of-oz/theres-plenty-more-where-the-book-came-from-1617811583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HANGING” AROUND METRO – OZ Museum / Columbian Theatre">
+                                <img itemprop="contentUrl url" src='http://cdn.shopify.com/s/files/1/0432/1981/files/TWOOTrioRoad_large.jpg?13532929341094361339' alt='HANGING” AROUND METRO – OZ Museum / Columbian Theatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oz Museum" />
+                                </span>
+                                <a href='http://cdn.shopify.com/s/files/1/0432/1981/files/TWOOTrioRoad_large.jpg?13532929341094361339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wonderful Wizard of Oz | Summary, Film, Book, & Characters ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/47/93447-050-A7C7F9EA/Dorothy-friends-melts-Wicked-Witch-of-the.jpg' alt='The Wonderful Wizard of Oz | Summary, Film, Book, & Characters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/47/93447-050-A7C7F9EA/Dorothy-friends-melts-Wicked-Witch-of-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wizard of Oz | 1939 Film by Fleming & Vidor | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/24/115024-050-E39E968F/Ray-Bolger-arm-Judy-Garland-Jack-Haley.jpg' alt='The Wizard of Oz | 1939 Film by Fleming & Vidor | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/24/115024-050-E39E968F/Ray-Bolger-arm-Judy-Garland-Jack-Haley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

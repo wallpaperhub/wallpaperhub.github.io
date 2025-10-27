@@ -1,0 +1,129 @@
+<title>Cedar Point History: When Was It Built?</title>
+                    <meta name="description" content="Discover the fascinating history of Cedar Point, built in 1870 as a beach resort and now a premier amusement park. Explore its transformation and learn about the iconic rides that make it a top destination for thrill-seekers. Perfect for history buffs and amusement park lovers alike!">
+                    <meta name="keywords" content="when was cedar point built">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-cedar-point-built">
+                            <span itemprop="name">when was cedar point built</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cedar Point History: When Was It Built?</h1>
+                <p>Cedar Point, located in Sandusky, Ohio, was established in 1870, originally as a beach resort. Over the years, it transformed into one of the most renowned amusement parks in the United States, known for its thrilling roller coasters and diverse attractions, continuously evolving to enhance visitor experiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EC3Q7XN3GZBIHAQ2DF7U6AM4AM.jpg' alt='Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8503">
+                                <meta itemprop="height" content="5680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EC3Q7XN3GZBIHAQ2DF7U6AM4AM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...">
+                                <img itemprop="contentUrl url" src='https://www.cleveland.com/resizer/v2/RBIHW446UBEDVPCMYUAYSDP5VM.jpg?auth=aad04308d109711538c5a728e38ba45b3140a64d4c98786613c51ad23ea7f3c6&width=500&quality=90' alt='Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://www.cleveland.com/resizer/v2/RBIHW446UBEDVPCMYUAYSDP5VM.jpg?auth=aad04308d109711538c5a728e38ba45b3140a64d4c98786613c51ad23ea7f3c6&width=500&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History of Cedar Point – Summer 1967 – National Museum of the ...">
+                                <img itemprop="contentUrl url" src='https://nmgl.org/wp-content/uploads/2022/05/vtg-1966-press-photo-cedar-point-blue_1_f7ffa918756a7976b86518d3533672dd-300x225.jpg' alt='A History of Cedar Point – Summer 1967 – National Museum of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Museum of the Great Lakes" />
+                                </span>
+                                <a href='https://nmgl.org/wp-content/uploads/2022/05/vtg-1966-press-photo-cedar-point-blue_1_f7ffa918756a7976b86518d3533672dd-300x225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6OICWY3PZVFG3HS62WSRHT33G4.jpg' alt='Cedar Point, a timeline: 150 years of coaster thrills, beach walks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7621">
+                                <meta itemprop="height" content="5991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6OICWY3PZVFG3HS62WSRHT33G4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leap_the_Dips_in_the_1920s.jpg/200px-Leap_the_Dips_in_the_1920s.jpg' alt='Cedar Point - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leap_the_Dips_in_the_1920s.jpg/200px-Leap_the_Dips_in_the_1920s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cedar_Point_in_the_1890s.jpg/230px-Cedar_Point_in_the_1890s.jpg' alt='Cedar Point - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cedar_Point_in_the_1890s.jpg/230px-Cedar_Point_in_the_1890s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We'll Meet You At Cedar Point" -">
+                                <img itemprop="contentUrl url" src='https://ohiomemory.ohiohistory.org/wp-content/uploads/2015/08/cedarpoint1.jpg' alt='We'll Meet You At Cedar Point" -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ohio Memory - - Ohio History Connection" />
+                                </span>
+                                <a href='https://ohiomemory.ohiohistory.org/wp-content/uploads/2015/08/cedarpoint1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cedar Point - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Switchback_Railway_at_Cedar_Point.jpg/220px-Switchback_Railway_at_Cedar_Point.jpg' alt='Cedar Point - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Switchback_Railway_at_Cedar_Point.jpg/220px-Switchback_Railway_at_Cedar_Point.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 years of Cedar Point: Park's anniversary season is on hold ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6E2LCJV23RDPVDDAREW7ACU4PU.jpg' alt='150 years of Cedar Point: Park's anniversary season is on hold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8700">
+                                <meta itemprop="height" content="5622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6E2LCJV23RDPVDDAREW7ACU4PU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A short look back in time at one of [Cedar Point]'s long-lost ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-short-look-back-in-time-at-one-of-cedar-point-s-long-lost-v0-be6idxodtyw91.png?width=1000&format=png&auto=webp&s=18a87b521de862d91f9e672ead18855e4e796810' alt='A short look back in time at one of [Cedar Point]'s long-lost ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-short-look-back-in-time-at-one-of-cedar-point-s-long-lost-v0-be6idxodtyw91.png?width=1000&format=png&auto=webp&s=18a87b521de862d91f9e672ead18855e4e796810' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Phone Booth Wallpaper</title>
+                    <meta name="description" content="Discover the charm of phone booth wallpaper! Perfect for adding a unique touch to your home, this decor option pays homage to the iconic phone booths of yesteryear. Explore vibrant designs that suit any room and create a nostalgic atmosphere effortlessly. Bring personality to your interiors with a timeless classic!">
+                    <meta name="keywords" content="phone booth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-booth-wallpaper">
+                            <span itemprop="name">phone booth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Phone Booth Wallpaper</h1>
+                <p>Phone booth wallpaper adds a unique and nostalgic touch to any space. Ideal for accent walls or cozy corners, these wallpapers celebrate classic phone booths in various styles and colors. Transform your room with vibrant prints or vintage charm, evoking memories of simpler times while adding character and personality to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Phone Booth">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/66326/london-phone-booth.jpg?h=699&q=85' alt='London Phone Booth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/66326/london-phone-booth.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Booth Images – Browse 46,683 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/44/19/95/360_F_244199513_Q6fvHYlzRhIN1588U8PR9zxYas1fn7J4.jpg' alt='Phone Booth Images – Browse 46,683 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/44/19/95/360_F_244199513_Q6fvHYlzRhIN1588U8PR9zxYas1fn7J4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Free Phone Booth & Phone Wallpaper Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2023/01/19/10/24/phone-booth-7728783_1280.jpg' alt='10,000+ Free Phone Booth & Phone Wallpaper Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="855">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2023/01/19/10/24/phone-booth-7728783_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Phone Booth Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1599557041284-7e2a15610388?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwcGhvbmUlMjBib290aHxlbnwwfHwwfHx8MA%3D%3D' alt='London Phone Booth Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1599557041284-7e2a15610388?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwcGhvbmUlMjBib290aHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Booth Photos, Download The BEST Free Phone Booth Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3651577/pexels-photo-3651577.jpeg?cs=srgb&dl=pexels-kovyrina-3651577.jpg&fm=jpg' alt='Phone Booth Photos, Download The BEST Free Phone Booth Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3651577/pexels-photo-3651577.jpeg?cs=srgb&dl=pexels-kovyrina-3651577.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,400+ Phone Booth Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1368795084/photo/old-phone-booth-on-the-moon.jpg?s=612x612&w=0&k=20&c=uYMyRDpH9wT9d2LiwsbDWIjzzMfD_NN89C9e8EkCVyE=' alt='15,400+ Phone Booth Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1368795084/photo/old-phone-booth-on-the-moon.jpg?s=612x612&w=0&k=20&c=uYMyRDpH9wT9d2LiwsbDWIjzzMfD_NN89C9e8EkCVyE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric London Red Telephone Booth Photography  Backdrop London Street Background Europe Travel Phone Booth Backdrop  Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HlIWCvjKL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : BELECO 7x5ft Fabric London Red Telephone Booth Photography  Backdrop London Street Background Europe Travel Phone Booth Backdrop  Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HlIWCvjKL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Booth Photos, Download The BEST Free Phone Booth Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2111759/pexels-photo-2111759.jpeg?cs=srgb&dl=pexels-jibarofoto-2111759.jpg&fm=jpg' alt='Phone Booth Photos, Download The BEST Free Phone Booth Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4160">
+                                <meta itemprop="height" content="6240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2111759/pexels-photo-2111759.jpeg?cs=srgb&dl=pexels-jibarofoto-2111759.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England City Street Red Telephone Booth iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/b0/e1/6cb0e19ec04f80ce6a03b0aa907e1b46.jpg' alt='England City Street Red Telephone Booth iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/b0/e1/6cb0e19ec04f80ce6a03b0aa907e1b46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87,000+ Old Phone Booth Photos Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2185289190/photo/traditional-old-style-uk-red-phone-box-at-night.jpg?s=612x612&w=0&k=20&c=VS9vxLKzL1MWR2EiE9sttOFX0q1GinPPlAPWsWGdL6Y=' alt='87,000+ Old Phone Booth Photos Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2185289190/photo/traditional-old-style-uk-red-phone-box-at-night.jpg?s=612x612&w=0&k=20&c=VS9vxLKzL1MWR2EiE9sttOFX0q1GinPPlAPWsWGdL6Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Discovering Lorehold: A Guide to 5E Students"</title>
+                    <meta name="description" content="Explore the fascinating world of Lorehold students in D&D 5E. Learn about their unique magic, historical quests, and the pursuit of ancient knowledge. Perfect for players and GMs alike seeking inspiration for gameplay or character development in their campaigns.">
+                    <meta name="keywords" content="lorehold student 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lorehold-student-5e">
+                            <span itemprop="name">lorehold student 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discovering Lorehold: A Guide to 5E Students"</h1>
+                <p>In Dungeons & Dragons 5E, Lorehold students are scholars and historians from the Prismari College, specializing in the study of history and the past. With a passion for uncovering ancient lore and powerful artifacts, they wield magic tied to time and memory. Their journeys lead to thrilling adventures, seeking to understand the world through knowledge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ART] Sargaahso, student of lorehold (by Anja Tunjic) : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mc2e2ltirw291.jpg' alt='ART] Sargaahso, student of lorehold (by Anja Tunjic) : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2894">
+                                <meta itemprop="height" content="4093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mc2e2ltirw291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/feature-Strixhaven-A-Curriculum-Of-Chaos-Things-DnD-Players-Need-To-Know-About-Lorehold-College.jpg' alt='Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/feature-Strixhaven-A-Curriculum-Of-Chaos-Things-DnD-Players-Need-To-Know-About-Lorehold-College.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Building Around the New Backgrounds Found in Strixhaven: A ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/9/249/lorehold-students.jpg' alt='Building Around the New Backgrounds Found in Strixhaven: A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/9/249/lorehold-students.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-Mage-with-spirit-scroll.jpg' alt='Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-Mage-with-spirit-scroll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lorehold - MTG Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9a/Students_LOREHOLD.jpg/revision/latest/scale-to-width-down/250?cb=20210401193949' alt='Lorehold - MTG Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MTG Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9a/Students_LOREHOLD.jpg/revision/latest/scale-to-width-down/250?cb=20210401193949' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-Lorehold-Pledge-Mages-Bipedal-Elephant-and-human-spell-casters.jpg' alt='Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-Lorehold-Pledge-Mages-Bipedal-Elephant-and-human-spell-casters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-group-of-students.jpg' alt='Things To Know About Strixhaven: A Curriculum of Chaos' Lorehold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/Strixhaven-A-Curriculum-of-Chaos-group-of-students.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mage of Lorehold, Revised - Now with 100% more Clerics and class ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/d_lKwaDlshBUK0v_lrx541IoT9SiCPkXYYyAmQ6XvQc.jpg?auto=webp&s=42d916d82d8c6eb4d7e70718561c9be33f1982fb' alt='Mage of Lorehold, Revised - Now with 100% more Clerics and class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/d_lKwaDlshBUK0v_lrx541IoT9SiCPkXYYyAmQ6XvQc.jpg?auto=webp&s=42d916d82d8c6eb4d7e70718561c9be33f1982fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stixhaven Student Prospectus: Lorehold -An expanded curriculum for ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/6j61eMBJ2dgwz1JMvJisCFyUBzJsJUrgJyBjIvhh4V8.jpg?auto=webp&s=e1140be32f731fee1ac299dd472feb675cb06828' alt='Stixhaven Student Prospectus: Lorehold -An expanded curriculum for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3303">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/6j61eMBJ2dgwz1JMvJisCFyUBzJsJUrgJyBjIvhh4V8.jpg?auto=webp&s=e1140be32f731fee1ac299dd472feb675cb06828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D Strixhaven: Lorehold College, Explained">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/12/Dungeons-Dragons-Strixhaven-Cover-Lorehold.jpg' alt='D&D Strixhaven: Lorehold College, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/12/Dungeons-Dragons-Strixhaven-Cover-Lorehold.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

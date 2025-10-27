@@ -1,0 +1,129 @@
+<title>Dance Party Background: Elevate Your Event Atmosphere</title>
+                    <meta name="description" content="Discover how to create the ultimate dance party atmosphere with the perfect background! From colorful decorations to energetic music, elevate your event and keep your guests dancing the night away. Get tips and ideas to craft a memorable experience that resonates with everyone!">
+                    <meta name="keywords" content="dance party background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dance-party-background">
+                            <span itemprop="name">dance party background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dance Party Background: Elevate Your Event Atmosphere</h1>
+                <p>Transform your next event with a vibrant dance party background! Whether it's a stylish nightclub, a colorful outdoor festival, or a cozy home gathering, the right backdrop can set the perfect atmosphere. Imagine neon lights, energetic beats, and a dynamic space where everyone can let loose and have fun. Bring your party to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Party Backdrop 70's Disco Party Decorations Retro 70s 80s 90s Disco  Backdrop Disco Ball Backdrop for Disco Birthday Party Supplies Let's Glow  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81uSnKbzqxL._AC_UF894,1000_QL80_.jpg' alt='Disco Party Backdrop 70's Disco Party Decorations Retro 70s 80s 90s Disco  Backdrop Disco Ball Backdrop for Disco Birthday Party Supplies Let's Glow  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81uSnKbzqxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Dance Floor Background Stock Illustrations – 5,079 Party ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/party-dance-floor-background-24326791.jpg' alt='Party Dance Floor Background Stock Illustrations – 5,079 Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/party-dance-floor-background-24326791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Party Background stock vector. Illustration of entertainment ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dance-party-background-disco-dancing-people-silhouetted-audience-colorful-laser-light-effects-vector-illustration-89122874.jpg' alt='Dance Party Background stock vector. Illustration of entertainment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dance-party-background-disco-dancing-people-silhouetted-audience-colorful-laser-light-effects-vector-illustration-89122874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,300+ Dance Party Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1155925578/vector/illustration-of-a-dance-floor-amongst-starry-open-space-vector.jpg?s=612x612&w=0&k=20&c=RNUdenbqQP61ER_rCuJyRqhxwk82zF0QJJqzMDpgCto=' alt='30,300+ Dance Party Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1155925578/vector/illustration-of-a-dance-floor-amongst-starry-open-space-vector.jpg?s=612x612&w=0&k=20&c=RNUdenbqQP61ER_rCuJyRqhxwk82zF0QJJqzMDpgCto=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 7 x 5 ft Disco Party Backdrop Let's Dance Neon Disco Colorful  Musical Party Background Kids Hip Hop Dancing Birthday Decorations Banner  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71-THjOE9WL.jpg' alt='Amazon.com : 7 x 5 ft Disco Party Backdrop Let's Dance Neon Disco Colorful  Musical Party Background Kids Hip Hop Dancing Birthday Decorations Banner  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71-THjOE9WL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance party flyer, musical background. Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/91/03/83/1000_F_91038333_C6b2EeBuxMcVjJpvdtdG2dMZijoSUkDX.jpg' alt='Dance party flyer, musical background. Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/91/03/83/1000_F_91038333_C6b2EeBuxMcVjJpvdtdG2dMZijoSUkDX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Party Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/382/635/small_2x/disco-dance-floor-retro-party-scene-with-led-squares-grid-glowing-floor-disco-ball-and-starry-night-sky-background-illustration-vector.jpg' alt='Dance Party Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/382/635/small_2x/disco-dance-floor-retro-party-scene-with-led-squares-grid-glowing-floor-disco-ball-and-starry-night-sky-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51 Dance Party ideas | dance party, party, rock star party">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/eb/28/b2/eb28b2fb0a06664fa1b55297f36d8324.jpg' alt='51 Dance Party ideas | dance party, party, rock star party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/eb/28/b2/eb28b2fb0a06664fa1b55297f36d8324.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party people dancing on a bokeh lights background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/52/05/party-people-dancing-on-a-bokeh-lights-background-vector-45085205.jpg' alt='Party people dancing on a bokeh lights background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/52/05/party-people-dancing-on-a-bokeh-lights-background-vector-45085205.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Music And Dance Party Poster, Wallpaper, Dance, Evening ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/4b/c1/3a4bc18e30d35d2c30fae1945ed0b8d7.jpg' alt='Background Music And Dance Party Poster, Wallpaper, Dance, Evening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/4b/c1/3a4bc18e30d35d2c30fae1945ed0b8d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

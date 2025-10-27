@@ -1,0 +1,129 @@
+<title>Stunning Die Lit iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover vibrant "Die Lit" iPhone wallpapers that capture the album's essence. Perfect for fans, these designs add style and personality to your device. Download now and give your iPhone a fresh look that celebrates your love for the music. Explore our curated collection today!">
+                    <meta name="keywords" content="die lit iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/die-lit-iphone-wallpaper">
+                            <span itemprop="name">die lit iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Die Lit iPhone Wallpapers for Fans</h1>
+                <p>Transform your iPhone with stunning "Die Lit" wallpaper designs. Dive into a vibrant world filled with dynamic colors and artistic vibes that encapsulate the energy of the album. Perfect for fans who want to showcase their love for "Die Lit," these wallpapers will enhance your device, making it uniquely yours. Choose your favorite and elevate your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti - Die Lit Iphone wallpaper #hiphop #iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/0f/c0/940fc0632eea0dae254913fe303ff2e3.jpg' alt='Playboi Carti - Die Lit Iphone wallpaper #hiphop #iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/0f/c0/940fc0632eea0dae254913fe303ff2e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a phone wallpaper based off of Die Lit : r/playboicarti">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7g5syvv91kca1.jpg' alt='Made a phone wallpaper based off of Die Lit : r/playboicarti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="6750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7g5syvv91kca1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="die lit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d7/96/9f/d7969fd776c0632d45bfabc28da3d671.jpg' alt='die lit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d7/96/9f/d7969fd776c0632d45bfabc28da3d671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="              | Cărți wallpaper, Album artwork cover art, Future ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/d2/03/99d203cd288bfc5e519fa837c3a652b7.jpg' alt='              | Cărți wallpaper, Album artwork cover art, Future ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/d2/03/99d203cd288bfc5e519fa837c3a652b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="here's a wallpaper I found of die lit edited into a rolling loud ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kdvsrpqhriy61.png' alt='here's a wallpaper I found of die lit edited into a rolling loud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kdvsrpqhriy61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Die Lit Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/die-lit-kc30f16x77c5yitg.jpg' alt='Download Die Lit Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/die-lit-kc30f16x77c5yitg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 + Die Lit goes so hard : r/CartiCulture">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5clquash5vn91.jpg' alt='iOS 16 + Die Lit goes so hard : r/CartiCulture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5clquash5vn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Die Lit Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4585898.jpg' alt='Die Lit Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="869">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4585898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::PLAYBOI CARTI "DIE LIT" WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1264897514198371338/5FEB654C746D7673E6A70A9FBE06F5ACE6FBFB6D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::PLAYBOI CARTI "DIE LIT" WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1264897514198371338/5FEB654C746D7673E6A70A9FBE06F5ACE6FBFB6D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti-Die Lit wallpaper by x_miloszek_x - Download on ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=3cbRRZ99n_D2Bd2Q9zkhgQI22qHKokuwtmGWvW-ZOo4IIaQbkMjsroXVDSxce-kHJ74-IJmgXKDSG3xVcbPzlHOicpYMIFMr9NxxBGE93WZ05NiD1aftaqw4KAhxFPaxEjf79d7x3cn-NFEnv19goJeYGpG9eKfdpCwCOf6Rsuv8s9olkIGPAclhtRhKnSKn4hHj3jtFfktHwa_DAD6oZWBAuLiM4wERF-XMM3ULte222gnHQJdUfAwDh7A' alt='Playboi Carti-Die Lit wallpaper by x_miloszek_x - Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=3cbRRZ99n_D2Bd2Q9zkhgQI22qHKokuwtmGWvW-ZOo4IIaQbkMjsroXVDSxce-kHJ74-IJmgXKDSG3xVcbPzlHOicpYMIFMr9NxxBGE93WZ05NiD1aftaqw4KAhxFPaxEjf79d7x3cn-NFEnv19goJeYGpG9eKfdpCwCOf6Rsuv8s9olkIGPAclhtRhKnSKn4hHj3jtFfktHwa_DAD6oZWBAuLiM4wERF-XMM3ULte222gnHQJdUfAwDh7A' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

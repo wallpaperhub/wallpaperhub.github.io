@@ -1,0 +1,129 @@
+<title>Cosmic Galaxy Drawing Ideas: Unleash Your Inner Artist</title>
+                    <meta name="description" content="Discover the art of galaxy drawing! Unleash your creativity with vibrant colors and cosmic designs. Perfect for artists of all levels, this guide offers tips and techniques to create stunning galaxy illustrations. Explore how to capture the beauty of the universe on paper today!">
+                    <meta name="keywords" content="galaxy drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-drawing">
+                            <span itemprop="name">galaxy drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cosmic Galaxy Drawing Ideas: Unleash Your Inner Artist</h1>
+                <p>Galaxy drawing inspires creativity through a blend of vibrant colors and intricate designs. To start, sketch a spiral shape to outline the galaxy and fill it with swirling colors representing stars and cosmic gases. Experiment with different techniques, such as watercolors or markers, to bring your galaxy to life, allowing your imagination to travel the universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick and Easy Galaxy Drawing with Pastels for Beginners - Step by Step">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xTnUiMzHgS0/maxresdefault.jpg' alt='Quick and Easy Galaxy Drawing with Pastels for Beginners - Step by Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xTnUiMzHgS0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Tutorial With Clip Studio Paint! “Rei-chan's Tutorials! #2 ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/2bf9/517928/39c0baea4059b0f3b1535b37e34cbdbb' alt='Galaxy Tutorial With Clip Studio Paint! “Rei-chan's Tutorials! #2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/2bf9/517928/39c0baea4059b0f3b1535b37e34cbdbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Art with Oil Pastels | Andromeda Galaxy drawing Step by ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8132BuBPVsc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1WqVUphKi8Mmp48PcYfXHgvxFlw' alt='Galaxy Art with Oil Pastels | Andromeda Galaxy drawing Step by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8132BuBPVsc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1WqVUphKi8Mmp48PcYfXHgvxFlw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Galaxy - HelloArtsy">
+                                <img itemprop="contentUrl url" src='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-a-galaxy/how-to-draw-a-galaxy-step-6.jpg' alt='How to Draw a Galaxy - HelloArtsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelloArtsy" />
+                                </span>
+                                <a href='https://helloartsy.com/wp-content/uploads/kids/space/how-to-draw-a-galaxy/how-to-draw-a-galaxy-step-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Drawing | How To Draw A Galaxy | Black Paper Drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HMpAWmAFARo/maxresdefault.jpg' alt='Galaxy Drawing | How To Draw A Galaxy | Black Paper Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HMpAWmAFARo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Galaxy - Really Easy Drawing Tutorial">
+                                <img itemprop="contentUrl url" src='https://easydrawingguides.com/wp-content/uploads/2018/05/how-to-draw-a-galaxy-featured-image-1200.png' alt='How to Draw a Galaxy - Really Easy Drawing Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Drawing Guides" />
+                                </span>
+                                <a href='https://easydrawingguides.com/wp-content/uploads/2018/05/how-to-draw-a-galaxy-featured-image-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If this aesthetic drawing of a galaxy was real, what celestial ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2bvgjzm2row71.jpg?width=640&crop=smart&auto=webp&s=058f1ab76ee7ff13369b839b73be1470d2716a86' alt='If this aesthetic drawing of a galaxy was real, what celestial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2bvgjzm2row71.jpg?width=640&crop=smart&auto=webp&s=058f1ab76ee7ff13369b839b73be1470d2716a86' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy (Easy) Drawing     ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3vtiTT2CZAU/maxresdefault.jpg' alt='Galaxy (Easy) Drawing     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3vtiTT2CZAU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Draw Images – Browse 183,235 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/79/06/01/360_F_279060166_7sRlW14MuRtpf797IvEZhTbhpC9I128y.jpg' alt='Galaxy Draw Images – Browse 183,235 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/79/06/01/360_F_279060166_7sRlW14MuRtpf797IvEZhTbhpC9I128y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Everyone!   • here's this space/galaxy drawing! i saw this ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/c3/34/97c3340162b477c30c9279402fa6064b.jpg' alt='Hello Everyone!   • here's this space/galaxy drawing! i saw this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/c3/34/97c3340162b477c30c9279402fa6064b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

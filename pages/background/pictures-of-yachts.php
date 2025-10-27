@@ -1,0 +1,129 @@
+<title>Stunning Yacht Pictures: Luxury at Sea</title>
+                    <meta name="description" content="Discover breathtaking images of yachts, embodying luxury and adventure. From sleek designs to stunning ocean views, our collection offers inspiration for your nautical dreams. Explore now and find the perfect yacht that captures the essence of elegance and freedom on water!">
+                    <meta name="keywords" content="pictures of yachts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-yachts">
+                            <span itemprop="name">pictures of yachts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Yacht Pictures: Luxury at Sea</h1>
+                <p>Pictures of yachts capture the essence of luxury and adventure, showcasing stunning designs and breathtaking coastal views. Whether you’re dreaming of relaxation on the open sea or seeking inspiration for your next trip, yacht imagery represents elegance, freedom, and the allure of the nautical lifestyle. Explore our gallery to find your perfect yacht!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Yachts For Sale | Brokerage Superyachts & Motor Yachts | Moran">
+                                <img itemprop="contentUrl url" src='https://moranyachts.imgix.net/wp-content/uploads/view-luxury-yachts-for-sale-moran-yachts-1.jpg?auto=format&fit=crop&fm=webp%26nbsp%3B2x&h=700&ixlib=php-3.1.0&w=1800&s=5fe7d5fe7806950c59e302da6a1f76e0' alt='Luxury Yachts For Sale | Brokerage Superyachts & Motor Yachts | Moran'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moran Yacht & Ship" />
+                                </span>
+                                <a href='https://moranyachts.imgix.net/wp-content/uploads/view-luxury-yachts-for-sale-moran-yachts-1.jpg?auto=format&fit=crop&fm=webp%26nbsp%3B2x&h=700&ixlib=php-3.1.0&w=1800&s=5fe7d5fe7806950c59e302da6a1f76e0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 12 Most Innovative Yachts on the High Seas">
+                                <img itemprop="contentUrl url" src='https://robbreport.com/wp-content/uploads/2019/07/adastra-1-courtesy-jochen-manz_orion-shuttleworth.jpg?w=1000' alt='The 12 Most Innovative Yachts on the High Seas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robb Report" />
+                                </span>
+                                <a href='https://robbreport.com/wp-content/uploads/2019/07/adastra-1-courtesy-jochen-manz_orion-shuttleworth.jpg?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yachts & luxury ships lines | Mangusta Yachts">
+                                <img itemprop="contentUrl url" src='https://www.mangustayachts.com/wp-content/uploads/2024/05/2.Mangusta_GranSport_54_3_exteriors-6.jpg' alt='Yachts & luxury ships lines | Mangusta Yachts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mangusta Yachts" />
+                                </span>
+                                <a href='https://www.mangustayachts.com/wp-content/uploads/2024/05/2.Mangusta_GranSport_54_3_exteriors-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Luxury Yachts for 2024">
+                                <img itemprop="contentUrl url" src='https://www.argoyachting.com/img/asset/YXNzZXRzL2dhbGVvbi82NDAtZmx5L2dhbGVvbi02NDAtZmx5LSgxNSkuanBn?fm=webp&s=858039b527c24bb42091e0961135debe' alt='Top Luxury Yachts for 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Argo Yachting" />
+                                </span>
+                                <a href='https://www.argoyachting.com/img/asset/YXNzZXRzL2dhbGVvbi82NDAtZmx5L2dhbGVvbi02NDAtZmx5LSgxNSkuanBn?fm=webp&s=858039b527c24bb42091e0961135debe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top 10 Luxury Yachts You Need to Know">
+                                <img itemprop="contentUrl url" src='https://www.bocadolobo.com/en/inspiration-and-ideas/wp-content/uploads/2020/12/The-Top-10-Luxury-Yachts-You-Need-to-Know-1400x933.png' alt='The Top 10 Luxury Yachts You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boca do Lobo" />
+                                </span>
+                                <a href='https://www.bocadolobo.com/en/inspiration-and-ideas/wp-content/uploads/2020/12/The-Top-10-Luxury-Yachts-You-Need-to-Know-1400x933.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury flybridge yachts for sale – Ferretti Yachts, Just Like home">
+                                <img itemprop="contentUrl url" src='https://frg-fwm.azurewebsites.net/asset/fwm/Upload/Models/Images/Main/Ferretti/50665.jpg' alt='Luxury flybridge yachts for sale – Ferretti Yachts, Just Like home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.ferretti-yachts.com" />
+                                </span>
+                                <a href='https://frg-fwm.azurewebsites.net/asset/fwm/Upload/Models/Images/Main/Ferretti/50665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mega Giga Yachts - Allied Marine">
+                                <img itemprop="contentUrl url" src='https://alliedmarine.com/wp-content/uploads/2023/02/CRN_Cloud9_Cruising-0003_27487-1024x768.jpg.webp' alt='Mega Giga Yachts - Allied Marine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allied Marine" />
+                                </span>
+                                <a href='https://alliedmarine.com/wp-content/uploads/2023/02/CRN_Cloud9_Cruising-0003_27487-1024x768.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMORE Yacht for Charter | Fraser">
+                                <img itemprop="contentUrl url" src='https://media.fraseryachts.com/Yachts/Y232548/images/website/001-QQaVjC6L.jpg?vh=c7d64d' alt='AMORE Yacht for Charter | Fraser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3488">
+                                <meta itemprop="height" content="2325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fraser Yachts" />
+                                </span>
+                                <a href='https://media.fraseryachts.com/Yachts/Y232548/images/website/001-QQaVjC6L.jpg?vh=c7d64d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LADY B Yacht | Fraser">
+                                <img itemprop="contentUrl url" src='https://media.fraseryachts.com/Yachts/Y5713_MC/images/website/003_+LADY+B_Running_SE+Edit-2ePJ08MN.jpg?vh=a59648' alt='LADY B Yacht | Fraser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5050">
+                                <meta itemprop="height" content="2837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fraser Yachts" />
+                                </span>
+                                <a href='https://media.fraseryachts.com/Yachts/Y5713_MC/images/website/003_+LADY+B_Running_SE+Edit-2ePJ08MN.jpg?vh=a59648' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World's first 'yacht liner' unveiled with 39 apartments on board | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210701131308-worlds-largest-yacht-aft-night-credit-winch-design.jpg?q=w_1110,c_fill' alt='World's first 'yacht liner' unveiled with 39 apartments on board | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210701131308-worlds-largest-yacht-aft-night-credit-winch-design.jpg?q=w_1110,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

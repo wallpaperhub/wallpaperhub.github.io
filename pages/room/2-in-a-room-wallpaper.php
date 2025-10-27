@@ -1,0 +1,129 @@
+<title>Elevate Your Space with 2 in a Room Wallpaper</title>
+                    <meta name="description" content="Discover stunning 2 in a room wallpaper to revitalize your home decor. Our collection features eye-catching designs that make a statement while enhancing your space. Perfect for any room, explore styles that suit your taste and create a welcoming environment effortlessly. Shop now for a stylish transformation!">
+                    <meta name="keywords" content="2 in a room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/2-in-a-room-wallpaper">
+                            <span itemprop="name">2 in a room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with 2 in a Room Wallpaper</h1>
+                <p>Transform your space with vibrant 2 in a room wallpaper, merging style and functionality. Perfect for adding character to any room, these wallpapers offer bold patterns and colors that bring life to your walls. Decorate your home effortlessly and create an inviting atmosphere with modern designs tailored to suit your aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When To Wallpaper More Than One Wall – Sian Zeng">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2222/7125/files/hannahcrowell_via_Pattern_Collective_Mountains_Blue_Peach_2019_1024x1024.jpg?v=1616579573' alt='When To Wallpaper More Than One Wall – Sian Zeng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sian Zeng" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2222/7125/files/hannahcrowell_via_Pattern_Collective_Mountains_Blue_Peach_2019_1024x1024.jpg?v=1616579573' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to mix wallpaper patterns in one room. Using two patterns well">
+                                <img itemprop="contentUrl url" src='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2014/07/Casamance-Alliages-2-wallpaper-in-one-room.jpg' alt='How to mix wallpaper patterns in one room. Using two patterns well'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Wallpaper Interiors" />
+                                </span>
+                                <a href='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2014/07/Casamance-Alliages-2-wallpaper-in-one-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to mix wallpaper patterns in one room. Using two patterns well">
+                                <img itemprop="contentUrl url" src='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2023/02/karabane-751833886-75173470-768x576.jpg' alt='How to mix wallpaper patterns in one room. Using two patterns well'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Wallpaper Interiors" />
+                                </span>
+                                <a href='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2023/02/karabane-751833886-75173470-768x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Mixing Can Actually Be a Small-Space Trick | Architectural ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/59ee47bdce2a2e6477d9a61f/master/w_1600%2Cc_limit/prints-charming-book-02.jpg' alt='Pattern Mixing Can Actually Be a Small-Space Trick | Architectural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1533">
+                                <meta itemprop="height" content="2300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/59ee47bdce2a2e6477d9a61f/master/w_1600%2Cc_limit/prints-charming-book-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ask the Expert: Is wallpaper a practical way to decorate my home ...">
+                                <img itemprop="contentUrl url" src='https://www.silive.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.silive.com%2Fhome%2Fsilive-media%2Fwidth2048%2Fimg%2Fhomegarden_impact%2Fphoto%2Fwallpaper-da9456f56ccf3c02.jpg?auth=1a683c650177e6d8106f4a4b17553810370e18b6f4b1bc758a1664cb3dff8541&width=1280&quality=90' alt='Ask the Expert: Is wallpaper a practical way to decorate my home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SILive.com" />
+                                </span>
+                                <a href='https://www.silive.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.silive.com%2Fhome%2Fsilive-media%2Fwidth2048%2Fimg%2Fhomegarden_impact%2Fphoto%2Fwallpaper-da9456f56ccf3c02.jpg?auth=1a683c650177e6d8106f4a4b17553810370e18b6f4b1bc758a1664cb3dff8541&width=1280&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO MIX WALLPAPER PATTERNS | Livettes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1566/9911/files/ocean-themed-girls-bedroom-how-to-mix-wallpaper-patterns_87c9b3d8-bbe9-41e5-a7ff-476b22336915_2048x2048.jpg?v=1651841057' alt='HOW TO MIX WALLPAPER PATTERNS | Livettes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1566/9911/files/ocean-themed-girls-bedroom-how-to-mix-wallpaper-patterns_87c9b3d8-bbe9-41e5-a7ff-476b22336915_2048x2048.jpg?v=1651841057' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapering a Whole Room Versus an Accent Wall | What I Learned ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2023/01/Wallpaper-Whole-Room-or-Feature-Wall_8-700x980.jpg' alt='Wallpapering a Whole Room Versus an Accent Wall | What I Learned ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2023/01/Wallpaper-Whole-Room-or-Feature-Wall_8-700x980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When To Wallpaper More Than One Wall – Sian Zeng">
+                                <img itemprop="contentUrl url" src='https://www.sianzeng.com/cdn/shop/articles/alina_und_die_3_zwerge_Woodlands_Brown_Pink_Nov_2020.jpg?v=1616578953' alt='When To Wallpaper More Than One Wall – Sian Zeng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sian Zeng" />
+                                </span>
+                                <a href='https://www.sianzeng.com/cdn/shop/articles/alina_und_die_3_zwerge_Woodlands_Brown_Pink_Nov_2020.jpg?v=1616578953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mixing Patterns: How to Combine Different Wallpapers in One Room">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/63dde481bbabc6724d988548/f1aa2551-a7f3-4d25-be62-5f2e6d71f471/image2.png?format=750w' alt='Mixing Patterns: How to Combine Different Wallpapers in One Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lord Decor" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/63dde481bbabc6724d988548/f1aa2551-a7f3-4d25-be62-5f2e6d71f471/image2.png?format=750w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to mix wallpaper patterns in one room. Using two patterns well">
+                                <img itemprop="contentUrl url" src='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2014/07/ZuluBorder_Image_Roomshot_Item_109_13060-768x1152.jpg' alt='How to mix wallpaper patterns in one room. Using two patterns well'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Wallpaper Interiors" />
+                                </span>
+                                <a href='https://www.iwallpaperinteriors.com.au/wp-content/uploads/2014/07/ZuluBorder_Image_Roomshot_Item_109_13060-768x1152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

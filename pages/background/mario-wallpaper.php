@@ -1,0 +1,129 @@
+<title>Vibrant Mario Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an array of stunning Mario wallpapers to elevate your device's look! Perfect for any fan, these vibrant designs capture the magic of Mario's adventures. Transform your screens with nostalgic and modern artwork that speaks to gamers of all ages. Download your favorites today!">
+                    <meta name="keywords" content="mario wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-wallpaper">
+                            <span itemprop="name">mario wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Mario Wallpapers for Gamers</h1>
+                <p>Transform your device screen with vibrant Mario wallpapers! Celebrate your love for the iconic plumber and his adventures with a variety of stunning graphics. From classic pixel art to modern designs featuring beloved characters and worlds, these wallpapers bring fun and nostalgia to your digital experience. Perfect for gamers of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Wallpaper Movie Toad, Peach, Kids Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/51bca0/5722157496/il_570xN.5722157496_cr9k.jpg' alt='Super Mario Bros Wallpaper Movie Toad, Peach, Kids Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/51bca0/5722157496/il_570xN.5722157496_cr9k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a mobile wallpaper from the new Super Mario Bros 2022 poster ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/uz3stskbjvr91.png?auto=webp&s=ab59b97bbca92d4b7351f70fcd4b7dbcab9b3fe7' alt='Made a mobile wallpaper from the new Super Mario Bros 2022 poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/uz3stskbjvr91.png?auto=webp&s=ab59b97bbca92d4b7351f70fcd4b7dbcab9b3fe7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpaper by InklingMain on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0ee1fa0-5e90-47a3-a36a-96e6fb53c389/dfmkz3i-41395b13-9c66-40de-bc84-3c3fec06ad16.png/v1/fill/w_1280,h_720,q_80,strp/mario_wallpaper_by_inklingmain_dfmkz3i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTBlZTFmYTAtNWU5MC00N2EzLWEzNmEtOTZlNmZiNTNjMzg5XC9kZm1rejNpLTQxMzk1YjEzLTljNjYtNDBkZS1iYzg0LTNjM2ZlYzA2YWQxNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gm9aNYMvPETz1a-WvuzzQO0iNyqDFy9ppB7kIBa4DyY' alt='Mario Wallpaper by InklingMain on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0ee1fa0-5e90-47a3-a36a-96e6fb53c389/dfmkz3i-41395b13-9c66-40de-bc84-3c3fec06ad16.png/v1/fill/w_1280,h_720,q_80,strp/mario_wallpaper_by_inklingmain_dfmkz3i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTBlZTFmYTAtNWU5MC00N2EzLWEzNmEtOTZlNmZiNTNjMzg5XC9kZm1rejNpLTQxMzk1YjEzLTljNjYtNDBkZS1iYzg0LTNjM2ZlYzA2YWQxNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gm9aNYMvPETz1a-WvuzzQO0iNyqDFy9ppB7kIBa4DyY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removed the text from the new Super Mario Bros poster to make a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my1su38zifga1.png' alt='Removed the text from the new Super Mario Bros poster to make a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="3837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my1su38zifga1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Wallpaper Mural / Removable Traditional Peel Stick - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37434702/r/il/24533a/5992950360/il_fullxfull.5992950360_fv49.jpg' alt='Super Mario Wallpaper Mural / Removable Traditional Peel Stick - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2835">
+                                <meta itemprop="height" content="2321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37434702/r/il/24533a/5992950360/il_fullxfull.5992950360_fv49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Waĺl Mural Super Mario Bros Kids Room Wall Decor Vinyl Photo Wallpaper  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/trgAAOSwTrlljDSO/s-l400.jpg' alt='Art Waĺl Mural Super Mario Bros Kids Room Wall Decor Vinyl Photo Wallpaper  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/trgAAOSwTrlljDSO/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario - Video Game Fan Art wallpaper 4K #4 by vowebox on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ac38adc-f48d-4177-b61d-01e4905b539f/dh111h4-479b22e6-892c-4661-b383-7b1ed00004ab.jpg/v1/fill/w_1280,h_720,q_75,strp/super_mario___video_game_fan_art_wallpaper_4k__4_by_vowebox_dh111h4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMGFjMzhhZGMtZjQ4ZC00MTc3LWI2MWQtMDFlNDkwNWI1MzlmXC9kaDExMWg0LTQ3OWIyMmU2LTg5MmMtNDY2MS1iMzgzLTdiMWVkMDAwMDRhYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OaRm447ioTaKE-p7I1fxuH0hfYMlhLEtMj_5uAY7s7s' alt='Super Mario - Video Game Fan Art wallpaper 4K #4 by vowebox on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ac38adc-f48d-4177-b61d-01e4905b539f/dh111h4-479b22e6-892c-4661-b383-7b1ed00004ab.jpg/v1/fill/w_1280,h_720,q_75,strp/super_mario___video_game_fan_art_wallpaper_4k__4_by_vowebox_dh111h4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMGFjMzhhZGMtZjQ4ZC00MTc3LWI2MWQtMDFlNDkwNWI1MzlmXC9kaDExMWg0LTQ3OWIyMmU2LTg5MmMtNDY2MS1iMzgzLTdiMWVkMDAwMDRhYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OaRm447ioTaKE-p7I1fxuH0hfYMlhLEtMj_5uAY7s7s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/e/6/2123535-1440x2880-phone-hd-mario-wallpaper.jpg' alt='Mario Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/e/6/2123535-1440x2880-phone-hd-mario-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/super-mario-bros-chromebook-wallpaper.jpg' alt='Super Mario Bros Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/super-mario-bros-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made a phone wallpaper : r/Mario">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sxa34aebujs91.png?auto=webp&s=dbbbfd54520c56dc0d1285e3d64e88b0ce1220ea' alt='i made a phone wallpaper : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sxa34aebujs91.png?auto=webp&s=dbbbfd54520c56dc0d1285e3d64e88b0ce1220ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

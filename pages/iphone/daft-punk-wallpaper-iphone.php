@@ -1,0 +1,129 @@
+<title>Cool Daft Punk Wallpapers for iPhone | Download Now</title>
+                    <meta name="description" content="Discover amazing Daft Punk wallpapers for your iPhone! Dive into a collection of vibrant and iconic designs that celebrate the duo's music and legacy. Perfect for fans looking to personalize their device with unique art. Download your favorite wallpapers today!">
+                    <meta name="keywords" content="daft punk wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/daft-punk-wallpaper-iphone">
+                            <span itemprop="name">daft punk wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Daft Punk Wallpapers for iPhone | Download Now</h1>
+                <p>Transform your iPhone with stunning Daft Punk wallpaper! Featuring iconic artwork and vibrant colors, these wallpapers bring the energy of the legendary electronic duo right to your screen. Perfect for fans and music lovers alike, these designs are sure to make your device stand out. Download now and celebrate the legacy of Daft Punk!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RAM - 10th Anniversary Phone Wallpaper [4,000 x 11,000] : r/DaftPunk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/v2rgwlljx0ka1.jpg' alt='RAM - 10th Anniversary Phone Wallpaper [4,000 x 11,000] : r/DaftPunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3636">
+                                <meta itemprop="height" content="10000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/v2rgwlljx0ka1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daft Punk Neon iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/3c/0f/193c0f6097324e7c8d9d5964b9c70066.jpg' alt='Daft Punk Neon iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/3c/0f/193c0f6097324e7c8d9d5964b9c70066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Stunning 4K Wallpapers for Your iPhone | Inspirationfeed">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/f5/b8/eff5b851720d6c71e4b9f02db8c3a46f.jpg' alt='60 Stunning 4K Wallpapers for Your iPhone | Inspirationfeed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/f5/b8/eff5b851720d6c71e4b9f02db8c3a46f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daft Punk Wallpapers (62 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/c/8/2591589-1080x1920-phone-full-hd-daft-punk-wallpaper.jpg' alt='Daft Punk Wallpapers (62 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/c/8/2591589-1080x1920-phone-full-hd-daft-punk-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Daft Punk phone wallpaper. Use it if you want, I've also ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8n943erknhp21.jpg' alt='Made this Daft Punk phone wallpaper. Use it if you want, I've also ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8n943erknhp21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daft punk, background, llisus, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/167/HD-wallpaper-daft-punk-fondo-llisus.jpg' alt='Daft punk, background, llisus, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/167/HD-wallpaper-daft-punk-fondo-llisus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daft Punk Starboy Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/daft-punk-starboy-art-0alvta9h27h53613.jpg' alt='Daft Punk Starboy Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/daft-punk-starboy-art-0alvta9h27h53613.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daft Punk Wallpaper 4K, Helmet, Dark background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/daft-punk-helmet-dark-background-minimal-art-3840x2160-6112.jpg' alt='Daft Punk Wallpaper 4K, Helmet, Dark background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/daft-punk-helmet-dark-background-minimal-art-3840x2160-6112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Album Covers » iPhone Wallpapers: Daft Punk featuring ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94eK1PCHrRS7LeaNHELf_TdSXqRaQzPKDLn6gsUW9Cxpbedx8U8ngFY3UBM4tef8JV9mT4qn4qKEomaMOoPF3Y5HDR6XiITZmsyXpA1Np9oRUS9S7Kbn153PCTnBUR38CAP349V0IcRo/s1600/iP5xiOS7-lock-get-lucky.jpg' alt='Cool Album Covers » iPhone Wallpapers: Daft Punk featuring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Album Covers » iPhone Wallpapers" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94eK1PCHrRS7LeaNHELf_TdSXqRaQzPKDLn6gsUW9Cxpbedx8U8ngFY3UBM4tef8JV9mT4qn4qKEomaMOoPF3Y5HDR6XiITZmsyXpA1Np9oRUS9S7Kbn153PCTnBUR38CAP349V0IcRo/s1600/iP5xiOS7-lock-get-lucky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/2c/a8/642ca879a8066e8e8f51e6c3ec6d1772.jpg' alt='My phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/2c/a8/642ca879a8066e8e8f51e6c3ec6d1772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

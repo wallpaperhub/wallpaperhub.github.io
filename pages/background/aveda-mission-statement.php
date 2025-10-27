@@ -1,0 +1,129 @@
+<title>Aveda Mission Statement: Harmony in Beauty and Nature</title>
+                    <meta name="description" content="Discover Aveda's mission statement, emphasizing sustainability, holistic beauty, and community support. Learn how they connect beauty and nature through eco-friendly practices and high-quality products for health and balance.">
+                    <meta name="keywords" content="aveda mission statement">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aveda-mission-statement">
+                            <span itemprop="name">aveda mission statement</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aveda Mission Statement: Harmony in Beauty and Nature</h1>
+                <p>Aveda's mission statement centers on the principles of sustainability and holistic beauty. Committed to environmental stewardship, Aveda strives to create high-quality hair and skincare products while supporting local communities and eco-friendly practices. They aim to connect beauty and wellness with nature, promoting health and balance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aveda mission statement - Serenity Beauty & Wellness Center">
+                                <img itemprop="contentUrl url" src='https://serenitybeautyandwellness.com/wp-content/uploads/2017/05/Aveda-mission-statement.jpg' alt='Aveda mission statement - Serenity Beauty & Wellness Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serenity Beauty & Wellness Center" />
+                                </span>
+                                <a href='https://serenitybeautyandwellness.com/wp-content/uploads/2017/05/Aveda-mission-statement.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AVEDA Mission – Glam And Tonics | AVEDA HAIR SALON AND STORE ...">
+                                <img itemprop="contentUrl url" src='https://glamandtonics.com/wp-content/uploads/2014/01/2164-007_missionposter_horz_Lores.jpg' alt='AVEDA Mission – Glam And Tonics | AVEDA HAIR SALON AND STORE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glam And Tonics" />
+                                </span>
+                                <a href='https://glamandtonics.com/wp-content/uploads/2014/01/2164-007_missionposter_horz_Lores.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elements Hair and Beauty Portishead -   Our AVEDA mission ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1313075595733710' alt='Elements Hair and Beauty Portishead -   Our AVEDA mission ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1313075595733710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aveda | Cathedral Park Salon | St. John's, Oregon">
+                                <img itemprop="contentUrl url" src='https://cathedralparksalon.com/wp-content/uploads/2024/08/2904-009_MissionPoster-838x1024.png' alt='Aveda | Cathedral Park Salon | St. John's, Oregon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cathedral Park Salon" />
+                                </span>
+                                <a href='https://cathedralparksalon.com/wp-content/uploads/2024/08/2904-009_MissionPoster-838x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Novvo Etopa - Aveda Mission Posters on Canvas">
+                                <img itemprop="contentUrl url" src='http://novvoetopa.com/images/products/MissionPoster_Small_NOMSS900.jpg' alt='Novvo Etopa - Aveda Mission Posters on Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Novvo Etopa" />
+                                </span>
+                                <a href='http://novvoetopa.com/images/products/MissionPoster_Small_NOMSS900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our mission at Aveda is to care for the world we live in from the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3456516460632575917' alt='Our mission at Aveda is to care for the world we live in from the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3456516460632575917' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The AVEDA Difference">
+                                <img itemprop="contentUrl url" src='https://www.studio16salonspa.com/hubfs/2023/Images/Current%20Website/Shop/Shop%20AVEDA/191201-aveda-mission-header-photo_orig.jpg' alt='The AVEDA Difference'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studio 16 Salon & Spa" />
+                                </span>
+                                <a href='https://www.studio16salonspa.com/hubfs/2023/Images/Current%20Website/Shop/Shop%20AVEDA/191201-aveda-mission-header-photo_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aveda Salon Dallas McKinney Frisco Plano Allen">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/101c59_3a631d8f03ac4ba795a1b9f9dab6282a.jpg/v1/fill/w_560,h_588,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/101c59_3a631d8f03ac4ba795a1b9f9dab6282a.jpg' alt='Aveda Salon Dallas McKinney Frisco Plano Allen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aveda Salon Dallas McKinney Frisco Plano Allen" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/101c59_3a631d8f03ac4ba795a1b9f9dab6282a.jpg/v1/fill/w_560,h_588,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/101c59_3a631d8f03ac4ba795a1b9f9dab6282a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invidia - an Aveda Concept Salon - Destination Sturgeon Bay">
+                                <img itemprop="contentUrl url" src='https://sturgeonbay.net/wp-content/uploads/invidia1.jpeg' alt='Invidia - an Aveda Concept Salon - Destination Sturgeon Bay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Sturgeon Bay" />
+                                </span>
+                                <a href='https://sturgeonbay.net/wp-content/uploads/invidia1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABOUT AVEDA EL PASEO">
+                                <img itemprop="contentUrl url" src='http://nebula.wsimg.com/bd7caf262fc4519e2ccbe25b68b4581c?AccessKeyId=56EFFCD00037CBCF85AA&disposition=0&alloworigin=1' alt='ABOUT AVEDA EL PASEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AVEDA EXPERIENCE CENTER" />
+                                </span>
+                                <a href='http://nebula.wsimg.com/bd7caf262fc4519e2ccbe25b68b4581c?AccessKeyId=56EFFCD00037CBCF85AA&disposition=0&alloworigin=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

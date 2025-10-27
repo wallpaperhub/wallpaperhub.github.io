@@ -1,0 +1,129 @@
+<title>Stunning 4K iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore breathtaking 4K wallpapers for your iPhone! Enjoy a wide variety of high-definition images that personalize your device and showcase your unique style. Perfect for any aesthetic, these wallpapers will elevate your iPhone experience. Download your favorites today!">
+                    <meta name="keywords" content="iphone:4swhrukzy0c= wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/iphone4swhrukzy0c-wallpaper-4k">
+                            <span itemprop="name">iphone:4swhrukzy0c= wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K iPhone Wallpapers for Every Style</h1>
+                <p>Upgrade your iPhone's aesthetic with stunning 4K wallpapers! Whether you prefer vibrant landscapes, minimalistic designs, or artistic patterns, there's a 4K wallpaper to match your style. Discover HD images that enhance your device's display and make your screen stand out. Transform your iPhone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Apple iPhone 4S Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/ios-5-stock-apple-iphone-4s-default-crashing-green-waves-25-10-2024-1729890994-hd-wallpaper.webp' alt='Most Popular Apple iPhone 4S Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/ios-5-stock-apple-iphone-4s-default-crashing-green-waves-25-10-2024-1729890994-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Iphone 4s by OpsKraken on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8478203a-bbf2-4c29-889c-5895332df136/d51rz1c-2d80b380-205d-4c9f-b9ce-ef2d3ec0dbc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0NzgyMDNhLWJiZjItNGMyOS04ODljLTU4OTUzMzJkZjEzNlwvZDUxcnoxYy0yZDgwYjM4MC0yMDVkLTRjOWYtYjljZS1lZjJkM2VjMGRiYzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9gs_VhscBmdlJai8-g8lW8WDf9eWGzpKJGu_9JOLnv0' alt='Crazy Iphone 4s by OpsKraken on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8478203a-bbf2-4c29-889c-5895332df136/d51rz1c-2d80b380-205d-4c9f-b9ce-ef2d3ec0dbc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0NzgyMDNhLWJiZjItNGMyOS04ODljLTU4OTUzMzJkZjEzNlwvZDUxcnoxYy0yZDgwYjM4MC0yMDVkLTRjOWYtYjljZS1lZjJkM2VjMGRiYzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9gs_VhscBmdlJai8-g8lW8WDf9eWGzpKJGu_9JOLnv0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Original Iphone 4 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-galaxy-original-iphone-4-8nnrbv86m9a032k3.jpg' alt='100+] Original Iphone 4 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-galaxy-original-iphone-4-8nnrbv86m9a032k3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Collection of iPhone 4S Wallpapers | Naldz Graphics">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f3/e3/cd/f3e3cd8e173bc633b0a5bec4a6c5fde7.jpg' alt='A Collection of iPhone 4S Wallpapers | Naldz Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f3/e3/cd/f3e3cd8e173bc633b0a5bec4a6c5fde7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 4s Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4461429.jpg' alt='Iphone 4s Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4461429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 4s 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14015325.jpg' alt='iPhone 4s 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14015325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 55 Apple logo iPhone & iPhone 4S Wallpapers | Apple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/f2/0c/4df20c004edc2970cfbad32547901610.jpg' alt='Download 55 Apple logo iPhone & iPhone 4S Wallpapers | Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/f2/0c/4df20c004edc2970cfbad32547901610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple rain iphone 4 wallpaper and iphone 4s wallpaper | iPhone 4 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/30/a7/0030a7ef2c74c23e3a5090a637d815fe.jpg' alt='Apple rain iphone 4 wallpaper and iphone 4s wallpaper | iPhone 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/30/a7/0030a7ef2c74c23e3a5090a637d815fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Apple Logo iPhone 4s Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/ab/e4/0eabe4dbfd9aa1b7da1f22ea328826a8.jpg' alt='Awesome Apple Logo iPhone 4s Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/ab/e4/0eabe4dbfd9aa1b7da1f22ea328826a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth Wing (Onyx Storm) inspired Wallpaper | iPhone wallpapers | Black and  White">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48268342/r/il/becb6a/5782937492/il_570xN.5782937492_5vtg.jpg' alt='Fourth Wing (Onyx Storm) inspired Wallpaper | iPhone wallpapers | Black and  White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48268342/r/il/becb6a/5782937492/il_570xN.5782937492_5vtg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

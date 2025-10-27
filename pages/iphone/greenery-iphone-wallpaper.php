@@ -1,0 +1,129 @@
+<title>Stunning Greenery iPhone Wallpapers for Nature Lovers</title>
+                    <meta name="description" content="Discover beautiful greenery iPhone wallpapers that rejuvenate your device. Choose from a variety of vibrant designs featuring lush leaves and tranquil landscapes. Perfect for nature enthusiasts seeking serenity on their screens. Download yours today for a refreshing look!">
+                    <meta name="keywords" content="greenery iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/greenery-iphone-wallpaper">
+                            <span itemprop="name">greenery iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Greenery iPhone Wallpapers for Nature Lovers</h1>
+                <p>Transform your iPhone with stunning greenery wallpapers that bring the beauty of nature to your screen. Explore our collection of vibrant leaves, serene landscapes, and peaceful plant-themed designs. Perfect for anyone looking to add a touch of tranquility and freshness to their device. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Green iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/d3/a2/ddd3a24767b0164eb8f829acaa0cc737.jpg' alt='Nature Green iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/d3/a2/ddd3a24767b0164eb8f829acaa0cc737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 BOTANICAL | iPhone Wallpapers ideas | iphone wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/4a/8b/6f4a8ba110e874e429ff60c7bcc16bcc.jpg' alt='100 BOTANICAL | iPhone Wallpapers ideas | iphone wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/4a/8b/6f4a8ba110e874e429ff60c7bcc16bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Serene Beauty Of Dew-kissed Leaves For Your Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-serene-beauty-of-dew-kissed-leaves-for-your-iphone-sjwsim30hq5lap20.jpg' alt='The Serene Beauty Of Dew-kissed Leaves For Your Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-serene-beauty-of-dew-kissed-leaves-for-your-iphone-sjwsim30hq5lap20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Nature Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-nature-iphone-9rewxisyxnqto4cu.jpg' alt='100+] Green Nature Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-nature-iphone-9rewxisyxnqto4cu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greenery Exotic iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/6c/dc/f16cdc281b7e655566152256026db22d.jpg' alt='Greenery Exotic iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/6c/dc/f16cdc281b7e655566152256026db22d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPnufdS8c/1/0/900w/canva-cute-leaf-green-print-iphone-wallpaper-oF2LIGnZJzQ.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPnufdS8c/1/0/900w/canva-cute-leaf-green-print-iphone-wallpaper-oF2LIGnZJzQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaves Green Iphone Nature Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/leaves-green-iphone-nature-kivj4o8r1i0o7l8h.jpg' alt='Leaves Green Iphone Nature Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/leaves-green-iphone-nature-kivj4o8r1i0o7l8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Leaves Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/leaves-iphone-sfgdjf43w0k5rebc.jpg' alt='300+] Leaves Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/leaves-iphone-sfgdjf43w0k5rebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Day iPhone Wallpaper Collection - Insider Mama | Mom ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sunlight-trees.png?resize=471%2C1024&ssl=1' alt='Earth Day iPhone Wallpaper Collection - Insider Mama | Mom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insider Mama" />
+                                </span>
+                                <a href='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sunlight-trees.png?resize=471%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Green Spring iPhone wallpaper, flower ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/17/b1/fc17b1352c194abb52abb288bdd6b0f6.jpg' alt='Download premium image of Green Spring iPhone wallpaper, flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/17/b1/fc17b1352c194abb52abb288bdd6b0f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

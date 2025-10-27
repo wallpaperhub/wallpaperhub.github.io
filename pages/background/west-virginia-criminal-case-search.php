@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="west virginia criminal case search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/west-virginia-criminal-case-search">
+                            <span itemprop="name">west virginia criminal case search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magistrate court records in West Virginia now available online">
+                                <img itemprop="contentUrl url" src='https://gray-wvva-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F01-26-2024%2Ft_15ae57d9c156468f827142e3b22a68b0_name_file_1280x720_2000_v3_1_.jpg?auth=849eb8b2ee00702dac482ee2685a334ec3fd80d036d08c77c350ae25f1bae195&width=1920&height=1080&smart=true' alt='Magistrate court records in West Virginia now available online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WVVA" />
+                                </span>
+                                <a href='https://gray-wvva-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F01-26-2024%2Ft_15ae57d9c156468f827142e3b22a68b0_name_file_1280x720_2000_v3_1_.jpg?auth=849eb8b2ee00702dac482ee2685a334ec3fd80d036d08c77c350ae25f1bae195&width=1920&height=1080&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Public Court Records">
+                                <img itemprop="contentUrl url" src='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/4.jpg' alt='West Virginia Public Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WV Judiciary">
+                                <img itemprop="contentUrl url" src='https://apps.wv.gov/Courts/MFP/Content/img/courtslogo.png' alt='WV Judiciary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apps.Wv.Gov" />
+                                </span>
+                                <a href='https://apps.wv.gov/Courts/MFP/Content/img/courtslogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Public Court Records">
+                                <img itemprop="contentUrl url" src='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/1.jpg' alt='West Virginia Public Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Public Court Records">
+                                <img itemprop="contentUrl url" src='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/8.jpg' alt='West Virginia Public Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Criminal Records - WV Tenant Eviction Search">
+                                <img itemprop="contentUrl url" src='https://www.evictionrecords.com/images/state-criminal-records/wv-west-virginia-tenant-records.jpg' alt='West Virginia Criminal Records - WV Tenant Eviction Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eviction Records" />
+                                </span>
+                                <a href='https://www.evictionrecords.com/images/state-criminal-records/wv-west-virginia-tenant-records.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Public Court Records">
+                                <img itemprop="contentUrl url" src='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/9.jpg' alt='West Virginia Public Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://west-virginia-public-court-records.govbackgroundchecks.com/screenshots/west-virginia-public-court-records/9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Court Records Search - Enter Any Name to Begin">
+                                <img itemprop="contentUrl url" src='https://www.searchquarry.com/wp-content/uploads/2017/03/West-Virginia-Court-Records.gif' alt='West Virginia Court Records Search - Enter Any Name to Begin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SearchQuarry" />
+                                </span>
+                                <a href='https://www.searchquarry.com/wp-content/uploads/2017/03/West-Virginia-Court-Records.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marshall County West Virginia Court Records">
+                                <img itemprop="contentUrl url" src='https://marshall-county-west-virginia-court-records.govbackgroundchecks.com/screenshots/marshall-county-west-virginia-court-records/3.jpg' alt='Marshall County West Virginia Court Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://marshall-county-west-virginia-court-records.govbackgroundchecks.com/screenshots/marshall-county-west-virginia-court-records/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free West Virginia Inmate Lookup – WV DOC Inmate Locator ...">
+                                <img itemprop="contentUrl url" src='https://inmatesearchinfo.com/wp-content/uploads/2020/03/Free-West-Virginia-Prisoner-Search.jpg' alt='Free West Virginia Inmate Lookup – WV DOC Inmate Locator ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inmate Search" />
+                                </span>
+                                <a href='https://inmatesearchinfo.com/wp-content/uploads/2020/03/Free-West-Virginia-Prisoner-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

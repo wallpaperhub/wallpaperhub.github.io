@@ -1,0 +1,129 @@
+<title>Elevate Your Office Room with Stylish Wallpaper</title>
+                    <meta name="description" content="Discover the perfect wallpaper for your office room! Enhance your workspace's style and inspire productivity with our diverse selection of designs, colors, and patterns, tailored for any professional environment. Transform your office today!">
+                    <meta name="keywords" content="office room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/office-room-wallpaper">
+                            <span itemprop="name">office room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Office Room with Stylish Wallpaper</h1>
+                <p>Transform your office room with wallpaper that reflects professionalism and creativity. Choose from a variety of styles, colors, and patterns to create an inspiring workspace. Whether you prefer bold designs or subtle textures, the right wallpaper can enhance productivity and leave a lasting impression on clients and colleagues alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Room Wallpaper Style by Digital Walls – Digital Walls India">
+                                <img itemprop="contentUrl url" src='https://digital-walls.com/cdn/shop/products/Globe.png?v=1666086840&width=533' alt='Office Room Wallpaper Style by Digital Walls – Digital Walls India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Walls" />
+                                </span>
+                                <a href='https://digital-walls.com/cdn/shop/products/Globe.png?v=1666086840&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/96000/96236/u97465piw3mr_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/96000/96236/u97465piw3mr_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/17000/17356/u72104piw2r_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/17000/17356/u72104piw2r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/95000/95779/u97427piw3r_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/95000/95779/u97427piw3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change up your home office with a unique wallpaper – belarteSTUDIO">
+                                <img itemprop="contentUrl url" src='http://belartestudio.com/cdn/shop/collections/Black_White-Flowline-BAS00203010-Black-2.jpg?v=1699362859' alt='Change up your home office with a unique wallpaper – belarteSTUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='http://belartestudio.com/cdn/shop/collections/Black_White-Flowline-BAS00203010-Black-2.jpg?v=1699362859' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/108000/108559/w08243piw3r_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/108000/108559/w08243piw3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Wallpaper Murals for Walls • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/s/s/ss647716339_5.jpg' alt='Office Wallpaper Murals for Walls • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/s/s/ss647716339_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/62000/62113/u74075piw3r_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/62000/62113/u74075piw3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office wallpaper for walls – buy wallpaper for the office">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/95000/95398/u97236piw3r_900.webp' alt='Office wallpaper for walls – buy wallpaper for the office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/95000/95398/u97236piw3r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Ideas for the Home Office | Wallpaper Small Home Office">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/image/HomeOfficeWallpaper1.jpg' alt='Wallpaper Ideas for the Home Office | Wallpaper Small Home Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="476">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/image/HomeOfficeWallpaper1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

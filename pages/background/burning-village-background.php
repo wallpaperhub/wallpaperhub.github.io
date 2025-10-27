@@ -1,0 +1,129 @@
+<title>Devastation Unfolds: The Burning Village Chronicles</title>
+                    <meta name="description" content="Explore the heart-wrenching story of a village engulfed in flames. Discover the effects of conflict, loss, and resilience in the face of destruction. A gripping look into the burning village's legacy and the collective struggle for hope amid despair, all captured in vivid detail.">
+                    <meta name="keywords" content="burning village background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/burning-village-background">
+                            <span itemprop="name">burning village background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Devastation Unfolds: The Burning Village Chronicles</h1>
+                <p>In a time of conflict, a once-thriving village lies in ruins, consumed by flames. The air is thick with smoke, as echoes of distress fill the charred landscape. Villagers, once united in community spirit, now face despair. The burning village stands as a stark reminder of the fragility of peace and the pervasive impact of violence on humanity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160+ Village Burning Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/802125340/vector/silhouettes-of-woman-on-burning-village-background.jpg?s=612x612&w=0&k=20&c=aJ8LWvvMdw0DHsd3Zc6bxdlx5ZRlBub-nsfuy7PH9wM=' alt='160+ Village Burning Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/802125340/vector/silhouettes-of-woman-on-burning-village-background.jpg?s=612x612&w=0&k=20&c=aJ8LWvvMdw0DHsd3Zc6bxdlx5ZRlBub-nsfuy7PH9wM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning Village Art - The Witcher 3: Wild Hunt Art Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/9f/71/3a9f7155e47041160f94ed8c45fbec57.jpg' alt='Burning Village Art - The Witcher 3: Wild Hunt Art Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/9f/71/3a9f7155e47041160f94ed8c45fbec57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning Village Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/651/981/small/city-burn-explosion-town-free-photo.jpg' alt='Burning Village Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/651/981/small/city-burn-explosion-town-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,800+ Village Burning Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/91385145/photo/burning-wooden-house.jpg?s=612x612&w=0&k=20&c=XudKN8mRR5VE46bThrWXG4z_Jc6AoKgJ2LaTEBOEoyQ=' alt='5,800+ Village Burning Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/91385145/photo/burning-wooden-house.jpg?s=612x612&w=0&k=20&c=XudKN8mRR5VE46bThrWXG4z_Jc6AoKgJ2LaTEBOEoyQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning Village Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/893/737/small/ai-generated-a-burning-building-in-a-rural-village-photo.jpeg' alt='Burning Village Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/893/737/small/ai-generated-a-burning-building-in-a-rural-village-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Burning village">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/89351826533819080/3BD0D13B9C1D0F5283FB3E3F8BE269F9B1BA2A58/?imw=512&imh=218&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Community :: :: Burning village'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/89351826533819080/3BD0D13B9C1D0F5283FB3E3F8BE269F9B1BA2A58/?imw=512&imh=218&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bit like what Azlyn may have seen from a distance as her village ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/02/06/6b/02066b759a2be01004f053eab9ddbac4.jpg' alt='A bit like what Azlyn may have seen from a distance as her village ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/02/06/6b/02066b759a2be01004f053eab9ddbac4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning Village Stock Illustrations – 1,040 Burning Village Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vikings-fleeing-burning-village-invasion-night-viking-warriors-running-enemy-attack-352096024.jpg' alt='Burning Village Stock Illustrations – 1,040 Burning Village Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vikings-fleeing-burning-village-invasion-night-viking-warriors-running-enemy-attack-352096024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village Road Burning Forest Stock Photo 1629435736 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/village-road-burning-forest-260nw-1629435736.jpg' alt='Village Road Burning Forest Stock Photo 1629435736 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/village-road-burning-forest-260nw-1629435736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouettes of woman on burning village background Stock ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/3584689/15816/i/1600/depositphotos_158164698-stock-illustration-silhouettes-of-woman-on-burning.jpg' alt='Silhouettes of woman on burning village background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/3584689/15816/i/1600/depositphotos_158164698-stock-illustration-silhouettes-of-woman-on-burning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

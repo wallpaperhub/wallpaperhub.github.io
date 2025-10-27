@@ -1,0 +1,129 @@
+<title>Delightful Pink Girly Aesthetic Wallpaper for a Chic Space</title>
+                    <meta name="description" content="Discover stunning pink girly aesthetic wallpaper to elevate your decor! Explore enchanting designs that bring warmth and charm to any room. Perfect for those who love a feminine touch. Shop now for vibrant patterns and pastel hues that will transform your space into a stylish haven!">
+                    <meta name="keywords" content="pink girly aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-girly-aesthetic-wallpaper">
+                            <span itemprop="name">pink girly aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Pink Girly Aesthetic Wallpaper for a Chic Space</h1>
+                <p>Transform your space with enchanting pink girly aesthetic wallpaper that captures a dreamy vibe. Ideal for bedrooms or personal spaces, these wallpapers feature pastel shades, whimsical patterns, and chic floral designs. Perfect for adding a touch of femininity and charm, creating a cozy atmosphere that reflects your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink aesthetic wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/ce/af/afceaff1e64d2c22a4cfc18d36299f6f.jpg' alt='Pink aesthetic wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/ce/af/afceaff1e64d2c22a4cfc18d36299f6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/7d/f1/087df15e8c5c6eb6857322ee211d3778.jpg' alt='20+ Pink Wallpapers For Iphone You Can't Get Tired Of - Get Them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/7d/f1/087df15e8c5c6eb6857322ee211d3778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Wallpaper - Digital Drawings & Illustrations - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27176604/r/il/1234c5/2797012460/il_1080xN.2797012460_c0bz.jpg' alt='Pink Aesthetic Wallpaper - Digital Drawings & Illustrations - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27176604/r/il/1234c5/2797012460/il_1080xN.2797012460_c0bz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZ_1xejoA/1/0/900w/canva-pink-cute-valentines-day-phone-wallpaper-Dvr70XDLzHY.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZ_1xejoA/1/0/900w/canva-pink-cute-valentines-day-phone-wallpaper-Dvr70XDLzHY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' alt='Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty In Pink - Enhance Your Girly Aesthetic With This Inspiring ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/add-some-pretty-pink-to-your-day-with-this-girly-aesthetic-jvb2cr8av93xgbgr.webp' alt='Pretty In Pink - Enhance Your Girly Aesthetic With This Inspiring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/add-some-pretty-pink-to-your-day-with-this-girly-aesthetic-jvb2cr8av93xgbgr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light pink aesthetic wallpaper in 2022 | Pretty phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/a0/94/49a094f622e1d45c850a90b89d19373a.jpg' alt='Light pink aesthetic wallpaper in 2022 | Pretty phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/a0/94/49a094f622e1d45c850a90b89d19373a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGEpxOtfeU/1/0/450w/canva-pink-aesthetic-cute-background-instagram-story-tOaNdW8O4DA.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGEpxOtfeU/1/0/450w/canva-pink-aesthetic-cute-background-instagram-story-tOaNdW8O4DA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Pink And Purple Aesthetic Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-background-eq18whjfcb9tgm9u.jpg' alt='Download Cute Pink And Purple Aesthetic Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-background-eq18whjfcb9tgm9u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Pride Rainbow Backgrounds for Celebrating Diversity</title>
+                    <meta name="description" content="Explore stunning pride rainbow backgrounds that symbolize love and acceptance. Perfect for events, art, and social media, these vibrant designs embody the spirit of the LGBTQ+ community. Celebrate diversity and inclusivity with captivating visuals that promote unity and support. Perfect for your mobile needs!">
+                    <meta name="keywords" content="pride rainbow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pride-rainbow-background">
+                            <span itemprop="name">pride rainbow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pride Rainbow Backgrounds for Celebrating Diversity</h1>
+                <p>The pride rainbow background celebrates diversity and inclusivity, showcasing vibrant colors that represent the LGBTQ+ community. It serves as a powerful symbol of love, acceptance, and equality. Often used in art, designs, and events, this background enhances messages of unity, reminding us to embrace differences and support one another.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Rainbow Images – Browse 420,675 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/82/65/92/360_F_482659214_Yh4LPMgjfG1os20kensnmQo6cPQUGdTF.jpg' alt='Pride Rainbow Images – Browse 420,675 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/82/65/92/360_F_482659214_Yh4LPMgjfG1os20kensnmQo6cPQUGdTF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow flag (LGBTQ) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/800px-Gay_Pride_Flag.svg.png' alt='Rainbow flag (LGBTQ) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/800px-Gay_Pride_Flag.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110,100+ Pride Rainbow Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399734934/vector/lgbtqia-rainbow-pride-flag-striped-background-vector.jpg?s=612x612&w=0&k=20&c=BATovb0wBM7BQ7doNnFEszpzpE5qOzxAG0RB_68EIMI=' alt='110,100+ Pride Rainbow Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399734934/vector/lgbtqia-rainbow-pride-flag-striped-background-vector.jpg?s=612x612&w=0&k=20&c=BATovb0wBM7BQ7doNnFEszpzpE5qOzxAG0RB_68EIMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Rainbow Images – Browse 420,675 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/29/12/05/360_F_429120533_JjVpZgu9911RjmscZhoH8vV4x1Saw8L5.jpg' alt='Pride Rainbow Images – Browse 420,675 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/29/12/05/360_F_429120533_JjVpZgu9911RjmscZhoH8vV4x1Saw8L5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Background Pride Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-rainbow-background-design_23-2149574877.jpg' alt='Rainbow Background Pride Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-rainbow-background-design_23-2149574877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Pride Background Vector Images (over 17,000)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/65/07/intersex-inclusive-progress-pride-flag-vector-44876507.jpg' alt='Rainbow Pride Background Vector Images (over 17,000)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/65/07/intersex-inclusive-progress-pride-flag-vector-44876507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Background Images – Browse 939,275 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/98/62/77/360_F_498627755_VydXnaJegW2Ga4uavMDyIBJk1zaiPJYH.jpg' alt='Pride Background Images – Browse 939,275 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/98/62/77/360_F_498627755_VydXnaJegW2Ga4uavMDyIBJk1zaiPJYH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110,100+ Pride Rainbow Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399734900/vector/lgbtqia-pride-rainbow-background-vector.jpg?s=612x612&w=0&k=20&c=O4a0IL921tpptw-5244ItR83LCzE_swy2kQIh16QWUs=' alt='110,100+ Pride Rainbow Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399734900/vector/lgbtqia-pride-rainbow-background-vector.jpg?s=612x612&w=0&k=20&c=O4a0IL921tpptw-5244ItR83LCzE_swy2kQIh16QWUs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LGBT Rainbow Background. LGBTQ Gay Pride Rainbow Flag Background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/95/54/18/1000_F_495541850_GzABJWgJfw3EhR24KlsOUbGMJx6lDgIa.jpg' alt='LGBT Rainbow Background. LGBTQ Gay Pride Rainbow Flag Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/95/54/18/1000_F_495541850_GzABJWgJfw3EhR24KlsOUbGMJx6lDgIa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow colored LGBT pride flag oil painting background with brush ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FN6JAN/rainbow-colored-lgbt-pride-flag-oil-painting-background-with-brush-strokes-abstract-high-resolution-full-frame-digital-oil-painting-on-canvas-2FN6JAN.jpg' alt='Rainbow colored LGBT pride flag oil painting background with brush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FN6JAN/rainbow-colored-lgbt-pride-flag-oil-painting-background-with-brush-strokes-abstract-high-resolution-full-frame-digital-oil-painting-on-canvas-2FN6JAN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Shadow of the Tomb Raider Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best "Shadow of the Tomb Raider" wallpapers to elevate your device's look. Explore stunning visuals of Lara Croft in action, perfect for fans and gamers alike. Download high-quality backgrounds and immerse yourself in the adventurous world of Tomb Raider today!">
+                    <meta name="keywords" content="shadow of the tomb raider wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shadow-of-the-tomb-raider-wallpaper">
+                            <span itemprop="name">shadow of the tomb raider wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Shadow of the Tomb Raider Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning "Shadow of the Tomb Raider" wallpaper! Featuring Lara Croft in her epic adventures, these high-quality images bring the thrilling world of exploration and ancient mysteries to your screen. Choose from various breathtaking scenes that highlight her courage and resilience. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider Wallpapers - Raiding The Globe">
+                                <img itemprop="contentUrl url" src='https://raidingtheglobe.com/images/games/sottr.jpg' alt='Shadow of the Tomb Raider Wallpapers - Raiding The Globe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raiding The Globe" />
+                                </span>
+                                <a href='https://raidingtheglobe.com/images/games/sottr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider Wallpapers - Raiding The Globe">
+                                <img itemprop="contentUrl url" src='https://raidingtheglobe.com/images/com_osgallery/gal-87/original/sottr-wallpaper040F2C8926-2595-7B08-6E01-FE5D682B56B1.jpg' alt='Shadow of the Tomb Raider Wallpapers - Raiding The Globe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raiding The Globe" />
+                                </span>
+                                <a href='https://raidingtheglobe.com/images/com_osgallery/gal-87/original/sottr-wallpaper040F2C8926-2595-7B08-6E01-FE5D682B56B1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wow this new Shadow of Tomb Raider wallpaper looks amazing. Lara ...">
+                                <img itemprop="contentUrl url" src='https://archaeologyoftombraider.files.wordpress.com/2018/04/andy-park-shadow-of-the-tomb-raider.jpg' alt='Wow this new Shadow of Tomb Raider wallpaper looks amazing. Lara ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1983">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://archaeologyoftombraider.files.wordpress.com/2018/04/andy-park-shadow-of-the-tomb-raider.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider phone wallpaper #3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/49/ad/0249adec7390ad0abd31cc0ea83dcae7.jpg' alt='Shadow of the Tomb Raider phone wallpaper #3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/49/ad/0249adec7390ad0abd31cc0ea83dcae7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the tomb raider 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TgAyj-mtDg4/maxresdefault.jpg' alt='Shadow of the tomb raider 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TgAyj-mtDg4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider: Lara Croft 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/945/945393.jpg' alt='Shadow of the Tomb Raider: Lara Croft 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/945/945393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider Wallpapers - Raiding The Globe">
+                                <img itemprop="contentUrl url" src='https://raidingtheglobe.com/images/com_osgallery/gal-87/original/sottr-wallpaper032BFA7913-E00F-0005-F852-394588AD47D4.jpg' alt='Shadow of the Tomb Raider Wallpapers - Raiding The Globe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raiding The Globe" />
+                                </span>
+                                <a href='https://raidingtheglobe.com/images/com_osgallery/gal-87/original/sottr-wallpaper032BFA7913-E00F-0005-F852-394588AD47D4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow of the Tomb Raider Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tombraiderchronicles.com/images/shadow-of-the-tomb-raider-mobile-wallpaper/shadow-of-the-tomb-raider-mobile-wallpaper-1.png' alt='Shadow of the Tomb Raider Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tomb Raider Chronicles" />
+                                </span>
+                                <a href='https://www.tombraiderchronicles.com/images/shadow-of-the-tomb-raider-mobile-wallpaper/shadow-of-the-tomb-raider-mobile-wallpaper-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lara Croft: Shadow of the Tomb Raider 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/916/916483.jpg' alt='Lara Croft: Shadow of the Tomb Raider 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/916/916483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K shots from Shadow of the Tomb Raider. Thought they could make ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j0eedn7jnu761.png' alt='4K shots from Shadow of the Tomb Raider. Thought they could make ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j0eedn7jnu761.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

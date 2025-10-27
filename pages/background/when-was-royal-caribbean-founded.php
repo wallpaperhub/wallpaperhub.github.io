@@ -1,0 +1,129 @@
+<title>When Was Royal Caribbean Founded? Discover the History!</title>
+                    <meta name="description" content="Explore the founding of Royal Caribbean, established in 1968, and learn how it grew from a single ship to a leading cruise line. Discover the company’s journey and innovations that shaped the cruise industry today!">
+                    <meta name="keywords" content="when was royal caribbean founded">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-royal-caribbean-founded">
+                            <span itemprop="name">when was royal caribbean founded</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Royal Caribbean Founded? Discover the History!</h1>
+                <p>Royal Caribbean was founded in 1968 by Anders Wilhelmsen, Knut Kloster, and I. S. Lindblad. Initially, it began operations with the acquisition of a single ship, the "Song of Norway." Over the years, the company has expanded its fleet and services, becoming a leader in the cruise industry, known for innovation and large, modern ships.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean International - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sun_Viking_at_Ocean_Terminal%2C_Hong_Kong.jpg/220px-Sun_Viking_at_Ocean_Terminal%2C_Hong_Kong.jpg' alt='Royal Caribbean International - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sun_Viking_at_Ocean_Terminal%2C_Hong_Kong.jpg/220px-Sun_Viking_at_Ocean_Terminal%2C_Hong_Kong.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean Cruise Line History: RCI Then & Now">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/308bc4489b/majesty-of-the-seas_royal-caribbean-international_18689652.jpg' alt='Royal Caribbean Cruise Line History: RCI Then & Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Critic" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/308bc4489b/majesty-of-the-seas_royal-caribbean-international_18689652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean Cruise Line History: RCI Then & Now">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/f278ca3e14/royal-caribbean-international_allure-of-the-seas_18686838.jpg' alt='Royal Caribbean Cruise Line History: RCI Then & Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5272">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Critic" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/f278ca3e14/royal-caribbean-international_allure-of-the-seas_18686838.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Royal Caribbean – Cruising From The Ozarks">
+                                <img itemprop="contentUrl url" src='https://cruisingfromtheozarks.com/wp-content/uploads/2023/08/royal-history.png?w=1280' alt='History of Royal Caribbean – Cruising From The Ozarks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruising From The Ozarks" />
+                                </span>
+                                <a href='https://cruisingfromtheozarks.com/wp-content/uploads/2023/08/royal-history.png?w=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Royal Caribbean">
+                                <img itemprop="contentUrl url" src='https://www.aronfeld.com/wp-content/uploads/2023/09/Utopia-of-the-Seas-at-night.webp' alt='History of Royal Caribbean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aronfeld Trial Lawyers" />
+                                </span>
+                                <a href='https://www.aronfeld.com/wp-content/uploads/2023/09/Utopia-of-the-Seas-at-night.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean International - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Icon_of_the_Seas.jpg/266px-Icon_of_the_Seas.jpg' alt='Royal Caribbean International - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Icon_of_the_Seas.jpg/266px-Icon_of_the_Seas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean Cruise Line History: RCI Then & Now">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/f94ce7dea5/cruise-on-ta_liberty-of-the-seas_7504.jpg' alt='Royal Caribbean Cruise Line History: RCI Then & Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3774">
+                                <meta itemprop="height" content="2056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Critic" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/a-us.storyblok.com/f/1005231/f94ce7dea5/cruise-on-ta_liberty-of-the-seas_7504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Caribbean announces its founder and former president has ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cruise-arabia.com/wp-content/uploads/2019/11/royalcaribbeanfounder1.jpg?resize=639%2C547&ssl=1' alt='Royal Caribbean announces its founder and former president has ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Arabia & Africa" />
+                                </span>
+                                <a href='https://i0.wp.com/cruise-arabia.com/wp-content/uploads/2019/11/royalcaribbeanfounder1.jpg?resize=639%2C547&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happened to Royal Caribbean's first cruise ships? | Royal ...">
+                                <img itemprop="contentUrl url" src='https://www.royalcaribbeanblog.com/sites/default/files/styles/fb_style/public/fb/11401564404_c9c7c52f86_h_0.jpeg?itok=dWxya0fQ' alt='What happened to Royal Caribbean's first cruise ships? | Royal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Caribbean Blog" />
+                                </span>
+                                <a href='https://www.royalcaribbeanblog.com/sites/default/files/styles/fb_style/public/fb/11401564404_c9c7c52f86_h_0.jpeg?itok=dWxya0fQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Former Royal Caribbean Cruise Ships and Where They Are Now">
+                                <img itemprop="contentUrl url" src='https://cruisefever.net/wp-content/uploads/2018/07/1200px-Song_of_Norway_Vigo_cropped.jpg' alt='11 Former Royal Caribbean Cruise Ships and Where They Are Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Fever" />
+                                </span>
+                                <a href='https://cruisefever.net/wp-content/uploads/2018/07/1200px-Song_of_Norway_Vigo_cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Eye-Catching "I See You" Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Add a touch of intrigue to your home with our "I See You" wallpaper. Designed for contemporary aesthetics, it effortlessly enhances any room's ambiance. Discover the perfect blend of style and charm to make your walls speak! Ideal for mobile viewing, explore the elegance today!">
+                    <meta name="keywords" content="i see you wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/i-see-you-wallpaper">
+                            <span itemprop="name">i see you wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching "I See You" Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with the captivating "I See You" wallpaper. This unique design merges elegance and mystery, creating a stunning focal point in any room. Perfect for modern interiors or eclectic decor, it sparks intrigue and conversation. Elevate your walls with a blend of artistry and personal expression!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I see you amoled, Aurel, black, eye, lock, lockscreen, monster ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/662/974/HD-wallpaper-i-see-you-amoled-aurel-black-eye-lock-lockscreen-monster-red.jpg' alt='I see you amoled, Aurel, black, eye, lock, lockscreen, monster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/662/974/HD-wallpaper-i-see-you-amoled-aurel-black-eye-lock-lockscreen-monster-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I see u, cat, i see you, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/701/594/HD-wallpaper-i-see-u-cat-i-see-you.jpg' alt='I see u, cat, i see you, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/701/594/HD-wallpaper-i-see-u-cat-i-see-you.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I see you">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f8/a8/96/f8a8969dbe27d018ca47f1c744a17240.jpg' alt='I see you'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f8/a8/96/f8a8969dbe27d018ca47f1c744a17240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I See You Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6952578.jpg' alt='I See You Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6952578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I See You">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/f4/d7/34f4d7a721e1795b0721cd4e3f45fa12.jpg' alt='I See You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/f4/d7/34f4d7a721e1795b0721cd4e3f45fa12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I See You by deviantAras on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/940c5c87-3551-40f1-a058-54463786f0b4/d4dwhg6-4cb1d11d-971e-4564-b3fc-71ef96b5cc10.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0MGM1Yzg3LTM1NTEtNDBmMS1hMDU4LTU0NDYzNzg2ZjBiNFwvZDRkd2hnNi00Y2IxZDExZC05NzFlLTQ1NjQtYjNmYy03MWVmOTZiNWNjMTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DtmZEr1BPmfbVvedKoIIgtyznjZPN3LAvxVhq2po0nI' alt='I See You by deviantAras on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/940c5c87-3551-40f1-a058-54463786f0b4/d4dwhg6-4cb1d11d-971e-4564-b3fc-71ef96b5cc10.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0MGM1Yzg3LTM1NTEtNDBmMS1hMDU4LTU0NDYzNzg2ZjBiNFwvZDRkd2hnNi00Y2IxZDExZC05NzFlLTQ1NjQtYjNmYy03MWVmOTZiNWNjMTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DtmZEr1BPmfbVvedKoIIgtyznjZPN3LAvxVhq2po0nI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I See You - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and More!">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/423/423724.jpg' alt='I See You - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and More!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/423/423724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peek a boo, funny, funny saying, i love, i love you, i see you ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/688/720/HD-wallpaper-peek-a-boo-funny-funny-saying-i-love-i-love-you-i-see-you-laugh-love-saying-see.jpg' alt='Peek a boo, funny, funny saying, i love, i love you, i see you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/688/720/HD-wallpaper-peek-a-boo-funny-funny-saying-i-love-i-love-you-i-see-you-laugh-love-saying-see.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See you soon Wallpaper 4K, Grim Reaper, Black heart">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/see-you-soon-grim-1920x1080-11104.png' alt='See you soon Wallpaper 4K, Grim Reaper, Black heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/see-you-soon-grim-1920x1080-11104.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am Watching you, alert, dead, fear, funny, scare, scary, watch ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/277/638/HD-wallpaper-i-am-watching-you-alert-dead-fear-funny-scare-scary-watch.jpg' alt='I am Watching you, alert, dead, fear, funny, scare, scary, watch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/277/638/HD-wallpaper-i-am-watching-you-alert-dead-fear-funny-scare-scary-watch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cool Calvin and Hobbes Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Calvin and Hobbes wallpapers for your iPhone! Dive into a world of whimsy and adventure with stunning images of this classic comic duo. Perfect for any fan, these wallpapers add a touch of nostalgia to your device. Download today for a fresh and fun look!">
+                    <meta name="keywords" content="calvin and hobbes wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/calvin-and-hobbes-wallpaper-iphone">
+                            <span itemprop="name">calvin and hobbes wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Calvin and Hobbes Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with charming Calvin and Hobbes wallpaper! Embrace nostalgia and creativity with vibrant designs featuring the beloved duo. Perfect for fans who appreciate humor and art, these wallpapers will brighten your home screen and showcase your love for this iconic comic strip. Download now for a delightful daily view!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thought I'd share my Calvin & Hobbes iPhone wallpaper : r/iphone">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/uuheGc2DbyRnbGS7FA3hDY_2EFyygNx8_D-Kj_1hYkA.jpg?width=640&crop=smart&auto=webp&s=ddffc0aeb8d2e8a2782ba5566810caf76f58173c' alt='Thought I'd share my Calvin & Hobbes iPhone wallpaper : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/uuheGc2DbyRnbGS7FA3hDY_2EFyygNx8_D-Kj_1hYkA.jpg?width=640&crop=smart&auto=webp&s=ddffc0aeb8d2e8a2782ba5566810caf76f58173c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper [OC] : r/calvinandhobbes">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ZL_xicqd8-soEJTYLZtlrkDS1AAsPv5POIgPhW7wNkU.jpg?auto=webp&s=9abb575cb493d0d7b9ea230245bdf7797c266f1f' alt='Phone Wallpaper [OC] : r/calvinandhobbes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2034">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ZL_xicqd8-soEJTYLZtlrkDS1AAsPv5POIgPhW7wNkU.jpg?auto=webp&s=9abb575cb493d0d7b9ea230245bdf7797c266f1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="attachment.php (640×1136)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/94/68/1b/94681b0bb696253dbc6e4e3ea492979f.jpg' alt='attachment.php (640×1136)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/94/68/1b/94681b0bb696253dbc6e4e3ea492979f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Calvin and Hobbes wallpaper I made : r/calvinandhobbes">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6ixvikc2jk961.jpg' alt='This Calvin and Hobbes wallpaper I made : r/calvinandhobbes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6ixvikc2jk961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calvin and hobbes sleeptime iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/3b/88/233b88f6e1953f884f744d813edc9f75.jpg' alt='Calvin and hobbes sleeptime iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/3b/88/233b88f6e1953f884f744d813edc9f75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="af62-calvin-hobbes-happy-times-cartoon-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-af62-calvin-hobbes-happy-times-cartoon-41-iphone-wallpaper.jpg' alt='af62-calvin-hobbes-happy-times-cartoon-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-af62-calvin-hobbes-happy-times-cartoon-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper for DL (OC). Someone said I should upload it as a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ltqddhwp7e481.png?auto=webp&s=e46f03c60bb1852abdfbb84a3eb17ac79572a345' alt='Phone Wallpaper for DL (OC). Someone said I should upload it as a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ltqddhwp7e481.png?auto=webp&s=e46f03c60bb1852abdfbb84a3eb17ac79572a345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="calvin and hobbes in the starry night iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/8b/af/ec8baf5f6d0a5a775d5288f48c39548b.jpg' alt='calvin and hobbes in the starry night iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/8b/af/ec8baf5f6d0a5a775d5288f48c39548b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smartphone Wallpapers - Calvin and Hobbes - wallpaper post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/IhFiwzq.jpeg' alt='Smartphone Wallpapers - Calvin and Hobbes - wallpaper post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/IhFiwzq.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calvin and Hobbes Enhanced Starfield : r/wallpapers">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/1qxVW.jpg' alt='Calvin and Hobbes Enhanced Starfield : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/1qxVW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How Long Do Police Background Checks Take?</title>
+                    <meta name="description" content="Discover the timeline for police background checks. Learn what factors influence the duration—ranging from a few days to weeks—so you can plan accordingly for your needs.">
+                    <meta name="keywords" content="how long does a police background check take">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-does-a-police-background-check-take">
+                            <span itemprop="name">how long does a police background check take</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Do Police Background Checks Take?</h1>
+                <p>The duration of a police background check can vary depending on several factors, including the agency conducting the check, the depth of the investigation, and state regulations. Generally, it can take anywhere from a few days to a couple of weeks. Some checks may be expedited for urgent situations, while others may take longer if there are complications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take? | Peopletrail">
+                                <img itemprop="contentUrl url" src='https://peopletrail.com/wp-content/uploads/2019/08/Background-Turnaround-2.jpg' alt='How Long Does a Background Check Take? | Peopletrail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peopletrail" />
+                                </span>
+                                <a href='https://peopletrail.com/wp-content/uploads/2019/08/Background-Turnaround-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Police Hiring Background Investigation Take? -  CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/P98eOvqC5nk/hqdefault.jpg' alt='How Long Does A Police Hiring Background Investigation Take? -  CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/P98eOvqC5nk/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take?">
+                                <img itemprop="contentUrl url" src='https://www.workplacesafetyscreenings.com/hubfs/How-Long-Does-a-Background-Check-Take_.jpg' alt='How Long Does a Background Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Workplace Safety Screenings" />
+                                </span>
+                                <a href='https://www.workplacesafetyscreenings.com/hubfs/How-Long-Does-a-Background-Check-Take_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Officer Background Check Requirements (What to Expect)">
+                                <img itemprop="contentUrl url" src='https://www.allcriminaljusticeschools.com/wp-content/uploads/2021/07/police-background-check-750x350-1.jpg' alt='Police Officer Background Check Requirements (What to Expect)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Criminal Justice Schools" />
+                                </span>
+                                <a href='https://www.allcriminaljusticeschools.com/wp-content/uploads/2021/07/police-background-check-750x350-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All You Need to Know About Police Background Check and Disqualifiers">
+                                <img itemprop="contentUrl url" src='https://golawenforcement.com/wp-content/uploads/2017/12/police-background-check.jpg' alt='All You Need to Know About Police Background Check and Disqualifiers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Go Law Enforcement" />
+                                </span>
+                                <a href='https://golawenforcement.com/wp-content/uploads/2017/12/police-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your Pennsylvania State Background Check">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg/v1/fill/w_2500,h_3235,al_c/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg' alt='How to Get Your Pennsylvania State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office Of Parviz Malakouti" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg/v1/fill/w_2500,h_3235,al_c/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Criminal Background Report - Medellin Lawyer">
+                                <img itemprop="contentUrl url" src='https://www.medellinlawyer.com/wp-content/uploads/2023/12/Criminal-Record-From-a-City-Police.jpg' alt='USA Criminal Background Report - Medellin Lawyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medellin Lawyer" />
+                                </span>
+                                <a href='https://www.medellinlawyer.com/wp-content/uploads/2023/12/Criminal-Record-From-a-City-Police.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

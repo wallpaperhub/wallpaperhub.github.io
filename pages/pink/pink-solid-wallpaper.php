@@ -1,0 +1,129 @@
+<title>Enhance Your Space with Pink Solid Wallpaper</title>
+                    <meta name="description" content="Discover beautiful pink solid wallpaper to elevate your home decor. Perfect for any room, our collection offers a variety of shades to suit your style. Create a cozy atmosphere while adding a chic touch to your walls. Shop now for great designs that inspire creativity and comfort!">
+                    <meta name="keywords" content="pink solid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-solid-wallpaper">
+                            <span itemprop="name">pink solid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with Pink Solid Wallpaper</h1>
+                <p>Transform your space with stunning pink solid wallpaper. Perfect for adding a touch of warmth and elegance, this wallpaper complements various decor styles, from modern to vintage. Whether used in a bedroom, living room, or office, pink solid wallpaper creates a serene environment that inspires creativity and relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Pink Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' alt='640x1136 Pink Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12161776/p/f/m/pPfpLAFpHDVVr2EyyDxhLYFBKp7LnhAO0fZ08yVB2Wqe13KmiVAM/Bright%20Summer%20Pink%20Solid%20.jpg' alt='Solid Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12161776/p/f/m/pPfpLAFpHDVVr2EyyDxhLYFBKp7LnhAO0fZ08yVB2Wqe13KmiVAM/Bright%20Summer%20Pink%20Solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Stunning Pink Wallpaper Backgrounds For iPhone | Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/77/50/11/77501140d0a0bf84668f30af1ea47d0d.jpg' alt='50+ Stunning Pink Wallpaper Backgrounds For iPhone | Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/77/50/11/77501140d0a0bf84668f30af1ea47d0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Solid Color Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-solid-color-364gx2fy3h6alydq.jpg' alt='100+] Pink Solid Color Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-solid-color-364gx2fy3h6alydq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Solid Pink Wallpaper Pink Peel and Stick Wallpaper Pink Contact  Paper Self Adhesive Thick Removable Wall Paper Roll for Girls Bedroom  Nursery ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51VjvdwONTL._AC_UF894,1000_QL80_.jpg' alt='FunStick Solid Pink Wallpaper Pink Peel and Stick Wallpaper Pink Contact  Paper Self Adhesive Thick Removable Wall Paper Roll for Girls Bedroom  Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51VjvdwONTL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/81/30/3c8130d75f16cec842f3ee26e994e8c7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/81/30/3c8130d75f16cec842f3ee26e994e8c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Pink Solid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pink-background_23-2148162976.jpg' alt='Page 2 | Pink Solid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pink-background_23-2148162976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Single plain pink solid color one colour 1290x2796 wallpaper 4K HD">
+                                <img itemprop="contentUrl url" src='https://xmple.com/wallpaper/single-plain-pink-solid-color-one-colour-1290x2796-c-a94569-f-24.svg' alt='Single plain pink solid color one colour 1290x2796 wallpaper 4K HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xmple" />
+                                </span>
+                                <a href='https://xmple.com/wallpaper/single-plain-pink-solid-color-one-colour-1290x2796-c-a94569-f-24.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink pattern texture, solid writing wallpaper background. Soft ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/476/316/large_2x/pink-pattern-texture-solid-writing-wallpaper-background-soft-purple-pattern-wall-photo.jpg' alt='Pink pattern texture, solid writing wallpaper background. Soft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/476/316/large_2x/pink-pattern-texture-solid-writing-wallpaper-background-soft-purple-pattern-wall-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Solid Pink Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plain-background-i94kad7pu3h9p38s.jpg' alt='100+] Solid Pink Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plain-background-i94kad7pu3h9p38s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

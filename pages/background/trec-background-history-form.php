@@ -1,0 +1,129 @@
+<title>"Understanding TREC: A Brief History of the Text Retrieval Conference"</title>
+                    <meta name="description" content=""Explore TREC's history and its impact on information retrieval research. Discover how this influential conference has shaped search technologies since 1992, fostering collaboration and innovation in the field."">
+                    <meta name="keywords" content="trec background history form">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trec-background-history-form">
+                            <span itemprop="name">trec background history form</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding TREC: A Brief History of the Text Retrieval Conference"</h1>
+                <p>The TREC (Text REtrieval Conference) has evolved since its inception in 1992, aiming to advance the state of information retrieval through large-scale evaluations. It fosters collaboration among researchers and practitioners to refine algorithms, datasets, and metrics, enriching the development of robust search technologies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2016-2025 Form TX BH-2 Fill Online, Printable, Fillable, Blank ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/6/965/6965617/large.png' alt='2016-2025 Form TX BH-2 Fill Online, Printable, Fillable, Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/6/965/6965617/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trec Background History Form: Complete with ease | airSlate SignNow">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/5/743/5743694.png' alt='Trec Background History Form: Complete with ease | airSlate SignNow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/5/743/5743694.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QE Provider Annual Fee Application | TREC">
+                                <img itemprop="contentUrl url" src='https://www.trec.texas.gov/sites/default/files/ED_PAF-1%2004.10.2023.png' alt='QE Provider Annual Fee Application | TREC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='https://www.trec.texas.gov/sites/default/files/ED_PAF-1%2004.10.2023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Request for Certificate of Active Licensure or Sponsorship History ...">
+                                <img itemprop="contentUrl url" src='https://www.trec.texas.gov/sites/default/files/LHR-8_1.jpg' alt='Request for Certificate of Active Licensure or Sponsorship History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='https://www.trec.texas.gov/sites/default/files/LHR-8_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background History Form BH-3">
+                                <img itemprop="contentUrl url" src='x-raw-image:///0fc55cf3ce39a3c6bebfaff87e83d0ecc66d69d76a29cd3afd1f4e9f9da3a5a4' alt='Background History Form BH-3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1611">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='x-raw-image:///0fc55cf3ce39a3c6bebfaff87e83d0ecc66d69d76a29cd3afd1f4e9f9da3a5a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trec Bh 2 Form ≡ Fill Out Printable PDF Forms Online">
+                                <img itemprop="contentUrl url" src='https://formspal.com/data/LandingPageImages/Image/4/436/436522.WEBP' alt='Trec Bh 2 Form ≡ Fill Out Printable PDF Forms Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FormsPal" />
+                                </span>
+                                <a href='https://formspal.com/data/LandingPageImages/Image/4/436/436522.WEBP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Real Estate Background Check Go: 7 or 10 Years?">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/Texas-Real-Estate-Commission-Background-History-Form-Screenshot.webp' alt='How Far Back Does a Real Estate Background Check Go: 7 or 10 Years?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/Texas-Real-Estate-Commission-Background-History-Form-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notice of Alternate Name Used by a Sales Agent or Broker License ...">
+                                <img itemprop="contentUrl url" src='https://www.trec.texas.gov/sites/default/files/ALTNM-0.jpg' alt='Notice of Alternate Name Used by a Sales Agent or Broker License ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='https://www.trec.texas.gov/sites/default/files/ALTNM-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Information About Brokerage Services | TREC">
+                                <img itemprop="contentUrl url" src='https://www.trec.texas.gov/sites/default/files/information-about-brokerage-services.jpg' alt='Information About Brokerage Services | TREC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='https://www.trec.texas.gov/sites/default/files/information-about-brokerage-services.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supplement A-Qualifying Experience Report for a Broker License | TREC">
+                                <img itemprop="contentUrl url" src='https://www.trec.texas.gov/sites/default/files/BL-A_Page_1_3.jpg' alt='Supplement A-Qualifying Experience Report for a Broker License | TREC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TREC - Texas.gov" />
+                                </span>
+                                <a href='https://www.trec.texas.gov/sites/default/files/BL-A_Page_1_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

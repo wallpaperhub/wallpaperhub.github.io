@@ -1,0 +1,129 @@
+<title>Stunning HD Dinosaur Wallpapers for Your Devices</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dinosaur wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinosaur-wallpaper-hd">
+                            <span itemprop="name">dinosaur wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD Dinosaur Wallpapers for Your Devices</h1>
+                <p>Dinosaur wallpaper HD brings the prehistoric world to your device! Transform your screens with stunning high-definition images showcasing majestic dinosaurs in their natural habitats. Perfect for dino enthusiasts of all ages, these wallpapers add an adventurous touch to your devices, sparking imagination and wonder. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino Dreams Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/242156/Dino-Dreams-Wallpaper-Mural.jpg?v=638164461989870000' alt='Dino Dreams Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/242156/Dino-Dreams-Wallpaper-Mural.jpg?v=638164461989870000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaurs wallpaper kids room wall with high quality poster Choose your Size">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/lDAAAOSwH09ZHQMF/s-l1200.jpg' alt='Dinosaurs wallpaper kids room wall with high quality poster Choose your Size'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/lDAAAOSwH09ZHQMF/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/8/e/277772-1080x2220-iphone-hd-dinosaur-wallpaper-image.jpg' alt='Dinosaur Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/8/e/277772-1080x2220-iphone-hd-dinosaur-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Hd Dinosaur Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/beautiful-hd-dinosaur-5s0v76gstwzrhep2.jpg' alt='Beautiful Hd Dinosaur Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/beautiful-hd-dinosaur-5s0v76gstwzrhep2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Images – Browse 253,739 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/56/31/66/360_F_456316681_khoRnKqVS9hzlge4qlaHuQDBxjHCtDQZ.jpg' alt='Dinosaur Background Images – Browse 253,739 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/56/31/66/360_F_456316681_khoRnKqVS9hzlge4qlaHuQDBxjHCtDQZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Jurassic Park Dinosaur Self-adhesive Removable Wallpaper Murals Wall 130">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/30MAAOSwXAVh1pZP/s-l1200.jpg' alt='3D Jurassic Park Dinosaur Self-adhesive Removable Wallpaper Murals Wall 130'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/30MAAOSwXAVh1pZP/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino Valley Landscape Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237107/Dino-Valley-Landscape-Mural-Wallpaper.jpg?v=638164609177300000' alt='Dino Valley Landscape Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237107/Dino-Valley-Landscape-Mural-Wallpaper.jpg?v=638164609177300000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Dinosaur Square - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/125060/role/image/size/1500x2240/type/ft-osmr-ng1/aed32ad8e40262844d5bfd98e6f74b09.webp' alt='Photo Wallpaper Dinosaur Square - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/125060/role/image/size/1500x2240/type/ft-osmr-ng1/aed32ad8e40262844d5bfd98e6f74b09.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dinosaur Wallpaper HD | Dinosaurs Pictures and Facts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/44/c8/2c44c81bc67614e0f777dcc75b9df54c.jpg' alt='Download Dinosaur Wallpaper HD | Dinosaurs Pictures and Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/44/c8/2c44c81bc67614e0f777dcc75b9df54c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Question]* Dino Wallpaper for phones! What is yours? : r/Dinosaurs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f6shzrvmkml11.jpg' alt='Question]* Dino Wallpaper for phones! What is yours? : r/Dinosaurs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f6shzrvmkml11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ingraham v. Wright: Supreme Court Case Overview</title>
+                    <meta name="description" content="Explore the pivotal Supreme Court case Ingraham v. Wright (1977), which defined the limits of corporal punishment in public schools and student rights. Discover the implications of this ruling on education and discipline policies across the nation.">
+                    <meta name="keywords" content="ingraham v wright">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ingraham-v-wright">
+                            <span itemprop="name">ingraham v wright</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ingraham v. Wright: Supreme Court Case Overview</h1>
+                <p>Ingraham v. Wright (1977) was a landmark Supreme Court case concerning the corporal punishment of students in public schools. The Court ruled that the Eighth Amendment's prohibition on cruel and unusual punishment did not apply to public school discipline. This decision upheld the authority of schools to administer corporal punishment, shaping the legal landscape of student rights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ingraham v. Wright: Supreme Court Case">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/BZ5Rz8JtSkjSdaWH48R2XHQpHck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515993692-cca1ee5d91be4ff0b6201637fee2f8fa.jpg' alt='Ingraham v. Wright: Supreme Court Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/BZ5Rz8JtSkjSdaWH48R2XHQpHck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515993692-cca1ee5d91be4ff0b6201637fee2f8fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ingraham v. Wright | Court Ruling, Arguments, James Ingraham ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/09/228409-131-89E13E13/corporal-punishment-The-Comic-Almanack-for-1839-George-Cruikshank.jpg?w=200&h=200&c=crop' alt='Ingraham v. Wright | Court Ruling, Arguments, James Ingraham ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/09/228409-131-89E13E13/corporal-punishment-The-Comic-Almanack-for-1839-George-Cruikshank.jpg?w=200&h=200&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ingraham v. Wright | Summary, Significance & Dissenting Opinion ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/paddle.jpg' alt='Ingraham v. Wright | Summary, Significance & Dissenting Opinion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/paddle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lesson 5 Student/Youth Due Process">
+                                <img itemprop="contentUrl url" src='https://flippedtips.com/plegal/scales/ingraham.gif' alt='Lesson 5 Student/Youth Due Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="flippedtips.com" />
+                                </span>
+                                <a href='https://flippedtips.com/plegal/scales/ingraham.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Triton Voice | Corporal Punishment in Our School Systems">
+                                <img itemprop="contentUrl url" src='https://tritonvoice.co/wp-content/uploads/2018/12/corporal-punishment-900x556.jpg' alt='Triton Voice | Corporal Punishment in Our School Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Triton Voice" />
+                                </span>
+                                <a href='https://tritonvoice.co/wp-content/uploads/2018/12/corporal-punishment-900x556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Triton Voice | Corporal Punishment is Getting Out of Hand">
+                                <img itemprop="contentUrl url" src='https://tritonvoice.co/wp-content/uploads/2018/12/StateLibQld_1_113036_Cartoon_of_students_receiving_the_cane_1888-358x475.jpg' alt='Triton Voice | Corporal Punishment is Getting Out of Hand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Triton Voice" />
+                                </span>
+                                <a href='https://tritonvoice.co/wp-content/uploads/2018/12/StateLibQld_1_113036_Cartoon_of_students_receiving_the_cane_1888-358x475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ingraham v. Wright, 430 U.S. 651 (1977): Case Brief Summary | Quimbee">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/ef9d2270b8c94748c826b85a4e08994d9aaf0875.jpg?image_crop_resized=750x422' alt='Ingraham v. Wright, 430 U.S. 651 (1977): Case Brief Summary | Quimbee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quimbee" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/ef9d2270b8c94748c826b85a4e08994d9aaf0875.jpg?image_crop_resized=750x422' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ingraham v. Wright Case Brief Summary | Law Case Explained">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3b3d7VpxomM/maxresdefault.jpg' alt='Ingraham v. Wright Case Brief Summary | Law Case Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3b3d7VpxomM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONSTITUTIONNOBAR TO SCHOOL SPANKING, HIGH COURT RULES - The New ...">
+                                <img itemprop="contentUrl url" src='https://s1.nyt.com/timesmachine/pages/1/1977/04/20/75661237_360W.png?quality=75&auto=webp&disable=upscale' alt='CONSTITUTIONNOBAR TO SCHOOL SPANKING, HIGH COURT RULES - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://s1.nyt.com/timesmachine/pages/1/1977/04/20/75661237_360W.png?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CQ Press Books - We the Students: Supreme Court cases for and ...">
+                                <img itemprop="contentUrl url" src='https://stpltrsrcscmnprdwus001.blob.core.windows.net/rsrcs/sk/images/we-the-students-3e/9780872897618-p169-1.jpg' alt='CQ Press Books - We the Students: Supreme Court cases for and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sage Knowledge - Sage Publishing" />
+                                </span>
+                                <a href='https://stpltrsrcscmnprdwus001.blob.core.windows.net/rsrcs/sk/images/we-the-students-3e/9780872897618-p169-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

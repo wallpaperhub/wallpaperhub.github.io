@@ -1,0 +1,129 @@
+<title>Stunning Crystal Backgrounds for Eye-Catching Designs</title>
+                    <meta name="description" content="Discover the beauty of crystal backgrounds to elevate your designs. Perfect for digital projects, these unique patterns and textures enhance visuals with elegance and charm. Explore our collection for inspiration today and transform your creative spaces effortlessly!">
+                    <meta name="keywords" content="crystal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crystal-background">
+                            <span itemprop="name">crystal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Crystal Backgrounds for Eye-Catching Designs</h1>
+                <p>Crystal backgrounds add a touch of elegance and sophistication to any design project. Their unique patterns, colors, and reflections can transform an ordinary space into an extraordinary one. These backgrounds are popular in digital media, providing a visually captivating element that enhances the overall aesthetics. Explore creative applications now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful crystal background. Close-up shot of colorful crystals ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/112/877/large_2x/colorful-crystal-background-close-up-shot-of-colorful-crystals-rainbow-of-gems-photo.jpeg' alt='Colorful crystal background. Close-up shot of colorful crystals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/112/877/large_2x/colorful-crystal-background-close-up-shot-of-colorful-crystals-rainbow-of-gems-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal Background Images – Browse 3,445,223 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/20/85/27/360_F_220852777_3g9ite2Rr6waY2gewcPOOoEHtdsZJfHC.jpg' alt='Crystal Background Images – Browse 3,445,223 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/20/85/27/360_F_220852777_3g9ite2Rr6waY2gewcPOOoEHtdsZJfHC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEyL3Jhd3BpeGVsb2ZmaWNlM19ibHVycmVkX2hvbG9ncmFwaGljX3Bhc3RlbF9iYWNrZ3JvdW5kX3Bhc3RlbF9taV84ZWViNGRhNy04OTRhLTQ2YmUtYTZjNS02ZGY3YTQzN2NhMDktbTUzbXQ5OGEucG5n.png' alt='Crystal Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEyL3Jhd3BpeGVsb2ZmaWNlM19ibHVycmVkX2hvbG9ncmFwaGljX3Bhc3RlbF9iYWNrZ3JvdW5kX3Bhc3RlbF9taV84ZWViNGRhNy04OTRhLTQ2YmUtYTZjNS02ZGY3YTQzN2NhMDktbTUzbXQ5OGEucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal background 2025">
+                                <img itemprop="contentUrl url" src='https://st5.depositphotos.com/78841118/67616/i/450/depositphotos_676169438-stock-photo-holographic-background-fairy-crystal-rainbow.jpg' alt='Crystal background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://st5.depositphotos.com/78841118/67616/i/450/depositphotos_676169438-stock-photo-holographic-background-fairy-crystal-rainbow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1603847734787-9e8a3f3e9d60?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J5c3RhbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' alt='Crystal Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1603847734787-9e8a3f3e9d60?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J5c3RhbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="364,600+ Abstract Crystal Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/510660391/photo/abstract-blue-crystal-refractions.jpg?s=612x612&w=0&k=20&c=oJjP7E6_Yfa6BpY1qUtSGyWO0R8tvoKyoDOH1ceNIVo=' alt='364,600+ Abstract Crystal Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/510660391/photo/abstract-blue-crystal-refractions.jpg?s=612x612&w=0&k=20&c=oJjP7E6_Yfa6BpY1qUtSGyWO0R8tvoKyoDOH1ceNIVo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Blue crystal background, Igor Gromoff">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/80/42/34/1000_F_180423436_zNNzuzuXFr8v2uzyurYoNdpVOnkCjUyY.jpg' alt='Photo & Art Print Blue crystal background, Igor Gromoff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/80/42/34/1000_F_180423436_zNNzuzuXFr8v2uzyurYoNdpVOnkCjUyY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/crystal-textured-background-illustration_53876-80620.jpg' alt='Crystal Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/crystal-textured-background-illustration_53876-80620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystals Wallpaper 4K, Rainbow, Dispersion, Mirror">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/mirror-symmetric-glossy-colorful-vivid-symmetry-3440x1440-7720.jpg' alt='Crystals Wallpaper 4K, Rainbow, Dispersion, Mirror'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/mirror-symmetric-glossy-colorful-vivid-symmetry-3440x1440-7720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Pastel Crystal Geometric Background, Crystal, Crystal ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-colorful-pastel-crystal-geometric-background-picture-image_1395702.jpg' alt='Colorful Pastel Crystal Geometric Background, Crystal, Crystal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-colorful-pastel-crystal-geometric-background-picture-image_1395702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

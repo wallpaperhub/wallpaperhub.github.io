@@ -1,0 +1,129 @@
+<title>Stunning Alan Wake Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a collection of breathtaking Alan Wake wallpapers for your iPhone. Perfect for fans, these graphics capture the game's essence, bringing mystery and excitement to your screen. Choose your favorite design to elevate your mobile experience today!">
+                    <meta name="keywords" content="alan wake iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/alan-wake-iphone-wallpaper">
+                            <span itemprop="name">alan wake iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Alan Wake Wallpapers for iPhone</h1>
+                <p>Transform your iPhone's look with stunning Alan Wake wallpapers! Discover captivating visuals inspired by the iconic game, perfect for fans seeking a blend of mystery and thrill. Whether you prefer dark, atmospheric scenes or character portraits, find the ideal wallpaper to showcase your passion for this thrilling narrative experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone able to make a 4K iPhone wallpaper with this poster design ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/e/ed/Alan_Wake_2_box_art.jpg' alt='Anyone able to make a 4K iPhone wallpaper with this poster design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="273">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/e/ed/Alan_Wake_2_box_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couldn't find a good Alan Wake iPhone wallpaper, so I made my own ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1bi4jqd30mwb1.png' alt='Couldn't find a good Alan Wake iPhone wallpaper, so I made my own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1bi4jqd30mwb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake 2 on X: "Get Alan Wake Remastered cinematic posters ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FIhNgKfXwAEdWvW.jpg' alt='Alan Wake 2 on X: "Get Alan Wake Remastered cinematic posters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FIhNgKfXwAEdWvW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake II - "Herald of Darkness" Musical Smartphone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/alan-wake-ii-herald-of-darkness-musical-smartphone-v0-85yi690par0c1.png?width=640&crop=smart&auto=webp&s=df987387f5c5b10d4b89eeff13fc991da064673f' alt='Alan Wake II - "Herald of Darkness" Musical Smartphone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/alan-wake-ii-herald-of-darkness-musical-smartphone-v0-85yi690par0c1.png?width=640&crop=smart&auto=webp&s=df987387f5c5b10d4b89eeff13fc991da064673f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake 2 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_alan_wake_2_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Alan Wake 2 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_alan_wake_2_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake Video Game 2020 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/2e/da/412edac73d4a62552b15e05406c0f9dd.jpg' alt='Alan Wake Video Game 2020 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/2e/da/412edac73d4a62552b15e05406c0f9dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake II - "Herald of Darkness" Musical Smartphone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/alan-wake-ii-herald-of-darkness-musical-smartphone-v0-bugtwf0par0c1.png?width=3240&format=png&auto=webp&s=f7963c9b0f0d7d052b2725942c71fafe62232fda' alt='Alan Wake II - "Herald of Darkness" Musical Smartphone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3240">
+                                <meta itemprop="height" content="7020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/alan-wake-ii-herald-of-darkness-musical-smartphone-v0-bugtwf0par0c1.png?width=3240&format=png&auto=webp&s=f7963c9b0f0d7d052b2725942c71fafe62232fda' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Alan Wake 2 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alan-wakein-rainy-darkness-f2rhaww3xqbv2m78.jpg' alt='100+] Alan Wake 2 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1159">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alan-wakein-rainy-darkness-f2rhaww3xqbv2m78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake, alan wake, bird, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/529/277/HD-wallpaper-alan-wake-alan-wake-bird.jpg' alt='Alan Wake, alan wake, bird, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/529/277/HD-wallpaper-alan-wake-alan-wake-bird.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alan Wake 2 Wallpaper 4K, Survival games, Saga Anderson">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/alan-wake-2-2880x1800-13669.jpg' alt='Alan Wake 2 Wallpaper 4K, Survival games, Saga Anderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/alan-wake-2-2880x1800-13669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

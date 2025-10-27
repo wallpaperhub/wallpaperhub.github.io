@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Dog Wallpapers for Cosmic Pet Lovers</title>
+                    <meta name="description" content="Explore our collection of galaxy dog wallpapers that blend cute canines with captivating cosmic art. Ideal for pet lovers wanting to elevate their device's aesthetic. Download now and let your love for dogs and the universe shine through!">
+                    <meta name="keywords" content="galaxy dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-dog-wallpaper">
+                            <span itemprop="name">galaxy dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Dog Wallpapers for Cosmic Pet Lovers</h1>
+                <p>Discover the enchanting world of galaxy dog wallpapers! Transform your device with stunning imagery featuring adorable dogs set against vibrant cosmic backgrounds. Perfect for dog lovers and space enthusiasts alike, these wallpapers combine cuteness with the mystery of the universe. Download your favorite today and let your screens shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dog Wallpaper Posters for Sale | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5453152173.8680/fposter,small,wall_texture,square_product,600x600.jpg' alt='Galaxy Dog Wallpaper Posters for Sale | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5453152173.8680/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dog Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4385354.jpg' alt='Galaxy Dog Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4385354.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Pup Galaxy Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/vibrant-pup-galaxy-wallpaper.webp' alt='Vibrant Pup Galaxy Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/vibrant-pup-galaxy-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Wolf Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/galaxy-wolf-lrddwh43e40u9e09.jpg' alt='100+] Galaxy Wolf Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/galaxy-wolf-lrddwh43e40u9e09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye of the wolf, wolf, galaxy, dog, purple, blue, orange, animal ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/572/HD-wallpaper-eye-of-the-wolf-wolf-galaxy-dog-purple-blue-orange-animal-pink-white-fox.jpg' alt='Eye of the wolf, wolf, galaxy, dog, purple, blue, orange, animal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/572/HD-wallpaper-eye-of-the-wolf-wolf-galaxy-dog-purple-blue-orange-animal-pink-white-fox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Dog Wallpaper Posters for Sale | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4845044483.8919/fposter,small,wall_texture,square_product,600x600.jpg' alt='Galaxy Dog Wallpaper Posters for Sale | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4845044483.8919/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Cute Boxer Breed Dog Puppy in a Beautiful Cosmic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-boxer-breed-dog-puppy-beautiful-cosmic-starry-sky-deep-space-background_1268435-462.jpg' alt='Premium Photo | Cute Boxer Breed Dog Puppy in a Beautiful Cosmic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-boxer-breed-dog-puppy-beautiful-cosmic-starry-sky-deep-space-background_1268435-462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: 1920x1080 px Corgi dog Garlic space universe People ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/cc/6e/08cc6e5a8d1bae3de86e05c0558458e8.jpg' alt='HD wallpaper: 1920x1080 px Corgi dog Garlic space universe People ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/cc/6e/08cc6e5a8d1bae3de86e05c0558458e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD galaxy fox wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/409/62/HD-wallpaper-foxy-galaxy-cute-fox-blue-thumbnail.jpg' alt='HD galaxy fox wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/409/62/HD-wallpaper-foxy-galaxy-cute-fox-blue-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I liked garlic dog so much I decided to make my own version of the ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/w8AbVV15-LpouyJ26Q_L1aiDyne4evUZ6CGfoQPsH0A.jpg?auto=webp&s=0b2f64d234657c6e64df55e5ace0e25f0d76607e' alt='I liked garlic dog so much I decided to make my own version of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/w8AbVV15-LpouyJ26Q_L1aiDyne4evUZ6CGfoQPsH0A.jpg?auto=webp&s=0b2f64d234657c6e64df55e5ace0e25f0d76607e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Warhammer 40K Space Marine Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore a collection of breathtaking Warhammer 40K Space Marine wallpapers. Perfect for fans and gamers alike, these stunning visuals enhance your devices while celebrating the epic universe of Warhammer. Download your favorites and represent your favorite Space Marine chapters today!">
+                    <meta name="keywords" content="warhammer 40k space marine wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/warhammer-40k-space-marine-wallpaper">
+                            <span itemprop="name">warhammer 40k space marine wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Warhammer 40K Space Marine Wallpapers for Gamers</h1>
+                <p>Discover stunning Warhammer 40K Space Marine wallpapers that elevate your gaming experience. Perfect for fans, these high-quality images showcase iconic Space Marine chapters and their epic battles. Transform your device with breathtaking art that encapsulates the grimdark universe of Warhammer 40K. Explore and download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultramarines in 4K Ultra HD: Warhammer 40K Space Marine 2 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/137/1376001.jpg' alt='Ultramarines in 4K Ultra HD: Warhammer 40K Space Marine 2 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/137/1376001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper armor, warhammer 40k, bolter, space Marines, ultramarine ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/4/15/badfon-warhammer-40k-ultramarin-4255.jpg' alt='Wallpaper armor, warhammer 40k, bolter, space Marines, ultramarine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/4/15/badfon-warhammer-40k-ultramarin-4255.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Marine Video Game Warhammer 40k HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/130/1301332.jpg' alt='Download Space Marine Video Game Warhammer 40k HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/130/1301332.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080) Ultramarine from space marine 2. : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2pcrfr9vev4a1.jpg' alt='1920x1080) Ultramarine from space marine 2. : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2pcrfr9vev4a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer 40k: Space Marine 2 wallpaper by ChristianP7676 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2aa92e0b-c2d9-4057-913d-258273f31fc7/dhm0ksi-af135f70-ccaa-4089-8524-b916f9fe9c33.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhYTkyZTBiLWMyZDktNDA1Ny05MTNkLTI1ODI3M2YzMWZjN1wvZGhtMGtzaS1hZjEzNWY3MC1jY2FhLTQwODktODUyNC1iOTE2ZjlmZTljMzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tK_LLsizIb2TttUQ--gR-szjpXCFXC8XuC5oh4f25wA' alt='Warhammer 40k: Space Marine 2 wallpaper by ChristianP7676 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2aa92e0b-c2d9-4057-913d-258273f31fc7/dhm0ksi-af135f70-ccaa-4089-8524-b916f9fe9c33.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhYTkyZTBiLWMyZDktNDA1Ny05MTNkLTI1ODI3M2YzMWZjN1wvZGhtMGtzaS1hZjEzNWY3MC1jY2FhLTQwODktODUyNC1iOTE2ZjlmZTljMzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tK_LLsizIb2TttUQ--gR-szjpXCFXC8XuC5oh4f25wA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1125x2436 resolution | video game wallpaper, Warhammer 40,000 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/0e/79/ee0e79fa0ed050a48d0b95075a69c13c.jpg' alt='1125x2436 resolution | video game wallpaper, Warhammer 40,000 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/0e/79/ee0e79fa0ed050a48d0b95075a69c13c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD space marine wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1015/185/HD-wallpaper-portrait-display-warhammer-40-000-space-marine.jpg' alt='HD space marine wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1015/185/HD-wallpaper-portrait-display-warhammer-40-000-space-marine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer 40K Space Marine 2 Wallpaper 4K, Key Art, 2024 Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/warhammer-40k-space-2560x1440-17895.jpg' alt='Warhammer 40K Space Marine 2 Wallpaper 4K, Key Art, 2024 Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/warhammer-40k-space-2560x1440-17895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warhammer 40K Space Marine II HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/132/1320178.jpeg' alt='Warhammer 40K Space Marine II HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/132/1320178.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: warhammer 40k space marine ultramarine 1920x1080 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/66/df/7b66df39f4fc0ea3f668819a30341b8b.jpg' alt='HD wallpaper: warhammer 40k space marine ultramarine 1920x1080 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/66/df/7b66df39f4fc0ea3f668819a30341b8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

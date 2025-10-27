@@ -1,0 +1,129 @@
+<title>Chic Preppy Beige Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Add a timeless touch to your home with our preppy beige wallpaper. Perfectly blending style and warmth, it's ideal for any room. Transform your space into an elegant haven effortlessly. Explore our collection for the perfect wallpaper that enhances your decor today!">
+                    <meta name="keywords" content="preppy beige wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-beige-wallpaper">
+                            <span itemprop="name">preppy beige wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Beige Wallpaper for Elegant Interiors</h1>
+                <p>Preppy beige wallpaper adds a touch of classic elegance to any space. Its versatile hue complements various decor styles, from traditional to modern. Ideal for creating a warm ambiance, this sophisticated design works beautifully in living rooms, bedrooms, or offices. Elevate your interiors with stylish preppy beige wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/2e/8e/982e8e8012df44d03b085a89df147d75.jpg' alt='Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/2e/8e/982e8e8012df44d03b085a89df147d75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Beige Wallpapers/images (not mine)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/4c/01/184c013bef207d5ae161a03ae4b5d1d5.jpg' alt='Preppy Beige Wallpapers/images (not mine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/4c/01/184c013bef207d5ae161a03ae4b5d1d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Aesthetic Beige Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/preppy-aesthetic-beige-collage-icccv2btzveaw6x7.jpg' alt='Preppy Aesthetic Beige Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/preppy-aesthetic-beige-collage-icccv2btzveaw6x7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/23/f7/2d23f7564fc9ef6444a3d0e1ad62b385.jpg' alt='Beige Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/23/f7/2d23f7564fc9ef6444a3d0e1ad62b385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Preppy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-daisy-floral-pattern-vector-beige-background_53876-111609.jpg' alt='Aesthetic Wallpaper Preppy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-daisy-floral-pattern-vector-beige-background_53876-111609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' alt='Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin en Quick Saves">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/39/3d/16393d629fc88fc87e7b11d75fc185d7.jpg' alt='Pin en Quick Saves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/39/3d/16393d629fc88fc87e7b11d75fc185d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable beige wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF09yyc0Vc/1/0/450w/canva-brown-beige-aesthetic-leaf-phone-wallpaper-vOC17t8JsWk.jpg' alt='Free and customizable beige wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF09yyc0Vc/1/0/450w/canva-brown-beige-aesthetic-leaf-phone-wallpaper-vOC17t8JsWk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Simple Lines Minimalist Beige Screensaver Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/42/ee/1c42eeec23347535674e9ac52b0db308.jpg' alt='Aesthetic Simple Lines Minimalist Beige Screensaver Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/42/ee/1c42eeec23347535674e9ac52b0db308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Beige Beachwood Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-beige-sad-quote-zw8fa0ss12y7b2no.webp' alt='Aesthetic Beige Beachwood Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-beige-sad-quote-zw8fa0ss12y7b2no.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

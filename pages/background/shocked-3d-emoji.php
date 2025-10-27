@@ -1,0 +1,129 @@
+<title>Shocked 3D Emoji: Express Your Surprise</title>
+                    <meta name="description" content="Discover the shocked 3D emoji, the perfect way to convey your surprise and disbelief in conversations! Ideal for social media and messaging apps, this striking emoji adds personality to your chats. Use it to make your feelings known effortlessly and in style!">
+                    <meta name="keywords" content="shocked 3d emoji">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shocked-3d-emoji">
+                            <span itemprop="name">shocked 3d emoji</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shocked 3D Emoji: Express Your Surprise</h1>
+                <p>Experience the excitement of the shocked 3D emoji! This vibrant and expressive emoji captures surprise and disbelief, perfect for any conversation. Bring your messages to life with its eye-catching design and lifelike expression. Use it to convey your reactions in a fun and impactful way!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D surprised emoji | Magnet">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4744836024.4289/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='3D surprised emoji | Magnet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4744836024.4289/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked 3D Emoji - Free Download Sign & Symbols 3D Emojis ...">
+                                <img itemprop="contentUrl url" src='https://cdn3d.iconscout.com/3d/premium/preview/shocked-3d-emoji-download-in-png-blend-fbx-gltf-file-formats--smiley-face-cute-emoticon-pack-sign-symbols-emojis-3844195.png?f=webp&h=700' alt='Shocked 3D Emoji - Free Download Sign & Symbols 3D Emojis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IconScout" />
+                                </span>
+                                <a href='https://cdn3d.iconscout.com/3d/premium/preview/shocked-3d-emoji-download-in-png-blend-fbx-gltf-file-formats--smiley-face-cute-emoticon-pack-sign-symbols-emojis-3844195.png?f=webp&h=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D surprised emoji | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4744835921.4289/farp,small,wall_texture,product,750x1000.jpg' alt='3D surprised emoji | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4744835921.4289/farp,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoji GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/rfTjWG0CKEMAAAAM/blue-face-shock-blue-face.gif' alt='Shocked Emoji GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/rfTjWG0CKEMAAAAM/blue-face-shock-blue-face.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoticon Emoji 3d Illustration 3d Rendering on White ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/shocked-emoticon-emoji-d-illustration-d-rendering-white-background-shocked-emoticon-emoji-d-illustration-d-rendering-white-285177939.jpg' alt='Shocked Emoticon Emoji 3d Illustration 3d Rendering on White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/shocked-emoticon-emoji-d-illustration-d-rendering-white-background-shocked-emoticon-emoji-d-illustration-d-rendering-white-285177939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked emoticon Cut Out Stock Images & Pictures - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/ANCFJ6/shocked-smiley-ANCFJ6.jpg' alt='Shocked emoticon Cut Out Stock Images & Pictures - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/ANCFJ6/shocked-smiley-ANCFJ6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley, Emoticon. Facial expression. Surprised emotional ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/C3H36H/smiley-emoticon-facial-expression-surprised-emotional-expression-on-C3H36H.jpg' alt='Smiley, Emoticon. Facial expression. Surprised emotional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/C3H36H/smiley-emoticon-facial-expression-surprised-emotional-expression-on-C3H36H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,000+ Shocked Emoji Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1342796307/photo/screaming-smiley-face.jpg?s=612x612&w=0&k=20&c=9_UMVImU19t2OuHXnCGtut3FGp_GHdx4p4R_GlaaFa8=' alt='15,000+ Shocked Emoji Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1342796307/photo/screaming-smiley-face.jpg?s=612x612&w=0&k=20&c=9_UMVImU19t2OuHXnCGtut3FGp_GHdx4p4R_GlaaFa8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Social media icons 3d surprised emoji character ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/social-media-icons-3d-surprised-emoji-character-illustration_644709-22.jpg' alt='Premium PSD | Social media icons 3d surprised emoji character ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/social-media-icons-3d-surprised-emoji-character-illustration_644709-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Socking 3D Emoji - Free Download Sign & Symbols 3D Emojis | IconScout">
+                                <img itemprop="contentUrl url" src='https://cdn3d.iconscout.com/3d/premium/thumb/socking-3d-emoji-download-in-png-blend-fbx-gltf-file-formats--smiley-shocked-face-cute-emoticon-pack-sign-symbols-emojis-3844210.png' alt='Socking 3D Emoji - Free Download Sign & Symbols 3D Emojis | IconScout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IconScout" />
+                                </span>
+                                <a href='https://cdn3d.iconscout.com/3d/premium/thumb/socking-3d-emoji-download-in-png-blend-fbx-gltf-file-formats--smiley-shocked-face-cute-emoticon-pack-sign-symbols-emojis-3844210.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

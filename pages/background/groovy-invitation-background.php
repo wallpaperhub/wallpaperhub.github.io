@@ -1,0 +1,129 @@
+<title>Groovy Invitation Backgrounds: Set the Perfect Party Vibe!</title>
+                    <meta name="description" content="Discover vibrant groovy invitation backgrounds that enhance the excitement for your upcoming event! Perfect for parties and celebrations, these designs infuse energy and creativity, making your invitations stand out. Explore now to find the ideal backdrop for your special occasion!">
+                    <meta name="keywords" content="groovy invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-invitation-background">
+                            <span itemprop="name">groovy invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Invitation Backgrounds: Set the Perfect Party Vibe!</h1>
+                <p>Transform your event with a groovy invitation background that exudes fun and creativity! Ideal for parties, weddings, or casual gatherings, these vibrant designs capture the spirit of the occasion. Whether it's retro patterns or colorful graphics, your invite will set the perfect tone and excitement for your special day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 5 | Groovy Invitation Background Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-groovy-smiley-background-60s-70s-style-banners-greeting-cards-invitations_656098-34.jpg' alt='Page 5 | Groovy Invitation Background Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-groovy-smiley-background-60s-70s-style-banners-greeting-cards-invitations_656098-34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Two Groovy Birthday Party Invitation Template Rainbow ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14167991/r/il/b5267c/4092721421/il_fullxfull.4092721421_hnlr.jpg' alt='Editable Two Groovy Birthday Party Invitation Template Rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14167991/r/il/b5267c/4092721421/il_fullxfull.4092721421_hnlr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Vibes Invitations in Yellow | Greenvelope.com">
+                                <img itemprop="contentUrl url" src='https://www.greenvelope.com/designs/images/groovy-vibes-invitations-yellow-o51764~1040_back' alt='Groovy Vibes Invitations in Yellow | Greenvelope.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenvelope" />
+                                </span>
+                                <a href='https://www.greenvelope.com/designs/images/groovy-vibes-invitations-yellow-o51764~1040_back' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TWO GROOVY Invitation Instant Download Daisy 2nd Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10931219/r/il/0335d2/3676299971/il_fullxfull.3676299971_np5i.jpg' alt='TWO GROOVY Invitation Instant Download Daisy 2nd Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10931219/r/il/0335d2/3676299971/il_fullxfull.3676299971_np5i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two groovy Baby card. Retro 70s greeting, Retro birthday ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/03/66/47/1000_F_503664708_8nwa0wZ0Zhc3yr52eIuWgn02wuXnNvXL.jpg' alt='Two groovy Baby card. Retro 70s greeting, Retro birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/03/66/47/1000_F_503664708_8nwa0wZ0Zhc3yr52eIuWgn02wuXnNvXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7+ Get Groovy Retro Hippie Canva Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/ab/f8/afabf8456f4fa50109dc24d30a0e5a64.jpg' alt='7+ Get Groovy Retro Hippie Canva Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/ab/f8/afabf8456f4fa50109dc24d30a0e5a64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Groovy Birthday Party Invitation | The Party Darling">
+                                <img itemprop="contentUrl url" src='https://thepartydarling.com/cdn/shop/products/GroovyPartyInvitation-02_1200x.jpg?v=1679606123' alt='Two Groovy Birthday Party Invitation | The Party Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Party Darling" />
+                                </span>
+                                <a href='https://thepartydarling.com/cdn/shop/products/GroovyPartyInvitation-02_1200x.jpg?v=1679606123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7+ Get Groovy Retro Hippie Canva Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/cc/c6/59ccc6f86765f0bfba64bd0b98b430d0.jpg' alt='7+ Get Groovy Retro Hippie Canva Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/cc/c6/59ccc6f86765f0bfba64bd0b98b430d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Baby Shower cards set. Retro 70s Baby Shower party ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/289/614/non_2x/groovy-baby-shower-cards-set-retro-70s-baby-shower-party-invitation-poster-retro-vintage-pattern-retro-70s-newborn-psychedelic-floral-banner-collection-kids-groovy-birthday-illustration-vector.jpg' alt='Groovy Baby Shower cards set. Retro 70s Baby Shower party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/289/614/non_2x/groovy-baby-shower-cards-set-retro-70s-baby-shower-party-invitation-poster-retro-vintage-pattern-retro-70s-newborn-psychedelic-floral-banner-collection-kids-groovy-birthday-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good vibe only groovy birthday invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/good-vibe-only-groovy-birthday-invitation-design-template-f9d612967b65572d6e47fdd2cb6e4719_screen.jpg?ts=1646376690' alt='Good vibe only groovy birthday invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/good-vibe-only-groovy-birthday-invitation-design-template-f9d612967b65572d6e47fdd2cb6e4719_screen.jpg?ts=1646376690' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

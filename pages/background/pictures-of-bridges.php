@@ -1,0 +1,129 @@
+<title>Stunning Bridge Pictures: Explore Iconic Structures</title>
+                    <meta name="description" content="Discover breathtaking pictures of bridges that highlight their beauty and architecture. From famous landmarks to hidden gems, explore stunning visuals showcasing these engineering wonders against diverse landscapes. Perfect for architecture lovers and travel enthusiasts alike!">
+                    <meta name="keywords" content="pictures of bridges">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-bridges">
+                            <span itemprop="name">pictures of bridges</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bridge Pictures: Explore Iconic Structures</h1>
+                <p>Bridges are architectural marvels that connect landscapes and people. From iconic structures like the Golden Gate Bridge to charming rural crossings, pictures of bridges showcase their engineering brilliance and beauty. Explore stunning images capturing their grandeur, unique designs, and the stories they tell against picturesque backdrops around the world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Cool Bridges With Amazing Architecture - Best Architecture Designs">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/cool-bridges-1487970565.jpg' alt='15 Cool Bridges With Amazing Architecture - Best Architecture Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/cool-bridges-1487970565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 25 Most Advanced Bridges in the World | AD Middle East">
+                                <img itemprop="contentUrl url" src='https://media.admiddleeast.com/photos/66e1a983660967ee6eb575c0/4:3/w_2668,h_2001,c_limit/Sheikh%20Zayed%20Bridge.jpg' alt='The 25 Most Advanced Bridges in the World | AD Middle East'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2668">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AD Middle East" />
+                                </span>
+                                <a href='https://media.admiddleeast.com/photos/66e1a983660967ee6eb575c0/4:3/w_2668,h_2001,c_limit/Sheikh%20Zayed%20Bridge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Beautiful Bridges to Drive Across in the US - Business ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5ee28fb64dca6845d15d8bc3?width=1200&format=jpeg' alt='The Most Beautiful Bridges to Drive Across in the US - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5ee28fb64dca6845d15d8bc3?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Bridges | BigRentz">
+                                <img itemprop="contentUrl url" src='https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/Types-of-Bridges.webp' alt='Types of Bridges | BigRentz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="859">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigRentz" />
+                                </span>
+                                <a href='https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/Types-of-Bridges.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Bridges: See the 27 Most Spectacular Bridges in the ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/63b5bcb991798386d6c64127/16:9/w_4656,h_2619,c_limit/GettyImages-1235814282.jpg' alt='Beautiful Bridges: See the 27 Most Spectacular Bridges in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4656">
+                                <meta itemprop="height" content="2619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/63b5bcb991798386d6c64127/16:9/w_4656,h_2619,c_limit/GettyImages-1235814282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranked: the most beautiful bridges in Europe | loveexploring.com">
+                                <img itemprop="contentUrl url" src='https://loveincorporated.blob.core.windows.net/contentimages/gallery/7128eb34-29ab-40a6-8b58-cdf50a7f7131-europebridges_peljesacbridgecroatia.jpg' alt='Ranked: the most beautiful bridges in Europe | loveexploring.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="loveEXPLORING" />
+                                </span>
+                                <a href='https://loveincorporated.blob.core.windows.net/contentimages/gallery/7128eb34-29ab-40a6-8b58-cdf50a7f7131-europebridges_peljesacbridgecroatia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Famous Bridges in the World You Need to Cross">
+                                <img itemprop="contentUrl url" src='https://static.tripzilla.com/thumb/6/d/153197_800x.jpg' alt='10 Famous Bridges in the World You Need to Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TripZilla" />
+                                </span>
+                                <a href='https://static.tripzilla.com/thumb/6/d/153197_800x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Beautiful Bridges in the World">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/WNNK_evpaM5pTGjRo9MMKRbTl3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tower-bridge-london-england-BEAUXBRIDGES0719-a4cefb4000df4e889dd648922fac34e9.jpg' alt='The Most Beautiful Bridges in the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/WNNK_evpaM5pTGjRo9MMKRbTl3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tower-bridge-london-england-BEAUXBRIDGES0719-a4cefb4000df4e889dd648922fac34e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon bridge - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG' alt='Moon bridge - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Iconic Bridges of England – The Historic England Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/heritagecalling.com/wp-content/uploads/2017/06/severn-bridge-2011-c-historic-england.jpg?resize=1440%2C580&ssl=1' alt='7 Iconic Bridges of England – The Historic England Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Historic England Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/heritagecalling.com/wp-content/uploads/2017/06/severn-bridge-2011-c-historic-england.jpg?resize=1440%2C580&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

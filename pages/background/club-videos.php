@@ -1,0 +1,129 @@
+<title>Unleash the Night: Captivating Club Videos</title>
+                    <meta name="description" content="Discover the excitement of nightlife with captivating club videos. Experience the thrill of dance, music, and live performances, all while connecting with a vibrant community. Perfect for sharing your clubbing adventures and gathering inspiration for your next night out! Join the fun today!">
+                    <meta name="keywords" content="club videos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/club-videos">
+                            <span itemprop="name">club videos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash the Night: Captivating Club Videos</h1>
+                <p>Club videos capture the essence of nightlife, showcasing electrifying dance floors, live performances, and the vibrant atmosphere in clubs. Through creative editing and engaging content, these videos not only promote events but also create a sense of community among party-goers. Relive unforgettable moments and inspire others to join the fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Club Videos, Download The BEST Free 4k Stock Video Footage & Club ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/4044012/disco-music-nightclub-party-4044012.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Club Videos, Download The BEST Free 4k Stock Video Footage & Club ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/4044012/disco-music-nightclub-party-4044012.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People dancing at a night club">
+                                <img itemprop="contentUrl url" src='https://assets.mixkit.co/videos/4344/4344-thumb-720-0.jpg' alt='People dancing at a night club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixkit" />
+                                </span>
+                                <a href='https://assets.mixkit.co/videos/4344/4344-thumb-720-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mariupol, Ukraine - 15 June 2019. People are dancing in Barbaris night club  lit by show lights. Silhouettes of men and women partying on dance floor in  slow motion. Ordinary open entry weekend party.">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/BXoCcli6Gjgt702lg/videoblocks-mariupol-ukraine-15-june-2019-people-are-dancing-in-barbaris-night-club-lit-by-show-lights-silhouettes-of-men-and-women-partying-on-dance-floor-in-slow-motion-ordinary-open-entry-weekend-party_ssq4hkxor_thumbnail-180_08.jpg' alt='Mariupol, Ukraine - 15 June 2019. People are dancing in Barbaris night club  lit by show lights. Silhouettes of men and women partying on dance floor in  slow motion. Ordinary open entry weekend party.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/BXoCcli6Gjgt702lg/videoblocks-mariupol-ukraine-15-june-2019-people-are-dancing-in-barbaris-night-club-lit-by-show-lights-silhouettes-of-men-and-women-partying-on-dance-floor-in-slow-motion-ordinary-open-entry-weekend-party_ssq4hkxor_thumbnail-180_08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Club, Cocktail, Bar. Free Stock Video">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2021/08/24/86256-593601045_tiny.jpg' alt='Night Club, Cocktail, Bar. Free Stock Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2021/08/24/86256-593601045_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Club Videos, Download The BEST Free 4k Stock Video Footage & Club ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/801863/pexels-photo-801863.jpeg' alt='Club Videos, Download The BEST Free 4k Stock Video Footage & Club ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/801863/pexels-photo-801863.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saturday night at Forbidden Club.    #forbiddenclub #forbiddenclubcalamba  #calambaclub #calambafinestclub #calamba #calambalaguna #calambenos  #calambeños #club #nightclub #nightclubs #nightlife #party ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7321550545926278402&location=0&aid=1988' alt='Saturday night at Forbidden Club.    #forbiddenclub #forbiddenclubcalamba  #calambaclub #calambafinestclub #calamba #calambalaguna #calambenos  #calambeños #club #nightclub #nightclubs #nightlife #party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7321550545926278402&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing in Nightclub 04 / Free Stock Footage - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3V7CzVXCrkI/maxresdefault.jpg' alt='Dancing in Nightclub 04 / Free Stock Footage - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3V7CzVXCrkI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video from first club night in UK    | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=300852185060625&get_thumbnail=1' alt='Video from first club night in UK    | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=300852185060625&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crowd, Dancing, Nightclub. Free Stock Video">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2018/05/08/16045-269122198_tiny.jpg' alt='Crowd, Dancing, Nightclub. Free Stock Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2018/05/08/16045-269122198_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy night club dancing atmosphere 39633041">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/3001967/3963/v/600/depositphotos_39633041-stock-video-crazy-night-club-dancing-atmosphere.jpg' alt='Crazy night club dancing atmosphere 39633041'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/3001967/3963/v/600/depositphotos_39633041-stock-video-crazy-night-club-dancing-atmosphere.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

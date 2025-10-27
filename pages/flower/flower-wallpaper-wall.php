@@ -1,0 +1,129 @@
+<title>Vibrant Floral Wallpaper for Stunning Décor</title>
+                    <meta name="description" content="Explore our collection of stunning flower wallpaper that revitalizes any room. With vibrant designs and quality materials, find the perfect floral pattern to enhance your home’s aesthetic. Ideal for any space, bringing nature's beauty inside effortlessly. Upgrade your décor today!">
+                    <meta name="keywords" content="flower wallpaper wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-wallpaper-wall">
+                            <span itemprop="name">flower wallpaper wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Wallpaper for Stunning Décor</h1>
+                <p>Transform your space with vibrant flower wallpaper. Perfect for adding warmth and beauty, floral designs bring nature indoors. Whether you prefer bold blooms or subtle patterns, floral wallpaper can make any room feel fresh and inviting. Ideal for living rooms, bedrooms, or offices, it adds character and charm effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Self-Adhesive Blooming Vintage Colourful Flowers Wall Paper for  Bedroom Living Room Cabinet, Peel and Stick Beige Sketch Little Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81U9sw-F5BL._AC_UF894,1000_QL80_.jpg' alt='Wallpaper Self-Adhesive Blooming Vintage Colourful Flowers Wall Paper for  Bedroom Living Room Cabinet, Peel and Stick Beige Sketch Little Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81U9sw-F5BL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Hanging Flowers Floral Wallpaper Wall Mural, Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18000923/r/il/0a0dc7/2313593098/il_fullxfull.2313593098_4vcf.jpg' alt='Watercolor Hanging Flowers Floral Wallpaper Wall Mural, Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18000923/r/il/0a0dc7/2313593098/il_fullxfull.2313593098_4vcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Blossoms Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss781620058-1_1.jpg' alt='Colorful Blossoms Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss781620058-1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpapers for your wall ➡️ Choose from 2400+ mural designs">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8d0d2ffa03bd9847c3ea9d527a167803fb54b60c-3000x2000.jpg' alt='Floral wallpapers for your wall ➡️ Choose from 2400+ mural designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8d0d2ffa03bd9847c3ea9d527a167803fb54b60c-3000x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Flowers Wallpaper Mural , Unique Floral Wall Mural Modern Home ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18122451/r/il/bc8bb6/2077489208/il_fullxfull.2077489208_liz7.jpg' alt='Big Flowers Wallpaper Mural , Unique Floral Wall Mural Modern Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AdmaWallArt" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18122451/r/il/bc8bb6/2077489208/il_fullxfull.2077489208_liz7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper White flowers against the background of ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/768/u25278pih1m_1200.webp' alt='Wall Mural Photo Wallpaper White flowers against the background of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/768/u25278pih1m_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Wall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/74851/flowers-wall.jpg?h=699&q=85' alt='Flowers Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/74851/flowers-wall.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Floral Mural Small Pink Flowers Vine | BVM Home">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/Custom-3D-Mural-Wallpaper-Modern-Hand-Painted-Floral-Flowers-Bedroom-Living-Room-Decoration-Wall-Painting-Waterproof_580x.jpg?v=1612375372' alt='Custom Wallpaper Floral Mural Small Pink Flowers Vine | BVM Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/Custom-3D-Mural-Wallpaper-Modern-Hand-Painted-Floral-Flowers-Bedroom-Living-Room-Decoration-Wall-Painting-Waterproof_580x.jpg?v=1612375372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflower Wallpaper, Floral Wallpaper, Nursery Kids Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26458108/r/il/910dce/6363152104/il_fullxfull.6363152104_4ycd.jpg' alt='Wildflower Wallpaper, Floral Wallpaper, Nursery Kids Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26458108/r/il/910dce/6363152104/il_fullxfull.6363152104_4ycd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

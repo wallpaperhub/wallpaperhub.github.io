@@ -1,0 +1,129 @@
+<title>Missouri Firearms Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover Missouri's stance on firearms background checks. Learn about the current regulations, what is required for licensed dealers, and how private sales differ. Stay informed on gun safety laws in Missouri to ensure responsible ownership.">
+                    <meta name="keywords" content="does missouri require background checks for firearms">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-missouri-require-background-checks-for-firearms">
+                            <span itemprop="name">does missouri require background checks for firearms</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Missouri Firearms Background Checks: What You Need to Know</h1>
+                <p>Missouri law does not require universal background checks for most firearm purchases. Private sales between individuals typically do not entail background checks, although licensed dealers are mandated to conduct them. This has sparked debates on gun safety and the need for stricter regulations to prevent unauthorized access to firearms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which States Require a Background Check? | USCCA">
+                                <img itemprop="contentUrl url" src='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' alt='Which States Require a Background Check? | USCCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uscca" />
+                                </span>
+                                <a href='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Background Checks by State - Home Security Blog">
+                                <img itemprop="contentUrl url" src='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' alt='Gun Background Checks by State - Home Security Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ADT" />
+                                </span>
+                                <a href='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SLU/YouGov Poll Analysis: Missouri Has Extremely Weak Gun Control ...">
+                                <img itemprop="contentUrl url" src='https://www.slu.edu/research/research-institute/big-ideas/slu-poll/data-archive/august-2024-poll/-img/block-four/guns-backgroundchecks-party.png' alt='SLU/YouGov Poll Analysis: Missouri Has Extremely Weak Gun Control ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3150">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saint Louis University" />
+                                </span>
+                                <a href='https://www.slu.edu/research/research-institute/big-ideas/slu-poll/data-archive/august-2024-poll/-img/block-four/guns-backgroundchecks-party.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's what to know about Missouri gun laws after Kansas City shooting">
+                                <img itemprop="contentUrl url" src='https://www.news-leader.com/gcdn/presto/2019/02/28/PSPR/0bf8cdbc-d756-4e2b-85c3-4d1db1ad97cf-tMcarthy_outdoors00061.jpg?width=1733&height=1148&fit=crop&format=pjpg&auto=webp' alt='Here's what to know about Missouri gun laws after Kansas City shooting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1733">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Springfield News-Leader" />
+                                </span>
+                                <a href='https://www.news-leader.com/gcdn/presto/2019/02/28/PSPR/0bf8cdbc-d756-4e2b-85c3-4d1db1ad97cf-tMcarthy_outdoors00061.jpg?width=1733&height=1148&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Background Checks for Gun Purchases">
+                                <img itemprop="contentUrl url" src='https://www.aap.org/globalassets/advocacy/universal-background-checks.jpg' alt='Universal Background Checks for Gun Purchases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="876">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAP" />
+                                </span>
+                                <a href='https://www.aap.org/globalassets/advocacy/universal-background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States like Missouri that have the weakest gun laws in the country ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3304274819485825772' alt='States like Missouri that have the weakest gun laws in the country ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3304274819485825772' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun laws in Missouri: Who can sell, buy and carry firearms?">
+                                <img itemprop="contentUrl url" src='https://www.news-leader.com/gcdn/-mm-/8e495f4db8a116ef4a8a398f4252cbed3da9fec1/c=0-102-2784-1675/local/-/media/2018/02/23/Springfield/Springfield/636549962592211009-SNLBrd-01-10-2013-NewsLeader-1-A005-2013-01-09-IMG--rifle-0549.jpg-2007-1-1-PL34UC61-IMG--rifle-0549.jpg-2007-1-1-PL34UC61.jpg' alt='Gun laws in Missouri: Who can sell, buy and carry firearms?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2784">
+                                <meta itemprop="height" content="1573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Springfield News-Leader" />
+                                </span>
+                                <a href='https://www.news-leader.com/gcdn/-mm-/8e495f4db8a116ef4a8a398f4252cbed3da9fec1/c=0-102-2784-1675/local/-/media/2018/02/23/Springfield/Springfield/636549962592211009-SNLBrd-01-10-2013-NewsLeader-1-A005-2013-01-09-IMG--rifle-0549.jpg-2007-1-1-PL34UC61-IMG--rifle-0549.jpg-2007-1-1-PL34UC61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Gun Law Requires Triple Background Checks and Mandatory ...">
+                                <img itemprop="contentUrl url" src='https://historyenhanced.com/wp-content/uploads/2024/04/3rdBackgroundCheck_image_1-1024x576.jpg' alt='New Gun Law Requires Triple Background Checks and Mandatory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Enhanced" />
+                                </span>
+                                <a href='https://historyenhanced.com/wp-content/uploads/2024/04/3rdBackgroundCheck_image_1-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are the guns laws in Missouri?">
+                                <img itemprop="contentUrl url" src='https://fox2now.com/wp-content/uploads/sites/14/2022/05/snapshot-2022-05-25T191615.634.jpg?strip=1' alt='What are the guns laws in Missouri?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 2" />
+                                </span>
+                                <a href='https://fox2now.com/wp-content/uploads/sites/14/2022/05/snapshot-2022-05-25T191615.634.jpg?strip=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri Firearms Survey - Reports - Missouri Foundation for Health">
+                                <img itemprop="contentUrl url" src='https://mffh.org/wp-content/uploads/2024/03/firearm-reportsArtboard-3@0.5x-100-1.jpg' alt='Missouri Firearms Survey - Reports - Missouri Foundation for Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Missouri Foundation for Health" />
+                                </span>
+                                <a href='https://mffh.org/wp-content/uploads/2024/03/firearm-reportsArtboard-3@0.5x-100-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

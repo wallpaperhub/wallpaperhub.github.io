@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="name tattoo with background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/name-tattoo-with-background">
+                            <span itemprop="name">name tattoo with background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo of my Daughter's name with roses background. Done by Axi ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a2sc8ihss7m51.jpg' alt='Tattoo of my Daughter's name with roses background. Done by Axi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a2sc8ihss7m51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cool Last Name Tattoos for Men">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/01/dc/4501dc2ef0316378c4b0bc60faacaba9.jpg' alt='50 Cool Last Name Tattoos for Men'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/01/dc/4501dc2ef0316378c4b0bc60faacaba9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some lettering and background shading I did the other day.. came ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3305773185827137663' alt='Some lettering and background shading I did the other day.. came ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3305773185827137663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Name Tattoo Ideas You Should Check">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Name_Tattoo_21_1024x1024.jpg?v=1697085228' alt='30 Best Name Tattoo Ideas You Should Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kreafolk" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Name_Tattoo_21_1024x1024.jpg?v=1697085228' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name Script Tattoo with Night Scene Background - Heart for Art ...">
+                                <img itemprop="contentUrl url" src='http://heart-for-art.squarespace.com/storage/20120912_161556small.jpg?__SQUARESPACE_CACHEVERSION=1347910868667' alt='Name Script Tattoo with Night Scene Background - Heart for Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoo Artists" />
+                                </span>
+                                <a href='http://heart-for-art.squarespace.com/storage/20120912_161556small.jpg?__SQUARESPACE_CACHEVERSION=1347910868667' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo uploaded by Village Pop NYC Tattoo • Tattoodo">
+                                <img itemprop="contentUrl url" src='https://d1kq2dqeox7x40.cloudfront.net/images/posts/4_QRYiV5CFWD.jpg' alt='Tattoo uploaded by Village Pop NYC Tattoo • Tattoodo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoodo" />
+                                </span>
+                                <a href='https://d1kq2dqeox7x40.cloudfront.net/images/posts/4_QRYiV5CFWD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name and rose tattoo | Name tattoo designs, Hand tattoos, Tattoos ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/a2/81/35a2817add0dd16f23f1a6f30304e842.jpg' alt='Name and rose tattoo | Name tattoo designs, Hand tattoos, Tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/a2/81/35a2817add0dd16f23f1a6f30304e842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out this custom made name tattoo with floral behind it!! #tattoolover  #texastattoo #cnctattoomachine #tattoo #kwadron #painlesstattoo #fyp  #abilenetx">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7286273567749131563&location=0&aid=1988' alt='Check out this custom made name tattoo with floral behind it!! #tattoolover  #texastattoo #cnctattoomachine #tattoo #kwadron #painlesstattoo #fyp  #abilenetx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7286273567749131563&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Theme Name Tattoo – Itty Bits Designs">
+                                <img itemprop="contentUrl url" src='http://www.ittybitsdesigns.com/cdn/shop/products/image_cda7a879-1a63-4dec-96ac-0f1cff21c472.jpg?v=1654186913' alt='Custom Theme Name Tattoo – Itty Bits Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Itty Bits Designs" />
+                                </span>
+                                <a href='http://www.ittybitsdesigns.com/cdn/shop/products/image_cda7a879-1a63-4dec-96ac-0f1cff21c472.jpg?v=1654186913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SlimInk tattoos - Order your name with a unique background ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=756744091797483' alt='SlimInk tattoos - Order your name with a unique background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=756744091797483' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Rapper Wallpapers: Hip-Hop Art for Your Space</title>
+                    <meta name="description" content="Discover a diverse collection of rapper wallpapers to enhance your room's aesthetic. From legendary artists to modern icons, find vibrant images that reflect your passion for hip-hop. Perfect for fans seeking to make a statement in any space. Transform your walls with our unique designs today!">
+                    <meta name="keywords" content="rapper wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rapper-wallpaper">
+                            <span itemprop="name">rapper wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rapper Wallpapers: Hip-Hop Art for Your Space</h1>
+                <p>Elevate your space with stunning rapper wallpapers that celebrate the essence of hip-hop culture. From iconic album covers to dynamic street art, our collection offers a vibrant array of designs that bring your walls to life. Perfect for true fans and those who appreciate music's visual impact. Transform your environment today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper of my favorite rappers! : r/HipHopImages">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-wallpaper-of-my-favorite-rappers-v0-rwznh041sioc1.jpeg?auto=webp&s=4aa1ada0d694df9d49c373a83c157aa146ed69fb' alt='I made a wallpaper of my favorite rappers! : r/HipHopImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2150">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-wallpaper-of-my-favorite-rappers-v0-rwznh041sioc1.jpeg?auto=webp&s=4aa1ada0d694df9d49c373a83c157aa146ed69fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Rap, Show Your Style! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/become-a-cool-rap-sensation-k5bhjl31852w66yd.webp' alt='Cool Rap, Show Your Style! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/become-a-cool-rap-sensation-k5bhjl31852w66yd.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Phone wallpapers ideas | rappers, rap wallpaper, rapper art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/54/5a/41/545a410daa03f5e69e65283ba9205db6.png' alt='32 Phone wallpapers ideas | rappers, rap wallpaper, rapper art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/54/5a/41/545a410daa03f5e69e65283ba9205db6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hip Hop Rappers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hip-hop-rappers-890sud5izc1l7eaa.jpg' alt='100+] Hip Hop Rappers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hip-hop-rappers-890sud5izc1l7eaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD rappers wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/272/664/HD-wallpaper-old-school-rappers-hip-hop-old-school-rappers-thumbnail.jpg' alt='HD rappers wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/272/664/HD-wallpaper-old-school-rappers-hip-hop-old-school-rappers-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Rapper Wallpapers - Top Free Cool Rapper Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/17/10/d21710539a034f7ff1e8d7933f76ae6b.jpg' alt='Cool Rapper Wallpapers - Top Free Cool Rapper Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/17/10/d21710539a034f7ff1e8d7933f76ae6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1800+] Rapper Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rapper-3dpzcyp2szbl4ngd.jpg' alt='1800+] Rapper Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rapper-3dpzcyp2szbl4ngd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Rapper Embracing His Hip Hop Roots Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-rapper-embracing-his-hip-hop-roots-hg1ntshbtb8bgkvx.webp' alt='Cool Rapper Embracing His Hip Hop Roots Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-rapper-embracing-his-hip-hop-roots-hg1ntshbtb8bgkvx.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90's rappers wallpaper : r/rap">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0o5ulpj2thr91.jpg?width=640&crop=smart&auto=webp&s=4e759d5dc76796e54c025b7dcc808c02c67fc034' alt='90's rappers wallpaper : r/rap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0o5ulpj2thr91.jpg?width=640&crop=smart&auto=webp&s=4e759d5dc76796e54c025b7dcc808c02c67fc034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von Rapper Black and White Wallpapers - Awesome Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/08/king-von-rapper-black-and-white-wallpaper-scaled.jpg' alt='King Von Rapper Black and White Wallpapers - Awesome Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/08/king-von-rapper-black-and-white-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

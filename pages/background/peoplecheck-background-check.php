@@ -1,0 +1,129 @@
+<title>Secure Your Hiring: PeopleCheck Background Checks</title>
+                    <meta name="description" content="Discover PeopleCheck for thorough background checks that help you hire confidently. Our quick and reliable reports ensure you make informed decisions while maintaining workplace safety. Start your background screening today with our user-friendly service!">
+                    <meta name="keywords" content="peoplecheck background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peoplecheck-background-check">
+                            <span itemprop="name">peoplecheck background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Secure Your Hiring: PeopleCheck Background Checks</h1>
+                <p>PeopleCheck provides comprehensive background check services that ensure a safe hiring process. With quick, reliable, and in-depth reports, employers can verify candidates' histories efficiently. Protect your workplace by making informed decisions with PeopleCheck's user-friendly platform designed for seamless experience and security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleCheck | The Platform">
+                                <img itemprop="contentUrl url" src='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-smart.4a3cb1a8.png&w=3840&q=100' alt='PeopleCheck | The Platform'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1526">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleCheck" />
+                                </span>
+                                <a href='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-smart.4a3cb1a8.png&w=3840&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleCheck | The Platform">
+                                <img itemprop="contentUrl url" src='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-live.4349100c.png&w=1920&q=100' alt='PeopleCheck | The Platform'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleCheck" />
+                                </span>
+                                <a href='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-live.4349100c.png&w=1920&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report Cover Page - PeopleCheck">
+                                <img itemprop="contentUrl url" src='https://peoplecheck.com.au/wp-content/uploads/2014/10/ReportCoverPage.png' alt='Report Cover Page - PeopleCheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleCheck" />
+                                </span>
+                                <a href='https://peoplecheck.com.au/wp-content/uploads/2014/10/ReportCoverPage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peoplecheck Lookup">
+                                <img itemprop="contentUrl url" src='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/2.jpg' alt='Peoplecheck Lookup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleCheck | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E0BAQEfsIvxniF2XQ/company-logo_200_200/company-logo_200_200/0/1692372878399/peoplecheckdotcom_logo?e=2147483647&v=beta&t=LCG4jOUCX15mbWfkSs3odCDbK5P7VqlsoyRRBQ30MaQ' alt='PeopleCheck | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E0BAQEfsIvxniF2XQ/company-logo_200_200/company-logo_200_200/0/1692372878399/peoplecheckdotcom_logo?e=2147483647&v=beta&t=LCG4jOUCX15mbWfkSs3odCDbK5P7VqlsoyRRBQ30MaQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Screening Services | PeopleCheckServices.com | United ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/aebf48_8e19a33d5d4540c5af8e22aa0697a5a7~mv2.png/v1/fill/w_2500,h_998,al_c/aebf48_8e19a33d5d4540c5af8e22aa0697a5a7~mv2.png' alt='Professional Screening Services | PeopleCheckServices.com | United ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.peoplecheckservices.com" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/aebf48_8e19a33d5d4540c5af8e22aa0697a5a7~mv2.png/v1/fill/w_2500,h_998,al_c/aebf48_8e19a33d5d4540c5af8e22aa0697a5a7~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleCheck | Home">
+                                <img itemprop="contentUrl url" src='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-plataform.4e8a27a8.png&w=1920&q=100' alt='PeopleCheck | Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.peoplecheck.co.uk" />
+                                </span>
+                                <a href='https://www.peoplecheck.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-plataform.4e8a27a8.png&w=1920&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peoplecheck Lookup">
+                                <img itemprop="contentUrl url" src='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/0.jpg' alt='Peoplecheck Lookup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peoplecheck Lookup">
+                                <img itemprop="contentUrl url" src='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/5.jpg' alt='Peoplecheck Lookup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://peoplecheck-lookup.govbackgroundchecks.com/screenshots/peoplecheck-lookup/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checking Packages - PeopleCheck">
+                                <img itemprop="contentUrl url" src='https://peoplecheck.com.au/wp-content/uploads/2018/03/Checks_Risks_Cost.jpg' alt='Background Checking Packages - PeopleCheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleCheck" />
+                                </span>
+                                <a href='https://peoplecheck.com.au/wp-content/uploads/2018/03/Checks_Risks_Cost.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

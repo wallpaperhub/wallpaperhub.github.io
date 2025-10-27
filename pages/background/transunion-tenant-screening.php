@@ -1,0 +1,129 @@
+<title>TransUnion Tenant Screening: Ensure Reliable Tenants</title>
+                    <meta name="description" content="Discover how TransUnion tenant screening streamlines your rental process. Obtain vital tenant information to make informed decisions and minimize risks. Optimize your property management with easy access to comprehensive tenant reports and ensure your investments are secure.">
+                    <meta name="keywords" content="transunion tenant screening">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transunion-tenant-screening">
+                            <span itemprop="name">transunion tenant screening</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TransUnion Tenant Screening: Ensure Reliable Tenants</h1>
+                <p>TransUnion tenant screening offers landlords a reliable way to assess potential tenants efficiently. By analyzing credit history, payment records, and more, it helps landlords make informed decisions, reducing the risk of overdue payments and evictions. Trust TransUnion for a seamless, thorough screening process to ensure tenant reliability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Tenant Screening | TransUnion">
+                                <img itemprop="contentUrl url" src='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' alt='SmartMove Tenant Screening | TransUnion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion" />
+                                </span>
+                                <a href='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TransUnion ResidentScore: Choose the Perfect Tenant">
+                                <img itemprop="contentUrl url" src='https://articles.ezlandlordforms.com/wp-content/uploads/2022/04/Tenant-Screening-Services-ResidentScore.png' alt='TransUnion ResidentScore: Choose the Perfect Tenant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landlord and Property Management Articles - ezLandlordForms" />
+                                </span>
+                                <a href='https://articles.ezlandlordforms.com/wp-content/uploads/2022/04/Tenant-Screening-Services-ResidentScore.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Document: TransUnion Screening Reports">
+                                <img itemprop="contentUrl url" src='https://support.rentspree.com/hs-fs/hubfs/image-png-Nov-19-2024-11-14-21-5130-PM.png?width=688&height=960&name=image-png-Nov-19-2024-11-14-21-5130-PM.png' alt='Sample Document: TransUnion Screening Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentSpree Help Center" />
+                                </span>
+                                <a href='https://support.rentspree.com/hs-fs/hubfs/image-png-Nov-19-2024-11-14-21-5130-PM.png?width=688&height=960&name=image-png-Nov-19-2024-11-14-21-5130-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Credit Report for Landlord Tenant Screening | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/how-to-read-credit-report-for-landlords/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop.coreimg.jpeg/1688762779188/creditreport-01.jpeg' alt='How to Read a Credit Report for Landlord Tenant Screening | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/how-to-read-credit-report-for-landlords/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop.coreimg.jpeg/1688762779188/creditreport-01.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TransUnion by SmartMove - Tenant Screening - MIAMI REALTORS®">
+                                <img itemprop="contentUrl url" src='https://www.miamirealtors.com/wp-content/uploads/2019/10/TransUnion.jpg' alt='TransUnion by SmartMove - Tenant Screening - MIAMI REALTORS®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="miami realtors" />
+                                </span>
+                                <a href='https://www.miamirealtors.com/wp-content/uploads/2019/10/TransUnion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Document: TransUnion Screening Reports">
+                                <img itemprop="contentUrl url" src='https://support.rentspree.com/hs-fs/hubfs/image-png-Nov-19-2024-11-15-25-8684-PM.png?width=688&height=799&name=image-png-Nov-19-2024-11-15-25-8684-PM.png' alt='Sample Document: TransUnion Screening Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentSpree Help Center" />
+                                </span>
+                                <a href='https://support.rentspree.com/hs-fs/hubfs/image-png-Nov-19-2024-11-15-25-8684-PM.png?width=688&height=799&name=image-png-Nov-19-2024-11-15-25-8684-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transunion resident screening: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/304/829/304829075/large.png' alt='Transunion resident screening: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/304/829/304829075/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TransUnion SmartMove">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063912947409' alt='TransUnion SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063912947409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Tenant Screening Services Comparison Guide - Accidental Rental">
+                                <img itemprop="contentUrl url" src='https://accidentalrental.com/wp-content/uploads/2019/05/TU-Pricing-1024x454.png' alt='Epic Tenant Screening Services Comparison Guide - Accidental Rental'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accidental Rental" />
+                                </span>
+                                <a href='https://accidentalrental.com/wp-content/uploads/2019/05/TU-Pricing-1024x454.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does A TransUnion SmartMove Report Show? – Landlord Studio">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/content/dam/smartmove/content/sample-eviction-related-proceedings-report.jpg' alt='What Does A TransUnion SmartMove Report Show? – Landlord Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3008">
+                                <meta itemprop="height" content="6119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landlord Studio" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/content/dam/smartmove/content/sample-eviction-related-proceedings-report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

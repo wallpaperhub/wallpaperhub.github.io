@@ -1,0 +1,129 @@
+<title>Chic Basketball Preppy Wallpaper: Style Your Space</title>
+                    <meta name="description" content="Discover trendy basketball preppy wallpaper to elevate any room. Perfect for sports lovers, this wallpaper blends sporty elements with preppy aesthetics, adding personality and flair to your walls. Ideal for homes or offices, it’s a unique way to showcase your passion for the game.">
+                    <meta name="keywords" content="basketball preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/basketball-preppy-wallpaper">
+                            <span itemprop="name">basketball preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Basketball Preppy Wallpaper: Style Your Space</h1>
+                <p>Transform your space with basketball preppy wallpaper, blending sporty vibes and stylish aesthetics. Perfect for fans and designers alike, this wallpaper showcases iconic basketball elements, vibrant colors, and preppy patterns. Elevate your home or office with a unique touch that celebrates the love for the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Preppy basketball cute ideas | basketball, basketball girls ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' alt='9 Preppy basketball cute ideas | basketball, basketball girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love basketball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' alt='I love basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Preppy ideas | cool basketball wallpapers, basketball background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/1f/27/511f27514da5f4b2104911d1e3c73808.jpg' alt='8 Preppy ideas | cool basketball wallpapers, basketball background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/1f/27/511f27514da5f4b2104911d1e3c73808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basketball wallpaper | Gallery posted by allie     | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' alt='basketball wallpaper | Gallery posted by allie     | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1198">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Bow Basketball PNG Preppy Design - Sublimation Design Download -  Digital Design - Sublimation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8564654/r/il/06c607/5779160648/il_fullxfull.5779160648_g78f.jpg' alt='Coquette Bow Basketball PNG Preppy Design - Sublimation Design Download -  Digital Design - Sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8564654/r/il/06c607/5779160648/il_fullxfull.5779160648_g78f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' alt='100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Preppy basketball cute ideas | basketball, basketball girls ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9e/6a/f9/9e6af95f5c00c62321efcd994841482b.jpg' alt='9 Preppy basketball cute ideas | basketball, basketball girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9e/6a/f9/9e6af95f5c00c62321efcd994841482b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13429293.jpg' alt='Preppy Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13429293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13422502.jpg' alt='Preppy Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13422502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basketball wallpaper     ⛹️‍♀️ | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7323025840541991430&index=0&sign=9b81fdba5fc827715981de4dadaa3e56' alt='basketball wallpaper     ⛹️‍♀️ | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="1117">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7323025840541991430&index=0&sign=9b81fdba5fc827715981de4dadaa3e56' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

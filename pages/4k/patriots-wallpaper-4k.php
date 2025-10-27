@@ -1,0 +1,129 @@
+<title>Stunning 4K Patriots Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of breathtaking 4K Patriots wallpapers that elevate your device's aesthetic. Perfect for fans, these high-resolution images showcase the team's pride and passion. Download now to find the perfect background for your smartphone or desktop!">
+                    <meta name="keywords" content="patriots wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/patriots-wallpaper-4k">
+                            <span itemprop="name">patriots wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Patriots Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning 4K Patriots wallpaper that captures the spirit of your favorite team. Featuring vibrant colors and high-resolution images, these wallpapers are perfect for any device. Show your support for the Patriots in style, whether on your phone or desktop. Download the best 4K wallpapers now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Patriots Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-england-patriots-team-q2dua5el36kd9oce.jpg' alt='100+] Patriots Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-england-patriots-team-q2dua5el36kd9oce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official New England Patriots Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/patriots/nx3jb0re1uymhsvqstuh.jpg' alt='Official New England Patriots Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England Patriots" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/patriots/nx3jb0re1uymhsvqstuh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official website of the New England Patriots">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/patriots/jdtjj6n9loytygnjkf9r.png' alt='Official website of the New England Patriots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Official website of the New England Patriots" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/patriots/jdtjj6n9loytygnjkf9r.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stadium New England Patriots Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/592/thumb-1920-592111.jpg' alt='Download Stadium New England Patriots Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/592/thumb-1920-592111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official website of the New England Patriots">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/nflclubs/image/upload/patriots/iemkpmhhr48ylqz3b5cx.jpg' alt='Official website of the New England Patriots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Official website of the New England Patriots" />
+                                </span>
+                                <a href='https://res.cloudinary.com/nflclubs/image/upload/patriots/iemkpmhhr48ylqz3b5cx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download New England Patriots Sports 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/663/663548.jpg' alt='Download New England Patriots Sports 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4896">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/663/663548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A few different patriot themed wallpapers : r/Patriots">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tfwr1pvauo771.jpg?width=640&crop=smart&auto=webp&s=70a20900b4265fa2dc22a26c348736ff5db989f8' alt='A few different patriot themed wallpapers : r/Patriots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tfwr1pvauo771.jpg?width=640&crop=smart&auto=webp&s=70a20900b4265fa2dc22a26c348736ff5db989f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Emblem Logo NFL New England Patriots Sports 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/105/1055338.png' alt='Download Emblem Logo NFL New England Patriots Sports 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/105/1055338.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best New England Patriots Players Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/best-new-england-patriots-players-tad5ragthjoczqcf.jpg' alt='Best New England Patriots Players Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/best-new-england-patriots-players-tad5ragthjoczqcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] New England Patriots Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/new-england-patriots-emb74vu2b9v5s8in.jpg' alt='200+] New England Patriots Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/new-england-patriots-emb74vu2b9v5s8in.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

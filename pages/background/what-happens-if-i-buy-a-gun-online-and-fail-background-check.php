@@ -1,0 +1,129 @@
+<title>What Happens If You Fail a Gun Background Check Online?</title>
+                    <meta name="description" content="Discover the implications of failing a background check when purchasing a gun online. This guide explains your rights, potential legal consequences, and what to expect if your application is denied. Stay informed and ensure responsible firearm ownership.">
+                    <meta name="keywords" content="what happens if i buy a gun online and fail background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-happens-if-i-buy-a-gun-online-and-fail-background-check">
+                            <span itemprop="name">what happens if i buy a gun online and fail background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Happens If You Fail a Gun Background Check Online?</h1>
+                <p>If you buy a gun online and fail a background check, the transaction cannot be completed, and you will not receive the firearm. Depending on state laws, the seller may be required to report the failure to authorities. Additionally, you may face legal consequences if you attempted to bypass regulations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Internet Gun Sales and Background Checks, Explained">
+                                <img itemprop="contentUrl url" src='https://www.thetrace.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-7.01.07-PM.jpg' alt='Internet Gun Sales and Background Checks, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Trace" />
+                                </span>
+                                <a href='https://www.thetrace.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-7.01.07-PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Process of Buying A Gun Online | U.S. Arms Company">
+                                <img itemprop="contentUrl url" src='https://www.usarmsco.com/wp-content/uploads/2022/10/clipboard-202210030905-yjsjc-1-1.png' alt='Process of Buying A Gun Online | U.S. Arms Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Arms Company" />
+                                </span>
+                                <a href='https://www.usarmsco.com/wp-content/uploads/2022/10/clipboard-202210030905-yjsjc-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undeniable: How Long-Standing Loopholes in the Background Check ...">
+                                <img itemprop="contentUrl url" src='https://everytownresearch.org/wp-content/uploads/sites/4/2020/12/Background-checks-illustration-flow-120420_FINAL-01-1024x380.png' alt='Undeniable: How Long-Standing Loopholes in the Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everytown Research & Policy" />
+                                </span>
+                                <a href='https://everytownresearch.org/wp-content/uploads/sites/4/2020/12/Background-checks-illustration-flow-120420_FINAL-01-1024x380.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delayed or Denied a Firearm Purchase? - The Firearm Firm">
+                                <img itemprop="contentUrl url" src='https://thefirearmfirm.com/wp-content/uploads/2022/08/firearm-purchase.webp' alt='Delayed or Denied a Firearm Purchase? - The Firearm Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Firearm Firm" />
+                                </span>
+                                <a href='https://thefirearmfirm.com/wp-content/uploads/2022/08/firearm-purchase.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loophole allows people to purchase guns without federal background check">
+                                <img itemprop="contentUrl url" src='https://media.tegna-media.com/assets/WBNS/images/3001e0d9-c577-400f-9416-d9ec4b8cd8c3/3001e0d9-c577-400f-9416-d9ec4b8cd8c3_1140x641.jpg' alt='Loophole allows people to purchase guns without federal background check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="10tv.com" />
+                                </span>
+                                <a href='https://media.tegna-media.com/assets/WBNS/images/3001e0d9-c577-400f-9416-d9ec4b8cd8c3/3001e0d9-c577-400f-9416-d9ec4b8cd8c3_1140x641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Questions About Gun Background Checks - WSJ.com">
+                                <img itemprop="contentUrl url" src='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' alt='Five Questions About Gun Background Checks - WSJ.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="from WSJ Graphics" />
+                                </span>
+                                <a href='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Gun Background Checks">
+                                <img itemprop="contentUrl url" src='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' alt='The History of Gun Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEE.org" />
+                                </span>
+                                <a href='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nearly Half of Americans Are Now Covered By Universal Gun ...">
+                                <img itemprop="contentUrl url" src='https://www.thetrace.org/wp-content/uploads/2016/11/GettyImages-503475382-1-scaled.jpg' alt='Nearly Half of Americans Are Now Covered By Universal Gun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Trace" />
+                                </span>
+                                <a href='https://www.thetrace.org/wp-content/uploads/2016/11/GettyImages-503475382-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unchecked: An Investigation of the Online Firearm Marketplace ...">
+                                <img itemprop="contentUrl url" src='https://public.tableau.com/static/images/Ar/Armslist_Online2_0/GunTypeBackgroundChecks/1_rss.png' alt='Unchecked: An Investigation of the Online Firearm Marketplace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everytown Research & Policy" />
+                                </span>
+                                <a href='https://public.tableau.com/static/images/Ar/Armslist_Online2_0/GunTypeBackgroundChecks/1_rss.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Compromise Would Close Nonexistent Online Gun ...">
+                                <img itemprop="contentUrl url" src='https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/assets/mc/jsullum/2013_04/online-guns.jpg' alt='Background Check Compromise Would Close Nonexistent Online Gun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reason Magazine" />
+                                </span>
+                                <a href='https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/assets/mc/jsullum/2013_04/online-guns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

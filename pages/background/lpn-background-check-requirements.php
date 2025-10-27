@@ -1,0 +1,129 @@
+<title>Essential LPN Background Check Requirements Explained</title>
+                    <meta name="description" content="Discover the key LPN background check requirements to ensure compliance and secure your nursing career. Understand what's needed for criminal history checks and credential verifications, tailored to state regulations. Be informed, prepared, and ready for your next nursing opportunity.">
+                    <meta name="keywords" content="lpn background check requirements">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lpn-background-check-requirements">
+                            <span itemprop="name">lpn background check requirements</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential LPN Background Check Requirements Explained</h1>
+                <p>When applying for Licensed Practical Nurse (LPN) positions, conducting a background check is essential. Requirements typically include a criminal history check, verification of nursing credentials, and examination of any prior disciplinary actions. Each state may have specific regulations, so always refer to local guidelines when preparing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Check Requirements: What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Nursing%202.png?width=650&height=365&name=Nursing%202.png' alt='Nursing Background Check Requirements: What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Nursing%202.png?width=650&height=365&name=Nursing%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Check Requirements: What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://40249759.fs1.hubspotusercontent-na1.net/hubfs/40249759/BLOG_%20Nursing%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA.png' alt='Nursing Background Check Requirements: What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://40249759.fs1.hubspotusercontent-na1.net/hubfs/40249759/BLOG_%20Nursing%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LPN vs RN vs BSN: Why the Right Choice Could Transform Your Career ...">
+                                <img itemprop="contentUrl url" src='https://www.freshrn.com/wp-content/uploads/2023/02/LPN-v-RN-v-BSN-683x1024.png' alt='LPN vs RN vs BSN: Why the Right Choice Could Transform Your Career ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreshRN" />
+                                </span>
+                                <a href='https://www.freshrn.com/wp-content/uploads/2023/02/LPN-v-RN-v-BSN-683x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smart'n | The GPT for nurses">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/637bd81f353aff5ba6055ae9/78560e78-94ea-4dd2-88b8-1801b7e0bcab/Nursing+Background+Check+Includings.png' alt='Smart'n | The GPT for nurses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart'n | The GPT for nurses" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/637bd81f353aff5ba6055ae9/78560e78-94ea-4dd2-88b8-1801b7e0bcab/Nursing+Background+Check+Includings.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Nurse vs. Licensed Practical Nurse (RN vs. LPN)">
+                                <img itemprop="contentUrl url" src='https://www.allnursingschools.com/wp-content/uploads/2024/03/LPN-vs.-RN-2.webp' alt='Registered Nurse vs. Licensed Practical Nurse (RN vs. LPN)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Nursing Schools" />
+                                </span>
+                                <a href='https://www.allnursingschools.com/wp-content/uploads/2024/03/LPN-vs.-RN-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Check Requirements: What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/BLOG_%20Healthcare%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA-1.png?height=200&name=BLOG_%20Healthcare%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA-1.png' alt='Nursing Background Check Requirements: What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/BLOG_%20Healthcare%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA-1.png?height=200&name=BLOG_%20Healthcare%20Background%20Check%20Requirements_%20What%20You%20Need%20to%20Know%20NO%20CTA-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LPN/RN Progression">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1d81092d9fcb3fe326f7bfcf8f019c82a69f24ab5801dc7f702ef3a790dd4f27' alt='LPN/RN Progression'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milwaukee Area Technical College" />
+                                </span>
+                                <a href='x-raw-image:///1d81092d9fcb3fe326f7bfcf8f019c82a69f24ab5801dc7f702ef3a790dd4f27' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/2b68e827ad/checkr-web-article-guide-to-nursing-background-checks-featured-image.webp/m/' alt='Nursing Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/2b68e827ad/checkr-web-article-guide-to-nursing-background-checks-featured-image.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alternatives, Inc. - CONGRATULATIONS to Kacy Horton who started as ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=606756681913138' alt='Alternatives, Inc. - CONGRATULATIONS to Kacy Horton who started as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=606756681913138' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Nurse (RN) Degree & Education: What's Required?">
+                                <img itemprop="contentUrl url" src='https://www.allnursingschools.com/wp-content/uploads/2024/10/Nursing-degrees-overview-3.webp' alt='Registered Nurse (RN) Degree & Education: What's Required?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Nursing Schools" />
+                                </span>
+                                <a href='https://www.allnursingschools.com/wp-content/uploads/2024/10/Nursing-degrees-overview-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

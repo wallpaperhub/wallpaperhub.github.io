@@ -1,0 +1,129 @@
+<title>Light Bamboo Wallpaper: Transform Your Space Naturally</title>
+                    <meta name="description" content="Discover the beauty of light bamboo wallpaper! Perfect for adding a natural touch to any room, this eco-friendly decor option creates a tranquil atmosphere. Easy to install, it's ideal for living rooms, bedrooms, and offices. Elevate your space with our stylish bamboo designs today!">
+                    <meta name="keywords" content="light bamboo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-bamboo-wallpaper">
+                            <span itemprop="name">light bamboo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Bamboo Wallpaper: Transform Your Space Naturally</h1>
+                <p>Light bamboo wallpaper offers a serene and natural aesthetic, perfect for any space. Its unique textures mimic the tranquility of nature, bringing a sense of warmth and freshness indoors. Ideal for living rooms, bedrooms, or offices, this wallpaper not only enhances ambiance but is also an eco-friendly choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall G67940 Bamboo Wallpaper, Brown, Beige, Light Beige, Parchment">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fj4BG+C0L._AC_UF894,1000_QL80_.jpg' alt='Norwall G67940 Bamboo Wallpaper, Brown, Beige, Light Beige, Parchment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fj4BG+C0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo by Farrow & Ball - Cream / Light Beige - Wallpaper - BP 2107">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/98255/tiled/farrow-and-ball-bamboo-cream-light-beige-wallpaper-tiled-098255.jpg' alt='Bamboo by Farrow & Ball - Cream / Light Beige - Wallpaper - BP 2107'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/98255/tiled/farrow-and-ball-bamboo-cream-light-beige-wallpaper-tiled-098255.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall G67941 Bamboo Wallpaper, Green, Light Green, Moss, Wasabi, Sage">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71a1VClpE5L._AC_UF894,1000_QL80_.jpg' alt='Norwall G67941 Bamboo Wallpaper, Green, Light Green, Moss, Wasabi, Sage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71a1VClpE5L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bamboo Light wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.selectedwallpapers.com/cdn/shop/products/The-Bamboo-Light-behang-DJ277-Daisy-James-Selected-Wallpapers-2.jpg?v=1688150142&width=1499' alt='The Bamboo Light wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1499">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selected Wallpapers & Interiors" />
+                                </span>
+                                <a href='https://www.selectedwallpapers.com/cdn/shop/products/The-Bamboo-Light-behang-DJ277-Daisy-James-Selected-Wallpapers-2.jpg?v=1688150142&width=1499' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Bamboo Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uniquelywallpaper.com/cdn/shop/products/light-bamboo-peel-and-stick-wallpaper.jpg?v=1644725585' alt='Light Bamboo Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uniquely Wallpaper" />
+                                </span>
+                                <a href='http://uniquelywallpaper.com/cdn/shop/products/light-bamboo-peel-and-stick-wallpaper.jpg?v=1644725585' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Bamboo Wallpaper, Fence Wall Mural, Light Brown Wall Decor, Old ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/e74fda/3633431955/il_570xN.3633431955_1hwo.jpg' alt='3D Bamboo Wallpaper, Fence Wall Mural, Light Brown Wall Decor, Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/e74fda/3633431955/il_570xN.3633431955_1hwo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638283809/articles/R11821_product.jpg' alt='Bamboo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638283809/articles/R11821_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1638283811/articles/R11821_interior1.jpg' alt='Bamboo - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1638283811/articles/R11821_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Bamboo forest in light colours w02459">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/118000/118881/w02459pig65mr_1200.webp' alt='Wall Mural Photo Wallpaper Bamboo forest in light colours w02459'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/118000/118881/w02459pig65mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo Wallpaper • Bird Design • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2022/11/BL-Bamboo-Olive-1.jpg' alt='Bamboo Wallpaper • Bird Design • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2022/11/BL-Bamboo-Olive-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

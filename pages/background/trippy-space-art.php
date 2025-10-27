@@ -1,0 +1,129 @@
+<title>Explore Trippy Space Art: A Cosmic Journey</title>
+                    <meta name="description" content="Discover the mesmerizing world of trippy space art! Experience vibrant colors, surreal landscapes, and cosmic wonders that ignite your imagination and take you on an otherworldly journey. Perfect for art lovers and dreamers alike, this captivating genre invites you to explore the universe's mysteries. Dive in!">
+                    <meta name="keywords" content="trippy space art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trippy-space-art">
+                            <span itemprop="name">trippy space art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Trippy Space Art: A Cosmic Journey</h1>
+                <p>Trippy space art takes viewers on a cosmic journey through vibrant colors, swirling galaxies, and surreal landscapes. It captures the imagination, blending abstract creativity with celestial wonders. This genre invites exploration of both the unknown and the inner self, making it a captivating visual experience that transcends earthly boundaries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Trippy Psychedelic Silk Print Painting Wall Art Home Decor - POSTER  20x30">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/~6MAAOSwU0JjBc7d/s-l1200.jpg' alt='Space Trippy Psychedelic Silk Print Painting Wall Art Home Decor - POSTER  20x30'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/~6MAAOSwU0JjBc7d/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Astronaut Floating in Space Canvas Painting Wall Art Colorful  Poster Print Artwork Picture for Bedroom Room Decor 20x20inch(50x50cm) ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Z39UDv05L._AC_UF894,1000_QL80_.jpg' alt='Psychedelic Astronaut Floating in Space Canvas Painting Wall Art Colorful  Poster Print Artwork Picture for Bedroom Room Decor 20x20inch(50x50cm) ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Z39UDv05L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRIPPY SPACE AESTHETIC | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1209902062.2299/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='TRIPPY SPACE AESTHETIC | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1209902062.2299/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Space Eye by Nikolay Todorov">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/psychedelic-space-eye-nikolay-todorov.jpg' alt='Psychedelic Space Eye by Nikolay Todorov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/psychedelic-space-eye-nikolay-todorov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic space." Poster for Sale by thatkidcece">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/68/66/0d/68660d0276bf7edbc2e543c5f778d38f.jpg' alt='Psychedelic space." Poster for Sale by thatkidcece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/68/66/0d/68660d0276bf7edbc2e543c5f778d38f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy space art : r/woahdude">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7wf9los1a5d41.jpg?width=640&crop=smart&auto=webp&s=130e0a84d1bcd7a2a247af1fdf90df94600b3c3c' alt='Trippy space art : r/woahdude'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7wf9los1a5d41.jpg?width=640&crop=smart&auto=webp&s=130e0a84d1bcd7a2a247af1fdf90df94600b3c3c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Child of Space/ Trippy Psychedelic Painting - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22431025/r/il/915c7b/3888434223/il_570xN.3888434223_tds2.jpg' alt='Child of Space/ Trippy Psychedelic Painting - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22431025/r/il/915c7b/3888434223/il_570xN.3888434223_tds2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make a Trippy Astronaut - the cozy art teacher blog">
+                                <img itemprop="contentUrl url" src='http://thecozyartteacher.com/wp-content/uploads/2024/03/IMG_2519.jpg' alt='How To Make a Trippy Astronaut - the cozy art teacher blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the cozy art teacher blog" />
+                                </span>
+                                <a href='http://thecozyartteacher.com/wp-content/uploads/2024/03/IMG_2519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Sanzugh Funny Space Astronaut Alien Tapestry for Men ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AzbRRsCSL.jpg' alt='Amazon.com: Sanzugh Funny Space Astronaut Alien Tapestry for Men ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AzbRRsCSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Printable Wall Art | Lost In Trippy Space | Colorful Kids Room  Space Art | Outer Space Kids Room Artwork">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40798390/r/il/0901f0/5603663487/il_fullxfull.5603663487_2yyi.jpg' alt='Digital Printable Wall Art | Lost In Trippy Space | Colorful Kids Room  Space Art | Outer Space Kids Room Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40798390/r/il/0901f0/5603663487/il_fullxfull.5603663487_2yyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

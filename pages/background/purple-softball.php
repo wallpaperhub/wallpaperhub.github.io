@@ -1,0 +1,129 @@
+<title>Vibrant Purple Softballs for Every Game</title>
+                    <meta name="description" content="Discover the excitement of purple softballs! Ideal for all levels, these vibrant balls enhance gameplay with style. Perfect for practice and league matches, they combine quality and visual appeal. Get ready to stand out on the field!">
+                    <meta name="keywords" content="purple softball">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-softball">
+                            <span itemprop="name">purple softball</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Softballs for Every Game</h1>
+                <p>Purple softballs add a vibrant twist to the game, making them a favorite among players and fans alike. They stand out on the field, enhancing team spirit and aesthetics. Perfect for practice or league play, these balls combine quality performance with an eye-catching hue, making each hit feel even more exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Softball on Whiteby Sports Mania">
+                                <img itemprop="contentUrl url" src='https://www.framedart.com/product-images/AWAAQAHQ-P878028.jpg' alt='Purple Softball on Whiteby Sports Mania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FramedArt.com" />
+                                </span>
+                                <a href='https://www.framedart.com/product-images/AWAAQAHQ-P878028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Classic brings 4 teams to GCU - Grand Canyon University ...">
+                                <img itemprop="contentUrl url" src='https://gculopes.com/images/2024/2/28/preview.jpg' alt='Purple Classic brings 4 teams to GCU - Grand Canyon University ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grand Canyon University Athletics" />
+                                </span>
+                                <a href='https://gculopes.com/images/2024/2/28/preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Softballs & Softball Gear | Zazzle">
+                                <img itemprop="contentUrl url" src='https://rlv.zcache.com/solid_color_dark_rich_purple_softball-r6d8e17855f504ebbb09dfb891074cc90_6wazn_306.jpg?rlvnet=1' alt='Purple Softballs & Softball Gear | Zazzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zazzle" />
+                                </span>
+                                <a href='https://rlv.zcache.com/solid_color_dark_rich_purple_softball-r6d8e17855f504ebbb09dfb891074cc90_6wazn_306.jpg?rlvnet=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball bounces back from slow start, wins five of six - Royal ...">
+                                <img itemprop="contentUrl url" src='https://royalpurplenews.com/wp-content/uploads/2018/04/MG_5949.jpg' alt='Softball bounces back from slow start, wins five of six - Royal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Purple" />
+                                </span>
+                                <a href='https://royalpurplenews.com/wp-content/uploads/2018/04/MG_5949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for University of Bridgeport Softball">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054278301134' alt='Profile for University of Bridgeport Softball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1266">
+                                <meta itemprop="height" content="1265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054278301134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Softball Clip Art at Clker.com - vector clip art online ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/f/v/d/g/Y/U/purple-softball-md.png' alt='Purple Softball Clip Art at Clker.com - vector clip art online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/f/v/d/g/Y/U/purple-softball-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE, Splatter Softball Png, Softball Png, Softball Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22879734/r/il/df1512/4025481255/il_fullxfull.4025481255_8z6t.jpg' alt='PURPLE, Splatter Softball Png, Softball Png, Softball Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22879734/r/il/df1512/4025481255/il_fullxfull.4025481255_8z6t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy                          and Happy                  to two ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3511469683226784191' alt='Happy                          and Happy                  to two ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3511469683226784191' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Purple Softball Jersey White-Teal Two-Button Unisex - FansIdea">
+                                <img itemprop="contentUrl url" src='https://www.fansidea.com/cdn/shop/products/Softball0450-1_2618ab94-d271-4405-a17d-6d6d992a45ea.jpg?v=1681196407' alt='Custom Purple Softball Jersey White-Teal Two-Button Unisex - FansIdea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FansIdea" />
+                                </span>
+                                <a href='https://www.fansidea.com/cdn/shop/products/Softball0450-1_2618ab94-d271-4405-a17d-6d6d992a45ea.jpg?v=1681196407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball bat Softball, Purple Softball s, blue, violet png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/184/178/png-clipart-baseball-bat-softball-purple-softball-s-blue-violet.png' alt='Baseball bat Softball, Purple Softball s, blue, violet png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/184/178/png-clipart-baseball-bat-softball-purple-softball-s-blue-violet.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

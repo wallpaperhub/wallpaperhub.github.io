@@ -1,0 +1,129 @@
+<title>Miss Universe: Celebrating Global Beauty and Empowerment</title>
+                    <meta name="description" content="Discover the brilliance of the Miss Universe Beauty Pageant, where beauty meets empowerment. Join us as we explore captivating contestants showcasing their talent, culture, and advocacy on a global stage. Uncover the essence of this iconic event celebrating diversity and women's empowerment.">
+                    <meta name="keywords" content="miss universe beauty pageant">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/miss-universe-beauty-pageant">
+                            <span itemprop="name">miss universe beauty pageant</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Miss Universe: Celebrating Global Beauty and Empowerment</h1>
+                <p>The Miss Universe Beauty Pageant is a prestigious international competition that celebrates beauty, talent, and intelligence among women from diverse cultures. Each year, contestants showcase their skills through interviews, evening wear, and swimwear segments. The event promotes empowerment, diversity, and social causes, fostering global unity and understanding.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss Universe Pageant Puts an End to Age Limit">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/becsYnMx4K5tEPMnaRsx_zx_njg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x195:736x197)/miss-universe-age-091323-3-d0139ce84d3549f689d283ad5ada071e.jpg' alt='Miss Universe Pageant Puts an End to Age Limit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/becsYnMx4K5tEPMnaRsx_zx_njg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x195:736x197)/miss-universe-age-091323-3-d0139ce84d3549f689d283ad5ada071e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss Nicaragua Sheynnis Palacios is the winner of the Miss ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/dab04fc/2147483647/strip/true/crop/5487x3658+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2F89%2Fa5150419d84f54ae04de274daf99%2F7d893bd3be3a441199a82161d0bb9568' alt='Miss Nicaragua Sheynnis Palacios is the winner of the Miss ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/dab04fc/2147483647/strip/true/crop/5487x3658+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2F89%2Fa5150419d84f54ae04de274daf99%2F7d893bd3be3a441199a82161d0bb9568' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Denmark's Victoria Kjær Theilvig wins Miss Universe 2024 - ABC7 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/15553048_111724-wls-miss-universe-2024-img.jpg' alt='Denmark's Victoria Kjær Theilvig wins Miss Universe 2024 - ABC7 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/15553048_111724-wls-miss-universe-2024-img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Winner in Miss Universe History From the Past 70 Years">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2023/11/miss-universe-photos-1.jpg?w=1000&h=563&crop=1' alt='Every Winner in Miss Universe History From the Past 70 Years'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2023/11/miss-universe-photos-1.jpg?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hounded From a Beauty Pageant in South Africa, Then Crowned in ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2024/09/03/multimedia/03safrica-pageant-1-lhvz/03safrica-pageant-1-lhvz-videoSixteenByNineJumbo1600.jpg' alt='Hounded From a Beauty Pageant in South Africa, Then Crowned in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2024/09/03/multimedia/03safrica-pageant-1-lhvz/03safrica-pageant-1-lhvz-videoSixteenByNineJumbo1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss Nicaragua Sheynnis Palacios is the winner of the Miss ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/a216bdf/2147483647/strip/true/crop/4558x3039+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fa9%2F1070835bc458f140838d6cbeb66b%2F1ba844d22cb14ebeaf36f896e117c4bf' alt='Miss Nicaragua Sheynnis Palacios is the winner of the Miss ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/a216bdf/2147483647/strip/true/crop/4558x3039+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fa9%2F1070835bc458f140838d6cbeb66b%2F1ba844d22cb14ebeaf36f896e117c4bf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss Universe: Surprising Details You Missed During the Pageant ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/63c3832fb4171f001957ed91?width=700' alt='Miss Universe: Surprising Details You Missed During the Pageant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/63c3832fb4171f001957ed91?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss USA takes Miss Universe title | The Arkansas Democrat-Gazette ...">
+                                <img itemprop="contentUrl url" src='https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203377686_203376072-4b0f250734f24abeab2c9fded75cc4dc_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d' alt='Miss USA takes Miss Universe title | The Arkansas Democrat-Gazette ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Arkansas Democrat-Gazette" />
+                                </span>
+                                <a href='https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203377686_203376072-4b0f250734f24abeab2c9fded75cc4dc_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miss Universe 2024: Evening Gowns, Pearl Crown & More Photos">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2024/11/Miss-Universe-HED-Gallery.jpg?w=1000&h=563&crop=1' alt='Miss Universe 2024: Evening Gowns, Pearl Crown & More Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2024/11/Miss-Universe-HED-Gallery.jpg?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Women Reign at Beauty Pageants - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/12/15/multimedia/10xp-pageant/10xp-pageant-videoSixteenByNineJumbo1600.jpg' alt='Black Women Reign at Beauty Pageants - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/12/15/multimedia/10xp-pageant/10xp-pageant-videoSixteenByNineJumbo1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

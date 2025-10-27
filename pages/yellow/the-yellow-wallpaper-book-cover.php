@@ -1,0 +1,129 @@
+<title>Captivating "The Yellow Wallpaper" Book Cover: A Symbol of Madness</title>
+                    <meta name="description" content="Explore the striking cover of "The Yellow Wallpaper," a visual representation of the haunting themes within. Delve into its intricate patterns and vibrant colors that echo the story of mental struggle and societal confinement. Perfect for those intrigued by literature's rich symbolism and history.">
+                    <meta name="keywords" content="the yellow wallpaper book cover">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-book-cover">
+                            <span itemprop="name">the yellow wallpaper book cover</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating "The Yellow Wallpaper" Book Cover: A Symbol of Madness</h1>
+                <p>The cover of "The Yellow Wallpaper" is symbolic, featuring intricate patterns that mirror the protagonist's descent into madness. The yellow hue suggests decay and entrapment, reflecting themes of mental illness and societal oppression. Often, the cover captivates with its blend of eerie beauty and illustrative darkness, inviting readers to explore its profound narrative.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71X3a4uwrdL._AC_UF1000,1000_QL80_.jpg' alt='The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71X3a4uwrdL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wall-Paper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51hw-Avc9RL._AC_UF1000,1000_QL80_.jpg' alt='The Yellow Wall-Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51hw-Avc9RL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper eBook by Charlotte Perkins Gilman | Official ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781627933957/the-yellow-wallpaper-9781627933957_hr.jpg' alt='The Yellow Wallpaper eBook by Charlotte Perkins Gilman | Official ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781627933957/the-yellow-wallpaper-9781627933957_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Project Gutenberg">
+                                <img itemprop="contentUrl url" src='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' alt='The Yellow Wallpaper | Project Gutenberg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Gutenberg" />
+                                </span>
+                                <a href='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (Paperback) | Literati Bookstore®">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/695/677/9798638677695.jpg' alt='The Yellow Wallpaper (Paperback) | Literati Bookstore®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Literati Bookstore" />
+                                </span>
+                                <a href='https://images.booksense.com/images/695/677/9798638677695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Yellow Wallpaper and Selected Writings (Virago ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A13YcNX3KxL.jpg' alt='Amazon.com: The Yellow Wallpaper and Selected Writings (Virago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1488">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A13YcNX3KxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (Paperback)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/The-Yellow-Wallpaper-Paperback-9781804470046_edb49d4c-945d-49f7-8d6f-2d028d4ffeac.590615508517acaa0b2b3827bc5d4bd1.jpeg' alt='The Yellow Wallpaper (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/The-Yellow-Wallpaper-Paperback-9781804470046_edb49d4c-945d-49f7-8d6f-2d028d4ffeac.590615508517acaa0b2b3827bc5d4bd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (Paperback) | Parnassus Books">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/145/966/9781536966145.jpg' alt='The Yellow Wallpaper (Paperback) | Parnassus Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parnassus Books" />
+                                </span>
+                                <a href='https://images.booksense.com/images/145/966/9781536966145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (Paperback) | McNally Jackson Books">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/009/341/9781943341009.jpg' alt='The Yellow Wallpaper (Paperback) | McNally Jackson Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McNally Jackson Books |" />
+                                </span>
+                                <a href='https://images.booksense.com/images/009/341/9781943341009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper;Including the Article 'Why I Wrote The Yellow  Wallpaper'">
+                                <img itemprop="contentUrl url" src='https://prodimage.images-bn.com/pimages/9781447459767_p0_v3_s600x595.jpg' alt='The Yellow Wallpaper;Including the Article 'Why I Wrote The Yellow  Wallpaper''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='https://prodimage.images-bn.com/pimages/9781447459767_p0_v3_s600x595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

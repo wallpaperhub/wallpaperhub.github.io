@@ -1,0 +1,129 @@
+<title>Chilling Dark Aesthetic Computer Wallpapers</title>
+                    <meta name="description" content="Discover stunning dark aesthetic computer wallpapers that add an air of mystery to your screen. Perfect for those who love moody visuals, these designs enhance your workspace while inspiring creativity. Explore the perfect mix of shadows and elegance for a unique digital experience.">
+                    <meta name="keywords" content="dark aesthetic computer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dark-aesthetic-computer-wallpaper">
+                            <span itemprop="name">dark aesthetic computer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chilling Dark Aesthetic Computer Wallpapers</h1>
+                <p>Transform your digital workspace with dark aesthetic computer wallpapers that evoke mystery and sophistication. These captivating designs blend shadowy tones with ethereal elements, creating a perfect backdrop for your creative endeavors. Embrace the moody vibes and enhance your screen's allure with stunning visuals that tell a story.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Dark Aesthetic Computer Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/1e/ef/ee1eef9fffb70700b0c5469dc4e6a6c0.jpg' alt='Awesome Dark Aesthetic Computer Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/1e/ef/ee1eef9fffb70700b0c5469dc4e6a6c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper In 2021 | Black Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/f2/d9/98f2d9515ac47139338123197c9e03a5.jpg' alt='Aesthetic Wallpaper In 2021 | Black Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/f2/d9/98f2d9515ac47139338123197c9e03a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dark Vibes Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30896388/r/il/da2064/3957196937/il_fullxfull.3957196937_nf4j.jpg' alt='Aesthetic Dark Vibes Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30896388/r/il/da2064/3957196937/il_fullxfull.3957196937_nf4j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Wallpaper Error For Computer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-aesthetic-wallpaper-error-for-computer-zpj9sf67ra20c8vk.jpg' alt='Dark Aesthetic Wallpaper Error For Computer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-aesthetic-wallpaper-error-for-computer-zpj9sf67ra20c8vk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable dark desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEWlVr1pCo/1/0/1600w/canva-black-and-gray-mountain-dark-minimalist-ui-religious-spiritual-desktop-wallpaper-m3jhCfhgX0M.jpg' alt='Free customizable dark desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEWlVr1pCo/1/0/1600w/canva-black-and-gray-mountain-dark-minimalist-ui-religious-spiritual-desktop-wallpaper-m3jhCfhgX0M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/ed/b7/16edb76cae21981624314f435cafe514.jpg' alt='Dark Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/ed/b7/16edb76cae21981624314f435cafe514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Floral HD Wallpaper by patrika">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/135/1350453.png' alt='Dark Aesthetic Floral HD Wallpaper by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/135/1350453.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable dark desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE85JGGY9A/1/0/1600w/canva-black-and-white-aesthetic-forest-desktop-wallpaper-iNFzbgNFpGA.jpg' alt='Free customizable dark desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE85JGGY9A/1/0/1600w/canva-black-and-white-aesthetic-forest-desktop-wallpaper-iNFzbgNFpGA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Monochrome Leaves HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/134/1347727.png' alt='Dark Monochrome Leaves HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/134/1347727.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Three Lightbulbs For Computer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-aesthetic-three-lightbulbs-for-computer-tgtow4h6cd1ig3h9.jpg' alt='Dark Aesthetic Three Lightbulbs For Computer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-aesthetic-three-lightbulbs-for-computer-tgtow4h6cd1ig3h9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

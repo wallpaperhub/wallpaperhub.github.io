@@ -1,0 +1,129 @@
+<title>Charming Farmhouse Backgrounds for Every Project</title>
+                    <meta name="description" content="Explore beautiful farmhouse backgrounds that combine rustic charm with natural beauty, perfect for photography and design. Create cozy atmospheres with our curated selection, enhancing your projects with warmth and simplicity.">
+                    <meta name="keywords" content="farmhouse background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/farmhouse-background">
+                            <span itemprop="name">farmhouse background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Farmhouse Backgrounds for Every Project</h1>
+                <p>Experience the charm of farmhouse backgrounds, where rustic elegance meets nature's beauty. Ideal for photography or design, these settings feature weathered wood, lush greenery, and inviting spaces that evoke warmth and simplicity. Perfect for creating a cozy atmosphere, farmhouses blend tradition with a touch of idyllic serenity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Style Background Images – Browse 107,968 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/32/24/56/360_F_432245621_czzfJFsVm6h7IwVSqp1qiceBSHDABfJd.jpg' alt='Farmhouse Style Background Images – Browse 107,968 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/32/24/56/360_F_432245621_czzfJFsVm6h7IwVSqp1qiceBSHDABfJd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Washed Wood Texture Wooden Farmhouse Background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/white-washed-wood-texture-wooden-background-4332aa8ade7f63cf3a75e2b93fa7d2ec2a0addec4be44274a62c47729aa00da4.jpg' alt='White Washed Wood Texture Wooden Farmhouse Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/white-washed-wood-texture-wooden-background-4332aa8ade7f63cf3a75e2b93fa7d2ec2a0addec4be44274a62c47729aa00da4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Style Background Images – Browse 107,968 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/32/24/56/360_F_432245640_aJNRoWRuWtAy4j83yDK4wtlCkdq8UEYu.jpg' alt='Farmhouse Style Background Images – Browse 107,968 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/32/24/56/360_F_432245640_aJNRoWRuWtAy4j83yDK4wtlCkdq8UEYu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey farmhouse wooden background Rustic vintage wood texture">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/grey-farmhouse-wooden-background-rustic-wood-texture-af79caa1da8fe13823b7e8612f9d3c1d92604b7c3170507319034ad74a0f71df.jpg' alt='Grey farmhouse wooden background Rustic vintage wood texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/grey-farmhouse-wooden-background-rustic-wood-texture-af79caa1da8fe13823b7e8612f9d3c1d92604b7c3170507319034ad74a0f71df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Farmhouse Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1483136781463-b71cca943b51?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZhcm1ob3VzZXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Farmhouse Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1483136781463-b71cca943b51?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZhcm1ob3VzZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Photos, Download The BEST Free Farmhouse Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/235725/pexels-photo-235725.jpeg' alt='Farmhouse Photos, Download The BEST Free Farmhouse Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2199">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/235725/pexels-photo-235725.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3115-24472 - Farmhouse Wallpaper-Garland Block Tulip">
+                                <img itemprop="contentUrl url" src='https://wallpaperthehome.com/17609-superlarge_default/3115-24472-farmhouse-wallpaper-garland-block-tulip.jpg' alt='3115-24472 - Farmhouse Wallpaper-Garland Block Tulip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper The Home" />
+                                </span>
+                                <a href='https://wallpaperthehome.com/17609-superlarge_default/3115-24472-farmhouse-wallpaper-garland-block-tulip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Style Background Images – Browse 107,968 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/32/24/55/360_F_432245529_VhvBHurwFXboxhTSKsC4IPu1xE7SCIwX.jpg' alt='Farmhouse Style Background Images – Browse 107,968 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/32/24/55/360_F_432245529_VhvBHurwFXboxhTSKsC4IPu1xE7SCIwX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered white wooden background. Farmhouse wood texture">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/weathered-white-farmhouse-wooden-background-wood-texture-2a4f0f7086e6361e7cd9c9aaf8f8c10d717da001605a6375d82daba18f932935.jpg' alt='Weathered white wooden background. Farmhouse wood texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/weathered-white-farmhouse-wooden-background-wood-texture-2a4f0f7086e6361e7cd9c9aaf8f8c10d717da001605a6375d82daba18f932935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chippy White Washed Shiplap Farmhouse Wallpaper - Coastal Barnwood,  Weathered Boards, Distressed Driftwood Plank - 12"x9" Sample FH37558so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/5b7418/1639225250/il_fullxfull.1639225250_lkeh.jpg' alt='Chippy White Washed Shiplap Farmhouse Wallpaper - Coastal Barnwood,  Weathered Boards, Distressed Driftwood Plank - 12"x9" Sample FH37558so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/5b7418/1639225250/il_fullxfull.1639225250_lkeh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

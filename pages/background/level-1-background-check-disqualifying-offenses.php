@@ -1,0 +1,129 @@
+<title>Understanding Level 1 Background Check Disqualifications</title>
+                    <meta name="description" content="Discover the key offenses that can disqualify candidates during a Level 1 background check. From serious felonies to certain misdemeanors, this guide outlines what to beware of to maintain safety and integrity in hiring. Perfect for employers seeking compliant hiring practices.">
+                    <meta name="keywords" content="level 1 background check disqualifying offenses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/level-1-background-check-disqualifying-offenses">
+                            <span itemprop="name">level 1 background check disqualifying offenses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Level 1 Background Check Disqualifications</h1>
+                <p>Level 1 background checks often disqualify individuals based on specific offenses. Common disqualifying issues include felony convictions, particularly violent crimes, sexual offenses, and certain drug-related charges. Misdemeanors can also be flagged, especially those involving dishonesty, theft, or domestic violence. These criteria help ensure safety and trustworthiness in sensitive positions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 1 Background Checks: Meaning, Use, Limitations ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrecords.com/wp-content/uploads/2022/10/Level-1-Background-Checks.png' alt='Level 1 Background Checks: Meaning, Use, Limitations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks & Criminal Records" />
+                                </span>
+                                <a href='https://backgroundcheckrecords.com/wp-content/uploads/2022/10/Level-1-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Difference between Level 1 and Level 2 Background ...">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' alt='What is the Difference between Level 1 and Level 2 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linking People with Criminal Records to Employment in the ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///43001fa5602573e49b03c68edcd8b7fc14c8bd16fdae10f1e065e18f8ab23187' alt='Linking People with Criminal Records to Employment in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1297">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASPE - HHS.gov" />
+                                </span>
+                                <a href='x-raw-image:///43001fa5602573e49b03c68edcd8b7fc14c8bd16fdae10f1e065e18f8ab23187' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 1 Background Checks: Meaning, Use, Limitations ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrecords.com/wp-content/uploads/2022/10/FDLE-Screenshot-Level-1-And-Level-2-Criminal-History-Record-Checks.webp' alt='Level 1 Background Checks: Meaning, Use, Limitations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks & Criminal Records" />
+                                </span>
+                                <a href='https://backgroundcheckrecords.com/wp-content/uploads/2022/10/FDLE-Screenshot-Level-1-And-Level-2-Criminal-History-Record-Checks.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Form Standard Template">
+                                <img itemprop="contentUrl url" src='x-raw-image:///c66afe3948148ee856ece8aec8942a640e66604d40da9e99d6a1330b3161dfbf' alt='Form Standard Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cwi.edu" />
+                                </span>
+                                <a href='x-raw-image:///c66afe3948148ee856ece8aec8942a640e66604d40da9e99d6a1330b3161dfbf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Different Levels of Background Checks">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2021/08/Criminal-Background-Check.jpg' alt='Understanding Different Levels of Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2021/08/Criminal-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas School Safety and Security Consultant Registry">
+                                <img itemprop="contentUrl url" src='https://registry.txssc.txstate.edu/static/media/disqualifiers_infographic.0665cc26.jpg' alt='Texas School Safety and Security Consultant Registry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas School Safety and Security Consultant Registry" />
+                                </span>
+                                <a href='https://registry.txssc.txstate.edu/static/media/disqualifiers_infographic.0665cc26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Disqualifies You From Working in a School?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673f5888d6ac08945e9cb9b1_AD_4nXfGl1GjOAXmO4OYvpUZC6SoTK8wOlZ83xfTPre2Ow10-IrKupguZrvxKQtGnJ2PoL0ExEG08MRGf5lwOZFq_AF1bHspgVebDlxcDP1iKC05O83NXyXIVm5lZNullA-Kiz6mmrjB8Q.png' alt='What Disqualifies You From Working in a School?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673f5888d6ac08945e9cb9b1_AD_4nXfGl1GjOAXmO4OYvpUZC6SoTK8wOlZ83xfTPre2Ow10-IrKupguZrvxKQtGnJ2PoL0ExEG08MRGf5lwOZFq_AF1bHspgVebDlxcDP1iKC05O83NXyXIVm5lZNullA-Kiz6mmrjB8Q.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

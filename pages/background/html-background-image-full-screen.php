@@ -1,0 +1,129 @@
+<title>Full-Screen HTML Background Image: A Simple Guide</title>
+                    <meta name="description" content="Learn how to create a stunning full-screen background image in HTML with easy-to-follow CSS techniques. Perfect for enhancing your web design, our guide covers tips for responsive and eye-catching visuals. Transform your website's look and feel today!">
+                    <meta name="keywords" content="html background image full screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/html-background-image-full-screen">
+                            <span itemprop="name">html background image full screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Full-Screen HTML Background Image: A Simple Guide</h1>
+                <p>To set a background image to cover the entire screen in HTML, use CSS with the `background-image` property and the `background-size` property set to `cover`. This ensures the image scales appropriately, filling the viewport regardless of its dimensions. Apply this in your CSS for a visually stunning full-screen effect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Full Screen Background Image with CSS | by Prajwal ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*xMuIOwjliGUPjkzukeWKfw.jpeg' alt='How to Make Full Screen Background Image with CSS | by Prajwal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*xMuIOwjliGUPjkzukeWKfw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Set Background Image In CSS">
+                                <img itemprop="contentUrl url" src='https://softauthor.com/wp-content/uploads/2021/08/CSS-Background-Image-Full-Screen-background-size-cover-1024x845.png' alt='How To Set Background Image In CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoftAuthor" />
+                                </span>
+                                <a href='https://softauthor.com/wp-content/uploads/2021/08/CSS-Background-Image-Full-Screen-background-size-cover-1024x845.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Full Screen Background Image with CSS | by Prajwal ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*dwLGnkgwmMSU7XN7Yojo1g.png' alt='How to Make Full Screen Background Image with CSS | by Prajwal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*dwLGnkgwmMSU7XN7Yojo1g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Background Image with HTML CSS | Responsive Full Page  Background Image CSS">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vimZLEd702Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9sejA3CFXkjyqfDACTnvbfFY11A' alt='Full Screen Background Image with HTML CSS | Responsive Full Page  Background Image CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vimZLEd702Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9sejA3CFXkjyqfDACTnvbfFY11A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make HTML Background Image Full Screen? - Scaler Topics">
+                                <img itemprop="contentUrl url" src='https://scaler.com/topics/images/html-background-image-full-screen.webp' alt='How to Make HTML Background Image Full Screen? - Scaler Topics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3401">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scaler" />
+                                </span>
+                                <a href='https://scaler.com/topics/images/html-background-image-full-screen.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Background Image using CSS">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BJbh_x8YyzA/maxresdefault.jpg' alt='Full Screen Background Image using CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BJbh_x8YyzA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tailwind CSS fullscreen background image (hero image)">
+                                <img itemprop="contentUrl url" src='https://tw-elements.com/learn/te-foundations/tailwind-css/fullscreen-background-image/assets/img-4.jpg' alt='Tailwind CSS fullscreen background image (hero image)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TW Elements" />
+                                </span>
+                                <a href='https://tw-elements.com/learn/te-foundations/tailwind-css/fullscreen-background-image/assets/img-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Full Page Background Image | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://css-tricks.com/wp-content/csstricks-uploads/fullpagebackground.jpg' alt='Perfect Full Page Background Image | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://css-tricks.com/wp-content/csstricks-uploads/fullpagebackground.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Background Image with CSS - Super Dev Resources">
+                                <img itemprop="contentUrl url" src='https://superdevresources.com/wp-content/uploads/2015/01/full-screen-background-image.jpg' alt='Full Screen Background Image with CSS - Super Dev Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Dev Resources" />
+                                </span>
+                                <a href='https://superdevresources.com/wp-content/uploads/2015/01/full-screen-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Make Background Image Full Screen | by Raja Tamil | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*SwdCd-jov3AobadR.png' alt='CSS Make Background Image Full Screen | by Raja Tamil | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raja Tamil - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*SwdCd-jov3AobadR.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Pink Disco Background for Events & Parties</title>
+                    <meta name="description" content="Discover the perfect pink disco background to elevate your events! This eye-catching design brings a fun, vibrant energy to any space, making it ideal for parties and celebrations. Transform your atmosphere and create memorable experiences with this stunning backdrop. Perfect for photos and decoration!">
+                    <meta name="keywords" content="pink disco background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-disco-background">
+                            <span itemprop="name">pink disco background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Disco Background for Events & Parties</h1>
+                <p>Transform your space with a vibrant pink disco background that radiates fun and energy! Perfect for parties, events, or personal spaces, this striking design features vivid hues and dazzling patterns reminiscent of disco lights. Create an unforgettable atmosphere that inspires joy and creativity with this lively backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/seamless-pattern-mirrored-disco-balls-260nw-2233270431.jpg' alt='Pink Disco Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/seamless-pattern-mirrored-disco-balls-260nw-2233270431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ladys Disco Matrix Background Stock Illustration | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/00/23/82/28/1000_F_23822830_k2UYZBUhWQxRlo9nIyV1RKZzt74oRIM1.jpg' alt='Pink Ladys Disco Matrix Background Stock Illustration | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/00/23/82/28/1000_F_23822830_k2UYZBUhWQxRlo9nIyV1RKZzt74oRIM1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Shiny Disco Ball Party Background" by Stocksy Contributor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a2/98/0c/a2980cae273e38589edbbff2bb1af100.jpg' alt='Pink Shiny Disco Ball Party Background" by Stocksy Contributor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a2/98/0c/a2980cae273e38589edbbff2bb1af100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract pink disco ball background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/B6JDGH/abstract-pink-disco-ball-background-B6JDGH.jpg' alt='abstract pink disco ball background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1299">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/B6JDGH/abstract-pink-disco-ball-background-B6JDGH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Pink Disco Ball Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1318471012/photo/shining-disco-balls-with-laser-inside-music-club.jpg?s=612x612&w=0&k=20&c=RCPKzIFttyCTXPmRXei7SVECnTy4RWD2x_yjO4K4Ni8=' alt='2,000+ Pink Disco Ball Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1318471012/photo/shining-disco-balls-with-laser-inside-music-club.jpg?s=612x612&w=0&k=20&c=RCPKzIFttyCTXPmRXei7SVECnTy4RWD2x_yjO4K4Ni8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Ball Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/still-life-composition-miniature-disco-balls_23-2149129292.jpg' alt='Pink Disco Ball Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/still-life-composition-miniature-disco-balls_23-2149129292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="disco ball pink ipad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/a7/a1/34a7a11361e95be908035c6993d96ed9.jpg' alt='disco ball pink ipad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/a7/a1/34a7a11361e95be908035c6993d96ed9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster abstract pink disco ball background - PIXERS.US">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/30/69/71/43/700_FO30697143_cb828d6a57ed661072c7a020c9c0934c.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-abstract-pink-disco-ball-background.jpg.jpg' alt='Poster abstract pink disco ball background - PIXERS.US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/30/69/71/43/700_FO30697143_cb828d6a57ed661072c7a020c9c0934c.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-abstract-pink-disco-ball-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Lights Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/shining-abstract-pink-mosaic-background-260nw-360961238.jpg' alt='Pink Disco Lights Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/shining-abstract-pink-mosaic-background-260nw-360961238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Disco Ball Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/arrangement-disco-globes-with-copy-space_23-2148346381.jpg' alt='Pink Disco Ball Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/arrangement-disco-globes-with-copy-space_23-2148346381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

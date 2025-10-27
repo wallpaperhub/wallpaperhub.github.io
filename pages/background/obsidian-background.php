@@ -1,0 +1,129 @@
+<title>Stunning Obsidian Backgrounds for Modern Design</title>
+                    <meta name="description" content="Discover the elegance of obsidian backgrounds! Perfect for enhancing your designs, these dark and sophisticated visuals add depth and a modern touch. Explore creative uses in wallpapers, graphics, and more to elevate your aesthetic with the timeless allure of obsidian.">
+                    <meta name="keywords" content="obsidian background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/obsidian-background">
+                            <span itemprop="name">obsidian background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Obsidian Backgrounds for Modern Design</h1>
+                <p>Obsidian background refers to a rich, dark aesthetic that evokes sophistication and depth. This volcanic glass's smooth, reflective surface makes it a perfect choice for various applications, including digital graphics, wallpapers, and home decor. Its mysterious allure captivates, transforming any space or design into an elegant masterpiece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obsidian Images – Browse 44,137 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/15/74/87/360_F_515748751_UULFUukHEJHmyB0LOMyl5QAazb9G1Jg6.jpg' alt='Obsidian Images – Browse 44,137 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/15/74/87/360_F_515748751_UULFUukHEJHmyB0LOMyl5QAazb9G1Jg6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obsidian Background Images – Browse 22,793 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/89/33/27/360_F_889332717_2ew6FFqDyngJIbxShiieAfc1nreJ7Qe5.jpg' alt='Obsidian Background Images – Browse 22,793 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/89/33/27/360_F_889332717_2ew6FFqDyngJIbxShiieAfc1nreJ7Qe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="820+ Obsidian Texture Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1341466956/photo/black-marble-basalt-abstract-background-onyx-coal-frozen-lava-tube-crag-texture-rippled.jpg?s=612x612&w=0&k=20&c=uBVnrHIHI_j7DMoTA2c0KFVaMsh6RJpbahuiAaPJmFk=' alt='820+ Obsidian Texture Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1341466956/photo/black-marble-basalt-abstract-background-onyx-coal-frozen-lava-tube-crag-texture-rippled.jpg?s=612x612&w=0&k=20&c=uBVnrHIHI_j7DMoTA2c0KFVaMsh6RJpbahuiAaPJmFk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Obsidian Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/977559384/vector/bright-black-abstract-background-made-of-black-crystals-vector-design.jpg?s=612x612&w=0&k=20&c=TG0-KdgzqpSkCpy22pSSk-aMnPkQhJq2lOokohdqXPc=' alt='50+ Obsidian Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/977559384/vector/bright-black-abstract-background-made-of-black-crystals-vector-design.jpg?s=612x612&w=0&k=20&c=TG0-KdgzqpSkCpy22pSSk-aMnPkQhJq2lOokohdqXPc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Obsidian Background Texture Wallpaper Obsidian Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/black-obsidian-background-texture-wallpaper-260nw-2357281519.jpg' alt='Black Obsidian Background Texture Wallpaper Obsidian Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/black-obsidian-background-texture-wallpaper-260nw-2357281519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep obsidian background with smooth patterns dark background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/deep-obsidian-background-with-smooth-patterns-dark-background-design-dark-texture-wallpaper_1020697-705131.jpg' alt='Deep obsidian background with smooth patterns dark background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/deep-obsidian-background-with-smooth-patterns-dark-background-design-dark-texture-wallpaper_1020697-705131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obsidian Texture Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/732/098/non_2x/a-closeup-shot-of-a-large-piece-of-obsidian-featuring-a-smooth-texture-with-a-warm-deep-brown-tone-and-a-satinlike-finish-photo.jpg' alt='Obsidian Texture Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/732/098/non_2x/a-closeup-shot-of-a-large-piece-of-obsidian-featuring-a-smooth-texture-with-a-warm-deep-brown-tone-and-a-satinlike-finish-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,617 Texture Obsidian Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/obsidian-5830220.jpg' alt='1,617 Texture Obsidian Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/obsidian-5830220.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Obsidian Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1479565374/vector/black-grunge-textured-concrete-background.jpg?s=612x612&w=gi&k=20&c=yqzO3tY9r0fhyanGY6FvlYpV3viCoVcQEUuOh_EtZVI=' alt='18 Obsidian Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1479565374/vector/black-grunge-textured-concrete-background.jpg?s=612x612&w=gi&k=20&c=yqzO3tY9r0fhyanGY6FvlYpV3viCoVcQEUuOh_EtZVI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="obsidian mineral wallpaper" | Gallery | Stablecog">
+                                <img itemprop="contentUrl url" src='https://img.stablecog.com/insecure/1920w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vMjNiYzc3ZGYtZWNkZC00MzY2LTg0ZWQtOTU3ZWI2NmYwN2Q3LmpwZWc.webp' alt='obsidian mineral wallpaper" | Gallery | Stablecog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stablecog" />
+                                </span>
+                                <a href='https://img.stablecog.com/insecure/1920w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vMjNiYzc3ZGYtZWNkZC00MzY2LTg0ZWQtOTU3ZWI2NmYwN2Q3LmpwZWc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

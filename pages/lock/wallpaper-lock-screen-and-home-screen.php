@@ -1,0 +1,129 @@
+<title>Elevate Your Screen: Stunning Lock & Home Wallpapers</title>
+                    <meta name="description" content="Discover the perfect wallpaper for your lock and home screens. Transform your device's appearance with a variety of stunning designs, ensuring it reflects your unique style. Enjoy a fresh look that keeps your phone visually engaging every day!">
+                    <meta name="keywords" content="wallpaper lock screen and home screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/wallpaper-lock-screen-and-home-screen">
+                            <span itemprop="name">wallpaper lock screen and home screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Screen: Stunning Lock & Home Wallpapers</h1>
+                <p>Enhance your device's aesthetic with striking wallpaper for both lock and home screens. Choose from vibrant designs to serene landscapes, making every glance a visual treat. Tailor your wallpaper to suit your mood and style, ensuring your screen is a reflection of you. Switch it up regularly for a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set different Home and Lock Screen wallpapers on iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/08/iPhone-Home-Screen-and-Lock-Screen-with-different-wallpapers.jpg' alt='How to set different Home and Lock Screen wallpapers on iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1510">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/08/iPhone-Home-Screen-and-Lock-Screen-with-different-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light wallpapers and lock screen : r/NOTHING">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/light-wallpapers-and-lock-screen-v0-7tppf4yz2svc1.png?auto=webp&s=617f32879f264f37272ae52bf1ffcc43c444b49e' alt='Light wallpapers and lock screen : r/NOTHING'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/light-wallpapers-and-lock-screen-v0-7tppf4yz2svc1.png?auto=webp&s=617f32879f264f37272ae52bf1ffcc43c444b49e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine Heart Love Pink Ice Cream Cute Fun iPhone Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5805937/r/il/cf2189/4155673332/il_570xN.4155673332_tnwd.jpg' alt='Valentine Heart Love Pink Ice Cream Cute Fun iPhone Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5805937/r/il/cf2189/4155673332/il_570xN.4155673332_tnwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set different Home and Lock Screen wallpapers on iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/08/Different-wallpapers-for-iPhone-Home-Screen-and-Lock-Screen-1.jpg' alt='How to set different Home and Lock Screen wallpapers on iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1510">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/08/Different-wallpapers-for-iPhone-Home-Screen-and-Lock-Screen-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='100+] Cool Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' alt='900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="6212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="770 Matching lock screens & wallpapers ideas | screen wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/be/eb/c1/beebc18b58eae39efc46041746d095c9.jpg' alt='770 Matching lock screens & wallpapers ideas | screen wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/be/eb/c1/beebc18b58eae39efc46041746d095c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CapCut - Best Car Wallpapers for Home and Lock Screen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7377733675607166214&location=0&aid=1988' alt='CapCut - Best Car Wallpapers for Home and Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7377733675607166214&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawkins (Stanger Things) Lock/Home screen wallpaper combo. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/z53mac1gyof91.jpg?width=640&crop=smart&auto=webp&s=bc7065f7d3d4788d8648bbb139a8f138dedd91f0' alt='Hawkins (Stanger Things) Lock/Home screen wallpaper combo. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/z53mac1gyof91.jpg?width=640&crop=smart&auto=webp&s=bc7065f7d3d4788d8648bbb139a8f138dedd91f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set Different Wallpapers on iPhone Lock Screen and Home Screen ...">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/article-new/2022/10/2different-home-lock-screen-wallpapers.jpg' alt='Set Different Wallpapers on iPhone Lock Screen and Home Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2368">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/article-new/2022/10/2different-home-lock-screen-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

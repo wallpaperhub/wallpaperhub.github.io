@@ -1,0 +1,129 @@
+<title>Glamorous Gold Confetti on Transparent Background</title>
+                    <meta name="description" content="Discover gold confetti with a transparent background for your creative projects. Perfect for invitations, social media posts, or decor, this chic element adds a touch of elegance to any design. Easy to incorporate and versatile, make your celebrations shine with this stunning visual addition!">
+                    <meta name="keywords" content="gold confetti transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-confetti-transparent-background">
+                            <span itemprop="name">gold confetti transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glamorous Gold Confetti on Transparent Background</h1>
+                <p>Enhance your designs with stunning gold confetti on a transparent background! Perfect for celebrations, parties, or festive events, this vibrant confetti adds a touch of luxury and elegance. Ideal for invitations, social media graphics, or advertisements, it's versatile and easy to use. Make your projects shine with this chic and trendy element!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Confetti PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230131/ourmid/pngtree-gold-confetti-png-image_6574749.png' alt='Gold Confetti PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230131/ourmid/pngtree-gold-confetti-png-image_6574749.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Confetti Transparent Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/19941' alt='Gold Confetti Transparent Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="7952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/19941' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Confetti Transparent Images – Browse 97,961 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/45/94/33/360_F_445943381_gBQVd88z9VDIYPuJ0TgmnVPHPnZbInXe.jpg' alt='Gold Confetti Transparent Images – Browse 97,961 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/45/94/33/360_F_445943381_gBQVd88z9VDIYPuJ0TgmnVPHPnZbInXe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gold Sparkle Png Transparent - Gold Confetti Transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/46/43/14/464314109074c14089aa34460a2457d9.jpg' alt='Download Gold Sparkle Png Transparent - Gold Confetti Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/46/43/14/464314109074c14089aa34460a2457d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Confetti Transparent Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-confetti-background_23-2148935335.jpg' alt='Gold Confetti Transparent Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-confetti-background_23-2148935335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti Gold PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230227/original/pngtree-gold-confetti-png-image_8967258.png' alt='Confetti Gold PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230227/original/pngtree-gold-confetti-png-image_8967258.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Confetti Transparent Background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/0-2063f61a065eeaf16965d0d253bcbea004d5399faf494d98053823620384df98.jpg' alt='Golden Confetti Transparent Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/0-2063f61a065eeaf16965d0d253bcbea004d5399faf494d98053823620384df98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Confetti Transparent Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Decorative-Elements-PNG/Gold_Confetti_Transparent_Clip_Art_Image.png?m=1629830987' alt='Gold Confetti Transparent Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Decorative-Elements-PNG/Gold_Confetti_Transparent_Clip_Art_Image.png?m=1629830987' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Gold Confetti Overlay, PNG, Transparent Background | Gogivo">
+                                <img itemprop="contentUrl url" src='https://gogivo.com/wp-content/uploads/2022/05/Confetti_Overlay_3_Preview.jpg' alt='Free Gold Confetti Overlay, PNG, Transparent Background | Gogivo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gogivo" />
+                                </span>
+                                <a href='https://gogivo.com/wp-content/uploads/2022/05/Confetti_Overlay_3_Preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration defocused gold confetti isolated on a ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GM433X/vector-illustration-defocused-gold-confetti-isolated-on-a-transparent-background-2GM433X.jpg' alt='Vector illustration defocused gold confetti isolated on a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GM433X/vector-illustration-defocused-gold-confetti-isolated-on-a-transparent-background-2GM433X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Festive Deadpool Christmas Wallpaper for Your Device</title>
+                    <meta name="description" content="Get ready for the holidays with our vibrant Deadpool Christmas wallpaper. Ideal for fans, these wallpapers combine festive cheer and humor, making your device stand out this season. Download now and enjoy the festive spirit with Deadpool on your screen!">
+                    <meta name="keywords" content="deadpool christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/deadpool-christmas-wallpaper">
+                            <span itemprop="name">deadpool christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Deadpool Christmas Wallpaper for Your Device</h1>
+                <p>Transform your device with fun Deadpool Christmas wallpaper! Featuring the beloved anti-hero in festive gear, these wallpapers bring holiday cheer to your screen. Perfect for fans of all ages, they add a touch of humor and excitement to the season. Celebrate with Deadpool's quirky charm every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/5f/84/545f84a1260509bb2d9805cfed2ab0d5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/5f/84/545f84a1260509bb2d9805cfed2ab0d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel wallpaper Deadpool Noel christmas santa claus hat christmas hat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/35/26/aa352657afc3c64bbbf73da4e519bb96.jpg' alt='Marvel wallpaper Deadpool Noel christmas santa claus hat christmas hat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/35/26/aa352657afc3c64bbbf73da4e519bb96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/4e/76/434e760c48915d431580de88ac872c98.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/4e/76/434e760c48915d431580de88ac872c98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='http://pre00.deviantart.net/731d/th/pre/f/2016/358/2/8/deadpool_christmas_vacation_by_m7781-dasq27a.jpg' alt='Deadpool Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='http://pre00.deviantart.net/731d/th/pre/f/2016/358/2/8/deadpool_christmas_vacation_by_m7781-dasq27a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW Christmas Storytime with Deadpool Disneyland Resort - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ISY60FDrD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDP_MLBsmvNmGxCstkozq31xEILrQ' alt='NEW Christmas Storytime with Deadpool Disneyland Resort - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ISY60FDrD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDP_MLBsmvNmGxCstkozq31xEILrQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool's Christmas Vacation homage commission I recently ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/deadpools-christmas-vacation-homage-commission-i-recently-v0-ggp9t8l8pvjd1.jpeg?width=640&crop=smart&auto=webp&s=2809a6702bc435ec523bc9f2069e357541ba01e9' alt='Deadpool's Christmas Vacation homage commission I recently ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/deadpools-christmas-vacation-homage-commission-i-recently-v0-ggp9t8l8pvjd1.jpeg?width=640&crop=smart&auto=webp&s=2809a6702bc435ec523bc9f2069e357541ba01e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Christmas, Christmas Spider Man, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/282/244/HD-wallpaper-deadpool-christmas-christmas-spider-man.jpg' alt='Deadpool Christmas, Christmas Spider Man, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/282/244/HD-wallpaper-deadpool-christmas-christmas-spider-man.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Deadpool Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10005795.jpg' alt='Christmas Deadpool Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10005795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Christmas wallpaper by georgekev - Download on ZEDGE™ | 83b5">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=alAgp5FFazSDDsA1ksTTXlnZ-Mh8bCdTJTnTIh0_WjTHqoujWVtJpEBUnAREmMpMVtZ6xIbhW1Wd6Opjj_q0Qjx7lHuchEl7kzA4JlyVEpxi0qTiKdlPDXAy9dk_cNEb-bAkPwKgeUcuKrCfMSUg5uiK9C3o5MM_gbmBml2cCPa_Yx41JQpNbCCMdXuEb-B0vjfT-rVg2Rpmht1OhAYO9RDKVw9hezg45NlQDhFnzJZaPDsy8O8HPCt1QoI' alt='Deadpool Christmas wallpaper by georgekev - Download on ZEDGE™ | 83b5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=alAgp5FFazSDDsA1ksTTXlnZ-Mh8bCdTJTnTIh0_WjTHqoujWVtJpEBUnAREmMpMVtZ6xIbhW1Wd6Opjj_q0Qjx7lHuchEl7kzA4JlyVEpxi0qTiKdlPDXAy9dk_cNEb-bAkPwKgeUcuKrCfMSUg5uiK9C3o5MM_gbmBml2cCPa_Yx41JQpNbCCMdXuEb-B0vjfT-rVg2Rpmht1OhAYO9RDKVw9hezg45NlQDhFnzJZaPDsy8O8HPCt1QoI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool XMas, avengers, christmas, deadpool, deadpool 2, endgame ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/817/540/HD-wallpaper-deadpool-xmas-avengers-christmas-deadpool-deadpool-2-endgame-marvel-ryan-reynolds-santa-wade-wilson.jpg' alt='Deadpool XMas, avengers, christmas, deadpool, deadpool 2, endgame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/817/540/HD-wallpaper-deadpool-xmas-avengers-christmas-deadpool-deadpool-2-endgame-marvel-ryan-reynolds-santa-wade-wilson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

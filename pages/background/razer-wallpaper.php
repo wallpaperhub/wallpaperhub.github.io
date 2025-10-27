@@ -1,0 +1,129 @@
+<title>Stunning Razer Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover a collection of stunning Razer wallpapers that enhance your gaming experience. Download high-quality designs featuring vibrant colors and iconic gaming motifs, perfect for any device. Personalize your screens and showcase your love for Razer with these amazing backgrounds.">
+                    <meta name="keywords" content="razer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/razer-wallpaper">
+                            <span itemprop="name">razer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Razer Wallpapers for Gamers</h1>
+                <p>Razer wallpapers bring a striking aesthetic to your device, blending vibrant colors and iconic gaming designs. Perfect for fans of Razer's cutting-edge tech and gaming culture, these wallpapers enhance your digital experience. Download high-quality options to personalize your screens and elevate your gaming vibe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/thumbnails/prism_thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/thumbnails/prism_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.webp' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/desktop-wallpapers/Razer-Sensa-THS-Chroma_Wallpaper-thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/desktop-wallpapers/Razer-Sensa-THS-Chroma_Wallpaper-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/thumbnails/quad-damage_thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/thumbnails/quad-damage_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Razer Corsair Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/minimalist-razer-corsair-logo-zqdu4ujqu3g2apsb.jpg' alt='Minimalist Razer Corsair Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/minimalist-razer-corsair-logo-zqdu4ujqu3g2apsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/thumbnails/vice-city_thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/thumbnails/vice-city_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Razer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/razer-dzbxa4ah6ky8sap7.jpg' alt='200+] Razer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/razer-dzbxa4ah6ky8sap7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Razer wallpaper that is 1920x1080 but also fits nicely on ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f90znvrhs3861.jpg?width=1080&crop=smart&auto=webp&s=d4b116ed1e6706fb87245f6850578f0440b033b5' alt='I made a Razer wallpaper that is 1920x1080 but also fits nicely on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f90znvrhs3861.jpg?width=1080&crop=smart&auto=webp&s=d4b116ed1e6706fb87245f6850578f0440b033b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/thumbnails/razer-neon_thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/thumbnails/razer-neon_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Razer Wallpaper [3840 x 2160] : r/razer">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/q5lpjnv8lcw41.jpg' alt='Neon Razer Wallpaper [3840 x 2160] : r/razer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/q5lpjnv8lcw41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

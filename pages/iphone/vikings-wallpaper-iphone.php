@@ -1,0 +1,129 @@
+<title>Epic Vikings Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover immersive Vikings-themed wallpapers for your iPhone. Perfect for fans of Norse mythology and history, our collection features stunning visuals that will transform your screen. Download now and show off your passion for the legendary Viking saga!">
+                    <meta name="keywords" content="vikings wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/vikings-wallpaper-iphone">
+                            <span itemprop="name">vikings wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Vikings Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning Vikings wallpaper that captures the spirit of adventure and the fierce legacy of Norse warriors. From iconic ships to powerful gods, these wallpapers bring the saga to your screen. Revitalize your device with epic imagery, perfect for fans of history and mythology alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper - Official website of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/v1732048586/vikings/hrlzgnbpibn8nq9dxpod.jpg' alt='Mobile Wallpaper - Official website of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/v1732048586/vikings/hrlzgnbpibn8nq9dxpod.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper - Official website of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/v1718224215/vikings/k7drv6n04tfhynjlppj5.jpg' alt='Mobile Wallpaper - Official website of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/v1718224215/vikings/k7drv6n04tfhynjlppj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted a Vikings wallpaper for my phone but it didn't seem just ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wanted-a-vikings-wallpaper-for-my-phone-but-it-didnt-seem-v0-hxygvhbgih3a1.jpg?width=640&crop=smart&auto=webp&s=e4c595534bf0cd858672f4672aa0d96286dc8b5a' alt='Wanted a Vikings wallpaper for my phone but it didn't seem just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wanted-a-vikings-wallpaper-for-my-phone-but-it-didnt-seem-v0-hxygvhbgih3a1.jpg?width=640&crop=smart&auto=webp&s=e4c595534bf0cd858672f4672aa0d96286dc8b5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made y'all a phone wallpaper in case you want to use it. I'm not ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/otnclaopdh971.png?auto=webp&s=3abc00379ba9abd63233fd2803f3edb44bc5099a' alt='I made y'all a phone wallpaper in case you want to use it. I'm not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/otnclaopdh971.png?auto=webp&s=3abc00379ba9abd63233fd2803f3edb44bc5099a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper - Official website of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/v1718209543/vikings/od1cvkq3yvk9wqwtmwsz.jpg' alt='Mobile Wallpaper - Official website of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/v1718209543/vikings/od1cvkq3yvk9wqwtmwsz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper - Official website of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/f_auto/vikings/i5zoqngcpoensduxapnh' alt='Mobile Wallpaper - Official website of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/f_auto/vikings/i5zoqngcpoensduxapnh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota Vikings Nfl Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minnesota-vikings-nfl-iphone-zzylc1l7eh1fic48.jpg' alt='Minnesota Vikings Nfl Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minnesota-vikings-nfl-iphone-zzylc1l7eh1fic48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota Vikings Wallpapers 4k iPhone">
+                                <img itemprop="contentUrl url" src='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/3d0dc512-c9be-4680-9358-12e0f3d14700/public' alt='Minnesota Vikings Wallpapers 4k iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpics" />
+                                </span>
+                                <a href='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/3d0dc512-c9be-4680-9358-12e0f3d14700/public' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vikings (TV Series) Wallpapers (99 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/2/1/2073229-2160x3840-iphone-4k-vikings-tv-series-background.jpg' alt='Vikings (TV Series) Wallpapers (99 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/2/1/2073229-2160x3840-iphone-4k-vikings-tv-series-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Vikings tv show iPhone, Cool Viking, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/47/409/HD-wallpaper-best-vikings-tv-show-iphone-cool-viking.jpg' alt='Best Vikings tv show iPhone, Cool Viking, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/47/409/HD-wallpaper-best-vikings-tv-show-iphone-cool-viking.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

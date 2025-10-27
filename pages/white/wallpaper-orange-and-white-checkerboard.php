@@ -1,0 +1,129 @@
+<title>Vibrant Orange & White Checkerboard Wallpaper: Trendy Home Decor</title>
+                    <meta name="description" content="Discover the lively orange and white checkerboard wallpaper, designed to energize your living spaces. Ideal for kitchens or playrooms, this bold pattern enhances your home decor with a modern touch. Shop now for an eye-catching look that transforms any room effortlessly!">
+                    <meta name="keywords" content="wallpaper orange and white checkerboard">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/wallpaper-orange-and-white-checkerboard">
+                            <span itemprop="name">wallpaper orange and white checkerboard</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange & White Checkerboard Wallpaper: Trendy Home Decor</h1>
+                <p>Transform your space with a vibrant orange and white checkerboard wallpaper, perfect for adding energy and style to any room. This eye-catching design creates a playful atmosphere, whether in a kitchen, playroom, or living area. Its bold colors and geometric pattern effortlessly enhance your decor, making it a trendy choice for modern homes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange White Checkerboard Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/checkerboard-banner-orange-white-colors-260nw-2101938073.jpg' alt='Orange White Checkerboard Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/checkerboard-banner-orange-white-colors-260nw-2101938073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange White Check Checkered Checkerboard Geometric Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/e5/c6/41e5c6efe317d56f718b9cc62a82a31f.jpg' alt='Orange White Check Checkered Checkerboard Geometric Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/e5/c6/41e5c6efe317d56f718b9cc62a82a31f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Orange,9.8' X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71wu66Pbh4L.jpg' alt='Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Orange,9.8' X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71wu66Pbh4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange White Checkerboard Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/orange-white-checkerboard-260nw-1114196.jpg' alt='Orange White Checkerboard Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/orange-white-checkerboard-260nw-1114196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and orange checkerboard pattern background. Check pattern ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/58/12/35/1000_F_458123508_9teHaifm7mcdfPUjbexabzg7SXdzrTG4.jpg' alt='White and orange checkerboard pattern background. Check pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/58/12/35/1000_F_458123508_9teHaifm7mcdfPUjbexabzg7SXdzrTG4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange and white checkered pattern. Vector wallpaper Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2R1GB6P/orange-and-white-checkered-pattern-vector-wallpaper-2R1GB6P.jpg' alt='Orange and white checkered pattern. Vector wallpaper Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2R1GB6P/orange-and-white-checkered-pattern-vector-wallpaper-2R1GB6P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cork 5x11 ORANGE & WHITE CHECKERBOARD 1/4 Squares Applied to Real ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6343724/r/il/0df1c3/5505084019/il_340x270.5505084019_tn2b.jpg' alt='Cork 5x11 ORANGE & WHITE CHECKERBOARD 1/4 Squares Applied to Real ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6343724/r/il/0df1c3/5505084019/il_340x270.5505084019_tn2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Retro Checkerboard Orange Summer Checkered  Apricot Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51UlPC+JaCL.jpg' alt='Peel & Stick Wallpaper Swatch - Retro Checkerboard Orange Summer Checkered  Apricot Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51UlPC+JaCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Drawn Checkerboard Pattern (burnt orange/white)" Art Board ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2255369815.0074/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Hand Drawn Checkerboard Pattern (burnt orange/white)" Art Board ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2255369815.0074/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered Flag Stock Illustration - Download Image Now - Abstract ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1780278773/vector/checkered-seamless-brown-and-white-pattern-background.jpg?s=612x612&w=is&k=20&c=w65XkR4VTCvQTmaWcN_EDM6l5XiV9rMyQpzgVRTnnCM=' alt='Checkered Flag Stock Illustration - Download Image Now - Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1780278773/vector/checkered-seamless-brown-and-white-pattern-background.jpg?s=612x612&w=is&k=20&c=w65XkR4VTCvQTmaWcN_EDM6l5XiV9rMyQpzgVRTnnCM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

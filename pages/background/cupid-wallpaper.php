@@ -1,0 +1,129 @@
+<title>Stunning Cupid Wallpaper for Every Romantic!</title>
+                    <meta name="description" content="Discover the perfect cupid wallpaper to enhance your device's look! From whimsical designs to vibrant colors, find the ideal backdrop that showcases your romantic spirit. Ideal for Valentine's Day or year-round love, our collection fits any aesthetic. Explore and download your favorites today!">
+                    <meta name="keywords" content="cupid wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cupid-wallpaper">
+                            <span itemprop="name">cupid wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cupid Wallpaper for Every Romantic!</h1>
+                <p>Transform your device with enchanting cupid wallpaper! Perfect for expressing your romantic side, these charming designs feature adorable cupids, hearts, and dreamy landscapes. Whether for Valentine's Day or everyday romance, customize your screens with vibrant colors and whimsical art. Elevate your aesthetic and spread love at a glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roman Mythology Cupid and His Lover Psyche Wallpaper for Office & Home Wall  - Mythological Removable Mural Decor - Peel and Stick, Textile Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91yXSIDCuVL._AC_UF894,1000_QL80_.jpg' alt='Roman Mythology Cupid and His Lover Psyche Wallpaper for Office & Home Wall  - Mythological Removable Mural Decor - Peel and Stick, Textile Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91yXSIDCuVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cupid's Images – Browse 413,136 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/68/70/69/360_F_668706923_X9LsHA2NDplGlKP8zFKN9TrSC3Jinj12.jpg' alt='Cupid's Images – Browse 413,136 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/68/70/69/360_F_668706923_X9LsHA2NDplGlKP8zFKN9TrSC3Jinj12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psyche and Cupid - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.papiersdeparis.com/en/upload/amour-psyche-wallpaper-original-3.jpg' alt='Psyche and Cupid - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papiers de Paris" />
+                                </span>
+                                <a href='https://www.papiersdeparis.com/en/upload/amour-psyche-wallpaper-original-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage wallpaper painting angel cupid | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-wallpaper-painting-angel-cupid_53876-189668.jpg' alt='Vintage wallpaper painting angel cupid | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-wallpaper-painting-angel-cupid_53876-189668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Valentine's iPhone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/15/7b/6e/157b6eefbd9153944cca3cd48a7ca7d9.jpg' alt='Download premium image of Valentine's iPhone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/15/7b/6e/157b6eefbd9153944cca3cd48a7ca7d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cupids Arrow - Valentines Day Fantasy Backgrounds | JPG Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20250107/cupids-arrow---valentines-day-fantasy_11352168.jpg!sw800' alt='Cupids Arrow - Valentines Day Fantasy Backgrounds | JPG Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20250107/cupids-arrow---valentines-day-fantasy_11352168.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cupid Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/valentine-s-pattern-design_1284-568.jpg' alt='Cupid Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/valentine-s-pattern-design_1284-568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cupid paper heart phone wallpaper, | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2LXJlbWl4LTA5Yi1iYS5qcGc.jpg' alt='Cupid paper heart phone wallpaper, | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2LXJlbWl4LTA5Yi1iYS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple The Arrow Of Cupid Outline Art iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/c5/e1/71c5e19ce5917ea6ad7b9bd4059e5889.jpg' alt='Simple The Arrow Of Cupid Outline Art iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/c5/e1/71c5e19ce5917ea6ad7b9bd4059e5889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cupid and Psyche – delightful wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/71598/cupid-and-psyche.jpg?h=699&q=85' alt='Cupid and Psyche – delightful wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1036">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/71598/cupid-and-psyche.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

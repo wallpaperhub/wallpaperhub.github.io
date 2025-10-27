@@ -1,0 +1,129 @@
+<title>Asta Demon Wallpaper: Capture the Epic!</title>
+                    <meta name="description" content="Discover stunning Asta Demon wallpapers that showcase the vibrant energy and fierce transformations of your favorite character. Perfect for enhancing your device's look, these wallpapers are designed for anime fans who crave adventure. Download now to transform your screen!">
+                    <meta name="keywords" content="asta demon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/asta-demon-wallpaper">
+                            <span itemprop="name">asta demon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Asta Demon Wallpaper: Capture the Epic!</h1>
+                <p>Asta Demon wallpaper brings a unique blend of intensity and creativity to your devices. Featuring bold colors and dynamic designs from the popular anime series, these wallpapers capture Asta's fierce spirit and demon transformations, perfect for fans seeking to elevate their screens with epic visuals. Download now to embody the magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD asta demon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta-thumbnail.jpg' alt='HD asta demon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta Demon Wallpaper 4K, Black Clover, Silhouette">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1170x2532-11222.png' alt='Asta Demon Wallpaper 4K, Black Clover, Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/asta-demon-black-1170x2532-11222.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="asta#black clover# liebee#anime#evil#devil#manga#dark anime# neon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/04/ea/8604ea9ec36c975b249ea9a00c0de803.jpg' alt='asta#black clover# liebee#anime#evil#devil#manga#dark anime# neon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/04/ea/8604ea9ec36c975b249ea9a00c0de803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper for Asta's demon transformation (alternate in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qevtvqhxbz721.png?auto=webp&s=6fae521611e1cf0652e90c827c903726a2a8f4d9' alt='Made a wallpaper for Asta's demon transformation (alternate in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qevtvqhxbz721.png?auto=webp&s=6fae521611e1cf0652e90c827c903726a2a8f4d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Asta Demon Power Awakened Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-clover-asta-demon-1s9q1o418ri3uscn.jpg' alt='Download Asta Demon Power Awakened Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-clover-asta-demon-1s9q1o418ri3uscn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black clover asta, asta, asta demon form, black clover, cool ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/513/57/HD-wallpaper-black-clover-asta-asta-asta-demon-form-black-clover-cool-demon-demon-wing-nice-nice-btw-scary-sword.jpg' alt='Black clover asta, asta, asta demon form, black clover, cool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/513/57/HD-wallpaper-black-clover-asta-asta-asta-demon-form-black-clover-cool-demon-demon-wing-nice-nice-btw-scary-sword.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta demon form wallpaper by coppe11 - Download on ZEDGE™ | 496c">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/21/a4/dd21a480a88f7f026b0ea596e2bb3577.jpg' alt='Asta demon form wallpaper by coppe11 - Download on ZEDGE™ | 496c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/21/a4/dd21a480a88f7f026b0ea596e2bb3577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K] Devil Wallpaper from OP 12 (removed Asta from the pic) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d7dxyzgu5ny51.png' alt='4K] Devil Wallpaper from OP 12 (removed Asta from the pic) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d7dxyzgu5ny51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asta's Demon Form with Sword - Black Clover HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/107/thumb-1920-1070175.jpg' alt='Asta's Demon Form with Sword - Black Clover HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/107/thumb-1920-1070175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Demon Asta (Black Clover) Anime Black Clover HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/112/thumb-1920-1125440.jpg' alt='Download Demon Asta (Black Clover) Anime Black Clover HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/112/thumb-1920-1125440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

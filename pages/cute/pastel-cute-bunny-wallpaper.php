@@ -1,0 +1,129 @@
+<title>Charming Pastel Bunny Wallpapers for Every Room</title>
+                    <meta name="description" content="Discover the joy of pastel cute bunny wallpaper! Perfect for adding a whimsical touch to your decor, these designs are ideal for nurseries and children's rooms. Shop now to find adorable patterns that brighten any space while creating a soothing atmosphere.">
+                    <meta name="keywords" content="pastel cute bunny wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/pastel-cute-bunny-wallpaper">
+                            <span itemprop="name">pastel cute bunny wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Bunny Wallpapers for Every Room</h1>
+                <p>Transform your space with enchanting pastel cute bunny wallpaper! Perfect for nurseries, kids' rooms, or anyone who loves a whimsical touch, these delightful designs feature adorable bunnies in soft hues. Create a calming and joyful atmosphere with charming patterns that inspire creativity and warmth. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii bunny wallpaper by Hexstly - Download on ZEDGE™ | 7fc2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/09/3f/3a093f35db0b091b5fd01724f71b0f37.jpg' alt='Kawaii bunny wallpaper by Hexstly - Download on ZEDGE™ | 7fc2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/09/3f/3a093f35db0b091b5fd01724f71b0f37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute rabbit wallpaper chibi style vector pastel ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-rabbit-wallpaper-chibi-style-vector-pastel-colour_493693-24.jpg' alt='Premium Vector | Cute rabbit wallpaper chibi style vector pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-rabbit-wallpaper-chibi-style-vector-pastel-colour_493693-24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Cute Bunny With Umbrella Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-cute-bunny-with-umbrella-mz39r3k77rbrdihw.jpg' alt='Pastel Cute Bunny With Umbrella Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-cute-bunny-with-umbrella-mz39r3k77rbrdihw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii bunny wallpaper background for iPhone 6/6s">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/83/ae/5883aeef79f698ccef5515803b09fd0b.jpg' alt='Cute kawaii bunny wallpaper background for iPhone 6/6s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/83/ae/5883aeef79f698ccef5515803b09fd0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Rabbit With Pink Donut On Pastel Background. Vector ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/junhoushou/junhoushou2307/junhoushou230701446/209230816-cute-rabbit-with-pink-donut-on-pastel-background-vector-illustration.jpg' alt='Cute Rabbit With Pink Donut On Pastel Background. Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/junhoushou/junhoushou2307/junhoushou230701446/209230816-cute-rabbit-with-pink-donut-on-pastel-background-vector-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ʚ♡ɞ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/45/09/38450954abaac3832c61f7e85c4d0ddd.jpg' alt='ʚ♡ɞ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/45/09/38450954abaac3832c61f7e85c4d0ddd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute rabbit with carrot, seamless pattern. Pink background. Pastel ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/496/135/non_2x/cute-rabbit-with-carrot-seamless-pattern-pink-background-pastel-concept-cute-cartoon-character-vector.jpg' alt='Cute rabbit with carrot, seamless pattern. Pink background. Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/496/135/non_2x/cute-rabbit-with-carrot-seamless-pattern-pink-background-pastel-concept-cute-cartoon-character-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Bunny Spring Wallpaper Cute Aesthetic Pastel Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/46a7b8/5894029968/il_570xN.5894029968_fvds.jpg' alt='Flower Bunny Spring Wallpaper Cute Aesthetic Pastel Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/46a7b8/5894029968/il_570xN.5894029968_fvds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute rabbit Wallpaper 4K, Kawaii food, Kawaii rabbit">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cute-rabbit-kawaii-5120x2880-10112.png' alt='Cute rabbit Wallpaper 4K, Kawaii food, Kawaii rabbit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cute-rabbit-kawaii-5120x2880-10112.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my wallpapers •">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/8f/1f/2a8f1f320b49be1d75eac119e2b345c1.jpg' alt='my wallpapers •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/8f/1f/2a8f1f320b49be1d75eac119e2b345c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

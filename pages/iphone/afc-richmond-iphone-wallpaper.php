@@ -1,0 +1,129 @@
+<title>AFC Richmond iPhone Wallpapers: Show Your Team Spirit!</title>
+                    <meta name="description" content="Discover the best AFC Richmond iPhone wallpapers to express your fandom! Grab eye-catching designs inspired by your favorite team and players, perfect for personalizing your device. Download your favorite wallpaper now and take a piece of Richmond pride with you everywhere you go!">
+                    <meta name="keywords" content="afc richmond iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/afc-richmond-iphone-wallpaper">
+                            <span itemprop="name">afc richmond iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AFC Richmond iPhone Wallpapers: Show Your Team Spirit!</h1>
+                <p>Elevate your iPhone's style with stunning AFC Richmond wallpapers! Showcase your love for this beloved football club with high-quality images featuring iconic players, team colors, and logos. Perfect for fans looking to personalize their devices and carry a piece of Richmond's spirit wherever they go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My attempt at an AFC Richmond phone wallpaper : r/TedLasso">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lgrsutmufwn61.png' alt='My attempt at an AFC Richmond phone wallpaper : r/TedLasso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lgrsutmufwn61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate the debut of Ted Lasso season 2 later this week with ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Crewneck-Wallpaper-1.png?w=473' alt='Celebrate the debut of Ted Lasso season 2 later this week with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Crewneck-Wallpaper-1.png?w=473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso AFC Richmond wallpaper by Diandranism - Download on ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=JhbMExK-vQLvnKp_kvtQCKqg6CUUov_gv2DDxGKQy1cf81Wbw5197EYNoVNu-0ps_Qrr9RUvV2hGUfB1v7-j-FgdMxw-SoCR74Xdmt6Im9w2WVhK9FUYlYujlxBCkG6c5GAGPZL9Ww-sAyIQe256ADHsckxU1JMxw8mHdI9CpV-TkXGzVSBHRPw74SK1qamNlhgxoiQXtbZ79WS4gZBXGX4yJ7Ku5bnGNGE2EKvuGnPGmVkCw5opXQvVwNM' alt='Ted Lasso AFC Richmond wallpaper by Diandranism - Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=JhbMExK-vQLvnKp_kvtQCKqg6CUUov_gv2DDxGKQy1cf81Wbw5197EYNoVNu-0ps_Qrr9RUvV2hGUfB1v7-j-FgdMxw-SoCR74Xdmt6Im9w2WVhK9FUYlYujlxBCkG6c5GAGPZL9Ww-sAyIQe256ADHsckxU1JMxw8mHdI9CpV-TkXGzVSBHRPw74SK1qamNlhgxoiQXtbZ79WS4gZBXGX4yJ7Ku5bnGNGE2EKvuGnPGmVkCw5opXQvVwNM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landon Howell on X: "A.F.C. Richmond wallpaper from the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E7A5n3zWQAQHo3H.jpg:large' alt='Landon Howell on X: "A.F.C. Richmond wallpaper from the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E7A5n3zWQAQHo3H.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AFC Richmond Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12730633.jpg' alt='AFC Richmond Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12730633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AFC Richmond Phone Background : r/TedLasso">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3c4q7uhd5yo71.png' alt='AFC Richmond Phone Background : r/TedLasso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3c4q7uhd5yo71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso - AFC Richmond | Stephen Clark (sgclark.com)">
+                                <img itemprop="contentUrl url" src='https://www.sgclark.com/blog/wp-content/uploads/2020/12/tv_ted_lasso_afc_richmond_home.png' alt='Ted Lasso - AFC Richmond | Stephen Clark (sgclark.com)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sgclark.com" />
+                                </span>
+                                <a href='https://www.sgclark.com/blog/wp-content/uploads/2020/12/tv_ted_lasso_afc_richmond_home.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/0b/59/f40b590fa16fae8783dfc07e2324df4a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/0b/59/f40b590fa16fae8783dfc07e2324df4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso - Richmond Wallpaper by Iconfactory on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/28970512/file/original-f47e8078c33aae8d25f5a7a04249131a.png?resize=752x&vertical=center' alt='Ted Lasso - Richmond Wallpaper by Iconfactory on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/28970512/file/original-f47e8078c33aae8d25f5a7a04249131a.png?resize=752x&vertical=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso Season 2 is on air. So do our Ted Lasso Wallpapers — 9 ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1627150908767-WPWQ7TG3QEVMNL63G8PI/afc+richmond.png' alt='Ted Lasso Season 2 is on air. So do our Ted Lasso Wallpapers — 9 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9 Tech Eleven" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1627150908767-WPWQ7TG3QEVMNL63G8PI/afc+richmond.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

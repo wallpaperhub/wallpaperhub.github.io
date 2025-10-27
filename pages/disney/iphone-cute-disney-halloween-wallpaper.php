@@ -1,0 +1,129 @@
+<title>Adorable Disney Halloween iPhone Wallpapers</title>
+                    <meta name="description" content="Discover charming Disney Halloween wallpapers for your iPhone! Transform your device with cute designs featuring beloved characters in festive costumes. Perfect for Disney lovers, these wallpapers celebrate the spooky season with style and fun.">
+                    <meta name="keywords" content="iphone cute disney halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/iphone-cute-disney-halloween-wallpaper">
+                            <span itemprop="name">iphone cute disney halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Disney Halloween iPhone Wallpapers</h1>
+                <p>Get into the Halloween spirit with adorable iPhone wallpaper featuring your favorite Disney characters! From Mickey and Minnie dressed as ghosts to whimsical pumpkin designs, discover a range of cute Halloween-themed wallpapers that will bring joy to your phone. Perfect for Disney fans looking to celebrate the spooky season in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/b5/af/bdb5af934232574975d6945a311c1048.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/b5/af/bdb5af934232574975d6945a311c1048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by D Barr on Disney cell wallpaper | Halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/5b/1f/fc5b1f809dd72665a4b9aff63a6013e8.jpg' alt='Pin by D Barr on Disney cell wallpaper | Halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/5b/1f/fc5b1f809dd72665a4b9aff63a6013e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Mickey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/19/60/66196054e0e29d7b994ad71f2f5d4982.jpg' alt='Halloween Mickey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/19/60/66196054e0e29d7b994ad71f2f5d4982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Halloween Background Explore more Cartoon, Disney Hallowee ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/4b/c4/554bc455deadf47c1ec4c9b457ef4207.jpg' alt='Disney Halloween Background Explore more Cartoon, Disney Hallowee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/4b/c4/554bc455deadf47c1ec4c9b457ef4207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Iphone Wallpaper!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/fe/02/a7fe02c764da307cc15ead0d9e66debe.jpg' alt='Halloween Iphone Wallpaper!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/fe/02/a7fe02c764da307cc15ead0d9e66debe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Madison Cordi on Idea Pins by you | Disney wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/0a/11/fb0a11c314b6449be2bedfd9d1b42c8e.jpg' alt='Pin by Madison Cordi on Idea Pins by you | Disney wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/0a/11/fb0a11c314b6449be2bedfd9d1b42c8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Halloween Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/75/48/8775484c4c4c36f45ecfb9801cf70a7d.jpg' alt='Disney Halloween Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/75/48/8775484c4c4c36f45ecfb9801cf70a7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/0d/74/940d7434ee2053ff6bd190b0cf0d3c84.jpg' alt='Disney Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/0d/74/940d7434ee2053ff6bd190b0cf0d3c84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween stitch, cute, disney, pixar, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/333/782/HD-wallpaper-halloween-stitch-cute-disney-pixar.jpg' alt='Halloween stitch, cute, disney, pixar, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/333/782/HD-wallpaper-halloween-stitch-cute-disney-pixar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Disney Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/16/8a/88/168a88b97b0bb9144bb48cc2169fc13b.png' alt='Halloween iPhone Disney Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/16/8a/88/168a88b97b0bb9144bb48cc2169fc13b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

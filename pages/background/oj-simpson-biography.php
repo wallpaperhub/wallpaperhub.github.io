@@ -1,0 +1,129 @@
+<title>O.J. Simpson: Life, Legacy, and Controversies</title>
+                    <meta name="description" content="Explore the life of O.J. Simpson, the NFL star turned Hollywood actor. Discover his notable achievements, the infamous murder trial that shocked America, and his complex legacy in sports and pop culture. Uncover the story behind the man who remains a polarizing figure today.">
+                    <meta name="keywords" content="oj simpson biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oj-simpson-biography">
+                            <span itemprop="name">oj simpson biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>O.J. Simpson: Life, Legacy, and Controversies</h1>
+                <p>O.J. Simpson, born July 9, 1947, is a former professional American football player, actor, and broadcaster. He gained fame as a running back for the Buffalo Bills and later starred in films and television. Simpson's life took a dramatic turn with a highly publicized murder trial in the 1990s, which captivated the nation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O. J. Simpson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG' alt='O. J. Simpson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson: Biography, NFL Player, Convicted Criminal">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/simpson-attends-his-parole-hearing-at-lovelock-correctional-news-photo-1712855749.jpg' alt='O.J. Simpson: Biography, NFL Player, Convicted Criminal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/simpson-attends-his-parole-hearing-at-lovelock-correctional-news-photo-1712855749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson | Biography, Trial, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/97/256797-050-CBE26139/OJ-Simpson-trial-Las-Vegas.jpg' alt='O.J. Simpson | Biography, Trial, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1223">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/97/256797-050-CBE26139/OJ-Simpson-trial-Las-Vegas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson | Biography, Trial, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/12/144812-050-C5497868/OJ-Simpson-1990.jpg' alt='O.J. Simpson | Biography, Trial, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1288">
+                                <meta itemprop="height" content="1556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/12/144812-050-C5497868/OJ-Simpson-1990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson Book: The Biography of O.J. Simpson : Morrow, Julian ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613xmnAAu1L._AC_UF1000,1000_QL80_.jpg' alt='O.J. Simpson Book: The Biography of O.J. Simpson : Morrow, Julian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613xmnAAu1L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson Biography | Fandango">
+                                <img itemprop="contentUrl url" src='https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/623537/ojsimpson-1.jpg' alt='O.J. Simpson Biography | Fandango'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fandango" />
+                                </span>
+                                <a href='https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/623537/ojsimpson-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy O. J. Simpson: A Biography Book Online at Low Prices in India ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71i-+rA1gmL._AC_UF1000,1000_QL80_.jpg' alt='Buy O. J. Simpson: A Biography Book Online at Low Prices in India ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71i-+rA1gmL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O.J. Simpson | Biography, Trial, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/40/144740-050-8639E6B7/F-Lee-Bailey-OJ-Simpson-attorneys-verdict-Oct-3-1995.jpg' alt='O.J. Simpson | Biography, Trial, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1331">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/40/144740-050-8639E6B7/F-Lee-Bailey-OJ-Simpson-attorneys-verdict-Oct-3-1995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The O.J. Story and the Flow of Information in a Pre-Internet World ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/590977c3c14b3c606c108cd0/master/pass/Brody-OJ1.jpg' alt='The O.J. Story and the Flow of Information in a Pre-Internet World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/590977c3c14b3c606c108cd0/master/pass/Brody-OJ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Famous People: O. J. Simpson Biography eBook : Harvey ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FJ+yLMJqL._UF1000,1000_QL80_.jpg' alt='Amazon.com: Famous People: O. J. Simpson Biography eBook : Harvey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FJ+yLMJqL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

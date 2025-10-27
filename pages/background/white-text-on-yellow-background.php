@@ -1,0 +1,129 @@
+<title>Eye-Catching White Text on Yellow Background</title>
+                    <meta name="description" content="Discover the impact of using white text on a yellow background. This bold design choice enhances visibility and captures attention, making it perfect for signs, ads, and digital content. Learn how to effectively utilize this color combination to elevate your messaging and brand presence.">
+                    <meta name="keywords" content="white text on yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-text-on-yellow-background">
+                            <span itemprop="name">white text on yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching White Text on Yellow Background</h1>
+                <p>White text on a yellow background creates a vibrant and eye-catching design, ideal for signage, graphics, and web elements. This striking contrast enhances readability while conveying a sense of energy and warmth. Utilize this combination to attract attention and communicate your message clearly in any visual medium.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="color - white text on yellow background - User Experience Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/4IO50.png' alt='color - white text on yellow background - User Experience Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1860">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/4IO50.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choosing white text on a yellow background for an update regarding ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oge6kvbc4kn41.jpg?auto=webp&s=806db415aac7784fb736557f93e11e3fa14beec7' alt='Choosing white text on a yellow background for an update regarding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oge6kvbc4kn41.jpg?auto=webp&s=806db415aac7784fb736557f93e11e3fa14beec7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="good morning" in white text against a yellow background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7f/d2/19/7fd2199c567d6686dcff51c687b50f2b.jpg' alt='good morning" in white text against a yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7f/d2/19/7fd2199c567d6686dcff51c687b50f2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colour and text contrast tips for creating accessible documents ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4099342650/original/7uLT0OKwtmabG1DqJ014HOKUbFGeGPucsA.png?1618387928' alt='Colour and text contrast tips for creating accessible documents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Learning - Freshdesk" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4099342650/original/7uLT0OKwtmabG1DqJ014HOKUbFGeGPucsA.png?1618387928' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English font. Letters on a yellow background. White font. Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/04/37/90/1000_F_204379033_D7iv6CKqAiLL0le6qwTWpKJHtdRapACs.jpg' alt='English font. Letters on a yellow background. White font. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/04/37/90/1000_F_204379033_D7iv6CKqAiLL0le6qwTWpKJHtdRapACs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | 3d illustration volumetric inscription in YELLOW ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-illustration-volumetric-inscription-yellow-white-letters-bright-yellow-isolated-background-color-symbol_116124-2896.jpg' alt='Premium Photo | 3d illustration volumetric inscription in YELLOW ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-illustration-volumetric-inscription-yellow-white-letters-bright-yellow-isolated-background-color-symbol_116124-2896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White letters on yellow background Cut Out Stock Images & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2E34RFR/coffee-to-go-lettering-sticker-with-heart-white-letters-on-yellow-background-in-a-bubble-vector-illustration-in-flat-style-2E34RFR.jpg' alt='White letters on yellow background Cut Out Stock Images & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2E34RFR/coffee-to-go-lettering-sticker-with-heart-white-letters-on-yellow-background-in-a-bubble-vector-illustration-in-flat-style-2E34RFR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colour contrast – why does it matter? – Accessibility in government">
+                                <img itemprop="contentUrl url" src='https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2019/09/Accessibility_Blog.png' alt='Colour contrast – why does it matter? – Accessibility in government'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accessibility in government - GOV.UK blogs" />
+                                </span>
+                                <a href='https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2019/09/Accessibility_Blog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White text on yellow background : r/CrappyDesign">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/amlop09ugll01.jpg' alt='White text on yellow background : r/CrappyDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2988">
+                                <meta itemprop="height" content="5312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/amlop09ugll01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Words Take Care Alphabet With White Letters On Yellow Background ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/may1985/may19851810/may1985181000294/112338914-words-take-care-alphabet-with-white-letters-on-yellow-background.jpg' alt='Words Take Care Alphabet With White Letters On Yellow Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/may1985/may19851810/may1985181000294/112338914-words-take-care-alphabet-with-white-letters-on-yellow-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

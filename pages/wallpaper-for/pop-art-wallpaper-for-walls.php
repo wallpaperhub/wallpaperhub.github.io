@@ -1,0 +1,129 @@
+<title>Vibrant Pop Art Wallpaper: Transform Your Walls</title>
+                    <meta name="description" content="Explore stunning pop art wallpaper options to invigorate your home. Bold colors and eye-catching designs make your walls come alive, perfect for any stylish space. Easily find the ideal accent for your décor and make a lasting impression in every room!">
+                    <meta name="keywords" content="pop art wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/pop-art-wallpaper-for-walls">
+                            <span itemprop="name">pop art wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pop Art Wallpaper: Transform Your Walls</h1>
+                <p>Transform your space with vibrant pop art wallpaper that adds a splash of creativity to your walls. From bold graphics to iconic designs, pop art wallpaper elevates any room with its playful and dynamic aesthetic. Whether you're revamping a living room or a cozy nook, find the perfect statement piece that reflects your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wow Pop Art">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/399847/pr22/1/1280/wow-pop-art-colorful-wallpaper.jpg' alt='Wow Pop Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/399847/pr22/1/1280/wow-pop-art-colorful-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Poster Wallpaper Wall Mural & Streat Art Graffiti Urban ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/70b7d6/5310173069/il_570xN.5310173069_kh2i.jpg' alt='Pop Art Poster Wallpaper Wall Mural & Streat Art Graffiti Urban ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/70b7d6/5310173069/il_570xN.5310173069_kh2i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pop Art Beauty Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/pop-art-woman-wallpaper-mural-for-living-room.jpg?v=1659596313&width=1445' alt='Vintage Pop Art Beauty Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/pop-art-woman-wallpaper-mural-for-living-room.jpg?v=1659596313&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Wallpaper & Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/484619/cr23/24/828/1/sunglasses-girl-colorful-pop-art-wallpaper.jpg' alt='Pop Art Wallpaper & Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/484619/cr23/24/828/1/sunglasses-girl-colorful-pop-art-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pop Art Wallpaper Peel and Stick & Vintage Comics Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/b190c4/3865533360/il_fullxfull.3865533360_ih3w.jpg' alt='Retro Pop Art Wallpaper Peel and Stick & Vintage Comics Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1636">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/b190c4/3865533360/il_fullxfull.3865533360_ih3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Mural Wallpaper | Pop Art Explosion WOW — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/Papier-peint-bande-dessinee-Pop-art-explosion-WOW757_700x700.jpg?v=1715280844' alt='Comic Mural Wallpaper | Pop Art Explosion WOW — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/Papier-peint-bande-dessinee-Pop-art-explosion-WOW757_700x700.jpg?v=1715280844' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Pop Art Comic Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/monroe-pop-art-wall-mural.jpg?v=1710132515&width=1445' alt='Bold Pop Art Comic Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/monroe-pop-art-wall-mural.jpg?v=1710132515&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti and Street Art Wall Murals buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/12000/12585/u45698piw1m_900.webp' alt='Graffiti and Street Art Wall Murals buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/12000/12585/u45698piw1m_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Wallpaper - Removable Wallpaper Peel and Stick Wallpaper Wall Paper  / Pop Art Comic Wallpaper - B278">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6023762612_iqy7.jpg?v=1730224988&width=1946' alt='Pop Art Wallpaper - Removable Wallpaper Peel and Stick Wallpaper Wall Paper  / Pop Art Comic Wallpaper - B278'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6023762612_iqy7.jpg?v=1730224988&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Comic Book Pages With Faces Pattern Illustration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/15-23-scaled.jpg' alt='Retro Comic Book Pages With Faces Pattern Illustration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/15-23-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

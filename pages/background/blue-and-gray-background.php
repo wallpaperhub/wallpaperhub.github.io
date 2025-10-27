@@ -1,0 +1,129 @@
+<title>"Stylish Blue and Gray Backgrounds: Enhance Your Design"</title>
+                    <meta name="description" content="Discover the chic appeal of blue and gray backgrounds. Ideal for websites and graphics, this color combination offers a perfect balance of calm and sophistication. Upgrade your design with versatile, stylish backgrounds that captivate and engage your audience.">
+                    <meta name="keywords" content="blue and gray background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-gray-background">
+                            <span itemprop="name">blue and gray background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stylish Blue and Gray Backgrounds: Enhance Your Design"</h1>
+                <p>A blue and gray background creates a modern and calming aesthetic, perfect for both digital and print designs. The blue evokes a sense of tranquility, while gray adds a touch of sophistication. This combination can enhance branding, making it ideal for websites, presentations, or social media graphics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/978715400/vector/abstract-blue-and-gray-overlap-vector-background.jpg?s=612x612&w=0&k=20&c=tJU60UAcOBNpzKwUZ4fJHm7yJFW3bQusghmJBPBoeX4=' alt='12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/978715400/vector/abstract-blue-and-gray-overlap-vector-background.jpg?s=612x612&w=0&k=20&c=tJU60UAcOBNpzKwUZ4fJHm7yJFW3bQusghmJBPBoeX4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grey Background Stock Illustrations – 268,549 Blue Grey ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/contrast-blue-grey-curved-stripes-abstract-grunge-tech-graphic-design-old-wall-concrete-texture-vector-corporate-background-171271744.jpg' alt='Blue Grey Background Stock Illustrations – 268,549 Blue Grey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/contrast-blue-grey-curved-stripes-abstract-grunge-tech-graphic-design-old-wall-concrete-texture-vector-corporate-background-171271744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray And Blue Background Images – Browse 2,640,354 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/74/24/49/360_F_274244953_O3KPYrN7VhNVXCLNUhzOChdDKUJJ9zLN.jpg' alt='Gray And Blue Background Images – Browse 2,640,354 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/74/24/49/360_F_274244953_O3KPYrN7VhNVXCLNUhzOChdDKUJJ9zLN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Gray Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-gray-2560-x-1440-background-3p0mqrovzudkuv5a.jpg' alt='100+] Blue Gray Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-gray-2560-x-1440-background-3p0mqrovzudkuv5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Blue Background Images – Browse 2,595,487 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' alt='Grey Blue Background Images – Browse 2,595,487 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gray Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/557/257/small/abstract-blue-and-gray-wave-background-free-vector.jpg' alt='Blue Gray Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/557/257/small/abstract-blue-and-gray-wave-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gray Blue Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1736051204/display_1500/stock-photo-beautiful-grunge-grey-blue-background-panoramic-abstract-decorative-dark-background-wide-angle-1736051204.jpg' alt='Dark Gray Blue Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1736051204/display_1500/stock-photo-beautiful-grunge-grey-blue-background-panoramic-abstract-decorative-dark-background-wide-angle-1736051204.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gray Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-garbage-texture-blue-gray-line-geometric-abstract-background-picture-image_1596648.jpg' alt='Blue Gray Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-garbage-texture-blue-gray-line-geometric-abstract-background-picture-image_1596648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1269169056/vector/abstract-dark-blue-background.jpg?s=612x612&w=0&k=20&c=edCJyoOZDc4sOhffzcSNw2ffk8sq6jFiSe_4Uw80HLk=' alt='12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1269169056/vector/abstract-dark-blue-background.jpg?s=612x612&w=0&k=20&c=edCJyoOZDc4sOhffzcSNw2ffk8sq6jFiSe_4Uw80HLk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gray Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/modern-abstract-minimalist-diagonal-blue-white-background_492708-627.jpg' alt='Blue Gray Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/modern-abstract-minimalist-diagonal-blue-white-background_492708-627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

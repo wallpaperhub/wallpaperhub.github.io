@@ -1,0 +1,129 @@
+<title>Stunning Anime Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the best anime wallpapers to customize your devices! Browse a diverse selection that features iconic characters and captivating scenes, perfect for any anime enthusiast. Elevate your screens with high-quality backgrounds that express your love for anime. Optimized for a seamless mobile experience!">
+                    <meta name="keywords" content="anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-wallpaper">
+                            <span itemprop="name">anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Wallpapers for Your Devices</h1>
+                <p>Anime wallpaper brings your favorite characters and scenes to life, making your devices visually engaging. Explore a vast collection that caters to all genres and styles, from action-packed visuals to heartwarming moments. Transform your screens with high-quality backgrounds that reflect your unique taste and passion for anime.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Anime Girl with Sword - 5671 ...">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2023/09/10/www.mobilesmspk.net_anime-girl-with-sword_5671.jpg' alt='Download Free Mobile Phone Wallpaper Anime Girl with Sword - 5671 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2023/09/10/www.mobilesmspk.net_anime-girl-with-sword_5671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9200+] Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-dbt18qjb7b1cstr1.jpg' alt='9200+] Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-dbt18qjb7b1cstr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Anime Wallpaper Stock Illustrations – 616 Cute ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/anime-boy-aesthetic-image-wallpaper-cute-cartoon-anime-wallpaper-342273503.jpg' alt='Cute Aesthetic Anime Wallpaper Stock Illustrations – 616 Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/anime-boy-aesthetic-image-wallpaper-cute-cartoon-anime-wallpaper-342273503.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime-wallpaper-iphone-anime-wallpaper-k-anime-wal by Foreverll on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed615427-7cbf-44ce-9725-34fe84f49000/dd8w9ht-3342dcb6-daf3-4c56-8c85-0dbdd233901c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkNjE1NDI3LTdjYmYtNDRjZS05NzI1LTM0ZmU4NGY0OTAwMFwvZGQ4dzlodC0zMzQyZGNiNi1kYWYzLTRjNTYtOGM4NS0wZGJkZDIzMzkwMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z5ytfS0qExv1ejp2Dg7-Md0odCfd2BRCXcun11lFvAo' alt='Anime-wallpaper-iphone-anime-wallpaper-k-anime-wal by Foreverll on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1113">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed615427-7cbf-44ce-9725-34fe84f49000/dd8w9ht-3342dcb6-daf3-4c56-8c85-0dbdd233901c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkNjE1NDI3LTdjYmYtNDRjZS05NzI1LTM0ZmU4NGY0OTAwMFwvZGQ4dzlodC0zMzQyZGNiNi1kYWYzLTRjNTYtOGM4NS0wZGJkZDIzMzkwMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z5ytfS0qExv1ejp2Dg7-Md0odCfd2BRCXcun11lFvAo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/anime-night-sky-illustration_23-2151684327.jpg?semt=ais_hybrid' alt='Anime Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/anime-night-sky-illustration_23-2151684327.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime wallpaper by lukychandra">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/135/1351823.jpeg' alt='anime wallpaper by lukychandra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/135/1351823.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute anime girl wallpapers free app by aesthicswallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5b8d669-68a7-402b-b71a-03c919ae7b12/dfk8ufx-9807d26d-7263-496e-a1e4-6ad8d821f6b3.jpg/v1/fill/w_563,h_797,q_75,strp/cute_anime_girl_wallpapers_free_app_by_aesthicswallpapers_dfk8ufx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk3IiwicGF0aCI6IlwvZlwvYzViOGQ2NjktNjhhNy00MDJiLWI3MWEtMDNjOTE5YWU3YjEyXC9kZms4dWZ4LTk4MDdkMjZkLTcyNjMtNDk2ZS1hMWU0LTZhZDhkODIxZjZiMy5qcGciLCJ3aWR0aCI6Ijw9NTYzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.flq_UdWhp_F7d-OKtX782Md-oc0jnMqkzeHGKrlpIY4' alt='cute anime girl wallpapers free app by aesthicswallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5b8d669-68a7-402b-b71a-03c919ae7b12/dfk8ufx-9807d26d-7263-496e-a1e4-6ad8d821f6b3.jpg/v1/fill/w_563,h_797,q_75,strp/cute_anime_girl_wallpapers_free_app_by_aesthicswallpapers_dfk8ufx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk3IiwicGF0aCI6IlwvZlwvYzViOGQ2NjktNjhhNy00MDJiLWI3MWEtMDNjOTE5YWU3YjEyXC9kZms4dWZ4LTk4MDdkMjZkLTcyNjMtNDk2ZS1hMWU0LTZhZDhkODIxZjZiMy5qcGciLCJ3aWR0aCI6Ijw9NTYzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.flq_UdWhp_F7d-OKtX782Md-oc0jnMqkzeHGKrlpIY4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Anime wallpaper ideas in 2025 | anime wallpaper, anime, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cc/77/b3/cc77b348508729a9e6575bd4cbd2f445.jpg' alt='250 Anime wallpaper ideas in 2025 | anime wallpaper, anime, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cc/77/b3/cc77b348508729a9e6575bd4cbd2f445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A request if some has a more anime wallpaper type of the same ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-request-if-some-has-a-more-anime-wallpaper-type-of-the-v0-zm2cpq1s8kw91.jpg?width=640&crop=smart&auto=webp&s=b49a9d4080ff340e1b952ac020422904f1aff80a' alt='A request if some has a more anime wallpaper type of the same ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-request-if-some-has-a-more-anime-wallpaper-type-of-the-v0-zm2cpq1s8kw91.jpg?width=640&crop=smart&auto=webp&s=b49a9d4080ff340e1b952ac020422904f1aff80a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/japan-background-digital-art_23-2151546123.jpg?semt=ais_hybrid' alt='Anime Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/japan-background-digital-art_23-2151546123.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

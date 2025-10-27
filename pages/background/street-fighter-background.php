@@ -1,0 +1,129 @@
+<title>Unleashing the Legacy: The Street Fighter Background</title>
+                    <meta name="description" content="Discover the rich background of Street Fighter, a legendary fighting game series that has shaped gaming culture. Explore its iconic characters, unique settings, and competitive essence. Dive into the world of martial arts and legendary rivalries in just a few taps!">
+                    <meta name="keywords" content="street fighter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/street-fighter-background">
+                            <span itemprop="name">street fighter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing the Legacy: The Street Fighter Background</h1>
+                <p>Street Fighter is a renowned fighting game franchise that debuted in the late 1980s, captivating players with its unique characters and engaging gameplay. Set in diverse locales, each character boasts distinct backgrounds and martial arts styles, reflecting global influences. The series emphasizes competition, skill mastery, and iconic rivalries, making it a cultural phenomenon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sigil of Slateman: Imagery: Gaming Images: Backgrounds: Street ...">
+                                <img itemprop="contentUrl url" src='https://slateman.net/images/gaming/backgrounds/sf2st-blanka.gif' alt='The Sigil of Slateman: Imagery: Gaming Images: Backgrounds: Street ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sigil of Slateman" />
+                                </span>
+                                <a href='https://slateman.net/images/gaming/backgrounds/sf2st-blanka.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter backgrounds 5 out of 8 image gallery">
+                                <img itemprop="contentUrl url" src='https://media.eventhubs.com/images/2020/04/12_sfback05.jpg' alt='Street Fighter backgrounds 5 out of 8 image gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EventHubs" />
+                                </span>
+                                <a href='https://media.eventhubs.com/images/2020/04/12_sfback05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="street fighter 3 backgrounds - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/3c/9a/3f3c9a96c1f9cf268707e606eb758a6f.jpg' alt='street fighter 3 backgrounds - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/3c/9a/3f3c9a96c1f9cf268707e606eb758a6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter III: New Generation - Animated Stages / Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://www.fightersgeneration.com/nf8/char4/sf3/sf3-newgeneration-stage-ryu.jpg' alt='Street Fighter III: New Generation - Animated Stages / Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fighters Generation" />
+                                </span>
+                                <a href='https://www.fightersgeneration.com/nf8/char4/sf3/sf3-newgeneration-stage-ryu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter II Ryu's stage - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2020/11/street-fighter-ii-ryus-stage.jpg' alt='Street Fighter II Ryu's stage - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2020/11/street-fighter-ii-ryus-stage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street fighter II': Hyper Fighting | All Stage Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/c2xe09tAJQw/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_U1GZiRdHIFw7J5KotiwcyBN-5Q' alt='Street fighter II': Hyper Fighting | All Stage Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/c2xe09tAJQw/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_U1GZiRdHIFw7J5KotiwcyBN-5Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gift: Street Fighter 2 Background (Without KO) by IddyBiddySquish ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab0ed78c-7949-4a74-a0ab-1ef74770c8ee/dbli767-3efc814c-85ee-4d8f-ac76-d50d5d4d3a4f.png/v1/fill/w_1023,h_731,q_80,strp/gift__street_fighter_2_background__without_ko__by_iddybiddysquish_dbli767-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMxIiwicGF0aCI6IlwvZlwvYWIwZWQ3OGMtNzk0OS00YTc0LWEwYWItMWVmNzQ3NzBjOGVlXC9kYmxpNzY3LTNlZmM4MTRjLTg1ZWUtNGQ4Zi1hYzc2LWQ1MGQ1ZDRkM2E0Zi5wbmciLCJ3aWR0aCI6Ijw9MTAyMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.iUOBr6GRHclbe2MoLlPywwcP89v19SCshJP8BbLC4bw' alt='Gift: Street Fighter 2 Background (Without KO) by IddyBiddySquish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab0ed78c-7949-4a74-a0ab-1ef74770c8ee/dbli767-3efc814c-85ee-4d8f-ac76-d50d5d4d3a4f.png/v1/fill/w_1023,h_731,q_80,strp/gift__street_fighter_2_background__without_ko__by_iddybiddysquish_dbli767-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMxIiwicGF0aCI6IlwvZlwvYWIwZWQ3OGMtNzk0OS00YTc0LWEwYWItMWVmNzQ3NzBjOGVlXC9kYmxpNzY3LTNlZmM4MTRjLTg1ZWUtNGQ4Zi1hYzc2LWQ1MGQ1ZDRkM2E0Zi5wbmciLCJ3aWR0aCI6Ijw9MTAyMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.iUOBr6GRHclbe2MoLlPywwcP89v19SCshJP8BbLC4bw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sigil of Slateman: Imagery: Gaming Images: Backgrounds: Street ...">
+                                <img itemprop="contentUrl url" src='https://slateman.net/images/gaming/backgrounds/sfz2/sfz2-dan.gif' alt='The Sigil of Slateman: Imagery: Gaming Images: Backgrounds: Street ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sigil of Slateman" />
+                                </span>
+                                <a href='https://slateman.net/images/gaming/backgrounds/sfz2/sfz2-dan.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This background would work because of the graphical style and the ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/2e/ae/312eae3c5e9c4fe5a26a1b545874a18f.jpg' alt='This background would work because of the graphical style and the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/2e/ae/312eae3c5e9c4fe5a26a1b545874a18f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAPCOM Play System I | Stage Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_aAMxwgyJGo/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDRYJea2jsuDFbKGwg-U62e5VmIfw' alt='CAPCOM Play System I | Stage Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_aAMxwgyJGo/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDRYJea2jsuDFbKGwg-U62e5VmIfw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

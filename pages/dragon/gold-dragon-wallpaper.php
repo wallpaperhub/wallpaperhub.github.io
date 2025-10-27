@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Gold Dragon Wallpaper</title>
+                    <meta name="description" content="Discover exquisite gold dragon wallpaper to enhance your home's aesthetic. Perfect for a bold statement or elegant touch, our wallpapers bring luxury and mythical charm to any room. Shop now for captivating designs that transform your space! Ideal for mobile browsing and quick selection.">
+                    <meta name="keywords" content="gold dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/gold-dragon-wallpaper">
+                            <span itemprop="name">gold dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Gold Dragon Wallpaper</h1>
+                <p>Transform your space with stunning gold dragon wallpaper, featuring intricate designs that blend elegance and myth. Perfect for adding a touch of luxury to any room, these wallpapers create a captivating atmosphere. Whether you're looking for a bold statement or a subtle accent, gold dragon wallpaper elevates your interior design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Gold Dragon - HD Fantasy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/278/thumb-1920-278234.jpg' alt='Majestic Gold Dragon - HD Fantasy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/278/thumb-1920-278234.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/32/4e/a6/324ea651d37f6e3b97ee0516b3f2384d.jpg' alt='Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/32/4e/a6/324ea651d37f6e3b97ee0516b3f2384d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gold dragon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/30/372/HD-wallpaper-golden-dragon-gold.jpg' alt='HD gold dragon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/30/372/HD-wallpaper-golden-dragon-gold.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Dragon Symbol Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/golden-dragon-symbol-gxq9x5sy33o10409.jpg' alt='Golden Dragon Symbol Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/golden-dragon-symbol-gxq9x5sy33o10409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Dragon Wallpaper Custom Photo Wallpaper 3D Of Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/a6/9c/9da69c222e677e0f2e27c799cd406e39.jpg' alt='Golden Dragon Wallpaper Custom Photo Wallpaper 3D Of Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/a6/9c/9da69c222e677e0f2e27c799cd406e39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Golden Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/golden-dragon-scripture-v1i684ootxxm3l1f.jpg' alt='100+] Golden Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/golden-dragon-scripture-v1i684ootxxm3l1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Dragon Glowing Statue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/golden-dragon-glowing-statue-gcj5wdixq2maoxbu.jpg' alt='Golden Dragon Glowing Statue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/golden-dragon-glowing-statue-gcj5wdixq2maoxbu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Dragon Stock Illustrations – 42,199 Gold Dragon Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/muntilan-gold-dragon-head-logo-design-elegant-luxurious-344022650.jpg' alt='Gold Dragon Stock Illustrations – 42,199 Gold Dragon Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/muntilan-gold-dragon-head-logo-design-elegant-luxurious-344022650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon gold wallpaper by quebrao55 - Download on ZEDGE™ | b452">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/34/ee/f2/34eef2ae803f7a8c3b53f924b7511b3f.jpg' alt='Dragon gold wallpaper by quebrao55 - Download on ZEDGE™ | b452'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/34/ee/f2/34eef2ae803f7a8c3b53f924b7511b3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Dragon Phone Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/golden-dragon-phone-wallpaper.webp' alt='Golden Dragon Phone Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/golden-dragon-phone-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

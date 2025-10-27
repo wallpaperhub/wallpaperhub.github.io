@@ -1,0 +1,129 @@
+<title>Top Reasons for Failing a Background Check</title>
+                    <meta name="description" content="Discover the common reasons why individuals fail background checks. From criminal records to employment inconsistencies, learn what raises red flags for employers and how to improve your chances of passing a background check effectively.">
+                    <meta name="keywords" content="what would make someone fail a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-would-make-someone-fail-a-background-check">
+                            <span itemprop="name">what would make someone fail a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Reasons for Failing a Background Check</h1>
+                <p>Several factors can lead to failing a background check, including a criminal history, inconsistent employment records, or discrepancies in educational qualifications. Other issues may include negative references, unresolved debts, or past bankruptcies. These findings can raise red flags and impact hiring decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Check: How to Inform a Job Candidate">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' alt='Failed Background Check: How to Inform a Job Candidate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%201.png?width=650&height=357&name=Candidate%20Fails%201.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%201.png?width=650&height=357&name=Candidate%20Fails%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candidate "Fails" Your Background Check? What to Do Next">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/failing-background-check/_jcr_content/root/pagesection/image_2006140578.coreimg.png/1729277242819/howtohandlecandidate-03.png' alt='Candidate "Fails" Your Background Check? What to Do Next'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/failing-background-check/_jcr_content/root/pagesection/image_2006140578.coreimg.png/1729277242819/howtohandlecandidate-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why you failed your background check (and where to go from here ...">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/xeonec4d/production/eaaf17aa3bb58c18a18244fae72615938a463808-1920x1080.png?w=780' alt='Why you failed your background check (and where to go from here ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candor" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/xeonec4d/production/eaaf17aa3bb58c18a18244fae72615938a463808-1920x1080.png?w=780' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Did I Fail My Background Check? - Private Eyes Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/Four-Signs-Job-Candidate-Will-Fail-the-Background-Check1.png' alt='Why Did I Fail My Background Check? - Private Eyes Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Private Eyes Background Checks" />
+                                </span>
+                                <a href='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/Four-Signs-Job-Candidate-Will-Fail-the-Background-Check1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1383">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candidate "Fails" Your Background Check? What to Do Next">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/failing-background-check/_jcr_content/root/pagesection/image_1637200954.coreimg.png/1729275847896/howtohandlecandidate-02.png' alt='Candidate "Fails" Your Background Check? What to Do Next'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/failing-background-check/_jcr_content/root/pagesection/image_1637200954.coreimg.png/1729275847896/howtohandlecandidate-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hubfs/BLOG_%20What%20to%20Do%20When%20a%20Candidate%20Fails%20a%20Background%20Check%20NO%20CTA.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hubfs/BLOG_%20What%20to%20Do%20When%20a%20Candidate%20Fails%20a%20Background%20Check%20NO%20CTA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

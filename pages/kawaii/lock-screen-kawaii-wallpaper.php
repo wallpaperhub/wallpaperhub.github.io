@@ -1,0 +1,129 @@
+<title>Delightful Kawaii Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover the cutest kawaii lock screen wallpapers to personalize your device! Explore a variety of charming designs that brighten your day and showcase your unique style. Get ready to transform your phone with these adorable wallpapers that are perfect for kawaii lovers everywhere!">
+                    <meta name="keywords" content="lock screen kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/lock-screen-kawaii-wallpaper">
+                            <span itemprop="name">lock screen kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Kawaii Lock Screen Wallpapers</h1>
+                <p>Customize your device with adorable kawaii wallpapers for the lock screen! Embrace the cuteness of these charming designs featuring pastel colors, cute animals, and playful patterns that instantly uplift your mood. Perfect for those who adore all things kawaii, these wallpapers add a personal touch to your phone while keeping it stylish and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/f5/3e/24f53ed064d3f5307e0622e7acd58d6a.jpg' alt='kawaii lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/f5/3e/24f53ed064d3f5307e0622e7acd58d6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May Lock Screen Wallpaper by Bymunbear – Kawaii Pen Shop">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1403/8979/files/May_wallpaper_480x480.jpg?v=1619874491' alt='May Lock Screen Wallpaper by Bymunbear – Kawaii Pen Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Pen Shop" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1403/8979/files/May_wallpaper_480x480.jpg?v=1619874491' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper by Bymunbear – Kawaii Pen Shop">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1403/8979/files/bymunbear_lock_Screen_wallpaper_480x480.jpg?v=1612157665' alt='Lock Screen Wallpaper by Bymunbear – Kawaii Pen Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Pen Shop" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1403/8979/files/bymunbear_lock_Screen_wallpaper_480x480.jpg?v=1612157665' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/a2/64/e6a2640fce317540030d61689c652151.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/a2/64/e6a2640fce317540030d61689c652151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' alt='Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Bear Ears Eyes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-lock-screen-bear-ears-eyes-3tvlbul8rsessetb.jpg' alt='Cute Lock Screen Bear Ears Eyes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-lock-screen-bear-ears-eyes-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute lock screen 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-lock-screen-teacup-dlvbko99aqzvkf25.jpg' alt='Cute lock screen 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="westbroadway.mb.ca" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-lock-screen-teacup-dlvbko99aqzvkf25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korilakkuma Lock Screen by lebunnyroux">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/9a/20/6a9a203acf97e63a2750c50190bc66bb.jpg' alt='Korilakkuma Lock Screen by lebunnyroux'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/9a/20/6a9a203acf97e63a2750c50190bc66bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Christmas lock screen    : r/Kawaii">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kawaii-christmas-lock-screen-v0-1mxlfi223g3a1.jpg?width=1080&crop=smart&auto=webp&s=b10418b4c09d1bd400b834948eefe33c726c5f66' alt='Kawaii Christmas lock screen    : r/Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kawaii-christmas-lock-screen-v0-1mxlfi223g3a1.jpg?width=1080&crop=smart&auto=webp&s=b10418b4c09d1bd400b834948eefe33c726c5f66' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' alt='100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

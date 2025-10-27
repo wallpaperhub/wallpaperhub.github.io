@@ -1,0 +1,129 @@
+<title>Elevate Your Space with 3D Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of 3D peel and stick wallpaper—an easy, mess-free way to enhance your interiors. Ideal for renters, each roll offers unique designs and textures, making home decor simple and stylish. Transform any room today with our wide selection!">
+                    <meta name="keywords" content="3d peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/3d-peel-and-stick-wallpaper">
+                            <span itemprop="name">3d peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with 3D Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with 3D peel and stick wallpaper. This innovative design adds depth and texture to any room without the mess of traditional wallpaper. Easy to apply and remove, it's perfect for renters or those seeking a temporary update. Whether you prefer bold patterns or subtle textures, there's a style for everyone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper 3D Nude Visual Effect Self Adhesive Removable  Ceiling Wallpaper Renter Friendly Wallpaper for Bedroom 17.7"x393.7" - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LKhNf8S8L.jpg' alt='Peel and Stick Wallpaper 3D Nude Visual Effect Self Adhesive Removable  Ceiling Wallpaper Renter Friendly Wallpaper for Bedroom 17.7"x393.7" - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LKhNf8S8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D 3D of golden metal foliage tiles on gray  concrete seamless realistic Peel and Stick Removable Self-Adhesive PVC Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Dy43wHuGL._AC_UF894,1000_QL80_.jpg' alt='Modern Wallpaper Murals 3D 3D of golden metal foliage tiles on gray  concrete seamless realistic Peel and Stick Removable Self-Adhesive PVC Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Dy43wHuGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly 3D Stone Brick Wallpaper Peel and Stick Wallpaper 17.73" x 118"  Self-Adhesive Removable Wall Paper for Bedroom Bathroom Kitchen Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/2bd6b1b7-cc14-4653-9da6-322302b6f5d0.c614ca304da8311453f4b0e2f8b05c44.jpeg' alt='Abyssaly 3D Stone Brick Wallpaper Peel and Stick Wallpaper 17.73" x 118"  Self-Adhesive Removable Wall Paper for Bedroom Bathroom Kitchen Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/2bd6b1b7-cc14-4653-9da6-322302b6f5d0.c614ca304da8311453f4b0e2f8b05c44.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elephant 3d Wallpaper Peel and Stick Wall Mural, Modern Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28304115/r/il/275f27/2952755224/il_570xN.2952755224_851s.jpg' alt='Elephant 3d Wallpaper Peel and Stick Wall Mural, Modern Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28304115/r/il/275f27/2952755224/il_570xN.2952755224_851s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Gold Black Marble Texture Wallpaper Wall Murals Removable Wallpaper 406">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/UV4AAOSwH1JgM3mX/s-l1200.jpg' alt='3D Gold Black Marble Texture Wallpaper Wall Murals Removable Wallpaper 406'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/UV4AAOSwH1JgM3mX/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Flowers Stained Glass Panel Gold Accents Peel  and Stick Removable Self-Adhesive PVC Wall Stickers for Nursery Kids  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Flowers-Stained-Glass-Panel-Gold-Accents-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Deco_0f68b7f9-33a3-4529-afcd-4c16b63c099f.2d42cffb7bf664d1d910107fcc6e9ef4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D Flowers Stained Glass Panel Gold Accents Peel  and Stick Removable Self-Adhesive PVC Wall Stickers for Nursery Kids  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Flowers-Stained-Glass-Panel-Gold-Accents-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Deco_0f68b7f9-33a3-4529-afcd-4c16b63c099f.2d42cffb7bf664d1d910107fcc6e9ef4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra large 3d peel and stick wallpaper, abstract self adhesive ...">
+                                <img itemprop="contentUrl url" src='https://wow-wall.com/cdn/shop/products/il_fullxfull.5551681234_3sbw.jpg?v=1706184122&width=1946' alt='Extra large 3d peel and stick wallpaper, abstract self adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wow Wall" />
+                                </span>
+                                <a href='https://wow-wall.com/cdn/shop/products/il_fullxfull.5551681234_3sbw.jpg?v=1706184122&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper, 3D Embossed Effect, 3D Rose Wall Mural, Gray Relief ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/484ab3/2907047860/il_570xN.2907047860_tlyg.jpg' alt='3D Wallpaper, 3D Embossed Effect, 3D Rose Wall Mural, Gray Relief ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/484ab3/2907047860/il_570xN.2907047860_tlyg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Vintage Wood Panel Wallpaper 3D Wooden Planks ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/nEIAAOSwVtRiA2AP/s-l400.jpg' alt='Self Adhesive Vintage Wood Panel Wallpaper 3D Wooden Planks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/nEIAAOSwVtRiA2AP/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art3d 30 Pcs Peel and Stick 3D Brick Wallpaper in Black, Faux Foam ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a688f16c-0115-462f-bde2-8ec945cd86c9/svn/art3d-wallpaper-panels-a06hd005bk-31_600.jpg' alt='Art3d 30 Pcs Peel and Stick 3D Brick Wallpaper in Black, Faux Foam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a688f16c-0115-462f-bde2-8ec945cd86c9/svn/art3d-wallpaper-panels-a06hd005bk-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

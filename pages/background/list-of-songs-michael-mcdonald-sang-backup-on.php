@@ -1,0 +1,129 @@
+<title>Michael McDonald: Songs He Sang Backup On</title>
+                    <meta name="description" content="Explore the legendary tracks featuring Michael McDonald as a backup vocalist. From Steely Dan to Kenny Loggins, discover the timeless songs that highlight his incredible vocal talent and influence in the music industry.">
+                    <meta name="keywords" content="list of songs michael mcdonald sang backup on">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/list-of-songs-michael-mcdonald-sang-backup-on">
+                            <span itemprop="name">list of songs michael mcdonald sang backup on</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Michael McDonald: Songs He Sang Backup On</h1>
+                <p>Michael McDonald, renowned for his soulful voice, has lent his talents as a backup vocalist on numerous iconic tracks. Notable songs include Steely Dan's "Peg," Kenny Loggins' "This Is It," and his work with the Doobie Brothers. His impressive background vocals have contributed to many classics, showcasing his remarkable range and artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music credits for Michael McDonald : 361 performances listed under ...">
+                                <img itemprop="contentUrl url" src='https://e.snmc.io/i/1200/s/499d140d7dec0e74eb2f4da296be4bae/5945059' alt='Music credits for Michael McDonald : 361 performances listed under ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rate Your Music" />
+                                </span>
+                                <a href='https://e.snmc.io/i/1200/s/499d140d7dec0e74eb2f4da296be4bae/5945059' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald - Here, There, and Everywhere">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/a8f0b2_0becdb52f9f04ee0b41e1ae90e37beee~mv2.jpg/v1/fill/w_576,h_432,al_c,lg_1,q_80/a8f0b2_0becdb52f9f04ee0b41e1ae90e37beee~mv2.jpg' alt='Michael McDonald - Here, There, and Everywhere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RockandRomanceBlog" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/a8f0b2_0becdb52f9f04ee0b41e1ae90e37beee~mv2.jpg/v1/fill/w_576,h_432,al_c,lg_1,q_80/a8f0b2_0becdb52f9f04ee0b41e1ae90e37beee~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald | The Amazing Everything Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/amazing-everything/images/1/12/Michael_McDonald_%28singer%29.png/revision/latest?cb=20130410051947' alt='Michael McDonald | The Amazing Everything Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Amazing Everything Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/amazing-everything/images/1/12/Michael_McDonald_%28singer%29.png/revision/latest?cb=20130410051947' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald is keyboardist and songwriter known for his distinctive,  soulful voice, he was member of the bands the Doobie Brothers (1975–1982,  1987, 2019–present) and Steely Dan (1973–1974). ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7263270417111190830&location=0&aid=1988' alt='Michael McDonald is keyboardist and songwriter known for his distinctive,  soulful voice, he was member of the bands the Doobie Brothers (1975–1982,  1987, 2019–present) and Steely Dan (1973–1974). ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7263270417111190830&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald song you didn't know about | WGN-TV">
+                                <img itemprop="contentUrl url" src='https://wgntv.com/wp-content/uploads/sites/5/2020/06/F14DED7F62A94F758700C2F883BF6719.jpg' alt='Michael McDonald song you didn't know about | WGN-TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WGN-TV" />
+                                </span>
+                                <a href='https://wgntv.com/wp-content/uploads/sites/5/2020/06/F14DED7F62A94F758700C2F883BF6719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald Backing Vocals - playlist by Gingbejbi - 52 songs ...">
+                                <img itemprop="contentUrl url" src='https://mosaic.scdn.co/640/ab67616d00001e02676bab85cf393ff0644e3a5aab67616d00001e02dd2dbe59d4d4733d60b32d8cab67616d00001e02ef008ac7bb0d72a6941941ebab67616d00001e02f715d0360cd07fa1a93d2af6' alt='Michael McDonald Backing Vocals - playlist by Gingbejbi - 52 songs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://mosaic.scdn.co/640/ab67616d00001e02676bab85cf393ff0644e3a5aab67616d00001e02dd2dbe59d4d4733d60b32d8cab67616d00001e02ef008ac7bb0d72a6941941ebab67616d00001e02f715d0360cd07fa1a93d2af6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald Greatest Hits Full Album 2022 - Michael McDonald ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cbSufKKVelU/maxresdefault.jpg' alt='Michael McDonald Greatest Hits Full Album 2022 - Michael McDonald ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cbSufKKVelU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Michael McDonald Guest Vocal Appearances You DIDN'T Know ...">
+                                <img itemprop="contentUrl url" src='https://americansongwriter.com/wp-content/uploads/2023/12/Michael-McDonald-1970-2000x800-Getty.png?fit=2000%2C800' alt='5 Michael McDonald Guest Vocal Appearances You DIDN'T Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Songwriter" />
+                                </span>
+                                <a href='https://americansongwriter.com/wp-content/uploads/2023/12/Michael-McDonald-1970-2000x800-Getty.png?fit=2000%2C800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald: My Life in 15 Songs">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/10/michael-mcdonald-2.jpg?w=800' alt='Michael McDonald: My Life in 15 Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/10/michael-mcdonald-2.jpg?w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael McDonald: My Life in 15 Songs">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/10/michael-mcdonald-god-knows.jpg?w=800' alt='Michael McDonald: My Life in 15 Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/10/michael-mcdonald-god-knows.jpg?w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

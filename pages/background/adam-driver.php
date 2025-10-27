@@ -1,0 +1,129 @@
+<title>Discover Adam Driver: From Star Wars to Acclaimed Actor</title>
+                    <meta name="description" content="Explore the journey of Adam Driver, a versatile actor famous for roles in "Star Wars" and "Marriage Story." Discover his unique talent, filmography, and contributions to contemporary cinema in this comprehensive overview.">
+                    <meta name="keywords" content="adam driver">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adam-driver">
+                            <span itemprop="name">adam driver</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Adam Driver: From Star Wars to Acclaimed Actor</h1>
+                <p>Adam Driver is an acclaimed American actor, known for his unique performances in films like "Marriage Story" and the "Star Wars" series as Kylo Ren. Driver's commanding screen presence and deep emotional range have garnered him numerous accolades, making him one of the most distinguished talents of his generation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4d/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg' alt='Adam Driver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2748">
+                                <meta itemprop="height" content="3802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4d/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars': Adam Driver Says J.J. Abrams' Original Vision For Kylo ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2023/12/adam-driver-kylo-ren.jpg' alt='Star Wars': Adam Driver Says J.J. Abrams' Original Vision For Kylo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2023/12/adam-driver-kylo-ren.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver | Biography, Movies, & Plays | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/67/215267-050-4487C49F/American-actor-Adam-Driver-2020.jpg' alt='Adam Driver | Biography, Movies, & Plays | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1253">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/67/215267-050-4487C49F/American-actor-Adam-Driver-2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BY2RhZDM0Y2UtNWZkZS00MDgxLWJhOTItMjBkN2ZhYTI3ZmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Adam Driver - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BY2RhZDM0Y2UtNWZkZS00MDgxLWJhOTItMjBkN2ZhYTI3ZmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver Draws Parallels Between Acting, Military Careers ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2021/Oct/18/2002875491/-1/-1/0/160814-O-D0439-001M.JPG' alt='Adam Driver Draws Parallels Between Acting, Military Careers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Department of Defense" />
+                                </span>
+                                <a href='https://media.defense.gov/2021/Oct/18/2002875491/-1/-1/0/160814-O-D0439-001M.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver can still get it | SYFY WIRE">
+                                <img itemprop="contentUrl url" src='https://www.syfy.com/sites/syfy/files/styles/scale_862/public/kyloren-grid.jpg' alt='Adam Driver can still get it | SYFY WIRE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Syfy" />
+                                </span>
+                                <a href='https://www.syfy.com/sites/syfy/files/styles/scale_862/public/kyloren-grid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver: Biography, Actor, 'Star Wars,' Former Marine">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/adam-driver-attends-a-photocall-for-the-movie-ferrari-at-news-photo-1700511349.jpg?crop=0.636xw:0.954xh;0.216xw,0.0459xh&resize=640:*' alt='Adam Driver: Biography, Actor, 'Star Wars,' Former Marine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/adam-driver-attends-a-photocall-for-the-movie-ferrari-at-news-photo-1700511349.jpg?crop=0.636xw:0.954xh;0.216xw,0.0459xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver - Actor">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/548491_v9_bd.jpg?w=360&h=480' alt='Adam Driver - Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/548491_v9_bd.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver | Wookieepedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/starwars/images/1/15/AdamDriver-IMDB.jpg/revision/latest?cb=20180430012723' alt='Adam Driver | Wookieepedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="1454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wookieepedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/starwars/images/1/15/AdamDriver-IMDB.jpg/revision/latest?cb=20180430012723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Driver | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/548491_v9_bb.jpg' alt='Adam Driver | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/548491_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

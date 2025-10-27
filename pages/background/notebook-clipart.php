@@ -1,0 +1,129 @@
+<title>Creative Notebook Clipart Designs for Your Projects</title>
+                    <meta name="description" content="Discover a vibrant collection of notebook clipart perfect for enhancing your creative projects. From educational materials to social media graphics, our clipart will help you express your ideas in style. Browse now and find the perfect illustrations to bring your content to life!">
+                    <meta name="keywords" content="notebook clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/notebook-clipart">
+                            <span itemprop="name">notebook clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Notebook Clipart Designs for Your Projects</h1>
+                <p>Notebook clipart adds a creative touch to your designs, making them visually appealing and engaging. Perfect for educational projects, invitations, or any digital artwork, these illustrations come in various styles and colors. Utilize notebook clipart to enhance presentations, websites, and social media posts, bringing your ideas to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Spiral Notebook or Journal PNG Transparent Background Instant  Digital Download Clipart - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33777429/r/il/955869/6272557641/il_1080xN.6272557641_7nzh.jpg' alt='Commercial Spiral Notebook or Journal PNG Transparent Background Instant  Digital Download Clipart - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33777429/r/il/955869/6272557641/il_1080xN.6272557641_7nzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook clipart vector art and illustration | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/notebook-clipart-vector-art-illustration_761413-26817.jpg' alt='Notebook clipart vector art and illustration | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/notebook-clipart-vector-art-illustration_761413-26817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing Notebook Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230303/ourmid/pngtree-clipart-notebook-notebook-png-image_6629325.png' alt='Writing Notebook Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230303/ourmid/pngtree-clipart-notebook-notebook-png-image_6629325.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook clipart free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/image/preview/30623/notebook-clipart.png' alt='Notebook clipart free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/image/preview/30623/notebook-clipart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spiral Notebook Clip Art - Yellow Spiral Notebook Vector Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/school/yellow-spiral-notebook.png' alt='Yellow Spiral Notebook Clip Art - Yellow Spiral Notebook Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/school/yellow-spiral-notebook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Composition Notebook Clipart | FREE | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2021/12/Blue-composition-notebook-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' alt='Blue Composition Notebook Clipart | FREE | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2021/12/Blue-composition-notebook-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Notebook SVG scrapbook cut file cute clipart files for ...">
+                                <img itemprop="contentUrl url" src='https://www.misskatecuttables.com/uploads/shopping_cart/11610/large_happy-notebook-0717.png' alt='Happy Notebook SVG scrapbook cut file cute clipart files for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Kate Cuttables" />
+                                </span>
+                                <a href='https://www.misskatecuttables.com/uploads/shopping_cart/11610/large_happy-notebook-0717.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook Paper - Lined Notebook Paper - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180315/txq/av0bmgajs.webp' alt='Notebook Paper - Lined Notebook Paper - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180315/txq/av0bmgajs.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Spiral Notebook Clip Art - Red Spiral Notebook Vector Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/school/red-spiral-notebook.png' alt='Red Spiral Notebook Clip Art - Red Spiral Notebook Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/school/red-spiral-notebook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart-cute cartoon style spiral notebook with a pencil">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/cute-cartoon-style-spiral-notebook-with-a-pencil-63594.jpg' alt='School Clipart-cute cartoon style spiral notebook with a pencil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/cute-cartoon-style-spiral-notebook-with-a-pencil-63594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

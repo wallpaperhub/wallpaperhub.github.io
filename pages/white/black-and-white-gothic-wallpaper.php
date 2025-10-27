@@ -1,0 +1,129 @@
+<title>Gothic Elegance: Black & White Wallpaper Designs</title>
+                    <meta name="description" content="Discover captivating black and white gothic wallpaper that enhances any room with dark elegance. Explore a variety of intricate designs, perfect for making a bold statement in your home decor. Upgrade your space effortlessly with these unique wallpapers that blend sophistication and mystery.">
+                    <meta name="keywords" content="black and white gothic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-gothic-wallpaper">
+                            <span itemprop="name">black and white gothic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Elegance: Black & White Wallpaper Designs</h1>
+                <p>Transform your space with stunning black and white gothic wallpaper, where elegance meets dark charm. Perfect for adding a touch of drama to any room, these intricate designs feature ornate patterns, Victorian motifs, and striking contrasts that create a captivating atmosphere. Embrace the bold aesthetic and elevate your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Black and White Gothic Peel and Stick Removable Skulls Wallpaper  for Bathroom Bedroom Accent Wall 17.7''x354'' Dark Floral Skull Art Deco ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91NctCxneSL.jpg' alt='VEELIKE Black and White Gothic Peel and Stick Removable Skulls Wallpaper  for Bathroom Bedroom Accent Wall 17.7''x354'' Dark Floral Skull Art Deco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91NctCxneSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Black and Silver Removable Wallpaper  104562">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b1407541-7d86-4a6a-9846-cc6af53286d2/svn/graham-brown-wallpaper-rolls-104562-64_600.jpg' alt='Graham & Brown Gothic Damask Flock Black and Silver Removable Wallpaper  104562'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b1407541-7d86-4a6a-9846-cc6af53286d2/svn/graham-brown-wallpaper-rolls-104562-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless black and white floral gothic wallpaper pattern Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/CBNX5B/seamless-black-and-white-floral-gothic-wallpaper-pattern-CBNX5B.jpg' alt='Seamless black and white floral gothic wallpaper pattern Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/CBNX5B/seamless-black-and-white-floral-gothic-wallpaper-pattern-CBNX5B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12" Vintage Girly Gothic Halloween dark Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528146/r/l/d-i-21/uDlc3piHrfEo6blQ7b5wNOnz13o5mD7AcTE/12%22_Vintage__Girly_Gothic_Halloween_dark_academia_Aesthetic_Wallpaper%3A_Antique__Dramatic_Mystic_Horror_Spooky__Skulls_and_Flowers_with_Goth_Fabric%2C_Victorian_Pink_Witchy_Dramatic_Glamour_black_and_white.jpg' alt='12" Vintage Girly Gothic Halloween dark Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528146/r/l/d-i-21/uDlc3piHrfEo6blQ7b5wNOnz13o5mD7AcTE/12%22_Vintage__Girly_Gothic_Halloween_dark_academia_Aesthetic_Wallpaper%3A_Antique__Dramatic_Mystic_Horror_Spooky__Skulls_and_Flowers_with_Goth_Fabric%2C_Victorian_Pink_Witchy_Dramatic_Glamour_black_and_white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Flower Wallpaper - Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/BlackandWhiteRoses.jpg?v=1739232295&width=1214' alt='Gothic Flower Wallpaper - Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/BlackandWhiteRoses.jpg?v=1739232295&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull & Bee Gothic Wallpaper, Kingdom Home • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-KH-SkullBee-Night-1.jpg.optimal.jpg' alt='Skull & Bee Gothic Wallpaper, Kingdom Home • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-KH-SkullBee-Night-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Damask Flock by Graham & Brown - Black / Silver - Wallpaper - 104562">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/160328/tiled/graham-and-brown-gothic-damask-flock-black-silver-wallpaper-tiled-160328.jpg' alt='Gothic Damask Flock by Graham & Brown - Black / Silver - Wallpaper - 104562'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/160328/tiled/graham-and-brown-gothic-damask-flock-black-silver-wallpaper-tiled-160328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Peel and Stick Wallpaper Black Skull Wall Murals Peel & Stick  Contact Paper Removable 17.5inx10ft Cool Black White Wall Paper for  Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fDk11oFiL._AC_UF894,1000_QL80_.jpg' alt='Gothic Peel and Stick Wallpaper Black Skull Wall Murals Peel & Stick  Contact Paper Removable 17.5inx10ft Cool Black White Wall Paper for  Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fDk11oFiL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Dark Nature Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' alt='Spooky Dark Nature Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Damask Wallpaper">
+                                <img itemprop="contentUrl url" src='https://houseofparlington.com/cdn/shop/files/Artboard_9.jpg?v=1721290675&width=1946' alt='Gothic Damask Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Parlington" />
+                                </span>
+                                <a href='https://houseofparlington.com/cdn/shop/files/Artboard_9.jpg?v=1721290675&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

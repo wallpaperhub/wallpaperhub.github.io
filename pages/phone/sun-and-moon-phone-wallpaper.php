@@ -1,0 +1,129 @@
+<title>Stunning Sun and Moon Phone Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="sun and moon phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/sun-and-moon-phone-wallpaper">
+                            <span itemprop="name">sun and moon phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sun and Moon Phone Wallpapers</h1>
+                <p>Transform your phone with stunning sun and moon wallpapers that bring celestial beauty to your screen. Whether you prefer the warm glow of the sun or the calming presence of the moon, these captivating designs will inspire a sense of wonder. Explore a variety of styles and colors to match your mood or aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun and moon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/bb/2e/c9bb2ec9cb95cc8beea8fe2f796ad92a.jpg' alt='Sun and moon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/bb/2e/c9bb2ec9cb95cc8beea8fe2f796ad92a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun And Moon - Wallpaper (Black)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35807680/r/il/023834/4362853476/il_fullxfull.4362853476_mdim.jpg' alt='Sun And Moon - Wallpaper (Black)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35807680/r/il/023834/4362853476/il_fullxfull.4362853476_mdim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sun and moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/396/HD-wallpaper-sun-and-the-moon-thumbnail.jpg' alt='HD sun and moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/396/HD-wallpaper-sun-and-the-moon-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Wallpaper | Aesthetic Star Sun and Moon iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/e5/9a/58e59aa7aefde71d08f2e58088226062.jpg' alt='Celestial Wallpaper | Aesthetic Star Sun and Moon iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/e5/9a/58e59aa7aefde71d08f2e58088226062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Stars Mobile Background Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDAtbXludC0xMF8xLmpwZw.jpg' alt='Sun Moon Stars Mobile Background Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDAtbXludC0xMF8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Stars Mobile Background Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjAyZGVzaWduLXJlbWl4LWdvbGQtMDNiLmpwZw.jpg' alt='Sun Moon Stars Mobile Background Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjAyZGVzaWduLXJlbWl4LWdvbGQtMDNiLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/46/22/be4622b3bf45f82cff399402bee973e1.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/46/22/be4622b3bf45f82cff399402bee973e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sun wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFIPyraZWk/1/0/900w/canva-sun-and-moon-phone-wallpaper-xMjCCGPn8h0.jpg' alt='Free and customizable sun wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFIPyraZWk/1/0/900w/canva-sun-and-moon-phone-wallpaper-xMjCCGPn8h0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="330 Sun & Moon ideas in 2025 | sun art, sun moon, moon art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2d/7d/b9/2d7db9e35445977abfdbd2a4b01dbd28.jpg' alt='330 Sun & Moon ideas in 2025 | sun art, sun moon, moon art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2d/7d/b9/2d7db9e35445977abfdbd2a4b01dbd28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystic Sun and Moon Art - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/mystic-sun-and-moon-art.webp' alt='Mystic Sun and Moon Art - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/mystic-sun-and-moon-art.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

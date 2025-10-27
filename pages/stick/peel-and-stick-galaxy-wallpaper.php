@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="peel and stick galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-galaxy-wallpaper">
+                            <span itemprop="name">peel and stick galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milk Way Wallpaper Space Wall Mural Galaxy Wallpaper Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/05e3c8/4217246898/il_570xN.4217246898_p9r4.jpg' alt='Milk Way Wallpaper Space Wall Mural Galaxy Wallpaper Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/05e3c8/4217246898/il_570xN.4217246898_p9r4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula Wallpaper Galaxy Planet Earth Space Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/f9ec3f/3091820547/il_570xN.3091820547_903m.jpg' alt='Nebula Wallpaper Galaxy Planet Earth Space Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/f9ec3f/3091820547/il_570xN.3091820547_903m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KOMNNI Outer Space Universe Mural Galaxy Scene Peel and Stick  Wallpaper Living Room Bedroom Wall Decoration : Tools & Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KYmPwrn0L.jpg' alt='Amazon.com: KOMNNI Outer Space Universe Mural Galaxy Scene Peel and Stick  Wallpaper Living Room Bedroom Wall Decoration : Tools & Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KYmPwrn0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Starry Cloud Wallpaper for Ceiling Purple Starry Sky Wall Mural  Living Room Bedroom（Not Peel n' Stick）">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Khyw6quDL._AC_UF894,1000_QL80_.jpg' alt='Galaxy Starry Cloud Wallpaper for Ceiling Purple Starry Sky Wall Mural  Living Room Bedroom（Not Peel n' Stick）'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Khyw6quDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Abstract galaxy Watercolor Cosmic texture stars  Night sky Milky way Wall Mural Modern Contact Paper Removable Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fCm6NN9yL.jpg' alt='Peel and Stick Wallpaper Abstract galaxy Watercolor Cosmic texture stars  Night sky Milky way Wall Mural Modern Contact Paper Removable Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fCm6NN9yL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper Space Wallpaper Large Wall Mural Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20001915/r/il/113421/3032930328/il_570xN.3032930328_gsb1.jpg' alt='Galaxy Wallpaper Space Wallpaper Large Wall Mural Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20001915/r/il/113421/3032930328/il_570xN.3032930328_gsb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' alt='Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/StarrySky1.jpg?v=1739232063&width=600' alt='Starry Night Sky Galaxy Peel and Stick Wallpaper Mural – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/StarrySky1.jpg?v=1739232063&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Cosmic Galaxy Wall Mural, Blue and Purple Peel and Stick  Self-Adhesive Wallpaper, Removable Large Art Wall Decor Painting for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IhqrjYZFL.jpg' alt='Amazon.com: Cosmic Galaxy Wall Mural, Blue and Purple Peel and Stick  Self-Adhesive Wallpaper, Removable Large Art Wall Decor Painting for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IhqrjYZFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nessa Peel & Stick Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/72349428/compr-r85/7678/76782716/nessa-peel-stick-roll.jpg' alt='Nessa Peel & Stick Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/72349428/compr-r85/7678/76782716/nessa-peel-stick-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

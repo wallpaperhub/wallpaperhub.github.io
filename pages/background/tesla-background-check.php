@@ -1,0 +1,129 @@
+<title>Tesla Background Check: What You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of Tesla's background check process. Learn what to expect and how these checks ensure a secure and trustworthy workplace for employees and the community. Perfect for job seekers and those interested in Tesla's hiring practices.">
+                    <meta name="keywords" content="tesla background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tesla-background-check">
+                            <span itemprop="name">tesla background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tesla Background Check: What You Need to Know</h1>
+                <p>Tesla conducts thorough background checks on potential employees as part of its hiring process. These checks help ensure the safety and security of the workplace while maintaining a high standard of integrity. Covering criminal history, employment verification, and education, Tesla’s background checks are vital for fostering a trustworthy environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Tesla Do Background Checks on Employees? - Green Car Future">
+                                <img itemprop="contentUrl url" src='https://www.greencarfuture.com/wp-content/uploads/2021/03/Telsa-background-check-mentioned-in-a-job-advert.png' alt='Does Tesla Do Background Checks on Employees? - Green Car Future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Car Future" />
+                                </span>
+                                <a href='https://www.greencarfuture.com/wp-content/uploads/2021/03/Telsa-background-check-mentioned-in-a-job-advert.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Tesla Do Background Checks on Employees? - Green Car Future">
+                                <img itemprop="contentUrl url" src='https://www.greencarfuture.com/wp-content/uploads/2021/03/Criminal-background-check-consent-form.jpg' alt='Does Tesla Do Background Checks on Employees? - Green Car Future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Car Future" />
+                                </span>
+                                <a href='https://www.greencarfuture.com/wp-content/uploads/2021/03/Criminal-background-check-consent-form.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reply to @akrueger1255 my tesla interview experience #tesla #tech #techtok  #career #careertok #compsci #coding #softwareengineer #workingintech">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7107762314304081198&location=0&aid=1988' alt='Reply to @akrueger1255 my tesla interview experience #tesla #tech #techtok  #career #careertok #compsci #coding #softwareengineer #workingintech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7107762314304081198&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Howerton on X: "They keep making them sound badass the more ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GjHrNHNWgAA8s97.jpg:large' alt='Jason Howerton on X: "They keep making them sound badass the more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1564">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GjHrNHNWgAA8s97.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#onthisday #tesla #felony #felon #jobs | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7416183964458601758&location=0&aid=1988' alt='#onthisday #tesla #felony #felon #jobs | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7416183964458601758&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Key Takeaways From Tesla's Earnings Call">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/Ulv7qhvG47GSaG5PvaZ2BSbBKpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/InvestopediaNewsImages-tesla-v1-b9ac7c6866b04ac7b5c586fad3863b1c.png' alt='4 Key Takeaways From Tesla's Earnings Call'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/Ulv7qhvG47GSaG5PvaZ2BSbBKpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/InvestopediaNewsImages-tesla-v1-b9ac7c6866b04ac7b5c586fad3863b1c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla broke U.S. labor law by silencing workers, official rules ...">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F6WDUO7W55VJFBEYX5VUNMSTOPQ.jpg?auth=a37546b2bf5ec306a1eb5af8e7f1f69c2a7c94a5fb4464cd568474d3b4a9a589&width=3309&quality=80' alt='Tesla broke U.S. labor law by silencing workers, official rules ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3309">
+                                <meta itemprop="height" content="2206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F6WDUO7W55VJFBEYX5VUNMSTOPQ.jpg?auth=a37546b2bf5ec306a1eb5af8e7f1f69c2a7c94a5fb4464cd568474d3b4a9a589&width=3309&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla, Inc. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/640px-Tesla_Motors.svg.png' alt='Tesla, Inc. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/640px-Tesla_Motors.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I can't seem to get the insurance check mark. I've seen others get ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/r5l90puj7xk41.jpg?width=640&crop=smart&auto=webp&s=4ed6f4139e61df502545760ee595feef2186cafc' alt='I can't seem to get the insurance check mark. I've seen others get ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/r5l90puj7xk41.jpg?width=640&crop=smart&auto=webp&s=4ed6f4139e61df502545760ee595feef2186cafc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for 321GoCheck">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=486094104244614' alt='Profile for 321GoCheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=486094104244614' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

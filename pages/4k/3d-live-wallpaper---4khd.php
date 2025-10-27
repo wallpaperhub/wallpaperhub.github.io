@@ -1,0 +1,129 @@
+<title>Stunning 3D Live Wallpapers in 4K & HD for Your Device</title>
+                    <meta name="description" content="Elevate your device with our collection of 3D live wallpapers available in breathtaking 4K and HD. Enjoy vibrant, immersive designs that enhance your mobile experience. Download now and transform your screen into a captivating visual journey!">
+                    <meta name="keywords" content="3d live wallpaper - 4k&hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/3d-live-wallpaper---4khd">
+                            <span itemprop="name">3d live wallpaper - 4k&hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Live Wallpapers in 4K & HD for Your Device</h1>
+                <p>Experience stunning 3D live wallpapers that bring your device to life in full 4K and HD resolution. Transform your screen with immersive visuals and vibrant colors that captivate your senses. Choose from a variety of themes – from nature to abstract art – and personalize your mobile experience like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/Ye_jn235BsRTcFIvXe2G84ALoPsfscODoiy_BUOCj_8UNFuAsoMljHsnAxZXyEiWeD8=w526-h296-rw' alt='3D Live wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/Ye_jn235BsRTcFIvXe2G84ALoPsfscODoiy_BUOCj_8UNFuAsoMljHsnAxZXyEiWeD8=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/rjgXPJEMOB5YUiAL8kolaJ4ISIRBB9DYA1X269xXqwiZrpcLKv-2Ma1oX2bumSpfPA=w526-h296-rw' alt='3D Live wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/rjgXPJEMOB5YUiAL8kolaJ4ISIRBB9DYA1X269xXqwiZrpcLKv-2Ma1oX2bumSpfPA=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/UqSdWOw095tMh1rJy2eo-5OVTfJG860kPofeYzGM_v91Y9MZzaP27T_J2XRH-dWcwA=w526-h296-rw' alt='3D Live wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/UqSdWOw095tMh1rJy2eo-5OVTfJG860kPofeYzGM_v91Y9MZzaP27T_J2XRH-dWcwA=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live Wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/zIiVmO0VM-HHLZnLJT_T93dEfU-egJqcxqsjeiSTQ6_MeYRFj9NlDa9RdqaN37pDmJCm=w526-h296-rw' alt='3D Live Wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="237">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/zIiVmO0VM-HHLZnLJT_T93dEfU-egJqcxqsjeiSTQ6_MeYRFj9NlDa9RdqaN37pDmJCm=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/x5aoETPt-upckIxsT2gnzJW--Oh0PzpbiQgVVdXpxdTcP5N7nYorB1SS9UD2uV90qlQ' alt='3D Live wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/x5aoETPt-upckIxsT2gnzJW--Oh0PzpbiQgVVdXpxdTcP5N7nYorB1SS9UD2uV90qlQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/0riK-hAKQPeLY6tpYjCjNUmWGX7QSwfMkHALEgQ9ED7CIxNhK1y7ZeIFpfRaf3tD6Q=w526-h296-rw' alt='3D Live wallpaper - 4K&HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/0riK-hAKQPeLY6tpYjCjNUmWGX7QSwfMkHALEgQ9ED7CIxNhK1y7ZeIFpfRaf3tD6Q=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live Wallpaper - 4K&HD APK for Android Download">
+                                <img itemprop="contentUrl url" src='https://image.winudf.com/v2/image1/Y29tLmtpb3BvbmQuZmlzaC5saXZlLndhbGxwYXBlcjNkLm1hZ2ljLndhbGxwYXBlci5mcmVlLnByb19zY3JlZW5fMF8xNjQ2OTY1NzI1XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg' alt='3D Live Wallpaper - 4K&HD APK for Android Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="APKPure" />
+                                </span>
+                                <a href='https://image.winudf.com/v2/image1/Y29tLmtpb3BvbmQuZmlzaC5saXZlLndhbGxwYXBlcjNkLm1hZ2ljLndhbGxwYXBlci5mcmVlLnByb19zY3JlZW5fMF8xNjQ2OTY1NzI1XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Live wallpaper - 4K&HD, 2019 best 3D wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=481120106586884' alt='3D Live wallpaper - 4K&HD, 2019 best 3D wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=481120106586884' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3D Live Wallpaper - 4K&HD App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/com.wallpaper4d.video.clock.parallax4d.pixel3d.android.live.wallpaper.pro-3c9e69fd-2236-4312-9dd1-c434b631f6ee.jpeg?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download 3D Live Wallpaper - 4K&HD App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/com.wallpaper4d.video.clock.parallax4d.pixel3d.android.live.wallpaper.pro-3c9e69fd-2236-4312-9dd1-c434b631f6ee.jpeg?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d live wallpaper 2025 4k&hd">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/live-3d-tiger-art-ghwhwc95224964kb.jpg' alt='3d live wallpaper 2025 4k&hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/live-3d-tiger-art-ghwhwc95224964kb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

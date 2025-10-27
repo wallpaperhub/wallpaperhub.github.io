@@ -1,0 +1,129 @@
+<title>Stunning BTS Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Elevate your iPhone's aesthetics with vibrant BTS wallpapers! Explore unique designs featuring your favorite members and express your passion for music. Perfect for ARMY fans looking to personalize their devices effortlessly. Discover a new wallpaper that speaks to you today!">
+                    <meta name="keywords" content="iphone bts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-bts-wallpaper">
+                            <span itemprop="name">iphone bts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning BTS Wallpapers for Your iPhone</h1>
+                <p>Discover the ultimate iPhone BTS wallpaper collection! Transform your device with stunning, high-resolution images of your favorite BTS members. Show off your love for the band and stay inspired every time you unlock your phone. Explore various designs that capture their vibrant energy and charisma, making your screen truly captivating!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bts Black Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/bts-dancing-iphone-cmbxittusir7exig.webp' alt='Bts Black Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/bts-dancing-iphone-cmbxittusir7exig.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS WALLPAPER AND LOCKSCREEN">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/c4/4a/c6c44a77001f23a9e47df14a4b10600c.jpg' alt='BTS WALLPAPER AND LOCKSCREEN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/c4/4a/c6c44a77001f23a9e47df14a4b10600c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skytower Bts Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skytower-bts-iphone-xl0b2if2viydg4n9.jpg' alt='Skytower Bts Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skytower-bts-iphone-xl0b2if2viydg4n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS wallpaper for Jin fans">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/fe/89/e5fe890972d43655add0c8288e9e78d6.jpg' alt='BTS wallpaper for Jin fans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/fe/89/e5fe890972d43655add0c8288e9e78d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bts Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/bts-iphone-m2su7nbiveuvcomp.jpg' alt='100+] Bts Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/bts-iphone-m2su7nbiveuvcomp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS Wallpapers (71 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/b/e/37344-1080x1920-iphone-full-hd-bts-wallpaper-photo.jpg' alt='BTS Wallpapers (71 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/b/e/37344-1080x1920-iphone-full-hd-bts-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bts Love Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bts-love-iphone-fdg13vselylexkt4.jpg' alt='Bts Love Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bts-love-iphone-fdg13vselylexkt4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS Wallpapers - Top 95 Best BTS Wallpapers Download [ HQ ]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/46/43/a64643226f4b1b3e0991301115336f43.jpg' alt='BTS Wallpapers - Top 95 Best BTS Wallpapers Download [ HQ ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/46/43/a64643226f4b1b3e0991301115336f43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "BTS iPhone 8 Wallpaper https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/D-qJnHXXUAIwuiD.jpg:large' alt='3D iPhone Wallpaper on X: "BTS iPhone 8 Wallpaper https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/D-qJnHXXUAIwuiD.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS iphone wallpapers | ARMY's Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6187/cb2c5c1b8d0d87e3991f1cf83ce94ec54f1f146f_hq.jpg' alt='BTS iphone wallpapers | ARMY's Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6187/cb2c5c1b8d0d87e3991f1cf83ce94ec54f1f146f_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>AWS Logo PNG (White) - Download High-Quality Image</title>
+                    <meta name="description" content="Discover the AWS logo in white PNG format. Perfect for designers and presentations, this high-quality image is easy to download and integrate into your projects. Elevate your branding with the iconic Amazon Web Services logo today!">
+                    <meta name="keywords" content="aws logo png white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aws-logo-png-white">
+                            <span itemprop="name">aws logo png white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AWS Logo PNG (White) - Download High-Quality Image</h1>
+                <p>Looking for the AWS logo in a white PNG format? You've come to the right place! The AWS logo in white is perfect for presentations, websites, and graphic design projects. Download it easily and incorporate it into your creations seamlessly. Ensure you have a high-quality image that represents your tech ambitions with Amazon Web Services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aws logo White Icons – Free Download SVG, PNG, GIF">
+                                <img itemprop="contentUrl url" src='https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png' alt='Aws logo White Icons – Free Download SVG, PNG, GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icons8" />
+                                </span>
+                                <a href='https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aws Logo - AWS Logo with Smile - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180830/ozb/kisspng-logo-clip-art-font-brand-line-aws-direct-connect-by-phoenixnap-1713946409622.webp' alt='Aws Logo - AWS Logo with Smile - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180830/ozb/kisspng-logo-clip-art-font-brand-line-aws-direct-connect-by-phoenixnap-1713946409622.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AWS Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/thumbs/2x/aws-logo-logo.png' alt='AWS Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/thumbs/2x/aws-logo-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="amazon-logo-white-aws-logo-background-text-label-dish-meal ...">
+                                <img itemprop="contentUrl url" src='https://blockchain-expo.com/wp-content/uploads/2024/03/amazon-logo-white-aws-logo-background-text-label-dish-meal-transparent-png-1215251.png' alt='amazon-logo-white-aws-logo-background-text-label-dish-meal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blockchain Expo" />
+                                </span>
+                                <a href='https://blockchain-expo.com/wp-content/uploads/2024/03/amazon-logo-white-aws-logo-background-text-label-dish-meal-transparent-png-1215251.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AWS LOGO | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/0432183c-2ad2-44e6-81f0-86441e6a1223/thumbnail' alt='AWS LOGO | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/0432183c-2ad2-44e6-81f0-86441e6a1223/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AWS logo (Amazon Web Services logo)">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702473952_AWSlogoAmazonWebServiceslogo.png' alt='AWS logo (Amazon Web Services logo)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702473952_AWSlogoAmazonWebServiceslogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Aws Logo Icon - Free Download Logos Logo Icons | IconScout">
+                                <img itemprop="contentUrl url" src='https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-brand-pack-logos-icons-4406641.png' alt='Free Aws Logo Icon - Free Download Logos Logo Icons | IconScout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IconScout" />
+                                </span>
+                                <a href='https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-brand-pack-logos-icons-4406641.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IBM Cloud Pak for Data (CP4D) on AWS Modernization Workshop :: English">
+                                <img itemprop="contentUrl url" src='https://ibm-cp4d.awsworkshop.io/images/AWS-Logo_White-Color.png' alt='IBM Cloud Pak for Data (CP4D) on AWS Modernization Workshop :: English'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ibm-cp4d.awsworkshop.io" />
+                                </span>
+                                <a href='https://ibm-cp4d.awsworkshop.io/images/AWS-Logo_White-Color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aws PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20181106/eqe/kisspng-logo-brand-font-product-design-amazon-web-services-rexez-solutions-5be22402a028d7.261423581541547010656.jpg' alt='Aws PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20181106/eqe/kisspng-logo-brand-font-product-design-amazon-web-services-rexez-solutions-5be22402a028d7.261423581541547010656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Amazon Web Services Logo.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png' alt='File:Amazon Web Services Logo.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

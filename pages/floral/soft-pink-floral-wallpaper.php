@@ -1,0 +1,129 @@
+<title>Soft Pink Floral Wallpaper: Elegant & Serene Decor</title>
+                    <meta name="description" content="Enhance your home decor with soft pink floral wallpaper. This elegant design brings tranquility and beauty to any room, making it perfect for bedrooms or cozy spaces. Effortlessly elevate your interior style with the charm of delicate floral patterns, creating a serene environment you'll love to unwind in.">
+                    <meta name="keywords" content="soft pink floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/soft-pink-floral-wallpaper">
+                            <span itemprop="name">soft pink floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soft Pink Floral Wallpaper: Elegant & Serene Decor</h1>
+                <p>Transform your space with soft pink floral wallpaper, perfect for creating a serene and romantic ambiance. Delicate blooms in hues of blush and rose elevate any room, bringing a touch of nature indoors. Ideal for bedrooms, nurseries, or cozy living areas, this wallpaper adds elegance while remaining effortlessly stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Blush Watercolor Floral Wallpaper Antique Pink Cottage Rose ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/7a64dc/2132351188/il_570xN.2132351188_tlxi.jpg' alt='Soft Blush Watercolor Floral Wallpaper Antique Pink Cottage Rose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/7a64dc/2132351188/il_570xN.2132351188_tlxi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Floral Design Wallapper | Also Peel & Stick | Livette's ...">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-1_1200x1200.jpg?v=1562056766' alt='Soft Pink Floral Design Wallapper | Also Peel & Stick | Livette's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-1_1200x1200.jpg?v=1562056766' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Pastel Sketch Floral Peel and Stick Wallpaper Pink Removable  17.5in×10ft Pale Pink Flower Wall Paper Sticker Light Pink Floral Contact  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qi3J1Mg7L.jpg' alt='ReWallpaper Pastel Sketch Floral Peel and Stick Wallpaper Pink Removable  17.5in×10ft Pale Pink Flower Wall Paper Sticker Light Pink Floral Contact  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qi3J1Mg7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Effect Floral Wallpaper Flowers Rose Pink Washable Fine Decor Dimensions">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/tBQAAOSwCuBgJp7b/s-l1200.jpg' alt='3D Effect Floral Wallpaper Flowers Rose Pink Washable Fine Decor Dimensions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/tBQAAOSwCuBgJp7b/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper soft pink flower en 2021 | Fondos de pantalla de iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/27/a2/8127a297c0365c8c626af30590079b3e.jpg' alt='Wallpaper soft pink flower en 2021 | Fondos de pantalla de iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/27/a2/8127a297c0365c8c626af30590079b3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Print Wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-2.jpg?v=1562056788' alt='Pink Floral Print Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-2.jpg?v=1562056788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooms Second Edition Watercolor Bouquet Wallpaper - Blush">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/BL1772_4431c407-7009-4e41-b23a-c248dac66c01.jpg?v=1697836144' alt='Blooms Second Edition Watercolor Bouquet Wallpaper - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/BL1772_4431c407-7009-4e41-b23a-c248dac66c01.jpg?v=1697836144' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink floral">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/00345_pink_floral_main_800x.jpg?v=1667384732' alt='Pink floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/00345_pink_floral_main_800x.jpg?v=1667384732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Floral Background Wallpaper Mural, Custom Sizes ...">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/f9da934d-5a94-477e-a235-77a98d1269c5-WP8BHhFRo-transformed_large.jpg?v=1681666604' alt='Soft Pink Floral Background Wallpaper Mural, Custom Sizes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/f9da934d-5a94-477e-a235-77a98d1269c5-WP8BHhFRo-transformed_large.jpg?v=1681666604' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

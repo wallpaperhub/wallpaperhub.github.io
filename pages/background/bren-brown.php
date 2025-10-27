@@ -1,0 +1,129 @@
+<title>Embracing Vulnerability: Discover Brené Brown's Insights</title>
+                    <meta name="description" content="Explore the transformative ideas of Brené Brown, a leading researcher on vulnerability and courage. Discover how her insightful work can foster genuine connections and personal growth, empowering you to embrace your authentic self. Join the journey toward becoming whole and resilient.">
+                    <meta name="keywords" content="bren brown">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bren-brown">
+                            <span itemprop="name">bren brown</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embracing Vulnerability: Discover Brené Brown's Insights</h1>
+                <p>Brené Brown is a renowned researcher and storyteller known for her work on vulnerability, courage, empathy, and shame. Her TED Talks and bestselling books, including "Daring Greatly" and "The Gifts of Imperfection," inspire millions to embrace authenticity and connection. Brown emphasizes the power of vulnerability in personal growth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/9f/Bren%C3%A9_Brown_Wikipedia.jpg' alt='Brené Brown - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3413">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/9f/Bren%C3%A9_Brown_Wikipedia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown | Penguin Random House">
+                                <img itemprop="contentUrl url" src='https://images4.penguinrandomhouse.com/author/2021739' alt='Brené Brown | Penguin Random House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Random House" />
+                                </span>
+                                <a href='https://images4.penguinrandomhouse.com/author/2021739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown's Empire of Emotion | The New Yorker">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/617191ba2c260b3447f36d73/master/pass/211101_r39254.jpg' alt='Brené Brown's Empire of Emotion | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/617191ba2c260b3447f36d73/master/pass/211101_r39254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown Wants to Change Your Life | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/5cdae4450c67926f7fea3f74/1:1/w_1425,h_1425,c_limit/Brene%CC%81-Brown-Lede.jpg' alt='Brené Brown Wants to Change Your Life | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1425">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/5cdae4450c67926f7fea3f74/1:1/w_1425,h_1425,c_limit/Brene%CC%81-Brown-Lede.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The power of vulnerability">
+                                <img itemprop="contentUrl url" src='https://talkstar-photos.s3.amazonaws.com/uploads/9595cdc1-fd8e-4aa1-863a-2c6641ae3cbb/BreneBrown_2010X-embed.jpg' alt='The power of vulnerability'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TED Talks" />
+                                </span>
+                                <a href='https://talkstar-photos.s3.amazonaws.com/uploads/9595cdc1-fd8e-4aa1-863a-2c6641ae3cbb/BreneBrown_2010X-embed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Brené Brown | Brooke Bralove | Bethesda, MD">
+                                <img itemprop="contentUrl url" src='http://brookebralove.com/wp-content/uploads/2022/05/brene-brown.jpg' alt='About Brené Brown | Brooke Bralove | Bethesda, MD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brooke Bralove Psychotherapy" />
+                                </span>
+                                <a href='http://brookebralove.com/wp-content/uploads/2022/05/brene-brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Inspired Podcast #103: Brené Brown, Dare to Lead">
+                                <img itemprop="contentUrl url" src='https://johnolearyinspires.com/wp-content/uploads/2018/10/Web-BreneBrown.jpg' alt='Live Inspired Podcast #103: Brené Brown, Dare to Lead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John O'Leary" />
+                                </span>
+                                <a href='https://johnolearyinspires.com/wp-content/uploads/2018/10/Web-BreneBrown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown On The Power Of Naming Our Emotions | 1A">
+                                <img itemprop="contentUrl url" src='https://the1a.org/wp-content/uploads/sites/4/2021/11/PhotoCredit_Randal-Ford-010720_Brene_Brown-0324_1d_RGB_HOR@0.5x-1500x844.png' alt='Brené Brown On The Power Of Naming Our Emotions | 1A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1A" />
+                                </span>
+                                <a href='https://the1a.org/wp-content/uploads/sites/4/2021/11/PhotoCredit_Randal-Ford-010720_Brene_Brown-0324_1d_RGB_HOR@0.5x-1500x844.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brené Brown | Speaker | TED">
+                                <img itemprop="contentUrl url" src='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8f950ac04626266f71b6b0e7d54038eb17976ce2_254x191.jpg?w=255' alt='Brené Brown | Speaker | TED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="254">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TED Talks" />
+                                </span>
+                                <a href='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8f950ac04626266f71b6b0e7d54038eb17976ce2_254x191.jpg?w=255' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Brene Brown Books To Read - Wizdom">
+                                <img itemprop="contentUrl url" src='https://wizdomapp.com/wp-content/uploads/2024/08/Brene-Brown-Lede-803x490.jpg' alt='10 Best Brene Brown Books To Read - Wizdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="803">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizdom app" />
+                                </span>
+                                <a href='https://wizdomapp.com/wp-content/uploads/2024/08/Brene-Brown-Lede-803x490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

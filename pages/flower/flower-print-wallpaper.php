@@ -1,0 +1,129 @@
+<title>Blooming Beauties: Elevate Your Space with Flower Print Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of flower print wallpaper! Perfect for refreshing any room, these designs bring vibrancy and warmth to your home. Explore a range of patterns to fit your style and elevate your decor effortlessly.">
+                    <meta name="keywords" content="flower print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-print-wallpaper">
+                            <span itemprop="name">flower print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blooming Beauties: Elevate Your Space with Flower Print Wallpaper</h1>
+                <p>Flower print wallpaper adds a natural charm to any space, bringing the beauty of the outdoors inside. Ideal for creating a vibrant atmosphere, floral designs can range from subtle pastels to bold, colorful patterns. They effortlessly enhance your decor, making rooms feel fresh and inviting. Perfect for living rooms, bedrooms, or even cozy nooks!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Black White Camellia Wildflower Floral Wallpaper Peel and Stick  Wallpaper Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3",  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' alt='JiffDiff Black White Camellia Wildflower Floral Wallpaper Peel and Stick  Wallpaper Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3",  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Floral Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' alt='Wildflowers Floral Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 400" Dark Floral  Wallpaper Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' alt='Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 400" Dark Floral  Wallpaper Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dainty Flower Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/36259/dainty-flower-garden-wallpaper-2x.jpg?q=1701885786' alt='Dainty Flower Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/36259/dainty-flower-garden-wallpaper-2x.jpg?q=1701885786' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flower Print Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/wild-flower-print-peel-and-stick-wallpaper-446947.png?crop=center&height=1558&v=1685602539&width=1558' alt='Wild Flower Print Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1558">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/wild-flower-print-peel-and-stick-wallpaper-446947.png?crop=center&height=1558&v=1685602539&width=1558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Birds and Flower Wallpaper Peel and Stick MD20004">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/bright-birds-and-flower-wallpaper-peel-and-stick-md20004-106688.jpg?v=1682089792&width=700' alt='Bright Birds and Flower Wallpaper Peel and Stick MD20004'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/bright-birds-and-flower-wallpaper-peel-and-stick-md20004-106688.jpg?v=1682089792&width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Peel & Stick and Traditional Wallpaper by WALL BLUSH">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/elegant-bohemian_beige_version1.jpg?v=1714517905&width=2048' alt='Floral Peel & Stick and Traditional Wallpaper by WALL BLUSH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/elegant-bohemian_beige_version1.jpg?v=1714517905&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MuralsPrint Autumn Peach Flowers Removable Wallpaper 10'L x 24''W">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/MuralsPrint-Autumn-Peach-Flowers-Removable-Wallpaper-10-L-x-24-W_8e796cff-a934-4b61-be37-407877cdc7a0.a0048da3ee921847970734ab19397ccf.jpeg' alt='MuralsPrint Autumn Peach Flowers Removable Wallpaper 10'L x 24''W'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/MuralsPrint-Autumn-Peach-Flowers-Removable-Wallpaper-10-L-x-24-W_8e796cff-a934-4b61-be37-407877cdc7a0.a0048da3ee921847970734ab19397ccf.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Paisley Print Wallpaper Moody Floral Wallpaper, Bold Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/bd28d4/1725417688/il_570xN.1725417688_9w20.jpg' alt='Pink Paisley Print Wallpaper Moody Floral Wallpaper, Bold Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/bd28d4/1725417688/il_570xN.1725417688_9w20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scarlett Wallpaper | Fall Garden Drama – Anewall">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/large_floral_print_wallpaper.jpg?v=1579811531' alt='Scarlett Wallpaper | Fall Garden Drama – Anewall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/large_floral_print_wallpaper.jpg?v=1579811531' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

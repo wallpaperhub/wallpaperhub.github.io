@@ -1,0 +1,129 @@
+<title>Discover Unique Pink Horror Wallpaper for Bold Décor</title>
+                    <meta name="description" content="Explore the world of pink horror wallpaper! Elevate your interior design with whimsical yet eerie patterns that add character and style to any space. Perfect for themed rooms, parties, or a touch of the unconventional in your home. Unleash your creativity and make a statement today!">
+                    <meta name="keywords" content="pink horror wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-horror-wallpaper">
+                            <span itemprop="name">pink horror wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Unique Pink Horror Wallpaper for Bold Décor</h1>
+                <p>Transform your space with pink horror wallpaper, where the whimsical meets the eerie. Perfect for creating a unique atmosphere, these striking designs blend shades of pink with chilling motifs, injecting creativity into your décor. Ideal for bedrooms, living areas, or themed events, this wallpaper adds an unexpected twist that captivates and intrigues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 Pink spooky aesthetic ideas | halloween wallpaper, goth ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6a/c7/03/6ac703e02bdf9ebe071d860f8248dd11.jpg' alt='260 Pink spooky aesthetic ideas | halloween wallpaper, goth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6a/c7/03/6ac703e02bdf9ebe071d860f8248dd11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Horror Scream Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-horror-scream-pattern-lze15gzty9ejlmho.jpg' alt='Download Pink Horror Scream Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-horror-scream-pattern-lze15gzty9ejlmho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Scary Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5d/48/84/5d48848d78ee58f0de51180b7f71a76a.jpg' alt='Pink Scary Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5d/48/84/5d48848d78ee58f0de51180b7f71a76a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween #halloweenpink #october #pink #horror #horrormovies ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/4d/bd/8e4dbd5f45021125cff9ee0bd0e7331b.jpg' alt='halloween #halloweenpink #october #pink #horror #horrormovies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/4d/bd/8e4dbd5f45021125cff9ee0bd0e7331b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror/Halloween Seamless File//Scream-Pink">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31108022/r/il/cc83eb/4079052139/il_fullxfull.4079052139_twb0.jpg' alt='Horror/Halloween Seamless File//Scream-Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31108022/r/il/cc83eb/4079052139/il_fullxfull.4079052139_twb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fang Illustration - HORROR ICONS">
+                                <img itemprop="contentUrl url" src='https://cdn.myportfolio.com/ff683ef1-9dc5-429b-ba71-a8f9dbe85736/a42e3ff2-d97a-4e17-b495-5bc1fd9396cd_rw_1200.jpg?h=b553dea400ccf6ce87ff3b8ca753c8d9' alt='Pink Fang Illustration - HORROR ICONS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pink Fang" />
+                                </span>
+                                <a href='https://cdn.myportfolio.com/ff683ef1-9dc5-429b-ba71-a8f9dbe85736/a42e3ff2-d97a-4e17-b495-5bc1fd9396cd_rw_1200.jpg?h=b553dea400ccf6ce87ff3b8ca753c8d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 Pink spooky aesthetic ideas | halloween wallpaper, goth ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1e/1d/91/1e1d91e8d8a83aa246241fdb00a8c9ea.jpg' alt='260 Pink spooky aesthetic ideas | halloween wallpaper, goth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1e/1d/91/1e1d91e8d8a83aa246241fdb00a8c9ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spooky wallpapers: pink edition    | Gallery posted by Alexandra ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7268806112940769797&index=0&sign=40b50d22f2d61aaf6e17fc00563ebb52' alt='spooky wallpapers: pink edition    | Gallery posted by Alexandra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7268806112940769797&index=0&sign=40b50d22f2d61aaf6e17fc00563ebb52' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/eb/90/78eb903a31de19c3da25763df8dafda7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/eb/90/78eb903a31de19c3da25763df8dafda7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK DANGER ALERT SKULL, fantasy, danger, scary, skull, pink, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/50/387/HD-wallpaper-pink-danger-alert-skull-fantasy-danger-scary-skull-pink.jpg' alt='PINK DANGER ALERT SKULL, fantasy, danger, scary, skull, pink, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/50/387/HD-wallpaper-pink-danger-alert-skull-fantasy-danger-scary-skull-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

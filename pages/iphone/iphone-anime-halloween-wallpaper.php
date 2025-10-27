@@ -1,0 +1,129 @@
+<title>Spooky Anime Halloween Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore an enchanting selection of iPhone anime Halloween wallpapers! Perfect for showcasing your love for anime while embracing the festive spirit. Easily download and personalize your device with unique designs that blend spooky themes with engaging anime aesthetics. Celebrate Halloween in style!">
+                    <meta name="keywords" content="iphone anime halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-anime-halloween-wallpaper">
+                            <span itemprop="name">iphone anime halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Anime Halloween Wallpapers for Your iPhone</h1>
+                <p>Elevate your Halloween spirit with stunning iPhone anime wallpapers! Discover a captivating collection featuring your favorite characters in spooky settings. From vibrant pumpkins to ghostly apparitions, these wallpapers bring the perfect mix of anime charm and Halloween fun. Customize your device and celebrate the season in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sevelina :: Dress up games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/66/ad/9066ad269f9d71e35527b84a61ff9391.jpg' alt='Sevelina :: Dress up games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/66/ad/9066ad269f9d71e35527b84a61ff9391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime halloween, anime, halloween, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/295/HD-wallpaper-anime-halloween-anime-halloween.jpg' alt='Anime halloween, anime, halloween, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/295/HD-wallpaper-anime-halloween-anime-halloween.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Anime Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/8/7/2160288-1080x1920-mobile-1080p-halloween-anime-wallpaper-image.jpg' alt='Halloween Anime Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/8/7/2160288-1080x1920-mobile-1080p-halloween-anime-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/1f/62/6a1f620338d4b64afc98fc4a57417d07.jpg' alt='Funny wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/1f/62/6a1f620338d4b64afc98fc4a57417d07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Anime Girl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-anime-girl-v9120xghw7hzdxay.jpg' alt='100+] Halloween Anime Girl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-anime-girl-v9120xghw7hzdxay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween, anime halloween, black, iphone, iphone 11 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/657/1009/HD-wallpaper-happy-halloween-anime-halloween-black-iphone-iphone-11-samsung.jpg' alt='Happy Halloween, anime halloween, black, iphone, iphone 11 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/657/1009/HD-wallpaper-happy-halloween-anime-halloween-black-iphone-iphone-11-samsung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Anime For iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11618708.jpg' alt='Halloween Anime For iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11618708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hd Anime Phone Halloween Girl Eating Cake Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-anime-phone-halloween-girl-eating-cake-nex5k4koix3sj3is.jpg' alt='Download Hd Anime Phone Halloween Girl Eating Cake Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-anime-phone-halloween-girl-eating-cake-nex5k4koix3sj3is.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Halloween wallpaper by luigyh - Download on ZEDGE™ | 1ecb">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/8d/b1/bf8db1b41be257d41ea744e808310727.jpg' alt='One Piece Halloween wallpaper by luigyh - Download on ZEDGE™ | 1ecb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/8d/b1/bf8db1b41be257d41ea744e808310727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ✍️ KR Yan on X: "Happy Halloween Eve !!     Thanks for the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F9sLh36b0AAqEqa.jpg:large' alt='  ✍️ KR Yan on X: "Happy Halloween Eve !!     Thanks for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F9sLh36b0AAqEqa.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

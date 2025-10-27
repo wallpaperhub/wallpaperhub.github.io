@@ -1,0 +1,129 @@
+<title>Vintage Blue Floral Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Add a timeless touch to your home with vintage blue floral wallpaper. Ideal for any room, its intricate designs and soft colors create a serene atmosphere. Explore how this charming wallpaper can enhance your decor and bring a refreshing vintage vibe to your living space.">
+                    <meta name="keywords" content="vintage blue floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/vintage-blue-floral-wallpaper">
+                            <span itemprop="name">vintage blue floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Blue Floral Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with vintage blue floral wallpaper, perfect for adding a touch of timeless elegance to any room. The intricate patterns and soft blue tones bring a sense of serenity and charm, making it ideal for living rooms, bedrooms, or even a cozy nook. Embrace classic style with this beautiful wallpaper choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in X 23ft Blue Floral Wallpaper Peel and Stick Contact  Paper Floral Vintage Prepasted Blue Toile Wallpaper for Bedroom Bathroom  Walls ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ndvdlu1eL.jpg' alt='ReWallpaper 17.5in X 23ft Blue Floral Wallpaper Peel and Stick Contact  Paper Floral Vintage Prepasted Blue Toile Wallpaper for Bedroom Bathroom  Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ndvdlu1eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everettpark.com/cdn/shop/products/AdobeStock_282078720_1500x.jpg?v=1671600061' alt='Vintage Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everett Park" />
+                                </span>
+                                <a href='https://everettpark.com/cdn/shop/products/AdobeStock_282078720_1500x.jpg?v=1671600061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' alt='Blue Vintage Floral Self Adhesive Wallpaper - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/08/blue_floral_wallpaper_pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202771.jpg' alt='Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW45702_1.jpg?quality=100' alt='NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW45702_1.jpg?quality=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Vintage Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/blue-vintage-floral-peel-and-stick-wallpaper-755387.jpg?v=1707955192' alt='Blue Vintage Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/blue-vintage-floral-peel-and-stick-wallpaper-755387.jpg?v=1707955192' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' alt='FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_8543.jpg?v=1496688536' alt='1960s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_8543.jpg?v=1496688536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Blue Heron Plumeria Floral Trail Wallpaper - Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/4071-71040_3fddf914-39ee-43b9-aaf0-848d928b826f.jpg?v=1700257465' alt='Chesapeake Blue Heron Plumeria Floral Trail Wallpaper - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/4071-71040_3fddf914-39ee-43b9-aaf0-848d928b826f.jpg?v=1700257465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper • Antique Asian Design • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' alt='Vintage Floral Wallpaper • Antique Asian Design • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

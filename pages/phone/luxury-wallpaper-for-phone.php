@@ -1,0 +1,129 @@
+<title>Elevate Your Phone: Luxury Wallpaper Selection</title>
+                    <meta name="description" content="Discover the ultimate collection of luxury wallpapers for your phone! Enhance your device's style with stunning designs that exude elegance and sophistication. Perfect for any aesthetic, our high-quality wallpapers will transform your phone into a chic accessory. Upgrade your mobile experience today!">
+                    <meta name="keywords" content="luxury wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/luxury-wallpaper-for-phone">
+                            <span itemprop="name">luxury wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Phone: Luxury Wallpaper Selection</h1>
+                <p>Transform your phone's aesthetic with luxury wallpaper designed to make a statement. Choose from a diverse range of high-quality patterns, textures, and colors that elevate your device's look. Whether you prefer elegant florals, modern geometrics, or soothing landscapes, luxury wallpapers offer a touch of sophistication to daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Gold, rareseen design, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/422/373/HD-wallpaper-luxury-gold-rareseen-design.jpg' alt='Luxury Gold, rareseen design, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/422/373/HD-wallpaper-luxury-gold-rareseen-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Luxury Phone Backgrounds — Léa Phillips | Fashion Stylist ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6518ded31323f01c05693cb3/1696224745835-ID8PN9B7IDT54452ILW9/Dior-Free-Downloadable-Luxury-Phone-Background-Parlezvousvintage.png' alt='Free Luxury Phone Backgrounds — Léa Phillips | Fashion Stylist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Léa Phillips" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6518ded31323f01c05693cb3/1696224745835-ID8PN9B7IDT54452ILW9/Dior-Free-Downloadable-Luxury-Phone-Background-Parlezvousvintage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, luxury, dark, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/105/733/HD-wallpaper-black-luxury-dark.jpg' alt='Black, luxury, dark, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/105/733/HD-wallpaper-black-luxury-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold, 0010, abstract, background, brisk, luxury, plane, stainless ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/691/230/HD-wallpaper-gold-0010-abstract-background-brisk-luxury-plane-stainless.jpg' alt='Gold, 0010, abstract, background, brisk, luxury, plane, stainless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/691/230/HD-wallpaper-gold-0010-abstract-background-brisk-luxury-plane-stainless.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper Android 6C">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/78/52/71785240a126878dbc28bba21aa46c45.jpg' alt='Luxury Wallpaper Android 6C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/78/52/71785240a126878dbc28bba21aa46c45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Luxury Phone Backgrounds — Léa Phillips | Fashion Stylist ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6518ded31323f01c05693cb3/1696224743630-COLI59FZFRVCP5QRK3OD/Chanel-Free-Downloadable-Luxury-Phone-Background-Parlezvousvintage1.png' alt='Free Luxury Phone Backgrounds — Léa Phillips | Fashion Stylist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="916">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Léa Phillips" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6518ded31323f01c05693cb3/1696224743630-COLI59FZFRVCP5QRK3OD/Chanel-Free-Downloadable-Luxury-Phone-Background-Parlezvousvintage1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Luxury wallpaper ideas | luxury wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9c/4b/b4/9c4bb4767f9cacbfa05f0429a50854aa.jpg' alt='900+ Luxury wallpaper ideas | luxury wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9c/4b/b4/9c4bb4767f9cacbfa05f0429a50854aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury, modern, elegant, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/837/813/HD-wallpaper-luxury-modern-elegant.jpg' alt='Luxury, modern, elegant, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/837/813/HD-wallpaper-luxury-modern-elegant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFd88BRqek/3/0/900w/canva-dark-gold-black-shine-luxury-glitter-phone-wallpaper-wdqE6b4GHcM.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFd88BRqek/3/0/900w/canva-dark-gold-black-shine-luxury-glitter-phone-wallpaper-wdqE6b4GHcM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Luxury, clean, dark, gold, golden, luxury, metallic ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/249/226/HD-wallpaper-simple-luxury-clean-dark-gold-golden-luxury-metallic-pattern-shiny-simple-thumbnail.jpg' alt='Simple Luxury, clean, dark, gold, golden, luxury, metallic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/249/226/HD-wallpaper-simple-luxury-clean-dark-gold-golden-luxury-metallic-pattern-shiny-simple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

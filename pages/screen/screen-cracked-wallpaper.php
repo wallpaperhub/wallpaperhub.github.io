@@ -1,0 +1,129 @@
+<title>Screen Cracked Wallpaper: Trendy Digital Design</title>
+                    <meta name="description" content="Explore the appeal of cracked screen wallpaper! This stylish design adds a playful touch to your device display, giving it a unique look. Choose from numerous colors and styles to match your personality. Perfect for anyone looking to refresh their digital space with a modern twist!">
+                    <meta name="keywords" content="screen cracked wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/screen-cracked-wallpaper">
+                            <span itemprop="name">screen cracked wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Screen Cracked Wallpaper: Trendy Digital Design</h1>
+                <p>Cracked screen wallpaper is a trendy, eye-catching design that mimics the look of a shattered smartphone screen. Perfect for wallpapers on various devices, it gives a unique twist to your display. Choose from a variety of styles and colors to showcase your personality while adding an element of fun to your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Wallpaper 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' alt='Broken Screen Wallpaper 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/5QIPKJNXvVAnivO04ZJmPKAqCNtL7WCaiYZEM6orVI7WXWb3U3vpsJjXuzuRtj_fhw=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Broken Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/broken-screen-jj0clv2wl9epwc8y.jpg' alt='200+] Broken Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/broken-screen-jj0clv2wl9epwc8y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1 Hour Best HD Cracked Broken Screen">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uKisdcdVRl8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLCxZcXaMlxaY8ltCgPJAfFy3XqUxg' alt='1 Hour Best HD Cracked Broken Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uKisdcdVRl8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLCxZcXaMlxaY8ltCgPJAfFy3XqUxg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked-iPhone XR Screen Wallpaper - Doc Pop's Weblog">
+                                <img itemprop="contentUrl url" src='https://docpop.org/wp-content/uploads/2023/09/10091489-1AF1-48BF-9BA5-7E4C03947D91_1_105_c.jpeg' alt='Cracked-iPhone XR Screen Wallpaper - Doc Pop's Weblog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="docpop.org" />
+                                </span>
+                                <a href='https://docpop.org/wp-content/uploads/2023/09/10091489-1AF1-48BF-9BA5-7E4C03947D91_1_105_c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen 24">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/8c/4b/798c4bb74b878b3f7de24c47347eff8f.jpg' alt='Broken Screen 24'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/8c/4b/798c4bb74b878b3f7de24c47347eff8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broken Computer Screen Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-computer-screen-blue-lines-sg5v4ivw47f6xlsz.jpg' alt='100+] Broken Computer Screen Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-computer-screen-blue-lines-sg5v4ivw47f6xlsz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken screen wallpaper by 72019 - Download on ZEDGE™ | 8a02">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9f/7d/e0/9f7de088f1442848217be3084ad8f50b.jpg' alt='Broken screen wallpaper by 72019 - Download on ZEDGE™ | 8a02'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9f/7d/e0/9f7de088f1442848217be3084ad8f50b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/115/thumb-1920-115314.jpg' alt='Cracked Screen HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/115/thumb-1920-115314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD realistic cracked screen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/741/11/HD-wallpaper-cracked-screen-crack-iphone-realistic-thumbnail.jpg' alt='HD realistic cracked screen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/741/11/HD-wallpaper-cracked-screen-crack-iphone-realistic-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/-3gEiDqckAW_SbSl78ynzbp5RhhsTNVueyS1rlnqc7EnGVisJ_qWbWKD9QwzJK2lqLhz' alt='Broken Screen Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/-3gEiDqckAW_SbSl78ynzbp5RhhsTNVueyS1rlnqc7EnGVisJ_qWbWKD9QwzJK2lqLhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

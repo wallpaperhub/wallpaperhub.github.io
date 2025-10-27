@@ -1,0 +1,129 @@
+<title>Harper Lee: A Journey Through Education and Literature</title>
+                    <meta name="description" content="Explore the educational background of Harper Lee, the iconic author of "To Kill a Mockingbird." Discover how her university experiences influenced her writing and contributed to her lasting impact on literature and social justice.">
+                    <meta name="keywords" content="harper lee education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harper-lee-education">
+                            <span itemprop="name">harper lee education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harper Lee: A Journey Through Education and Literature</h1>
+                <p>Harper Lee, the author of "To Kill a Mockingbird," attended Huntingdon College and later the University of Alabama, where she studied law. However, her passion for writing led her to leave law school in pursuit of her literary career. This decision shaped her legacy as a prominent figure in American literature, reflecting deeply on social issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee - Books, Facts & Quotes">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/harper-lee-wikimedia-commons.jpg' alt='Harper Lee - Books, Facts & Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1677">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/harper-lee-wikimedia-commons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee's love letter to teaching – Chalkbeat">
+                                <img itemprop="contentUrl url" src='https://www.chalkbeat.org/resizer/v2/A76YZYWQAVFJ3OZYLKJPJG7KQY.jpg?auth=24441277cb63a19c33e6e732120c83c4c9a840c2fd7866e0cd1a2d8f66650d30&smart=true&width=1600&height=900' alt='Harper Lee's love letter to teaching – Chalkbeat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chalkbeat" />
+                                </span>
+                                <a href='https://www.chalkbeat.org/resizer/v2/A76YZYWQAVFJ3OZYLKJPJG7KQY.jpg?auth=24441277cb63a19c33e6e732120c83c4c9a840c2fd7866e0cd1a2d8f66650d30&smart=true&width=1600&height=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee - Books, Facts & Quotes">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-50358657.jpg' alt='Harper Lee - Books, Facts & Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-50358657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee - Books, Facts & Quotes">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/harperlee_facts_desktop.jpg' alt='Harper Lee - Books, Facts & Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/harperlee_facts_desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee's Novel Achievement | Smithsonian">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/HMVpQs6J8yFJzpBfMb_yFw3n-Zc=/800x800/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Presence-To-Kill-a-Mockingbird-Harper-Lee-631.jpg' alt='Harper Lee's Novel Achievement | Smithsonian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/HMVpQs6J8yFJzpBfMb_yFw3n-Zc=/800x800/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Presence-To-Kill-a-Mockingbird-Harper-Lee-631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b5/Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29.jpg' alt='Harper Lee - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b5/Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee | Books, Biography, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/04/193204-050-4B1C2FE7/Harper-Lee-American.jpg' alt='Harper Lee | Books, Biography, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/04/193204-050-4B1C2FE7/Harper-Lee-American.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee's Life Before 'To Kill a Mockingbird' | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2016/02/harper-lee3.jpeg' alt='Harper Lee's Life Before 'To Kill a Mockingbird' | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2016/02/harper-lee3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/160219103058-02-harper-lee.jpg?q=w_3000,h_2074,x_0,y_0,c_fill' alt='Harper Lee Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/160219103058-02-harper-lee.jpg?q=w_3000,h_2074,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper Lee">
+                                <img itemprop="contentUrl url" src='https://www.historyofcreativity.com/content/6/s_creator.001_1587252901.jpg' alt='Harper Lee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The History of Creativity" />
+                                </span>
+                                <a href='https://www.historyofcreativity.com/content/6/s_creator.001_1587252901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

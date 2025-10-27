@@ -1,0 +1,129 @@
+<title>Nyan Cat Background: The Purrfect Pixelated Delight</title>
+                    <meta name="description" content="Explore the colorful and whimsical world of Nyan Cat backgrounds! Perfect for fans, artists, and anyone who loves this viral icon. Brighten your devices with pixel art magic and join the fun of this cheerful pop-tart feline!">
+                    <meta name="keywords" content="nyan cat background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nyan-cat-background">
+                            <span itemprop="name">nyan cat background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nyan Cat Background: The Purrfect Pixelated Delight</h1>
+                <p>Nyan Cat, the pixelated pop-tart feline, bursts onto the scene with vibrant rainbow trails and an infectious spirit. This quirky animated cat, created in 2011, became a viral sensation, embodying internet culture. Its cheerful, uplifting background complements the playful nature of the cat, making it a favorite for memes and fan art alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Background by HeadPikachu on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c068a71-6ef5-4ca2-8021-ba868d25b906/d3e2y2w-43856932-ed98-4b27-81b1-d321ff32b32e.jpg/v1/fill/w_900,h_507,q_75,strp/nyan_cat_background_by_headpikachu_d3e2y2w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNWMwNjhhNzEtNmVmNS00Y2EyLTgwMjEtYmE4NjhkMjViOTA2XC9kM2UyeTJ3LTQzODU2OTMyLWVkOTgtNGIyNy04MWIxLWQzMjFmZjMyYjMyZS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._6zxyYvcTkqxTjeAxeJYbiMHU3uBWgBHVhyqC5JQ5xY' alt='Nyan Cat Background by HeadPikachu on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c068a71-6ef5-4ca2-8021-ba868d25b906/d3e2y2w-43856932-ed98-4b27-81b1-d321ff32b32e.jpg/v1/fill/w_900,h_507,q_75,strp/nyan_cat_background_by_headpikachu_d3e2y2w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNWMwNjhhNzEtNmVmNS00Y2EyLTgwMjEtYmE4NjhkMjViOTA2XC9kM2UyeTJ3LTQzODU2OTMyLWVkOTgtNGIyNy04MWIxLWQzMjFmZjMyYjMyZS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._6zxyYvcTkqxTjeAxeJYbiMHU3uBWgBHVhyqC5JQ5xY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nyan Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nyan-3x7sd7o2y7y4yxze.jpg' alt='100+] Nyan Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nyan-3x7sd7o2y7y4yxze.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Galaxy' Wallpaper by Jayro-Jones on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d4p832e-2cbc021e-fa5e-43dd-81d3-ab365d62e24b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkY2JhMjU4LTI0YTEtNGU1NS1iMjU0LWY0YjJhZjRjZmRiMVwvZDRwODMyZS0yY2JjMDIxZS1mYTVlLTQzZGQtODFkMy1hYjM2NWQ2MmUyNGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qoByvc0ttaOIJ-zM7zB-R3xtI8uFJkQrtBDYT33y31M' alt='Nyan Cat Galaxy' Wallpaper by Jayro-Jones on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d4p832e-2cbc021e-fa5e-43dd-81d3-ab365d62e24b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkY2JhMjU4LTI0YTEtNGU1NS1iMjU0LWY0YjJhZjRjZmRiMVwvZDRwODMyZS0yY2JjMDIxZS1mYTVlLTQzZGQtODFkMy1hYjM2NWQ2MmUyNGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qoByvc0ttaOIJ-zM7zB-R3xtI8uFJkQrtBDYT33y31M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/7d/a8/5a7da8d25186f62301e386dea02c70d9.jpg' alt='Nyan Cat Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/7d/a8/5a7da8d25186f62301e386dea02c70d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Wallpaper (1080p) : r/blender">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u4b2hf0q6rn01.png' alt='Nyan Cat Wallpaper (1080p) : r/blender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u4b2hf0q6rn01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat background by kento1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f8143ed-4ec0-4539-b8cf-827bc87f498a/d3l6i50-12ad4899-93d5-4445-a4dc-570cd5b26d9a.jpg/v1/fill/w_1189,h_672,q_70,strp/nyan_cat_background_by_kento1_d3l6i50-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvNWY4MTQzZWQtNGVjMC00NTM5LWI4Y2YtODI3YmM4N2Y0OThhXC9kM2w2aTUwLTEyYWQ0ODk5LTkzZDUtNDQ0NS1hNGRjLTU3MGNkNWIyNmQ5YS5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.C7XhJx-Y4vNiKS0zVTs_9Wqv2UL0JEWeUFIWO5_gF_4' alt='Nyan Cat background by kento1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1189">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f8143ed-4ec0-4539-b8cf-827bc87f498a/d3l6i50-12ad4899-93d5-4445-a4dc-570cd5b26d9a.jpg/v1/fill/w_1189,h_672,q_70,strp/nyan_cat_background_by_kento1_d3l6i50-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvNWY4MTQzZWQtNGVjMC00NTM5LWI4Y2YtODI3YmM4N2Y0OThhXC9kM2w2aTUwLTEyYWQ0ODk5LTkzZDUtNDQ0NS1hNGRjLTU3MGNkNWIyNmQ5YS5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.C7XhJx-Y4vNiKS0zVTs_9Wqv2UL0JEWeUFIWO5_gF_4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nyan Cat soaring through space in a colorful, pixelated ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nyan-cat-1920-x-1200-background-s03ga6pgmkwpfnl9.jpg' alt='Download Nyan Cat soaring through space in a colorful, pixelated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nyan-cat-1920-x-1200-background-s03ga6pgmkwpfnl9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...">
+                                <img itemprop="contentUrl url" src='https://hd.wallpaperswide.com/thumbs/nyan_cat-t2.jpg' alt='Nyan Cat Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://hd.wallpaperswide.com/thumbs/nyan_cat-t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow wallpaper, Nyan Cat, simple, simple background, minimalism ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/b7/0f/d7b70f01b5445ef233406229142c2515.jpg' alt='Rainbow wallpaper, Nyan Cat, simple, simple background, minimalism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/b7/0f/d7b70f01b5445ef233406229142c2515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/31IWVjYHy4L.png' alt='Nyan Cat Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/31IWVjYHy4L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Origins of the Avengers: Marvel's Iconic Heroes</title>
+                    <meta name="description" content="Explore the rich background of the Avengers, Marvel's legendary superhero team. Learn about their origins, key members, and how they've captured the hearts of fans globally. Dive into the world of heroes, teamwork, and epic battles in this concise overview.">
+                    <meta name="keywords" content="avengers background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/avengers-background">
+                            <span itemprop="name">avengers background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Origins of the Avengers: Marvel's Iconic Heroes</h1>
+                <p>The Avengers, a team of iconic superheroes from Marvel Comics, first appeared in 1963. Formed by Iron Man, Thor, Captain America, and others, they unite to combat formidable threats. Their diverse backgrounds and powers emphasize teamwork and resilience. Over the years, they've become cultural icons, inspiring movies, TV shows, and countless fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Background | Marvel Backdrop | Superhero | Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71QcIKHlf4L.jpg' alt='Avengers Background | Marvel Backdrop | Superhero | Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.amazon.sa" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71QcIKHlf4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Wallpaper | Peel and Stick | Superhero Wallpaper | Kid ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32690780/r/il/5eda6f/3772533242/il_fullxfull.3772533242_f45a.jpg' alt='Avengers Wallpaper | Peel and Stick | Superhero Wallpaper | Kid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32690780/r/il/5eda6f/3772533242/il_fullxfull.3772533242_f45a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Komar Marvel Photo Wallpaper Avengers Endgame Movie Poster - Size 184 x 254  cm, 4 Pieces, Colourful - Wallpaper, Children's Room, Teenager's Room, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/919Lj0uGzmL._AC_UF894,1000_QL80_.jpg' alt='Komar Marvel Photo Wallpaper Avengers Endgame Movie Poster - Size 184 x 254  cm, 4 Pieces, Colourful - Wallpaper, Children's Room, Teenager's Room, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/919Lj0uGzmL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Avengers - Wallpaper by Daviddv1202 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a364ee04-6380-4393-a551-2199250f57bf/dbtspza-04318586-4f6e-4363-b1b9-b9f285b1d475.jpg/v1/fill/w_1024,h_626,q_75,strp/the_avengers___wallpaper_by_daviddv1202_dbtspza-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI2IiwicGF0aCI6IlwvZlwvYTM2NGVlMDQtNjM4MC00MzkzLWE1NTEtMjE5OTI1MGY1N2JmXC9kYnRzcHphLTA0MzE4NTg2LTRmNmUtNDM2My1iMWI5LWI5ZjI4NWIxZDQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.D1AUjxXBzPIp_-Wq458tK5qIbcHjfuIW0C7sBpyYNx4' alt='The Avengers - Wallpaper by Daviddv1202 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a364ee04-6380-4393-a551-2199250f57bf/dbtspza-04318586-4f6e-4363-b1b9-b9f285b1d475.jpg/v1/fill/w_1024,h_626,q_75,strp/the_avengers___wallpaper_by_daviddv1202_dbtspza-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI2IiwicGF0aCI6IlwvZlwvYTM2NGVlMDQtNjM4MC00MzkzLWE1NTEtMjE5OTI1MGY1N2JmXC9kYnRzcHphLTA0MzE4NTg2LTRmNmUtNDM2My1iMWI5LWI5ZjI4NWIxZDQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.D1AUjxXBzPIp_-Wq458tK5qIbcHjfuIW0C7sBpyYNx4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Wallpaper | Peel and Stick | Removable | Captain America ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32690780/r/il/6eab2e/3815454815/il_570xN.3815454815_q6jv.jpg' alt='Avengers Wallpaper | Peel and Stick | Removable | Captain America ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32690780/r/il/6eab2e/3815454815/il_570xN.3815454815_q6jv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Wallpapers (129 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/1/118652-3840x2160-desktop-4k-avengers-background-image.jpg' alt='Avengers Wallpapers (129 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/1/118652-3840x2160-desktop-4k-avengers-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Backgrounds Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/13/79/a513797cc82c47712207d2ad75451467.jpg' alt='Avengers Backgrounds Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/13/79/a513797cc82c47712207d2ad75451467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Background Images – Browse 1,617 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/83/06/99/360_F_683069968_gSTkNwYuk00Senmzeovf3QmRY594Y6EC.jpg' alt='Avengers Background Images – Browse 1,617 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="829">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/83/06/99/360_F_683069968_gSTkNwYuk00Senmzeovf3QmRY594Y6EC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Wallpaper | Removable Wallpaper | Peel and Stick | Self Adhisive |  Iron Man | Kid Wall Decor | Superhero Wallpaper | Marvel Mural">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32690780/r/il/28b520/3630993375/il_570xN.3630993375_707o.jpg' alt='Avengers Wallpaper | Removable Wallpaper | Peel and Stick | Self Adhisive |  Iron Man | Kid Wall Decor | Superhero Wallpaper | Marvel Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32690780/r/il/28b520/3630993375/il_570xN.3630993375_707o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom Avengers Wallpaper photo wall mural Giant size + adhesive Marvel  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/XpAAAOSwWHdfiXtw/s-l1200.jpg' alt='Bedroom Avengers Wallpaper photo wall mural Giant size + adhesive Marvel  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1097">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/XpAAAOSwWHdfiXtw/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

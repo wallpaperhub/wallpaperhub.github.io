@@ -1,0 +1,129 @@
+<title>Stunning Space Backgrounds: Explore the Universe</title>
+                    <meta name="description" content="Discover captivating space backgrounds featuring galaxies, stars, and cosmic wonders. Perfect for inspiring creativity or enhancing your projects, these visuals bring the beauty of the universe to life. Explore now and elevate your designs with breathtaking cosmic imagery!">
+                    <meta name="keywords" content="space background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/space-background">
+                            <span itemprop="name">space background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Backgrounds: Explore the Universe</h1>
+                <p>Space backgrounds evoke the vastness of the universe, showcasing stunning celestial phenomena such as swirling galaxies, twinkling stars, and comet trails. These enchanting visuals create a sense of wonder and curiosity, inviting exploration into the unknown. Perfect for inspiring creativity and igniting imaginations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="624,000+ Outer Space Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1173451503/vector/space-background-with-realistic-nebula-and-shining-stars-colorful-cosmos-with-stardust-and.jpg?s=612x612&w=0&k=20&c=mEoyUd-7lXPnVzcDgN_LFdHTiGAnkzjlgtXEte9KMVc=' alt='624,000+ Outer Space Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1173451503/vector/space-background-with-realistic-nebula-and-shining-stars-colorful-cosmos-with-stardust-and.jpg?s=612x612&w=0&k=20&c=mEoyUd-7lXPnVzcDgN_LFdHTiGAnkzjlgtXEte9KMVc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Outer Space Backdrop Universe Background  Earth Moon Surface Furnished by NASA Planet Stars Photography Backdrop for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dNtlbI7fL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Outer Space Backdrop Universe Background  Earth Moon Surface Furnished by NASA Planet Stars Photography Backdrop for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dNtlbI7fL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/834/435/non_2x/beautiful-space-background-vector.jpg' alt='Space Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/834/435/non_2x/beautiful-space-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Background" Images – Browse 92,273 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/61/13/70/360_F_961137033_kXPIEWcfrXMfLGRrQVDGU21J05QtmclB.jpg' alt='Space Background" Images – Browse 92,273 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/61/13/70/360_F_961137033_kXPIEWcfrXMfLGRrQVDGU21J05QtmclB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Around A Star System Wallpaper | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg' alt='Around A Star System Wallpaper | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Space Background. Cosmoc Art Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-space-background-cosmoc-art-elements-image-furnished-nasa-beautiful-space-background-cosmoc-art-elements-145315589.jpg' alt='Beautiful Space Background. Cosmoc Art Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-space-background-cosmoc-art-elements-image-furnished-nasa-beautiful-space-background-cosmoc-art-elements-145315589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Theme Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/192/709/small_2x/ai-generated-nebula-high-quality-background-free-photo.jpg' alt='Space Theme Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/192/709/small_2x/ai-generated-nebula-high-quality-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : YMWQLAL Outer Space Backdrop for Baby Kids,Astronauts Rockets  Spaceship Universe Planets Background,Perfect for Children's Galaxy Themed  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hKrJRZbNL.jpg' alt='Amazon.com : YMWQLAL Outer Space Backdrop for Baby Kids,Astronauts Rockets  Spaceship Universe Planets Background,Perfect for Children's Galaxy Themed  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hKrJRZbNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Background Photos, Download The BEST Free Space Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felixmittermeier-1146134.jpg&fm=jpg' alt='Space Background Photos, Download The BEST Free Space Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felixmittermeier-1146134.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Space Background Images – Browse 2,635,610 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/05/64/24/360_F_1105642482_dKBMyR1spDBkTRsoRhSwVt5GIMY8bMb3.jpg' alt='Purple Space Background Images – Browse 2,635,610 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/05/64/24/360_F_1105642482_dKBMyR1spDBkTRsoRhSwVt5GIMY8bMb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

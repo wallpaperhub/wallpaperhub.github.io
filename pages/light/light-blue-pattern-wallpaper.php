@@ -1,0 +1,129 @@
+<title>Chic Light Blue Pattern Wallpaper for a Serene Space</title>
+                    <meta name="description" content="Discover stunning light blue pattern wallpaper that elevates your home decor. Perfect for creating a tranquil ambiance, our wallpaper is easy to install and maintain. Explore a variety of designs that add elegance to any room while ensuring a fresh, inviting atmosphere. Upgrade your space today!">
+                    <meta name="keywords" content="light blue pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-pattern-wallpaper">
+                            <span itemprop="name">light blue pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Light Blue Pattern Wallpaper for a Serene Space</h1>
+                <p>Light blue pattern wallpaper can transform any space into a calming oasis. The soothing hue paired with intricate designs adds elegance to your walls, making it ideal for bedrooms, living rooms, or offices. Easy to apply and maintain, this wallpaper brings a fresh, airy feel to your decor, enhancing the overall aesthetic effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook SC20022 Beckett Sketched Leaves Baby Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257639.jpg' alt='Seabrook SC20022 Beckett Sketched Leaves Baby Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damask Resource Library Petite Ogee Wallpaper - Light Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/DM5026_37a78786-ec82-40fe-a816-83cfdfbd4758.jpg?v=1641487744' alt='Damask Resource Library Petite Ogee Wallpaper - Light Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/DM5026_37a78786-ec82-40fe-a816-83cfdfbd4758.jpg?v=1641487744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Sanibel Light Blue Trail Light Blue Wallpaper Sample  3117-54516SAM - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1968f968-a45d-48cb-ac9b-46ebe11f3066/svn/chesapeake-wallpaper-samples-3117-54516sam-64_1000.jpg' alt='Chesapeake Sanibel Light Blue Trail Light Blue Wallpaper Sample  3117-54516SAM - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1968f968-a45d-48cb-ac9b-46ebe11f3066/svn/chesapeake-wallpaper-samples-3117-54516sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, Light Blue & White Plums and Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' alt='Blue, Light Blue & White Plums and Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook ET12702 Blooming Stripe Baby Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/255417.jpg' alt='Seabrook ET12702 Blooming Stripe Baby Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/255417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Scallop Sky Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_620x.jpg?v=1687300337' alt='Riley Scallop Sky Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_620x.jpg?v=1687300337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2927-81602 | Newport, Carmel Light Blue Baroque Florals Light Blue -  A-Street Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/2927-81602.jpg?v=1666205518' alt='2927-81602 | Newport, Carmel Light Blue Baroque Florals Light Blue -  A-Street Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/2927-81602.jpg?v=1666205518' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York Teahouse Floral Light Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6868149796910_20.jpg?v=1703235308' alt='York Teahouse Floral Light Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6868149796910_20.jpg?v=1703235308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annapolis Light Blue Crustation Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/annapolis-light-blue-crustation-wallpap-bmiq-l.jpg' alt='Annapolis Light Blue Crustation Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/annapolis-light-blue-crustation-wallpap-bmiq-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Vintage Wallpaper Blue and White Flowers on Light Blue">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2594/14367/vintage-wallpaper-281__49930.1685297818.jpg?c=2' alt='1950s Vintage Wallpaper Blue and White Flowers on Light Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2594/14367/vintage-wallpaper-281__49930.1685297818.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Floral Wallpaper Designs for Every Home</title>
+                    <meta name="description" content="Discover stunning floral wallpaper designs that elevate your home decor. From classic to contemporary styles, find the perfect floral pattern to bring life and elegance into your space. Transform your walls into a vibrant expression of nature with our curated collection of flower wallpapers.">
+                    <meta name="keywords" content="flowers of wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/flowers-of-wallpaper">
+                            <span itemprop="name">flowers of wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Floral Wallpaper Designs for Every Home</h1>
+                <p>The flowers of wallpaper bring vibrant color and natural beauty into any space. From delicate blossoms to bold floral patterns, these designs can transform walls into enchanting gardens. Ideal for adding warmth, sophistication, or a touch of whimsy, floral wallpaper suits various styles—be it modern, vintage, or eclectic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Pretty Flowers Wallpaper in Multicoloured">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?crop=center&height=850&v=1705418776&width=850' alt='Sample of Pretty Flowers Wallpaper in Multicoloured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?crop=center&height=850&v=1705418776&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Blooming Floral Wallpaper Peel and Stick Pink Impressionist Floral  Wall Mural Peony Roses Wallpaper Nursery Wall Decor (Camellia, 17.7" X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' alt='JiffDiff Blooming Floral Wallpaper Peel and Stick Pink Impressionist Floral  Wall Mural Peony Roses Wallpaper Nursery Wall Decor (Camellia, 17.7" X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abundance • Colorful Flower Wallpaper by Kip&Co • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2022/07/KIP-Abundance-1.jpg' alt='Abundance • Colorful Flower Wallpaper by Kip&Co • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2022/07/KIP-Abundance-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...">
+                                <img itemprop="contentUrl url" src='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' alt='Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndiaMART" />
+                                </span>
+                                <a href='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper Cute">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' alt='Flower Wallpaper Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper | CostaCover">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/collections/14x10_02a8f5d7-875d-4e5f-b772-77c2bf5a9504.jpg?v=1672948263' alt='Floral Wallpaper | CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/collections/14x10_02a8f5d7-875d-4e5f-b772-77c2bf5a9504.jpg?v=1672948263' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cup of flowers desktop, phone and tablet wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='http://makeandtell.com/cdn/shop/articles/cup-of-flowers-blogpic-2-scaled.jpg?v=1647741507' alt='Cup of flowers desktop, phone and tablet wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1829">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='http://makeandtell.com/cdn/shop/articles/cup-of-flowers-blogpic-2-scaled.jpg?v=1647741507' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Flowers Wallpaper Images – Browse 34,826 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/91/03/93/360_F_991039309_mUEdkLQ1ypdWlr1TcO87uMBn55ilNzT3.jpg' alt='Free Flowers Wallpaper Images – Browse 34,826 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/91/03/93/360_F_991039309_mUEdkLQ1ypdWlr1TcO87uMBn55ilNzT3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Flower Wallpapers For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/72/4b/02724bc62ceb98db7e6293120d0603af.jpg' alt='25 Beautiful Flower Wallpapers For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/72/4b/02724bc62ceb98db7e6293120d0603af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Floral Wallpapers. ideas | beautiful flowers, pretty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d3/68/d0/d368d0750af8796a9a44f90d6a976be7.jpg' alt='900+ Best Floral Wallpapers. ideas | beautiful flowers, pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d3/68/d0/d368d0750af8796a9a44f90d6a976be7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

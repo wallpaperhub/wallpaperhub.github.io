@@ -1,0 +1,129 @@
+<title>Vibrant South Park Wallpaper Designs for Fans</title>
+                    <meta name="description" content="Discover unique South Park wallpaper that showcases your favorite characters and scenes. Perfect for fans wanting to personalize their space with humor and style. Explore a variety of designs that bring the iconic animated series into your home and express your fandom like never before!">
+                    <meta name="keywords" content="south park wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/south-park-wallpaper">
+                            <span itemprop="name">south park wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant South Park Wallpaper Designs for Fans</h1>
+                <p>South Park wallpaper brings your favorite animated characters to life, perfect for fans of the iconic series. Transform your space with vibrant designs featuring Stan, Kyle, Cartman, and Kenny. Whether you prefer classic scenes or modern art styles, our South Park wallpaper offers a fun and unique way to express your love for this hilarious show.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpapers (77 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/8/f/97396-1080x1920-samsung-1080p-south-park-background-image.jpg' alt='South Park Wallpapers (77 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/8/f/97396-1080x1920-samsung-1080p-south-park-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A wallpaper for all south park fans (1080p) : r/southpark">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/1EbdrVfMty5jl-hVyKkmQ6Nz5bFcIfPS5--mTzhi15g.jpg?auto=webp&s=4e2d03e5b45d0a8f73ca6e43127848eb908532b7' alt='A wallpaper for all south park fans (1080p) : r/southpark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/1EbdrVfMty5jl-hVyKkmQ6Nz5bFcIfPS5--mTzhi15g.jpg?auto=webp&s=4e2d03e5b45d0a8f73ca6e43127848eb908532b7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic South Park: The Stick of Truth HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/507/thumb-1920-507042.jpg' alt='Epic South Park: The Stick of Truth HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/507/thumb-1920-507042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/668/668183.jpg' alt='South Park HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/668/668183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] South Park Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/south-park-lv4yf9kgk3jgf681.jpg' alt='100+] South Park Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/south-park-lv4yf9kgk3jgf681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kenny, south park, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/463/177/HD-wallpaper-kenny-south-park.jpg' alt='Kenny, south park, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/463/177/HD-wallpaper-kenny-south-park.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/50/75/7b/50757b4af801bc3d73bb7e21fd516e16.jpg' alt='South Park Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/50/75/7b/50757b4af801bc3d73bb7e21fd516e16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Super Heroes Wallpaper for phones. Enjoy. : r/southpark">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ovea4tvebxtz.png?auto=webp&s=9433acbb313fe636670c3d4eea63fe05a4cf7a28' alt='South Park Super Heroes Wallpaper for phones. Enjoy. : r/southpark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ovea4tvebxtz.png?auto=webp&s=9433acbb313fe636670c3d4eea63fe05a4cf7a28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpaper 4K, Animated series, Eric Cartman">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/south-park-animated-2880x1800-9373.jpg' alt='South Park Wallpaper 4K, Animated series, Eric Cartman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/south-park-animated-2880x1800-9373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/5f/c6/115fc6c875141c08bf421abc3df40c93.jpg' alt='South Park Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/5f/c6/115fc6c875141c08bf421abc3df40c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

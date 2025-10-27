@@ -1,0 +1,129 @@
+<title>Explore the Whimsical World of Battle Cats!</title>
+                    <meta name="description" content="Discover the vibrant universe of Battle Cats! Build your cat army, strategize against quirky foes, and enjoy unique gameplay. Join the fun and experience why this game has captivated players around the globe! Perfect for mobile play and easy to dive into.">
+                    <meta name="keywords" content="battle cats background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/battle-cats-background">
+                            <span itemprop="name">battle cats background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Whimsical World of Battle Cats!</h1>
+                <p>Battle Cats is a unique mobile game that features a colorful cast of cats as players build and deploy an army to conquer enemies. Set in a whimsical world where adorable yet powerful cats battle various foes, the game combines tower defense mechanics with strategy and humor. Enjoy diverse cat abilities and charming art design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Battle Cats Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/battle-cats/images/1/14/Bg000.png/revision/latest?cb=20160217191222' alt='Backgrounds | Battle Cats Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Battle Cats Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/battle-cats/images/1/14/Bg000.png/revision/latest?cb=20160217191222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fan-Made] Battle Cats Wallpaper I made : r/battlecats">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fan-made-battle-cats-wallpaper-i-made-v0-1911twqzclzc1.png?width=1920&format=png&auto=webp&s=8a2d5d9dc0aa6624b869c719c9c3e347f01c190a' alt='Fan-Made] Battle Cats Wallpaper I made : r/battlecats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fan-made-battle-cats-wallpaper-i-made-v0-1911twqzclzc1.png?width=1920&format=png&auto=webp&s=8a2d5d9dc0aa6624b869c719c9c3e347f01c190a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fan-Made] Battle Cats Background? : r/battlecats">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pczbzwl36hi01.png?auto=webp&s=d876c885f0b4c7118f4164aae945146f8855f676' alt='Fan-Made] Battle Cats Background? : r/battlecats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pczbzwl36hi01.png?auto=webp&s=d876c885f0b4c7118f4164aae945146f8855f676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - The Battle Cats Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikitide.net/battlecatswiki/thumb/e/e1/Bg002.png/181px-Bg002.png' alt='Backgrounds - The Battle Cats Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="181">
+                                <meta itemprop="height" content="120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Battle Cats Wiki - Miraheze" />
+                                </span>
+                                <a href='https://static.wikitide.net/battlecatswiki/thumb/e/e1/Bg002.png/181px-Bg002.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Battle cats ideas | cats, battle, kitty games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/d4/00/fe/d400febe38931e0aabf2d6df88798d62.jpg' alt='10 Battle cats ideas | cats, battle, kitty games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/d4/00/fe/d400febe38931e0aabf2d6df88798d62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Cats Official Promotional Poster/Wallpaper (found on Japan ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/I1aYU8o.jpg' alt='Battle Cats Official Promotional Poster/Wallpaper (found on Japan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/I1aYU8o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle cats with better graphics? | The Battle Cats Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6216/daf284b2ad5ccc3bf0c7315449fb6dfdc5c951c1_hq.jpg' alt='Battle cats with better graphics? | The Battle Cats Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6216/daf284b2ad5ccc3bf0c7315449fb6dfdc5c951c1_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="850 Battle Cats ideas | cats, battle, kitty games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/88/30/198830d2f71eca2130a9a56ee76efb0c.jpg' alt='850 Battle Cats ideas | cats, battle, kitty games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/88/30/198830d2f71eca2130a9a56ee76efb0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discuss Everything About Battle Cats Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/battle-cats/images/f/f9/Bg002.gif/revision/latest/smart/width/300/height/300?cb=20240430010641' alt='Discuss Everything About Battle Cats Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discuss Everything About Battle Cats Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/battle-cats/images/f/f9/Bg002.gif/revision/latest/smart/width/300/height/300?cb=20240430010641' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Battle Cats - Only a few more days left in 2020...... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3709163775807146' alt='The Battle Cats - Only a few more days left in 2020...... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1451">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3709163775807146' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

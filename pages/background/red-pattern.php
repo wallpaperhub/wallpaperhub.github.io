@@ -1,0 +1,129 @@
+<title>Vibrant Red Patterns: Energize Your Space</title>
+                    <meta name="description" content="Explore the exciting world of red patterns! Discover how this vibrant color can transform design, fashion, and art with its bold energy and captivating motifs. Perfect for any decor, let red patterns elevate your style and inspire creativity in your space.">
+                    <meta name="keywords" content="red pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-pattern">
+                            <span itemprop="name">red pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Patterns: Energize Your Space</h1>
+                <p>Red patterns evoke a sense of energy and vibrancy in design and fashion. They can range from bold, geometric shapes to delicate floral motifs. This captivating hue draws attention and can set the tone for both modern and traditional aesthetics, making it a favorite choice in textiles, art, and decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pattern Images – Browse 13,352,302 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/44/49/45/360_F_244494567_erJpfoaDckcpIxmjh6rxWkhgOrq4edA8.jpg' alt='Red Pattern Images – Browse 13,352,302 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/44/49/45/360_F_244494567_erJpfoaDckcpIxmjh6rxWkhgOrq4edA8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pattern Images – Browse 13,352,302 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/00/63/54/360_F_300635482_oH3BKeuJaRRByZY05SjdvribCcXmFf3t.jpg' alt='Red Pattern Images – Browse 13,352,302 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/00/63/54/360_F_300635482_oH3BKeuJaRRByZY05SjdvribCcXmFf3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless red abstract geometric rumpled pattern Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn3.vectorstock.com/i/1000x1000/71/72/seamless-red-abstract-geometric-rumpled-pattern-vector-6547172.jpg' alt='Seamless red abstract geometric rumpled pattern Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn3.vectorstock.com/i/1000x1000/71/72/seamless-red-abstract-geometric-rumpled-pattern-vector-6547172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,309,700+ Red Pattern Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1344749939/vector/dark-red-or-maroon-diagonal-stripes-textured-blank-empty-horizontal-christmas-vector.jpg?s=612x612&w=0&k=20&c=IaVd1E-PVzbOwZWFlo_jzMlNF2RUXAoESU2wUD-S6sc=' alt='1,309,700+ Red Pattern Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1344749939/vector/dark-red-or-maroon-diagonal-stripes-textured-blank-empty-horizontal-christmas-vector.jpg?s=612x612&w=0&k=20&c=IaVd1E-PVzbOwZWFlo_jzMlNF2RUXAoESU2wUD-S6sc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pattern Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675855291447-3266ba923327?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGF0dGVybnxlbnwwfHwwfHx8MA%3D%3D' alt='Red Pattern Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675855291447-3266ba923327?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGF0dGVybnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148907249.jpg' alt='Red Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148907249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Seamless Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/coloured-polygonal-background-design_1164-33.jpg' alt='Red Seamless Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/coloured-polygonal-background-design_1164-33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Pattern Red Images – Browse 178,798 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/93/45/87/360_F_693458710_V8vlIjgnB409Ermj0IbqahOEupTHHpwk.jpg' alt='Japanese Pattern Red Images – Browse 178,798 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/93/45/87/360_F_693458710_V8vlIjgnB409Ermj0IbqahOEupTHHpwk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Patterns, Digital Patterns, Seamless Red Pattern, Print Pattern,  Instant Download Pattern, Print Seamless Pattern, 300dpi, 12x12 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42797836/r/il/dd1ba2/4886255759/il_1080xN.4886255759_chi4.jpg' alt='Red Patterns, Digital Patterns, Seamless Red Pattern, Print Pattern,  Instant Download Pattern, Print Seamless Pattern, 300dpi, 12x12 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42797836/r/il/dd1ba2/4886255759/il_1080xN.4886255759_chi4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95,631 Red Pattern Geometric Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1604700367/vector/seamless-red-bauhaus-circle-pattern-background-wallpaper.jpg?s=612x612&w=gi&k=20&c=N-j_61a-ry_C1YV1FjqSOWk0nUNClFvhdxd6AgMMHIo=' alt='95,631 Red Pattern Geometric Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1604700367/vector/seamless-red-bauhaus-circle-pattern-background-wallpaper.jpg?s=612x612&w=gi&k=20&c=N-j_61a-ry_C1YV1FjqSOWk0nUNClFvhdxd6AgMMHIo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

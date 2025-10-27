@@ -1,0 +1,129 @@
+<title>Experience the Charm of a Western Saloon: A Peek into the Wild West</title>
+                    <meta name="description" content="Discover the rich history and vibrant atmosphere of western saloons. From classic cowboy games to unique drinks, explore what makes these iconic establishments the heart of the Wild West. Enjoy a nostalgic journey filled with adventure and camaraderie!">
+                    <meta name="keywords" content="western saloon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/western-saloon">
+                            <span itemprop="name">western saloon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Charm of a Western Saloon: A Peek into the Wild West</h1>
+                <p>A western saloon epitomizes the Wild West's spirit, where cowboys, outlaws, and travelers gather to unwind. These lively establishments serve drinks, play music, and host card games, often seen in classic cowboy films. Ornate wooden bars, swinging doors, and lively chatter fill the air, crafting an unforgettable old-time atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Glawry Western Saloon Backdrop 7Wx5H Feet Rustic Vintage  Farmhouse Wooden Barn Door Ranch Horse Cowboy Rodeo Wild West Baby Shower  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91PCxxxohKL.jpg' alt='Amazon.com : Glawry Western Saloon Backdrop 7Wx5H Feet Rustic Vintage  Farmhouse Wooden Barn Door Ranch Horse Cowboy Rodeo Wild West Baby Shower  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91PCxxxohKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Saloon Digital Backdrop, Old Time Western Portrait ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15632459/r/il/c0fb45/3679567284/il_fullxfull.3679567284_94nk.jpg' alt='Western Saloon Digital Backdrop, Old Time Western Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15632459/r/il/c0fb45/3679567284/il_fullxfull.3679567284_94nk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild west saloon hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/W816GD/wild-west-saloon-building-isolated-W816GD.jpg' alt='Wild west saloon hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/W816GD/wild-west-saloon-building-isolated-W816GD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Porters Western Saloon - About">
+                                <img itemprop="contentUrl url" src='https://static.spotapps.co/website_images/ab_websites/123976_website/about/about_slide_1.jpg' alt='Porters Western Saloon - About'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1230">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porters Western Saloon" />
+                                </span>
+                                <a href='https://static.spotapps.co/website_images/ab_websites/123976_website/about/about_slide_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Saloon by Tim Joyner">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/western-saloon-tim-joyner.jpg' alt='Western Saloon by Tim Joyner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tim Joyner - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/western-saloon-tim-joyner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old West Saloon">
+                                <img itemprop="contentUrl url" src='https://gcdn.daz3d.com/p/6490/i/old-west-saloon-large.jpg' alt='Old West Saloon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daz 3D" />
+                                </span>
+                                <a href='https://gcdn.daz3d.com/p/6490/i/old-west-saloon-large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Saloons: Designed & Built | The Barn Yard">
+                                <img itemprop="contentUrl url" src='https://www.barnyard.com/sites/default/files/styles/full_page/public/uploads/2020-12/16_x_20_Saloon_Stafford_CT-IMG_0304-0.jpg?itok=2RmYSL6e' alt='Western Saloons: Designed & Built | The Barn Yard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Barn Yard" />
+                                </span>
+                                <a href='https://www.barnyard.com/sites/default/files/styles/full_page/public/uploads/2020-12/16_x_20_Saloon_Stafford_CT-IMG_0304-0.jpg?itok=2RmYSL6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Old Western Saloon Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/a/8/f/a8fe8bf1-8852-4683-9a2c-f79e6ccfc163_large/old-western-saloon-stockcake.jpg' alt='Free Old Western Saloon Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/a/8/f/a8fe8bf1-8852-4683-9a2c-f79e6ccfc163_large/old-western-saloon-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Old West Saloon Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411972233/photo/empty-dirt-street-in-an-old-western-town-with-various-wooden-buildings-3d-illustration.jpg?s=612x612&w=0&k=20&c=d8CcRJrMp6UguK-8WeJmfv2fcHwVpbKqirOn4Zcgey8=' alt='3,700+ Old West Saloon Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411972233/photo/empty-dirt-street-in-an-old-western-town-with-various-wooden-buildings-3d-illustration.jpg?s=612x612&w=0&k=20&c=d8CcRJrMp6UguK-8WeJmfv2fcHwVpbKqirOn4Zcgey8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old West Saloon Greeting Card">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/2/old-west-saloon-geno-peoples.jpg?&targetx=0&targety=-12&imagewidth=700&imageheight=525&modelwidth=700&modelheight=500&backgroundcolor=6C5A4E&orientation=0' alt='Old West Saloon Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/2/old-west-saloon-geno-peoples.jpg?&targetx=0&targety=-12&imagewidth=700&imageheight=525&modelwidth=700&modelheight=500&backgroundcolor=6C5A4E&orientation=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

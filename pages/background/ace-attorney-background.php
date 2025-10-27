@@ -1,0 +1,129 @@
+<title>"Ace Attorney: Unraveling Legal Mysteries"</title>
+                    <meta name="description" content="Discover the captivating world of "Ace Attorney," where players defend clients in thrilling courtroom battles. Uncover mysteries, gather evidence, and experience engaging narratives packed with humor and legal twists. Perfect for fans of interactive storytelling and legal drama!">
+                    <meta name="keywords" content="ace attorney background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ace-attorney-background">
+                            <span itemprop="name">ace attorney background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Ace Attorney: Unraveling Legal Mysteries"</h1>
+                <p>"Ace Attorney" is a popular courtroom drama video game series created by Capcom, first released in 2001. Players assume the role of defense attorneys, utilizing investigation and cross-examination tactics to uncover the truth. The game blends humor and legal strategy, featuring memorable characters and compelling storylines that captivate fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ace Attorney Trilogy HD Courtroom Background Part5 by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif2gf-43f96709-d046-4058-9645-7ba62a9acfb5.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part5_by_rapbattleeditor0510_ddif2gf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMmdmLTQzZjk2NzA5LWQwNDYtNDA1OC05NjQ1LTdiYTYyYTlhY2ZiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yPtbNfxR1Egpo-_p0d-4KseAKbsoCqmk2dzaAcvGMJM' alt='Ace Attorney Trilogy HD Courtroom Background Part5 by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif2gf-43f96709-d046-4058-9645-7ba62a9acfb5.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part5_by_rapbattleeditor0510_ddif2gf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMmdmLTQzZjk2NzA5LWQwNDYtNDA1OC05NjQ1LTdiYTYyYTlhY2ZiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yPtbNfxR1Egpo-_p0d-4KseAKbsoCqmk2dzaAcvGMJM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got the fresh zoom background for yall : r/AceAttorney">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/72moj6yyses41.jpg' alt='Got the fresh zoom background for yall : r/AceAttorney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/72moj6yyses41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ace Attorney Trilogy HD Courtroom Background Part4 by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif28z-d8498818-0069-462d-bf12-c2746aa51d0d.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part4_by_rapbattleeditor0510_ddif28z-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMjh6LWQ4NDk4ODE4LTAwNjktNDYyZC1iZjEyLWMyNzQ2YWE1MWQwZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AodJ6Y6bMdqVS4rHQS2Sa3rl-3qhRW3akXIgX_AjByQ' alt='Ace Attorney Trilogy HD Courtroom Background Part4 by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif28z-d8498818-0069-462d-bf12-c2746aa51d0d.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part4_by_rapbattleeditor0510_ddif28z-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMjh6LWQ4NDk4ODE4LTAwNjktNDYyZC1iZjEyLWMyNzQ2YWE1MWQwZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AodJ6Y6bMdqVS4rHQS2Sa3rl-3qhRW3akXIgX_AjByQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Courtroom | Ace Attorney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aceattorney/images/e/e9/Courtroom_No._5.jpg/revision/latest?cb=20240125154006' alt='Courtroom | Ace Attorney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ace Attorney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aceattorney/images/e/e9/Courtroom_No._5.jpg/revision/latest?cb=20240125154006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to set the background when the gallery is talking : r/AceAttorney">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-to-set-the-background-when-the-gallery-is-talking-v0-pj7h6mfn88ub1.png?width=1922&format=png&auto=webp&s=f8637d0b7bd6f5feda5cfaff8dfc7e15a8ba3544' alt='How to set the background when the gallery is talking : r/AceAttorney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1922">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-to-set-the-background-when-the-gallery-is-talking-v0-pj7h6mfn88ub1.png?width=1922&format=png&auto=webp&s=f8637d0b7bd6f5feda5cfaff8dfc7e15a8ba3544' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ace Attorney Trilogy HD Courtroom Background Part3 by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif23y-39479be2-16db-4bb6-af99-709c70ffd6fd.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part3_by_rapbattleeditor0510_ddif23y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMjN5LTM5NDc5YmUyLTE2ZGItNGJiNi1hZjk5LTcwOWM3MGZmZDZmZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1Uu285np5H7dvytCaYL0BA9e7yOPFrTwOqexo7U29fQ' alt='Ace Attorney Trilogy HD Courtroom Background Part3 by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9af4c12f-a0d9-48ab-a9d3-240148699eaf/ddif23y-39479be2-16db-4bb6-af99-709c70ffd6fd.png/v1/fill/w_1280,h_720,q_80,strp/ace_attorney_trilogy_hd_courtroom_background_part3_by_rapbattleeditor0510_ddif23y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWFmNGMxMmYtYTBkOS00OGFiLWE5ZDMtMjQwMTQ4Njk5ZWFmXC9kZGlmMjN5LTM5NDc5YmUyLTE2ZGItNGJiNi1hZjk5LTcwOWM3MGZmZDZmZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1Uu285np5H7dvytCaYL0BA9e7yOPFrTwOqexo7U29fQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo Justice: Ace Attorney Trilogy｜CAPCOM">
+                                <img itemprop="contentUrl url" src='https://www.ace-attorney.com/aj-trilogy/assets/images/top/top_bg01_pc.jpg' alt='Apollo Justice: Ace Attorney Trilogy｜CAPCOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ace Attorney" />
+                                </span>
+                                <a href='https://www.ace-attorney.com/aj-trilogy/assets/images/top/top_bg01_pc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy about: Phoenix Wright: Ace Attorney Trilogy – Klardendum">
+                                <img itemprop="contentUrl url" src='https://klardendum.com/wp-content/uploads/2020/06/pwaat6.jpg' alt='Happy about: Phoenix Wright: Ace Attorney Trilogy – Klardendum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Klardendum" />
+                                </span>
+                                <a href='https://klardendum.com/wp-content/uploads/2020/06/pwaat6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Technobubble: Layton vs. Phoenix Wright review">
+                                <img itemprop="contentUrl url" src='https://www.rgj.com/gcdn/-mm-/602c0a60e22d1eefb565fb669ec89cb690017317/c=7-0-1824-1027/local/-/media/Reno/Reno/2014/08/29/1409339583000-Layton-Vs-Ace-Attorney-court.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp' alt='Technobubble: Layton vs. Phoenix Wright review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.rgj.com" />
+                                </span>
+                                <a href='https://www.rgj.com/gcdn/-mm-/602c0a60e22d1eefb565fb669ec89cb690017317/c=7-0-1824-1027/local/-/media/Reno/Reno/2014/08/29/1409339583000-Layton-Vs-Ace-Attorney-court.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destroyed Courtroom Art - Phoenix Wright: Ace Attorney - Dual ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/dc/f5/8ddcf5d5a41f33e9e40abfd5f042ec77.jpg' alt='Destroyed Courtroom Art - Phoenix Wright: Ace Attorney - Dual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/dc/f5/8ddcf5d5a41f33e9e40abfd5f042ec77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Purple Lightning Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of striking purple lightning wallpapers for your iPhone. Energize your device with these dynamic designs that blend artistic flair and vibrant colors. Perfect for anyone seeking a bold and unique home screen aesthetic!">
+                    <meta name="keywords" content="iphone purple lightning wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-purple-lightning-wallpaper">
+                            <span itemprop="name">iphone purple lightning wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Lightning Wallpapers for iPhone</h1>
+                <p>Transform your iPhone's look with stunning purple lightning wallpapers. These vibrant designs feature electric shades of purple, perfect for adding a touch of energy and style to your device. Whether you prefer abstract patterns or scenic lightning strikes, these wallpapers encapsulate a dynamic aura that electrifies your home screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/16/da/5716dafb7e386663769680b42ec088d9.jpg' alt='Purple Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/16/da/5716dafb7e386663769680b42ec088d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Lightning Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/stunning-display-of-purple-lightning-in-night-sky-bqvt6or35slfwy50.jpg' alt='100+] Purple Lightning Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/stunning-display-of-purple-lightning-in-night-sky-bqvt6or35slfwy50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/b8/67/bbb8676882668e9deb4eab38246bc838.jpg' alt='20+ iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/b8/67/bbb8676882668e9deb4eab38246bc838.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Purple Lightning Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1598887790298-ff87be733362?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHVycGxlJTIwbGlnaHRuaW5nfGVufDB8fDB8fHww' alt='30,000+ Purple Lightning Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1598887790298-ff87be733362?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHVycGxlJTIwbGlnaHRuaW5nfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lightning iPhone Wallpaper – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/09/04115641/Storm-lightning-cloud-iPhone-Wallpaper-1080x1920.jpg' alt='Purple Lightning iPhone Wallpaper – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/09/04115641/Storm-lightning-cloud-iPhone-Wallpaper-1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple lighting digital wallpaper | free photos | UIHere">
+                                <img itemprop="contentUrl url" src='https://c7.uihere.com/files/878/836/1013/flash-thunderstorm-super-cell-weather.jpg' alt='Purple lighting digital wallpaper | free photos | UIHere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UIHere" />
+                                </span>
+                                <a href='https://c7.uihere.com/files/878/836/1013/flash-thunderstorm-super-cell-weather.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Best Purple Lightning ideas | lightning, wild weather, amazing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d0/12/6b/d0126b60818022cf62cfd2b5aa1bb77d.jpg' alt='17 Best Purple Lightning ideas | lightning, wild weather, amazing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d0/12/6b/d0126b60818022cf62cfd2b5aa1bb77d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning, city, dark, nature, night, purple, rain, storme, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/110/902/HD-wallpaper-lightning-city-dark-nature-night-purple-rain-storme.jpg' alt='Lightning, city, dark, nature, night, purple, rain, storme, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/110/902/HD-wallpaper-lightning-city-dark-nature-night-purple-rain-storme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Iphone Light Illusion Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/lightning-over-city-neon-purple-iphone-9ihpkjct22pvefo0.webp' alt='Neon Purple Iphone Light Illusion Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/lightning-over-city-neon-purple-iphone-9ihpkjct22pvefo0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lightning Phone Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/purple-lightning-phone-wallpaper-4.webp' alt='Purple Lightning Phone Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/purple-lightning-phone-wallpaper-4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

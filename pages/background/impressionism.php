@@ -1,0 +1,129 @@
+<title>Explore the Beauty of Impressionism: Art That Captures Life</title>
+                    <meta name="description" content="Discover the essence of Impressionism, an innovative art movement that transformed the visual narrative with vibrant colors and light. Learn about its key figures, techniques, and enduring influence on modern art. Experience the beauty of everyday moments expressed through this captivating style.">
+                    <meta name="keywords" content="impressionism">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/impressionism">
+                            <span itemprop="name">impressionism</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Beauty of Impressionism: Art That Captures Life</h1>
+                <p>Impressionism is an art movement that emerged in the late 19th century, characterized by a focus on capturing the effects of light, color, and everyday scenes. Renowned artists like Monet, Degas, and Renoir challenged traditional techniques, opting for loose brushwork and vibrant palettes, creating lively representations of the world around them.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressionism - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/300px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg' alt='Impressionism - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/300px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smarthistory – Impressionism as optical realism: Monet">
+                                <img itemprop="contentUrl url" src='https://smarthistory.org/wp-content/uploads/2019/04/Monet-Camille.jpg' alt='Smarthistory – Impressionism as optical realism: Monet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2459">
+                                <meta itemprop="height" content="2020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarthistory" />
+                                </span>
+                                <a href='https://smarthistory.org/wp-content/uploads/2019/04/Monet-Camille.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give Your Home a Colorful Touch: Nature Metal Posters - Linked Frame">
+                                <img itemprop="contentUrl url" src='https://linkedframe.com/cdn/shop/articles/thumbnail_7d6bc37b-05a5-4e40-8ccd-d349bbd8d53f.jpg?v=1707493923&width=1100' alt='Give Your Home a Colorful Touch: Nature Metal Posters - Linked Frame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Give Your Home a Colorful Touch: Nature Metal Posters - Linked Frame" />
+                                </span>
+                                <a href='https://linkedframe.com/cdn/shop/articles/thumbnail_7d6bc37b-05a5-4e40-8ccd-d349bbd8d53f.jpg?v=1707493923&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressionism Posters & Wall Art Prints | Buy Online at EuroPosters">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/750/215433.jpg' alt='Impressionism Posters & Wall Art Prints | Buy Online at EuroPosters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/750/215433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Impressionism Art Movement – & Why Is It Important ...">
+                                <img itemprop="contentUrl url" src='https://thefusioneer.com/wp-content/uploads/2022/09/AdobeStock_431196887_Editorial_Use_Only-1024x989.jpeg' alt='What is the Impressionism Art Movement – & Why Is It Important ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kirby Foundation" />
+                                </span>
+                                <a href='https://thefusioneer.com/wp-content/uploads/2022/09/AdobeStock_431196887_Editorial_Use_Only-1024x989.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Probing Question: Why is Impressionist art so popular? | Penn ...">
+                                <img itemprop="contentUrl url" src='https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/1024px-Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project_web.jpg' alt='Probing Question: Why is Impressionist art so popular? | Penn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penn State" />
+                                </span>
+                                <a href='https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/1024px-Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressionist Painting Techniques - Jackson's Art BlogJackson's ...">
+                                <img itemprop="contentUrl url" src='https://www.jacksonsart.com/blog/wp-content/uploads/2015/04/claude-monet-impression-sunrise.jpg' alt='Impressionist Painting Techniques - Jackson's Art BlogJackson's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jackson's Art" />
+                                </span>
+                                <a href='https://www.jacksonsart.com/blog/wp-content/uploads/2015/04/claude-monet-impression-sunrise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Famous Impressionist Artists and Their Masterpieces">
+                                <img itemprop="contentUrl url" src='http://www.parblo.com/cdn/shop/articles/5_Famous_Impressionist_Artists_and_Their_Masterpieces.png?v=1561469589' alt='5 Famous Impressionist Artists and Their Masterpieces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parblo" />
+                                </span>
+                                <a href='http://www.parblo.com/cdn/shop/articles/5_Famous_Impressionist_Artists_and_Their_Masterpieces.png?v=1561469589' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Impressionism - Artsper Magazine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.artsper.com/wp-content/uploads/2019/04/impressionist-header.jpg?fit=1200%2C675&ssl=1' alt='Understanding Impressionism - Artsper Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magazine Artsper" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.artsper.com/wp-content/uploads/2019/04/impressionist-header.jpg?fit=1200%2C675&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Impressionism? | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FXwujMOAfe-PpZc2O8NmFUQ%252Fmonetmag.jpg&width=1200' alt='What Is Impressionism? | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FXwujMOAfe-PpZc2O8NmFUQ%252Fmonetmag.jpg&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

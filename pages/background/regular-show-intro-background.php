@@ -1,0 +1,129 @@
+<title>"Exploring the Iconic Regular Show Intro Background"</title>
+                    <meta name="description" content="Discover the iconic intro background of "Regular Show"! Dive into the colorful, whimsical animation that perfectly encapsulates the comedic adventures of Mordecai and Rigby. Experience the unique aesthetics that make the show stand out in animated television.">
+                    <meta name="keywords" content="regular show intro background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/regular-show-intro-background">
+                            <span itemprop="name">regular show intro background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Iconic Regular Show Intro Background"</h1>
+                <p>The intro background of "Regular Show" is iconic, a blend of vibrant colors and whimsical animation that sets the tone for the series. It features characters Mordecai and Rigby, amid surreal landscapes, showcasing their everyday antics in a surreal park setting. This memorable opening captures the essence of their comedic misadventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show Space Background Wallpaper [4k/3840x2160] : r/regularshow">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o6jblcy8m6w51.jpg' alt='Regular Show Space Background Wallpaper [4k/3840x2160] : r/regularshow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o6jblcy8m6w51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show - Intro (HD) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IN22qZp2Szk/maxresdefault.jpg' alt='Regular Show - Intro (HD) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IN22qZp2Szk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="title and episode card's background : r/regularshow">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/title-and-episode-cards-background-v0-no4h9m3pywy91.png?width=640&crop=smart&auto=webp&s=c230dd24fbc58173d8e9ca053ccfb3489d493a37' alt='title and episode card's background : r/regularshow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/title-and-episode-cards-background-v0-no4h9m3pywy91.png?width=640&crop=smart&auto=webp&s=c230dd24fbc58173d8e9ca053ccfb3489d493a37' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream episode Regular Show Intro by Voice Crack Central podcast ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000522055359-2zm9ue-t500x500.jpg' alt='Stream episode Regular Show Intro by Voice Crack Central podcast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000522055359-2zm9ue-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show - Intro - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7AxA8v8ceFY/hqdefault.jpg' alt='Regular Show - Intro - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7AxA8v8ceFY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the best regular show episode and why? : r/regularshow">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-the-best-regular-show-episode-and-why-v0-7vhrj4vuk0od1.jpeg?width=640&crop=smart&auto=webp&s=9d42e3a0d94b82f64d0cba138ff5494cc55c31ec' alt='What is the best regular show episode and why? : r/regularshow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-the-best-regular-show-episode-and-why-v0-7vhrj4vuk0od1.jpeg?width=640&crop=smart&auto=webp&s=9d42e3a0d94b82f64d0cba138ff5494cc55c31ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show Theme Song">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l13QI3mzRXE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDXksePjOO5sv8-t6ClCci_BXD4YA' alt='Regular Show Theme Song'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l13QI3mzRXE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDXksePjOO5sv8-t6ClCci_BXD4YA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular core | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/97cd9398-b0c8-46e3-92fa-aff2f0a839b6/scale-to-width/755' alt='Regular core | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regular Show Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/97cd9398-b0c8-46e3-92fa-aff2f0a839b6/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show/First Day | Cartoon Network/Adult Swim Archives Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cnas/images/e/eb/Regular_Show_first_day_title_card.jpg/revision/latest?cb=20240728171356' alt='Regular Show/First Day | Cartoon Network/Adult Swim Archives Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Network/Adult Swim Archives Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cnas/images/e/eb/Regular_Show_first_day_title_card.jpg/revision/latest?cb=20240728171356' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regular Show Intro (PAL)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/V2oHsolh8xY/sddefault.jpg' alt='Regular Show Intro (PAL)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/V2oHsolh8xY/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

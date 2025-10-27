@@ -1,0 +1,129 @@
+<title>Adorable Football Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a delightful range of cute football wallpapers that add a playful touch to your device. Perfect for all ages, these charming designs showcase your love for the game while brightening your screen. Download now and enjoy a fun, sporty vibe every time you unlock your phone!">
+                    <meta name="keywords" content="cute football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-football-wallpaper">
+                            <span itemprop="name">cute football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Football Wallpapers for Fans</h1>
+                <p>Looking for adorable football wallpapers to enhance your device? Explore our collection of cute football backgrounds featuring charming illustrations and playful designs. Whether you're a die-hard fan or just love the game, these wallpapers will brighten your screen and show off your passion. Perfect for kids and adults alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football & Hearts - Pink Fabric byandreschavesdesigns">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14439684/p/f/m/TDkLLGSJqeO-CwtlR9yh99SyeYhpNlOGg5T_cJtLlHaPX-a3qbmCUbs/Football_%26_Hearts_-_Pink.jpg' alt='Football & Hearts - Pink Fabric byandreschavesdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14439684/p/f/m/TDkLLGSJqeO-CwtlR9yh99SyeYhpNlOGg5T_cJtLlHaPX-a3qbmCUbs/Football_%26_Hearts_-_Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football now iPhone background! The cutest girly football season ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/34/b5/8234b5301be25e097f85c082962dbd13.jpg' alt='Football now iPhone background! The cutest girly football season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/34/b5/8234b5301be25e097f85c082962dbd13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Football Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17390836/p/f/m/WEn0eJ15UtKk5W30qCn-T1ziRoi9viGDJD7vcZTvdCrncOZ9tZtUDeE/Football%20%26%20Stars%20-%20White%20-%20Extra%20Small.jpg' alt='Cute Football Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17390836/p/f/m/WEn0eJ15UtKk5W30qCn-T1ziRoi9viGDJD7vcZTvdCrncOZ9tZtUDeE/Football%20%26%20Stars%20-%20White%20-%20Extra%20Small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Football Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13273419/p/f/m/eRHn-GJFsAU1lu-KwaZsMU_2oRYJcmKPhnlB1jzdx7w165m-MtVqMnM/Girly%20Football.jpg' alt='Girly Football Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13273419/p/f/m/eRHn-GJFsAU1lu-KwaZsMU_2oRYJcmKPhnlB1jzdx7w165m-MtVqMnM/Girly%20Football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tonal Brown Grey and White Football Fabric, Sports By Brittney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/45/e3/c245e37f049a11183fad49ffc5e92c6f.jpg' alt='Tonal Brown Grey and White Football Fabric, Sports By Brittney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/45/e3/c245e37f049a11183fad49ffc5e92c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheetah football digital seamless pattern for fabrics and wallpapers,  Football season digital paper file for fabrics, sports seamless file">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/59a24d/3395250431/il_570xN.3395250431_muf1.jpg' alt='Cheetah football digital seamless pattern for fabrics and wallpapers,  Football season digital paper file for fabrics, sports seamless file'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/59a24d/3395250431/il_570xN.3395250431_muf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Football Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13566122/p/f/m/ax8epQFMPJTf3staPJVbEtrKs9CQUo0MePQ4O9FTvrx5UtAiHr-40s0/SMALL%20boho%20daisy%20football%20fabric%20-%20boho%20daisy%2C%20fall%20floral%2C%20boho%20floral%2C%20football.jpg' alt='Girls Football Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13566122/p/f/m/ax8epQFMPJTf3staPJVbEtrKs9CQUo0MePQ4O9FTvrx5UtAiHr-40s0/SMALL%20boho%20daisy%20football%20fabric%20-%20boho%20daisy%2C%20fall%20floral%2C%20boho%20floral%2C%20football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football now iPhone background! The cutest girly football season ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/cf/42/4dcf425d8505ac38fdf3520268be5d99.jpg' alt='Football now iPhone background! The cutest girly football season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/cf/42/4dcf425d8505ac38fdf3520268be5d99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Football Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12015175/p/f/m/5SRJelZvTnS_k2ML5tRLhQ6UlzrKFxq1l21DSF4JgCApYWewVnMI7ErFJw/SMALL%20%20cheetah%20football%20-%20leopard%20print%20football%20fabric%20-%20girls%20football.jpg' alt='Cute Football Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12015175/p/f/m/5SRJelZvTnS_k2ML5tRLhQ6UlzrKFxq1l21DSF4JgCApYWewVnMI7ErFJw/SMALL%20%20cheetah%20football%20-%20leopard%20print%20football%20fabric%20-%20girls%20football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's not just a game">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/65/74/cd6574e651fac58ee7cde326588be7f8.jpg' alt='It's not just a game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/65/74/cd6574e651fac58ee7cde326588be7f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

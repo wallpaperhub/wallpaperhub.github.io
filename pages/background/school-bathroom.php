@@ -1,0 +1,129 @@
+<title>Essential School Bathroom Guide: Hygiene and Comfort</title>
+                    <meta name="description" content="Explore the importance of clean and accessible school bathrooms. Discover tips for maintaining hygiene, ensuring comfort, and fostering a positive environment for students. Keep their health a priority with proper facilities and routine upkeep!">
+                    <meta name="keywords" content="school bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/school-bathroom">
+                            <span itemprop="name">school bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential School Bathroom Guide: Hygiene and Comfort</h1>
+                <p>School bathrooms serve as essential facilities for students, providing a space for hygiene and comfort during busy school days. Cleanliness and accessibility are crucial for promoting health and well-being. Schools must ensure adequate supplies, privacy, and regular maintenance to create an inviting environment for all students.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School bathrooms: too often a trying experience – The Saratoga Falcon">
+                                <img itemprop="contentUrl url" src='https://saratogafalcon.org/wp-content/uploads/2023/05/Screenshot-2023-04-28-at-9.27.27-PM-1024x762.png' alt='School bathrooms: too often a trying experience – The Saratoga Falcon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Saratoga Falcon" />
+                                </span>
+                                <a href='https://saratogafalcon.org/wp-content/uploads/2023/05/Screenshot-2023-04-28-at-9.27.27-PM-1024x762.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Simple Checklist for School Bathroom Cleaning & Maintenance">
+                                <img itemprop="contentUrl url" src='https://www.schoolfix.com/media/wysiwyg/school-bathroom-maintenance-checklist-blog.png' alt='A Simple Checklist for School Bathroom Cleaning & Maintenance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School Fix" />
+                                </span>
+                                <a href='https://www.schoolfix.com/media/wysiwyg/school-bathroom-maintenance-checklist-blog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BAD BEHAVIOR IN SCHOOL BATHHROMS – The East Rock Record">
+                                <img itemprop="contentUrl url" src='https://eastrockrecord.org/wp-content/uploads/2022/02/bathroom3.jpeg' alt='BAD BEHAVIOR IN SCHOOL BATHHROMS – The East Rock Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The East Rock Record" />
+                                </span>
+                                <a href='https://eastrockrecord.org/wp-content/uploads/2022/02/bathroom3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tolerating underclassmen in the bathrooms | The Scroll">
+                                <img itemprop="contentUrl url" src='https://fnhscroll.org/wp-content/uploads/2023/01/4UDzRvi3PNyuGuQ9OoqtYnnreg4w9Um11tYNxzAo.jpg' alt='Tolerating underclassmen in the bathrooms | The Scroll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Scroll" />
+                                </span>
+                                <a href='https://fnhscroll.org/wp-content/uploads/2023/01/4UDzRvi3PNyuGuQ9OoqtYnnreg4w9Um11tYNxzAo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Moment of Privacy -- Spaces4Learning">
+                                <img itemprop="contentUrl url" src='https://spaces4learning.com/-/media/EDU/SPM/Images/2018/04/Privacy01x300.jpg' alt='A Moment of Privacy -- Spaces4Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spaces4Learning" />
+                                </span>
+                                <a href='https://spaces4learning.com/-/media/EDU/SPM/Images/2018/04/Privacy01x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="an average school bathroom and hallway be like | Hypixel Forums">
+                                <img itemprop="contentUrl url" src='https://hypixel.net/attachments/2831525/' alt='an average school bathroom and hallway be like | Hypixel Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="846">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypixel" />
+                                </span>
+                                <a href='https://hypixel.net/attachments/2831525/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make a Positive Impact by Updating Your School Bathrooms">
+                                <img itemprop="contentUrl url" src='https://www.schoolfix.com/media/wysiwyg/SchoolFix/Blog/ss-partition-stalls.jpg' alt='Make a Positive Impact by Updating Your School Bathrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School Fix" />
+                                </span>
+                                <a href='https://www.schoolfix.com/media/wysiwyg/SchoolFix/Blog/ss-partition-stalls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Bathroom Breaks Are Making Schools Less Safe and a Solution to ...">
+                                <img itemprop="contentUrl url" src='https://www.campussafetymagazine.com/wp-content/uploads/2023/08/school-bathroom.jpg' alt='Why Bathroom Breaks Are Making Schools Less Safe and a Solution to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campus Safety Magazine" />
+                                </span>
+                                <a href='https://www.campussafetymagazine.com/wp-content/uploads/2023/08/school-bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School washroom hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/F04AEB/clean-washroom-and-toilets-in-a-school-F04AEB.jpg' alt='School washroom hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/F04AEB/clean-washroom-and-toilets-in-a-school-F04AEB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keeping the boys' bathrooms clean – THE TRIBE TRIBUNE">
+                                <img itemprop="contentUrl url" src='https://tribetribune.com/wp-content/uploads/2018/04/IMG_2155-e1523645076429-900x675.jpg' alt='Keeping the boys' bathrooms clean – THE TRIBE TRIBUNE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the tribe tribune" />
+                                </span>
+                                <a href='https://tribetribune.com/wp-content/uploads/2018/04/IMG_2155-e1523645076429-900x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

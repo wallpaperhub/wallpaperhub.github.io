@@ -1,0 +1,129 @@
+<title>Apocalypse Background: Unveiling the End Times</title>
+                    <meta name="description" content="Explore the intriguing backdrop of an apocalypse. Discover the themes of survival and despair as civilizations collapse. This short read delves into the haunting transformations of our world, making it essential for anyone fascinated by the end times and post-apocalyptic narratives.">
+                    <meta name="keywords" content="apocalypse background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/apocalypse-background">
+                            <span itemprop="name">apocalypse background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Apocalypse Background: Unveiling the End Times</h1>
+                <p>In a world overshadowed by chaos and despair, the apocalypse serves as a haunting backdrop. With civilizations crumbling under the weight of disasters, the Earth transforms into a desolate landscape. Survivors navigate through danger, facing the remnants of humanity and the harsh realities of a new existence. The struggle for survival ignites hope amidst oblivion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post Apocalyptic Background Images – Browse 50,080 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/41/11/85/360_F_841118529_IQU5aoOkSBoP9btciOf9Dxtrqt5ZUJBb.jpg' alt='Post Apocalyptic Background Images – Browse 50,080 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/41/11/85/360_F_841118529_IQU5aoOkSBoP9btciOf9Dxtrqt5ZUJBb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,100+ Apocalypse Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/478995576/photo/view-of-the-destroyed-city.jpg?s=612x612&w=0&k=20&c=JS9ieDwryRNSCKvilpP9TXWuXAy86TnPJ3MNJW0QLI0=' alt='69,100+ Apocalypse Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/478995576/photo/view-of-the-destroyed-city.jpg?s=612x612&w=0&k=20&c=JS9ieDwryRNSCKvilpP9TXWuXAy86TnPJ3MNJW0QLI0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,100+ Apocalypse Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1432569055/photo/ruins-of-a-city-apocalyptic-landscape.jpg?s=612x612&w=0&k=20&c=bgnQLzycxvC_7lcVBKwd36KOppmh1W-RK24nyguJwYU=' alt='69,100+ Apocalypse Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1432569055/photo/ruins-of-a-city-apocalyptic-landscape.jpg?s=612x612&w=0&k=20&c=bgnQLzycxvC_7lcVBKwd36KOppmh1W-RK24nyguJwYU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apocalypse Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1629012442785-7b61081374f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBvY2FseXBzZXxlbnwwfHwwfHx8MA%3D%3D' alt='Apocalypse Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1629012442785-7b61081374f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBvY2FseXBzZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruined Cityscape On Sunset Back View">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1099313591/thumb/1.jpg?ip=x480' alt='Ruined Cityscape On Sunset Back View'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1099313591/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Post Apocalyptic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/140/thumb-1920-140624.jpg' alt='Download Sci Fi Post Apocalyptic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/140/thumb-1920-140624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apocalyptic background Stock Photos, Royalty Free Apocalyptic ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1030985/2708/i/450/depositphotos_27088623-stock-photo-background-apocalyptic-scenario-v2.jpg' alt='Apocalyptic background Stock Photos, Royalty Free Apocalyptic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1030985/2708/i/450/depositphotos_27088623-stock-photo-background-apocalyptic-scenario-v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Post-Apocalyptic Sci-Fi Cityscape">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/839/thumb-1920-83970.jpg' alt='HD Wallpaper: Post-Apocalyptic Sci-Fi Cityscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/839/thumb-1920-83970.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apocalyptic Backgrounds - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/06/bc/2e06bcf87ab63a049c7d8d7a9be7d185.jpg' alt='Apocalyptic Backgrounds - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/06/bc/2e06bcf87ab63a049c7d8d7a9be7d185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apocalyptic background Poster">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/48/69/99/19/700_FO48699919_a86f0b42915b032737f3f34b38ffb289.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-apocalyptic-background.jpg.jpg' alt='Apocalyptic background Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/48/69/99/19/700_FO48699919_a86f0b42915b032737f3f34b38ffb289.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-apocalyptic-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

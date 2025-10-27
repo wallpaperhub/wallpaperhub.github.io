@@ -1,0 +1,129 @@
+<title>Cinderella PNG Images: Magic for Your Projects</title>
+                    <meta name="description" content="Discover a collection of enchanting Cinderella PNG images, ideal for various creative projects. Perfect for invitations, scrapbooking, and digital art, these transparent images bring a fairy tale touch to your designs. Easy to use and beautifully crafted, find the magic of Cinderella today!">
+                    <meta name="keywords" content="cinderella png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cinderella-png">
+                            <span itemprop="name">cinderella png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cinderella PNG Images: Magic for Your Projects</h1>
+                <p>Cinderella PNG images are charming illustrations of the beloved fairy tale character, perfect for digital scrapbooking, graphic design, and creating invitations. Whether you're crafting a party theme or a personal project, these transparent background images make it easy to add a touch of magic to your work. Explore a range of styles and poses!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/724/82/png-clipart-cinderella-cinderella-princesas-rapunzel-disney-princess-cenderella-prince-fictional-character.png' alt='Cinderella png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/724/82/png-clipart-cinderella-cinderella-princesas-rapunzel-disney-princess-cenderella-prince-fictional-character.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella PNG transparent image download, size: 920x1086px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cinderella_PNG18.png' alt='Cinderella PNG transparent image download, size: 920x1086px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cinderella_PNG18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella PNG transparent image download, size: 1867x2429px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cinderella_PNG12.png' alt='Cinderella PNG transparent image download, size: 1867x2429px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1867">
+                                <meta itemprop="height" content="2429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cinderella_PNG12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cinderella PNG Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/31/5b/53/315b5306913c7f04cee3e1828f0cc5d8.jpg' alt='Download Cinderella PNG Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/31/5b/53/315b5306913c7f04cee3e1828f0cc5d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b57fbd9996e24bc43bd43.png' alt='Cinderella transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b57fbd9996e24bc43bd43.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Cinderella Clipart​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Transparent_Cinderella_Clipart.png?m=1629784167' alt='Transparent Cinderella Clipart​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2694">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Transparent_Cinderella_Clipart.png?m=1629784167' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella PNG - Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38852001/r/il/a89388/4421035850/il_1080xN.4421035850_1gom.jpg' alt='Cinderella PNG - Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38852001/r/il/a89388/4421035850/il_1080xN.4421035850_1gom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella png images | PNGWing">
+                                <img itemprop="contentUrl url" src='https://w7.pngwing.com/pngs/470/813/png-transparent-disney-cinderella-cinderella-youtube-cinderella-marine-mammal-presentation-disney-princess-thumbnail.png' alt='Cinderella png images | PNGWing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGWing" />
+                                </span>
+                                <a href='https://w7.pngwing.com/pngs/470/813/png-transparent-disney-cinderella-cinderella-youtube-cinderella-marine-mammal-presentation-disney-princess-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free transparent Cinderella PNG images Download | PurePNG | Free ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/thumbnail//cinderella-3ci.png' alt='Free transparent Cinderella PNG images Download | PurePNG | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/thumbnail//cinderella-3ci.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinderella PNG transparent image download, size: 890x960px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cinderella_PNG1.png' alt='Cinderella PNG transparent image download, size: 890x960px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cinderella_PNG1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

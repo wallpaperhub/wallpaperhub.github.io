@@ -1,0 +1,129 @@
+<title>Epic Star Wars Invitations for Every Celebration</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="star wars invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-wars-invitations">
+                            <span itemprop="name">star wars invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Invitations for Every Celebration</h1>
+                <p>Get ready to embark on an epic adventure in a galaxy far, far away! Our Star Wars invitations bring the Force to your party, perfect for birthdays, themed events, or movie nights. Choose from a variety of designs featuring beloved characters and starships. Make your gathering unforgettable; may the Force be with you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITABLE Star Wars Invitation TEMPLATE, Printable Star Wars Birthday  Invite, Star Wars, Star Wars Party, DIY, Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5882896/r/il/20950e/2162490534/il_fullxfull.2162490534_d9zi.jpg' alt='EDITABLE Star Wars Invitation TEMPLATE, Printable Star Wars Birthday  Invite, Star Wars, Star Wars Party, DIY, Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5882896/r/il/20950e/2162490534/il_fullxfull.2162490534_d9zi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Star Wars The Force Awakens Birthday Party Invitations Printed  +Envelopes D10">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/B2UAAOSwKtlWj~kZ/s-l1200.jpg' alt='20 Star Wars The Force Awakens Birthday Party Invitations Printed  +Envelopes D10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/B2UAAOSwKtlWj~kZ/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Birthday Invitation | Amazing Invite">
+                                <img itemprop="contentUrl url" src='https://amazingdesignsus.com/wp-content/uploads/2023/06/Star-Wars-Birthday-Invitation.jpg' alt='Star Wars Birthday Invitation | Amazing Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazing Designs US" />
+                                </span>
+                                <a href='https://amazingdesignsus.com/wp-content/uploads/2023/06/Star-Wars-Birthday-Invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Lego Star Wars Birthday Invite Template | Amazing Invitation">
+                                <img itemprop="contentUrl url" src='https://pixavite.com/wp-content/uploads/2024/03/lego-star-wars-birthday-invite.jpg' alt='Editable Lego Star Wars Birthday Invite Template | Amazing Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixavite" />
+                                </span>
+                                <a href='https://pixavite.com/wp-content/uploads/2024/03/lego-star-wars-birthday-invite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Darth Vader Birthday Invitation | Amazing Invite">
+                                <img itemprop="contentUrl url" src='https://amazingdesignsus.com/wp-content/uploads/2022/07/Star-Wars-Darth-Vader-Birthday-Invitation.jpg' alt='Star Wars Darth Vader Birthday Invitation | Amazing Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazing Designs US" />
+                                </span>
+                                <a href='https://amazingdesignsus.com/wp-content/uploads/2022/07/Star-Wars-Darth-Vader-Birthday-Invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Star Wars Birthday Invitation">
+                                <img itemprop="contentUrl url" src='https://cupcakemakeover.com/wp-content/uploads/2023/05/Lego-Star-Wars-Birthday-Invitation.png' alt='Lego Star Wars Birthday Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cupcakemakeover" />
+                                </span>
+                                <a href='https://cupcakemakeover.com/wp-content/uploads/2023/05/Lego-Star-Wars-Birthday-Invitation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader & Leia Star Wars Wedding invitation - oscarsitosroom">
+                                <img itemprop="contentUrl url" src='https://oscarsitosroom.com//wp-content/uploads/2022/01/boda-starwars.jpg' alt='Darth Vader & Leia Star Wars Wedding invitation - oscarsitosroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oscarsitosroom" />
+                                </span>
+                                <a href='https://oscarsitosroom.com//wp-content/uploads/2022/01/boda-starwars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Invitations - Chalkboard">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.generalprints.com/wp-content/uploads/2023/11/star-wars-chalkboard-invitations.jpg?fit=1000%2C1000&ssl=1' alt='Star Wars Invitations - Chalkboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- General Prints" />
+                                </span>
+                                <a href='https://i0.wp.com/www.generalprints.com/wp-content/uploads/2023/11/star-wars-chalkboard-invitations.jpg?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Invitation, Star Wars Birthday, Star Wars, Star Wars ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9408486/r/il/d08b34/1920445999/il_570xN.1920445999_jco6.jpg' alt='Star Wars Invitation, Star Wars Birthday, Star Wars, Star Wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9408486/r/il/d08b34/1920445999/il_570xN.1920445999_jco6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Invitation, Mandalorian & Baby Yoda Birthday Invite ...">
+                                <img itemprop="contentUrl url" src='https://magicmakerclub.com/cdn/shop/products/ZInvitation3-01_1d00a787-b429-45e1-abde-e670d0fba5f0_1024x1024@2x.jpg?v=1675883648' alt='Star Wars Invitation, Mandalorian & Baby Yoda Birthday Invite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="magic maker club" />
+                                </span>
+                                <a href='https://magicmakerclub.com/cdn/shop/products/ZInvitation3-01_1d00a787-b429-45e1-abde-e670d0fba5f0_1024x1024@2x.jpg?v=1675883648' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

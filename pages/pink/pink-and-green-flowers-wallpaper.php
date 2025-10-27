@@ -1,0 +1,129 @@
+<title>Pink & Green Floral Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink and green flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-green-flowers-wallpaper">
+                            <span itemprop="name">pink and green flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink & Green Floral Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with a stunning pink and green flowers wallpaper! Perfect for adding a touch of nature to your home or office, this vibrant wallpaper brings a fresh and lively feel to any room. Ideal for accent walls or entire rooms, it creates a cheerful atmosphere that delights the senses and inspires creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Wallpaper • Maximalist Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Forest-Green-1.jpg' alt='Rosa Wallpaper • Maximalist Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Forest-Green-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Gardenia Wallpaper in Sage Green and Pink on White">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1024&v=1706014431&width=1024' alt='Gorgeous Gardenia Wallpaper in Sage Green and Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1024&v=1706014431&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers - Pastel Pink & Green Mural By Simon & Kabuki - Murals ...">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/235454-825-auto?width=825&height=auto&aspect=true' alt='Flowers - Pastel Pink & Green Mural By Simon & Kabuki - Murals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/235454-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' alt='Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Fern Pink, Blue & Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/floral-fern-pink-blue-green-wallpaper-yjvc-l.jpg' alt='Floral Fern Pink, Blue & Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/floral-fern-pink-blue-green-wallpaper-yjvc-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Light Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/green-floral-light-pink-dnm6tu7mndpcbp57.jpg' alt='Green Floral Light Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/green-floral-light-pink-dnm6tu7mndpcbp57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Wallpaper - Flower Baby Nursery, Antique Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_fullxfull.1008147467_bxi8.jpg' alt='Watercolor Floral Wallpaper - Flower Baby Nursery, Antique Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_fullxfull.1008147467_bxi8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink flowers and green leaves on green background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-flowers-green-leaves-green-background_176873-12766.jpg' alt='Premium Photo | Pink flowers and green leaves on green background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-flowers-green-leaves-green-background_176873-12766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Large Floral Vine PP27701 Wallpaper -GiftedParrot.com ...">
+                                <img itemprop="contentUrl url" src='http://www.giftedparrot.com/cdn/shop/products/PP27701__02092.1493644911.1280.1280_600x.jpg?v=1571723423' alt='Pink Green Large Floral Vine PP27701 Wallpaper -GiftedParrot.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='http://www.giftedparrot.com/cdn/shop/products/PP27701__02092.1493644911.1280.1280_600x.jpg?v=1571723423' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Romantic Pink Floral Exquisite Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-green-romantic-pink-floral-exquisite-background-picture-image_1352893.jpg' alt='Green Romantic Pink Floral Exquisite Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-green-romantic-pink-floral-exquisite-background-picture-image_1352893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

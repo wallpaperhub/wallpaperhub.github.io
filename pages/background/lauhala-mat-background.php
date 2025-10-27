@@ -1,0 +1,129 @@
+<title>Discovering Lauhala Mats: A Cultural Treasure</title>
+                    <meta name="description" content="Explore the enchanting world of lauhala mats, woven from the hala tree's leaves. Learn about their cultural significance, craftsmanship, and functional beauty. Perfect for seating and décor, these mats are a testament to Pacific island artistry. Uncover the rich heritage behind this traditional art form today!">
+                    <meta name="keywords" content="lauhala mat background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lauhala-mat-background">
+                            <span itemprop="name">lauhala mat background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Lauhala Mats: A Cultural Treasure</h1>
+                <p>Lauhala mats have a rich cultural heritage, primarily originating from Hawaii and other Pacific islands. Crafted from the leaf of the hala tree, these mats are known for their intricate weaving techniques and durability. Traditionally used for seating and decor, lauhala mats embody the artistry and craftsmanship of island traditions, making them both functional and beautiful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Lauhala Mat by Brandon Tabiolo - Printscapes">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hawaiian-lauhala-mat-brandon-tabiolo.jpg' alt='Hawaiian Lauhala Mat by Brandon Tabiolo - Printscapes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hawaiian-lauhala-mat-brandon-tabiolo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-illustration-seamless-woven-background-260nw-611221160.jpg' alt='Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-illustration-seamless-woven-background-260nw-611221160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Matting 3' x 6' (10 Pack)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/569/1344/lauhala-matting-wide-weaveclose_1__30747.1661201832.jpg?c=1?imbypass=on' alt='Lauhala Matting 3' x 6' (10 Pack)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Bamboo" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/569/1344/lauhala-matting-wide-weaveclose_1__30747.1661201832.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-illustration-woven-background-leaf-260nw-611220428.jpg' alt='Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-illustration-woven-background-leaf-260nw-611220428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Mat Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9081801/p/f/m/HQ7KirWC5u6oM_jTlUdelYDa8PQ_LHsd-8LE0YOxj6PQgcXkIjw/Hawaiian%20Lauhala%20weave-light%20tan.jpg' alt='Lauhala Mat Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9081801/p/f/m/HQ7KirWC5u6oM_jTlUdelYDa8PQ_LHsd-8LE0YOxj6PQgcXkIjw/Hawaiian%20Lauhala%20weave-light%20tan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian lauhala mats">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/6c/2d/bc6c2d8554eb5f4efbf8a7b237525d03.jpg' alt='Hawaiian lauhala mats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/6c/2d/bc6c2d8554eb5f4efbf8a7b237525d03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Seamless Lauhala Mat Pattern">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49773539/r/il/b73424/5914755876/il_fullxfull.5914755876_7l0n.jpg' alt='Digital Seamless Lauhala Mat Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49773539/r/il/b73424/5914755876/il_fullxfull.5914755876_7l0n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-illustration-woven-seamless-background-260nw-611220413.jpg' alt='Lauhala Mat: Over 6 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-illustration-woven-seamless-background-260nw-611220413.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauhala Matting 4' x 50'">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/342/3570/Natural-Tropical-Lauhala-Matting-closeup__89512.1661202091.jpg?c=1?imbypass=on' alt='Lauhala Matting 4' x 50''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Bamboo" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-g0wzx3f2hu/images/stencil/1280x1280/products/342/3570/Natural-Tropical-Lauhala-Matting-closeup__89512.1661202091.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Hawaiian Woven Mat Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/124816388/photo/close-up-detail-of-hawaiian-lauhala-mat-background.jpg?s=612x612&w=gi&k=20&c=jS332VIrqv-zJ1dd6rZYlCN9WtAFVRwi1Ne07NDOIDU=' alt='11 Hawaiian Woven Mat Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/124816388/photo/close-up-detail-of-hawaiian-lauhala-mat-background.jpg?s=612x612&w=gi&k=20&c=jS332VIrqv-zJ1dd6rZYlCN9WtAFVRwi1Ne07NDOIDU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

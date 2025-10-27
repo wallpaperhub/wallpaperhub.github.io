@@ -1,0 +1,129 @@
+<title>Boho Pattern Backgrounds: Free-Spirited Designs for Creative Projects</title>
+                    <meta name="description" content="Discover stunning boho pattern backgrounds that bring creativity to your projects. Embrace free-spirited designs featuring unique motifs and earthy tones, perfect for enhancing your visual storytelling. Explore our collection today for a touch of artistic flair!">
+                    <meta name="keywords" content="boho pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boho-pattern-background">
+                            <span itemprop="name">boho pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Pattern Backgrounds: Free-Spirited Designs for Creative Projects</h1>
+                <p>A boho pattern background radiates a free-spirited vibe, embracing earthy tones and intricate designs. Ideal for various design projects, these backgrounds feature floral motifs, geometric shapes, and eclectic patterns. Perfect for those seeking to add a touch of creativity and warmth to their visuals, boho patterns inspire a relaxed and artistic atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho And Seamless Pattern Images – Browse 688,619 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/01/76/52/360_F_501765293_wyhsEmoc8t9sC9sqkwovspQBTyjIpQba.jpg' alt='Boho And Seamless Pattern Images – Browse 688,619 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/01/76/52/360_F_501765293_wyhsEmoc8t9sC9sqkwovspQBTyjIpQba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Pattern Boho Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/boho-geometric-pattern-design_23-2149727927.jpg' alt='Seamless Pattern Boho Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/boho-geometric-pattern-design_23-2149727927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="308,800+ Boho Pattern Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332573539/vector/contemporary-seamless-pattern-with-abstract-line-in-nude-colors.jpg?s=612x612&w=0&k=20&c=9Om-oVAgUYcaTvx5Y_ZXhfXxX8h5vrCCPZa9QAoEKqE=' alt='308,800+ Boho Pattern Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332573539/vector/contemporary-seamless-pattern-with-abstract-line-in-nude-colors.jpg?s=612x612&w=0&k=20&c=9Om-oVAgUYcaTvx5Y_ZXhfXxX8h5vrCCPZa9QAoEKqE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Light boho seamless pattern with arches Vector ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/light-boho-seamless-pattern-with-arches-vector-background-modern-bohemian-style-perfect-scrapbooking-textile-wrapping-paper-stationery-kids-adultsx9_860473-39.jpg' alt='Premium Vector | Light boho seamless pattern with arches Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/light-boho-seamless-pattern-with-arches-vector-background-modern-bohemian-style-perfect-scrapbooking-textile-wrapping-paper-stationery-kids-adultsx9_860473-39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Boho Seamless Patterns. Hand-Drawn Boho Digital Paper. Minimalist  Rainbow Digital Paper. Seamless Geometric Scandinavian Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9697977/r/il/82cee4/4538699237/il_570xN.4538699237_mvim.jpg' alt='Abstract Boho Seamless Patterns. Hand-Drawn Boho Digital Paper. Minimalist  Rainbow Digital Paper. Seamless Geometric Scandinavian Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9697977/r/il/82cee4/4538699237/il_570xN.4538699237_mvim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Ethnic Patterns Background Boho Style Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/444745624/display_1500/stock-vector-colorful-ethnic-patterns-background-in-the-boho-style-geometric-vector-seamless-patterns-seamless-444745624.jpg' alt='Colorful Ethnic Patterns Background Boho Style Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/444745624/display_1500/stock-vector-colorful-ethnic-patterns-background-in-the-boho-style-geometric-vector-seamless-patterns-seamless-444745624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light boho seamless pattern. Cute background in modern bohemian ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/01/76/52/1000_F_501765287_PjeScc8Txs9vsKpNZ6ouaXivHEhqNOie.jpg' alt='Light boho seamless pattern. Cute background in modern bohemian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/01/76/52/1000_F_501765287_PjeScc8Txs9vsKpNZ6ouaXivHEhqNOie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Spirit - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0362_1s_Boho-Spirit-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717371' alt='Boho Spirit - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0362_1s_Boho-Spirit-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717371' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple boho patterns pastel background. Abstract minimal seamless ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/172/730/non_2x/simple-boho-patterns-pastel-background-abstract-minimal-seamless-pattern-geometric-graphic-line-design-for-texture-textile-print-art-background-wallpaper-tile-backdrop-illustration-vector.jpg' alt='Simple boho patterns pastel background. Abstract minimal seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/172/730/non_2x/simple-boho-patterns-pastel-background-abstract-minimal-seamless-pattern-geometric-graphic-line-design-for-texture-textile-print-art-background-wallpaper-tile-backdrop-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn boho pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-boho-pattern_23-2149061221.jpg' alt='Free Vector | Hand drawn boho pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-boho-pattern_23-2149061221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

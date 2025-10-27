@@ -1,0 +1,129 @@
+<title>Stunning Last of Us Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an amazing collection of Last of Us desktop wallpapers that enhance your screen with captivating imagery from the game. Perfect for fans wanting to showcase their love for this iconic series, our selection will inspire your daily adventures and keep you connected to the thrilling world of The Last of Us.">
+                    <meta name="keywords" content="the last of us wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/the-last-of-us-wallpaper-desktop">
+                            <span itemprop="name">the last of us wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Last of Us Desktop Wallpapers for Gamers</h1>
+                <p>The Last of Us wallpaper for your desktop brings the haunting yet beautiful world of the game to life. Experience iconic scenes and characters in stunning detail, perfect for gamers and fans alike. Transform your workspace into a tribute to this post-apocalyptic adventure, adding depth and atmosphere to your daily grind.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/e/f/885-3840x2160-desktop-4k-the-last-of-us-game-background.jpg' alt='The Last of Us Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/e/f/885-3840x2160-desktop-4k-the-last-of-us-game-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550 The Last Of Us ideas | the last of us, the last of us2, best games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/8b/fd/0e8bfdf940169e423a08785d3203f7b6.jpg' alt='550 The Last Of Us ideas | the last of us, the last of us2, best games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/8b/fd/0e8bfdf940169e423a08785d3203f7b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ellie (The Last Of Us) Video Game The Last Of Us 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/126/1262363.jpg' alt='Download Ellie (The Last Of Us) Video Game The Last Of Us 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/126/1262363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/394/394511.jpg' alt='The Last of Us HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/394/394511.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Part II Remastered - Official Wallpaper without ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-last-of-us-part-ii-remastered-official-wallpaper-v0-24qzdk20hf4c1.png?auto=webp&s=5533fd491ee949c8dd94c76ea4e7a9d9bb79dd59' alt='The Last of Us Part II Remastered - Official Wallpaper without ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-last-of-us-part-ii-remastered-official-wallpaper-v0-24qzdk20hf4c1.png?auto=webp&s=5533fd491ee949c8dd94c76ea4e7a9d9bb79dd59' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellie The Last of Us Wallpaper, HD Games 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/ellie-the-last-of-us_a2xlZ2yUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Ellie The Last of Us Wallpaper, HD Games 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/ellie-the-last-of-us_a2xlZ2yUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Joel (The Last Of Us) Pedro Pascal Ellie (The Last Of Us ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/129/1299920.jpg' alt='Download Joel (The Last Of Us) Pedro Pascal Ellie (The Last Of Us ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/129/1299920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD the last of us wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/13/268/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-the-last-of-us-thumbnail.jpg' alt='HD the last of us wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/13/268/HD-wallpaper-video-game-the-last-of-us-part-ii-ellie-the-last-of-us-the-last-of-us-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/73/fb/7f73fb3d4998bf9b172a416efeb3ac17.jpg' alt='The Last of Us - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/73/fb/7f73fb3d4998bf9b172a416efeb3ac17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Of Us Gaming Background Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/the-last-of-us-gaming-background_bmZmbGWUmZqaraWkpJRobWllrWZuZ2U.jpg' alt='The Last Of Us Gaming Background Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/the-last-of-us-gaming-background_bmZmbGWUmZqaraWkpJRobWllrWZuZ2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

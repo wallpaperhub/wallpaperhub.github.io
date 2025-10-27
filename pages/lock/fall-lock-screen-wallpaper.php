@@ -1,0 +1,129 @@
+<title>Gorgeous Fall Lock Screen Wallpapers to Refresh Your Device</title>
+                    <meta name="description" content="Discover beautiful fall lock screen wallpapers that celebrate the season's colors. Perfect for a fresh look on your device, these captivating images of autumn landscapes and themes will inspire you every time you unlock your phone. Embrace the beauty of fall today!">
+                    <meta name="keywords" content="fall lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/fall-lock-screen-wallpaper">
+                            <span itemprop="name">fall lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous Fall Lock Screen Wallpapers to Refresh Your Device</h1>
+                <p>Transform your device with stunning fall lock screen wallpapers that capture the essence of autumn. From vibrant foliage to cozy pumpkins, bring the warmth and beauty of the season to your fingertips. Perfect for nature lovers and those seeking to embrace the spirit of fall—these wallpapers will refresh your screen and inspire you daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper, Pumpkin Wallpaper, Phone Wallpaper, Fall Lock Screen, Its  Fall Yall">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11111397/r/il/d02080/3334023260/il_fullxfull.3334023260_gd8q.jpg' alt='Fall Wallpaper, Pumpkin Wallpaper, Phone Wallpaper, Fall Lock Screen, Its  Fall Yall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11111397/r/il/d02080/3334023260/il_fullxfull.3334023260_gd8q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lock Screen Cute Fall Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lock-screen-cute-fall-g73o60sjw77crfxr.jpg' alt='100+] Lock Screen Cute Fall Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lock-screen-cute-fall-g73o60sjw77crfxr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  fall lock screen!  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/4d/b1/b24db15f9fb3039e7a004dfccb6b33da.jpg' alt='  fall lock screen!  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/4d/b1/b24db15f9fb3039e7a004dfccb6b33da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Lock Screens for Your Phone - Natalie Hilton">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/10/falllockscreens08.png?resize=576%2C1024&ssl=1' alt='Fall Lock Screens for Your Phone - Natalie Hilton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natalie Hilton" />
+                                </span>
+                                <a href='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/10/falllockscreens08.png?resize=576%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fall iphone wallpaper lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/d5/58/39d55820e19a2770d8e28d7876936c55.jpg' alt='fall iphone wallpaper lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/d5/58/39d55820e19a2770d8e28d7876936c55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/OdihbypQ9REJP2KaoUfNb7tORmY=/fit-in/3648x5472/filters:format_auto():extract_cover():upscale()/2020/09/24/741/n/1922507/5bb1307ddc2fedf1_priscilla-du-preez-Sce52e91snA-unsplash.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/OdihbypQ9REJP2KaoUfNb7tORmY=/fit-in/3648x5472/filters:format_auto():extract_cover():upscale()/2020/09/24/741/n/1922507/5bb1307ddc2fedf1_priscilla-du-preez-Sce52e91snA-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Comfort | Wallpaper/Lock Screen/Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/ee/f5/42eef5d1d71c6ab99ef2910b627246ae.jpg' alt='Fall Comfort | Wallpaper/Lock Screen/Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/ee/f5/42eef5d1d71c6ab99ef2910b627246ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ FREE Aesthetic Fall Phone Wallpapers For Spooky Season">
+                                <img itemprop="contentUrl url" src='https://whimsysoul.com/wp-content/uploads/2024/08/Whimsy-Soul-Aesthetic-Fall-Phone-Wallpapers-For-Spooky-Season-115.png' alt='60+ FREE Aesthetic Fall Phone Wallpapers For Spooky Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whimsy Soul" />
+                                </span>
+                                <a href='https://whimsysoul.com/wp-content/uploads/2024/08/Whimsy-Soul-Aesthetic-Fall-Phone-Wallpapers-For-Spooky-Season-115.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Lock Screens for Your Phone - Natalie Hilton">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/10/falllockscreens02.png?resize=576%2C1024&ssl=1' alt='Fall Lock Screens for Your Phone - Natalie Hilton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natalie Hilton" />
+                                </span>
+                                <a href='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/10/falllockscreens02.png?resize=576%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Sage Green Lock Screen Wallpapers for Tranquil Vibes</title>
+                    <meta name="description" content="Discover stunning sage green lock screen wallpapers that elevate your device's aesthetic. Perfect for a calming and stylish look, these wallpapers bring tranquility to your phone. Download now for a refreshing ambiance that reflects your unique style!">
+                    <meta name="keywords" content="lock screen sage green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-sage-green-aesthetic-wallpaper">
+                            <span itemprop="name">lock screen sage green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Sage Green Lock Screen Wallpapers for Tranquil Vibes</h1>
+                <p>Transform your device with a calming lock screen sage green aesthetic wallpaper. This serene hue brings a touch of nature to your phone, creating a peaceful vibe, perfect for any mood. Ideal for those seeking tranquility, the sage green wallpaper offers a refreshing escape from the chaos of everyday life. Enhance your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/68/2e/de682eb8cf34382c23f66cce7c6b0b7c.jpg' alt='Sage Green Aesthetic Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/68/2e/de682eb8cf34382c23f66cce7c6b0b7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/66/ff/2666ffb61903166f68518c85c2bed574.jpg' alt='Green aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/66/ff/2666ffb61903166f68518c85c2bed574.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/90/e9/dc90e925d80137ea821708ee31a6de86.jpg' alt='Sage Green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/90/e9/dc90e925d80137ea821708ee31a6de86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green aesthetic wallpaper lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/30/54/ca30543842e0e919626efd5d78d85833.jpg' alt='sage green aesthetic wallpaper lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/30/54/ca30543842e0e919626efd5d78d85833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Sage Green Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sage-green-beach-graphic-wallpaper-vxu2tavpv86l2loa.jpg' alt='100+] Iphone Sage Green Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sage-green-beach-graphic-wallpaper-vxu2tavpv86l2loa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/7f/54/1e7f54db2278633340f7ccbdf95ca9ed.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/7f/54/1e7f54db2278633340f7ccbdf95ca9ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/V2VM8p3A2wFrrkrdNcjhSm2N4kQZ_bzoE7NkB3FmRNujRCmkFgv9AJ9UvUsYZQHrEz4=w526-h296-rw' alt='Green Aesthetic Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="137">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/V2VM8p3A2wFrrkrdNcjhSm2N4kQZ_bzoE7NkB3FmRNujRCmkFgv9AJ9UvUsYZQHrEz4=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green lock screen theme [kiVrD2PDu63WLGBK0SEN] by Sakura7571 ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/8zuQRLj2WlWB4SBDzvb4aDNaVtg2/rrXOgTzpx1QpThRdGoPs/00DE5604-7962-47D9-8319-22BCEC3332E6.jpg?q=70' alt='Sage green lock screen theme [kiVrD2PDu63WLGBK0SEN] by Sakura7571 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/8zuQRLj2WlWB4SBDzvb4aDNaVtg2/rrXOgTzpx1QpThRdGoPs/00DE5604-7962-47D9-8319-22BCEC3332E6.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Floral Wallpaper Poster Lockscreen Background iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e8/5a/c3/e85ac3bff618bb477c010abbbefc6c18.jpg' alt='Green Aesthetic Floral Wallpaper Poster Lockscreen Background iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e8/5a/c3/e85ac3bff618bb477c010abbbefc6c18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

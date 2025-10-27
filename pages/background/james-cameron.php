@@ -1,0 +1,129 @@
+<title>James Cameron: Master of Blockbusters</title>
+                    <meta name="description" content="Explore the career of James Cameron, one of Hollywood's most influential directors. From "Titanic" to "Avatar," discover how Cameron revolutionized filmmaking with cutting-edge technology and unforgettable storytelling that captivates audiences globally.">
+                    <meta name="keywords" content="james cameron">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/james-cameron">
+                            <span itemprop="name">james cameron</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>James Cameron: Master of Blockbusters</h1>
+                <p>James Cameron is a renowned filmmaker and innovator, best known for his blockbuster hits like "Titanic" and "Avatar." With a passion for pushing technological boundaries, Cameron has transformed the film industry through pioneering special effects and immersive storytelling. His works continue to inspire audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Avatar_The_Way_of_Water_Tokyo_Press_Conference_James_Cameron_%2852563430565%29_%28cropped%29.jpg/1200px-Avatar_The_Way_of_Water_Tokyo_Press_Conference_James_Cameron_%2852563430565%29_%28cropped%29.jpg' alt='James Cameron - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Avatar_The_Way_of_Water_Tokyo_Press_Conference_James_Cameron_%2852563430565%29_%28cropped%29.jpg/1200px-Avatar_The_Way_of_Water_Tokyo_Press_Conference_James_Cameron_%2852563430565%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron | Biography, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/84/160284-050-695B1DE3/James-Cameron-2012.jpg' alt='James Cameron | Biography, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/84/160284-050-695B1DE3/James-Cameron-2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explorer Home - Profile">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dxw0o8aaj/image/upload/v1/explorer_profiles/unf8o6see6wip8v5fsci?pic_uid=explorer_profiles%2Funf8o6see6wip8v5fsci' alt='Explorer Home - Profile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Explorer Home - Profile" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dxw0o8aaj/image/upload/v1/explorer_profiles/unf8o6see6wip8v5fsci?pic_uid=explorer_profiles%2Funf8o6see6wip8v5fsci' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg' alt='James Cameron - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Audience With The King: James Cameron Interviewed By ...">
+                                <img itemprop="contentUrl url" src='https://images.bauerhosting.com/empire/2022/12/james-cameron.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80' alt='An Audience With The King: James Cameron Interviewed By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Empire Magazine" />
+                                </span>
+                                <a href='https://images.bauerhosting.com/empire/2022/12/james-cameron.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron filmography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JamesCameronHWOFOct2012.jpg/800px-JamesCameronHWOFOct2012.jpg' alt='James Cameron filmography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JamesCameronHWOFOct2012.jpg/800px-JamesCameronHWOFOct2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron's unrealized projects - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fe/James_Cameron_by_Gage_Skidmore.jpg' alt='James Cameron's unrealized projects - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2046">
+                                <meta itemprop="height" content="2782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fe/James_Cameron_by_Gage_Skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron: 'It's harder to write sci-fi because we're living ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/450c0192ead049387831c1686cb0fa055a0e66e3/0_198_5000_3001/master/5000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=98577d592e8938db7ef6317c8d62ae1a' alt='James Cameron: 'It's harder to write sci-fi because we're living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/450c0192ead049387831c1686cb0fa055a0e66e3/0_198_5000_3001/master/5000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=98577d592e8938db7ef6317c8d62ae1a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron on Titanic's Legacy, the Avatar Sequels' Progress ...">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/5a15cfcf1310ef0d93e09716/master/pass/james-cameron-embed.jpg' alt='James Cameron on Titanic's Legacy, the Avatar Sequels' Progress ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/5a15cfcf1310ef0d93e09716/master/pass/james-cameron-embed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Cameron makes blockbusters. But the acting is pure cinema ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/a3f2f44/2147483647/strip/true/crop/4000x5000+0+0/resize/1200x1500!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2F44%2F9d0cb70248ea93614844d259e6bf%2F1240520-env-james-cameron-cover-shoot-01.jpg' alt='James Cameron makes blockbusters. But the acting is pure cinema ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/a3f2f44/2147483647/strip/true/crop/4000x5000+0+0/resize/1200x1500!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2F44%2F9d0cb70248ea93614844d259e6bf%2F1240520-env-james-cameron-cover-shoot-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

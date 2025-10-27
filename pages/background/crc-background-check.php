@@ -1,0 +1,129 @@
+<title>Essential Guide to CRC Background Checks</title>
+                    <meta name="description" content="Discover the importance of CRC background checks for enhancing workplace safety. Learn how these checks can safeguard your organization by reviewing criminal histories and ensuring a secure environment for all. Stay informed with our concise guide on CRC checks.">
+                    <meta name="keywords" content="crc background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crc-background-check">
+                            <span itemprop="name">crc background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to CRC Background Checks</h1>
+                <p>CRC background checks are essential tools used by employers and organizations to ensure the safety and security of their personnel and clients. These checks review an individual's criminal history, providing insights into any past offenses. A thorough CRC background check helps mitigate risks and fosters a safe environment in workplaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E0BAQH-ungMyJfFNw/company-logo_200_200/company-logo_200_200/0/1644336915823/criminalrecordcheck_com_logo?e=2147483647&v=beta&t=ckXtISwdqBVjBQWL2KjCTq3JIde5beMGwAxkjjFNTFY' alt='CRC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E0BAQH-ungMyJfFNw/company-logo_200_200/company-logo_200_200/0/1644336915823/criminalrecordcheck_com_logo?e=2147483647&v=beta&t=ckXtISwdqBVjBQWL2KjCTq3JIde5beMGwAxkjjFNTFY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQGA3GBvecl80Q/feedshare-shrink_800/B56ZSVIp4XGUAg-/0/1737668862723?e=2147483647&v=beta&t=QsxQrsl4_UXSDN5ZgPHn9h3p09krUcNd4FU3pWZDpFo' alt='CRC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQGA3GBvecl80Q/feedshare-shrink_800/B56ZSVIp4XGUAg-/0/1737668862723?e=2147483647&v=beta&t=QsxQrsl4_UXSDN5ZgPHn9h3p09krUcNd4FU3pWZDpFo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D563DAQFdCylU8NLeYw/image-scale_191_1128/image-scale_191_1128/0/1738072204390/criminalrecordcheck_com_cover?e=2147483647&v=beta&t=6BvKaqLd9doF6ly2CygMNctWfo0T0BXgG1y8c_VN_x0' alt='CRC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1126">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D563DAQFdCylU8NLeYw/image-scale_191_1128/image-scale_191_1128/0/1738072204390/criminalrecordcheck_com_cover?e=2147483647&v=beta&t=6BvKaqLd9doF6ly2CygMNctWfo0T0BXgG1y8c_VN_x0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The FBI Criminal Background Check and the Federal U.S. Apostille ...">
+                                <img itemprop="contentUrl url" src='https://statussuitcase.wordpress.com/wp-content/uploads/2018/05/pope-crc-noapostille-copy.jpg?w=927' alt='The FBI Criminal Background Check and the Federal U.S. Apostille ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="927">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Status: Suitcase - WordPress.com" />
+                                </span>
+                                <a href='https://statussuitcase.wordpress.com/wp-content/uploads/2018/05/pope-crc-noapostille-copy.jpg?w=927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the difference between CRC and VSC?">
+                                <img itemprop="contentUrl url" src='https://globeia.ca/_next/image/?url=https%3A%2F%2Fglobeia-strapi.sfo3.digitaloceanspaces.com%2F919d189fe9c516701139668b702d8542.webp&w=1920&q=75' alt='What is the difference between CRC and VSC?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Globeia" />
+                                </span>
+                                <a href='https://globeia.ca/_next/image/?url=https%3A%2F%2Fglobeia-strapi.sfo3.digitaloceanspaces.com%2F919d189fe9c516701139668b702d8542.webp&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQH5SVwNJo_gCA/feedshare-shrink_800/feedshare-shrink_800/0/1727295092609?e=2147483647&v=beta&t=D7X6iLuW1JqYlSYKtkh3KyOwfybqU6hHUE6LSPo6oH0' alt='CRC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bo.linkedin.com" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQH5SVwNJo_gCA/feedshare-shrink_800/feedshare-shrink_800/0/1727295092609?e=2147483647&v=beta&t=D7X6iLuW1JqYlSYKtkh3KyOwfybqU6hHUE6LSPo6oH0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Check FAQs | Korealizations">
+                                <img itemprop="contentUrl url" src='https://korealizations.wordpress.com/wp-content/uploads/2014/10/fbibackgroundcheck1.jpg' alt='Criminal Background Check FAQs | Korealizations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Korealizations - WordPress.com" />
+                                </span>
+                                <a href='https://korealizations.wordpress.com/wp-content/uploads/2014/10/fbibackgroundcheck1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fillable Online CRIMINAL RECORD CHECK UNIT Fax Email Print - pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/18/68/18068720.png' alt='Fillable Online CRIMINAL RECORD CHECK UNIT Fax Email Print - pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/18/68/18068720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uploading a Criminal Record Check (CRC) | Special Olympics Alberta">
+                                <img itemprop="contentUrl url" src='https://www.specialolympics.ca/sites/default/files/styles/940_x_529/public/Add%20CRC_0.png?itok=NbsVpnzq' alt='Uploading a Criminal Record Check (CRC) | Special Olympics Alberta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Special Olympics Canada" />
+                                </span>
+                                <a href='https://www.specialolympics.ca/sites/default/files/styles/940_x_529/public/Add%20CRC_0.png?itok=NbsVpnzq' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check - CRCC COMMISSION ON REHABILITATION COUNSELOR ...">
+                                <img itemprop="contentUrl url" src='https://crccertification.com/wp-content/uploads/2020/06/crcc-logo.png' alt='Background Check - CRCC COMMISSION ON REHABILITATION COUNSELOR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Commission on Rehabilitation Counselor Certification" />
+                                </span>
+                                <a href='https://crccertification.com/wp-content/uploads/2020/06/crcc-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

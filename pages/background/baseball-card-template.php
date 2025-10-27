@@ -1,0 +1,129 @@
+<title>Customize Your Own Baseball Card Template</title>
+                    <meta name="description" content="Create unique baseball cards easily with our customizable template! Perfect for fans and collectors, design cards that highlight players and memorable stats. Start crafting your personal baseball cards today for trading or keepsakes!">
+                    <meta name="keywords" content="baseball card template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baseball-card-template">
+                            <span itemprop="name">baseball card template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customize Your Own Baseball Card Template</h1>
+                <p>Design your own baseball card with our customizable template! Ideal for collectors and fans, this template allows you to feature player stats, images, and special notes. Whether for nostalgia or trading, create a unique card that captures the essence of the game. Perfect for all ages, dive into card creation today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Baseball Team or Player Trading Card Template for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33036753/r/il/cbb829/4005075599/il_570xN.4005075599_d702.jpg' alt='Customizable Baseball Team or Player Trading Card Template for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33036753/r/il/cbb829/4005075599/il_570xN.4005075599_d702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Baseball Card Canva Template, Player Trading Cards ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50584758/r/il/1120c3/6101696184/il_fullxfull.6101696184_ec1l.jpg' alt='Customizable Baseball Card Canva Template, Player Trading Cards ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50584758/r/il/1120c3/6101696184/il_fullxfull.6101696184_ec1l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Best Trading Card Templates for 2023: Free and Premium ...">
+                                <img itemprop="contentUrl url" src='https://masterbundles.com/wp-content/uploads/2022/03/8-baseball-cards-templates.png' alt='20+ Best Trading Card Templates for 2023: Free and Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MasterBundles" />
+                                </span>
+                                <a href='https://masterbundles.com/wp-content/uploads/2022/03/8-baseball-cards-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 75 Custom Baseball Card | Custom baseball card created… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/6152/6201652681_e1fcb7a368_b.jpg' alt='Retro 75 Custom Baseball Card | Custom baseball card created… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retro 75 Custom Baseball Card | Custom baseball card created… | Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/6152/6201652681_e1fcb7a368_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Card Template Stock Illustrations – 1,601 Baseball Card ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/college-sport-card-pass-picture-frame-border-template-design-set-college-sport-card-picture-frame-border-template-333737496.jpg' alt='Baseball Card Template Stock Illustrations – 1,601 Baseball Card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/college-sport-card-pass-picture-frame-border-template-design-set-college-sport-card-picture-frame-border-template-333737496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Baseball Card Template Canva, Create Your Own, Trading Card ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45957815/r/il/eb9192/6048594807/il_1080xN.6048594807_qbh2.jpg' alt='Custom Baseball Card Template Canva, Create Your Own, Trading Card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45957815/r/il/eb9192/6048594807/il_1080xN.6048594807_qbh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Baseball Card Template">
+                                <img itemprop="contentUrl url" src='https://sportscardtemplates.com/wp-content/uploads/2020/06/sct-006-bs-Front.jpg' alt='Classic Baseball Card Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Card Templates" />
+                                </span>
+                                <a href='https://sportscardtemplates.com/wp-content/uploads/2020/06/sct-006-bs-Front.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Card Template :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/36a02063564663.5ab487365beed.jpg' alt='Baseball Card Template :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/36a02063564663.5ab487365beed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Photo Baseball Card Design Template in Word, PSD ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/141735/custom-photo-baseball-card-design-template-lrkf4.jpg' alt='Custom Photo Baseball Card Design Template in Word, PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/141735/custom-photo-baseball-card-design-template-lrkf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball card template | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Blank-Historical-Figures-Baseball-Cards-9603350-1685474598/original-9603350-1.jpg' alt='Baseball card template | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Blank-Historical-Figures-Baseball-Cards-9603350-1685474598/original-9603350-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

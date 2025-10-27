@@ -1,0 +1,129 @@
+<title>Chic Pink & Blue Marble Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover stylish pink, light blue, and blue marble wallpaper to elevate your decor. Ideal for any space, this elegant design offers a blend of modern chic and serene vibes. Perfect for feature walls or full-room transformations. Shop now for a refreshing home makeover!">
+                    <meta name="keywords" content="pink light blue blue marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/pink-light-blue-blue-marble-wallpaper">
+                            <span itemprop="name">pink light blue blue marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink & Blue Marble Wallpaper for Elegant Interiors</h1>
+                <p>Transform your space with stunning pink, light blue, and blue marble wallpaper. This chic design brings a touch of elegance and whimsy, perfect for any room. The soft color palette creates a calming atmosphere while adding a modern twist to your decor. Ideal for feature walls or a complete makeover, elevate your interiors today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pink Gold Marble Backdrop,Abstract Colorful Background,Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/dc/90/8adc908d6003b1e20f86800bbe19a215.jpg' alt='Blue Pink Gold Marble Backdrop,Abstract Colorful Background,Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/dc/90/8adc908d6003b1e20f86800bbe19a215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink and blue marble background  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/ee/ea/efeeea1ddd6bc0c5b62935a953726389.jpg' alt='pink and blue marble background  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/ee/ea/efeeea1ddd6bc0c5b62935a953726389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Heavenly Blend of Pink and Blue Marble Texture in 4K ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-blue-and-pink-marble-4k-ar9pigroarrh39u6.jpg' alt='Download Heavenly Blend of Pink and Blue Marble Texture in 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-blue-and-pink-marble-4k-ar9pigroarrh39u6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkles Mixed Colored Marble Fluid Art Pink Blue Gold Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/616f30/4643801548/il_570xN.4643801548_d1hs.jpg' alt='Sparkles Mixed Colored Marble Fluid Art Pink Blue Gold Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/616f30/4643801548/il_570xN.4643801548_d1hs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Marble Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-pink-blue-hand-painted-alcohol-ink-background_1048-18143.jpg' alt='Pink And Blue Marble Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-pink-blue-hand-painted-alcohol-ink-background_1048-18143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Blue Marble Wallpaper | 2024 iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/93/f6/c093f6dd5b41e6802be2caf931f4b57c.jpg' alt='Pink and Blue Marble Wallpaper | 2024 iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/93/f6/c093f6dd5b41e6802be2caf931f4b57c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Pink Marble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-and-pink-marble-t8sx4z8xz06n1sbj.jpg' alt='Blue And Pink Marble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-and-pink-marble-t8sx4z8xz06n1sbj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Marble with Red Splash Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1473763625-c.jpg' alt='Blue Marble with Red Splash Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1473763625-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Blue Marble Texture Wallpaper, Luxury Fluid Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/8a9230/3633726227/il_fullxfull.3633726227_kib3.jpg' alt='Pink and Blue Marble Texture Wallpaper, Luxury Fluid Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/8a9230/3633726227/il_fullxfull.3633726227_kib3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Pink And Blue Marble Texture Backdrop For Photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/1e/88/a91e881dbaf27fac4620dcb4992a9d39.jpg' alt='Abstract Pink And Blue Marble Texture Backdrop For Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/1e/88/a91e881dbaf27fac4620dcb4992a9d39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

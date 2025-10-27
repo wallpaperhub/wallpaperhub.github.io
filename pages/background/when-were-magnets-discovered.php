@@ -1,0 +1,129 @@
+<title>The Discovery of Magnets: A Historical Overview</title>
+                    <meta name="description" content="Explore the fascinating history of magnets, from their ancient discovery in Greece to modern applications. Learn how lodestone's magnetic properties changed navigation and more!">
+                    <meta name="keywords" content="when were magnets discovered">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-were-magnets-discovered">
+                            <span itemprop="name">when were magnets discovered</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Discovery of Magnets: A Historical Overview</h1>
+                <p>Magnets have a long history, with their discovery dating back to ancient Greece around 600 BC. The Greeks first noticed the natural magnetic properties of lodestone, a type of magnetite. This remarkable mineral attracted iron, leading to early experiments and applications in navigation and various tools throughout the ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Discovered the Very First Magnet? | Dowling Magnets">
+                                <img itemprop="contentUrl url" src='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/761px-Magnetite_with_iron_shavings.jpg' alt='Who Discovered the Very First Magnet? | Dowling Magnets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dowling Magnets" />
+                                </span>
+                                <a href='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/761px-Magnetite_with_iron_shavings.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Discovered the Very First Magnet? | Dowling Magnets">
+                                <img itemprop="contentUrl url" src='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Magnes_the_shepherd.jpg' alt='Who Discovered the Very First Magnet? | Dowling Magnets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dowling Magnets" />
+                                </span>
+                                <a href='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Magnes_the_shepherd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Discovered the Very First Magnet? | Dowling Magnets">
+                                <img itemprop="contentUrl url" src='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Petrus_Peregrinus.gif' alt='Who Discovered the Very First Magnet? | Dowling Magnets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dowling Magnets" />
+                                </span>
+                                <a href='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Petrus_Peregrinus.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Discovery of Magnets">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BFDszZ8h-5g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGEUgZSgPMA8=&rs=AOn4CLAuyb0ndvMLI2YnmqbqPcfawPRRyA' alt='The Discovery of Magnets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BFDszZ8h-5g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGEUgZSgPMA8=&rs=AOn4CLAuyb0ndvMLI2YnmqbqPcfawPRRyA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Magnets Were Discovered?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pqxX59mbYX8/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIAC_giKAgwIABABGFIgYChlMA8=&rs=AOn4CLBFGaA45MX49bvqo2GqoVEkbVc4HQ' alt='How Magnets Were Discovered?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pqxX59mbYX8/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIAC_giKAgwIABABGFIgYChlMA8=&rs=AOn4CLBFGaA45MX49bvqo2GqoVEkbVc4HQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Discovery of Magnets - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BFDszZ8h-5g/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGEUgZSgPMA8=&rs=AOn4CLC3bKmw2PWyK_pYgJrvq9yH0Bqr4g' alt='The Discovery of Magnets - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BFDszZ8h-5g/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGEUgZSgPMA8=&rs=AOn4CLC3bKmw2PWyK_pYgJrvq9yH0Bqr4g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discovery of Magnets | History of Magnets | Uses And Its Types">
+                                <img itemprop="contentUrl url" src='https://cdn1.byjus.com/wp-content/uploads/2020/11/Discovery-Of-Magnets-Applications-1.png' alt='Discovery of Magnets | History of Magnets | Uses And Its Types'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BYJU'S" />
+                                </span>
+                                <a href='https://cdn1.byjus.com/wp-content/uploads/2020/11/Discovery-Of-Magnets-Applications-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Discovered the Very First Magnet? | Dowling Magnets">
+                                <img itemprop="contentUrl url" src='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Oersted_discovers_electromagnetism.jpg' alt='Who Discovered the Very First Magnet? | Dowling Magnets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dowling Magnets" />
+                                </span>
+                                <a href='http://www.dowlingmagnets.com/blog/wp-content/uploads/2016/02/Oersted_discovers_electromagnetism.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Were Magnets Discovered- An Interesting Story – SeekoG ...">
+                                <img itemprop="contentUrl url" src='https://seekog.com/blog/wp-content/uploads/2022/07/How-magnets-were-discovered-story-1024x503.png' alt='How Were Magnets Discovered- An Interesting Story – SeekoG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SeekoG" />
+                                </span>
+                                <a href='https://seekog.com/blog/wp-content/uploads/2022/07/How-magnets-were-discovered-story-1024x503.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discovery of Magnets | History of Magnets | Uses And Its Types">
+                                <img itemprop="contentUrl url" src='https://cdn1.byjus.com/wp-content/uploads/2020/11/Discovery-Of-Magnets-Applications-2.png' alt='Discovery of Magnets | History of Magnets | Uses And Its Types'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BYJU'S" />
+                                </span>
+                                <a href='https://cdn1.byjus.com/wp-content/uploads/2020/11/Discovery-Of-Magnets-Applications-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

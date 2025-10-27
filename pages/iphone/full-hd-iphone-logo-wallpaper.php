@@ -1,0 +1,129 @@
+<title>Stunning Full HD iPhone Logo Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our curated selection of Full HD iPhone logo wallpapers, designed to enhance your device's appearance. Download high-quality images that perfectly fit your screen, allowing you to express your personality with style. Revamp your iPhone effortlessly today!">
+                    <meta name="keywords" content="full hd iphone logo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/full-hd-iphone-logo-wallpaper">
+                            <span itemprop="name">full hd iphone logo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Full HD iPhone Logo Wallpapers for Your Device</h1>
+                <p>Discover stunning Full HD iPhone logo wallpapers that elevate your device's aesthetic. Our collection features a variety of styles, from sleek minimalism to bold designs, ensuring your iPhone looks fresh and unique. Download your favorites today and personalize your home screen with eye-catching visuals that showcase your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple iPhone, apple, logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/33/625/HD-wallpaper-apple-apple-logo-iphone-logo-phone.jpg' alt='Apple iPhone, apple, logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/33/625/HD-wallpaper-apple-apple-logo-iphone-logo-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Wallpapers (76 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/0/4/82261-2160x3840-iphone-4k-apple-logo-background-image.jpg' alt='Apple Logo Wallpapers (76 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/0/4/82261-2160x3840-iphone-4k-apple-logo-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best Apple logo wallpaper iphone ideas | apple logo wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/05/48/27/054827c2fff4d0da2a770ccbd25b785e.jpg' alt='100 Best Apple logo wallpaper iphone ideas | apple logo wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/05/48/27/054827c2fff4d0da2a770ccbd25b785e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo iPhone 7 Wallpaper [750x1334]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/7d/ef/2d7def3ed2f86cf66cd4cffd32df7210.jpg' alt='Apple Logo iPhone 7 Wallpaper [750x1334]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/7d/ef/2d7def3ed2f86cf66cd4cffd32df7210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black iPhone - Top Black iPhone Background - Apple logo iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/515/230/HD-wallpaper-black-iphone-top-black-iphone-background-apple-logo-iphone-apple-logo-black-iphone-awesome-7.jpg' alt='Black iPhone - Top Black iPhone Background - Apple logo iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/515/230/HD-wallpaper-black-iphone-top-black-iphone-background-apple-logo-iphone-apple-logo-black-iphone-awesome-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS Logo Wallpapers (42 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/1/7/753723-1080x1920-phone-full-hd-ios-logo-wallpaper-image.jpg' alt='iOS Logo Wallpapers (42 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/1/7/753723-1080x1920-phone-full-hd-ios-logo-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lit Apple Logo Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-lit-apple-logo-iphone-tzx1om16a6w0vpek.jpg' alt='Blue Lit Apple Logo Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-lit-apple-logo-iphone-tzx1om16a6w0vpek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful gradient Apple logo wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/07/Apple-Logo-gradient-wallpaper-by-iBidule-iDownloadBlog-mockup-ftrd.jpg' alt='Colorful gradient Apple logo wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/07/Apple-Logo-gradient-wallpaper-by-iBidule-iDownloadBlog-mockup-ftrd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Logo Colorful Wallpaper iPhone Phone 4K #4220e">
+                                <img itemprop="contentUrl url" src='https://image-0.uhdpaper.com/wallpaper/apple-logo-colorful-os-background-2k-wallpaper-uhdpaper.com-422@0@e.jpg' alt='Apple Logo Colorful Wallpaper iPhone Phone 4K #4220e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-0.uhdpaper.com/wallpaper/apple-logo-colorful-os-background-2k-wallpaper-uhdpaper.com-422@0@e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   IPhone Logo Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/65/e6/e2/65e6e28f88507f81226fa7c27f43b702.jpg' alt='   IPhone Logo Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/65/e6/e2/65e6e28f88507f81226fa7c27f43b702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

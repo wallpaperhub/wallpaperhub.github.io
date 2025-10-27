@@ -1,0 +1,129 @@
+<title>3D Team Fortress 2 Backgrounds: Unleash Your Gaming Style</title>
+                    <meta name="description" content="Explore amazing 3D Team Fortress 2 backgrounds to enhance your devices! Perfect for fans, these vibrant wallpapers showcase the game’s distinctive style, adding personality and energy to your screens. Download now and bring your favorite characters to life!">
+                    <meta name="keywords" content="3d team fortress 2 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-team-fortress-2-background">
+                            <span itemprop="name">3d team fortress 2 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>3D Team Fortress 2 Backgrounds: Unleash Your Gaming Style</h1>
+                <p>Discover the vibrant world of 3D Team Fortress 2 backgrounds! With stunning graphics and dynamic characters, these wallpapers bring the game's unique art style to life. Perfect for fans who want to immerse themselves in the action, a 3D Team Fortress 2 background can make your device stand out with color and humor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Dustbowl Menu Background Reborn [Team Fortress 2] [Mods]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/mods/5169ca8fca023.jpg' alt='Animated Dustbowl Menu Background Reborn [Team Fortress 2] [Mods]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/mods/5169ca8fca023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Action-Packed Game of Team Fortress 2 Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/team-fortress-2-classic-4fort-opcldevycl0xuhr4.jpg' alt='Download Action-Packed Game of Team Fortress 2 Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/team-fortress-2-classic-4fort-opcldevycl0xuhr4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tf2 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tf2-zwetbrzccif01dfd.jpg' alt='100+] Tf2 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tf2-zwetbrzccif01dfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What steam custom background do you guys have for tf2? I recently ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-steam-custom-background-do-you-guys-have-for-tf2-i-v0-n08xying8nka1.jpg?width=1920&format=pjpg&auto=webp&s=e7cd7203cd0b40c8ad1ddf272b54fa5073605d7c' alt='What steam custom background do you guys have for tf2? I recently ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-steam-custom-background-do-you-guys-have-for-tf2-i-v0-n08xying8nka1.jpg?width=1920&format=pjpg&auto=webp&s=e7cd7203cd0b40c8ad1ddf272b54fa5073605d7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - TF2 Frontline! - Web Assets">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/019/079/618/large/juniper-david-frontline4.jpg?1561937600' alt='ArtStation - TF2 Frontline! - Web Assets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/019/079/618/large/juniper-david-frontline4.jpg?1561937600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra Base for Set - Team Fortress 2 Free 3D Model by Gray World ...">
+                                <img itemprop="contentUrl url" src='https://www.renderhub.com/gray-world-corporation/extra-base-for-set-team-fortress-2/extra-base-for-set-team-fortress-2-01.jpg' alt='Extra Base for Set - Team Fortress 2 Free 3D Model by Gray World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RenderHub 3D Models" />
+                                </span>
+                                <a href='https://www.renderhub.com/gray-world-corporation/extra-base-for-set-team-fortress-2/extra-base-for-set-team-fortress-2-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Team Fortress environment for visual style.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/5b/18/ee5b1834c4b9d7b316dcbd8ccc751039.jpg' alt='Team Fortress environment for visual style.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/5b/18/ee5b1834c4b9d7b316dcbd8ccc751039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Tf2 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tf2-background-oi0dv2x7q3qltx27.jpg' alt='200+] Tf2 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tf2-background-oi0dv2x7q3qltx27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just got done making a series of TF2 Map backgrounds for a mod I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-got-done-making-a-series-of-tf2-map-backgrounds-for-a-v0-o774jqfhtiib1.png?width=3840&format=png&auto=webp&s=8ef0cfd5fcef04245439665b8396ae5e1ae3d1f6' alt='Just got done making a series of TF2 Map backgrounds for a mod I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-got-done-making-a-series-of-tf2-map-backgrounds-for-a-v0-o774jqfhtiib1.png?width=3840&format=png&auto=webp&s=8ef0cfd5fcef04245439665b8396ae5e1ae3d1f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Stylised Loading/Background Image Remake [Team Fortress 2 ...">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/mods/6498a2400e69d.jpg' alt='Animated Stylised Loading/Background Image Remake [Team Fortress 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/mods/6498a2400e69d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Engaging Early Learning with Ms. Rachel</title>
+                    <meta name="description" content="Discover the magic of early childhood education with Ms. Rachel! Her fun videos and songs engage young learners, fostering essential skills and a love for learning. Perfect for parents and educators looking to enrich children’s experiences. Join the adventure today!">
+                    <meta name="keywords" content="ms rachel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ms-rachel">
+                            <span itemprop="name">ms rachel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Early Learning with Ms. Rachel</h1>
+                <p>Ms. Rachel is a beloved children's educator known for her engaging and interactive videos that promote early childhood learning. Her fun songs and interactive lessons help young kids develop their language, social, and cognitive skills. Through creativity and joy, Ms. Rachel fosters a love for learning in children everywhere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms. Rachel books: Popular family YouTuber kicks off new story series">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/08/USAT/72899041007-thumbnail-ms-rachel-author-photo.jpg?width=660&height=990&fit=crop&format=pjpg&auto=webp' alt='Ms. Rachel books: Popular family YouTuber kicks off new story series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/08/USAT/72899041007-thumbnail-ms-rachel-author-photo.jpg?width=660&height=990&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms. Rachel on Netflix: Episodes, Release Date, and More Details ...">
+                                <img itemprop="contentUrl url" src='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQT-6RtqmADjx0G3It_wmtxZBbjNQMYyKjJwTIjoT88D9ugCz1g3PIqzgxqBwNSW6QuwIc7kfUrvBPpNhS1XCdXEdMhEccXivuneJzDNQenMC5mziR-yl3v4OyzWQcyIH1xM7-PLMKMtcoqvShw.jpg?r=07e' alt='Ms. Rachel on Netflix: Episodes, Release Date, and More Details ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix" />
+                                </span>
+                                <a href='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQT-6RtqmADjx0G3It_wmtxZBbjNQMYyKjJwTIjoT88D9ugCz1g3PIqzgxqBwNSW6QuwIc7kfUrvBPpNhS1XCdXEdMhEccXivuneJzDNQenMC5mziR-yl3v4OyzWQcyIH1xM7-PLMKMtcoqvShw.jpg?r=07e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Ms. Rachel's husband, Aron Accurso? Meet Mr. Aron">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-08/ms-rachel-husband-aron-accurso-zz-240822-499beb.jpg' alt='Who is Ms. Rachel's husband, Aron Accurso? Meet Mr. Aron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-08/ms-rachel-husband-aron-accurso-zz-240822-499beb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms Rachel (@msrachelforlittles) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/msrachelforlittles/profile_pic.jpg' alt='Ms Rachel (@msrachelforlittles) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/msrachelforlittles/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms. Rachel' is coming to Netflix: When to stream, what to know">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/14/USAT/77698842007-ms-rachel-announcement.jpg' alt='Ms. Rachel' is coming to Netflix: When to stream, what to know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/14/USAT/77698842007-ms-rachel-announcement.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preschool & Toddler Learning Video with Ms Rachel - Learn Shapes, Letters,  Numbers, Colors & More">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/K_Aq4H03Nm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAiheeUd8Y4RoOEorzwWIJSe0jglw' alt='Preschool & Toddler Learning Video with Ms Rachel - Learn Shapes, Letters,  Numbers, Colors & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/K_Aq4H03Nm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAiheeUd8Y4RoOEorzwWIJSe0jglw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms. Rachel on Her Book and Trusting Herself">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/6m9bd13t776q/Q4Lj0DOHuMubui4Mr8VRw/1e25b20e6077a602cff5cea60c19cf77/ms-rachel-realtalk-hero.png?q=80' alt='Ms. Rachel on Her Book and Trusting Herself'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheBump.com" />
+                                </span>
+                                <a href='https://images.ctfassets.net/6m9bd13t776q/Q4Lj0DOHuMubui4Mr8VRw/1e25b20e6077a602cff5cea60c19cf77/ms-rachel-realtalk-hero.png?q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before it gets to the end of @aronaccurso birthday month I just ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3290389537044881178' alt='Before it gets to the end of @aronaccurso birthday month I just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3290389537044881178' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms Rachel & Elmo Get Ready For School - ABC Song, Numbers, Colors - Toddler  & Preschool Learning">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nnqsEUxgSBQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3WbpJps2t5R9H2vnshrFEoPHQOg' alt='Ms Rachel & Elmo Get Ready For School - ABC Song, Numbers, Colors - Toddler  & Preschool Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nnqsEUxgSBQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3WbpJps2t5R9H2vnshrFEoPHQOg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ms. Rachel, popular children's educator and YouTuber, is coming to ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173776517.jpg?c=16x9&q=h_833,w_1480,c_fill' alt='Ms. Rachel, popular children's educator and YouTuber, is coming to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173776517.jpg?c=16x9&q=h_833,w_1480,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

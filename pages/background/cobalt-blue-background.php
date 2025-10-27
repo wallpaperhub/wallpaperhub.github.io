@@ -1,0 +1,129 @@
+<title>"Elevate Your Designs with Cobalt Blue Backgrounds"</title>
+                    <meta name="description" content="Discover the allure of cobalt blue backgrounds! Ideal for graphic design, photography, and web aesthetics, this vivid color adds depth and creativity to your projects. Learn how to incorporate cobalt blue effectively for stunning visuals that stand out. Explore our tips and tricks today!">
+                    <meta name="keywords" content="cobalt blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cobalt-blue-background">
+                            <span itemprop="name">cobalt blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Elevate Your Designs with Cobalt Blue Backgrounds"</h1>
+                <p>Cobalt blue backgrounds are vibrant and captivating, perfect for adding depth and energy to any design. This striking shade evokes feelings of serenity and confidence, making it ideal for prints, web designs, and photography. Whether used as a solid backdrop or in gradients, cobalt blue enhances creativity and visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Cobalt Blue Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2814476/p/f/m/1OtzvcpmFeNMqjr403rdcylvXvbAhw5tmnHGAkj_B-xZFMqkB4DG_g/Solid%20Cobalt%20Blue.jpg' alt='Solid Cobalt Blue Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2814476/p/f/m/1OtzvcpmFeNMqjr403rdcylvXvbAhw5tmnHGAkj_B-xZFMqkB4DG_g/Solid%20Cobalt%20Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobalt Blue Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1670271544153-dd9933f0f119?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29iYWx0JTIwYmx1ZXxlbnwwfHwwfHx8MA%3D%3D' alt='Cobalt Blue Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1670271544153-dd9933f0f119?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29iYWx0JTIwYmx1ZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobalt Blue Images – Browse 260,940 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/40/03/32/360_F_440033242_SseTUvt086X4rGGq41WWIgj6iDVB81oR.jpg' alt='Cobalt Blue Images – Browse 260,940 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/40/03/32/360_F_440033242_SseTUvt086X4rGGq41WWIgj6iDVB81oR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Cobalt Blue Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1294173587/photo/blue-colored-abstract-wall-background-with-textures-of-different-shades-of-blue.jpg?s=612x612&w=0&k=20&c=IdSXPkZKJABrkqD6PGiLyRdRkCHDZIKsxp9LXQ_Lf3c=' alt='3,900+ Cobalt Blue Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1294173587/photo/blue-colored-abstract-wall-background-with-textures-of-different-shades-of-blue.jpg?s=612x612&w=0&k=20&c=IdSXPkZKJABrkqD6PGiLyRdRkCHDZIKsxp9LXQ_Lf3c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,394 Cobalt Blue Texture Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/black-dark-navy-blue-texture-600nw-2270099609.jpg' alt='51,394 Cobalt Blue Texture Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/black-dark-navy-blue-texture-600nw-2270099609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobalt Blue Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/015/236/162/small/seamless-texture-of-white-cement-wall-a-rough-surface-with-space-for-text-for-a-background-free-photo.jpg' alt='Cobalt Blue Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/015/236/162/small/seamless-texture-of-white-cement-wall-a-rough-surface-with-space-for-text-for-a-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Watercolor cobalt blue background texture hand painted">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/watercolor-cobalt-blue-background-texture-hand-painted_145343-357.jpg' alt='Premium Photo | Watercolor cobalt blue background texture hand painted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/watercolor-cobalt-blue-background-texture-hand-painted_145343-357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Cobalt Blue Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1309605715/photo/cobalt-blue-leatherette-faux-leather-texture-background.jpg?s=612x612&w=0&k=20&c=p3cjofxekOm7dNWLdDFn3g5LtBXULTag-BoErNKVf_Q=' alt='3,900+ Cobalt Blue Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1309605715/photo/cobalt-blue-leatherette-faux-leather-texture-background.jpg?s=612x612&w=0&k=20&c=p3cjofxekOm7dNWLdDFn3g5LtBXULTag-BoErNKVf_Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vivid Cobalt Blue Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cobalt-blue-3000-x-2250-wallpaper-8husve3bbjsvsaes.jpg' alt='Download Vivid Cobalt Blue Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cobalt-blue-3000-x-2250-wallpaper-8husve3bbjsvsaes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobalt Blue Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/562/588/small_2x/abstract-blue-background-with-curved-lines-vector.jpg' alt='Cobalt Blue Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/562/588/small_2x/abstract-blue-background-with-curved-lines-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

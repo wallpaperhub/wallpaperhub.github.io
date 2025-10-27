@@ -1,0 +1,129 @@
+<title>Stunning Firewood Images for Cozy Inspiration</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="firewood images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/firewood-images">
+                            <span itemprop="name">firewood images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Firewood Images for Cozy Inspiration</h1>
+                <p>Firewood images capture the essence of cozy evenings and rustic charm. From neatly stacked logs to beautifully arranged bundles, these visuals evoke warmth and comfort. Whether you're looking for inspiration for your fireplace or want to appreciate the natural textures of wood, firewood images bring the outdoors inside, enhancing any setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple Firewood - Face Cord of Single Species, Kiln-Dried Firewood (8' x 4'  x 16") - Hardwood Bros">
+                                <img itemprop="contentUrl url" src='https://hardwoodbrothers.com/wp-content/uploads/2022/01/maple04.jpg' alt='Maple Firewood - Face Cord of Single Species, Kiln-Dried Firewood (8' x 4'  x 16") - Hardwood Bros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hardwood Bros" />
+                                </span>
+                                <a href='https://hardwoodbrothers.com/wp-content/uploads/2022/01/maple04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Much Firewood Do I Need for Different Situations?">
+                                <img itemprop="contentUrl url" src='https://lumberjax.com/wp-content/uploads/2022/09/how-much-firewood-do-i-need.jpg' alt='How Much Firewood Do I Need for Different Situations?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumberjack Firewood" />
+                                </span>
+                                <a href='https://lumberjax.com/wp-content/uploads/2022/09/how-much-firewood-do-i-need.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qualities Ash, Beech, and Birch Firewood | Fitzpatrick Fuels">
+                                <img itemprop="contentUrl url" src='https://images.fitzpatrick-fuels.co.uk/articles/85/woodlogs%201920x.jpg?auto=format' alt='Qualities Ash, Beech, and Birch Firewood | Fitzpatrick Fuels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fitzpatrick Fuels" />
+                                </span>
+                                <a href='https://images.fitzpatrick-fuels.co.uk/articles/85/woodlogs%201920x.jpg?auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firewood PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240107/original/pngtree-buring-firewood-bonfire-png-image_14046415.png' alt='Firewood PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240107/original/pngtree-buring-firewood-bonfire-png-image_14046415.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Firewood to Burn for Minimal Smoke and High Heat – GOODLAND">
+                                <img itemprop="contentUrl url" src='http://hellogoodland.com/cdn/shop/articles/best-firewood-to-burn-andreas-pajuvirta-unsplash.jpg?v=1683304865' alt='Best Firewood to Burn for Minimal Smoke and High Heat – GOODLAND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Goodland" />
+                                </span>
+                                <a href='http://hellogoodland.com/cdn/shop/articles/best-firewood-to-burn-andreas-pajuvirta-unsplash.jpg?v=1683304865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ash Firewood 1/3 Cord">
+                                <img itemprop="contentUrl url" src='http://www.woodchuckfirewood.com/cdn/shop/products/Ash.jpg?v=1719271562' alt='Ash Firewood 1/3 Cord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodchuck Firewood LLC" />
+                                </span>
+                                <a href='http://www.woodchuckfirewood.com/cdn/shop/products/Ash.jpg?v=1719271562' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firewood - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brennreisig.JPG/1200px-Brennreisig.JPG' alt='Firewood - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brennreisig.JPG/1200px-Brennreisig.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firewood – Mortise & Tenon Magazine">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1087/8400/files/0129_Firewood_Pile-1.jpg?v=1611928961' alt='Firewood – Mortise & Tenon Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mortise & Tenon Magazine" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1087/8400/files/0129_Firewood_Pile-1.jpg?v=1611928961' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Free CC0 Firewood Stock Photos - StockSnap.io">
+                                <img itemprop="contentUrl url" src='https://image.shutterstock.com/image-photo/stacked-firewood-logs-front-lush-260nw-2526004421.jpg' alt='36 Free CC0 Firewood Stock Photos - StockSnap.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockSnap.io" />
+                                </span>
+                                <a href='https://image.shutterstock.com/image-photo/stacked-firewood-logs-front-lush-260nw-2526004421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kiln-Dried Firewood- Direct From Remington Mulch Company's Logyard">
+                                <img itemprop="contentUrl url" src='https://remingtonmulch.com/app/uploads/2021/12/KD-Mix-scaled.jpg' alt='Kiln-Dried Firewood- Direct From Remington Mulch Company's Logyard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remington Mulch Company" />
+                                </span>
+                                <a href='https://remingtonmulch.com/app/uploads/2021/12/KD-Mix-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

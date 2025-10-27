@@ -1,0 +1,129 @@
+<title>Cozy Up Your Screens with Pink Christmas Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-christmas-wallpaper">
+                            <span itemprop="name">pink christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Up Your Screens with Pink Christmas Wallpaper</h1>
+                <p>Transform your digital space this holiday season with charming pink Christmas wallpaper. Perfect for adding a festive touch to your devices, these wallpapers blend traditional holiday elements with a modern twist. Embrace the spirit of Christmas in style with vibrant shades of pink, snowflakes, and whimsical designs, making your screens merry and bright!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Pink Christmas Wallpapers | Free Cute Holiday Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/7f/34/d57f34a91eb9c1350375a6082ee0a2c8.jpg' alt='Festive Pink Christmas Wallpapers | Free Cute Holiday Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/7f/34/d57f34a91eb9c1350375a6082ee0a2c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Background Images – Browse 1,289,392 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/54/24/60/360_F_954246017_Iy9M33t6JAR8rCiv0ZLgkgY1SheGEbxB.jpg' alt='Pink Christmas Background Images – Browse 1,289,392 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/54/24/60/360_F_954246017_Iy9M33t6JAR8rCiv0ZLgkgY1SheGEbxB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Pink Christmas Wallpaper For The Girly Girls - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/31/6d/94316d46dbcf5d0e6ff30c66b2dbf3bb.jpg' alt='25+ Pink Christmas Wallpaper For The Girly Girls - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/31/6d/94316d46dbcf5d0e6ff30c66b2dbf3bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Christmas Wallpapers | Gallery posted by Angela Piña ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7312115368809366022&index=1&sign=c2b0c61cfaa3b037e3407251d396d92a' alt='Kawaii Christmas Wallpapers | Gallery posted by Angela Piña ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7312115368809366022&index=1&sign=c2b0c61cfaa3b037e3407251d396d92a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Wallpaper, Preppy, Aesthetic, iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/67/e4/2367e40a83de8922fb0c6201cb5a5e1c.jpg' alt='Pink Christmas Wallpaper, Preppy, Aesthetic, iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/67/e4/2367e40a83de8922fb0c6201cb5a5e1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Christmas House Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pink-christmas-house-pzdoq7pw1g6bobiv.jpg' alt='Cute Pink Christmas House Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pink-christmas-house-pzdoq7pw1g6bobiv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Wallpaper Holiday Wallpaper Lofi Wallpaper Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42410412/r/il/59be45/5822209936/il_570xN.5822209936_81d5.jpg' alt='Pink Christmas Wallpaper Holiday Wallpaper Lofi Wallpaper Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42410412/r/il/59be45/5822209936/il_570xN.5822209936_81d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡Silky♡ — Pink Christmas Wallpapers! ☃️">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/00f4f96d872a7ced8399330a23da5ffa/db8147d78b70ef8e-c6/s1280x1920/2873965a6bf2a7aa7f848a9c0ca919b8f4787a98.jpg' alt='♡Silky♡ — Pink Christmas Wallpapers! ☃️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="♡Silky♡ - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/00f4f96d872a7ced8399330a23da5ffa/db8147d78b70ef8e-c6/s1280x1920/2873965a6bf2a7aa7f848a9c0ca919b8f4787a98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/824/878/small/christmas-background-pink-tones-xmas-tree-with-snow-decorated-with-garland-lights-holiday-festive-new-year-winter-art-design-holiday-panorama-banner-photo.jpeg' alt='Pink Christmas Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/824/878/small/christmas-background-pink-tones-xmas-tree-with-snow-decorated-with-garland-lights-holiday-festive-new-year-winter-art-design-holiday-panorama-banner-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Pink Wallpapers for Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7448060819637603614&location=0&aid=1988' alt='Free Christmas Pink Wallpapers for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7448060819637603614&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

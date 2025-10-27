@@ -1,0 +1,129 @@
+<title>Sanrio Boba Wallpaper: Cute & Trendy Designs</title>
+                    <meta name="description" content="Discover the cutest Sanrio boba wallpaper! Featuring beloved characters and vibrant bubble tea motifs, this playful decor brings charm to any space. Elevate your room's style while celebrating the joy of Sanrio and boba. Perfect for fans of all ages seeking a touch of whimsy! Shop now for your favorite designs!">
+                    <meta name="keywords" content="sanrio boba wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/sanrio-boba-wallpaper">
+                            <span itemprop="name">sanrio boba wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sanrio Boba Wallpaper: Cute & Trendy Designs</h1>
+                <p>Transform your space with Sanrio boba wallpaper! Adorn your walls with delightful designs featuring your favorite Sanrio characters enjoying bubble tea. Perfect for kids or adults, this whimsical wallpaper adds a fun flair to any room. Embrace your love for Sanrio and boba with unique patterns that express your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/26/d8/6526d8774ada3a564f5d8c8ef5c4f5d5.jpg' alt='Hello Kitty Boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/26/d8/6526d8774ada3a564f5d8c8ef5c4f5d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty Bubble Tea Sanrio Pfp Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-bubble-tea-sanrio-pfp-lyhbpprp160uzxhg.jpg' alt='Download Hello Kitty Bubble Tea Sanrio Pfp Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-bubble-tea-sanrio-pfp-lyhbpprp160uzxhg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Hello Kitty | Official Sanrio Tee – TeeTurtle">
+                                <img itemprop="contentUrl url" src='https://teeturtle.com/cdn/shop/files/HKF-Boba-Hello-Kitty_4200x4200_SEPS.jpg?v=1703414797&width=1946' alt='Boba Hello Kitty | Official Sanrio Tee – TeeTurtle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeeTurtle" />
+                                </span>
+                                <a href='https://teeturtle.com/cdn/shop/files/HKF-Boba-Hello-Kitty_4200x4200_SEPS.jpg?v=1703414797&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubble Tea and Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/25/91/93/259193e18b55a84c58b13205f27ae537.jpg' alt='Bubble Tea and Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/25/91/93/259193e18b55a84c58b13205f27ae537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi.jpg' alt='Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Boba Tea Collection by SpiritArtsStudio on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7066a89e-4f9b-4041-ac03-a4401fcff16b/dgso8ei-9a8cc8f0-4aba-462a-b713-e7c639192099.png/v1/fill/w_1280,h_1280,q_80,strp/sanrio_boba_tea_collection__by_spiritartsstudio_dgso8ei-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzcwNjZhODllLTRmOWItNDA0MS1hYzAzLWE0NDAxZmNmZjE2YlwvZGdzbzhlaS05YThjYzhmMC00YWJhLTQ2MmEtYjcxMy1lN2M2MzkxOTIwOTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1p4Qx0pt1O4eIVxO5Iha-NzLRBhCtjzegBgaXGoeSs8' alt='Sanrio Boba Tea Collection by SpiritArtsStudio on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7066a89e-4f9b-4041-ac03-a4401fcff16b/dgso8ei-9a8cc8f0-4aba-462a-b713-e7c639192099.png/v1/fill/w_1280,h_1280,q_80,strp/sanrio_boba_tea_collection__by_spiritartsstudio_dgso8ei-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzcwNjZhODllLTRmOWItNDA0MS1hYzAzLWE0NDAxZmNmZjE2YlwvZGdzbzhlaS05YThjYzhmMC00YWJhLTQ2MmEtYjcxMy1lN2M2MzkxOTIwOTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1p4Qx0pt1O4eIVxO5Iha-NzLRBhCtjzegBgaXGoeSs8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/c4/e4/fec4e4bb54192aa39ec03f17b341d75c.jpg' alt='My Melody Boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/c4/e4/fec4e4bb54192aa39ec03f17b341d75c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll Boba Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14110085.jpg' alt='Cinnamoroll Boba Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14110085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Boba Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10717346.jpg' alt='Hello Kitty Boba Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10717346.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll Boba by wolfHunterAllysa on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f80bfe-2e1b-4e03-8af6-3f61e9de2dd8/dg4nets-576e1bd4-2bab-4c28-b256-02a1985a8aaf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxZjgwYmZlLTJlMWItNGUwMy04YWY2LTNmNjFlOWRlMmRkOFwvZGc0bmV0cy01NzZlMWJkNC0yYmFiLTRjMjgtYjI1Ni0wMmExOTg1YThhYWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oAM3kIz-y7grqfEUOiPLrR-2lVnO4Xnh_-7o1WrQzXw' alt='Cinnamoroll Boba by wolfHunterAllysa on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1138">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f80bfe-2e1b-4e03-8af6-3f61e9de2dd8/dg4nets-576e1bd4-2bab-4c28-b256-02a1985a8aaf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxZjgwYmZlLTJlMWItNGUwMy04YWY2LTNmNjFlOWRlMmRkOFwvZGc0bmV0cy01NzZlMWJkNC0yYmFiLTRjMjgtYjI1Ni0wMmExOTg1YThhYWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oAM3kIz-y7grqfEUOiPLrR-2lVnO4Xnh_-7o1WrQzXw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Gratitude Phone Wallpapers: Uplift Your Spirit Daily</title>
+                    <meta name="description" content="Discover beautiful gratitude phone wallpapers that inspire positivity and appreciation. Elevate your device with uplifting designs and quotes that remind you to cherish every moment. Perfect for anyone looking to embrace a life filled with gratitude!">
+                    <meta name="keywords" content="gratitude phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gratitude-phone-wallpaper">
+                            <span itemprop="name">gratitude phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gratitude Phone Wallpapers: Uplift Your Spirit Daily</h1>
+                <p>Transform your device with a gratitude phone wallpaper that serves as a daily reminder to appreciate life's blessings. Whether it features soothing colors, inspiring quotes, or serene landscapes, this wallpaper can uplift your mood and encourage a positive mindset. Embrace the power of gratitude and let it inspire you every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gratitude Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tranquil-sunset-over-gratitude-field-mlf37i7tuzsf619v.jpg' alt='100+] Gratitude Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tranquil-sunset-over-gratitude-field-mlf37i7tuzsf619v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose Gratitude Free Phone Wallpapers – Intelligent Change">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1186/0402/files/Intelligent-Change-iPhone-Wallpaper-3.jpg?v=1614111982' alt='Choose Gratitude Free Phone Wallpapers – Intelligent Change'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intelligent Change" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1186/0402/files/Intelligent-Change-iPhone-Wallpaper-3.jpg?v=1614111982' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gratitude, it's glitter for your soul - Digital Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://content.app-sources.com/s/5417618206141813/uploads/Digital_Phone_Wallpapers/2-6083364.png?format=webp' alt='Gratitude, it's glitter for your soul - Digital Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jasmine Roberts" />
+                                </span>
+                                <a href='https://content.app-sources.com/s/5417618206141813/uploads/Digital_Phone_Wallpapers/2-6083364.png?format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gratitude Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/e/5/1235641-1800x3200-samsung-hd-gratitude-background.jpg' alt='Gratitude Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/e/5/1235641-1800x3200-samsung-hd-gratitude-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be grateful mobile wallpaper - VIVE CON STYLE">
+                                <img itemprop="contentUrl url" src='https://viveconstyle.com/wp-content/uploads/2020/03/Be-grateful-wallpaper.jpg' alt='Be grateful mobile wallpaper - VIVE CON STYLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="vive con style" />
+                                </span>
+                                <a href='https://viveconstyle.com/wp-content/uploads/2020/03/Be-grateful-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grateful thankful and blessed phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/03/48/ba0348fc6e144a2d81f8ef95b637fb52.jpg' alt='Grateful thankful and blessed phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/03/48/ba0348fc6e144a2d81f8ef95b637fb52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gratitude Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/65/45/3e65452a717b0de913cf092a3f931fa6.jpg' alt='Gratitude Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/65/45/3e65452a717b0de913cf092a3f931fa6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Grateful Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdnA5MzMtYXVkaS1pbnN0YWdyYW1zdG9yeS0wNV8xLmpwZw.jpg' alt='Iphone Grateful Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdnA5MzMtYXVkaS1pbnN0YWdyYW1zdG9yeS0wNV8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gratitude Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/6/d/1235640-1125x2436-samsung-hd-gratitude-background-image.jpg' alt='Gratitude Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/6/d/1235640-1125x2436-samsung-hd-gratitude-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grateful">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/49/50/874950f7741adfa1e00f6fba9860d5f1.jpg' alt='Grateful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/49/50/874950f7741adfa1e00f6fba9860d5f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

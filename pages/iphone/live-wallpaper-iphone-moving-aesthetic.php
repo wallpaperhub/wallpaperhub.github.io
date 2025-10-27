@@ -1,0 +1,129 @@
+<title>Aesthetic Live Wallpapers for iPhone: Enhance Your Screen!</title>
+                    <meta name="description" content="Discover the best moving aesthetic live wallpapers for your iPhone! Elevate your device's look with stunning animations that express your style. Perfect for showcasing unique designs, these wallpapers will transform your home and lock screens like never before. Download now for a fresh aesthetic upgrade!">
+                    <meta name="keywords" content="live wallpaper iphone moving aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/live-wallpaper-iphone-moving-aesthetic">
+                            <span itemprop="name">live wallpaper iphone moving aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Live Wallpapers for iPhone: Enhance Your Screen!</h1>
+                <p>Transform your iPhone with stunning moving aesthetic live wallpapers! Choose from vibrant colors and mesmerizing designs that breathe life into your home and lock screens. Whether you're into nature scenes, abstract art, or dreamy animations, these live wallpapers will elevate your device's aesthetic and make it uniquely yours.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAVE A LOVELY DAY....">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/70/f4/22/70f422cec6f2a5a164362ef89c3f6cf7.gif' alt='HAVE A LOVELY DAY....'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/70/f4/22/70f422cec6f2a5a164362ef89c3f6cf7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Ana Oancea on nature | Live wallpaper iphone, Sunset gif ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/86/fd/a7/86fda7d9e2bb6a3dfc59cd2a0c3e7410.gif' alt='Pin by Ana Oancea on nature | Live wallpaper iphone, Sunset gif ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/86/fd/a7/86fda7d9e2bb6a3dfc59cd2a0c3e7410.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It | Moving wallpaper iphone, Live wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/c9/3c/0ec93cad091e9d0a060849ff472ca5b5.gif' alt='We Heart It | Moving wallpaper iphone, Live wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/c9/3c/0ec93cad091e9d0a060849ff472ca5b5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Free Live Wallpaper on iPhone 13 Pro Max: Paradise Wave">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7152390998180810030&location=0&aid=1988' alt='Create Free Live Wallpaper on iPhone 13 Pro Max: Paradise Wave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7152390998180810030&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Live Wallpapers I've found recently. : r/AestheticWallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-live-wallpapers-ive-found-recently-v0-v7mo7ec04l9c1.gif?width=400&auto=webp&s=aa214e547f4540a8510b70977ff14edcdf5b4530' alt='Some Live Wallpapers I've found recently. : r/AestheticWallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-live-wallpapers-ive-found-recently-v0-v7mo7ec04l9c1.gif?width=400&auto=webp&s=aa214e547f4540a8510b70977ff14edcdf5b4530' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Live Wallpaper Aesthetic | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6814846692295331078&location=0&aid=1988' alt='Iphone Live Wallpaper Aesthetic | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6814846692295331078&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Live Wallpapers I've found recently. : r/AestheticWallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-live-wallpapers-ive-found-recently-v0-36xnq2l04l9c1.gif?width=640&crop=smart&auto=webp&s=3cc2126cae98076aa48cc9076a09c6ab2d077898' alt='Some Live Wallpapers I've found recently. : r/AestheticWallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-live-wallpapers-ive-found-recently-v0-36xnq2l04l9c1.gif?width=640&crop=smart&auto=webp&s=3cc2126cae98076aa48cc9076a09c6ab2d077898' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Wallpaper Moving Wallpaper GIF - Living Wallpaper Moving ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/87/35/2f/87352f6b795baf81d7e589384ebc9f79.gif' alt='Living Wallpaper Moving Wallpaper GIF - Living Wallpaper Moving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/87/35/2f/87352f6b795baf81d7e589384ebc9f79.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Moving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' alt='Live Moving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Live Wallpaper Aesthetic | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7453789266896833800&location=0&aid=1988' alt='Iphone Live Wallpaper Aesthetic | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7453789266896833800&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

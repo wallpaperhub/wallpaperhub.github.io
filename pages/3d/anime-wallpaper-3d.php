@@ -1,0 +1,129 @@
+<title>Stunning 3D Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover eye-catching 3D anime wallpapers that brighten your screen! Perfect for fans seeking vibrant artwork, these wallpapers blend color and creativity. Dive into a world of anime aesthetics and transform your device effortlessly. Explore now and enhance your viewing experience with the best 3D designs!">
+                    <meta name="keywords" content="anime wallpaper 3d">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/anime-wallpaper-3d">
+                            <span itemprop="name">anime wallpaper 3d</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Anime Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning 3D anime wallpapers that bring your favorite characters to life! Explore a diverse collection showcasing vivid colors, intricate designs, and dynamic scenes. Ideal for anime lovers looking to personalize their screens with unique art. Elevate your aesthetic and express your fandom today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto's 3d animated wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' alt='Naruto's 3d animated wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/d1/b9/f1d1b9b4618b024f13507ea7826d6a4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d wallpaper anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/07/3e/e9073ec012646f1861368b1777e25e74.jpg' alt='3d wallpaper anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/07/3e/e9073ec012646f1861368b1777e25e74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "Cool Anime iPhone 7 Wallpaper https://t ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EV-3mecXsAcua5W.jpg:large' alt='3D iPhone Wallpaper on X: "Cool Anime iPhone 7 Wallpaper https://t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EV-3mecXsAcua5W.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Wallpaper Anime Sword Art Online Colour 3D Super Large ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cJA7qKAoL._AC_UF894,1000_QL80_.jpg' alt='Wall Mural Wallpaper Anime Sword Art Online Colour 3D Super Large ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cJA7qKAoL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shinobi, 3d, anime, character, digital, face, mask, ninja, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/667/572/HD-wallpaper-anime-ninja-anime-girl-ninja-anime-artist-artwork-digital-art-thumbnail.jpg' alt='Shinobi, 3d, anime, character, digital, face, mask, ninja, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/667/572/HD-wallpaper-anime-ninja-anime-girl-ninja-anime-artist-artwork-digital-art-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPER ANIME 3D #wallpaperaesthetic #wallpaper #wallpaperengine  #wallpapers #animeedit #animetiktok #aiartcommunity #midjourney  #midjourneycommunity #art #4kwallpaper #anime #iphonewallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7393088154263211297&location=0&aid=1988' alt='WALLPAPER ANIME 3D #wallpaperaesthetic #wallpaper #wallpaperengine  #wallpapers #animeedit #animetiktok #aiartcommunity #midjourney  #midjourneycommunity #art #4kwallpaper #anime #iphonewallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7393088154263211297&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper 4K/3D - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' alt='Anime Live Wallpaper 4K/3D - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/_v5x8VXc1XW05vNsYT_gmmvlSEa5ykHaArqk1KeMaxZdIN07PxdzM0K1YM44OfuSuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Anime Theme 3D Wallpaper For Mobile">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/056/333/760/large/piyush-kumar-2sasuke-susanoo.jpg?1669011733' alt='ArtStation - Anime Theme 3D Wallpaper For Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="3413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/056/333/760/large/piyush-kumar-2sasuke-susanoo.jpg?1669011733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Photo Wallpaper 3D Effect 400 * 280Cm Cool Cartoon Anime ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61bqYE+LyFL.jpg' alt='Mural Photo Wallpaper 3D Effect 400 * 280Cm Cool Cartoon Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61bqYE+LyFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Eyes Anime Eye Wallpaper 3d Backgrounds | JPG Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230421/46bb159ae1cb72ddf76743006649ed8d.jpg!sw800' alt='Animal Eyes Anime Eye Wallpaper 3d Backgrounds | JPG Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230421/46bb159ae1cb72ddf76743006649ed8d.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

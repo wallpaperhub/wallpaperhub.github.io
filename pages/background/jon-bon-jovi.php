@@ -1,0 +1,129 @@
+<title>Jon Bon Jovi: Rock Icon and Philanthropist</title>
+                    <meta name="description" content="Explore the life and legacy of Jon Bon Jovi, the iconic rock star behind unforgettable hits and meaningful philanthropy. Discover his journey in music and beyond!">
+                    <meta name="keywords" content="jon bon jovi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jon-bon-jovi">
+                            <span itemprop="name">jon bon jovi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jon Bon Jovi: Rock Icon and Philanthropist</h1>
+                <p>Jon Bon Jovi is a legendary rock musician, known for his powerful vocals and charismatic stage presence. As the lead singer of Bon Jovi, he has produced timeless hits like "Livin' on a Prayer" and "You Give Love a Bad Name." Beyond music, he is a passionate philanthropist and a successful actor, inspiring millions worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bf/NEG_0062-2_%2854119957209%29.jpg' alt='Jon Bon Jovi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1871">
+                                <meta itemprop="height" content="2807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bf/NEG_0062-2_%2854119957209%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/68140_v9_bb.jpg' alt='Jon Bon Jovi | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/68140_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Jon Bon Jovi Gives Back To His Local Community & Beyond">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/Jon-Bon-Jovi-2023-GettyImages-1683310268.jpg?w=821&sm=c' alt='How Jon Bon Jovi Gives Back To His Local Community & Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusiCares" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/Jon-Bon-Jovi-2023-GettyImages-1683310268.jpg?w=821&sm=c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Week In Music: Jon Bon Jovi Shoots From The Heart | GRAMMY.com">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/jonbonjo_eduar_60641020_max.jpg.jpg' alt='The Week In Music: Jon Bon Jovi Shoots From The Heart | GRAMMY.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="3497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/jonbonjo_eduar_60641020_max.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi - Wife, Age & Songs">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1209230036.jpg' alt='Jon Bon Jovi - Wife, Age & Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1209230036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi on the early days of his career: I never had a 'Plan B'">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sYF0sf_GTjM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCKTo-Zy7T0tbe2eizkFVYXWpPBqA' alt='Jon Bon Jovi on the early days of his career: I never had a 'Plan B''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sYF0sf_GTjM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCKTo-Zy7T0tbe2eizkFVYXWpPBqA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi : The Biography: laura-jackson: 9780749950231: Amazon.com:  Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bRR06Z4eL.jpg' alt='Jon Bon Jovi : The Biography: laura-jackson: 9780749950231: Amazon.com:  Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1487">
+                                <meta itemprop="height" content="2354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bRR06Z4eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi admits he 'got away with murder,' had '100 girls in ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1200/675/Jon-Bon-Jovi-Dorothea-Hurley.jpg?ve=1&tl=1' alt='Jon Bon Jovi admits he 'got away with murder,' had '100 girls in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1200/675/Jon-Bon-Jovi-Dorothea-Hurley.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q&A: Jon Bon Jovi Talks Pushing Himself on Tour">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/stylus/105101-jon_bon_jovi_617_409.jpg?w=617' alt='Q&A: Jon Bon Jovi Talks Pushing Himself on Tour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/stylus/105101-jon_bon_jovi_617_409.jpg?w=617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Bon Jovi Can Still Sing Following Vocal Cord Surgery">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2024/04/GettyImages-1973664199-copy-1.jpg?w=1296&h=730&crop=1' alt='Jon Bon Jovi Can Still Sing Following Vocal Cord Surgery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2024/04/GettyImages-1973664199-copy-1.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

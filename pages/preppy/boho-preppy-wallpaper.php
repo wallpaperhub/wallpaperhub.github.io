@@ -1,0 +1,129 @@
+<title>Stylish Boho Preppy Wallpaper for Every Space</title>
+                    <meta name="description" content="Explore our chic boho preppy wallpaper collection. Perfect for adding a splash of color and character to your home, this wallpaper combines bohemian flair with preppy elegance. Discover unique patterns and designs that will elevate your décor effortlessly!">
+                    <meta name="keywords" content="boho preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/boho-preppy-wallpaper">
+                            <span itemprop="name">boho preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Boho Preppy Wallpaper for Every Space</h1>
+                <p>Transform your space with boho preppy wallpaper, a unique fusion of bohemian charm and preppy sophistication. This eclectic wallpaper captures the essence of carefree style with vibrant patterns, earthy tones, and intricate designs. Ideal for cozy nooks or statement walls, it effortlessly enhances any room's aesthetic, creating a warm and inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c6/5d/1f/c65d1f04b3ee35f97d8e7834e8b2028a.jpg' alt='Boho Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c6/5d/1f/c65d1f04b3ee35f97d8e7834e8b2028a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | Wallpaper iphone boho, Phone wallpaper boho, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/0e/ae/440eae2637b076dc80c9d87a83b3e2ff.jpg' alt='Wallpaper | Wallpaper iphone boho, Phone wallpaper boho, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/0e/ae/440eae2637b076dc80c9d87a83b3e2ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Simple Boho Watercolor Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-boho-watercolor-2krd9y7urgb092u5.jpg' alt='Download Simple Boho Watercolor Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-boho-watercolor-2krd9y7urgb092u5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Rainbow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/3e/e8/a93ee8d2fe522a0c123b14c4f6415b17.jpg' alt='Boho Rainbow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/3e/e8/a93ee8d2fe522a0c123b14c4f6415b17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Preppy wallpaper ideas | preppy wallpaper, aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3a/ce/9b/3ace9b6d978a479eb72e0bede52c3eeb.jpg' alt='17 Preppy wallpaper ideas | preppy wallpaper, aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3a/ce/9b/3ace9b6d978a479eb72e0bede52c3eeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Boho Floral Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/simple-boho-sunrise-94e6vhuka2g3fnj0.webp' alt='Simple Boho Floral Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/simple-boho-sunrise-94e6vhuka2g3fnj0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Boho Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/boho-laptop-rsutcdp1mp0xmrea.jpg' alt='100+] Boho Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/boho-laptop-rsutcdp1mp0xmrea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy wallpaper | Phone wallpaper boho, Preppy wallpaper, Simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5f/e6/00/5fe6006cd1a0575e7bdd3d46a222227a.jpg' alt='preppy wallpaper | Phone wallpaper boho, Preppy wallpaper, Simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5f/e6/00/5fe6006cd1a0575e7bdd3d46a222227a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exuding A Stylish Simplicity, Bohemian Patterns Embracing Modern ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/exuding-a-stylish-simplicity-bohemian-patterns-embracing-modern-shapes-xk9qq6dqbp327f1p.jpg' alt='Exuding A Stylish Simplicity, Bohemian Patterns Embracing Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/exuding-a-stylish-simplicity-bohemian-patterns-embracing-modern-shapes-xk9qq6dqbp327f1p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Boho Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/boho-iphone-a8ya1ulw84vkwbf7.jpg' alt='100+] Boho Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/boho-iphone-a8ya1ulw84vkwbf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

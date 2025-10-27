@@ -1,0 +1,129 @@
+<title>Stylish Black and White Wallpaper for Elegant Spaces</title>
+                    <meta name="description" content="Discover the allure of black and white wallpaper, perfect for elevating your interior design. Explore chic patterns and textures that transform your space into a sophisticated retreat. Ideal for any room, our collection combines classic elegance with modern flair for stunning results.">
+                    <meta name="keywords" content="black in white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-in-white-wallpaper">
+                            <span itemprop="name">black in white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black and White Wallpaper for Elegant Spaces</h1>
+                <p>Black and white wallpaper brings a timeless elegance to any space, creating a striking contrast that enhances room aesthetics. Whether you prefer bold patterns or subtle textures, this classic color scheme adds sophistication and depth. Ideal for modern or traditional settings, black and white wallpaper allows for endless design possibilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Wallpaper Photos, Download The BEST Free Black And ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3849160/pexels-photo-3849160.jpeg?cs=srgb&dl=pexels-sharath-giri-77553-3849160.jpg&fm=jpg' alt='Black And White Wallpaper Photos, Download The BEST Free Black And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3849160/pexels-photo-3849160.jpeg?cs=srgb&dl=pexels-sharath-giri-77553-3849160.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Black and White Floral Wallpaper White Daisy Wallpaper Modern  Floral Peel and Stick Wallpaper 17.5in×10ft Dark Wildflower/Leaves/Twigs ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91WII7IyohL.jpg' alt='ReWallpaper Black and White Floral Wallpaper White Daisy Wallpaper Modern  Floral Peel and Stick Wallpaper 17.5in×10ft Dark Wildflower/Leaves/Twigs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91WII7IyohL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Phone White Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-aesthetic-phone-white-heart-nbycexiln13rnn5t.jpg' alt='Black Aesthetic Phone White Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-aesthetic-phone-white-heart-nbycexiln13rnn5t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper | 40% Off - Free Shipping (Samples)">
+                                <img itemprop="contentUrl url" src='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/black-wallpaper-banner-mobile.jpg' alt='Black and White Wallpaper | 40% Off - Free Shipping (Samples)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://h2a3i5q4.rocketcdn.me/wp-content/uploads/black-wallpaper-banner-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Wave Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-rendering-abstract-black-white-background_23-2150913897.jpg' alt='Black White Wave Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-rendering-abstract-black-white-background_23-2150913897.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic White And Black Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-white-and-black-iphone-6g7ro7op7fzvwmqj.jpg' alt='100+] Aesthetic White And Black Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-white-and-black-iphone-6g7ro7op7fzvwmqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white shop wallpaper">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/07/Black-and-White-iphone-Wallpaper.jpg' alt='Black and white shop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Timewave" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/07/Black-and-White-iphone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Stripes">
+                                <img itemprop="contentUrl url" src='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982_1200x630.png?v=1619804054' alt='Black and White Stripes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='http://musewallstudio.com/cdn/shop/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982_1200x630.png?v=1619804054' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Wallpaper Photos, Download The BEST Free Black And ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2027697/pexels-photo-2027697.jpeg?cs=srgb&dl=pexels-anubhaw-anand-2027697.jpg&fm=jpg' alt='Black And White Wallpaper Photos, Download The BEST Free Black And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2027697/pexels-photo-2027697.jpeg?cs=srgb&dl=pexels-anubhaw-anand-2027697.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/d3e0d7adc9dd3a3d20016873e0ac27b3_grande.jpg?v=1723298851' alt='Black and White Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/d3e0d7adc9dd3a3d20016873e0ac27b3_grande.jpg?v=1723298851' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ted Cruz: Key Facts and Insights</title>
+                    <meta name="description" content="Explore the life and career of Ted Cruz, U.S. Senator from Texas. Discover his conservative stance and influence on major legislation, along with key moments from his presidential campaign. Stay informed about his policies and political impact in modern America.">
+                    <meta name="keywords" content="ted cruz">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ted-cruz">
+                            <span itemprop="name">ted cruz</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ted Cruz: Key Facts and Insights</h1>
+                <p>Ted Cruz is a prominent American politician and attorney, currently serving as a U.S. Senator from Texas. Known for his conservative views, he gained national attention during the 2016 Presidential campaign. Cruz is an advocate for limited government, tax reform, and strong national defense, often influencing key legislative debates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Cruz - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a6/Ted_Cruz_senatorial_portrait.jpg' alt='Ted Cruz - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a6/Ted_Cruz_senatorial_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Sen. Ted Cruz details in our Elected Officials Directory ...">
+                                <img itemprop="contentUrl url" src='https://static.texastribune.org/media/files/600d28682a2731e6cfa9649926acbc5a/Ted-Cruz.jpg' alt='U.S. Sen. Ted Cruz details in our Elected Officials Directory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Texas Tribune" />
+                                </span>
+                                <a href='https://static.texastribune.org/media/files/600d28682a2731e6cfa9649926acbc5a/Ted-Cruz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyeing re-election, Ted Cruz seeks to burnish a bipartisan image">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-03/230330-ted-cruz-jm-1205-a10715.jpg' alt='Eyeing re-election, Ted Cruz seeks to burnish a bipartisan image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-03/230330-ted-cruz-jm-1205-a10715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Never Forget What Ted Cruz Did - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/01/11/opinion/11swartzWeb/merlin_179127297_02813f48-a6ac-4d87-b696-ed72ccb33b86-superJumbo.jpg' alt='Opinion | Never Forget What Ted Cruz Did - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/01/11/opinion/11swartzWeb/merlin_179127297_02813f48-a6ac-4d87-b696-ed72ccb33b86-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Cruz | Biography & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/181144-050-6E76B2BE/Ted-Cruz.jpg' alt='Ted Cruz | Biography & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/181144-050-6E76B2BE/Ted-Cruz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sen. Ted Cruz [R-TX, 2013-2030], Senator for Texas - GovTrack.us">
+                                <img itemprop="contentUrl url" src='https://www.govtrack.us/static/legislator-photos/412573-200px.jpeg' alt='Sen. Ted Cruz [R-TX, 2013-2030], Senator for Texas - GovTrack.us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GovTrack.us" />
+                                </span>
+                                <a href='https://www.govtrack.us/static/legislator-photos/412573-200px.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Ted Cruz's abortion record could cost him a historic election ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/65d3f4fdf1acb0246d3fec3c46ce6ea91c7de87d/48_0_5868_3521/master/5868.jpg?width=1200&quality=85&auto=format&fit=max&s=b5da00f27c511c96d0aa2d573cad9458' alt='How Ted Cruz's abortion record could cost him a historic election ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/65d3f4fdf1acb0246d3fec3c46ce6ea91c7de87d/48_0_5868_3521/master/5868.jpg?width=1200&quality=85&auto=format&fit=max&s=b5da00f27c511c96d0aa2d573cad9458' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Things You Never Knew About Ted Cruz That We Learned From ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/Politics/ABC_ted_cruz_jt_150208_16x9_992.jpg' alt='7 Things You Never Knew About Ted Cruz That We Learned From ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/Politics/ABC_ted_cruz_jt_150208_16x9_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Senator Ted Cruz makes his case to Texas for a third term ...">
+                                <img itemprop="contentUrl url" src='https://cdn.houstonpublicmedia.org/wp-content/uploads/2024/10/15223244/1015-Cruz-Allred-Debate-ST-08-1500x1000.jpg' alt='Senator Ted Cruz makes his case to Texas for a third term ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Public Media" />
+                                </span>
+                                <a href='https://cdn.houstonpublicmedia.org/wp-content/uploads/2024/10/15223244/1015-Cruz-Allred-Debate-ST-08-1500x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verdict with Ted Cruz | Podcast on Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6765630000ba8aa54244e39b87d733864d3289' alt='Verdict with Ted Cruz | Podcast on Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6765630000ba8aa54244e39b87d733864d3289' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

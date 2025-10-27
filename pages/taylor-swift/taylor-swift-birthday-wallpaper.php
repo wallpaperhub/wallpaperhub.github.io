@@ -1,0 +1,129 @@
+<title>Taylor Swift Birthday Wallpapers: Celebrate in Style</title>
+                    <meta name="description" content="Discover beautiful Taylor Swift birthday wallpapers that bring her music and spirit to your screen. Perfect for fans looking to celebrate her special day, these downloadable wallpapers are ideal for both mobile and desktop. Get yours now and let the celebration begin!">
+                    <meta name="keywords" content="taylor swift birthday wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-birthday-wallpaper">
+                            <span itemprop="name">taylor swift birthday wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Birthday Wallpapers: Celebrate in Style</h1>
+                <p>Celebrate Taylor Swift's birthday with stunning wallpapers that capture her essence! From iconic album covers to candid moments, these vibrant designs will brighten your screens. Perfect for fans, these wallpapers can be used on both desktop and mobile devices. Download your favorite and let Taylor's music inspire you every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAPPY BIRTHDAY TAYLAH #taylorswift #happybirthday #december13th">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/0b/e7/ce0be7672212726ca7488909410e4805.jpg' alt='HAPPY BIRTHDAY TAYLAH #taylorswift #happybirthday #december13th'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/0b/e7/ce0be7672212726ca7488909410e4805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Printable Birthday Day Card-Happy Birth-Tay!">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32818878/r/il/dc3b21/4529550748/il_fullxfull.4529550748_i8a5.jpg' alt='Taylor Swift Printable Birthday Day Card-Happy Birth-Tay!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32818878/r/il/dc3b21/4529550748/il_fullxfull.4529550748_i8a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Singer Birthday Banner for Swift Party Decorations 0.6 x 36 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71OlZFtXAgL.jpg' alt='Taylor Singer Birthday Banner for Swift Party Decorations 0.6 x 36 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71OlZFtXAgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="happy birthday to the loml!!! #taylorswift #taylorsversion ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/73/3c/13733c0e7b940477c0147d11178de0aa.jpg' alt='happy birthday to the loml!!! #taylorswift #taylorsversion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/73/3c/13733c0e7b940477c0147d11178de0aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy BirthTAY Taylor Swift BIRTHDAY Card">
+                                <img itemprop="contentUrl url" src='http://www.allport.com/cdn/shop/products/e060ed589c14c087e2f3c953ec3904aa5c6a9a57a16cb2b25e617076e622ddfd.jpg?v=1697083738' alt='Happy BirthTAY Taylor Swift BIRTHDAY Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allport Editions" />
+                                </span>
+                                <a href='http://www.allport.com/cdn/shop/products/e060ed589c14c087e2f3c953ec3904aa5c6a9a57a16cb2b25e617076e622ddfd.jpg?v=1697083738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Singer Taylor Happy Birthday Photography Backdrop Party Studio Decors  Background">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/-HwAAOSwhqtlRL8X/s-l1200.jpg' alt='Singer Taylor Happy Birthday Photography Backdrop Party Studio Decors  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/-HwAAOSwhqtlRL8X/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Taylor Swift! by bettysdale on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0f43739-b173-42d5-93d5-ac2d863d9a99/decyg5q-43a21659-2327-4c7d-a315-681cd6eecbfc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwZjQzNzM5LWIxNzMtNDJkNS05M2Q1LWFjMmQ4NjNkOWE5OVwvZGVjeWc1cS00M2EyMTY1OS0yMzI3LTRjN2QtYTMxNS02ODFjZDZlZWNiZmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VIov2epA2IeBQZcuYcO4FNsZETCVccSo3bKjz65XCLE' alt='Happy Birthday Taylor Swift! by bettysdale on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1102">
+                                <meta itemprop="height" content="1541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0f43739-b173-42d5-93d5-ac2d863d9a99/decyg5q-43a21659-2327-4c7d-a315-681cd6eecbfc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwZjQzNzM5LWIxNzMtNDJkNS05M2Q1LWFjMmQ4NjNkOWE5OVwvZGVjeWc1cS00M2EyMTY1OS0yMzI3LTRjN2QtYTMxNS02ODFjZDZlZWNiZmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VIov2epA2IeBQZcuYcO4FNsZETCVccSo3bKjz65XCLE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Birthday Cards | Moonpig">
+                                <img itemprop="contentUrl url" src='https://images.cdn.europe-west1.gcp.commercetools.com/163a392c-de12-4559-841a-25ed7bfdcebb/img-y1LrBtvp-medium.jpg' alt='Taylor Swift Birthday Cards | Moonpig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moonpig" />
+                                </span>
+                                <a href='https://images.cdn.europe-west1.gcp.commercetools.com/163a392c-de12-4559-841a-25ed7bfdcebb/img-y1LrBtvp-medium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday Taylor Swift">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/49/d5/e349d58bdc6a75a342659d00e176cca9.jpg' alt='Happy birthday Taylor Swift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/49/d5/e349d58bdc6a75a342659d00e176cca9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABC 7 Chicago - HAPPY BIRTHDAY TAYLOR SWIFT! The singer-songwriter ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156291299046162' alt='ABC 7 Chicago - HAPPY BIRTHDAY TAYLOR SWIFT! The singer-songwriter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="806">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156291299046162' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

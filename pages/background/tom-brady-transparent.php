@@ -1,0 +1,129 @@
+<title>Tom Brady: The Power of Transparency</title>
+                    <meta name="description" content="Explore how Tom Brady’s transparent approach to training, nutrition, and mindset has shaped his legendary career. Discover insights that inspire athletes and connect fans, revealing the secrets behind his remarkable success in football.">
+                    <meta name="keywords" content="tom brady transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tom-brady-transparent">
+                            <span itemprop="name">tom brady transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tom Brady: The Power of Transparency</h1>
+                <p>Tom Brady's career has been marked by exceptional transparency, both on and off the field. He openly shares insights into his training, diet, and mindset, offering fans a glimpse into the dedication that fuels his success. This candid approach has not only inspired countless athletes but has also fostered a deeper connection with his audience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady New England Patriots transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5895dc60cba9841eabab6094.png' alt='Tom Brady New England Patriots transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="803">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5895dc60cba9841eabab6094.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady Clipart - Tom Brady New England Patriots Png - Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/79/8e/14798e6751c2b4b16e13b878fb840cb5.jpg' alt='Tom Brady Clipart - Tom Brady New England Patriots Png - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/79/8e/14798e6751c2b4b16e13b878fb840cb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Patriots Tom Brady transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b585b2edbce24c47b2b3d.png' alt='New England Patriots Tom Brady transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b585b2edbce24c47b2b3d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady Home Uniform png by NFLPNG on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad2b0613-88ce-4a34-9886-81b80561c43b/ddmf4q8-cca44dfc-7ae0-40cc-8517-3fbb1d87293b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkMmIwNjEzLTg4Y2UtNGEzNC05ODg2LTgxYjgwNTYxYzQzYlwvZGRtZjRxOC1jY2E0NGRmYy03YWUwLTQwY2MtODUxNy0zZmJiMWQ4NzI5M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ov2miBa2o6tBcmGg2dV7b2cYYuyN1NIgSDYjixPuzaQ' alt='Tom Brady Home Uniform png by NFLPNG on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad2b0613-88ce-4a34-9886-81b80561c43b/ddmf4q8-cca44dfc-7ae0-40cc-8517-3fbb1d87293b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkMmIwNjEzLTg4Y2UtNGEzNC05ODg2LTgxYjgwNTYxYzQzYlwvZGRtZjRxOC1jY2E0NGRmYy03YWUwLTQwY2MtODUxNy0zZmJiMWQ4NzI5M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ov2miBa2o6tBcmGg2dV7b2cYYuyN1NIgSDYjixPuzaQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/15/Tom-Brady-PNG-Picture.png' alt='Tom Brady PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1351">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/15/Tom-Brady-PNG-Picture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Tom-Brady-PNG-File.png' alt='Tom Brady PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Tom-Brady-PNG-File.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print: Tom Brady, 14x11in. - Free Transparent PNG Download - PNGkey">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/145-1455143_print-tom-brady-14x11in.png' alt='Print: Tom Brady, 14x11in. - Free Transparent PNG Download - PNGkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/145-1455143_print-tom-brady-14x11in.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Tom Brady PNG Image Background - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/tom-brady-png-image-background--comdlpng6952862.jpg' alt='Free: Tom Brady PNG Image Background - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/tom-brady-png-image-background--comdlpng6952862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tom Brady of Other Jobs - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nytimes.com/newsgraphics/2022-09-19-tom-brady-of-other-jobs/e54d124884dd3a4441ae2f0ac3d9a221df4373ea/_big_assets/images/top_01-2000.png' alt='The Tom Brady of Other Jobs - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nytimes.com/newsgraphics/2022-09-19-tom-brady-of-other-jobs/e54d124884dd3a4441ae2f0ac3d9a221df4373ea/_big_assets/images/top_01-2000.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady Color Rush Uniform png by NFLPNG on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad2b0613-88ce-4a34-9886-81b80561c43b/ddmf4yh-12e1df1b-c749-443f-b42b-f16ff09be97b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkMmIwNjEzLTg4Y2UtNGEzNC05ODg2LTgxYjgwNTYxYzQzYlwvZGRtZjR5aC0xMmUxZGYxYi1jNzQ5LTQ0M2YtYjQyYi1mMTZmZjA5YmU5N2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d3Xh_D2rWwceS4B-fnhiJ2fyCpGK9ycFa1s7tz0URFk' alt='Tom Brady Color Rush Uniform png by NFLPNG on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad2b0613-88ce-4a34-9886-81b80561c43b/ddmf4yh-12e1df1b-c749-443f-b42b-f16ff09be97b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkMmIwNjEzLTg4Y2UtNGEzNC05ODg2LTgxYjgwNTYxYzQzYlwvZGRtZjR5aC0xMmUxZGYxYi1jNzQ5LTQ0M2YtYjQyYi1mMTZmZjA5YmU5N2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d3Xh_D2rWwceS4B-fnhiJ2fyCpGK9ycFa1s7tz0URFk' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Deliciously Sweet: Discover Hershey's Kisses</title>
+                    <meta name="description" content="Indulge in the rich, creamy delight of Hershey's Kisses! These iconic chocolate treats are perfect for gifting, baking, or enjoying solo. Experience the joy of chocolate in every bite and make celebrations memorable with this timeless favorite.">
+                    <meta name="keywords" content="hershey's kisses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hersheys-kisses">
+                            <span itemprop="name">hershey's kisses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deliciously Sweet: Discover Hershey's Kisses</h1>
+                <p>Hershey's Kisses are iconic chocolate treats known for their distinctive shape and rich, creamy flavor. These bite-sized morsels, wrapped in shiny foil, bring joy to chocolate lovers of all ages. Perfect for sharing or savoring alone, they make every occasion sweeter, whether in cookies, desserts, or as a delightful snack.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Milk Chocolate Candy, Party Pack 35.8 oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Hershey-s-Kisses-Milk-Chocolate-Candy-Party-Pack-35-8-oz_9c6d1a2f-55e1-4569-8d90-424e0ae22043.b438fb4a6da7634f943624349f8c8d37.jpeg' alt='Hershey's Kisses Milk Chocolate Candy, Party Pack 35.8 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Hershey-s-Kisses-Milk-Chocolate-Candy-Party-Pack-35-8-oz_9c6d1a2f-55e1-4569-8d90-424e0ae22043.b438fb4a6da7634f943624349f8c8d37.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Milk Chocolate Christmas Colors Bulk Bags">
+                                <img itemprop="contentUrl url" src='https://allcitycandy.com/cdn/shop/products/kissesbulk_1_2048x.jpg?v=1698170712' alt='Hershey's Kisses Milk Chocolate Christmas Colors Bulk Bags'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All City Candy" />
+                                </span>
+                                <a href='https://allcitycandy.com/cdn/shop/products/kissesbulk_1_2048x.jpg?v=1698170712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Candy Hershey's Kisses Milk Chocolates">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/207504547143328.jpeg?fit=inside|540:540' alt='Light Blue Candy Hershey's Kisses Milk Chocolates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/207504547143328.jpeg?fit=inside|540:540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green & Gold Hershey's Kisses Foil Wrapped Bulk Chocolate Candy">
+                                <img itemprop="contentUrl url" src='https://justcandy.vtexassets.com/arquivos/ids/255813-800-auto?v=637849908926070000&width=800&height=auto&aspect=true' alt='Green & Gold Hershey's Kisses Foil Wrapped Bulk Chocolate Candy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Candy Store - Bulk Candy Online @ JustCandy.com" />
+                                </span>
+                                <a href='https://justcandy.vtexassets.com/arquivos/ids/255813-800-auto?v=637849908926070000&width=800&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HERSHEY'S KISSES Milk Chocolate Candy Share Pack, 10.8 oz">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XH4uNc5+L.jpg' alt='HERSHEY'S KISSES Milk Chocolate Candy Share Pack, 10.8 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XH4uNc5+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Milk Chocolate Party Pack - 35.8-oz. Bag">
+                                <img itemprop="contentUrl url" src='http://allcitycandy.com/cdn/shop/products/Hershey_s_Milk_Chocolate_Kisses_600x.jpg?v=1576258899' alt='Hershey's Kisses Milk Chocolate Party Pack - 35.8-oz. Bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All City Candy" />
+                                </span>
+                                <a href='http://allcitycandy.com/cdn/shop/products/Hershey_s_Milk_Chocolate_Kisses_600x.jpg?v=1576258899' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Milk Chocolates, 19.75 oz.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Hershey-s-Kisses-Milk-Chocolates-19-75-oz_f3e0119a-4045-40d3-bdc8-232c31766a97_1.4b6aa664476ba1c4890f2c9808fe1493.jpeg' alt='Hershey's Kisses Milk Chocolates, 19.75 oz.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Hershey-s-Kisses-Milk-Chocolates-19-75-oz_f3e0119a-4045-40d3-bdc8-232c31766a97_1.4b6aa664476ba1c4890f2c9808fe1493.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Candy - 1 lb.">
+                                <img itemprop="contentUrl url" src='https://www.mastgeneralstore.com/prodimages/156-DEFAULT-l.jpg' alt='Hershey's Kisses Candy - 1 lb.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mast General Store" />
+                                </span>
+                                <a href='https://www.mastgeneralstore.com/prodimages/156-DEFAULT-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hershey's Kisses Christmas Foiled Milk Chocolate Candy: 335-Piece Bag">
+                                <img itemprop="contentUrl url" src='https://www.candywarehouse.com/cdn/shop/files/hershey-s-kisses-christmas-foiled-milk-chocolate-candy-210-piece-bag-candy-warehouse-6.jpg?v=1736562744&width=1000' alt='Hershey's Kisses Christmas Foiled Milk Chocolate Candy: 335-Piece Bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Warehouse" />
+                                </span>
+                                <a href='https://www.candywarehouse.com/cdn/shop/files/hershey-s-kisses-christmas-foiled-milk-chocolate-candy-210-piece-bag-candy-warehouse-6.jpg?v=1736562744&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HERSHEY'S KISSES Candy | Hersheyland">
+                                <img itemprop="contentUrl url" src='https://www.hersheyland.com/brands/kisses/_jcr_content/root/container/container/section_copy_copy_co/col1/section/col1/section_copy/col2/section_2003199658/col1/image_copy.coreimg.png/1710165632266/partially-unwrapped-hersheys-kisses-milk-chocolate.png' alt='HERSHEY'S KISSES Candy | Hersheyland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hersheyland" />
+                                </span>
+                                <a href='https://www.hersheyland.com/brands/kisses/_jcr_content/root/container/container/section_copy_copy_co/col1/section/col1/section_copy/col2/section_2003199658/col1/image_copy.coreimg.png/1710165632266/partially-unwrapped-hersheys-kisses-milk-chocolate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

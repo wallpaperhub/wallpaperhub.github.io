@@ -1,0 +1,129 @@
+<title>Discover the Grumpy Charm of Husk from Hazbin Hotel</title>
+                    <meta name="description" content="Explore Husk, the grumpy bouncer from Hazbin Hotel, known for his sharp wit and complex backstory. Dive into his character and uncover the humor and depth that makes him a fan favorite in this animated series set in a colorful version of Hell.">
+                    <meta name="keywords" content="husk hazbin hotel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/husk-hazbin-hotel">
+                            <span itemprop="name">husk hazbin hotel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Grumpy Charm of Husk from Hazbin Hotel</h1>
+                <p>Husk from Hazbin Hotel is a vital character in this animated series. He’s a grumpy, sarcastic bouncer at the Happy Hotel, known for his authentic personality and sharp wit. Husk's backstory adds depth, often exploring themes of redemption and struggle, making him relatable yet entertaining in the vibrant setting of Hell.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Husk | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/2/25/HuskRender_by_OKDraws.png/revision/latest/scale-to-width-down/1200?cb=20240422083432' alt='Husk | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/2/25/HuskRender_by_OKDraws.png/revision/latest/scale-to-width-down/1200?cb=20240422083432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Husk | Hazbin Hotel and Helluva Boss Rp Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-rp-crew/images/3/33/Husk_Show_Design.png/revision/latest?cb=20221102202528' alt='Husk | Hazbin Hotel and Helluva Boss Rp Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2717">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel and Helluva Boss Rp Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-rp-crew/images/3/33/Husk_Show_Design.png/revision/latest?cb=20221102202528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Husk | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/f/f6/Husk_%28Overlord%29.jpeg/revision/latest/scale-to-width/360?cb=20240119075810' alt='Husk | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/f/f6/Husk_%28Overlord%29.jpeg/revision/latest/scale-to-width/360?cb=20240119075810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unpopular opinion but Husk is the best character in the show : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cz29033ge5ec1.jpeg' alt='Unpopular opinion but Husk is the best character in the show : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1057">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cz29033ge5ec1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've seen no one actually talking about this, but why does Husk ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ive-seen-no-one-actually-talking-about-this-but-why-does-v0-8dfob7k22x1d1.jpeg?width=640&crop=smart&auto=webp&s=139decb106c06f5319351be1a57a5028df065c4a' alt='I've seen no one actually talking about this, but why does Husk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ive-seen-no-one-actually-talking-about-this-but-why-does-v0-8dfob7k22x1d1.jpeg?width=640&crop=smart&auto=webp&s=139decb106c06f5319351be1a57a5028df065c4a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Husk (Hazbin Hotel) | VS Battles Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/vsbattles/images/1/1b/Husk_Hazbin_Render.png/revision/latest/scale-to-width-down/500?cb=20240202222202' alt='Husk (Hazbin Hotel) | VS Battles Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VS Battles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/vsbattles/images/1/1b/Husk_Hazbin_Render.png/revision/latest/scale-to-width-down/500?cb=20240202222202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel, but only when Husk is on screen">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/bnGShb5O-jk/maxresdefault.jpg' alt='Hazbin Hotel, but only when Husk is on screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/bnGShb5O-jk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just... Husk :) [HOTEL HAZBIN, LEMIHEDER] by LemiHeder on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19fe54ef-048a-4d31-8c3e-fe3e1b9f29dd/dguxiyc-0cdf883a-a909-4726-ac10-1eb03a51ad2d.jpg/v1/fill/w_1280,h_1846,q_75,strp/just____husk_____hotel_hazbin__lemiheder__by_lemiheder_dguxiyc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg0NiIsInBhdGgiOiJcL2ZcLzE5ZmU1NGVmLTA0OGEtNGQzMS04YzNlLWZlM2UxYjlmMjlkZFwvZGd1eGl5Yy0wY2RmODgzYS1hOTA5LTQ3MjYtYWMxMC0xZWIwM2E1MWFkMmQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZsWF3mEwQIY_2Xzd5wlKaqMub8ANr5QAKDW1oxyW3-g' alt='Just... Husk :) [HOTEL HAZBIN, LEMIHEDER] by LemiHeder on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19fe54ef-048a-4d31-8c3e-fe3e1b9f29dd/dguxiyc-0cdf883a-a909-4726-ac10-1eb03a51ad2d.jpg/v1/fill/w_1280,h_1846,q_75,strp/just____husk_____hotel_hazbin__lemiheder__by_lemiheder_dguxiyc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg0NiIsInBhdGgiOiJcL2ZcLzE5ZmU1NGVmLTA0OGEtNGQzMS04YzNlLWZlM2UxYjlmMjlkZFwvZGd1eGl5Yy0wY2RmODgzYS1hOTA5LTQ3MjYtYWMxMC0xZWIwM2E1MWFkMmQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZsWF3mEwQIY_2Xzd5wlKaqMub8ANr5QAKDW1oxyW3-g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some quick and dirty 'Meet the Character' boards for Husk ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vydrtf9flaj71.jpg?width=1080&crop=smart&auto=webp&s=91f92fc3d689c0a8770bb193991d118f9b1b0cdb' alt='I made some quick and dirty 'Meet the Character' boards for Husk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vydrtf9flaj71.jpg?width=1080&crop=smart&auto=webp&s=91f92fc3d689c0a8770bb193991d118f9b1b0cdb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Husk - Hazbin Hotel by LucasMolla on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5449878-c036-4863-9332-d07585bdcbf7/dh7pr1i-c0270427-0f2a-4550-ae36-0467c7830495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1NDQ5ODc4LWMwMzYtNDg2My05MzMyLWQwNzU4NWJkY2JmN1wvZGg3cHIxaS1jMDI3MDQyNy0wZjJhLTQ1NTAtYWUzNi0wNDY3Yzc4MzA0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6lfdfdgKY66xP_ImLxBIrNqq4BsmYPnmbK_xSDHrAk0' alt='Husk - Hazbin Hotel by LucasMolla on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5449878-c036-4863-9332-d07585bdcbf7/dh7pr1i-c0270427-0f2a-4550-ae36-0467c7830495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1NDQ5ODc4LWMwMzYtNDg2My05MzMyLWQwNzU4NWJkY2JmN1wvZGg3cHIxaS1jMDI3MDQyNy0wZjJhLTQ1NTAtYWUzNi0wNDY3Yzc4MzA0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6lfdfdgKY66xP_ImLxBIrNqq4BsmYPnmbK_xSDHrAk0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

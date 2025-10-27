@@ -1,0 +1,129 @@
+<title>Transform Your Space with 1920s Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover stylish 1920s aesthetic wallpaper that elevates your interiors with vintage charm. Explore bold colors, geometric patterns, and art deco designs that bring a touch of the Roaring Twenties to your home. Perfect for creating a glamorous, timeless atmosphere!">
+                    <meta name="keywords" content="1920s aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1920s-aesthetic-wallpaper">
+                            <span itemprop="name">1920s aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with 1920s Aesthetic Wallpaper</h1>
+                <p>Dive into the enchanting world of 1920s aesthetic wallpaper, where art deco designs meet bold colors and intricate patterns. These wallpapers, characterized by geometric shapes and luxurious motifs, can transform any space into a glamorous retreat reminiscent of the Roaring Twenties. Elevate your interior with vintage elegance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vibes #vintage #1920s #antique #oldmoney #artdeco #fyp #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/bd/4e/1ebd4ef4338a315581cd9f7d3c2edc23.jpg' alt='vibes #vintage #1920s #antique #oldmoney #artdeco #fyp #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/bd/4e/1ebd4ef4338a315581cd9f7d3c2edc23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/d1/50/92d150b6ffa8a4e3af9c29615000b169.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/d1/50/92d150b6ffa8a4e3af9c29615000b169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/5a/e9/255ae9cf6b0739e307fdbd7880ffd312.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/5a/e9/255ae9cf6b0739e307fdbd7880ffd312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/d0/bb/f7d0bbd1571038f31211740821261daa.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/d0/bb/f7d0bbd1571038f31211740821261daa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Art Deco Wallpaper Ideas - Decorating with 1920s Art Deco Wall ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/art-deco-wallpaper-4-1499781344.jpg' alt='18 Art Deco Wallpaper Ideas - Decorating with 1920s Art Deco Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1476">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/art-deco-wallpaper-4-1499781344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The roaring 20s #collage #aesthetic #moodboard #myfirstshuffle ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/88/19/1688197cabb950bdc95348e4ee4054fb.jpg' alt='The roaring 20s #collage #aesthetic #moodboard #myfirstshuffle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/88/19/1688197cabb950bdc95348e4ee4054fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920s Luxury Art Deco Large Scale - Navy Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1391/7064/rrgatsby-art-deco-01_shop_thumb.png' alt='1920s Luxury Art Deco Large Scale - Navy Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1391/7064/rrgatsby-art-deco-01_shop_thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro wallpaper dating back to the 1920s and 1930s.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/31/51/f33151ca022cfb1a2bd3e9f90ee85d36.jpg' alt='Retro wallpaper dating back to the 1920s and 1930s.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/31/51/f33151ca022cfb1a2bd3e9f90ee85d36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920s #1920saesthetic #1920sfashion #vintage #flapper #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/77/31/0c77311fa8e45bd3af61eae172064ff6.jpg' alt='1920s #1920saesthetic #1920sfashion #vintage #flapper #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/77/31/0c77311fa8e45bd3af61eae172064ff6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920′s / // / Background / Lockscreen / / gypsysfeather said to ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/93a82a62a77ad5f485a6bda7adf55520/tumblr_p06qa0eTVQ1w53q7lo1_500.jpg' alt='1920′s / // / Background / Lockscreen / / gypsysfeather said to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="423">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/93a82a62a77ad5f485a6bda7adf55520/tumblr_p06qa0eTVQ1w53q7lo1_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

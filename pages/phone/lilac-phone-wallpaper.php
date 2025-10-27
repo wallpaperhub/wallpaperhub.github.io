@@ -1,0 +1,129 @@
+<title>Lilac Phone Wallpapers: A Touch of Elegance</title>
+                    <meta name="description" content="Discover a delightful collection of lilac phone wallpapers! Perfect for those seeking elegance and tranquility on their devices. Browse unique designs and enhance your mobile experience with soothing shades of lilac. Download now and give your phone a fresh, stylish look!">
+                    <meta name="keywords" content="lilac phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/lilac-phone-wallpaper">
+                            <span itemprop="name">lilac phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lilac Phone Wallpapers: A Touch of Elegance</h1>
+                <p>Transform your device with stunning lilac phone wallpapers! These beautiful designs feature soft hues and floral patterns that create a calming and serene atmosphere. Perfect for adding a touch of elegance to your home screen, our collection includes various styles to suit your personality. Download your favorite lilac wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 2,105+ Purple Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGJYRvd5Zs/1/0/900w/canva-purple-and-white-minimalist-watercolor-background-phone-wallpaper-yVR5EwR47To.jpg' alt='Customize 2,105+ Purple Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGJYRvd5Zs/1/0/900w/canva-purple-and-white-minimalist-watercolor-background-phone-wallpaper-yVR5EwR47To.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lilac #wallpaper #purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/48/da/9248dae449c9f5ad46b856e958f5d0f3.jpg' alt='lilac #wallpaper #purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/48/da/9248dae449c9f5ad46b856e958f5d0f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Lilac Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2xhdXJhc3RlZmFubzI2Nl9wYXN0ZWxfcHVycGxlX3Ntb2tlX2JhY2tncm91bmRfNDk3Y2RhMmQtYWI1My00MzFjLTliN2EtYjZkZmQwNDFjNjA2XzEuanBn.jpg' alt='Pastel Lilac Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2xhdXJhc3RlZmFubzI2Nl9wYXN0ZWxfcHVycGxlX3Ntb2tlX2JhY2tncm91bmRfNDk3Y2RhMmQtYWI1My00MzFjLTliN2EtYjZkZmQwNDFjNjA2XzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac Floral iPhone Wallpaper Female Body Self Love Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38550846/r/il/13d97e/4346002587/il_570xN.4346002587_45aw.jpg' alt='Lilac Floral iPhone Wallpaper Female Body Self Love Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38550846/r/il/13d97e/4346002587/il_570xN.4346002587_45aw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Lilac abstract background wallpaper image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/78/68/3d786807de1db09e84dadda996022f3a.jpg' alt='Download free image of Lilac abstract background wallpaper image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/78/68/3d786807de1db09e84dadda996022f3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 2,105+ Purple Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFt0-MWpSU/2/0/900w/canva-soft-watercolour-no-copy-phone-wallpaper-in-purple-and-blue-gradient-style-O5sd-yFWWG4.jpg' alt='Customize 2,105+ Purple Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFt0-MWpSU/2/0/900w/canva-soft-watercolour-no-copy-phone-wallpaper-in-purple-and-blue-gradient-style-O5sd-yFWWG4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac pastel flowers aesthetic wallpaper background IPhone design ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/f0/ec/0ff0ec57f96773efcdc3e72590a911f4.jpg' alt='Lilac pastel flowers aesthetic wallpaper background IPhone design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/f0/ec/0ff0ec57f96773efcdc3e72590a911f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Spring Lilac Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-spring-iphone-m7ij7g3e8d209oye.jpg' alt='Download Cute Spring Lilac Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-spring-iphone-m7ij7g3e8d209oye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Lilac Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9zb2Z0X2lsbHVzdHJhdGlvbl9vZl9sYXZlbmRlcl9tZWFkb3dfYW5kX3Bhc19kNjhkNmU2ZC05ZmM3LTQ2MmUtYjE1ZC0xODBjZjYwOThlZWFfMS5qcGc.jpg' alt='Pastel Lilac Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9zb2Z0X2lsbHVzdHJhdGlvbl9vZl9sYXZlbmRlcl9tZWFkb3dfYW5kX3Bhc19kNjhkNmU2ZC05ZmM3LTQ2MmUtYjE1ZC0xODBjZjYwOThlZWFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Acrylic texture background lilac wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/f2/dc/22f2dc760016fe34dfcda612ed121833.jpg' alt='Download free image of Acrylic texture background lilac wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/f2/dc/22f2dc760016fe34dfcda612ed121833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

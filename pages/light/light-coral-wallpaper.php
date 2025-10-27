@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Light Coral Wallpaper</title>
+                    <meta name="description" content="Discover the charm of light coral wallpaper! Perfect for any room, it creates a warm and inviting atmosphere while complementing diverse decor styles. Explore easy application tips and transform your space effortlessly! Ideal for mobile viewing.">
+                    <meta name="keywords" content="light coral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-coral-wallpaper">
+                            <span itemprop="name">light coral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Light Coral Wallpaper</h1>
+                <p>Light coral wallpaper adds a chic and refreshing touch to any space. It's perfect for creating a warm and inviting atmosphere in bedrooms, living rooms, or home offices. With its soft hues, light coral complements a variety of decor styles, from coastal to modern. Easy to apply, it's an ideal choice for a stylish update.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11385240/p/f/m/Bl7WSe6e7YoLexSfAnNTNgcG4Nudt5jWKjhN2Gen7XCPFfwyA6l1Gpo/Light%20Coral%20Solid.jpg' alt='Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11385240/p/f/m/Bl7WSe6e7YoLexSfAnNTNgcG4Nudt5jWKjhN2Gen7XCPFfwyA6l1Gpo/Light%20Coral%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x1920 Light Coral Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1080x1920/1080x1920-light-coral-solid-color-background.jpg' alt='1080x1920 Light Coral Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1080x1920/1080x1920-light-coral-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Coral background. Bright halftone pattern. Light paper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/38/79/99/1000_F_238799906_AdacgBXaykabyaBMOoPEYVk4PBZgtXxu.jpg' alt='Abstract Coral background. Bright halftone pattern. Light paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/38/79/99/1000_F_238799906_AdacgBXaykabyaBMOoPEYVk4PBZgtXxu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2943537/p/f/m/G8Du9CU8sfbA1co3sUO8Ui5STPb9D8iD1k0-2ZkVn1trh9u9JzWq-xtx/coral%20solid%20%2F%2F%20%23f5866b.jpg' alt='Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2943537/p/f/m/G8Du9CU8sfbA1co3sUO8Ui5STPb9D8iD1k0-2ZkVn1trh9u9JzWq-xtx/coral%20solid%20%2F%2F%20%23f5866b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Design Light Coral Magical Beautiful Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/wallpaper-design-light-coral-magical-260nw-2094013711.jpg' alt='Wallpaper Design Light Coral Magical Beautiful Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/wallpaper-design-light-coral-magical-260nw-2094013711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Coral Color Background Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-coral-orange-color-background_53876-104720.jpg' alt='Light Coral Color Background Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-coral-orange-color-background_53876-104720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Pink Emerson Coral Faux Linen Wallpaper Sample 4081-26355SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/e5bd163c-3d8c-4e1e-b35f-b4c8ab662374/svn/wallpaper-samples-4081-26355sam-64_600.jpg' alt='A-Street Prints Pink Emerson Coral Faux Linen Wallpaper Sample 4081-26355SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/e5bd163c-3d8c-4e1e-b35f-b4c8ab662374/svn/wallpaper-samples-4081-26355sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light coral background painting. Watercolour pastel ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/499/487/large_2x/watercolor-light-coral-background-painting-watercolour-pastel-pink-soft-texture-overlay-photo.jpg' alt='Watercolor light coral background painting. Watercolour pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2827">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/499/487/large_2x/watercolor-light-coral-background-painting-watercolour-pastel-pink-soft-texture-overlay-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Light Melon Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6676473/p/f/m/wFDD4v-9ez2mttrylatVWBkbh931xagsUHp5Z8Y_vxELE1jPFGQREw/4x4-Inch%20Repeat%20of%20Apricot%20to%20Match%20Marbleized%20Oil%20in%20Peach.jpg' alt='Coral Light Melon Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6676473/p/f/m/wFDD4v-9ez2mttrylatVWBkbh931xagsUHp5Z8Y_vxELE1jPFGQREw/4x4-Inch%20Repeat%20of%20Apricot%20to%20Match%20Marbleized%20Oil%20in%20Peach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="252,965 Coral Color Background Texture Royalty-Free Photos and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2284795667/display_1500/stock-photo-light-pale-coral-abstract-elegant-luxury-background-peach-pink-shade-color-gradient-blurred-2284795667.jpg' alt='252,965 Coral Color Background Texture Royalty-Free Photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2284795667/display_1500/stock-photo-light-pale-coral-abstract-elegant-luxury-background-peach-pink-shade-color-gradient-blurred-2284795667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

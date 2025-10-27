@@ -1,0 +1,129 @@
+<title>Genshin Impact Scenery Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Genshin Impact scenery wallpapers for your phone! Elevate your device with breathtaking images from Teyvat, featuring stunning landscapes and captivating characters. Perfect for fans who want to showcase their love for the game in style. Download today and transform your phone's aesthetic!">
+                    <meta name="keywords" content="genshin impact scenery wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/genshin-impact-scenery-wallpaper-phone">
+                            <span itemprop="name">genshin impact scenery wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Genshin Impact Scenery Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning Genshin Impact scenery wallpapers! Explore breathtaking landscapes from the enchanting world of Teyvat. From lush forests to majestic mountains, these wallpapers bring the game's vibrant visuals to life on your screen, making every glance a new adventure. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Genshin Impact Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/64/fa/ca64fa5a9d5e0a90d5bee14b1ce81344.jpg' alt='Awesome Genshin Impact Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/64/fa/ca64fa5a9d5e0a90d5bee14b1ce81344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinju Forest, Inazuma; my 4th genshin scenery artwork! wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8vj6cbnrn5y71.jpg' alt='Chinju Forest, Inazuma; my 4th genshin scenery artwork! wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3508">
+                                <meta itemprop="height" content="4961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8vj6cbnrn5y71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="genshin impact scenery | Genshin impact scenery, Genshin wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/32/60/fb32604d84533c6aa08f4d99c6bf2a3b.jpg' alt='genshin impact scenery | Genshin impact scenery, Genshin wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/32/60/fb32604d84533c6aa08f4d99c6bf2a3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Android iOS Genshin Impact scenery live wallpaper - DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/thumb_1657540039_12400.jpg' alt='Android iOS Genshin Impact scenery live wallpaper - DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/thumb_1657540039_12400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a8/ef/65/a8ef65a9b587e499836c2b4fd1a7a030.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a8/ef/65/a8ef65a9b587e499836c2b4fd1a7a030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I cleaned the background of the lantern rite part 2 event to use ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/66ic9c791ih61.png?width=640&crop=smart&auto=webp&s=f1e14147e4760e71a02ede206c2b9fe6a5f3aec1' alt='I cleaned the background of the lantern rite part 2 event to use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/66ic9c791ih61.png?width=640&crop=smart&auto=webp&s=f1e14147e4760e71a02ede206c2b9fe6a5f3aec1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact (1080x1920) Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/9a/d8/bb9ad8b9750d1e03593f70f84410c748.jpg' alt='Genshin Impact (1080x1920) Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/9a/d8/bb9ad8b9750d1e03593f70f84410c748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Scenery Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10165086.jpg' alt='Genshin Impact Scenery Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10165086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Themes Aesthetic Genshin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/5d/bd/085dbd3c12af30b2bce4338d7b29fa93.jpg' alt='Phone Themes Aesthetic Genshin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/5d/bd/085dbd3c12af30b2bce4338d7b29fa93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile wallpaper (part1): Beautiful views of Teivat : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mobile-wallpaper-part1-beautiful-views-of-teivat-v0-g4m1vmmmvh5a1.png?width=640&crop=smart&auto=webp&s=a40d4d1387e2135f60bf4e2efb31cb406d4eafa1' alt='Mobile wallpaper (part1): Beautiful views of Teivat : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mobile-wallpaper-part1-beautiful-views-of-teivat-v0-g4m1vmmmvh5a1.png?width=640&crop=smart&auto=webp&s=a40d4d1387e2135f60bf4e2efb31cb406d4eafa1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

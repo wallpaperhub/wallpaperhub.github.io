@@ -1,0 +1,129 @@
+<title>Vibrant Summer Wallpaper Trends for 2023</title>
+                    <meta name="description" content="Discover the latest summer wallpaper trends for 2023! From lively floral designs to tropical themes, find inspiration to refresh your home decor this season. Embrace the warmth and vibrancy of summer with beautiful wallpaper that transforms your space into a sunny retreat.">
+                    <meta name="keywords" content="summer wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-wallpaper-2023">
+                            <span itemprop="name">summer wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Wallpaper Trends for 2023</h1>
+                <p>Transform your space this summer with vibrant wallpaper designs for 2023! Embrace the essence of the season with floral patterns, tropical motifs, and bright colors that invigorate your home. Whether you're redecorating an entire room or just adding a splash of summer spirit, find the perfect wallpaper that breathes life into your living space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 6 - Free and customizable summer desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbyTZGrXA/1/0/1600w/canva-blue-green-minimalist-photo-ocean-june-calendar-2023-summer-desktop-wallpaper-Z3qBjzAd3_A.jpg' alt='Page 6 - Free and customizable summer desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbyTZGrXA/1/0/1600w/canva-blue-green-minimalist-photo-ocean-june-calendar-2023-summer-desktop-wallpaper-Z3qBjzAd3_A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Summer Mood Board Wallpapers : Have Purpose | Summer wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/34/e6/9934e6fb97e3480628ac0b7743218360.jpg' alt='50+ Summer Mood Board Wallpapers : Have Purpose | Summer wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/34/e6/9934e6fb97e3480628ac0b7743218360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pineapple and coconut and sunglasses on a bright ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pineapple-coconut-sunglasses-bright-yellow-background-word-hello-summer-2023_661495-17682.jpg' alt='Premium Photo | Pineapple and coconut and sunglasses on a bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pineapple-coconut-sunglasses-bright-yellow-background-word-hello-summer-2023_661495-17682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers for Your Tech | Centsational Style">
+                                <img itemprop="contentUrl url" src='https://centsationalstyle.com/wp-content/uploads/2023/05/pink-island-getaway-16to10-laptop.jpg' alt='Summer Wallpapers for Your Tech | Centsational Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Centsational Style" />
+                                </span>
+                                <a href='https://centsationalstyle.com/wp-content/uploads/2023/05/pink-island-getaway-16to10-laptop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 - Free and customizable summer desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFmuSuUANY/1/0/1600w/canva-blue-aesthetic-summer-july-2023-calendar-desktop-wallpaper-eM7M1x3iiIQ.jpg' alt='Page 3 - Free and customizable summer desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFmuSuUANY/1/0/1600w/canva-blue-aesthetic-summer-july-2023-calendar-desktop-wallpaper-eM7M1x3iiIQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12377891.jpg' alt='Summer 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="2044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12377891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 - Free and customizable summer desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFpJbSyiN0/2/0/1600w/canva-blue-aesthetic-summer-august-2023-calendar-desktop-wallpaper-GLS8pDQKYSM.jpg' alt='Page 3 - Free and customizable summer desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFpJbSyiN0/2/0/1600w/canva-blue-aesthetic-summer-august-2023-calendar-desktop-wallpaper-GLS8pDQKYSM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playlist: Our Eclectic Songs About… Summer/Sun/Beach (2.0)… Sorry ...">
+                                <img itemprop="contentUrl url" src='https://bourbonandvinyl.net/wp-content/uploads/2023/07/806028-sea-summer-sky-beach.jpg' alt='Playlist: Our Eclectic Songs About… Summer/Sun/Beach (2.0)… Sorry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BourbonAndVinyl" />
+                                </span>
+                                <a href='https://bourbonandvinyl.net/wp-content/uploads/2023/07/806028-sea-summer-sky-beach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Direct Spring/Summer 2023 by Life Media Group - Issuu">
+                                <img itemprop="contentUrl url" src='https://assets.isu.pub/document-structure/230214113653-fd3693a3c1932bf84a831fafab042296/v1/76017f5f52cd381d0a9f0155d490147d.jpeg' alt='Wallpaper Direct Spring/Summer 2023 by Life Media Group - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://assets.isu.pub/document-structure/230214113653-fd3693a3c1932bf84a831fafab042296/v1/76017f5f52cd381d0a9f0155d490147d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

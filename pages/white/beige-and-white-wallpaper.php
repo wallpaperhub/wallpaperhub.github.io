@@ -1,0 +1,129 @@
+<title>Elegant Beige and White Wallpaper for Timeless Interiors</title>
+                    <meta name="description" content="Discover the beauty of beige and white wallpaper, perfect for enhancing your home’s elegance. Its neutral palette complements any decor style while brightening spaces. Ideal for creating a serene atmosphere, this wallpaper is a versatile choice for various room designs. Upgrade your space effortlessly!">
+                    <meta name="keywords" content="beige and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/beige-and-white-wallpaper">
+                            <span itemprop="name">beige and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Beige and White Wallpaper for Timeless Interiors</h1>
+                <p>Beige and white wallpaper is a timeless choice for adding elegance to any room. Its neutral tones create a serene backdrop, allowing you to effortlessly blend in furnishings and decor. Perfect for both modern and classic aesthetics, this wallpaper enhances light and space, making it ideal for small rooms or cozy corners.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swaying Palm Leaves - Beige-White">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65924/swaying-palm-leaves-beige-white.jpg?h=699&q=85' alt='Swaying Palm Leaves - Beige-White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65924/swaying-palm-leaves-beige-white.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theper Beige Modern Striped Wallpaper Peel and Stick Boho 17.3"×78.8"  Removable Self Adhesive Wallpaper for Bedroom Waterproof White and Gold  Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IH5Jd7UHL.jpg' alt='Theper Beige Modern Striped Wallpaper Peel and Stick Boho 17.3"×78.8"  Removable Self Adhesive Wallpaper for Bedroom Waterproof White and Gold  Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IH5Jd7UHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Plain by Casadeco - White Beige - Wallpaper - SOWH 2680 11 22">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/143679/tiled/casadeco-amazing-plain-white-beige-wallpaper-tiled-143679.jpg' alt='Amazing Plain by Casadeco - White Beige - Wallpaper - SOWH 2680 11 22'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/143679/tiled/casadeco-amazing-plain-white-beige-wallpaper-tiled-143679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G78530 Wispy Branches Beige White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250429.jpg' alt='Galerie G78530 Wispy Branches Beige White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Stripe Peel and Stick Wallpaper Beige and White Contact Paper 17.7”  x 393” Geometric Wallpaper Self Adhesive Wallpaper Removable Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/718MTXH1gjL.jpg' alt='Modern Stripe Peel and Stick Wallpaper Beige and White Contact Paper 17.7”  x 393” Geometric Wallpaper Self Adhesive Wallpaper Removable Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/718MTXH1gjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige & White Abstract Faux Weave Texture Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/beige-white-abstract-faux-weave-texture-megu-m.jpg' alt='Beige & White Abstract Faux Weave Texture Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/beige-white-abstract-faux-weave-texture-megu-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suzy Sand">
+                                <img itemprop="contentUrl url" src='https://pepper-home.com/cdn/shop/files/SuzySand_fe5ce2d7-e2c3-40d5-82c8-4ca699030825.png?v=1682975972&width=1500' alt='Suzy Sand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pepper Home" />
+                                </span>
+                                <a href='https://pepper-home.com/cdn/shop/files/SuzySand_fe5ce2d7-e2c3-40d5-82c8-4ca699030825.png?v=1682975972&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Smart Stripes Beige and White 2-Wide Stripe Wallpaper G67579">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5f74093b-2495-40d4-8c99-04314ed96216/svn/wallpaper-rolls-g67579-64_600.jpg' alt='Unbranded Smart Stripes Beige and White 2-Wide Stripe Wallpaper G67579'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5f74093b-2495-40d4-8c99-04314ed96216/svn/wallpaper-rolls-g67579-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EW10005 | Tossed Leaves, Beige - Seabrook Designs Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/EW10005.jpg?v=1675785355' alt='EW10005 | Tossed Leaves, Beige - Seabrook Designs Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/EW10005.jpg?v=1675785355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Resource Library Viva Lounge Wallpaper - Beige & Gold">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/Y6221201.jpg?v=1696439067' alt='Black & White Resource Library Viva Lounge Wallpaper - Beige & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/Y6221201.jpg?v=1696439067' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

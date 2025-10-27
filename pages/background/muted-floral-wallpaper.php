@@ -1,0 +1,129 @@
+<title>Soft and Serene: Muted Floral Wallpaper Ideas</title>
+                    <meta name="description" content="Discover the beauty of muted floral wallpaper! Perfect for a calming ambiance, these soft patterns enhance any room with elegance. Explore design ideas that blend sophistication with tranquility, creating the ideal backdrop for your home. Transform your space effortlessly with these timeless floral designs.">
+                    <meta name="keywords" content="muted floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/muted-floral-wallpaper">
+                            <span itemprop="name">muted floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soft and Serene: Muted Floral Wallpaper Ideas</h1>
+                <p>Muted floral wallpaper adds a touch of elegance and tranquility to any space. Ideal for creating a serene atmosphere, this style features soft, subtle patterns that blend effortlessly with various decors. Whether in a living room or bedroom, muted florals are perfect for a calming backdrop that invites relaxation and warmth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' alt='Muted Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://shop.projectnursery.com/cdn/shop/products/Anewall_Blush_Floral_Mural_-_Project_Nursery.jpg?v=1660919692' alt='Blush Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Nursery" />
+                                </span>
+                                <a href='http://shop.projectnursery.com/cdn/shop/products/Anewall_Blush_Floral_Mural_-_Project_Nursery.jpg?v=1660919692' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Botanica Groh Floral Wallpaper - Neutral">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/4143-22004.jpg?v=1700876645' alt='A-Street Prints Botanica Groh Floral Wallpaper - Neutral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/4143-22004.jpg?v=1700876645' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helen´s Flower by Boråstapeter - Muted Green - Wallpaper - 3585">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/186897/tiled/borastapeter-helen-s-flower-muted-green-wallpaper-tiled-186897.jpg' alt='Helen´s Flower by Boråstapeter - Muted Green - Wallpaper - 3585'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/186897/tiled/borastapeter-helen-s-flower-muted-green-wallpaper-tiled-186897.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home by Joanna Gaines Neutral Renewed Floral Non Woven Preium  Paper Peel and Stick Matte Wallpaper Approximately 34.2 sq. ft PSW1495RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/41c803fe-7279-469b-94bc-32db159f12bc/svn/magnolia-home-by-joanna-gaines-wallpaper-rolls-psw1495rl-64_600.jpg' alt='Magnolia Home by Joanna Gaines Neutral Renewed Floral Non Woven Preium  Paper Peel and Stick Matte Wallpaper Approximately 34.2 sq. ft PSW1495RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/41c803fe-7279-469b-94bc-32db159f12bc/svn/magnolia-home-by-joanna-gaines-wallpaper-rolls-psw1495rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Muted Elegant Floral Drawing Self Adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14574165/r/il/6ccef6/1597546884/il_570xN.1597546884_bl8w.jpg' alt='Wallpaper Muted Elegant Floral Drawing Self Adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14574165/r/il/6ccef6/1597546884/il_570xN.1597546884_bl8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 819">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574737475_oiak.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 819'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574737475_oiak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Blush Floral Muted Colors Sage ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61J+g-rSfBL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Blush Floral Muted Colors Sage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61J+g-rSfBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Floral - Green — RaeCulverSeamless">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/611691f2a541db0bd955d936/1635988910096-9D2YYGV0YX91GIPV6L1T/Listing+Muted+Floral+Green.jpg?format=1000w' alt='Muted Floral - Green — RaeCulverSeamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rae Culver Seamless" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/611691f2a541db0bd955d936/1635988910096-9D2YYGV0YX91GIPV6L1T/Listing+Muted+Floral+Green.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Muted Sea Blue Cream Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 405">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4234142817_qd2p.jpg?v=1668571967' alt='Wallpaper Peel and Stick Wallpaper Muted Sea Blue Cream Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 405'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2580">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4234142817_qd2p.jpg?v=1668571967' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Minimalist Line Art Wallpaper | Simple & Elegant Designs</title>
+                    <meta name="description" content="Discover minimalist aesthetic line art wallpaper that brings elegance to your home. With simple designs and clean lines, these wallpapers create a serene atmosphere, perfect for all decor styles. Upgrade your space with modern beauty and sophistication, designed for any room. Shop now for a fresh look!">
+                    <meta name="keywords" content="minimalist aesthetic line art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/minimalist-aesthetic-line-art-wallpaper">
+                            <span itemprop="name">minimalist aesthetic line art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist Line Art Wallpaper | Simple & Elegant Designs</h1>
+                <p>Transform your space with minimalist aesthetic line art wallpaper. Featuring simple yet striking designs, this wallpaper elevates any room with elegance and modernity. Perfect for those who appreciate clean lines and understated beauty, it offers a calming backdrop that complements various decor styles, making it a versatile choice for your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic minimalist wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/04/f0/2e04f0c6ea795c9a5a9fbb6b47878bae.jpg' alt='Aesthetic minimalist wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/04/f0/2e04f0c6ea795c9a5a9fbb6b47878bae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth tone boho foliage line art drawing with abstract shape ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/019/132/981/non_2x/earth-tone-boho-foliage-line-art-drawing-with-abstract-shape-abstract-plant-art-design-for-print-cover-wallpaper-minimal-and-natural-wall-art-vector.jpg' alt='Earth tone boho foliage line art drawing with abstract shape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/019/132/981/non_2x/earth-tone-boho-foliage-line-art-drawing-with-abstract-shape-abstract-plant-art-design-for-print-cover-wallpaper-minimal-and-natural-wall-art-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Feminine line art vector by katie about ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/ba/38/37ba38b0a52353adeb66308631110ac0.jpg' alt='Download premium vector of Feminine line art vector by katie about ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/ba/38/37ba38b0a52353adeb66308631110ac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Line Aesthetic Drawing Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-line-aesthetic-drawing-y3zrnezttz6qf6xl.jpg' alt='Download Minimalist Line Aesthetic Drawing Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-line-aesthetic-drawing-y3zrnezttz6qf6xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Art Wallpapers [39+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/wp-content/uploads/2024/09/line-art-wallpapers.jpg' alt='Line Art Wallpapers [39+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/wp-content/uploads/2024/09/line-art-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Drawing Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzOS1udW5ueS1taXgtMDdfMS5qcGc.jpg' alt='Minimalist Drawing Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzOS1udW5ueS1taXgtMDdfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Leaf Line Art Aesthetic Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220715/pngtree-background-leaf-line-art-aesthetic-image_1418403.jpg' alt='Background Leaf Line Art Aesthetic Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220715/pngtree-background-leaf-line-art-aesthetic-image_1418403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper 008 in 2021 | Beige art, Line art drawings, Art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/ef/eb/a8/efeba8507a3a89d251830cac88e0ace7.jpg' alt='Wallpaper 008 in 2021 | Beige art, Line art drawings, Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/ef/eb/a8/efeba8507a3a89d251830cac88e0ace7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Line Art Coffee And Flowers Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/line-art-1mscgvyhw7jsvtq3.jpg' alt='Download Line Art Coffee And Flowers Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/line-art-1mscgvyhw7jsvtq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist, Line Art, Minimal Background. Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/12/01/13/15/minimalist-6837860_1280.jpg' alt='Download Minimalist, Line Art, Minimal Background. Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/12/01/13/15/minimalist-6837860_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

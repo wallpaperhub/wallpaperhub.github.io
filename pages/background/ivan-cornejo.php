@@ -1,0 +1,129 @@
+<title>Discover Iván Cornejo: The Rising Music Sensation</title>
+                    <meta name="description" content="Explore Iván Cornejo's journey in music! With his unique sound and relatable lyrics, he captivates audiences worldwide. Stay updated on his latest hits and performances, and see why he's considered a breakout artist in the industry.">
+                    <meta name="keywords" content="ivan cornejo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ivan-cornejo">
+                            <span itemprop="name">ivan cornejo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Iván Cornejo: The Rising Music Sensation</h1>
+                <p>Iván Cornejo is a rising star in the music industry, known for his unique blend of genres and heartfelt lyrics. His captivating voice and emotional performances have garnered him a dedicated fan base. With hits that resonate with the youth, Cornejo's music reflects contemporary themes of love and life, making him an artist to watch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b' alt='Ivan Cornejo Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo talks 'Mirada,' biculturalism and his musical ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/891cf2d/2147483647/strip/false/crop/2401x3600+0+0/resize/991x1486!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2Fe7%2Fca7f18ba45f0bfa2271376d0976b%2F1464887-la-de-los-ivan-cornejo-singer-01.JPG' alt='Ivan Cornejo talks 'Mirada,' biculturalism and his musical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="991">
+                                <meta itemprop="height" content="1486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/891cf2d/2147483647/strip/false/crop/2401x3600+0+0/resize/991x1486!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2Fe7%2Fca7f18ba45f0bfa2271376d0976b%2F1464887-la-de-los-ivan-cornejo-singer-01.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo's Mexican American Heartache | The New Yorker">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/667ad30080ed2a2f7a269681/master/pass/r44520.jpg' alt='Ivan Cornejo's Mexican American Heartache | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="2650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/667ad30080ed2a2f7a269681/master/pass/r44520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo (@ivancornejoo) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468863798021515547' alt='Ivan Cornejo (@ivancornejoo) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468863798021515547' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo Announces 2025 'Mirada' Arena Tour: See the Dates">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2025/01/look2.3004-photo-by-Le3ay-Studio.jpg?w=1581&h=1054&crop=1' alt='Ivan Cornejo Announces 2025 'Mirada' Arena Tour: See the Dates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2025/01/look2.3004-photo-by-Le3ay-Studio.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Singer-songwriter Ivan Cornejo fuses alternative and regional ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/9885ef5/2147483647/strip/true/crop/3674x2449+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F1e%2Ff301712ae2e4308397642c89dd1f%2F55ebeee6222b4dce942540c7b79ef2ef' alt='Singer-songwriter Ivan Cornejo fuses alternative and regional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/9885ef5/2147483647/strip/true/crop/3674x2449+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F1e%2Ff301712ae2e4308397642c89dd1f%2F55ebeee6222b4dce942540c7b79ef2ef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo, an American Regional Mexican Music Singer-Songwriter ...">
+                                <img itemprop="contentUrl url" src='https://therooseveltreview.org/wp-content/uploads/2023/02/image-21.png' alt='Ivan Cornejo, an American Regional Mexican Music Singer-Songwriter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Roosevelt Review" />
+                                </span>
+                                <a href='https://therooseveltreview.org/wp-content/uploads/2023/02/image-21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo talks 'Mirada,' biculturalism and his musical ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/dd50052/2147483647/strip/true/crop/2401x3600+0+0/resize/2000x2999!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2Fbd%2F6587b11e4566a7da6dd9901de06c%2F1464887-la-de-los-ivan-cornejo-singer-07.JPG' alt='Ivan Cornejo talks 'Mirada,' biculturalism and his musical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/dd50052/2147483647/strip/true/crop/2401x3600+0+0/resize/2000x2999!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2Fbd%2F6587b11e4566a7da6dd9901de06c%2F1464887-la-de-los-ivan-cornejo-singer-07.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home | Ivan Cornejo">
+                                <img itemprop="contentUrl url" src='https://www.ivancornejoofficial.com/wp-content/uploads/sites/2673/2024/07/art-mirada-compressed.jpg' alt='Home | Ivan Cornejo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.ivancornejoofficial.com" />
+                                </span>
+                                <a href='https://www.ivancornejoofficial.com/wp-content/uploads/sites/2673/2024/07/art-mirada-compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivan Cornejo Announces Mirada Tour - Acrisure Arena">
+                                <img itemprop="contentUrl url" src='https://acrisurearena.com/wp-content/uploads/2024/06/241013_Ivan-Cornejo_1920x1080_photo-1024x576.jpg' alt='Ivan Cornejo Announces Mirada Tour - Acrisure Arena'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acrisure Arena" />
+                                </span>
+                                <a href='https://acrisurearena.com/wp-content/uploads/2024/06/241013_Ivan-Cornejo_1920x1080_photo-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

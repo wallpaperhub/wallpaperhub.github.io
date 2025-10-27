@@ -1,0 +1,129 @@
+<title>Stunning Black Tattoos: Bold Designs & Meanings</title>
+                    <meta name="description" content="Explore the artistry of black tattoos, showcasing striking designs and unique meanings. Perfect for those seeking bold body art, our guide covers everything from tribal to minimalistic styles, ensuring you find inspiration for your next tattoo. Discover the beauty and significance of black ink today!">
+                    <meta name="keywords" content="black tattoo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-tattoo">
+                            <span itemprop="name">black tattoo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Tattoos: Bold Designs & Meanings</h1>
+                <p>Black tattoos are a bold and timeless choice for body art enthusiasts. They offer a striking contrast against the skin and can convey deep meanings through intricate designs. From tribal patterns to minimalistic symbols, black ink tattoos can express personal stories, cultural heritage, or simply aesthetic preferences, making them incredibly versatile.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh 2nd pass of white on healed black. Swipe to the end for a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3123610714246684733' alt='Fresh 2nd pass of white on healed black. Swipe to the end for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3123610714246684733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blackout Tattoo OR Blastover? | UN1TY Tattoo Studio | Shrewsbury">
+                                <img itemprop="contentUrl url" src='https://un1ty.tattoo/wp-content/uploads/2019/05/Hanumantra-11-1024x825.jpg' alt='Blackout Tattoo OR Blastover? | UN1TY Tattoo Studio | Shrewsbury'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UN1TY Tattoo Studio" />
+                                </span>
+                                <a href='https://un1ty.tattoo/wp-content/uploads/2019/05/Hanumantra-11-1024x825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark art: the rise of the blackout tattoo | Tattoos | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/b0475fc46a74d7e9cfafc329a191ecba13cf7c7a/0_0_2559_1536/master/2559.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ad28995f0e07a984cb9a599640080028' alt='Dark art: the rise of the blackout tattoo | Tattoos | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/b0475fc46a74d7e9cfafc329a191ecba13cf7c7a/0_0_2559_1536/master/2559.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ad28995f0e07a984cb9a599640080028' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What do you call this type of tattoos ? (The full black arm one ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m9x3v344xx2a1.jpg' alt='What do you call this type of tattoos ? (The full black arm one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m9x3v344xx2a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brilliant Coverup Tattoos Combine Blackout Ink with Blossoms">
+                                <img itemprop="contentUrl url" src='https://mymodernmet.com/wp/wp-content/uploads/2019/09/esther-garcia-tattoos-2.jpg' alt='Brilliant Coverup Tattoos Combine Blackout Ink with Blossoms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Modern Met" />
+                                </span>
+                                <a href='https://mymodernmet.com/wp/wp-content/uploads/2019/09/esther-garcia-tattoos-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black abstract realism by Natalie Nox - Tattoo Life">
+                                <img itemprop="contentUrl url" src='https://www.tattoolife.com/wp-content/uploads/2022/02/Tattoo-by-Natalie-Nox-@natalienox-5.jpg' alt='Black abstract realism by Natalie Nox - Tattoo Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoo Life" />
+                                </span>
+                                <a href='https://www.tattoolife.com/wp-content/uploads/2022/02/Tattoo-by-Natalie-Nox-@natalienox-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blackwork Tattoo: what is a black tattoo?">
+                                <img itemprop="contentUrl url" src='https://www.theblackhattattoo.com/storage/media/8173fbb0-d69b-45f8-a374-842d3313c05b/sizes/large.webp' alt='Blackwork Tattoo: what is a black tattoo?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Black Hat Tattoo" />
+                                </span>
+                                <a href='https://www.theblackhattattoo.com/storage/media/8173fbb0-d69b-45f8-a374-842d3313c05b/sizes/large.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black work tattoo artists : r/Calgary">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h65pp9fgl7ab1.png' alt='Black work tattoo artists : r/Calgary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h65pp9fgl7ab1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Blackwork Tattoo Designs for Men">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/26/df/8f/26df8f1fec4464a8de42b57eb2fdb802.jpg' alt='63 Blackwork Tattoo Designs for Men'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/26/df/8f/26df8f1fec4464a8de42b57eb2fdb802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five months healed white-on-black / black-on-black tattoo., Thanks for  making the trips from Tacoma @roaring.blood, see you in the Fall! , •,  #whiteonblacktattoo #blackouttattoo #coveruptattoo ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3339598556551962238' alt='Five months healed white-on-black / black-on-black tattoo., Thanks for  making the trips from Tacoma @roaring.blood, see you in the Fall! , •,  #whiteonblacktattoo #blackouttattoo #coveruptattoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3339598556551962238' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

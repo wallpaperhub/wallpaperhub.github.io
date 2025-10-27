@@ -1,0 +1,129 @@
+<title>Stunning Pink and Blue Sunset Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover breathtaking pink and blue sunset wallpapers that bring tranquility to your screens. Perfect for phones and tablets, these stunning images create a peaceful vibe and enhance your device's aesthetic. Download now to enjoy the beauty of nature every day!">
+                    <meta name="keywords" content="pink and blue sunset wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-blue-sunset-wallpaper">
+                            <span itemprop="name">pink and blue sunset wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink and Blue Sunset Wallpapers for Every Device</h1>
+                <p>Transform your device with our stunning pink and blue sunset wallpaper, capturing the serene beauty of twilight skies. Perfectly blending vibrant hues, this wallpaper serves as a calming backdrop, creating a peaceful atmosphere that evokes feelings of tranquility and hope. Elevate your screens with this enchanting scenery today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/11/25/77/360_F_611257731_dZURLR6BzpuYxs2gykAnvv0EzU8AX6dR.jpg' alt='Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/11/25/77/360_F_611257731_dZURLR6BzpuYxs2gykAnvv0EzU8AX6dR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/30/19/14/360_F_230191494_4sl9GUTsPl6sxGcIQa9rJdoWhQiCo5jj.jpg' alt='Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/30/19/14/360_F_230191494_4sl9GUTsPl6sxGcIQa9rJdoWhQiCo5jj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/73/87/20/360_F_773872013_rUAvLrfRTAEnH2VeJUBTd8L7Q7mvvT0q.jpg' alt='Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/73/87/20/360_F_773872013_rUAvLrfRTAEnH2VeJUBTd8L7Q7mvvT0q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="99,600+ Pink Blue Sunset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1010833258/photo/misty-lilac-seascape-with-pink-clouds.jpg?s=612x612&w=0&k=20&c=qJaGiZjUtOXY4MROQBCs3zqGZOo9NRnLKjNt3wxetxA=' alt='99,600+ Pink Blue Sunset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1010833258/photo/misty-lilac-seascape-with-pink-clouds.jpg?s=612x612&w=0&k=20&c=qJaGiZjUtOXY4MROQBCs3zqGZOo9NRnLKjNt3wxetxA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/01/96/23/360_F_301962397_MGQw7Reov9wKYPnTAUaVotk9WcENCa2O.jpg' alt='Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/01/96/23/360_F_301962397_MGQw7Reov9wKYPnTAUaVotk9WcENCa2O.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/23/78/17/360_F_323781766_jkYoczLL1lenrr8ZA5tPvgS9nuV1d6ID.jpg' alt='Pink And Blue Sunset Images – Browse 566,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/23/78/17/360_F_323781766_jkYoczLL1lenrr8ZA5tPvgS9nuV1d6ID.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,923 Blue Pink Sunset Ocean Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pink-blue-sunset-reflecting-ocean-water-336132720.jpg' alt='29,923 Blue Pink Sunset Ocean Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pink-blue-sunset-reflecting-ocean-water-336132720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Beach Wallpaper Pastel Color, Pink, Blue, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5839524/r/il/476099/4118604897/il_570xN.4118604897_15a0.jpg' alt='Sunset Beach Wallpaper Pastel Color, Pink, Blue, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5839524/r/il/476099/4118604897/il_570xN.4118604897_15a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Sunset Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/background-formed-by-bright-pastel-260nw-2317850327.jpg' alt='Pink Blue Sunset Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/background-formed-by-bright-pastel-260nw-2317850327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Whimsical Colors of Sardinia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/52/48/bc5248497996721ce81d9430ccfb1cbb.jpg' alt='The Whimsical Colors of Sardinia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/52/48/bc5248497996721ce81d9430ccfb1cbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

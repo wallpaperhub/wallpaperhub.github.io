@@ -1,0 +1,129 @@
+<title>Understanding the Main Character in "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Explore the complexities of the main character in "The Yellow Wallpaper," focusing on her mental struggle and the symbolism of the wallpaper. Delve into themes of confinement, identity, and the fight for autonomy in a patriarchal society.">
+                    <meta name="keywords" content="main character in yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/main-character-in-yellow-wallpaper">
+                            <span itemprop="name">main character in yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Main Character in "The Yellow Wallpaper"</h1>
+                <p>The main character in "The Yellow Wallpaper" is a woman suffering from postpartum depression. Confined to a room by her husband, she becomes obsessed with the yellow wallpaper. As her mental state deteriorates, she begins to identify with the trapped woman she perceives in the patterns, symbolizing her struggle for freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Narrator, John, Mary: The Yellow Wallpaper Characters Analysis">
+                                <img itemprop="contentUrl url" src='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_character_map-1024x1024.jpg' alt='Narrator, John, Mary: The Yellow Wallpaper Characters Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom-Writing.org" />
+                                </span>
+                                <a href='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_character_map-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane in the Yellow Paper by C.P. Gilman | Characters & Summary Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/ajsu4gsb3f.jpg' alt='Jane in the Yellow Paper by C.P. Gilman | Characters & Summary Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/ajsu4gsb3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper || Character Analysis | Books & Writing Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' alt='The Yellow Wallpaper || Character Analysis | Books & Writing Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper and the Shifting Archetype | by Carolyn Lewis ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*hoar4Bg8HLmQulqW.jpg' alt='The Yellow Wallpaper and the Shifting Archetype | by Carolyn Lewis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*hoar4Bg8HLmQulqW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Characters in The Yellow Wallpaper: the Narrator, John, Jennie ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' alt='Characters in The Yellow Wallpaper: the Narrator, John, Jennie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane in the Yellow Paper by C.P. Gilman | Characters & Summary ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/charlotte_perkins_gilman1972042343146652546.jpg' alt='Jane in the Yellow Paper by C.P. Gilman | Characters & Summary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="261">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/charlotte_perkins_gilman1972042343146652546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman | Characters ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hE0-wIOb0SE/hqdefault.jpg' alt='The Yellow Wallpaper by Charlotte Perkins Gilman | Characters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hE0-wIOb0SE/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*CRog4-4ta_Ht73YZm5XLtg@2x.jpeg' alt='The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*CRog4-4ta_Ht73YZm5XLtg@2x.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...">
+                                <img itemprop="contentUrl url" src='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' alt='Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manifold @CUNY" />
+                                </span>
+                                <a href='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Characters - Tweetspeak Poetry">
+                                <img itemprop="contentUrl url" src='https://t6c9u7h6.rocketcdn.me/wp-content/uploads/2021/02/The-Yellow-Wallpaper-John.png' alt='The Yellow Wallpaper Characters - Tweetspeak Poetry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tweetspeak Poetry" />
+                                </span>
+                                <a href='https://t6c9u7h6.rocketcdn.me/wp-content/uploads/2021/02/The-Yellow-Wallpaper-John.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

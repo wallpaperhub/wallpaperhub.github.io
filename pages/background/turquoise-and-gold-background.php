@@ -1,0 +1,129 @@
+<title>Stunning Turquoise and Gold Backgrounds for Every Design</title>
+                    <meta name="description" content="Explore the beauty of turquoise and gold backgrounds! Perfect for various projects, this captivating combination adds elegance and vibrancy. Ideal for branding, weddings, or home décor, our stunning designs will leave a lasting impression. Discover the allure of turquoise and gold today!">
+                    <meta name="keywords" content="turquoise and gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turquoise-and-gold-background">
+                            <span itemprop="name">turquoise and gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Turquoise and Gold Backgrounds for Every Design</h1>
+                <p>Turquoise and gold backgrounds blend elegance and vibrancy, making them ideal for various design projects. The calming turquoise evokes tranquility while the shining gold adds a touch of luxury and sophistication. Perfect for weddings, branding, or home décor, this striking combination enhances visual appeal, captivating attention and creating a memorable impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Gold Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/931/345/small/mint-green-luxury-background-free-vector.jpg' alt='Turquoise Gold Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/931/345/small/mint-green-luxury-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Gold Background Images – Browse 204,805 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/28/99/90/360_F_1128999050_cuwqMKg7nlFpZdmGYE47GFuCUE29oVcV.jpg' alt='Turquoise Gold Background Images – Browse 204,805 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/28/99/90/360_F_1128999050_cuwqMKg7nlFpZdmGYE47GFuCUE29oVcV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Gold Background Images – Browse 204,805 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/12/16/10/66/360_F_1216106673_BXZ3DogQf9ZPmF0WZj5qV1LrKWyALsHN.jpg' alt='Turquoise Gold Background Images – Browse 204,805 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/12/16/10/66/360_F_1216106673_BXZ3DogQf9ZPmF0WZj5qV1LrKWyALsHN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Turquoise and gold foil texture background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/turquoise-gold-foil-texture-background_1017-30091.jpg' alt='Free Vector | Turquoise and gold foil texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/turquoise-gold-foil-texture-background_1017-30091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Gold Background Images – Browse 204,805 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/95/56/41/360_F_1195564146_p0ivqV91OZOqYb4lVmKylgZR7lDmX3E5.jpg' alt='Turquoise Gold Background Images – Browse 204,805 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/95/56/41/360_F_1195564146_p0ivqV91OZOqYb4lVmKylgZR7lDmX3E5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Gold And Teal Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1346048794/vector/pastel-cyan-mint-liquid-marble-watercolor-background-with-gold-lines-and-brush-stains-teal.jpg?s=612x612&w=0&k=20&c=3rMvG6ddZD3fyY4PfdsYXb772MAR0l_cMYGoEHun4Hc=' alt='1,600+ Gold And Teal Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1346048794/vector/pastel-cyan-mint-liquid-marble-watercolor-background-with-gold-lines-and-brush-stains-teal.jpg?s=612x612&w=0&k=20&c=3rMvG6ddZD3fyY4PfdsYXb772MAR0l_cMYGoEHun4Hc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise and gold hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/JND2JC/turquoise-lace-background-with-turquoise-roses-decorated-with-leaves-JND2JC.jpg' alt='Turquoise and gold hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/JND2JC/turquoise-lace-background-with-turquoise-roses-decorated-with-leaves-JND2JC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Turquoise and Gold Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/abstract-turquoise-and-gold-wallpaper-mural-custom-sizes-available-wall-murals-maughons-724534_large.jpg?v=1663756372' alt='Abstract Turquoise and Gold Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/abstract-turquoise-and-gold-wallpaper-mural-custom-sizes-available-wall-murals-maughons-724534_large.jpg?v=1663756372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Gold Background Design Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-mint-background_23-2150269817.jpg' alt='Turquoise Gold Background Design Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-mint-background_23-2150269817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Teal And Gold Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1319748186/vector/watercolor-background-with-abstract-teal-or-turquoise-green-ink-waves-and-golden-splashes.jpg?s=612x612&w=0&k=20&c=LBvYgI6W8323xYWO7AaHYcxo-p0O_IwRFOSeMG47pS8=' alt='9,200+ Teal And Gold Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1319748186/vector/watercolor-background-with-abstract-teal-or-turquoise-green-ink-waves-and-golden-splashes.jpg?s=612x612&w=0&k=20&c=LBvYgI6W8323xYWO7AaHYcxo-p0O_IwRFOSeMG47pS8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

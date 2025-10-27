@@ -1,0 +1,129 @@
+<title>Vibrant Project Sekai Phone Wallpapers for Your Mobile</title>
+                    <meta name="description" content="Discover an amazing selection of Project Sekai phone wallpapers! Perfect for fans who want to personalize their devices with beautiful art featuring beloved characters. Find customizable options that fit your style and mood. Download your favorite wallpapers today!">
+                    <meta name="keywords" content="project sekai phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/project-sekai-phone-wallpaper">
+                            <span itemprop="name">project sekai phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Project Sekai Phone Wallpapers for Your Mobile</h1>
+                <p>Looking for the perfect Project Sekai phone wallpaper? Explore a vibrant collection of stunning designs featuring your favorite characters and scenes from the game. Whether you prefer dynamic action shots or serene backgrounds, customize your phone with wallpapers that bring your love for Project Sekai to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My wallpaper duos for my phone.. : r/ProjectSekai">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cxei2i67sgo91.jpg' alt='My wallpaper duos for my phone.. : r/ProjectSekai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cxei2i67sgo91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a phone wallpaper version of the Empty Sekai loading screen ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-phone-wallpaper-version-of-the-empty-sekai-loading-v0-9ppsul1cfxga1.jpg?width=640&crop=smart&auto=webp&s=fcbc72323fe646b83fc0d66ee240d07d226ad3b0' alt='I made a phone wallpaper version of the Empty Sekai loading screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-phone-wallpaper-version-of-the-empty-sekai-loading-v0-9ppsul1cfxga1.jpg?width=640&crop=smart&auto=webp&s=fcbc72323fe646b83fc0d66ee240d07d226ad3b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Project Sekai Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13597012.jpg' alt='Project Sekai Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13597012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tricologe project sekai iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/bb/48/7ebb4800e8314b3c0f8e1706b2608d6a.jpg' alt='tricologe project sekai iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/bb/48/7ebb4800e8314b3c0f8e1706b2608d6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My wallpapers in my cellphone (i chose 1 for each screen) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-wallpapers-in-my-cellphone-i-chose-1-for-each-screen-v0-sxggio2y6tza1.jpg?width=640&crop=smart&auto=webp&s=4308c0d2b94017fac603762fc496aef1ba6cf4ee' alt='My wallpapers in my cellphone (i chose 1 for each screen) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-wallpapers-in-my-cellphone-i-chose-1-for-each-screen-v0-sxggio2y6tza1.jpg?width=640&crop=smart&auto=webp&s=4308c0d2b94017fac603762fc496aef1ba6cf4ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not me having a new phone wallpaper | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/e190c3db-7174-4e6a-b0b0-ac281f2ab939' alt='Not me having a new phone wallpaper | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project SEKAI Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/e190c3db-7174-4e6a-b0b0-ac281f2ab939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Project Sekai Colorful Stage! feat. Hatsune Miku (Hatsune Miku ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Project.Sekai.Colorful.Stage%21.feat..Hatsune.Miku.full.3470466.jpg' alt='Project Sekai Colorful Stage! feat. Hatsune Miku (Hatsune Miku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Project.Sekai.Colorful.Stage%21.feat..Hatsune.Miku.full.3470466.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 (lockscreen) wallpapers my gf and me made out of pjsekai cards ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3-lockscreen-wallpapers-my-gf-and-me-made-out-of-pjsekai-v0-1oo4su6rpr8b1.jpg?width=920&format=pjpg&auto=webp&s=195bf5a39215134f15a7732bd2519609497ee9f0' alt='3 (lockscreen) wallpapers my gf and me made out of pjsekai cards ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3-lockscreen-wallpapers-my-gf-and-me-made-out-of-pjsekai-v0-1oo4su6rpr8b1.jpg?width=920&format=pjpg&auto=webp&s=195bf5a39215134f15a7732bd2519609497ee9f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25ji nightcord de project sekai wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/f0/a2/e1f0a2634d6deed2a9ddcb63a3f64b45.jpg' alt='25ji nightcord de project sekai wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/f0/a2/e1f0a2634d6deed2a9ddcb63a3f64b45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made Some Carnation Recollection iPhone Wallpapers! | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/3aeb6c06-5109-4af6-a4fd-84914a885d9c/scale-to-width/755' alt='I Made Some Carnation Recollection iPhone Wallpapers! | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project SEKAI Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/3aeb6c06-5109-4af6-a4fd-84914a885d9c/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

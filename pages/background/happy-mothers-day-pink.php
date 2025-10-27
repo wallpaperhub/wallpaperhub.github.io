@@ -1,0 +1,129 @@
+<title>Happy Mother's Day in Pink: Celebrate Mom with Love!</title>
+                    <meta name="description" content="Discover delightful ways to celebrate Mother's Day in pink! From heartfelt gifts to stunning floral arrangements, express your love and appreciation for Mom. This guide offers creative ideas to make her day special, infused with the warmth of pink. Perfect for celebrating the incredible mothers in your life!">
+                    <meta name="keywords" content="happy mothers day pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-mothers-day-pink">
+                            <span itemprop="name">happy mothers day pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Happy Mother's Day in Pink: Celebrate Mom with Love!</h1>
+                <p>Celebrate the love and warmth of mothers everywhere this Mother's Day with a splash of pink! Pink symbolizes love, nurture, and kindness, perfectly reflecting the essence of motherhood. Send flowers, gifts, or heartfelt messages adorned in pink hues to show appreciation for all she does. Make her day as beautiful as she is!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Pink Roses background. by Milleflore Images">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/happy-mothers-day-pink-roses-background-milleflore-images.jpg' alt='Happy Mothers Day Pink Roses background. by Milleflore Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/happy-mothers-day-pink-roses-background-milleflore-images.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable mothers day templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE_XQ7MOlE/1/0/1600w/canva-mother%27s-day-j2UMdTBaOV4.jpg' alt='Free and customizable mothers day templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE_XQ7MOlE/1/0/1600w/canva-mother%27s-day-j2UMdTBaOV4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Flowers Images – Browse 452,439 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/01/34/73/360_F_201347356_RPHkDaLog4oGSYX4oYwodZJFtZnjXyRp.jpg' alt='Happy Mothers Day Flowers Images – Browse 452,439 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/01/34/73/360_F_201347356_RPHkDaLog4oGSYX4oYwodZJFtZnjXyRp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Pink Roses on Vintage style distressed pink wood ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EM9X11/happy-mothers-day-pink-roses-on-vintage-style-distressed-pink-wood-EM9X11.jpg' alt='Happy Mothers Day Pink Roses on Vintage style distressed pink wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EM9X11/happy-mothers-day-pink-roses-on-vintage-style-distressed-pink-wood-EM9X11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KatchOn, Happy Mothers Day Banner - XtraLarge, 72x44 Inch |  Happy Mothers Day Decorations for Party | Pink Mothers Day Backdrop for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SayI7Ya8L.jpg' alt='Amazon.com: KatchOn, Happy Mothers Day Banner - XtraLarge, 72x44 Inch |  Happy Mothers Day Decorations for Party | Pink Mothers Day Backdrop for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SayI7Ya8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Pink Post Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/happy-mothers-day-pink-post-design-template-0129ee8ac865e46739e026ecff792042_screen.jpg?ts=1681598813' alt='Happy Mothers Day Pink Post Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/happy-mothers-day-pink-post-design-template-0129ee8ac865e46739e026ecff792042_screen.jpg?ts=1681598813' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mother's Day greeting card. Beautiful leaves, flowers and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/021/965/161/small_2x/happy-mother-s-day-greeting-card-beautiful-leaves-flowers-and-berries-on-pink-background-vector.jpg' alt='Happy Mother's Day greeting card. Beautiful leaves, flowers and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/021/965/161/small_2x/happy-mother-s-day-greeting-card-beautiful-leaves-flowers-and-berries-on-pink-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Pink Flower Cursive Button | Wacky Buttons">
+                                <img itemprop="contentUrl url" src='https://www.wackybuttons.com/designcodes/0/110/1103057.png' alt='Happy Mothers Day Pink Flower Cursive Button | Wacky Buttons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wacky Buttons" />
+                                </span>
+                                <a href='https://www.wackybuttons.com/designcodes/0/110/1103057.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Pink Roses Happy Mother's Day Card | Birthday & Greeting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7d/92/02/7d9202212042377ab6125c16893cc5fd.jpg' alt='Pretty Pink Roses Happy Mother's Day Card | Birthday & Greeting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7d/92/02/7d9202212042377ab6125c16893cc5fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KatchOn, XtraLarge, Happy Mothers Day Banner - 72x44 Inch | Mothers Day  Decorations for Party | Pink Mothers Day Backdrop for Happy Mothers Day ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81PKnac84uL._AC_UF894,1000_QL80_.jpg' alt='KatchOn, XtraLarge, Happy Mothers Day Banner - 72x44 Inch | Mothers Day  Decorations for Party | Pink Mothers Day Backdrop for Happy Mothers Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81PKnac84uL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

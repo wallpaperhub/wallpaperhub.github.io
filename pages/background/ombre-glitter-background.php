@@ -1,0 +1,129 @@
+<title>Ombre Glitter Backgrounds: Sparkle Up Your Designs!</title>
+                    <meta name="description" content="Create stunning graphics with ombre glitter backgrounds! Perfect for events, social media, and branding, these colorful, sparkly designs elevate your visuals effortlessly. Explore our collection for inspiration and bring your creative projects to life with a touch of sparkle!">
+                    <meta name="keywords" content="ombre glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ombre-glitter-background">
+                            <span itemprop="name">ombre glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ombre Glitter Backgrounds: Sparkle Up Your Designs!</h1>
+                <p>Transform your designs with an ombre glitter background! This dazzling trend blends vibrant colors and sparkling effects, creating eye-catching visuals perfect for social media, invitations, or branding. Whether you choose a soft gradient or a bold splash of color, an ombre glitter background adds a touch of glamour and creativity to any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Ombre Background Images – Browse 24,758 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/00/53/38/360_F_300533822_d5V8V3HfJ73eWQBtt1vYd0SQKUKq8YPc.jpg' alt='Glitter Ombre Background Images – Browse 24,758 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/00/53/38/360_F_300533822_d5V8V3HfJ73eWQBtt1vYd0SQKUKq8YPc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Glitter Background Wallpaper Image For Free Download - Pngtree">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/f3/0c/25f30cbb17a61809f5800342ec3d13bf.jpg' alt='Ombre Glitter Background Wallpaper Image For Free Download - Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/f3/0c/25f30cbb17a61809f5800342ec3d13bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Gradient Pastel Ombre Glitter Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/gradient-pastel-ombre-glitter-background_548644-819.jpg' alt='Premium Photo | Gradient Pastel Ombre Glitter Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/gradient-pastel-ombre-glitter-background_548644-819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Ombre Background Images – Browse 24,758 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/82/52/58/360_F_582525831_7beOTbl2LE97e0n8m7ss9kKCg0AjtPA6.jpg' alt='Glitter Ombre Background Images – Browse 24,758 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/82/52/58/360_F_582525831_7beOTbl2LE97e0n8m7ss9kKCg0AjtPA6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Glitter Texture Sparkling Glitter Texture Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1593636814.jpg' alt='Ombre Glitter Texture Sparkling Glitter Texture Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1593636814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink ombre glitter textured background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/91/ba/d091ba6b755cb1ed14cc2d8f4d491744.jpg' alt='Download premium image of Pink ombre glitter textured background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/91/ba/d091ba6b755cb1ed14cc2d8f4d491744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Glitter Backgrounds!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjL1grWjKJ_YFD7YaxdXH3qzBDYD1xkzTVS_3gcKH33Qyw9-ZEPua8aVKf9tQS7FDGkmtx458kTDXeORvzYhBFuoDjvTzklmCCseVyuQOMr-lUhNYGqss4Wnj3giW-r1SohjLlCsQ8u0w/s1600/glitter+splotch+abstract+painting+background+wallpaper+ombre+faded+colors+bright+fun+freebies+%25289%2529.jpg' alt='Ombre Glitter Backgrounds!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doodle Craft" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjL1grWjKJ_YFD7YaxdXH3qzBDYD1xkzTVS_3gcKH33Qyw9-ZEPua8aVKf9tQS7FDGkmtx458kTDXeORvzYhBFuoDjvTzklmCCseVyuQOMr-lUhNYGqss4Wnj3giW-r1SohjLlCsQ8u0w/s1600/glitter+splotch+abstract+painting+background+wallpaper+ombre+faded+colors+bright+fun+freebies+%25289%2529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Glitter Ombre Stock Illustrations – 13,464 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-high-quality-ombre-glitter-surface-gemstone-texture-background-graphic-rgb-colors-dpi-ombre-glitter-surface-gemstone-186056225.jpg' alt='Background Glitter Ombre Stock Illustrations – 13,464 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-high-quality-ombre-glitter-surface-gemstone-texture-background-graphic-rgb-colors-dpi-ombre-glitter-surface-gemstone-186056225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Ombre Stock Photos and Pictures - 35,421 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1594184689.jpg' alt='Glitter Ombre Stock Photos and Pictures - 35,421 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1594184689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Ombre Sparkle Background Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/06/12/Gradient-Ombre-Sparkle-Background-Graphics-4343902-1.jpg' alt='Gradient Ombre Sparkle Background Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/06/12/Gradient-Ombre-Sparkle-Background-Graphics-4343902-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

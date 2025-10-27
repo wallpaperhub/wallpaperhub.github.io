@@ -1,0 +1,129 @@
+<title>Nike Pink Wallpapers: Chic & Stylish Backgrounds</title>
+                    <meta name="description" content="Explore our curated selection of Nike pink wallpapers, perfect for adding a touch of style to your devices. Featuring dynamic designs and the iconic Nike logo, these wallpapers are ideal for fans who love to express their passion for sports and fashion. Download your favorite now!">
+                    <meta name="keywords" content="nike wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/nike-wallpaper-pink">
+                            <span itemprop="name">nike wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nike Pink Wallpapers: Chic & Stylish Backgrounds</h1>
+                <p>Discover stunning Nike pink wallpapers to elevate your device's aesthetic! Whether you're a fan of vibrant hues or prefer subtle shades, our collection offers a variety of designs featuring the iconic Nike logo and stylish patterns. Perfect for iPhones, Androids, and desktops, these wallpapers let you showcase your passion for Nike in a chic way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Nike Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-pink-nike-9rezfr6dcv5xemay.jpg' alt='Aesthetic Pink Nike Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-pink-nike-9rezfr6dcv5xemay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7f/c8/df/7fc8dfea9e0656e340b736294e99eebf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7f/c8/df/7fc8dfea9e0656e340b736294e99eebf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Nike Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/1e/a5/5d1ea5f153a836b04d76d1f6d40dfff3.jpg' alt='Pink Nike Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/1e/a5/5d1ea5f153a836b04d76d1f6d40dfff3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Nike Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-nike-wallpaper-qkila13qgvq59qge.jpg' alt='Pink Nike Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-nike-wallpaper-qkila13qgvq59qge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Nike Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/55/1a/ba/551abab7d2d8cb06535015daf7dda252.jpg' alt='Girly Nike Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/55/1a/ba/551abab7d2d8cb06535015daf7dda252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nike Logo On A Pink Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-sports-pfpekx9k0xhqkxok.jpg' alt='Download Nike Logo On A Pink Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-sports-pfpekx9k0xhqkxok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Nike Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5538861.jpg' alt='Cute Pink Nike Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5538861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink panther nike logo wallpaper by Wicex - Download on ZEDGE™ | 2f40">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=1ie0T1af38rV2VwEX-lQyR5P8J7dElwkKYl_rHyW6tPc1_bdNdELSlnJMheGtj0yzGyj65yzJrZBAV1BaUuVgo5mIvmwzoPdTx_jQnvRDjt6-hSyzkQ1LyKQOgGbTuMsNC4O3S3m3CnQLDCU2Sr7IQm5GyX47AVOsDfeA9m-1lG_7i7uRCxth-mAf_tx7jm5U7Z4CB3fL6KUTxL7KPXkJnBMYyggekBTvl6TTNLPrp9Lk5xJrHLKIkTi39M' alt='Pink panther nike logo wallpaper by Wicex - Download on ZEDGE™ | 2f40'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=1ie0T1af38rV2VwEX-lQyR5P8J7dElwkKYl_rHyW6tPc1_bdNdELSlnJMheGtj0yzGyj65yzJrZBAV1BaUuVgo5mIvmwzoPdTx_jQnvRDjt6-hSyzkQ1LyKQOgGbTuMsNC4O3S3m3CnQLDCU2Sr7IQm5GyX47AVOsDfeA9m-1lG_7i7uRCxth-mAf_tx7jm5U7Z4CB3fL6KUTxL7KPXkJnBMYyggekBTvl6TTNLPrp9Lk5xJrHLKIkTi39M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomastourn, flower, nike, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/647/56/HD-wallpaper-thomastourn-fleur-nike-pink.jpg' alt='Thomastourn, flower, nike, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/647/56/HD-wallpaper-thomastourn-fleur-nike-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "Nike Pineapple Pink Background https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DP6IeJtV4AAt_WD.jpg:large' alt='3D iPhone Wallpaper on X: "Nike Pineapple Pink Background https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DP6IeJtV4AAt_WD.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

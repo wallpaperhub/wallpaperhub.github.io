@@ -1,0 +1,129 @@
+<title>Explore Uber's Background: Revolutionizing Ridesharing</title>
+                    <meta name="description" content="Discover the history of Uber and its impact on transportation. Learn how this innovative platform transformed ridesharing, offering convenient services while focusing on safety and driver support. Explore Uber's evolution in the global market and its diverse offerings today.">
+                    <meta name="keywords" content="uber background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/uber-background">
+                            <span itemprop="name">uber background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Uber's Background: Revolutionizing Ridesharing</h1>
+                <p>Uber, a ride-hailing service founded in 2009, revolutionized transportation by connecting riders with drivers through a mobile app. With a global presence, Uber emphasizes convenience and affordability, offering various services like UberX, Uber Eats, and Uber Pool. Safety initiatives and driver support have become integral as it grows.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,757 Background Uber Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/car-pin-phone-hands-auto-600nw-2492319943.jpg' alt='5,757 Background Uber Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/car-pin-phone-hands-auto-600nw-2492319943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strategy Study: How Uber Disrupted An Industry With An Explosive ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63f6e52346a353ca1752970e/6440c46e03c90153f54cb135_study-cover-uber.jpeg' alt='Strategy Study: How Uber Disrupted An Industry With An Explosive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cascade Strategy" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63f6e52346a353ca1752970e/6440c46e03c90153f54cb135_study-cover-uber.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber Just Got a New Logo and People Don't Like It - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/56b10947c08a80880e8be83c?width=750&format=jpeg' alt='Uber Just Got a New Logo and People Don't Like It - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/56b10947c08a80880e8be83c?width=750&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber – New Opportunity or Just an Algorithm? – MIC Global">
+                                <img itemprop="contentUrl url" src='https://www.micglobal.com/wp-content/uploads/2019/06/blog-uber.jpg' alt='Uber – New Opportunity or Just an Algorithm? – MIC Global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIC Global" />
+                                </span>
+                                <a href='https://www.micglobal.com/wp-content/uploads/2019/06/blog-uber.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber Eats Background Check - Everything You NEED to Know">
+                                <img itemprop="contentUrl url" src='https://s37591.pcdn.co/wp-content/uploads/paul-hanaoka-D-qq7W751vs-unsplash-2-scaled-1.jpg' alt='Uber Eats Background Check - Everything You NEED to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Millennial Money Man" />
+                                </span>
+                                <a href='https://s37591.pcdn.co/wp-content/uploads/paul-hanaoka-D-qq7W751vs-unsplash-2-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/6/6/1259201-2560x1440-desktop-hd-uber-background-photo.jpg' alt='Uber Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/6/6/1259201-2560x1440-desktop-hd-uber-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber Beefs Up Its Background Checking System | TechCrunch">
+                                <img itemprop="contentUrl url" src='https://techcrunch.com/wp-content/uploads/2014/01/uber_seo_car.jpg' alt='Uber Beefs Up Its Background Checking System | TechCrunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechCrunch" />
+                                </span>
+                                <a href='https://techcrunch.com/wp-content/uploads/2014/01/uber_seo_car.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber's continual process improvements pay off">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/zmrtlfup12q3/534bZp7Kjlzv0vEW0uMzzs/f223cbb86e08904df660f46ebdc31d42/Uber.jpg?fm=jpg&q=85&w=1920&fit=fill&fl=progressive&f=center&r=' alt='Uber's continual process improvements pay off'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celonis" />
+                                </span>
+                                <a href='https://images.ctfassets.net/zmrtlfup12q3/534bZp7Kjlzv0vEW0uMzzs/f223cbb86e08904df660f46ebdc31d42/Uber.jpg?fm=jpg&q=85&w=1920&fit=fill&fl=progressive&f=center&r=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uber begins background collection of rider location data | TechCrunch">
+                                <img itemprop="contentUrl url" src='https://techcrunch.com/wp-content/uploads/2016/05/ba55e41872394a70b14894e43c8210ce.jpeg' alt='Uber begins background collection of rider location data | TechCrunch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4310">
+                                <meta itemprop="height" content="2673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechCrunch" />
+                                </span>
+                                <a href='https://techcrunch.com/wp-content/uploads/2016/05/ba55e41872394a70b14894e43c8210ce.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Uber Background Check Wrong? - We can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84d0a905c9.webp' alt='Was Your Uber Background Check Wrong? - We can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84d0a905c9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

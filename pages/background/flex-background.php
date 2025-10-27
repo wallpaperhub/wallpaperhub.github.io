@@ -1,0 +1,129 @@
+<title>Optimize Your Web Design with Flex Backgrounds</title>
+                    <meta name="description" content="Discover the benefits of using flex backgrounds in CSS for responsive layouts. Learn how to leverage flex properties to enhance your web design with ease and flexibility, ensuring a visually appealing and user-friendly experience across devices.">
+                    <meta name="keywords" content="flex background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flex-background">
+                            <span itemprop="name">flex background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Web Design with Flex Backgrounds</h1>
+                <p>Flex background in CSS allows for responsive and dynamic layouts, enabling elements to adapt and align within a container. With properties like `flex-direction`, `justify-content`, and `align-items`, you can create an array of designs, from simple to complex. It's perfect for modern web design, ensuring optimal flexibility and aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flex Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bright-gradient-background-geometric-colorful_361591-3870.jpg' alt='Flex Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bright-gradient-background-geometric-colorful_361591-3870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Flex Design Backgrounds Images & Pictures | Free Download On ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240513/pngtree-light-blue-red-vector-background-with-lava-shapes-image_15744030.jpg' alt='Blue Flex Design Backgrounds Images & Pictures | Free Download On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240513/pngtree-light-blue-red-vector-background-with-lava-shapes-image_15744030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flex Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-template-background-new-minimalist_483537-4985.jpg' alt='Flex Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-template-background-new-minimalist_483537-4985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Blue Flex Stock Illustrations – 1,560 Background Blue ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-geometric-blue-wave-color-background-vector-illustration-abstract-geometric-blue-wave-color-background-241933282.jpg' alt='Background Blue Flex Stock Illustrations – 1,560 Background Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-geometric-blue-wave-color-background-vector-illustration-abstract-geometric-blue-wave-color-background-241933282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Political Flex Design Green Star Background Image Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.graficsea.com/wp-content/uploads/2022/11/Green-Star-HD.jpg' alt='Political Flex Design Green Star Background Image Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1922">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Images - Graficsea" />
+                                </span>
+                                <a href='https://images.graficsea.com/wp-content/uploads/2022/11/Green-Star-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flex Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/081/603/small_2x/bright-blue-gradient-elegance-shiny-abstract-background-backdrop-paper-poster-pattern-template-illustration-vector.jpg' alt='Flex Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/081/603/small_2x/bright-blue-gradient-elegance-shiny-abstract-background-backdrop-paper-poster-pattern-template-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flex Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/modern-abstract-background_608840-481.jpg' alt='Flex Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/modern-abstract-background_608840-481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Flex banner Backgrounds || FREE BANNER FLEX BACKGROUNDS ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/e0/ca/bae0cab64e40343fb839bebb3c01fae4.jpg' alt='Free Flex banner Backgrounds || FREE BANNER FLEX BACKGROUNDS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/e0/ca/bae0cab64e40343fb839bebb3c01fae4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flex background image hot sale">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/flex-background-z8r4zqcj12ruzxl5.jpg' alt='Flex background image hot sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.afaqalkawthar.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/flex-background-z8r4zqcj12ruzxl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 36 | Flex Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/742/449/small/illustration-nature-gradient-background-with-bright-sunlight-abstract-green-blurred-background-ecology-concept-for-your-graphic-design-banner-or-poster-free-vector.jpg' alt='Page 36 | Flex Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/742/449/small/illustration-nature-gradient-background-with-bright-sunlight-abstract-green-blurred-background-ecology-concept-for-your-graphic-design-banner-or-poster-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

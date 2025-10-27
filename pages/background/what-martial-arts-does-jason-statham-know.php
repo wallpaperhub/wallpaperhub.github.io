@@ -1,0 +1,129 @@
+<title>Martial Arts Skills of Jason Statham</title>
+                    <meta name="description" content="Discover the martial arts expertise of Jason Statham, featuring styles like Brazilian Jiu-Jitsu, Kickboxing, and Muay Thai. Explore how his skills enhance his action roles and bring authenticity to his thrilling performances in films. Perfect for martial arts enthusiasts and fans alike!">
+                    <meta name="keywords" content="what martial arts does jason statham know">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-martial-arts-does-jason-statham-know">
+                            <span itemprop="name">what martial arts does jason statham know</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Martial Arts Skills of Jason Statham</h1>
+                <p>Jason Statham is well-versed in multiple martial arts disciplines, including Brazilian Jiu-Jitsu, Kickboxing, and Muay Thai. His rigorous training in these arts contributes significantly to his action-packed film performances. Statham's proficiency enhances his on-screen combat scenes, making his portrayals exceptionally realistic and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Martial Arts Does Jason Statham Know? Asked and Answered">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/409fc7_d7e8a44a81df4ae69ec1bdcef4046b42~mv2.jpeg/v1/fill/w_937,h_529,al_c,lg_1,q_85/409fc7_d7e8a44a81df4ae69ec1bdcef4046b42~mv2.jpeg' alt='What Martial Arts Does Jason Statham Know? Asked and Answered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Belt Magazine" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/409fc7_d7e8a44a81df4ae69ec1bdcef4046b42~mv2.jpeg/v1/fill/w_937,h_529,al_c,lg_1,q_85/409fc7_d7e8a44a81df4ae69ec1bdcef4046b42~mv2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Martial Arts Does Jason Statham Know - Gracie Jiu-jitsu ...">
+                                <img itemprop="contentUrl url" src='https://graciejiujitsuhuntingtonbeach.com/wp-content/uploads/2024/07/What-Martial-Arts-Does-Jason-Statham-Know-2.png' alt='What Martial Arts Does Jason Statham Know - Gracie Jiu-jitsu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gracie Jiu-jitsu Huntington Beach" />
+                                </span>
+                                <a href='https://graciejiujitsuhuntingtonbeach.com/wp-content/uploads/2024/07/What-Martial-Arts-Does-Jason-Statham-Know-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Statham vs Scott Adkins | Jiu-Jitsu vs Taekwondo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YbU55JCg52Y/sddefault.jpg' alt='Jason Statham vs Scott Adkins | Jiu-Jitsu vs Taekwondo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YbU55JCg52Y/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Statham - New Training`s (Martial arts) -(Workout)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kxTYWZHEOzI/sddefault.jpg' alt='Jason Statham - New Training`s (Martial arts) -(Workout)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kxTYWZHEOzI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Martial Arts Does Jason Statham Know - Seven Star Martial Arts">
+                                <img itemprop="contentUrl url" src='https://7starma.com/wp-content/uploads/2024/07/What-Martial-Arts-Does-Jason-Statham-Know-2.jpg' alt='What Martial Arts Does Jason Statham Know - Seven Star Martial Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seven Star Martial Arts" />
+                                </span>
+                                <a href='https://7starma.com/wp-content/uploads/2024/07/What-Martial-Arts-Does-Jason-Statham-Know-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Statham: A Martial Arts Icon - Martial Thoughts">
+                                <img itemprop="contentUrl url" src='https://karatetraining.org/weblog/wp-content/uploads/2023/03/jason-3457959605.jpeg' alt='Jason Statham: A Martial Arts Icon - Martial Thoughts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KarateTraining.org" />
+                                </span>
+                                <a href='https://karatetraining.org/weblog/wp-content/uploads/2023/03/jason-3457959605.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Jason Statham a Real Martial Artist?">
+                                <img itemprop="contentUrl url" src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/10/jason-9.jpeg' alt='Is Jason Statham a Real Martial Artist?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MovieWeb" />
+                                </span>
+                                <a href='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/10/jason-9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Jason Statham be in the UFC? - Quora">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-035a30b44226ca1fc095d4f288c3119d.webp' alt='Can Jason Statham be in the UFC? - Quora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-035a30b44226ca1fc095d4f288c3119d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Fighting Style Does Jason Statham Use In His Movies? Martial ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/jason-statham-s-deckard-shaw-kicking-vested-man-in-fate-of-the-furious.jpg' alt='What Fighting Style Does Jason Statham Use In His Movies? Martial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/jason-statham-s-deckard-shaw-kicking-vested-man-in-fate-of-the-furious.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Martial Arts Does Jason Statham Know?">
+                                <img itemprop="contentUrl url" src='https://graciejiujitsuwesthouston.com/wp-content/uploads/2024/11/What-Martial-Arts-Does-Jason-Statham-Know.png' alt='What Martial Arts Does Jason Statham Know?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gracie Jiu Jitsu Houston" />
+                                </span>
+                                <a href='https://graciejiujitsuwesthouston.com/wp-content/uploads/2024/11/What-Martial-Arts-Does-Jason-Statham-Know.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

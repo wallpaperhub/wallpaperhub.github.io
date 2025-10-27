@@ -1,0 +1,129 @@
+<title>Explore Darkest Dungeon Phone Wallpapers: Haunting Art for Your Screen</title>
+                    <meta name="description" content="Discover mesmerizing Darkest Dungeon phone wallpapers that bring the game's dark atmosphere to life. Perfect for fans seeking a gothic touch to their mobile screens. Download your favorite designs today and showcase your love for this iconic RPG anywhere you go!">
+                    <meta name="keywords" content="darkest dungeon phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/darkest-dungeon-phone-wallpaper">
+                            <span itemprop="name">darkest dungeon phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Darkest Dungeon Phone Wallpapers: Haunting Art for Your Screen</h1>
+                <p>Transform your phone's aesthetic with stunning Darkest Dungeon wallpapers! Dive into the hauntingly beautiful art of this iconic game, featuring brooding heroes and eerie landscapes. Perfect for fans who appreciate gothic themes, these wallpapers will captivate your screen and reflect the game's intense atmosphere. Download now and elevate your mobile experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruin has come for us all : r/darkestdungeon">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ruin-has-come-for-us-all-v0-ntlh3kc47yxd1.jpg?width=1063&format=pjpg&auto=webp&s=68d309e8e7b5c5e7f113ed4a8e3eb39adb0cdf29' alt='Ruin has come for us all : r/darkestdungeon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="2303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ruin-has-come-for-us-all-v0-ntlh3kc47yxd1.jpg?width=1063&format=pjpg&auto=webp&s=68d309e8e7b5c5e7f113ed4a8e3eb39adb0cdf29' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For those of you asking for a darker, affliction phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/krl2r4ic7n541.png' alt='For those of you asking for a darker, affliction phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/krl2r4ic7n541.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I did something for phone users. Hope you like it! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b41dxe8ihys91.jpg' alt='So I did something for phone users. Hope you like it! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b41dxe8ihys91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DARKEST DUNGEON, games, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/366/565/HD-wallpaper-darkest-dungeon-games.jpg' alt='DARKEST DUNGEON, games, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/366/565/HD-wallpaper-darkest-dungeon-games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper I did for my phone, couldn't find better res sprites : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/07dt2iveez531.png' alt='Wallpaper I did for my phone, couldn't find better res sprites : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/07dt2iveez531.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a phone wallpaper. : r/darkestdungeon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f7hyl96vf1xd1.jpeg' alt='I made a phone wallpaper. : r/darkestdungeon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f7hyl96vf1xd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collector, darkest, dungeon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/660/504/HD-wallpaper-collector-darkest-dungeon.jpg' alt='Collector, darkest, dungeon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/660/504/HD-wallpaper-collector-darkest-dungeon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Darkest Dungeon" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/2a/2a05f7c0ab7ff913d368eeb2baf59918.jpeg' alt='Download "Darkest Dungeon" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/2a/2a05f7c0ab7ff913d368eeb2baf59918.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DARKEST DUNGEON - Collector, GRAYBOXX ESSENNOIR">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/28/87/bb28873bc82389e2f11ac1f2b100dd6f.jpg' alt='DARKEST DUNGEON - Collector, GRAYBOXX ESSENNOIR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/28/87/bb28873bc82389e2f11ac1f2b100dd6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A phone wallpaper I made while going through a rough time to ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-phone-wallpaper-i-made-while-going-through-a-rough-time-v0-z5yhvo0la6hc1.png?auto=webp&s=ebdf50c36de64603e220fc1943ed4c142cc83e00' alt='A phone wallpaper I made while going through a rough time to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-phone-wallpaper-i-made-while-going-through-a-rough-time-v0-z5yhvo0la6hc1.png?auto=webp&s=ebdf50c36de64603e220fc1943ed4c142cc83e00' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

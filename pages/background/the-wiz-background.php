@@ -1,0 +1,129 @@
+<title>The Wiz: A Bold Reimagining of Oz</title>
+                    <meta name="description" content="Explore "The Wiz," a vibrant musical that transforms the classic Oz tale with an all-Black cast, set to a soulful soundtrack. Discover the unforgettable journey of Dorothy and her friends in this urban retelling that merges fantasy with the rhythms of contemporary culture.">
+                    <meta name="keywords" content="the wiz background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-wiz-background">
+                            <span itemprop="name">the wiz background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Wiz: A Bold Reimagining of Oz</h1>
+                <p>The Wiz is a groundbreaking 1975 musical that reimagines L. Frank Baum's classic "The Wonderful Wizard of Oz" with an all-Black cast. Set in a vibrant, urban environment, it infuses elements of soul, R&B, and funk into its soundtrack. The story follows Dorothy’s journey to find her way home, encountering memorable characters along the way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="thewizfinal on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/f2216230ed7bd79c9d755cff6f123f8c/3a51ddcf53a51df5-a1/s780x461/d831e16416f033ad9aa4793a48b8aeac438d4a37.jpg' alt='thewizfinal on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/f2216230ed7bd79c9d755cff6f123f8c/3a51ddcf53a51df5-a1/s780x461/d831e16416f033ad9aa4793a48b8aeac438d4a37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz' Turns 40: How The Film Put The Black Experience In ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5a40698cf09ca41880b63685/5a409c27419202d4b1a2cfdd/5bd01ce1e5e5f0ae9de8719f/1719901359858/MM2017_TheWiz_615x400.jpg?format=1500w' alt='The Wiz' Turns 40: How The Film Put The Black Experience In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NADIRAH" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5a40698cf09ca41880b63685/5a409c27419202d4b1a2cfdd/5bd01ce1e5e5f0ae9de8719f/1719901359858/MM2017_TheWiz_615x400.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz (1978) - Backdrops — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://image.tmdb.org/t/p/original/4Cu9bcXrqKlU89OGGyEch888F4H.jpg' alt='The Wiz (1978) - Backdrops — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1752">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Movie Database (TMDB)" />
+                                </span>
+                                <a href='https://image.tmdb.org/t/p/original/4Cu9bcXrqKlU89OGGyEch888F4H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/2017/10/Munchkinland.jpg' alt='The Wiz – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/2017/10/Munchkinland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The wiz 1978 hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RYN2CB/jacksonrossrossrussell-the-wiz-1978-RYN2CB.jpg' alt='The wiz 1978 hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="914">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RYN2CB/jacksonrossrossrussell-the-wiz-1978-RYN2CB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz Projections">
+                                <img itemprop="contentUrl url" src='https://theatreave.com/cdn/shop/files/Product_OzCountry_Projection_600x.jpg?v=1686238579' alt='The Wiz Projections'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Theatre Avenue" />
+                                </span>
+                                <a href='https://theatreave.com/cdn/shop/files/Product_OzCountry_Projection_600x.jpg?v=1686238579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz 1978 FANMADE WALLPAPER DVD Recreation by MaxwellEck on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9aa5afd-ba73-405c-9681-caf2eafafbea/dgl6wrw-8bebb0be-7ec8-4369-a280-e8044f193543.png/v1/fill/w_1280,h_545,q_80,strp/the_wiz_1978_fanmade_wallpaper_dvd_recreation_by_maxwelleck_dgl6wrw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQ1IiwicGF0aCI6IlwvZlwvYTlhYTVhZmQtYmE3My00MDVjLTk2ODEtY2FmMmVhZmFmYmVhXC9kZ2w2d3J3LThiZWJiMGJlLTdlYzgtNDM2OS1hMjgwLWU4MDQ0ZjE5MzU0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._lMooqhG1tmEZYUfYY0Qe4ysT8dYMs5Q4ItgbeB_qxU' alt='The Wiz 1978 FANMADE WALLPAPER DVD Recreation by MaxwellEck on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9aa5afd-ba73-405c-9681-caf2eafafbea/dgl6wrw-8bebb0be-7ec8-4369-a280-e8044f193543.png/v1/fill/w_1280,h_545,q_80,strp/the_wiz_1978_fanmade_wallpaper_dvd_recreation_by_maxwelleck_dgl6wrw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQ1IiwicGF0aCI6IlwvZlwvYTlhYTVhZmQtYmE3My00MDVjLTk2ODEtY2FmMmVhZmFmYmVhXC9kZ2w2d3J3LThiZWJiMGJlLTdlYzgtNDM2OS1hMjgwLWU4MDQ0ZjE5MzU0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._lMooqhG1tmEZYUfYY0Qe4ysT8dYMs5Q4ItgbeB_qxU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz: Wonderful or Weird? | BB2">
+                                <img itemprop="contentUrl url" src='https://bkblack28.wordpress.com/wp-content/uploads/2014/03/wiz.jpg' alt='The Wiz: Wonderful or Weird? | BB2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BB2 - WordPress.com" />
+                                </span>
+                                <a href='https://bkblack28.wordpress.com/wp-content/uploads/2014/03/wiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz” Film Adaptation Review | Dan's Mediatopia">
+                                <img itemprop="contentUrl url" src='https://dansmediatopia.wordpress.com/wp-content/uploads/2015/05/d30c0-6a00d8341c730253ef01b8d0fc88c6970c-pi.jpg' alt='The Wiz” Film Adaptation Review | Dan's Mediatopia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dan's Mediatopia - WordPress.com" />
+                                </span>
+                                <a href='https://dansmediatopia.wordpress.com/wp-content/uploads/2015/05/d30c0-6a00d8341c730253ef01b8d0fc88c6970c-pi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wiz | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_p_v12_af.jpg' alt='The Wiz | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_p_v12_af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

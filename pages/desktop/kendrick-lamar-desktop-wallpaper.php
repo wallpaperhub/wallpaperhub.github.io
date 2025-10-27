@@ -1,0 +1,129 @@
+<title>Kendrick Lamar Desktop Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Discover stunning Kendrick Lamar desktop wallpapers to enhance your workspace. Choose from vibrant designs that reflect his artistry and elevate your screen’s aesthetic. Perfect for fans looking to inspire creativity and passion in their daily environment. Download your favorite now!">
+                    <meta name="keywords" content="kendrick lamar desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/kendrick-lamar-desktop-wallpaper">
+                            <span itemprop="name">kendrick lamar desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kendrick Lamar Desktop Wallpapers: Elevate Your Screen</h1>
+                <p>Kendrick Lamar desktop wallpaper is a perfect way to showcase your love for the hip-hop artist. With striking visuals that capture his energy and artistry, these wallpapers bring a creative flair to your workspace. Whether you prefer dynamic action shots or thought-provoking artwork, there’s a wallpaper to inspire you every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PC wallpaper i made because i was bored. : r/KendrickLamar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pc-wallpaper-i-made-because-i-was-bored-v0-yqdt9wrurfrd1.png?auto=webp&s=e0912f5e5ef4fbdcd5284da5732041c20383e62c' alt='PC wallpaper i made because i was bored. : r/KendrickLamar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pc-wallpaper-i-made-because-i-was-bored-v0-yqdt9wrurfrd1.png?auto=webp&s=e0912f5e5ef4fbdcd5284da5732041c20383e62c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper 1920x1080 : r/KendrickLamar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lz271sxgaj901.png' alt='Desktop Wallpaper 1920x1080 : r/KendrickLamar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lz271sxgaj901.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar In Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kendrick-lamar-in-aesthetic-0vbzzzxn2u5h55tn.jpg' alt='Kendrick Lamar In Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kendrick-lamar-in-aesthetic-0vbzzzxn2u5h55tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar Damn Album Cover Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kendrick-lamar-damn-album-cover-mn2cfb5wt74ptupx.jpg' alt='Kendrick Lamar Damn Album Cover Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kendrick-lamar-damn-album-cover-mn2cfb5wt74ptupx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar Minimal Wallpaper, HD Minimalist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/kendrick-lamar-minimal_amxqa2uUmZqaraWkpJRta2lprWlta2g.jpg' alt='Kendrick Lamar Minimal Wallpaper, HD Minimalist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8644">
+                                <meta itemprop="height" content="4863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/kendrick-lamar-minimal_amxqa2uUmZqaraWkpJRta2lprWlta2g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr. Morale Desktop Wallpaper (for anyone who wants one) :) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kdk4daii9yy81.jpg?auto=webp&s=d44cc5e476bf5233af52ad31832c43ee44b81420' alt='Mr. Morale Desktop Wallpaper (for anyone who wants one) :) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kdk4daii9yy81.jpg?auto=webp&s=d44cc5e476bf5233af52ad31832c43ee44b81420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar HD Music Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/136/1361613.jpeg' alt='Kendrick Lamar HD Music Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/136/1361613.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/d7/d9/eed7d92d4ddd5f86edd6fbc0c766c724.jpg' alt='Kendrick Lamar PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/d7/d9/eed7d92d4ddd5f86edd6fbc0c766c724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar: HD Wallpaper of a Rap Icon">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/691/691944.jpg' alt='Kendrick Lamar: HD Wallpaper of a Rap Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/691/691944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/b/c/46419-3840x2160-desktop-4k-kendrick-lamar-background-image.jpg' alt='Kendrick Lamar Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/b/c/46419-3840x2160-desktop-4k-kendrick-lamar-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

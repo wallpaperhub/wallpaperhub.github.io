@@ -1,0 +1,129 @@
+<title>Stunning Pink Moon Aesthetic Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover captivating pink moon aesthetic wallpaper that brings tranquility and beauty to your screens. Perfect for nature lovers and dreamers, these wallpapers create a serene ambiance. Optimize your device with a touch of celestial charm today!">
+                    <meta name="keywords" content="pink moon aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pink-moon-aesthetic-wallpaper">
+                            <span itemprop="name">pink moon aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Moon Aesthetic Wallpaper for Your Device</h1>
+                <p>Transform your device's look with enchanting pink moon aesthetic wallpaper. These dreamy designs, featuring soft hues and celestial vibes, will elevate your screens while creating a calming atmosphere. Perfect for those who adore nature and whimsical art, these wallpapers invite serenity and beauty into your daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink moon wallpaper by arsi26 - Download on ZEDGE™ | 67b1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/65/6a/21656a70fc933426b51685a6494fac2f.jpg' alt='Pink moon wallpaper by arsi26 - Download on ZEDGE™ | 67b1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/65/6a/21656a70fc933426b51685a6494fac2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink moon | Pink moon wallpaper, Pink and black wallpaper, Pink moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/cd/03/d9cd03a07ce59d1a5f3992ee82cc7453.jpg' alt='Pink moon | Pink moon wallpaper, Pink and black wallpaper, Pink moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/cd/03/d9cd03a07ce59d1a5f3992ee82cc7453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Magnificent Soft Pink Moon Rise Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-moon-1080-x-1920-yjp0au0scsw706za.jpg' alt='Download A Magnificent Soft Pink Moon Rise Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-moon-1080-x-1920-yjp0au0scsw706za.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone pink aesthetic moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/553/907/HD-wallpaper-aesthetic-sky-6-aesthetic-clouds-iphone-moon-nature-pink-samsung-silver-sky-stars.jpg' alt='HD iphone pink aesthetic moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/553/907/HD-wallpaper-aesthetic-sky-6-aesthetic-clouds-iphone-moon-nature-pink-samsung-silver-sky-stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/ec/4b/5eec4b663d5b850897f6e3457b6c63a8.jpg' alt='Pink moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/ec/4b/5eec4b663d5b850897f6e3457b6c63a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full moon Wallpaper 4K, Aesthetic, Clouds, Pink sky">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/full-moon-clouds-pink-sky-scenic-aesthetic-2732x2732-1653.jpg' alt='Full moon Wallpaper 4K, Aesthetic, Clouds, Pink sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/full-moon-clouds-pink-sky-scenic-aesthetic-2732x2732-1653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Pink Moon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1587052299821-45156adfb74b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG1vb258ZW58MHx8MHx8fDA%3D' alt='1500+ Pink Moon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1587052299821-45156adfb74b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMG1vb258ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Pink Moon Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/dreamy-pink-moon-wallpaper-137.webp' alt='Dreamy Pink Moon Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/dreamy-pink-moon-wallpaper-137.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Full Moon Clouds Aesthetics Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-full-moon-clouds-aesthetics-og10hx7vbggf5fug.jpg' alt='Pink Full Moon Clouds Aesthetics Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-full-moon-clouds-aesthetics-og10hx7vbggf5fug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download I Love You Pink Moon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/i-love-you-pink-moon-iw5oviyknvowvvo9.jpg' alt='Download I Love You Pink Moon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1026">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/i-love-you-pink-moon-iw5oviyknvowvvo9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

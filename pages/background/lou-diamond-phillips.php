@@ -1,0 +1,129 @@
+<title>Lou Diamond Phillips: Talented Actor and Director</title>
+                    <meta name="description" content="Discover Lou Diamond Phillips, the talented actor renowned for his iconic roles in "La Bamba" and "Stand and Deliver." Explore his journey from stage to screen, his diverse heritage, and his contributions to entertainment. Join us in celebrating his legacy and influence in the film industry.">
+                    <meta name="keywords" content="lou diamond phillips">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lou-diamond-phillips">
+                            <span itemprop="name">lou diamond phillips</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lou Diamond Phillips: Talented Actor and Director</h1>
+                <p>Lou Diamond Phillips is an acclaimed American actor, director, and producer, known for his compelling performances in films like "La Bamba" and "Stand and Deliver." With his unique heritage, he brings rich diversity to his roles. Beyond acting, Phillips has made significant contributions to theater and television, captivating audiences across generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTU3NTgwMTQzMl5BMl5BanBnXkFtZTcwMjAzNTM4Nw@@._V1_.jpg' alt='Lou Diamond Phillips - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTU3NTgwMTQzMl5BMl5BanBnXkFtZTcwMjAzNTM4Nw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Lou_Diamond_Phillips_at_the_Chiller_Theatre_Expo_2017.jpg' alt='Lou Diamond Phillips - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d1/Lou_Diamond_Phillips_at_the_Chiller_Theatre_Expo_2017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips | Longmire Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/longmire/images/9/9f/LouDiamondCard2.png/revision/latest?cb=20210709191435' alt='Lou Diamond Phillips | Longmire Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Longmire Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/longmire/images/9/9f/LouDiamondCard2.png/revision/latest?cb=20210709191435' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips was 'scared' to fail in 'La Bamba'">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2019/08/lou-diamond-phillips-la-bamba-duo1b.jpg?quality=75&strip=all' alt='Lou Diamond Phillips was 'scared' to fail in 'La Bamba''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2019/08/lou-diamond-phillips-la-bamba-duo1b.jpg?quality=75&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips: Biography, Actor, 'Stand and Deliver'">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/lou-diamond-phillips-17184730-1-402.jpg' alt='Lou Diamond Phillips: Biography, Actor, 'Stand and Deliver''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/lou-diamond-phillips-17184730-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humble From The Start: Lou Diamond Phillips On The Cover">
+                                <img itemprop="contentUrl url" src='https://www.cowboysindians.com/wp-content/uploads/2023/04/04-Lou-Diamond-Phillips_0590-683x1024.jpg' alt='Humble From The Start: Lou Diamond Phillips On The Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cowboys and Indians Magazine" />
+                                </span>
+                                <a href='https://www.cowboysindians.com/wp-content/uploads/2023/04/04-Lou-Diamond-Phillips_0590-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips - Turner Classic Movies">
+                                <img itemprop="contentUrl url" src='https://prod-images.tcm.com/Master-Profile-Images/LouDiamondPhillips.151889.jpg' alt='Lou Diamond Phillips - Turner Classic Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TCM" />
+                                </span>
+                                <a href='https://prod-images.tcm.com/Master-Profile-Images/LouDiamondPhillips.151889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BR27 Rare TV Vtg Color Photo LOU DIAMOND PHILLIPS La Bamba Handsome Film  Actor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMjQ3/z/JXsAAOSwoldjrLhB/$_57.JPG?set_id=880000500F' alt='BR27 Rare TV Vtg Color Photo LOU DIAMOND PHILLIPS La Bamba Handsome Film  Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1247">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMjQ3/z/JXsAAOSwoldjrLhB/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/40322_v9_bd.jpg' alt='Lou Diamond Phillips | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/40322_v9_bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lou Diamond Phillips | Southland Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/southland/images/6/65/Lou_Diamond_Phillips.jpg/revision/latest?cb=20120120202821' alt='Lou Diamond Phillips | Southland Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="214">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southland Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/southland/images/6/65/Lou_Diamond_Phillips.jpg/revision/latest?cb=20120120202821' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

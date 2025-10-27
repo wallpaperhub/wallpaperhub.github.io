@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Peel and Stick Grass Cloth Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of peel and stick grass cloth wallpaper. This stylish, easy-to-apply wall covering offers a natural look without the hassle of traditional methods. Perfect for renters and quick makeovers, elevate your decor today!">
+                    <meta name="keywords" content="peel and stick grass cloth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-grass-cloth-wallpaper">
+                            <span itemprop="name">peel and stick grass cloth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Peel and Stick Grass Cloth Wallpaper</h1>
+                <p>Peel and stick grass cloth wallpaper brings a touch of nature indoors with ease. This innovative wall covering replicates the look of natural grass fibers, adding warmth and texture to any room. Easy to apply and remove, it requires no glue, making it perfect for renters and DIY enthusiasts alike. Transform your space effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x197"  Neutral Faux Grassweave Waterproof Self Adhesive Removable Wallpaper Mural  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-c04F89SL.jpg' alt='Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x197"  Neutral Faux Grassweave Waterproof Self Adhesive Removable Wallpaper Mural  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-c04F89SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Grasscloth Wallpaper Peel and Stick Cream Grassweave Peel & Stick  Wallpaper Textured Stick on Wallpaper Contact Paper 17.3"x118" - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ViZ09b-RL.jpg' alt='JiffDiff Grasscloth Wallpaper Peel and Stick Cream Grassweave Peel & Stick  Wallpaper Textured Stick on Wallpaper Contact Paper 17.3"x118" - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ViZ09b-RL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Faux Grasscloth Peel & Stick Wallpapers Have Arrived ...">
+                                <img itemprop="contentUrl url" src='https://prismic-io.s3.amazonaws.com/societysocial/ef8a27ba-3228-4020-a01f-02203090de57_SS-7226+%283%29.jpg' alt='The Best Faux Grasscloth Peel & Stick Wallpapers Have Arrived ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society Social" />
+                                </span>
+                                <a href='https://prismic-io.s3.amazonaws.com/societysocial/ef8a27ba-3228-4020-a01f-02203090de57_SS-7226+%283%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux grass cloth peel and stick wallpaper - removable">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-879107.jpg?v=1718902432' alt='Faux grass cloth peel and stick wallpaper - removable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-879107.jpg?v=1718902432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick | Faux Grasscloth | Self Adhesive Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/e29a83/2682333367/il_570xN.2682333367_on5u.jpg' alt='Peel and Stick | Faux Grasscloth | Self Adhesive Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/e29a83/2682333367/il_570xN.2682333367_on5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Textured Grasscloth Blue Peel And Stick Wallpaper, 28 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899902939182_4.jpg?v=1694155919' alt='Decoratorsbest Textured Grasscloth Blue Peel And Stick Wallpaper, 28 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899902939182_4.jpg?v=1694155919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/GR10690-textured-black-grasscloth-peel-stick-wallpaper-living-room-02.jpg?v=1724335125&width=1080' alt='Faux Grasscloth Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/GR10690-textured-black-grasscloth-peel-stick-wallpaper-living-room-02.jpg?v=1724335125&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Grasscloth Wallpaper - SAMPLE – US Wall Decor">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/RMK9031WP-York-Peel-and-Stick-Grasscloth-Wallpaper-tan_70eee3d0-64ed-4cd9-946b-2639aa6e22dc.jpg?v=1571709042&width=1946' alt='Peel and Stick Grasscloth Wallpaper - SAMPLE – US Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/RMK9031WP-York-Peel-and-Stick-Grasscloth-Wallpaper-tan_70eee3d0-64ed-4cd9-946b-2639aa6e22dc.jpg?v=1571709042&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17.7x236 Teal Grasscloth Peel and Stick Wallpaper Faux Linen Contact Paper  Self Adhesive Removable Textured Wallpaper Grass Cloth Fabric Vinyl Film ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/17-7x236-Teal-Grasscloth-Peel-Stick-Wallpaper-Faux-Linen-Contact-Paper-Self-Adhesive-Removable-Textured-Grass-Cloth-Fabric-Vinyl-Film-Green-Wall-Bedr_5e7a9811-af95-437c-b57f-b78ed489cc3a.8137269b981800890b9f2cab50c872bf.jpeg' alt='17.7x236 Teal Grasscloth Peel and Stick Wallpaper Faux Linen Contact Paper  Self Adhesive Removable Textured Wallpaper Grass Cloth Fabric Vinyl Film ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/17-7x236-Teal-Grasscloth-Peel-Stick-Wallpaper-Faux-Linen-Contact-Paper-Self-Adhesive-Removable-Textured-Grass-Cloth-Fabric-Vinyl-Film-Green-Wall-Bedr_5e7a9811-af95-437c-b57f-b78ed489cc3a.8137269b981800890b9f2cab50c872bf.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

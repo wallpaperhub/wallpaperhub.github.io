@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Your iPad</title>
+                    <meta name="description" content="Explore a curated collection of breathtaking 4K wallpapers for your iPad. Transform your device's look with vibrant visuals and stunning designs perfect for making your screen come alive. Download now and give your iPad the upgrade it deserves!">
+                    <meta name="keywords" content="ipad 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/ipad-4k-wallpaper">
+                            <span itemprop="name">ipad 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Your iPad</h1>
+                <p>Discover stunning iPad 4K wallpapers that elevate your device's display! Choose from an array of mesmerizing landscapes, vibrant abstract designs, and captivating artistic images. Whether you want to refresh your home screen or lock screen, our curated selection ensures your iPad looks remarkable and eye-catching every time you unlock it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad Pro Wallpaper 4K, Colorful, Liquid art, Apple">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipad-pro-liquid-art-colorful-apple-stock-3208x3208-1386.jpg' alt='iPad Pro Wallpaper 4K, Colorful, Liquid art, Apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3208">
+                                <meta itemprop="height" content="3208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipad-pro-liquid-art-colorful-apple-stock-3208x3208-1386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iPadOS 15.4 Wallpapers for iPad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/f9/8d/2ef98d5baea34d41179bc50741f2b6f7.jpg' alt='Download the Official iPadOS 15.4 Wallpapers for iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/f9/8d/2ef98d5baea34d41179bc50741f2b6f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad Pro Wallpaper 4K, Liquid art, Blue, Apple, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipad-pro-liquid-art-blue-apple-stock-2560x1080-1388.jpg' alt='iPad Pro Wallpaper 4K, Liquid art, Blue, Apple, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipad-pro-liquid-art-blue-apple-stock-2560x1080-1388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Ipad Colorful Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/4k-ipad-colorful-art-cc8dmhsac72g7zmb.jpg' alt='4k Ipad Colorful Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/4k-ipad-colorful-art-cc8dmhsac72g7zmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ipad Wallpaper Photos, Download The BEST Free Ipad Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/9669089/pexels-photo-9669089.jpeg?cs=srgb&dl=pexels-cottonbro-9669089.jpg&fm=jpg' alt='Ipad Wallpaper Photos, Download The BEST Free Ipad Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2431">
+                                <meta itemprop="height" content="3646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/9669089/pexels-photo-9669089.jpeg?cs=srgb&dl=pexels-cottonbro-9669089.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Ipad Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-ipad-plane-and-mountains-gpsg0j9qgmfqc2an.jpg' alt='100+] 4k Ipad Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-ipad-plane-and-mountains-gpsg0j9qgmfqc2an.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Ipad Lake View Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/4k-ipad-lake-view-oe5a8ns7xg1p97br.jpg' alt='4k Ipad Lake View Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/4k-ipad-lake-view-oe5a8ns7xg1p97br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome 4K iPad Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/38/72/203872b79b35d21efa6301712b973078.jpg' alt='Awesome 4K iPad Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/38/72/203872b79b35d21efa6301712b973078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad Pro Wallpaper 4K, Stock, 2020, Apple">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipad-pro-stock-2020-apple-hd-2732x2732-763.jpg' alt='iPad Pro Wallpaper 4K, Stock, 2020, Apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipad-pro-stock-2020-apple-hd-2732x2732-763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ipad Wallpaper Photos, Download The BEST Free Ipad Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?cs=srgb&dl=pexels-cliford-mervil-988071-2469122.jpg&fm=jpg' alt='Ipad Wallpaper Photos, Download The BEST Free Ipad Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4912">
+                                <meta itemprop="height" content="7360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?cs=srgb&dl=pexels-cliford-mervil-988071-2469122.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

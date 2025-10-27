@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="faux brick wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/faux-brick-wallpaper-peel-and-stick">
+                            <span itemprop="name">faux brick wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lenify Faux Brick Wallpaper Peel and Stick Grey Brick Wallpaper 17.7inch x  393.7inch Grey Brick Contact Wallpaper Bathroom Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91f+67xPSBL.jpg' alt='lenify Faux Brick Wallpaper Peel and Stick Grey Brick Wallpaper 17.7inch x  393.7inch Grey Brick Contact Wallpaper Bathroom Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91f+67xPSBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Washed Faux Brick Grey And Rust Vinyl Peel & Stick Wallpaper Roll  (Covers 30.75 Sq. Ft.) NW30500">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/235c6a4e-05f7-42aa-9567-e365a8fd3c5a/svn/nextwall-wallpaper-rolls-nw30500-64_600.jpg' alt='NextWall Washed Faux Brick Grey And Rust Vinyl Peel & Stick Wallpaper Roll  (Covers 30.75 Sq. Ft.) NW30500'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/235c6a4e-05f7-42aa-9567-e365a8fd3c5a/svn/nextwall-wallpaper-rolls-nw30500-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="transform 30.75-sq ft Red Vinyl Brick Self-adhesive Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/4852f6dd-5f5f-49a3-874e-33d0e07cb2c9/14510858.jpg' alt='transform 30.75-sq ft Red Vinyl Brick Self-adhesive Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/4852f6dd-5f5f-49a3-874e-33d0e07cb2c9/14510858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' alt='STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Rustic Faux Brick Vinyl Peel & Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/e3c577a5-93bd-4e48-9cac-5c99d06f82c8/svn/nextwall-wallpaper-rolls-nw30201-64_600.jpg' alt='NextWall Rustic Faux Brick Vinyl Peel & Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/e3c577a5-93bd-4e48-9cac-5c99d06f82c8/svn/nextwall-wallpaper-rolls-nw30201-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_fullxfull.3365555145_kzf7.jpg' alt='Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_fullxfull.3365555145_kzf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Washed Faux Brick Peel and Stick Removable Wallpaper – Say Decor LLC">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/files/NW30501-HDCrop_2000x2000.jpg?v=1718919173' alt='Washed Faux Brick Peel and Stick Removable Wallpaper – Say Decor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/files/NW30501-HDCrop_2000x2000.jpg?v=1718919173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana 17.3"×394" Brick Wallpaper Grey and Brown Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/lo/api/res/1.2/rHSRebzgZYMHB7OKXd0JHg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/61FvbWn35sL._SL500_.jpg' alt='Guvana 17.3"×394" Brick Wallpaper Grey and Brown Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Shopping" />
+                                </span>
+                                <a href='https://s.yimg.com/lo/api/res/1.2/rHSRebzgZYMHB7OKXd0JHg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/61FvbWn35sL._SL500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Faux Brick Peel-and-Stick Wallpaper in Red">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/Rustic_Faux_Brick_Peel-and-Stick_Wallpaper_in_Red_by_NextWall-1_800x.jpg?v=1571711366' alt='Rustic Faux Brick Peel-and-Stick Wallpaper in Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/Rustic_Faux_Brick_Peel-and-Stick_Wallpaper_in_Red_by_NextWall-1_800x.jpg?v=1571711366' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

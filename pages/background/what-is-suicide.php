@@ -1,0 +1,129 @@
+<title>Understanding Suicide: Causes, Prevention, and Support</title>
+                    <meta name="description" content="Explore the complexities of suicide, its causes, and the importance of mental health support. Learn about prevention strategies and discover resources to help those in need. Your awareness and compassion can make a difference in saving lives.">
+                    <meta name="keywords" content="what is suicide">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-suicide">
+                            <span itemprop="name">what is suicide</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Suicide: Causes, Prevention, and Support</h1>
+                <p>Suicide is the act of intentionally ending one's own life. It often stems from mental health issues, trauma, or overwhelming despair. The decision to commit suicide is influenced by complex emotional and psychological factors, and it highlights the urgent need for compassion, support, and effective mental health resources to prevent such tragedies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide: What It Is, Signs, Risk Factors & Prevention">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/suicide' alt='Suicide: What It Is, Signs, Risk Factors & Prevention'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/suicide' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions About Suicide - National Institute of ...">
+                                <img itemprop="contentUrl url" src='https://www.nimh.nih.gov/sites/default/files/images/pubs/covers-pinnable/23-MH-6389_FAQAboutSuicide_Pinnable.png' alt='Frequently Asked Questions About Suicide - National Institute of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute of Mental Health - National Institutes of ..." />
+                                </span>
+                                <a href='https://www.nimh.nih.gov/sites/default/files/images/pubs/covers-pinnable/23-MH-6389_FAQAboutSuicide_Pinnable.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warning Signs of Suicide - National Institute of Mental Health (NIMH)">
+                                <img itemprop="contentUrl url" src='https://www.nimh.nih.gov/sites/default/files/images/pubs/covers-pinnable/2022_SuicideWarningSigns_Updates_Pinnable.jpg' alt='Warning Signs of Suicide - National Institute of Mental Health (NIMH)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute of Mental Health - National Institutes of ..." />
+                                </span>
+                                <a href='https://www.nimh.nih.gov/sites/default/files/images/pubs/covers-pinnable/2022_SuicideWarningSigns_Updates_Pinnable.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Suicide Risk - Baptist Health">
+                                <img itemprop="contentUrl url" src='https://www.baptisthealth.com/-/media/images/migrated/blog-images/content-images/bh-suicide-risk-graphic-400x1024.jpg?rev=b51a0c50567646f88fc0a83c25dd5d86&hash=F7B246BF2B7A69F4E897532E6A98874B' alt='Understanding Suicide Risk - Baptist Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baptist Health" />
+                                </span>
+                                <a href='https://www.baptisthealth.com/-/media/images/migrated/blog-images/content-images/bh-suicide-risk-graphic-400x1024.jpg?rev=b51a0c50567646f88fc0a83c25dd5d86&hash=F7B246BF2B7A69F4E897532E6A98874B' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is suicide?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IFk5qQXXLNY/maxresdefault.jpg' alt='What is suicide?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IFk5qQXXLNY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAD PERSONS: Suicide Risk Assessment Acronym | Osmosis">
+                                <img itemprop="contentUrl url" src='https://www.osmosis.org/_next/image?url=https%3A%2F%2Fd16qt3wv6xm098.cloudfront.net%2FjLyiT1eaRb_O-jMb0WnsMlPESeqRkJGn%2F_.png&w=1920&q=75' alt='SAD PERSONS: Suicide Risk Assessment Acronym | Osmosis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Osmosis" />
+                                </span>
+                                <a href='https://www.osmosis.org/_next/image?url=https%3A%2F%2Fd16qt3wv6xm098.cloudfront.net%2FjLyiT1eaRb_O-jMb0WnsMlPESeqRkJGn%2F_.png&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide: Suicidal Signs, Behavior, Risk Factors, How to Talk & More">
+                                <img itemprop="contentUrl url" src='https://images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-4/11960-Suicide_and_Suicidal_Behavior-07.jpg' alt='Suicide: Suicidal Signs, Behavior, Risk Factors, How to Talk & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1297">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthline" />
+                                </span>
+                                <a href='https://images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-4/11960-Suicide_and_Suicidal_Behavior-07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Help Someone Who is Suicidal - Mental Health First Aid">
+                                <img itemprop="contentUrl url" src='https://www.mentalhealthfirstaid.org/wp-content/uploads/2018/12/Signs-of-Suicide-4.png' alt='How to Help Someone Who is Suicidal - Mental Health First Aid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Health First Aid" />
+                                </span>
+                                <a href='https://www.mentalhealthfirstaid.org/wp-content/uploads/2018/12/Signs-of-Suicide-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Suicide? Prevalence, Risks, Signs & Prevention">
+                                <img itemprop="contentUrl url" src='https://www.verywellhealth.com/thmb/r967-GrNnDfUCp5BYN7gd5u0-0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-suicide-5202337-FINAL-9e3fb3d5e6a040bea3e42e81992265a7.jpg' alt='What Is Suicide? Prevalence, Risks, Signs & Prevention'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Health" />
+                                </span>
+                                <a href='https://www.verywellhealth.com/thmb/r967-GrNnDfUCp5BYN7gd5u0-0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-suicide-5202337-FINAL-9e3fb3d5e6a040bea3e42e81992265a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Suicidal Ideation? - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AecNqFk8glo/sddefault.jpg' alt='What is Suicidal Ideation? - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AecNqFk8glo/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

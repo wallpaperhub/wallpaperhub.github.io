@@ -1,0 +1,129 @@
+<title>The Vibrant World of Cumbia: Discover Its Roots and Rhythm</title>
+                    <meta name="description" content="Explore the lively genre of cumbia! Dive into its rich cultural roots, infectious rhythms, and diverse styles that make it a must at every celebration. Join the dance and experience the vibrant world of cumbia today!">
+                    <meta name="keywords" content="cumbia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cumbia">
+                            <span itemprop="name">cumbia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Vibrant World of Cumbia: Discover Its Roots and Rhythm</h1>
+                <p>Cumbia is a vibrant and rhythmic music genre originating from Colombia, blending Indigenous, African, and Spanish influences. Characterized by its infectious beat and lively dance moves, cumbia has evolved into various styles across Latin America, making it a staple at parties and celebrations. Embrace the rhythm and feel the energy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia (Colombia) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bailando_Cumbia.jpg/800px-Bailando_Cumbia.jpg' alt='Cumbia (Colombia) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bailando_Cumbia.jpg/800px-Bailando_Cumbia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia: The Musical Backbone Of Latin America : Alt.Latino : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2013/10/03/gaiteros_custom-e687d64e20eaecd5d883381b510c0df9d32d0d64.jpg' alt='Cumbia: The Musical Backbone Of Latin America : Alt.Latino : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2013/10/03/gaiteros_custom-e687d64e20eaecd5d883381b510c0df9d32d0d64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purity of Cumbia: Talking with John Jairo Roldán about sustaining ...">
+                                <img itemprop="contentUrl url" src='https://dancersgroup.org/wp-content/uploads/2019/04/La-Cumbiamba-Photo-by-Robert-Werner7.jpg' alt='Purity of Cumbia: Talking with John Jairo Roldán about sustaining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dancers' Group" />
+                                </span>
+                                <a href='https://dancersgroup.org/wp-content/uploads/2019/04/La-Cumbiamba-Photo-by-Robert-Werner7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia Dance">
+                                <img itemprop="contentUrl url" src='http://musicfromworld.altervista.org/wp-content/uploads/2019/04/Cumbia-.jpg' alt='Cumbia Dance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusicFromWorld - Altervista" />
+                                </span>
+                                <a href='http://musicfromworld.altervista.org/wp-content/uploads/2019/04/Cumbia-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Baile de cumbia en Fiestas de independencia de Colombia ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/57/Baile_de_cumbia_en_Fiestas_de_independencia_de_Colombia%2C_Mompox%2C_Bolivar.jpg' alt='File:Baile de cumbia en Fiestas de independencia de Colombia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4350">
+                                <meta itemprop="height" content="2892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/57/Baile_de_cumbia_en_Fiestas_de_independencia_de_Colombia%2C_Mompox%2C_Bolivar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Cumbia Week is coming to L.A. and here's a step-by-step guide ...">
+                                <img itemprop="contentUrl url" src='https://www.dailynews.com/wp-content/uploads/2024/09/LDN-L-CUMBIA-0920.jpg?w=525' alt='A Cumbia Week is coming to L.A. and here's a step-by-step guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Daily News" />
+                                </span>
+                                <a href='https://www.dailynews.com/wp-content/uploads/2024/09/LDN-L-CUMBIA-0920.jpg?w=525' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebremos el Día Nacional de la Cumbia">
+                                <img itemprop="contentUrl url" src='https://www.culturarecreacionydeporte.gov.co/sites/default/files/styles/1300/public/noticias/imagen/2023-02/foto_cumbia.jpg?itok=wyLVus59' alt='Celebremos el Día Nacional de la Cumbia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretaría de Cultura, Recreación y Deporte" />
+                                </span>
+                                <a href='https://www.culturarecreacionydeporte.gov.co/sites/default/files/styles/1300/public/noticias/imagen/2023-02/foto_cumbia.jpg?itok=wyLVus59' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia (Panama) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tuna_panama.jpg/250px-Tuna_panama.jpg' alt='Cumbia (Panama) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tuna_panama.jpg/250px-Tuna_panama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia is a dance-oriented music genre popular throughout Latin ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1048149640/photo/cumbia-is-a-dance-oriented-music-genre-popular-throughout-latin-america.jpg?s=594x594&w=gi&k=20&c=q0M_19jriMyJD2jBM83NNqbwyIhG3aOXf3I95syzdPA=' alt='Cumbia is a dance-oriented music genre popular throughout Latin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1048149640/photo/cumbia-is-a-dance-oriented-music-genre-popular-throughout-latin-america.jpg?s=594x594&w=gi&k=20&c=q0M_19jriMyJD2jBM83NNqbwyIhG3aOXf3I95syzdPA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cumbia: The Music That Moves Latin America : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2013/11/09/139362701_wide-66c29fc255a88bf79129e64024a20d17ead2e0df.jpg' alt='Cumbia: The Music That Moves Latin America : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3748">
+                                <meta itemprop="height" content="2105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2013/11/09/139362701_wide-66c29fc255a88bf79129e64024a20d17ead2e0df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

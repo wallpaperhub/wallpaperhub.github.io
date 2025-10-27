@@ -1,0 +1,129 @@
+<title>Find Pink Wallpaper Near You – Shop Local & Online</title>
+                    <meta name="description" content="Explore a wide array of pink wallpaper options nearby! From chic designs to trendy patterns, our guide helps you find the perfect pink wallpaper for your home. Shop locally or browse online for the best selection and prices. Transform your walls with a touch of pink elegance!">
+                    <meta name="keywords" content="pink wallpaper near me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-wallpaper-near-me">
+                            <span itemprop="name">pink wallpaper near me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Pink Wallpaper Near You – Shop Local & Online</h1>
+                <p>Looking for pink wallpaper near you? Discover a stunning selection of pink wallpaper options that fit any style and space! Whether you prefer soft pastels or vibrant patterns, local stores and online sources have the perfect wallpaper to transform your room. Elevate your decor with the charm of pink today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM - The Home  Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4648a725-ccf8-4488-83b8-17d375d16cc3/svn/fine-decor-wallpaper-samples-2900-42555sam-64_1000.jpg' alt='Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM - The Home  Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4648a725-ccf8-4488-83b8-17d375d16cc3/svn/fine-decor-wallpaper-samples-2900-42555sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper at Lowes.com">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/3aa53a50-6912-48d8-812c-f1e818884084/48160229.jpg?size=xl' alt='Pink Wallpaper at Lowes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/3aa53a50-6912-48d8-812c-f1e818884084/48160229.jpg?size=xl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/621beb46-e12f-4d1d-a52e-c24d6db0335f/svn/fine-decor-wallpaper-samples-2900-42555sam-c3_600.jpg' alt='Fine Decor Dacre Pink Floral Pink Wallpaper Sample 2900-42555SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/621beb46-e12f-4d1d-a52e-c24d6db0335f/svn/fine-decor-wallpaper-samples-2900-42555sam-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick/Removable - Pink - Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1ae01bee-082b-489d-95e6-26ef9afca98e/svn/nuwallpaper-wallpaper-rolls-nus3829-64_300.jpg' alt='Peel & Stick/Removable - Pink - Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1ae01bee-082b-489d-95e6-26ef9afca98e/svn/nuwallpaper-wallpaper-rolls-nus3829-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Pink">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-Pink_ILW50374_Thumbnail_WEB_d514f9f0-cf3f-45c8-9fbb-7b530ab9d9ab.webp?v=1705932581&width=1024' alt='Summer Meadow Wallpaper in Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-Pink_ILW50374_Thumbnail_WEB_d514f9f0-cf3f-45c8-9fbb-7b530ab9d9ab.webp?v=1705932581&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Pink Floral Peel and Stick Wallpaper, 17.7" X 118" Rose Flower  Contact Paper for Girls Room Decoration, Removable Self Adhesive Wall Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71nrs8Jjg9L.jpg' alt='Abyssaly Pink Floral Peel and Stick Wallpaper, 17.7" X 118" Rose Flower  Contact Paper for Girls Room Decoration, Removable Self Adhesive Wall Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71nrs8Jjg9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/3-SummerMeadow-Pink_ILW50374_Roomset_Detail_WEB.webp?crop=center&height=886&v=1705932582&width=886' alt='Summer Meadow Wallpaper in Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/3-SummerMeadow-Pink_ILW50374_Roomset_Detail_WEB.webp?crop=center&height=886&v=1705932582&width=886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Pink Floral Peel and Stick Wallpaper, 17.7" X 118" Rose Flower  Contact Paper for Girls Room Decoration, Removable Self Adhesive Wall Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dluudA85L.jpg' alt='Abyssaly Pink Floral Peel and Stick Wallpaper, 17.7" X 118" Rose Flower  Contact Paper for Girls Room Decoration, Removable Self Adhesive Wall Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dluudA85L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Baby Peel and Stick Removable Wallpaper 2964">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/baby_116812964_04_5504a922-ba27-4869-bfe6-dae622d3288c-sw_grande.jpg?v=1723296594' alt='Pink Floral Baby Peel and Stick Removable Wallpaper 2964'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/baby_116812964_04_5504a922-ba27-4869-bfe6-dae622d3288c-sw_grande.jpg?v=1723296594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/PomderosaWallpaperSwanMural_6.png?v=1714600028&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/PomderosaWallpaperSwanMural_6.png?v=1714600028&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

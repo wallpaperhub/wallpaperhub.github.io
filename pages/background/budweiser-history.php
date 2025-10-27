@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Budweiser</title>
+                    <meta name="description" content="Explore the fascinating history of Budweiser, from its beginnings in 1876 to its rise as a global beer icon. Delve into the story behind the "King of Beers" and learn how it became a staple in American culture, featuring innovative marketing and timeless appeal.">
+                    <meta name="keywords" content="budweiser history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/budweiser-history">
+                            <span itemprop="name">budweiser history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Budweiser</h1>
+                <p>Budweiser, known as the "King of Beers," has a rich history dating back to 1876 when Adolphus Busch partnered with Eberhard Anheuser in St. Louis. The iconic brew was inspired by Czech-style lager and quickly grew in popularity. Its marketing innovations and iconic branding solidified it as a staple in American culture, evolving over decades to become one of the world's best-selling beers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budweiser Logo and Its History | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2017/10/budweiser-logo-evolution.jpg' alt='Budweiser Logo and Its History | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="1569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2017/10/budweiser-logo-evolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budweiser – Beer Through the Ages">
+                                <img itemprop="contentUrl url" src='https://ecampusontario.pressbooks.pub/app/uploads/sites/520/2022/01/Budweiser-Logo-History-197x300.jpeg' alt='Budweiser – Beer Through the Ages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="197">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eCampusOntario Pressbooks" />
+                                </span>
+                                <a href='https://ecampusontario.pressbooks.pub/app/uploads/sites/520/2022/01/Budweiser-Logo-History-197x300.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budweiser – Beer Through the Ages">
+                                <img itemprop="contentUrl url" src='https://ecampusontario.pressbooks.pub/app/uploads/sites/520/2022/01/bud-cans-245x300.jpg' alt='Budweiser – Beer Through the Ages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="245">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eCampusOntario Pressbooks" />
+                                </span>
+                                <a href='https://ecampusontario.pressbooks.pub/app/uploads/sites/520/2022/01/bud-cans-245x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 'Bitter' Tale Of The Budweiser Family : The Salt : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2012/12/04/ap3301010595-3d890e00d070c79a01160b494cb1297f6669f559.jpg' alt='The 'Bitter' Tale Of The Budweiser Family : The Salt : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2634">
+                                <meta itemprop="height" content="1977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2012/12/04/ap3301010595-3d890e00d070c79a01160b494cb1297f6669f559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of The Budweiser Logo - Logo Design Magazine">
+                                <img itemprop="contentUrl url" src='https://www.logodesign.org/wp-content/uploads/2024/04/image-28.jpeg' alt='The Complete History Of The Budweiser Logo - Logo Design Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Design Magazine" />
+                                </span>
+                                <a href='https://www.logodesign.org/wp-content/uploads/2024/04/image-28.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of The Budweiser Logo - Logo Design Magazine">
+                                <img itemprop="contentUrl url" src='https://www.logodesign.org/wp-content/uploads/2024/04/image-14.png' alt='The Complete History Of The Budweiser Logo - Logo Design Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Design Magazine" />
+                                </span>
+                                <a href='https://www.logodesign.org/wp-content/uploads/2024/04/image-14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budweiser: A Short History Of Advertising During Prohibition ...">
+                                <img itemprop="contentUrl url" src='https://marketing.museum/wp-content/uploads/2021/06/iiif-service_ndnp_nn_batch_nn_odum_ver01_data_sn83030431_00200294178_1917062501_0788-2707x2203x2552x4198-1024x-0-default.jpg' alt='Budweiser: A Short History Of Advertising During Prohibition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marketing Museum" />
+                                </span>
+                                <a href='https://marketing.museum/wp-content/uploads/2021/06/iiif-service_ndnp_nn_batch_nn_odum_ver01_data_sn83030431_00200294178_1917062501_0788-2707x2203x2552x4198-1024x-0-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 YEARS OF BUDWEISER HISTORY, IN 2 MINUTES">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MNDZjOvY6B0/maxresdefault.jpg' alt='150 YEARS OF BUDWEISER HISTORY, IN 2 MINUTES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MNDZjOvY6B0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budweiser Logo and Its History | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2017/10/budwesier-logo-main.jpg' alt='Budweiser Logo and Its History | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2017/10/budwesier-logo-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History Of The Budweiser Logo - Logo Design Magazine">
+                                <img itemprop="contentUrl url" src='https://www.logodesign.org/wp-content/uploads/2024/04/image-27.jpeg' alt='The Complete History Of The Budweiser Logo - Logo Design Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Design Magazine" />
+                                </span>
+                                <a href='https://www.logodesign.org/wp-content/uploads/2024/04/image-27.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

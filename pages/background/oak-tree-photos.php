@@ -1,0 +1,129 @@
+<title>Stunning Oak Tree Photos: Nature's Majesty Captured</title>
+                    <meta name="description" content="Explore an incredible collection of oak tree photos that highlight their grandeur and beauty. Perfect for nature enthusiasts, these images showcase the rich textures and stunning foliage of oaks throughout the seasons. Discover the majesty of oak trees today!">
+                    <meta name="keywords" content="oak tree photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oak-tree-photos">
+                            <span itemprop="name">oak tree photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Oak Tree Photos: Nature's Majesty Captured</h1>
+                <p>Discover the beauty of oak trees through captivating photos that showcase their majestic presence and detailed textures. From sprawling canopies to intricate leaf patterns, these images highlight the strength and elegance of oaks across different seasons. Perfect for nature lovers and photography enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete Guide to Oak Trees | BBC Gardeners World Magazine">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/10/2023/06/2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg' alt='Complete Guide to Oak Trees | BBC Gardeners World Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardeners' World" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/10/2023/06/2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete All in One Tree Care Guide for Oak Trees | TreeNewal">
+                                <img itemprop="contentUrl url" src='https://treenewal.com/wp-content/uploads/2020/11/oak-tree-care.png' alt='Complete All in One Tree Care Guide for Oak Trees | TreeNewal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TreeNewal" />
+                                </span>
+                                <a href='https://treenewal.com/wp-content/uploads/2020/11/oak-tree-care.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Many Kinds of Oak Trees Are There? — Nashville Tree ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cb3ca007a1fbd45aeff89ea/116e839c-0a24-4f22-91c1-55bb7e44b427/nashville-tree-conservation-corps-how-many-oak-tree-types-tn.jpg' alt='How Many Kinds of Oak Trees Are There? — Nashville Tree ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nashville Tree Conservation Corps" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cb3ca007a1fbd45aeff89ea/116e839c-0a24-4f22-91c1-55bb7e44b427/nashville-tree-conservation-corps-how-many-oak-tree-types-tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Native Son: Live Oak - Neil Sperry's GARDENS">
+                                <img itemprop="contentUrl url" src='https://neilsperry.com/wp-content/uploads/2024/02/Live-oak-1-2nd.jpg' alt='Native Son: Live Oak - Neil Sperry's GARDENS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Neil Sperry" />
+                                </span>
+                                <a href='https://neilsperry.com/wp-content/uploads/2024/02/Live-oak-1-2nd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oak Tree – Tree Works">
+                                <img itemprop="contentUrl url" src='http://treeworksguernsey.co.uk/wp-content/uploads/2018/11/Oak.jpg' alt='Oak Tree – Tree Works'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tree Works" />
+                                </span>
+                                <a href='http://treeworksguernsey.co.uk/wp-content/uploads/2018/11/Oak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oak Tree: Majestic Pillar of Temperate Forests – Grow Billion Trees">
+                                <img itemprop="contentUrl url" src='https://growbilliontrees.com/cdn/shop/articles/oak-tree-2018822_1280.jpg?v=1702365858&width=1100' alt='Oak Tree: Majestic Pillar of Temperate Forests – Grow Billion Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grow Billion Trees" />
+                                </span>
+                                <a href='https://growbilliontrees.com/cdn/shop/articles/oak-tree-2018822_1280.jpg?v=1702365858&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Oak Trees for Fall Foliage">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/kYOa1jRvvuPVOEY6yMBX8nWSiwE=/4256x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-red-oak-trees-for-late-fall-foliage-2130845-hero-2e67a580c0624c7a916a12cc564f7f44.jpg' alt='8 Oak Trees for Fall Foliage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/kYOa1jRvvuPVOEY6yMBX8nWSiwE=/4256x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-red-oak-trees-for-late-fall-foliage-2130845-hero-2e67a580c0624c7a916a12cc564f7f44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shumard Oak Tree">
+                                <img itemprop="contentUrl url" src='http://cdn.shopify.com/s/files/1/0059/8835/2052/products/Shumard_Oak_1.jpg?v=1612444334' alt='Shumard Oak Tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Growing Trees" />
+                                </span>
+                                <a href='http://cdn.shopify.com/s/files/1/0059/8835/2052/products/Shumard_Oak_1.jpg?v=1612444334' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oak Tree stock photos, royalty-free images, vectors, video | Adobe ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/67/67/58/360_F_67675896_NZQHJ42mkT6eNsIR346KyARCGH5LpJN3.jpg' alt='Oak Tree stock photos, royalty-free images, vectors, video | Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/67/67/58/360_F_67675896_NZQHJ42mkT6eNsIR346KyARCGH5LpJN3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oak Tree Pruning - Pleasant View Gardens">
+                                <img itemprop="contentUrl url" src='https://pleasantviewgarden.com/wp-content/uploads/2020/10/bushes-hd7080-64_1000.jpg' alt='Oak Tree Pruning - Pleasant View Gardens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pleasant View Gardens" />
+                                </span>
+                                <a href='https://pleasantviewgarden.com/wp-content/uploads/2020/10/bushes-hd7080-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

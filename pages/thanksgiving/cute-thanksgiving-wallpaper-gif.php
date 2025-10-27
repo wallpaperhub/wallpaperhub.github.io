@@ -1,0 +1,129 @@
+<title>Adorable Thanksgiving Wallpaper GIFs</title>
+                    <meta name="description" content="Discover charming Thanksgiving wallpaper GIFs that bring holiday cheer to your devices! Explore our collection of cute turkeys, pumpkins, and festive animations perfect for sharing the spirit of Thanksgiving with friends and family. Upgrade your decor with these delightful digital delights today!">
+                    <meta name="keywords" content="cute thanksgiving wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving">
+                            <span itemprop="name">Thanksgiving</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving/cute-thanksgiving-wallpaper-gif">
+                            <span itemprop="name">cute thanksgiving wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Thanksgiving Wallpaper GIFs</h1>
+                <p>Looking for the cutest Thanksgiving wallpaper GIFs to celebrate the season? From adorable turkeys to falling leaves and festive pumpkins, discover a delightful collection that adds warmth and charm to your devices. Perfect for sharing the holiday spirit with friends and family, these animated GIFs are sure to make you smile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Gifs Animated - Free to Share">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b8/9c/e3/b89ce38620672bbf6dd7f90941a320d5.gif' alt='Happy Thanksgiving Gifs Animated - Free to Share'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b8/9c/e3/b89ce38620672bbf6dd7f90941a320d5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Thanksgiving Gif Free Download For Facebook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e3/e8/96/e3e89604f2d0da8a80bcc1d74a61f6d9.gif' alt='Funny Thanksgiving Gif Free Download For Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e3/e8/96/e3e89604f2d0da8a80bcc1d74a61f6d9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy And Funny Thanksgiving Gifs Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f0/b9/6f/f0b96f64faee466bdf01464662fac26b.gif' alt='Happy And Funny Thanksgiving Gifs Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f0/b9/6f/f0b96f64faee466bdf01464662fac26b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Happy Thanksgiving GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Nwifxvqi1UsAAAAM/thanksgiving-cute.gif' alt='Cute Happy Thanksgiving GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Nwifxvqi1UsAAAAM/thanksgiving-cute.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving GIFs - The Best GIF Collections Are On GIFSEC">
+                                <img itemprop="contentUrl url" src='https://gifsec.com/wp-content/uploads/2022/09/thanksgiving-33.gif' alt='Thanksgiving GIFs - The Best GIF Collections Are On GIFSEC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFSEC" />
+                                </span>
+                                <a href='https://gifsec.com/wp-content/uploads/2022/09/thanksgiving-33.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Animated Gif Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8b/4d/e1/8b4de179d3ad63569b3bbc83896b8b59.gif' alt='Happy Thanksgiving Animated Gif Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8b/4d/e1/8b4de179d3ad63569b3bbc83896b8b59.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/TO8Jze-aAAwAAAAM/happy-turkey-day-charlie-brown.gif' alt='Happy Thanksgiving GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/TO8Jze-aAAwAAAAM/happy-turkey-day-charlie-brown.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="chibird — Happy Thanksgiving friends! I am so thankful to...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2ce4bc0c2ab8a7039ffd20d5568f886e/tumblr_nfof2dH8Me1qc4uvwo1_500.gif' alt='chibird — Happy Thanksgiving friends! I am so thankful to...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chibird" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2ce4bc0c2ab8a7039ffd20d5568f886e/tumblr_nfof2dH8Me1qc4uvwo1_500.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy thanksgiving gnome">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/89/4b/c8/894bc810cb9dbee43331fee71610e98f.gif' alt='Happy thanksgiving gnome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/89/4b/c8/894bc810cb9dbee43331fee71610e98f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Y'all by MUTI on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/23867074/file/original-e85673e83df86812e2b1ff39c25bed1c.gif' alt='Happy Thanksgiving Y'all by MUTI on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/23867074/file/original-e85673e83df86812e2b1ff39c25bed1c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

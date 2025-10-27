@@ -1,0 +1,129 @@
+<title>Perfect Pink and Green Aesthetic Laptop Wallpapers</title>
+                    <meta name="description" content="Discover stunning pink and green aesthetic wallpapers for your laptop! Enhance your screen with vibrant designs that express your personality and style. Perfect for creating a unique vibe in any workspace. Choose your favorite aesthetic and transform your laptop today!">
+                    <meta name="keywords" content="laptop pink and green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/laptop-pink-and-green-aesthetic-wallpaper">
+                            <span itemprop="name">laptop pink and green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Pink and Green Aesthetic Laptop Wallpapers</h1>
+                <p>Transform your laptop with pink and green aesthetic wallpapers that breathe life into your screen! Perfect for lovers of pastel hues and nature-inspired designs, these wallpapers add a refreshing touch to your workspace. Choose from floral patterns, abstract art, or calming landscapes to create a vibrant, stylish backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Pink and Green Aesthetic Monogram Desktop Wallpaper Collage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/8b2e2a/5864742671/il_fullxfull.5864742671_de0s.jpg' alt='Custom Pink and Green Aesthetic Monogram Desktop Wallpaper Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/8b2e2a/5864742671/il_fullxfull.5864742671_de0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Upgrade your tech with this stylish pastel green ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-green-aesthetic-laptop-1600-x-900-j808tqre7pi1wbw3.jpg' alt='Download Upgrade your tech with this stylish pastel green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-green-aesthetic-laptop-1600-x-900-j808tqre7pi1wbw3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper~">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/1c/0c/f01c0c50586749688700470bd31c6a8f.jpg' alt='Aesthetic Wallpaper~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/1c/0c/f01c0c50586749688700470bd31c6a8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink clean girl aesthetic background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/d4/9a/90d49a74240670178018ef3836a48b6d.jpg' alt='pink clean girl aesthetic background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/d4/9a/90d49a74240670178018ef3836a48b6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink & green (*´ω`*)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/66/14/526614e4417e0a8853cca034a3389edf.jpg' alt='pink & green (*´ω`*)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/66/14/526614e4417e0a8853cca034a3389edf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-green-aesthetic-9eifnbye4h992r2f.jpg' alt='100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-green-aesthetic-9eifnbye4h992r2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic poster desktop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/d7/46/20d746fee38481cebbb380fbf6707337.jpg' alt='aesthetic poster desktop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/d7/46/20d746fee38481cebbb380fbf6707337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Roses Sage Green Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-roses-sage-green-desktop-ecsvmexybi9vlz5b.jpg' alt='Pink Roses Sage Green Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-roses-sage-green-desktop-ecsvmexybi9vlz5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green And Pink Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11909939.jpg' alt='Green And Pink Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2670">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11909939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="desktop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/45/ff/9545ffe752c9ea171a03130daf73375d.jpg' alt='desktop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/45/ff/9545ffe752c9ea171a03130daf73375d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

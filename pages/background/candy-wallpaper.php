@@ -1,0 +1,129 @@
+<title>Candy Wallpaper: Sweeten Your Space with Whimsical Designs</title>
+                    <meta name="description" content="Discover the playful charm of candy wallpaper! Perfect for brightening up any room, our designs feature vibrant colors and fun patterns that uplift your decor. Easy to apply and remove, candy wallpaper is a sweet addition to your home or business. Explore our collection today!">
+                    <meta name="keywords" content="candy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-wallpaper">
+                            <span itemprop="name">candy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Wallpaper: Sweeten Your Space with Whimsical Designs</h1>
+                <p>Transform your space with vibrant candy wallpaper, a sweet way to infuse color and whimsy into any room. Ideal for kitchens, kids' playrooms, or whimsical cafes, these designs feature playful candy patterns in bold hues that spark joy. Easy to apply and remove, candy wallpaper adds a delightful touch to your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Candies Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241487/Colorful-Candies-Mural-Wallpaper.jpg?v=638164494920370000' alt='Colorful Candies Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241487/Colorful-Candies-Mural-Wallpaper.jpg?v=638164494920370000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/candy-pastel-color-pattern-design_23-2150623222.jpg' alt='Candy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/candy-pastel-color-pattern-design_23-2150623222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candyland Background Stock Illustrations – 2,210 Candyland ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/enchanted-nighttime-lollipop-dreamscape-colorful-candyland-background-desktop-mobile-wallpaper-dive-vibrant-bathed-351050469.jpg' alt='Candyland Background Stock Illustrations – 2,210 Candyland ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/enchanted-nighttime-lollipop-dreamscape-colorful-candyland-background-desktop-mobile-wallpaper-dive-vibrant-bathed-351050469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84 Best CaNdY wAllPaPeR ideas | candy, colorful candy, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ba/80/cf/ba80cf6f76a6fcae6ab3950b7d9d8701.jpg' alt='84 Best CaNdY wAllPaPeR ideas | candy, colorful candy, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ba/80/cf/ba80cf6f76a6fcae6ab3950b7d9d8701.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Wallpaper Images – Browse 357,446 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/79/18/02/360_F_679180227_7q2v8B6YquEQN1v13lSXyREmHhWe0MA5.jpg' alt='Candy Wallpaper Images – Browse 357,446 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/79/18/02/360_F_679180227_7q2v8B6YquEQN1v13lSXyREmHhWe0MA5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Candy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/candy-u0qqz8phiybh3f1f.jpg' alt='300+] Candy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/candy-u0qqz8phiybh3f1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="161,234 Candy Cute Pattern Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/sweet-candy-doodle-seamless-pattern-600nw-2502026573.jpg' alt='161,234 Candy Cute Pattern Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/sweet-candy-doodle-seamless-pattern-600nw-2502026573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="       | Kawaii wallpaper, Candy background, Kawaii cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/64/68/2b646821d91e161516d90a23e566f23a.jpg' alt='       | Kawaii wallpaper, Candy background, Kawaii cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/64/68/2b646821d91e161516d90a23e566f23a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Wallpaper Stock Illustrations – 94,397 Candy Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sweet-delights-colorful-appetizing-candy-wallpaper-high-detail-plain-background-image-features-vibrant-detailed-333163384.jpg' alt='Candy Wallpaper Stock Illustrations – 94,397 Candy Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sweet-delights-colorful-appetizing-candy-wallpaper-high-detail-plain-background-image-features-vibrant-detailed-333163384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Wallpaper" Images – Browse 412 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/68/94/68/360_F_668946848_DeKcBJRVVTPDaDaaq4dzwZeOO1yKXW17.jpg' alt='Candy Wallpaper" Images – Browse 412 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/68/94/68/360_F_668946848_DeKcBJRVVTPDaDaaq4dzwZeOO1yKXW17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

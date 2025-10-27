@@ -1,0 +1,129 @@
+<title>Enhance Your Google Slides with Transparent Borders</title>
+                    <meta name="description" content="Discover how to elevate your Google Slides presentations with transparent borders. This guide provides tips for creating visually appealing slides that capture your audience's attention while maintaining professionalism. Perfect for educators, marketers, and business professionals alike!">
+                    <meta name="keywords" content="transparent borders for google slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-borders-for-google-slides">
+                            <span itemprop="name">transparent borders for google slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Google Slides with Transparent Borders</h1>
+                <p>Transparent borders for Google Slides enhance your presentations by adding a modern touch and improving visual clarity. Use transparent borders to seamlessly blend text and images with backgrounds, allowing content to stand out. This creative technique helps maintain a sleek and professional appearance while ensuring audience engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd - Transparent Borders For Slides Clipart - Full Size Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/99/9e/75999e1ead1106535f7ea069ee01e03b.jpg' alt='Hd - Transparent Borders For Slides Clipart - Full Size Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/99/9e/75999e1ead1106535f7ea069ee01e03b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Watercolor SLIDE Border Clipart, Editable Spring Google ...">
+                                <img itemprop="contentUrl url" src='https://cdnapisec.kaltura.com/p/2172211/thumbnail/entry_id/1_251okxqz/def_height/500/def_width/500/' alt='Rainbow Watercolor SLIDE Border Clipart, Editable Spring Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://cdnapisec.kaltura.com/p/2172211/thumbnail/entry_id/1_251okxqz/def_height/500/def_width/500/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Fancy Border Transparent Background, Download Free Fancy ...">
+                                <img itemprop="contentUrl url" src='https://clipart-library.com/img/1740399.png' alt='Free Fancy Border Transparent Background, Download Free Fancy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4035">
+                                <meta itemprop="height" content="3306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clipart Library" />
+                                </span>
+                                <a href='https://clipart-library.com/img/1740399.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slideshow Border PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220628/ourmid/pngtree-black-minimalist-border-png-image_5329495.png' alt='Slideshow Border PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220628/ourmid/pngtree-black-minimalist-border-png-image_5329495.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides Border and PPT Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85228-google-slides-border.png' alt='Google Slides Border and PPT Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85228-google-slides-border.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent borders | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/FREE-TRANSPARENT-BORDER-3979964-1533587506/original-3979964-1.jpg' alt='Transparent borders | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/FREE-TRANSPARENT-BORDER-3979964-1533587506/original-3979964-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Borders in Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.catsclips.com/images/blackrose_m.gif' alt='Borders in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat's Clips" />
+                                </span>
+                                <a href='https://www.catsclips.com/images/blackrose_m.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Borders Available In Different Size PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/borders-png-4.png' alt='Borders Available In Different Size PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/borders-png-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slideshow Border PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210530/ourmid/pngtree-golden-classic-cross-pattern-border-png-image_3374619.jpg' alt='Slideshow Border PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210530/ourmid/pngtree-golden-classic-cross-pattern-border-png-image_3374619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Google Docs Document , decorative line transparent ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/google-docs-document-decorative-line-transparent-background-png-clipart--comhiclipartmftgm.jpg' alt='Free: Google Docs Document , decorative line transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/google-docs-document-decorative-line-transparent-background-png-clipart--comhiclipartmftgm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

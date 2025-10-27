@@ -1,0 +1,129 @@
+<title>Brown v. Board: Supreme Court's Landmark Case</title>
+                    <meta name="description" content="Explore the pivotal Brown v. Board of Education case argued by Thurgood Marshall. Discover how this 1954 Supreme Court decision changed the landscape of public education by declaring racial segregation unconstitutional, leading to the fight for civil rights and educational equality in America.">
+                    <meta name="keywords" content="brown v. board of education was argued before the supreme court by">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-v-board-of-education-was-argued-before-the-supreme-court-by">
+                            <span itemprop="name">brown v. board of education was argued before the supreme court by</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brown v. Board: Supreme Court's Landmark Case</h1>
+                <p>Brown v. Board of Education was argued before the Supreme Court by Thurgood Marshall, representing the NAACP. This landmark case in 1954 challenged the legality of racial segregation in public schools. The Court's unanimous decision declared that "separate but equal" education was inherently unequal, paving the way for desegregation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. B.O.E. is Decided - African American Registry">
+                                <img itemprop="contentUrl url" src='https://aaregistry.org/wp-content/uploads/2009/09/brown-v-board-of-education-1954.jpg' alt='Brown v. B.O.E. is Decided - African American Registry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="African American Registry" />
+                                </span>
+                                <a href='https://aaregistry.org/wp-content/uploads/2009/09/brown-v-board-of-education-1954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board: Thurgood Marshall's Supreme Court argument - Chalkbeat">
+                                <img itemprop="contentUrl url" src='https://www.chalkbeat.org/resizer/v2/RCNRZL7LMBG7TL5GZZW2IXCYAM.jpg?focal=3069%2C230&auth=8def05dbf82b5a9135210e94153a64681790e226c16f1f8aa439efa834e8393d&width=5560&height=3706' alt='Brown v. Board: Thurgood Marshall's Supreme Court argument - Chalkbeat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chalkbeat" />
+                                </span>
+                                <a href='https://www.chalkbeat.org/resizer/v2/RCNRZL7LMBG7TL5GZZW2IXCYAM.jpg?focal=3069%2C230&auth=8def05dbf82b5a9135210e94153a64681790e226c16f1f8aa439efa834e8393d&width=5560&height=3706' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board of Education | The Case that Changed America">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.naacpldf.org/wp-content/uploads/GettyImages-517350944-scaled.jpg?fit=2560%2C2047&ssl=1' alt='Brown v. Board of Education | The Case that Changed America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Defense Fund" />
+                                </span>
+                                <a href='https://i0.wp.com/www.naacpldf.org/wp-content/uploads/GettyImages-517350944-scaled.jpg?fit=2560%2C2047&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board of Education | Case, 1954, Definition, Decision ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/14/227514-050-CF93B3A2/First-page-ruling-Brown-v-Board-of-Education-of-Topeka-May-17-1954.jpg' alt='Brown v. Board of Education | Case, 1954, Definition, Decision ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/14/227514-050-CF93B3A2/First-page-ruling-Brown-v-Board-of-Education-of-Topeka-May-17-1954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board of Education | Case, 1954, Definition, Decision ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/25/91825-050-6828171F/George-EC-Hayes-Thurgood-Marshall-court-James-May-17-1954.jpg' alt='Brown v. Board of Education | Case, 1954, Definition, Decision ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1252">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/25/91825-050-6828171F/George-EC-Hayes-Thurgood-Marshall-court-James-May-17-1954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board of Education of Topeka, Kansas - Brown v. Board at ...">
+                                <img itemprop="contentUrl url" src='https://www.loc.gov/exhibits/brown/images/br0098s-th-highlight.jpg' alt='Brown v. Board of Education of Topeka, Kansas - Brown v. Board at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="293">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress" />
+                                </span>
+                                <a href='https://www.loc.gov/exhibits/brown/images/br0098s-th-highlight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1953) Thurgood Marshall, “Argument Before the U.S. Supreme Court ...">
+                                <img itemprop="contentUrl url" src='https://cdn.blackfacts.com/uploads/blackfacts/facts/www.blackpast.org/files/blackpast_images/thurgood_marshall.jpg' alt='1953) Thurgood Marshall, “Argument Before the U.S. Supreme Court ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="273">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blackfacts.com" />
+                                </span>
+                                <a href='https://cdn.blackfacts.com/uploads/blackfacts/facts/www.blackpast.org/files/blackpast_images/thurgood_marshall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1953) Thurgood Marshall, "Argument Before the U.S. Supreme Court ...">
+                                <img itemprop="contentUrl url" src='https://www.blackpast.org/wp-content/uploads/prodimages/files/Thurgood_Marshall.jpg' alt='1953) Thurgood Marshall, "Argument Before the U.S. Supreme Court ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="215">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackPast" />
+                                </span>
+                                <a href='https://www.blackpast.org/wp-content/uploads/prodimages/files/Thurgood_Marshall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown v. Board at 65: Understanding the History of America's ...">
+                                <img itemprop="contentUrl url" src='https://www.the74million.org/wp-content/uploads/2019/05/Marshall-and-Davis.jpg' alt='Brown v. Board at 65: Understanding the History of America's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The 74" />
+                                </span>
+                                <a href='https://www.the74million.org/wp-content/uploads/2019/05/Marshall-and-Davis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The BROWN V BOARD OF EDUCATION OF TOPEKA Trial: A Chronology">
+                                <img itemprop="contentUrl url" src='http://law2.umkc.edu/faculty/projects/ftrials/brownvboard/legaldefenseteam.jpg' alt='The BROWN V BOARD OF EDUCATION OF TOPEKA Trial: A Chronology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UMKC School of Law" />
+                                </span>
+                                <a href='http://law2.umkc.edu/faculty/projects/ftrials/brownvboard/legaldefenseteam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

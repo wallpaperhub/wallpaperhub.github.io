@@ -1,0 +1,129 @@
+<title>Awesome Linkin Park Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of eye-catching Linkin Park wallpapers for your iPhone, perfect for fans of the band! Explore vibrant designs and iconic images to personalize your device effortlessly. Download your favorites now and express your love for Linkin Park!">
+                    <meta name="keywords" content="linkin park wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/linkin-park-wallpaper-iphone">
+                            <span itemprop="name">linkin park wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Linkin Park Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Linkin Park wallpapers! Transform your lock and home screens with high-quality images featuring your favorite band. Whether you prefer iconic album art or dynamic concert shots, find the perfect background to showcase your love for Linkin Park. Discover unique styles and customize your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper version of my previous wallpaper version : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fljrqp8trjgz.png' alt='iPhone Wallpaper version of my previous wallpaper version : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fljrqp8trjgz.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meteora Phone Wallpapers : r/LinkinPark">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/meteora-phone-wallpapers-v0-6aob7jj19ymb1.jpg?width=640&crop=smart&auto=webp&s=e50c5b9b5e2d0966190b0234c162aec725b563b0' alt='Meteora Phone Wallpapers : r/LinkinPark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/meteora-phone-wallpapers-v0-6aob7jj19ymb1.jpg?width=640&crop=smart&auto=webp&s=e50c5b9b5e2d0966190b0234c162aec725b563b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a new wallpaper for my phone :D : r/LinkinPark">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rkaubeg5sto51.jpg' alt='Made a new wallpaper for my phone :D : r/LinkinPark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rkaubeg5sto51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linkin Park iPhone Background - Blue Noise by ShinodasDiscover on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e47aabff-4980-4794-a3d0-bac97bafbddc/d7f86wt-d7d305ad-f6dd-4d2a-b1fe-7ddbb1beaa2d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0N2FhYmZmLTQ5ODAtNDc5NC1hM2QwLWJhYzk3YmFmYmRkY1wvZDdmODZ3dC1kN2QzMDVhZC1mNmRkLTRkMmEtYjFmZS03ZGRiYjFiZWFhMmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cPpehrFKpLWqVGfZbWW7KQ_6l7egAyg4KG7i0VVSvms' alt='Linkin Park iPhone Background - Blue Noise by ShinodasDiscover on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e47aabff-4980-4794-a3d0-bac97bafbddc/d7f86wt-d7d305ad-f6dd-4d2a-b1fe-7ddbb1beaa2d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0N2FhYmZmLTQ5ODAtNDc5NC1hM2QwLWJhYzk3YmFmYmRkY1wvZDdmODZ3dC1kN2QzMDVhZC1mNmRkLTRkMmEtYjFmZS03ZGRiYjFiZWFhMmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cPpehrFKpLWqVGfZbWW7KQ_6l7egAyg4KG7i0VVSvms' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linkin Park Wallpapers (55 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/a/1/2297458-1500x2668-iphone-hd-linkin-park-wallpaper-photo.jpg' alt='Linkin Park Wallpapers (55 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/a/1/2297458-1500x2668-iphone-hd-linkin-park-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meteora Phone Wallpapers : r/LinkinPark">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/meteora-phone-wallpapers-v0-149mbij19ymb1.jpg?width=1440&format=pjpg&auto=webp&s=c1d0c9be7d371b071c766ce74ca733bb14143fef' alt='Meteora Phone Wallpapers : r/LinkinPark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/meteora-phone-wallpapers-v0-149mbij19ymb1.jpg?width=1440&format=pjpg&auto=webp&s=c1d0c9be7d371b071c766ce74ca733bb14143fef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="92 Linkin Park Wallpapers ideas | linkin park wallpaper, linkin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/6f/30/81/6f30817e7abb4fc55265cc27933e420d.jpg' alt='92 Linkin Park Wallpapers ideas | linkin park wallpaper, linkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/6f/30/81/6f30817e7abb4fc55265cc27933e420d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="92 Linkin Park Wallpapers ideas | linkin park wallpaper, linkin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5d/26/e1/5d26e1087df607dc1494dcbe3a197d78.jpg' alt='92 Linkin Park Wallpapers ideas | linkin park wallpaper, linkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5d/26/e1/5d26e1087df607dc1494dcbe3a197d78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Since there are not a lot of good lp wallpapers, so i made some ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/since-there-are-not-a-lot-of-good-lp-wallpapers-so-i-made-v0-plzhpjm9prla1.png?width=1080&format=png&auto=webp&s=66b86cb7b6def1b89d4cfa97c5dd1cd714c82f77' alt='Since there are not a lot of good lp wallpapers, so i made some ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/since-there-are-not-a-lot-of-good-lp-wallpapers-so-i-made-v0-plzhpjm9prla1.png?width=1080&format=png&auto=webp&s=66b86cb7b6def1b89d4cfa97c5dd1cd714c82f77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linkin Park, dark, black, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/445/706/HD-wallpaper-linkin-park-dark-black-music.jpg' alt='Linkin Park, dark, black, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/445/706/HD-wallpaper-linkin-park-dark-black-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

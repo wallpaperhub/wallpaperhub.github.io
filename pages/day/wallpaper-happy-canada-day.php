@@ -1,0 +1,129 @@
+<title>Canada Day Wallpaper: Celebrate with Style</title>
+                    <meta name="description" content="Discover stunning Canada Day wallpapers to brighten your device and embrace the holiday spirit. From iconic symbols to festive designs, find the perfect wallpaper to celebrate Canada’s heritage. Download now and showcase your love for Canada in style!">
+                    <meta name="keywords" content="wallpaper happy canada day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/wallpaper-happy-canada-day">
+                            <span itemprop="name">wallpaper happy canada day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Canada Day Wallpaper: Celebrate with Style</h1>
+                <p>Celebrate the spirit of Canada Day with our vibrant wallpaper designs! Featuring iconic symbols like the maple leaf, fireworks, and the Canadian flag, these wallpapers bring a festive atmosphere to your device. Perfect for honoring Canada's heritage, our collection is sure to fill your screen with joy and pride.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Best Canada day images ideas | canada day, canada, happy canada day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/49/82/30/498230b0419faf26c2383b6a63137996.jpg' alt='32 Best Canada day images ideas | canada day, canada, happy canada day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/49/82/30/498230b0419faf26c2383b6a63137996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,700+ Canada Day Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/953875658/vector/happy-canada-day-illustration-with-flat-symbols-and-hand-drawn-lettering.jpg?s=612x612&w=0&k=20&c=KybXzJKlGz9hU6hoWtKyzGdkTo3qtmkUMC4U6Mz2VSI=' alt='11,700+ Canada Day Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/953875658/vector/happy-canada-day-illustration-with-flat-symbols-and-hand-drawn-lettering.jpg?s=612x612&w=0&k=20&c=KybXzJKlGz9hU6hoWtKyzGdkTo3qtmkUMC4U6Mz2VSI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Canada Day Fireworks Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/495472225/photo/canada-day-welcome-to-canada.jpg?s=612x612&w=0&k=20&c=Vsc0DW1YCtehkuGBwOj5FDyvMXp6-F8skybGyFLnWwY=' alt='1,900+ Canada Day Fireworks Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/495472225/photo/canada-day-welcome-to-canada.jpg?s=612x612&w=0&k=20&c=Vsc0DW1YCtehkuGBwOj5FDyvMXp6-F8skybGyFLnWwY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Canada Day Images">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=400038112228086' alt='Happy Canada Day Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=400038112228086' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Canada Day Beautiful Maple Background Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-happy-canada-day-beautiful-maple-background-picture-image_1358660.jpg' alt='Happy Canada Day Beautiful Maple Background Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-happy-canada-day-beautiful-maple-background-picture-image_1358660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Canada Day poster. 1st july. Vector illustration greeting ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T71CF5/happy-canada-day-poster-1st-july-vector-illustration-greeting-card-T71CF5.jpg' alt='Happy Canada Day poster. 1st july. Vector illustration greeting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T71CF5/happy-canada-day-poster-1st-july-vector-illustration-greeting-card-T71CF5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Canada Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/canada-day-unpkveg4gg4dfdef.jpg' alt='100+] Canada Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/canada-day-unpkveg4gg4dfdef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="334,799 Canada Day Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/happy-canada-day-illustration-background-260nw-2460711819.jpg' alt='334,799 Canada Day Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/happy-canada-day-illustration-background-260nw-2460711819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,310 Happy Canada Day Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-canada-day-flag-background-187501748.jpg' alt='7,310 Happy Canada Day Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-canada-day-flag-background-187501748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Best Canada day images ideas | canada day, canada, happy canada day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/20/9c/1d209c6f37d245ad9900343befe044ee.jpg' alt='32 Best Canada day images ideas | canada day, canada, happy canada day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/20/9c/1d209c6f37d245ad9900343befe044ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

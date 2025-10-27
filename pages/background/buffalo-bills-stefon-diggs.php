@@ -1,0 +1,129 @@
+<title>Stefon Diggs: Star Receiver for the Buffalo Bills</title>
+                    <meta name="description" content="Discover the impact and highlights of Stefon Diggs, the Buffalo Bills' star wide receiver. Explore his journey, explosive plays, and role in elevating the team's gameplay. Stay updated on his stats and contributions as he continues to shine on the field!">
+                    <meta name="keywords" content="buffalo bills stefon diggs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/buffalo-bills-stefon-diggs">
+                            <span itemprop="name">buffalo bills stefon diggs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stefon Diggs: Star Receiver for the Buffalo Bills</h1>
+                <p>Stefon Diggs is a standout wide receiver for the Buffalo Bills, known for his incredible route-running and explosive plays. Since joining the Bills, he has become a key target for quarterback Josh Allen, consistently finding the end zone and racking up impressive receiving yards. Diggs' dynamic playmaking skills energize fans and elevate the team's performance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs: Star wide receiver traded from Buffalo Bills to ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1963504987.jpg?c=16x9&q=h_833,w_1480,c_fill' alt='Stefon Diggs: Star wide receiver traded from Buffalo Bills to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1963504987.jpg?c=16x9&q=h_833,w_1480,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs Made a Miracle. Then He Made Josh Allen a Star. - WSJ">
+                                <img itemprop="contentUrl url" src='https://images.wsj.net/im-288231/?width=1280&height=1280' alt='Stefon Diggs Made a Miracle. Then He Made Josh Allen a Star. - WSJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSJ" />
+                                </span>
+                                <a href='https://images.wsj.net/im-288231/?width=1280&height=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bills' brass speaks highly of Diggs at Owners' Meetings">
+                                <img itemprop="contentUrl url" src='https://ewscripps.brightspotcdn.com/dims4/default/f01a0d6/2147483647/strip/true/crop/4774x2685+0+249/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ff9%2Fe1%2F2c3fa91b4a10b5a1c5a738ea7cae%2Fap22016814171700.jpg' alt='Bills' brass speaks highly of Diggs at Owners' Meetings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WKBW" />
+                                </span>
+                                <a href='https://ewscripps.brightspotcdn.com/dims4/default/f01a0d6/2147483647/strip/true/crop/4774x2685+0+249/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ff9%2Fe1%2F2c3fa91b4a10b5a1c5a738ea7cae%2Fap22016814171700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs issue has been resolved, Bills coach Sean McDermott says">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2023/06/14/USAT/d6f9e828-aecd-4a7e-ad47-3e1b5758bdcf-GTY_1458558568.jpg' alt='Stefon Diggs issue has been resolved, Bills coach Sean McDermott says'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7633">
+                                <meta itemprop="height" content="5091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2023/06/14/USAT/d6f9e828-aecd-4a7e-ad47-3e1b5758bdcf-GTY_1458558568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buffalo Bills Receiver Stefon Diggs 8x10 Photo Picture">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51KGWBykfnL._AC_UF1000,1000_QL80_.jpg' alt='Buffalo Bills Receiver Stefon Diggs 8x10 Photo Picture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="812">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51KGWBykfnL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stefon_Diggs_SEP2021_%28cropped%29.jpg/1200px-Stefon_Diggs_SEP2021_%28cropped%29.jpg' alt='Stefon Diggs - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stefon_Diggs_SEP2021_%28cropped%29.jpg/1200px-Stefon_Diggs_SEP2021_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs, Buffalo Bills agree on 6-year deal to keep WR in ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EAEY7O6VIBFDJNCSTRKUXCJIFE.jpg' alt='Stefon Diggs, Buffalo Bills agree on 6-year deal to keep WR in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2901">
+                                <meta itemprop="height" content="1935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Syracuse.com" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EAEY7O6VIBFDJNCSTRKUXCJIFE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stefon Diggs ranked No. 26 on the NFL Top 100 Players List">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bills/go3i1d9m3gmmr0ogkdjv' alt='Stefon Diggs ranked No. 26 on the NFL Top 100 Players List'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buffalo Bills" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bills/go3i1d9m3gmmr0ogkdjv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Stefon Diggs is 'super excited' for this opportunity with the ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bills/hhubdllmhzi01fkkilga' alt='Why Stefon Diggs is 'super excited' for this opportunity with the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buffalo Bills" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bills/hhubdllmhzi01fkkilga' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buffalo Bills wideout Stefon Diggs ranked No. 26 on NFL Top 100 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/jupem9aNHA4OAvbCZZ7PfeQ5eDs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962241/usa_today_18901608.jpg' alt='Buffalo Bills wideout Stefon Diggs ranked No. 26 on NFL Top 100 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buffalo Rumblings" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/jupem9aNHA4OAvbCZZ7PfeQ5eDs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962241/usa_today_18901608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

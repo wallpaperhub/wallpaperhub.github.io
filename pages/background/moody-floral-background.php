@@ -1,0 +1,129 @@
+<title>Moody Floral Backgrounds: Elevate Your Space</title>
+                    <meta name="description" content="Discover the allure of moody floral backgrounds, perfect for adding elegance and depth to any space. With rich colors and intricate designs, these backgrounds transform your decor, making every room feel unique and inviting. Enhance your environment with stunning floral artistry today!">
+                    <meta name="keywords" content="moody floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moody-floral-background">
+                            <span itemprop="name">moody floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moody Floral Backgrounds: Elevate Your Space</h1>
+                <p>Transform your space with a moody floral background that evokes emotions and sets a captivating atmosphere. Featuring deep, rich hues and intricate patterns, these designs intertwine nature's beauty and artistic depth. Ideal for enhancing any room or digital space, a moody floral backdrop brings elegance and drama to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_fullxfull.5906782583_mjfi.jpg' alt='Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_fullxfull.5906782583_mjfi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Moody Rose Peony Floral Peel and Stick Wallpaper Vintage Dark  Bouquet Floral Wallpaper for Bedroom Bathroom Nursery 17.7''x118''  Prepasted ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Dj7QjQk3L.jpg' alt='VEELIKE Moody Rose Peony Floral Peel and Stick Wallpaper Vintage Dark  Bouquet Floral Wallpaper for Bedroom Bathroom Nursery 17.7''x118''  Prepasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Dj7QjQk3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Flower Fantasy Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/55595/moody_flower_fantasy_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Moody Flower Fantasy Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/55595/moody_flower_fantasy_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Florals Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33334/moody-florals-wallpaper-2x.jpg?q=1692221443' alt='Moody Florals Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33334/moody-florals-wallpaper-2x.jpg?q=1692221443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Moody Roses Floral Wallpaper Peel and Stick Vintage Dark Floral  Wall Paper for Bedroom Girls Room Bathroom 17.7''x118'' Prepasted Removable  ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/81ez47vhKNL._AC_UL210_SR210,210_.jpg' alt='VEELIKE Moody Roses Floral Wallpaper Peel and Stick Vintage Dark Floral  Wall Paper for Bedroom Girls Room Bathroom 17.7''x118'' Prepasted Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/81ez47vhKNL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Floral Wallpaper {Distressed Peony} - Peel & Stick - (Budget) /  Sample 14'' x 14'' / 35 x 35 cm">
+                                <img itemprop="contentUrl url" src='https://sckribbles.com/cdn/shop/files/DarkMoodyFloralPeonyWallpaper.jpg?v=1713782035&width=1214' alt='Dark Moody Floral Wallpaper {Distressed Peony} - Peel & Stick - (Budget) /  Sample 14'' x 14'' / 35 x 35 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sckribbles" />
+                                </span>
+                                <a href='https://sckribbles.com/cdn/shop/files/DarkMoodyFloralPeonyWallpaper.jpg?v=1713782035&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/te573_moodyfloral_environment_rgb_1800x1800.jpg?v=1724537959' alt='Moody Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/te573_moodyfloral_environment_rgb_1800x1800.jpg?v=1724537959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13614377/p/f/m/O9GZ87GyC0jrJJDurh2l8oQsoQSl3Ya2g2Q4ABNUaKwrJGqGTBRKT-k/Vintage%20Black%20Dramatic%20Glamour%20Summer%20Romanticism%3A%20Maximalism%20Moody%20Florals%20-%20Grand%20Millennial%20burgundy%20Roses%20and%20Nostalgic%20Gothic%20Mystic%20Night%20Flowers%204-%20Antique%20Botany%20and%20Victorian%20Goth%20inspired%20black%20nature.jpg' alt='Moody Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13614377/p/f/m/O9GZ87GyC0jrJJDurh2l8oQsoQSl3Ya2g2Q4ABNUaKwrJGqGTBRKT-k/Vintage%20Black%20Dramatic%20Glamour%20Summer%20Romanticism%3A%20Maximalism%20Moody%20Florals%20-%20Grand%20Millennial%20burgundy%20Roses%20and%20Nostalgic%20Gothic%20Mystic%20Night%20Flowers%204-%20Antique%20Botany%20and%20Victorian%20Goth%20inspired%20black%20nature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Floral Wallpaper - Lush Overgrown Pattern With Plants ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38663273/r/il/85274e/6087477656/il_fullxfull.6087477656_29j8.jpg' alt='Dark Moody Floral Wallpaper - Lush Overgrown Pattern With Plants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1953">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38663273/r/il/85274e/6087477656/il_fullxfull.6087477656_29j8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evelyn">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716220385/articles/FL5010PI04W_product.jpg' alt='Evelyn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716220385/articles/FL5010PI04W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

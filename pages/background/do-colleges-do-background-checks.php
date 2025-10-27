@@ -1,0 +1,129 @@
+<title>Do Colleges Conduct Background Checks on Applicants?</title>
+                    <meta name="description" content="Discover if colleges perform background checks on applicants. Learn why they are conducted, what is reviewed, and how it impacts your college application process. Stay informed to better prepare for your admission journey!">
+                    <meta name="keywords" content="do colleges do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-colleges-do-background-checks">
+                            <span itemprop="name">do colleges do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Colleges Conduct Background Checks on Applicants?</h1>
+                <p>Yes, many colleges conduct background checks, particularly on applicants for sensitive programs or positions, such as those involving children or vulnerable populations. This may include reviewing criminal records, academic history, and work experience to ensure a safe and trustworthy environment for all students and faculty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Do Background Checks? | NetReputation">
+                                <img itemprop="contentUrl url" src='https://www.netreputation.com/wp-content/uploads/Untitled-design-3.jpg' alt='Do Colleges Do Background Checks? | NetReputation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NetReputation" />
+                                </span>
+                                <a href='https://www.netreputation.com/wp-content/uploads/Untitled-design-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Do Criminal Background Checks? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Z27X1snKE0E/hqdefault.jpg' alt='Do Colleges Do Criminal Background Checks? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Z27X1snKE0E/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Colleges Do Background Checks? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/K--RQ0vsWBk/hqdefault.jpg' alt='How Do Colleges Do Background Checks? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/K--RQ0vsWBk/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clearing the Air: Do Colleges Do Background Checks?">
+                                <img itemprop="contentUrl url" src='https://www.removemugshots.com/wp-content/uploads/2023/11/AdobeStock_146490579-scaled.jpeg' alt='Clearing the Air: Do Colleges Do Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Mugshots" />
+                                </span>
+                                <a href='https://www.removemugshots.com/wp-content/uploads/2023/11/AdobeStock_146490579-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Run Background Checks On Applicants? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/n2zjGu_n1v4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOCOdFibnIm4arDSHbPzVzgPfNhA' alt='Do Colleges Run Background Checks On Applicants? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/n2zjGu_n1v4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOCOdFibnIm4arDSHbPzVzgPfNhA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Look at Social Media?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674df07053c44e2749e36d75_AD_4nXeeVYNTWqkAzvpNpTOLqgzH8QpujyhZnsp-YgJWJ9upd6qt-Nsig_AKaXDloSNEGmiMlbprrr_wIQ1IMVzFe2xITTx86gqtt3dLpK3lUpdVx3gkC82gpAbNzSzSxW8xc0zW_b0PVg.png' alt='Do Colleges Look at Social Media?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674df07053c44e2749e36d75_AD_4nXeeVYNTWqkAzvpNpTOLqgzH8QpujyhZnsp-YgJWJ9upd6qt-Nsig_AKaXDloSNEGmiMlbprrr_wIQ1IMVzFe2xITTx86gqtt3dLpK3lUpdVx3gkC82gpAbNzSzSxW8xc0zW_b0PVg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did you know that some colleges and universities consider information about  a student’s criminal record during the admission process?    If you’re in  the process of applying to college, you might want ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7356732762541329707&location=0&aid=1988' alt='Did you know that some colleges and universities consider information about  a student’s criminal record during the admission process?    If you’re in  the process of applying to college, you might want ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7356732762541329707&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do background checks show schools that you attende... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/do-background-checks-show-schools-that-you-attended-but-didnt-graduate-from-i-attended-4-years-at-a-university-after-transferring-from.png' alt='Do background checks show schools that you attende... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/do-background-checks-show-schools-that-you-attended-but-didnt-graduate-from-i-attended-4-years-at-a-university-after-transferring-from.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Do A Background Check? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ndeB75d0zAg/maxresdefault.jpg' alt='Do Colleges Do A Background Check? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ndeB75d0zAg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Background Checks in MBA Application Process">
+                                <img itemprop="contentUrl url" src='https://mbahouse.com/wp-content/uploads/2024/10/What-Do-Schools-Look-for-in-Background-Checks-min-703x1024.jpg' alt='Understanding Background Checks in MBA Application Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MBA House" />
+                                </span>
+                                <a href='https://mbahouse.com/wp-content/uploads/2024/10/What-Do-Schools-Look-for-in-Background-Checks-min-703x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

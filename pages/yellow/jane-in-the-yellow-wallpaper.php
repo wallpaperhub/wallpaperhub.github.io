@@ -1,0 +1,129 @@
+<title>Exploring Jane in "The Yellow Wallpaper": A Journey to Self-Identity</title>
+                    <meta name="description" content="Discover the complexities of Jane's character in "The Yellow Wallpaper." Explore themes of mental health, oppression, and the quest for self-identity in this powerful narrative. Join the discussion on Jane's descent into madness and its relevance in today's society.">
+                    <meta name="keywords" content="jane in the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/jane-in-the-yellow-wallpaper">
+                            <span itemprop="name">jane in the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Jane in "The Yellow Wallpaper": A Journey to Self-Identity</h1>
+                <p>In Charlotte Perkins Gilman's "The Yellow Wallpaper," the protagonist, Jane, is confined to a room as part of a treatment for her postpartum depression. The oppressive environment, symbolized by the yellow wallpaper, leads Jane into a psychological struggle, ultimately provoking her descent into madness as she seeks freedom and self-identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021): adapting a classic | by Letícia ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' alt='The Yellow Wallpaper (2021): adapting a classic | by Letícia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper || Character Analysis | Books & Writing Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' alt='The Yellow Wallpaper || Character Analysis | Books & Writing Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021) - Projected Figures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?fit=1000%2C644&ssl=1' alt='The Yellow Wallpaper (2021) - Projected Figures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Projected Figures" />
+                                </span>
+                                <a href='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?fit=1000%2C644&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Works: Charlotte Perkins Gilman's <br> The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://centralworks.org/wp-content/uploads/2014/10/YellowWallpaper-EW1-full.jpg' alt='Central Works: Charlotte Perkins Gilman's <br> The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Works" />
+                                </span>
+                                <a href='https://centralworks.org/wp-content/uploads/2014/10/YellowWallpaper-EW1-full.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper — Writing about Art: A Blog by Georgina ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56e88647e707ebc643e456e4/1588217319883-K8IXEAVFWCQY4FS6DPMI/The+Yellow+Wallpaper.jpg' alt='The Yellow Wallpaper — Writing about Art: A Blog by Georgina ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgina Downey" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56e88647e707ebc643e456e4/1588217319883-K8IXEAVFWCQY4FS6DPMI/The+Yellow+Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free yourself. Analyzing The Yellow Wallpaper by Charlotte Perkins ...">
+                                <img itemprop="contentUrl url" src='https://jwelsstreasure.wordpress.com/wp-content/uploads/2013/10/the_yellow_wallpaper_by_shopot.jpg' alt='Free yourself. Analyzing The Yellow Wallpaper by Charlotte Perkins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jwelsstreasure - WordPress.com" />
+                                </span>
+                                <a href='https://jwelsstreasure.wordpress.com/wp-content/uploads/2013/10/the_yellow_wallpaper_by_shopot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jane in the Yellow Paper by C.P. Gilman | Characters & Summary Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/ajsu4gsb3f.jpg' alt='Jane in the Yellow Paper by C.P. Gilman | Characters & Summary Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/ajsu4gsb3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Movie Trailer Brings the Classic 1892 Story to ...">
+                                <img itemprop="contentUrl url" src='https://bloody-disgusting.com/wp-content/uploads/2022/03/the-yellow-wallpaper-movie.png' alt='Yellow Wallpaper Movie Trailer Brings the Classic 1892 Story to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1233">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloody Disgusting" />
+                                </span>
+                                <a href='https://bloody-disgusting.com/wp-content/uploads/2022/03/the-yellow-wallpaper-movie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Writing on Women Writers">
+                                <img itemprop="contentUrl url" src='https://writingonwomenwriters.wordpress.com/wp-content/uploads/2013/03/the-yellow-wallpaper.jpg' alt='The Yellow Wallpaper | Writing on Women Writers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Writing on Women Writers - WordPress.com" />
+                                </span>
+                                <a href='https://writingonwomenwriters.wordpress.com/wp-content/uploads/2013/03/the-yellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Works: Charlotte Perkins Gilman's <br> The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://centralworks.org/wp-content/uploads/2014/10/YellowWallpaperEW3.jpg' alt='Central Works: Charlotte Perkins Gilman's <br> The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Works" />
+                                </span>
+                                <a href='https://centralworks.org/wp-content/uploads/2014/10/YellowWallpaperEW3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

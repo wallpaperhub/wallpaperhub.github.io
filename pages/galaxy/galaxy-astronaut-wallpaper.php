@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Astronaut Wallpaper for Cosmic Lovers</title>
+                    <meta name="description" content="Explore breathtaking galaxy astronaut wallpaper that combines the beauty of space with the thrill of astronaut life. Perfect for your device, these wallpapers inspire adventure and wonder, making your screen a captivating canvas of cosmic art. Download your favorite today!">
+                    <meta name="keywords" content="galaxy astronaut wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-astronaut-wallpaper">
+                            <span itemprop="name">galaxy astronaut wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Astronaut Wallpaper for Cosmic Lovers</h1>
+                <p>Transform your device into a portal to the cosmos with stunning galaxy astronaut wallpaper. These mesmerizing designs combine the awe of outer space with the adventurous spirit of astronauts, creating a visual feast that inspires exploration. Perfect for space enthusiasts and dreamers alike, elevate your screen now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut in galaxy Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Astronaut_in_galaxy_Wall_Mural_Wallpaper_a_f7481cca-db20-4994-9679-d3cc2141882b_1400x.jpg?v=1735833485' alt='Astronaut in galaxy Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Astronaut_in_galaxy_Wall_Mural_Wallpaper_a_f7481cca-db20-4994-9679-d3cc2141882b_1400x.jpg?v=1735833485' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Galaxy The Astronaut Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-galaxy-the-astronaut-qo12ntwvi8brxepo.jpg' alt='Cool Galaxy The Astronaut Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-galaxy-the-astronaut-qo12ntwvi8brxepo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD astronaut and galaxy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/453/469/HD-wallpaper-astronaut-in-space-astronaut-cartoon-colourful-galaxy-space.jpg' alt='HD astronaut and galaxy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/453/469/HD-wallpaper-astronaut-in-space-astronaut-cartoon-colourful-galaxy-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Wallpaper 4K, Galaxy, Space suit, Dream">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/astronaut-galaxy-space-suit-dream-triangle-butterflies-2048x2048-8085.jpg' alt='Astronaut Wallpaper 4K, Galaxy, Space suit, Dream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/astronaut-galaxy-space-suit-dream-triangle-butterflies-2048x2048-8085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="galaxy Ringtones and Wallpapers - Free by ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ad/c7/39/adc7398ddea63bc83879e0fc769a5bd2.jpg' alt='galaxy Ringtones and Wallpapers - Free by ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ad/c7/39/adc7398ddea63bc83879e0fc769a5bd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Space Wallpaper Art Print by Oliver - Fy">
+                                <img itemprop="contentUrl url" src='https://fydn.imgix.net/m/x1000/31e55ca5-9d6f-486f-b9ee-459aa6994a09.jpg?q=75&auto=format,compress&w=480&dpr=1' alt='Astronaut Space Wallpaper Art Print by Oliver - Fy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fy" />
+                                </span>
+                                <a href='https://fydn.imgix.net/m/x1000/31e55ca5-9d6f-486f-b9ee-459aa6994a09.jpg?q=75&auto=format,compress&w=480&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Wallpaper Moon Planet Cosmic Space Galaxy Universe ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/578c30/3098788323/il_fullxfull.3098788323_qffa.jpg' alt='Astronaut Wallpaper Moon Planet Cosmic Space Galaxy Universe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2005">
+                                <meta itemprop="height" content="1614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/578c30/3098788323/il_fullxfull.3098788323_qffa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Astronaut Wallpaper Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' alt='Most Popular Astronaut Wallpaper Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spacean, astronauts, galaxy, space, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/193/927/HD-wallpaper-spacean-astronauts-galaxy-space.jpg' alt='Spacean, astronauts, galaxy, space, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/193/927/HD-wallpaper-spacean-astronauts-galaxy-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Ripples Wallpaper - Apps on Galaxy Store">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3c/74/ce/3c74cea1169149747534cd1191a3e6f3.jpg' alt='Space Ripples Wallpaper - Apps on Galaxy Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3c/74/ce/3c74cea1169149747534cd1191a3e6f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

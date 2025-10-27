@@ -1,0 +1,129 @@
+<title>The Fascinating History of Cloning: From Theory to Dolly</title>
+                    <meta name="description" content="Explore the intriguing history of cloning, from early ideas to the groundbreaking success of Dolly the sheep. Discover the advancements in cloning technology and their impact on science, ethics, and society in this concise overview.">
+                    <meta name="keywords" content="history of cloning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-cloning">
+                            <span itemprop="name">history of cloning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Fascinating History of Cloning: From Theory to Dolly</h1>
+                <p>Cloning has a long and complex history, starting with early scientific theories in the 19th century. In 1996, the first successful cloning of a mammal, Dolly the sheep, marked a revolutionary moment. Since then, cloning technology has evolved, leading to advances in medicine, agriculture, and ethical debates about its implications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://learn-genetics.b-cdn.net/cloning/clonezone/images/1-urchin.jpg' alt='The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Genetics Utah" />
+                                </span>
+                                <a href='https://learn-genetics.b-cdn.net/cloning/clonezone/images/1-urchin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://learn-genetics.b-cdn.net/cloning/clonezone/images/2-salamander.jpg' alt='The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Genetics Utah" />
+                                </span>
+                                <a href='https://learn-genetics.b-cdn.net/cloning/clonezone/images/2-salamander.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://learn-genetics.b-cdn.net/cloning/clonezone/images/12-tgsheep.jpg' alt='The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Genetics Utah" />
+                                </span>
+                                <a href='https://learn-genetics.b-cdn.net/cloning/clonezone/images/12-tgsheep.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ATE Central - The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://atecentral.net/local/data/caches/images/scaled/img_00021432_800x600.png' alt='ATE Central - The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATE Central" />
+                                </span>
+                                <a href='https://atecentral.net/local/data/caches/images/scaled/img_00021432_800x600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloning timeline: Which animals and when?">
+                                <img itemprop="contentUrl url" src='https://ychef.files.bbci.co.uk/1280x720/p00pkbsv.jpg' alt='Cloning timeline: Which animals and when?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ychef.files.bbci.co.uk/1280x720/p00pkbsv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly: a decade on | Nature">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F445800a/MediaObjects/41586_2007_Article_BF445800a_Fig1_HTML.jpg' alt='Dolly: a decade on | Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F445800a/MediaObjects/41586_2007_Article_BF445800a_Fig1_HTML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://learn-genetics.b-cdn.net/cloning/clonezone/images/4-frog.jpg' alt='The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Genetics Utah" />
+                                </span>
+                                <a href='https://learn-genetics.b-cdn.net/cloning/clonezone/images/4-frog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cloning">
+                                <img itemprop="contentUrl url" src='https://learn-genetics.b-cdn.net/cloning/clonezone/images/3-salamander.jpg' alt='The History of Cloning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Genetics Utah" />
+                                </span>
+                                <a href='https://learn-genetics.b-cdn.net/cloning/clonezone/images/3-salamander.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloning Fact Sheet">
+                                <img itemprop="contentUrl url" src='https://www.genome.gov/sites/default/files/inline-images/Cloning_Fact-sheet2020.jpg' alt='Cloning Fact Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Human Genome Research Institute" />
+                                </span>
+                                <a href='https://www.genome.gov/sites/default/files/inline-images/Cloning_Fact-sheet2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foundations of Molecular Cloning - Past, Present and Future | NEB">
+                                <img itemprop="contentUrl url" src='https://www.neb.com/en-us/-/media/nebus/page-images/applications/cloning-and-mapping/cloningtimeline_600.jpg?rev=269f1ff8d927471f8d53edbb6bdd9f87&hash=BDDBB607DFF28E2D9E3B549D823CAAC8' alt='Foundations of Molecular Cloning - Past, Present and Future | NEB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEB" />
+                                </span>
+                                <a href='https://www.neb.com/en-us/-/media/nebus/page-images/applications/cloning-and-mapping/cloningtimeline_600.jpg?rev=269f1ff8d927471f8d53edbb6bdd9f87&hash=BDDBB607DFF28E2D9E3B549D823CAAC8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

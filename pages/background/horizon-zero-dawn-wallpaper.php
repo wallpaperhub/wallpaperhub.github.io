@@ -1,0 +1,129 @@
+<title>Epic Horizon Zero Dawn Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a collection of stunning Horizon Zero Dawn wallpapers, perfect for fans seeking to personalize their devices. Featuring vibrant imagery of Aloy and the breathtaking landscapes, these wallpapers let you celebrate the game's beauty every day. Download your favorites and elevate your screen style!">
+                    <meta name="keywords" content="horizon zero dawn wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horizon-zero-dawn-wallpaper">
+                            <span itemprop="name">horizon zero dawn wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Horizon Zero Dawn Wallpapers for Every Fan</h1>
+                <p>Transform your device's background with stunning Horizon Zero Dawn wallpapers. Featuring breathtaking landscapes, fierce machines, and the courageous Aloy, these wallpapers bring the post-apocalyptic world to life. Perfect for fans of the game, each image captures the beauty and adventure of this beloved title. Customize your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2073389053861221437/55E5139E64E5FA25ADC3DDDDA0F428F98DC3196B/' alt='Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2073389053861221437/55E5139E64E5FA25ADC3DDDDA0F428F98DC3196B/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Horizon Zero Dawn: The Frozen Wilds Video Game Horizon ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/845/845820.jpg' alt='Download Horizon Zero Dawn: The Frozen Wilds Video Game Horizon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/845/845820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="just finished horizon zero dawn and these are some of my favorite ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-finished-horizon-zero-dawn-and-these-are-some-of-my-v0-pswg67g3oyfb1.png?width=2560&format=png&auto=webp&s=f795fbd7fbd9029f7729084e6950ec0d08aebb6e' alt='just finished horizon zero dawn and these are some of my favorite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-finished-horizon-zero-dawn-and-these-are-some-of-my-v0-pswg67g3oyfb1.png?width=2560&format=png&auto=webp&s=f795fbd7fbd9029f7729084e6950ec0d08aebb6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2073389053861226861/D6D7B941A3F2909D5D4D4BEC3317CB267F05F294/' alt='Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4400">
+                                <meta itemprop="height" content="2750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2073389053861226861/D6D7B941A3F2909D5D4D4BEC3317CB267F05F294/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon Zero Dawn 2 wallpaper 6 by Shadow2147 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/649bea54-52f4-4cc8-86de-bae27d480fda/deqj500-c1c56d62-78aa-4401-9385-97e40ae7d349.jpg/v1/fill/w_1192,h_670,q_70,strp/horizon_zero_dawn_2_wallpaper_6_by_shadow2147_deqj500-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcLzY0OWJlYTU0LTUyZjQtNGNjOC04NmRlLWJhZTI3ZDQ4MGZkYVwvZGVxajUwMC1jMWM1NmQ2Mi03OGFhLTQ0MDEtOTM4NS05N2U0MGFlN2QzNDkuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IuWR46gpbAL_77jk3Rqj818jhCvkj0JD4TtIIYe3xZM' alt='Horizon Zero Dawn 2 wallpaper 6 by Shadow2147 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/649bea54-52f4-4cc8-86de-bae27d480fda/deqj500-c1c56d62-78aa-4401-9385-97e40ae7d349.jpg/v1/fill/w_1192,h_670,q_70,strp/horizon_zero_dawn_2_wallpaper_6_by_shadow2147_deqj500-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcLzY0OWJlYTU0LTUyZjQtNGNjOC04NmRlLWJhZTI3ZDQ4MGZkYVwvZGVxajUwMC1jMWM1NmQ2Mi03OGFhLTQ0MDEtOTM4NS05N2U0MGFlN2QzNDkuanBnIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IuWR46gpbAL_77jk3Rqj818jhCvkj0JD4TtIIYe3xZM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon zero dawn (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gwvuecq18zd31.jpg' alt='Horizon zero dawn (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gwvuecq18zd31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2073389053861213437/8C8A8DAEF39387D4CFDFE1B7DA93D7C4A3BA8B8E/' alt='Steam Community :: Guide :: Wallpaper: Horizon Zero Dawn | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2073389053861213437/8C8A8DAEF39387D4CFDFE1B7DA93D7C4A3BA8B8E/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon Zero Dawn Remastered announced for PS5, PC - Gematsu">
+                                <img itemprop="contentUrl url" src='https://www.gematsu.com/wp-content/uploads/2024/09/Horizon-Remastered-Ann_09-24-24.jpg' alt='Horizon Zero Dawn Remastered announced for PS5, PC - Gematsu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gematsu" />
+                                </span>
+                                <a href='https://www.gematsu.com/wp-content/uploads/2024/09/Horizon-Remastered-Ann_09-24-24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon Zero Dawn Wallpapers (69 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/f/9/1763-3840x2160-desktop-4k-horizon-zero-dawn-background-photo.jpg' alt='Horizon Zero Dawn Wallpapers (69 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/f/9/1763-3840x2160-desktop-4k-horizon-zero-dawn-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizon: Zero Dawn gets the graphical remaster a modern classic ...">
+                                <img itemprop="contentUrl url" src='https://cdn.arstechnica.net/wp-content/uploads/2024/12/horizon-zero-dawn-remastered-screenshot-02-en-30sep24.jpeg' alt='Horizon: Zero Dawn gets the graphical remaster a modern classic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ars Technica" />
+                                </span>
+                                <a href='https://cdn.arstechnica.net/wp-content/uploads/2024/12/horizon-zero-dawn-remastered-screenshot-02-en-30sep24.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

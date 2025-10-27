@@ -1,0 +1,129 @@
+<title>The Evolution of Lashes: Beauty Through the Ages</title>
+                    <meta name="description" content="Discover the fascinating history of lashes, from ancient rituals to modern beauty trends. Explore how cultures have enhanced their allure over centuries and learn about the transformative power of lashes in expressing femininity and confidence. Perfect for beauty enthusiasts and history buffs!">
+                    <meta name="keywords" content="lashes background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lashes-background">
+                            <span itemprop="name">lashes background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of Lashes: Beauty Through the Ages</h1>
+                <p>Lashes have long been a symbol of beauty and femininity. Their history dates back centuries, with various cultures enhancing their allure using natural products and techniques. From ancient Egyptians who adorned their eyes with kohl to modern-day lash extensions, the evolution of lashes reflects changing aesthetics and empowerment through beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyelash Background Images – Browse 291,971 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/10/28/81/360_F_210288142_ConpmNkhOXojrGsdUh8XZaZzLiTXlSgn.jpg' alt='Eyelash Background Images – Browse 291,971 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="915">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/10/28/81/360_F_210288142_ConpmNkhOXojrGsdUh8XZaZzLiTXlSgn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,800+ Eyelash Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1677841597/vector/seamless-pattern-with-long-eyelashes-on-pink-background-simple-vector-illustration.jpg?s=612x612&w=0&k=20&c=Tk5X_I95HMPz6uSnM2i-Giuur3A5rc3F2X2QaHwI_Nk=' alt='4,800+ Eyelash Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1677841597/vector/seamless-pattern-with-long-eyelashes-on-pink-background-simple-vector-illustration.jpg?s=612x612&w=0&k=20&c=Tk5X_I95HMPz6uSnM2i-Giuur3A5rc3F2X2QaHwI_Nk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Eyelash Wallpaper Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/lashes-pattern-design-260nw-511104583.jpg' alt='Best Eyelash Wallpaper Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="228">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/lashes-pattern-design-260nw-511104583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lashes Background Images – Browse 990,405 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/51/17/16/360_F_251171694_CCJozLgz4NiAnQy55faAhulHPtvI9SiC.jpg' alt='Lashes Background Images – Browse 990,405 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/51/17/16/360_F_251171694_CCJozLgz4NiAnQy55faAhulHPtvI9SiC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brow & Lash Illustration SVG + PNG Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/e689c9/3310084451/il_fullxfull.3310084451_g6fg.jpg' alt='Brow & Lash Illustration SVG + PNG Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/e689c9/3310084451/il_fullxfull.3310084451_g6fg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lash Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/0c/a4/c70ca46db753984da9739d8c7d5d2925.jpg' alt='Lash Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/0c/a4/c70ca46db753984da9739d8c7d5d2925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,900 Lashes Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/lash-artist-beauty-treatment-tools-260nw-1687451617.jpg' alt='97,900 Lashes Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/lash-artist-beauty-treatment-tools-260nw-1687451617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49 Eye lashes ideas | lashes, wallpaper, iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/04/77/d9/0477d937219ce81914f6a381ddb3b366.jpg' alt='49 Eye lashes ideas | lashes, wallpaper, iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/04/77/d9/0477d937219ce81914f6a381ddb3b366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,300+ Eyelash Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1214207743/photo/pattern-with-eyelashes-on-pink-background.jpg?s=612x612&w=0&k=20&c=trs_QLE-143g4fJlEtv_qOV8hchuyPF2ns_NHIFkNyk=' alt='11,300+ Eyelash Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1214207743/photo/pattern-with-eyelashes-on-pink-background.jpg?s=612x612&w=0&k=20&c=trs_QLE-143g4fJlEtv_qOV8hchuyPF2ns_NHIFkNyk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lashes Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/view-mascara-false-eyelashes_23-2148978188.jpg' alt='Lashes Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/view-mascara-false-eyelashes_23-2148978188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

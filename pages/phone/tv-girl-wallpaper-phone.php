@@ -1,0 +1,129 @@
+<title>Stunning TV Girl Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover captivating TV girl wallpapers designed to elevate your phone's look. Perfect for anime lovers and style enthusiasts, explore a collection that resonates with your aesthetic. Refresh your device and express your personality today!">
+                    <meta name="keywords" content="tv girl wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/tv-girl-wallpaper-phone">
+                            <span itemprop="name">tv girl wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning TV Girl Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with stunning TV girl wallpapers that capture a unique vibe. Perfect for fans of anime, retro themes, or contemporary aesthetics, these wallpapers add a splash of personality and inspiration to your device. Download your favorite designs and refresh your phone with art that speaks to you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TV girl | Tv girls, Hello kitty wallpaper hd, Pretty wallpaper ipad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/16/b7/f716b737a50554d01357ce170ada07d9.jpg' alt='TV girl | Tv girls, Hello kitty wallpaper hd, Pretty wallpaper ipad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/16/b7/f716b737a50554d01357ce170ada07d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpapers i made : r/tvgirl">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0ql43hq0fqo91.png?width=1170&format=png&auto=webp&s=bdabd07a2840591ea6720ee89622200b72e3ba0c' alt='iphone wallpapers i made : r/tvgirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0ql43hq0fqo91.png?width=1170&format=png&auto=webp&s=bdabd07a2840591ea6720ee89622200b72e3ba0c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tv girl wallpaper by Kaiden1312 - Download on ZEDGE™ | a585">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/0e/ed/1e0eed80b3a0a1947a5e424d132edb9e.jpg' alt='Tv girl wallpaper by Kaiden1312 - Download on ZEDGE™ | a585'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/0e/ed/1e0eed80b3a0a1947a5e424d132edb9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tv girl wallpaper ideas      | Gallery posted by Miaaaa | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7385584263972274693&index=2&sign=9d3fd01f7e4e3a772aac2c08f5a3a1ef' alt='Tv girl wallpaper ideas      | Gallery posted by Miaaaa | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7385584263972274693&index=2&sign=9d3fd01f7e4e3a772aac2c08f5a3a1ef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Who Really Cares Tv Girl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/t-v-girl-who-really-cares-album-collage-ujwrxalq4nlenyca.jpg' alt='100+] Who Really Cares Tv Girl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/t-v-girl-who-really-cares-album-collage-ujwrxalq4nlenyca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tv Girl Who Really Cares Album Phone Wallpaper by mitosis-iosis on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83d45f6c-1dd3-42af-808f-5e02bfdff98b/dfdnza2-2ee13f9b-05a8-4fc4-abba-7a4ae78852bc.png/v1/fill/w_260,h_522,q_80,strp/tv_girl_who_really_cares_album_phone_wallpaper_by_mitosis_iosis_dfdnza2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIyIiwicGF0aCI6IlwvZlwvODNkNDVmNmMtMWRkMy00MmFmLTgwOGYtNWUwMmJmZGZmOThiXC9kZmRuemEyLTJlZTEzZjliLTA1YTgtNGZjNC1hYmJhLTdhNGFlNzg4NTJiYy5wbmciLCJ3aWR0aCI6Ijw9MjYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G-1vfqXQ7MMBh0kYNhqqQTYJsLW6fsf4ttRrpsXehBs' alt='Tv Girl Who Really Cares Album Phone Wallpaper by mitosis-iosis on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83d45f6c-1dd3-42af-808f-5e02bfdff98b/dfdnza2-2ee13f9b-05a8-4fc4-abba-7a4ae78852bc.png/v1/fill/w_260,h_522,q_80,strp/tv_girl_who_really_cares_album_phone_wallpaper_by_mitosis_iosis_dfdnza2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIyIiwicGF0aCI6IlwvZlwvODNkNDVmNmMtMWRkMy00MmFmLTgwOGYtNWUwMmJmZGZmOThiXC9kZmRuemEyLTJlZTEzZjliLTA1YTgtNGZjNC1hYmJhLTdhNGFlNzg4NTJiYy5wbmciLCJ3aWR0aCI6Ijw9MjYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G-1vfqXQ7MMBh0kYNhqqQTYJsLW6fsf4ttRrpsXehBs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpapers Collection : r/tvgirl">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iphone-wallpapers-collection-v0-dbj81mu90wbb1.jpg?width=978&format=pjpg&auto=webp&s=a181ebb6fca559560026321507e7528401ae336f' alt='Iphone Wallpapers Collection : r/tvgirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="2117">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iphone-wallpapers-collection-v0-dbj81mu90wbb1.jpg?width=978&format=pjpg&auto=webp&s=a181ebb6fca559560026321507e7528401ae336f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tv girl wallpaper lockscreen cigarettes out the window">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/93/c0/9093c0702d6e7a48a64af9ef906c8d25.jpg' alt='tv girl wallpaper lockscreen cigarettes out the window'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/93/c0/9093c0702d6e7a48a64af9ef906c8d25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Who Really Cares Tv Girl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/who-really-cares-t-v-girl-collage-lkkt5lvmwcv1ahha.jpg' alt='100+] Who Really Cares Tv Girl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/who-really-cares-t-v-girl-collage-lkkt5lvmwcv1ahha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpapers Collection : r/tvgirl">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iphone-wallpapers-collection-v0-vxcwhou90wbb1.jpg?width=640&crop=smart&auto=webp&s=6ec84394592669f7f17f0b4226fa72b3d7e5b2ed' alt='Iphone Wallpapers Collection : r/tvgirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iphone-wallpapers-collection-v0-vxcwhou90wbb1.jpg?width=640&crop=smart&auto=webp&s=6ec84394592669f7f17f0b4226fa72b3d7e5b2ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

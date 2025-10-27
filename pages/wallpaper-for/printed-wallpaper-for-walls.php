@@ -1,0 +1,129 @@
+<title>Transform Your Walls with Stunning Printed Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of printed wallpaper for your walls! With endless designs and easy application, it's the perfect choice for a stylish home makeover. Whether you prefer bold patterns or subtle textures, elevate your decor with our curated selection of printed wallpaper.">
+                    <meta name="keywords" content="printed wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/printed-wallpaper-for-walls">
+                            <span itemprop="name">printed wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Walls with Stunning Printed Wallpaper</h1>
+                <p>Printed wallpaper is a stylish and versatile option for transforming your walls. With a multitude of designs, colors, and patterns available, it can enhance any room's aesthetic. Easy to apply and remove, printed wallpaper offers endless design possibilities, from classic florals to modern geometric prints. Elevate your space today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wall Paper, 3D Printing Art, Paper Crafts, Gift Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40268741/r/il/21dd58/4817104349/il_570xN.4817104349_dld3.jpg' alt='Custom Wall Paper, 3D Printing Art, Paper Crafts, Gift Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40268741/r/il/21dd58/4817104349/il_570xN.4817104349_dld3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/cow-print_mockup3.jpg?v=1717014319&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/cow-print_mockup3.jpg?v=1717014319&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Customized Printed Wallpaper | Limitless Walls">
+                                <img itemprop="contentUrl url" src='http://www.limitlesswalls.com/cdn/shop/articles/32312feeb7cc597340fa43dab94bd9a2.jpg?v=1666216912' alt='How to Make Customized Printed Wallpaper | Limitless Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limitless Walls" />
+                                </span>
+                                <a href='http://www.limitlesswalls.com/cdn/shop/articles/32312feeb7cc597340fa43dab94bd9a2.jpg?v=1666216912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bespoke Wallpaper">
+                                <img itemprop="contentUrl url" src='https://raven.contrado.app/resources/images/2024-10/220480/custom-wallpaper1566780_l.png?w=550&h=800&fit=crop&dpr=1' alt='Bespoke Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Contrado" />
+                                </span>
+                                <a href='https://raven.contrado.app/resources/images/2024-10/220480/custom-wallpaper1566780_l.png?w=550&h=800&fit=crop&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Modern Wallpaper Murals 3D Cow skin seamless Print animal hide  brown spots a white Mammals Fur Peel and Stick Removable Self-Adhesive PVC  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713l8qa1uLL.jpg' alt='Amazon.com: Modern Wallpaper Murals 3D Cow skin seamless Print animal hide  brown spots a white Mammals Fur Peel and Stick Removable Self-Adhesive PVC  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713l8qa1uLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print Your Own Design on Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/CP9134-custom-create-your-own-wallpaper-design_1800x1800.jpg?v=1738783754' alt='Print Your Own Design on Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/CP9134-custom-create-your-own-wallpaper-design_1800x1800.jpg?v=1738783754' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper - Make Your Own Bespoke Mural | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/img/uyo-main-image.jpg' alt='Custom Wallpaper - Make Your Own Bespoke Mural | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/img/uyo-main-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Block Print Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/285/1460/blockprint_wallpaper.jpg2__16543.1720036096.jpg?c=2' alt='Floral Block Print Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/285/1460/blockprint_wallpaper.jpg2__16543.1720036096.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Gray Marble 3D Wall Mural Wallpaper, Black Background Golden Texture  Photo Print Wallpaper, Panoramic Mural for Living Room Bedroom Study TV ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71zdxWWEf0L.jpg' alt='Modern Gray Marble 3D Wall Mural Wallpaper, Black Background Golden Texture  Photo Print Wallpaper, Panoramic Mural for Living Room Bedroom Study TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71zdxWWEf0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Fluffy Fur Print">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/336705/pr22/1/1280/grey-fluffy-fur-print-animal-print-wallpaper.jpg' alt='Grey Fluffy Fur Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/336705/pr22/1/1280/grey-fluffy-fur-print-animal-print-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

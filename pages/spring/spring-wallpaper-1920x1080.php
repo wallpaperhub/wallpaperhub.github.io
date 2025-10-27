@@ -1,0 +1,129 @@
+<title>Vibrant Spring Wallpaper 1920x1080 – Refresh Your Screen!</title>
+                    <meta name="description" content="Discover the beauty of spring with our 1920x1080 wallpapers! Featuring vibrant flowers and serene landscapes, our collection is perfect to refresh your screens. Ideal for desktops and mobiles, bring a touch of nature into your digital space. Download now and enjoy the season's charm!">
+                    <meta name="keywords" content="spring wallpaper 1920x1080">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spring-wallpaper-1920x1080">
+                            <span itemprop="name">spring wallpaper 1920x1080</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Spring Wallpaper 1920x1080 – Refresh Your Screen!</h1>
+                <p>Transform your screen with stunning spring wallpaper at 1920x1080 resolution. Celebrate the beauty of the season with vibrant colors, blooming flowers, and serene landscapes that bring life and freshness to your desktop or mobile device. Perfect for adding a touch of nature's charm to your daily routine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Blossoms: A Stunning HD Wallpaper of Nature's Beauty">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/689/689305.jpg' alt='Spring Blossoms: A Stunning HD Wallpaper of Nature's Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/689/689305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring. [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2vsxafrlpxj21.jpg' alt='Spring. [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2vsxafrlpxj21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Spring Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spring-desktop-9ay4ep1qb02xgq3o.jpg' alt='200+] Spring Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spring-desktop-9ay4ep1qb02xgq3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring-wallpaper-1920x1080 < Jack's Kids">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/jackskids.org/wp-content/uploads/2015/04/spring-wallpaper-1920x1080.jpg?ssl=1' alt='spring-wallpaper-1920x1080 < Jack's Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jack's Kids" />
+                                </span>
+                                <a href='https://i0.wp.com/jackskids.org/wp-content/uploads/2015/04/spring-wallpaper-1920x1080.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Most Popular Spring Wallpaper For Computers FULL HD 1080p For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/1f/0d/f51f0db4fd482bccd7118dca9159e4f0.jpg' alt='10 Most Popular Spring Wallpaper For Computers FULL HD 1080p For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/1f/0d/f51f0db4fd482bccd7118dca9159e4f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/a-vibrant-landscape-view-of-a-lush-4k-spring-2rsq8na92wzc0ncm.jpg' alt='100+] 4k Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/a-vibrant-landscape-view-of-a-lush-4k-spring-2rsq8na92wzc0ncm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpapers | Best Wallpapers">
+                                <img itemprop="contentUrl url" src='https://s1.picswalls.com/wallpapers/2014/02/08/spring-background_031117549_25.jpg' alt='Spring Wallpapers | Best Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Pictures & Wallpapers" />
+                                </span>
+                                <a href='https://s1.picswalls.com/wallpapers/2014/02/08/spring-background_031117549_25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Full Hd Beautiful Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/1920x1080-full-hd-beautiful-spring-9g9785rlb6v6pqsw.jpg' alt='1920x1080 Full Hd Beautiful Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/1920x1080-full-hd-beautiful-spring-9g9785rlb6v6pqsw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flowers In White Covered Mountains Background HD Spring ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/colorful_flowers_in_white_covered_mountains_background_hd_spring-HD.jpg' alt='Colorful Flowers In White Covered Mountains Background HD Spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/colorful_flowers_in_white_covered_mountains_background_hd_spring-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring HD Backgrounds - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/66/36/846636cf1cd9329ab1a0b3b49290f9c2.jpg' alt='Spring HD Backgrounds - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/66/36/846636cf1cd9329ab1a0b3b49290f9c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

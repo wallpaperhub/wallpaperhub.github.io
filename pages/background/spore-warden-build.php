@@ -1,0 +1,129 @@
+<title>Ultimate Spore Warden Build Guide</title>
+                    <meta name="description" content="Discover the ultimate Spore Warden build! This concise guide outlines optimal gear, skills, and strategies to enhance your Nature and Poison abilities, ensuring you dominate in battles. Perfect for players looking to maximize efficiency and thrive in-game. Join the adventure with the best Spore Warden tactics!">
+                    <meta name="keywords" content="spore warden build">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spore-warden-build">
+                            <span itemprop="name">spore warden build</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Spore Warden Build Guide</h1>
+                <p>In crafting a Spore Warden build, focus on maximizing your Nature and Poison abilities. Equip gear that enhances your ranged damage and boosts your companion's effectiveness. Utilize skills like spore-infused projectiles and toxic clouds to weaken enemies while keeping yourself mobile. Synergize your character's strengths to dominate battles!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina Wonderlands - S Tier Spore Warden Build Boosting Service">
+                                <img itemprop="contentUrl url" src='https://captain-carry.com/wp-content/uploads/2022/04/spore.jpg' alt='Tiny Tina Wonderlands - S Tier Spore Warden Build Boosting Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="834">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Captain-Carry.com" />
+                                </span>
+                                <a href='https://captain-carry.com/wp-content/uploads/2022/04/spore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was asked to share my build for Spore Warden + Stabbomancer. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/guaoc43drtp81.png' alt='Was asked to share my build for Spore Warden + Stabbomancer. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/guaoc43drtp81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Wonderlands">
+                                <img itemprop="contentUrl url" src='https://cdn.2kgames.com/2022/02/27/621af29d8004esporewarden-tree.png' alt='Play Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play Wonderlands" />
+                                </span>
+                                <a href='https://cdn.2kgames.com/2022/02/27/621af29d8004esporewarden-tree.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spore Warden/Blightcaller build that got me to C100 : r/Wonderlands">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/spore-warden-blightcaller-build-that-got-me-to-c100-v0-vp8902qcjijb1.jpg?width=3840&format=pjpg&auto=webp&s=fd8b66efba870df1293ea245425f9730493308e8' alt='Spore Warden/Blightcaller build that got me to C100 : r/Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/spore-warden-blightcaller-build-that-got-me-to-c100-v0-vp8902qcjijb1.jpg?width=3840&format=pjpg&auto=webp&s=fd8b66efba870df1293ea245425f9730493308e8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHAOS LVL 20 DESTROYED! | BEST ENDGAME SPORE WARDEN/GRAVEBORN BUILD | Tiny  Tina's Wonderlands">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hfk3c3Ie11U/maxresdefault.jpg' alt='CHAOS LVL 20 DESTROYED! | BEST ENDGAME SPORE WARDEN/GRAVEBORN BUILD | Tiny  Tina's Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hfk3c3Ie11U/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Spore Warden and Graveborn Companions Build - Spore Warden ...">
+                                <img itemprop="contentUrl url" src='https://www.gamerguides.com/assets/media/17/257/Tiny_Tina_Spore_Graveborn_1.jpg' alt='Best Spore Warden and Graveborn Companions Build - Spore Warden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamer Guides" />
+                                </span>
+                                <a href='https://www.gamerguides.com/assets/media/17/257/Tiny_Tina_Spore_Graveborn_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spore Warden - Tiny Tina's Wonderlands Character Class">
+                                <img itemprop="contentUrl url" src='https://mentalmars.com/wp-content/uploads/2022/02/Tiny-Tinas-Wonderlands-Spore-Warden-Skill-Tree.jpg' alt='Spore Warden - Tiny Tina's Wonderlands Character Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MentalMars" />
+                                </span>
+                                <a href='https://mentalmars.com/wp-content/uploads/2022/02/Tiny-Tinas-Wonderlands-Spore-Warden-Skill-Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ULTIMATE SPORE WARDEN BUILD! Chaos 20 (Frostwilder Gamesave) // Tiny Tina  Wonderlands SporeSplosion">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Y2j7WC_Su1o/maxresdefault.jpg' alt='ULTIMATE SPORE WARDEN BUILD! Chaos 20 (Frostwilder Gamesave) // Tiny Tina  Wonderlands SporeSplosion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Y2j7WC_Su1o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spore Warden/Spellshot build : r/Wonderlands">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/spore-warden-spellshot-build-v0-ypoil9mmcuo81.jpg?width=640&crop=smart&auto=webp&s=2e59207807dd31f85e07e3d02df2a9150e2532d7' alt='Spore Warden/Spellshot build : r/Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/spore-warden-spellshot-build-v0-ypoil9mmcuo81.jpg?width=640&crop=smart&auto=webp&s=2e59207807dd31f85e07e3d02df2a9150e2532d7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spore Warden - Tiny Tina's Wonderlands Guide - IGN">
+                                <img itemprop="contentUrl url" src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/tiny-tinas-wonderland/0/0d/Spore_Ward.jpg' alt='Spore Warden - Tiny Tina's Wonderlands Guide - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://oyster.ignimgs.com/mediawiki/apis.ign.com/tiny-tinas-wonderland/0/0d/Spore_Ward.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

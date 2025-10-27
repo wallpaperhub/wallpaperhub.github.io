@@ -1,0 +1,129 @@
+<title>WrestleMania 40: A Celebration of Wrestling History</title>
+                    <meta name="description" content="Discover the excitement of WrestleMania 40, celebrating WWE's legacy in Philadelphia. Join us for unforgettable matches, celebrity guests, and a tribute to wrestling's evolution. Don't miss out on this epic event in 2024!">
+                    <meta name="keywords" content="wrestlemania 40 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wrestlemania-40-background">
+                            <span itemprop="name">wrestlemania 40 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WrestleMania 40: A Celebration of Wrestling History</h1>
+                <p>WrestleMania 40, set for 2024 in Philadelphia, is poised to be a milestone event, celebrating the rich history of WWE. Fans can expect thrilling matches, celebrity appearances, and unforgettable moments, embodying the spirit of wrestling tradition. This year's theme highlights the evolution of the sport and its profound cultural impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WrestleMania 40 Graphics Package - Intro & Loops">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6ig5Dk8pVeA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU5Qe05l-dBLwcZeTrg9jKH8q2Ww' alt='WrestleMania 40 Graphics Package - Intro & Loops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6ig5Dk8pVeA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU5Qe05l-dBLwcZeTrg9jKH8q2Ww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WrestleMania 40 Match Card and the WWE Superstars Competing | USA ...">
+                                <img itemprop="contentUrl url" src='https://www.usanetwork.com/sites/usablog/files/2024/04/wrestlemania-xl.jpg' alt='WrestleMania 40 Match Card and the WWE Superstars Competing | USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1825">
+                                <meta itemprop="height" content="1217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Network" />
+                                </span>
+                                <a href='https://www.usanetwork.com/sites/usablog/files/2024/04/wrestlemania-xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WrestleMania 40 Graphics: Loopable Motion Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NjjzI4hjhTM/sddefault.jpg' alt='WrestleMania 40 Graphics: Loopable Motion Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NjjzI4hjhTM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Wrestlemania 40 Logo by themesongswweofficia on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fc0641d-30f6-41ae-bc33-34cae41a2d2a/dfp2buj-c096f904-b211-4949-a38e-a95b8ce9c8da.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmYzA2NDFkLTMwZjYtNDFhZS1iYzMzLTM0Y2FlNDFhMmQyYVwvZGZwMmJ1ai1jMDk2ZjkwNC1iMjExLTQ5NDktYTM4ZS1hOTViOGNlOWM4ZGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4t7R4XKFCsh2KldLATRjJ3UfyW3Wt25yRilRkngsR00' alt='WWE Wrestlemania 40 Logo by themesongswweofficia on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="995">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fc0641d-30f6-41ae-bc33-34cae41a2d2a/dfp2buj-c096f904-b211-4949-a38e-a95b8ce9c8da.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmYzA2NDFkLTMwZjYtNDFhZS1iYzMzLTM0Y2FlNDFhMmQyYVwvZGZwMmJ1ai1jMDk2ZjkwNC1iMjExLTQ5NDktYTM4ZS1hOTViOGNlOWM4ZGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4t7R4XKFCsh2KldLATRjJ3UfyW3Wt25yRilRkngsR00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW WWE Road to WrestleMania 40 wallpaper! - Kupy Wrestling Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.kupywrestlingwallpapers.info/wallpapers/2024/road-to-wrestlemania-40-wallpaper-retina.jpg' alt='NEW WWE Road to WrestleMania 40 wallpaper! - Kupy Wrestling Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kupy Wrestling Wallpapers" />
+                                </span>
+                                <a href='https://www.kupywrestlingwallpapers.info/wallpapers/2024/road-to-wrestlemania-40-wallpaper-retina.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wrestlemania 40 Match Graphic by WWGFX on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08c2d6ad-386a-4ffa-b7ff-1a4b5eccaa4c/dgq2x5l-fca81ab3-171a-4125-ac19-40ee9f4c41ae.png/v1/fill/w_1280,h_720,q_80,strp/custom_wrestlemania_40_match_graphic_by_wwgfx_dgq2x5l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDhjMmQ2YWQtMzg2YS00ZmZhLWI3ZmYtMWE0YjVlY2NhYTRjXC9kZ3EyeDVsLWZjYTgxYWIzLTE3MWEtNDEyNS1hYzE5LTQwZWU5ZjRjNDFhZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._l-duCQIolgzXW8qoekIHfDAM2PTrz7C82bC2WMc25Y' alt='Custom Wrestlemania 40 Match Graphic by WWGFX on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08c2d6ad-386a-4ffa-b7ff-1a4b5eccaa4c/dgq2x5l-fca81ab3-171a-4125-ac19-40ee9f4c41ae.png/v1/fill/w_1280,h_720,q_80,strp/custom_wrestlemania_40_match_graphic_by_wwgfx_dgq2x5l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDhjMmQ2YWQtMzg2YS00ZmZhLWI3ZmYtMWE0YjVlY2NhYTRjXC9kZ3EyeDVsLWZjYTgxYWIzLTE3MWEtNDEyNS1hYzE5LTQwZWU5ZjRjNDFhZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._l-duCQIolgzXW8qoekIHfDAM2PTrz7C82bC2WMc25Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Predicting the WrestleMania 40 card - Cageside Seats">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/eZRgmim-8M6yBCbR2SNA8lPCKfk=/0x0:1470x827/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/72540403/20230721_WM40_16x9__0613f4d63a10d5a379a11f4362a6493f.0.jpg' alt='Predicting the WrestleMania 40 card - Cageside Seats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cageside Seats" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/eZRgmim-8M6yBCbR2SNA8lPCKfk=/0x0:1470x827/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/72540403/20230721_WM40_16x9__0613f4d63a10d5a379a11f4362a6493f.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucio Monreal Rodrigues on X: "WrestleMania 40 Wallpaper (Mobile ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GFGlNdVWUAAp_j9.jpg:large' alt='Lucio Monreal Rodrigues on X: "WrestleMania 40 Wallpaper (Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GFGlNdVWUAAp_j9.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendly reminder.... the only reason the Wrestlemania 40 logos ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qa9fjnvoe9ic1.jpeg' alt='Friendly reminder.... the only reason the Wrestlemania 40 logos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qa9fjnvoe9ic1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WrestleMania 40 logo revealed">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BJgD93Lo9WI/maxresdefault.jpg' alt='WrestleMania 40 logo revealed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BJgD93Lo9WI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

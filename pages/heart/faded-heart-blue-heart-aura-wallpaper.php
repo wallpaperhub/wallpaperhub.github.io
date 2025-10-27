@@ -1,0 +1,129 @@
+<title>Stunning Faded Heart Blue Aura Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover the ethereal beauty of our faded heart blue aura wallpaper. Perfect for enhancing your device’s look, this design blends soft blue hues for a calming effect. Download now to personalize your screen and express your love for peaceful aesthetics!">
+                    <meta name="keywords" content="faded heart blue heart aura wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/faded-heart-blue-heart-aura-wallpaper">
+                            <span itemprop="name">faded heart blue heart aura wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Faded Heart Blue Aura Wallpaper for Your Device</h1>
+                <p>Transform your device’s aesthetic with our faded heart blue heart aura wallpaper. This enchanting design captures the essence of serenity and love, blending soft hues that resonate harmony and tranquility. Perfect for expressing your unique style, this wallpaper adds a touch of elegance and calm to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue heart fading">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/f4/77/3af477dc2ce28fbe859db5e36e79965b.jpg' alt='blue heart fading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/f4/77/3af477dc2ce28fbe859db5e36e79965b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heart Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-heart-aura-aesthetic-xbf5xpipb9ofqpde.jpg' alt='Blue Heart Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-heart-aura-aesthetic-xbf5xpipb9ofqpde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic blue heart aura wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/03/35/fe0335f8005aa73ee1de558d288c6d44.jpg' alt='Aesthetic blue heart aura wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/03/35/fe0335f8005aa73ee1de558d288c6d44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura heart wallpaper light blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/31/86/e1318682c8c369c94667540496d2b119.jpg' alt='aura heart wallpaper light blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/31/86/e1318682c8c369c94667540496d2b119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Shaped Object on Blue Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/07/04/22/07042244c2d36fc134c87894d09f2c9a.jpg' alt='Heart Shaped Object on Blue Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/07/04/22/07042244c2d36fc134c87894d09f2c9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aura Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/66/12/f066127604261dd4e52a84a54bf058fe.jpg' alt='Blue Aura Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/66/12/f066127604261dd4e52a84a54bf058fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Aura Wallpaper Blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/2c/65/932c654cd33391a7dd5a0c290c4f1d99.jpg' alt='Heart Aura Wallpaper Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/2c/65/932c654cd33391a7dd5a0c290c4f1d99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""aura heart art" Poster for Sale by ladybirddesigns">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3973075477.7398/fposter,small,wall_texture,square_product,600x600.jpg' alt='"aura heart art" Poster for Sale by ladybirddesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3973075477.7398/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEART AURA WALLPAPERS - Etsy UK">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24073839/r/il/5f911c/5296133685/il_fullxfull.5296133685_dupw.jpg' alt='HEART AURA WALLPAPERS - Etsy UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24073839/r/il/5f911c/5296133685/il_fullxfull.5296133685_dupw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faded Pink Heart Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/faded-pink-heart-aura-aesthetic-iibiatw0v7w1tpzw.jpg' alt='Faded Pink Heart Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/faded-pink-heart-aura-aesthetic-iibiatw0v7w1tpzw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

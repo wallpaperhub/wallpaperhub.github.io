@@ -1,0 +1,129 @@
+<title>Trendy Pink Collage Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of pink collage wallpaper! Perfect for adding a splash of color and creativity to any room, this wallpaper offers vibrant patterns and designs. Enhance your home décor effortlessly with a stylish and fun approach to wall coverings. Perfect for any space that needs a refresh!">
+                    <meta name="keywords" content="pink collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-collage-wallpaper">
+                            <span itemprop="name">pink collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pink Collage Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with charming pink collage wallpaper! This trendy décor option enhances any room with vibrant colors and fun patterns. Ideal for bedrooms, living rooms, or creative spaces, pink collage wallpaper adds a touch of whimsy and personal style to your surroundings. Make your walls pop with playful designs and soothing hues!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' alt='Light Pink Aesthetic Collage iPhone Wallpaper - Digital Prints - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel pink collage  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/38/a9/0138a9fe4a8a320bc48cf8581ce44ac4.jpg' alt='pastel pink collage  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/38/a9/0138a9fe4a8a320bc48cf8581ce44ac4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Collage With Many Pictures Of Pink Items Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pink-collage-with-many-pictures-of-pink-items-o6f40ogvde2oevge.jpg' alt='Pink Collage With Many Pictures Of Pink Items Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pink-collage-with-many-pictures-of-pink-items-o6f40ogvde2oevge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Pc Pink Collage Kit Digital, Pink Aesthetic Photo Wall Collage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28126769/r/il/041f5e/2957849485/il_570xN.2957849485_9mb2.jpg' alt='80 Pc Pink Collage Kit Digital, Pink Aesthetic Photo Wall Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28126769/r/il/041f5e/2957849485/il_570xN.2957849485_9mb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Beauty Of Pink With This Aesthetic Pink Collage ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-beauty-of-pink-with-this-aesthetic-pink-collage-n2qohpjvofx3amid.jpg' alt='Explore The Beauty Of Pink With This Aesthetic Pink Collage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1429">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-beauty-of-pink-with-this-aesthetic-pink-collage-n2qohpjvofx3amid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Collage Desktop Wallpaper by SerendipityHopeless on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60e03b47-6088-4368-ae65-0d21878d83c2/dh9i7iq-fd1e90e7-e3a1-4a33-bf8e-5b7dcffc892a.png/v1/fill/w_1192,h_670,q_70,strp/aesthetic_pink_collage_desktop_wallpaper_by_serendipityhopeless_dh9i7iq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZTAzYjQ3LTYwODgtNDM2OC1hZTY1LTBkMjE4NzhkODNjMlwvZGg5aTdpcS1mZDFlOTBlNy1lM2ExLTRhMzMtYmY4ZS01YjdkY2ZmYzg5MmEucG5nIiwiaGVpZ2h0IjoiPD03MjAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC82MGUwM2I0Ny02MDg4LTQzNjgtYWU2NS0wZDIxODc4ZDgzYzJcL3NlcmVuZGlwaXR5aG9wZWxlc3MtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.IA6ewXMHXr-e2BZsgCVtLy1z-LA56t3GN01gwLDs49k' alt='Aesthetic Pink Collage Desktop Wallpaper by SerendipityHopeless on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60e03b47-6088-4368-ae65-0d21878d83c2/dh9i7iq-fd1e90e7-e3a1-4a33-bf8e-5b7dcffc892a.png/v1/fill/w_1192,h_670,q_70,strp/aesthetic_pink_collage_desktop_wallpaper_by_serendipityhopeless_dh9i7iq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZTAzYjQ3LTYwODgtNDM2OC1hZTY1LTBkMjE4NzhkODNjMlwvZGg5aTdpcS1mZDFlOTBlNy1lM2ExLTRhMzMtYmY4ZS01YjdkY2ZmYzg5MmEucG5nIiwiaGVpZ2h0IjoiPD03MjAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC82MGUwM2I0Ny02MDg4LTQzNjgtYWU2NS0wZDIxODc4ZDgzYzJcL3NlcmVuZGlwaXR5aG9wZWxlc3MtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.IA6ewXMHXr-e2BZsgCVtLy1z-LA56t3GN01gwLDs49k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-collage-4uf9abv0ek3dp8sv.jpg' alt='100+] Pink Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-collage-4uf9abv0ek3dp8sv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bright and Vibrant Pink Collage Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-collage-desktop-3drgyuwl7lr089m2.jpg' alt='Download Bright and Vibrant Pink Collage Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-collage-desktop-3drgyuwl7lr089m2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink collage">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-collage-removable-wallpaper-in-farmhouse-style-bedroom.jpg' alt='Pink collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-collage-removable-wallpaper-in-farmhouse-style-bedroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light baby pink wallpaper collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/8b/8b/158b8babb351c309cfe17e6f1c1d0fc9.jpg' alt='Light baby pink wallpaper collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/8b/8b/158b8babb351c309cfe17e6f1c1d0fc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

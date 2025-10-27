@@ -1,0 +1,129 @@
+<title>Air Force Football Wallpaper: Capture the Spirit!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="air force football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/air-force-football-wallpaper">
+                            <span itemprop="name">air force football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Air Force Football Wallpaper: Capture the Spirit!</h1>
+                <p>Air Force football wallpaper captures the spirit of fierce competition and dedication of the Air Force Academy's athletic program. Featuring dynamic imagery of players in action, iconic stadium moments, and the majestic academy backdrop, these wallpapers bring the excitement of college football right to your device, inspiring loyal fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force Football wallpaper art    - Air Force Football | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2641033699467504' alt='Air Force Football wallpaper art    - Air Force Football | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2641033699467504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force Football on X: "Wallpaper Wednesday 3rd edition. You're ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DUWQtLkVAAE7xlO.jpg' alt='Air Force Football on X: "Wallpaper Wednesday 3rd edition. You're ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DUWQtLkVAAE7xlO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force Football on X: "   #WallpaperWednesday https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FI7Zr6qUUAcs4C2?format=jpg&name=4096x4096' alt='Air Force Football on X: "   #WallpaperWednesday https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FI7Zr6qUUAcs4C2?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/ed/7a/30ed7a263cbc6a21327b11842847d898.jpg' alt='Air Force'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/ed/7a/30ed7a263cbc6a21327b11842847d898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force Football Wallpaper now available - Air Force Academy ...">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fgoairforcefalcons.com%2Fimages%2F2017%2F6%2F28%2F9864734.jpeg&width=1600' alt='Air Force Football Wallpaper now available - Air Force Academy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Force Academy Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fgoairforcefalcons.com%2Fimages%2F2017%2F6%2F28%2F9864734.jpeg&width=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAFA Wallpaper - Air Force Football">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2009/Aug/31/2000491453/-1/-1/0/090831-F-JZ029-693.JPG' alt='USAFA Wallpaper - Air Force Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Force Medical Service" />
+                                </span>
+                                <a href='https://media.defense.gov/2009/Aug/31/2000491453/-1/-1/0/090831-F-JZ029-693.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force Football on X: "Need a new wallpaper? We have you ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DkrS9TJUcAASQGb.jpg:large' alt='Air Force Football on X: "Need a new wallpaper? We have you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DkrS9TJUcAASQGb.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Force">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/4b/3b/014b3beed5f9029a554e3218ca9f257b.jpg' alt='Air Force'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/4b/3b/014b3beed5f9029a554e3218ca9f257b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have updated your      wallpapers with... - Air Force Football ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2855131061391099' alt='Have updated your      wallpapers with... - Air Force Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2855131061391099' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019 Air Force Football Game Posters :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/e6e8b586602143.Y3JvcCwxMDE5LDc5NywxMTgsMjE2.png' alt='2019 Air Force Football Game Posters :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/e6e8b586602143.Y3JvcCwxMDE5LDc5NywxMTgsMjE2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

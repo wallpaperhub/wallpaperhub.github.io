@@ -1,0 +1,129 @@
+<title>Vibrant Red Design Wallpaper: Transform Your Space!</title>
+                    <meta name="description" content="Discover stylish red design wallpaper that infuses energy and elegance into your home. Explore various patterns and textures that enhance your interior décor and reflect your personality. Perfect for any room, our collection offers a bold statement that's easy to install and inspiring to live with.">
+                    <meta name="keywords" content="red design wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-design-wallpaper">
+                            <span itemprop="name">red design wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Design Wallpaper: Transform Your Space!</h1>
+                <p>Transform your space with stunning red design wallpaper that adds warmth and vibrancy to any room. Whether you prefer bold patterns or subtle textures, red wallpaper can create a striking focal point. Perfect for living rooms, bedrooms, or offices, embrace the passion of red to elevate your décor and express your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multi Color Pattern Red wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/fe/21/98fe21e3bfe8a5022d4f0771714e0e1c.jpg' alt='Multi Color Pattern Red wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/fe/21/98fe21e3bfe8a5022d4f0771714e0e1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red background/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/76/b9/7676b917ee705d4c11bbda3da1794bd7.jpg' alt='Red background/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/76/b9/7676b917ee705d4c11bbda3da1794bd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red design wallpaper sale">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/high-resolution-red-background-1920-x-1080-si5n3wxf2ubkcsss.jpg' alt='Red design wallpaper sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bilumina.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/high-resolution-red-background-1920-x-1080-si5n3wxf2ubkcsss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red design 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/45/76/white-flower-in-red-background-wallpaper-design-vector-30924576.jpg' alt='Red design 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/45/76/white-flower-in-red-background-wallpaper-design-vector-30924576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wallpaper, Pattern, Frame Background Images, Floral Design ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/8a/e8/ed8ae88f42a4c495889cfb4bb8fb6409.jpg' alt='Free Wallpaper, Pattern, Frame Background Images, Floral Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/8a/e8/ed8ae88f42a4c495889cfb4bb8fb6409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pattern Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675855291447-3266ba923327?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGF0dGVybnxlbnwwfHwwfHx8MA%3D%3D' alt='Red Pattern Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675855291447-3266ba923327?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwcGF0dGVybnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Desktop Wallpapers Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-wavy-red-background_52683-74121.jpg' alt='Red Desktop Wallpapers Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-wavy-red-background_52683-74121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red design 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1e/55/9a/1e559ad91912b92089c47f18f9bf7df9.jpg' alt='Red design 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1e/55/9a/1e559ad91912b92089c47f18f9bf7df9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Wallpaper Stock Illustrations – 206,975 Dark Red ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/moody-elegance-dark-red-wallpaper-high-detailed-plain-background-concept-image-features-level-detail-creating-333170203.jpg' alt='Dark Red Wallpaper Stock Illustrations – 206,975 Dark Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/moody-elegance-dark-red-wallpaper-high-detailed-plain-background-concept-image-features-level-detail-creating-333170203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red design 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-background-with-abstract-geometric-shape-overlay-layer-technology-design-your-wallpaper_518299-1312.jpg' alt='Red design 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-background-with-abstract-geometric-shape-overlay-layer-technology-design-your-wallpaper_518299-1312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

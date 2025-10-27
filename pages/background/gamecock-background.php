@@ -1,0 +1,129 @@
+<title>Understanding Gamecock Heritage: History & Breeds</title>
+                    <meta name="description" content="Explore the fascinating background of gamecocks, from their ancient origins to the different breeds. Learn about the cultural significance and the controversial aspects of cockfighting. Discover how these birds have evolved and the unique traits that make each breed special.">
+                    <meta name="keywords" content="gamecock background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gamecock-background">
+                            <span itemprop="name">gamecock background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Gamecock Heritage: History & Breeds</h1>
+                <p>Gamecocks, or fighting cocks, are specially bred birds for the sport of cockfighting. Their history dates back to ancient civilizations, where they were revered for their strength and fighting prowess. Various breeds exist, each with unique characteristics, reflecting regional preferences and breeding techniques. Their culture is rich but controversial, as it raises ethical questions about animal welfare.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina Gamecocks Revolving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81M7J4Wx+jL.png' alt='South Carolina Gamecocks Revolving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81M7J4Wx+jL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 South Carolina Gamecocks wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/South-Carolina-Gamecocks-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' alt='2025 South Carolina Gamecocks wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/South-Carolina-Gamecocks-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamecock Wallpaper For Iphone : HD Wallpapers Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/49/89/c7498904a1151ac407690baabadf5ca2.jpg' alt='Gamecock Wallpaper For Iphone : HD Wallpapers Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/49/89/c7498904a1151ac407690baabadf5ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] South Carolina Gamecocks Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/south-carolina-gamecocks-gr2pnuu4hry6mn9b.jpg' alt='100+] South Carolina Gamecocks Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/south-carolina-gamecocks-gr2pnuu4hry6mn9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 South Carolina Gamecocks wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/South-Carolina-Gamecocks-wallpaper-logo-desktop-NCAA-2024.png' alt='2025 South Carolina Gamecocks wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/South-Carolina-Gamecocks-wallpaper-logo-desktop-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina Gamecocks Wood iPhone 4 Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/bb/0d/91bb0dc18e8c3d5623b31d908123ad3c.jpg' alt='South Carolina Gamecocks Wood iPhone 4 Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/bb/0d/91bb0dc18e8c3d5623b31d908123ad3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/f5/ba/c4f5ba16e22bf25fe585fb9b11e089dd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/f5/ba/c4f5ba16e22bf25fe585fb9b11e089dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of South Carolina - FREE GAMECOCK BACKGROUND by Arieus ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10150490995681802' alt='University of South Carolina - FREE GAMECOCK BACKGROUND by Arieus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10150490995681802' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina Gamecocks "Cock-n-Fire" Official Team Logo Poster - Costacos">
+                                <img itemprop="contentUrl url" src='https://sportsposterwarehouse.com/cdn/shop/products/gamecocks13cos-1_large.jpg?v=1496330173' alt='South Carolina Gamecocks "Cock-n-Fire" Official Team Logo Poster - Costacos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Poster Warehouse" />
+                                </span>
+                                <a href='https://sportsposterwarehouse.com/cdn/shop/products/gamecocks13cos-1_large.jpg?v=1496330173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gamecocks wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/729/194/HD-wallpaper-south-carolina-gamecocks-flag-ncaa-purple-black-metal-background-american-football-team-south-carolina-gamecocks-logo-usa-american-football-golden-logo-south-carolina-gamecocks-thumbnail.jpg' alt='HD gamecocks wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/729/194/HD-wallpaper-south-carolina-gamecocks-flag-ncaa-purple-black-metal-background-american-football-team-south-carolina-gamecocks-logo-usa-american-football-golden-logo-south-carolina-gamecocks-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

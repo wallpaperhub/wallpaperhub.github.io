@@ -1,0 +1,129 @@
+<title>Top Companies Hiring Felons: A Second Chance Guide</title>
+                    <meta name="description" content="Discover top companies that hire felons and offer second chances. Learn about employers like Walmart and Starbucks that support workforce inclusion and diversity. Explore opportunities for a fresh start, proving that skills and determination matter more than past mistakes. Your new career awaits!">
+                    <meta name="keywords" content="companies that hire felons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/companies-that-hire-felons">
+                            <span itemprop="name">companies that hire felons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Companies Hiring Felons: A Second Chance Guide</h1>
+                <p>Many companies actively hire felons, recognizing the importance of second chances. Employers like Walmart, Home Depot, and Starbucks have programs designed to support reentry into the workforce. These organizations understand that skills and dedication outweigh past mistakes, fostering a diverse and inclusive work environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi everyone, currently looking for a felon friendly job for my ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26038954292418528' alt='Hi everyone, currently looking for a felon friendly job for my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26038954292418528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Jobs Hire Convicted Felons | nda.or.ug">
+                                <img itemprop="contentUrl url" src='http://2.bp.blogspot.com/-AKuXzdTvWwY/UImT72pYjDI/AAAAAAAAB9E/7t0LTJ_MLIo/s640/img236+a.jpg' alt='What Jobs Hire Convicted Felons | nda.or.ug'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nda.or.ug" />
+                                </span>
+                                <a href='http://2.bp.blogspot.com/-AKuXzdTvWwY/UImT72pYjDI/AAAAAAAAB9E/7t0LTJ_MLIo/s640/img236+a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Companies that hire felons">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8csfowNjvw/0/image.jpg' alt='Companies that hire felons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C8csfowNjvw/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What jobs are available for convicted felons in Tampa Florida? - Quora">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-fff3197b2a68f6bf76608e9ab612bcff-lq' alt='What jobs are available for convicted felons in Tampa Florida? - Quora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-fff3197b2a68f6bf76608e9ab612bcff-lq' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A list of companies who will hire felons : r/pics">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/PSW9b6bfN5gubpLpzhQIPQoJjmV4qTJKoUv56PVeT8k.jpg?auto=webp&s=cd09231e9bf4d921c19866db46d01fdb8e66e757' alt='A list of companies who will hire felons : r/pics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/PSW9b6bfN5gubpLpzhQIPQoJjmV4qTJKoUv56PVeT8k.jpg?auto=webp&s=cd09231e9bf4d921c19866db46d01fdb8e66e757' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Companies that hire felons. : r/Atlantology">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/companies-that-hire-felons-v0-uwtb221kwspd1.jpeg?auto=webp&s=7ee38d067c7cef64f0cd801c6ae5bc60a1bce8de' alt='Companies that hire felons. : r/Atlantology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/companies-that-hire-felons-v0-uwtb221kwspd1.jpeg?auto=webp&s=7ee38d067c7cef64f0cd801c6ae5bc60a1bce8de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#jobs #felons #convicted #hiring | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' alt='#jobs #felons #convicted #hiring | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jobs That Hire Felons 2024time Line">
+                                <img itemprop="contentUrl url" src='https://tse4.mm.bing.net/th?id=OIP.LrZmaUI7i23bkXi6x_VltwHaJ4&pid=15.1' alt='Jobs That Hire Felons 2024time Line'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Web Dqinstitute" />
+                                </span>
+                                <a href='https://tse4.mm.bing.net/th?id=OIP.LrZmaUI7i23bkXi6x_VltwHaJ4&pid=15.1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Companies That Hire Ex-offenders and Felons by Eric Mayo - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/120920192735-4c56df90e07a4c19b23e6289ebb4a7eb/jpg/page_1_thumb_large.jpg' alt='Companies That Hire Ex-offenders and Felons by Eric Mayo - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/120920192735-4c56df90e07a4c19b23e6289ebb4a7eb/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of Companies Who Hire Felons">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/87/b4/9287b42a454c1a89c780189a6a96dd99.jpg' alt='List of Companies Who Hire Felons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/87/b4/9287b42a454c1a89c780189a6a96dd99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

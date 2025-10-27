@@ -1,0 +1,129 @@
+<title>Maine Background Check Services: Fast, Secure & Reliable</title>
+                    <meta name="description" content="Discover the Maine Background Check Center for efficient and secure background check services. Get reliable information for employment, housing, and licensing needs in Maine. Protect your organization's integrity and ensure safety with our expert solutions.">
+                    <meta name="keywords" content="maine background check center">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maine-background-check-center">
+                            <span itemprop="name">maine background check center</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maine Background Check Services: Fast, Secure & Reliable</h1>
+                <p>The Maine Background Check Center plays a crucial role in ensuring safety and security within the state. It processes background checks for a variety of purposes, including employment, housing, and licensing. By providing accurate and timely information, this center helps organizations make informed decisions while protecting individuals' rights and privacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About / Maine Background Check Center">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d6537c0606be230ef392277a631bbd8b92132d5e20b9ddb278c39c79b4a3a969' alt='About / Maine Background Check Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine.gov" />
+                                </span>
+                                <a href='x-raw-image:///d6537c0606be230ef392277a631bbd8b92132d5e20b9ddb278c39c79b4a3a969' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About / Maine Background Check Center">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d8856cb219712f68ae29e4b7363e1c56eedb47a7b811ae75f58b3102e0b079dc' alt='About / Maine Background Check Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine.gov" />
+                                </span>
+                                <a href='x-raw-image:///d8856cb219712f68ae29e4b7363e1c56eedb47a7b811ae75f58b3102e0b079dc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About / Maine Background Check Center">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1ec94eff06625340c51c73ce534d363b2b1fe39b5c2bf0b87bac6e324e0eda3e' alt='About / Maine Background Check Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine.gov" />
+                                </span>
+                                <a href='x-raw-image:///1ec94eff06625340c51c73ce534d363b2b1fe39b5c2bf0b87bac6e324e0eda3e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maine Background Check Center (MBCC) Waiver Process - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/17437508/102/images/slide_1.jpg' alt='Maine Background Check Center (MBCC) Waiver Process - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/17437508/102/images/slide_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAINE BACKGROUND CHECK CENTER RULE">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1d1731a8e0257c8c1265dad4374240ee343e8cbb759a3fd3326639d080779504' alt='MAINE BACKGROUND CHECK CENTER RULE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="foxrothschild.gjassets.com" />
+                                </span>
+                                <a href='x-raw-image:///1d1731a8e0257c8c1265dad4374240ee343e8cbb759a3fd3326639d080779504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Me">
+                                <img itemprop="contentUrl url" src='https://background-check-me.govbackgroundchecks.com/screenshots/background-check-me/0.jpg' alt='Background Check Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://background-check-me.govbackgroundchecks.com/screenshots/background-check-me/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maine Background Check: State Laws & Screening Options | The ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Maine.png' alt='Maine Background Check: State Laws & Screening Options | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Maine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About / Maine Background Check Center">
+                                <img itemprop="contentUrl url" src='x-raw-image:///a4e540d97d5ed867a340d498d799b0468bf7d570a571b10e3a6dc4872671e7c7' alt='About / Maine Background Check Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine.gov" />
+                                </span>
+                                <a href='x-raw-image:///a4e540d97d5ed867a340d498d799b0468bf7d570a571b10e3a6dc4872671e7c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maine State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Maine.png?width=602&height=409&name=Maine.png' alt='Maine State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Maine.png?width=602&height=409&name=Maine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maine Background Check: State Laws & Screening Options | The ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Maine-2.png' alt='Maine Background Check: State Laws & Screening Options | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Background-Check-Maine-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

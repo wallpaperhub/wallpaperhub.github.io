@@ -1,0 +1,129 @@
+<title>Explore Iconic My Hero Academia Characters</title>
+                    <meta name="description" content="Discover the captivating characters of My Hero Academia! From aspiring heroes to powerful villains, each character adds depth and excitement to this beloved anime series. Dive into their journeys, powers, and relationships to understand what makes them truly heroic. Join the adventure today!">
+                    <meta name="keywords" content="my hero academia characters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/my-hero-academia-characters">
+                            <span itemprop="name">my hero academia characters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Iconic My Hero Academia Characters</h1>
+                <p>My Hero Academia characters are a vibrant blend of unique personalities and incredible abilities. From the determined Izuku Midoriya to the fierce Katsuki Bakugo, each student at U.A. High School brings something special to the story. With their struggles, growth, and friendships, they inspire fans worldwide in their pursuit of heroism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every My Hero Academia Character Explained in 25 Minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qyRB32F1V7E/mqdefault.jpg' alt='Every My Hero Academia Character Explained in 25 Minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qyRB32F1V7E/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of My Hero Academia characters - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/c/cb/Mhacharacters.jpg' alt='List of My Hero Academia characters - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/c/cb/Mhacharacters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What character from class 1A did you think would be more of a main ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kfybplnhn2ia1.jpg' alt='What character from class 1A did you think would be more of a main ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kfybplnhn2ia1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 15 Best My Hero Academia Characters, Ranked">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/t/ign_ap/lists/t/the-15-bes/the-15-best-my-hero-academia-characters-ranked_a1e1.1280.jpg' alt='The 15 Best My Hero Academia Characters, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://sm.ign.com/t/ign_ap/lists/t/the-15-bes/the-15-best-my-hero-academia-characters-ranked_a1e1.1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: 10 Best Characters, Ranked By Bravery">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/03/My-Hero-Academia-Tenya-Iida-Mina-Ashido.jpg' alt='My Hero Academia: 10 Best Characters, Ranked By Bravery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/03/My-Hero-Academia-Tenya-Iida-Mina-Ashido.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Figural Keychain Mystery Pack (1 Random)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/1f5cb3af-3e7e-4d1a-8c5a-45cadc9dae5c.a45cf33d1e84b8d55248f919b6c1796a.jpeg' alt='My Hero Academia Figural Keychain Mystery Pack (1 Random)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2308">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/1f5cb3af-3e7e-4d1a-8c5a-45cadc9dae5c.a45cf33d1e84b8d55248f919b6c1796a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 My Hero Academia Characters Everyone Either Loves Or Hates">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/08/My-Hero-Academia-Bakugo-And-Himiko.jpg' alt='10 My Hero Academia Characters Everyone Either Loves Or Hates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/08/My-Hero-Academia-Bakugo-And-Himiko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: My Hero Academia - Manga Anime TV Show Poster (All Characters)  (Size: 24" x 36") (Poster & Poster Strip Set): Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711C8IHlceL.jpg' alt='Amazon.com: My Hero Academia - Manga Anime TV Show Poster (All Characters)  (Size: 24" x 36") (Poster & Poster Strip Set): Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="797">
+                                <meta itemprop="height" content="1197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711C8IHlceL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My hero academia characters 2025 names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/23/5d/df235df313dfc78547ddcd2076aeb4ca.jpg' alt='My hero academia characters 2025 names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/23/5d/df235df313dfc78547ddcd2076aeb4ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: Class 1-A Sorted Into Their Hogwarts Houses">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2019/08/class-1-a.jpg' alt='My Hero Academia: Class 1-A Sorted Into Their Hogwarts Houses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2019/08/class-1-a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

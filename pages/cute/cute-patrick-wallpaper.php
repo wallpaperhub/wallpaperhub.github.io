@@ -1,0 +1,129 @@
+<title>Cute Patrick Star Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest Patrick Star wallpapers to give your device a playful touch. Perfect for SpongeBob fans, these charming designs are sure to brighten your screen and bring a smile. Download now for a delightful addition to your mobile or desktop background!">
+                    <meta name="keywords" content="cute patrick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-patrick-wallpaper">
+                            <span itemprop="name">cute patrick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Patrick Star Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable Patrick Star wallpapers that add a splash of fun to your screen! These cute designs capture the charm of everyone's favorite pink sea star from SpongeBob SquarePants. Perfect for kids and fans alike, choose from a variety of colorful options to brighten up your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Patrick wallpaper ideas | spongebob wallpaper, cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/33/44/8d/33448dd75241408c55de5ff81da3bcca.jpg' alt='30 Patrick wallpaper ideas | spongebob wallpaper, cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/33/44/8d/33448dd75241408c55de5ff81da3bcca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Patrick Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/patrick-star-ko0pafe6m29b00fb.jpg' alt='300+] Patrick Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/patrick-star-ko0pafe6m29b00fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Aesthetic, cute, fun, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/67/628/HD-wallpaper-patrick-aesthetic-cute-fun.jpg' alt='Patrick Aesthetic, cute, fun, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/67/628/HD-wallpaper-patrick-aesthetic-cute-fun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take A Leap Of Faith With Patrick! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/take-a-leap-of-faith-with-patrick-f1ckywwkrtlu4kdz-2.jpg' alt='Take A Leap Of Faith With Patrick! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/take-a-leap-of-faith-with-patrick-f1ckywwkrtlu4kdz-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/5f/13/125f13d3a4e11a08f9221844add636d4.jpg' alt='Patrick star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/5f/13/125f13d3a4e11a08f9221844add636d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick wallpaper - super cute!!(new movie) : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Nbo1HM7SC4YMxUbRUmV2gqACTtKWWck0fs7Jwlgg-6g.jpg?auto=webp&s=453a0f981dfe60856215414ca4eaae885b877ffa' alt='Patrick wallpaper - super cute!!(new movie) : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1898">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Nbo1HM7SC4YMxUbRUmV2gqACTtKWWck0fs7Jwlgg-6g.jpg?auto=webp&s=453a0f981dfe60856215414ca4eaae885b877ffa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Face Of Patrick Star Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/funny-face-of-patrick-star-6khdslwmxwoaarlz.jpg' alt='Funny Face Of Patrick Star Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/funny-face-of-patrick-star-6khdslwmxwoaarlz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Patrick Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-patrick-gvkea4qivf9xzzn0.jpg' alt='100+] Funny Patrick Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-patrick-gvkea4qivf9xzzn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="patrick wallpaper | Wallpaper iphone cute, Cute cartoon wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/0c/55/bc0c55d1a0ad01e458d472b4827cfe68.jpg' alt='patrick wallpaper | Wallpaper iphone cute, Cute cartoon wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/0c/55/bc0c55d1a0ad01e458d472b4827cfe68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick, aesthetic, cute, green, patric, peach, pink, purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/724/423/HD-wallpaper-patrick-aesthetic-cute-green-patric-peach-pink-purple-spongebob-spray-paint.jpg' alt='Patrick, aesthetic, cute, green, patric, peach, pink, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/724/423/HD-wallpaper-patrick-aesthetic-cute-green-patric-peach-pink-purple-spongebob-spray-paint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mastering the Criminal Background in D&D 5e</title>
+                    <meta name="description" content="Dive into the Criminal Background in D&D 5e! Discover unique skills, traits, and connections that enrich your gameplay and character development while navigating the adventures of a life on the edge. Perfect for players looking to add depth to their characters.">
+                    <meta name="keywords" content="criminal background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-background-5e">
+                            <span itemprop="name">criminal background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering the Criminal Background in D&D 5e</h1>
+                <p>In Dungeons & Dragons 5e, a character’s criminal background offers unique traits and proficiencies. Characters with this background come from a life of underhanded activities, providing them with skills like deception and stealth. They gain access to a network of shady contacts and experience in navigating the underbelly of society, enriching gameplay.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanding 5E D&D Background Characteristics — Criminal – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/04/5E-DD-criminal-background.png?fit=680%2C1000&ssl=1&w=640' alt='Expanding 5E D&D Background Characteristics — Criminal – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/04/5E-DD-criminal-background.png?fit=680%2C1000&ssl=1&w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Criminal Background - Help Action - D&D Tips, Guides ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/07/criminal-background-dnd-1024x715.jpg' alt='Exploring the Criminal Background - Help Action - D&D Tips, Guides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/07/criminal-background-dnd-1024x715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background 5e in D&D | All Characteristics & Spy Specialty">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.net/wp-content/uploads/2020/09/criminal-background-5e.jpg' alt='Criminal Background 5e in D&D | All Characteristics & Spy Specialty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DND 5E Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.net/wp-content/uploads/2020/09/criminal-background-5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal / Spy - Backgrounds - D&D Beyond">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' alt='Criminal / Spy - Backgrounds - D&D Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enforcer (Background) -- A background choice for characters with a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/163oxdt8sdd71.jpg?auto=webp&s=03e5da357788fe9cdfe2da83c1adb3906d376b68' alt='Enforcer (Background) -- A background choice for characters with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/163oxdt8sdd71.jpg?auto=webp&s=03e5da357788fe9cdfe2da83c1adb3906d376b68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Criminal Background - Help Action - D&D Tips, Guides ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/07/crime.png' alt='Exploring the Criminal Background - Help Action - D&D Tips, Guides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/07/crime.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get Background For Any D&D 5e Character – dnd5ebackgrounds">
+                                <img itemprop="contentUrl url" src='https://dnd5ebackgrounds.home.blog/wp-content/uploads/2019/02/screen-shot-2019-02-17-at-11.34.45-am.png?w=640' alt='How To Get Background For Any D&D 5e Character – dnd5ebackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dnd5ebackgrounds" />
+                                </span>
+                                <a href='https://dnd5ebackgrounds.home.blog/wp-content/uploads/2019/02/screen-shot-2019-02-17-at-11.34.45-am.png?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background 5e Guide: Living on the Wrong Side of the Law">
+                                <img itemprop="contentUrl url" src='https://blackcitadelrpg.com/wp-content/uploads/2021/11/Daring-Thief-Criminal-Background-5e.jpg' alt='Criminal Background 5e Guide: Living on the Wrong Side of the Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Citadel RPG" />
+                                </span>
+                                <a href='https://blackcitadelrpg.com/wp-content/uploads/2021/11/Daring-Thief-Criminal-Background-5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Criminal and Spy Background - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2020/02/Webp.net-resizeimage-750x375.png' alt='Exploring the Criminal and Spy Background - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2020/02/Webp.net-resizeimage-750x375.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal | Vyn (5e Campaign Setting) Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/vyn-5e-campaign-setting/images/f/f8/Criminal_Background.jpg/revision/latest?cb=20201124182127' alt='Criminal | Vyn (5e Campaign Setting) Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vyn (5e Campaign Setting) Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/vyn-5e-campaign-setting/images/f/f8/Criminal_Background.jpg/revision/latest?cb=20201124182127' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

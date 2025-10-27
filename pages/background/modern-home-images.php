@@ -1,0 +1,129 @@
+<title>Stunning Modern Home Images for Your Inspiration</title>
+                    <meta name="description" content="Discover a curated selection of modern home images that inspire contemporary living. Explore innovative designs, chic interiors, and striking architecture perfect for your next renovation or new build. Get inspired today!">
+                    <meta name="keywords" content="modern home images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/modern-home-images">
+                            <span itemprop="name">modern home images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Modern Home Images for Your Inspiration</h1>
+                <p>Explore a stunning collection of modern home images that showcase innovative designs, sleek lines, and contemporary aesthetics. From minimalist interiors to striking exteriors, these visuals capture the essence of modern living. Discover inspiring ideas to elevate your own space with fresh perspectives on home architecture and decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step inside an inviting modern home with sophisticated styling in ...">
+                                <img itemprop="contentUrl url" src='https://onekindesign.com/wp-content/uploads/2022/01/Refined-Modern-Home-Design-Frankel-Building-Group-01-1-Kindesign.jpg' alt='Step inside an inviting modern home with sophisticated styling in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Kindesign" />
+                                </span>
+                                <a href='https://onekindesign.com/wp-content/uploads/2022/01/Refined-Modern-Home-Design-Frankel-Building-Group-01-1-Kindesign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Modern Architecture Homes We'd Love to Live in">
+                                <img itemprop="contentUrl url" src='https://www.mydomaine.com/thmb/bepet4VMGUG70sCLFNQRdZm9bbg=/2048x0/filters:no_upscale():strip_icc()/SuCasaDesign-Modern-9335be77ca0446c7883c5cf8d974e47c.jpg' alt='17 Modern Architecture Homes We'd Love to Live in'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyDomaine" />
+                                </span>
+                                <a href='https://www.mydomaine.com/thmb/bepet4VMGUG70sCLFNQRdZm9bbg=/2048x0/filters:no_upscale():strip_icc()/SuCasaDesign-Modern-9335be77ca0446c7883c5cf8d974e47c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Guide to Modern House Design – Post & Porch">
+                                <img itemprop="contentUrl url" src='http://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433' alt='Your Guide to Modern House Design – Post & Porch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Post & Porch" />
+                                </span>
+                                <a href='http://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern vs. Contemporary Home Design In 2025 - brick&batten">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/brickandbatten/images/c_scale,w_464,h_324,dpr_2/f_auto,q_auto/v1641000863/wordpress_assets/22826-ModContemporary-Accents_w-GauntletGray-a-ok/22826-ModContemporary-Accents_w-GauntletGray-a-ok.jpg?_i=AA' alt='Modern vs. Contemporary Home Design In 2025 - brick&batten'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="brick&batten" />
+                                </span>
+                                <a href='https://res.cloudinary.com/brickandbatten/images/c_scale,w_464,h_324,dpr_2/f_auto,q_auto/v1641000863/wordpress_assets/22826-ModContemporary-Accents_w-GauntletGray-a-ok/22826-ModContemporary-Accents_w-GauntletGray-a-ok.jpg?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Modern Exterior Home Ideas You'll Love - March, 2025 | Houzz">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/exteriors/lake-calhoun-organic-modern-john-kraemer-and-sons-img~23f17995077147ca_14-8752-1-10a4541.jpg' alt='75 Modern Exterior Home Ideas You'll Love - March, 2025 | Houzz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/exteriors/lake-calhoun-organic-modern-john-kraemer-and-sons-img~23f17995077147ca_14-8752-1-10a4541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Modern House Interior | AURA Modern Home">
+                                <img itemprop="contentUrl url" src='https://auramodernhome.com/cdn/shop/articles/img-1707349210324.jpg?v=1707349267&width=1100' alt='The Ultimate Guide to Modern House Interior | AURA Modern Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AURA Modern Home" />
+                                </span>
+                                <a href='https://auramodernhome.com/cdn/shop/articles/img-1707349210324.jpg?v=1707349267&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expert Tips for Modern Home Builders">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/s4ybdu2ld1ox/4iGrU7mReGVZB2WV4x0YDF/6d7704ac48417104740061e858447afd/mordern-home.jpeg?w=1382&h=922&fl=progressive&q=70&fm=jpg&bg=transparent' alt='Expert Tips for Modern Home Builders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1382">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HouseIdea" />
+                                </span>
+                                <a href='https://images.ctfassets.net/s4ybdu2ld1ox/4iGrU7mReGVZB2WV4x0YDF/6d7704ac48417104740061e858447afd/mordern-home.jpeg?w=1382&h=922&fl=progressive&q=70&fm=jpg&bg=transparent' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10 Essential Elements of Modern Home Design - Vanguard Studio">
+                                <img itemprop="contentUrl url" src='https://vanguardstudio.com/wp-content/uploads/2023/10/10-Essential-Elements-of-Modern-Home-Design-FEATURE.jpg' alt='The 10 Essential Elements of Modern Home Design - Vanguard Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanguard Studio" />
+                                </span>
+                                <a href='https://vanguardstudio.com/wp-content/uploads/2023/10/10-Essential-Elements-of-Modern-Home-Design-FEATURE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before & After: Sleek Modern Home Interior & Patio - Decorilla ...">
+                                <img itemprop="contentUrl url" src='https://www.decorilla.com/online-decorating/wp-content/uploads/2022/03/Minimalist-modern-home-interior-design-with-a-patio.jpeg' alt='Before & After: Sleek Modern Home Interior & Patio - Decorilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decorilla" />
+                                </span>
+                                <a href='https://www.decorilla.com/online-decorating/wp-content/uploads/2022/03/Minimalist-modern-home-interior-design-with-a-patio.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bauhaus | Modern Homes">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/65a8583b3f2bb32732bff587/63ff3986-3c95-4422-bdaa-6a373b71140d/Custom-Luxury-Home-Dallas.jpg' alt='Bauhaus | Modern Homes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bauhaus.co" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/65a8583b3f2bb32732bff587/63ff3986-3c95-4422-bdaa-6a373b71140d/Custom-Luxury-Home-Dallas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

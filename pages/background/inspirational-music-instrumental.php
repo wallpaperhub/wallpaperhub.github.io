@@ -1,0 +1,129 @@
+<title>Uplifting Instrumental Music for Inspiration</title>
+                    <meta name="description" content="Discover a collection of inspiring instrumental music designed to uplift your spirit and spark creativity. Perfect for studying, relaxation, or motivation, our curated selection offers soothing melodies that enhance focus and emotional well-being. Dive into the world of inspiration today!">
+                    <meta name="keywords" content="inspirational music instrumental">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/inspirational-music-instrumental">
+                            <span itemprop="name">inspirational music instrumental</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uplifting Instrumental Music for Inspiration</h1>
+                <p>Inspirational instrumental music can elevate your mood, boost creativity, and provide a sense of tranquility. Whether it’s soft piano melodies, uplifting orchestral arrangements, or gentle acoustic guitar, these sounds create the perfect backdrop for contemplation or motivation. Let the rhythms inspire you to achieve your dreams.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Music Instrumental | Calming + Relaxing Instrumental Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/T96iWDuubEI/maxresdefault.jpg' alt='Inspirational Music Instrumental | Calming + Relaxing Instrumental Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/T96iWDuubEI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Hour Of Light And Positive Inspirational Music - Uplifting Instrumental  Background Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nyxUr-ijWHo/maxresdefault.jpg' alt='One Hour Of Light And Positive Inspirational Music - Uplifting Instrumental  Background Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nyxUr-ijWHo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motivational Inspiring Pop Instrumental (Royalty Free/Music Licensing)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/50U19lKikXM/maxresdefault.jpg' alt='Motivational Inspiring Pop Instrumental (Royalty Free/Music Licensing)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/50U19lKikXM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to My Inspiration - Inspirational & Motivational Background ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-YwwEIeWckKSp1a3G-iIBOgg-t500x500.jpg' alt='Listen to My Inspiration - Inspirational & Motivational Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-YwwEIeWckKSp1a3G-iIBOgg-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream AShamaluevMusic | Listen to Motivational Music Instrumental ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-yOc2eQOD0bkhTCjN-YnShxA-t500x500.jpg' alt='Stream AShamaluevMusic | Listen to Motivational Music Instrumental ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-yOc2eQOD0bkhTCjN-YnShxA-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Motivational Music Video | Work Background Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nuv1oOgzLKQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBXMt_GDz_N4VtW2aMHv1WlSRgYjg' alt='Inspirational Motivational Music Video | Work Background Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nuv1oOgzLKQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBXMt_GDz_N4VtW2aMHv1WlSRgYjg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World's Most Inspiring & Uplifting Instrumental Music 2 Hours Only Best  Motivational Music Mix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f1310qhmEdo/maxresdefault.jpg' alt='World's Most Inspiring & Uplifting Instrumental Music 2 Hours Only Best  Motivational Music Mix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f1310qhmEdo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Motivational & Inspirational Instrumental Background Music by ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41W-9nTb4nL._UXNaN_FMjpg_QL85_.jpg' alt='Play Motivational & Inspirational Instrumental Background Music by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41W-9nTb4nL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Positive Motivation - Upbeat Inspirational Background Music ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-5QtLVYHxszQ5TbhW-yO0FYw-t500x500.jpg' alt='Stream Positive Motivation - Upbeat Inspirational Background Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-5QtLVYHxszQ5TbhW-yO0FYw-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3-Hours of Inspirational Instrumental Music | Soul-Refreshing Worship  Strings | GiveGlory2Him">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JozKXqzgnSk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4q-fz4zbNiy_maWsRiqpFFQZDRA' alt='3-Hours of Inspirational Instrumental Music | Soul-Refreshing Worship  Strings | GiveGlory2Him'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JozKXqzgnSk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4q-fz4zbNiy_maWsRiqpFFQZDRA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

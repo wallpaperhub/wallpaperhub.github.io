@@ -1,0 +1,129 @@
+<title>Stunning Space Wallpapers for Your Home Decor</title>
+                    <meta name="description" content="Discover the best space wallpaper options that will elevate your home decor. Explore designs featuring galaxies, stars, and celestial bodies that inspire awe. Perfect for creating a dreamy ambiance in any room. Transform your space with captivating cosmic visuals that resonate with your love for the universe!">
+                    <meta name="keywords" content="best space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/best-space-wallpaper">
+                            <span itemprop="name">best space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Wallpapers for Your Home Decor</h1>
+                <p>Transform your space with the best space wallpaper that captures the beauty of the cosmos! From starry skies to vibrant nebulae, these stunning designs bring the universe right into your home. Perfect for bedrooms, living rooms, or even a home office, space-themed wallpapers create an inspiring and dreamy atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Space Wallpapers are the best... Here is a few I like. : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?auto=webp&s=7729ce0fa75865ea3e0a40076360938065072bfe' alt='4K Space Wallpapers are the best... Here is a few I like. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?auto=webp&s=7729ce0fa75865ea3e0a40076360938065072bfe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best space wallpapers, 2025 | BBC Sky at Night Magazine">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2022/02/SpaceExplorers_-95fd220.jpg?webp=1&w=1200' alt='Best space wallpapers, 2025 | BBC Sky at Night Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2022/02/SpaceExplorers_-95fd220.jpg?webp=1&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1100+] Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-sjryfre8k8f6i3ge.jpg' alt='1100+] Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-sjryfre8k8f6i3ge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg' alt='Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3798">
+                                <meta itemprop="height" content="5689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Space/Futuristic wallpapers : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-space-futuristic-wallpapers-v0-kmdpgkblevb81.jpg?width=1920&format=pjpg&auto=webp&s=860b704e746906b52a36badbdf809967c73761c7' alt='More Space/Futuristic wallpapers : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-space-futuristic-wallpapers-v0-kmdpgkblevb81.jpg?width=1920&format=pjpg&auto=webp&s=860b704e746906b52a36badbdf809967c73761c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/e4/d9/afe4d95d0c762b144299f6b35b6bf514.jpg' alt='Cool wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/e4/d9/afe4d95d0c762b144299f6b35b6bf514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3222255/pexels-photo-3222255.jpeg?cs=srgb&dl=pexels-adi-k-182036-3222255.jpg&fm=jpg' alt='Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3152">
+                                <meta itemprop="height" content="4541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3222255/pexels-photo-3222255.jpeg?cs=srgb&dl=pexels-adi-k-182036-3222255.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Best Space iphone wallpaper ideas | space iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7d/5d/7f/7d5d7fce6a5c8965f31a1a38e8947c60.jpg' alt='150 Best Space iphone wallpaper ideas | space iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7d/5d/7f/7d5d7fce6a5c8965f31a1a38e8947c60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I did my best amoledise this 8k space wallpaper [7860x4320] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-rvdhsv80exl81.jpg?width=7860&format=pjpg&auto=webp&s=992c0ed1363d14c50b944c2d47e10d8d905696fa' alt='I did my best amoledise this 8k space wallpaper [7860x4320] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7860">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-rvdhsv80exl81.jpg?width=7860&format=pjpg&auto=webp&s=992c0ed1363d14c50b944c2d47e10d8d905696fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The-best-top-desktop-space-wallpapers-0f-hd-space-wallpape… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7118/7058012481_d2df9da6d1_b.jpg' alt='The-best-top-desktop-space-wallpapers-0f-hd-space-wallpape… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7118/7058012481_d2df9da6d1_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

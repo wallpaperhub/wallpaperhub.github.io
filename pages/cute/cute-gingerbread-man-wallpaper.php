@@ -1,0 +1,129 @@
+<title>Adorable Gingerbread Man Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover cute gingerbread man wallpapers that will add festive cheer to your device! Our delightful designs are perfect for the holiday season and beyond, giving your screens a warm and cheerful touch. Download now for a charming update that will brighten your day!">
+                    <meta name="keywords" content="cute gingerbread man wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-gingerbread-man-wallpaper">
+                            <span itemprop="name">cute gingerbread man wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Gingerbread Man Wallpapers for Your Devices</h1>
+                <p>Transform your device's background with our adorable gingerbread man wallpaper! Perfect for the festive season, these cute designs will bring warmth and joy to your screens. Featuring charming illustrations of gingerbread men in various playful poses, these wallpapers are a delightful way to celebrate the holidays all year round!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingerbread man - Phone wallpaper download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28110616/r/il/d362d0/4369064014/il_570xN.4369064014_fqzn.jpg' alt='Gingerbread man - Phone wallpaper download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28110616/r/il/d362d0/4369064014/il_570xN.4369064014_fqzn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute gingerbread man wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-gingerbread-man-wallpaper_669254-5.jpg?w=360' alt='Premium Vector | Cute gingerbread man wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-gingerbread-man-wallpaper_669254-5.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute gingerbread men, candy cane, christmas , wallpaper pattern ...">
+                                <img itemprop="contentUrl url" src='https://img.recraft.ai/A91unLLrOpyVjHuiLeJhm9RRwnfxFrBP5EhXE-oMfd4/rs:fit:1024:1024:0/q:95/g:no/plain/abs://prod/images/e6e96cc7-0d90-4bc3-8cd4-7da91629afb6@jpg' alt='cute gingerbread men, candy cane, christmas , wallpaper pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recraft" />
+                                </span>
+                                <a href='https://img.recraft.ai/A91unLLrOpyVjHuiLeJhm9RRwnfxFrBP5EhXE-oMfd4/rs:fit:1024:1024:0/q:95/g:no/plain/abs://prod/images/e6e96cc7-0d90-4bc3-8cd4-7da91629afb6@jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingerbread Wallpaper Stock Illustrations – 18,070 Gingerbread ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hand-drawn-seamless-pattern-cookie-cute-gingerbread-repeating-wallpaper-vector-design-christmas-season-128262384.jpg' alt='Gingerbread Wallpaper Stock Illustrations – 18,070 Gingerbread ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hand-drawn-seamless-pattern-cookie-cute-gingerbread-repeating-wallpaper-vector-design-christmas-season-128262384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fa La La Gingerbread Man Phone Wallpaper ~ Pink & Red">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/b1/43/5db143d4cf3ca2b5574a5ec82e07baca.jpg' alt='Fa La La Gingerbread Man Phone Wallpaper ~ Pink & Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/b1/43/5db143d4cf3ca2b5574a5ec82e07baca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingerbread Man Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-christmas-pattern-design_23-2149170978.jpg' alt='Gingerbread Man Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-christmas-pattern-design_23-2149170978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Gingerbread Man Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-christmas-gingerbread-man-pattern-92iy56k1bm25ihoe-3.jpg' alt='Cute Christmas Gingerbread Man Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-christmas-gingerbread-man-pattern-92iy56k1bm25ihoe-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingerbread Man Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9272145/p/f/m/V47TDDX3dJ9cmA3HbZ_zWtftcf0WSMiYS9XJDr6WOhJP-abVGgFDOg/(small%20scale)%20gingerbread%20man%20toss%20on%20pink%20-%20cute%20watercolor%20christmas%20cookies%20-%20LAD19BS.jpg' alt='Gingerbread Man Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9272145/p/f/m/V47TDDX3dJ9cmA3HbZ_zWtftcf0WSMiYS9XJDr6WOhJP-abVGgFDOg/(small%20scale)%20gingerbread%20man%20toss%20on%20pink%20-%20cute%20watercolor%20christmas%20cookies%20-%20LAD19BS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingerbread Man Wallpaper Stock Illustrations – 4,169 Gingerbread ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gingerbread-man-seamless-pattern-cute-vector-background-new-year-s-day-christmas-winter-holiday-cooking-eve-food-61229872.jpg' alt='Gingerbread Man Wallpaper Stock Illustrations – 4,169 Gingerbread ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gingerbread-man-seamless-pattern-cute-vector-background-new-year-s-day-christmas-winter-holiday-cooking-eve-food-61229872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute #gingerbread #wallpaper #iphone #android #christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/83/7b/6f837b7cf7816729a3e84cdb15c804fd.jpg' alt='cute #gingerbread #wallpaper #iphone #android #christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/83/7b/6f837b7cf7816729a3e84cdb15c804fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

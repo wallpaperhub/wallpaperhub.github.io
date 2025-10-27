@@ -1,0 +1,129 @@
+<title>Transform Your Space with Farmhouse Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of farmhouse wallpaper! Perfect for adding a rustic touch to any room, our collection features stunning patterns and easy application. Elevate your home decor effortlessly and enjoy a cozy, inviting atmosphere today!">
+                    <meta name="keywords" content="farmhouse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/farmhouse-wallpaper">
+                            <span itemprop="name">farmhouse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Farmhouse Wallpaper</h1>
+                <p>Farmhouse wallpaper adds warmth and charm to any room, evoking a cozy, rustic feel. With patterns ranging from floral prints to wood paneling, it perfectly complements modern or vintage decor. Easy to apply and remove, farmhouse wallpaper transforms spaces while reflecting your personal style. Ideal for living rooms, kitchens, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HueBurst 17.3"x236" Black and White Floral Wallpaper Farmhouse Wallpaper  Leaf Spike Wheat Meadow Peel and Stick Wallpaper Country Wildflower  Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81X3ufKNfVL.jpg' alt='HueBurst 17.3"x236" Black and White Floral Wallpaper Farmhouse Wallpaper  Leaf Spike Wheat Meadow Peel and Stick Wallpaper Country Wildflower  Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81X3ufKNfVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Daisy Farmhouse Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3442">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696733191_c8kx.jpg' alt='Golden Daisy Farmhouse Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3442'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696733191_c8kx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Wallpaper, Farm Animals Wall Paper, Removable Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20454595/r/il/12e193/3154373889/il_570xN.3154373889_2zce.jpg' alt='Farmhouse Wallpaper, Farm Animals Wall Paper, Removable Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20454595/r/il/12e193/3154373889/il_570xN.3154373889_2zce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Basket Weave Peel & Stick Wallpaper | Shop Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_basic-basket-weave_main-view.jpg' alt='Basic Basket Weave Peel & Stick Wallpaper | Shop Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_modern-farmhouse-wallpaper_basic-basket-weave_main-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' alt='Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Plaid Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/FH4016_YWDD73SimplyFarmhousePlaid_ORGex_c594fcd9-271c-4c02-aad9-848bf3ce30a2.jpg?v=1703788621&width=800' alt='Farmhouse Plaid Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/FH4016_YWDD73SimplyFarmhousePlaid_ORGex_c594fcd9-271c-4c02-aad9-848bf3ce30a2.jpg?v=1703788621&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3115-24472 - Farmhouse Wallpaper-Garland Block Tulip">
+                                <img itemprop="contentUrl url" src='https://wallpaperthehome.com/17609-superlarge_default/3115-24472-farmhouse-wallpaper-garland-block-tulip.jpg' alt='3115-24472 - Farmhouse Wallpaper-Garland Block Tulip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper The Home" />
+                                </span>
+                                <a href='https://wallpaperthehome.com/17609-superlarge_default/3115-24472-farmhouse-wallpaper-garland-block-tulip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Blossom">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0609_1s_Gray-and-teal-floral-farmhouse-rustic-pattern-wallpaper-Victorian-Blossom_Repeating-Pattern-Sample-1_fd062ced-6459-41fb-9ab0-241a7df3169d.jpg?v=1734715578' alt='Victorian Blossom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0609_1s_Gray-and-teal-floral-farmhouse-rustic-pattern-wallpaper-Victorian-Blossom_Repeating-Pattern-Sample-1_fd062ced-6459-41fb-9ab0-241a7df3169d.jpg?v=1734715578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FH4026 Simply Farmhouse Wildflower Sprigs Wallpaper - Black ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/FH4026-simply-farmhouse-Wildflower-Sprigs-wallpaper.jpg?v=1583461416&width=1946' alt='FH4026 Simply Farmhouse Wildflower Sprigs Wallpaper - Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/FH4026-simply-farmhouse-Wildflower-Sprigs-wallpaper.jpg?v=1583461416&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ana (Tan) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/AnaTanWallpaperBohoFloralPrint.png?v=1714517905&width=2048' alt='Ana (Tan) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/AnaTanWallpaperBohoFloralPrint.png?v=1714517905&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

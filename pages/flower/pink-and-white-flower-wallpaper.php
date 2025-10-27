@@ -1,0 +1,129 @@
+<title>Pink and White Flower Wallpaper: A Floral Touch for Your Home</title>
+                    <meta name="description" content="Discover the beauty of pink and white flower wallpaper. Perfect for brightening up any space, this floral design adds a fresh, elegant touch to your decor. Explore a variety of styles that will elevate your home aesthetics in no time. Ideal for all rooms!">
+                    <meta name="keywords" content="pink and white flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/pink-and-white-flower-wallpaper">
+                            <span itemprop="name">pink and white flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink and White Flower Wallpaper: A Floral Touch for Your Home</h1>
+                <p>Transform your space with pink and white flower wallpaper, a perfect blend of elegance and charm. Ideal for any room, this wallpaper creates a soft, inviting atmosphere while adding a touch of nature. Versatile and stylish, it complements various decor styles, making it a great choice for refreshing your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Secret Garden Off White and Pink Delicate Flower Trail Non-Woven  Non-Pasted Wallpaper Roll (Covers 57.75 sq.ft.) G78484">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/622a703f-4fb4-44df-bd45-cc0a652f82e7/svn/wallpaper-rolls-g78484-64_600.jpg' alt='Unbranded Secret Garden Off White and Pink Delicate Flower Trail Non-Woven  Non-Pasted Wallpaper Roll (Covers 57.75 sq.ft.) G78484'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/622a703f-4fb4-44df-bd45-cc0a652f82e7/svn/wallpaper-rolls-g78484-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper AS Creation Textured Vinyl White Rose Floral Pink Grey">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/blQAAOSwqwJhYFy0/s-l1200.jpg' alt='Flower Wallpaper AS Creation Textured Vinyl White Rose Floral Pink Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/blQAAOSwqwJhYFy0/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick, Large White & Pink Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81EIbljqehL._AC_UF350,350_QL80_.jpg' alt='Floral Wallpaper Peel and Stick, Large White & Pink Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81EIbljqehL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick, Large White & Pink Flowers Contact Paper  17.5" x 393.7", Modern Peony Wall Mural Self Adhesive Removable Waterproof  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Ne9dGyZyL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick, Large White & Pink Flowers Contact Paper  17.5" x 393.7", Modern Peony Wall Mural Self Adhesive Removable Waterproof  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Ne9dGyZyL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and white flowers on white textile photo – Free Flower Image ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1616879577377-ca82803b8c8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Pink and white flowers on white textile photo – Free Flower Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1616879577377-ca82803b8c8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Peony Floral Wallpaper, Blush Rose Wallpaper Mural, Romantic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19529219/r/il/586f98/4879463218/il_570xN.4879463218_dimq.jpg' alt='Pink Peony Floral Wallpaper, Blush Rose Wallpaper Mural, Romantic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19529219/r/il/586f98/4879463218/il_570xN.4879463218_dimq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Print Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-2_1100x.jpg?v=1562056788' alt='Pink Floral Print Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Boho-girl-3-flowers-2_1100x.jpg?v=1562056788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Flower White Flower Nature Flower HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/749/thumb-1920-749921.jpg' alt='Download Pink Flower White Flower Nature Flower HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/749/thumb-1920-749921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gypsophila Pink Blush - Pink and White flower photography by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/ec/73/39ec735e12e4e7488a7b73609e5d7fa9.jpg' alt='Gypsophila Pink Blush - Pink and White flower photography by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/ec/73/39ec735e12e4e7488a7b73609e5d7fa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

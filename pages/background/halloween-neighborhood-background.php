@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween: Transform Your Neighborhood</title>
+                    <meta name="description" content="Dive into the magic of Halloween in your neighborhood! Discover how decorations, costumes, and community spirit create a thrilling experience for families and friends. Get tips for making the most of this festive season and transforming your surroundings into a haunted haven.">
+                    <meta name="keywords" content="halloween neighborhood background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-neighborhood-background">
+                            <span itemprop="name">halloween neighborhood background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween: Transform Your Neighborhood</h1>
+                <p>Halloween transforms neighborhoods into spooky wonderlands, with jack-o'-lanterns illuminating doorsteps and cobwebs draping trees. Kids dressed as ghouls and superheroes roam the streets, collecting candy. Homes adorned with skeletons, ghosts, and eerie lights create a festive spirit, while haunted house attractions add a thrilling scare.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="520+ Halloween Neighborhood Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1408663801/vector/halloween-night-background-with-old-house-midnight-street-with-halloween-decorations-and-moon.jpg?s=612x612&w=0&k=20&c=CIQKQEO0B4tPadq-80mmRpArn0RjXyndAlKJLCZG6Yg=' alt='520+ Halloween Neighborhood Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1408663801/vector/halloween-night-background-with-old-house-midnight-street-with-halloween-decorations-and-moon.jpg?s=612x612&w=0&k=20&c=CIQKQEO0B4tPadq-80mmRpArn0RjXyndAlKJLCZG6Yg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,700+ Halloween Neighborhood Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/182900794/photo/halloween-in-boston.jpg?s=612x612&w=0&k=20&c=ojFHUa6jeJXEKYgDWWQ1Ambr4EQsJj5F7gRCQlo6ZJk=' alt='4,700+ Halloween Neighborhood Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/182900794/photo/halloween-in-boston.jpg?s=612x612&w=0&k=20&c=ojFHUa6jeJXEKYgDWWQ1Ambr4EQsJj5F7gRCQlo6ZJk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have fun — Here's the entire neighborhood with Halloween...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2a2d55819b704d3b0876171a531e83ac/5677d8019ce6fc7a-66/s1280x1920/d2ab104f161d11582f5fc9bc5d56e1ab06b369af.png' alt='Have fun — Here's the entire neighborhood with Halloween...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@gb-patch on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2a2d55819b704d3b0876171a531e83ac/5677d8019ce6fc7a-66/s1280x1920/d2ab104f161d11582f5fc9bc5d56e1ab06b369af.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween neighborhood Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st5.depositphotos.com/68725994/76272/v/450/depositphotos_762729170-stock-illustration-dark-blue-purple-night-city.jpg' alt='Halloween neighborhood Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st5.depositphotos.com/68725994/76272/v/450/depositphotos_762729170-stock-illustration-dark-blue-purple-night-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spook Your Neighborhood With These Outdoor Halloween Decorations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8f/73/74/8f7374702e625787a223d2fa9fea405e.jpg' alt='Spook Your Neighborhood With These Outdoor Halloween Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8f/73/74/8f7374702e625787a223d2fa9fea405e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween neighborhood Stock Photos, Royalty Free Halloween ...">
+                                <img itemprop="contentUrl url" src='https://st5.depositphotos.com/31111340/64770/i/450/depositphotos_647709130-stock-illustration-concept-art-scary-night-halloween.jpg' alt='Halloween neighborhood Stock Photos, Royalty Free Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st5.depositphotos.com/31111340/64770/i/450/depositphotos_647709130-stock-illustration-concept-art-scary-night-halloween.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neighborhood Scary Stock Illustrations – 552 Neighborhood Scary ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/whimsical-vibrant-illustration-neighborhood-fully-decked-out-halloween-spooky-halloween-neighborhood-illustration-331331208.jpg' alt='Neighborhood Scary Stock Illustrations – 552 Neighborhood Scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/whimsical-vibrant-illustration-neighborhood-fully-decked-out-halloween-spooky-halloween-neighborhood-illustration-331331208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween season scene with kids in neighborhood Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/12/72/halloween-season-scene-with-kids-in-neighborhood-vector-27151272.jpg' alt='Halloween season scene with kids in neighborhood Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/12/72/halloween-season-scene-with-kids-in-neighborhood-vector-27151272.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Houses Decorated For Halloween, Front View With ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/houses-decorated-halloween-front-view-with-different-pumpkins_48369-19166.jpg' alt='Premium Vector | Houses Decorated For Halloween, Front View With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/houses-decorated-halloween-front-view-with-different-pumpkins_48369-19166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Halloween Street - HD Wallpaper by Eric Dowdle">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/877/877482.jpg' alt='Colorful Halloween Street - HD Wallpaper by Eric Dowdle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/877/877482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

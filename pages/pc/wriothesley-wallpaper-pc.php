@@ -1,0 +1,129 @@
+<title>Stunning Wriothesley Wallpapers for PC: Download Now!</title>
+                    <meta name="description" content="Discover the best Wriothesley wallpapers for your PC! Browse our exclusive collection of high-quality images that showcase this beloved character in various styles. Perfect for personalizing your desktop and impressing fellow fans! Download your favorites today for a fresh new look!">
+                    <meta name="keywords" content="wriothesley wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/wriothesley-wallpaper-pc">
+                            <span itemprop="name">wriothesley wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wriothesley Wallpapers for PC: Download Now!</h1>
+                <p>Enhance your PC with stunning Wriothesley wallpaper! Dive into the captivating world of this beloved character with high-quality, vibrant designs that bring life to your desktop. Choose from a variety of styles, from dynamic action scenes to serene poses, perfect for any fan. Transform your workspace today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Wriothesley HD Wallpaper by Hollyyn">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/135/1354329.jpeg' alt='Genshin Impact Wriothesley HD Wallpaper by Hollyyn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/135/1354329.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Wriothesley wallpaper from the "Cogs in the Machine" website">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/animated-wriothesley-wallpaper-from-the-cogs-in-the-machine-v0-6i7Y0QfBTp0VInrtn_hGz6u56kinNZaaRDdn4yqCGBI.png?format=pjpg&auto=webp&s=69b4046070e087d060274151b20b1b0d2e422a65' alt='Animated Wriothesley wallpaper from the "Cogs in the Machine" website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/animated-wriothesley-wallpaper-from-the-cogs-in-the-machine-v0-6i7Y0QfBTp0VInrtn_hGz6u56kinNZaaRDdn4yqCGBI.png?format=pjpg&auto=webp&s=69b4046070e087d060274151b20b1b0d2e422a65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wriothesley Wallpaper 4K, Genshin Impact, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/wriothesley-genshin-2880x1800-19470.jpg' alt='Wriothesley Wallpaper 4K, Genshin Impact, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/wriothesley-genshin-2880x1800-19470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Wriothesley HD Wallpaper – Intense Moonlit Vanguard ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/135/1354324.jpeg' alt='Genshin Impact Wriothesley HD Wallpaper – Intense Moonlit Vanguard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/135/1354324.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wriothesley 4K Ultra HD Wallpaper - Genshin Impact by アナ">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/133/1337025.jpeg' alt='Wriothesley 4K Ultra HD Wallpaper - Genshin Impact by アナ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5600">
+                                <meta itemprop="height" content="2515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/133/1337025.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   on X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/cb/0a/d0cb0a57bdaf6105f155d1d1a7452958.jpg' alt='   on X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/cb/0a/d0cb0a57bdaf6105f155d1d1a7452958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wriothesley [Genshin Impact] by Black-CheshireCat on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed948751-21eb-4477-b15f-df19a1bf072f/dg99sez-3ed963ef-8d96-4448-8550-314b9d6c89a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkOTQ4NzUxLTIxZWItNDQ3Ny1iMTVmLWRmMTlhMWJmMDcyZlwvZGc5OXNlei0zZWQ5NjNlZi04ZDk2LTQ0NDgtODU1MC0zMTRiOWQ2Yzg5YTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VFSp9dw0HPKW5i9H38ftRN_eSQBCjaFm0C2UZBk4hFk' alt='Wriothesley [Genshin Impact] by Black-CheshireCat on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed948751-21eb-4477-b15f-df19a1bf072f/dg99sez-3ed963ef-8d96-4448-8550-314b9d6c89a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkOTQ4NzUxLTIxZWItNDQ3Ny1iMTVmLWRmMTlhMWJmMDcyZlwvZGc5OXNlei0zZWQ5NjNlZi04ZDk2LTQ0NDgtODU1MC0zMTRiOWQ2Yzg5YTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VFSp9dw0HPKW5i9H38ftRN_eSQBCjaFm0C2UZBk4hFk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wriothesley Genshin Impact Wallpaper 4K HD PC #2471m">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/wriothesley-genshin-impact-art-247@1@m-pc-4k.jpg' alt='Wriothesley Genshin Impact Wallpaper 4K HD PC #2471m'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/wriothesley-genshin-impact-art-247@1@m-pc-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wriothesley 4K Ultra HD Wallpaper - Genshin Impact by ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/133/1337227.jpeg' alt='Download Wriothesley 4K Ultra HD Wallpaper - Genshin Impact by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/133/1337227.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wriothesley Digital Genshin Impact Wallpaper, HD Games 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/4k-wriothesley-digital-genshin-impact_bmdoa2WUmZqaraWkpJRobWllrWdma2U.jpg' alt='4K Wriothesley Digital Genshin Impact Wallpaper, HD Games 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/4k-wriothesley-digital-genshin-impact_bmdoa2WUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Heavenly Angel Wings: A Symbol of Divine Love</title>
+                    <meta name="description" content="Explore the beauty and symbolism of angel wings in heaven. Discover their significance as a representation of love, protection, and hope in the spiritual realm. Find out how these wings connect us to the divine and inspire tranquility in our lives.">
+                    <meta name="keywords" content="angel wings in heaven">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/angel-wings-in-heaven">
+                            <span itemprop="name">angel wings in heaven</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heavenly Angel Wings: A Symbol of Divine Love</h1>
+                <p>Angel wings in heaven symbolize purity, love, and protection. They represent the ethereal beauty of angels, who watch over us and guide our souls. With their majestic presence, these wings remind us of hope and the spiritual connection we share with the universe. In heaven, they flutter gracefully, enveloping us in divine light and serenity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory PNG, Memorial Heaven Background, Stairs to Heaven ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26818713/r/il/b3e45d/4698479060/il_fullxfull.4698479060_7zgk.jpg' alt='In Loving Memory PNG, Memorial Heaven Background, Stairs to Heaven ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2085">
+                                <meta itemprop="height" content="2085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26818713/r/il/b3e45d/4698479060/il_fullxfull.4698479060_7zgk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL Backdrop JPG Photo Angel Wings Heaven In Memoriam Halo Digital  Download Photoshop Composite (Photo Download Only)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5854346/r/il/3a68c4/3977638604/il_fullxfull.3977638604_pciq.jpg' alt='DIGITAL Backdrop JPG Photo Angel Wings Heaven In Memoriam Halo Digital  Download Photoshop Composite (Photo Download Only)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5854346/r/il/3a68c4/3977638604/il_fullxfull.3977638604_pciq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 5x4ft Fabric Angel Wings Photography Backdrop White  Angel Feather Wings Heaven Holy Light Blue Background Christian Jesus  Newborn ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61V-wxkSiRL.jpg' alt='Amazon.com : BELECO 5x4ft Fabric Angel Wings Photography Backdrop White  Angel Feather Wings Heaven Holy Light Blue Background Christian Jesus  Newborn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61V-wxkSiRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DORCEV 7x7ft Heaven Angel Wing Backdrop dor Baby Shower  Photography Background Stairway to Heaven Dark Blue White Cloud Sky Lord  Prayer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/514b4ba-d0L.jpg' alt='Amazon.com : DORCEV 7x7ft Heaven Angel Wing Backdrop dor Baby Shower  Photography Background Stairway to Heaven Dark Blue White Cloud Sky Lord  Prayer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/514b4ba-d0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stairway To Heaven - Angel Wings Welcome to Heaven | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4442734233.3156/st,small,845x845-pad,1000x1000,f8f8f8.jpg' alt='Stairway To Heaven - Angel Wings Welcome to Heaven | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4442734233.3156/st,small,845x845-pad,1000x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heaven Angel Images – Browse 185,092 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/97/91/61/360_F_97916156_fAdNQt9MzyXIFjPnzRZQwrqLIfsSYP53.jpg' alt='Heaven Angel Images – Browse 185,092 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/97/91/61/360_F_97916156_fAdNQt9MzyXIFjPnzRZQwrqLIfsSYP53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lisa's Angel Wings in Heaven: Custom Lyrics & Songwriting ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c016541f2e6b1017a7da8c3/e3328826-95be-4155-b05f-e96ef7140e06/Lisa%27s+Angel+Wings+In+Heaven_Site.png' alt='Lisa's Angel Wings in Heaven: Custom Lyrics & Songwriting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YourSongmaker" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c016541f2e6b1017a7da8c3/e3328826-95be-4155-b05f-e96ef7140e06/Lisa%27s+Angel+Wings+In+Heaven_Site.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8x12ft Heaven Angel Wings Backdrop for Baby Shower Dove Holy Light Lord  Prayer Stairway to Heaven Photography Background for Easter Church Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61D5Ks3eUlL._AC_UF894,1000_QL80_.jpg' alt='8x12ft Heaven Angel Wings Backdrop for Baby Shower Dove Holy Light Lord  Prayer Stairway to Heaven Photography Background for Easter Church Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61D5Ks3eUlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel wings on heavenly Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/89/89/angel-wings-on-heavenly-vector-1558989.jpg' alt='Angel wings on heavenly Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/89/89/angel-wings-on-heavenly-vector-1558989.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,979 Angel Wings Heaven Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/sky-during-sunset-large-angelic-600nw-2515733509.jpg' alt='72,979 Angel Wings Heaven Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/sky-during-sunset-large-angelic-600nw-2515733509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Galactic Glitter Wallpaper for a Cosmic Touch</title>
+                    <meta name="description" content="Elevate your decor with galaxy glitter wallpaper! This whimsical design adds a sparkling cosmic vibe to any room, perfect for lovers of the universe. Create an enchanting atmosphere and let your walls shine with stellar beauty! Ideal for bedrooms and creative workspace. Explore now!">
+                    <meta name="keywords" content="galaxy glitter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-glitter-wallpaper">
+                            <span itemprop="name">galaxy glitter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galactic Glitter Wallpaper for a Cosmic Touch</h1>
+                <p>Transform your space with stunning galaxy glitter wallpaper! This eye-catching design brings the cosmic beauty of the universe indoors, adding sparkle and a unique flair to any room. Perfect for bedrooms, living areas, or creative spaces, galaxy glitter wallpaper ignites imagination and inspires wonder, making every glance a celestial experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter galaxy wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/22/bb/7922bb1b1814172297bc2cfb21e12ff9.jpg' alt='Glitter galaxy wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/22/bb/7922bb1b1814172297bc2cfb21e12ff9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dive into a Glitter Galaxy of Colors Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glitter-galaxy-9wvao8zparc7xahb.jpg' alt='Download Dive into a Glitter Galaxy of Colors Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glitter-galaxy-9wvao8zparc7xahb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Glitter" Images – Browse 46 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/96/53/22/1000_F_596532225_rghkMDPmHCOV3ph4HqNQ01f3UwEGWxjd.jpg' alt='Galaxy Glitter" Images – Browse 46 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/96/53/22/1000_F_596532225_rghkMDPmHCOV3ph4HqNQ01f3UwEGWxjd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2xhdXJhc3RlZmFubzI2Nl9yZXRyb19mdXR1cmlzdGljX3NwYWNlX3dhbGxwYXBlci1fNGtfdmludGFnZV9iYV9hYjkwMzQ1Ni0wZDk5LTQxM2EtYTM1Yi01ZDI3ZWNhNmY5ZDJfMS5qcGc.jpg' alt='Glitter Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL2xhdXJhc3RlZmFubzI2Nl9yZXRyb19mdXR1cmlzdGljX3NwYWNlX3dhbGxwYXBlci1fNGtfdmludGFnZV9iYV9hYjkwMzQ1Ni0wZDk5LTQxM2EtYTM1Yi01ZDI3ZWNhNmY5ZDJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "An Out-of-this-World Experience in the Glitter Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glitter-galaxy-79jl3ogsbgtrfryx.jpg' alt='Download "An Out-of-this-World Experience in the Glitter Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glitter-galaxy-79jl3ogsbgtrfryx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD glitter galaxy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/823/HD-wallpaper-universe-unicorn-galaxy-girly-glitter-pink-pretty-sparkle-thumbnail.jpg' alt='HD glitter galaxy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/823/HD-wallpaper-universe-unicorn-galaxy-girly-glitter-pink-pretty-sparkle-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/63/11/1763113d7b2f607bbb82e8d9c9ad2206.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/63/11/1763113d7b2f607bbb82e8d9c9ad2206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Galaxy, glitter, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/163/37/HD-wallpaper-magical-galaxy-glitter-purple.jpg' alt='Magical Galaxy, glitter, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/163/37/HD-wallpaper-magical-galaxy-glitter-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Glitter Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/glitter-galaxy-8bsf644d6tpmfln3.jpg' alt='100+] Glitter Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/glitter-galaxy-8bsf644d6tpmfln3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Glowing Light Glitter Background Galaxy Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/680326417/display_1500/stock-photo-rainbow-glowing-light-glitter-background-galaxy-magic-lights-background-star-burst-with-sparkles-680326417.jpg' alt='Rainbow Glowing Light Glitter Background Galaxy Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/680326417/display_1500/stock-photo-rainbow-glowing-light-glitter-background-galaxy-magic-lights-background-star-burst-with-sparkles-680326417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Trippy Painting Ideas: Unleash Your Creativity</title>
+                    <meta name="description" content="Dive into a realm of creativity with trippy painting ideas! Discover unique patterns, vibrant colors, and surreal landscapes that stimulate the imagination. Perfect for artists seeking inspiration to create mesmerizing and eye-catching art. Explore the limitless possibilities today!">
+                    <meta name="keywords" content="trippy painting ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trippy-painting-ideas">
+                            <span itemprop="name">trippy painting ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Painting Ideas: Unleash Your Creativity</h1>
+                <p>Explore the vibrant world of trippy painting ideas! Start with abstract swirls of color that evoke emotions, or paint surreal landscapes featuring unusual creatures. Experiment with optical illusions and mind-bending forms that challenge perceptions. Get inspired; let your imagination run wild on canvas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Trippy Painting IDEAS | trippy painting, hippie painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/bc/8e/79bc8ee7003a067634acfaa241180ae4.jpg' alt='150 Trippy Painting IDEAS | trippy painting, hippie painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/bc/8e/79bc8ee7003a067634acfaa241180ae4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Trippy Painting IDEAS | trippy painting, hippie painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/92/e0/c4/92e0c4c2955dae2f8f1ab4378a0b8d50.jpg' alt='150 Trippy Painting IDEAS | trippy painting, hippie painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/92/e0/c4/92e0c4c2955dae2f8f1ab4378a0b8d50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Trippy Painting IDEAS | trippy painting, hippie painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/11/7b/56/117b5650b7e7447c5fb07494993b604c.jpg' alt='150 Trippy Painting IDEAS | trippy painting, hippie painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/11/7b/56/117b5650b7e7447c5fb07494993b604c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Acrylic Painting - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50218275/r/il/fc19e8/5778401972/il_fullxfull.5778401972_kgqq.jpg' alt='Trippy Acrylic Painting - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50218275/r/il/fc19e8/5778401972/il_fullxfull.5778401972_kgqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Trippy Painting IDEAS | trippy painting, hippie painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f4/ca/34/f4ca34f198eb0ee90bcc861711ab5974.jpg' alt='150 Trippy Painting IDEAS | trippy painting, hippie painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f4/ca/34/f4ca34f198eb0ee90bcc861711ab5974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All in the mind ~ Original acrylic painting psychedelic trippy pop art 5x7">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37070678/r/il/b17237/4400002559/il_fullxfull.4400002559_t42k.jpg' alt='All in the mind ~ Original acrylic painting psychedelic trippy pop art 5x7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2244">
+                                <meta itemprop="height" content="2992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37070678/r/il/b17237/4400002559/il_fullxfull.4400002559_t42k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Trippy Canvas Painting Ideas for Artists">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6725089303766076677&location=0&aid=1988' alt='Creative Trippy Canvas Painting Ideas for Artists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6725089303766076677&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Art Tutorial | Trippy Triangle Painting Tutorial | Easy Painting For  Beginners | Trippy Art">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tRUCu0cAe-Q/maxresdefault.jpg' alt='Trippy Art Tutorial | Trippy Triangle Painting Tutorial | Easy Painting For  Beginners | Trippy Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tRUCu0cAe-Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Trippy Wall Painting Ideas | Vondy">
+                                <img itemprop="contentUrl url" src='https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/RJZjqiJSR6Jwb7FByLjOnswEqlTTnBVVTg5e.png' alt='Best Trippy Wall Painting Ideas | Vondy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vondy" />
+                                </span>
+                                <a href='https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/RJZjqiJSR6Jwb7FByLjOnswEqlTTnBVVTg5e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO PAINT A TRIPPY PAINTING - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uxi5s4DdNEI/sddefault.jpg' alt='HOW TO PAINT A TRIPPY PAINTING - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uxi5s4DdNEI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

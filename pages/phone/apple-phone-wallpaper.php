@@ -1,0 +1,129 @@
+<title>Stunning Apple Phone Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover the ultimate selection of Apple phone wallpapers! Our curated gallery offers high-resolution images in various styles, perfect for personalizing your device. Find the perfect backdrop that showcases your unique taste and makes your iPhone stand out. Explore now!">
+                    <meta name="keywords" content="apple phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/apple-phone-wallpaper">
+                            <span itemprop="name">apple phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Apple Phone Wallpapers for Every Style</h1>
+                <p>Explore a stunning collection of Apple phone wallpapers that elevate your device's look! From breathtaking landscapes to minimalist designs, we have something for every aesthetic. Transform your home and lock screens with high-resolution images that reflect your personality and style. Customize your phone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Black Stock — Download Free iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/iphone-16-black-stock-21-09-2024-1726985676-hd-wallpaper.jpeg' alt='iPhone 16 Black Stock — Download Free iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/iphone-16-black-stock-21-09-2024-1726985676-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Apple iPhone Wallpapers For Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/15/cb/6515cbf0b4ffd7a2bd07f6917cb05cf9.jpg' alt='50 Apple iPhone Wallpapers For Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/15/cb/6515cbf0b4ffd7a2bd07f6917cb05cf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 FASCINATING IPHONE WALLPAPERS FREE TO DOWNLOAD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/37/cc/7e37cc0b6777851c39bfa77523d65e89.jpg' alt='35 FASCINATING IPHONE WALLPAPERS FREE TO DOWNLOAD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/37/cc/7e37cc0b6777851c39bfa77523d65e89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Apple's iPhone 12 and iPhone 12 Pro wallpapers - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2020/10/Orbs-Blue-Dark.jpg?quality=82&strip=all' alt='Download Apple's iPhone 12 and iPhone 12 Pro wallpapers - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="2934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2020/10/Orbs-Blue-Dark.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple iPhone Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/phone-backgrounds/apple.png' alt='Apple iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/phone-backgrounds/apple.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone apple logo wallpaper hotsell">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/apple-logo-colorful-os-background-422@0@e-phone-4k.jpg' alt='Iphone apple logo wallpaper hotsell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.aqualumyachts.com.ar" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/apple-logo-colorful-os-background-422@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Galaxy Amazing Apple Hd Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/blue-galaxy-amazing-apple-hd-iphone-w0rui2jfblugy6dl.jpg' alt='Blue Galaxy Amazing Apple Hd Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/blue-galaxy-amazing-apple-hd-iphone-w0rui2jfblugy6dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Phone Ka, Apple Logo Under A Spotlight, apple logo ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/278/690/HD-wallpaper-apple-phone-ka-apple-logo-under-a-spotlight-apple-logo-spotlight-wall-background.jpg' alt='Apple Phone Ka, Apple Logo Under A Spotlight, apple logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/278/690/HD-wallpaper-apple-phone-ka-apple-logo-under-a-spotlight-apple-logo-spotlight-wall-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Apple - 4820 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/upload_images/2020/06/16/www.mobilesmspk.net_apple-image-1.jpg' alt='Download Free Mobile Phone Wallpaper Apple - 4820 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/upload_images/2020/06/16/www.mobilesmspk.net_apple-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple newest Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpapersafari.com/31/50/2fjclD.jpg' alt='Apple newest Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IPN" />
+                                </span>
+                                <a href='https://cdn.wallpapersafari.com/31/50/2fjclD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

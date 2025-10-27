@@ -1,0 +1,129 @@
+<title>Dark Vintage Botanical Wallpaper: Timeless Elegance for Your Space</title>
+                    <meta name="description" content="Discover the allure of dark vintage botanical wallpaper. Perfect for adding a touch of elegance and sophistication to your home, this wallpaper features rich colors and intricate designs that transform any room into a stylish sanctuary. Explore our collection today and elevate your decor effortlessly.">
+                    <meta name="keywords" content="dark vintage botanical wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/dark-vintage-botanical-wallpaper">
+                            <span itemprop="name">dark vintage botanical wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Vintage Botanical Wallpaper: Timeless Elegance for Your Space</h1>
+                <p>Dark vintage botanical wallpaper combines elegance and charm, enhancing any space with its timeless appeal. Rich colors and intricate floral designs evoke a sense of nostalgia, making it perfect for creating a cozy yet sophisticated atmosphere. Ideal for feature walls or entire rooms, this wallpaper adds depth and personality to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dark Botanical Wallpaper Secret Garden, Dark Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40990538/r/il/dd56f9/4654119410/il_570xN.4654119410_8p9a.jpg' alt='Vintage Dark Botanical Wallpaper Secret Garden, Dark Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40990538/r/il/dd56f9/4654119410/il_570xN.4654119410_8p9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Botanical Dark - Studio Exclusive">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' alt='Vintage Botanical Dark - Studio Exclusive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper, Peel and Stick Wallpaper Vintage, Leaves ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44242442/r/il/5c8594/5051195923/il_fullxfull.5051195923_ef9w.jpg' alt='Dark Botanical Wallpaper, Peel and Stick Wallpaper Vintage, Leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2850">
+                                <meta itemprop="height" content="2813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44242442/r/il/5c8594/5051195923/il_fullxfull.5051195923_ef9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' alt='Dark Botanical Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Dark Meadow Flowers Floral Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yGUmVQe3L.jpg' alt='VEELIKE Dark Meadow Flowers Floral Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yGUmVQe3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper Removable Wallpaper Floral Snake and Flowers Peel  and Stick Vintage">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/products/dark-botanical-wallpaper-removable-wallpaper-floral-snake-and-flowers-peel-and-stick-vintagewr88-1150049963-773185.jpg?v=1696705699' alt='Dark Botanical Wallpaper Removable Wallpaper Floral Snake and Flowers Peel  and Stick Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/products/dark-botanical-wallpaper-removable-wallpaper-floral-snake-and-flowers-peel-and-stick-vintagewr88-1150049963-773185.jpg?v=1696705699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Botanical Wallpaper Vintage Wallpaper Peel and Stick and  Traditional Wallpaper - A382">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5761768660_sntc.jpg?v=1722577649&width=1946' alt='Dark Floral Botanical Wallpaper Vintage Wallpaper Peel and Stick and  Traditional Wallpaper - A382'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5761768660_sntc.jpg?v=1722577649&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper | Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' alt='Dark Botanical Wallpaper | Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/b6d565/6241861168/il_570xN.6241861168_gsjx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/files/HaokHome_Dark_Botanical_Vintage_Floral_Wallpaper_-_Orange_Roses_Blue_Daisies_White_Peonies_on_Deep_Teal_Background-1.jpg?v=1732502093&width=1445' alt='Dark Botanical Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/files/HaokHome_Dark_Botanical_Vintage_Floral_Wallpaper_-_Orange_Roses_Blue_Daisies_White_Peonies_on_Deep_Teal_Background-1.jpg?v=1732502093&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral Wallpaper,  Rich Green and Gold Botanical, Beige Roses Wallpaper">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/4-WN050-Vintage-floral-greeen-and-beige-wallpaper.jpg?v=1718551303&width=2500' alt='Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral Wallpaper,  Rich Green and Gold Botanical, Beige Roses Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/4-WN050-Vintage-floral-greeen-and-beige-wallpaper.jpg?v=1718551303&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

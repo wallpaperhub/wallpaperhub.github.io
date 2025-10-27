@@ -1,0 +1,129 @@
+<title>Transform Your Space with Texture Wallpaper for Walls</title>
+                    <meta name="description" content="Discover the beauty of texture wallpaper for walls! Enhance your home's aesthetic with a variety of stunning designs that add depth and personality to any room. Easy to apply and maintain, texture wallpapers are the perfect way to create a unique ambiance in your living space.">
+                    <meta name="keywords" content="texture wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/texture-wallpaper-for-walls">
+                            <span itemprop="name">texture wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Texture Wallpaper for Walls</h1>
+                <p>Texture wallpaper adds depth and character to any room, transforming flat walls into vibrant canvases. Available in various designs—from rustic patterns to modern textures—these wallpapers are perfect for creating a focal point or enhancing the ambiance of a space. Easy to install and maintain, they are a stylish upgrade for your décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surface Texture Wallpaper | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/26/645/surface-texture-marble.jpg' alt='Surface Texture Wallpaper | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/26/645/surface-texture-marble.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surface Texture Wallpaper | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/41112/cr23/22/828/1/rust-surface-copper-wallpaper.jpg' alt='Surface Texture Wallpaper | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/41112/cr23/22/828/1/rust-surface-copper-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?v=1666799200' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?v=1666799200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Horizontal Water Ripple Print Wallpaper R9531">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/R9531BeigeHorizontalWaterRipplePrintWallpaperRoomshot.jpg?v=1736258467&width=1200' alt='Beige Horizontal Water Ripple Print Wallpaper R9531'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/R9531BeigeHorizontalWaterRipplePrintWallpaperRoomshot.jpg?v=1736258467&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowvia Texture Wallpaper for Wall Decor, Modern Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51MNc9gHoaL._AC_UF1000,1000_QL80_.jpg' alt='Glowvia Texture Wallpaper for Wall Decor, Modern Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51MNc9gHoaL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper, Pink Watercolor Limewash">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' alt='Pink Wallpaper, Pink Watercolor Limewash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/textured-peel-and-stick-wallpaper-934453.jpg?v=1689806731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surface Wallpapers – Textured Wall Designs - Giffywalls">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.in/cdn/shop/files/2977_49_B383Greycementbackground.Walltexture_ee4d30e9-d319-4914-8c87-7844b7e7a549.jpg?quality=90&v=1734196025&width=1326' alt='Surface Wallpapers – Textured Wall Designs - Giffywalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1326">
+                                <meta itemprop="height" content="884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.in/cdn/shop/files/2977_49_B383Greycementbackground.Walltexture_ee4d30e9-d319-4914-8c87-7844b7e7a549.jpg?quality=90&v=1734196025&width=1326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Textured Wallpapers Online | Digital Walls – Digital Walls India">
+                                <img itemprop="contentUrl url" src='https://digital-walls.com/cdn/shop/files/Untitleddesign_26.jpg?v=1727328421&width=533' alt='Shop Textured Wallpapers Online | Digital Walls – Digital Walls India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Walls" />
+                                </span>
+                                <a href='https://digital-walls.com/cdn/shop/files/Untitleddesign_26.jpg?v=1727328421&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Surprising Ideas for Styling With Textured Wallpaper - Feathr™">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/cream-bamboo-texture-wallpaper-FE31201-HeroImageLo3.jpg' alt='11 Surprising Ideas for Styling With Textured Wallpaper - Feathr™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/cream-bamboo-texture-wallpaper-FE31201-HeroImageLo3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper green wall texture Nr. u95105 | Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/81000/81690/u95105pih61_1200.webp' alt='Wall Mural Photo Wallpaper green wall texture Nr. u95105 | Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/81000/81690/u95105pih61_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

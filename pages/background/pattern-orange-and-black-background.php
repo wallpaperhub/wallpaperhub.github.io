@@ -1,0 +1,129 @@
+<title>Bold Orange & Black Patterns for Stunning Designs</title>
+                    <meta name="description" content="Discover creative uses for eye-catching orange and black patterns! From graphic design to fashion trends, learn how this vibrant color combination can elevate your projects and make a striking statement. Perfect for anyone looking to add flair and style to their work!">
+                    <meta name="keywords" content="pattern orange and black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pattern-orange-and-black-background">
+                            <span itemprop="name">pattern orange and black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Orange & Black Patterns for Stunning Designs</h1>
+                <p>Explore the striking combination of orange and black patterns, perfect for adding a bold touch to any design. This dynamic duo can be utilized in fashion, web design, and home decor. Whether it’s geometric shapes, floral motifs, or abstract designs, orange and black backgrounds create a stunning visual impact that captivates attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-bright-color-background_23-2149356731.jpg?semt=ais_hybrid' alt='Orange Black Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-bright-color-background_23-2149356731.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,152,133 Black Orange Pattern Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/408055588/display_1500/stock-vector-vector-comic-book-and-journal-background-comic-book-and-journal-orange-grunge-background-and-408055588.jpg' alt='1,152,133 Black Orange Pattern Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/408055588/display_1500/stock-vector-vector-comic-book-and-journal-background-comic-book-and-journal-orange-grunge-background-and-408055588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Abstract Unusual Cute Black Background Seamless Pattern ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/fuzzyfox/fuzzyfox1602/fuzzyfox160200838/52644880-orange-abstract-unusual-cute-black-background-seamless-pattern.jpg' alt='Orange Abstract Unusual Cute Black Background Seamless Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/fuzzyfox/fuzzyfox1602/fuzzyfox160200838/52644880-orange-abstract-unusual-cute-black-background-seamless-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Black background with orange hexagonal pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-background-with-orange-hexagonal-pattern_1017-19746.jpg' alt='Free Vector | Black background with orange hexagonal pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-background-with-orange-hexagonal-pattern_1017-19746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="205,000+ Orange And Black Pattern Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1397849070/vector/black-abstract-background-with-orange-and-gray-lines-arrows-and-angles.jpg?s=612x612&w=0&k=20&c=GhBOGVgaXRN7kLLurKjjIrawmjKW0hFcIqFl14p350I=' alt='205,000+ Orange And Black Pattern Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1397849070/vector/black-abstract-background-with-orange-and-gray-lines-arrows-and-angles.jpg?s=612x612&w=0&k=20&c=GhBOGVgaXRN7kLLurKjjIrawmjKW0hFcIqFl14p350I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/orange-geometrical-background-design-vector_53876-62367.jpg' alt='Orange Black Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/orange-geometrical-background-design-vector_53876-62367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic background. Black and Orange Sunburst pattern. Pop art style ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/63/55/67/1000_F_163556743_sVBKhiCQ1N7Dd4nYSO7LW3VMupsE7p6p.jpg' alt='Comic background. Black and Orange Sunburst pattern. Pop art style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/63/55/67/1000_F_163556743_sVBKhiCQ1N7Dd4nYSO7LW3VMupsE7p6p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/131/264/small/abstract-halftone-background-orange-and-black-vector.jpg' alt='Orange Black Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/131/264/small/abstract-halftone-background-orange-and-black-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright ethnic pattern black outline on an orange Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/51/26/bright-ethnic-pattern-black-outline-on-an-orange-vector-17455126.jpg' alt='Bright ethnic pattern black outline on an orange Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/51/26/bright-ethnic-pattern-black-outline-on-an-orange-vector-17455126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hexagon Background Orange Images – Browse 106,618 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/29/47/57/360_F_329475741_Kz9luzSB5xELzF9JDDOyUyx0J2LYNBtX.jpg' alt='Hexagon Background Orange Images – Browse 106,618 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/29/47/57/360_F_329475741_Kz9luzSB5xELzF9JDDOyUyx0J2LYNBtX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

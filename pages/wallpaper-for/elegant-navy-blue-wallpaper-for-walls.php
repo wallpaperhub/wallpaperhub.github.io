@@ -1,0 +1,129 @@
+<title>Elegant Navy Blue Wallpaper: Sophisticated Wall Decor</title>
+                    <meta name="description" content="Discover the allure of elegant navy blue wallpaper for your walls. Perfect for enhancing any room's ambience, this timeless tone adds depth and style. Ideal for modern and classic interiors alike, explore our versatile designs to transform your space effortlessly. Shop now for a touch of sophistication!">
+                    <meta name="keywords" content="elegant navy blue wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/elegant-navy-blue-wallpaper-for-walls">
+                            <span itemprop="name">elegant navy blue wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Navy Blue Wallpaper: Sophisticated Wall Decor</h1>
+                <p>Transform your space with elegant navy blue wallpaper that emanates sophistication and style. Perfect for both modern and traditional interiors, this rich hue complements a variety of decor choices. Its versatility makes it an ideal backdrop for vibrant artwork or cozy furnishings, while adding depth to any room. Experience luxury at home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Matte Dark Navy Gradient Art Deco Pattern Wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21115285/r/il/90ef5b/3799250052/il_fullxfull.3799250052_g4s1.jpg' alt='Elegant Matte Dark Navy Gradient Art Deco Pattern Wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21115285/r/il/90ef5b/3799250052/il_fullxfull.3799250052_g4s1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Marble Wallpaper Peel and Stick, Marble Texture Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33182908/r/il/d13f48/3754890044/il_fullxfull.3754890044_kgor.jpg' alt='Navy Blue Marble Wallpaper Peel and Stick, Marble Texture Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33182908/r/il/d13f48/3754890044/il_fullxfull.3754890044_kgor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ALGAE Navy Blue Wallpaper - Seaside - Styles - Products">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/a/l/algae-navy-blue-wp20297.jpg' alt='ALGAE Navy Blue Wallpaper - Seaside - Styles - Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/a/l/algae-navy-blue-wp20297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deco Arches by Etten - Navy Blue - Wallpaper - BD50402">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/203459/main/etten-deco-arches-navy-blue-wallpaper-1@lg.webp' alt='Deco Arches by Etten - Navy Blue - Wallpaper - BD50402'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/203459/main/etten-deco-arches-navy-blue-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Wallpaper Mural Deep Blue Navy Large Art Wall Mural Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21902976/r/il/f4ed33/5487664455/il_570xN.5487664455_5xb9.jpg' alt='Abstract Wallpaper Mural Deep Blue Navy Large Art Wall Mural Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21902976/r/il/f4ed33/5487664455/il_570xN.5487664455_5xb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Wallpaper & Navy Blue Wallpaper | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/1474/645/navy-wallpaper.jpg' alt='Navy Wallpaper & Navy Blue Wallpaper | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/1474/645/navy-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palais Navy & Copper Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1841/9868/112189_2__14387.1734448072.jpg' alt='Palais Navy & Copper Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1841/9868/112189_2__14387.1734448072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Navy Peony Floral Drawing Art Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000101_style1_1_1.jpg' alt='Dark Navy Peony Floral Drawing Art Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000101_style1_1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candice Olson Casual Elegance Divine Trellis Wallpaper - Navy Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/EV3946_d4a81944-4546-4bfb-9140-e02ad7c069c3.jpg?v=1691442703' alt='Candice Olson Casual Elegance Divine Trellis Wallpaper - Navy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/EV3946_d4a81944-4546-4bfb-9140-e02ad7c069c3.jpg?v=1691442703' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Navy Blue and Gold Contact Paper Removable  Geometric Trellis Wallpaper Self Adhesive Textured Vinyl Roll for Accent  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816Q1OcX-IL.jpg' alt='Peel and Stick Wallpaper Navy Blue and Gold Contact Paper Removable  Geometric Trellis Wallpaper Self Adhesive Textured Vinyl Roll for Accent  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816Q1OcX-IL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

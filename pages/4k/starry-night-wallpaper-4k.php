@@ -1,0 +1,129 @@
+<title>Stunning 4K Starry Night Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 4K starry night wallpapers that bring the beauty of the cosmos to your screen. Perfectly tailored for mobile devices, our collection offers a serene and inspiring visual escape that you'll love to experience day and night. Download your favorite scene today!">
+                    <meta name="keywords" content="starry night wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/starry-night-wallpaper-4k">
+                            <span itemprop="name">starry night wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Starry Night Wallpapers for Your Device</h1>
+                <p>Transform your screen with captivating starry night wallpaper in stunning 4K resolution. Immerse yourself in a magical celestial landscape, where twinkling stars dance across a deep midnight sky. Perfect for adding a touch of tranquility and inspiration to your device, these wallpapers will elevate your digital experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160] The Starry Night @ Vincent Van Gogh : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/r44d0f4o4xj91.jpg?width=1080&crop=smart&auto=webp&s=fcb9252b927f59e428582d52c7847ce8df4d88b9' alt='3840x2160] The Starry Night @ Vincent Van Gogh : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/r44d0f4o4xj91.jpg?width=1080&crop=smart&auto=webp&s=fcb9252b927f59e428582d52c7847ce8df4d88b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Photos, Download The BEST Free Starry Night Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?cs=srgb&dl=pexels-felixmittermeier-957010.jpg&fm=jpg' alt='Starry Night Photos, Download The BEST Free Starry Night Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?cs=srgb&dl=pexels-felixmittermeier-957010.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry night : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ghlgr1yl9wt91.jpg?width=640&crop=smart&auto=webp&s=1f36dae9ada3cf87770a162977eb86cc5a8527f0' alt='Starry night : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ghlgr1yl9wt91.jpg?width=640&crop=smart&auto=webp&s=1f36dae9ada3cf87770a162977eb86cc5a8527f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Van Gogh Starry Night Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/van-gogh-starry-night-over-rhone-arles-france-bv34phjirwwqxoou.jpg' alt='100+] Van Gogh Starry Night Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/van-gogh-starry-night-over-rhone-arles-france-bv34phjirwwqxoou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is 5 different versions of the 'Starry Night' wallpaper that ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/d566c5zc7ak91.jpg?width=1080&crop=smart&auto=webp&s=d025fb4c4b2662ce4ba75c07938a6b1ae603086f' alt='Here is 5 different versions of the 'Starry Night' wallpaper that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/d566c5zc7ak91.jpg?width=1080&crop=smart&auto=webp&s=d025fb4c4b2662ce4ba75c07938a6b1ae603086f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Starry Night (Vincent van Gogh) Wallpapers (13 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/a/e/847739-1356x3067-phone-hd-the-starry-night-vincent-van-gogh-wallpaper.jpg' alt='The Starry Night (Vincent van Gogh) Wallpapers (13 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="3067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/a/e/847739-1356x3067-phone-hd-the-starry-night-vincent-van-gogh-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Photos, Download The BEST Free Starry Night Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/574115/pexels-photo-574115.jpeg?cs=srgb&dl=pexels-sheenawood-574115.jpg&fm=jpg' alt='Starry Night Photos, Download The BEST Free Starry Night Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1330">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/574115/pexels-photo-574115.jpeg?cs=srgb&dl=pexels-sheenawood-574115.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Van Gogh iPhone wallpaper, HD background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/87/8a/2b878a48bddfdef8734500318077a2ae.jpg' alt='Download premium image of Van Gogh iPhone wallpaper, HD background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/87/8a/2b878a48bddfdef8734500318077a2ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Painting The Starry Night Screensaver Wallpaper Background 8 HOURS  On Screen 4K">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GquBIOe2Wjk/maxresdefault.jpg' alt='Van Gogh Painting The Starry Night Screensaver Wallpaper Background 8 HOURS  On Screen 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GquBIOe2Wjk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Frame TV Art 4K Starry Night Famous Painting by Vincent ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31556071/r/il/4d860b/3891117318/il_570xN.3891117318_kmrq.jpg' alt='Samsung Frame TV Art 4K Starry Night Famous Painting by Vincent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31556071/r/il/4d860b/3891117318/il_570xN.3891117318_kmrq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

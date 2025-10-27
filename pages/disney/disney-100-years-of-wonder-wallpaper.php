@@ -1,0 +1,129 @@
+<title>Disney 100 Years of Wonder Wallpaper: Celebrate Magic!</title>
+                    <meta name="description" content="Transform your space with Disney's 100 Years of Wonder wallpaper! This vibrant design showcases beloved characters, celebrating a century of magic. Perfect for Disney fans, it adds nostalgia and charm to any room. Create a whimsical atmosphere with a touch of Disney enchantment!">
+                    <meta name="keywords" content="disney 100 years of wonder wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/disney-100-years-of-wonder-wallpaper">
+                            <span itemprop="name">disney 100 years of wonder wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Disney 100 Years of Wonder Wallpaper: Celebrate Magic!</h1>
+                <p>Celebrate Disney's century of magic with the enchanting "100 Years of Wonder" wallpaper! This stunning design captures beloved characters and iconic moments that have defined generations. Elevate your space with vibrant colors and nostalgia, perfect for fans of all ages. Embrace the wonder and magic of Disney in your home today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney 100 Wallpaper by Thekingblader995 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dgck49u-0e22115e-4cc2-4b9a-8322-af09f5f7f0af.jpg/v1/fill/w_1192,h_670,q_70,strp/disney_100_wallpaper_by_thekingblader995_dgck49u-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGdjazQ5dS0wZTIyMTE1ZS00Y2MyLTRiOWEtODMyMi1hZjA5ZjVmN2YwYWYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.i4buYj53Bb11YLas3lqlxJlscYgnYxQytpIUEmlUdrE' alt='Disney 100 Wallpaper by Thekingblader995 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dgck49u-0e22115e-4cc2-4b9a-8322-af09f5f7f0af.jpg/v1/fill/w_1192,h_670,q_70,strp/disney_100_wallpaper_by_thekingblader995_dgck49u-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGdjazQ5dS0wZTIyMTE1ZS00Y2MyLTRiOWEtODMyMi1hZjA5ZjVmN2YwYWYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.i4buYj53Bb11YLas3lqlxJlscYgnYxQytpIUEmlUdrE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney 100 Year Anniversary Celebration Wallpaper! : r/disney">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/disney-100-year-anniversary-celebration-wallpaper-v0-run0yvdephac1.jpeg?auto=webp&s=39138e9488f6ce6a43d399e66527cc52d92ddf9c' alt='Disney 100 Year Anniversary Celebration Wallpaper! : r/disney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/disney-100-year-anniversary-celebration-wallpaper-v0-run0yvdephac1.jpeg?auto=webp&s=39138e9488f6ce6a43d399e66527cc52d92ddf9c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney 100 Years of Wonder by JustinAdventures on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c74e06ce-0797-4434-9c1c-dd6dc56ba045/dgcj4yj-e0dfc368-1586-4384-8f0a-54e78ad337fd.jpg/v1/fill/w_1280,h_867,q_75,strp/disney_100_years_of_wonder_by_justinadventures_dgcj4yj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY3IiwicGF0aCI6IlwvZlwvYzc0ZTA2Y2UtMDc5Ny00NDM0LTljMWMtZGQ2ZGM1NmJhMDQ1XC9kZ2NqNHlqLWUwZGZjMzY4LTE1ODYtNDM4NC04ZjBhLTU0ZTc4YWQzMzdmZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zymgVCjWVu1SH5J9L2AH3kyjZg2VTUgcrZ-QwGauV5Y' alt='Disney 100 Years of Wonder by JustinAdventures on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c74e06ce-0797-4434-9c1c-dd6dc56ba045/dgcj4yj-e0dfc368-1586-4384-8f0a-54e78ad337fd.jpg/v1/fill/w_1280,h_867,q_75,strp/disney_100_years_of_wonder_by_justinadventures_dgcj4yj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY3IiwicGF0aCI6IlwvZlwvYzc0ZTA2Y2UtMDc5Ny00NDM0LTljMWMtZGQ2ZGM1NmJhMDQ1XC9kZ2NqNHlqLWUwZGZjMzY4LTE1ODYtNDM4NC04ZjBhLTU0ZTc4YWQzMzdmZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zymgVCjWVu1SH5J9L2AH3kyjZg2VTUgcrZ-QwGauV5Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/34/00/2d/34002d2707b123884f71f8598e8959b3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/34/00/2d/34002d2707b123884f71f8598e8959b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bring the Art of Disney100: The Exhibition Wherever You Go with ...">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2023/02/D100_Exhibition_GalleryPoster_091080x1920-576x1024.jpg' alt='Bring the Art of Disney100: The Exhibition Wherever You Go with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2023/02/D100_Exhibition_GalleryPoster_091080x1920-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bring the Art of Disney100: The Exhibition Wherever You Go with ...">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2023/02/D100_Exhibition_GalleryPoster_02-1-1024x576.jpg' alt='Bring the Art of Disney100: The Exhibition Wherever You Go with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2023/02/D100_Exhibition_GalleryPoster_02-1-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Disney100 Yearsof Wonder Celebration Castle Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney100-yearsof-wonder-celebration-castle-pnc1b7i3jebtt9n9.jpg' alt='Download Disney100 Yearsof Wonder Celebration Castle Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney100-yearsof-wonder-celebration-castle-pnc1b7i3jebtt9n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate 100 Years of Disney Magic With New Digital Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://mickeyblog.com/wp-content/uploads/2023/02/100th-Anniversary.png' alt='Celebrate 100 Years of Disney Magic With New Digital Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MickeyBlog.com" />
+                                </span>
+                                <a href='https://mickeyblog.com/wp-content/uploads/2023/02/100th-Anniversary.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/51/8d/bd518d7bc544fc8c1c3c8b2f9fa1af3b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/51/8d/bd518d7bc544fc8c1c3c8b2f9fa1af3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Disney 100 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/disney-100-3ap1xk37b3l1mgo5.jpg' alt='100+] Disney 100 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/disney-100-3ap1xk37b3l1mgo5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

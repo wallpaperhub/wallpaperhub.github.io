@@ -1,0 +1,129 @@
+<title>Aphmau Wallpaper: Stunning Designs for Fans</title>
+                    <meta name="description" content="Discover the best Aphmau wallpaper to bring your favorite YouTube star to life on your devices! Explore vibrant designs featuring characters and scenes from her popular series, perfect for fans wanting to enhance their screens with creativity and color. Download your favorite styles today!">
+                    <meta name="keywords" content="aphmau wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aphmau-wallpaper">
+                            <span itemprop="name">aphmau wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aphmau Wallpaper: Stunning Designs for Fans</h1>
+                <p>Aphmau wallpaper brings the vibrant world of your favorite YouTuber directly to your screens! Offering a variety of stunning designs featuring Aphmau and her popular characters, these wallpapers are perfect for fans who want to showcase their love for gaming and storytelling. Transform your device into a colorful tribute to the amazing universe of Aphmau!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Aphmau Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/6d/bd/496dbd94398b5cb77be095f8e9fdf5cc.jpg' alt='HD Aphmau Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/6d/bd/496dbd94398b5cb77be095f8e9fdf5cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="this is a great wallpaper i have it as my lock screen : r/aphmaufandom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/odeprulwykh61.jpg' alt='this is a great wallpaper i have it as my lock screen : r/aphmaufandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/odeprulwykh61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aphmau Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aphmau-red-jacket-wqe0x0n2jj0gnhry.jpg' alt='100+] Aphmau Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aphmau-red-jacket-wqe0x0n2jj0gnhry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The wallpaper are soo cute      ✨✨ Also which wallpaper that i put on my  front wallpaper on my phone Number 1, 2, or 3 #aphmau #aphmauOGfan #    ✨✨  #aphmaufanaccount #^•w•^  ✨ #meemeowsplush">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7363040468613025066&location=0&aid=1988' alt='The wallpaper are soo cute      ✨✨ Also which wallpaper that i put on my  front wallpaper on my phone Number 1, 2, or 3 #aphmau #aphmauOGfan #    ✨✨  #aphmaufanaccount #^•w•^  ✨ #meemeowsplush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7363040468613025066&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aphmau Stay At Home Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aphmau-stay-at-home-e9a0m2q7tfxjg6c2.jpg' alt='Aphmau Stay At Home Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aphmau-stay-at-home-e9a0m2q7tfxjg6c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aphmau wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/7e/46/a97e460cf4ef9ca33738ca65ac382495.jpg' alt='Aphmau wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/7e/46/a97e460cf4ef9ca33738ca65ac382495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aphmau And Aaron Sweet Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aphmau-and-aaron-sweet-borwvxmwu2gxq0g1.jpg' alt='Aphmau And Aaron Sweet Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aphmau-and-aaron-sweet-borwvxmwu2gxq0g1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aphmau Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aphmau-with-five-cats-tjgcy6jrag7ghr25.jpg' alt='100+] Aphmau Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aphmau-with-five-cats-tjgcy6jrag7ghr25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aphmau with Gamepad Desktop Wallpaper - Aphmau Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/12/aphmau-with-gamepad-desktop-wallpaper-preview.jpg' alt='Aphmau with Gamepad Desktop Wallpaper - Aphmau Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/12/aphmau-with-gamepad-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Vintage Aphmau My Cover Anime Poster Poster Metal Tin ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61k-YdjjvmL.jpg' alt='Amazon.com : Vintage Aphmau My Cover Anime Poster Poster Metal Tin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61k-YdjjvmL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

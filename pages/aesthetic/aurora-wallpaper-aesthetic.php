@@ -1,0 +1,129 @@
+<title>Aurora Wallpaper Aesthetic: Dreamy Designs for Your Space</title>
+                    <meta name="description" content="Discover the beauty of aurora wallpaper aesthetics! Transform your home with dreamy designs inspired by the Northern Lights, perfect for a calming atmosphere. Explore our collection to find the perfect fit for your space and elevate your interior design effortlessly.">
+                    <meta name="keywords" content="aurora wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aurora-wallpaper-aesthetic">
+                            <span itemprop="name">aurora wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aurora Wallpaper Aesthetic: Dreamy Designs for Your Space</h1>
+                <p>Transform your space with stunning aurora wallpaper aesthetics, featuring mesmerizing patterns inspired by nature's color palette. Perfect for creating a serene atmosphere, these wallpapers evoke the beauty of the night sky illuminated by the Northern Lights, bringing a touch of magic and tranquility to any room in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/c6/9f/c3c69f8fa43806ed6aab49a87f592fc6.jpg' alt='Aurora Borealis Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/c6/9f/c3c69f8fa43806ed6aab49a87f592fc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis At Sea Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aurora-borealis-at-sea-haenwknnvc460xxe.jpg' alt='Aurora Borealis At Sea Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aurora-borealis-at-sea-haenwknnvc460xxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Aurora Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXVyb3JhfGVufDB8fDB8fHww' alt='100+ Aurora Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXVyb3JhfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Wallpaper 4K Iphone Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/2f/a5/e02fa5d4e6619c31a436c86d49d881df.jpg' alt='Aurora Wallpaper 4K Iphone Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/2f/a5/e02fa5d4e6619c31a436c86d49d881df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Aesthetic Sky Aurora Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-aesthetic-sky-aurora-el49x37oa5fx9rs7.jpg' alt='Cool Aesthetic Sky Aurora Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-aesthetic-sky-aurora-el49x37oa5fx9rs7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis Wallpaper 4K, 5K, Northern Lights, Night">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-5k-1290x2796-1680.jpg' alt='Aurora Borealis Wallpaper 4K, 5K, Northern Lights, Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-5k-1290x2796-1680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aurora via Ben Rogers.......">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ca/75/f8/ca75f8e1df71e1279afae1fbcaf9e8b4.jpg' alt='Pink Aurora via Ben Rogers.......'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ca/75/f8/ca75f8e1df71e1279afae1fbcaf9e8b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Aesthetic Aurora Night Sky Background Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b9/a8/71/b9a87146697c4e4f5b0d31047fabf5f4.jpg' alt='Full Aesthetic Aurora Night Sky Background Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="303">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b9/a8/71/b9a87146697c4e4f5b0d31047fabf5f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis Wallpaper 4K, Night, Northern Lights, Mountains">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-mountains-cold-lake-1440x2560-292.jpg' alt='Aurora Borealis Wallpaper 4K, Night, Northern Lights, Mountains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-mountains-cold-lake-1440x2560-292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Aesthetic Aurora Night Sky Background Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210709/original/pngtree-full-aesthetic-aurora-night-sky-background-picture-image_913856.jpg' alt='Full Aesthetic Aurora Night Sky Background Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210709/original/pngtree-full-aesthetic-aurora-night-sky-background-picture-image_913856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

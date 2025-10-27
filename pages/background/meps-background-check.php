@@ -1,0 +1,129 @@
+<title>Essential Guide to MEPS Background Check</title>
+                    <meta name="description" content="Discover everything you need to know about the MEPS background check process. Uncover eligibility requirements, what to expect, and how to prepare for this essential step in your military enlistment journey. Ensure a smooth entry into the armed forces with our comprehensive guide.">
+                    <meta name="keywords" content="meps background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/meps-background-check">
+                            <span itemprop="name">meps background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to MEPS Background Check</h1>
+                <p>The MEPS background check is a crucial step in the military enlistment process. It involves a thorough review of your criminal history, medical records, and other personal information to ensure eligibility. This examination helps maintain security and integrity within the armed forces. Be prepared and honest to facilitate a smooth process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MEPS Background & Security Screening !! MUST SEE !!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b8_HwSw5-0M/maxresdefault.jpg' alt='MEPS Background & Security Screening !! MUST SEE !!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b8_HwSw5-0M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Overview of the Military Entrance Processing Station">
+                                <img itemprop="contentUrl url" src='https://www.liveabout.com/thmb/BCtvbwzHON5NIersTYSLmh_GWrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meps-at-a-glance-3354039-FINAL-5ba5045ec9e77c0050548fd4.png' alt='An Overview of the Military Entrance Processing Station'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveAbout" />
+                                </span>
+                                <a href='https://www.liveabout.com/thmb/BCtvbwzHON5NIersTYSLmh_GWrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meps-at-a-glance-3354039-FINAL-5ba5045ec9e77c0050548fd4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Steps To Understanding Meps For Navy">
+                                <img itemprop="contentUrl url" src='https://www3.nnu.edu/imagex/Background-Investigations-and-Security-Clearances-98521.jpg' alt='6 Steps To Understanding Meps For Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www3.nnu.edu" />
+                                </span>
+                                <a href='https://www3.nnu.edu/imagex/Background-Investigations-and-Security-Clearances-98521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military TikTok Surprise Recruitment Process">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7081253736043121962&location=0&aid=1988' alt='Military TikTok Surprise Recruitment Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7081253736043121962&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Military Background Check Take?">
+                                <img itemprop="contentUrl url" src='https://www.thesoldiersproject.org/wp-content/uploads/2021/07/meps-background-check-1.jpg' alt='How Long Does a Military Background Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Soldiers Project" />
+                                </span>
+                                <a href='https://www.thesoldiersproject.org/wp-content/uploads/2021/07/meps-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Things To Expect At Meps">
+                                <img itemprop="contentUrl url" src='https://www3.nnu.edu/imagex/meps-tips-34213.jpg' alt='7 Things To Expect At Meps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www3.nnu.edu" />
+                                </span>
+                                <a href='https://www3.nnu.edu/imagex/meps-tips-34213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Things To Expect At Military Meps">
+                                <img itemprop="contentUrl url" src='https://www3.nnu.edu/imagex/background-check-at-meps-98765.jpg' alt='5 Things To Expect At Military Meps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www3.nnu.edu" />
+                                </span>
+                                <a href='https://www3.nnu.edu/imagex/background-check-at-meps-98765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A little update    still glad I’ll doin it!! #military #airforce #xyzbca  #navy #army #MEPS #greenscreen #GiftOfGame">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6901398674086055174&location=0&aid=1988' alt='A little update    still glad I’ll doin it!! #military #airforce #xyzbca  #navy #army #MEPS #greenscreen #GiftOfGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6901398674086055174&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does A Military Base Background Check Go? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wcGckkBqfak/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAK5lq-Lt8JYx0rbMVo-M3i3S2-Ew' alt='How Far Back Does A Military Base Background Check Go? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wcGckkBqfak/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAK5lq-Lt8JYx0rbMVo-M3i3S2-Ew' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About the MEPS Authorization Form">
+                                <img itemprop="contentUrl url" src='x-raw-image:///8d47d98258b1982957294c0379b2d0f8254a6b53ec7f3cface923415abb712e0' alt='About the MEPS Authorization Form'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="917">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MEPS Interview" />
+                                </span>
+                                <a href='x-raw-image:///8d47d98258b1982957294c0379b2d0f8254a6b53ec7f3cface923415abb712e0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

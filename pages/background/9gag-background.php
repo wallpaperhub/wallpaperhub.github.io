@@ -1,0 +1,129 @@
+<title>9gag Background: A Hub for Memes and Humor</title>
+                    <meta name="description" content="Explore the vibrant history of 9gag, the ultimate platform for memes, jokes, and viral content. Discover how this site has shaped online humor and created a global community celebrating creativity and laughter. Join us in diving into the essence of 9gag's influence and its role in today's digital entertainment landscape.">
+                    <meta name="keywords" content="9gag background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/9gag-background">
+                            <span itemprop="name">9gag background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>9gag Background: A Hub for Memes and Humor</h1>
+                <p>9gag is an online platform renowned for its humorous content, memes, and viral videos. It thrives on user-generated content, allowing community members to share jokes, art, and bizarre moments. Founded in 2008, 9gag has become a cultural phenomenon, serving as a go-to source for daily laughs and entertainment across diverse niches.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9gag Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/51/71/c95171499a11e0f937d9b028377b58df.jpg' alt='9gag Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/51/71/c95171499a11e0f937d9b028377b58df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/04/41/3704417d8af4f7505c27792120e4e68e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/04/41/3704417d8af4f7505c27792120e4e68e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9Gag Wallpaper by Toxxus on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47bce69b-4c0b-49a4-a14b-5237180da4b4/d97cith-37c0adec-44b4-4629-bd3c-aaea202ee703.png/v1/fill/w_1024,h_576,q_80,strp/9gag_wallpaper_by_toxxus_d97cith-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDdiY2U2OWItNGMwYi00OWE0LWExNGItNTIzNzE4MGRhNGI0XC9kOTdjaXRoLTM3YzBhZGVjLTQ0YjQtNDYyOS1iZDNjLWFhZWEyMDJlZTcwMy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wmy8qZBpI5neit74NVxMMoSrg5g6oEhIONibi8qwBMI' alt='9Gag Wallpaper by Toxxus on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47bce69b-4c0b-49a4-a14b-5237180da4b4/d97cith-37c0adec-44b4-4629-bd3c-aaea202ee703.png/v1/fill/w_1024,h_576,q_80,strp/9gag_wallpaper_by_toxxus_d97cith-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDdiY2U2OWItNGMwYi00OWE0LWExNGItNTIzNzE4MGRhNGI0XC9kOTdjaXRoLTM3YzBhZGVjLTQ0YjQtNDYyOS1iZDNjLWFhZWEyMDJlZTcwMy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wmy8qZBpI5neit74NVxMMoSrg5g6oEhIONibi8qwBMI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9gag - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/42/9gag_logo.svg' alt='9gag - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/42/9gag_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9GAG PRO — 9GAG">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/599501b0ff7c50ab01b0e9a1/1581395677174-F2QDZBBQHW1EZMHM3KFK/18.png' alt='9GAG PRO — 9GAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9GAG" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/599501b0ff7c50ab01b0e9a1/1581395677174-F2QDZBBQHW1EZMHM3KFK/18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9gag background - 9GAG">
+                                <img itemprop="contentUrl url" src='https://img-9gag-fun.9cache.com/photo/a9Y2XED_460s.jpg' alt='9gag background - 9GAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9GAG" />
+                                </span>
+                                <a href='https://img-9gag-fun.9cache.com/photo/a9Y2XED_460s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:9gag logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e9/9gag_logo.png' alt='File:9gag logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e9/9gag_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I dare you to set this as your desktop background. - 9GAG">
+                                <img itemprop="contentUrl url" src='https://img-9gag-fun.9cache.com/photo/44217_460s.jpg' alt='I dare you to set this as your desktop background. - 9GAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9GAG" />
+                                </span>
+                                <a href='https://img-9gag-fun.9cache.com/photo/44217_460s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My iphone wallpaper - 9GAG">
+                                <img itemprop="contentUrl url" src='https://img-9gag-fun.9cache.com/photo/aGVzKEn_460s.jpg' alt='My iphone wallpaper - 9GAG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9GAG" />
+                                </span>
+                                <a href='https://img-9gag-fun.9cache.com/photo/aGVzKEn_460s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9gag wallpaper 2 by aldodoaldo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a09220fe-46a3-4d9f-844f-078305846ebf/d55wsta-fbdead62-6809-47c1-8639-8a811312f856.jpg' alt='9gag wallpaper 2 by aldodoaldo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a09220fe-46a3-4d9f-844f-078305846ebf/d55wsta-fbdead62-6809-47c1-8639-8a811312f856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Barbie Pink Backgrounds: Vibrant, Fun & Trendy</title>
+                    <meta name="description" content="Explore the enchanting world of Barbie pink backgrounds! Perfect for events, photos, and more, our collection offers lively designs that inspire joy and creativity. Elevate your aesthetic with eye-catching pink themes that stand out and brighten any space. Discover your perfect backdrop today!">
+                    <meta name="keywords" content="barbie pink background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barbie-pink-background">
+                            <span itemprop="name">barbie pink background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barbie Pink Backgrounds: Vibrant, Fun & Trendy</h1>
+                <p>Barbie pink backgrounds are vibrant, playful, and full of life, perfect for setting a fun mood in your space. Whether for events, photoshoots, or personal projects, this iconic color inspires creativity and joy. Embrace the allure of Barbie pink with patterned designs, solid shades, or textured elements to elevate your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1600x900 Barbie Pink Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1600x900/1600x900-barbie-pink-solid-color-background.jpg' alt='1600x900 Barbie Pink Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1600x900/1600x900-barbie-pink-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Barbie™ Sequin' Wallpaper by Barbie™ - Barbie Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Barbie_Sequin_Wallpaper_Barbie_Barbie_Pink_Design_b2b61dc6-161b-42df-85bc-f516494d7213_1080x.jpg?v=1689898336' alt=''Barbie™ Sequin' Wallpaper by Barbie™ - Barbie Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Barbie_Sequin_Wallpaper_Barbie_Barbie_Pink_Design_b2b61dc6-161b-42df-85bc-f516494d7213_1080x.jpg?v=1689898336' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="284">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/86/25/68/862568946caf9aa8d0c441eb277677eb.jpg' alt='284'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/86/25/68/862568946caf9aa8d0c441eb277677eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hot pink barbie background with pink banner ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hot-pink-barbie-background-with-pink-banner-poster-background-terrazzo-trendy-background-like-movie_662915-581.jpg' alt='Premium Vector | Hot pink barbie background with pink banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hot-pink-barbie-background-with-pink-banner-poster-background-terrazzo-trendy-background-like-movie_662915-581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Background Images – Browse 9,272 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/21/50/43/360_F_321504330_CBaosL3tWdwGYeVak29Y0CmN792D0gG3.jpg' alt='Barbie Background Images – Browse 9,272 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/21/50/43/360_F_321504330_CBaosL3tWdwGYeVak29Y0CmN792D0gG3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="barbie background' - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/f1/6f/34f16f6f8f2c4ca2788e29da509560f4.jpg' alt='barbie background' - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/f1/6f/34f16f6f8f2c4ca2788e29da509560f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Pink Bokeh Sparkle Dream Photography Backdrop">
+                                <img itemprop="contentUrl url" src='https://dennymfg.com/cdn/shop/files/CP8367-Barbie-Bokeh-Backdrop-10x10_1200x.jpg?v=1696863987' alt='Barbie Pink Bokeh Sparkle Dream Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='https://dennymfg.com/cdn/shop/files/CP8367-Barbie-Bokeh-Backdrop-10x10_1200x.jpg?v=1696863987' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hot pink barbie background with pink banner ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hot-pink-barbie-background-with-pink-banner-poster-background-terrazzo-trendy-background-like-movie_662915-580.jpg' alt='Premium Vector | Hot pink barbie background with pink banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hot-pink-barbie-background-with-pink-banner-poster-background-terrazzo-trendy-background-like-movie_662915-580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Roses And Diamonds On A Pink Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/barbie-background-7dchdxab5q2tkiuq.jpg' alt='Download Pink Roses And Diamonds On A Pink Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/barbie-background-7dchdxab5q2tkiuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Barbie Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-barbie-dream-pink-art-corrugated-decorative-background-image_964416.jpg' alt='Pink Barbie Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-barbie-dream-pink-art-corrugated-decorative-background-image_964416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

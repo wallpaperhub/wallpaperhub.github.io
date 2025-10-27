@@ -1,0 +1,129 @@
+<title>Western Aesthetic Wallpaper: Rustic Charm for Your Home</title>
+                    <meta name="description" content="Transform your space with western aesthetic wallpaper! Embrace rustic designs that reflect nature and warmth. Perfect for creating an inviting atmosphere, our collection blends modern and traditional styles to elevate your home decor. Explore the beauty of the West today!">
+                    <meta name="keywords" content="western aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/western-aesthetic-wallpaper">
+                            <span itemprop="name">western aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Western Aesthetic Wallpaper: Rustic Charm for Your Home</h1>
+                <p>Discover the charm of western aesthetic wallpaper, where rustic designs meet modern artistry. Perfect for creating a cozy atmosphere, these wallpapers showcase elements like landscapes, cowboys, and subtle earth tones. Ideal for homes aiming for a warm, inviting feel, western aesthetic wallpaper seamlessly blends tradition with style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper With Vintage Cowboy and Horses, Wild West ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_fullxfull.6014700830_p18l.jpg' alt='Western Wallpaper With Vintage Cowboy and Horses, Wild West ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_fullxfull.6014700830_p18l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/89/44/9289445e4d8eb86bf46063b72d8ec54a.jpg' alt='Western aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/89/44/9289445e4d8eb86bf46063b72d8ec54a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/82/76/f58276a590ef0799df1fe7af66f9c4da.jpg' alt='Western Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/82/76/f58276a590ef0799df1fe7af66f9c4da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/29/cb/db29cb3ecd6252b178f87bb71b767a9e.jpg' alt='Western Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/29/cb/db29cb3ecd6252b178f87bb71b767a9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD western asthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/516/628/HD-wallpaper-country-and-western-for-the-walls-western-asthetic.jpg' alt='HD western asthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/516/628/HD-wallpaper-country-and-western-for-the-walls-western-asthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowboy Hat Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/western-cowboy-hat-aesthetic-969ppnnpzh0656g8.jpg' alt='Western Cowboy Hat Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/western-cowboy-hat-aesthetic-969ppnnpzh0656g8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western aesthetic ideas. western aesthetic, western wall art ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/158/1018/HD-wallpaper-western-aesthetic-ideas-western-aesthetic-western-wall-art-western-graphy-western-asthetic.jpg' alt='Western aesthetic ideas. western aesthetic, western wall art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/158/1018/HD-wallpaper-western-aesthetic-ideas-western-aesthetic-western-wall-art-western-graphy-western-asthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Western Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16643139/p/f/m/yvHtaY402wXhdXRVMnTYO5rGkPVabAvbIBWDgC5HiOpbxc10nrPxeoc/Desert%20Cactus%20Blooms%20on%20Weather%20Barn%20Wood%20White%20Planks%20Western%20Succulent%20Plants%20Southwest%20Desert%20Boho%20Country%20Wallpaper.jpg' alt='Aesthetic Western Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16643139/p/f/m/yvHtaY402wXhdXRVMnTYO5rGkPVabAvbIBWDgC5HiOpbxc10nrPxeoc/Desert%20Cactus%20Blooms%20on%20Weather%20Barn%20Wood%20White%20Planks%20Western%20Succulent%20Plants%20Southwest%20Desert%20Boho%20Country%20Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cowboy Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cowboy-culture-collage-v8kezl2z81nt7twe.jpg' alt='100+] Cowboy Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cowboy-culture-collage-v8kezl2z81nt7twe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' alt='135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

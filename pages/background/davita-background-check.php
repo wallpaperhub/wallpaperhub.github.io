@@ -1,0 +1,129 @@
+<title>Understanding the DaVita Background Check Process</title>
+                    <meta name="description" content="Learn about DaVita's comprehensive background check process for employees. Discover how it helps ensure a qualified and trustworthy workforce dedicated to providing exceptional healthcare services. Get insights on what to expect during the hiring process at DaVita.">
+                    <meta name="keywords" content="davita background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/davita-background-check">
+                            <span itemprop="name">davita background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the DaVita Background Check Process</h1>
+                <p>DaVita conducts thorough background checks for potential employees to ensure a safe and qualified workforce. This process includes verifying education, work history, and criminal records. By prioritizing integrity and quality, DaVita ensures that its staff is equipped to provide excellent care in the healthcare industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#greenscreen Part 2 Update on the background check for Davita #viral #fypシ  #fyp #healthcare #pct #davita #davitadialysis #travelpct #diaylsistech  #cnalife">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7334871058291592494&location=0&aid=1988' alt='#greenscreen Part 2 Update on the background check for Davita #viral #fypシ  #fyp #healthcare #pct #davita #davitadialysis #travelpct #diaylsistech  #cnalife'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7334871058291592494&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DaVita Medical Group - Hiring Process | Glassdoor">
+                                <img itemprop="contentUrl url" src='https://media.glassdoor.com/sqll/996114/davita-medical-group-squarelogo-1485544529224.png' alt='DaVita Medical Group - Hiring Process | Glassdoor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glassdoor" />
+                                </span>
+                                <a href='https://media.glassdoor.com/sqll/996114/davita-medical-group-squarelogo-1485544529224.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019-2025 DaVita Credentialing Request Form Fill Online, Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/476/373/476373061/large.png' alt='2019-2025 DaVita Credentialing Request Form Fill Online, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/476/373/476373061/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Questions and Answers about DaVita Background Check | Indeed.com">
+                                <img itemprop="contentUrl url" src='https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/980x200/07af1c9c707fcd8df75d4419d3007f03' alt='Questions and Answers about DaVita Background Check | Indeed.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/980x200/07af1c9c707fcd8df75d4419d3007f03' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does DaVita drug test or do a background check? - DaVita Questions ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/davita/questions/3792124/does-davita-drug-test-or-do-a-background-check' alt='Does DaVita drug test or do a background check? - DaVita Questions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/davita/questions/3792124/does-davita-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DaVita">
+                                <img itemprop="contentUrl url" src='https://www.worldblu.com/hs-fs/hubfs/DaVita_Logo_RGB_F-1.png?width=1064&name=DaVita_Logo_RGB_F-1.png' alt='DaVita'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorldBlu" />
+                                </span>
+                                <a href='https://www.worldblu.com/hs-fs/hubfs/DaVita_Logo_RGB_F-1.png?width=1064&name=DaVita_Logo_RGB_F-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passing a Background Check for Employment: Tips and Advice">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6897267584085806341&location=0&aid=1988' alt='Passing a Background Check for Employment: Tips and Advice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6897267584085806341&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' alt='So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suppose to be day 1 of Davita but my background check didnt come back yet     #pct #davita #davitadialysis #travelpct #cnalife #fyp #healthcare  #diaylsistech #fypシ #viral">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7334721427855428910&location=0&aid=1988' alt='Suppose to be day 1 of Davita but my background check didnt come back yet     #pct #davita #davitadialysis #travelpct #cnalife #fyp #healthcare  #diaylsistech #fypシ #viral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7334721427855428910&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How We Hire | Davita">
+                                <img itemprop="contentUrl url" src='https://cdn.phenompeople.com/CareerConnectResources/DAVIUS/images/Untitleddesign61-1723124889015.png' alt='How We Hire | Davita'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DaVita Careers" />
+                                </span>
+                                <a href='https://cdn.phenompeople.com/CareerConnectResources/DAVIUS/images/Untitleddesign61-1723124889015.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

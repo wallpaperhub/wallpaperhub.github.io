@@ -1,0 +1,129 @@
+<title>Stunning iPhone Carolina Panthers Wallpapers</title>
+                    <meta name="description" content="Discover the best iPhone wallpapers featuring the Carolina Panthers. Immerse yourself in the team's vibrant colors and logos, perfect for showcasing your fandom on your mobile device. Download now and transform your iPhone's look with standout designs that capture the spirit of the Panthers!">
+                    <meta name="keywords" content="iphone carolina panthers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-carolina-panthers-wallpaper">
+                            <span itemprop="name">iphone carolina panthers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Carolina Panthers Wallpapers</h1>
+                <p>The Carolina Panthers are a beloved NFL team, and what better way to show your support than with a stunning iPhone wallpaper? From striking logos to thrilling game highlights, there's a range of designs that capture the spirit of the Panthers. Customize your device with these wallpapers to flaunt your team pride wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/f_auto/panthers/curhtfd1k0lz4olhym30' alt='Carolina Panthers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carolina Panthers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/f_auto/panthers/curhtfd1k0lz4olhym30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/f_auto/panthers/mfcjkbvp32kaammmihsw' alt='Carolina Panthers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carolina Panthers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/f_auto/panthers/mfcjkbvp32kaammmihsw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Carolina Panthers wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Carolina-Panthers-wallpaper-logo-mobile-NFL-2024.png' alt='2025 Carolina Panthers wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Carolina-Panthers-wallpaper-logo-mobile-NFL-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/panthers/lqsxw5lqtjnfyrczzj7i.jpg' alt='Carolina Panthers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carolina Panthers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/panthers/lqsxw5lqtjnfyrczzj7i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made y'all a phone wallpaper in case you want to use it. I'm not ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jhg6j3n3hh971.png?auto=webp&s=e84bb11bfc90d10b026860345d3ca328404809ad' alt='I made y'all a phone wallpaper in case you want to use it. I'm not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jhg6j3n3hh971.png?auto=webp&s=e84bb11bfc90d10b026860345d3ca328404809ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/d3/6d/dad36d99bd3ca44724bcdbf7cd423f23.jpg' alt='Carolina Panthers wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/d3/6d/dad36d99bd3ca44724bcdbf7cd423f23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robby Anderson Carolina Panthers IPhone Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/cf482994323305.5e7bd476ef875.jpg' alt='Robby Anderson Carolina Panthers IPhone Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/disp/cf482994323305.5e7bd476ef875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Carolina Panthers Nike Iphone Logo Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/carolina-panthers-nike-iphone-logo-ov6zath46nlp0azm.jpg' alt='Download Carolina Panthers Nike Iphone Logo Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/carolina-panthers-nike-iphone-logo-ov6zath46nlp0azm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9f/f7/a6/9ff7a67435b3a07d39fc0d253a6b2b6c.jpg' alt='Carolina Panthers iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9f/f7/a6/9ff7a67435b3a07d39fc0d253a6b2b6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina Panthers, carolina, nfl, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/292/729/HD-wallpaper-carolina-panthers-carolina-nfl.jpg' alt='Carolina Panthers, carolina, nfl, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/292/729/HD-wallpaper-carolina-panthers-carolina-nfl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

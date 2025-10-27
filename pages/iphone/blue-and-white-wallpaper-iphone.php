@@ -1,0 +1,129 @@
+<title>Stunning Blue and White Wallpaper for iPhone</title>
+                    <meta name="description" content="Elevate your iPhone's style with our collection of beautiful blue and white wallpapers. Perfect for any aesthetic, these designs provide a refreshing look while ensuring your device stands out. Discover the perfect blend of elegance and vibrancy today!">
+                    <meta name="keywords" content="blue and white wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/blue-and-white-wallpaper-iphone">
+                            <span itemprop="name">blue and white wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue and White Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning blue and white wallpaper designs that offer a fresh and vibrant look. Whether you prefer intricate patterns or minimalist themes, there’s a perfect wallpaper waiting for you. Dive into a world of elegance and style with these beautiful blue and white hues that will elevate your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Blue Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-and-blue-iphone-mn5ethru2a47opjp.jpg' alt='White And Blue Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="873">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-and-blue-iphone-mn5ethru2a47opjp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract blue walpaper. Retro iphone, iPhone, White for iphone, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/898/857/HD-wallpaper-abstract-blue-walpaper-retro-iphone-iphone-white-for-iphone.jpg' alt='Abstract blue walpaper. Retro iphone, iPhone, White for iphone, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/898/857/HD-wallpaper-abstract-blue-walpaper-retro-iphone-iphone-white-for-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sj57-sky-blue-clear-white-gradation-blur-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sj57-sky-blue-clear-white-gradation-blur-41-iphone-wallpaper.jpg' alt='sj57-sky-blue-clear-white-gradation-blur-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sj57-sky-blue-clear-white-gradation-blur-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile wallpaper | White wallpaper for iphone, Blue and white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/d0/0f/ccd00f86d9adbcedc136b238644c070b.jpg' alt='mobile wallpaper | White wallpaper for iphone, Blue and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/d0/0f/ccd00f86d9adbcedc136b238644c070b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Blue Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-and-blue-iphone-ivgd65zs0jby6pwc.jpg' alt='White And Blue Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-and-blue-iphone-ivgd65zs0jby6pwc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue on White, abstract, android, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/328/817/HD-wallpaper-blue-on-white-abstract-android-thumbnail.jpg' alt='Blue on White, abstract, android, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/328/817/HD-wallpaper-blue-on-white-abstract-android-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHITE | LIGHT BLUE | MARBLE | WALLPAPER PHONE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/aa/5e/bdaa5ec94622dfd105332e404d4d68ca.jpg' alt='WHITE | LIGHT BLUE | MARBLE | WALLPAPER PHONE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/aa/5e/bdaa5ec94622dfd105332e404d4d68ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 15 Pro (Concept Wallpaper) - Silk White - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/iPhone-15-Pro-Concept-Wallpaper-Silk-White-.jpg' alt='iPhone 15 Pro (Concept Wallpaper) - Silk White - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2358">
+                                <meta itemprop="height" content="5112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/08/iPhone-15-Pro-Concept-Wallpaper-Silk-White-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and white wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bb/54/90/bb5490e42a1d5a04f6d1e5c54a932653.jpg' alt='Blue and white wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bb/54/90/bb5490e42a1d5a04f6d1e5c54a932653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPadOS Wallpaper 4K, Blue, Stock, White background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ipados-stock-blue-white-background-ipad-ios-13-hd-1125x2436-1550.jpg' alt='iPadOS Wallpaper 4K, Blue, Stock, White background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ipados-stock-blue-white-background-ipad-ios-13-hd-1125x2436-1550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

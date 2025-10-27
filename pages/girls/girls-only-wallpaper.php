@@ -1,0 +1,129 @@
+<title>Girls Only Wallpaper: Stylish & Empowering Backgrounds</title>
+                    <meta name="description" content="Explore our exclusive range of girls-only wallpapers designed to inspire and uplift. Find stunning visuals that reflect your individuality and flair. Perfect for personalizing your devices, these wallpapers cater to every taste. Download your favorites and revamp your digital space effortlessly!">
+                    <meta name="keywords" content="girls only wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/girls-only-wallpaper">
+                            <span itemprop="name">girls only wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Girls Only Wallpaper: Stylish & Empowering Backgrounds</h1>
+                <p>Discover a vibrant collection of girls-only wallpapers that add a splash of color and personality to your devices. Featuring enchanting designs, dreamy aesthetics, and empowering themes, our wallpapers are perfect for girls who want to express their unique style. Transform your screens today with our captivating selections!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls only">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/a6/69/74a669311cc03b5473083a3ad837c08e.jpg' alt='Girls only'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/a6/69/74a669311cc03b5473083a3ad837c08e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls only Neon Sign in the Speech Bubble on Brick Wall Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/girls-neon-sign-brick-wall-background-girls-neon-sign-brick-wall-background-glowing-pink-inscription-girls-269201836.jpg' alt='Girls only Neon Sign in the Speech Bubble on Brick Wall Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/girls-neon-sign-brick-wall-background-girls-neon-sign-brick-wall-background-glowing-pink-inscription-girls-269201836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Only Stock Photos and Pictures - 436,114 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/girls-only-handlettering-phrase-vector-260nw-1306422394.jpg' alt='Girls Only Stock Photos and Pictures - 436,114 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/girls-only-handlettering-phrase-vector-260nw-1306422394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Only">
+                                <img itemprop="contentUrl url" src='https://voodooneon.com/cdn/shop/files/girls-only-purple.jpg?v=1699935714&width=1946' alt='Girls Only'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voodoo Neon" />
+                                </span>
+                                <a href='https://voodooneon.com/cdn/shop/files/girls-only-purple.jpg?v=1699935714&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Only Stock Photos and Pictures - 436,114 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/girls-only-sticker-social-media-260nw-1157666521.jpg' alt='Girls Only Stock Photos and Pictures - 436,114 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/girls-only-sticker-social-media-260nw-1157666521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls only Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/8132176/24862/v/450/depositphotos_248625618-stock-illustration-vector-hand-drawn-lettering-phrase.jpg' alt='Girls only Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/8132176/24862/v/450/depositphotos_248625618-stock-illustration-vector-hand-drawn-lettering-phrase.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls only Neon Sign in the Speech Bubble on Brick Wall Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/girls-neon-sign-speech-bubble-brick-wall-background-glowing-pink-inscription-girls-girls-neon-sign-270528957.jpg' alt='Girls only Neon Sign in the Speech Bubble on Brick Wall Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/girls-neon-sign-speech-bubble-brick-wall-background-glowing-pink-inscription-girls-girls-neon-sign-270528957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="girlsonly#wallpaper #foryoupage | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6896372171912891650&location=0&aid=1988' alt='girlsonly#wallpaper #foryoupage | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6896372171912891650&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls only Stock Photos, Royalty Free Girls only Images ...">
+                                <img itemprop="contentUrl url" src='https://static9.depositphotos.com/1170566/1084/i/450/depositphotos_10848893-stock-illustration-stamp-girls-only.jpg' alt='Girls only Stock Photos, Royalty Free Girls only Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://static9.depositphotos.com/1170566/1084/i/450/depositphotos_10848893-stock-illustration-stamp-girls-only.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminist Wallpapers: Girls Power (Girls Only) - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51oaITuId7L.png' alt='Feminist Wallpapers: Girls Power (Girls Only) - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51oaITuId7L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

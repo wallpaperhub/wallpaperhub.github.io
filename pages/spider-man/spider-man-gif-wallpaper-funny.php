@@ -1,0 +1,129 @@
+<title>Funny Spider-Man GIF Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a collection of funny Spider-Man GIF wallpapers that will make your device come alive. Perfect for any Spidey fan, these GIFs add humor and personality to your screen. Easy to download and optimized for mobile display, elevate your wallpaper game today!">
+                    <meta name="keywords" content="spider-man gif wallpaper funny">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-gif-wallpaper-funny">
+                            <span itemprop="name">spider-man gif wallpaper funny</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Spider-Man GIF Wallpapers for Your Screen</h1>
+                <p>Transform your device with hilarious Spider-Man GIF wallpapers! Enjoy a collection that captures the web-slinger's funniest moments, perfect for adding a touch of humor to your screens. From epic fails to relatable memes, these GIF wallpapers are sure to bring a smile. Download now for a fun twist on your wallpaper game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spiderman GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/O7dKxowBDS8AAAAM/spider-man-come-at-me-bro.gif' alt='Funny Spiderman GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/O7dKxowBDS8AAAAM/spider-man-come-at-me-bro.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spiderman GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/FId2IHIKUVkAAAAM/today-not.gif' alt='Funny Spiderman GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/FId2IHIKUVkAAAAM/today-not.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spiderman GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/2cBMmv3yFQUAAAAM/spiderman.gif' alt='Funny Spiderman GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/2cBMmv3yFQUAAAAM/spiderman.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing Spiderman GIF - Dancing Spiderman Dance - Discover & Share ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/56/d9/c3/56d9c3fd6524357656ae3b3b39d7ab66.gif' alt='Dancing Spiderman GIF - Dancing Spiderman Dance - Discover & Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/56/d9/c3/56d9c3fd6524357656ae3b3b39d7ab66.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spiderman GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/V4CKc-rfGToAAAAM/spiderman-meme.gif' alt='Funny Spiderman GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/V4CKc-rfGToAAAAM/spiderman-meme.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/QXVs4QWLlzkAAAAM/spider-man.gif' alt='Spider Man GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/QXVs4QWLlzkAAAAM/spider-man.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60s Spider Man GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/8zYunr3Hg8XPq/giphy.gif?cid=6c09b952ts4wm22z8qhnjgdjo6m05lsa3qrh5r6klqaywf03&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='60s Spider Man GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/8zYunr3Hg8XPq/giphy.gif?cid=6c09b952ts4wm22z8qhnjgdjo6m05lsa3qrh5r6klqaywf03&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spider man comics GIF by G1ft3d - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/07/f8/a807f8f0dc2a030cfb17c18129bd052a.gif' alt='spider man comics GIF by G1ft3d - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/07/f8/a807f8f0dc2a030cfb17c18129bd052a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/thumbnail/funny-fat-spiderman-tas7lw17wfvmp4oj.gif' alt='Spiderman GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/thumbnail/funny-fat-spiderman-tas7lw17wfvmp4oj.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider Man Movie Spider-Man: Homecoming Gif">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/815/81578.gif' alt='Download Spider Man Movie Spider-Man: Homecoming Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/815/81578.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

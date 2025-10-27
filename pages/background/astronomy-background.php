@@ -1,0 +1,129 @@
+<title>A Beginner's Guide to Understanding Astronomy</title>
+                    <meta name="description" content="Explore the fascinating world of astronomy! From ancient star gazing to modern cosmic discoveries, learn how our universe works and the technologies that help us unveil its mysteries. Perfect for novices seeking to deepen their understanding of celestial wonders!">
+                    <meta name="keywords" content="astronomy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/astronomy-background">
+                            <span itemprop="name">astronomy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A Beginner's Guide to Understanding Astronomy</h1>
+                <p>Astronomy, the study of celestial objects and phenomena, has roots in ancient civilizations who observed celestial patterns for navigation and farming. Modern astronomy employs advanced technology, from telescopes to space missions, to explore the universe's mysteries. This field merges science with philosophy, unveiling the cosmos' wonders and our place within it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="81,200+ Astronomy Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/163354299/vector/astronomical-image-showing-stars-and-planets-within-nebulae.jpg?s=612x612&w=0&k=20&c=LtSZgc_SgLYblCX5q7ViNzxIWoEqz64S0isuhCMIR1E=' alt='81,200+ Astronomy Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/163354299/vector/astronomical-image-showing-stars-and-planets-within-nebulae.jpg?s=612x612&w=0&k=20&c=LtSZgc_SgLYblCX5q7ViNzxIWoEqz64S0isuhCMIR1E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg' alt='Astronomy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Around A Star System Wallpaper | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg' alt='Around A Star System Wallpaper | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="astronomy-background | Bask Aerospace">
+                                <img itemprop="contentUrl url" src='https://baskaerospace.com.au/wp-content/uploads/2019/04/astronomy-background.jpg' alt='astronomy-background | Bask Aerospace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bask Aerospace" />
+                                </span>
+                                <a href='https://baskaerospace.com.au/wp-content/uploads/2019/04/astronomy-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/541/148/small_2x/colorful-space-galaxy-cloud-nebula-stary-night-cosmos-universe-science-astronomy-supernova-background-wallpaper-photo.jpg' alt='Astronomy Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/541/148/small_2x/colorful-space-galaxy-cloud-nebula-stary-night-cosmos-universe-science-astronomy-supernova-background-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy Photos, Download The BEST Free Astronomy Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2034892/pexels-photo-2034892.jpeg?cs=srgb&dl=pexels-lucaspezeta-2034892.jpg&fm=jpg' alt='Astronomy Photos, Download The BEST Free Astronomy Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2034892/pexels-photo-2034892.jpeg?cs=srgb&dl=pexels-lucaspezeta-2034892.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="81,200+ Astronomy Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1335422932/vector/starry-night-sky-galaxy-background-abstract-constellation-background.jpg?s=612x612&w=0&k=20&c=BrjSQDwCV7eRMiMW-q_G6rw2_txKPtlcX_PDxuXR7o4=' alt='81,200+ Astronomy Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1335422932/vector/starry-night-sky-galaxy-background-abstract-constellation-background.jpg?s=612x612&w=0&k=20&c=BrjSQDwCV7eRMiMW-q_G6rw2_txKPtlcX_PDxuXR7o4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="443,311 Astronomy Wallpaper Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/mathematical-physical-formulas-against-background-600nw-2010979148.jpg' alt='443,311 Astronomy Wallpaper Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/mathematical-physical-formulas-against-background-600nw-2010979148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 100+ Astronomy Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXN0cm9ub215fGVufDB8fDB8fHww' alt='Best 100+ Astronomy Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXN0cm9ub215fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy Photos, Download The BEST Free Astronomy Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?cs=srgb&dl=pexels-felixmittermeier-956981.jpg&fm=jpg' alt='Astronomy Photos, Download The BEST Free Astronomy Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6070">
+                                <meta itemprop="height" content="3414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?cs=srgb&dl=pexels-felixmittermeier-956981.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

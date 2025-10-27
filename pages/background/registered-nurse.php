@@ -1,0 +1,129 @@
+<title>Essential Guide to Registered Nurses</title>
+                    <meta name="description" content="Learn about the crucial role of registered nurses in healthcare, their responsibilities, and how they enhance patient outcomes. Explore the diverse specializations in nursing and discover what it takes to become a registered nurse. Stay informed on the impact of RNs in patient care and the healthcare system.">
+                    <meta name="keywords" content="registered nurse">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/registered-nurse">
+                            <span itemprop="name">registered nurse</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Registered Nurses</h1>
+                <p>Registered nurses (RNs) play a vital role in healthcare, providing patient care, educating patients, and collaborating with healthcare teams. They monitor patient health, administer medications, and advocate for patients' needs. With diverse specialties, RNs contribute significantly to improving patient outcomes and ensuring a safe healing environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Registered Nurse Do? Your 2025 Career Guide | Coursera">
+                                <img itemprop="contentUrl url" src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/1cKnicptkGJgWwDOPnGGT2/e5b3a3fa0dc13c352e0097bfa61e5bee/GettyImages-1289379328.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000' alt='What Does a Registered Nurse Do? Your 2025 Career Guide | Coursera'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coursera" />
+                                </span>
+                                <a href='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/1cKnicptkGJgWwDOPnGGT2/e5b3a3fa0dc13c352e0097bfa61e5bee/GettyImages-1289379328.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Nurse job in 4601 Madison Ave, Kansas City, MO 64112 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.phenompeople.com/CareerConnectResources/DAVIUS/images/YouTubeThumbnails_Chris-1705675202605.jpg' alt='Registered Nurse job in 4601 Madison Ave, Kansas City, MO 64112 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DaVita Careers" />
+                                </span>
+                                <a href='https://cdn.phenompeople.com/CareerConnectResources/DAVIUS/images/YouTubeThumbnails_Chris-1705675202605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become a Registered Nurse (RN) | AdventHealth University">
+                                <img itemprop="contentUrl url" src='https://www.ahu.edu/sites/default/files/styles/fc_800x533/public/media/nurse-placing-drip-2000x1333px.jpg?h=56d0ca2e&itok=Cg1BFE5E' alt='How to Become a Registered Nurse (RN) | AdventHealth University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AdventHealth University" />
+                                </span>
+                                <a href='https://www.ahu.edu/sites/default/files/styles/fc_800x533/public/media/nurse-placing-drip-2000x1333px.jpg?h=56d0ca2e&itok=Cg1BFE5E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Nurse (RN), AAS | Johnson County Community College">
+                                <img itemprop="contentUrl url" src='https://www.jccc.edu/_resources/images/academics/960x540-credit-page-images/registered-nurse-960x540.jpg' alt='Registered Nurse (RN), AAS | Johnson County Community College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Johnson County Community College" />
+                                </span>
+                                <a href='https://www.jccc.edu/_resources/images/academics/960x540-credit-page-images/registered-nurse-960x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Much Experience Do You Need to Become a Registered Nurse?">
+                                <img itemprop="contentUrl url" src='https://www.athenacareers.edu/wp-content/uploads/2024/05/bigstock-Portrait-of-a-smiling-nurse-168968912.jpg' alt='How Much Experience Do You Need to Become a Registered Nurse?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athena Career Academy" />
+                                </span>
+                                <a href='https://www.athenacareers.edu/wp-content/uploads/2024/05/bigstock-Portrait-of-a-smiling-nurse-168968912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Nursing Career Guide: RN Salary & Job Outlook">
+                                <img itemprop="contentUrl url" src='https://www.gmercyu.edu/images/learn_pages/learn_nursecareerguide.jpg' alt='Registered Nursing Career Guide: RN Salary & Job Outlook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gwynedd Mercy University" />
+                                </span>
+                                <a href='https://www.gmercyu.edu/images/learn_pages/learn_nursecareerguide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become a Registered Nurse (RN)">
+                                <img itemprop="contentUrl url" src='https://everynurse.org/wp-content/uploads/2023/09/How-to-Become-a-Registered-Nurse.webp' alt='How to Become a Registered Nurse (RN)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EveryNurse" />
+                                </span>
+                                <a href='https://everynurse.org/wp-content/uploads/2023/09/How-to-Become-a-Registered-Nurse.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RN Future: Registered Nursing Job Outlook - Nightingale College">
+                                <img itemprop="contentUrl url" src='https://nightingale.edu/_resources/images/blog/registered-nurse-duties.jpeg' alt='RN Future: Registered Nursing Job Outlook - Nightingale College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nightingale College" />
+                                </span>
+                                <a href='https://nightingale.edu/_resources/images/blog/registered-nurse-duties.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a BSN? Exploring Benefits and Career Opportunities ...">
+                                <img itemprop="contentUrl url" src='https://onlinenursing.uic.edu/wp-content/uploads/sites/1100/2024/05/UIC-RN-BSN_What-is-a-BSN-1090x1090.jpg' alt='What is a BSN? Exploring Benefits and Career Opportunities ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1090">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Illinois Chicago" />
+                                </span>
+                                <a href='https://onlinenursing.uic.edu/wp-content/uploads/sites/1100/2024/05/UIC-RN-BSN_What-is-a-BSN-1090x1090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Registered Nurse Do?">
+                                <img itemprop="contentUrl url" src='https://www.husson.edu/online/blog/2022/10/what-does-an-rn-do-image.jpg' alt='What Does a Registered Nurse Do?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Husson University" />
+                                </span>
+                                <a href='https://www.husson.edu/online/blog/2022/10/what-does-an-rn-do-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

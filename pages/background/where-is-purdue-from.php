@@ -1,0 +1,129 @@
+<title>Discover Purdue University: Where Excellence Begins</title>
+                    <meta name="description" content="Learn about Purdue University, a leading research institution located in West Lafayette, Indiana. Explore its rich history, diverse academic programs, and vibrant campus life that attracts students globally. Pursue innovation and excellence at Purdue, where education transforms futures.">
+                    <meta name="keywords" content="where is purdue from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-purdue-from">
+                            <span itemprop="name">where is purdue from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Purdue University: Where Excellence Begins</h1>
+                <p>Purdue University is located in West Lafayette, Indiana, USA. Founded in 1869, it is a prominent public research university known for its engineering, science, and business programs. The campus spans over 2,500 acres along the Wabash River and is a vibrant hub for students from all around the world, fostering innovation and academic excellence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Is Purdue University - Main Campus?">
+                                <img itemprop="contentUrl url" src='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/purdue-university-main-campus/overview/location/map_xs.jpeg' alt='Where Is Purdue University - Main Campus?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Factual" />
+                                </span>
+                                <a href='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/purdue-university-main-campus/overview/location/map_xs.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Directions – Purdue Arboretum">
+                                <img itemprop="contentUrl url" src='https://www.arboretum.purdue.edu//wp-content/uploads/2013/07/visitpurdue.jpg' alt='Directions – Purdue Arboretum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purdue Arboretum - Purdue University" />
+                                </span>
+                                <a href='https://www.arboretum.purdue.edu//wp-content/uploads/2013/07/visitpurdue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Is Purdue University - Main Campus?">
+                                <img itemprop="contentUrl url" src='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/purdue-university-main-campus/overview/location/map_xl.jpeg' alt='Where Is Purdue University - Main Campus?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Factual" />
+                                </span>
+                                <a href='https://cf-hugo-dev-images.s3.amazonaws.com/chart-images/colleges/purdue-university-main-campus/overview/location/map_xl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purdue University">
+                                <img itemprop="contentUrl url" src='https://www.purdue.edu/home/wp-content/uploads/2023/07/Founders-Park-DSC3463.jpg' alt='Purdue University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.purdue.edu" />
+                                </span>
+                                <a href='https://www.purdue.edu/home/wp-content/uploads/2023/07/Founders-Park-DSC3463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purdue University">
+                                <img itemprop="contentUrl url" src='https://www.purdue.edu/home/wp-content/uploads/2024/04/Card1-Purdue-StadiumMall-2023_KAL_1361-1920x960-1.jpg' alt='Purdue University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.purdue.edu" />
+                                </span>
+                                <a href='https://www.purdue.edu/home/wp-content/uploads/2024/04/Card1-Purdue-StadiumMall-2023_KAL_1361-1920x960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - Purdue University">
+                                <img itemprop="contentUrl url" src='https://www.purdue.edu/home/wp-content/uploads/2024/02/1949-Purdue-WL-campus-aerial-photo.jpg' alt='History - Purdue University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purdue University" />
+                                </span>
+                                <a href='https://www.purdue.edu/home/wp-content/uploads/2024/02/1949-Purdue-WL-campus-aerial-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Purdue University in Lafayette-West Lafayette, Indiana ...">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/westlafayettein/purduecampusarial_704f69a0-7cee-49e2-bc03-a8d9405dd671.jpg' alt='Explore Purdue University in Lafayette-West Lafayette, Indiana ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visit Lafayette - West Lafayette" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/westlafayettein/purduecampusarial_704f69a0-7cee-49e2-bc03-a8d9405dd671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Purdue University's History, Traditions, Achievements & More">
+                                <img itemprop="contentUrl url" src='https://www.purdue.edu/home/wp-content/uploads/2023/09/HeroCard1B-2022-ENG-SOP2022-CFJ0142.jpg' alt='About Purdue University's History, Traditions, Achievements & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purdue University" />
+                                </span>
+                                <a href='https://www.purdue.edu/home/wp-content/uploads/2023/09/HeroCard1B-2022-ENG-SOP2022-CFJ0142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purdue University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Purdue_University%2C_West_Lafayette%2C_Indiana%2C_Estados_Unidos%2C_2012-10-15%2C_DD_08.jpg/220px-Purdue_University%2C_West_Lafayette%2C_Indiana%2C_Estados_Unidos%2C_2012-10-15%2C_DD_08.jpg' alt='Purdue University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Purdue_University%2C_West_Lafayette%2C_Indiana%2C_Estados_Unidos%2C_2012-10-15%2C_DD_08.jpg/220px-Purdue_University%2C_West_Lafayette%2C_Indiana%2C_Estados_Unidos%2C_2012-10-15%2C_DD_08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Purdue University's History, Traditions, Achievements & More">
+                                <img itemprop="contentUrl url" src='https://www.purdue.edu/home/wp-content/uploads/2024/04/About-ExploreWL-PMU-1920x960-1.jpg' alt='About Purdue University's History, Traditions, Achievements & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purdue University" />
+                                </span>
+                                <a href='https://www.purdue.edu/home/wp-content/uploads/2024/04/About-ExploreWL-PMU-1920x960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Fruit Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover delightful cute fruit wallpaper designs that will brighten up your devices! Perfect for fruit lovers and anyone looking to add a touch of whimsy to their screens. Download now and enjoy vibrant, refreshing patterns that make your digital space cheerful and engaging!">
+                    <meta name="keywords" content="cute fruit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-fruit-wallpaper">
+                            <span itemprop="name">cute fruit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Fruit Wallpapers for a Fresh Look</h1>
+                <p>Cute fruit wallpaper brings vibrant life to your screens, showcasing colorful, playful designs of fruits like strawberries, pineapples, and watermelons. Ideal for those who love whimsical aesthetics, these wallpapers brighten your day and add a touch of cheer to any device, making your digital experience fresh and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Summer Fruits Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' alt='Cute Summer Fruits Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Cute Fruit Wallpaper Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220731/original/pngtree-summer-cute-fruit-wallpaper-background-picture-image_1897537.jpg' alt='Summer Cute Fruit Wallpaper Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220731/original/pngtree-summer-cute-fruit-wallpaper-background-picture-image_1897537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Fruit Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-fruit-oxd3x473jda5wl3s.jpg' alt='100+] Cute Fruit Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-fruit-oxd3x473jda5wl3s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Wallpaper | Peel and Stick & Traditional Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/37115/strawberries---cream-wallpaper.jpg?q=1737569938' alt='Fruit Wallpaper | Peel and Stick & Traditional Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/37115/strawberries---cream-wallpaper.jpg?q=1737569938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pastel grapefruit iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/e5/4a/83e54ac0841b912e3c6f31f94e2134df.jpg' alt='Download premium image of Pastel grapefruit iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/e5/4a/83e54ac0841b912e3c6f31f94e2134df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Pastel Cute Fruit Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fruits-background-desktop-wallpaper-cute-vector_53876-140209.jpg' alt='Page 2 | Pastel Cute Fruit Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fruits-background-desktop-wallpaper-cute-vector_53876-140209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seamless pattern cartoon lime character. cute fruit wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/258/556/non_2x/seamless-pattern-cartoon-lime-character-cute-fruit-wallpaper-for-gift-wrap-paper-textile-vector.jpg' alt='seamless pattern cartoon lime character. cute fruit wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/258/556/non_2x/seamless-pattern-cartoon-lime-character-cute-fruit-wallpaper-for-gift-wrap-paper-textile-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit phone wallpaper           ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/40/4b/af404b4a88e60e22dc2e1fffa9d18370.jpg' alt='Fruit phone wallpaper           '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/40/4b/af404b4a88e60e22dc2e1fffa9d18370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Wallpaper | Peel and Stick & Traditional Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/37828/fruit-salad-wallpaper.jpg?q=1727301639' alt='Fruit Wallpaper | Peel and Stick & Traditional Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/37828/fruit-salad-wallpaper.jpg?q=1727301639' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_576x1024.jpg?v=1625820003' alt='Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_576x1024.jpg?v=1625820003' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

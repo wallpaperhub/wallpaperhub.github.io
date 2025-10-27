@@ -1,0 +1,129 @@
+<title>Chilling Scary Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a spine-tingling selection of scary wallpapers perfect for your phone! From eerie landscapes to horror-themed designs, find the ideal spooky aesthetic to match your vibe. Download now and turn your device into a frightful masterpiece!">
+                    <meta name="keywords" content="scary wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/scary-wallpaper-for-phone">
+                            <span itemprop="name">scary wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chilling Scary Wallpapers for Your Phone</h1>
+                <p>Transform your phone into a spooky sensation with our collection of scary wallpapers! Whether you love creepy creatures, haunted houses, or chilling horror scenes, we have the perfect backdrop to elevate your device's look. Download now and embrace the thrill every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="630 Phone wallpaper: dark and creepy ideas in 2025 | wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/ed/9e/3bed9e13821925c5065e378c080a87cb.jpg' alt='630 Phone wallpaper: dark and creepy ideas in 2025 | wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/ed/9e/3bed9e13821925c5065e378c080a87cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Horror (phone wallpaper) ideas | horror, halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/09/50/dd0950fb50626bedeb44b6a7ad19b7de.jpg' alt='42 Horror (phone wallpaper) ideas | horror, halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/09/50/dd0950fb50626bedeb44b6a7ad19b7de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Scary Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/intimidating-hand-over-mouth-wsb00bvxzl58oy9a.jpg' alt='1000+] Scary Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1766">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/intimidating-hand-over-mouth-wsb00bvxzl58oy9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Horror Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/michael-myers-horror-phone-pqyhusu5o9jb3mha.jpg' alt='100+] Horror Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/michael-myers-horror-phone-pqyhusu5o9jb3mha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pennywise Horror Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pennywise-horror-phone-srw352220hkyavmt.jpg' alt='Pennywise Horror Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pennywise-horror-phone-srw352220hkyavmt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Horror Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/skulls-horror-phone-1o7j9vjmimrg5voz.jpg' alt='100+] Horror Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/skulls-horror-phone-1o7j9vjmimrg5voz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary, black, dark horror, teeth, yellow eyes, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/721/320/HD-wallpaper-scary-black-dark-horror-teeth-yellow-eyes.jpg' alt='Scary, black, dark horror, teeth, yellow eyes, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/721/320/HD-wallpaper-scary-black-dark-horror-teeth-yellow-eyes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scary Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scary-background-vunegy2oox74iwr7.jpg' alt='Download Scary Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scary-background-vunegy2oox74iwr7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Mobile, Creepy, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/569/818/HD-wallpaper-scary-mobile-creepy.jpg' alt='Scary Mobile, Creepy, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/569/818/HD-wallpaper-scary-mobile-creepy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' alt='17 Spooky Phone Wallpapers Created Using AI - Imagine with Rashid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/04/rashidckk_A_spooky_Halloween_pumpkin_with_glowing_eyes_and_an_dd5ed912-ecf5-4537-a6ad-5bd5473a35cb_0.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>“Vibrant Rainbow Polka Dots: Colorful Patterns for Every Occasion”</title>
+                    <meta name="description" content="Explore the joy of rainbow polka dots! This playful design brings vibrant color to fashion, décor, and crafts. Add a splash of fun to your projects and let creativity shine with these cheerful patterns. Perfect for any occasion, rainbow polka dots are a must-have for those looking to uplift their style!">
+                    <meta name="keywords" content="rainbow polka dots">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-polka-dots">
+                            <span itemprop="name">rainbow polka dots</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Vibrant Rainbow Polka Dots: Colorful Patterns for Every Occasion”</h1>
+                <p>Rainbow polka dots are a vibrant and playful design choice, infusing any space with joy and color. These cheerful patterns feature a multitude of bright, circular shapes, resembling a gentle spectrum. Perfect for fashion, decor, or crafts, rainbow polka dots can elevate any project, spreading positivity and creativity wherever they appear.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="P0838 | Rainbow Polka Dots 2 Pattern Acrylic Sheet">
+                                <img itemprop="contentUrl url" src='http://www.custommadebetter.com/cdn/shop/products/rainbow-polka-dots-2-pattern-acrylic-sheetcmb-pattern-acrylic-556766.png?v=1677095718' alt='P0838 | Rainbow Polka Dots 2 Pattern Acrylic Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CMB Acrylics" />
+                                </span>
+                                <a href='http://www.custommadebetter.com/cdn/shop/products/rainbow-polka-dots-2-pattern-acrylic-sheetcmb-pattern-acrylic-556766.png?v=1677095718' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Spectrum Polka Dot Printed Backdrop">
+                                <img itemprop="contentUrl url" src='https://backdropexpress.com/cdn/shop/files/PTN-PKA-003-2.jpg?v=1711980979&width=600' alt='Rainbow Spectrum Polka Dot Printed Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrop Express" />
+                                </span>
+                                <a href='https://backdropexpress.com/cdn/shop/files/PTN-PKA-003-2.jpg?v=1711980979&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,400+ Rainbow Polka Dots Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333575574/vector/multicolored-circles-on-a-black-background-rainbow-seamless-pattern-vector-illustration.jpg?s=612x612&w=0&k=20&c=6xsf8S292DcgencG30G5zzr5LWqjWGfZ3gUm1sNUPSU=' alt='3,400+ Rainbow Polka Dots Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333575574/vector/multicolored-circles-on-a-black-background-rainbow-seamless-pattern-vector-illustration.jpg?s=612x612&w=0&k=20&c=6xsf8S292DcgencG30G5zzr5LWqjWGfZ3gUm1sNUPSU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Polka Dot Pattern Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2012854433/display_1500/stock-vector-different-lgbtq-polka-dots-vector-seamless-pattern-2012854433.jpg' alt='Rainbow Polka Dot Pattern Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2012854433/display_1500/stock-vector-different-lgbtq-polka-dots-vector-seamless-pattern-2012854433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Polka Dot Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_400,h_400/v1716286805/articles/CH5005MU01R_product.jpg' alt='Rainbow Polka Dot Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_400,h_400/v1716286805/articles/CH5005MU01R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Polka Dots Poster">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/82/80/23/6/700_FO8280236_8ffeccaeb7c8dd2cc20ba177ad0e917e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-rainbow-polka-dots.jpg.jpg' alt='Rainbow Polka Dots Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/82/80/23/6/700_FO8280236_8ffeccaeb7c8dd2cc20ba177ad0e917e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-rainbow-polka-dots.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Polka Dots PRIDE Pattern Vinyl 12" x 12"">
+                                <img itemprop="contentUrl url" src='http://thevinylhaus.com/cdn/shop/products/ptn-177.jpg?v=1636672469' alt='Rainbow Polka Dots PRIDE Pattern Vinyl 12" x 12"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Vinyl Haus" />
+                                </span>
+                                <a href='http://thevinylhaus.com/cdn/shop/products/ptn-177.jpg?v=1636672469' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Polka Dot Wall Decal Set | Children Bedroom Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5683550/r/il/0ec9d9/2492910830/il_1080xN.2492910830_8419.jpg' alt='Rainbow Polka Dot Wall Decal Set | Children Bedroom Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5683550/r/il/0ec9d9/2492910830/il_1080xN.2492910830_8419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful polka dots rainbow seamless pattern Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/42/68/colorful-polka-dots-rainbow-seamless-pattern-vector-22484268.jpg' alt='Colorful polka dots rainbow seamless pattern Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/42/68/colorful-polka-dots-rainbow-seamless-pattern-vector-22484268.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="P0839 | Rainbow Polka Dots 1 Pattern Acrylic Sheet">
+                                <img itemprop="contentUrl url" src='http://www.custommadebetter.com/cdn/shop/products/rainbow-polka-dots-pattern-acrylic-sheetcmb-pattern-acrylic-382742.png?v=1674432246' alt='P0839 | Rainbow Polka Dots 1 Pattern Acrylic Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CMB Acrylics" />
+                                </span>
+                                <a href='http://www.custommadebetter.com/cdn/shop/products/rainbow-polka-dots-pattern-acrylic-sheetcmb-pattern-acrylic-382742.png?v=1674432246' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

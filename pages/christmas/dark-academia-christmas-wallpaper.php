@@ -1,0 +1,129 @@
+<title>Captivating Dark Academia Christmas Wallpapers for a Cozy Holiday Vibe</title>
+                    <meta name="description" content="Discover enchanting dark academia Christmas wallpapers that blend festive cheer with vintage charm. Perfect for transforming your devices into cozy, sophisticated spaces that celebrate the beauty of the season. Explore rich colors and classic aesthetics for a touch of holiday magic in your life.">
+                    <meta name="keywords" content="dark academia christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/dark-academia-christmas-wallpaper">
+                            <span itemprop="name">dark academia christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Dark Academia Christmas Wallpapers for a Cozy Holiday Vibe</h1>
+                <p>Embrace the cozy vibes of dark academia with stunning Christmas wallpapers featuring rich, moody colors and vintage aesthetics. Imagine ivy-clad libraries, warm candlelight, and classic literature intertwined with holiday cheer. Envelop your devices in the warmth of festive, scholarly scenes that inspire both nostalgia and creativity this season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Christmas   ☃️ ideas | christmas, christmas aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/16/ef/6c/16ef6c887e43cd7eb64d1e08d2e8a8df.jpg' alt='100 Christmas   ☃️ ideas | christmas, christmas aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/16/ef/6c/16ef6c887e43cd7eb64d1e08d2e8a8df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas everyone! : r/DarkAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4aeo7l21gr661.jpg' alt='Merry Christmas everyone! : r/DarkAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4aeo7l21gr661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/6f/ed/e06fed9529c31ebc25b90f6ebb8a0b6d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/6f/ed/e06fed9529c31ebc25b90f6ebb8a0b6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas! – @dark-lightacademia on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/133f051cfb53faa566c94241e394a962/b63965c852f4f5ac-a3/s640x960/d81a89ab44ee66164f8ffbf459835c6f256d4cb7.jpg' alt='Merry Christmas! – @dark-lightacademia on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/133f051cfb53faa566c94241e394a962/b63965c852f4f5ac-a3/s640x960/d81a89ab44ee66164f8ffbf459835c6f256d4cb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wodkodnxy Vintage Christmas Canvas Wall Art, Rustic Books Art Still Life  Pictures for Wall, Merry Christmas Poster Winter Print, Xmas Dark Academia  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GHIOAAslL._AC_UF894,1000_QL80_.jpg' alt='Wodkodnxy Vintage Christmas Canvas Wall Art, Rustic Books Art Still Life  Pictures for Wall, Merry Christmas Poster Winter Print, Xmas Dark Academia  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GHIOAAslL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas aesthetics- Dark Academia by geezylps on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfe172ac-9bdf-49a5-8313-6028def6052f/dfkm27k-da24c804-3a0d-416b-af36-b845c83f8294.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmZTE3MmFjLTliZGYtNDlhNS04MzEzLTYwMjhkZWY2MDUyZlwvZGZrbTI3ay1kYTI0YzgwNC0zYTBkLTQxNmItYWYzNi1iODQ1YzgzZjgyOTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.toiOBMei_7ufnHZ2JTLZY0gIoz1aal60CI-D3HadeY8' alt='Christmas aesthetics- Dark Academia by geezylps on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1380">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfe172ac-9bdf-49a5-8313-6028def6052f/dfkm27k-da24c804-3a0d-416b-af36-b845c83f8294.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmZTE3MmFjLTliZGYtNDlhNS04MzEzLTYwMjhkZWY2MDUyZlwvZGZrbTI3ay1kYTI0YzgwNC0zYTBkLTQxNmItYWYzNi1iODQ1YzgzZjgyOTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.toiOBMei_7ufnHZ2JTLZY0gIoz1aal60CI-D3HadeY8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia X Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/99/ab/6699abd230729215aefc3892e19acf73.jpg' alt='Dark Academia X Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/99/ab/6699abd230729215aefc3892e19acf73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas, Happy Holidays cottage core, vintage preparations ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/73/19/15/1000_F_473191536_Uv3aZqZ7czzmtBq1QOnVzYTTvc2D1TfK.jpg' alt='Merry Christmas, Happy Holidays cottage core, vintage preparations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/73/19/15/1000_F_473191536_Uv3aZqZ7czzmtBq1QOnVzYTTvc2D1TfK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cosy novel x Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/22/3b/8c223ba9bd00475a11e175b7bf037c5d.jpg' alt='cosy novel x Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/22/3b/8c223ba9bd00475a11e175b7bf037c5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a playlist for christmas (dark academia)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/A-OIuuV6k60/mqdefault.jpg' alt='a playlist for christmas (dark academia)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/A-OIuuV6k60/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

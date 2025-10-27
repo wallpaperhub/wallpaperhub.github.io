@@ -1,0 +1,129 @@
+<title>Beautiful Islamic Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover our stunning collection of Islamic phone wallpapers. Enhance your device with beautiful designs that reflect your faith and style. Perfect for anyone wanting to add a spiritual touch to their phone. Explore now for unique patterns and calligraphy that inspire and uplift.">
+                    <meta name="keywords" content="islam phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/islam-phone-wallpaper">
+                            <span itemprop="name">islam phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Islamic Phone Wallpapers for Your Device</h1>
+                <p>Islam phone wallpapers are a beautiful way to express your faith and personalize your device. Featuring stunning Islamic patterns, calligraphy, and serene landscapes, these wallpapers bring a sense of peace and spirituality to your phone. Browse our collection to find the perfect backdrop that resonates with your beliefs and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic Mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/da/8e/43da8e48d9833c04a3621ec54f941632.jpg' alt='Islamic Mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/da/8e/43da8e48d9833c04a3621ec54f941632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/201552.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/201552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone islamic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/203/963/HD-wallpaper-allah-athkar-god-iphone-islam-islamic-landscape-muslim-nature-thumbnail.jpg' alt='HD iphone islamic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/203/963/HD-wallpaper-allah-athkar-god-iphone-islam-islamic-landscape-muslim-nature-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/201549.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/201549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic Calligraphy AMOLED HD Smartphone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/db/18/fcdb1897835a71000cdb652129dd968b.jpg' alt='Islamic Calligraphy AMOLED HD Smartphone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/db/18/fcdb1897835a71000cdb652129dd968b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quran, phone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/822/515/HD-wallpaper-quran-phone.jpg' alt='Quran, phone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/822/515/HD-wallpaper-quran-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Mosque and crescent Islamic mobile phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/mosque-crescent-islamic-mobile-phone-wallpaper_621211-153.jpg?w=360' alt='Premium Vector | Mosque and crescent Islamic mobile phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/mosque-crescent-islamic-mobile-phone-wallpaper_621211-153.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic Wallpaper - Islamic Relief USA">
+                                <img itemprop="contentUrl url" src='https://irusa.org/wp-content/uploads/2020/07/Ramadan_PhoneLockScreen_IRUSA-1_Page_4.jpg' alt='Islamic Wallpaper - Islamic Relief USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Islamic Relief USA" />
+                                </span>
+                                <a href='https://irusa.org/wp-content/uploads/2020/07/Ramadan_PhoneLockScreen_IRUSA-1_Page_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/thumb-1920-201550.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/thumb-1920-201550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6605715.jpg' alt='Islamic Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6605715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Delicious Candy Apple Delights: Sweet Treats to Savor</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="candy apple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-apple-background">
+                            <span itemprop="name">candy apple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Candy Apple Delights: Sweet Treats to Savor</h1>
+                <p>Candy apples are a delightful treat, often associated with fairs and autumn festivals. Their shiny, caramelized outer coating encases a crisp apple, creating a perfect balance of sweet and tart. These nostalgic candies come in various colors and flavors, making them visually appealing and perfect for celebrations or simply enjoying a sweet snack.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140+ Candy Apple Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/839833982/vector/pretty-sketched-seamless-pattern-made-of-hand-drawn-caramel-apples.jpg?s=612x612&w=0&k=20&c=BybXwN_TZvssYq95fuEKtQo1zrRMKTY9y1d6yvRVitw=' alt='140+ Candy Apple Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/839833982/vector/pretty-sketched-seamless-pattern-made-of-hand-drawn-caramel-apples.jpg?s=612x612&w=0&k=20&c=BybXwN_TZvssYq95fuEKtQo1zrRMKTY9y1d6yvRVitw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Apple iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/53/5a/ab535ac67700d9dc46aa51de47573b68.jpg' alt='Candy Apple iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/53/5a/ab535ac67700d9dc46aa51de47573b68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="830+ Candy Apple Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/840870230/vector/pretty-colorful-seamless-pattern-made-of-hand-drawn-toffee-apples.jpg?s=612x612&w=0&k=20&c=JtkRgnWlT7sQFv0p9zAzC03yl40G71ZMs4tn1HsM3UU=' alt='830+ Candy Apple Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/840870230/vector/pretty-colorful-seamless-pattern-made-of-hand-drawn-toffee-apples.jpg?s=612x612&w=0&k=20&c=JtkRgnWlT7sQFv0p9zAzC03yl40G71ZMs4tn1HsM3UU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Apple" Images – Browse 4,212 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/38/87/31/360_F_1038873156_FO4x5FNts7vEn9UT1GRcuFY2JZbC8m6X.jpg' alt='Candy Apple" Images – Browse 4,212 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/38/87/31/360_F_1038873156_FO4x5FNts7vEn9UT1GRcuFY2JZbC8m6X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background of delicious candy apples 1890829 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/890/829/non_2x/background-of-delicious-candy-apples-free-vector.jpg' alt='background of delicious candy apples 1890829 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/890/829/non_2x/background-of-delicious-candy-apples-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Sugar Candy Apples On Stick Background" by Stocksy Contributor ...">
+                                <img itemprop="contentUrl url" src='https://c.stocksy.com/a/M4I100/z9/307790.jpg' alt='Red Sugar Candy Apples On Stick Background" by Stocksy Contributor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stocksy.com" />
+                                </span>
+                                <a href='https://c.stocksy.com/a/M4I100/z9/307790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toffee Apples: Over 1,259 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/toffee-apples-repeat-pattern-design-260nw-2385691311.jpg' alt='Toffee Apples: Over 1,259 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/toffee-apples-repeat-pattern-design-260nw-2385691311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Candy Apples Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/candy-apples-8082zzh39c3wrc5t.jpg' alt='100+] Candy Apples Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/candy-apples-8082zzh39c3wrc5t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eQuilter Candy Apples - Fairground Special - Candy Pink | Candy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/14/38/63/1438635bd85341b5b31d7c3d6b7bc999.jpg' alt='eQuilter Candy Apples - Fairground Special - Candy Pink | Candy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/14/38/63/1438635bd85341b5b31d7c3d6b7bc999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Apple Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1700395404050-792d46246ac5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuZHklMjBhcHBsZXxlbnwwfHwwfHx8MA%3D%3D' alt='Candy Apple Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1700395404050-792d46246ac5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuZHklMjBhcHBsZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

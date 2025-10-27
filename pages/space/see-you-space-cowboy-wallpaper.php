@@ -1,0 +1,129 @@
+<title>See You Space Cowboy: Stunning Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of enchanting "See You Space Cowboy" wallpapers designed for fans of the iconic anime. Elevate your screen with unique visuals that capture the spirit of adventure and the cosmos. Perfect for any device—explore now and find your favorite design!">
+                    <meta name="keywords" content="see you space cowboy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/see-you-space-cowboy-wallpaper">
+                            <span itemprop="name">see you space cowboy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>See You Space Cowboy: Stunning Wallpapers for Your Devices</h1>
+                <p>Transform your digital background with stunning "See You Space Cowboy" wallpapers. Featuring captivating graphics inspired by the iconic anime, these wallpapers will elevate your device's aesthetic. Whether you prefer vibrant colors or minimalist designs, find the perfect wallpaper to showcase your love for the cosmos and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 "see you space cowboy" wallpaper : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-lDQlow0zWGz-mN3Wp33fDLhm8Nwc3Z3urU6xnnN5_4.jpg?auto=webp&s=5c61cc124abcae883cea439dd7d6ab45cb0bb8e3' alt='1920x1080 "see you space cowboy" wallpaper : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-lDQlow0zWGz-mN3Wp33fDLhm8Nwc3Z3urU6xnnN5_4.jpg?auto=webp&s=5c61cc124abcae883cea439dd7d6ab45cb0bb8e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See You Space Cowboy" One of my favorite phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/oLLkWzjOsAFQ8268zLNOBsSeIprvZlOuuocxs163qxU.jpg?auto=webp&s=34605e6802848e54c41eb01203993da6df439881' alt='See You Space Cowboy" One of my favorite phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/oLLkWzjOsAFQ8268zLNOBsSeIprvZlOuuocxs163qxU.jpg?auto=webp&s=34605e6802848e54c41eb01203993da6df439881' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See You Space Cowboy Cowboy Bebop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/59/d1/84/59d1845a21b08c2a9a19f4f5d35cbe91.jpg' alt='See You Space Cowboy Cowboy Bebop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/59/d1/84/59d1845a21b08c2a9a19f4f5d35cbe91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper 16/9 VHS Style : See you space cowboy : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nym7zdjvzgx51.png' alt='Wallpaper 16/9 VHS Style : See you space cowboy : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nym7zdjvzgx51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See you space cowboy iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/48/66/e7486649f4b7f0ee1474ec91c5a493f1.jpg' alt='See you space cowboy iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/48/66/e7486649f4b7f0ee1474ec91c5a493f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See You Space Cowboy Bebop by Kanez">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/160/160389.jpeg' alt='See You Space Cowboy Bebop by Kanez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/160/160389.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See You Space Cowboy Bebop Poster">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/poster/6/8/break/images/artworkimages/medium/3/see-you-space-cowboy-bebop-salsera-store.jpg' alt='See You Space Cowboy Bebop Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/poster/6/8/break/images/artworkimages/medium/3/see-you-space-cowboy-bebop-salsera-store.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Minimalistic Wallpaper for y'all guys. (1920x1080) : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rijby1yusrf61.png?width=640&crop=smart&auto=webp&s=d12097266db87d59917effbd0d96f15ed0c5e01a' alt='A Minimalistic Wallpaper for y'all guys. (1920x1080) : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rijby1yusrf61.png?width=640&crop=smart&auto=webp&s=d12097266db87d59917effbd0d96f15ed0c5e01a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD see you space cowboy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/596/797/HD-wallpaper-see-you-space-cowboy-anime-bang-cowboy-bebop-space-cowboy-spyke-thumbnail.jpg' alt='HD see you space cowboy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/596/797/HD-wallpaper-see-you-space-cowboy-anime-bang-cowboy-bebop-space-cowboy-spyke-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See you space cowboy…” Cowboy Bebop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b4/35/fc/b435fc50829985a42198d2bbbc814a62.jpg' alt='See you space cowboy…” Cowboy Bebop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b4/35/fc/b435fc50829985a42198d2bbbc814a62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

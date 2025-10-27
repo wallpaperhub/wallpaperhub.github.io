@@ -1,0 +1,129 @@
+<title>Poinsettia Wallpaper: Festive Floral Decor for Your Home</title>
+                    <meta name="description" content="Enhance your space with stunning poinsettia wallpaper! Perfect for the festive season, our vibrant designs add warmth and charm to any room. Transform your home into a holiday haven with beautiful floral patterns that celebrate the spirit of Christmas. Ideal for living areas and more!">
+                    <meta name="keywords" content="poinsettia wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/poinsettia-wallpaper">
+                            <span itemprop="name">poinsettia wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Poinsettia Wallpaper: Festive Floral Decor for Your Home</h1>
+                <p>Poinsettia wallpaper brings the beauty of the holiday season into your home. Featuring vibrant reds and greens, these designs add warmth and charm to any room. Perfect for creating a festive atmosphere, poinsettia wallpaper is ideal for living rooms, dining areas, or cozy nooks. Embrace the joy of the season with floral elegance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Wallpapers (48 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/d/c/22799-1080x1920-phone-1080p-poinsettia-wallpaper-photo.jpg' alt='Poinsettia Wallpapers (48 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/d/c/22799-1080x1920-phone-1080p-poinsettia-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Backgrounds Images – Browse 203,489 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/38/58/99/360_F_938589973_QZFx81ZMs57dCeYBaeNKE4nfi5s1yI1d.jpg' alt='Poinsettia Backgrounds Images – Browse 203,489 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/38/58/99/360_F_938589973_QZFx81ZMs57dCeYBaeNKE4nfi5s1yI1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Backgrounds Images – Browse 203,489 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/70/42/90/360_F_70429056_4Pn3666hwJA3ihVQwK8NVkKfoopBtXQn.jpg' alt='Poinsettia Backgrounds Images – Browse 203,489 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/70/42/90/360_F_70429056_4Pn3666hwJA3ihVQwK8NVkKfoopBtXQn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56,800+ Poinsettia Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2157341303/photo/poinsettia.jpg?s=612x612&w=0&k=20&c=uxQI5_yLoOgTKUptUtg1CR1JpRvQRBTMkt70MkhLGbs=' alt='56,800+ Poinsettia Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2157341303/photo/poinsettia.jpg?s=612x612&w=0&k=20&c=uxQI5_yLoOgTKUptUtg1CR1JpRvQRBTMkt70MkhLGbs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Wallpapers (48 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/3/b/22793-1920x1080-desktop-1080p-poinsettia-background-photo.jpg' alt='Poinsettia Wallpapers (48 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/3/b/22793-1920x1080-desktop-1080p-poinsettia-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1576252137965-bfee510aaa6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9pbnNldHRpYXxlbnwwfHwwfHx8MA%3D%3D' alt='Poinsettia Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1576252137965-bfee510aaa6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9pbnNldHRpYXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Poinsettia Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/poinsettia-c3xaat7x19yccnys.jpg' alt='100+] Poinsettia Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/poinsettia-c3xaat7x19yccnys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/109/041/small/christmas-decoration-with-poinsettia-and-pine-arrangement-ai-generated-image-photo.jpg' alt='Poinsettia Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/109/041/small/christmas-decoration-with-poinsettia-and-pine-arrangement-ai-generated-image-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,200+ Christmas Poinsettia Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1088302292/photo/beautiful-red-poinsettia-flower-christmas-star.jpg?s=612x612&w=0&k=20&c=EtZo3a4ddSRVtZOlvjZZffpRBZCRAieMIXJiWXVOk7c=' alt='49,200+ Christmas Poinsettia Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1088302292/photo/beautiful-red-poinsettia-flower-christmas-star.jpg?s=612x612&w=0&k=20&c=EtZo3a4ddSRVtZOlvjZZffpRBZCRAieMIXJiWXVOk7c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poinsettia Wallpaper Stock Illustrations – 5,885 Poinsettia ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/poinsettia-seamless-wallpaper-snowflakes-white-background-46481082.jpg' alt='Poinsettia Wallpaper Stock Illustrations – 5,885 Poinsettia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/poinsettia-seamless-wallpaper-snowflakes-white-background-46481082.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

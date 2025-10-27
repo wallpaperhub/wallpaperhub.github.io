@@ -1,0 +1,129 @@
+<title>Bridget Mergens: Championing Student Rights and Empowerment</title>
+                    <meta name="description" content="Discover the inspiring journey of Bridget Mergens, a passionate advocate for student rights and educational equity. Learn how her dedication fosters inclusivity and empowers students, creating a lasting impact in communities. Join us in celebrating her contributions to positive change in education!">
+                    <meta name="keywords" content="bridget mergens">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bridget-mergens">
+                            <span itemprop="name">bridget mergens</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bridget Mergens: Championing Student Rights and Empowerment</h1>
+                <p>Bridget Mergens is an inspiring figure known for her advocacy of student rights and educational equity. As a dedicated leader, she has worked tirelessly to promote inclusivity and empower students in their academic pursuits. Her commitment to fostering positive change has made a significant impact on many communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Board of Education of the Westside Community Schools v. Mergens ...">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_565104074121_0.jpg' alt='Board of Education of the Westside Community Schools v. Mergens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_565104074121_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Court Segments with Justice Scalia & Jay Sekulow: 2. Mergens">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JNdTAvYnoIs/maxresdefault.jpg' alt='Court Segments with Justice Scalia & Jay Sekulow: 2. Mergens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JNdTAvYnoIs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freedom Express Exhibit Guide">
+                                <img itemprop="contentUrl url" src='http://documents.mccormickfoundation.org/Civics/programs/Education/FreedomExpress/ExhibitGuide/images/youbethejudge/mergens_200_147_color.jpg' alt='Freedom Express Exhibit Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freedom Express Exhibit Guide" />
+                                </span>
+                                <a href='http://documents.mccormickfoundation.org/Civics/programs/Education/FreedomExpress/ExhibitGuide/images/youbethejudge/mergens_200_147_color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Start a Satan Club at School? | Westside Community Board of  Education v. Mergens">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/swCxHTFzepQ/maxresdefault.jpg' alt='Can You Start a Satan Club at School? | Westside Community Board of  Education v. Mergens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/swCxHTFzepQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Board of Education of Westside Community Schools v. Mergens Case Brief  Summary | Law Case Explained">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/z87KoQYFJlk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gZShVMA8=&rs=AOn4CLCRltQHGAtNhn6d51MnD1Ztv9Jn0g' alt='Board of Education of Westside Community Schools v. Mergens Case Brief  Summary | Law Case Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/z87KoQYFJlk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gZShVMA8=&rs=AOn4CLCRltQHGAtNhn6d51MnD1Ztv9Jn0g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Board of Education v. Mergens (1990) -- Equal Access for Bible Clubs in  Public Schools">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7l4_01VbfIY/maxresdefault.jpg' alt='Board of Education v. Mergens (1990) -- Equal Access for Bible Clubs in  Public Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7l4_01VbfIY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bridget Mergens - Age, Phone Number, Address, Contact Info, Public ...">
+                                <img itemprop="contentUrl url" src='https://radaris.com/i/7a83d90b9ae7fd97b97acfe07d6ea71b.jpg' alt='Bridget Mergens - Age, Phone Number, Address, Contact Info, Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radaris" />
+                                </span>
+                                <a href='https://radaris.com/i/7a83d90b9ae7fd97b97acfe07d6ea71b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bridget Mergens - Age, Phone Number, Address, Contact Info, Public ...">
+                                <img itemprop="contentUrl url" src='https://radaris.com/i/43c7e0817fbf6d4bc96a74cd0f846975.jpg' alt='Bridget Mergens - Age, Phone Number, Address, Contact Info, Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radaris" />
+                                </span>
+                                <a href='https://radaris.com/i/43c7e0817fbf6d4bc96a74cd0f846975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[Board of Education v. Mergens]">
+                                <img itemprop="contentUrl url" src='https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjUxMCwid2lkdGgiOjc2OH19LCJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlcy80MjIvMTk5MDAxMDkyMjM2NDkwMDJfaGQuanBnIn0=' alt='[Board of Education v. Mergens]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C-SPAN" />
+                                </span>
+                                <a href='https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjUxMCwid2lkdGgiOjc2OH19LCJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlcy80MjIvMTk5MDAxMDkyMjM2NDkwMDJfaGQuanBnIn0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Court cases where students influenced the Constitution ...">
+                                <img itemprop="contentUrl url" src='https://constitutioncenter.org/images/uploads/blog/marybethjohntinker456.jpg' alt='Supreme Court cases where students influenced the Constitution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Constitution Center" />
+                                </span>
+                                <a href='https://constitutioncenter.org/images/uploads/blog/marybethjohntinker456.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Purple Dinosaur Wallpaper: Fun & Whimsical Designs</title>
+                    <meta name="description" content="Add a splash of fun to your walls with purple dinosaur wallpaper! Ideal for children's rooms, these vibrant designs bring joy and creativity to any space. Discover easy-to-install options that brighten up your home decor and unleash your imagination today!">
+                    <meta name="keywords" content="purple dinosaur wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-dinosaur-wallpaper">
+                            <span itemprop="name">purple dinosaur wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Dinosaur Wallpaper: Fun & Whimsical Designs</h1>
+                <p>Transform your space with vibrant purple dinosaur wallpaper! Perfect for kids' rooms or playful interiors, these designs feature adorable dinosaurs in whimsical patterns. Easy to apply and remove, they bring joy and creativity to any wall. Let your imagination roam wild with a fun and colorful atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/f5/d2/85f5d28c207ba66079ea970d26893d3b.jpg' alt='Dino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/f5/d2/85f5d28c207ba66079ea970d26893d3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨                                                  ✨ | Sfondi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/d3/a4/afd3a491ca59fca233c8982e55cd5ac6.jpg' alt='✨                                                  ✨ | Sfondi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/d3/a4/afd3a491ca59fca233c8982e55cd5ac6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Dinosaur Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-dinosaur-pattern-88ib5ly1rmj5ap0v.jpg' alt='Download Purple Dinosaur Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-dinosaur-pattern-88ib5ly1rmj5ap0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple, dinos, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/828/471/HD-wallpaper-morado-dinos.jpg' alt='Purple, dinos, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/828/471/HD-wallpaper-morado-dinos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper cute dinosaur | Starry pastel ambiance — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-dinosaure-mignon-ambiance-pastel-etoilee_700x700.jpg?v=1729273936' alt='Mural Wallpaper cute dinosaur | Starry pastel ambiance — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-dinosaure-mignon-ambiance-pastel-etoilee_700x700.jpg?v=1729273936' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/64/dd/2264ddcba47ffd0c04d7be3998a66653.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/64/dd/2264ddcba47ffd0c04d7be3998a66653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Dinosaur | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2265552562.8651/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Purple Dinosaur | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2265552562.8651/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny baby dinosaur seamless pattern on the purple background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R2NDJ8/funny-baby-dinosaur-seamless-pattern-on-the-purple-background-baby-cloth-design-wallpaper-wrapping-vector-illustration-R2NDJ8.jpg' alt='Funny baby dinosaur seamless pattern on the purple background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R2NDJ8/funny-baby-dinosaur-seamless-pattern-on-the-purple-background-baby-cloth-design-wallpaper-wrapping-vector-illustration-R2NDJ8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TikTok - Make Your Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/b9/1d/8eb91dd8477b31a27df1b092ca7be1a7.jpg' alt='TikTok - Make Your Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/b9/1d/8eb91dd8477b31a27df1b092ca7be1a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Dinosaur Collage Purple Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-dinosaur-collage-purple-aesthetic-g4t2ahs7ocm7562k.jpg' alt='Download Cute Dinosaur Collage Purple Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-dinosaur-collage-purple-aesthetic-g4t2ahs7ocm7562k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

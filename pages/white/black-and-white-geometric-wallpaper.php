@@ -1,0 +1,129 @@
+<title>Stunning Black and White Geometric Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Discover chic black and white geometric wallpaper that elevates your interior. Perfect for any room, it offers a striking design while being easy to install and remove. Upgrade your decor with this stylish choice for a contemporary look!">
+                    <meta name="keywords" content="black and white geometric wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-geometric-wallpaper">
+                            <span itemprop="name">black and white geometric wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Geometric Wallpaper for Modern Decor</h1>
+                <p>Transform your space with stunning black and white geometric wallpaper, perfect for modern and minimalist aesthetics. Its bold patterns add depth and character to any room, making it an ideal choice for accent walls or entire rooms. Easy to apply and remove, this wallpaper is a stylish solution for renters and homeowners alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angle Black & White Geometric Wallpaper Mural | WallpaperMural.com">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/products/AngleBoldBlack_WhiteGeometricWallMural_WallpaperMural.com_533x.jpg?v=1740502504' alt='Angle Black & White Geometric Wallpaper Mural | WallpaperMural.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/products/AngleBoldBlack_WhiteGeometricWallMural_WallpaperMural.com_533x.jpg?v=1740502504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Triangles Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Triangle_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Geometric_147476405_08_grande.jpg?v=1642620330' alt='Black & White Triangles Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Triangle_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Geometric_147476405_08_grande.jpg?v=1642620330' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helios Black & White Geometric Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/helios-black-white-geometric-wallpaper-pflw-l.jpg' alt='Helios Black & White Geometric Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/helios-black-white-geometric-wallpaper-pflw-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Diamond Pattern Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1719503186/articles/GE5026BW01W_roll1.jpg' alt='Black & White Diamond Pattern Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1719503186/articles/GE5026BW01W_roll1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Geometric | black & white modern wallpaper - belarteSTUDIO">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/VintageVibe-RetroGeometric-BAS00707010-Black-10.jpg?v=1699363377' alt='Retro Geometric | black & white modern wallpaper - belarteSTUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/VintageVibe-RetroGeometric-BAS00707010-Black-10.jpg?v=1699363377' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Zara Mono Geometric Wallpaper in White and Black – I ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-Zara-Mono-Geometric_white-black_ILW980117_Thumbnail_WEB.webp?v=1705416502&width=1024' alt='Sample of Zara Mono Geometric Wallpaper in White and Black – I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-Zara-Mono-Geometric_white-black_ILW980117_Thumbnail_WEB.webp?v=1705416502&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Shadow Geometric Wallpaper - White & Black">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/GM7552_Geometric_Resource_Library_Diamond_Shadow_Wallpaper_black_white.jpg?v=1577823738' alt='Diamond Shadow Geometric Wallpaper - White & Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/GM7552_Geometric_Resource_Library_Diamond_Shadow_Wallpaper_black_white.jpg?v=1577823738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' alt='Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Illusions • Simple, Modern Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/09/Wallpaper-Geometric-Illusions-Mate-Black-1-1100x1320.jpg' alt='Geometric Illusions • Simple, Modern Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/09/Wallpaper-Geometric-Illusions-Mate-Black-1-1100x1320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Geometric Shapes Self Adhesive Wall Mural - Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/d701e7/5872975222/il_fullxfull.5872975222_9ryx.jpg' alt='Black & White Geometric Shapes Self Adhesive Wall Mural - Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/d701e7/5872975222/il_fullxfull.5872975222_9ryx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

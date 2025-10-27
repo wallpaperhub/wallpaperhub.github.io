@@ -1,0 +1,129 @@
+<title>Stunning Wave PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover high-quality wave PNG images perfect for enhancing your digital designs. Ideal for websites, backgrounds, and creative projects, these versatile images capture the beauty of nature while ensuring a sleek, professional look. Elevate your work with stunning wave graphics now!">
+                    <meta name="keywords" content="wave png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wave-png">
+                            <span itemprop="name">wave png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wave PNG Images for Your Projects</h1>
+                <p>Wave PNGs are versatile image files that capture the beauty of waves in stunning detail. These high-quality graphics are ideal for digital projects, adding a touch of nature's elegance. Whether for backgrounds, websites, or creative designs, wave PNGs are perfect for bringing your visions to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/290/137/non_2x/aesthetic-wave-border-free-png.png' alt='Wave PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/290/137/non_2x/aesthetic-wave-border-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Wave PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xOV9zZWFfd2F0ZXJfb2NlYW5fd2F2ZV9pc29sYXRlX2lsbHVzdHJhdGlvbl9vbl9kNjMwMDAwMi0xMGEwLTQ2ZDYtYmVjZC01ZThhYTJkMDEwMWIucG5n.png' alt='Sea Wave PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xOV9zZWFfd2F0ZXJfb2NlYW5fd2F2ZV9pc29sYXRlX2lsbHVzdHJhdGlvbl9vbl9kNjMwMDAwMi0xMGEwLTQ2ZDYtYmVjZC01ZThhYTJkMDEwMWIucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave PNG Images, Download 42000+ Wave PNG Resources with ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230120/ourmid/pngtree-digital-ocean-wave-painting-png-image_6564274.png' alt='Wave PNG Images, Download 42000+ Wave PNG Resources with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230120/ourmid/pngtree-digital-ocean-wave-painting-png-image_6564274.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue wave png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/806/980/png-clipart-blue-wave-illustration-blue-wave-wave-blue-angle-thumbnail.png' alt='Blue wave png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/806/980/png-clipart-blue-wave-illustration-blue-wave-wave-blue-angle-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves Png Images – Browse 885,793 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/65/87/36/360_F_765873605_jJwlZlHIWRKDJ0NGQd2ThpTzux788tYx.jpg' alt='Waves Png Images – Browse 885,793 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/65/87/36/360_F_765873605_jJwlZlHIWRKDJ0NGQd2ThpTzux788tYx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Wave PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L2Rlc2lnbndpdGhtZTA5X3Bob3RvX29mX2FfcmVhbGlzdGljX3Ryb3BpY2FsX2JsdWVfd2F2ZV9jcmFzaGluZ19iNTIwZjFjNy0xOGM5LTQ2MDAtOTQxYS1mOWQ3OTU3M2RiNDcucG5n.png' alt='Sea Wave PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L2Rlc2lnbndpdGhtZTA5X3Bob3RvX29mX2FfcmVhbGlzdGljX3Ryb3BpY2FsX2JsdWVfd2F2ZV9jcmFzaGluZ19iNTIwZjFjNy0xOGM5LTQ2MDAtOTQxYS1mOWQ3OTU3M2RiNDcucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves Png Images – Browse 885,793 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/40/08/38/360_F_540083851_WPHVKF00Oxmdtsg0JYLh1ouTTjKKfiaJ.jpg' alt='Waves Png Images – Browse 885,793 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/40/08/38/360_F_540083851_WPHVKF00Oxmdtsg0JYLh1ouTTjKKfiaJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/425/354/small_2x/crashing-water-waves-illustration-ai-generative-png.png' alt='Waves PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/425/354/small_2x/crashing-water-waves-illustration-ai-generative-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Blue Glitter Wave PNG + Blue Wave SVG Graphic Bundle ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/fea843/4001680478/il_570xN.4001680478_6pc5.jpg' alt='Simple Blue Glitter Wave PNG + Blue Wave SVG Graphic Bundle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/fea843/4001680478/il_570xN.4001680478_6pc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave Vector Art PNG Images | Free Download On Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221001/ourmid/pngtree-water-waves-vector-design-png-image_6242483.png' alt='Wave Vector Art PNG Images | Free Download On Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221001/ourmid/pngtree-water-waves-vector-design-png-image_6242483.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

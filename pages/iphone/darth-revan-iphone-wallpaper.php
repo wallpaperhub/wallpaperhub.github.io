@@ -1,0 +1,129 @@
+<title>Darth Revan iPhone Wallpapers: Epic Designs for Fans</title>
+                    <meta name="description" content="Discover stunning Darth Revan iPhone wallpapers that elevate your device with epic Star Wars visuals. Perfect for fans, these wallpapers celebrate the Dark Lord's legacy with striking designs. Download now to personalize your iPhone and showcase your love for the Star Wars saga!">
+                    <meta name="keywords" content="darth revan iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/darth-revan-iphone-wallpaper">
+                            <span itemprop="name">darth revan iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Darth Revan iPhone Wallpapers: Epic Designs for Fans</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="darth raven 2020 iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/e5/45/4fe545559a4a0954b6dd60868f512529.jpg' alt='darth raven 2020 iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/e5/45/4fe545559a4a0954b6dd60868f512529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Phone Wallpaper : r/kotor">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/darth-revan-phone-wallpaper-v0-lpff74wisdrc1.jpeg?auto=webp&s=22bc20b86eea55f69277cac3a5145bdd60524dff' alt='Darth Revan Phone Wallpaper : r/kotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2625">
+                                <meta itemprop="height" content="4575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/darth-revan-phone-wallpaper-v0-lpff74wisdrc1.jpeg?auto=webp&s=22bc20b86eea55f69277cac3a5145bdd60524dff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/c/3/279395-2160x3840-iphone-4k-darth-revan-wallpaper.jpg' alt='Darth Revan Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/c/3/279395-2160x3840-iphone-4k-darth-revan-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Star Wars Lightsaber 4K Phone iPhone Wallpaper #8501b">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/image-1/b/phone-thumbnail/darth-revan-star-wars-lightsaber-knights-of-the-old-republic-4k-phone-uhdpaper.com-850.1_b-thumbnail.jpg?dl' alt='Darth Revan Star Wars Lightsaber 4K Phone iPhone Wallpaper #8501b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/image-1/b/phone-thumbnail/darth-revan-star-wars-lightsaber-knights-of-the-old-republic-4k-phone-uhdpaper.com-850.1_b-thumbnail.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Custom Art Wallpaper, HD Movies 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/darth-revan-custom-art_bGhra2eUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Darth Revan Custom Art Wallpaper, HD Movies 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/darth-revan-custom-art_bGhra2eUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You guys gave me so much love for my Revan iPhone wallpaper, I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lgf7yipsbyc61.jpg' alt='You guys gave me so much love for my Revan iPhone wallpaper, I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lgf7yipsbyc61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/83/23/f88323e7b8a2f70b1f8fca17c2aee654.jpg' alt='Darth Revan Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/83/23/f88323e7b8a2f70b1f8fca17c2aee654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth revan, cool, star wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/755/599/HD-wallpaper-darth-revan-cool-star-wars.jpg' alt='Darth revan, cool, star wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/755/599/HD-wallpaper-darth-revan-cool-star-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Knights of the Old Republic (KOTOR) Darth Revan ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/k8262iawwc891.png?auto=webp&s=cb422a2e95f9ca8785e2e75582c7868bdfd30d7f' alt='Star Wars Knights of the Old Republic (KOTOR) Darth Revan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2094">
+                                <meta itemprop="height" content="4534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/k8262iawwc891.png?auto=webp&s=cb422a2e95f9ca8785e2e75582c7868bdfd30d7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Revan Weapons Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/darth-revan-weapons-dvq8x7fm6mwhbsxt.jpg' alt='Darth Revan Weapons Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/darth-revan-weapons-dvq8x7fm6mwhbsxt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

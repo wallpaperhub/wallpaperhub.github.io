@@ -1,0 +1,129 @@
+<title>Stunning Green Wallpapers for iPhone 13 Pro</title>
+                    <meta name="description" content="Explore a collection of captivating green wallpapers for your iPhone 13 Pro. Perfect for nature lovers, these high-quality backgrounds will enhance your device’s aesthetic and bring a refreshing touch to your home screen. Download now to personalize your iPhone 13 Pro with beautiful greenery!">
+                    <meta name="keywords" content="iphone 13 pro green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-13-pro-green-wallpaper">
+                            <span itemprop="name">iphone 13 pro green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green Wallpapers for iPhone 13 Pro</h1>
+                <p>Elevate your iPhone 13 Pro with stunning green wallpapers that bring nature's tranquility to your screen. From lush forests to serene landscapes, these vibrant backgrounds are designed to showcase the device's beautiful display. Discover the perfect green wallpaper that complements your style and breathes life into your home screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new green iPhone 13 wallpapers right here - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2022/03/2041.Light_Beams_Green_Light-428w-926h@3xiphone.jpeg?quality=82&strip=all' alt='Download the new green iPhone 13 wallpapers right here - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2022/03/2041.Light_Beams_Green_Light-428w-926h@3xiphone.jpeg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new green iPhone 13 wallpapers right here - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2022/03/2031.Twist_Green_Light-390w-844h@3xiphone.jpeg?quality=82&strip=all' alt='Download the new green iPhone 13 wallpapers right here - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2022/03/2031.Twist_Green_Light-390w-844h@3xiphone.jpeg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 pro green wallpaper gradient (dark)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/37/9f/92/379f92e9dcfb19394ac32d08a72aa587.jpg' alt='iPhone 13 pro green wallpaper gradient (dark)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/37/9f/92/379f92e9dcfb19394ac32d08a72aa587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 13 Pro Max Green Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-13-pro-max-green-lights-o5mk7ege8xfi94de.jpg' alt='Iphone 13 Pro Max Green Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-13-pro-max-green-lights-o5mk7ege8xfi94de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are the new iPhone 13 series green wallpapers">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/03/Green-iPhone-13-and-iPhone-13-Pro-wallpapers-featured.jpg' alt='Here are the new iPhone 13 series green wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/03/Green-iPhone-13-and-iPhone-13-Pro-wallpapers-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Green wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/09/iOS-13-iPhone-11-Pro-wallpaper-inspired-ar72014-iPad.png' alt='Midnight Green wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3208">
+                                <meta itemprop="height" content="3208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/09/iOS-13-iPhone-11-Pro-wallpaper-inspired-ar72014-iPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Free iPhone Wallpaper . Wallpapers for iPhone 13 Pro , 13 Pro Max">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/90/80/ba9080de753e5282bb1fbe7fb1bcbe4d.jpg' alt='Top Free iPhone Wallpaper . Wallpapers for iPhone 13 Pro , 13 Pro Max'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/90/80/ba9080de753e5282bb1fbe7fb1bcbe4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Octavia Green iPhone 13 Pro Wallpaper | iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/octavia-green.png' alt='Octavia Green iPhone 13 Pro Wallpaper | iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/octavia-green.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Green Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11128235.jpg' alt='iPhone 13 Green Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11128235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone 13 Pro, Alpine Green, light beams, abstract, iOS 16, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/174/1008/HD-wallpaper-iphone-13-pro-alpine-green-light-beams-abstract-ios-16.jpg' alt='IPhone 13 Pro, Alpine Green, light beams, abstract, iOS 16, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/174/1008/HD-wallpaper-iphone-13-pro-alpine-green-light-beams-abstract-ios-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

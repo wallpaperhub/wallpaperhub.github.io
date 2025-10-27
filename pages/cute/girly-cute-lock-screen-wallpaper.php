@@ -1,0 +1,129 @@
+<title>Adorable Girly Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover an enchanting collection of girly cute lock screen wallpapers! Perfect for adding a touch of charm and personality to your phone. Explore a variety of designs, from floral to whimsical, and find the ideal wallpaper that reflects your style. Change your lock screen and spread cuteness everywhere you go!">
+                    <meta name="keywords" content="girly cute lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/girly-cute-lock-screen-wallpaper">
+                            <span itemprop="name">girly cute lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Girly Lock Screen Wallpapers for Your Phone</h1>
+                <p>Transform your device with girly cute lock screen wallpapers! Choose from pastel colors, adorable patterns, and charming designs that reflect your personality. Whether you love floral prints, cute animals, or whimsical art, there's a perfect wallpaper waiting for you. Personalize your phone and make your lock screen shine with cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminine Lock Screen Design For Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/feminine-lock-screen-design-for-iphone-odnhxybzsw3hc0cx.jpg' alt='Feminine Lock Screen Design For Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/feminine-lock-screen-design-for-iphone-odnhxybzsw3hc0cx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Kawaii Bunny Iphone Lock Screen | Pink Aesthetic Wallpaper with  Stars and Hearts">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_570xN.4126374862_o7x6.jpg' alt='Cute Pink Kawaii Bunny Iphone Lock Screen | Pink Aesthetic Wallpaper with  Stars and Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_570xN.4126374862_o7x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girly Lock Screen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-girly-lock-screen-iphone-013icv9r1yb4i8vf.jpg' alt='Cute Girly Lock Screen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-girly-lock-screen-iphone-013icv9r1yb4i8vf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/25/f4/aa25f40d56afceac9c07d37ab439770a.jpg' alt='Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/25/f4/aa25f40d56afceac9c07d37ab439770a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' alt='Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hispter cute girly lockscreen by rose">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/26/10/172610f5238d1664347f357a53c9403c.jpg' alt='Hispter cute girly lockscreen by rose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/26/10/172610f5238d1664347f357a53c9403c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' alt='100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' alt='100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notminebuthisiscute, but, cute, girly, is, lock, lockscreen, mine ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/413/7/HD-wallpaper-notminebuthisiscute-but-cute-girly-is-lock-lockscreen-mine-not-screen-this.jpg' alt='Notminebuthisiscute, but, cute, girly, is, lock, lockscreen, mine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/413/7/HD-wallpaper-notminebuthisiscute-but-cute-girly-is-lock-lockscreen-mine-not-screen-this.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen wallpaper for 2025 girls">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/heart-girly-lock-screen-iphone-4nmf9ilpdr00z4wm.jpg' alt='Lock screen wallpaper for 2025 girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/heart-girly-lock-screen-iphone-4nmf9ilpdr00z4wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

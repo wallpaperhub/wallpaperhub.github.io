@@ -1,0 +1,49 @@
+<title>DMCA</title>
+<meta name="description" content="DMCA">
+<meta name="keywords" content="DMCA">
+</head>
+<body>
+<?php include_once("././navbar.php"); ?>
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/">
+            <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page">
+            <span itemprop="name">Page</span></a>
+        <meta itemprop="position" content="2" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page/dmca">
+            <span itemprop="name">DMCA</span></a>
+        <meta itemprop="position" content="3" />
+    </li>
+</ul>
+<h1>DMCA</h1>
+<p>Giasuglory.edu.vn respects the intellectual property rights of creators, artists, and copyright holders. We are committed to complying with the provisions of the <b>Digital Millennium Copyright Act (DMCA)</b> and ensuring that copyrighted material is not used without proper authorization.</p>
+<h2>Copyright Infringement Notification</h2>
+<p>If you are a copyright owner, or an authorized agent acting on behalf of a rights holder, and you believe that content hosted on Giasuglory.edu.vn infringes your copyright, you may submit a written notification in accordance with the DMCA.</p>
+<p>Please send all infringement notices to:</p>
+<p><b>Email:</b> dmca@giasuglory.edu.vn</p>
+<p>To be effective under the DMCA, your notice must include the following information:</p>
+<ol>
+    <li>A physical or electronic signature of the copyright owner or a person authorized to act on their behalf</li>
+    <li>Identification of the copyrighted work claimed to have been infringed</li>
+    <li>A detailed description of the material that is claimed to be infringing, including its specific URL on our website</li>
+    <li>Your name, mailing address, telephone number, and email address</li>
+    <li>A statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law</li>
+    <li>A statement that the information provided in the notice is accurate and, under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the copyright owner</li>
+</ol>
+<p>Upon receipt of a valid notice, we will investigate the matter promptly. If the reported content is found to be in violation, we will remove or restrict access to the material in question as required by law.</p>
+<h2>Counter Notification</h2>
+<p>If you believe that material you submitted or own was removed or disabled as a result of a mistake or misidentification, you may file a counter notification with us. Your counter notice must comply with the requirements set forth in Section 512(g)(3) of the DMCA.</p>
+<p>Please send counter notices to the same email address: <b>dmca@giasuglory.edu.vn</b></p>
+<p>Following receipt of a valid counter-notification, we may reinstate the content if the original complainant does not file legal action within the timeframe required by law.</p>
+<h2>Important Notice</h2>
+<p>Giasuglory.edu.vn does not knowingly host or distribute content that infringes intellectual property rights. All wallpapers and images published on this website are either believed to be in the public domain, licensed for free use, or fall under fair usage for personal, non-commercial purposes.</p>
+<p>If you identify any content that may be infringing and wish to request its removal, we encourage you to contact us directly through the procedure outlined above.</p>

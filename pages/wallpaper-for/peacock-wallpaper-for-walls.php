@@ -1,0 +1,129 @@
+<title>Vibrant Peacock Wallpaper for Stunning Wall Aesthetics</title>
+                    <meta name="description" content="Discover the elegance of peacock wallpaper for your walls. Perfect for adding a unique touch to any room, these vibrant designs transform your space with nature-inspired beauty. Elevate your home decor effortlessly with our range of stunning peacock wallpaper options.">
+                    <meta name="keywords" content="peacock wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/peacock-wallpaper-for-walls">
+                            <span itemprop="name">peacock wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Peacock Wallpaper for Stunning Wall Aesthetics</h1>
+                <p>Transform your space with stunning peacock wallpaper for walls. This vibrant design brings a touch of nature's beauty indoors, featuring intricate patterns and vivid colors that create a captivating focal point in any room. Perfect for accent walls or entire spaces, peacock wallpaper offers elegance and personality to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Peacock Wallpaper, Butterfly Wall Mural, Floral Wall Decor, Old ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/65320e/3639930073/il_fullxfull.3639930073_6yx9.jpg' alt='3D Peacock Wallpaper, Butterfly Wall Mural, Floral Wall Decor, Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/65320e/3639930073/il_fullxfull.3639930073_6yx9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peacock Allegory II Blue">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/9445bbe47e4c6dc63457f99f952c2a0ea80edcc2-4000x2000.jpg?auto=format&w=4000&h=2000&rect=0,0,4000,2000' alt='Peacock Allegory II Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/9445bbe47e4c6dc63457f99f952c2a0ea80edcc2-4000x2000.jpg?auto=format&w=4000&h=2000&rect=0,0,4000,2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Peacock Feather Wallpaper, Green Wall Mural, Blue Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/2d014c/1756457034/il_570xN.1756457034_jvrs.jpg' alt='3D Peacock Feather Wallpaper, Green Wall Mural, Blue Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/2d014c/1756457034/il_570xN.1756457034_jvrs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing 3D Peacocks Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/files/3d-peacock-wallpaper-mural-custom-sizes-available-household-wallpaper-maughons-984680__2_-transformed_1024x1024.jpg?v=1691593931' alt='Amazing 3D Peacocks Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/files/3d-peacock-wallpaper-mural-custom-sizes-available-household-wallpaper-maughons-984680__2_-transformed_1024x1024.jpg?v=1691593931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper peacock on a tree, light background w08168v2">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/106000/106762/w08168v2pib4mr_1200.webp' alt='Wall Mural Photo Wallpaper peacock on a tree, light background w08168v2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/106000/106762/w08168v2pib4mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Peacock Feather Pattern Wall Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/shining-peacock-feather-wallpaper-mural-hallway_2.jpg?v=1675327069&width=1445' alt='Vibrant Peacock Feather Pattern Wall Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/shining-peacock-feather-wallpaper-mural-hallway_2.jpg?v=1675327069&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Murwall Peacock Wallpaper Soft Chinoiserie Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914QgfrG-bL._UF894,1000_QL80_.jpg' alt='Amazon.com: Murwall Peacock Wallpaper Soft Chinoiserie Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914QgfrG-bL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor peacock Mural Wallpaper | Colorful peacock feathers ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeintpaonaquarellePlumesdepaoncolorees372_1200x1200_crop_center.jpg?v=1715273380' alt='Watercolor peacock Mural Wallpaper | Colorful peacock feathers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeintpaonaquarellePlumesdepaoncolorees372_1200x1200_crop_center.jpg?v=1715273380' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Waterfall Peacock S33 Wallpaper Mural Self-adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/CFoAAOSw~wdi0mCG/s-l1200.jpg' alt='3D Waterfall Peacock S33 Wallpaper Mural Self-adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/CFoAAOSw~wdi0mCG/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peacock Showing off">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/50306/landscape/wallpaper/room85.jpg?w=2000&q=80' alt='Peacock Showing off'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/50306/landscape/wallpaper/room85.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

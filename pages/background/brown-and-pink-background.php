@@ -1,0 +1,129 @@
+<title>Charming Brown and Pink Backgrounds for Inviting Designs</title>
+                    <meta name="description" content="Discover the beauty of brown and pink backgrounds, ideal for captivating designs. This unique color combination adds warmth and comfort, enhancing your creative projects, from home decor to digital graphics. Explore how these colors can transform your space and inspire your creativity today!">
+                    <meta name="keywords" content="brown and pink background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-and-pink-background">
+                            <span itemprop="name">brown and pink background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Brown and Pink Backgrounds for Inviting Designs</h1>
+                <p>Brown and pink backgrounds create a warm and inviting atmosphere, perfect for various design projects. The earthy tones of brown blend seamlessly with the softness of pink, offering versatility in home decor, fashion, and graphics. This combination evokes feelings of comfort and tranquility, making it a popular choice for uplifting designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Brown Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-terracota-background_23-2149550080.jpg' alt='Pink And Brown Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-terracota-background_23-2149550080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Brown Wallpaper ¤">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/c8/34/47c834b712c58532c29dc8e606359607.jpg' alt='Pink and Brown Wallpaper ¤'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/c8/34/47c834b712c58532c29dc8e606359607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and brown wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/0f/9f/120f9fb97226c77b6ffbbae2747b4090.jpg' alt='Pink and brown wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/0f/9f/120f9fb97226c77b6ffbbae2747b4090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Brown Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pastel-neo-memphis-social-background-illustration_53876-147093.jpg?semt=ais_hybrid' alt='Pink Brown Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pastel-neo-memphis-social-background-illustration_53876-147093.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Brown Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/447/361/small_2x/abstract-background-pink-and-brown-gradient-background-dynamic-wavy-light-and-shadow-liquid-dynamic-shapes-abstract-composition-modern-elegant-design-background-illustration-10-eps-vector.jpg' alt='Pink And Brown Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/447/361/small_2x/abstract-background-pink-and-brown-gradient-background-dynamic-wavy-light-and-shadow-liquid-dynamic-shapes-abstract-composition-modern-elegant-design-background-illustration-10-eps-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Pink Brown Flowers on Beige - Rosie's ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3672/14756/vintage-wallpaper-206__57885.1687041582.jpg?c=2' alt='1960s Vintage Wallpaper Pink Brown Flowers on Beige - Rosie's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3672/14756/vintage-wallpaper-206__57885.1687041582.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Brown Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-beautiful-pink-yellow-brown-gray-abstract-watercolor-background-picture-image_1305750.jpg' alt='Pink And Brown Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-beautiful-pink-yellow-brown-gray-abstract-watercolor-background-picture-image_1305750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Brown Gold Ink Background Graphic by Ju Design · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/03/23/Pink-and-Brown-Gold-ink-Background-Graphics-9877000-1.png' alt='Pink and Brown Gold Ink Background Graphic by Ju Design · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/03/23/Pink-and-Brown-Gold-ink-Background-Graphics-9877000-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A pink and brown abstract background with a plant ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-brown-abstract-background-with-plant-bird_462371-2036.jpg' alt='Premium Vector | A pink and brown abstract background with a plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-brown-abstract-background-with-plant-bird_462371-2036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/44/b5/4844b5319ab2415327a10d09f9cf3c3a.jpg' alt='Pink wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/44/b5/4844b5319ab2415327a10d09f9cf3c3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

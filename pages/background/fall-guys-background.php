@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Fall Guys</title>
+                    <meta name="description" content="Dive into the fun and chaotic universe of Fall Guys! Discover engaging obstacle courses and whimsical battles that keep players of all ages entertained. Join the adventure and learn tips, tricks, and more about this beloved game! Perfect for fans and newcomers alike.">
+                    <meta name="keywords" content="fall guys background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-guys-background">
+                            <span itemprop="name">fall guys background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Fall Guys</h1>
+                <p>Fall Guys is a colorful, whimsical battle royale game featuring jellybean-like characters. Set in vibrant obstacle courses, players compete in various mini-games to be the last one standing. The chaotic and lighthearted nature of the game, combined with its charming graphics, makes it a favorite among fans of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys | Learn More">
+                                <img itemprop="contentUrl url" src='https://cdn2.unrealengine.com/fg-10-3-evg-keyart-backgroundonly-1920x1080-1920x1080-cf86998087ba.png?resize=1&w=1920' alt='Fall Guys | Learn More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fall Guys" />
+                                </span>
+                                <a href='https://cdn2.unrealengine.com/fg-10-3-evg-keyart-backgroundonly-1920x1080-1920x1080-cf86998087ba.png?resize=1&w=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys Background Themes (Perfect for your own wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-8brua7dgsutc1.png?width=640&crop=smart&auto=webp&s=c2119651fa3a4ee5e6df3fe60262331099100c70' alt='Fall Guys Background Themes (Perfect for your own wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-8brua7dgsutc1.png?width=640&crop=smart&auto=webp&s=c2119651fa3a4ee5e6df3fe60262331099100c70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys Background Themes (Perfect for your own wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-b42iifztsutc1.png?width=1365&format=png&auto=webp&s=b99644e414d5b796aecbc505d276552e8a08f29f' alt='Fall Guys Background Themes (Perfect for your own wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-b42iifztsutc1.png?width=1365&format=png&auto=webp&s=b99644e414d5b796aecbc505d276552e8a08f29f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys Background Themes (Part 2) (Perfect for your own ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fall-guys-background-themes-part-2-perfect-for-your-own-v0-zhh7avx6l1wc1.png?width=1080&crop=smart&auto=webp&s=471f7af5712623a276cb44fed002a165ba485f05' alt='Fall Guys Background Themes (Part 2) (Perfect for your own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fall-guys-background-themes-part-2-perfect-for-your-own-v0-zhh7avx6l1wc1.png?width=1080&crop=smart&auto=webp&s=471f7af5712623a276cb44fed002a165ba485f05' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blind / Low Vision Game Review - Fall Guys - Game Accessibility Nexus">
+                                <img itemprop="contentUrl url" src='https://www.gameaccessibilitynexus.com/wp-content/uploads/2020/08/Fall-Guys-Header-01.jpg' alt='Blind / Low Vision Game Review - Fall Guys - Game Accessibility Nexus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Accessibility Nexus" />
+                                </span>
+                                <a href='https://www.gameaccessibilitynexus.com/wp-content/uploads/2020/08/Fall-Guys-Header-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys Background Themes (Perfect for your own wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-21e67zjnsutc1.png?width=1365&format=png&auto=webp&s=2e7c73b6b37d91fa57afef4048e5a187a2b942dd' alt='Fall Guys Background Themes (Perfect for your own wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-21e67zjnsutc1.png?width=1365&format=png&auto=webp&s=2e7c73b6b37d91fa57afef4048e5a187a2b942dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys ✖️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/87/f0/ed87f0cb961e3e93b72baeed3aacadf6.jpg' alt='Fall Guys ✖️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/87/f0/ed87f0cb961e3e93b72baeed3aacadf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Fall Guys HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/125/1250786.jpg' alt='Download Video Game Fall Guys HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/125/1250786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Guys Background Themes (Perfect for your own wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-q4jmo34hsutc1.png?width=1364&format=png&auto=webp&s=c9ef9aaf0808fbacaaec0cb9f3cb7d78bad2a4de' alt='Fall Guys Background Themes (Perfect for your own wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fall-guys-background-themes-perfect-for-your-own-wallpaper-v0-q4jmo34hsutc1.png?width=1364&format=png&auto=webp&s=c9ef9aaf0808fbacaaec0cb9f3cb7d78bad2a4de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="64 Fall Guys ideas | guys, fall, the fall guy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/38/bf/e938bf1315b7802fb0d7c88d49a05094.jpg' alt='64 Fall Guys ideas | guys, fall, the fall guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/38/bf/e938bf1315b7802fb0d7c88d49a05094.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

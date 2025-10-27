@@ -1,0 +1,129 @@
+<title>Charming Farm Theme Backgrounds for Your Projects</title>
+                    <meta name="description" content="Explore our collection of captivating farm theme backgrounds, perfect for enhancing your projects. From scenic fields to playful animals, these visuals bring the joy of rural life to life. Ideal for websites, invitations, and social media, discover the beauty of farms at your fingertips!">
+                    <meta name="keywords" content="farm theme background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/farm-theme-background">
+                            <span itemprop="name">farm theme background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Farm Theme Backgrounds for Your Projects</h1>
+                <p>Farm theme backgrounds evoke a sense of rustic charm and agricultural beauty. Featuring lush fields, farm animals, and vibrant barns, these visuals create an inviting atmosphere perfect for various projects. Ideal for websites, invitations, or social media, they transport viewers to a peaceful countryside, celebrating the simplicity of farm life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 10x8ft Farm Red Barn Backdrop Cartoon Barn House Door Sky  Animals Farm Theme Background Happy Birthday Baby Shower Kids Children  Portrait ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vlvdj5PFL.jpg' alt='Amazon.com : 10x8ft Farm Red Barn Backdrop Cartoon Barn House Door Sky  Animals Farm Theme Background Happy Birthday Baby Shower Kids Children  Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vlvdj5PFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm theme frame 1 Stock Vector Image & Art - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WWR512/farm-theme-frame-1-WWR512.jpg' alt='Farm theme frame 1 Stock Vector Image & Art - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WWR512/farm-theme-frame-1-WWR512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm Red Barn Birthday Backdrop, Kids Birthday Party Banner ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12802782/r/il/aa23c1/4979407422/il_fullxfull.4979407422_ri3e.jpg' alt='Farm Red Barn Birthday Backdrop, Kids Birthday Party Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12802782/r/il/aa23c1/4979407422/il_fullxfull.4979407422_ri3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm Theme Photography Background Baby Shower Red Barn Barnyard ...">
+                                <img itemprop="contentUrl url" src='http://www.dreamybackdrop.com/cdn/shop/products/Mehofond-Farm-Theme-Photography-Background-Red-Barn-Barnyard-Animals-Backdrops-Birthday-Party-Photocall-Photo-Studio_1024x.jpg?v=1597649858' alt='Farm Theme Photography Background Baby Shower Red Barn Barnyard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='http://www.dreamybackdrop.com/cdn/shop/products/Mehofond-Farm-Theme-Photography-Background-Red-Barn-Barnyard-Animals-Backdrops-Birthday-Party-Photocall-Photo-Studio_1024x.jpg?v=1597649858' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avezano Farm Backdrop Rustic Farm Theme Birthday Baby Shower Party  Decorations for Kids Boho Barn Farm Animals Boho Floral Photography  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aVAwUPF+L._AC_UF894,1000_QL80_.jpg' alt='Avezano Farm Backdrop Rustic Farm Theme Birthday Baby Shower Party  Decorations for Kids Boho Barn Farm Animals Boho Floral Photography  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aVAwUPF+L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmland Theme Stock Illustrations – 802 Farmland Theme Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/farmland-theme-background-eps-vector-illustration-88106529.jpg' alt='Farmland Theme Stock Illustrations – 802 Farmland Theme Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/farmland-theme-background-eps-vector-illustration-88106529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm Red Barn Backdrop for Kids Party Cartoon Farm Animals 1st Birthday  Party Photoshoot Photography Background Farm Theme Party Cake Table Banner  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Farm-Red-Barn-Backdrop-Kids-Party-Cartoon-Animals-1st-Birthday-Photoshoot-Photography-Background-Theme-Cake-Table-Banner-Photobooth-Decorations_10925edf-6cd1-434e-b2aa-43132f4b0a84.796bc819b21822f3b31d09f5e7943474.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Farm Red Barn Backdrop for Kids Party Cartoon Farm Animals 1st Birthday  Party Photoshoot Photography Background Farm Theme Party Cake Table Banner  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Farm-Red-Barn-Backdrop-Kids-Party-Cartoon-Animals-1st-Birthday-Photoshoot-Photography-Background-Theme-Cake-Table-Banner-Photobooth-Decorations_10925edf-6cd1-434e-b2aa-43132f4b0a84.796bc819b21822f3b31d09f5e7943474.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm Theme Background With Farm Animals Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1254028317/vector/farm-theme-background-with-farm-animals.jpg?s=1024x1024&w=is&k=20&c=65PFN_TTwU5Y5Cd2Wybtc6pJtptJLDAGhfur9w7nd5U=' alt='Farm Theme Background With Farm Animals Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1254028317/vector/farm-theme-background-with-farm-animals.jpg?s=1024x1024&w=is&k=20&c=65PFN_TTwU5Y5Cd2Wybtc6pJtptJLDAGhfur9w7nd5U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border frame template with farm theme background 1591668 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/591/668/non_2x/border-frame-template-with-farm-theme-background-free-vector.jpg' alt='Border frame template with farm theme background 1591668 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/591/668/non_2x/border-frame-template-with-farm-theme-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Farm Theme Buntings Background Illustration Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/18/17/28/1000_F_318172891_3OmQtdp6kX8J2pmjs1QK936X4sTGIOpB.jpg' alt='Party Farm Theme Buntings Background Illustration Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/18/17/28/1000_F_318172891_3OmQtdp6kX8J2pmjs1QK936X4sTGIOpB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

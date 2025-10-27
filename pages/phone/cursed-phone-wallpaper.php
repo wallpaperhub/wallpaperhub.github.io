@@ -1,0 +1,129 @@
+<title>Cursed Phone Wallpapers: Unleash the Weirdness!</title>
+                    <meta name="description" content="Discover the bizarre world of cursed phone wallpapers! Dive into a collection of eerie and humorous designs that captivate and unsettle. Perfect for making your smartphone unique, these wallpapers are sure to spark conversations and curiosity. Embrace the weirdness today!">
+                    <meta name="keywords" content="cursed phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cursed-phone-wallpaper">
+                            <span itemprop="name">cursed phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cursed Phone Wallpapers: Unleash the Weirdness!</h1>
+                <p>In the realm of digital art, cursed phone wallpapers have taken the internet by storm. These unsettling images, often humorous or eerie, blend bizarre elements that challenge the viewer's perception. Perfect for those wanting to stand out, they serve as a conversation starter, adding a touch of the unexpected to everyday screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A 'cursed' wallpaper could crash your phone with its color profile ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/dnizKThapLnamvmtqKouWL-1152-80.jpeg' alt='A 'cursed' wallpaper could crash your phone with its color profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Central" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/dnizKThapLnamvmtqKouWL-1152-80.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cursed skeleton, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/658/847/HD-wallpaper-cursed-skeleton.jpg' alt='Cursed skeleton, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/658/847/HD-wallpaper-cursed-skeleton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cryyyy babyy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/1f/fb/dd1ffb0f9924d6b2a0222a26e0554137.jpg' alt='Cryyyy babyy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/1f/fb/dd1ffb0f9924d6b2a0222a26e0554137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makano Doneru - Cursed Phone Wallpaper by CaptainLaika on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31e02c20-7a4a-4ffe-86de-d657f2d35c20/dgaf42k-7e26b17d-a623-4e45-a6aa-108f6632ce58.png/v1/fill/w_1920,h_4125,q_80,strp/makano_doneru___cursed_phone_wallpaper_by_captainlaika_dgaf42k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDEyNSIsInBhdGgiOiJcL2ZcLzMxZTAyYzIwLTdhNGEtNGZmZS04NmRlLWQ2NTdmMmQzNWMyMFwvZGdhZjQyay03ZTI2YjE3ZC1hNjIzLTRlNDUtYTZhYS0xMDhmNjYzMmNlNTgucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qJKrkidLEZagm8uvl4YtMNTEpLEaINdFmKnTjLJKvPc' alt='Makano Doneru - Cursed Phone Wallpaper by CaptainLaika on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="4125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31e02c20-7a4a-4ffe-86de-d657f2d35c20/dgaf42k-7e26b17d-a623-4e45-a6aa-108f6632ce58.png/v1/fill/w_1920,h_4125,q_80,strp/makano_doneru___cursed_phone_wallpaper_by_captainlaika_dgaf42k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDEyNSIsInBhdGgiOiJcL2ZcLzMxZTAyYzIwLTdhNGEtNGZmZS04NmRlLWQ2NTdmMmQzNWMyMFwvZGdhZjQyay03ZTI2YjE3ZC1hNjIzLTRlNDUtYTZhYS0xMDhmNjYzMmNlNTgucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qJKrkidLEZagm8uvl4YtMNTEpLEaINdFmKnTjLJKvPc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 'cursed' wallpaper photo could crash your phone if you save it ...">
+                                <img itemprop="contentUrl url" src='https://www.nzherald.co.nz/resizer/v2/NN4SCJWKR7AHKF7RF3ZEGZJRAQ.png?auth=1180bdd4fe2fcdad2ac70236f65c07ea4e88a469500a19d5ce41de17f897db81&width=576&height=613&quality=70&smart=true' alt='The 'cursed' wallpaper photo could crash your phone if you save it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NZ Herald" />
+                                </span>
+                                <a href='https://www.nzherald.co.nz/resizer/v2/NN4SCJWKR7AHKF7RF3ZEGZJRAQ.png?auth=1180bdd4fe2fcdad2ac70236f65c07ea4e88a469500a19d5ce41de17f897db81&width=576&height=613&quality=70&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cursed, cursed, phineas and ferb, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/869/3/HD-wallpaper-cursed-cursed-phineas-and-ferb.jpg' alt='Cursed, cursed, phineas and ferb, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/869/3/HD-wallpaper-cursed-cursed-phineas-and-ferb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Week In Security: Exim, Apple Sign-in, Cursed Wallpaper, And ...">
+                                <img itemprop="contentUrl url" src='https://hackaday.com/wp-content/uploads/2020/06/cursed_wallpaper.png' alt='This Week In Security: Exim, Apple Sign-in, Cursed Wallpaper, And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hackaday" />
+                                </span>
+                                <a href='https://hackaday.com/wp-content/uploads/2020/06/cursed_wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cursed' wallpaper image reportedly crashes Samsung, Google, other ...">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/17064cebe5aa1407558da77c5ca115aea4c771f8/hub/2020/06/01/4d171f09-26d0-4393-b7e8-d0c23dd7e00c/cursed-wall-paper.jpg?auto=webp&fit=crop&height=675&width=1200' alt='Cursed' wallpaper image reportedly crashes Samsung, Google, other ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/17064cebe5aa1407558da77c5ca115aea4c771f8/hub/2020/06/01/4d171f09-26d0-4393-b7e8-d0c23dd7e00c/cursed-wall-paper.jpg?auto=webp&fit=crop&height=675&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you want an extremely cursed phone wallpaper, here you go ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5nnpuanfna761.jpg' alt='If you want an extremely cursed phone wallpaper, here you go ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5nnpuanfna761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strange reason why this 'cursed' wallpaper can kill your phone ...">
+                                <img itemprop="contentUrl url" src='https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltb5d92757ac1ee045/blt2d8a543b65200fe4/67332eba3a1491ba53cbad5a/cursed_wallpaper_never_set_kills_phone.webp%3Fcrop%3D1200%2C675%2Cx0%2Cy0' alt='Strange reason why this 'cursed' wallpaper can kill your phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNILAD Tech" />
+                                </span>
+                                <a href='https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltb5d92757ac1ee045/blt2d8a543b65200fe4/67332eba3a1491ba53cbad5a/cursed_wallpaper_never_set_kills_phone.webp%3Fcrop%3D1200%2C675%2Cx0%2Cy0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Demon Slayer: Essential Background Characters You Need to Know</title>
+                    <meta name="description" content="Explore the pivotal background characters of "Demon Slayer" and how they shape the story. Discover their roles, unique stories, and how they enhance the main narrative in this exciting anime series!">
+                    <meta name="keywords" content="demon slayer background characters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/demon-slayer-background-characters">
+                            <span itemprop="name">demon slayer background characters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Slayer: Essential Background Characters You Need to Know</h1>
+                <p>In "Demon Slayer," background characters enrich the story's depth and emotional stakes. From Tanjiro's supportive family to the various demon hunters and villagers who add layers to the narrative, these characters enhance the world of demon-slaying. Their unique stories, backgrounds, and relationships contribute to the richly woven tapestry, highlighting the impact of the main cast's struggles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If the series was lengthened, it would've been awesome to see ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qql52xra9g6b1.jpg' alt='If the series was lengthened, it would've been awesome to see ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1564">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qql52xra9g6b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good looking background slayers : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/good-looking-background-slayers-v0-khsxycsnjghd1.jpeg?auto=webp&s=71190f674266bc6fe8ffcdc16b976dce42eb5ef4' alt='Good looking background slayers : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/good-looking-background-slayers-v0-khsxycsnjghd1.jpeg?auto=webp&s=71190f674266bc6fe8ffcdc16b976dce42eb5ef4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool background character : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cool-background-character-v0-md99vkpkbrcd1.png?width=640&crop=smart&auto=webp&s=e5586bba0ec1c75fc585a1b01f4de13f3d7d0b53' alt='Cool background character : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cool-background-character-v0-md99vkpkbrcd1.png?width=640&crop=smart&auto=webp&s=e5586bba0ec1c75fc585a1b01f4de13f3d7d0b53' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One of my favorite background characters. : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/swpr8izf8aic1.jpeg' alt='One of my favorite background characters. : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/swpr8izf8aic1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discuss Everything About Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f9/Confident_Corps_Member_%28Anime%29.png/revision/latest/smart/width/300/height/300?cb=20240830120324' alt='Discuss Everything About Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discuss Everything About Kimetsu no Yaiba Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f9/Confident_Corps_Member_%28Anime%29.png/revision/latest/smart/width/300/height/300?cb=20240830120324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Demon Slayer Background Characters: Aesthetic Brilliance">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7378140446108781830&location=0&aid=1988' alt='Stunning Demon Slayer Background Characters: Aesthetic Brilliance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7378140446108781830&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Demon Slayer Characters Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/demon-slayer-characters-i9rxwxxouein99xk.jpg' alt='100+] Demon Slayer Characters Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/demon-slayer-characters-i9rxwxxouein99xk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool background character : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cool-background-character-v0-qcdd5t9mmscd1.jpeg?width=740&format=pjpg&auto=webp&s=f89cc5848b0b59cc045251379c7be293572865b2' alt='Cool background character : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cool-background-character-v0-qcdd5t9mmscd1.jpeg?width=740&format=pjpg&auto=webp&s=f89cc5848b0b59cc045251379c7be293572865b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side characters nichirin : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/side-characters-nichirin-v0-8q41kl2ze4hd1.jpeg?width=720&format=pjpg&auto=webp&s=0ee1b265ad7ac4eaa7380ba06ff3fdb4de8a09b5' alt='Side characters nichirin : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/side-characters-nichirin-v0-8q41kl2ze4hd1.jpeg?width=720&format=pjpg&auto=webp&s=0ee1b265ad7ac4eaa7380ba06ff3fdb4de8a09b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Demon Slayer Characters Gathered for Battle Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/demon-slayer-characters-1920-x-1080-wallpaper-bb0aaf5tt1ofx9bo.jpg' alt='Download Demon Slayer Characters Gathered for Battle Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/demon-slayer-characters-1920-x-1080-wallpaper-bb0aaf5tt1ofx9bo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

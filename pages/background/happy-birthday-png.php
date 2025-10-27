@@ -1,0 +1,129 @@
+<title>Happy Birthday PNG Images - Download & Share</title>
+                    <meta name="description" content="Explore a vibrant collection of happy birthday PNG images! Perfect for invitations, party décor, or social media. Download high-quality designs featuring festive elements to make birthday celebrations unforgettable. Celebrate birthdays with ease using our colorful graphics!">
+                    <meta name="keywords" content="happy birthday png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-birthday-png">
+                            <span itemprop="name">happy birthday png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Happy Birthday PNG Images - Download & Share</h1>
+                <p>Happy birthday PNG images are perfect for celebrating a special day! These high-quality graphics are easy to download and share, making them ideal for parties, invitations, and social media posts. Brighten someone's birthday with colorful designs featuring cake, balloons, and cheerful texts. Express your wishes creatively!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNG Images, Birthday, Happy PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/2a/e9/2b2ae93b9d4b75022e563901d252bc09.jpg' alt='Happy Birthday PNG Images, Birthday, Happy PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/2a/e9/2b2ae93b9d4b75022e563901d252bc09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221122/ourmid/pngtree-happy-birthday-text-effect-png-image_241348.png' alt='Birthday PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221122/ourmid/pngtree-happy-birthday-text-effect-png-image_241348.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNG Transparent Clip Art​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/20243' alt='Happy Birthday PNG Transparent Clip Art​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="5113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/20243' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/103/500/small_2x/happy-birthday-design-with-heart-background-free-png.png' alt='Happy Birthday PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/103/500/small_2x/happy-birthday-design-with-heart-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNG Clip Art Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Happy-Birthday-PNG/Happy_Birthday_PNG_Clip_Art_Image-850342796.png?m=1629805887' alt='Happy Birthday PNG Clip Art Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="3710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Happy-Birthday-PNG/Happy_Birthday_PNG_Clip_Art_Image-850342796.png?m=1629805887' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Black Happy Birthday Lettering Calligraphy PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-black-happy-birthday-lettering-calligraphy-png-7040816946086032zsccmfmfr.png' alt='HD Black Happy Birthday Lettering Calligraphy PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-black-happy-birthday-lettering-calligraphy-png-7040816946086032zsccmfmfr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNG Vector Balloon Birthday Celebration - freepng">
+                                <img itemprop="contentUrl url" src='https://freepng.com/uploads/images/202402/appy-birthday-png-vector-balloon-birthday-celebration_1020x.jpg' alt='Happy Birthday PNG Vector Balloon Birthday Celebration - freepng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freepng" />
+                                </span>
+                                <a href='https://freepng.com/uploads/images/202402/appy-birthday-png-vector-balloon-birthday-celebration_1020x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Png Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/happy-birthday-lettering_1094-119.jpg' alt='Happy Birthday Png Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/happy-birthday-lettering_1094-119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday SVG, Happy Birthday PNG, Happy Birthday Vector, Cut File,  Cricut, Downloadable Digital Happy Birthday Clipart - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10129318/r/il/5a32fe/3665501320/il_1080xN.3665501320_bfq2.jpg' alt='Happy Birthday SVG, Happy Birthday PNG, Happy Birthday Vector, Cut File,  Cricut, Downloadable Digital Happy Birthday Clipart - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10129318/r/il/5a32fe/3665501320/il_1080xN.3665501320_bfq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday PNG Transparent Clip Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/b5/34/3fb5340a30599c16b050ed5060d77bfa.jpg' alt='Happy Birthday PNG Transparent Clip Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/b5/34/3fb5340a30599c16b050ed5060d77bfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

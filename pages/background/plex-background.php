@@ -1,0 +1,129 @@
+<title>Plex Backgrounds: Enhance Your Media Experience</title>
+                    <meta name="description" content="Discover the art of Plex backgrounds to elevate your media server experience. Learn how to choose stunning visuals that enhance your interface, improve navigation, and make media browsing more enjoyable. Transform your Plex library into a visually engaging experience effortlessly!">
+                    <meta name="keywords" content="plex background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/plex-background">
+                            <span itemprop="name">plex background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Plex Backgrounds: Enhance Your Media Experience</h1>
+                <p>Plex background refers to the visual and thematic elements that enhance the user experience on the Plex media server platform. It includes artwork, color schemes, and promotional visuals that make browsing personal media collections engaging. A captivating Plex background can set the tone, improve navigation, and elevate the overall aesthetic appeal of the interface.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You can't have a Plex server without a Plex Wallpaper.. : r/PleX">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xi4aatb7l60b1.jpg' alt='You can't have a Plex server without a Plex Wallpaper.. : r/PleX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xi4aatb7l60b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plex Logo Redesign: A Warmer, More Inviting Branding">
+                                <img itemprop="contentUrl url" src='https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7-0CuTySgAR-ugPZCNVzsZEtjFpRp6RtrvR2w-KVaN5GfmgKzJDPnhCy9uQaK8anhMLJRYdHq-_qlilt3vhZqidQkzbudA5P8VgpXRUyAep9WVRFc8qz4VcCgB890UZdUdlJbx5252lPc5L10ZXuRUz4?key=zYvWPr4tatYuZE-QOj1Naw' alt='Plex Logo Redesign: A Warmer, More Inviting Branding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abduzeedo" />
+                                </span>
+                                <a href='https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7-0CuTySgAR-ugPZCNVzsZEtjFpRp6RtrvR2w-KVaN5GfmgKzJDPnhCy9uQaK8anhMLJRYdHq-_qlilt3vhZqidQkzbudA5P8VgpXRUyAep9WVRFc8qz4VcCgB890UZdUdlJbx5252lPc5L10ZXuRUz4?key=zYvWPr4tatYuZE-QOj1Naw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Logo, Same Plex | Plex">
+                                <img itemprop="contentUrl url" src='https://www.plex.tv/wp-content/uploads/2022/04/new-logo-process-lines-gray.png' alt='New Logo, Same Plex | Plex'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plex" />
+                                </span>
+                                <a href='https://www.plex.tv/wp-content/uploads/2022/04/new-logo-process-lines-gray.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plex Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7617640.jpg' alt='Plex Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7617640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plex Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7617642.png' alt='Plex Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7617642.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plex Logo (Alteration) by Chris Butler on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/users/1794499/screenshots/6229450/plex_w.png?resize=400x300&vertical=center' alt='Plex Logo (Alteration) by Chris Butler on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/users/1794499/screenshots/6229450/plex_w.png?resize=400x300&vertical=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plex Media Server Wallpaper (1080P) by Napalmknight on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bdbfa50-5dc7-4dd8-a805-799371ce4281/d6dogp2-094d2f9d-f446-41ab-bf03-3900fd9dbfa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiZGJmYTUwLTVkYzctNGRkOC1hODA1LTc5OTM3MWNlNDI4MVwvZDZkb2dwMi0wOTRkMmY5ZC1mNDQ2LTQxYWItYmYwMy0zOTAwZmQ5ZGJmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jkzihlbHkhBRDCKSpTV70Cbvqlqo7LP2gl7VBRvnOt8' alt='Plex Media Server Wallpaper (1080P) by Napalmknight on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bdbfa50-5dc7-4dd8-a805-799371ce4281/d6dogp2-094d2f9d-f446-41ab-bf03-3900fd9dbfa9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiZGJmYTUwLTVkYzctNGRkOC1hODA1LTc5OTM3MWNlNDI4MVwvZDZkb2dwMi0wOTRkMmY5ZC1mNDQ2LTQxYWItYmYwMy0zOTAwZmQ5ZGJmYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jkzihlbHkhBRDCKSpTV70Cbvqlqo7LP2gl7VBRvnOt8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molecular Plex 4K Motion Background Loop - Free HD Video Clips ...">
+                                <img itemprop="contentUrl url" src='https://static.videezy.com/system/resources/thumbnails/000/005/085/original/molecular-plex-4k-motion-background-loop.jpg' alt='Molecular Plex 4K Motion Background Loop - Free HD Video Clips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videezy" />
+                                </span>
+                                <a href='https://static.videezy.com/system/resources/thumbnails/000/005/085/original/molecular-plex-4k-motion-background-loop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Eastville Entertainment">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=758679982919894' alt='Profile for Eastville Entertainment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=758679982919894' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stability - a minimal and short pre-roll for Plex I made one night ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/stability-a-minimal-and-short-pre-roll-for-plex-i-made-one-v0-iwf5o3ivzwac1.png?auto=webp&s=e2f562ee426d316397ea6e0ba9fdcc0e362d1795' alt='Stability - a minimal and short pre-roll for Plex I made one night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/stability-a-minimal-and-short-pre-roll-for-plex-i-made-one-v0-iwf5o3ivzwac1.png?auto=webp&s=e2f562ee426d316397ea6e0ba9fdcc0e362d1795' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

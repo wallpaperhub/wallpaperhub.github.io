@@ -1,0 +1,129 @@
+<title>Explore the Magic: Your Local Toy Store</title>
+                    <meta name="description" content="Dive into a world of wonder at your local toy store! Find the perfect gift among a colorful selection of toys that inspire creativity and fun. Discover exclusive deals and enriching experiences for children and families alike. Join us and let the adventure begin!">
+                    <meta name="keywords" content="toy store background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/toy-store-background">
+                            <span itemprop="name">toy store background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Magic: Your Local Toy Store</h1>
+                <p>A toy store background often features bright colors, playful designs, and whimsical elements to captivate children's imaginations. From plush animals to action figures, the ambiance invites exploration and creativity. These stores are not just retail spaces; they are realms of joy where families come together to share the love of play and discovery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Toy Store Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1278463840/vector/toy-shop-with-shelves-of-toys-big-set-of-colorful-toys-for-children-cartoon-vector.jpg?s=612x612&w=0&k=20&c=qU6nw9CdGFyChsXCgsLfgvujXqW036zMxyhQ5jhAcWQ=' alt='1,600+ Toy Store Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1278463840/vector/toy-shop-with-shelves-of-toys-big-set-of-colorful-toys-for-children-cartoon-vector.jpg?s=612x612&w=0&k=20&c=qU6nw9CdGFyChsXCgsLfgvujXqW036zMxyhQ5jhAcWQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village Toy Store">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/CHS30910x108x8crop_1800x1800.jpg?v=1624052173' alt='Village Toy Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/CHS30910x108x8crop_1800x1800.jpg?v=1624052173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,600+ Toy Store Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1499053648/photo/childrens-toy-rack-at-the-store.jpg?s=612x612&w=0&k=20&c=6ydMEA4GQOllbTUauseCi8RlftvFL9S-iWpzrUQh1LA=' alt='6,600+ Toy Store Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1499053648/photo/childrens-toy-rack-at-the-store.jpg?s=612x612&w=0&k=20&c=6ydMEA4GQOllbTUauseCi8RlftvFL9S-iWpzrUQh1LA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Shop Backdrop 20x40 | Backdrops by Charles H. Stewart">
+                                <img itemprop="contentUrl url" src='https://charleshstewart.com/wp-content/uploads/2019/02/Toy-Shop-Backdrop-1.jpg' alt='Toy Shop Backdrop 20x40 | Backdrops by Charles H. Stewart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops by Charles H. Stewart" />
+                                </span>
+                                <a href='https://charleshstewart.com/wp-content/uploads/2019/02/Toy-Shop-Backdrop-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interior Toy Store: Over 1,662 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/toy-store-interior-shelves-cartoon-260nw-2324327483.jpg' alt='Interior Toy Store: Over 1,662 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/toy-store-interior-shelves-cartoon-260nw-2324327483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Toy Store Clipart Shop Facade Digital Paper Shop With ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42587588/r/il/2a68d8/5254930968/il_570xN.5254930968_3772.jpg' alt='Watercolor Toy Store Clipart Shop Facade Digital Paper Shop With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42587588/r/il/2a68d8/5254930968/il_570xN.5254930968_3772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Store Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/kid-zone-flat-design-wallpaper_52683-77167.jpg' alt='Toy Store Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/kid-zone-flat-design-wallpaper_52683-77167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,234 Toys Store Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/games-toy-store-boxes-shop-toys-r-us-bedford-united-kingdom-98039978.jpg' alt='23,234 Toys Store Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/games-toy-store-boxes-shop-toys-r-us-bedford-united-kingdom-98039978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Shelf Images – Browse 79,117 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/16/94/99/360_F_516949982_zf11clTRZhx0QO00Rb9i3YTfaehdrCkt.jpg' alt='Toy Shelf Images – Browse 79,117 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/16/94/99/360_F_516949982_zf11clTRZhx0QO00Rb9i3YTfaehdrCkt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa's Warehouse Christmas Backdrop">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/Vintage-Toy-Shop-Photography-Backdrop-Main-CP-8270_600x.jpg?v=1727367095' alt='Santa's Warehouse Christmas Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/Vintage-Toy-Shop-Photography-Backdrop-Main-CP-8270_600x.jpg?v=1727367095' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

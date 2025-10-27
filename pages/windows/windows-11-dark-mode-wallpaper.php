@@ -1,0 +1,129 @@
+<title>Stunning Dark Mode Wallpapers for Windows 11</title>
+                    <meta name="description" content="Discover breathtaking dark mode wallpapers for Windows 11 that enhance your desktop's look and feel. Reduce eye strain while enjoying stylish designs that fit your aesthetic. Explore the collection now and elevate your Windows 11 experience!">
+                    <meta name="keywords" content="windows 11 dark mode wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-11-dark-mode-wallpaper">
+                            <span itemprop="name">windows 11 dark mode wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Mode Wallpapers for Windows 11</h1>
+                <p>Windows 11 dark mode wallpaper enhances your computing experience by providing a sleek, modern aesthetic. Dark mode reduces eye strain and gives your desktop a stylish appearance. Choose from a variety of stunning designs, from abstract patterns to scenic landscapes, to match your personal style while enjoying the benefits of lower screen glare.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Blue Abstract Dark Mode 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-3840x2400-5630.jpg' alt='Windows 11 Blue Abstract Dark Mode 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-3840x2400-5630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made high quality dark mode wallpapers windows 11. just wanted ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jn2ear0ah9n91.jpg' alt='I made high quality dark mode wallpapers windows 11. just wanted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jn2ear0ah9n91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a dark mode version of the Windows 11 SE wallpaper! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lifyazczarz71.png?width=2560&format=png&auto=webp&s=5cedb027194e9d44830665300fd30efb5ca2318d' alt='I made a dark mode version of the Windows 11 SE wallpaper! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lifyazczarz71.png?width=2560&format=png&auto=webp&s=5cedb027194e9d44830665300fd30efb5ca2318d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Blue Abstract Dark Mode 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-1080x2160-5630.jpg' alt='Windows 11 Blue Abstract Dark Mode 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-1080x2160-5630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a DARK MODE from Windows 11 Wallpaper (5600x2400) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3qiq0ezflrv71.jpg' alt='Made a DARK MODE from Windows 11 Wallpaper (5600x2400) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3qiq0ezflrv71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Enable Dark Mode in Windows 11 | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/articles/07jULW1s5eZwbYwAgF4Zhtz-6..v1628259809.jpg' alt='How to Enable Dark Mode in Windows 11 | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/articles/07jULW1s5eZwbYwAgF4Zhtz-6..v1628259809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wish there were more Windows 11 Bloom dark theme wallpapers? Well ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*C2DkY9d0cyn_eY4X.jpg' alt='Wish there were more Windows 11 Bloom dark theme wallpapers? Well ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raffy Halim - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*C2DkY9d0cyn_eY4X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Dark Mode Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/windows-11-dark-mode-krhgja844sff07tm-2.jpg' alt='Windows 11 Dark Mode Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/windows-11-dark-mode-krhgja844sff07tm-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, AMOLED, Dark Mode">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-1080x1920-8710.jpg' alt='Windows 11 Wallpaper 4K, AMOLED, Dark Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-1080x1920-8710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Dark Mode Blue Stock Official Windows 11, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/544/144/HD-wallpaper-windows-11-dark-blue-thumbnail.jpg' alt='Windows 11 Dark Mode Blue Stock Official Windows 11, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/544/144/HD-wallpaper-windows-11-dark-blue-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

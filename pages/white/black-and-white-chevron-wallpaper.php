@@ -1,0 +1,129 @@
+<title>Stunning Black and White Chevron Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Discover stylish black and white chevron wallpaper that elevates your interior design. Perfect for creating a modern, chic atmosphere, this wallpaper is versatile for any room. Shop now to update your space with this timeless pattern!">
+                    <meta name="keywords" content="black and white chevron wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-chevron-wallpaper">
+                            <span itemprop="name">black and white chevron wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Chevron Wallpaper for Modern Decor</h1>
+                <p>Transform your space with stunning black and white chevron wallpaper, a stylish choice that brings both elegance and modern flair to any room. Its bold pattern adds visual interest while maintaining a sleek look. Perfect for accent walls or an entire room, this wallpaper complements various decor styles effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big BOHO Chevron Wallpaper Black and White. Removable Peel Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21549347/r/il/c8cb3e/4136326039/il_fullxfull.4136326039_73q1.jpg' alt='Big BOHO Chevron Wallpaper Black and White. Removable Peel Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21549347/r/il/c8cb3e/4136326039/il_fullxfull.4136326039_73q1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chevron by Albany - Black and White - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/145379/tiled/albany-chevron-black-and-white-wallpaper-tiled-145379.jpg' alt='Chevron by Albany - Black and White - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/145379/tiled/albany-chevron-black-and-white-wallpaper-tiled-145379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 590.5 in Black Chevron Removable Wall Paper Peel ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cukzgzqvL._AC_UF894,1000_QL80_.jpg' alt='Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 590.5 in Black Chevron Removable Wall Paper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cukzgzqvL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Pick-up sticks Black and White Chevron Wallpaper | MK1170 ...">
+                                <img itemprop="contentUrl url" src='http://www.d-marie-interiors.com/cdn/shop/products/psw1020rlex_9c02dabe-2ced-4885-beb0-5dc384b379df.jpg?v=1610219420' alt='Magnolia Pick-up sticks Black and White Chevron Wallpaper | MK1170 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D. Marie Interiors" />
+                                </span>
+                                <a href='http://www.d-marie-interiors.com/cdn/shop/products/psw1020rlex_9c02dabe-2ced-4885-beb0-5dc384b379df.jpg?v=1610219420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Chevron Geometric Wallpaper R7653">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/Black_WhiteBrushWallpaperR7653.jpg?v=1736261664&width=1200' alt='Black & White Chevron Geometric Wallpaper R7653'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/Black_WhiteBrushWallpaperR7653.jpg?v=1736261664&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Modern Wallpaper Geometric Wallpaper Chevron Wallpaper Peel  and Stick Wallpaper - A327">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5671733765_dqmf.jpg?v=1722527486&width=1946' alt='Black and White Modern Wallpaper Geometric Wallpaper Chevron Wallpaper Peel  and Stick Wallpaper - A327'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5671733765_dqmf.jpg?v=1722527486&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates York Wallcoverings Black and White Chevron Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71skwUV7AVL._AC_UF894,1000_QL80_.jpg' alt='RoomMates York Wallcoverings Black and White Chevron Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71skwUV7AVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Chevron Wallpaper Design #3373 /1040">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4038179737_bhsb.jpg?v=1659375819&width=1080' alt='Black and White Chevron Wallpaper Design #3373 /1040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4038179737_bhsb.jpg?v=1659375819&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOLDEN Chevron Brush Marks Black and White Non-Pasted Wallpaper (Covers 56  sq. ft.) 13040">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3c4d494c-ceb6-4a47-98f4-010ec59c4786/svn/holden-wallpaper-rolls-13040-64_300.jpg' alt='HOLDEN Chevron Brush Marks Black and White Non-Pasted Wallpaper (Covers 56  sq. ft.) 13040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3c4d494c-ceb6-4a47-98f4-010ec59c4786/svn/holden-wallpaper-rolls-13040-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white chevron wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.dekoori.com/upload/file-tap-0005-bc_6624-modna-obiektowa-czarno-biala-tapeta-w-zygzaki-chevron-szewron-wzor-sklep-dekoori-pl.webp' alt='Black and white chevron wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dekoori" />
+                                </span>
+                                <a href='https://www.dekoori.com/upload/file-tap-0005-bc_6624-modna-obiektowa-czarno-biala-tapeta-w-zygzaki-chevron-szewron-wzor-sklep-dekoori-pl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

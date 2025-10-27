@@ -1,0 +1,129 @@
+<title>Discovering Volkswagen: A Legacy of Innovation</title>
+                    <meta name="description" content="Explore the rich history of Volkswagen, from the creation of the Beetle to its evolution as a global automotive leader. Learn about its innovative models and commitment to sustainability in this concise overview of a brand that shaped the automotive landscape.">
+                    <meta name="keywords" content="volkswagen history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/volkswagen-history">
+                            <span itemprop="name">volkswagen history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Volkswagen: A Legacy of Innovation</h1>
+                <p>Volkswagen, founded in 1937 in Germany, began with the iconic Beetle designed by Ferdinand Porsche. The brand became known for affordable, reliable cars, gaining popularity post-WWII. Over the decades, it expanded globally, introducing models like the Golf and Passat. Volkswagen remains a leader in the automotive industry, emphasizing innovation and sustainability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History | Volkswagen Newsroom">
+                                <img itemprop="contentUrl url" src='https://uploads.vw-mms.de/system/production/images/vwn/038/541/images/7a518f6b63af0749cc76b913c40f306727c1dc2e/DB2022AU00258_web_1600.jpg?1649158142' alt='History | Volkswagen Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Volkswagen Newsroom" />
+                                </span>
+                                <a href='https://uploads.vw-mms.de/system/production/images/vwn/038/541/images/7a518f6b63af0749cc76b913c40f306727c1dc2e/DB2022AU00258_web_1600.jpg?1649158142' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volkswagen - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volkswagen_Logo_history.svg/300px-Volkswagen_Logo_history.svg.png' alt='Volkswagen - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volkswagen_Logo_history.svg/300px-Volkswagen_Logo_history.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volkswagen: a history of boardroom clashes and controversy ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/d8a7636e8614da07013c06533d208acbe235efd6/0_384_2824_1698/master/2824.jpg?width=1200&quality=85&auto=format&fit=max&s=71767e213c6c0d00f8d590d5ef7462ad' alt='Volkswagen: a history of boardroom clashes and controversy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/d8a7636e8614da07013c06533d208acbe235efd6/0_384_2824_1698/master/2824.jpg?width=1200&quality=85&auto=format&fit=max&s=71767e213c6c0d00f8d590d5ef7462ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Volkswagen | Humberview Volkswagen in Toronto">
+                                <img itemprop="contentUrl url" src='https://img.sm360.ca/images/article/humberviewgroup-941/114584//vw-beetle-creditvwnewsroom15768540813731684945872216.jpg' alt='History Of Volkswagen | Humberview Volkswagen in Toronto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Humberview Volkswagen" />
+                                </span>
+                                <a href='https://img.sm360.ca/images/article/humberviewgroup-941/114584//vw-beetle-creditvwnewsroom15768540813731684945872216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Volkswagen - Military AutoSource">
+                                <img itemprop="contentUrl url" src='https://blog.militaryautosource.com/wp-content/uploads/sites/5/2023/04/mas-blog-volkswagen-beetle-history.jpg' alt='The History of Volkswagen - Military AutoSource'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Military AutoSource" />
+                                </span>
+                                <a href='https://blog.militaryautosource.com/wp-content/uploads/sites/5/2023/04/mas-blog-volkswagen-beetle-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Germany's Volkswagen, the story of a car company and a nation ...">
+                                <img itemprop="contentUrl url" src='http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-10-01/AP/Volkswagen_Hometown-02c2d.jpg' alt='Germany's Volkswagen, the story of a car company and a nation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="908">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-10-01/AP/Volkswagen_Hometown-02c2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brief History: What the Heck is Volkswagen Anyway?">
+                                <img itemprop="contentUrl url" src='https://pictures.dealer.com/l/larryhmillervolkswagentucsonvw/0934/362d12f1aff8e767b4c0e903bf3f87fcx.jpg' alt='Brief History: What the Heck is Volkswagen Anyway?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Larry H. Miller Volkswagen Tucson" />
+                                </span>
+                                <a href='https://pictures.dealer.com/l/larryhmillervolkswagentucsonvw/0934/362d12f1aff8e767b4c0e903bf3f87fcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Volkswagen - Fast Company">
+                                <img itemprop="contentUrl url" src='https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/fc/1512941-the-history-of-volkswagen-panoramic.jpg' alt='The History of Volkswagen - Fast Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Company" />
+                                </span>
+                                <a href='https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/fc/1512941-the-history-of-volkswagen-panoramic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volkswagen and its British roots ... | Volkswagen Newsroom">
+                                <img itemprop="contentUrl url" src='https://uploads.vw-mms.de/system/production/images/vwn/030/478/images/021999f1738dafd4234308dd80598f99cea1b1e6/DB2019NR00996_web_1600.jpg?1649155482' alt='Volkswagen and its British roots ... | Volkswagen Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Volkswagen Newsroom" />
+                                </span>
+                                <a href='https://uploads.vw-mms.de/system/production/images/vwn/030/478/images/021999f1738dafd4234308dd80598f99cea1b1e6/DB2019NR00996_web_1600.jpg?1649155482' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excerpt: 'The People's Car' - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2013/06/02/automobiles/jpBooks5/jpBooks5-articleLarge.jpg?year=2013&h=906&w=600&s=63969ac8a91eef90288156db232ebcc996d8d7313d572bde5b873690d922ceab&k=ZQJBKqZ0VN&tw=1' alt='Excerpt: 'The People's Car' - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2013/06/02/automobiles/jpBooks5/jpBooks5-articleLarge.jpg?year=2013&h=906&w=600&s=63969ac8a91eef90288156db232ebcc996d8d7313d572bde5b873690d922ceab&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

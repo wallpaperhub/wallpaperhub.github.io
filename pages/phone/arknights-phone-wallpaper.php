@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="arknights phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/arknights-phone-wallpaper">
+                            <span itemprop="name">arknights phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Arknights wallpapers for phones, feel free to use it ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-2si07pk1dof91.png?width=1080&format=png&auto=webp&s=19b18bf8cd2658e10385c2645b46115eb66d2ef1' alt='I made Arknights wallpapers for phones, feel free to use it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-2si07pk1dof91.png?width=1080&format=png&auto=webp&s=19b18bf8cd2658e10385c2645b46115eb66d2ef1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated my Arknights Mobile Wallpaper Generator to support custom ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/k44eui19div51.png?width=640&crop=smart&auto=webp&s=0ebb8c8fca39e28da4d2bd425276ca2fbe51e878' alt='Updated my Arknights Mobile Wallpaper Generator to support custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/k44eui19div51.png?width=640&crop=smart&auto=webp&s=0ebb8c8fca39e28da4d2bd425276ca2fbe51e878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated my Arknights Mobile Wallpaper Generator to support custom ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a71f3v58div51.png' alt='Updated my Arknights Mobile Wallpaper Generator to support custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a71f3v58div51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Arknights wallpapers for phones, feel free to use it ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-p0b3pok1dof91.png?width=1080&format=png&auto=webp&s=26399aae6eab2c783f5335e8270e04b8bde7a3f7' alt='I made Arknights wallpapers for phones, feel free to use it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-p0b3pok1dof91.png?width=1080&format=png&auto=webp&s=26399aae6eab2c783f5335e8270e04b8bde7a3f7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Arknights wallpapers for phones, feel free to use it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-po05tkk1dof91.png?width=640&crop=smart&auto=webp&s=67353bffeb724f5364efa5aecae121647e0d89fa' alt='I made Arknights wallpapers for phones, feel free to use it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-po05tkk1dof91.png?width=640&crop=smart&auto=webp&s=67353bffeb724f5364efa5aecae121647e0d89fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arknights Mobile Wallpapers (1440 x 2560) || Taking requests still ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ewHQTdfp5tzGdJx1EDtqAo00bBtwMQI9ktuZ-9mdbOg.jpg?auto=webp&s=1dd4663adb64c06f3f926640fc658a777155a809' alt='Arknights Mobile Wallpapers (1440 x 2560) || Taking requests still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ewHQTdfp5tzGdJx1EDtqAo00bBtwMQI9ktuZ-9mdbOg.jpg?auto=webp&s=1dd4663adb64c06f3f926640fc658a777155a809' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Lungmen phone wallpaper : r/arknights">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f4hkus00vzf41.png' alt='Made a Lungmen phone wallpaper : r/arknights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f4hkus00vzf41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Arknights wallpapers for phones, feel free to use it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-hgclgmk1dof91.png?width=640&crop=smart&auto=webp&s=b254ad12d36a141aac3746319b93fcda624a256c' alt='I made Arknights wallpapers for phones, feel free to use it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-arknights-wallpapers-for-phones-feel-free-to-use-it-v0-hgclgmk1dof91.png?width=640&crop=smart&auto=webp&s=b254ad12d36a141aac3746319b93fcda624a256c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="surtr arknights 8k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/5b/15/cf5b15a9cc589709290259ed81dee17e.jpg' alt='surtr arknights 8k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/5b/15/cf5b15a9cc589709290259ed81dee17e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="W (Arknights) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/977/977081.jpg' alt='W (Arknights) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/977/977081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Revive Your Space with 90s Aesthetic Wallpaper</title>
+                    <meta name="description" content="Transform your home with 90s aesthetic wallpaper, featuring bold colors and fun patterns that bring back the spirit of the decade. Perfect for those seeking a nostalgic vibe, these designs add flair to any room while showcasing your unique style. Explore our collection today!">
+                    <meta name="keywords" content="90s aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/90s-aesthetic-wallpaper">
+                            <span itemprop="name">90s aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive Your Space with 90s Aesthetic Wallpaper</h1>
+                <p>Step back into the vibrant world of the 90s with aesthetic wallpaper that captures the playful essence of the decade! From neon colors and geometric patterns to retro graphics and nostalgic iconography, 90s aesthetic wallpaper brings a sense of fun and nostalgia to your space. Revive your walls with these eye-catching designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/4c/1b/3a4c1b23876ea997c5691f361105d470.jpg' alt='90s aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/4c/1b/3a4c1b23876ea997c5691f361105d470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s/00s themed aesthetic!⚡️ | Tupac wallpaper, Hip hop artwork ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/cf/60/aecf60e57de6c2facd0d98f13174566a.jpg' alt='90s/00s themed aesthetic!⚡️ | Tupac wallpaper, Hip hop artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/cf/60/aecf60e57de6c2facd0d98f13174566a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage 90s Pink Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vintage-90s-pink-aesthetic-704r7ddpwy4iz0qp.jpg' alt='Vintage 90s Pink Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vintage-90s-pink-aesthetic-704r7ddpwy4iz0qp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Perfect 90s Grunge Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/90s-grunge-aesthetic-szbum954magqmh9m.jpg' alt='Download The Perfect 90s Grunge Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/90s-grunge-aesthetic-szbum954magqmh9m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage 90's Record Store Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-90-s-record-store-aesthetic-sko6bmm3fwphjt58.jpg' alt='Vintage 90's Record Store Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-90-s-record-store-aesthetic-sko6bmm3fwphjt58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free 90s Aesthetic Collage Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/90s-aesthetic-collage-v88x2lwz41rqmr25.jpg' alt='Download free 90s Aesthetic Collage Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/90s-aesthetic-collage-v88x2lwz41rqmr25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Step back into the 90's - Ultimate Vintage Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baddie-vintage-90-s-aesthetic-1152-x-2048-wallpaper-3bcwqcyj3kamxzmo.jpg' alt='Download Step back into the 90's - Ultimate Vintage Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baddie-vintage-90-s-aesthetic-1152-x-2048-wallpaper-3bcwqcyj3kamxzmo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/6e/ac/556eace81292724fa9233661abe9dfe3.jpg' alt='90s aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/6e/ac/556eace81292724fa9233661abe9dfe3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s collage wallpaper | Iphone wallpaper vintage, Retro art prints ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3f/93/3d/3f933d5468ffd0690dec1702faef8723.jpg' alt='90s collage wallpaper | Iphone wallpaper vintage, Retro art prints ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3f/93/3d/3f933d5468ffd0690dec1702faef8723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRG CLIPS (@trg_clips2nasty)’s videos with original sound - TRG CLIPS |  TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7355990497015483691&location=0&aid=1988' alt='TRG CLIPS (@trg_clips2nasty)’s videos with original sound - TRG CLIPS |  TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7355990497015483691&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

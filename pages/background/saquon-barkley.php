@@ -1,0 +1,129 @@
+<title>Unleashing Saquon Barkley: The Star of the NFL</title>
+                    <meta name="description" content="Discover the impact of Saquon Barkley, the New York Giants' electrifying running back. Explore his journey, stats, and contributions to the NFL. Stay updated on his performances and learn more about what makes him a standout player in professional football.">
+                    <meta name="keywords" content="saquon barkley">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/saquon-barkley">
+                            <span itemprop="name">saquon barkley</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing Saquon Barkley: The Star of the NFL</h1>
+                <p>Saquon Barkley, the dynamic running back for the New York Giants, is known for his explosive speed and versatility on the field. A standout player from Penn State, he quickly became a fan favorite and a key player for his team. With impressive stats and a compelling story, Barkley continues to make waves in the NFL.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saquon Barkley - Philadelphia Eagles Running Back - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3929630.png' alt='Saquon Barkley - Philadelphia Eagles Running Back - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3929630.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schefter] Eagles are rewarding Saquon Barkley with a two-year ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/schefter-eagles-are-rewarding-saquon-barkley-with-a-two-v0-K4jGfL7146Kl2oTMltz-WuV8LNL_nrOmLBGPgzkH4tk.jpg?width=640&crop=smart&auto=webp&s=da75ac5249787edfd033a53c5c73fc4c83be4454' alt='Schefter] Eagles are rewarding Saquon Barkley with a two-year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/schefter-eagles-are-rewarding-saquon-barkley-with-a-two-v0-K4jGfL7146Kl2oTMltz-WuV8LNL_nrOmLBGPgzkH4tk.jpg?width=640&crop=smart&auto=webp&s=da75ac5249787edfd033a53c5c73fc4c83be4454' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sources - Eagles reward Saquon Barkley with $41.2M extension - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2025/0129/r1444759_1296x729_16-9.jpg' alt='Sources - Eagles reward Saquon Barkley with $41.2M extension - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2025/0129/r1444759_1296x729_16-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saquon Barkley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Saquon_Barkley_112024.jpg' alt='Saquon Barkley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7c/Saquon_Barkley_112024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saquon Barkley Stats, News and Video - RB | NFL.com">
+                                <img itemprop="contentUrl url" src='https://static.www.nfl.com/image/upload/t_player_profile_landscape/f_auto/league/ugiuanl8bf6uoya5mgid' alt='Saquon Barkley Stats, News and Video - RB | NFL.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFL.com" />
+                                </span>
+                                <a href='https://static.www.nfl.com/image/upload/t_player_profile_landscape/f_auto/league/ugiuanl8bf6uoya5mgid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3409472381540223229' alt='    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3409472381540223229' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagles reportedly make $41m Saquon Barkley highest-paid running ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/61d7fd51a6a9c4d30390fa638a6b29b9cc1781ac/0_156_3880_2328/master/3880.jpg?width=465&dpr=1&s=none&crop=none' alt='Eagles reportedly make $41m Saquon Barkley highest-paid running ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/61d7fd51a6a9c4d30390fa638a6b29b9cc1781ac/0_156_3880_2328/master/3880.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Eagles' Saquon Barkley became the most dangerous player in the ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/241231-Saquon-Barkley-ew-1257p-389f14.jpg' alt='How Eagles' Saquon Barkley became the most dangerous player in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/241231-Saquon-Barkley-ew-1257p-389f14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saquon Barkley could be latest in line of free agents who helped ...">
+                                <img itemprop="contentUrl url" src='https://www.kxan.com/wp-content/uploads/sites/40/2025/01/679cdd6aeebd12.17564901.jpeg?w=2560&h=1440&crop=1' alt='Saquon Barkley could be latest in line of free agents who helped ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KXAN" />
+                                </span>
+                                <a href='https://www.kxan.com/wp-content/uploads/sites/40/2025/01/679cdd6aeebd12.17564901.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highest-paid running backs in the NFL: Eagles' Saquon Barkley third">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/04/USAT/76042838007-usatsi-24668026.jpg?crop=2981,1678,x0,y27&width=660&height=371&format=pjpg&auto=webp' alt='Highest-paid running backs in the NFL: Eagles' Saquon Barkley third'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/04/USAT/76042838007-usatsi-24668026.jpg?crop=2981,1678,x0,y27&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

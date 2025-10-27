@@ -1,0 +1,129 @@
+<title>The Gilded Age: A Era of Prosperity and Inequality</title>
+                    <meta name="description" content="Discover the Gilded Age, a transformative period in U.S. history defined by industrial growth, wealth inequality, and social change. Explore the impacts of this era on today’s society and the legacy of labor movements sparked during this time.">
+                    <meta name="keywords" content="what was the gilded age">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-was-the-gilded-age">
+                            <span itemprop="name">what was the gilded age</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Gilded Age: A Era of Prosperity and Inequality</h1>
+                <p>The Gilded Age, spanning the late 19th century, was marked by rapid industrialization, economic growth, and significant social change in the United States. This era saw the rise of powerful tycoons, urbanization, and stark wealth disparities, while also laying the groundwork for labor movements and reforms that would follow.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilded Age - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bosses_of_the_Senate_by_Joseph_Keppler.jpg/330px-The_Bosses_of_the_Senate_by_Joseph_Keppler.jpg' alt='Gilded Age - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bosses_of_the_Senate_by_Joseph_Keppler.jpg/330px-The_Bosses_of_the_Senate_by_Joseph_Keppler.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gilded Age | American Experience | Official Site | PBS">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/82/e9/82e93bcc-7928-40fe-bf10-eeebe47a020b/carnegie-gilded-age-1910-loc.jpg__2000x1207_q85_crop_subsampling-2_upscale.jpg' alt='The Gilded Age | American Experience | Official Site | PBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/82/e9/82e93bcc-7928-40fe-bf10-eeebe47a020b/carnegie-gilded-age-1910-loc.jpg__2000x1207_q85_crop_subsampling-2_upscale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lessons From the Gilded Age | The New Republic">
+                                <img itemprop="contentUrl url" src='https://images.newrepublic.com/37d2fc5db6a3be478225d4a9104e790685d85f36.png' alt='Lessons From the Gilded Age | The New Republic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1208">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Republic" />
+                                </span>
+                                <a href='https://images.newrepublic.com/37d2fc5db6a3be478225d4a9104e790685d85f36.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilded Age | Definition, Time Period & Characteristics Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/videopreview-full/dez5lqvrwz.jpg' alt='Gilded Age | Definition, Time Period & Characteristics Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/videopreview-full/dez5lqvrwz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are We Living in the Gilded Age 2.0 ? | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/06/are-we-living-in-the-gilded-age-2-0-s-featured-photo.jpg' alt='Are We Living in the Gilded Age 2.0 ? | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2933">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/06/are-we-living-in-the-gilded-age-2-0-s-featured-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Did 'The Gilded Age' Get Its Name?">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/655055-gettyimages-1257950619-59b81151873cf509b874f5033995761e.jpg' alt='How Did 'The Gilded Age' Get Its Name?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/655055-gettyimages-1257950619-59b81151873cf509b874f5033995761e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to Dressing for The Gilded Age - American Writers Museum">
+                                <img itemprop="contentUrl url" src='https://149352626.v2.pressablecdn.com/wp-content/uploads/2022/10/Gilded-Age-outfits-social-1-1.png' alt='A Guide to Dressing for The Gilded Age - American Writers Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The American Writers Museum" />
+                                </span>
+                                <a href='https://149352626.v2.pressablecdn.com/wp-content/uploads/2022/10/Gilded-Age-outfits-social-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Progress to Poverty: America's Long Gilded Age | The Nation">
+                                <img itemprop="contentUrl url" src='https://www.thenation.com/wp-content/uploads/2018/04/keppler_bosses_of_the_senate_CROP_img.jpg' alt='From Progress to Poverty: America's Long Gilded Age | The Nation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nation" />
+                                </span>
+                                <a href='https://www.thenation.com/wp-content/uploads/2018/04/keppler_bosses_of_the_senate_CROP_img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilded Age ‑ Fashion, Period & Definition | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/02/gilded-age-gettyimages-142627305.jpg' alt='Gilded Age ‑ Fashion, Period & Definition | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/02/gilded-age-gettyimages-142627305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilded Age - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/American_1902_Fourth_of_July_fireworks.jpg/330px-American_1902_Fourth_of_July_fireworks.jpg' alt='Gilded Age - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/American_1902_Fourth_of_July_fireworks.jpg/330px-American_1902_Fourth_of_July_fireworks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Pediatric Background: Essential Care for Kids</title>
+                    <meta name="description" content="Discover the critical role of pediatric background in child health. Learn how pediatricians provide tailored care addressing the unique needs of infants, children, and adolescents, ensuring their healthy development and well-being.">
+                    <meta name="keywords" content="pediatric background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pediatric-background">
+                            <span itemprop="name">pediatric background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pediatric Background: Essential Care for Kids</h1>
+                <p>Pediatric background encompasses the health care of infants, children, and adolescents, focusing on physical, emotional, and social development. Pediatricians are trained to handle unique health needs, from routine check-ups to complex illnesses. Their expertise ensures that young patients receive comprehensive care tailored to their growth stages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatric Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pediatrics-concept-stethoscope-toy-light-background_441923-12003.jpg' alt='Pediatric Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pediatrics-concept-stethoscope-toy-light-background_441923-12003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="247 Pediatrician Pattern Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1532964752/display_1500/stock-vector-vector-seamless-pattern-on-the-theme-of-pediatrics-and-children-s-health-on-white-background-1532964752.jpg' alt='247 Pediatrician Pattern Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1532964752/display_1500/stock-vector-vector-seamless-pattern-on-the-theme-of-pediatrics-and-children-s-health-on-white-background-1532964752.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatric Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pediatric-healthcare-theme-overhead-shot-stethoscope-indicative-medical-checkups-lot-pills-scattered-medications-knitted-bunny-toy-yellow-backdrop-with-room-text-ads_352249-11592.jpg' alt='Pediatric Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pediatric-healthcare-theme-overhead-shot-stethoscope-indicative-medical-checkups-lot-pills-scattered-medications-knitted-bunny-toy-yellow-backdrop-with-room-text-ads_352249-11592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="850+ Pediatric Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1491474100/vector/seamless-pattern-with-a-stethoscope-on-a-blue-background-flat-vector-illustration.jpg?s=612x612&w=0&k=20&c=zD2q6rUr2FSiojm2ttdWWOIzfOPVkM8puPO4Hm4SeAA=' alt='850+ Pediatric Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1491474100/vector/seamless-pattern-with-a-stethoscope-on-a-blue-background-flat-vector-illustration.jpg?s=612x612&w=0&k=20&c=zD2q6rUr2FSiojm2ttdWWOIzfOPVkM8puPO4Hm4SeAA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatric Background Images – Browse 91,312 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/54/88/46/360_F_254884629_srF9CWAIDDncUg1dAVQRZTMlP4VeB4Tt.jpg' alt='Pediatric Background Images – Browse 91,312 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/54/88/46/360_F_254884629_srF9CWAIDDncUg1dAVQRZTMlP4VeB4Tt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="850+ Pediatric Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/542294804/vector/medicine-seamless-pattern.jpg?s=612x612&w=0&k=20&c=2scKH-_jrvMRLogRq3HRqNRdmy7pq_EDdLht_8PefRE=' alt='850+ Pediatric Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/542294804/vector/medicine-seamless-pattern.jpg?s=612x612&w=0&k=20&c=2scKH-_jrvMRLogRq3HRqNRdmy7pq_EDdLht_8PefRE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatrics Concept. Stethoscope and Toy on a Light Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pediatrics-concept-stethoscope-toy-light-background-high-quality-photo-229054462.jpg' alt='Pediatrics Concept. Stethoscope and Toy on a Light Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pediatrics-concept-stethoscope-toy-light-background-high-quality-photo-229054462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pediatrics concept stethoscope and toy on a light ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/19/e4/2619e4a2623d85957fe6508be1bd5788.jpg' alt='Premium Photo | Pediatrics concept stethoscope and toy on a light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/19/e4/2619e4a2623d85957fe6508be1bd5788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pediatrics Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-cartoon-wind-spring-disease-prevention-pediatric-vaccine-poster-image_207395.jpg' alt='Pediatrics Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-cartoon-wind-spring-disease-prevention-pediatric-vaccine-poster-image_207395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pediatrics concept stethoscope and toy on a light ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pediatrics-concept-stethoscope-toy-light-background_441923-12033.jpg' alt='Premium Photo | Pediatrics concept stethoscope and toy on a light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pediatrics-concept-stethoscope-toy-light-background_441923-12033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

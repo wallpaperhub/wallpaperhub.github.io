@@ -1,0 +1,129 @@
+<title>Stunning Basquiat Phone Wallpapers: Art for Your Device</title>
+                    <meta name="description" content="Explore a collection of stunning Basquiat phone wallpapers that transform your device into a canvas of creativity. Perfect for art enthusiasts, these unique designs bring the vibrancy of Basquiat's work to your everyday life. Download your favorite today!">
+                    <meta name="keywords" content="basquiat phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/basquiat-phone-wallpaper">
+                            <span itemprop="name">basquiat phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Basquiat Phone Wallpapers: Art for Your Device</h1>
+                <p>Elevate your phone's aesthetic with vibrant Basquiat-inspired wallpapers! Featuring bold colors, graffiti-style art, and iconic imagery, these designs capture the essence of the legendary artist. Perfect for fans of modern art, these wallpapers add a unique touch to your device while celebrating creativity and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basquiat, art, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/236/1023/HD-wallpaper-basquiat-art.jpg' alt='Basquiat, art, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/236/1023/HD-wallpaper-basquiat-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="phone wallpaper | Graffiti style art, Basquiat art, Funky art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6c/bf/ef/6cbfefbbdc0c63d4f9671482b49f6841.jpg' alt='phone wallpaper | Graffiti style art, Basquiat art, Funky art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6c/bf/ef/6cbfefbbdc0c63d4f9671482b49f6841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K HD Wallpaper Background - Basquiat for iPhone and Android ...">
+                                <img itemprop="contentUrl url" src='http://ttpops.top/cdn/shop/files/99fa51991e927fbb012fc9a709ffcf9.jpg?v=1707321211' alt='4K HD Wallpaper Background - Basquiat for iPhone and Android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ttpop studio" />
+                                </span>
+                                <a href='http://ttpops.top/cdn/shop/files/99fa51991e927fbb012fc9a709ffcf9.jpg?v=1707321211' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basquiat wallpaper 2.0">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/dc/85/f3dc856274a633ce10eade884774c9e1.jpg' alt='basquiat wallpaper 2.0'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/dc/85/f3dc856274a633ce10eade884774c9e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean Michel Basquiat Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-painting-of-a-man-with-a-lot-of-different-things-on-it-0ucrvz38wevd32et.jpg' alt='Jean Michel Basquiat Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-painting-of-a-man-with-a-lot-of-different-things-on-it-0ucrvz38wevd32et.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TNA Album Bird on Money phone wallpaper : r/TheStrokes">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6ff692qkulr41.jpg' alt='TNA Album Bird on Money phone wallpaper : r/TheStrokes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6ff692qkulr41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jean-Michel Basquiat, American artist known for his ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jean-michel-basquiat-2c98dh9taggxglvf.jpg' alt='Download Jean-Michel Basquiat, American artist known for his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jean-michel-basquiat-2c98dh9taggxglvf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="art wallpapers — Jean-Michel Basquiat (1960 - 1988) In Italian Horn...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/42344219b9c02e45e91df2db7e9048f3/dce3b44a751da4a8-2f/s1280x1920/9795b29545b2a91c226d2d08aa98ebd449ed388e.png' alt='art wallpapers — Jean-Michel Basquiat (1960 - 1988) In Italian Horn...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="art wallpapers - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/42344219b9c02e45e91df2db7e9048f3/dce3b44a751da4a8-2f/s1280x1920/9795b29545b2a91c226d2d08aa98ebd449ed388e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/1b/71/931b711016945f02e05966e23c2be96b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/1b/71/931b711016945f02e05966e23c2be96b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Michel Basquiat Paintings HD Wallpaper and His Inspirational ...">
+                                <img itemprop="contentUrl url" src='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/32/d2/bf/32d2bf21-c109-e786-141f-c8b890c197d4/source/512x512bb.jpg' alt='Jean-Michel Basquiat Paintings HD Wallpaper and His Inspirational ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AppAdvice" />
+                                </span>
+                                <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/32/d2/bf/32d2bf21-c109-e786-141f-c8b890c197d4/source/512x512bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

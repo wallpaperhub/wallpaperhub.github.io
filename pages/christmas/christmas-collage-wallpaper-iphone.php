@@ -1,0 +1,129 @@
+<title>Festive Christmas Collage Wallpaper for iPhone</title>
+                    <meta name="description" content="Get into the holiday spirit with our beautiful Christmas collage wallpaper for iPhone! Featuring joyous themes and colorful designs, this wallpaper is perfect for celebrating Christmas and adding cheer to your device. Download now and enjoy the festive vibes every time you unlock your phone!">
+                    <meta name="keywords" content="christmas collage wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-collage-wallpaper-iphone">
+                            <span itemprop="name">christmas collage wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Collage Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with a festive Christmas collage wallpaper! Celebrate the holiday spirit with vibrant images of Christmas trees, twinkling lights, and joyful decorations all in one stunning design. Perfect for adding a touch of cheer to your device, this wallpaper captures the magic of the season. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Christmas Collage Wallpaper Ideas : Happy Holiday">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/fb/87/f2fb8722bf773fa525c76ca59e39f2ab.jpg' alt='23 Christmas Collage Wallpaper Ideas : Happy Holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/fb/87/f2fb8722bf773fa525c76ca59e39f2ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpaper Iphone Collage at Ellagoss">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e4/c8/38/e4c838d9db90f964fc5f0afd1a192a12.jpg' alt='Aesthetic Christmas Wallpaper Iphone Collage at Ellagoss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e4/c8/38/e4c838d9db90f964fc5f0afd1a192a12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/98/a6/ee98a65d762ce2d2962fd6184282c1fc.jpg' alt='Christmas Phone Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="689">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/98/a6/ee98a65d762ce2d2962fd6184282c1fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/15/3d/77/153d7787074a1b1f5c7cc1517239016f.jpg' alt='50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/15/3d/77/153d7787074a1b1f5c7cc1517239016f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Christmas Collage Aesthetic Ideas : Orange Christmas Collage 1 ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/11/christmas-aesthetic-vibes-3-7.jpg' alt='20+ Christmas Collage Aesthetic Ideas : Orange Christmas Collage 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/11/christmas-aesthetic-vibes-3-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Iphone Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-christmas-iphone-collage-6epoqka0gvnblnxf.jpg' alt='Aesthetic Christmas Iphone Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-christmas-iphone-collage-6epoqka0gvnblnxf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas iPhone collage wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/04/4e/3b044ee1959f03de151409b0cb26d5e4.jpg' alt='Christmas iPhone collage wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/04/4e/3b044ee1959f03de151409b0cb26d5e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Collage iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8109851.jpg' alt='Christmas Collage iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8109851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Christmas Collage Aesthetic Ideas : Bright Red and Green ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/11/christmas-vibes-17.jpg' alt='20+ Christmas Collage Aesthetic Ideas : Bright Red and Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/11/christmas-vibes-17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="x mas collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/d0/ac/42d0ac8f446dd3a10e975ae4a4b73dcf.jpg' alt='x mas collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/d0/ac/42d0ac8f446dd3a10e975ae4a4b73dcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Classic Blue and White Vintage Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Explore the timeless beauty of blue and white vintage wallpaper. Ideal for enhancing your home's character, this classic decor option features intricate designs that suit various styles. Transform your space with elegance and nostalgia—perfect for any room in your home!">
+                    <meta name="keywords" content="blue and white vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-vintage-wallpaper">
+                            <span itemprop="name">blue and white vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Blue and White Vintage Wallpaper for Elegant Interiors</h1>
+                <p>Blue and white vintage wallpaper brings a timeless elegance to any room. With intricate designs and classic patterns, this wallpaper creates a charming, nostalgic ambiance. Perfect for adding character to walls, it complements various decor styles, from cottage chic to modern farmhouse. Elevate your interiors with this stylish choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind Peel and Stick Wallpaper Blue and White Wallpaper Toile Removable  Self-Adhesive Wallpaper for Bedroom Bathroom Vintage Contact Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814tj1a9U-L.jpg' alt='CiCiwind Peel and Stick Wallpaper Blue and White Wallpaper Toile Removable  Self-Adhesive Wallpaper for Bedroom Bathroom Vintage Contact Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1309">
+                                <meta itemprop="height" content="1541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814tj1a9U-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humyoun Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7  Inch Blue and White Wallpaper Blue Contact Paper Removable Vintage French  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91VVAg2eVlL.jpg' alt='Humyoun Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7  Inch Blue and White Wallpaper Blue Contact Paper Removable Vintage French  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91VVAg2eVlL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Blue White Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/57778/vintage_wallpaper_blue_white_limited.jpg' alt='Vintage Wallpaper Blue White Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/57778/vintage_wallpaper_blue_white_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Farmhouse Spinney Toile Wallpaper - Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/3115-12543-wallpaper.jpg?v=1673289969' alt='Chesapeake Farmhouse Spinney Toile Wallpaper - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1538">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/3115-12543-wallpaper.jpg?v=1673289969' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dauphine by Ralph Lauren - Blue / White - Wallpaper - PRL028/03">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/93667/tiled/ralph-lauren-vintage-dauphine-blue-white-wallpaper-tiled-093667.jpg' alt='Vintage Dauphine by Ralph Lauren - Blue / White - Wallpaper - PRL028/03'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/93667/tiled/ralph-lauren-vintage-dauphine-blue-white-wallpaper-tiled-093667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Vintage Chinoiserie Garden Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/64422/blue-and-white-vintage-chinoiserie-garden-roll.jpg?w=1400&auto=format&q=40' alt='Blue and White Vintage Chinoiserie Garden Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/64422/blue-and-white-vintage-chinoiserie-garden-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Victorian Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D087">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.4980780570_9qws.jpg?v=1719887142&width=1946' alt='Blue Victorian Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D087'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.4980780570_9qws.jpg?v=1719887142&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Damask Design Blue">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2645/13755/vintage-wallpaper-17__36154.1678911205.jpg?c=2' alt='1960s Vintage Wallpaper Damask Design Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2645/13755/vintage-wallpaper-17__36154.1678911205.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper, Blue and White Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/7593f1/4692630987/il_570xN.4692630987_935b.jpg' alt='Floral Wallpaper, Blue and White Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/7593f1/4692630987/il_570xN.4692630987_935b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Vintage">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/sr/463211/5/28/0/blue-vintage-wallpaper.jpg' alt='Blue Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/sr/463211/5/28/0/blue-vintage-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

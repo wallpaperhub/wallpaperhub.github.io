@@ -1,0 +1,129 @@
+<title>Kawaii Strawberry Milk Wallpaper - Cute & Colorful Design</title>
+                    <meta name="description" content="Download our kawaii strawberry milk wallpaper for a charming and delightful aesthetic on your devices. Perfect for brightening your screen, this cute design combines sweet pastel colors and adorable illustrations. Transform your phone or desktop into a cheerful space with this trendy wallpaper!">
+                    <meta name="keywords" content="kawaii strawberry milk wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-strawberry-milk-wallpaper">
+                            <span itemprop="name">kawaii strawberry milk wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Strawberry Milk Wallpaper - Cute & Colorful Design</h1>
+                <p>Brighten up your device with adorable kawaii strawberry milk wallpaper! Featuring cute pastel colors and charming illustrations, this wallpaper is perfect for anyone who loves all things sweet and inviting. Create a cheerful atmosphere on your phone or desktop with this delightful design that's sure to make you smile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Strawberry & Milk Wallpaper From Molang - Mobile & Desktop ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/molang-desktop-wallpaper-strawberry-milk-kawaii-hoshi.jpg' alt='Cute Strawberry & Milk Wallpaper From Molang - Mobile & Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/molang-desktop-wallpaper-strawberry-milk-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Milk    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/89/4a/fe894a762a277778a0a5a189988ca4d5.jpg' alt='Strawberry Milk    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/89/4a/fe894a762a277778a0a5a189988ca4d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/35/bf/d835bf53d263905c7629f71e518db5fa.jpg' alt='                                '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/35/bf/d835bf53d263905c7629f71e518db5fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Cute Girly Strawberry Milk Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-cute-girly-strawberry-milk-ajrrsfnnx6m98412.jpg' alt='Download Kawaii Cute Girly Strawberry Milk Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-cute-girly-strawberry-milk-ajrrsfnnx6m98412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry milk, romantic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/395/423/HD-wallpaper-strawberry-milk-romantic.jpg' alt='Strawberry milk, romantic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/395/423/HD-wallpaper-strawberry-milk-romantic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute strawberry milk, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/173/328/HD-wallpaper-cute-strawberry-milk.jpg' alt='Cute strawberry milk, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/173/328/HD-wallpaper-cute-strawberry-milk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Milk iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/06/5c/5c065c9cf67ba6d1cd7d59adbf22c0a6.png' alt='Strawberry Milk iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/06/5c/5c065c9cf67ba6d1cd7d59adbf22c0a6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Food Wallpapers: Discover The Strawberry Milk Wallpaper of ...">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molangsnackwallpaper_1200x2136.png?v=1663842439' alt='Molang Food Wallpapers: Discover The Strawberry Milk Wallpaper of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molangsnackwallpaper_1200x2136.png?v=1663842439' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Milk Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/strawberry-milk-cute-iphone-wx5pl0cmqsblzxkh.webp' alt='Strawberry Milk Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/strawberry-milk-cute-iphone-wx5pl0cmqsblzxkh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Strawberry Milk YanYan the Samoyed Illustration | Cute Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/99/68/65996872bdd42063e8c4859d65552190.jpg' alt='Kawaii Strawberry Milk YanYan the Samoyed Illustration | Cute Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/99/68/65996872bdd42063e8c4859d65552190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

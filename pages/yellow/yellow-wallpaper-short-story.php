@@ -1,0 +1,129 @@
+<title>"Exploring 'The Yellow Wallpaper': A Study of Madness and Freedom"</title>
+                    <meta name="description" content="Discover the powerful themes of mental illness and female oppression in "The Yellow Wallpaper." This gripping short story by Charlotte Perkins Gilman examines the impact of isolation on a woman's psyche and her quest for freedom. Explore its haunting narrative and rich symbolism today!">
+                    <meta name="keywords" content="yellow wallpaper short story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-wallpaper-short-story">
+                            <span itemprop="name">yellow wallpaper short story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring 'The Yellow Wallpaper': A Study of Madness and Freedom"</h1>
+                <p>"The Yellow Wallpaper" is a haunting short story by Charlotte Perkins Gilman, exploring themes of mental illness and female oppression. Through the perspective of a woman confined to a nursery, it delves into the impact of isolation and societal repression on her psyche. The unsettling narrative symbolizes the struggle for identity and freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Project Gutenberg">
+                                <img itemprop="contentUrl url" src='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' alt='The Yellow Wallpaper | Project Gutenberg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Gutenberg" />
+                                </span>
+                                <a href='https://www.gutenberg.org/files/1952/1952-h/images/cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Short Story by Charlotte Perkins Gilman See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91DJxOSO4rL._UF1000,1000_QL80_.jpg' alt='The Yellow Wallpaper: Short Story by Charlotte Perkins Gilman See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91DJxOSO4rL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Yellow Wallpaper: 9781684222278: Gilman, Charlotte Perkins:  Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71jw4es2naL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: The Yellow Wallpaper: 9781684222278: Gilman, Charlotte Perkins:  Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71jw4es2naL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper and Other Stories by Charlotte Perkins Gilman ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300.jpg' alt='The Yellow Wallpaper and Other Stories by Charlotte Perkins Gilman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="244">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper and the story of Charlotte Perkins Gilman ...">
+                                <img itemprop="contentUrl url" src='https://anglozine.com/wp-content/uploads/2015/08/maxresdefault.jpg' alt='The Yellow Wallpaper and the story of Charlotte Perkins Gilman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anglozine" />
+                                </span>
+                                <a href='https://anglozine.com/wp-content/uploads/2015/08/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind The Yellow Wallpaper: A Look At Women and Mental Health ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52530fd8e4b0d0363260b750/1459207316179-8JM4UJLACFOCOSOYQYP0/yellow+wallpaper.png?format=500w' alt='Behind The Yellow Wallpaper: A Look At Women and Mental Health ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SPORK!" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52530fd8e4b0d0363260b750/1459207316179-8JM4UJLACFOCOSOYQYP0/yellow+wallpaper.png?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...">
+                                <img itemprop="contentUrl url" src='https://readinglitty.com/wp-content/uploads/2019/09/gil.jpg?w=640' alt='The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reading Litty" />
+                                </span>
+                                <a href='https://readinglitty.com/wp-content/uploads/2019/09/gil.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*CRog4-4ta_Ht73YZm5XLtg@2x.jpeg' alt='The Yellow Wallpaper — My notes. The yellow wallpaper is a short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*CRog4-4ta_Ht73YZm5XLtg@2x.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman Did More Than Write One Classic Short ...">
+                                <img itemprop="contentUrl url" src='https://www.neh.gov/sites/default/files/styles/1000x1000_square/public/2022-09/2022-Fall_web-images_Perkins-Gilman_42.jpg?h=8b9ba458&itok=PuH91xfT' alt='Charlotte Perkins Gilman Did More Than Write One Classic Short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Humanities" />
+                                </span>
+                                <a href='https://www.neh.gov/sites/default/files/styles/1000x1000_square/public/2022-09/2022-Fall_web-images_Perkins-Gilman_42.jpg?h=8b9ba458&itok=PuH91xfT' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Yellow Wallpaper: (Illustrated): 9798397513098: Gilman,  Charlotte Perkins: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pCtNPj3+L._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: The Yellow Wallpaper: (Illustrated): 9798397513098: Gilman,  Charlotte Perkins: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pCtNPj3+L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

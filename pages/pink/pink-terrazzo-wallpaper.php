@@ -1,0 +1,129 @@
+<title>Chic Pink Terrazzo Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the beauty of pink terrazzo wallpaper! Perfect for adding a touch of elegance and style to any room, this wallpaper offers a unique blend of modern design and timeless appeal. Ideal for accent walls, it easily transforms your space into a chic oasis. Explore now!">
+                    <meta name="keywords" content="pink terrazzo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-terrazzo-wallpaper">
+                            <span itemprop="name">pink terrazzo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Terrazzo Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with pink terrazzo wallpaper, blending modern design with timeless elegance. Perfect for creating a chic backdrop, this wallpaper adds texture and personality to any room. Ideal for accent walls or statement pieces, it pairs beautifully with minimalist decor, making it a trendy choice for your home or office.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Pink Terrazzo Wallpaper. Terrazzo Wallpaper. Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21549347/r/il/9911b8/2121420801/il_570xN.2121420801_j5uv.jpg' alt='Beautiful Pink Terrazzo Wallpaper. Terrazzo Wallpaper. Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21549347/r/il/9911b8/2121420801/il_570xN.2121420801_j5uv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/04/pink_terrazzo_wallpaper-2.jpg' alt='Pink Terrazzo Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/04/pink_terrazzo_wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo Texturae">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58737/pink-terrazzo-texturae.jpg?h=699&q=85' alt='Pink Terrazzo Texturae'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58737/pink-terrazzo-texturae.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo Peel And Stick Wallpaper | Wallflorashop.com">
+                                <img itemprop="contentUrl url" src='https://wallflorashop.com/cdn/shop/products/il_794xN.3015813615_7d3e.jpg?v=1707647996' alt='Pink Terrazzo Peel And Stick Wallpaper | Wallflorashop.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallflora" />
+                                </span>
+                                <a href='https://wallflorashop.com/cdn/shop/products/il_794xN.3015813615_7d3e.jpg?v=1707647996' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/04/pink_terrazzo.jpg' alt='Pink Terrazzo Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/04/pink_terrazzo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/498156/pr22/1/1280/pink-terrazzo-terrazzo-wallpaper.jpg' alt='Pink Terrazzo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/498156/pr22/1/1280/pink-terrazzo-terrazzo-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4060-139035 | Fable, Ona Pink Terrazzo Wallpaper Pink - Chesapeake">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_68273dd8-61b0-468f-87ad-f0cf596e1965.jpg?v=1665129912&width=1445' alt='4060-139035 | Fable, Ona Pink Terrazzo Wallpaper Pink - Chesapeake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_68273dd8-61b0-468f-87ad-f0cf596e1965.jpg?v=1665129912&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo Texturae">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/58737/landscape/wallpaper/room50.jpg?w=2000&q=80' alt='Pink Terrazzo Texturae'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/58737/landscape/wallpaper/room50.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper With Pink Terrazzo Pattern, Terrazzo ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/8d834c/4110034891/il_fullxfull.4110034891_4wlq.jpg' alt='Peel and Stick Wallpaper With Pink Terrazzo Pattern, Terrazzo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/8d834c/4110034891/il_fullxfull.4110034891_4wlq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Terrazzo">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/sr/498156/5/29/0/pink-terrazzo-wallpaper.jpg' alt='Pink Terrazzo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/sr/498156/5/29/0/pink-terrazzo-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

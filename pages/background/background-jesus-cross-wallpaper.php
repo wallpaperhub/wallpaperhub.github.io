@@ -1,0 +1,129 @@
+<title>Inspiring Jesus Cross Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of stunning Jesus cross wallpapers that uplift your spirit. Perfect for all devices, these inspirational backgrounds combine beauty and faith, providing daily motivation and encouragement. Download now to personalize your screen with divine artistry!">
+                    <meta name="keywords" content="background jesus cross wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-jesus-cross-wallpaper">
+                            <span itemprop="name">background jesus cross wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Jesus Cross Wallpapers for Your Devices</h1>
+                <p>Transform your device with beautiful background Jesus cross wallpaper that inspires faith and devotion. Featuring stunning images of the cross illuminated by soft light, these wallpapers will serve as a daily reminder of hope, love, and resilience. Perfect for all occasions, elevate your screen with a touch of spirituality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 6x6ft Christian Cross Appears Bright in Sky Backdrop  Jesus Christ Photography Background Our Lord Resurrection Religious Lent  Holy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61z7Z+xV4QL.jpg' alt='Amazon.com : AOFOTO 6x6ft Christian Cross Appears Bright in Sky Backdrop  Jesus Christ Photography Background Our Lord Resurrection Religious Lent  Holy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61z7Z+xV4QL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 PACK Easter Digital Background / Jesus Cross / Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15467697/r/il/406368/1882277271/il_570xN.1882277271_afwr.jpg' alt='5 PACK Easter Digital Background / Jesus Cross / Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15467697/r/il/406368/1882277271/il_570xN.1882277271_afwr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD jesus cross wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/285/402/HD-wallpaper-jesus-crucified-b-and-w-black-and-white-christ-cross-crosses-fire-jesus-son-of-god-sparkles-thumbnail.jpg' alt='HD jesus cross wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/285/402/HD-wallpaper-jesus-crucified-b-and-w-black-and-white-christ-cross-crosses-fire-jesus-son-of-god-sparkles-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 8x8ft Christian Cross Radiates Light in Sky Backdrop  Jesus Christ Photography Background Our Lord Resurrection Religious Lent  Holy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711NLnpX3jL.jpg' alt='Amazon.com : AOFOTO 8x8ft Christian Cross Radiates Light in Sky Backdrop  Jesus Christ Photography Background Our Lord Resurrection Religious Lent  Holy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711NLnpX3jL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylised Cross Jesus Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stylised-cross-jesus-phone-hb1g5ohww4dgw5gr.jpg' alt='Stylised Cross Jesus Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stylised-cross-jesus-phone-hb1g5ohww4dgw5gr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 PACK Easter Digital Background / Jesus Cross / Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15467697/r/il/d564f1/2249757021/il_fullxfull.2249757021_jxfq.jpg' alt='2 PACK Easter Digital Background / Jesus Cross / Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15467697/r/il/d564f1/2249757021/il_fullxfull.2249757021_jxfq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="330 Jesus cross wallpaper ideas | cross wallpaper, jesus, jesus ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/71/a1/ea/71a1ea0427c1b7dc8eb22c14596ca51c.jpg' alt='330 Jesus cross wallpaper ideas | cross wallpaper, jesus, jesus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/71/a1/ea/71a1ea0427c1b7dc8eb22c14596ca51c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,164 Jesus Cross Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mobile-phone-wallpaper-cross-globe-silhouette-warm-sunset-mobile-phone-wallpaper-cross-globe-silhouette-warm-354015345.jpg' alt='1,164 Jesus Cross Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mobile-phone-wallpaper-cross-globe-silhouette-warm-sunset-mobile-phone-wallpaper-cross-globe-silhouette-warm-354015345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Holy Cross Jesus 4K iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/holy-cross-jesus-4k-iphone-vedfw0fbf1rgd0xq.jpg' alt='Download Holy Cross Jesus 4K iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/holy-cross-jesus-4k-iphone-vedfw0fbf1rgd0xq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Cross HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/112/thumb-1920-112814.jpg' alt='Serene Cross HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/112/thumb-1920-112814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

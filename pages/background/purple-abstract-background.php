@@ -1,0 +1,129 @@
+<title>Vibrant Purple Abstract Backgrounds for Creative Design</title>
+                    <meta name="description" content="Explore stunning purple abstract backgrounds ideal for creative projects. Perfect for wallpapers, art, and design, these vibrant visuals add inspiration and elegance to your space. Discover the perfect blend of color and form to elevate your next masterpiece.">
+                    <meta name="keywords" content="purple abstract background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-abstract-background">
+                            <span itemprop="name">purple abstract background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Abstract Backgrounds for Creative Design</h1>
+                <p>Discover the beauty of a purple abstract background, where vibrant hues mingle and flow to create stunning visuals. Perfect for designs, wallpapers, or artistic projects, this background sets a mood of creativity and inspiration. Let the rich shades of purple elevate your artwork or digital space, inviting serenity and imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-purple-abstract-image-purple-purple-wave_605423-146832.jpg?semt=ais_hybrid' alt='Purple Abstract Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-purple-abstract-image-purple-purple-wave_605423-146832.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/257/968/non_2x/abstract-purple-fluid-wave-background-free-vector.jpg' alt='Purple Abstract Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/257/968/non_2x/abstract-purple-fluid-wave-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract art design wave purple background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/44/43/abstract-art-design-wave-purple-background-vector-28374443.jpg' alt='Abstract art design wave purple background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/44/43/abstract-art-design-wave-purple-background-vector-28374443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Purple Abstract Background With Geometric Shapes ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20250102/vibrant-purple-abstract-background-with-geometric-shapes_11331729.jpg!sw800' alt='Vibrant Purple Abstract Background With Geometric Shapes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20250102/vibrant-purple-abstract-background-with-geometric-shapes_11331729.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/934/086/small_2x/abstract-purple-and-pink-gradient-waves-background-glowing-lines-on-purple-background-vector.jpg' alt='Purple Abstract Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/934/086/small_2x/abstract-purple-and-pink-gradient-waves-background-glowing-lines-on-purple-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Purple abstract background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-abstract-background_1393-310.jpg' alt='Free Vector | Purple abstract background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-abstract-background_1393-310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An abstract purple background with a black background photo – Free ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1673526759327-54f1f5b27322?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='An abstract purple background with a black background photo – Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1673526759327-54f1f5b27322?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple abstract background hot sale">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/24/31/53/360_F_624315387_f5daxJa4T2Qy7MRWXcQFPMBLgba99q5F.jpg' alt='Purple abstract background hot sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.afaqalkawthar.com" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/24/31/53/360_F_624315387_f5daxJa4T2Qy7MRWXcQFPMBLgba99q5F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple abstract background, Purple geometric abstraction, Purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/364/994/HD-wallpaper-purple-abstract-background-purple-geometric-abstraction-purple-rectangles-background-abstract-background.jpg' alt='Purple abstract background, Purple geometric abstraction, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/364/994/HD-wallpaper-purple-abstract-background-purple-geometric-abstraction-purple-rectangles-background-abstract-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="108,300+ Purple Abstract Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1347034524/vector/purple-gradient-abstract-curve-and-golden-lines-illustration-background.jpg?s=612x612&w=0&k=20&c=YfEzt8D6j_wMhLYNA7xcWtJDIJCjsRVcy30rVfgd_Ic=' alt='108,300+ Purple Abstract Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1347034524/vector/purple-gradient-abstract-curve-and-golden-lines-illustration-background.jpg?s=612x612&w=0&k=20&c=YfEzt8D6j_wMhLYNA7xcWtJDIJCjsRVcy30rVfgd_Ic=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Minimalist Dark Desktop Wallpapers</title>
+                    <meta name="description" content="Explore our collection of minimalist dark desktop wallpapers designed to elevate your workspace. Perfect for professionals and creatives alike, these wallpapers balance simplicity and elegance, ensuring a distraction-free environment. Enhance your digital experience with our stylish and modern designs.">
+                    <meta name="keywords" content="minimalist dark desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/minimalist-dark-desktop-wallpaper">
+                            <span itemprop="name">minimalist dark desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Minimalist Dark Desktop Wallpapers</h1>
+                <p>Minimalist dark desktop wallpapers offer a sleek and sophisticated aesthetic that enhances productivity while reducing distractions. Their subtle, muted tones create a calm workspace, providing a perfect backdrop for creative projects. Discover the beauty of simplicity with striking designs that embody elegance and modernity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Night Mountains Minimalist 4k Wallpaper,HD Artist Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/a9/f7/6da9f783d51f856361fde77593069001.jpg' alt='Dark Night Mountains Minimalist 4k Wallpaper,HD Artist Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/a9/f7/6da9f783d51f856361fde77593069001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Minimalist Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-minimalist-33g8hacg3bosd3w6.jpg' alt='100+] Dark Minimalist Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-minimalist-33g8hacg3bosd3w6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black minimalist wallpaper by Yheaz">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/129/thumb-1920-1293448.jpg' alt='Black minimalist wallpaper by Yheaz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/129/thumb-1920-1293448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper minimal, dark, mountains desktop wallpaper, hd image ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/large/b57166/minimal-mountains.jpg' alt='Wallpaper minimal, dark, mountains desktop wallpaper, hd image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/large/b57166/minimal-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Minimalist Pac Man Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-minimalist-pac-man-e6d2wq012kc8xpqw.jpg' alt='Dark Minimalist Pac Man Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-minimalist-pac-man-e6d2wq012kc8xpqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Minimal Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1527607976958-7cbb4a6d0131?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMG1pbmltYWx8ZW58MHx8MHx8fDA%3D' alt='Dark Minimal Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1527607976958-7cbb4a6d0131?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMG1pbmltYWx8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Dark Background by DapperFoxStudios on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2799ace4-5492-4986-a8ac-564085f720e8/dcqzh5h-e33df064-a0ed-43e7-87ad-a525f7a36139.png/v1/fill/w_1600,h_941,q_80,strp/minimal_dark_background_by_dapperfoxstudios_dcqzh5h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQxIiwicGF0aCI6IlwvZlwvMjc5OWFjZTQtNTQ5Mi00OTg2LWE4YWMtNTY0MDg1ZjcyMGU4XC9kY3F6aDVoLWUzM2RmMDY0LWEwZWQtNDNlNy04N2FkLWE1MjVmN2EzNjEzOS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8JZ3fFEIyCZQ3R6zyeUXoDGCKMeb1DmTGXYQiBvVN14' alt='Minimal Dark Background by DapperFoxStudios on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2799ace4-5492-4986-a8ac-564085f720e8/dcqzh5h-e33df064-a0ed-43e7-87ad-a525f7a36139.png/v1/fill/w_1600,h_941,q_80,strp/minimal_dark_background_by_dapperfoxstudios_dcqzh5h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQxIiwicGF0aCI6IlwvZlwvMjc5OWFjZTQtNTQ5Mi00OTg2LWE4YWMtNTY0MDg1ZjcyMGU4XC9kY3F6aDVoLWUzM2RmMDY0LWEwZWQtNDNlNy04N2FkLWE1MjVmN2EzNjEzOS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8JZ3fFEIyCZQ3R6zyeUXoDGCKMeb1DmTGXYQiBvVN14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Minimalist Black Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/fa/1a/82fa1a8b03c30d1a343fadc655444ac1.jpg' alt='Awesome Minimalist Black Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/fa/1a/82fa1a8b03c30d1a343fadc655444ac1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Minimal Dark Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1686064771021-fbd6e301a0e4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWluaW1hbCUyMGRhcmt8ZW58MHx8MHx8fDA%3D' alt='1500+ Minimal Dark Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1686064771021-fbd6e301a0e4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWluaW1hbCUyMGRhcmt8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Minimal Wallpapers [34+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/508/minimal-dark-wallpaper-ultrawide-1920x1200.jpg' alt='Dark Minimal Wallpapers [34+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/508/minimal-dark-wallpaper-ultrawide-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

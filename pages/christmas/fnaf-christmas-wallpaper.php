@@ -1,0 +1,129 @@
+<title>FNAF Christmas Wallpapers: Festive & Spooky Designs</title>
+                    <meta name="description" content="Discover captivating FNAF Christmas wallpapers to celebrate the festive season! Our collection features beloved animatronics in joyful, holiday-themed designs. Ideal for fans wanting to add a spooky flair to their devices. Download your favorites today for a unique Christmas vibe!">
+                    <meta name="keywords" content="fnaf christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/fnaf-christmas-wallpaper">
+                            <span itemprop="name">fnaf christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>FNAF Christmas Wallpapers: Festive & Spooky Designs</h1>
+                <p>Get into the holiday spirit with our exclusive FNAF Christmas wallpaper collection! Featuring your favorite animatronics dressed for the festive season, these wallpapers will bring joy and a chill to your device. Perfect for FNAF fans who want to celebrate Christmas with a unique, spooky twist. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF. Cute. Christmas.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/a3/e6/75a3e600b413976a2ee43e6353099073.jpg' alt='FNAF. Cute. Christmas.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/a3/e6/75a3e600b413976a2ee43e6353099073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 MERRY CHRISTMAS FNAF!! ideas | fnaf, fnaf art, five nights at ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/d6/89/05/d68905121195b3cb709761a7b3bd1ad7.jpg' alt='25 MERRY CHRISTMAS FNAF!! ideas | fnaf, fnaf art, five nights at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/d6/89/05/d68905121195b3cb709761a7b3bd1ad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Xmas!!     ✨ [My fanart] : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/happy-xmas-my-fanart-v0-7tg9djkcg28a1.jpg?width=640&crop=smart&auto=webp&s=c4e745510e591d187c2fb769b6fd0cae03f3ec56' alt='Happy Xmas!!     ✨ [My fanart] : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/happy-xmas-my-fanart-v0-7tg9djkcg28a1.jpg?width=640&crop=smart&auto=webp&s=c4e745510e591d187c2fb769b6fd0cae03f3ec56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF. Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/ba/3d/71ba3dfa0397cb859e04a9f4a41b9f02.jpg' alt='FNAF. Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/ba/3d/71ba3dfa0397cb859e04a9f4a41b9f02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF Merry Christmas by GareBearArt1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf78cade-5225-4453-a01c-dd401b8fb29b/dcv9qf9-b7dd7db3-f073-464d-aa2c-d81f1068183d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNzhjYWRlLTUyMjUtNDQ1My1hMDFjLWRkNDAxYjhmYjI5YlwvZGN2OXFmOS1iN2RkN2RiMy1mMDczLTQ2NGQtYWEyYy1kODFmMTA2ODE4M2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.caeDEndZq3JWJApvkyD0HiZaY1xwnnPnGqhDcpcjkJU' alt='FNAF Merry Christmas by GareBearArt1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf78cade-5225-4453-a01c-dd401b8fb29b/dcv9qf9-b7dd7db3-f073-464d-aa2c-d81f1068183d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNzhjYWRlLTUyMjUtNDQ1My1hMDFjLWRkNDAxYjhmYjI5YlwvZGN2OXFmOS1iN2RkN2RiMy1mMDczLTQ2NGQtYWEyYy1kODFmMTA2ODE4M2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.caeDEndZq3JWJApvkyD0HiZaY1xwnnPnGqhDcpcjkJU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a long version of the Security Breach Christmas poster for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bifslgj1oo661.jpg' alt='I made a long version of the Security Breach Christmas poster for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="1473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bifslgj1oo661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fnaf Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/f-n-a-f-christmas-celebration-tqn7qe526mx7rkl5.jpg' alt='100+] Fnaf Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/f-n-a-f-christmas-celebration-tqn7qe526mx7rkl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy freddy Merry Christmas by GareBearArt1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf78cade-5225-4453-a01c-dd401b8fb29b/dcv9mpz-44aa5e4e-5858-4818-8d80-c7176d86ff07.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNzhjYWRlLTUyMjUtNDQ1My1hMDFjLWRkNDAxYjhmYjI5YlwvZGN2OW1wei00NGFhNWU0ZS01ODU4LTQ4MTgtOGQ4MC1jNzE3NmQ4NmZmMDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XUa-isWuSGMPq2JEUw5su8fkFxZHoX6ax7U1vHzj1to' alt='Toy freddy Merry Christmas by GareBearArt1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf78cade-5225-4453-a01c-dd401b8fb29b/dcv9mpz-44aa5e4e-5858-4818-8d80-c7176d86ff07.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNzhjYWRlLTUyMjUtNDQ1My1hMDFjLWRkNDAxYjhmYjI5YlwvZGN2OW1wei00NGFhNWU0ZS01ODU4LTQ4MTgtOGQ4MC1jNzE3NmQ4NmZmMDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XUa-isWuSGMPq2JEUw5su8fkFxZHoX6ax7U1vHzj1to' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LordOfTheFeathers on X: "Have a holly-jolly Christmas yall ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FHaaKLFXoAEYvO9?format=jpg&name=4096x4096' alt='LordOfTheFeathers on X: "Have a holly-jolly Christmas yall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FHaaKLFXoAEYvO9?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas by OoblekOfficial on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/87/47/f38747a79da1a172052b46390e3da255.jpg' alt='Merry Christmas by OoblekOfficial on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/87/47/f38747a79da1a172052b46390e3da255.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

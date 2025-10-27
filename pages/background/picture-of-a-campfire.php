@@ -1,0 +1,129 @@
+<title>"Captivating Campfire Moments"</title>
+                    <meta name="description" content="Discover the enchanting beauty of campfires! This captivating image evokes warmth and connection, perfect for showcasing your love for nature and adventure. Share memories made around the fire and inspire others to enjoy cozy nights under the stars. Experience the magic of campfire moments!">
+                    <meta name="keywords" content="picture of a campfire">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-a-campfire">
+                            <span itemprop="name">picture of a campfire</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Captivating Campfire Moments"</h1>
+                <p>A picture of a campfire captures the warmth of flickering flames surrounded by friends and nature. The glow of the fire creates a cozy atmosphere, inviting stories, laughter, and connection. Whether roasting marshmallows or simply enjoying the crackling sound, a campfire symbolizes adventure and cherished memories beneath a starlit sky.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfire - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Campfire_Pinecone.png' alt='Campfire - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0f/Campfire_Pinecone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camp Fire Images – Browse 1,158,752 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/29/89/60/360_F_229896080_6Bp7Cjv772vJI6y2M0SdlZncGShAISeF.jpg' alt='Camp Fire Images – Browse 1,158,752 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/29/89/60/360_F_229896080_6Bp7Cjv772vJI6y2M0SdlZncGShAISeF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="197,400+ Campfire Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1359996785/photo/beautiful-bonfire-with-burning-firewood-in-forest-space-for-text.jpg?s=612x612&w=0&k=20&c=fx6jAEPgbvW03tYE-wRBtr4ZlE6wB5HtAwXl2ZSWTNM=' alt='197,400+ Campfire Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1359996785/photo/beautiful-bonfire-with-burning-firewood-in-forest-space-for-text.jpg?s=612x612&w=0&k=20&c=fx6jAEPgbvW03tYE-wRBtr4ZlE6wB5HtAwXl2ZSWTNM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="57,100+ Bonfire Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1315120459/vector/burning-bonfire-or-campfire-firewood-with-fire-or-flame-simple-vector-illustration-on-white.jpg?s=612x612&w=0&k=20&c=oNKIxaOKPQ962EBjoYnsiQ8VsqT4aGOfL1SBrxuB238=' alt='57,100+ Bonfire Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1315120459/vector/burning-bonfire-or-campfire-firewood-with-fire-or-flame-simple-vector-illustration-on-white.jpg?s=612x612&w=0&k=20&c=oNKIxaOKPQ962EBjoYnsiQ8VsqT4aGOfL1SBrxuB238=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Start a Campfire in 11 Steps | Trespass Advice">
+                                <img itemprop="contentUrl url" src='https://www.trespass.com/advice/wp-content/uploads/2016/09/How-to-Make-a-Campfire-in-11-Steps-1200x675.jpg' alt='How to Start a Campfire in 11 Steps | Trespass Advice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trespass" />
+                                </span>
+                                <a href='https://www.trespass.com/advice/wp-content/uploads/2016/09/How-to-Make-a-Campfire-in-11-Steps-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfire safety tips: How to build, stoke and put out your fire">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/-mm-/1d222a80f73d198dec3d4890315f5337aedb391a/c=0-196-3495-2171/local/-/media/2016/06/10/Phoenix/Phoenix/636011686454381077-ThinkstockPhotos-166085684.jpg' alt='Campfire safety tips: How to build, stoke and put out your fire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3495">
+                                <meta itemprop="height" content="1975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/-mm-/1d222a80f73d198dec3d4890315f5337aedb391a/c=0-196-3495-2171/local/-/media/2016/06/10/Phoenix/Phoenix/636011686454381077-ThinkstockPhotos-166085684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Build a Campfire: The Ultimate Guide – Twin Bridge Campground">
+                                <img itemprop="contentUrl url" src='https://twinbridgecampground.com/wp-content/uploads/2022/11/Campfire.jpeg' alt='How to Build a Campfire: The Ultimate Guide – Twin Bridge Campground'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twin Bridge Campground" />
+                                </span>
+                                <a href='https://twinbridgecampground.com/wp-content/uploads/2022/11/Campfire.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="296,629 Camp Fire Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2503963029/display_1500/stock-photo-campfire-isolated-on-white-background-closeup-of-a-pile-of-firewood-burning-with-orange-and-yellow-2503963029.jpg' alt='296,629 Camp Fire Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2503963029/display_1500/stock-photo-campfire-isolated-on-white-background-closeup-of-a-pile-of-firewood-burning-with-orange-and-yellow-2503963029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Free Campfire & Fire Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2023/06/22/16/34/campfire-8081877_1280.jpg' alt='2,000+ Free Campfire & Fire Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2023/06/22/16/34/campfire-8081877_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfires: How to Build the Perfect Campfire and How to Start a Fire">
+                                <img itemprop="contentUrl url" src='https://rjourney.com/wp-content/uploads/2022/03/iStock-1324579691-1200x836.jpg' alt='Campfires: How to Build the Perfect Campfire and How to Start a Fire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rjourney" />
+                                </span>
+                                <a href='https://rjourney.com/wp-content/uploads/2022/03/iStock-1324579691-1200x836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Purple Christian Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover a collection of beautiful purple Christian wallpapers designed to inspire and uplift. Perfect for all devices, these wallpapers blend vibrant colors and meaningful scripture, enhancing your screen while reflecting your faith and creativity. Download your favorite today!">
+                    <meta name="keywords" content="purple christian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-christian-wallpaper">
+                            <span itemprop="name">purple christian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Purple Christian Wallpapers for Every Device</h1>
+                <p>Enhance your digital space with stunning purple Christian wallpaper that reflects your faith and creativity. From serene landscapes to uplifting scripture designs, these wallpapers inspire peace and devotion. Transform your screens with vibrant hues of purple, adding a touch of spirituality to your daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Christian Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/9d/8f/249d8f5ecf04ee00237a1bb73dc1bc00.jpg' alt='Purple Aesthetic Christian Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/9d/8f/249d8f5ecf04ee00237a1bb73dc1bc00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/fb/52/acfb52b48e97a06885514a48d5a3486a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/fb/52/acfb52b48e97a06885514a48d5a3486a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpaper Collection for Girls">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7225312572298317061&location=0&aid=1988' alt='Christian Wallpaper Collection for Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7225312572298317061&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark purple neon Christian cross wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/e3/b0/74e3b0324a77dae75caa644f511493e1.jpg' alt='Dark purple neon Christian cross wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/e3/b0/74e3b0324a77dae75caa644f511493e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A little bit of food for thought & a beautiful purple wallpaper to ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7287223471132708139&location=0&aid=1988' alt='A little bit of food for thought & a beautiful purple wallpaper to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7287223471132708139&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LAVENDER PURPLE JESUS IS KING WALLPAPER ✞ ✞">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/79/39/f87939e456628e1e05aff201bba4b231.jpg' alt='LAVENDER PURPLE JESUS IS KING WALLPAPER ✞ ✞'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/79/39/f87939e456628e1e05aff201bba4b231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpaper - Purple Archives - Sarah Titus">
+                                <img itemprop="contentUrl url" src='https://www.sarahtitus.com/wp-content/uploads/2022/05/He-is-Risen-Wallpaper-Pin-scaled.jpg' alt='Christian Wallpaper - Purple Archives - Sarah Titus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Titus" />
+                                </span>
+                                <a href='https://www.sarahtitus.com/wp-content/uploads/2022/05/He-is-Risen-Wallpaper-Pin-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/38/e4/65/38e4652488d169f70c7f7b4851d6070f.jpg' alt='IPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/38/e4/65/38e4652488d169f70c7f7b4851d6070f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross, christian, crist, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/844/385/HD-wallpaper-cross-christian-crist-purple.jpg' alt='Cross, christian, crist, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/844/385/HD-wallpaper-cross-christian-crist-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jesus Cross Ornate Purple Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-cross-ornate-purple-aesthetic-jirmem1m8kcmvh2n.jpg' alt='Download Jesus Cross Ornate Purple Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-cross-ornate-purple-aesthetic-jirmem1m8kcmvh2n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

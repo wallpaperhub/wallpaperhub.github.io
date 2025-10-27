@@ -1,0 +1,129 @@
+<title>Stunning Wood Images: Nature's Artistry Unveiled</title>
+                    <meta name="description" content="Explore the beauty of wood images, showcasing the intricate textures and natural colors of timber. Perfect for decor and design inspiration, these stunning visuals capture nature's artistry and bring warmth to any space. Discover how wood images can enhance your home or project with their unique charm.">
+                    <meta name="keywords" content="wood image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wood-image">
+                            <span itemprop="name">wood image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wood Images: Nature's Artistry Unveiled</h1>
+                <p>A wood image captures the natural beauty of timber, showcasing its rich textures, colors, and patterns. From the knots in the grain to the smooth finishes, wood images evoke a sense of warmth and tranquility. They are perfect for home decor, design inspiration, or simply as art to celebrate nature's craftsmanship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Wood Pictures | Download Free Images & Stock Photos on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1515446134809-993c501ca304?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29vZHxlbnwwfHwwfHx8MA%3D%3D' alt='200+ Wood Pictures | Download Free Images & Stock Photos on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1515446134809-993c501ca304?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29vZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Makes Wood. Could a Lab Make It Better? | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/60259356b2bf13443c5eef20/1:1/w_1600,h_1600,c_limit/Science_wood_1136989911.jpg' alt='Nature Makes Wood. Could a Lab Make It Better? | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/60259356b2bf13443c5eef20/1:1/w_1600,h_1600,c_limit/Science_wood_1136989911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/226/074/small_2x/wood-texture-background-free-vector.jpg' alt='Wood Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/226/074/small_2x/wood-texture-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="298,200+ Wood Log Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/527072689/photo/wooden-logs-with-forest-on-background.jpg?s=612x612&w=0&k=20&c=ws7VoKKpYq4qJi-1DemwpI9xxHOSR4Wfds_mVlm41OY=' alt='298,200+ Wood Log Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/527072689/photo/wooden-logs-with-forest-on-background.jpg?s=612x612&w=0&k=20&c=ws7VoKKpYq4qJi-1DemwpI9xxHOSR4Wfds_mVlm41OY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Photos, Download The BEST Free Wood Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?cs=srgb&dl=pexels-pixabay-326333.jpg&fm=jpg' alt='Wood Background Photos, Download The BEST Free Wood Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?cs=srgb&dl=pexels-pixabay-326333.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Is Hard to Find, and Pitmasters Are Scrambling – Texas Monthly">
+                                <img itemprop="contentUrl url" src='https://img.texasmonthly.com/2022/01/cord-of-wood.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45' alt='Wood Is Hard to Find, and Pitmasters Are Scrambling – Texas Monthly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Monthly" />
+                                </span>
+                                <a href='https://img.texasmonthly.com/2022/01/cord-of-wood.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Images – Browse 68,026,058 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/68/75/28/360_F_168752838_bnYjDoinwtB6bmprwuHtzbfeTDT51icS.jpg' alt='Wood Images – Browse 68,026,058 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/68/75/28/360_F_168752838_bnYjDoinwtB6bmprwuHtzbfeTDT51icS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lab-Grown Wood Could Save Your Next DIY | Synthetic Lumber">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/rustic-weathered-wood-logs-royalty-free-image-1654709658.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*' alt='Lab-Grown Wood Could Save Your Next DIY | Synthetic Lumber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popular Mechanics" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/rustic-weathered-wood-logs-royalty-free-image-1654709658.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Free Wood - Material & Wood Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/11/29/01/53/floor-1866663_640.jpg' alt='1,000+ Free Wood - Material & Wood Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/11/29/01/53/floor-1866663_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Texture Images – Browse 11,496,234 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/28/68/07/360_F_228680721_gGbh5ylrMPMikdBIzWb8N1yGBLg8dmu9.jpg' alt='Wood Texture Images – Browse 11,496,234 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="659">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/28/68/07/360_F_228680721_gGbh5ylrMPMikdBIzWb8N1yGBLg8dmu9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Connor Bedard: The Future Star of Hockey</title>
+                    <meta name="description" content="Discover the journey of Connor Bedard, a young hockey sensation making headlines with his extraordinary skills and potential. Explore his rise in junior hockey and what lies ahead as he prepares for the NHL. Stay updated on his progress and the excitement surrounding his career in the sport!">
+                    <meta name="keywords" content="connor bedard">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/connor-bedard">
+                            <span itemprop="name">connor bedard</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Connor Bedard: The Future Star of Hockey</h1>
+                <p>Connor Bedard is a rising star in the hockey world, known for his incredible skating ability, sharp shooting skills, and impressive playmaking. As a highly touted prospect, Bedard has already made waves in junior hockey, showcasing his talent and determination. Fans eagerly await his transition to the NHL, anticipating his impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Connor_Bedard_%28534004210941%29.jpg/640px-Connor_Bedard_%28534004210941%29.jpg' alt='Connor Bedard - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Connor_Bedard_%28534004210941%29.jpg/640px-Connor_Bedard_%28534004210941%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard - Chicago Blackhawks Center - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/nhl/players/full/5149125.png' alt='Connor Bedard - Chicago Blackhawks Center - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/nhl/players/full/5149125.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard - Stats, Contract, Salary & More">
+                                <img itemprop="contentUrl url" src='https://files.eliteprospects.com/layout/players/fc215-75c064b2-fc33-4561-ac0b-ccbc80447e91.jpg' alt='Connor Bedard - Stats, Contract, Salary & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Prospects" />
+                                </span>
+                                <a href='https://files.eliteprospects.com/layout/players/fc215-75c064b2-fc33-4561-ac0b-ccbc80447e91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard Hockey Stats and Profile at hockeydb.com">
+                                <img itemprop="contentUrl url" src='https://www.hockeydb.com/ihdb/photos/connor-bedard-2024-35.jpg' alt='Connor Bedard Hockey Stats and Profile at hockeydb.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hockeydb.com" />
+                                </span>
+                                <a href='https://www.hockeydb.com/ihdb/photos/connor-bedard-2024-35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard Breaks His Silence With Alarming Comments on Seth ...">
+                                <img itemprop="contentUrl url" src='https://i.marqueur.com/habsetlnh/large_original/534483.jpg' alt='Connor Bedard Breaks His Silence With Alarming Comments on Seth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8640">
+                                <meta itemprop="height" content="4860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chicago Blackhawks Insider" />
+                                </span>
+                                <a href='https://i.marqueur.com/habsetlnh/large_original/534483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard Looked So Defeated Sitting in Penalty Box During ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_31,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jn1qq9z6mthazchhey.png' alt='Connor Bedard Looked So Defeated Sitting in Penalty Box During ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KXAN" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_31,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jn1qq9z6mthazchhey.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard makes NHL history once again, just keeps adding to ...">
+                                <img itemprop="contentUrl url" src='https://cdn-sport.newsner.com/wp-content/uploads/sites/10/2023/10/11083005/ConnorBedard-1.jpg' alt='Connor Bedard makes NHL history once again, just keeps adding to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hockey Beast" />
+                                </span>
+                                <a href='https://cdn-sport.newsner.com/wp-content/uploads/sites/10/2023/10/11083005/ConnorBedard-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Blackhawks Connor Bedard Highland Mint 13'' x 13'' Impact Jersey  Framed Photo">
+                                <img itemprop="contentUrl url" src='https://fanatics.frgimages.com/chicago-blackhawks/highland-mint-connor-bedard-chicago-blackhawks-13-x-13-impact-jersey-framed-photo_ss5_p-200781141+u-xfr4otrx6nxnsbyhnlql+v-tidsd2jfmzaxgwnfp6ly.jpg?_hv=2&w=900' alt='Chicago Blackhawks Connor Bedard Highland Mint 13'' x 13'' Impact Jersey  Framed Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL Shop" />
+                                </span>
+                                <a href='https://fanatics.frgimages.com/chicago-blackhawks/highland-mint-connor-bedard-chicago-blackhawks-13-x-13-impact-jersey-framed-photo_ss5_p-200781141+u-xfr4otrx6nxnsbyhnlql+v-tidsd2jfmzaxgwnfp6ly.jpg?_hv=2&w=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scouting Report: Connor Bedard - Smaht Scouting">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/smahtscouting.com/wp-content/uploads/2022/11/Bedard_Connor-7-e1669390163368.jpg?fit=2000%2C1334&ssl=1' alt='Scouting Report: Connor Bedard - Smaht Scouting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smaht Scouting" />
+                                </span>
+                                <a href='https://i0.wp.com/smahtscouting.com/wp-content/uploads/2022/11/Bedard_Connor-7-e1669390163368.jpg?fit=2000%2C1334&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connor Bedard, as expected, taken 1st in NHL draft by Chicago ...">
+                                <img itemprop="contentUrl url" src='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/NHL-Draft-Bedard-Hockey-3-1688581695.jpg' alt='Connor Bedard, as expected, taken 1st in NHL draft by Chicago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Post-Gazette" />
+                                </span>
+                                <a href='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/NHL-Draft-Bedard-Hockey-3-1688581695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

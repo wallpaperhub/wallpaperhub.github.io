@@ -1,0 +1,129 @@
+<title>Grey Floral Backgrounds: Elegance for Every Occasion</title>
+                    <meta name="description" content="Discover the beauty of grey floral backgrounds that blend sophistication with modern design. Perfect for any project, these backgrounds enhance everything from event invitations to digital graphics, providing a serene and stylish aesthetic. Transform your space or design with our stunning grey floral patterns today!">
+                    <meta name="keywords" content="grey floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grey-floral-background">
+                            <span itemprop="name">grey floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Grey Floral Backgrounds: Elegance for Every Occasion</h1>
+                <p>A grey floral background offers a modern and sophisticated touch to various designs. Ideal for weddings, business presentations, or home decor, these soft hues with delicate flower patterns add elegance and calmness. The subtle contrast of grey with florals creates a versatile canvas that complements numerous styles and themes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Grey Floral Wallpaper | Astek">
+                                <img itemprop="contentUrl url" src='https://www.astek.com/cdn/shop/products/2716-23832_celestial_grey_floral_wallpaper_CELESTIALGREYFLORALWALLPAPER_ef8d1868-6e78-476c-992e-6d9243ed12fa_740x.jpg?v=1696626633' alt='Celestial Grey Floral Wallpaper | Astek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Wallcoverings" />
+                                </span>
+                                <a href='https://www.astek.com/cdn/shop/products/2716-23832_celestial_grey_floral_wallpaper_CELESTIALGREYFLORALWALLPAPER_ef8d1868-6e78-476c-992e-6d9243ed12fa_740x.jpg?v=1696626633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Floral Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/375/541/small_2x/modern-shadow-overlay-great-design-for-any-purposes-blurred-soft-shadow-from-the-window-and-branches-of-plants-outside-the-window-natural-shadows-isolated-on-transparent-background-vector.jpg' alt='Grey Floral Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/375/541/small_2x/modern-shadow-overlay-great-design-for-any-purposes-blurred-soft-shadow-from-the-window-and-branches-of-plants-outside-the-window-natural-shadows-isolated-on-transparent-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,200+ Detailed Grey Flower Patterns Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2036160149/vector/elegant-grey-victorian-seamless-wallpaper.jpg?s=612x612&w=0&k=20&c=4kWjNN8Gia3PtQgxtILby1S_1_Kj0hHVqwl_fQ1YfA0=' alt='21,200+ Detailed Grey Flower Patterns Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2036160149/vector/elegant-grey-victorian-seamless-wallpaper.jpg?s=612x612&w=0&k=20&c=4kWjNN8Gia3PtQgxtILby1S_1_Kj0hHVqwl_fQ1YfA0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony - Grey Floral Wallpaper by Bohemian Bungalow">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/pg.png?v=1661045274' alt='Peony - Grey Floral Wallpaper by Bohemian Bungalow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/pg.png?v=1661045274' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Flower Background Stock Photos and Pictures - 931,281 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/floral-nature-background-white-plant-260nw-2427018249.jpg' alt='Gray Flower Background Stock Photos and Pictures - 931,281 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/floral-nature-background-white-plant-260nw-2427018249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/e0/19/22e0191adab6eedcb2bb21d293a13036.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/e0/19/22e0191adab6eedcb2bb21d293a13036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GREY AND WHITE ABSTRACT FLORAL VECTOR BACKGROUND 6297574 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/297/574/non_2x/grey-and-white-abstract-floral-background-vector.jpg' alt='GREY AND WHITE ABSTRACT FLORAL VECTOR BACKGROUND 6297574 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/297/574/non_2x/grey-and-white-abstract-floral-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey & Beige Grand Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grey-beige-grand-floral-wallpaper-keho.jpg' alt='Grey & Beige Grand Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grey-beige-grand-floral-wallpaper-keho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 12 | Grey Floral Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/silver-floral-pattern-background_53876-100841.jpg' alt='Page 12 | Grey Floral Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/silver-floral-pattern-background_53876-100841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper in the style of Baroque. Seamless vector background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/16/04/06/1000_F_216040670_yYJ0sGuKuVHv98x6f2mwhc9MHub2m4fa.jpg' alt='Wallpaper in the style of Baroque. Seamless vector background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/16/04/06/1000_F_216040670_yYJ0sGuKuVHv98x6f2mwhc9MHub2m4fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Anime Scenery Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best anime scenery wallpapers for your iPhone! Explore captivating landscapes and high-quality visuals that will enhance your device's aesthetic. Perfect for anime lovers seeking to personalize their screens with beautiful artwork. Download now and enjoy your favorite scenes on-the-go!">
+                    <meta name="keywords" content="anime scenery wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/anime-scenery-wallpaper-iphone">
+                            <span itemprop="name">anime scenery wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Scenery Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning anime scenery wallpapers! Dive into a world of vibrant landscapes and breathtaking art that captures the essence of your favorite anime. Perfectly designed for your device, these wallpapers will immerse you in vivid colors and enchanting scenes. Elevate your screen with a touch of anime magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/40/c3/6a40c3cc24d76ff479e0026c4b95443d.jpg' alt='Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/40/c3/6a40c3cc24d76ff479e0026c4b95443d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/05/50/fa05508f96befb2ecd988da85b8b9a87.jpg' alt='Awesome Anime iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/05/50/fa05508f96befb2ecd988da85b8b9a87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime scenery wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/614/132/HD-wallpaper-anime-landscape-sunset-clouds-falling-stars-anime-girl-scenery-anime-thumbnail.jpg' alt='HD anime scenery wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/614/132/HD-wallpaper-anime-landscape-sunset-clouds-falling-stars-anime-girl-scenery-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BEAUTIFUL ANIME SCENERY WALLPAPER HD - HeroWall | Phone ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEizWuwz6kh6bRsG9hLLugkIdt__VXyGdvJsOYXCbJjQiL4n_oLTLJD8e3VscyeuG2Bc-orTNbzfPtINBGi5wboQWWDrjh2Zvb5jenadjp_Wuc297GXVcGonRYcLs6Uj0U8fuK37ZIr330vbMDGvCag10xrjfjgcykPKizf-abZqTf3D7PhWudbGhsybaTg' alt='BEAUTIFUL ANIME SCENERY WALLPAPER HD - HeroWall | Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="803">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEizWuwz6kh6bRsG9hLLugkIdt__VXyGdvJsOYXCbJjQiL4n_oLTLJD8e3VscyeuG2Bc-orTNbzfPtINBGi5wboQWWDrjh2Zvb5jenadjp_Wuc297GXVcGonRYcLs6Uj0U8fuK37ZIr330vbMDGvCag10xrjfjgcykPKizf-abZqTf3D7PhWudbGhsybaTg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Sea Anime Scenery Wallpaper iPhone Phone 4K #1530f">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/cherry-blossom-sea-anime-scenery-153@0@f-phone-4k.jpg' alt='Cherry Blossom Sea Anime Scenery Wallpaper iPhone Phone 4K #1530f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/cherry-blossom-sea-anime-scenery-153@0@f-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/86/37/f08637fe18fcea364e549e276eb14760.jpg' alt='Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/86/37/f08637fe18fcea364e549e276eb14760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4K Anime IPhone Pink Skies Landscape Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-anime-iphone-pink-skies-landscape-j3ttlez9ybisw24e.jpg' alt='Download 4K Anime IPhone Pink Skies Landscape Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-anime-iphone-pink-skies-landscape-j3ttlez9ybisw24e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/90/a3/7490a32ed8e643d534254160e07c4a15.jpg' alt='Awesome Anime Scenery iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/90/a3/7490a32ed8e643d534254160e07c4a15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/961/961210.jpg' alt='Anime Landscape iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/961/961210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Scenery Of Ocean Waves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/city-sunset-aesthetic-anime-scenery-79d2v6idpt2lwylm.webp' alt='Aesthetic Anime Scenery Of Ocean Waves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/city-sunset-aesthetic-anime-scenery-79d2v6idpt2lwylm.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

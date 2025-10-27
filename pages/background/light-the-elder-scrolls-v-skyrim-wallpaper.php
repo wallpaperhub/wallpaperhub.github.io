@@ -1,0 +1,129 @@
+<title>Skyrim Wallpaper: Light Up Your Device with Epic Designs</title>
+                    <meta name="description" content="Discover breathtaking "Elder Scrolls V: Skyrim" wallpapers that bring the enchanting world of Tamriel to your device. Perfect for fans, these wallpapers celebrate the rich landscapes, characters, and adventures of Skyrim, providing a stunning visual experience at your fingertips. Upgrade your screen today!">
+                    <meta name="keywords" content="light the elder scrolls v skyrim wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-the-elder-scrolls-v-skyrim-wallpaper">
+                            <span itemprop="name">light the elder scrolls v skyrim wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skyrim Wallpaper: Light Up Your Device with Epic Designs</h1>
+                <p>Transform your device with stunning wallpapers inspired by "The Elder Scrolls V: Skyrim." Featuring breathtaking landscapes, iconic characters, and mystical creatures, these wallpapers immerse you in the rich lore of Skyrim. Whether you prefer the majestic peaks of High Hrothgar or the serene beauty of Riverwood, there's a wallpaper to suit every Dragonborn's taste!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Northern Lights, landscape, The Elder Scrolls V: Skyrim wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/b8/c6/6ab8c6d7545432bc96de80b25a143e8d.jpg' alt='Northern Lights, landscape, The Elder Scrolls V: Skyrim wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/b8/c6/6ab8c6d7545432bc96de80b25a143e8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the sky, stars, light, Skyrim, The Elder Scrolls V for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/d/ba/the-elder-scrolls-v-skyrim-600.webp' alt='Wallpaper the sky, stars, light, Skyrim, The Elder Scrolls V for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/d/ba/the-elder-scrolls-v-skyrim-600.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Elder Scrolls V: Skyrim Night Snow Winter Tree Forest ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/785/785825.jpg' alt='Download The Elder Scrolls V: Skyrim Night Snow Winter Tree Forest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/785/785825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skyrim Sunset: Majestic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/430/thumb-1920-430447.jpg' alt='Skyrim Sunset: Majestic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/430/thumb-1920-430447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 2560 X 1440 Skyrim Dragon With Northern Lights Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/2560-x-1440-skyrim-qs5qrekolo2wp1g0.jpg' alt='Download 2560 X 1440 Skyrim Dragon With Northern Lights Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/2560-x-1440-skyrim-qs5qrekolo2wp1g0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elder Scrolls V: Skyrim Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/The-Elder-Scrolls-V-Skyrim-PS4-Wallpapers-10.jpg' alt='The Elder Scrolls V: Skyrim Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/The-Elder-Scrolls-V-Skyrim-PS4-Wallpapers-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Elder Scrolls V: Skyrim The Elder Scrolls Video Game ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/202/202934.jpg' alt='Download The Elder Scrolls V: Skyrim The Elder Scrolls Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/202/202934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elder Scrolls V: Skyrim Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/The-Elder-Scrolls-V-Skyrim-PS4-Wallpapers-13.jpg' alt='The Elder Scrolls V: Skyrim Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/The-Elder-Scrolls-V-Skyrim-PS4-Wallpapers-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: digital art, fan art, The Elder Scrolls V: Skyrim ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/588/582/522/the-elder-scrolls-v-skyrim-video-games-fantasy-art-wallpaper-thumb.jpg' alt='HD wallpaper: digital art, fan art, The Elder Scrolls V: Skyrim ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/588/582/522/the-elder-scrolls-v-skyrim-video-games-fantasy-art-wallpaper-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skyrim Sunset Over Mountain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skyrim-sunset-over-mountain-n8jbtlsm2a2nf5i5.jpg' alt='Skyrim Sunset Over Mountain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skyrim-sunset-over-mountain-n8jbtlsm2a2nf5i5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

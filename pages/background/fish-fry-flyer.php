@@ -1,0 +1,129 @@
+<title>Delicious Fish Fry Event Near You!</title>
+                    <meta name="description" content="Don't miss our Fish Fry event! Savor freshly cooked fish and tasty sides in a fun atmosphere. Ideal for all ages, enjoy great food, live music, and special deals. Join us at [insert location] on [insert date] at [insert time]. Dive into flavorful fun!">
+                    <meta name="keywords" content="fish fry flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fish-fry-flyer">
+                            <span itemprop="name">fish fry flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Fish Fry Event Near You!</h1>
+                <p>Join us for a delicious Fish Fry! Enjoy freshly prepared, mouthwatering fish served with your choice of sides. Perfect for family gatherings or a quick bite with friends. Don't miss our special offers and live music! Date: [insert date], Time: [insert time], Location: [insert location]. Come hungry and leave happy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18932517/r/il/d6d2c2/2783271948/il_fullxfull.2783271948_1v01.jpg' alt='Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18932517/r/il/d6d2c2/2783271948/il_fullxfull.2783271948_1v01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18932517/r/il/df9166/2830457303/il_fullxfull.2830457303_8khh.jpg' alt='Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18932517/r/il/df9166/2830457303/il_fullxfull.2830457303_8khh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Fridays flyer template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fish-fry-fridays-flyer-template-design-53f147d41a941cba35dac034f61302ed_screen.jpg?ts=1701768744' alt='Fish Fry Fridays flyer template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fish-fry-fridays-flyer-template-design-53f147d41a941cba35dac034f61302ed_screen.jpg?ts=1701768744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Fish Fry Invitation Flyer, Seafood Frying Event Invite ...">
+                                <img itemprop="contentUrl url" src='http://paperiecandy.com/cdn/shop/products/il_fullxfull.4170464926_7nv2.jpg?v=1669218539' alt='Editable Fish Fry Invitation Flyer, Seafood Frying Event Invite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperie Candy" />
+                                </span>
+                                <a href='http://paperiecandy.com/cdn/shop/products/il_fullxfull.4170464926_7nv2.jpg?v=1669218539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Golden Flyer | Edit Online | 5X7 Digital & Printable | Do ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18932517/r/il/05395c/5655037070/il_fullxfull.5655037070_s6ad.jpg' alt='Fish Fry Golden Flyer | Edit Online | 5X7 Digital & Printable | Do ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18932517/r/il/05395c/5655037070/il_fullxfull.5655037070_s6ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Flyer Template Instant Download | Bobotemp">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5f1e9cd438dd9159d7419212/7qJ0WLyCrq/vCHi8N3Tse___WIeKy_640.webp' alt='Fish Fry Flyer Template Instant Download | Bobotemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5f1e9cd438dd9159d7419212/7qJ0WLyCrq/vCHi8N3Tse___WIeKy_640.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Fridays Template - Flyer PSD">
+                                <img itemprop="contentUrl url" src='https://exclusiveflyer.net/wp-content/uploads/2020/06/fish_fry_fridays-premium-flyer-template-1.jpg' alt='Fish Fry Fridays Template - Flyer PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ExclusiveFlyer" />
+                                </span>
+                                <a href='https://exclusiveflyer.net/wp-content/uploads/2020/06/fish_fry_fridays-premium-flyer-template-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18932517/r/il/1babe2/2783273236/il_570xN.2783273236_nm2p.jpg' alt='Fish Fry Flyer | Edit Online | 5X7 Digital & Printable | Do It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18932517/r/il/1babe2/2783273236/il_570xN.2783273236_nm2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Fry Flyer - Printable PTA PTO Flyer - Lent Friday Fish Fry - DIY  Editable Template">
+                                <img itemprop="contentUrl url" src='https://tidylady.net/cdn/shop/products/il_fullxfull.1402281084_bbbo_700x700.jpg?v=1580448427' alt='Fish Fry Flyer - Printable PTA PTO Flyer - Lent Friday Fish Fry - DIY  Editable Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TidyLady Printables" />
+                                </span>
+                                <a href='https://tidylady.net/cdn/shop/products/il_fullxfull.1402281084_bbbo_700x700.jpg?v=1580448427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish fry flyer">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fish-fry-flyer-design-template-cb1fc9bde0dea47aafad0d6614732526_screen.jpg?ts=1714554254' alt='Fish fry flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fish-fry-flyer-design-template-cb1fc9bde0dea47aafad0d6614732526_screen.jpg?ts=1714554254' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

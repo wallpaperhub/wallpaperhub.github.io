@@ -1,0 +1,129 @@
+<title>Stunning 3D Shadow of Mordor Backgrounds for Your Devices</title>
+                    <meta name="description" content="Explore breathtaking 3D backgrounds from Shadow of Mordor! Perfect for gamers and fans, these visuals showcase stunning landscapes and characters, enhancing your desktop or mobile experience. Download your favorite designs and immerse yourself in the epic world of Middle-earth!">
+                    <meta name="keywords" content="3d shadow of mordor backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-shadow-of-mordor-backgrounds">
+                            <span itemprop="name">3d shadow of mordor backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Shadow of Mordor Backgrounds for Your Devices</h1>
+                <p>Discover the captivating world of "Shadow of Mordor" with stunning 3D backgrounds that bring Middle-earth to life. Immerse yourself in the rich textures and atmospheric scenes featuring iconic landscapes, characters, and epic battles. Perfect as desktop wallpapers or for gaming inspiration, these visuals capture the essence of this epic saga.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Game Middle Earth Shadow Of Mordor HD Wallpaper - Sty… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3852/15104464368_79da2ed018_h.jpg' alt='Full Game Middle Earth Shadow Of Mordor HD Wallpaper - Sty… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3852/15104464368_79da2ed018_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Shadow Of Mordor Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shadow-of-mordor-background-2ag802rhgckjp2u3.jpg' alt='200+] Shadow Of Mordor Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shadow-of-mordor-background-2ag802rhgckjp2u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Banner Middle Earth Shadow Of Mordor HD Wallpaper - S… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3921/15291074275_7a5c30b687_k.jpg' alt='Game Banner Middle Earth Shadow Of Mordor HD Wallpaper - S… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2047">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3921/15291074275_7a5c30b687_k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1920x1080 Shadow Of Mordor Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/1920x1080-shadow-of-mordor-background-s4rddkky04fmgwae.jpg' alt='100+] 1920x1080 Shadow Of Mordor Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/1920x1080-shadow-of-mordor-background-s4rddkky04fmgwae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow Of War (Shadow Of Mordor 2)">
+                                <img itemprop="contentUrl url" src='https://b.thumbs.redditmedia.com/g026nxqSnHUv-10KQI6N2YgLtR3XYzxaFt8k4fBj5YI.png' alt='Shadow Of War (Shadow Of Mordor 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://b.thumbs.redditmedia.com/g026nxqSnHUv-10KQI6N2YgLtR3XYzxaFt8k4fBj5YI.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle-earth: Shadow Of Mordor - PC Performance Analysis">
+                                <img itemprop="contentUrl url" src='https://www.dsogaming.com/wp-content/uploads/2014/01/Middle-earth-Shadow-of-Mordor-feature-2-672x372.jpg' alt='Middle-earth: Shadow Of Mordor - PC Performance Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DSOGaming" />
+                                </span>
+                                <a href='https://www.dsogaming.com/wp-content/uploads/2014/01/Middle-earth-Shadow-of-Mordor-feature-2-672x372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 2440x1440 Shadow Of Mordor Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/2440x1440-shadow-of-mordor-background-t0y289xgh0pjy84r.jpg' alt='100+] 2440x1440 Shadow Of Mordor Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/2440x1440-shadow-of-mordor-background-t0y289xgh0pjy84r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Earth Shadow Of Mordor War HD Wallpaper - Stylish H… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/2941/15104219057_394fc8f297_h.jpg' alt='Middle Earth Shadow Of Mordor War HD Wallpaper - Stylish H… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/2941/15104219057_394fc8f297_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Shadow Of Mordor Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-shadow-of-mordor-background-8terwjcwq64xitdv.jpg' alt='100+] 4k Shadow Of Mordor Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-shadow-of-mordor-background-8terwjcwq64xitdv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Earth 3? : r/shadowofmordor">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/middle-earth-3-v0-ns16ab5x22bb1.jpg?width=640&crop=smart&auto=webp&s=d6d6e338082a7454acdb351bbe2a11f72bfefbb7' alt='Middle Earth 3? : r/shadowofmordor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/middle-earth-3-v0-ns16ab5x22bb1.jpg?width=640&crop=smart&auto=webp&s=d6d6e338082a7454acdb351bbe2a11f72bfefbb7' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Dark Green Pattern Backgrounds for Every Design</title>
+                    <meta name="description" content="Explore a variety of stunning dark green pattern backgrounds to elevate your designs. Perfect for websites, social media, or print, these backgrounds provide a sophisticated and calming aesthetic. Transform your projects with rich patterns inspired by nature's elegance, perfect for any creative endeavor.">
+                    <meta name="keywords" content="dark green pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-green-pattern-background">
+                            <span itemprop="name">dark green pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Green Pattern Backgrounds for Every Design</h1>
+                <p>Discover the beauty of dark green pattern backgrounds, perfect for adding depth and sophistication to your designs. Whether for websites, presentations, or social media, these rich hues enhance visual appeal while providing a calming effect. Explore various geometric and organic patterns that evoke nature's elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-forest-green-colour-rhombus-pattern-background-banner-multipurpose-design_1340-17103.jpg' alt='Dark Green Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-forest-green-colour-rhombus-pattern-background-banner-multipurpose-design_1340-17103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Pattern Images – Browse 1,466,284 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/20/80/54/360_F_620805402_LhCCErdk01ZDaLdLmgcn1ox6EeAL8Tx7.jpg' alt='Dark Green Pattern Images – Browse 1,466,284 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/20/80/54/360_F_620805402_LhCCErdk01ZDaLdLmgcn1ox6EeAL8Tx7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_84443-23908.jpg' alt='Dark Green Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_84443-23908.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="795,200+ Green Pattern Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1712792271/vector/dark-green-wave-pattern.jpg?s=612x612&w=0&k=20&c=fJSknscv5PZu3zIzie5K5Bb_qITCN3h5lTMe-3M2rNY=' alt='795,200+ Green Pattern Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1712792271/vector/dark-green-wave-pattern.jpg?s=612x612&w=0&k=20&c=fJSknscv5PZu3zIzie5K5Bb_qITCN3h5lTMe-3M2rNY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Background Images – Browse 3,645,913 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/93/33/61/360_F_393336128_TBpWZmTC8tHdAXUThg7UmilSr4ULsw2C.jpg' alt='Dark Green Background Images – Browse 3,645,913 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/93/33/61/360_F_393336128_TBpWZmTC8tHdAXUThg7UmilSr4ULsw2C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-3d-geometric-background-design-dark-dark-cal-poly-green-color_851755-13539.jpg?semt=ais_hybrid' alt='Dark Green Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-3d-geometric-background-design-dark-dark-cal-poly-green-color_851755-13539.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Gradient Geometric Background Origami Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/dark-green-gradient-geometric-background-260nw-1793226658.jpg' alt='Dark Green Gradient Geometric Background Origami Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/dark-green-gradient-geometric-background-260nw-1793226658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/559/749/small_2x/3d-modern-wave-curve-abstract-presentation-background-lines-layer-background-abstract-decoration-pattern-green-gradients-3d-illustration-dark-background-free-vector.jpg' alt='Dark Green Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/559/749/small_2x/3d-modern-wave-curve-abstract-presentation-background-lines-layer-background-abstract-decoration-pattern-green-gradients-3d-illustration-dark-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="795,200+ Green Pattern Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1067593330/vector/argyle-vector-pattern-dark-green-with-thin-slim-golden-dotted-line-xmas-pattern.jpg?s=612x612&w=0&k=20&c=raRPe6o_wxPaZTjPH1ZiQ6BPyfKZp-n55EIHNfM_SJ0=' alt='795,200+ Green Pattern Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1067593330/vector/argyle-vector-pattern-dark-green-with-thin-slim-golden-dotted-line-xmas-pattern.jpg?s=612x612&w=0&k=20&c=raRPe6o_wxPaZTjPH1ZiQ6BPyfKZp-n55EIHNfM_SJ0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless floral dark green damask brocade pattern background ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX18600165.jpg?width=800&height=800&quality=70' alt='Seamless floral dark green damask brocade pattern background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX18600165.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

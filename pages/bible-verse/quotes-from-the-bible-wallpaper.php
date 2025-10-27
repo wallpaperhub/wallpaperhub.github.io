@@ -1,0 +1,129 @@
+<title>Inspirational Bible Quotes Wallpaper for Every Device</title>
+                    <meta name="description" content="Discover our beautiful Bible quotes wallpapers that inspire and uplift. Perfect for mobile and desktop, these designs provide daily motivation through powerful verses, helping you stay connected to your faith. Transform your screen with these heavenly reminders today!">
+                    <meta name="keywords" content="quotes from the bible wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/quotes-from-the-bible-wallpaper">
+                            <span itemprop="name">quotes from the bible wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational Bible Quotes Wallpaper for Every Device</h1>
+                <p>Looking for inspiration? Our collection of Bible quotes wallpapers brings you uplifting verses to enhance your space. Perfect for your phone or desktop, these stunning designs feature powerful messages of faith, hope, and love. Transform your background into a daily reminder of spiritual wisdom and positivity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Inspiring Christian Wallpaper & Bible Verse Backgrounds For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/a3/e8/cea3e890b765989cbd68761b38bd8fe9.jpg' alt='10 Inspiring Christian Wallpaper & Bible Verse Backgrounds For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/a3/e8/cea3e890b765989cbd68761b38bd8fe9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_570xN.3731829963_hqft.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_570xN.3731829963_hqft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623267048/quotes/en/dbbgjcdyb3eh4f8lwtki.png' alt='Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623267048/quotes/en/dbbgjcdyb3eh4f8lwtki.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Bible verse desktop wallpaper ideas | bible verse desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a7/a5/4c/a7a54c4e311285efef1c69dd6a2c2ebc.jpg' alt='10 Best Bible verse desktop wallpaper ideas | bible verse desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a7/a5/4c/a7a54c4e311285efef1c69dd6a2c2ebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible quote 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://auproddownloads.blob.core.windows.net/compassion/Compassion/website/wallpapers%20blog/Compassion%20Australia%20-%20Isaiah%2046_4.jpg' alt='Bible quote 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://auproddownloads.blob.core.windows.net/compassion/Compassion/website/wallpapers%20blog/Compassion%20Australia%20-%20Isaiah%2046_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Bible Verse Wallpapers to Encourage You Today | LCBC Church ...">
+                                <img itemprop="contentUrl url" src='https://www.lcbcchurch.com/GetImage.ashx?Id=620316' alt='10 Bible Verse Wallpapers to Encourage You Today | LCBC Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LCBC Church" />
+                                </span>
+                                <a href='https://www.lcbcchurch.com/GetImage.ashx?Id=620316' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623177487/quotes/en/ecushburirn2e1sv7gmy.jpg' alt='Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623177487/quotes/en/ecushburirn2e1sv7gmy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Aesthetic Bible Verse Wallpapers for Daily Encouragement | LCBC ...">
+                                <img itemprop="contentUrl url" src='https://www.lcbcchurch.com/GetImage.ashx?Id=703715' alt='12 Aesthetic Bible Verse Wallpapers for Daily Encouragement | LCBC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LCBC Church" />
+                                </span>
+                                <a href='https://www.lcbcchurch.com/GetImage.ashx?Id=703715' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

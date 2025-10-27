@@ -1,0 +1,129 @@
+<title>Kawaii Cherry Wallpaper: Cute & Colorful Backgrounds</title>
+                    <meta name="description" content="Discover the charm of kawaii cute cherry wallpaper! Perfect for phones and tablets, these delightful designs add a touch of sweetness to your screen. Explore vibrant and pastel options to brighten your device effortlessly. Download now and enjoy a pastel paradise wherever you go!">
+                    <meta name="keywords" content="kawaii cute cherry wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/kawaii-cute-cherry-wallpaper">
+                            <span itemprop="name">kawaii cute cherry wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Cherry Wallpaper: Cute & Colorful Backgrounds</h1>
+                <p>Elevate your screens with kawaii cute cherry wallpaper! Featuring adorable cherry designs, these wallpapers are perfect for adding a pop of color and charm to your devices. Whether you're a fan of pastel hues or vibrant shades, our collection will bring a smile to your face every time you unlock your phone or tablet!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Cherry wallpapers ideas | cherry, pattern wallpaper, desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/d4/0a/c8d40a07b4f3902aef3d1a4bd79589ba.jpg' alt='45 Cherry wallpapers ideas | cherry, pattern wallpaper, desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/d4/0a/c8d40a07b4f3902aef3d1a4bd79589ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Cherry Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cherry-design-with-floral-and-polka-dots-lysasgej44ykj7ig.jpg' alt='100+] Cute Cherry Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cherry-design-with-floral-and-polka-dots-lysasgej44ykj7ig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern of cute cherry smile face background.Catoon ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/557/692/non_2x/seamless-pattern-of-cute-cherry-smile-face-background-catoon-character-design-pastel-fruit-wallpaper-banner-paper-gift-kid-graphic-kawaii-illustration-vector.jpg' alt='Seamless pattern of cute cherry smile face background.Catoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/557/692/non_2x/seamless-pattern-of-cute-cherry-smile-face-background-catoon-character-design-pastel-fruit-wallpaper-banner-paper-gift-kid-graphic-kawaii-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girlypop Bow and Cherry Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/89/3b/69893b9a069d49e2b616f400f1c2b7e0.jpg' alt='Cute Girlypop Bow and Cherry Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/89/3b/69893b9a069d49e2b616f400f1c2b7e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute kawaii cartoon style cherry fruit collection">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-kawaii-cartoon-style-cherry-fruit-collection_945253-125.jpg' alt='Premium Vector | Cute kawaii cartoon style cherry fruit collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-kawaii-cartoon-style-cherry-fruit-collection_945253-125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3c/f5/a5/3cf5a57b5b1990154194dc9f62da2b96.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3c/f5/a5/3cf5a57b5b1990154194dc9f62da2b96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Wallpapers Cherry Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/red-hand-drawn-cherry-seamless-pattern-pink-social-template_53876-116104.jpg' alt='Cute Aesthetic Wallpapers Cherry Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/red-hand-drawn-cherry-seamless-pattern-pink-social-template_53876-116104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with a cute cherry on a pink ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-cute-cherry-pink-background-vector-illustration_516366-174.jpg' alt='Premium Vector | Seamless pattern with a cute cherry on a pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-cute-cherry-pink-background-vector-illustration_516366-174.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Cherry Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cherry-aesthetic-mjxu9fqww08s4icy.jpg' alt='100+] Cute Cherry Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cherry-aesthetic-mjxu9fqww08s4icy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12                  &                            ♡₊˚ ideas | bow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/26/63/d426634afa4479723beb98204490171c.jpg' alt='12                  &                            ♡₊˚ ideas | bow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/26/63/d426634afa4479723beb98204490171c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

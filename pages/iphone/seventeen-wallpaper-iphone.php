@@ -1,0 +1,129 @@
+<title>Stunning Seventeen Wallpapers for Your iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="seventeen wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/seventeen-wallpaper-iphone">
+                            <span itemprop="name">seventeen wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Seventeen Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning Seventeen wallpaper! Explore a wide variety of designs featuring your favorite artists and themes. Customize your device with vibrant images that reflect your personality and passion for music. Perfect for fans wanting to showcase their love for Seventeen in a stylish way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your phone wallpaper? : r/seventeen">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-your-phone-wallpaper-v0-fm40fzf7we2d1.jpeg?width=946&format=pjpg&auto=webp&s=e77eedce1c280b373207ca3bc2f44a2a94924486' alt='What is your phone wallpaper? : r/seventeen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-your-phone-wallpaper-v0-fm40fzf7we2d1.jpeg?width=946&format=pjpg&auto=webp&s=e77eedce1c280b373207ca3bc2f44a2a94924486' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seventeen Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/6/9/2453280-1080x1920-iphone-full-hd-seventeen-wallpaper.jpg' alt='Seventeen Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/6/9/2453280-1080x1920-iphone-full-hd-seventeen-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best SEVENTEEN Wallpapers ideas | seventeen wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/63/b1/d7/63b1d73e5e9a6dbd9613d0054acf7160.jpg' alt='100 Best SEVENTEEN Wallpapers ideas | seventeen wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/63/b1/d7/63b1d73e5e9a6dbd9613d0054acf7160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seventeen, kpop, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/362/473/HD-wallpaper-seventeen-bazaar-svt-music-ot13-kpop-danceking-seventeen-carat-bazaar-thumbnail.jpg' alt='Seventeen, kpop, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/362/473/HD-wallpaper-seventeen-bazaar-svt-music-ot13-kpop-danceking-seventeen-carat-bazaar-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seventeen your choice wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/31/b0/1331b06f368fe7016003930c19b23614.jpg' alt='seventeen your choice wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/31/b0/1331b06f368fe7016003930c19b23614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your phone wallpaper? : r/seventeen">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-your-phone-wallpaper-v0-9wnuy7ppwd2d1.jpeg?width=1080&format=pjpg&auto=webp&s=64f957af832a0fa36f7e7f858c8a774a574b449d' alt='What is your phone wallpaper? : r/seventeen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-your-phone-wallpaper-v0-9wnuy7ppwd2d1.jpeg?width=1080&format=pjpg&auto=webp&s=64f957af832a0fa36f7e7f858c8a774a574b449d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Seventeen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/seventeen-love-letter-i812bzcc066fozuq.jpg' alt='100+] Seventeen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/seventeen-love-letter-i812bzcc066fozuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SayTheNameSVT, kpop, music, seventeen, seventeenrighthere, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/399/876/HD-wallpaper-saythenamesvt-kpop-music-seventeen-seventeenrighthere.jpg' alt='SayTheNameSVT, kpop, music, seventeen, seventeenrighthere, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/399/876/HD-wallpaper-saythenamesvt-kpop-music-seventeen-seventeenrighthere.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seventeen wallpaper (I made this for their fifth anniversary... I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ixe4kzenla351.jpg' alt='Seventeen wallpaper (I made this for their fifth anniversary... I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1948">
+                                <meta itemprop="height" content="3463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ixe4kzenla351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seventeen HD Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5925486.png' alt='Seventeen HD Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5925486.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

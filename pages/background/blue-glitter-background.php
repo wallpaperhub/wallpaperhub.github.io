@@ -1,0 +1,129 @@
+<title>Radiant Blue Glitter Backgrounds for Dazzling Designs</title>
+                    <meta name="description" content="Discover stunning blue glitter backgrounds that elevate your designs with elegance and shine. Perfect for websites, social media, or creative projects, these vibrant backdrops captivate and inspire. Enhance your digital content with the mesmerizing beauty of blue glitter. Get yours today!">
+                    <meta name="keywords" content="blue glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-glitter-background">
+                            <span itemprop="name">blue glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Radiant Blue Glitter Backgrounds for Dazzling Designs</h1>
+                <p>Transform your digital space with a stunning blue glitter background. This vibrant and eye-catching design adds a touch of elegance and sparkle to any project. Perfect for websites, social media, or digital presentations, the shimmering blue hues create a captivating visual experience that captivates viewers and enhances your content.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="411,400+ Blue Glitter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398142930/vector/magic-night-dark-blue-frame-with-sparkling-glitter-bokeh-and-light-art.jpg?s=612x612&w=0&k=20&c=qnu4qBbJMlQbQkv3o_O6S-PVAThZuo0izR0olhUBGCg=' alt='411,400+ Blue Glitter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398142930/vector/magic-night-dark-blue-frame-with-sparkling-glitter-bokeh-and-light-art.jpg?s=612x612&w=0&k=20&c=qnu4qBbJMlQbQkv3o_O6S-PVAThZuo0izR0olhUBGCg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Background Silver Sparkle Texture Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/756168022/display_1500/stock-photo-blue-glitter-background-silver-sparkle-texture-wallpaper-for-christmas-light-756168022.jpg' alt='Blue Glitter Background Silver Sparkle Texture Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/756168022/display_1500/stock-photo-blue-glitter-background-silver-sparkle-texture-wallpaper-for-christmas-light-756168022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1671028205389-4557069bd018?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGdsaXR0ZXJ8ZW58MHx8MHx8fDA%3D' alt='Blue Glitter Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1671028205389-4557069bd018?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGdsaXR0ZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,200+ Light Blue Glitter Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1385064274/vector/light-blue-glitter-watercolor-style-illustration.jpg?s=612x612&w=0&k=20&c=7fZea2B7srecL0MsPUI-a2M_bNk3AjfVBLTdTYsI2rQ=' alt='5,200+ Light Blue Glitter Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1385064274/vector/light-blue-glitter-watercolor-style-illustration.jpg?s=612x612&w=0&k=20&c=7fZea2B7srecL0MsPUI-a2M_bNk3AjfVBLTdTYsI2rQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Images – Browse 2,310,796 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/94/76/40/360_F_94764048_fr8lEWgaRNOT9ISjuKn3oCrl9qTXjHQF.jpg' alt='Blue Glitter Images – Browse 2,310,796 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/94/76/40/360_F_94764048_fr8lEWgaRNOT9ISjuKn3oCrl9qTXjHQF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-navy-blue-glitter-background_23-2150023918.jpg' alt='Blue Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-navy-blue-glitter-background_23-2150023918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/323/514/small/abstract-modern-luxury-dark-blue-circle-shape-and-golden-ring-with-gold-glitter-ribbon-lines-on-dark-background-vector.jpg' alt='Blue Glitter Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/323/514/small/abstract-modern-luxury-dark-blue-circle-shape-and-golden-ring-with-gold-glitter-ribbon-lines-on-dark-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Glitter Background - Stock Photos | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion-array/753830/Abstract_Blue_Glitter_Background_high_resolution_preview_753830.jpg?Expires=2036551351353&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=b9r5X7lZA8Gul0hNkZMdvciiUtI-lzn97hKq-Qdvs1JoC6J-EVCQ2sqRY4HRJNoAjOuJl4zLCNNdfBRO8osm7d5P6aR0DGW9WN16oYC9e2nrRHx5hWLh1dH4~5-g2x6G6gh-TZCtlCWtKf1c4j0-9LYD17s08tzYm8IdAPNZVgerpn6M9NVho5wWumym5qrWdhlshJlbeEKk1IO~MqCZz2y5t~Vblei18129-ZIJeeOv0cADJ8MmYIhh5ZY4yBqbH~Re1rDRcc3ynNDa8ShHKiFal~9VKXWryDr3EKmiQT3rvfBvI-Pgftwr~VAaOXaaI7mOn~8zxhVG9nH8GdzP3w__' alt='Abstract Blue Glitter Background - Stock Photos | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion-array/753830/Abstract_Blue_Glitter_Background_high_resolution_preview_753830.jpg?Expires=2036551351353&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=b9r5X7lZA8Gul0hNkZMdvciiUtI-lzn97hKq-Qdvs1JoC6J-EVCQ2sqRY4HRJNoAjOuJl4zLCNNdfBRO8osm7d5P6aR0DGW9WN16oYC9e2nrRHx5hWLh1dH4~5-g2x6G6gh-TZCtlCWtKf1c4j0-9LYD17s08tzYm8IdAPNZVgerpn6M9NVho5wWumym5qrWdhlshJlbeEKk1IO~MqCZz2y5t~Vblei18129-ZIJeeOv0cADJ8MmYIhh5ZY4yBqbH~Re1rDRcc3ynNDa8ShHKiFal~9VKXWryDr3EKmiQT3rvfBvI-Pgftwr~VAaOXaaI7mOn~8zxhVG9nH8GdzP3w__' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Images – Browse 2,310,796 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/60/77/49/360_F_360774900_oiXPCMXV5TjGuUCC4R70TLpdIq6Y4sWj.jpg' alt='Blue Glitter Images – Browse 2,310,796 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/60/77/49/360_F_360774900_oiXPCMXV5TjGuUCC4R70TLpdIq6Y4sWj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="411,400+ Blue Glitter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364976857/photo/background-of-abstract-glitter-lights-gold-blue-and-black-de-focused.jpg?s=612x612&w=0&k=20&c=f45l6t3lX99_2OSwcN-VRhrHYsK42QpPx6XwVwbENg0=' alt='411,400+ Blue Glitter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364976857/photo/background-of-abstract-glitter-lights-gold-blue-and-black-de-focused.jpg?s=612x612&w=0&k=20&c=f45l6t3lX99_2OSwcN-VRhrHYsK42QpPx6XwVwbENg0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

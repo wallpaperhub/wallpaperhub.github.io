@@ -1,0 +1,129 @@
+<title>Stunning Star Trek Voyager Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover a variety of captivating Star Trek Voyager wallpapers to personalize your devices. Choose from designs featuring the U.S.S. Voyager and beloved characters. Perfect for fans of all ages, these wallpapers bring the Delta Quadrant to your screen in style. Download your favorite today!">
+                    <meta name="keywords" content="star trek voyager wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-trek-voyager-wallpaper">
+                            <span itemprop="name">star trek voyager wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Trek Voyager Wallpaper for Your Devices</h1>
+                <p>Enhance your device with stunning Star Trek Voyager wallpaper! Celebrate your love for the series with vibrant images of the U.S.S. Voyager and its iconic crew. Whether you're a fan of Captain Janeway or the entire ensemble, these wallpapers will transport you to the Delta Quadrant. Explore various styles and themes to personalize your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek: Voyager HD Wallpaper - Journey Through the Stars">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/563/563720.jpg' alt='Star Trek: Voyager HD Wallpaper - Journey Through the Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/563/563720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Voyager: HD Sci-Fi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/124/thumb-1920-124794.jpg' alt='Star Trek Voyager: HD Sci-Fi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/124/thumb-1920-124794.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Iphone Voyager Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/star-trek-iphone-voyager-t3hv8vbmzgdtxaw4.webp' alt='Star Trek Iphone Voyager Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/star-trek-iphone-voyager-t3hv8vbmzgdtxaw4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek: Voyager HD Wallpaper - Journey Through the Cosmos">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/377/377813.jpg' alt='Star Trek: Voyager HD Wallpaper - Journey Through the Cosmos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/377/377813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Star Trek Voyager Wallpaper FULL HD 1080p For PC Desktop 2024">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/47/2e/cf472eb74fc58b6ed813a36eb00ba22f.jpg' alt='10 Top Star Trek Voyager Wallpaper FULL HD 1080p For PC Desktop 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/47/2e/cf472eb74fc58b6ed813a36eb00ba22f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just a little phone wallpaper of the most beautiful starship ever ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c40i1tiebmpa1.jpg' alt='Just a little phone wallpaper of the most beautiful starship ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c40i1tiebmpa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Voyager wallpaper - Opera add-ons">
+                                <img itemprop="contentUrl url" src='https://addons-media.operacdn.com/media/CACHE/images/themes/95/77195/1.1-rev1/images/611b06ed-857e-4cd2-8021-99e4731c64af/133f9d059c94d7a4aadd779004896fab.jpg' alt='Star Trek Voyager wallpaper - Opera add-ons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opera add-ons" />
+                                </span>
+                                <a href='https://addons-media.operacdn.com/media/CACHE/images/themes/95/77195/1.1-rev1/images/611b06ed-857e-4cd2-8021-99e4731c64af/133f9d059c94d7a4aadd779004896fab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Trek TV Show Star Trek: Voyager HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/789/thumb-1920-789983.jpg' alt='Download Star Trek TV Show Star Trek: Voyager HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/789/thumb-1920-789983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Voyager Desktop Wallpapers | The Trek BBS">
+                                <img itemprop="contentUrl url" src='https://s-media-cache-ak0.pinimg.com/originals/b7/8c/63/b78c63ca6186b1f728b1020ad7a3c670.jpg' alt='Star Trek Voyager Desktop Wallpapers | The Trek BBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Trek BBS" />
+                                </span>
+                                <a href='https://s-media-cache-ak0.pinimg.com/originals/b7/8c/63/b78c63ca6186b1f728b1020ad7a3c670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Voyager - Star Trek wallpapers backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/63/f7/4c63f7d8b14e5b7d45224c5ff9b75a46.jpg' alt='Star Trek Voyager - Star Trek wallpapers backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/63/f7/4c63f7d8b14e5b7d45224c5ff9b75a46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

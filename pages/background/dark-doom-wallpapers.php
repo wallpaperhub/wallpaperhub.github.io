@@ -1,0 +1,129 @@
+<title>Dark Doom Wallpapers: Enigmatic Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover a collection of dark doom wallpapers that blend beauty and gloom. Perfect for your smartphone or desktop, these evocative backgrounds are designed to captivate and inspire. Transform your screen with moody art that reflects your unique style and fascination with the mysterious and the macabre.">
+                    <meta name="keywords" content="dark doom wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-doom-wallpapers">
+                            <span itemprop="name">dark doom wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Doom Wallpapers: Enigmatic Backgrounds for Your Device</h1>
+                <p>Explore the haunting beauty of dark doom wallpapers, where every image tells a story of mystery and despair. Perfect for those who appreciate the darker side of art, these wallpapers feature atmospheric landscapes, gothic architecture, and shadowy figures that create a captivating backdrop for your devices. Embrace the darkness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New key art for Doom: The Dark Ages : r/Doom">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-key-art-for-doom-the-dark-ages-v0-yztkeocoksee1.jpeg?auto=webp&s=1ab02806f805a4e5d3226c1a129464e862a00c78' alt='New key art for Doom: The Dark Ages : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-key-art-for-doom-the-dark-ages-v0-yztkeocoksee1.jpeg?auto=webp&s=1ab02806f805a4e5d3226c1a129464e862a00c78' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark, Doom, 2016, video game, 1080x2160 wallpaper | Doom videogame ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/ff/1d/59ff1daf52856f393d852735e42f3b57.jpg' alt='Dark, Doom, 2016, video game, 1080x2160 wallpaper | Doom videogame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/ff/1d/59ff1daf52856f393d852735e42f3b57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOOM: The Dark Ages HD Wallpaper - Iconic Doomguy">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/136/1365715.png' alt='DOOM: The Dark Ages HD Wallpaper - Iconic Doomguy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/136/1365715.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOOM: The Dark Ages - 4K Ultra HD Wallpaper Adventure">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/138/1389830.jpg' alt='DOOM: The Dark Ages - 4K Ultra HD Wallpaper Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/138/1389830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom: The Dark Ages wallpaper 02 1080p Horizontal">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?titel=Doom%3A+The+Dark+Ages&nummer=02&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=8690' alt='Doom: The Dark Ages wallpaper 02 1080p Horizontal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?titel=Doom%3A+The+Dark+Ages&nummer=02&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=8690' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anybody have a higher res for this wallpaper : r/Doom">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c95f8d416b640656eb7765a/1737661805606-J24JI9LWFT61DAS8VW6R/Doom+The+Dark+Ages.jpg?format=2500w' alt='Does anybody have a higher res for this wallpaper : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c95f8d416b640656eb7765a/1737661805606-J24JI9LWFT61DAS8VW6R/Doom+The+Dark+Ages.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for doom eternal concept art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/fe/05/62fe05bfdfb66c863c6907d0ec3cdda4.jpg' alt='Image result for doom eternal concept art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/fe/05/62fe05bfdfb66c863c6907d0ec3cdda4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom Eternal Wallpaper 4K, AMOLED, Doomguy, Doom Slayer">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/doom-eternal-doomguy-doom-slayer-black-background-amoled-3840x2160-7618.png' alt='Doom Eternal Wallpaper 4K, AMOLED, Doomguy, Doom Slayer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/doom-eternal-doomguy-doom-slayer-black-background-amoled-3840x2160-7618.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EXCLUSIVE: DOOM: The Dark Ages to be Revealed at Xbox Games ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/exclusive-doom-the-dark-ages-to-be-revealed-at-xbox-games-v0-sFpKusixqZ35ZKAyN27kxRvTSStHZQAxVp_7S5YvcxQ.jpg?auto=webp&s=575edfe2977f766a68bef65593607ba03fc499fd' alt='EXCLUSIVE: DOOM: The Dark Ages to be Revealed at Xbox Games ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/exclusive-doom-the-dark-ages-to-be-revealed-at-xbox-games-v0-sFpKusixqZ35ZKAyN27kxRvTSStHZQAxVp_7S5YvcxQ.jpg?auto=webp&s=575edfe2977f766a68bef65593607ba03fc499fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Doom: The Dark Ages Wallpaper [4K]">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/15300379396695930/196ADC8377553C547AEA9045FE99E99EA7A87920/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Doom: The Dark Ages Wallpaper [4K]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/15300379396695930/196ADC8377553C547AEA9045FE99E99EA7A87920/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

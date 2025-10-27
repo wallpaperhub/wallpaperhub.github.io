@@ -1,0 +1,129 @@
+<title>Stunning Blue Goku Wallpapers for Your Device!</title>
+                    <meta name="description" content="Discover a selection of stunning blue Goku wallpapers that bring your favorite anime character to life. Perfect for any device, these dynamic backgrounds enhance your screen's aesthetic while celebrating Goku's legendary adventures. Download your favorite today and stay inspired!">
+                    <meta name="keywords" content="blue:aiha1hksxnu= goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/blueaiha1hksxnu-goku-wallpaper">
+                            <span itemprop="name">blue:aiha1hksxnu= goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Goku Wallpapers for Your Device!</h1>
+                <p>Explore vibrant Goku wallpapers featuring stunning blue themes, perfect for fans of Dragon Ball. Elevate your device's background with captivating artwork that showcases Goku's iconic spirit and power. Whether you're a casual viewer or a die-hard fan, these wallpapers bring your love for the series to life. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan Blue 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/821/thumb-1920-821145.png' alt='Goku Super Saiyan Blue 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/821/thumb-1920-821145.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Goku, dragonball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/441/197/HD-wallpaper-blue-goku-dragonball.jpg' alt='Blue Goku, dragonball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/441/197/HD-wallpaper-blue-goku-dragonball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kamehameha Super Saiyan Blue Goku Anime Dragon Ball Super ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/100/1003569.jpg' alt='Download Kamehameha Super Saiyan Blue Goku Anime Dragon Ball Super ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/100/1003569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Super Saiyan Blue">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-2048x2048-5099.jpg' alt='Goku Wallpaper 4K, Super Saiyan Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-super-saiyan-blue-super-saiyan-god-dragon-ball-super-5k-2048x2048-5099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku blue, anime, dragonball, kamehameha, ssb, super, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/601/457/HD-wallpaper-goku-blue-anime-dragonball-kamehameha-ssb-super.jpg' alt='Goku blue, anime, dragonball, kamehameha, ssb, super, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/601/457/HD-wallpaper-goku-blue-anime-dragonball-kamehameha-ssb-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, anime art, glowing eyes and hair, 1280x2120 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7c/ab/40/7cab40c92a7d87e42306d32b68e5b5be.jpg' alt='Goku, anime art, glowing eyes and hair, 1280x2120 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="396">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7c/ab/40/7cab40c92a7d87e42306d32b68e5b5be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Blue Wallpaper 4K, Son Goku, Dragon Ball, AI art, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/super-saiyan-blue-3840x1080-17603.jpg' alt='Super Saiyan Blue Wallpaper 4K, Son Goku, Dragon Ball, AI art, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/super-saiyan-blue-3840x1080-17603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOKU BLUE AI, anime, dragonball, nash, super dragon ball, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/711/345/HD-wallpaper-goku-blue-ai-anime-dragonball-nash-super-dragon-ball.jpg' alt='GOKU BLUE AI, anime, dragonball, nash, super dragon ball, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/711/345/HD-wallpaper-goku-blue-ai-anime-dragonball-nash-super-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan Blue Wallpaper by TeamSaiyanHD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce85f5dc-8fb0-472b-b258-f77766c3bbfc/dapm2y4-ea7a058c-0209-4e0c-8aa0-942c0f5e39b1.png/v1/fill/w_1192,h_670/goku_super_saiyan_blue_wallpaper_by_teamsaiyanhd_dapm2y4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvY2U4NWY1ZGMtOGZiMC00NzJiLWIyNTgtZjc3NzY2YzNiYmZjXC9kYXBtMnk0LWVhN2EwNThjLTAyMDktNGUwYy04YWEwLTk0MmMwZjVlMzliMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NGCCNh3qail4BCUGCP-86kaXIm0hTHcARolZGOyBLRE' alt='Goku Super Saiyan Blue Wallpaper by TeamSaiyanHD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce85f5dc-8fb0-472b-b258-f77766c3bbfc/dapm2y4-ea7a058c-0209-4e0c-8aa0-942c0f5e39b1.png/v1/fill/w_1192,h_670/goku_super_saiyan_blue_wallpaper_by_teamsaiyanhd_dapm2y4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvY2U4NWY1ZGMtOGZiMC00NzJiLWIyNTgtZjc3NzY2YzNiYmZjXC9kYXBtMnk0LWVhN2EwNThjLTAyMDktNGUwYy04YWEwLTk0MmMwZjVlMzliMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NGCCNh3qail4BCUGCP-86kaXIm0hTHcARolZGOyBLRE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku super saiyan blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/35/4a/b2354a1932ad7195d5ff06c4d1c46e24.jpg' alt='Goku super saiyan blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/35/4a/b2354a1932ad7195d5ff06c4d1c46e24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

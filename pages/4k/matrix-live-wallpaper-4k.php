@@ -1,0 +1,129 @@
+<title>4K Matrix Live Wallpaper: Energize Your Screen</title>
+                    <meta name="description" content="Discover the ultimate 4K matrix live wallpaper for your device! Experience iconic digital rain and vibrant animations that bring your screen to life. Perfect for sci-fi enthusiasts, this dynamic backdrop enhances your mobile aesthetic. Download now to elevate your device's visual experience!">
+                    <meta name="keywords" content="matrix live wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/matrix-live-wallpaper-4k">
+                            <span itemprop="name">matrix live wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Matrix Live Wallpaper: Energize Your Screen</h1>
+                <p>Transform your device with stunning matrix live wallpaper in 4K! Immerse yourself in the iconic digital rain, vibrant colors, and seamless animations that breathe life into your screen. Perfect for fans of sci-fi aesthetics, these wallpapers enhance your mobile experience, providing a dynamic backdrop that captivates and energizes. Upgrade your wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Matrix Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Movies/thumb-Matrix.png' alt='The Matrix Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Movies/thumb-Matrix.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matrix Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/lhlPnecH9rOJsPbxMehMED_TWb7MTCufzYaVU7JqEqx9XNrREkfPOSwnnrSPDHFqgg' alt='Matrix Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/lhlPnecH9rOJsPbxMehMED_TWb7MTCufzYaVU7JqEqx9XNrREkfPOSwnnrSPDHFqgg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matrix 4k Live Wallpaper - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-icon-m/p/31174394-3374-413c-bd1a-ce532793a6e9/2797472496/matrix-4k-live-wallpaper-icon.jpg' alt='Matrix 4k Live Wallpaper - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-icon-m/p/31174394-3374-413c-bd1a-ce532793a6e9/2797472496/matrix-4k-live-wallpaper-icon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Matrix Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/019/901/small/matrix-digital-background-free-video.jpg' alt='Live Wallpaper Matrix Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/019/901/small/matrix-digital-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K |GREEN MATRIX| ░ |MOVING BACKGROUND| ░ |Live Wallpaper| #AAVFX">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mBdMk8DDIxk/maxresdefault.jpg' alt='4K |GREEN MATRIX| ░ |MOVING BACKGROUND| ░ |Live Wallpaper| #AAVFX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mBdMk8DDIxk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matrix wallpaper gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif' alt='Matrix wallpaper gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matrix Rain Codes Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/4260/matrix-rain-codes.jpg' alt='Matrix Rain Codes Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/4260/matrix-rain-codes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Matrix Code Rain 3D - 1 Hour Matrix Theme TV Screensaver and 4K  Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lOM9jtPy1po/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-7SpZVyvrpWd467EFB2yCQbZXMw' alt='Dark Blue Matrix Code Rain 3D - 1 Hour Matrix Theme TV Screensaver and 4K  Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lOM9jtPy1po/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-7SpZVyvrpWd467EFB2yCQbZXMw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Matrix Live Wallpaper Collection | High Definition Phone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7351270725409426693&location=0&aid=1988' alt='4K Matrix Live Wallpaper Collection | High Definition Phone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7351270725409426693&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matrix Phone Wallpapers : r/matrix">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/matrix-phone-wallpapers-v0-j8nints0rake1.jpg?width=1125&format=pjpg&auto=webp&s=5b73d84d617c501dae22bfc16520ae7875058903' alt='Matrix Phone Wallpapers : r/matrix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/matrix-phone-wallpapers-v0-j8nints0rake1.jpg?width=1125&format=pjpg&auto=webp&s=5b73d84d617c501dae22bfc16520ae7875058903' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

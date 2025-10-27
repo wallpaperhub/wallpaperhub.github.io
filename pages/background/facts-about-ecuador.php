@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="facts about ecuador">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-ecuador">
+                            <span itemprop="name">facts about ecuador</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ecuador | History, Flag, Capital, Map, Currency, Population ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/149-050-7AD40B1F/flag-design-similarities-Ecuador-Colombia-flags-Venezuela.jpg' alt='Ecuador | History, Flag, Capital, Map, Currency, Population ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/149-050-7AD40B1F/flag-design-similarities-Ecuador-Colombia-flags-Venezuela.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 interesting facts about Ecuador | Atlas & Boots">
+                                <img itemprop="contentUrl url" src='https://www.atlasandboots.com/wp-content/uploads/2019/04/most-interesting-facts-about-Ecuador-lead-image-alpacas.jpg' alt='30 interesting facts about Ecuador | Atlas & Boots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlas & Boots" />
+                                </span>
+                                <a href='https://www.atlasandboots.com/wp-content/uploads/2019/04/most-interesting-facts-about-Ecuador-lead-image-alpacas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ECUADOR: 20 Facts in 3 MINUTES">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/igYRLXUfSzw/maxresdefault.jpg' alt='ECUADOR: 20 Facts in 3 MINUTES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/igYRLXUfSzw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Ecuador Facts for Fun and Learning | YourDictionary">
+                                <img itemprop="contentUrl url" src='https://assets.ltkcontent.com/images/89167/ecuador-flag-map_27c5571306.jpg' alt='28 Ecuador Facts for Fun and Learning | YourDictionary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YourDictionary" />
+                                </span>
+                                <a href='https://assets.ltkcontent.com/images/89167/ecuador-flag-map_27c5571306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Facts: Exploring Ecuador with Kids - Inspired by Family">
+                                <img itemprop="contentUrl url" src='http://inspiredbyfamilymag.files.wordpress.com/2012/12/exploring-ecuador-e1355275156572.jpg' alt='Fun Facts: Exploring Ecuador with Kids - Inspired by Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspired by Family" />
+                                </span>
+                                <a href='http://inspiredbyfamilymag.files.wordpress.com/2012/12/exploring-ecuador-e1355275156572.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Fun Ecuador Facts For Your South America Trip">
+                                <img itemprop="contentUrl url" src='https://www.quasarex.com/wp-content/uploads/2016/09/ecuador-closest-to-space.jpg' alt='15 Fun Ecuador Facts For Your South America Trip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quasar Expeditions" />
+                                </span>
+                                <a href='https://www.quasarex.com/wp-content/uploads/2016/09/ecuador-closest-to-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 facts about Ecuador | Local travel agency in Ecuador">
+                                <img itemprop="contentUrl url" src='https://www.ecuador-travels.com/wp-content/uploads/quito-adobestock-272722269-1280x800.jpeg' alt='11 facts about Ecuador | Local travel agency in Ecuador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ecuador" />
+                                </span>
+                                <a href='https://www.ecuador-travels.com/wp-content/uploads/quito-adobestock-272722269-1280x800.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Fun and Interesting Facts About Ecuador">
+                                <img itemprop="contentUrl url" src='https://cdn-blbpl.nitrocdn.com/yERRkNKpiDCoDrBCLMpaauJAEtjVyDjw/assets/images/optimized/rev-9a59f61/www.spanish.academy/wp-content/uploads/2021/11/20-Fun-and-Interesting-Facts-About-Ecuador-Featured-image.jpg' alt='20 Fun and Interesting Facts About Ecuador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool Spanish Academy" />
+                                </span>
+                                <a href='https://cdn-blbpl.nitrocdn.com/yERRkNKpiDCoDrBCLMpaauJAEtjVyDjw/assets/images/optimized/rev-9a59f61/www.spanish.academy/wp-content/uploads/2021/11/20-Fun-and-Interesting-Facts-About-Ecuador-Featured-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ecuador Country Facts Display Poster (teacher made) - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/d0/a0/t-g-1720516503-ecuador-country-facts-display-poster_ver_2.jpg' alt='Ecuador Country Facts Display Poster (teacher made) - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/d0/a0/t-g-1720516503-ecuador-country-facts-display-poster_ver_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Fun and Interesting Facts About Ecuador">
+                                <img itemprop="contentUrl url" src='https://cdn-blbpl.nitrocdn.com/yERRkNKpiDCoDrBCLMpaauJAEtjVyDjw/assets/images/optimized/rev-9a59f61/www.spanish.academy/wp-content/uploads/2021/11/Ecuador-fun-facts-8-compressed-1024x685.jpg' alt='20 Fun and Interesting Facts About Ecuador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool Spanish Academy" />
+                                </span>
+                                <a href='https://cdn-blbpl.nitrocdn.com/yERRkNKpiDCoDrBCLMpaauJAEtjVyDjw/assets/images/optimized/rev-9a59f61/www.spanish.academy/wp-content/uploads/2021/11/Ecuador-fun-facts-8-compressed-1024x685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

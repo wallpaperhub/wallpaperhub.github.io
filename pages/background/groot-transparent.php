@@ -1,0 +1,129 @@
+<title>Groot Transparent: A Unique Home Decor Piece</title>
+                    <meta name="description" content="Discover the Groot Transparent design that combines whimsical charm with modern aesthetics. Perfect as a collector's item or decor for any space, this transparent Groot adds a playful touch to your home. Elevate your decor with this eye-catching piece that celebrates your favorite character!">
+                    <meta name="keywords" content="groot transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groot-transparent">
+                            <span itemprop="name">groot transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groot Transparent: A Unique Home Decor Piece</h1>
+                <p>Groot Transparent is a unique concept blending art and functionality. This innovative design features Groot, the beloved character from Guardians of the Galaxy, in a clear, transparent form. Perfect for collectors and fans alike, it adds a modern touch to any space while showcasing Groot's playful charm. Light and striking, it's a must-have for any decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Groot 1 - Transparent by Captain-Kingsman16 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/dbpt2qy-26d0bacf-70ff-425d-ba45-a5fcf3e1a540.png/v1/fill/w_600,h_861/baby_groot_1___transparent_by_captain_kingsman16_dbpt2qy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYxIiwicGF0aCI6IlwvZlwvZWExOTYxMTctMGI2NC00OWI3LWIxM2YtNzlmNDNjZjc3ZTUzXC9kYnB0MnF5LTI2ZDBiYWNmLTcwZmYtNDI1ZC1iYTQ1LWE1ZmNmM2UxYTU0MC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XqxRoWjcHM8oFP8yitYxOTHeIlabhYijYIu1ApMGys4' alt='Baby Groot 1 - Transparent by Captain-Kingsman16 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/dbpt2qy-26d0bacf-70ff-425d-ba45-a5fcf3e1a540.png/v1/fill/w_600,h_861/baby_groot_1___transparent_by_captain_kingsman16_dbpt2qy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYxIiwicGF0aCI6IlwvZlwvZWExOTYxMTctMGI2NC00OWI3LWIxM2YtNzlmNDNjZjc3ZTUzXC9kYnB0MnF5LTI2ZDBiYWNmLTcwZmYtNDI1ZC1iYTQ1LWE1ZmNmM2UxYTU0MC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XqxRoWjcHM8oFP8yitYxOTHeIlabhYijYIu1ApMGys4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG transparent image download, size: 920x725px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/groot_PNG36.png' alt='Groot PNG transparent image download, size: 920x725px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/groot_PNG36.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG transparent image download, size: 1670x4000px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/groot_PNG10.png' alt='Groot PNG transparent image download, size: 1670x4000px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1670">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/groot_PNG10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Groot 623">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/c2/e4/23c2e45d3b9bc28d0f0059be09a366de.jpg' alt='Baby Groot 623'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/c2/e4/23c2e45d3b9bc28d0f0059be09a366de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG by sidewinder16 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74f88b0e-aa8f-4acc-96c3-f2700ebb7825/dfxns7z-367478bd-5ad0-48c5-a454-1d9b2f21ace1.png/v1/fill/w_774,h_1032/groot_png_by_sidewinder16_dfxns7z-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcLzc0Zjg4YjBlLWFhOGYtNGFjYy05NmMzLWYyNzAwZWJiNzgyNVwvZGZ4bnM3ei0zNjc0NzhiZC01YWQwLTQ4YzUtYTQ1NC0xZDliMmYyMWFjZTEucG5nIiwid2lkdGgiOiI8PTE2MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.k5aS81oAapw8tlrheZOXX6n3B1iYx6IBYY8ZdJoWHZs' alt='Groot PNG by sidewinder16 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="1032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74f88b0e-aa8f-4acc-96c3-f2700ebb7825/dfxns7z-367478bd-5ad0-48c5-a454-1d9b2f21ace1.png/v1/fill/w_774,h_1032/groot_png_by_sidewinder16_dfxns7z-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcLzc0Zjg4YjBlLWFhOGYtNGFjYy05NmMzLWYyNzAwZWJiNzgyNVwvZGZ4bnM3ei0zNjc0NzhiZC01YWQwLTQ4YzUtYTQ1NC0xZDliMmYyMWFjZTEucG5nIiwid2lkdGgiOiI8PTE2MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.k5aS81oAapw8tlrheZOXX6n3B1iYx6IBYY8ZdJoWHZs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG transparent image download, size: 480x645px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/groot_PNG50.png' alt='Groot PNG transparent image download, size: 480x645px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/groot_PNG50.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Groot Guardians Of The Galaxy Vol. 2 Rocket Raccoon Drax The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d1/0e/cd/d10ecd665bc234b5e9bc04a2df2966ff.jpg' alt='Baby Groot Guardians Of The Galaxy Vol. 2 Rocket Raccoon Drax The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d1/0e/cd/d10ecd665bc234b5e9bc04a2df2966ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG transparent image download, size: 563x382px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/groot_PNG22.png' alt='Groot PNG transparent image download, size: 563x382px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/groot_PNG22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/4/Baby-Groot-Transparent.png' alt='Groot PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/4/Baby-Groot-Transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groot - PNG - Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38852001/r/il/00001f/4390266452/il_fullxfull.4390266452_kzyd.jpg' alt='Groot - PNG - Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1458">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38852001/r/il/00001f/4390266452/il_fullxfull.4390266452_kzyd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Black & Purple Wallpaper Inspirations</title>
+                    <meta name="description" content="Discover stunning aesthetic black and purple wallpaper to elevate your space. Perfect for creating a modern and stylish ambiance, these designs add sophistication and creativity to any room. Explore a variety of patterns and shades to find the perfect match for your decor!">
+                    <meta name="keywords" content="aesthetic black and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/aesthetic-black-and-purple-wallpaper">
+                            <span itemprop="name">aesthetic black and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Black & Purple Wallpaper Inspirations</h1>
+                <p>Aesthetic black and purple wallpaper combines elegance and mystique, transforming any space into a stylish retreat. The deep tones offer a perfect backdrop for modern decor, while pops of purple add vibrancy and creativity. Ideal for bedrooms, offices, or any area looking to make a bold statement, this wallpaper is a versatile choice for design enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' alt='Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple And Black Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dark-purple-and-black-aesthetic-collage-az8a8zqtjs8tttm6.webp' alt='Dark Purple And Black Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dark-purple-and-black-aesthetic-collage-az8a8zqtjs8tttm6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Cubes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-and-purple-aesthetic-bird-s-eye-view-7oxu2uko6xmbzxyi.webp' alt='Black And Purple Aesthetic Cubes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-and-purple-aesthetic-bird-s-eye-view-7oxu2uko6xmbzxyi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' alt='340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Abstract Web Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-abstract-web-2uxz95dl5cgc1xif.jpg' alt='Black And Purple Aesthetic Abstract Web Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-abstract-web-2uxz95dl5cgc1xif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black And Purple Aesthetic Textured Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-purple-aesthetic-textured-heart-mgjhvkgvqvsgiq1q.jpg' alt='Download Black And Purple Aesthetic Textured Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-purple-aesthetic-textured-heart-mgjhvkgvqvsgiq1q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Hd Aesthetic Wallpapers - Wallpaper Cave EA7">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/07/55/1c/07551c1f2512df65da39976d14449a6c.jpg' alt='Dark Purple Hd Aesthetic Wallpapers - Wallpaper Cave EA7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/07/55/1c/07551c1f2512df65da39976d14449a6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Black iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7273511.png' alt='Purple And Black iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7273511.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC CLOUDS, Samsung, amoled, black, dark, iphone, night, one ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/90/119/HD-wallpaper-aesthetic-clouds-samsung-amoled-black-dark-iphone-night-one-plus-purple-red-sky-velvet-vine-violet.jpg' alt='AESTHETIC CLOUDS, Samsung, amoled, black, dark, iphone, night, one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/90/119/HD-wallpaper-aesthetic-clouds-samsung-amoled-black-dark-iphone-night-one-plus-purple-red-sky-velvet-vine-violet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Skull Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-skull-cn9jugobvbbk0jan.jpg' alt='Black And Purple Aesthetic Skull Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-skull-cn9jugobvbbk0jan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

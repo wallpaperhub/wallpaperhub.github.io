@@ -1,0 +1,129 @@
+<title>Adorable BTFFD-Ratiy Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover a delightful range of BTFFD-Ratiy lock screen wallpapers that bring cuteness to your device. Perfect for personalizing your phone with charming designs, our wallpapers offer a fun way to showcase your style. Explore our collection and find your perfect match now!">
+                    <meta name="keywords" content="cute:btffd-ratiy= lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cutebtffd-ratiy-lock-screen-wallpaper">
+                            <span itemprop="name">cute:btffd-ratiy= lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable BTFFD-Ratiy Lock Screen Wallpapers</h1>
+                <p>Enhance your device's aesthetic with our collection of cute BTFFD-Ratiy lock screen wallpapers! Embrace style and personality every time you check your phone. From adorable animals to heartwarming designs, find wallpapers that resonate with you. Elevate your lock screen today and express yourself effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ BT21 Red Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/c8/b2/c3c8b212b7f4c07e322c00ad1810cd8f.jpg' alt='RJ BT21 Red Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/c8/b2/c3c8b212b7f4c07e322c00ad1810cd8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bt21 lockscreens">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/84/13/a7/8413a72a849add669d7413a1af9c64a5.jpg' alt='bt21 lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/84/13/a7/8413a72a849add669d7413a1af9c64a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ, bt21, line friends, rj, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/684/24/HD-wallpaper-rj-bt21-line-friends-rj.jpg' alt='RJ, bt21, line friends, rj, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/684/24/HD-wallpaper-rj-bt21-line-friends-rj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tatty Teddy Wallpaper IPhone Size 6S - Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/1c/f3/ec1cf33cf6e0144aac0b54a9bf8b30b0.jpg' alt='Tatty Teddy Wallpaper IPhone Size 6S - Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/1c/f3/ec1cf33cf6e0144aac0b54a9bf8b30b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ, bt21, rj, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/50/3/HD-wallpaper-rj-bt21-rj.jpg' alt='RJ, bt21, rj, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/50/3/HD-wallpaper-rj-bt21-rj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ, bt21, line friends, rj, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/424/988/HD-wallpaper-rj-bt21-line-friends-rj-thumbnail.jpg' alt='RJ, bt21, line friends, rj, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/424/988/HD-wallpaper-rj-bt21-line-friends-rj-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 BT21 ideas | bts wallpaper, bts fanart, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/44/5b/5d/445b5d782861f4959b334e1bdab31e33.jpg' alt='11 BT21 ideas | bts wallpaper, bts fanart, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/44/5b/5d/445b5d782861f4959b334e1bdab31e33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ BT21, BTS, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/322/531/HD-wallpaper-rj-bt21.jpg' alt='RJ BT21, BTS, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/322/531/HD-wallpaper-rj-bt21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 BT21 ideas | bts wallpaper, bts fanart, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/03/6e/a7/036ea777c7759436659e7eeaa14045a0.jpg' alt='11 BT21 ideas | bts wallpaper, bts fanart, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/03/6e/a7/036ea777c7759436659e7eeaa14045a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby BT21 Live Wallpaper: Cute and Customized">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6825353746868931846&location=0&aid=1988' alt='Baby BT21 Live Wallpaper: Cute and Customized'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6825353746868931846&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

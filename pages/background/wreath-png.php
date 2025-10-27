@@ -1,0 +1,129 @@
+<title>Stunning Wreath PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover a collection of beautiful wreath PNG images perfect for any project! Ideal for invitations, crafts, and digital designs, these versatile graphics add a touch of elegance to your creative work. Easy to use and customize, elevate your designs with our high-quality wreath PNGs today!">
+                    <meta name="keywords" content="wreath png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wreath-png">
+                            <span itemprop="name">wreath png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wreath PNG Images for Your Creative Projects</h1>
+                <p>Wreath PNG images are perfect for festive designs and creative projects! These digital files offer beautifully rendered wreaths for any occasion, from holiday celebrations to wedding decor. Incorporate these versatile graphics into your prints, crafts, and invitations for a stunning visual appeal and easy customization.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Christmas Wreath PNG Clipart​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/7324' alt='Transparent Christmas Wreath PNG Clipart​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5130">
+                                <meta itemprop="height" content="5070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/7324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wreath Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-wreath-garland-with-fir-branches-isolated-transparent-background-green-christmas-tree-branches-borders-holiday-design-element-decoration_145391-998.jpg' alt='Wreath Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-wreath-garland-with-fir-branches-isolated-transparent-background-green-christmas-tree-branches-borders-holiday-design-element-decoration_145391-998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Christmas Wreath Clipart (Royalty-free) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2022/11/Christmas-Wreath-Clipart-with-outline-WM.png' alt='FREE Christmas Wreath Clipart (Royalty-free) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2022/11/Christmas-Wreath-Clipart-with-outline-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wreath PNG transparent image download, size: 2908x3000px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/christmas_wreath_PNG90.png' alt='Christmas wreath PNG transparent image download, size: 2908x3000px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2908">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/christmas_wreath_PNG90.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Pine Wreath PNG Image​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/23683' alt='Green Pine Wreath PNG Image​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="3757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/23683' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wreath Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/round-christmas-wreath-vector-watercolor-style_53876-40634.jpg' alt='Wreath Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/round-christmas-wreath-vector-watercolor-style_53876-40634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wreath PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20211216/ourmid/pngtree-beautiful-christmas-wreath-png-image_4059618.png' alt='Christmas Wreath PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20211216/ourmid/pngtree-beautiful-christmas-wreath-png-image_4059618.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leafy Christmas Wreath PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/218066/isolated/preview/cac5a27ae34bf869b43aa5122f9fc04f-leafy-christmas-wreath.png' alt='Leafy Christmas Wreath PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/218066/isolated/preview/cac5a27ae34bf869b43aa5122f9fc04f-leafy-christmas-wreath.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wreath Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlNl9jaHJpc3RtYXNfZ3JlZW5fd3JlYXRoX2lzb2xhdGVkX3doaXRlX2JhY2tncm91bl84OWUxYjA0Mi1iNjBiLTQyMjctYmZkZS0zNmE3OTczMDNmMGQucG5n.png' alt='Wreath Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlNl9jaHJpc3RtYXNfZ3JlZW5fd3JlYXRoX2lzb2xhdGVkX3doaXRlX2JhY2tncm91bl84OWUxYjA0Mi1iNjBiLTQyMjctYmZkZS0zNmE3OTczMDNmMGQucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laurel wreath png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/618/1014/png-clipart-nine-assorted-laurel-laurel-wreath-ornament-olive-wreath-text-logo.png' alt='Laurel wreath png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/618/1014/png-clipart-nine-assorted-laurel-laurel-wreath-ornament-olive-wreath-text-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

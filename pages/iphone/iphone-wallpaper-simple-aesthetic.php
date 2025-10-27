@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone wallpaper simple aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-simple-aesthetic">
+                            <span itemprop="name">iphone wallpaper simple aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Simple aesthetic wallpaper ideas | aesthetic wallpapers, simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/20/76/2b/20762b500dcb26cf0df6cd69e30df680.jpg' alt='80 Simple aesthetic wallpaper ideas | aesthetic wallpapers, simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/20/76/2b/20762b500dcb26cf0df6cd69e30df680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Graphics Image Watercolor Line Digital Abstract ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/62f9b50e3dfd0f321bd5112e/6333b25f7a44196cb2c43f8f/634f3abfaaf5207e79601903/1666137133203/iPhone+Wallpaper+Graphics+Image+Watercolor+Line+Digital+Abstract+Shapes+Art+Aesthetic+Floral+Minimal+Simple+Theme+-+DIAXNA++3.JPEG?format=1500w' alt='iPhone Wallpaper Graphics Image Watercolor Line Digital Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DIAxNA" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/62f9b50e3dfd0f321bd5112e/6333b25f7a44196cb2c43f8f/634f3abfaaf5207e79601903/1666137133203/iPhone+Wallpaper+Graphics+Image+Watercolor+Line+Digital+Abstract+Shapes+Art+Aesthetic+Floral+Minimal+Simple+Theme+-+DIAXNA++3.JPEG?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="simple and aesthetic floral iphone and android wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/32/9a/75329abfea6002ea608fde0da0b67857.jpg' alt='simple and aesthetic floral iphone and android wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/32/9a/75329abfea6002ea608fde0da0b67857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Simple aesthetic wallpaper ideas | aesthetic wallpapers, simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/d2/fd/69d2fdda64cf99e6f8eeaebea228993a.jpg' alt='80 Simple aesthetic wallpaper ideas | aesthetic wallpapers, simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/d2/fd/69d2fdda64cf99e6f8eeaebea228993a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone background 2025 aesthetic">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/46/577/HD-wallpaper-aesthetic-flowers-simple-in-2022-iphone-vsco-simple-iphone-aesthetic-iphone-girly-minimal.jpg' alt='Iphone background 2025 aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/46/577/HD-wallpaper-aesthetic-flowers-simple-in-2022-iphone-vsco-simple-iphone-aesthetic-iphone-girly-minimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' alt='100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' alt='Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-mobile-wallpaper-background-vector_53876-144495.jpg' alt='Simple Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-mobile-wallpaper-background-vector_53876-144495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper iPhone Aesthetic Backgrounds - AnjaHome">
+                                <img itemprop="contentUrl url" src='https://anjahome.com/wp-content/uploads/2023/11/simple-aesthetic-cute-christmas-wallpaper.jpg' alt='Christmas Wallpaper iPhone Aesthetic Backgrounds - AnjaHome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AnjaHome" />
+                                </span>
+                                <a href='https://anjahome.com/wp-content/uploads/2023/11/simple-aesthetic-cute-christmas-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Modern aesthetics of minimalist iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-ujr6br0s1slatvgh.jpg' alt='Download Modern aesthetics of minimalist iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-ujr6br0s1slatvgh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

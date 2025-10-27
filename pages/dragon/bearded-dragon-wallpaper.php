@@ -1,0 +1,129 @@
+<title>Stunning Bearded Dragon Wallpaper for a Unique Home</title>
+                    <meta name="description" content="Discover captivating bearded dragon wallpaper to elevate your living space. Perfect for reptile lovers, our designs add a vibrant touch to any room. Shop now for high-quality, unique wallpaper that showcases the beauty of bearded dragons and enhances your decor!">
+                    <meta name="keywords" content="bearded dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/bearded-dragon-wallpaper">
+                            <span itemprop="name">bearded dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bearded Dragon Wallpaper for a Unique Home</h1>
+                <p>Transform your space with stunning bearded dragon wallpaper! Featuring vibrant colors and intricate designs, these wallpapers bring the exotic allure of these fascinating reptiles into your home. Perfect for reptile enthusiasts or anyone wanting a unique, nature-inspired vibe, they'll brighten any room while showcasing the beauty of bearded dragons!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bearded Dragon Images – Browse 41,040 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/34/99/84/360_F_434998457_DTJNJvTQEB4qwvGClPNU2jzz6qaEjSlm.jpg' alt='Bearded Dragon Images – Browse 41,040 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/34/99/84/360_F_434998457_DTJNJvTQEB4qwvGClPNU2jzz6qaEjSlm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Bearded Dragon HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/391/391697.jpg' alt='Vibrant Bearded Dragon HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/391/391697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bearded Dragon Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/42/c8/4b42c87ddc4c13f5bfbaeac3c7c497e2.jpg' alt='Bearded Dragon Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/42/c8/4b42c87ddc4c13f5bfbaeac3c7c497e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animal Bearded Dragon HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/434/434649.jpg' alt='Download Animal Bearded Dragon HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2677">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/434/434649.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,500+ Bearded Dragon Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/178767901/photo/bearded-dragon-hunting-a-grasshopper.jpg?s=612x612&w=0&k=20&c=Yj6D9gojvGBuVXGGNixoOVbXpzvY9Sng4MOlnIy6FgI=' alt='5,500+ Bearded Dragon Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/178767901/photo/bearded-dragon-hunting-a-grasshopper.jpg?s=612x612&w=0&k=20&c=Yj6D9gojvGBuVXGGNixoOVbXpzvY9Sng4MOlnIy6FgI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Free Bearded Dragon & Lizard Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/03/13/12/23/bearded-dragon-4052825_640.jpg' alt='10,000+ Free Bearded Dragon & Lizard Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/03/13/12/23/bearded-dragon-4052825_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Bearded Dragon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1576095960126-965052196ff2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJlYXJkZWQlMjBkcmFnb258ZW58MHx8MHx8fDA%3D' alt='45,628+ Bearded Dragon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1576095960126-965052196ff2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJlYXJkZWQlMjBkcmFnb258ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bearded Dragon Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/788/082/small_2x/bearded-dragon-white-background-photo.jpeg' alt='Bearded Dragon Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/788/082/small_2x/bearded-dragon-white-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closeup Of A Bearded Dragon Pogona Vitticeps On Green Grass Exotic ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20240408/pngtree-closeup-of-a-bearded-dragon-pogona-vitticeps-on-green-grass-exotic-image_15650992.jpg' alt='Closeup Of A Bearded Dragon Pogona Vitticeps On Green Grass Exotic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20240408/pngtree-closeup-of-a-bearded-dragon-pogona-vitticeps-on-green-grass-exotic-image_15650992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Bearded Dragon Wallpapers ideas | bearded dragon, bearded dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/90/01/fb/9001fb2a762b3f82ddff82eefc957452.jpg' alt='8 Bearded Dragon Wallpapers ideas | bearded dragon, bearded dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/90/01/fb/9001fb2a762b3f82ddff82eefc957452.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

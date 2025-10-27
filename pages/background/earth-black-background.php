@@ -1,0 +1,129 @@
+<title>Earth: A Blue Gem on a Black Background</title>
+                    <meta name="description" content="Explore the stunning contrast of Earth against the blackness of space. Discover how this captivating backdrop highlights our planet's beauty and the mysteries that lie beyond. Perfect for space enthusiasts and nature lovers alike!">
+                    <meta name="keywords" content="earth black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/earth-black-background">
+                            <span itemprop="name">earth black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Earth: A Blue Gem on a Black Background</h1>
+                <p>In the vast cosmos, Earth stands out as a vibrant blue gem against the black backdrop of space. This stark contrast highlights the planet's lush landscapes and intricate ecosystems. The black background serves not only to accentuate Earth's beauty but also to symbolize the mysteries of the universe waiting to be explored.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="star - Why do photos of Earth always have a black background ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/O44Ry.jpg' alt='star - Why do photos of Earth always have a black background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1041">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astronomy Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/O44Ry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Earth in Black Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/12990385/pexels-photo-12990385.png' alt='Planet Earth in Black Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/12990385/pexels-photo-12990385.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Planet Earth On Black Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-planet-earth-on-black-background-b6wguhb45j2v41w4.jpg' alt='Iphone Planet Earth On Black Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-planet-earth-on-black-background-b6wguhb45j2v41w4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Earth globe on black background. High Resolution Planet Earth ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/66/18/77/1000_F_266187714_iiBYGHzmIA7NiocEog2NYabkmV75Dufl.jpg' alt='The Earth globe on black background. High Resolution Planet Earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/66/18/77/1000_F_266187714_iiBYGHzmIA7NiocEog2NYabkmV75Dufl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Black Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/448/796/small/abstract-earth-in-space-galaxy-3d-rendering-elements-of-this-image-furnished-by-nasa-photo.jpg' alt='Earth Black Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/448/796/small/abstract-earth-in-space-galaxy-3d-rendering-elements-of-this-image-furnished-by-nasa-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD - Planet Earth rotates on Black Background">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/hd-planet-earth-rotates-black-footage-010892592_iconl.jpeg' alt='HD - Planet Earth rotates on Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/hd-planet-earth-rotates-black-footage-010892592_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Earth Against Black Background Poster Print, 17" X 11 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61o04gRXIoL.jpg' alt='Planet Earth Against Black Background Poster Print, 17" X 11 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61o04gRXIoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Wallpaper 4K, AMOLED, 10K, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/earth-space-black-background-atmosphere-blue-planet-5k-8k-2048x2048-2152.jpg' alt='Earth Wallpaper 4K, AMOLED, 10K, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/earth-space-black-background-atmosphere-blue-planet-5k-8k-2048x2048-2152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Planet earth globe map with the moon on black ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/planet-earth-globe-map-with-moon-black-background-elements-this-image-furnished-by-nasa_720095-288.jpg' alt='Premium Photo | Planet earth globe map with the moon on black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/planet-earth-globe-map-with-moon-black-background-elements-this-image-furnished-by-nasa_720095-288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Full Earth In Plain Dark Space Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-background-8vttshlkbxjbmi5p.jpg' alt='Download Full Earth In Plain Dark Space Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-background-8vttshlkbxjbmi5p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

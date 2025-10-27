@@ -1,0 +1,129 @@
+<title>Shocked Emoji PNGs - Express Your Surprises!</title>
+                    <meta name="description" content="Explore our vibrant shocked emoji PNGs, perfect for enhancing your digital content. Ideal for social media, presentations, and more, these images help you convey surprise and excitement effortlessly. Download now and bring your projects to life with expressive emojis!">
+                    <meta name="keywords" content="shocked emoji png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shocked-emoji-png">
+                            <span itemprop="name">shocked emoji png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shocked Emoji PNGs - Express Your Surprises!</h1>
+                <p>Discover our collection of shocked emoji PNGs, perfect for adding emotion to your digital projects. These high-quality images feature vibrant designs, making them ideal for social media posts, presentations, or any creative work. Download the shocked emoji PNGs to express surprise and excitement in your communications!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surprised Emoji [Free Download IOS Emojis]">
+                                <img itemprop="contentUrl url" src='http://emojiisland.com/cdn/shop/products/Surprised_Emoji_Icon_7f44f23d-f2de-4ae4-a962-9792ddc777e8_grande.png?v=1571606093' alt='Surprised Emoji [Free Download IOS Emojis]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emoji Island" />
+                                </span>
+                                <a href='http://emojiisland.com/cdn/shop/products/Surprised_Emoji_Icon_7f44f23d-f2de-4ae4-a962-9792ddc777e8_grande.png?v=1571606093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shocked Face Emoji.png | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shocked-face-emoji-png-9kiqxojuzp1i3htd.jpg' alt='Download Shocked Face Emoji.png | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shocked-face-emoji-png-9kiqxojuzp1i3htd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji shocked, Apple Color Emoji Surprise Sticker, Emoji, smiley ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/914/880/png-clipart-yellow-and-blue-emoji-illustration-emoji-screaming-sticker-iphone-fear-emoji-smiley-sticker.png' alt='Emoji shocked, Apple Color Emoji Surprise Sticker, Emoji, smiley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/914/880/png-clipart-yellow-and-blue-emoji-illustration-emoji-screaming-sticker-iphone-fear-emoji-smiley-sticker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shock Emoji Png Background Stock Illustrations – 61 Shock Emoji ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/shocked-emoji-surprised-face-rendered-d-isolated-transparent-background-343350342.jpg' alt='Shock Emoji Png Background Stock Illustrations – 61 Shock Emoji ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/shocked-emoji-surprised-face-rendered-d-isolated-transparent-background-343350342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoji PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20241013/original/pngtree-immaculately-detailed-3d-shocked-emoji-presented-in-8k-resolution-with-a-png-image_16313820.png' alt='Shocked Emoji PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20241013/original/pngtree-immaculately-detailed-3d-shocked-emoji-presented-in-8k-resolution-with-a-png-image_16313820.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoji png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/374/188/png-clipart-emoji-sticker-shock-emoji.png' alt='Shocked Emoji png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/374/188/png-clipart-emoji-sticker-shock-emoji.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shock Surprised Emoji Emoticon PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/134774/isolated/preview/1dd9087d6e59053028c07574aff757d0-shock-surprised-emoji-emoticon.png' alt='Shock Surprised Emoji Emoticon PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/134774/isolated/preview/1dd9087d6e59053028c07574aff757d0-shock-surprised-emoji-emoticon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoticons png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/1/290/png-clipart-very-emotional-emoticons-2-5-blue-shocked-emoji-thumbnail.png' alt='Shocked Emoticons png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/1/290/png-clipart-very-emotional-emoticons-2-5-blue-shocked-emoji-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoji Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTg2LXNjcmVhbWluZ2ZhY2UtMDNfMS5qcGc.jpg' alt='Shocked Emoji Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTg2LXNjcmVhbWluZ2ZhY2UtMDNfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Emoji - what it means and how to use it.">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/10/Meaning-Shocked-Emoji.png' alt='Shocked Emoji - what it means and how to use it.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/10/Meaning-Shocked-Emoji.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

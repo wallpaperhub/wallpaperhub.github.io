@@ -1,0 +1,129 @@
+<title>Experience the Best of Entertainment with DirecTV</title>
+                    <meta name="description" content="Discover DirecTV's extensive channel lineup, reliable service, and advanced features. Enjoy various packages to suit your entertainment needs, including sports, movies, and family shows—all in stunning HD quality. Join DirecTV today for unparalleled viewing experiences!">
+                    <meta name="keywords" content="direct tv">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/direct-tv">
+                            <span itemprop="name">direct tv</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Best of Entertainment with DirecTV</h1>
+                <p>DirecTV offers a diverse range of satellite television packages tailored to fit different preferences and budgets. With channels spanning from sports and movies to family-friendly shows, there's something for everyone. Enjoy high-definition quality, reliable service, and features like DVR to record your favorite programs anytime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIRECTV About Us | DIRECTV Insider">
+                                <img itemprop="contentUrl url" src='https://images-cdn2.welcomesoftware.com/assets/B1-1_timeline_1x.png.webp/Zz1iMTM4YmVmMGI1MzkxMWVlOTk4YTVhY2FjY2JkMTQ0MQ==' alt='DIRECTV About Us | DIRECTV Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DirecTV" />
+                                </span>
+                                <a href='https://images-cdn2.welcomesoftware.com/assets/B1-1_timeline_1x.png.webp/Zz1iMTM4YmVmMGI1MzkxMWVlOTk4YTVhY2FjY2JkMTQ0MQ==' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DirecTV - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SATELITE_DTV.jpg/1200px-SATELITE_DTV.jpg' alt='DirecTV - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SATELITE_DTV.jpg/1200px-SATELITE_DTV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIRECTV Breaks the Traditional Cable Bundle with New Genre Packs ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1990599/directv_Logo.jpg?p=facebook' alt='DIRECTV Breaks the Traditional Cable Bundle with New Genre Packs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2697">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1990599/directv_Logo.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AT&T & TPG Capital Form New Entity to Operate AT&T's U.S. Video Unit">
+                                <img itemprop="contentUrl url" src='https://about.att.com/ecms/dam/snr/2021/February2021/Social/02222021_DIRECTVlogo_LI_1200x627.jpg' alt='AT&T & TPG Capital Form New Entity to Operate AT&T's U.S. Video Unit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AT&T Newsroom" />
+                                </span>
+                                <a href='https://about.att.com/ecms/dam/snr/2021/February2021/Social/02222021_DIRECTVlogo_LI_1200x627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Directv outage or service down? Current outages and problems ...">
+                                <img itemprop="contentUrl url" src='https://cdn2.downdetector.com/static/uploads/logo/directv_FQIX6c8.png' alt='Directv outage or service down? Current outages and problems ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Downdetector" />
+                                </span>
+                                <a href='https://cdn2.downdetector.com/static/uploads/logo/directv_FQIX6c8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: DIRECTV 3LNB SLIMLINE DISH KAKU SWM3 HD SHORT ROOF ONLY STUB  FOOT 4WAY : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51NYbpPIb-L.jpg' alt='Amazon.com: DIRECTV 3LNB SLIMLINE DISH KAKU SWM3 HD SHORT ROOF ONLY STUB  FOOT 4WAY : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51NYbpPIb-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DirecTV Raising Prices for Satellite, Stream TV Amid Disney Blackout">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/09/DirecTV.png' alt='DirecTV Raising Prices for Satellite, Stream TV Amid Disney Blackout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2430">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/09/DirecTV.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DirecTV | Logo Timeline Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logo-timeline/images/2/27/DirecTV_2011_logo.svg/revision/latest?cb=20190822165704' alt='DirecTV | Logo Timeline Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Timeline Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logo-timeline/images/2/27/DirecTV_2011_logo.svg/revision/latest?cb=20190822165704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:DirecTV logo new.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/34/DirecTV_logo_new.svg' alt='File:DirecTV logo new.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/34/DirecTV_logo_new.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   FREE TIVO DirecTV ~ Model R15 ~ DVR Digital Satellite Receiver ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rywAAOSwq5RkfqhQ/s-l1200.jpg' alt='   FREE TIVO DirecTV ~ Model R15 ~ DVR Digital Satellite Receiver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rywAAOSwq5RkfqhQ/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

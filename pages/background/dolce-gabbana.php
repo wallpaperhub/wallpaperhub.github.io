@@ -1,0 +1,129 @@
+<title>Dolce & Gabbana: A Bold Italian Fashion Icon</title>
+                    <meta name="description" content="Explore the vibrant world of Dolce & Gabbana, a leading luxury fashion brand known for its exquisite designs and Italian craftsmanship. Discover the latest styles and timeless pieces that define elegance and boldness in fashion. Perfect for those who seek both luxury and individuality.">
+                    <meta name="keywords" content="dolce gabbana">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dolce-gabbana">
+                            <span itemprop="name">dolce gabbana</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dolce & Gabbana: A Bold Italian Fashion Icon</h1>
+                <p>Dolce & Gabbana, renowned for its bold and provocative designs, epitomizes luxury in fashion. Founded by designers Domenico Dolce and Stefano Gabbana in 1985, the brand blends Italian heritage with modern aesthetics. Widely celebrated for its vibrant prints and intricate detailing, Dolce & Gabbana remains a favorite among celebrities and fashion enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dolce & Gabbana Light Blue Pour Homme, Eau De Toilette Spray,  For Men - 75 ml / 2.5 fl.oz : Beauty & Personal Care">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61KNBL-q7PL._AC_UF350,350_QL80_.jpg' alt='Amazon.com: Dolce & Gabbana Light Blue Pour Homme, Eau De Toilette Spray,  For Men - 75 ml / 2.5 fl.oz : Beauty & Personal Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61KNBL-q7PL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dolce & Gabbana K, Eau De Parfum Spray, For Men - 100 ml / 3.3  fl.oz : Beauty & Personal Care">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Q-m2N9maL._AC_UF350,350_QL80_.jpg' alt='Amazon.com: Dolce & Gabbana K, Eau De Parfum Spray, For Men - 100 ml / 3.3  fl.oz : Beauty & Personal Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Q-m2N9maL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The One Eau de Parfum - Dolce&Gabbana | Sephora">
+                                <img itemprop="contentUrl url" src='https://www.sephora.com/productimages/sku/s1062272-main-zoom.jpg' alt='The One Eau de Parfum - Dolce&Gabbana | Sephora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sephora" />
+                                </span>
+                                <a href='https://www.sephora.com/productimages/sku/s1062272-main-zoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Only One Eau de Parfum for Women by Dolce&Gabbana Beauty">
+                                <img itemprop="contentUrl url" src='https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw19280d0b/images/zoom/VP000BVP000_9V000_1.jpg?sw=740&sh=944' alt='The Only One Eau de Parfum for Women by Dolce&Gabbana Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dolce & Gabbana" />
+                                </span>
+                                <a href='https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw19280d0b/images/zoom/VP000BVP000_9V000_1.jpg?sw=740&sh=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="($94 Value) Dolce & Gabbana K Eau De Toilette Spray, Cologne for Men, 3.4 Oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/a0177b2f-b3b8-48ff-8afd-21cd971cb80e.6771144ffaca7e5f809eb84029737d5b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='($94 Value) Dolce & Gabbana K Eau De Toilette Spray, Cologne for Men, 3.4 Oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/a0177b2f-b3b8-48ff-8afd-21cd971cb80e.6771144ffaca7e5f809eb84029737d5b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolce & Gabbana The One, Eau De Toilette Spray, Fragrance For Men">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41VvhUPfgvL._AC_UF1000,1000_QL80_.jpg' alt='Dolce & Gabbana The One, Eau De Toilette Spray, Fragrance For Men'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41VvhUPfgvL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Domenico Dolce & Stefano Gabbana | BoF 500 | The People Shaping ...">
+                                <img itemprop="contentUrl url" src='https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F137%2Fff85d3ff6f4136f783c5971818983132a80921df.png?auth=fffe0e2d9215207eba4a794fe31f71518d18b77cad5305e115007c3d6e743838&height=350' alt='Domenico Dolce & Stefano Gabbana | BoF 500 | The People Shaping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Business of Fashion" />
+                                </span>
+                                <a href='https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F137%2Fff85d3ff6f4136f783c5971818983132a80921df.png?auth=fffe0e2d9215207eba4a794fe31f71518d18b77cad5305e115007c3d6e743838&height=350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolce&Gabbana Spring 2025 Review: Madonna-Inspired Glamour">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/dolce-gabbana-s25-001-66eedad61efcb.jpg?crop=1xw:1xh;center,top&resize=980:*' alt='Dolce&Gabbana Spring 2025 Review: Madonna-Inspired Glamour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/dolce-gabbana-s25-001-66eedad61efcb.jpg?crop=1xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolce & Gabbana The One Gold Eau De Parfum Intense Eau de Parfum">
+                                <img itemprop="contentUrl url" src='https://us-i.makeupstore.com/t/td/tdle8wwsk5fn.jpg' alt='Dolce & Gabbana The One Gold Eau De Parfum Intense Eau de Parfum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="809">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Makeup" />
+                                </span>
+                                <a href='https://us-i.makeupstore.com/t/td/tdle8wwsk5fn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolce&Gabbana Perfumes at Milan Via Montenapoleone 4">
+                                <img itemprop="contentUrl url" src='https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/b7fdae2e-18c8-4de2-b997-2151575fbd0f/ghmtjj/std/0x0/perfumes' alt='Dolce&Gabbana Perfumes at Milan Via Montenapoleone 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dolce and Gabbana" />
+                                </span>
+                                <a href='https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/b7fdae2e-18c8-4de2-b997-2151575fbd0f/ghmtjj/std/0x0/perfumes' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

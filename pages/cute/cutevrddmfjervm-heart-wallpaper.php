@@ -1,0 +1,129 @@
+<title>Heart Wallpapers: Cute Designs to Adorn Your Screen</title>
+                    <meta name="description" content="Discover an enchanting selection of cute heart wallpapers for your devices! Perfect for adding a touch of love and joy to your screens, these designs are ideal for anyone looking to personalize their phones or tablets with delightful visuals. Explore now and find your perfect match!">
+                    <meta name="keywords" content="cute:vrddmfjervm= heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cutevrddmfjervm-heart-wallpaper">
+                            <span itemprop="name">cute:vrddmfjervm= heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Wallpapers: Cute Designs to Adorn Your Screen</h1>
+                <p>Transform your device with adorable heart wallpapers that radiate love and charm! Explore our collection of cute designs, from whimsical patterns to elegant motifs, perfect for giving your screen a sweet, romantic vibe. Whether for a phone or tablet, these wallpapers will surely brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' alt='67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/e3/9c/22e39c607f1f7cfe7fd617334bafba25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/9b/a1/309ba1a94ed19cc49f92fb591dff70fd.jpg' alt='67 Heart ideas | heart wallpaper, iphone wallpaper, cute patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/9b/a1/309ba1a94ed19cc49f92fb591dff70fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Red Love Heart Valentines Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/e8/9e/aee89ed9dd65431b462ca664dd693d6c.jpg' alt='Wonder Red Love Heart Valentines Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/e8/9e/aee89ed9dd65431b462ca664dd693d6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Hearts Wallpaper Pink Hearts Inflated Wallpaper Cute Iphone ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1499763994/photo/3d-hearts-wallpaper-pink-hearts-inflated-wallpaper-cute-iphone-wallpapers-seamless-pattern.jpg?s=612x612&w=0&k=20&c=TnHz8-T_s5CyYRo-4FC0WLTpzhTEX7nSYH36fWGJZro=' alt='3d Hearts Wallpaper Pink Hearts Inflated Wallpaper Cute Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1499763994/photo/3d-hearts-wallpaper-pink-hearts-inflated-wallpaper-cute-iphone-wallpapers-seamless-pattern.jpg?s=612x612&w=0&k=20&c=TnHz8-T_s5CyYRo-4FC0WLTpzhTEX7nSYH36fWGJZro=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/dd/28/cbdd284f7697b794d520012a0bf719a3.jpg' alt='Rainbow Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/dd/28/cbdd284f7697b794d520012a0bf719a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wildflower Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-purple-pink-wildflower-heart-tr8sqg7au7yy3amn.jpg' alt='100+] Wildflower Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-purple-pink-wildflower-heart-tr8sqg7au7yy3amn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute heart wallpapers❤️          ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/52/fb/a952fbc41f2b2caef1c84716978474e5.jpg' alt='Cute heart wallpapers❤️          '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/52/fb/a952fbc41f2b2caef1c84716978474e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wildflower Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-wildflower-heart-0frtm6788z56whd6.jpg' alt='100+] Wildflower Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-wildflower-heart-0frtm6788z56whd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart wallpaper by meanjean58 - Download on ZEDGE™ | 80f5">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/f3/f6/09f3f63a09d02cd53816725da8977fbd.jpg' alt='heart wallpaper by meanjean58 - Download on ZEDGE™ | 80f5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/f3/f6/09f3f63a09d02cd53816725da8977fbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart wallpaper by ako65 - Download on ZEDGE™ | 8b4d">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/cd/0d/95cd0d59650b90d452f19b4af2607b01.jpg' alt='heart wallpaper by ako65 - Download on ZEDGE™ | 8b4d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/cd/0d/95cd0d59650b90d452f19b4af2607b01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

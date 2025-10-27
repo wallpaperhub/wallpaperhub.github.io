@@ -1,0 +1,129 @@
+<title>Elsa and Anna Wallpaper: Magical Frozen Backgrounds</title>
+                    <meta name="description" content="Explore beautiful Elsa and Anna wallpapers that bring the magic of Frozen to life! Perfect for fans, these designs add a whimsical touch to any room. Transform your space today with our enchanting collection of Frozen-themed backgrounds!">
+                    <meta name="keywords" content="elsa and anna wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elsa-and-anna-wallpaper">
+                            <span itemprop="name">elsa and anna wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elsa and Anna Wallpaper: Magical Frozen Backgrounds</h1>
+                <p>Discover the enchanting world of Elsa and Anna with our stunning wallpaper collection! Perfect for fans of all ages, these vibrant designs feature your favorite characters from Disney's Frozen. Transform your space with visuals that inspire joy and magic. Ideal for bedrooms, playrooms, or any Frozen-themed decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K] Elsa and Anna Wallpaper | Mobile Wallpaper Request by u ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rokblv4xkno51.jpg' alt='4K] Elsa and Anna Wallpaper | Mobile Wallpaper Request by u ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3071">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rokblv4xkno51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Wall Mural |elsa and Anna Wallpaper | Nursery Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33244676/r/il/52a1c9/3576457194/il_fullxfull.3576457194_2cqw.jpg' alt='Frozen Wall Mural |elsa and Anna Wallpaper | Nursery Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33244676/r/il/52a1c9/3576457194/il_fullxfull.3576457194_2cqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anna & Elsa Frozen HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/516/thumb-1920-516775.jpg' alt='Anna & Elsa Frozen HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/516/thumb-1920-516775.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elsa And Anna Frozen 2 Wallpapers - Wallpaper Cave | Disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/06/e5/29/06e52922b23383e96daad63c4a35b06e.jpg' alt='Elsa And Anna Frozen 2 Wallpapers - Wallpaper Cave | Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/06/e5/29/06e52922b23383e96daad63c4a35b06e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Elsa and Anna from Frozen, wallpaper for kids room Life n ...">
+                                <img itemprop="contentUrl url" src='https://materialdepot-images-hbh2cjbvbtfmanhx.z02.azurefd.net/V000122/elsa-and-anna-from-frozen-wallpaper-for-kids-room-life-n-colors-wallpapers-sparkla-n-shine/elsa-and-anna-from-frozen-wallpaper-for-kids-room-life-n-colors-wallpapers-sparkla-n-shine/1.jpg?width=600' alt='Buy Elsa and Anna from Frozen, wallpaper for kids room Life n ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Material Depot" />
+                                </span>
+                                <a href='https://materialdepot-images-hbh2cjbvbtfmanhx.z02.azurefd.net/V000122/elsa-and-anna-from-frozen-wallpaper-for-kids-room-life-n-colors-wallpapers-sparkla-n-shine/elsa-and-anna-from-frozen-wallpaper-for-kids-room-life-n-colors-wallpapers-sparkla-n-shine/1.jpg?width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High-resolution Wallpaper of Elsa and Anna : r/Frozen">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/uw_67Rl9E94YPNSDFusYQOEYPdiIVL2w6q0kyAzQMxs.jpg?auto=webp&s=088a3b2e40a835511724999c11e22c4c43c7ad58' alt='High-resolution Wallpaper of Elsa and Anna : r/Frozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4594">
+                                <meta itemprop="height" content="2584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/uw_67Rl9E94YPNSDFusYQOEYPdiIVL2w6q0kyAzQMxs.jpg?auto=webp&s=088a3b2e40a835511724999c11e22c4c43c7ad58' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen HD Wallpaper: Elsa and Anna in the Snow">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/491/thumb-1920-491192.jpg' alt='Frozen HD Wallpaper: Elsa and Anna in the Snow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/491/thumb-1920-491192.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young Elsa And Anna Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/young-elsa-and-anna-oj5hspf6qyc064jd.jpg' alt='Young Elsa And Anna Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/young-elsa-and-anna-oj5hspf6qyc064jd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elsa & Anna Wallpaper - Frozen Wallpaper - Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45204689/r/il/a8a1f7/5774341196/il_340x270.5774341196_j6pg.jpg' alt='Elsa & Anna Wallpaper - Frozen Wallpaper - Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45204689/r/il/a8a1f7/5774341196/il_340x270.5774341196_j6pg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Elsa And Anna Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/elsa-and-anna-79aiylc7c2b4qaw9.jpg' alt='100+] Elsa And Anna Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/elsa-and-anna-79aiylc7c2b4qaw9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>New Super Mario Bros Wii: Explore Exciting Worlds!</title>
+                    <meta name="description" content="Uncover the enchanting backgrounds of New Super Mario Bros Wii. Journey through diverse worlds filled with vibrant visuals and nostalgic elements. Perfect for fans seeking adventure and fun! Experience the magic today!">
+                    <meta name="keywords" content="new super mario bros wii background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-super-mario-bros-wii-background">
+                            <span itemprop="name">new super mario bros wii background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>New Super Mario Bros Wii: Explore Exciting Worlds!</h1>
+                <p>New Super Mario Bros Wii brings the beloved franchise to life with its vibrant background elements. Players traverse a variety of enchanting worlds, from lush green hills to icy tundras. Each backdrop is meticulously designed, enhancing the engaging gameplay, and providing nostalgic vibes that fans adore. Dive into the adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii Beach Background by WaltMartyUniverse on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5647c01a-1b2a-418e-a202-ff6e39c7f544/df8nzdx-67557d09-22c2-45bc-8a6e-5f8f0244b211.png/v1/fill/w_1192,h_670,q_70,strp/new_super_mario_bros__wii_beach_background_by_waltmartyuniverse_df8nzdx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTY0N2MwMWEtMWIyYS00MThlLWEyMDItZmY2ZTM5YzdmNTQ0XC9kZjhuemR4LTY3NTU3ZDA5LTIyYzItNDViYy04YTZlLTVmOGYwMjQ0YjIxMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8f4rh_eCVHLlfTo5qdbUdZaXu_dXNyy7GX-W68uQLt4' alt='New Super Mario Bros. Wii Beach Background by WaltMartyUniverse on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5647c01a-1b2a-418e-a202-ff6e39c7f544/df8nzdx-67557d09-22c2-45bc-8a6e-5f8f0244b211.png/v1/fill/w_1192,h_670,q_70,strp/new_super_mario_bros__wii_beach_background_by_waltmartyuniverse_df8nzdx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTY0N2MwMWEtMWIyYS00MThlLWEyMDItZmY2ZTM5YzdmNTQ0XC9kZjhuemR4LTY3NTU3ZDA5LTIyYzItNDViYy04YTZlLTVmOGYwMjQ0YjIxMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8f4rh_eCVHLlfTo5qdbUdZaXu_dXNyy7GX-W68uQLt4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii Wallpaper by Joshuat1306 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/dcyb83x-a828f118-2808-4e3f-b61d-94db593b5162.jpg/v1/fill/w_1024,h_386,q_75,strp/new_super_mario_bros__wii_wallpaper_by_joshuat1306_dcyb83x-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg2IiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kY3liODN4LWE4MjhmMTE4LTI4MDgtNGUzZi1iNjFkLTk0ZGI1OTNiNTE2Mi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7h19e4Cr00_mtmrEY8cAVhoP6v2XLXYPRCixLwHs-Js' alt='New Super Mario Bros. Wii Wallpaper by Joshuat1306 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/dcyb83x-a828f118-2808-4e3f-b61d-94db593b5162.jpg/v1/fill/w_1024,h_386,q_75,strp/new_super_mario_bros__wii_wallpaper_by_joshuat1306_dcyb83x-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg2IiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kY3liODN4LWE4MjhmMTE4LTI4MDgtNGUzZi1iNjFkLTk0ZGI1OTNiNTE2Mi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7h19e4Cr00_mtmrEY8cAVhoP6v2XLXYPRCixLwHs-Js' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Mario's Castle Adventure in New Super Mario Bros. Wii">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/330/330724.jpg' alt='HD Wallpaper: Mario's Castle Adventure in New Super Mario Bros. Wii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/330/330724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros Wii Overworld BG 2 by SomariMarionicTeam on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6947f6ff-1746-4f45-ba2f-1a840430d78b/d7usuzw-a89ddbbb-e655-46cd-b636-f2f539bdd676.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5NDdmNmZmLTE3NDYtNGY0NS1iYTJmLTFhODQwNDMwZDc4YlwvZDd1c3V6dy1hODlkZGJiYi1lNjU1LTQ2Y2QtYjYzNi1mMmY1MzliZGQ2NzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.y3jCwKD6_MQDfW566Gcb4lucoGDfpPA5KFKTQwXXGb4' alt='New Super Mario Bros Wii Overworld BG 2 by SomariMarionicTeam on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6947f6ff-1746-4f45-ba2f-1a840430d78b/d7usuzw-a89ddbbb-e655-46cd-b636-f2f539bdd676.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5NDdmNmZmLTE3NDYtNGY0NS1iYTJmLTFhODQwNDMwZDc4YlwvZDd1c3V6dy1hODlkZGJiYi1lNjU1LTQ2Y2QtYjYzNi1mMmY1MzliZGQ2NzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.y3jCwKD6_MQDfW566Gcb4lucoGDfpPA5KFKTQwXXGb4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii/Unused Graphics - The Cutting Room Floor">
+                                <img itemprop="contentUrl url" src='https://tcrf.net/images/thumb/d/da/NSMBW_World_1_Node_Diamonds.png/800px-NSMBW_World_1_Node_Diamonds.png' alt='New Super Mario Bros. Wii/Unused Graphics - The Cutting Room Floor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cutting Room Floor" />
+                                </span>
+                                <a href='https://tcrf.net/images/thumb/d/da/NSMBW_World_1_Node_Diamonds.png/800px-NSMBW_World_1_Node_Diamonds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii HD Wallpaper Adventure">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/328/thumb-1920-328923.jpg' alt='New Super Mario Bros. Wii HD Wallpaper Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/328/thumb-1920-328923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="techmuse on X: "2 new NSMBW background renders! #Blender3d ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FX3-ZkkXkAEAp42.jpg:large' alt='techmuse on X: "2 new NSMBW background renders! #Blender3d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FX3-ZkkXkAEAp42.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/8f/NewSuperMarioBrosWiiBoxart.png' alt='New Super Mario Bros. Wii - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/8f/NewSuperMarioBrosWiiBoxart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros. Wii - SteamGridDB">
+                                <img itemprop="contentUrl url" src='https://cdn2.steamgriddb.com/hero_thumb/bbeec3050f554bee3bdac0ca20b57891.jpg' alt='New Super Mario Bros. Wii - SteamGridDB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Super Mario Bros. Wii - SteamGridDB" />
+                                </span>
+                                <a href='https://cdn2.steamgriddb.com/hero_thumb/bbeec3050f554bee3bdac0ca20b57891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Super Mario Bros Wii Overworld Bg 1 By Somarim by MDAVIGPWIN ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef2f4f63-fc43-4e59-a600-0e673c8d58c6/dh737pc-f0b35fd8-9d4d-4f13-8e55-218df8452e9e.png/v1/fill/w_525,h_267/new_super_mario_bros_wii_overworld_bg_1_by_somarim_by_mdavigpwin_dh737pc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY3IiwicGF0aCI6IlwvZlwvZWYyZjRmNjMtZmM0My00ZTU5LWE2MDAtMGU2NzNjOGQ1OGM2XC9kaDczN3BjLWYwYjM1ZmQ4LTlkNGQtNGYxMy04ZTU1LTIxOGRmODQ1MmU5ZS5wbmciLCJ3aWR0aCI6Ijw9NTI1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jkL4IXMP2g4UjvsANmnc4gbA7QHR3C0P_oUX68p_HUg' alt='New Super Mario Bros Wii Overworld Bg 1 By Somarim by MDAVIGPWIN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef2f4f63-fc43-4e59-a600-0e673c8d58c6/dh737pc-f0b35fd8-9d4d-4f13-8e55-218df8452e9e.png/v1/fill/w_525,h_267/new_super_mario_bros_wii_overworld_bg_1_by_somarim_by_mdavigpwin_dh737pc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY3IiwicGF0aCI6IlwvZlwvZWYyZjRmNjMtZmM0My00ZTU5LWE2MDAtMGU2NzNjOGQ1OGM2XC9kaDczN3BjLWYwYjM1ZmQ4LTlkNGQtNGYxMy04ZTU1LTIxOGRmODQ1MmU5ZS5wbmciLCJ3aWR0aCI6Ijw9NTI1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jkL4IXMP2g4UjvsANmnc4gbA7QHR3C0P_oUX68p_HUg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

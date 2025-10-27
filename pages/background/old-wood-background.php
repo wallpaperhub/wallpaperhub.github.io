@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Wood Backgrounds</title>
+                    <meta name="description" content="Discover the charm of old wood backgrounds for your creative projects. Perfect for design, photography, and home decor, these vintage textures add depth and warmth to your space. Embrace the timeless beauty of aged wood to elevate your aesthetics effortlessly.">
+                    <meta name="keywords" content="old wood background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-wood-background">
+                            <span itemprop="name">old wood background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Wood Backgrounds</h1>
+                <p>Old wood backgrounds evoke a sense of warmth and nostalgia, making them perfect for various creative projects. The rich textures and natural imperfections add depth and character, ideal for photography, design, and home decor. Whether rustic or refined, old wood brings a timeless charm that enhances any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Old Wood Background by Brandon Bourdages">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large/vintage-old-wood-background-brandon-bourdages.jpg' alt='Vintage Old Wood Background by Brandon Bourdages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large/vintage-old-wood-background-brandon-bourdages.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old brown wood texture Vintage Wood plank texture background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/brown-wooden-background-5a2be36d9fdbde77d961fb1b98f01fb89304f2822984a856d542d15cefcfd490.jpg' alt='Old brown wood texture Vintage Wood plank texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/brown-wooden-background-5a2be36d9fdbde77d961fb1b98f01fb89304f2822984a856d542d15cefcfd490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old wood texture , dirty surface wooden background , brown wood ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/841/972/large_2x/old-wood-texture-dirty-surface-wooden-background-brown-wood-dark-style-photo.jpg' alt='Old wood texture , dirty surface wooden background , brown wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2945">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/841/972/large_2x/old-wood-texture-dirty-surface-wooden-background-brown-wood-dark-style-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Old Wood Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-old-antique-dark-wooden-texture-surface-background-backdrop-copy-space_1220-1277.jpg' alt='Background Old Wood Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-old-antique-dark-wooden-texture-surface-background-backdrop-copy-space_1220-1277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Old Wood Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675782999354-2f2711e437a5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwd29vZHxlbnwwfHwwfHx8MA%3D%3D' alt='50,000+ Old Wood Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675782999354-2f2711e437a5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwd29vZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Wood background texture of natural wooden boards stained with ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/71/30/34/1000_F_171303441_de4sRyezeOaiav6BVYkBVoiE1wa6136V.jpg' alt='Old Wood background texture of natural wooden boards stained with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/71/30/34/1000_F_171303441_de4sRyezeOaiav6BVYkBVoiE1wa6136V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered old wood texture, horizontal obsolete planks background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/31/50/66/1000_F_131506681_8AaJGPVvilnMZvA7dmKItjaDoryiOWaM.jpg' alt='Weathered old wood texture, horizontal obsolete planks background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Murals" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/31/50/66/1000_F_131506681_8AaJGPVvilnMZvA7dmKItjaDoryiOWaM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Old Wood Texture Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grunge-wooden-planks-textured-background_53876-123110.jpg' alt='Page 2 | Old Wood Texture Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grunge-wooden-planks-textured-background_53876-123110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Wood Plank Texture: Background Images & Pictures">
+                                <img itemprop="contentUrl url" src='https://www.textures.com/system/gallery/photos/Wood/Planks/Old%20Planks/120545/WoodPlanksOld0274_2_350.jpg' alt='Old Wood Plank Texture: Background Images & Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures.com" />
+                                </span>
+                                <a href='https://www.textures.com/system/gallery/photos/Wood/Planks/Old%20Planks/120545/WoodPlanksOld0274_2_350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Dark Brown Rustic Wood Background - Stock Photos | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion-array/1911435/Old_Dark_Brown_Rustic_Wood_Background_high_resolution_preview_1911435.jpg?Expires=2036360136385&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=kELqbf7JtoagfguI-EfeWitP8~UytysQJpk2FUA-NSDGl-H~96YxgfyTaph-Zin2MVswlg9GlIHEsp~HnzsV1VB0EuLW4nH9VedCcR8iGijsT2kNcFlbaiW50Bw~RpWL3r4DzeREP4Qu0vV~aGBm6UHyVQPw0nYhsqxoai85Sl9ZEKGGdXn1yx2FoosE1fji3xiUs6fqZg9H~8PJMRf6sZdwzPrGfHTAlShGKYPvXViaYs1tvrwuInD6Q8Q1duLXOLdGUeqn-TdH8AsChcOWZ9BPqiHvB9JXpyUxdX12uL6Y3NfDq6LbxnJTFTr64j58-Nh35nkhw76xY4jrT91QSA__' alt='Old Dark Brown Rustic Wood Background - Stock Photos | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion-array/1911435/Old_Dark_Brown_Rustic_Wood_Background_high_resolution_preview_1911435.jpg?Expires=2036360136385&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=kELqbf7JtoagfguI-EfeWitP8~UytysQJpk2FUA-NSDGl-H~96YxgfyTaph-Zin2MVswlg9GlIHEsp~HnzsV1VB0EuLW4nH9VedCcR8iGijsT2kNcFlbaiW50Bw~RpWL3r4DzeREP4Qu0vV~aGBm6UHyVQPw0nYhsqxoai85Sl9ZEKGGdXn1yx2FoosE1fji3xiUs6fqZg9H~8PJMRf6sZdwzPrGfHTAlShGKYPvXViaYs1tvrwuInD6Q8Q1duLXOLdGUeqn-TdH8AsChcOWZ9BPqiHvB9JXpyUxdX12uL6Y3NfDq6LbxnJTFTr64j58-Nh35nkhw76xY4jrT91QSA__' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

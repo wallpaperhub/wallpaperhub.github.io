@@ -1,0 +1,129 @@
+<title>Shabby Chic Peel and Stick Wallpaper: Easy Home Makeover</title>
+                    <meta name="description" content="Discover the beauty of shabby chic peel and stick wallpaper! Perfect for effortless home decor refreshes, our removable wallpaper offers stunning designs with vintage flair. Ideal for any space, it combines style and ease of use for renters and homeowners alike. Transform your walls today!">
+                    <meta name="keywords" content="shabby chic peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/shabby-chic-peel-and-stick-wallpaper">
+                            <span itemprop="name">shabby chic peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shabby Chic Peel and Stick Wallpaper: Easy Home Makeover</h1>
+                <p>Transform your space with shabby chic peel and stick wallpaper! This easy-to-install, removable wallpaper features vintage floral patterns and soft pastel colors, perfect for adding a touch of elegance and charm to any room. Ideal for renters and DIY enthusiasts looking to refresh their decor without the hassle!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Shabby Chic Style Old Wood in White Color Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71mE+y89RnL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Shabby Chic Style Old Wood in White Color Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71mE+y89RnL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Shabby Chic Woodgrain Roses Cottagecore Sky  Blue Pink Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/616PrEocHgL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Shabby Chic Woodgrain Roses Cottagecore Sky  Blue Pink Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/616PrEocHgL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secret Garden Wall Mural, Vintage Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/df7f82/3217571378/il_fullxfull.3217571378_3g07.jpg' alt='Secret Garden Wall Mural, Vintage Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/df7f82/3217571378/il_fullxfull.3217571378_3g07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green set of cute shabby chic roses self-adhesive pink and green wall mural  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/3zkAAOSwxI1lXe~X/s-l400.jpg' alt='Green set of cute shabby chic roses self-adhesive pink and green wall mural  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/3zkAAOSwxI1lXe~X/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Shabby Chic Woodgrain Roses Cottagecore Sky  Blue Pink Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71c7FgK91IL.jpg' alt='Peel & Stick Wallpaper Swatch - Shabby Chic Woodgrain Roses Cottagecore Sky  Blue Pink Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71c7FgK91IL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Chinoiserie Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.shabbychic.com/cdn/shop/files/125121_ROOMSET_BIRDCHINOISERIEBLUE_01_900x.jpg?v=1724859742' alt='Bird Chinoiserie Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shabby Chic" />
+                                </span>
+                                <a href='https://www.shabbychic.com/cdn/shop/files/125121_ROOMSET_BIRDCHINOISERIEBLUE_01_900x.jpg?v=1724859742' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Set of Cute Shabby Chic Roses Removable Wallpaper, Green and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16928094/r/il/cffbde/1740889409/il_570xN.1740889409_h6ta.jpg' alt='Pink Set of Cute Shabby Chic Roses Removable Wallpaper, Green and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16928094/r/il/cffbde/1740889409/il_570xN.1740889409_h6ta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Floral Pink Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.shabbychic.com/cdn/shop/files/125127_3.jpg?v=1724859796' alt='Garden Floral Pink Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shabby Chic" />
+                                </span>
+                                <a href='http://www.shabbychic.com/cdn/shop/files/125127_3.jpg?v=1724859796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Set of Cute Shabby Chic Roses Removable Wallpaper, Pink and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16928094/r/il/edaced/1740891777/il_570xN.1740891777_kime.jpg' alt='Blue Set of Cute Shabby Chic Roses Removable Wallpaper, Pink and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16928094/r/il/edaced/1740891777/il_570xN.1740891777_kime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midsummer Dream Wall Mural (Peel & Stick)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/midsummer-dream-wall-mural-peel-stick-788966.jpg?v=1666799209' alt='Midsummer Dream Wall Mural (Peel & Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/midsummer-dream-wall-mural-peel-stick-788966.jpg?v=1666799209' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

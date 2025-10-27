@@ -1,0 +1,129 @@
+<title>Stunning MK1 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking MK1 4K wallpapers designed for enthusiasts. Elevate your device's appearance with vibrant images that highlight the iconic MK1 style. Perfect for mobile screens, these wallpapers are just a click away! Download and personalize your device today!">
+                    <meta name="keywords" content="mk1 wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/mk1-wallpaper-4k">
+                            <span itemprop="name">mk1 wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning MK1 4K Wallpapers for Your Device</h1>
+                <p>Enhance your device's aesthetic with stunning MK1 wallpaper in 4K. Experience vibrant colors and intricate details that bring your screen to life. Perfect for car enthusiasts and fans of the legendary MK1 design, these wallpapers provide a visual treat that showcases style and sophistication. Download now to give your device a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 - 4k Wallpaper by felipecmx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgbwvkz-d4e988af-4463-4fbd-9afa-59d6f98b6268.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat_1___4k_wallpaper_by_felipecmx_dgbwvkz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2J3dmt6LWQ0ZTk4OGFmLTQ0NjMtNGZiZC05YWZhLTU5ZDZmOThiNjI2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3j_DT3qYBkXc8zqriiVlGSxgkVMb_DGslyElXrBqqKM' alt='Mortal Kombat 1 - 4k Wallpaper by felipecmx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgbwvkz-d4e988af-4463-4fbd-9afa-59d6f98b6268.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat_1___4k_wallpaper_by_felipecmx_dgbwvkz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2J3dmt6LWQ0ZTk4OGFmLTQ0NjMtNGZiZC05YWZhLTU5ZDZmOThiNjI2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3j_DT3qYBkXc8zqriiVlGSxgkVMb_DGslyElXrBqqKM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Liu Kang Video Game Mortal Kombat 1 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/131/thumb-1920-1319328.jpeg' alt='Download Liu Kang Video Game Mortal Kombat 1 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/131/thumb-1920-1319328.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+] Mortal Kombat 1 4k Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/132/1329225.jpeg' alt='10+] Mortal Kombat 1 4k Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/132/1329225.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MK1 KHAOS REIGNS WALLPAPER 4k : r/MortalKombat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mk1-khaos-reigns-wallpaper-4k-v0-tfqk1qcururd1.png?width=1920&format=png&auto=webp&s=413e20725092c47ccb6a5b30abfbea3f8fd3d44e' alt='MK1 KHAOS REIGNS WALLPAPER 4k : r/MortalKombat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mk1-khaos-reigns-wallpaper-4k-v0-tfqk1qcururd1.png?width=1920&format=png&auto=webp&s=413e20725092c47ccb6a5b30abfbea3f8fd3d44e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MK1: 4k Cinematic Pack">
+                                <img itemprop="contentUrl url" src='https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg' alt='MK1: 4k Cinematic Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Store" />
+                                </span>
+                                <a href='https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MORTAL KOMBAT | Scorpion's 4k wallpaper by felipecmx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc32hk-e8a2d0d6-d36f-4ef8-9080-5f751da2116e.jpg/v1/fill/w_1192,h_670,q_70,strp/mortal_kombat___scorpion_s_4k_wallpaper_by_felipecmx_dgc32hk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MzMmhrLWU4YTJkMGQ2LWQzNmYtNGVmOC05MDgwLTVmNzUxZGEyMTE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-vT1GTWRPMFU10ek3OmuFARix0NkIPT1xjH7g0suB10' alt='MORTAL KOMBAT | Scorpion's 4k wallpaper by felipecmx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc32hk-e8a2d0d6-d36f-4ef8-9080-5f751da2116e.jpg/v1/fill/w_1192,h_670,q_70,strp/mortal_kombat___scorpion_s_4k_wallpaper_by_felipecmx_dgc32hk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MzMmhrLWU4YTJkMGQ2LWQzNmYtNGVmOC05MDgwLTVmNzUxZGEyMTE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-vT1GTWRPMFU10ek3OmuFARix0NkIPT1xjH7g0suB10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liu Kang Mortal Kombat 1, liu-kang, mortal-kombat-1, mortal-kombat ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1003/910/HD-wallpaper-liu-kang-mortal-kombat-1-liu-kang-mortal-kombat-1-mortal-kombat-games-2023-games-ps5-games-xbox-one-games.jpg' alt='Liu Kang Mortal Kombat 1, liu-kang, mortal-kombat-1, mortal-kombat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1003/910/HD-wallpaper-liu-kang-mortal-kombat-1-liu-kang-mortal-kombat-1-mortal-kombat-games-2023-games-ps5-games-xbox-one-games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a MK1 desktop wallpaper i've put together. Phone format ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/here-is-a-mk1-desktop-wallpaper-ive-put-together-phone-v0-30pvuyqrtk9b1.jpg?width=1920&format=pjpg&auto=webp&s=fc86cc1df8a20e765a67b1d0df97733dd3ae5795' alt='Here is a MK1 desktop wallpaper i've put together. Phone format ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/here-is-a-mk1-desktop-wallpaper-ive-put-together-phone-v0-30pvuyqrtk9b1.jpg?width=1920&format=pjpg&auto=webp&s=fc86cc1df8a20e765a67b1d0df97733dd3ae5795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1, 2023 game, fire fighter, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/991/234/HD-wallpaper-mortal-kombat-1-2023-game-fire-fighter.jpg' alt='Mortal Kombat 1, 2023 game, fire fighter, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/991/234/HD-wallpaper-mortal-kombat-1-2023-game-fire-fighter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat HD Wallpapers and 4K Backgrounds - Wallpapers Den">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/mortal-kombat-1-gaming-poster_bmVuaWWUmZqaraWkpJRobWllrWdma2U.jpg' alt='Mortal Kombat HD Wallpapers and 4K Backgrounds - Wallpapers Den'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/mortal-kombat-1-gaming-poster_bmVuaWWUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

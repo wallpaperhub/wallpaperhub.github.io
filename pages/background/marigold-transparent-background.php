@@ -1,0 +1,129 @@
+<title>Stunning Marigold Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Discover beautiful marigold images featuring transparent backgrounds, perfect for graphic design, invitations, and social media. Add a touch of elegance and color to your projects effortlessly. Explore our collection now for vibrant visuals that stand out!">
+                    <meta name="keywords" content="marigold transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marigold-transparent-background">
+                            <span itemprop="name">marigold transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Marigold Images with Transparent Backgrounds</h1>
+                <p>Marigolds are vibrant, cheerful flowers that symbolize warmth and positivity. Their striking colors, ranging from deep orange to bright yellow, make them a popular choice for gardens and floral arrangements. With a transparent background, marigold images can be easily integrated into various design projects, enhancing modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold Flower PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZnJmbG9yYWxfcGxhbnRfbmF0dXJhbF9ibG9zc29tLWltYWdlLWpvYjYxM18yLWwwcnZycGJxLnBuZw.png' alt='Marigold Flower PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZnJmbG9yYWxfcGxhbnRfbmF0dXJhbF9ibG9zc29tLWltYWdlLWpvYjYxM18yLWwwcnZycGJxLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold flower png transparent background 29721145 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/721/145/non_2x/marigold-flower-transparent-background-png.png' alt='Marigold flower png transparent background 29721145 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/721/145/non_2x/marigold-flower-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Marigold PNG Transparent, A Yellow Marigold Png With ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/71/08/6a/71086a59835fcc9067e705b9f8551370.jpg' alt='Yellow Marigold PNG Transparent, A Yellow Marigold Png With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/71/08/6a/71086a59835fcc9067e705b9f8551370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold Flower PNG Clip Art Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Flowers-PNG/Marigold_Flower_PNG_Clip_Art_Image.png?m=1629800517' alt='Marigold Flower PNG Clip Art Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="7857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Flowers-PNG/Marigold_Flower_PNG_Clip_Art_Image.png?m=1629800517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold flower isolated on transparent background | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/marigold-flower-isolated-transparent-background_220739-69000.jpg?w=360' alt='Marigold flower isolated on transparent background | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/marigold-flower-isolated-transparent-background_220739-69000.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="marigold flower isolated on transparent background 46829205 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/829/205/non_2x/marigold-flower-isolated-on-transparent-background-png.png' alt='marigold flower isolated on transparent background 46829205 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/829/205/non_2x/marigold-flower-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold Flower Transparent Background Stock Illustrations – 217 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/french-red-marigold-flower-isolated-transparent-background-347012021.jpg' alt='Marigold Flower Transparent Background Stock Illustrations – 217 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/french-red-marigold-flower-isolated-transparent-background-347012021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210613/original/pngtree-orange-bright-marigold-flower-png-image_6407418.jpg' alt='Marigold PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210613/original/pngtree-orange-bright-marigold-flower-png-image_6407418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold PNG Designs for T Shirt & Merch">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/314951/isolated/preview/8aae278f5b575ea32c07779d4b65824e-happy-marigold-wall-sticker.png' alt='Marigold PNG Designs for T Shirt & Merch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/314951/isolated/preview/8aae278f5b575ea32c07779d4b65824e-happy-marigold-wall-sticker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marigold Flower White Transparent, Beautiful Marigold Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/03/b8/8a03b8c8fc624e818b530fba02816ee2.jpg' alt='Marigold Flower White Transparent, Beautiful Marigold Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/03/b8/8a03b8c8fc624e818b530fba02816ee2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

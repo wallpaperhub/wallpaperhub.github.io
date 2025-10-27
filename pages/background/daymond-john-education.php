@@ -1,0 +1,129 @@
+<title>Daymond John’s Education: Path to Entrepreneurship Success</title>
+                    <meta name="description" content="Explore Daymond John’s educational journey and how it shaped his entrepreneurial spirit. Discover the value of mentorship and lifelong learning in his life, and learn how real-world experiences can pave the way for success in business.">
+                    <meta name="keywords" content="daymond john education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/daymond-john-education">
+                            <span itemprop="name">daymond john education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Daymond John’s Education: Path to Entrepreneurship Success</h1>
+                <p>Daymond John, an entrepreneur and investor best known for his role on 'Shark Tank', emphasizes the importance of education in his success. He has shared that his journey began with a passion for fashion, which he honed through real-world experience. John believes in lifelong learning and mentorship as vital tools for achieving goals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John: 5 Reasons Why Education Is the Key to Your Success ...">
+                                <img itemprop="contentUrl url" src='https://assets.entrepreneur.com/content/3x2/2000/20181127181409-daymond-john.jpeg' alt='Daymond John: 5 Reasons Why Education Is the Key to Your Success ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entrepreneur" />
+                                </span>
+                                <a href='https://assets.entrepreneur.com/content/3x2/2000/20181127181409-daymond-john.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John, Entrepreneur - Yale Dyslexia">
+                                <img itemprop="contentUrl url" src='https://dyslexia.yale.edu/wp-content/uploads/2017/06/daymondJohn.jpg' alt='Daymond John, Entrepreneur - Yale Dyslexia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale Center for Dyslexia" />
+                                </span>
+                                <a href='https://dyslexia.yale.edu/wp-content/uploads/2017/06/daymondJohn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John (1969- ) •">
+                                <img itemprop="contentUrl url" src='https://www.blackpast.org/wp-content/uploads/Daymond-John-fair-use.jpg' alt='Daymond John (1969- ) •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackPast" />
+                                </span>
+                                <a href='https://www.blackpast.org/wp-content/uploads/Daymond-John-fair-use.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Morning with Entrepreneur Daymond John | American University ...">
+                                <img itemprop="contentUrl url" src='https://www.american.edu/uploads/standard/large/11.21.17DaymondJohn300x200_2.jpg' alt='A Morning with Entrepreneur Daymond John | American University ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American University" />
+                                </span>
+                                <a href='https://www.american.edu/uploads/standard/large/11.21.17DaymondJohn300x200_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DaymondJohn2023b.jpg/1200px-DaymondJohn2023b.jpg' alt='Daymond John - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DaymondJohn2023b.jpg/1200px-DaymondJohn2023b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Association of University Centers on Disabilities - Many of you ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158240082199538' alt='Association of University Centers on Disabilities - Many of you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158240082199538' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John's Biography">
+                                <img itemprop="contentUrl url" src='https://www.thehistorymakers.org/sites/default/files/John_Daymond_wm.png' alt='Daymond John's Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HistoryMakers" />
+                                </span>
+                                <a href='https://www.thehistorymakers.org/sites/default/files/John_Daymond_wm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John on hip-hop, his mom and making it big - CNNMoney">
+                                <img itemprop="contentUrl url" src='https://i.cdn.turner.com/money/interactive/economy/my-american-success-story-daymond-john/images/photo-4.png' alt='Daymond John on hip-hop, his mom and making it big - CNNMoney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - CNN" />
+                                </span>
+                                <a href='https://i.cdn.turner.com/money/interactive/economy/my-american-success-story-daymond-john/images/photo-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Act, learn, repeat: Daymond John shares career lessons, business ...">
+                                <img itemprop="contentUrl url" src='https://marvel-b1-cdn.bc0a.com/f00000000297652/eloncdn.blob.core.windows.net/eu3/sites/74/2023/08/Daymond-John-Photo-1.jpg' alt='Act, learn, repeat: Daymond John shares career lessons, business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1319">
+                                <meta itemprop="height" content="1587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elon University" />
+                                </span>
+                                <a href='https://marvel-b1-cdn.bc0a.com/f00000000297652/eloncdn.blob.core.windows.net/eu3/sites/74/2023/08/Daymond-John-Photo-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daymond John - TV Personality on "Shark Tank" - ABC Television ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D03AQGgN_joXLRMGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1571944749987?e=2147483647&v=beta&t=ezjJ3CIlRKm24tzccHEKwUSor64NWYr8C8uLM-GShTY' alt='Daymond John - TV Personality on "Shark Tank" - ABC Television ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="199">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D03AQGgN_joXLRMGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1571944749987?e=2147483647&v=beta&t=ezjJ3CIlRKm24tzccHEKwUSor64NWYr8C8uLM-GShTY' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

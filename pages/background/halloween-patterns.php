@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Patterns: Creative Ideas for Festive Fun</title>
+                    <meta name="description" content="Discover vibrant Halloween patterns featuring pumpkins, ghosts, and more! Perfect for decorating costumes, home spaces, and celebrating the season. Embrace the fun and fright of Halloween with our creative ideas! Get inspired now!">
+                    <meta name="keywords" content="halloween patterns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-patterns">
+                            <span itemprop="name">halloween patterns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Patterns: Creative Ideas for Festive Fun</h1>
+                <p>Halloween patterns are lively designs that evoke the spooky spirit of the season. Common motifs include jack-o'-lanterns, ghosts, bats, and cobwebs, perfect for decorating costumes, home décor, and party supplies. These playful themes add a festive touch to any gathering, celebrating the fun and fright of Halloween.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pattern - Heat Transfer Vinyl and Shirt Supplies- Primepick">
+                                <img itemprop="contentUrl url" src='https://primepickusa.com/wp-content/uploads/2022/08/halloween-monster2-12-600x600.png' alt='Halloween Pattern - Heat Transfer Vinyl and Shirt Supplies- Primepick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Pick USA" />
+                                </span>
+                                <a href='https://primepickusa.com/wp-content/uploads/2022/08/halloween-monster2-12-600x600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,200+ Halloween Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1039573390/vector/seamless-pattern-with-funny-silhouettes-of-pumpkins-vector.jpg?s=612x612&w=0&k=20&c=zQSsUHmYGm7uXlLAtcna57BZutHETKfjOlIUpuz_coE=' alt='109,200+ Halloween Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1039573390/vector/seamless-pattern-with-funny-silhouettes-of-pumpkins-vector.jpg?s=612x612&w=0&k=20&c=zQSsUHmYGm7uXlLAtcna57BZutHETKfjOlIUpuz_coE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pattern Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-hand-draw-boho-happy-260nw-2491904975.jpg' alt='Halloween Pattern Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-hand-draw-boho-happy-260nw-2491904975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pattern - Spooky Jack O Lantern Skull Spiders Seamless Digital  Paper SVG Printable Background, Instant Download, Commercial Use">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19543171/r/il/f0c89c/2107766597/il_fullxfull.2107766597_2drp.jpg' alt='Halloween Pattern - Spooky Jack O Lantern Skull Spiders Seamless Digital  Paper SVG Printable Background, Instant Download, Commercial Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19543171/r/il/f0c89c/2107766597/il_fullxfull.2107766597_2drp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pattern Images – Browse 804,653 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/57/55/69/360_F_457556959_qLX8lsbnndDfTUvbFi6djHVHRejVGJTm.jpg' alt='Halloween Pattern Images – Browse 804,653 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/57/55/69/360_F_457556959_qLX8lsbnndDfTUvbFi6djHVHRejVGJTm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,321 Halloween Pattern Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1423823540/vector/halloween-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=bg6CbB3iuiUSanaLYVEQdLpf0o89SEeby1QzXWs1TQU=' alt='7,321 Halloween Pattern Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1423823540/vector/halloween-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=bg6CbB3iuiUSanaLYVEQdLpf0o89SEeby1QzXWs1TQU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,200+ Halloween Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1340194802/vector/seamless-vector-pattern-in-cartoon-style-with-hand-drawn-halloween-elements.jpg?s=612x612&w=0&k=20&c=ry-5imr_gFOnwYZbI1DeDerSn7nFqwCVg_OSL8_2H9I=' alt='109,200+ Halloween Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1340194802/vector/seamless-vector-pattern-in-cartoon-style-with-hand-drawn-halloween-elements.jpg?s=612x612&w=0&k=20&c=ry-5imr_gFOnwYZbI1DeDerSn7nFqwCVg_OSL8_2H9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Digital Paper Pack V04 | DADARTDESIGN">
+                                <img itemprop="contentUrl url" src='https://dadartdesign.com/wp-content/uploads/2018/01/Halloween-digitalpaper-v03-a.jpg' alt='Vintage Halloween Digital Paper Pack V04 | DADARTDESIGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dadartdesign" />
+                                </span>
+                                <a href='https://dadartdesign.com/wp-content/uploads/2018/01/Halloween-digitalpaper-v03-a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween pattern svg, halloween background design, pumpkin, spider, bat  and stars pattern cricut and print svg, png, dxf, eps">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12773587/r/il/07c2be/3315435554/il_570xN.3315435554_4tpr.jpg' alt='Halloween pattern svg, halloween background design, pumpkin, spider, bat  and stars pattern cricut and print svg, png, dxf, eps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12773587/r/il/07c2be/3315435554/il_570xN.3315435554_4tpr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Spooky Elements Pattern Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/257067/raw/eacaface08c145004b7d6cb33dc04df1-halloween-spooky-elements-pattern-design.jpg' alt='Halloween Spooky Elements Pattern Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/257067/raw/eacaface08c145004b7d6cb33dc04df1-halloween-spooky-elements-pattern-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

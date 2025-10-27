@@ -1,0 +1,129 @@
+<title>Late Summer Magic: Embrace Nature's Transition</title>
+                    <meta name="description" content="Discover the beauty of late summer! Explore vibrant landscapes and warm sunsets as nature prepares for autumn's arrival. Embrace the nostalgia of the season with scenic backdrops perfect for relaxation and reflection. Ideal for both adventure seekers and those seeking tranquility.">
+                    <meta name="keywords" content="late summer background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/late-summer-background">
+                            <span itemprop="name">late summer background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Late Summer Magic: Embrace Nature's Transition</h1>
+                <p>Late summer background buzzes with warmth and nostalgia. As days linger, sunlight casts a golden hue on vibrant leaves hinting at the approaching autumn. Fields are ripe with crops, while evenings cool, creating perfect moments for stargazing. Nature's beauty is a reminder of change and the finale of summer's embrace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Summer Background Images – Browse 50,673 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/63/62/23/360_F_163622305_tJEkikFw3p2hU4t9WNNRZT3soIrk65bp.jpg' alt='Late Summer Background Images – Browse 50,673 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/63/62/23/360_F_163622305_tJEkikFw3p2hU4t9WNNRZT3soIrk65bp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1497694342/photo/morning-picturesque-landscape.jpg?s=612x612&w=0&k=20&c=E8zflyfg3Hm8TZhiJBawm-n7uF6JxN7DGBzfrnbjiuU=' alt='29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1497694342/photo/morning-picturesque-landscape.jpg?s=612x612&w=0&k=20&c=E8zflyfg3Hm8TZhiJBawm-n7uF6JxN7DGBzfrnbjiuU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Summer Background Images – Browse 50,673 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/61/03/06/360_F_361030609_C04VRL3QQ2DvwLQMwIvCFSrTPVONoFVr.jpg' alt='Late Summer Background Images – Browse 50,673 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1043">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/61/03/06/360_F_361030609_C04VRL3QQ2DvwLQMwIvCFSrTPVONoFVr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Summer Background Images – Browse 50,673 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/91/08/22/360_F_91082299_KImlfIa4fOnpKt6Q59nwyAecnDyTHBVS.jpg' alt='Late Summer Background Images – Browse 50,673 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/91/08/22/360_F_91082299_KImlfIa4fOnpKt6Q59nwyAecnDyTHBVS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/628561936/photo/grass-in-sunlight-and-bokeh-boke-background-later-summer.jpg?s=612x612&w=0&k=20&c=YXQobFrMa2BC4L2We2sYd6cYsw-NE0kXGaeIr1Qzyo4=' alt='29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/628561936/photo/grass-in-sunlight-and-bokeh-boke-background-later-summer.jpg?s=612x612&w=0&k=20&c=YXQobFrMa2BC4L2We2sYd6cYsw-NE0kXGaeIr1Qzyo4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Summer Background Images – Browse 50,673 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/89/62/05/360_F_489620534_LoV4h6pZrDDG0JWDBem9kEfctxWmKCqR.jpg' alt='Late Summer Background Images – Browse 50,673 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/89/62/05/360_F_489620534_LoV4h6pZrDDG0JWDBem9kEfctxWmKCqR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/516352245/photo/yellow-dry-autumn-grass-on-meadow-toned-instant-photo.jpg?s=612x612&w=0&k=20&c=wQdTeborboho0YVV8ZtOQclQV6r-8Uwh2vSSiRVfGCs=' alt='29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/516352245/photo/yellow-dry-autumn-grass-on-meadow-toned-instant-photo.jpg?s=612x612&w=0&k=20&c=wQdTeborboho0YVV8ZtOQclQV6r-8Uwh2vSSiRVfGCs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1385706519/photo/silhouette-of-grass-flower-on-sunrise-background-naturel-outdoors-background-with-selecive.jpg?s=612x612&w=0&k=20&c=EL_eeFzpyHb8G40Cwn14jazgMXp614Ke8CQrsbQ2eDY=' alt='29,900+ Late Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1385706519/photo/silhouette-of-grass-flower-on-sunrise-background-naturel-outdoors-background-with-selecive.jpg?s=612x612&w=0&k=20&c=EL_eeFzpyHb8G40Cwn14jazgMXp614Ke8CQrsbQ2eDY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="94,398 Late Summer Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/late-sunset-summer-meadow-natural-landscape-32438641.jpg' alt='94,398 Late Summer Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/late-sunset-summer-meadow-natural-landscape-32438641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,371 Late Summer Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/evening-sunset-sun-forest-summer-260nw-1756067453.jpg' alt='90,371 Late Summer Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/evening-sunset-sun-forest-summer-260nw-1756067453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

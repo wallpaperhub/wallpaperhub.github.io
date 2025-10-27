@@ -1,0 +1,129 @@
+<title>Adorable Green Christmas Wallpapers for a Festive Touch</title>
+                    <meta name="description" content="Explore our collection of cute green Christmas wallpapers designed to bring festive cheer to your devices. Discover charming patterns and vibrant designs perfect for the holiday season. Enhance your digital space with a touch of Christmas magic! Download your favorite today!">
+                    <meta name="keywords" content="cute christmas wallpaper green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-christmas-wallpaper-green">
+                            <span itemprop="name">cute christmas wallpaper green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Green Christmas Wallpapers for a Festive Touch</h1>
+                <p>Cuddle up with cute Christmas wallpaper in vibrant green hues! Transform your space into a festive wonderland filled with playful patterns, charming reindeer, and twinkling lights. Perfect for adding a touch of holiday spirit to your devices, our collection offers designs that will make every day feel like Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/b5/39/45b539c924b4b6fb7d3b43fa3ce4268a.jpg' alt='Christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/b5/39/45b539c924b4b6fb7d3b43fa3ce4268a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Green Christmas background, aesthetic pine trees ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-christmas-background-aesthetic-pine-trees-doodle-vector_53876-151489.jpg' alt='Free Vector | Green Christmas background, aesthetic pine trees ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-christmas-background-aesthetic-pine-trees-doodle-vector_53876-151489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas tree iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/75/88/b375882d1d0f8e121975863b89e891ad.jpg' alt='Christmas tree iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/75/88/b375882d1d0f8e121975863b89e891ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/b3/a6/a5b3a6cc761afa5f514ae18656e7bb1d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/b3/a6/a5b3a6cc761afa5f514ae18656e7bb1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute winter background with Christmas trees. Mint green backdrop ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2A73T42/cute-winter-background-with-christmas-trees-mint-green-backdrop-vector-seamless-pattern-for-seasonal-occasion-2A73T42.jpg' alt='Cute winter background with Christmas trees. Mint green backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2A73T42/cute-winter-background-with-christmas-trees-mint-green-backdrop-vector-seamless-pattern-for-seasonal-occasion-2A73T42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Wallpapers (90 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/7/d/5821652-1080x1920-iphone-hd-cute-christmas-background-image.jpg' alt='Cute Christmas Wallpapers (90 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/7/d/5821652-1080x1920-iphone-hd-cute-christmas-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-christmas-pcshm5o9dqknr9qs.jpg' alt='100+] Green Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-christmas-pcshm5o9dqknr9qs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Green Christmas Wallpaper Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250207/original/pngtree-cute-green-christmas-wallpaper-picture-image_14766983.jpg' alt='Cute Green Christmas Wallpaper Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250207/original/pngtree-cute-green-christmas-wallpaper-picture-image_14766983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/9a/f6/489af61dedd6f67393ddfa793b72bb67.jpg' alt='Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/9a/f6/489af61dedd6f67393ddfa793b72bb67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Christmas Trees, cute, doodle, holiday, pattern, pine ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/350/97/HD-wallpaper-green-christmas-trees-cute-doodle-holiday-pattern-pine-texture-tree-winter.jpg' alt='Green Christmas Trees, cute, doodle, holiday, pattern, pine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/350/97/HD-wallpaper-green-christmas-trees-cute-doodle-holiday-pattern-pine-texture-tree-winter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

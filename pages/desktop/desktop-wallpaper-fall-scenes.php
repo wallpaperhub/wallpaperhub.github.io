@@ -1,0 +1,129 @@
+<title>Stunning Fall Desktop Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover captivating fall desktop wallpapers that enhance your workspace with seasonal beauty. Enjoy vibrant colors and serene landscapes that inspire creativity and warmth every time you log in. Perfect for embracing the autumn spirit, these wallpapers will transform your screen in style!">
+                    <meta name="keywords" content="desktop wallpaper fall scenes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktop-wallpaper-fall-scenes">
+                            <span itemprop="name">desktop wallpaper fall scenes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall Desktop Wallpapers for Your Screen</h1>
+                <p>Transform your desktop with stunning fall scenes that capture the beauty of autumn! From vibrant orange and red leaves to tranquil landscapes under a golden sun, these wallpapers bring a warm and cozy vibe to your workspace. Experience the magic of the season every time you log in and let autumn inspire your creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Scenes Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-scenes-2af39j2k3yyssyti.jpg' alt='100+] Fall Scenes Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-scenes-2af39j2k3yyssyti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' alt='Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download HD Wallpaper For Desktop Right Click To Save ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/1a/a4/c01aa40fd7157e1b71cbd971c95da56b.jpg' alt='   Free download HD Wallpaper For Desktop Right Click To Save ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/1a/a4/c01aa40fd7157e1b71cbd971c95da56b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Scenes Wallpaper Images – Browse 122,285 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/53/92/05/360_F_853920502_BSeQ8zpOuMgTuiWtY1esJlpZjN5fsBvt.jpg' alt='Fall Scenes Wallpaper Images – Browse 122,285 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/53/92/05/360_F_853920502_BSeQ8zpOuMgTuiWtY1esJlpZjN5fsBvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2965 Free CC0 Fall wallpaper Stock Photos - StockSnap.io">
+                                <img itemprop="contentUrl url" src='https://image.shutterstock.com/image-photo/autumn-nature-landscape-lake-bridge-260nw-2198245029.jpg' alt='2965 Free CC0 Fall wallpaper Stock Photos - StockSnap.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockSnap.io" />
+                                </span>
+                                <a href='https://image.shutterstock.com/image-photo/autumn-nature-landscape-lake-bridge-260nw-2198245029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/4/8/157490-2560x1440-desktop-hd-autumn-wallpaper-image.jpg' alt='Autumn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/4/8/157490-2560x1440-desktop-hd-autumn-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AUTUMN RIVER FALLS, stream, autumn, river, falls, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/643/922/HD-wallpaper-autumn-river-falls-stream-autumn-river-falls.jpg' alt='AUTUMN RIVER FALLS, stream, autumn, river, falls, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/643/922/HD-wallpaper-autumn-river-falls-stream-autumn-river-falls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Scenes Orange Lined Road Trees Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fall-scenes-orange-lined-road-trees-1swfswfoxiq8d8qt.jpg' alt='Fall Scenes Orange Lined Road Trees Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fall-scenes-orange-lined-road-trees-1swfswfoxiq8d8qt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free Desktop Wallpapers Autumn Scenes on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/ce/0e/25ce0e914e2ea906360c8affe6f78d41.jpg' alt='   Free Desktop Wallpapers Autumn Scenes on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/ce/0e/25ce0e914e2ea906360c8affe6f78d41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scenes of autumn - Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.socwall.com/images/wallpapers/36384-1920x1200.jpg' alt='scenes of autumn - Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Wallpapering" />
+                                </span>
+                                <a href='https://www.socwall.com/images/wallpapers/36384-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

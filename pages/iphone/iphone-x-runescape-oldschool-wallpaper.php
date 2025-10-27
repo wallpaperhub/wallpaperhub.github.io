@@ -1,0 +1,129 @@
+<title>Epic Old School RuneScape Wallpapers for iPhone X</title>
+                    <meta name="description" content="Discover stunning Old School RuneScape wallpapers for your iPhone X! Personalize your device with iconic designs that reflect your passion for this classic MMORPG. Perfect for fans looking to showcase their love for Gielinor in a stylish and vibrant way!">
+                    <meta name="keywords" content="iphone x runescape oldschool wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-x-runescape-oldschool-wallpaper">
+                            <span itemprop="name">iphone x runescape oldschool wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Old School RuneScape Wallpapers for iPhone X</h1>
+                <p>Elevate your iPhone X with captivating Old School RuneScape wallpapers! Explore a variety of iconic scenes and characters from Gielinor, perfect for fans of the classic MMORPG. Personalize your device with rich colors and stunning graphics that bring the nostalgia of Runescape right to your smartphone screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Inventory Phone Wallpaper. Resize your apps to fit ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d732xvepelw61.png' alt='Made this Inventory Phone Wallpaper. Resize your apps to fit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d732xvepelw61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Tilemap In Iphone X Runescape Oldschool Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-x-runescape-oldschool-background-1125-x-2436-86mdyn84bphqukxc.jpg' alt='Download Tilemap In Iphone X Runescape Oldschool Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-x-runescape-oldschool-background-1125-x-2436-86mdyn84bphqukxc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone X Runescape Oldschool Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-x-runescape-oldschool-background-kem6lrcskpboxqnm.jpg' alt='100+] Iphone X Runescape Oldschool Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-x-runescape-oldschool-background-kem6lrcskpboxqnm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Skeleton Warrior Iphone Xs Max Runescape Oldschool ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-z1qn6k378e4y97w0.jpg' alt='Download Skeleton Warrior Iphone Xs Max Runescape Oldschool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-z1qn6k378e4y97w0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sword In Iphone X Runescape Oldschool Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-x-runescape-oldschool-background-1125-x-2436-udvmf9wdwlp8sz0e.jpg' alt='Download Sword In Iphone X Runescape Oldschool Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-x-runescape-oldschool-background-1125-x-2436-udvmf9wdwlp8sz0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSRS Themed mobile wallpaper : r/2007scape">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/osrs-themed-mobile-wallpaper-v0-e21jtqo76u3a1.png?auto=webp&s=595cd6257c794d467302ff4832a16b07de08e23e' alt='OSRS Themed mobile wallpaper : r/2007scape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/osrs-themed-mobile-wallpaper-v0-e21jtqo76u3a1.png?auto=webp&s=595cd6257c794d467302ff4832a16b07de08e23e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Warrior And Swordsman Iphone Xs Max Runescape Oldschool ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-7dbiios424moaivo.jpg' alt='Download Warrior And Swordsman Iphone Xs Max Runescape Oldschool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-7dbiios424moaivo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Captivating Oldschool RuneScape Game on iPhone XS Max ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-frmgu4ybpxxxsc9t.jpg' alt='Download Captivating Oldschool RuneScape Game on iPhone XS Max ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-frmgu4ybpxxxsc9t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorious Player Inold School Runescape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/victorious-player-inold-school-runescape-j0p7hku7pog7omqc.jpg' alt='Victorious Player Inold School Runescape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/victorious-player-inold-school-runescape-j0p7hku7pog7omqc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Dragon And Warrior Iphone Xs Max Runescape ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-seyvxf6je72k2fir.jpg' alt='Download Green Dragon And Warrior Iphone Xs Max Runescape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-runescape-oldschool-background-1242-x-2688-seyvxf6je72k2fir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

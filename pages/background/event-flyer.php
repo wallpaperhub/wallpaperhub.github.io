@@ -1,0 +1,129 @@
+<title>"Eye-Catching Event Flyers That Boost Attendance"</title>
+                    <meta name="description" content="Discover how to design impactful event flyers that attract your audience and boost attendance. Learn tips for effective layouts, essential info inclusion, and creative visuals. Optimize your flyer for maximum engagement and make your event unforgettable!">
+                    <meta name="keywords" content="event flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/event-flyer">
+                            <span itemprop="name">event flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Eye-Catching Event Flyers That Boost Attendance"</h1>
+                <p>Create an eye-catching event flyer that captures attention and conveys essential information. Use bold colors, engaging images, and clear text to promote your event. Include the date, time, location, and RSVP details prominently. Ensure your flyer reflects the theme and purpose of the event, making it unforgettable for your audience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design an Event Flyer in 5 Minutes | Piktochart Blog ...">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2018/04/15-3370764.png' alt='How to Design an Event Flyer in 5 Minutes | Piktochart Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2018/04/15-3370764.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable event flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvO6IQ4MA/1/0/1131w/canva-colorful-playful-bold-style-events-schedule-flyer-UwEKY6ZyG9o.jpg' alt='Free printable, customizable event flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvO6IQ4MA/1/0/1131w/canva-colorful-playful-bold-style-events-schedule-flyer-UwEKY6ZyG9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Event Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/event-flyer-template-design_23-2149231970.jpg' alt='Event Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/event-flyer-template-design_23-2149231970.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Pink Music Event Flyer Template Free Download | Resource Boy">
+                                <img itemprop="contentUrl url" src='https://resourceboy.com/wp-content/uploads/2022/03/black-and-pink-music-event-flyer-template.jpg' alt='Black and Pink Music Event Flyer Template Free Download | Resource Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resource Boy" />
+                                </span>
+                                <a href='https://resourceboy.com/wp-content/uploads/2022/03/black-and-pink-music-event-flyer-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Main Event Flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/main-event-flyer-design-template-c2595c7e6f40fff8b98eba6486b62329_screen.jpg?ts=1636990385' alt='Main Event Flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/main-event-flyer-design-template-c2595c7e6f40fff8b98eba6486b62329_screen.jpg?ts=1636990385' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Event Flyer PSD Template - Photoshop - Creativeflyers">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2019/09/Music-Event-Flyer-Psd-1.jpg' alt='Music Event Flyer PSD Template - Photoshop - Creativeflyers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2019/09/Music-Event-Flyer-Psd-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Technology Conference Flyer Template - Venngage">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/thumbnails.venngage.com/template/e7ccb8ce-dae0-47ae-9204-0561520970a6.png' alt='Technology Conference Flyer Template - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/thumbnails.venngage.com/template/e7ccb8ce-dae0-47ae-9204-0561520970a6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Free Event Flyers | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_event-flyer-272b07826d110a9fbf155e44c09cd95b.png?ts%20=%201699434872' alt='Customize Free Event Flyers | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_event-flyer-272b07826d110a9fbf155e44c09cd95b.png?ts%20=%201699434872' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Event Flyer Templates | Adobe Express">
+                                <img itemprop="contentUrl url" src='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:bf51255b-a732-515f-b704-83818b105650/component?assetType=TEMPLATE&etag=eb9dcf5c48084d00b831e3e2d3ed6861&revision=300185da-a86c-4f5c-aeed-c056fa26641a&component_id=949fefb8-3f04-4a11-894a-43ee90be74a8' alt='Free Event Flyer Templates | Adobe Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:bf51255b-a732-515f-b704-83818b105650/component?assetType=TEMPLATE&etag=eb9dcf5c48084d00b831e3e2d3ed6861&revision=300185da-a86c-4f5c-aeed-c056fa26641a&component_id=949fefb8-3f04-4a11-894a-43ee90be74a8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Church Event Poster Flyer Template - Venngage">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/thumbnails.venngage.com/template/84ec0b53-6b17-4d27-a5a5-f1c3a5da4a39.png' alt='Minimalist Church Event Poster Flyer Template - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/thumbnails.venngage.com/template/84ec0b53-6b17-4d27-a5a5-f1c3a5da4a39.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

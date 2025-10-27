@@ -1,0 +1,129 @@
+<title>Explore Space: Fun Kids Wallpaper Ideas</title>
+                    <meta name="description" content="Discover fun and imaginative space wallpaper designs for kids' rooms! From planets to stars, these vibrant wallpapers create a cosmic adventure that inspires creativity. Perfect for any child's space-themed sanctuary, bringing joy and wonder to their everyday environment!">
+                    <meta name="keywords" content="space wallpaper for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/space-wallpaper-for-kids">
+                            <span itemprop="name">space wallpaper for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Space: Fun Kids Wallpaper Ideas</h1>
+                <p>Transform your child's room into a cosmic wonderland with vibrant space wallpapers! Featuring stars, planets, and galaxies, these designs inspire imagination and curiosity. Create an adventurous atmosphere that sparks interest in science and exploration. Perfect for nurseries to playrooms, space wallpapers bring joy and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Watercolor Space with Spaceship and Astronaut Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/e/y/ey000029.jpg' alt='Kids Watercolor Space with Spaceship and Astronaut Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/e/y/ey000029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space, Astronaut, Planets Wallpaper Peel and Stick Nursey Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25375645/r/il/c06dab/5260772737/il_fullxfull.5260772737_g181.jpg' alt='Space, Astronaut, Planets Wallpaper Peel and Stick Nursey Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25375645/r/il/c06dab/5260772737/il_fullxfull.5260772737_g181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Murwall Kids Wallpaper for Boys Cartoon Space Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81DzzqJyZYL._UF894,1000_QL80_.jpg' alt='Amazon.com: Murwall Kids Wallpaper for Boys Cartoon Space Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81DzzqJyZYL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Cartoon Space Rocket Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716282806/articles/NS0032BU02W_product.jpg' alt='Kids Cartoon Space Rocket Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716282806/articles/NS0032BU02W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Wallpaper Peel and Stick, Astronaut Wallpaper, Planet ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25499622/r/il/255b8a/3154941489/il_fullxfull.3154941489_6f1a.jpg' alt='Kids Wallpaper Peel and Stick, Astronaut Wallpaper, Planet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25499622/r/il/255b8a/3154941489/il_fullxfull.3154941489_6f1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmos Space Peel and Stick Removable Wallpaper – Say Decor LLC">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/AS20500-HDCrop.jpg?v=1678584702' alt='Cosmos Space Peel and Stick Removable Wallpaper – Say Decor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/AS20500-HDCrop.jpg?v=1678584702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Blue and Grey Space Theme Children Wallpaper, Customized"">
+                                <img itemprop="contentUrl url" src='https://lifencolors.in/cdn/shop/products/81d868_0890acc9b00140a49caa274a8787070f_mv2.jpg?v=1693654594' alt='"Blue and Grey Space Theme Children Wallpaper, Customized"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lifencolors" />
+                                </span>
+                                <a href='https://lifencolors.in/cdn/shop/products/81d868_0890acc9b00140a49caa274a8787070f_mv2.jpg?v=1693654594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Brown Space Children Removable Wallpaper 0565| Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/510ca20a06b0f60fbedb43cf391e71fa_grande.jpg?v=1723297731' alt='Blue and Brown Space Children Removable Wallpaper 0565| Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/510ca20a06b0f60fbedb43cf391e71fa_grande.jpg?v=1723297731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WFBHUA-Galaxy Wallpaper Mural Kids Nursery Wallpaper Cosmic Planets Wall  Mural Decoration for Boys Room Playroom(Not Peel and Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dNCxpzpHL.jpg' alt='WFBHUA-Galaxy Wallpaper Mural Kids Nursery Wallpaper Cosmic Planets Wall  Mural Decoration for Boys Room Playroom(Not Peel and Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2098">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dNCxpzpHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Shining Cartoon Space with White Stripe Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/d/t/dt000099_moc2.jpg' alt='Kids Shining Cartoon Space with White Stripe Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/d/t/dt000099_moc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

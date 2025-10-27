@@ -1,0 +1,129 @@
+<title>Stunning 4K Video Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 4K video wallpapers that enhance your screens with vibrant motion and high-resolution quality. Perfect for personalizing your devices, our collection offers various themes to fit your style. Download now and transform your experience with captivating visuals!">
+                    <meta name="keywords" content="4k video wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-video-wallpaper">
+                            <span itemprop="name">4k video wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Video Wallpapers for Your Device</h1>
+                <p>4K video wallpapers elevate your screen experience with stunning visuals and dynamic backgrounds. Perfect for home or office, these high-resolution videos bring your device to life with captivating motion and vibrant colors. Choose from a variety of themes to express your personality and enjoy the beauty of 4K quality every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Tentacle Animation 4K Video">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/374/296/small_2x/abstract-tentacle-animation-4k-video.jpg' alt='Abstract Tentacle Animation 4K Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/374/296/small_2x/abstract-tentacle-animation-4k-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Red Bright Liquid Lightning Abstract Motion Colorful Paint Textured 4K  Wallpaper Backdrop Background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/537/474/small_2x/blue-red-bright-liquid-lightning-abstract-motion-colorful-paint-textured-4k-wallpaper-backdrop-background-video.jpg' alt='Blue Red Bright Liquid Lightning Abstract Motion Colorful Paint Textured 4K  Wallpaper Backdrop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/537/474/small_2x/blue-red-bright-liquid-lightning-abstract-motion-colorful-paint-textured-4k-wallpaper-backdrop-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Videos, Download The BEST Free 4k Stock Video Footage ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/3163534/free-video-3163534.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='4k Wallpaper Videos, Download The BEST Free 4k Stock Video Footage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/3163534/free-video-3163534.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8K 4K Magical Pathway ║Classic Animated Wallpaper ║ HD Background Video  Effect 4320p AA-vfx">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NnlCdvaR140/maxresdefault.jpg' alt='8K 4K Magical Pathway ║Classic Animated Wallpaper ║ HD Background Video  Effect 4320p AA-vfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NnlCdvaR140/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset, Blender, Mountains">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2021/02/14/65182-513048357_tiny.jpg' alt='Sunset, Blender, Mountains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2021/02/14/65182-513048357_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Dark Horizon ║Classic Animated Wallpaper ║ UHD HD Background Video  Effect 2160p 21:9 AA-vfx">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W2YoihjFTJ0/maxresdefault.jpg' alt='4K Dark Horizon ║Classic Animated Wallpaper ║ UHD HD Background Video  Effect 2160p 21:9 AA-vfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W2YoihjFTJ0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Videos, Download The BEST Free 4k Stock Video Footage ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='4k Wallpaper Videos, Download The BEST Free 4k Stock Video Footage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Particles, Beautiful Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2024/03/01/202587-918431513_tiny.jpg' alt='Particles, Beautiful Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2024/03/01/202587-918431513_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Geometric Luxury Gold Black Particles">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1108434245/thumb/11.jpg?ip=x480' alt='Circle Geometric Luxury Gold Black Particles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1108434245/thumb/11.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue and purple abstract light flow 4k video wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/015/520/197/small_2x/blue-and-purple-abstract-light-flow-4k-wallpaper-video.jpg' alt='blue and purple abstract light flow 4k video wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/015/520/197/small_2x/blue-and-purple-abstract-light-flow-4k-wallpaper-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Fun and Adorable Kirby Gifs for Every Occasion</title>
+                    <meta name="description" content="Discover a collection of charming and playful Kirby gifs! Perfect for sharing joy, humor, and nostalgia in your conversations. Elevate your messaging game with these delightful animations and let Kirby bring a smile to your chats!">
+                    <meta name="keywords" content="kirby gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirby-gif">
+                            <span itemprop="name">kirby gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun and Adorable Kirby Gifs for Every Occasion</h1>
+                <p>Kirby gifs are a delightful way to express emotions and share joy! These animated images capture Kirby's iconic adventures and playful antics from the video game series. Whether you're sharing a quick laugh or a heartfelt reaction, a Kirby gif is perfect for any conversation, bringing a touch of nostalgia and fun to your chats.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirbys GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/l0HlIDueXmcWNTPO0/giphy.gif?cid=6c09b952ikqoybpa8qilnvp8a3ynvjnerc7k19gdyl4mgow8&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Kirbys GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/l0HlIDueXmcWNTPO0/giphy.gif?cid=6c09b952ikqoybpa8qilnvp8a3ynvjnerc7k19gdyl4mgow8&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/12/icegif-700.gif' alt='Kirby Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/12/icegif-700.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Kirby's emotes into transparent gifs for you to use! If you ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c5i6czypyir81.gif' alt='I made Kirby's emotes into transparent gifs for you to use! If you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c5i6czypyir81.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Gif GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/7I9nkd071vYAAAAM/food-coma-food.gif' alt='Kirby Gif GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/7I9nkd071vYAAAAM/food-coma-food.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/02/icegif-1411.gif' alt='Kirby Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/02/icegif-1411.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robbie X Kirby GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/lcwrrsfs4Px6w/giphy.gif?cid=6c09b952wavb6n8lnmqpay07ifrp3iuhkk63nncphdylq9gl&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Robbie X Kirby GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/lcwrrsfs4Px6w/giphy.gif?cid=6c09b952wavb6n8lnmqpay07ifrp3iuhkk63nncphdylq9gl&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Fan Art GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/gEJbG42AfUkAAAAM/kirby-cake-kirby.gif' alt='Kirby Fan Art GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/gEJbG42AfUkAAAAM/kirby-cake-kirby.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow kirby gif pixel art">
+                                <img itemprop="contentUrl url" src='https://dinopixel.com/preload/0624/rainbow-kirby-gif_1717487653.gif' alt='Rainbow kirby gif pixel art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dinopixel" />
+                                </span>
+                                <a href='https://dinopixel.com/preload/0624/rainbow-kirby-gif_1717487653.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shocked Kirby "Woah" gif : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rqcqgpl5chzc1.gif' alt='Shocked Kirby "Woah" gif : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1968">
+                                <meta itemprop="height" content="1968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rqcqgpl5chzc1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

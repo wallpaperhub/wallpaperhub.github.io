@@ -1,0 +1,129 @@
+<title>Frank Sinatra: The Timeless Voice of American Music</title>
+                    <meta name="description" content="Explore the life and legacy of Frank Sinatra, the legendary singer whose smooth voice and charismatic style reshaped American music. Discover his classic hits, influential career, and lasting impact on entertainment, all from your mobile device.">
+                    <meta name="keywords" content="frank sinatra">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frank-sinatra">
+                            <span itemprop="name">frank sinatra</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frank Sinatra: The Timeless Voice of American Music</h1>
+                <p>Frank Sinatra, the iconic American singer and actor, is celebrated for his smooth voice and timeless classics. Born in 1915, Sinatra's career spanned over five decades, producing unforgettable hits like "My Way" and "New York, New York." His charisma and style made him a cultural icon, influencing music and film in profound ways.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/800px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg' alt='Frank Sinatra - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/800px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 things you didn't know about Frank Sinatra | PBS News">
+                                <img itemprop="contentUrl url" src='https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/12/GettyImages-85339538-1024x889.jpg' alt='8 things you didn't know about Frank Sinatra | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/12/GettyImages-85339538-1024x889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra | Biography, Songs, Films, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/20/187920-050-0425AFBB/Frank-Sinatra-1947.jpg' alt='Frank Sinatra | Biography, Songs, Films, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/20/187920-050-0425AFBB/Frank-Sinatra-1947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra: 100 Very Good Years on Record">
+                                <img itemprop="contentUrl url" src='https://aarp-content.brightspotcdn.com/ba/47/ebbf283b7cff2f45f6d6c712f14e/frank-sinatra-2-herman-leonard-photography-llc.jpg' alt='Frank Sinatra: 100 Very Good Years on Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP Blogs" />
+                                </span>
+                                <a href='https://aarp-content.brightspotcdn.com/ba/47/ebbf283b7cff2f45f6d6c712f14e/frank-sinatra-2-herman-leonard-photography-llc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Way (2008 Remastered)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qQzdAsjWGPg/maxresdefault.jpg' alt='My Way (2008 Remastered)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qQzdAsjWGPg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra | Artist | GRAMMY.com">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/frank-sinatra_MI0003852493-MN0000792507' alt='Frank Sinatra | Artist | GRAMMY.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="5083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/frank-sinatra_MI0003852493-MN0000792507' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra - Death, Songs & Life">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-119684687.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Frank Sinatra - Death, Songs & Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-119684687.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Sinatra at 100: Was Ol' Blue Eyes really dangerous?">
+                                <img itemprop="contentUrl url" src='https://ychef.files.bbci.co.uk/1280x720/p03bzy5z.jpg' alt='Frank Sinatra at 100: Was Ol' Blue Eyes really dangerous?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ychef.files.bbci.co.uk/1280x720/p03bzy5z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering Frank Sinatra, the voice of a century">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/b6364fb474bf4de1a60afbedb6d16321e42eb8e2/c=26-0-1425-1865/local/-/media/2015/12/01/USATODAY/USATODAY/635845900859449992-d-lline-Sinatra-28.jpg' alt='Remembering Frank Sinatra, the voice of a century'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1399">
+                                <meta itemprop="height" content="1865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/b6364fb474bf4de1a60afbedb6d16321e42eb8e2/c=26-0-1425-1865/local/-/media/2015/12/01/USATODAY/USATODAY/635845900859449992-d-lline-Sinatra-28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canvas Wall Art Frank Sinatra | Canvas Prints | Abposters.com">
+                                <img itemprop="contentUrl url" src='https://cdn.europosters.eu/image/750/canvas-print-frank-sinatra-i135168.jpg' alt='Canvas Wall Art Frank Sinatra | Canvas Prints | Abposters.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://cdn.europosters.eu/image/750/canvas-print-frank-sinatra-i135168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

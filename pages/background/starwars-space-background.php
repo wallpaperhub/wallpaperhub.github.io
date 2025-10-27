@@ -1,0 +1,129 @@
+<title>Stunning Star Wars Space Backgrounds: A Visual Journey</title>
+                    <meta name="description" content="Explore the mesmerizing space backgrounds of Star Wars! Discover how dazzling stars and vibrant nebulas enhance the epic storytelling of this iconic franchise. Immerse yourself in the stunning visual journey through a galaxy far, far away!">
+                    <meta name="keywords" content="starwars space background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/starwars-space-background">
+                            <span itemprop="name">starwars space background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars Space Backgrounds: A Visual Journey</h1>
+                <p>Star Wars is renowned for its stunning space backgrounds that captivate audiences with their grandeur. Dark voids filled with shimmering stars, vibrant nebulas, and distant planets create a breathtaking canvas for epic battles and thrilling adventures. This celestial backdrop enhances the storytelling and immerses viewers into a galaxy far, far away.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starwars Background Images – Browse 5,261 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/07/88/06/360_F_407880671_lsG6u8OZNME4h9KxGGu53eO86fpXELRq.jpg' alt='Starwars Background Images – Browse 5,261 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/07/88/06/360_F_407880671_lsG6u8OZNME4h9KxGGu53eO86fpXELRq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="848 Star Wars Space Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/intricate-high-detailed-starry-background-resembling-universe-star-wars-perfect-sci-fi-themed-designs-330640260.jpg' alt='848 Star Wars Space Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/intricate-high-detailed-starry-background-resembling-universe-star-wars-perfect-sci-fi-themed-designs-330640260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starwars Background Images – Browse 5,261 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/02/88/40/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.jpg' alt='Starwars Background Images – Browse 5,261 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/02/88/40/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Blue Death Star Backdrop for Photography  Galactic Superweapon for Star Wars Galaxy Wars Background Universe Outer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6127qsu+YbL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Blue Death Star Backdrop for Photography  Galactic Superweapon for Star Wars Galaxy Wars Background Universe Outer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6127qsu+YbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Space Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-space-background-1915-x-1026-ia07fj7hcbbiq35f.jpg' alt='100+] Star Wars Space Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1915">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-space-background-1915-x-1026-ia07fj7hcbbiq35f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public domain stock image. Space stars star wars, backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://cdn12.picryl.com/photo/2016/12/31/space-stars-star-wars-backgrounds-textures-106f3e-1024.png' alt='Public domain stock image. Space stars star wars, backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="itoldya test1 - GetArchive" />
+                                </span>
+                                <a href='https://cdn12.picryl.com/photo/2016/12/31/space-stars-star-wars-backgrounds-textures-106f3e-1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bc/9c/53/bc9c53db9a7ff7c9ca8af2283f264b4f.jpg' alt='Star Wars Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bc/9c/53/bc9c53db9a7ff7c9ca8af2283f264b4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="848 Star Wars Space Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/image-features-high-detailed-starry-space-background-inspired-iconic-star-wars-universe-perfect-sci-fi-330640253.jpg' alt='848 Star Wars Space Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/image-features-high-detailed-starry-space-background-inspired-iconic-star-wars-universe-perfect-sci-fi-330640253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's the new Star Wars lobby background without any UI elements ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d938zppo4mxa1.jpg' alt='Here's the new Star Wars lobby background without any UI elements ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d938zppo4mxa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Starwars Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370110270/vector/night-starry-sky-dark-space-background-with-stars.jpg?s=612x612&w=0&k=20&c=WCytbp3COMTc04e71ZtjGn_rmfVN28s4WiA0W7u0S0E=' alt='40+ Starwars Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370110270/vector/night-starry-sky-dark-space-background-with-stars.jpg?s=612x612&w=0&k=20&c=WCytbp3COMTc04e71ZtjGn_rmfVN28s4WiA0W7u0S0E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

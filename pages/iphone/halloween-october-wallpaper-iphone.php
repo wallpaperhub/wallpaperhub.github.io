@@ -1,0 +1,129 @@
+<title>Spook-tacular Halloween October Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Halloween October wallpapers for your iPhone! Choose from a variety of spooky and fun designs to elevate your phone's look this season. Perfect for adding some festive cheer, these wallpapers are easy to download and will keep your device stylish throughout October!">
+                    <meta name="keywords" content="halloween october wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/halloween-october-wallpaper-iphone">
+                            <span itemprop="name">halloween october wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spook-tacular Halloween October Wallpapers for iPhone</h1>
+                <p>Transform your iPhone for Halloween with stunning October wallpapers! From spooky pumpkins and haunted houses to cute ghosts and autumn leaves, embrace the festive spirit. Change your background to create the perfect ambiance as you celebrate the season of thrills. Download your favorite Halloween wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy October & Halloween Wallpaper Backgrounds For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/67/03/2b/67032b0b774a9aac72f9f5dcb79d549d.jpg' alt='Trendy October & Halloween Wallpaper Backgrounds For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/67/03/2b/67032b0b774a9aac72f9f5dcb79d549d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73 Hello October!! ideas | hello october, october wallpaper, october">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0b/b5/6b/0bb56b4a5a73c703907ec254ae7125b7.jpg' alt='73 Hello October!! ideas | hello october, october wallpaper, october'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0b/b5/6b/0bb56b4a5a73c703907ec254ae7125b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2023 Halloween Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/09/10-2023-wallpaper-03-iphone-art-scaled.jpg' alt='October 2023 Halloween Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/09/10-2023-wallpaper-03-iphone-art-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkin October Phone Wallpaper Digital Download Autumn ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17688953/r/il/8c9068/4204815574/il_fullxfull.4204815574_7zqa.jpg' alt='Halloween Pumpkin October Phone Wallpaper Digital Download Autumn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17688953/r/il/8c9068/4204815574/il_fullxfull.4204815574_7zqa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin October Pattern Cute Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pumpkin-october-pattern-cute-halloween-iphone-ovp7amek04925g21.jpg' alt='Pumpkin October Pattern Cute Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pumpkin-october-pattern-cute-halloween-iphone-ovp7amek04925g21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' alt='30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October and Halloween Tech Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bit.ly/3tntGhO' alt='October and Halloween Tech Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='https://bit.ly/3tntGhO' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2018 Halloween Candy Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2018/09/10_2018_wallpaper_iphone_quote.jpg' alt='October 2018 Halloween Candy Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2251">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2018/09/10_2018_wallpaper_iphone_quote.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest Fall Wallpapers for iPhone -">
+                                <img itemprop="contentUrl url" src='https://www.twinsdish.com/wp-content/uploads/2023/10/Halloween-Wallpaper-576x1024.jpg' alt='Cutest Fall Wallpapers for iPhone -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twins Dish" />
+                                </span>
+                                <a href='https://www.twinsdish.com/wp-content/uploads/2023/10/Halloween-Wallpaper-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Wallpaper 4K, Halloween background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/october-halloween-1440x2560-13104.png' alt='October Wallpaper 4K, Halloween background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/october-halloween-1440x2560-13104.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

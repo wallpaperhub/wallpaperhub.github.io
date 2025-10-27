@@ -1,0 +1,129 @@
+<title>Mushroom Wallpaper: Enchant Your Space!</title>
+                    <meta name="description" content="Discover the charm of mushroom wallpaper! Ideal for adding a touch of whimsy to your home, it features lively designs that transform your space. Perfect for any room, explore our wide selection to find the ideal style. Elevate your décor with nature’s beauty today!">
+                    <meta name="keywords" content="mushroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mushroom-wallpaper">
+                            <span itemprop="name">mushroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mushroom Wallpaper: Enchant Your Space!</h1>
+                <p>Mushroom wallpaper adds a whimsical touch to any room, combining nature-inspired designs with vibrant colors. Perfect for creating a cozy atmosphere or a playful backdrop, this wallpaper style can elevate your interior decor. Whether you opt for artistic prints or realistic images, mushroom wallpaper is sure to enchant and inspire.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' alt='Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2436">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairytale Mushroom Peel and Stick Wallpaper Boho Wallpaper Botanic Leaf  Removable Stick on Wallpaper Easy Peel Off Contact Paper for Bathroom  Renter ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mVRZ24oQL.jpg' alt='Fairytale Mushroom Peel and Stick Wallpaper Boho Wallpaper Botanic Leaf  Removable Stick on Wallpaper Easy Peel Off Contact Paper for Bathroom  Renter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mVRZ24oQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Haven Beige Red">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/74922/mushroom-haven-beige-red.jpg?h=699&q=85' alt='Mushroom Haven Beige Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/74922/mushroom-haven-beige-red.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Wallpaper Mural | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0597/1755/0251/files/Wundagreen_818x545_crop_center.jpg?v=1736182324' alt='Mushroom Wallpaper Mural | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0597/1755/0251/files/Wundagreen_818x545_crop_center.jpg?v=1736182324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAZLUTE Mushroom Peel and Stick Wallpaper, Mysterious Removable Wallpaper  17.7" x 118",Eyes Design Vinyl Self Adhesive Contact Paper for Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/DAZLUTE-Mushroom-Peel-Stick-Wallpaper-Mysterious-Removable-Wallpaper-17-7-x-118-Eyes-Design-Vinyl-Self-Adhesive-Contact-Paper-Bedroom-Bathroom_20616347-c0c0-4574-a787-ab8130e5bca5.87466f1b3d303fad98e2f1f64664830c.jpeg' alt='DAZLUTE Mushroom Peel and Stick Wallpaper, Mysterious Removable Wallpaper  17.7" x 118",Eyes Design Vinyl Self Adhesive Contact Paper for Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/DAZLUTE-Mushroom-Peel-Stick-Wallpaper-Mysterious-Removable-Wallpaper-17-7-x-118-Eyes-Design-Vinyl-Self-Adhesive-Contact-Paper-Bedroom-Bathroom_20616347-c0c0-4574-a787-ab8130e5bca5.87466f1b3d303fad98e2f1f64664830c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Wallpaper - Bunny-tan's Ko-fi Shop - Ko-fi ❤️ Where ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/d9eb4dbe-9fa0-48c4-b96e-0f25ec361535_preview3.jpg' alt='Mushroom Wallpaper - Bunny-tan's Ko-fi Shop - Ko-fi ❤️ Where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/d9eb4dbe-9fa0-48c4-b96e-0f25ec361535_preview3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Mushroom Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/231186/Mushroom-Pattern-Wallpaper.jpg?v=638165432647600000' alt='Midnight Mushroom Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/231186/Mushroom-Pattern-Wallpaper.jpg?v=638165432647600000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Mushroom Wallpaper, Mushroom Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45449901/r/il/7d24fd/5789063901/il_fullxfull.5789063901_o88c.jpg' alt='Vintage Mushroom Wallpaper, Mushroom Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2312">
+                                <meta itemprop="height" content="1542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45449901/r/il/7d24fd/5789063901/il_fullxfull.5789063901_o88c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palenque Black">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716221217/articles/CO5015MU04R_product.jpg' alt='Palenque Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716221217/articles/CO5015MU04R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Magick Black Wallpaper">
+                                <img itemprop="contentUrl url" src='https://sarahwildling.com/wp-content/uploads/2023/12/mushroom-magick-black-book1.jpg' alt='Mushroom Magick Black Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Wildling" />
+                                </span>
+                                <a href='https://sarahwildling.com/wp-content/uploads/2023/12/mushroom-magick-black-book1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

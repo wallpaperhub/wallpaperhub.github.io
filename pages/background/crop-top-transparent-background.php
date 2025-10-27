@@ -1,0 +1,129 @@
+<title>Trendy Crop Tops: Make a Fashion Statement</title>
+                    <meta name="description" content="Explore the latest in crop top fashion! Our collection features a variety of styles perfect for any occasion. Discover unique designs that will elevate your wardrobe and express your individuality. Shop now for trendy crop tops and stay stylish!">
+                    <meta name="keywords" content="crop top transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crop-top-transparent-background">
+                            <span itemprop="name">crop top transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Crop Tops: Make a Fashion Statement</h1>
+                <p>Crop tops have become a popular fashion staple, providing a stylish and trendy look. Featuring various designs, they can be paired with high-waisted jeans or skirts for a chic appearance. A transparent background makes it easy to showcase different styles, allowing for creative edits on clothing websites or fashion blogs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crop Top Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3M4MC1wYWktMTc0Ny1tb2NrdXAtMDEtam9iMTQyMV8xLmpwZw.jpg' alt='Crop Top Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3M4MC1wYWktMTc0Ny1tb2NrdXAtMDEtam9iMTQyMV8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crop top transparent image 45383940 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/045/383/940/non_2x/crop-top-transparent-image-free-png.png' alt='Crop top transparent image 45383940 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/045/383/940/non_2x/crop-top-transparent-image-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crop Top Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL3M4MC1wYWktMTc0Ny5qcGc.jpg' alt='Crop Top Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL3M4MC1wYWktMTc0Ny5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crop Top PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-womens-underwear-png-image_2404013.jpg' alt='Crop Top PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-womens-underwear-png-image_2404013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crop Top Png Transparent, Png Download - vhv">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/1d/c0/331dc0cbddb74512ecdcc2c8c5f88028.jpg' alt='Crop Top Png Transparent, Png Download - vhv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/1d/c0/331dc0cbddb74512ecdcc2c8c5f88028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Front view of woman beige crop top on transparent ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/front-view-woman-beige-crop-top-transparent-background_79144-1393.jpg' alt='Premium PSD | Front view of woman beige crop top on transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/front-view-woman-beige-crop-top-transparent-background_79144-1393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Velvet Cropped Top - Black Velvet Cropped Top for Evening ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180902/ljc/kisspng-t-shirt-crop-top-clothing-velvet-mesh-panel-cami-velvet-one-us-price-com-5b8b883573a4d9.0370898715358710294737.jpg' alt='Black Velvet Cropped Top - Black Velvet Cropped Top for Evening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180902/ljc/kisspng-t-shirt-crop-top-clothing-velvet-mesh-panel-cami-velvet-one-us-price-com-5b8b883573a4d9.0370898715358710294737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light blue png crop top | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/20ed374a-2fc5-4ffe-9dc6-11927e77f0ba.jpeg' alt='light blue png crop top | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/20ed374a-2fc5-4ffe-9dc6-11927e77f0ba.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink crop top – dontbelast">
+                                <img itemprop="contentUrl url" src='http://dontbelastbrand.com/cdn/shop/products/image_2fe66f20-6abe-4688-8fa9-cc3e110e430b_1200x1200.png?v=1659646750' alt='Pink crop top – dontbelast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dontbelast" />
+                                </span>
+                                <a href='http://dontbelastbrand.com/cdn/shop/products/image_2fe66f20-6abe-4688-8fa9-cc3e110e430b_1200x1200.png?v=1659646750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Crop Top - Black Crop Top Shirt - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180612/co/kisspng-sleeve-tube-top-t-shirt-blouse-shoulder-crop-tops-5b203c929e98d1.9852203415288393146496.jpg' alt='Black Crop Top - Black Crop Top Shirt - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180612/co/kisspng-sleeve-tube-top-t-shirt-blouse-shoulder-crop-tops-5b203c929e98d1.9852203415288393146496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

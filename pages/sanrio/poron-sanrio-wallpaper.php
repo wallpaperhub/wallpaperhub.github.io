@@ -1,0 +1,129 @@
+<title>Adorable Poron Sanrio Wallpaper for Your Space!</title>
+                    <meta name="description" content="Explore the delightful Poron Sanrio wallpaper collection! Transform your room with charming designs and vibrant colors featuring the beloved Poron character. Perfect for creating a joyful and whimsical atmosphere in your home. Ideal for fans of all ages! Discover your favorite patterns today!">
+                    <meta name="keywords" content="poron sanrio wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/poron-sanrio-wallpaper">
+                            <span itemprop="name">poron sanrio wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Poron Sanrio Wallpaper for Your Space!</h1>
+                <p>Discover the adorable world of Poron Sanrio wallpaper! Perfect for fans of cute characters, these charming designs will brighten up your space. Featuring the lovable Poron from Sanrio, you can create a whimsical ambiance in any room. Add a touch of joy and personality to your walls with playful patterns and vibrant colors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron sleeping aww so cute!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/80/8e/31808eaaae91a52db02310e4a39a1fd3.jpg' alt='Poron sleeping aww so cute!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/80/8e/31808eaaae91a52db02310e4a39a1fd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unicorn Ride Cinnamoroll&Poron Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/unicorn-ride-cinnamoroll-poron-o3azryve56x5q9oq.jpg' alt='Download Unicorn Ride Cinnamoroll&Poron Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/unicorn-ride-cinnamoroll-poron-o3azryve56x5q9oq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll and Poron">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/f7/22/7af7229f1216e05c8edfbcfb2169e25f.jpg' alt='Cinnamoroll and Poron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/f7/22/7af7229f1216e05c8edfbcfb2169e25f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/aa/9f/c3aa9f5ba01be84b1a10ae7480ff936e.jpg' alt='Poron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/aa/9f/c3aa9f5ba01be84b1a10ae7480ff936e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron by AngelRoseStar on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8df8e47d-5664-4609-a146-68e7232b10fc/dflo4fs-a610ba86-0238-4e50-a0aa-9dfee748ef35.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkZjhlNDdkLTU2NjQtNDYwOS1hMTQ2LTY4ZTcyMzJiMTBmY1wvZGZsbzRmcy1hNjEwYmE4Ni0wMjM4LTRlNTAtYTBhYS05ZGZlZTc0OGVmMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YFbzRETj-w9EtiYDlyZv1c22zZJVJf7KsWx5BGQd9H4' alt='Poron by AngelRoseStar on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8df8e47d-5664-4609-a146-68e7232b10fc/dflo4fs-a610ba86-0238-4e50-a0aa-9dfee748ef35.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkZjhlNDdkLTU2NjQtNDYwOS1hMTQ2LTY4ZTcyMzJiMTBmY1wvZGZsbzRmcy1hNjEwYmE4Ni0wMjM4LTRlNTAtYTBhYS05ZGZlZTc0OGVmMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YFbzRETj-w9EtiYDlyZv1c22zZJVJf7KsWx5BGQd9H4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll and Poron Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/74/3b/d7743b97001a8e36bcf212113ee5a7a1.jpg' alt='Cinnamoroll and Poron Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/74/3b/d7743b97001a8e36bcf212113ee5a7a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll and Poron - free download by cupinart on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66238095-a909-49a3-8eae-d1043dd18970/dg821ta-ceed0ed6-0f63-4b7a-9fd4-53a0c74f3963.png/v1/fill/w_1280,h_1280,q_80,strp/cinnamoroll_and_poron___free_download_by_cupinart_dg821ta-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzY2MjM4MDk1LWE5MDktNDlhMy04ZWFlLWQxMDQzZGQxODk3MFwvZGc4MjF0YS1jZWVkMGVkNi0wZjYzLTRiN2EtOWZkNC01M2EwYzc0ZjM5NjMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hU6328q7WVIIZ-6FU-khMORIDqhyDPQe9Am167GdA14' alt='Cinnamoroll and Poron - free download by cupinart on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66238095-a909-49a3-8eae-d1043dd18970/dg821ta-ceed0ed6-0f63-4b7a-9fd4-53a0c74f3963.png/v1/fill/w_1280,h_1280,q_80,strp/cinnamoroll_and_poron___free_download_by_cupinart_dg821ta-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzY2MjM4MDk1LWE5MDktNDlhMy04ZWFlLWQxMDQzZGQxODk3MFwvZGc4MjF0YS1jZWVkMGVkNi0wZjYzLTRiN2EtOWZkNC01M2EwYzc0ZjM5NjMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hU6328q7WVIIZ-6FU-khMORIDqhyDPQe9Am167GdA14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron | Cinnamoroll Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cinnamoroll/images/7/70/Cinnamoangels.png/revision/latest/scale-to-width-down/340?cb=20221018234058' alt='Poron | Cinnamoroll Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cinnamoroll Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cinnamoroll/images/7/70/Cinnamoangels.png/revision/latest/scale-to-width-down/340?cb=20221018234058' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron Halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/ca/51/2eca51538ea891550056435340548925.jpg' alt='Poron Halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/ca/51/2eca51538ea891550056435340548925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poron on a   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/46/a4/d846a44976d40a25078bd0014abfbbd4.jpg' alt='Poron on a   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/46/a4/d846a44976d40a25078bd0014abfbbd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

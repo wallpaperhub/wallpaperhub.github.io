@@ -1,0 +1,129 @@
+<title>Romeo and Juliet: A Timeless Tale of Love and Tragedy</title>
+                    <meta name="description" content="Explore the tragic love story of Romeo and Juliet, Shakespeare's renowned play. Delve into themes of passion and conflict as two star-crossed lovers navigate their way through familial rivalry, leading to heart-wrenching consequences. Discover why this timeless tale endures in modern culture.">
+                    <meta name="keywords" content="romeo and juliet">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/romeo-and-juliet">
+                            <span itemprop="name">romeo and juliet</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Romeo and Juliet: A Timeless Tale of Love and Tragedy</h1>
+                <p>Romeo and Juliet, Shakespeare's iconic tragedy, tells the tale of two young lovers from feuding families in Verona. Their passionate romance leads to secret marriages and ultimately tragic consequences. Themes of love, fate, and conflict resonate through this timeless narrative, highlighting the folly of enmity and the power of love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo + Juliet - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/b/b4/William_shakespeares_romeo_and_juliet_movie_poster.jpg' alt='Romeo + Juliet - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/b/b4/William_shakespeares_romeo_and_juliet_movie_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo + Juliet (1996) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMGRlY2UzOWYtMDk4Ni00ODQzLThjMDgtNTU0ZmQzMTM3NjcxXkEyXkFqcGc@._V1_.jpg' alt='Romeo + Juliet (1996) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4762">
+                                <meta itemprop="height" content="3083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMGRlY2UzOWYtMDk4Ni00ODQzLThjMDgtNTU0ZmQzMTM3NjcxXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo & Juliet">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91hfwZRIc5L._AC_UF894,1000_QL80_.jpg' alt='Romeo & Juliet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91hfwZRIc5L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo & Juliet (2013) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMmRjNWViZWMtNjI3OS00MTlmLTgxZmItMDFlYzc2YjRhZjY1XkEyXkFqcGc@._V1_.jpg' alt='Romeo & Juliet (2013) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMmRjNWViZWMtNjI3OS00MTlmLTgxZmItMDFlYzc2YjRhZjY1XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Shakespeare's Romeo & Juliet | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18647_p_v12_bc.jpg' alt='William Shakespeare's Romeo & Juliet | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18647_p_v12_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo and Juliet - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/640px-Romeo_and_juliet_brown.jpg' alt='Romeo and Juliet - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/640px-Romeo_and_juliet_brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo and Juliet See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tmOG4RrDS._UF1000,1000_QL80_.jpg' alt='Romeo and Juliet See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tmOG4RrDS._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shakespeare's Romeo and Juliet">
+                                <img itemprop="contentUrl url" src='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/romeo-and-juliet/romeo-and-juliet-169.jpg' alt='Shakespeare's Romeo and Juliet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kennedy Center" />
+                                </span>
+                                <a href='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/romeo-and-juliet/romeo-and-juliet-169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo and Juliet">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/m3qyzuwrf176/4nL0kD3QEaLKBDLCLsZ1tY/3f4d2ff5580f66abe69e69f195b9fb77/_Jan24_ROMEO_AND_JULIET_BranchSelects1banner.jpg?fm=webp&w=2000' alt='Romeo and Juliet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academy Museum of Motion Pictures" />
+                                </span>
+                                <a href='https://images.ctfassets.net/m3qyzuwrf176/4nL0kD3QEaLKBDLCLsZ1tY/3f4d2ff5580f66abe69e69f195b9fb77/_Jan24_ROMEO_AND_JULIET_BranchSelects1banner.jpg?fm=webp&w=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo and Juliet Framed Painting Grande - DA6004 - Design Toscano">
+                                <img itemprop="contentUrl url" src='https://cdn.designtoscano.com/product_images/romeo-and-juliet-framed-painting-grande-da6004/64ed125483ad614ae61dae2a/zoom.jpg?c=1693258323' alt='Romeo and Juliet Framed Painting Grande - DA6004 - Design Toscano'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Toscano" />
+                                </span>
+                                <a href='https://cdn.designtoscano.com/product_images/romeo-and-juliet-framed-painting-grande-da6004/64ed125483ad614ae61dae2a/zoom.jpg?c=1693258323' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

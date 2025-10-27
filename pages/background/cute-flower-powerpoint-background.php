@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute flower powerpoint background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-flower-powerpoint-background">
+                            <span itemprop="name">cute flower powerpoint background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral and Pastel Backgrounds PPT and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/87818-floral-powerpoint-backgrounds.png' alt='Free Floral and Pastel Backgrounds PPT and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/87818-floral-powerpoint-backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Ppt Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3JtNDU0LWJnLTA4Zi14LmpwZw.jpg' alt='Flower Ppt Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3JtNDU0LWJnLTA4Zi14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Powerpoint Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2013/01/Cute-Flower-Floral-Backgrounds.jpg' alt='Flowers Powerpoint Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flowers Powerpoint Templates - Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2013/01/Cute-Flower-Floral-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Ppt Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcmVtaXhwcm9qZWN0MTQyLXNhc2ktNTFfMS5qcGc.jpg' alt='Flower Ppt Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcmVtaXhwcm9qZWN0MTQyLXNhc2ktNTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plants PPT Background Images Archive - SlidesCorner">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2023/03/02-7-700x394.jpg' alt='Plants PPT Background Images Archive - SlidesCorner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2023/03/02-7-700x394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Purple Hello Spring Spring Nature Floral Powerpoint ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/89/a3/9989a395cd0895cbee6314c3e327698e.jpg' alt='Pretty Purple Hello Spring Spring Nature Floral Powerpoint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/89/a3/9989a395cd0895cbee6314c3e327698e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Floral Bouquet Background - SlidesCorner">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2022/08/02-Vermont-Pink-Floral-Background-by-SlidesCorner.jpg' alt='Spring Floral Bouquet Background - SlidesCorner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2022/08/02-Vermont-Pink-Floral-Background-by-SlidesCorner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Pencil Nature Yellow Flowers Cute Flower Powerpoint ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/cd/71/8ccd71587ceaa7faed7a65507607d9ce.jpg' alt='Color Pencil Nature Yellow Flowers Cute Flower Powerpoint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/cd/71/8ccd71587ceaa7faed7a65507607d9ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Flower Powerpoint Templates - Flowers, Fuchsia / Magenta ...">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2018/08/Cute-Pink-flowers-backgrounds.jpg' alt='Cute Pink Flower Powerpoint Templates - Flowers, Fuchsia / Magenta ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2018/08/Cute-Pink-flowers-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Flower Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37676493/classic-wedding1687776169.jpg' alt='Free Flower Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37676493/classic-wedding1687776169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

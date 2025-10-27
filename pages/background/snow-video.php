@@ -1,0 +1,129 @@
+<title>Mesmerizing Snow Video: Embrace the Winter Wonderland</title>
+                    <meta name="description" content="Discover the charm of winter with our stunning snow video. Perfect for cozy moments, this visual journey showcases breathtaking snowy landscapes and joyful winter activities. Immerse yourself in the tranquility and beauty of snow-covered scenery, making it an ideal watch for cold days.">
+                    <meta name="keywords" content="snow video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/snow-video">
+                            <span itemprop="name">snow video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Snow Video: Embrace the Winter Wonderland</h1>
+                <p>Experience the serene beauty of winter with our captivating snow video. Watch as delicate snowflakes fall gracefully, blanketing the landscape in a soft white layer. From playful snowball fights to tranquil scenes of snowy forests, this video captures the magic of winter. Let the enchanting visuals transport you to a winter wonderland.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast Falling Snow 1080p Hd Without Music - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RuqVnqNPyC0/maxresdefault.jpg' alt='Fast Falling Snow 1080p Hd Without Music - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RuqVnqNPyC0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Snowfall 2 Hours - Sound of Light Wind Breeze and Falling Snow in  Forest (Part 2)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vz91QpgUjFc/maxresdefault.jpg' alt='Relaxing Snowfall 2 Hours - Sound of Light Wind Breeze and Falling Snow in  Forest (Part 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vz91QpgUjFc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K HDR Forest Snow - Peaceful Snowing - Relaxing Winter Ambiance - Heavy  Snowfall - Snowy Trees">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0V_HNDAvuxg/maxresdefault.jpg' alt='4K HDR Forest Snow - Peaceful Snowing - Relaxing Winter Ambiance - Heavy  Snowfall - Snowy Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0V_HNDAvuxg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Snowfall - Peaceful Snowing - Snow Falling - Relaxing Winter Video -  Ultra HD - 2160p">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CUaybv1jdHw/maxresdefault.jpg' alt='4K Snowfall - Peaceful Snowing - Snow Falling - Relaxing Winter Video -  Ultra HD - 2160p'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CUaybv1jdHw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K 10 hours - Snowing on trees - relaxing, gentle, calming">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/V37Q3l6AFAU/maxresdefault.jpg' alt='4K 10 hours - Snowing on trees - relaxing, gentle, calming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/V37Q3l6AFAU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow falling with snowman Christmas Background video">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/845/056/small_2x/snow-falling-with-snowman-christmas-background-free-video.jpg' alt='Snow falling with snowman Christmas Background video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/845/056/small_2x/snow-falling-with-snowman-christmas-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pine, Forest, Snow, Winter">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2022/12/11/142579-780232342_tiny.jpg' alt='Pine, Forest, Snow, Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2022/12/11/142579-780232342_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Videos, Download The BEST Free 4k Stock Video Footage & Snow ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/855614/free-video-855614.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Snow Videos, Download The BEST Free 4k Stock Video Footage & Snow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/855614/free-video-855614.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Winter Video Snowfall Forest Use">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/17823550/thumb/1.jpg' alt='Background Winter Video Snowfall Forest Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/17823550/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter, Snow, Night, Holidays">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/01/16/31318-385855486_tiny.jpg' alt='Winter, Snow, Night, Holidays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/01/16/31318-385855486_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

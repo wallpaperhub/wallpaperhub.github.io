@@ -1,0 +1,129 @@
+<title>Stunning iPhone Galaxy Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Discover beautiful Galaxy wallpapers for your iPhone! Perfect for stargazers and lovers of cosmic art. Change your screen’s look and feel with our captivating selection. Explore now for vibrant designs that inspire and amaze!">
+                    <meta name="keywords" content="iphone:xqmjbmtjavk= galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonexqmjbmtjavk-galaxy-wallpaper">
+                            <span itemprop="name">iphone:xqmjbmtjavk= galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Galaxy Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your device with stunning Galaxy wallpaper for your iPhone! Explore vibrant celestial designs that bring the universe to your screen. Perfect for those who love astronomy and cosmic beauty, these wallpapers are not only visually striking but also inspire a sense of wonder. Elevate your aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone X Original Colorful Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-x-original-colorful-galaxy-j7yoxxz56be13sn0.jpg' alt='Iphone X Original Colorful Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-x-original-colorful-galaxy-j7yoxxz56be13sn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy wallpaper iPhone x | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/proxy.php?image=https%3A%2F%2Fuploads.tapatalk-cdn.com%2F20180129%2F832f88082f1fd9991d199b09fdfb8477.jpg&hash=e35b57c90f0d93f93c9384b11c032d2c' alt='Galaxy wallpaper iPhone x | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/proxy.php?image=https%3A%2F%2Fuploads.tapatalk-cdn.com%2F20180129%2F832f88082f1fd9991d199b09fdfb8477.jpg&hash=e35b57c90f0d93f93c9384b11c032d2c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 GALAXY | iPhone Wallpapers ideas | galaxy wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ff/18/9a/ff189a55c433e540ba63ae9c61a01c1d.jpg' alt='130 GALAXY | iPhone Wallpapers ideas | galaxy wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ff/18/9a/ff189a55c433e540ba63ae9c61a01c1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Galaxy Iphone X Amoled Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/colorful-galaxy-iphone-x-amoled-1cw2vfppo2bgjxdg.jpg' alt='Colorful Galaxy Iphone X Amoled Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/colorful-galaxy-iphone-x-amoled-1cw2vfppo2bgjxdg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Whirlpool Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/starry-whirlpool-galaxy-iphone-dsfwoht07pn7b2ko.jpg' alt='Starry Whirlpool Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/starry-whirlpool-galaxy-iphone-dsfwoht07pn7b2ko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sky Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/purple-sky-galaxy-iphone-g8y4c944vha0108l.jpg' alt='Purple Sky Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/purple-sky-galaxy-iphone-g8y4c944vha0108l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Silhouette Over Pink Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/man-silhouette-over-pink-galaxy-iphone-gopxsl3jiv7vkbg2.jpg' alt='Man Silhouette Over Pink Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/man-silhouette-over-pink-galaxy-iphone-gopxsl3jiv7vkbg2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone: Free High-Quality Galaxy Wallpapers | Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/1d/ae/d61dae49c1f881bb4b283563af4ae263.jpg' alt='iPhone: Free High-Quality Galaxy Wallpapers | Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/1d/ae/d61dae49c1f881bb4b283563af4ae263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlMTlfdGhlX3BpY3R1cmVfb2ZfZ2FsYXh5X3N5bWV0cmljX3N1cmVhbGlzdGljX3BzeV81YTI4MjZkNi1lNGM4LTQ4MWEtYmRiMS00YzE0ZTE4ZjYyNDAuanBn.jpg' alt='Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlMTlfdGhlX3BpY3R1cmVfb2ZfZ2FsYXh5X3N5bWV0cmljX3N1cmVhbGlzdGljX3BzeV81YTI4MjZkNi1lNGM4LTQ4MWEtYmRiMS00YzE0ZTE4ZjYyNDAuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy wallpaper iPhone x | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/8359f6cf-6e96-4c0f-98b2-7e6014643140-jpeg.749026/' alt='Galaxy wallpaper iPhone x | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/8359f6cf-6e96-4c0f-98b2-7e6014643140-jpeg.749026/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

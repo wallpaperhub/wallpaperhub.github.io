@@ -1,0 +1,129 @@
+<title>Discover the Magical Adventures of Shantae</title>
+                    <meta name="description" content="Explore the enchanting world of Shantae, the half-genie hero! Dive into thrilling gameplay, vibrant art, and empower yourself through her magical adventures. Perfect for fans and newcomers alike, this beloved franchise promises excitement at every turn!">
+                    <meta name="keywords" content="shantae">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shantae">
+                            <span itemprop="name">shantae</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magical Adventures of Shantae</h1>
+                <p>Shantae is a beloved video game character and franchise known for its engaging platforming gameplay and vibrant art style. First debuting in 2002, Shantae, a half-genie hero, uses her magical abilities to battle evil and rescue her friends. The series highlights themes of empowerment, exploration, and nostalgia, appealing to fans of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/89/Shantae_hgh.png' alt='Shantae (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="233">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/89/Shantae_hgh.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/shantae/images/9/92/Shantae_and_the_Seven_Sirens_Official_Artwork.png/revision/latest/smart/width/250/height/250?cb=20231006174959' alt='Shantae Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/shantae/images/9/92/Shantae_and_the_Seven_Sirens_Official_Artwork.png/revision/latest/smart/width/250/height/250?cb=20231006174959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae">
+                                <img itemprop="contentUrl url" src='https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/en_US/games/switch/s/shantae-switch/description-image' alt='Shantae'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="817">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo" />
+                                </span>
+                                <a href='https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/en_US/games/switch/s/shantae-switch/description-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Shantae: Half-Genie Hero - Ultimate Edition - Nintendo Switch :  Marvelous USA Inc: Everything Else">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91vp4Gugx1L.jpg' alt='Amazon.com: Shantae: Half-Genie Hero - Ultimate Edition - Nintendo Switch :  Marvelous USA Inc: Everything Else'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91vp4Gugx1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae (Super Smash Bros. Infinite Beyond) | Super Smash Bros ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/super-smash-bros-infinite/images/e/e9/SSBIB_Shantae.png/revision/latest?cb=20231224005732' alt='Shantae (Super Smash Bros. Infinite Beyond) | Super Smash Bros ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Smash Bros. Infinite Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/super-smash-bros-infinite/images/e/e9/SSBIB_Shantae.png/revision/latest?cb=20231224005732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm looking to purchase my first shantae game, which is a better ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/u2j2jksmsyc51.jpg?width=640&crop=smart&auto=webp&s=9772e5f9e9a69181fa133a9a871cb9b7e2b173d5' alt='I'm looking to purchase my first shantae game, which is a better ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/u2j2jksmsyc51.jpg?width=640&crop=smart&auto=webp&s=9772e5f9e9a69181fa133a9a871cb9b7e2b173d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae and the Pirate's Curse for Nintendo Switch - Nintendo Official Site">
+                                <img itemprop="contentUrl url" src='https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000008545/13eab61b97be0d7032f1065f07a4402d1bb5b283dc65e1b1fcbb85d45ab07341' alt='Shantae and the Pirate's Curse for Nintendo Switch - Nintendo Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo" />
+                                </span>
+                                <a href='https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000008545/13eab61b97be0d7032f1065f07a4402d1bb5b283dc65e1b1fcbb85d45ab07341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae Review - Review - Nintendo World Report">
+                                <img itemprop="contentUrl url" src='http://www.nintendoworldreport.com/media/56977/4/1.jpg' alt='Shantae Review - Review - Nintendo World Report'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo World Report" />
+                                </span>
+                                <a href='http://www.nintendoworldreport.com/media/56977/4/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae | Shantae Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/shantae/images/4/47/Illustrator_practice_shantae_by_nyassassin-d326npa.png/revision/latest?cb=20190610210828' alt='Shantae | Shantae Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="4352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shantae Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/shantae/images/4/47/Illustrator_practice_shantae_by_nyassassin-d326npa.png/revision/latest?cb=20190610210828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shantae FanArt - Art by IanKS (ME) : r/Shantae">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/shantae-fanart-art-by-ianks-me-v0-rb0gpdt9zjxa1.png?width=640&crop=smart&auto=webp&s=a061fcc190a3457bae42349e84ece4620dff7c28' alt='Shantae FanArt - Art by IanKS (ME) : r/Shantae'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/shantae-fanart-art-by-ianks-me-v0-rb0gpdt9zjxa1.png?width=640&crop=smart&auto=webp&s=a061fcc190a3457bae42349e84ece4620dff7c28' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

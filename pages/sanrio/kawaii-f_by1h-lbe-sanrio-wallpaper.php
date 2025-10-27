@@ -1,0 +1,129 @@
+<title>Ultimate Kawaii Sanrio Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore the cutest collection of Sanrio wallpapers! Perfect for fans of Hello Kitty and more, these vibrant designs will brighten your screen and showcase your love for kawaii culture. Download now for a daily dose of adorable charm!">
+                    <meta name="keywords" content="kawaii:-f_by1h-lbe= sanrio wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/kawaii-f_by1h-lbe-sanrio-wallpaper">
+                            <span itemprop="name">kawaii:-f_by1h-lbe= sanrio wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Kawaii Sanrio Wallpapers for Your Devices</h1>
+                <p>Discover the cuteness of kawaii with Sanrio wallpapers! Adorn your devices with vibrant designs featuring beloved characters like Hello Kitty and friends. These wallpapers bring a touch of joy to your everyday routine, perfect for those who adore all things adorable. Download your favorite Sanrio wallpaper and embrace the kawaii lifestyle!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii sanrio wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/0a/22/f50a22bc6b9dc0f6c118914496d9b226.jpg' alt='Kawaii sanrio wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/0a/22/f50a22bc6b9dc0f6c118914496d9b226.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sanrio Fruits Collection - 10 Wallpapers - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/sanrio-watercolour-fruits-wallpaper-kawaii-hoshi-desktop.jpg' alt='Cute Sanrio Fruits Collection - 10 Wallpapers - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/sanrio-watercolour-fruits-wallpaper-kawaii-hoshi-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/1b/88/6f1b88f3bc5e475208ac7c5a8bfddbae.jpg' alt='Sanrio Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/1b/88/6f1b88f3bc5e475208ac7c5a8bfddbae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii wallpapers page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/be/b0/20beb016fe265aa1020af6aeba267c5b.jpg' alt='Kawaii wallpapers page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/be/b0/20beb016fe265aa1020af6aeba267c5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/c2/ee/7fc2eea4277daa317fb3ac829305ae05.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/c2/ee/7fc2eea4277daa317fb3ac829305ae05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii sanrio wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/29/b8/5d29b8ed1e1865da3039901d05d29dd7.jpg' alt='Kawaii sanrio wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/29/b8/5d29b8ed1e1865da3039901d05d29dd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii hello kitty cute wallpaper by greentea45 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautnn-f31d7e31-7289-4588-bd8f-57671ae13e6d.jpg/v1/fill/w_564,h_1003,q_75,strp/kawaii_hello_kitty_cute_wallpaper_by_greentea45_deautnn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMyIsInBhdGgiOiJcL2ZcL2E1NzU1NzM0LWQ2M2ItNGU4YS05YWQ0LWU0YjM3NWM5ZGIwYlwvZGVhdXRubi1mMzFkN2UzMS03Mjg5LTQ1ODgtYmQ4Zi01NzY3MWFlMTNlNmQuanBnIiwid2lkdGgiOiI8PTU2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.awWYnW0QXWRwoaS30EJKWNxlprORP0rfhrtilNUCSqE' alt='kawaii hello kitty cute wallpaper by greentea45 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautnn-f31d7e31-7289-4588-bd8f-57671ae13e6d.jpg/v1/fill/w_564,h_1003,q_75,strp/kawaii_hello_kitty_cute_wallpaper_by_greentea45_deautnn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMyIsInBhdGgiOiJcL2ZcL2E1NzU1NzM0LWQ2M2ItNGU4YS05YWQ0LWU0YjM3NWM5ZGIwYlwvZGVhdXRubi1mMzFkN2UzMS03Mjg5LTQ1ODgtYmQ4Zi01NzY3MWFlMTNlNmQuanBnIiwid2lkdGgiOiI8PTU2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.awWYnW0QXWRwoaS30EJKWNxlprORP0rfhrtilNUCSqE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/d1/69/d6d1694be95aa0277426421fb451629b.jpg' alt='Sanrio Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/d1/69/d6d1694be95aa0277426421fb451629b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Hello Kitty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-hello-kitty-985-x-964-wallpaper-1i3d6htgbzu0t0tn.jpg' alt='100+] Kawaii Hello Kitty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-hello-kitty-985-x-964-wallpaper-1i3d6htgbzu0t0tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x1080px, 4K free download | Hello Kitty N-N, hello kitty ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/664/78/HD-wallpaper-hello-kitty-n-n-hello-kitty-kawaii.jpg' alt='3840x1080px, 4K free download | Hello Kitty N-N, hello kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/664/78/HD-wallpaper-hello-kitty-n-n-hello-kitty-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

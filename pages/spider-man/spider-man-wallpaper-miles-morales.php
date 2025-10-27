@@ -1,0 +1,129 @@
+<title>Stunning Miles Morales Spider-Man Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover exclusive Miles Morales Spider-Man wallpapers that elevate your screen. Ideal for fans seeking vibrant, high-quality images that showcase the character's unique style. Enhance your device's look effortlessly while celebrating the legacy of Spider-Man with these captivating designs.">
+                    <meta name="keywords" content="spider-man wallpaper miles morales">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-wallpaper-miles-morales">
+                            <span itemprop="name">spider-man wallpaper miles morales</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Miles Morales Spider-Man Wallpapers for Your Device</h1>
+                <p>Transform your device with striking Miles Morales Spider-Man wallpapers! Experience the vibrant world of this iconic character with stunning visuals that capture his energy and style. Perfect for fans of all ages, these wallpapers allow you to express your admiration for Spider-Man while keeping your screens fresh and dynamic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Miles Morales PS5 Box Art Wallpaper : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rfp5iiwah3a51.png?width=1440&format=png&auto=webp&s=1d501b674f9d9d5f63687c46d40963b44c2e413e' alt='Spider-Man: Miles Morales PS5 Box Art Wallpaper : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rfp5iiwah3a51.png?width=1440&format=png&auto=webp&s=1d501b674f9d9d5f63687c46d40963b44c2e413e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MIles Morales Spider-Man Into the spiderverse wallpaper phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/08/8c/f1088c819d8f32d7503f505da6816e71.jpg' alt='MIles Morales Spider-Man Into the spiderverse wallpaper phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/08/8c/f1088c819d8f32d7503f505da6816e71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MILES MORALES SPIDER-MAN - Verity Lane Blog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0b/fa/fe/0bfafe0f38d659f08bb6d363a14b7ea6.jpg' alt='MILES MORALES SPIDER-MAN - Verity Lane Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0b/fa/fe/0bfafe0f38d659f08bb6d363a14b7ea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miles Morales Movie Spider-Man: Into The Spider-Verse HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/131/1316969.png' alt='Download Miles Morales Movie Spider-Man: Into The Spider-Verse HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2881">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/131/1316969.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales wallpaper : r/Spiderman">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8if58wk1iz951.jpg' alt='Miles Morales wallpaper : r/Spiderman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8if58wk1iz951.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Wallpaper 4K, Spider-Man: Into the Spider-Verse">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/miles-morales-spider-man-into-the-spider-verse-black-1284x2778-2928.png' alt='Miles Morales Wallpaper 4K, Spider-Man: Into the Spider-Verse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/miles-morales-spider-man-into-the-spider-verse-black-1284x2778-2928.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Miles Morales Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/miles-morales-background-j75mb4xx68x2kem5.jpg' alt='200+] Miles Morales Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/miles-morales-background-j75mb4xx68x2kem5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Spiderman Wallpaper, City Wall Mural for Boy Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7604862/r/il/f2ece2/6193980534/il_570xN.6193980534_1820.jpg' alt='Miles Morales Spiderman Wallpaper, City Wall Mural for Boy Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7604862/r/il/f2ece2/6193980534/il_570xN.6193980534_1820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Spider-Man Miles Morales 2020 Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/4k-spider-man-miles-morales-2020_bGlramaUmZqaraWkpJRobWllrWdma2U.jpg' alt='4K Spider-Man Miles Morales 2020 Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/4k-spider-man-miles-morales-2020_bGlramaUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hanging Spider Man Miles Morales iPhone Digital ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/miles-morales-iphone-7zrgv4pvdrzlkmns.jpg' alt='Download Hanging Spider Man Miles Morales iPhone Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/miles-morales-iphone-7zrgv4pvdrzlkmns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

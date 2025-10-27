@@ -1,0 +1,129 @@
+<title>"The Impact of Yellow Graffiti: Vibrance in Urban Art"</title>
+                    <meta name="description" content="Discover how yellow graffiti brightens cityscapes with its bold messages and artistic flair. This vibrant street art not only enhances the visual appeal but also conveys powerful emotions and social commentary. Explore the significance and creativity behind yellow graffiti in urban environments.">
+                    <meta name="keywords" content="yellow graffiti">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-graffiti">
+                            <span itemprop="name">yellow graffiti</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Impact of Yellow Graffiti: Vibrance in Urban Art"</h1>
+                <p>Yellow graffiti splashes vibrant energy across urban landscapes, transforming dull walls into canvases of expression. Often seen as a symbol of rebellion and creativity, the bright hue captures attention and evokes emotion. Artists use yellow to convey joy, hope, or caution, making their mark in a visually striking way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Yellow">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64852/graffiti-brick-wall-yellow.jpg?h=699&q=85' alt='Graffiti Brick Wall - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64852/graffiti-brick-wall-yellow.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper White and Yellow Graffiti u71807">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/14000/14740/u71807pig2.jpg' alt='Wall Mural Photo Wallpaper White and Yellow Graffiti u71807'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/14000/14740/u71807pig2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extreme yellow graffiti">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/04/b1/7604b17f4786e223d4cea5f10d9f8a11.jpg' alt='Extreme yellow graffiti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/04/b1/7604b17f4786e223d4cea5f10d9f8a11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Graffiti: Over 124,483 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/black-yellow-textured-vector-grungy-600w-2233212149.jpg' alt='Yellow Graffiti: Over 124,483 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/black-yellow-textured-vector-grungy-600w-2233212149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="169,467 Yellow Background Graffiti Images, Stock Photos, 3D ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2286346427/display_1500/stock-vector-groovy-smile-seamless-pattern-in-urban-street-art-style-on-yellow-background-graphic-underground-2286346427.jpg' alt='169,467 Yellow Background Graffiti Images, Stock Photos, 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2286346427/display_1500/stock-vector-groovy-smile-seamless-pattern-in-urban-street-art-style-on-yellow-background-graphic-underground-2286346427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRAFFITI YELLOW">
+                                <img itemprop="contentUrl url" src='https://wrapchange.com/cdn/shop/products/GRAFFITIYELLOWUPCLOSE_1200x.jpg?v=1661881616' alt='GRAFFITI YELLOW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wrap Change" />
+                                </span>
+                                <a href='https://wrapchange.com/cdn/shop/products/GRAFFITIYELLOWUPCLOSE_1200x.jpg?v=1661881616' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popout Graffiti - Yellow by Michael Schart">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/popout-graffiti-yellow-michael-schart.jpg' alt='Popout Graffiti - Yellow by Michael Schart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/popout-graffiti-yellow-michael-schart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Yellow">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/64852/landscape/wallpaper/room48.jpg?w=2000&q=80' alt='Graffiti Brick Wall - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/64852/landscape/wallpaper/room48.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Abstract Urban Graffiti Street Art Word Tesl Lettering ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H24HFA/yellow-abstract-urban-graffiti-street-art-word-tesl-lettering-vector-illustration-2H24HFA.jpg' alt='Yellow Abstract Urban Graffiti Street Art Word Tesl Lettering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H24HFA/yellow-abstract-urban-graffiti-street-art-word-tesl-lettering-vector-illustration-2H24HFA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Graffiti Typography Vector, Yellow, Graffiti, Typography ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20231202/original/pngtree-yellow-graffiti-typography-vector-png-image_13754571.png' alt='Yellow Graffiti Typography Vector, Yellow, Graffiti, Typography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20231202/original/pngtree-yellow-graffiti-typography-vector-png-image_13754571.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

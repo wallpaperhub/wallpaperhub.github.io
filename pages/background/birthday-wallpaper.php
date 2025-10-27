@@ -1,0 +1,129 @@
+<title>Festive Birthday Wallpapers: Celebrate Every Day!</title>
+                    <meta name="description" content="Discover vibrant and fun birthday wallpapers to brighten your special day! Perfect for your phone or computer, these designs bring joy and celebration to your digital devices. Explore our collection and find the ideal wallpaper to make your birthday unforgettable!">
+                    <meta name="keywords" content="birthday wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-wallpaper">
+                            <span itemprop="name">birthday wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Birthday Wallpapers: Celebrate Every Day!</h1>
+                <p>Birthday wallpapers can transform your digital space into a celebration hub! From vibrant balloons to charming cake designs, these wallpapers add a festive touch to your devices. Whether you're planning a party or just want to celebrate your special day every day, a personalized birthday wallpaper is a perfect choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 IPHONE~BIRTHDAY WALLPAPERS ideas | birthday wallpaper, birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/d7/a6/c5d7a6ba941b70eaa62b7fe6dcf036d8.jpg' alt='29 IPHONE~BIRTHDAY WALLPAPERS ideas | birthday wallpaper, birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/d7/a6/c5d7a6ba941b70eaa62b7fe6dcf036d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Wallpaper" Images – Browse 1,229 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/31/41/51/360_F_731415126_tYNLFpCipY3ZH4g27WsXYCedGRZshmfa.jpg' alt='Birthday Wallpaper" Images – Browse 1,229 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/31/41/51/360_F_731415126_tYNLFpCipY3ZH4g27WsXYCedGRZshmfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDUtamotMDEtZi1sLmpwZw.jpg' alt='Happy Birthday Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDUtamotMDEtZi1sLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Happy Birthday Background, Happy Birthday, Party ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250103/original/pngtree-beautiful-happy-birthday-picture-image_15434364.jpg' alt='Beautiful Happy Birthday Background, Happy Birthday, Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250103/original/pngtree-beautiful-happy-birthday-picture-image_15434364.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Background Images | Free iPhone & Zoom HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDUtc2NlbmUtdy0wMDJjLXgtbDBhbDBxdzEuanBn.jpg' alt='Birthday Background Images | Free iPhone & Zoom HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDUtc2NlbmUtdy0wMDJjLXgtbDBhbDBxdzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canvas Wall Art Happy birthday wallpapers greeting cards 3D happy ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/07/01/17/96/1000_F_701179603_LiAMmOkR0mYD5mXcuGwUiAJedj6DlMHs.jpg' alt='Canvas Wall Art Happy birthday wallpapers greeting cards 3D happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/07/01/17/96/1000_F_701179603_LiAMmOkR0mYD5mXcuGwUiAJedj6DlMHs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="580 Birthday Wishes ideas | birthday wishes, happy birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8f/f9/55/8ff95562195a2a41bd1c2786262e5a39.jpg' alt='580 Birthday Wishes ideas | birthday wishes, happy birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8f/f9/55/8ff95562195a2a41bd1c2786262e5a39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Backgrounds - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2023/06/Minimalist-Balloon-Birthday-Background.jpg' alt='Birthday Backgrounds - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2023/06/Minimalist-Balloon-Birthday-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Happy birthday images, wallpapers, pictures, photos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=645718033590194' alt='Profile for Happy birthday images, wallpapers, pictures, photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=645718033590194' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Special Happy Birthday image with balloons and gift box wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://asset.gecdesigns.com/img/wallpapers/special-happy-birthday-image-with-balloons-and-gift-box-wallpaper-sr07112413-cover.webp' alt='Special Happy Birthday image with balloons and gift box wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GEC Designs" />
+                                </span>
+                                <a href='https://asset.gecdesigns.com/img/wallpapers/special-happy-birthday-image-with-balloons-and-gift-box-wallpaper-sr07112413-cover.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

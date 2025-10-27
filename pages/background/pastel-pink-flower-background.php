@@ -1,0 +1,129 @@
+<title>Pastel Pink Flower Background: Soft Elegance for Any Occasion</title>
+                    <meta name="description" content="Discover the beauty of a pastel pink flower background, ideal for adding a touch of elegance to your designs or events. Perfect for weddings, stationery, and digital projects, these soft blooms evoke feelings of joy and tranquility. Enhance your visuals with this dreamy floral backdrop today!">
+                    <meta name="keywords" content="pastel pink flower background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-pink-flower-background">
+                            <span itemprop="name">pastel pink flower background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Pink Flower Background: Soft Elegance for Any Occasion</h1>
+                <p>A pastel pink flower background brings a soft, romantic elegance to any setting. Perfect for weddings, celebrations, or digital designs, this backdrop enhances visuals with a touch of whimsy and tranquility. Soft pink blooms evoke feelings of joy and serenity, making it an ideal choice for stationery, websites, or photography.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable pink floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGSU3gT39I/1/0/1143w/canva-pink-floral-watercolor-background-flyer-_qa_7oHxRms.jpg' alt='Free and customizable pink floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGSU3gT39I/1/0/1143w/canva-pink-floral-watercolor-background-flyer-_qa_7oHxRms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink flowers background, top view, Layout or greeting card ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/79/50/16/1000_F_179501633_sXHYk55202e3sDIdMQkQZKCjKx1tkh0S.jpg' alt='Pastel pink flowers background, top view, Layout or greeting card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/79/50/16/1000_F_179501633_sXHYk55202e3sDIdMQkQZKCjKx1tkh0S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Pink Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' alt='Peony Bouquet - Pink Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Flower Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/820/184/small_2x/flowers-composition-gypsophila-flowers-on-pastel-pink-background-flat-lay-top-view-copy-space-photo.jpg' alt='Aesthetic Flower Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/820/184/small_2x/flowers-composition-gypsophila-flowers-on-pastel-pink-background-flat-lay-top-view-copy-space-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Watercolor Roses Background | Flowers Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18820237/r/il/783ebd/2827919690/il_fullxfull.2827919690_eetl.jpg' alt='Pastel Pink Watercolor Roses Background | Flowers Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18820237/r/il/783ebd/2827919690/il_fullxfull.2827919690_eetl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Composition. Hydrangea Flowers On Pastel Pink Background ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/povareshka3/povareshka31906/povareshka3190600016/124193979-flowers-composition-hydrangea-flowers-on-pastel-pink-background-flat-lay-top-view-copy-space.jpg' alt='Flowers Composition. Hydrangea Flowers On Pastel Pink Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/povareshka3/povareshka31906/povareshka3190600016/124193979-flowers-composition-hydrangea-flowers-on-pastel-pink-background-flat-lay-top-view-copy-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You're always beautiful">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/20/53/f820532474952075650d688834922e91.jpg' alt='You're always beautiful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/20/53/f820532474952075650d688834922e91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="238,500+ Pink Flower Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393912497/vector/pink-watercolor-splash-background-with-line-art-rose.jpg?s=612x612&w=0&k=20&c=hl_I2tAWeoJKjTesDRzterx4h6EIDy8THPWeGoJzTjE=' alt='238,500+ Pink Flower Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393912497/vector/pink-watercolor-splash-background-with-line-art-rose.jpg?s=612x612&w=0&k=20&c=hl_I2tAWeoJKjTesDRzterx4h6EIDy8THPWeGoJzTjE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Pink Floral Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/514/232/small_2x/ai-generated-delicate-blush-pink-and-ivory-floral-arrangement-free-photo.jpg' alt='Blush Pink Floral Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/514/232/small_2x/ai-generated-delicate-blush-pink-and-ivory-floral-arrangement-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Floral Background with White Flowers and Ribbon Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pastel-pink-floral-background-white-flowers-ribbon-top-view-116073686.jpg' alt='Pastel Pink Floral Background with White Flowers and Ribbon Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pastel-pink-floral-background-white-flowers-ribbon-top-view-116073686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

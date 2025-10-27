@@ -1,0 +1,129 @@
+<title>Transformative Healing Backgrounds for Wellness</title>
+                    <meta name="description" content="Discover the power of healing backgrounds designed to enhance your mental well-being. Our collection promotes relaxation and mindfulness with serene visuals perfect for any mindful practice. Experience tranquility with every glance and make a positive impact on your healing journey today!">
+                    <meta name="keywords" content="healing backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/healing-backgrounds">
+                            <span itemprop="name">healing backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transformative Healing Backgrounds for Wellness</h1>
+                <p>Healing backgrounds provide a serene and tranquil setting to promote relaxation and mental well-being. Whether it's soft pastel colors, natural landscapes, or abstract designs, these visuals can evoke calmness, reduce stress, and inspire healing. Embrace the power of soothing imagery to enhance your mindfulness practice and overall wellness journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiritual Healing Background Images – Browse 125,001 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/51/76/74/360_F_451767434_QxmRNSRa3Vj3veaEBm9pKgBIvtwMwDoF.jpg' alt='Spiritual Healing Background Images – Browse 125,001 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/51/76/74/360_F_451767434_QxmRNSRa3Vj3veaEBm9pKgBIvtwMwDoF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiritual Healing Background Images – Browse 125,001 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/98/70/86/360_F_298708695_NNm596MbwdmTnHf2aiTURRWiaIlL7NcK.jpg' alt='Spiritual Healing Background Images – Browse 125,001 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/98/70/86/360_F_298708695_NNm596MbwdmTnHf2aiTURRWiaIlL7NcK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Energy healing hands, spiritual iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5f/c6/a5/5fc6a5c5948b679887794d6611233bc5.jpg' alt='Download premium image of Energy healing hands, spiritual iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5f/c6/a5/5fc6a5c5948b679887794d6611233bc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiritual Healing Life Concept Silhouette Alone Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/spiritual-healing-life-concept-silhouette-260nw-443439085.jpg' alt='Spiritual Healing Life Concept Silhouette Alone Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/spiritual-healing-life-concept-silhouette-260nw-443439085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 - Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4bwxQe6Y/1/0/900w/canva-sky-blue-%26-orange-clean-healing-phone-wallpaper-dipF0XJscbM.jpg' alt='Page 7 - Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4bwxQe6Y/1/0/900w/canva-sky-blue-%26-orange-clean-healing-phone-wallpaper-dipF0XJscbM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Healing Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673264933044-051e3be5dcbc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGVhbGluZ3xlbnwwfHwwfHx8MA%3D%3D' alt='750+ Healing Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673264933044-051e3be5dcbc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGVhbGluZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Healing iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/f2/d7/33f2d781ce0cf82717d504d8741be56b.jpg' alt='Healing iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/f2/d7/33f2d781ce0cf82717d504d8741be56b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Healing Background Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/inspirational-background-blooming-lotus-quote-260nw-2522221377.jpg' alt='Healing Background Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/inspirational-background-blooming-lotus-quote-260nw-2522221377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="171,400+ Healing Nature Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1139921209/photo/spa-oriental-background.jpg?s=612x612&w=0&k=20&c=pHGM-YehrDbvVZ7S13bConc83kQz0_AXVPQ1UCmIRPo=' alt='171,400+ Healing Nature Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1139921209/photo/spa-oriental-background.jpg?s=612x612&w=0&k=20&c=pHGM-YehrDbvVZ7S13bConc83kQz0_AXVPQ1UCmIRPo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,900+ Energy Healing Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1166079645/photo/mysterious-power-in-the-hands.jpg?s=612x612&w=0&k=20&c=t97X_-UqFHvEQryuqOEc9HY_trztDylBCRJhdjyjw4Q=' alt='11,900+ Energy Healing Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1166079645/photo/mysterious-power-in-the-hands.jpg?s=612x612&w=0&k=20&c=t97X_-UqFHvEQryuqOEc9HY_trztDylBCRJhdjyjw4Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

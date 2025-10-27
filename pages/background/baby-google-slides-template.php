@@ -1,0 +1,129 @@
+<title>Charming Baby Google Slides Template for All Occasions</title>
+                    <meta name="description" content="Elevate your presentations with our charming baby Google Slides template! Perfect for baby announcements or milestone celebrations, this user-friendly design helps you create stunning slides effortlessly. Customize it to showcase your sweetest moments in a professional and engaging way!">
+                    <meta name="keywords" content="baby google slides template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baby-google-slides-template">
+                            <span itemprop="name">baby google slides template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Baby Google Slides Template for All Occasions</h1>
+                <p>Discover our adorable baby Google Slides template, designed specifically for parents and educators. Featuring playful designs and customizable layouts, this template makes it easy to create engaging presentations for baby announcements, milestones, or educational purposes. Perfect for sharing all those precious moments!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free baby-themed templates for Google Slides and PPT">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/30912370/watercolor-baby-toys-minitheme1675671685.jpg' alt='Free baby-themed templates for Google Slides and PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/30912370/watercolor-baby-toys-minitheme1675671685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newborn Baby Free Google Slides Theme and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2021/12/Newborn-Baby-Free-Google-Slides-Theme-PowerPoint-Template.png' alt='Newborn Baby Free Google Slides Theme and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2021/12/Newborn-Baby-Free-Google-Slides-Theme-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shower Google Slides Theme and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/62026/conversions/0-baby-shower-thumb.jpg' alt='Baby Shower Google Slides Theme and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/62026/conversions/0-baby-shower-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby - Free Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2021/12/Newborn-Baby-Free-Google-Slides-Theme-and-PowerPoint-Template.png' alt='Baby - Free Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2021/12/Newborn-Baby-Free-Google-Slides-Theme-and-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free baby-themed templates for Google Slides and PPT">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/13088132/stages-of-a-baby1635414181.jpg' alt='Free baby-themed templates for Google Slides and PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/13088132/stages-of-a-baby1635414181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shower Google Slides Theme and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/62031/responsive-images/5-baby-shower___media_library_original_655_368.jpg' alt='Baby Shower Google Slides Theme and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/62031/responsive-images/5-baby-shower___media_library_original_655_368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shower Free Google Slides Theme and PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2022/03/Baby-Shower-Free-Google-Slides-Theme.png' alt='Baby Shower Free Google Slides Theme and PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2022/03/Baby-Shower-Free-Google-Slides-Theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free baby-themed templates for Google Slides and PPT">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37553819/newborn-care-center1687412672.jpg' alt='Free baby-themed templates for Google Slides and PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37553819/newborn-care-center1687412672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby - Free Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2022/12/Meet-Newborn-Baby-Free-Google-Slides-PowerPoint-Template.png' alt='Baby - Free Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2022/12/Meet-Newborn-Baby-Free-Google-Slides-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free baby-themed templates for Google Slides and PPT">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/31701466/my-babys-yearbook1677228120.jpg' alt='Free baby-themed templates for Google Slides and PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/31701466/my-babys-yearbook1677228120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

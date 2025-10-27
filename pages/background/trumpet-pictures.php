@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="trumpet pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trumpet-pictures">
+                            <span itemprop="name">trumpet pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trumpet - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/12/Yamaha_Trumpet_YTR-8335LA_crop.jpg' alt='Trumpet - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/12/Yamaha_Trumpet_YTR-8335LA_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handcrafted Eb/D Trumpet – R320 P">
+                                <img itemprop="contentUrl url" src='http://www.wessex-tubas.com/cdn/shop/products/R320-GBTrumpetfrontleft.jpg?v=1740998911' alt='Handcrafted Eb/D Trumpet – R320 P'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4472">
+                                <meta itemprop="height" content="2981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wessex Tubas" />
+                                </span>
+                                <a href='http://www.wessex-tubas.com/cdn/shop/products/R320-GBTrumpetfrontleft.jpg?v=1740998911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Triumph Series Trumpet">
+                                <img itemprop="contentUrl url" src='https://www.victorymusical.com/cdn/shop/files/image_5951fa11-c129-4d15-9998-dc8faa288682.png?v=1682816212&width=1946' alt='Triumph Series Trumpet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Victory Musical Instruments" />
+                                </span>
+                                <a href='https://www.victorymusical.com/cdn/shop/files/image_5951fa11-c129-4d15-9998-dc8faa288682.png?v=1682816212&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Trumpet - All You Need to Know! - Musical Instrument Hire Co">
+                                <img itemprop="contentUrl url" src='https://musicalinstrumenthire.com/wp-content/uploads/2018/07/Trumpet.png' alt='The Trumpet - All You Need to Know! - Musical Instrument Hire Co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1346">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Musical Instrument Hire" />
+                                </span>
+                                <a href='https://musicalinstrumenthire.com/wp-content/uploads/2018/07/Trumpet.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: LeSage Bb Trumpet - Standard Trumpet for Student Beginner,  Light Blue with Case, 7C Mouthpiece, Valve Oil, Cleaning Kit : Musical ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610P5uREbbL.jpg' alt='Amazon.com: LeSage Bb Trumpet - Standard Trumpet for Student Beginner,  Light Blue with Case, 7C Mouthpiece, Valve Oil, Cleaning Kit : Musical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610P5uREbbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types Of Trumpet - B-flat, C, D, F, Piccolo Trumpet, Bass Trumpet">
+                                <img itemprop="contentUrl url" src='https://www.wagner-tuba.com/rhapsody/wp-content/uploads/2023/03/trumpet-pb40.jpg' alt='Types Of Trumpet - B-flat, C, D, F, Piccolo Trumpet, Bass Trumpet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wagner Tuba" />
+                                </span>
+                                <a href='https://www.wagner-tuba.com/rhapsody/wp-content/uploads/2023/03/trumpet-pb40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trumpet Images – Browse 274,864 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/38/09/10/360_F_38091028_T84hUIF8GegOCY7kbQssiFKDGOuv5YiP.jpg' alt='Trumpet Images – Browse 274,864 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/38/09/10/360_F_38091028_T84hUIF8GegOCY7kbQssiFKDGOuv5YiP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handcrafted C Trumpet - R32 P">
+                                <img itemprop="contentUrl url" src='https://us.wessex-tubas.com/cdn/shop/files/R32L-C-trumpet-header.jpg?crop=top&v=1653405452&width=3000' alt='Handcrafted C Trumpet - R32 P'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wessex Tubas" />
+                                </span>
+                                <a href='https://us.wessex-tubas.com/cdn/shop/files/R32L-C-trumpet-header.jpg?crop=top&v=1653405452&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trumpet Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/trumpet-instrument-musical_24877-82253.jpg' alt='Trumpet Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/trumpet-instrument-musical_24877-82253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Modern Trumpet — Robb Stewart Brass Instruments">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/585eae64cd0f68c6c06ab86e/6554d9b4-5a28-4a33-b76b-2343e1f26607/BengeBesson1.JPG' alt='History of the Modern Trumpet — Robb Stewart Brass Instruments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2397">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robb Stewart Brass Instruments" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/585eae64cd0f68c6c06ab86e/6554d9b4-5a28-4a33-b76b-2343e1f26607/BengeBesson1.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

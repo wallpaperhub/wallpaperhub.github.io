@@ -1,0 +1,129 @@
+<title>Explore Little Big Planet: A Creative Platforming Adventure</title>
+                    <meta name="description" content="Discover Little Big Planet, a unique platform game where creativity meets fun! Navigate through imaginative levels, customize your character, and share your creations with others. Join the adventure and unleash your imagination in this delightful world!">
+                    <meta name="keywords" content="little big planet background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/little-big-planet-background">
+                            <span itemprop="name">little big planet background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Little Big Planet: A Creative Platforming Adventure</h1>
+                <p>Little Big Planet is a whimsical platforming game featuring a charming world made of fabric and craft materials. Players explore diverse environments, overcome creative challenges, and customize characters named Sackboy. The game promotes creativity and collaboration, allowing users to design their own levels and share them with the community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made these 2 wallpapers! Fell free to use them in your ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-made-these-2-wallpapers-fell-free-to-use-them-in-your-v0-vwz22qn9powa1.png?width=1920&format=png&auto=webp&s=fc6e71c7262e56db01349e562717e0a8843ccf40' alt='Just made these 2 wallpapers! Fell free to use them in your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-made-these-2-wallpapers-fell-free-to-use-them-in-your-v0-vwz22qn9powa1.png?width=1920&format=png&auto=webp&s=fc6e71c7262e56db01349e562717e0a8843ccf40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | LittleBigPlanet Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/littlebigplanet/images/e/e6/Land_of_Odd.png/revision/latest/scale-to-width-down/985?cb=20230112045542' alt='Backgrounds | LittleBigPlanet Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LittleBigPlanet Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/littlebigplanet/images/e/e6/Land_of_Odd.png/revision/latest/scale-to-width-down/985?cb=20230112045542' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LittleBigPlanet HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/786/78646.jpg' alt='LittleBigPlanet HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/786/78646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made these 2 wallpapers! Fell free to use them in your ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-made-these-2-wallpapers-fell-free-to-use-them-in-your-v0-031rozytoowa1.png?width=1920&format=png&auto=webp&s=c6a62a78ddad141434a5980323312b7961a10eeb' alt='Just made these 2 wallpapers! Fell free to use them in your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-made-these-2-wallpapers-fell-free-to-use-them-in-your-v0-031rozytoowa1.png?width=1920&format=png&auto=webp&s=c6a62a78ddad141434a5980323312b7961a10eeb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | LittleBigPlanet Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/littlebigplanet/images/d/de/Coaster_Valley.png/revision/latest/scale-to-width-down/985?cb=20230112045752' alt='Backgrounds | LittleBigPlanet Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LittleBigPlanet Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/littlebigplanet/images/d/de/Coaster_Valley.png/revision/latest/scale-to-width-down/985?cb=20230112045752' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game LittleBigPlanet HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/616/61692.jpg' alt='Download Video Game LittleBigPlanet HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/616/61692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LittleBigPlanet Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/8/0/918414-2160x3840-phone-4k-littlebigplanet-wallpaper-image.jpg' alt='LittleBigPlanet Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/8/0/918414-2160x3840-phone-4k-littlebigplanet-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Short Thought: I'm Begging For A New LittleBigPlanet Game | GameGrin">
+                                <img itemprop="contentUrl url" src='https://www.gamegrin.com/assets/Uploads/2023/10/20/_resampled/resizedimage640360-LBP1.jpg' alt='Short Thought: I'm Begging For A New LittleBigPlanet Game | GameGrin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameGrin" />
+                                </span>
+                                <a href='https://www.gamegrin.com/assets/Uploads/2023/10/20/_resampled/resizedimage640360-LBP1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LittleBigPlanet 3 Review - IGN">
+                                <img itemprop="contentUrl url" src='http://assets2.ignimgs.com/2014/11/17/lbp31117141600jpg-bc1901.jpg' alt='LittleBigPlanet 3 Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='http://assets2.ignimgs.com/2014/11/17/lbp31117141600jpg-bc1901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concept art & wallpaper edits : r/littlebigplanet">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/q9kakiwa2ga71.jpg?width=640&crop=smart&auto=webp&s=1f48c8409883a22420708bb8d74e7bd6eed6d2dd' alt='Concept art & wallpaper edits : r/littlebigplanet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/q9kakiwa2ga71.jpg?width=640&crop=smart&auto=webp&s=1f48c8409883a22420708bb8d74e7bd6eed6d2dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

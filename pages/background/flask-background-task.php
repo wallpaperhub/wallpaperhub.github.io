@@ -1,0 +1,129 @@
+<title>Optimize Flask with Background Tasks</title>
+                    <meta name="description" content="Learn how to implement background tasks in Flask for improved app performance. Discover tools like Celery and RQ, and ensure your web app remains responsive while handling intensive processes efficiently. Perfect for developers looking to enhance their Flask applications!">
+                    <meta name="keywords" content="flask background task">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flask-background-task">
+                            <span itemprop="name">flask background task</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Flask with Background Tasks</h1>
+                <p>Flask background tasks are crucial for managing long-running processes without blocking your web application. With libraries like Celery or RQ, you can efficiently handle tasks like sending emails, processing images, or any intensive operation. This allows your Flask app to remain responsive while executing background jobs seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flask asynchronous background tasks with Celery and Redis – Allyn H">
+                                <img itemprop="contentUrl url" src='http://allynh.com/blog/wp-content/uploads/2017/11/Flask_Celery_Redis.png' alt='Flask asynchronous background tasks with Celery and Redis – Allyn H'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllynH.com" />
+                                </span>
+                                <a href='http://allynh.com/blog/wp-content/uploads/2017/11/Flask_Celery_Redis.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Python Flask Api Background Task. Hello world! In one of my recent ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1088/1*9EGL7T8gt0EXNabSYmfe5g.png' alt='Python Flask Api Background Task. Hello world! In one of my recent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiago Horta - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1088/1*9EGL7T8gt0EXNabSYmfe5g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Flask Mega-Tutorial, Part XXII: Background Jobs ...">
+                                <img itemprop="contentUrl url" src='https://blog.miguelgrinberg.com/static/images/mega-tutorial/ch22-queue-diagram.png' alt='The Flask Mega-Tutorial, Part XXII: Background Jobs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miguel Grinberg" />
+                                </span>
+                                <a href='https://blog.miguelgrinberg.com/static/images/mega-tutorial/ch22-queue-diagram.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="celery flask redis example background tasks">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RrFFJO6JTmI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gEyhZMA8=&rs=AOn4CLDQo5Fx_qeoXhj9Jhe9jXLAsRlfcg' alt='celery flask redis example background tasks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RrFFJO6JTmI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gEyhZMA8=&rs=AOn4CLDQo5Fx_qeoXhj9Jhe9jXLAsRlfcg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job Scheduling with Flask: Simplify Background Task Automation ...">
+                                <img itemprop="contentUrl url" src='https://www.advsyscon.com/wp-content/uploads/abflask.jpg' alt='Job Scheduling with Flask: Simplify Background Task Automation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveBatch" />
+                                </span>
+                                <a href='https://www.advsyscon.com/wp-content/uploads/abflask.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - chrisjsimpson/flask-background-task-queue: Simple queue ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/f2d0e73598c04c294b21aa683a499e933e58211b94b476553fb7444f158b015c/chrisjsimpson/flask-background-task-queue' alt='GitHub - chrisjsimpson/flask-background-task-queue: Simple queue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/f2d0e73598c04c294b21aa683a499e933e58211b94b476553fb7444f158b015c/chrisjsimpson/flask-background-task-queue' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Python Flask Api Background Task. Hello world! In one of my recent ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1358/0*Eb4si_v3ql32gmmB.png' alt='Python Flask Api Background Task. Hello world! In one of my recent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1358">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiago Horta - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1358/0*Eb4si_v3ql32gmmB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Implementing a BackgroundRunner with Flask-Executor — Soshace">
+                                <img itemprop="contentUrl url" src='https://soshace.com/wp-content/uploads/2023/03/implementing-a-backgroundrunner-with-flask-executor-879-png.png' alt='Implementing a BackgroundRunner with Flask-Executor — Soshace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="879">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soshace" />
+                                </span>
+                                <a href='https://soshace.com/wp-content/uploads/2023/03/implementing-a-backgroundrunner-with-flask-executor-879-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flask REST API with Threadding | Run task in background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XrG_TlwPtsU/sddefault.jpg' alt='Flask REST API with Threadding | Run task in background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XrG_TlwPtsU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asynchronous background tasks in Flask-application using Celery ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1358/1*kdC5Q-iIbwI_Obu8rfZ4Rw.jpeg' alt='Asynchronous background tasks in Flask-application using Celery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1329">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1358/1*kdC5Q-iIbwI_Obu8rfZ4Rw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

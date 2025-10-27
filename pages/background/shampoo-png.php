@@ -1,0 +1,129 @@
+<title>High-Quality Shampoo PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover a collection of high-quality shampoo PNG images. Perfect for beauty blogs, product marketing, and design projects. These transparent images allow for seamless integration into your work, making it easy to showcase your favorite shampoo products effectively and beautifully.">
+                    <meta name="keywords" content="shampoo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shampoo-png">
+                            <span itemprop="name">shampoo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Shampoo PNG Images for Your Projects</h1>
+                <p>Shampoo PNG images are perfect for enhancing your digital projects, websites, or presentations. These transparent background graphics make it easy to integrate shampoo visuals seamlessly into any design without the distraction of unwanted backgrounds. Ideal for beauty blogs, product showcases, or marketing materials!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG Designs for T Shirt & Merch">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/155353/isolated/preview/ae921b45647053c057d9e4d653e83097-shampoo-icon.png' alt='Shampoo PNG Designs for T Shirt & Merch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/155353/isolated/preview/ae921b45647053c057d9e4d653e83097-shampoo-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo Clipart, Shampoo Bottle, Shampoo PNG Transparent Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/35/6c/0e/356c0e22cbf42eeb45577fc092750ae6.jpg' alt='Shampoo Clipart, Shampoo Bottle, Shampoo PNG Transparent Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/35/6c/0e/356c0e22cbf42eeb45577fc092750ae6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG transparent image download, size: 512x512px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/shampoo_PNG99887.png' alt='Shampoo PNG transparent image download, size: 512x512px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/shampoo_PNG99887.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo Bottle PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20171220/gjw/avjukco4b.webp' alt='Shampoo Bottle PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20171220/gjw/avjukco4b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG transparent image download, size: 1134x1276px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/shampoo_PNG18.png' alt='Shampoo PNG transparent image download, size: 1134x1276px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/shampoo_PNG18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo Bottle PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/shampoo-bottle-ZRvq3mA-600.jpg' alt='Shampoo Bottle PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/shampoo-bottle-ZRvq3mA-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/641/629/png-clipart-shampoo-shampoo.png' alt='Shampoo png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/641/629/png-clipart-shampoo-shampoo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/1b/48/ff1b48a49cd418ff3addcd2b10933e20.jpg' alt='Shampoo PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/1b/48/ff1b48a49cd418ff3addcd2b10933e20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG transparent image download, size: 1920x1920px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/shampoo_PNG17.png' alt='Shampoo PNG transparent image download, size: 1920x1920px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/shampoo_PNG17.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shampoo PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220113/ourmid/pngtree-ai-original-cartoon-hand-drawn-buckle-free-element-women-s-shampoo-png-image_4162671.png' alt='Shampoo PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220113/ourmid/pngtree-ai-original-cartoon-hand-drawn-buckle-free-element-women-s-shampoo-png-image_4162671.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

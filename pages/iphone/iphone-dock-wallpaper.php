@@ -1,0 +1,129 @@
+<title>Transform Your Home Screen with Stunning iPhone Dock Wallpapers</title>
+                    <meta name="description" content="Discover eye-catching iPhone dock wallpapers that elevate your device's look and feel. Explore a variety of styles—from minimalistic to vibrant designs—tailored to enhance your home screen experience. Perfect for personalizing your phone while keeping it organized!">
+                    <meta name="keywords" content="iphone dock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-dock-wallpaper">
+                            <span itemprop="name">iphone dock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Home Screen with Stunning iPhone Dock Wallpapers</h1>
+                <p>Looking for the perfect iPhone dock wallpaper? Transform your device with stunning designs that not only enhance aesthetics but also keep your icons organized. Whether you prefer minimalist patterns, vibrant colors, or serene landscapes, there's a wallpaper to match your style. Explore options that enrich your home screen experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How you guys making wallpapers to hide the dock? Is there ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zw4yvro9g8r81.jpg?width=640&crop=smart&auto=webp&s=3b1681a6714c6ca78c59d82cd921bf9aaac78b7f' alt='How you guys making wallpapers to hide the dock? Is there ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zw4yvro9g8r81.jpg?width=640&crop=smart&auto=webp&s=3b1681a6714c6ca78c59d82cd921bf9aaac78b7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iSpazio WWDC21 Glow Card + Dock | Pixel Perfect - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/7b/65/cf7b652890f798b064f6ba82046e7406.jpg' alt='iSpazio WWDC21 Glow Card + Dock | Pixel Perfect - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/7b/65/cf7b652890f798b064f6ba82046e7406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12/12 pro app dock wallpaper that hides the notch : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uj9qnuz1sqe71.jpg' alt='iPhone 12/12 pro app dock wallpaper that hides the notch : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uj9qnuz1sqe71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hide the dock wallpaper ios 16">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/18/90/df1890f7513371edf6745bc0ac7046e1.jpg' alt='hide the dock wallpaper ios 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/18/90/df1890f7513371edf6745bc0ac7046e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can a nice person edit this wallpaper so the dock is hidden pls ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/94tm2s2ogl3a1.jpg' alt='Can a nice person edit this wallpaper so the dock is hidden pls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/94tm2s2ogl3a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invisible Dock - Wallpaper - The iDevice Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/theideviceblog.com/wp-content/uploads/2023/05/img_3687.png?resize=576%2C1024&ssl=1' alt='Invisible Dock - Wallpaper - The iDevice Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The iDevice Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/theideviceblog.com/wp-content/uploads/2023/05/img_3687.png?resize=576%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sean Kelly on X: "Playing with the customisation in iOS 18. Here's ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GQ5tcP2WYAAb0F1?format=jpg&name=4096x4096' alt='Sean Kelly on X: "Playing with the customisation in iOS 18. Here's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GQ5tcP2WYAAb0F1?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers that make your iPhone dock invisible : r/ios">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/PVIqz6h2ft-B4ZPiOe7g6eNiWpyIr9dEAuibgG_V9uU.jpg?auto=webp&s=4a934c2ab850ac696e1e6779aee22355b41a1c6e' alt='Wallpapers that make your iPhone dock invisible : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/PVIqz6h2ft-B4ZPiOe7g6eNiWpyIr9dEAuibgG_V9uU.jpg?auto=webp&s=4a934c2ab850ac696e1e6779aee22355b41a1c6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dock background - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/52ae4801-03f7-491a-a78a-e1c5c977a044' alt='Dock background - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/52ae4801-03f7-491a-a78a-e1c5c977a044' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thread of Dock Hiding Home Screen Wallpapers... : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thread-of-dock-hiding-home-screen-wallpapers-v0-k39ms74z1q9d1.jpg?width=640&crop=smart&auto=webp&s=a5cf2804fc233d474e651054d89cb7c7d51cdf99' alt='Thread of Dock Hiding Home Screen Wallpapers... : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thread-of-dock-hiding-home-screen-wallpapers-v0-k39ms74z1q9d1.jpg?width=640&crop=smart&auto=webp&s=a5cf2804fc233d474e651054d89cb7c7d51cdf99' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

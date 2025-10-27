@@ -1,0 +1,129 @@
+<title>Discover the Adorable World of Cute Turtles</title>
+                    <meta name="description" content="Explore the enchanting realm of cute turtles! Learn about their unique traits, playful nature, and the joy they bring to our lives. Perfect for turtle lovers and curious minds alike, discover why these little creatures are so captivating. Dive into the charm of turtles today!">
+                    <meta name="keywords" content="cute turtle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-turtle">
+                            <span itemprop="name">cute turtle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Adorable World of Cute Turtles</h1>
+                <p>Meet the adorable world of cute turtles! These gentle reptiles, with their charming shells and sweet faces, are endearing companions in both land and sea. From their playful antics to their slow, deliberate movements, cute turtles bring joy and serenity. Join us in celebrating these lovable creatures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've always thought baby sea turtles were the cutest : r/aww">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7O1bcD0K3zhvK2tHRuX66QFV04n2k8WEbpwhNF7LX2I.jpg?width=640&crop=smart&auto=webp&s=0b6f1d2e33b4cf9bcafac8d6809567d3618d3d10' alt='I've always thought baby sea turtles were the cutest : r/aww'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7O1bcD0K3zhvK2tHRuX66QFV04n2k8WEbpwhNF7LX2I.jpg?width=640&crop=smart&auto=webp&s=0b6f1d2e33b4cf9bcafac8d6809567d3618d3d10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Beautiful Turtle Cute Baby Turtle Art Drawing Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vT7pxBflL.jpg' alt='Amazon.com: Beautiful Turtle Cute Baby Turtle Art Drawing Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2492">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vT7pxBflL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Turtle in Ocean Amphibian Sea Life Animal POSTER">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/fgYAAOSwZuFhqCPl/s-l1200.jpg' alt='Cute Turtle in Ocean Amphibian Sea Life Animal POSTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.thetimberdoctor.com" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/fgYAAOSwZuFhqCPl/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turtle / Tortoise - A Funny Turtle And Cute Turtle Videos ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/p4Jj9QZFJvw/mqdefault.jpg' alt='Turtle / Tortoise - A Funny Turtle And Cute Turtle Videos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/p4Jj9QZFJvw/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Baby Turtles: The Cutest Creatures on Earth!">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7432664991951523114&location=0&aid=1988' alt='Adorable Baby Turtles: The Cutest Creatures on Earth!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7432664991951523114&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This cute baby turtle was so happy to see the world : r/aww">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iuq3vt80lk161.jpg?auto=webp&s=3607a90c7927fc7267b82b9e6fbe72d058bf6a4b' alt='This cute baby turtle was so happy to see the world : r/aww'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iuq3vt80lk161.jpg?auto=webp&s=3607a90c7927fc7267b82b9e6fbe72d058bf6a4b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,400+ Cute Little Turtle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/585791802/photo/little-turtle-in-hands.jpg?s=612x612&w=0&k=20&c=RNif00trOU8tLvTFxVafemMSLnzwv0mHr585SZNWVhw=' alt='9,400+ Cute Little Turtle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/585791802/photo/little-turtle-in-hands.jpg?s=612x612&w=0&k=20&c=RNif00trOU8tLvTFxVafemMSLnzwv0mHr585SZNWVhw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Turtle Figurine . 3cm Length , Cute Turtle - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16945464/r/il/94aaec/2962199690/il_570xN.2962199690_l54p.jpg' alt='Baby Turtle Figurine . 3cm Length , Cute Turtle - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16945464/r/il/94aaec/2962199690/il_570xN.2962199690_l54p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's World Turtle Day, so here are a bunch of adorable turtles">
+                                <img itemprop="contentUrl url" src='https://www.popsci.com/wp-content/uploads/2019/03/18/7MRDL2F4JOBNZXZ4ZWWWPUWJ2I.jpg?quality=85' alt='It's World Turtle Day, so here are a bunch of adorable turtles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popular Science" />
+                                </span>
+                                <a href='https://www.popsci.com/wp-content/uploads/2019/03/18/7MRDL2F4JOBNZXZ4ZWWWPUWJ2I.jpg?quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have you ever seen a two headed turtle before?!        This little ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3292646174275560769' alt='Have you ever seen a two headed turtle before?!        This little ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3292646174275560769' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transparent Background Clippy: Iconic Versatility</title>
+                    <meta name="description" content="Explore the charm of Clippy with a transparent background. Perfect for designers and fans, this nostalgic icon enhances creativity and versatility across projects. Discover how to incorporate Clippy into your designs effortlessly!">
+                    <meta name="keywords" content="clippy transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/clippy-transparent-background">
+                            <span itemprop="name">clippy transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Background Clippy: Iconic Versatility</h1>
+                <p>Clippy, the iconic paperclip assistant from Microsoft, has found a new life with a transparent background! This allows Clippy to seamlessly blend into any design or project. Whether for memes, nostalgia, or design elements, a transparent background enhances versatility, making Clippy more accessible for creative use across various platforms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clippy | Joke Battles Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/joke-battles/images/c/cb/Clippy.png/revision/latest/scale-to-width-down/362?cb=20151209031540' alt='Clippy | Joke Battles Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joke Battles Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/joke-battles/images/c/cb/Clippy.png/revision/latest/scale-to-width-down/362?cb=20151209031540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Clippit - Microsoft Clippy - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/clippit-microsoft-clippy--m2i8G6d3N4A0A0N4.jpg' alt='Free: Clippit - Microsoft Clippy - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/clippit-microsoft-clippy--m2i8G6d3N4A0A0N4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clippy for your website – GoSquared">
+                                <img itemprop="contentUrl url" src='https://static.gosquared.com/images/april/clippy/icon_clippy_01@2x.png' alt='Clippy for your website – GoSquared'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoSquared" />
+                                </span>
+                                <a href='https://static.gosquared.com/images/april/clippy/icon_clippy_01@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clippy png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/67/867/png-clipart-office-assistant-microsoft-corporation-microsoft-office-microsoft-word-build-paperclip-template-microsoft-office.png' alt='Clippy png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/67/867/png-clipart-office-assistant-microsoft-corporation-microsoft-office-microsoft-word-build-paperclip-template-microsoft-office.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clippy | Reverse Enchanted Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/reverseenchanted/images/c/cb/Clippy.png/revision/latest?cb=20170418130353' alt='Clippy | Reverse Enchanted Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="227">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reverse Enchanted Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/reverseenchanted/images/c/cb/Clippy.png/revision/latest?cb=20170418130353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Clippy Office Assistant | Magnet">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.679688140.0492/st,small,845x845-pad,1000x1000,f8f8f8.jpg' alt='Microsoft Clippy Office Assistant | Magnet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.679688140.0492/st,small,845x845-pad,1000x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Version: 1.0.0 - Clippy's Legacy by SjoerdHekking">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzEwNjcyMjM3LnBuZw==/original/i1i%2F%2F9.png' alt='Version: 1.0.0 - Clippy's Legacy by SjoerdHekking'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SjoerdHekking - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzEwNjcyMjM3LnBuZw==/original/i1i%2F%2F9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Moreau on LinkedIn: What I think of every time I see those ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQEsCiL6dkvmOg/feedshare-shrink_800/feedshare-shrink_800/0/1718294536449?e=2147483647&v=beta&t=W7YB51XWCDnEtDmC1x3jX378olfZaee6ZsA-tgTgHq4' alt='Michael Moreau on LinkedIn: What I think of every time I see those ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQEsCiL6dkvmOg/feedshare-shrink_800/feedshare-shrink_800/0/1718294536449?e=2147483647&v=beta&t=W7YB51XWCDnEtDmC1x3jX378olfZaee6ZsA-tgTgHq4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft's forgotten son, Clippy, returns as a wallpaper for your ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/ZNHgcuyXnabLjuosoFSToa.jpg' alt='Microsoft's forgotten son, Clippy, returns as a wallpaper for your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windows Central" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/ZNHgcuyXnabLjuosoFSToa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finally, justice for Clippy!">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDmEEQ6CuGM/0/image.jpg' alt='Finally, justice for Clippy!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDmEEQ6CuGM/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Taylor Swift Home Screen Wallpapers: Download Now!</title>
+                    <meta name="description" content="Explore the ultimate collection of Taylor Swift home screen wallpapers! Perfect for fans, these vibrant designs will bring your screen to life. Download your favorite styles quickly and easily, and showcase your love for Taylor wherever you go!">
+                    <meta name="keywords" content="taylor swift home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-home-screen-wallpaper">
+                            <span itemprop="name">taylor swift home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Home Screen Wallpapers: Download Now!</h1>
+                <p>Transform your device with stunning Taylor Swift home screen wallpapers! Discover a variety of designs featuring her most iconic moments, lyrics, and album art. Whether you're a die-hard fan or just love her music, these wallpapers add a touch of Swift's magic to your screen. Brighten your day with inspiring visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Phone Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?width=640&crop=smart&auto=webp&s=1cfe32c832bdfbe54510a8153e6d8f350a8dfdbe' alt='1989 Phone Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?width=640&crop=smart&auto=webp&s=1cfe32c832bdfbe54510a8153e6d8f350a8dfdbe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see those lockscreens / backgrounds : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fuljvjwwzj411.jpg' alt='Let's see those lockscreens / backgrounds : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fuljvjwwzj411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/b0/ba/a3b0ba9bcd2ce894d8ad0b8f72a1167d.jpg' alt='Taylor Swift lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/b0/ba/a3b0ba9bcd2ce894d8ad0b8f72a1167d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 1989, 2014, funny, lock, password, screen, taylor ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/88/537/HD-wallpaper-taylor-swift-1989-2014-funny-lock-password-screen-taylor-swift.jpg' alt='Taylor Swift 1989, 2014, funny, lock, password, screen, taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/88/537/HD-wallpaper-taylor-swift-1989-2014-funny-lock-password-screen-taylor-swift.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Home and Lock screen iPhone 6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/1e/9d/3b1e9d028f705e8cbb1c31fdb1de4639.jpg' alt='Taylor Swift Home and Lock screen iPhone 6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/1e/9d/3b1e9d028f705e8cbb1c31fdb1de4639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift homescreen <33">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' alt='taylor swift homescreen <33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/8f/bf/f68fbfd0322f55d524f915812d83a184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="do you have a taylor themed lockscreen/phone set up? if so, share ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/do-you-have-a-taylor-themed-lockscreen-phone-set-up-if-so-v0-d11fpgytgsbb1.jpg?width=640&crop=smart&auto=webp&s=95be2e7f1c90184ee87e80d415c05718bae7478f' alt='do you have a taylor themed lockscreen/phone set up? if so, share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/do-you-have-a-taylor-themed-lockscreen-phone-set-up-if-so-v0-d11fpgytgsbb1.jpg?width=640&crop=smart&auto=webp&s=95be2e7f1c90184ee87e80d415c05718bae7478f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - Lover Wallpaper || Lockscreen Like and reblog if ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e7f7c4e697bca8b727873a2f487d08ef/2d21b278212fb6f7-fc/s540x810/979ef4e51f5e9c44ecbe1feaf58f77c863986367.jpg' alt='Taylor Swift - Lover Wallpaper || Lockscreen Like and reblog if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e7f7c4e697bca8b727873a2f487d08ef/2d21b278212fb6f7-fc/s540x810/979ef4e51f5e9c44ecbe1feaf58f77c863986367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpapers #1 | Swifties Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6127/50d6fce169f4867cc110630f6221343cfb3a4015_hq.jpg' alt='Lockscreen Wallpapers #1 | Swifties Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="423">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6127/50d6fce169f4867cc110630f6221343cfb3a4015_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My TaylorSwift iPhone lock screen : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ps7vl0afh4sz.png?width=1080&crop=smart&auto=webp&s=bc7e057a5fba49fa65d6ed436acde4d13e3bd46d' alt='My TaylorSwift iPhone lock screen : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ps7vl0afh4sz.png?width=1080&crop=smart&auto=webp&s=bc7e057a5fba49fa65d6ed436acde4d13e3bd46d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

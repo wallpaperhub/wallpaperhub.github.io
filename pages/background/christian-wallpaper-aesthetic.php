@@ -1,0 +1,129 @@
+<title>Inspiring Christian Wallpaper Aesthetic for Your Device</title>
+                    <meta name="description" content="Discover an array of beautiful Christian wallpapers that elevate your spirit and personalize your digital devices. Featuring uplifting designs and scriptures, our collection is designed to inspire faith and bring peace to your everyday life. Ideal for all who cherish a positive and meaningful environment.">
+                    <meta name="keywords" content="christian wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christian-wallpaper-aesthetic">
+                            <span itemprop="name">christian wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Christian Wallpaper Aesthetic for Your Device</h1>
+                <p>Explore the serene beauty of Christian wallpaper aesthetics, blending faith and artistry. These wallpapers, adorned with uplifting verses and divine imagery, create a peaceful atmosphere in your digital space. Perfect for anyone seeking inspiration, they beautifully reflect a journey of faith and devotion in every glance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christian Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/d4/62/cfd4625ceaee8daa28618b0750d428ea.jpg' alt='Aesthetic Christian Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/d4/62/cfd4625ceaee8daa28618b0750d428ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus God Christian Wallpaper Collage Aesthetic Faith Wall Art Poster Pack">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21265813/r/il/e81d74/4894740244/il_570xN.4894740244_pjw4.jpg' alt='Jesus God Christian Wallpaper Collage Aesthetic Faith Wall Art Poster Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21265813/r/il/e81d74/4894740244/il_570xN.4894740244_pjw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Christian Phone Wallpapers With A Summer Glowup">
+                                <img itemprop="contentUrl url" src='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-3.png' alt='10 Beautiful Christian Phone Wallpapers With A Summer Glowup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="single christian blog" />
+                                </span>
+                                <a href='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Christian wallpaper ideas | christian wallpaper, jesus ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/a5/14/c1a514f08888b9ad07b3cb19c099f1b8.jpg' alt='26 Christian wallpaper ideas | christian wallpaper, jesus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/a5/14/c1a514f08888b9ad07b3cb19c099f1b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Christian desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFKWTqBLtM/2/0/1600w/canva-light-blue-white-light-pink-quote-photocentric-elegant-christian-desktop-wallpaper-O0JJ-5oNxzA.jpg' alt='Free to edit Christian desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFKWTqBLtM/2/0/1600w/canva-light-blue-white-light-pink-quote-photocentric-elegant-christian-desktop-wallpaper-O0JJ-5oNxzA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' alt='Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpapers- Aesthetic    | Gallery posted by OLIVIA ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7335639988933280261&index=1&sign=4c7b42cb967aab6665180950bcc3ba87' alt='Christian Wallpapers- Aesthetic    | Gallery posted by OLIVIA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7335639988933280261&index=1&sign=4c7b42cb967aab6665180950bcc3ba87' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/0d/32/4e0d322d28f34043d28ba5a070766b3b.jpg' alt='Christian Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/0d/32/4e0d322d28f34043d28ba5a070766b3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster With Aesthetic Christian Bible Verse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/poster-with-aesthetic-christian-bible-verse-le4qkqqvxu0nyr50.jpg' alt='Poster With Aesthetic Christian Bible Verse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1017">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/poster-with-aesthetic-christian-bible-verse-le4qkqqvxu0nyr50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpaper Aesthetic   ️   | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7287759290478248453&index=6&sign=c7dec9e31822400bb6395da30acc2b19' alt='Christian Wallpaper Aesthetic   ️   | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7287759290478248453&index=6&sign=c7dec9e31822400bb6395da30acc2b19' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

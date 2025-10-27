@@ -1,0 +1,129 @@
+<title>Why Your Uber Background Check Failed: A Guide</title>
+                    <meta name="description" content="Learn why your Uber background check may have failed and what steps to take next. We'll cover common reasons for denial, the importance of accuracy in your records, and how to improve your chances for reapplication. Ensure your journey with Uber begins on the right foot!">
+                    <meta name="keywords" content="failed uber background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/failed-uber-background-check">
+                            <span itemprop="name">failed uber background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Your Uber Background Check Failed: A Guide</h1>
+                <p>Experiencing a failed Uber background check can be disheartening for prospective drivers. This comprehensive review process assesses criminal history, driving records, and other factors to ensure passenger safety. Many applicants find their applications denied due to minor offenses or outdated information. Understanding the reasons behind a failed check can help individuals take the necessary steps to rectify issues and potentially reapply in the future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-n8y2uvowfawa1.jpg?width=640&crop=smart&auto=webp&s=ee3476b2475858294b5125cf51d4d39ecf961cb4' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-n8y2uvowfawa1.jpg?width=640&crop=smart&auto=webp&s=ee3476b2475858294b5125cf51d4d39ecf961cb4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1080&crop=smart&auto=webp&s=47efa6f8f9246d4414757ffe0287451d7a204a65' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1080&crop=smart&auto=webp&s=47efa6f8f9246d4414757ffe0287451d7a204a65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why are so many Uber drivers failing Background checks? Is UBER cleaning up?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IWJtvcfpW0s/maxresdefault.jpg' alt='Why are so many Uber drivers failing Background checks? Is UBER cleaning up?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IWJtvcfpW0s/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check issue....NOT about length of check or timeframe ...">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/img_3699-jpeg.660790/' alt='Background Check issue....NOT about length of check or timeframe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/img_3699-jpeg.660790/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So my background check just came back and it's not looking good ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/so-my-background-check-just-came-back-and-its-not-looking-v0-r6m7nvms6a6b1.jpg?auto=webp&s=3eb1e8538c70f3df042df5e75b49dcd0f4213ae9' alt='So my background check just came back and it's not looking good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/so-my-background-check-just-came-back-and-its-not-looking-v0-r6m7nvms6a6b1.jpg?auto=webp&s=3eb1e8538c70f3df042df5e75b49dcd0f4213ae9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Problem submitting a background check | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/screenshot_20200714-203159_uber-driver-jpg.487030/' alt='Problem submitting a background check | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/screenshot_20200714-203159_uber-driver-jpg.487030/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-0y704xowfawa1.jpg?width=108&crop=smart&auto=webp&s=374526ba6662756c5904f8db6ab363ecb6246d94' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="108">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-0y704xowfawa1.jpg?width=108&crop=smart&auto=webp&s=374526ba6662756c5904f8db6ab363ecb6246d94' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check expired? : r/uberdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-expired-v0-8krs6w0di2ub1.jpg?width=640&crop=smart&auto=webp&s=792903f784d15a1640235cf1e9278fd630803f00' alt='Background check expired? : r/uberdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-expired-v0-8krs6w0di2ub1.jpg?width=640&crop=smart&auto=webp&s=792903f784d15a1640235cf1e9278fd630803f00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not able to redo background check and can't drive for Uber anymore ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/not-able-to-redo-background-check-and-cant-drive-for-uber-v0-kdrns4g0z72c1.jpg?width=1290&format=pjpg&auto=webp&s=9d2f0e6ab124b20ce3e19b341d0728b83efe57ce' alt='Not able to redo background check and can't drive for Uber anymore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/not-able-to-redo-background-check-and-cant-drive-for-uber-v0-kdrns4g0z72c1.jpg?width=1290&format=pjpg&auto=webp&s=9d2f0e6ab124b20ce3e19b341d0728b83efe57ce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check failed because.. : r/UberEATS">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-failed-because-v0-70xg1ergv9pd1.jpeg?width=1080&format=pjpg&auto=webp&s=bb40217a28f5e4db4f4604fb974621dd04795af2' alt='Background check failed because.. : r/UberEATS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-failed-because-v0-70xg1ergv9pd1.jpeg?width=1080&format=pjpg&auto=webp&s=bb40217a28f5e4db4f4604fb974621dd04795af2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

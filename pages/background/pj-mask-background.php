@@ -1,0 +1,129 @@
+<title>"Explore the Exciting World of PJ Masks"</title>
+                    <meta name="description" content="Discover the thrilling adventures of PJ Masks! Join Catboy, Owlette, and Gekko as they protect the night from sneaky villains. Perfect for preschoolers, this animated series inspires courage and teamwork through engaging stories and colorful animations. Experience the fun today!">
+                    <meta name="keywords" content="pj mask background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pj-mask-background">
+                            <span itemprop="name">pj mask background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Explore the Exciting World of PJ Masks"</h1>
+                <p>PJ Masks, the animated series by Entertainment One, features three young friends who become superheroes at night: Catboy, Owlette, and Gekko. With vibrant visuals and action-packed adventures, the show promotes teamwork and bravery while appealing to preschoolers. Their mission to fight villains brings imaginative play to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pj-mask-city-background-6 | PTPA | Parent Tested Parent Approved">
+                                <img itemprop="contentUrl url" src='https://ptpa.com/wp-content/uploads/2019/03/pj-mask-city-background-6.jpg' alt='pj-mask-city-background-6 | PTPA | Parent Tested Parent Approved'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parent Tested Parent Approved" />
+                                </span>
+                                <a href='https://ptpa.com/wp-content/uploads/2019/03/pj-mask-city-background-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pj Masks Convite">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8a/93/9d/8a939d047a195ad53f61de117d356f54.jpg' alt='Pj Masks Convite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8a/93/9d/8a939d047a195ad53f61de117d356f54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pj Masks Iphone Wallpaper by ABEaly2 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/d7/d7/9ed7d7b1e6fe01022b5aca3aeb9fbd7d.jpg' alt='Pj Masks Iphone Wallpaper by ABEaly2 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/d7/d7/9ed7d7b1e6fe01022b5aca3aeb9fbd7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PJ Masks Power Heroes Background Wallpaper 1 by JustinProffesional ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/dg5cums-a439d514-68c5-4f21-a1d6-54ce56ba7d89.jpg/v1/fill/w_1192,h_670,q_70,strp/pj_masks_power_heroes_background_wallpaper_1_by_justinproffesional_dg5cums-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTMzMGQ1ZjEtZDVmMC00Njk2LWExODMtMmQ5OWZlMWFjZTRhXC9kZzVjdW1zLWE0MzlkNTE0LTY4YzUtNGYyMS1hMWQ2LTU0Y2U1NmJhN2Q4OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fgCU-8MDH_3pmaVoTiAzV8T_5nfsH0q9utL_-FEIu4I' alt='PJ Masks Power Heroes Background Wallpaper 1 by JustinProffesional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/dg5cums-a439d514-68c5-4f21-a1d6-54ce56ba7d89.jpg/v1/fill/w_1192,h_670,q_70,strp/pj_masks_power_heroes_background_wallpaper_1_by_justinproffesional_dg5cums-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTMzMGQ1ZjEtZDVmMC00Njk2LWExODMtMmQ5OWZlMWFjZTRhXC9kZzVjdW1zLWE0MzlkNTE0LTY4YzUtNGYyMS1hMWQ2LTU0Y2U1NmJhN2Q4OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fgCU-8MDH_3pmaVoTiAzV8T_5nfsH0q9utL_-FEIu4I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PJ Masks Wallpaper Background 1 by JustinProffesional on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/dg6f160-53ae9805-a436-4782-9fb1-5113a20f5963.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzMzBkNWYxLWQ1ZjAtNDY5Ni1hMTgzLTJkOTlmZTFhY2U0YVwvZGc2ZjE2MC01M2FlOTgwNS1hNDM2LTQ3ODItOWZiMS01MTEzYTIwZjU5NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IAF7xdA42yHdRlfmfOZ_agGRfsW4spDjYbnkASPeMFE' alt='PJ Masks Wallpaper Background 1 by JustinProffesional on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1422">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/dg6f160-53ae9805-a436-4782-9fb1-5113a20f5963.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzMzBkNWYxLWQ1ZjAtNDY5Ni1hMTgzLTJkOTlmZTFhY2U0YVwvZGc2ZjE2MC01M2FlOTgwNS1hNDM2LTQ3ODItOWZiMS01MTEzYTIwZjU5NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IAF7xdA42yHdRlfmfOZ_agGRfsW4spDjYbnkASPeMFE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pj-mask-city-background-6-with-characters | PTPA | Parent Tested ...">
+                                <img itemprop="contentUrl url" src='https://ptpa.com/wp-content/uploads/2019/03/pj-mask-city-background-6-with-characters.png' alt='pj-mask-city-background-6-with-characters | PTPA | Parent Tested ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parent Tested Parent Approved" />
+                                </span>
+                                <a href='https://ptpa.com/wp-content/uploads/2019/03/pj-mask-city-background-6-with-characters.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pj Mask Stock Illustrations – 17 Pj Mask Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pj-mask-colorful-background-three-colors-blue-red-green-super-hero-child-inspired-332561411.jpg' alt='Pj Mask Stock Illustrations – 17 Pj Mask Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pj-mask-colorful-background-three-colors-blue-red-green-super-hero-child-inspired-332561411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PJ Masks Backdrop - PJ Masks Party Supplies">
+                                <img itemprop="contentUrl url" src='https://treasuresgifted.com/cdn/shop/files/HAS13015PJMaskBackdropImage1_2048x.jpg?v=1736957151' alt='PJ Masks Backdrop - PJ Masks Party Supplies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treasures Gifted" />
+                                </span>
+                                <a href='https://treasuresgifted.com/cdn/shop/files/HAS13015PJMaskBackdropImage1_2048x.jpg?v=1736957151' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official PJ Masks Movies, Series, Characters, and Events - PJ Masks">
+                                <img itemprop="contentUrl url" src='https://assets-us-01.kc-usercontent.com/500e0a65-283d-00ef-33b2-7f1f20488fe2/b1ebf1ba-0889-4556-866f-14c9f2e500ca/PJM5_DB_Web-1920x1080_centered-2.png' alt='Official PJ Masks Movies, Series, Characters, and Events - PJ Masks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.pjmasks.com" />
+                                </span>
+                                <a href='https://assets-us-01.kc-usercontent.com/500e0a65-283d-00ef-33b2-7f1f20488fe2/b1ebf1ba-0889-4556-866f-14c9f2e500ca/PJM5_DB_Web-1920x1080_centered-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resultado de imagem para pj masks background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/09/bf/f1/09bff1e889292a6371e4a75012fbe96c.jpg' alt='Resultado de imagem para pj masks background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/09/bf/f1/09bff1e889292a6371e4a75012fbe96c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

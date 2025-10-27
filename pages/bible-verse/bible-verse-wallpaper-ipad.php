@@ -1,0 +1,129 @@
+<title>Inspiring Bible Verse Wallpapers for Your iPad</title>
+                    <meta name="description" content="Discover a collection of stunning Bible verse wallpapers for your iPad. Elevate your screen with motivational scriptures that inspire and encourage you daily. Perfect for those seeking faith-filled reminders at their fingertips. Explore and download your favorite designs today!">
+                    <meta name="keywords" content="bible verse wallpaper ipad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/bible-verse-wallpaper-ipad">
+                            <span itemprop="name">bible verse wallpaper ipad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Bible Verse Wallpapers for Your iPad</h1>
+                <p>Transform your iPad with inspiring Bible verse wallpapers! Choose from a beautiful selection of designs that uplift your spirit and adorn your screen with divine wisdom. Perfect for daily inspiration, these wallpapers remind you of hope and faith every time you unlock your device. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Tablet and iPad wallpapers">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2021/01/God-will-turn-your-darkest-nights-tablet.jpg' alt='Christian Tablet and iPad wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2021/01/God-will-turn-your-darkest-nights-tablet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Tablet and iPad wallpapers">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2017/10/Life-is-meaningless-tablet.jpg' alt='Christian Tablet and iPad wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2017/10/Life-is-meaningless-tablet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOWNLOAD // Fall Desktop Wallpaper - Christianbook.com Blog">
+                                <img itemprop="contentUrl url" src='https://blog.christianbook.com/wp-content/uploads/2018/10/faithnotsight_1920_1080.jpg' alt='DOWNLOAD // Fall Desktop Wallpaper - Christianbook.com Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christianbook.com Blog -" />
+                                </span>
+                                <a href='https://blog.christianbook.com/wp-content/uploads/2018/10/faithnotsight_1920_1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Tablet and iPad wallpapers">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2017/08/God-will-make-a-way-1280px.jpg' alt='Christian Tablet and iPad wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2017/08/God-will-make-a-way-1280px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian iPad Wallpaper, Bible Verse iPad Background, Psalms ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38346022/r/il/3d0471/4770933686/il_570xN.4770933686_klvc.jpg' alt='Christian iPad Wallpaper, Bible Verse iPad Background, Psalms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38346022/r/il/3d0471/4770933686/il_570xN.4770933686_klvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/6c/76/976c769dc6ed6fd18e7028819c2ca7d5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/6c/76/976c769dc6ed6fd18e7028819c2ca7d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philippians 4:13">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/fd/55/7cfd5578f4668b4f36a59ec6da03aaab.jpg' alt='Philippians 4:13'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/fd/55/7cfd5578f4668b4f36a59ec6da03aaab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Tablet and iPad wallpapers">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2017/08/Let-the-weak-say-I-am-strong-tablet-1024x1024.jpg' alt='Christian Tablet and iPad wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2017/08/Let-the-weak-say-I-am-strong-tablet-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November Backgrounds: Free Download for Your Phone, Tablet or ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5d8e6e4f37fce41a1f622e01/5e8385df8054967b16c3d4ea/5e8385f28054967b16c3d639/1585677810231/Desktop-November-Verse.jpg?format=original' alt='November Backgrounds: Free Download for Your Phone, Tablet or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Morning" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5d8e6e4f37fce41a1f622e01/5e8385df8054967b16c3d4ea/5e8385f28054967b16c3d639/1585677810231/Desktop-November-Verse.jpg?format=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Aesthetic Bible Verse Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-bible-verse-isaiah-40-31-77uw4efzcmtbxmyo.jpg' alt='200+] Aesthetic Bible Verse Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-bible-verse-isaiah-40-31-77uw4efzcmtbxmyo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

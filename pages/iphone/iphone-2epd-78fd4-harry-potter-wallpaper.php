@@ -1,0 +1,129 @@
+<title>Harry Potter iPhone Wallpaper: Enchant Your Screen!</title>
+                    <meta name="description" content="Elevate your iPhone experience with our stunning Harry Potter wallpaper! Perfectly designed for fans of all ages, this magical wallpaper will transform your device into a masterpiece. Download now and showcase your love for the wizarding world in style!">
+                    <meta name="keywords" content="iphone:-2epd-78fd4= harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-2epd-78fd4-harry-potter-wallpaper">
+                            <span itemprop="name">iphone:-2epd-78fd4= harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harry Potter iPhone Wallpaper: Enchant Your Screen!</h1>
+                <p>Discover the magic of Hogwarts with our exclusive Harry Potter wallpaper, perfect for your iPhone! Transform your device into a portal to the wizarding world. Featuring iconic characters and enchanting scenes, this wallpaper brings the magic of Harry Potter to your fingertips. Download now to personalize your iPhone with a touch of wizardry!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpapers | Harry Potter Wallpapers For iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/61/7a/3d617a13a63d30f3829a92aa6482affa.jpg' alt='Harry Potter Wallpapers | Harry Potter Wallpapers For iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/61/7a/3d617a13a63d30f3829a92aa6482affa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter iPhone Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1d/fd/00/1dfd00fa51cc66066ed98c9f9330f0c5.jpg' alt='Harry Potter iPhone Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1d/fd/00/1dfd00fa51cc66066ed98c9f9330f0c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpapers | Harry Potter Wallpapers For iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/81/c3/8b81c3c40e203f1c7bf628df7bda60bf.jpg' alt='Harry Potter Wallpapers | Harry Potter Wallpapers For iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/81/c3/8b81c3c40e203f1c7bf628df7bda60bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpapers - Top Free Harry Potter Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/69/a6/3169a6453584c853eeb42841d91eefd0.jpg' alt='Harry Potter Wallpapers - Top Free Harry Potter Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/69/a6/3169a6453584c853eeb42841d91eefd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/c3/6b/4dc36b1f48d882cd0909c67396507cee.jpg' alt='Awesome Harry Potter iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/c3/6b/4dc36b1f48d882cd0909c67396507cee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/9d/a4/689da4d441514de9552440fdb1e01ecd.jpg' alt='Awesome Harry Potter iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/9d/a4/689da4d441514de9552440fdb1e01ecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/98/df/4a/98df4a0413689f592ddc86e55bf715a6.jpg' alt='Harry Potter Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/98/df/4a/98df4a0413689f592ddc86e55bf715a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4e/b5/c9/4eb5c94f14bba08b3b050c711692eb7a.jpg' alt='Harry Potter Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4e/b5/c9/4eb5c94f14bba08b3b050c711692eb7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6a/67/72/6a6772ecbc4b2ffabbc296671e0b7868.jpg' alt='Harry Potter Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6a/67/72/6a6772ecbc4b2ffabbc296671e0b7868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts, always, dumbledore, fantastic beasts, games, harry ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1000/977/HD-wallpaper-hogwarts-always-dumbledore-fantastic-beasts-games-harry-harry-potter-ps5-snape-wizards.jpg' alt='Hogwarts, always, dumbledore, fantastic beasts, games, harry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1000/977/HD-wallpaper-hogwarts-always-dumbledore-fantastic-beasts-games-harry-harry-potter-ps5-snape-wizards.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Scooby-Doo Halloween Wallpaper: Spooktacular Designs!</title>
+                    <meta name="description" content="Discover fun and spooky Scooby-Doo Halloween wallpaper to liven up your device! Featuring iconic characters and festive themes, our collection is perfect for fans looking to celebrate the season. Download now for colorful designs that will make your screens pop!">
+                    <meta name="keywords" content="scooby doo halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scooby-doo-halloween-wallpaper">
+                            <span itemprop="name">scooby doo halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scooby-Doo Halloween Wallpaper: Spooktacular Designs!</h1>
+                <p>Transform your device with vibrant Scooby-Doo Halloween wallpaper that captures the spooky spirit and fun of the beloved series! Featuring Scooby, Shaggy, and the Mystery Inc. gang amidst haunted houses, pumpkins, and ghosts, these wallpapers will add a festive flair to your screens. Download your favorite designs now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby-Doo in Halloween   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/91/b1/9a91b1d7c24f567774fbbe0a9d368f2c.jpg' alt='Scooby-Doo in Halloween   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1087">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/91/b1/9a91b1d7c24f567774fbbe0a9d368f2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby Doo Halloween   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bb/ee/ed/bbeeed7a9fa44f8ba765937c1bd6d7d8.jpg' alt='Scooby Doo Halloween   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1153">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bb/ee/ed/bbeeed7a9fa44f8ba765937c1bd6d7d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scooby Doo And The Ghost Of Halloween | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scooby-doo-pictures-10a5kdwv8ndrzi11.jpg' alt='Download Scooby Doo And The Ghost Of Halloween | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scooby-doo-pictures-10a5kdwv8ndrzi11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby Doo Halloween   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/1d/cc/b51dcc2f74c159b118437ddd31e28bfc.jpg' alt='Scooby Doo Halloween   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/1d/cc/b51dcc2f74c159b118437ddd31e28bfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby-Doo Wallpaper:) : r/Scoobydoo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/scooby-doo-wallpaper-v0-wr36qxo3y7hc1.jpg?width=640&crop=smart&auto=webp&s=c772f45d97ad8cc970fec47d12d722748eaf4286' alt='Scooby-Doo Wallpaper:) : r/Scoobydoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/scooby-doo-wallpaper-v0-wr36qxo3y7hc1.jpg?width=640&crop=smart&auto=webp&s=c772f45d97ad8cc970fec47d12d722748eaf4286' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some halloween scooby doo wallpapers        | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7293706663717405190&index=0&sign=75b14be0abfd590f731c9fc4f4968630' alt='some halloween scooby doo wallpapers        | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7293706663717405190&index=0&sign=75b14be0abfd590f731c9fc4f4968630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby-Doo HD Wallpaper: Mystery Awaits!">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/434/thumb-1920-434978.jpg' alt='Scooby-Doo HD Wallpaper: Mystery Awaits!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/434/thumb-1920-434978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby-Doo Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/dca5b074-877f-49df-1e44-902dd88dfb00/public' alt='Scooby-Doo Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpics" />
+                                </span>
+                                <a href='https://imagedelivery.net/c2SKP8Bk0ZKw6UDgeeIlbw/dca5b074-877f-49df-1e44-902dd88dfb00/public' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween, Scooby-Doo! | Warner Bros. Entertainment Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c6/Happy_Halloween%2C_Scooby-Doo%21.jpg/revision/latest?cb=20201016011259' alt='Happy Halloween, Scooby-Doo! | Warner Bros. Entertainment Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warner Bros. Entertainment Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c6/Happy_Halloween%2C_Scooby-Doo%21.jpg/revision/latest?cb=20201016011259' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Scooby Do Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9843159.jpg' alt='Halloween Scooby Do Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9843159.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

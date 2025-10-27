@@ -1,0 +1,129 @@
+<title>Galactic Cat Wallpapers: Adorable Space-Themed Designs</title>
+                    <meta name="description" content="Explore our collection of space cat wallpapers! Perfect for cat lovers, these whimsical designs feature adorable felines among the stars, blending charm with cosmic beauty. Transform your screen and dive into a universe of fun and creativity today!">
+                    <meta name="keywords" content="space cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/space-cat-wallpaper">
+                            <span itemprop="name">space cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galactic Cat Wallpapers: Adorable Space-Themed Designs</h1>
+                <p>Transform your device with stunning space cat wallpaper! These whimsical designs feature adorable felines exploring the cosmos, surrounded by stars and planets. Perfect for cat lovers and space enthusiasts alike, our collection adds a touch of playful charm and cosmic wonder to your screens. Update your wallpaper today and let your imagination soar!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat in Space Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Cat_in_Space_Wall_Mural_Wallpaper_d_b8113a1a-5b14-400d-aa74-c10cd57274fb_1400x.jpg?v=1735833159' alt='Cat in Space Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Cat_in_Space_Wall_Mural_Wallpaper_d_b8113a1a-5b14-400d-aa74-c10cd57274fb_1400x.jpg?v=1735833159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Cat Wallpapers (28 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/7/b/1099807-2400x1480-desktop-hd-galaxy-cat-wallpaper.jpg' alt='Galaxy Cat Wallpapers (28 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/7/b/1099807-2400x1480-desktop-hd-galaxy-cat-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Cat Images – Browse 311,895 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/16/72/37/360_F_716723720_9FtIs2rQPBDfU8SfO2GF2n5iW1NGPbHU.jpg' alt='Space Cat Images – Browse 311,895 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/16/72/37/360_F_716723720_9FtIs2rQPBDfU8SfO2GF2n5iW1NGPbHU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I hope this is okay as a post, here is the phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5xx3q4lfjqb71.jpg' alt='I hope this is okay as a post, here is the phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1668">
+                                <meta itemprop="height" content="2990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5xx3q4lfjqb71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space cat colorful background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/c1/22/e1c122ef58d272a09f2557f97a053841.jpg' alt='Space cat colorful background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/c1/22/e1c122ef58d272a09f2557f97a053841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Cat, Made awhile back when I was really into making space ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tdym4uz3kw591.png' alt='Space Cat, Made awhile back when I was really into making space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tdym4uz3kw591.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Computer In Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cat-computer-in-space-qa0ecm0839ee4s6l.jpg' alt='Cat Computer In Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cat-computer-in-space-qa0ecm0839ee4s6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Cute Cat Wallpaper for Your Smartphone">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cats-magazine.com/wp-content/uploads/2024/10/cutecatssmartphonewallpapers.webp?resize=1160%2C773&ssl=1' alt='Download Free Cute Cat Wallpaper for Your Smartphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cats Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/cats-magazine.com/wp-content/uploads/2024/10/cutecatssmartphonewallpapers.webp?resize=1160%2C773&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Cat Images – Browse 311,895 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/15/52/10/360_F_615521010_wq02L84QQWEoUaqzTYbjHHqcGrrbKbYH.jpg' alt='Space Cat Images – Browse 311,895 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/15/52/10/360_F_615521010_wq02L84QQWEoUaqzTYbjHHqcGrrbKbYH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Happy Space Cat">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/218713.jpg' alt='Wall Mural Happy Space Cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/218713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

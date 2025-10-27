@@ -1,0 +1,129 @@
+<title>Memorial Day Flyer Template - Design Yours Today!</title>
+                    <meta name="description" content="Create a stunning Memorial Day flyer with our easy-to-use template. Perfect for honoring veterans and promoting events. Customize with text, images, and colors to make it uniquely yours. Start designing a memorable tribute today!">
+                    <meta name="keywords" content="memorial day flyer template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/memorial-day-flyer-template">
+                            <span itemprop="name">memorial day flyer template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Memorial Day Flyer Template - Design Yours Today!</h1>
+                <p>Memorial Day Flyer Template: Honor our heroes with a customizable flyer template designed for Memorial Day events. Perfect for parades, remembrance ceremonies, and community gatherings. Easily add your event details, graphics, and personal touches. Celebrate and remember those who have served with a professional layout that stands out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, customizable Memorial Day flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE9HEHBgmA/1/0/1131w/canva-white-red-%26-blue-simple-american-flag-memorial-day-flyer-8wLVWIW1xWw.jpg' alt='Free, customizable Memorial Day flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE9HEHBgmA/1/0/1131w/canva-white-red-%26-blue-simple-american-flag-memorial-day-flyer-8wLVWIW1xWw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable memorial day templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE_LNzHG-4/1/0/1131w/canva-memorial-day-us-flyer-4O7LuKsF8WA.jpg' alt='Free and customizable memorial day templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE_LNzHG-4/1/0/1131w/canva-memorial-day-us-flyer-4O7LuKsF8WA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Flyer Template">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2023/04/Memorial-Day-Flyer-Template-1-2.jpg' alt='Memorial Day Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2023/04/Memorial-Day-Flyer-Template-1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Customizable Memorial Day Flyer Templates | Adobe Express">
+                                <img itemprop="contentUrl url" src='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d75ebef4-863b-5f14-afd2-c1ce2304e947/component?assetType=TEMPLATE&etag=1e4e50f244214b388ab2af670ad74742&revision=76800278-b1a0-47c5-a995-b2488b3f1d0e&component_id=a7e46962-07a8-4508-9a01-e57ba6970904' alt='Free Customizable Memorial Day Flyer Templates | Adobe Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d75ebef4-863b-5f14-afd2-c1ce2304e947/component?assetType=TEMPLATE&etag=1e4e50f244214b388ab2af670ad74742&revision=76800278-b1a0-47c5-a995-b2488b3f1d0e&component_id=a7e46962-07a8-4508-9a01-e57ba6970904' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Flag Memorial Day Flyer Template - Venngage">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/thumbnails.venngage.com/template/9ffc2a96-b1de-40df-be4c-5ecba1a97ab1.png' alt='US Flag Memorial Day Flyer Template - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/thumbnails.venngage.com/template/9ffc2a96-b1de-40df-be4c-5ecba1a97ab1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Memorial Day Flyer">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2023/03/Happy-Memorial-Day-Flyer.jpg' alt='Happy Memorial Day Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2023/03/Happy-Memorial-Day-Flyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Memorial Day Celebration Flyer Template for your Events">
+                                <img itemprop="contentUrl url" src='https://freepsdflyer.com/wp-content/uploads/2023/05/Free-Memorial-Day-Celebration-Flyer-Template.webp' alt='Free Memorial Day Celebration Flyer Template for your Events'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePSDFlyer" />
+                                </span>
+                                <a href='https://freepsdflyer.com/wp-content/uploads/2023/05/Free-Memorial-Day-Celebration-Flyer-Template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Memorial Day Flyer Template - Venngage">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/thumbnails.venngage.com/template/e7867ad2-173c-4007-93f1-3469af3820a6.png' alt='United States Memorial Day Flyer Template - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/thumbnails.venngage.com/template/e7867ad2-173c-4007-93f1-3469af3820a6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vertical-poster-template-usa-memorial-day-celebration_23-2150263145.jpg' alt='Memorial Day Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vertical-poster-template-usa-memorial-day-celebration_23-2150263145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/memorial-day-flyer-template_25996-324.jpg' alt='Memorial Day Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/memorial-day-flyer-template_25996-324.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

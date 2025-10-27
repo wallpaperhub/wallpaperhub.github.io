@@ -1,0 +1,129 @@
+<title>Background Checks in Hotels: What You Need to Know</title>
+                    <meta name="description" content="Discover the essential background checks hotels conduct to maintain safety and security for guests and staff. Learn about the types of checks performed, from employee verification to guest policies, to ensure a safe and secure environment during your stay.">
+                    <meta name="keywords" content="what kind of background checks do hotels do">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-kind-of-background-checks-do-hotels-do">
+                            <span itemprop="name">what kind of background checks do hotels do</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Checks in Hotels: What You Need to Know</h1>
+                <p>Hotels typically perform background checks on employees and sometimes guests to ensure safety and security. These checks might include criminal history, employment verification, and reference checks. Additionally, hotels often assess credit reports for positions involving financial transactions or access to sensitive information.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotel & Hospitality Background Checks: A Complete Guide [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/01/hotel-background-check-1.jpg' alt='Hotel & Hospitality Background Checks: A Complete Guide [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/01/hotel-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Do Background Checks On Employees">
+                                <img itemprop="contentUrl url" src='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/1.jpg' alt='Do Hotels Do Background Checks On Employees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Components of a Comprehensive Background Check for Hotel Staff">
+                                <img itemprop="contentUrl url" src='https://lodgingmagazine.com/wp-content/uploads/2019/04/background-check-iStock-591799886.jpg' alt='Five Components of a Comprehensive Background Check for Hotel Staff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="741">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LODGING Magazine" />
+                                </span>
+                                <a href='https://lodgingmagazine.com/wp-content/uploads/2019/04/background-check-iStock-591799886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Run Background Checks on Guests? A Guide for Hosts ...">
+                                <img itemprop="contentUrl url" src='https://www.autohost.ai/wp-content/uploads/2023/05/Do-Hotels-Run-Background-Checks-on-Guests.webp' alt='Do Hotels Run Background Checks on Guests? A Guide for Hosts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autohost" />
+                                </span>
+                                <a href='https://www.autohost.ai/wp-content/uploads/2023/05/Do-Hotels-Run-Background-Checks-on-Guests.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Do Background Checks On Employees">
+                                <img itemprop="contentUrl url" src='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/4.jpg' alt='Do Hotels Do Background Checks On Employees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Do Background Checks On Employees">
+                                <img itemprop="contentUrl url" src='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/0.jpg' alt='Do Hotels Do Background Checks On Employees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks for Hotels and Hospitality | Reveal Background Check">
+                                <img itemprop="contentUrl url" src='https://www.revealbackground.com/wp-content/uploads/2024/10/hospitality-background-checks.jpg' alt='Background Checks for Hotels and Hospitality | Reveal Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reveal Background Check" />
+                                </span>
+                                <a href='https://www.revealbackground.com/wp-content/uploads/2024/10/hospitality-background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Run Background Checks on Guests? A Guide for Hosts ...">
+                                <img itemprop="contentUrl url" src='https://www.autohost.ai/wp-content/uploads/2023/05/hotel-checking-warrants.jpg' alt='Do Hotels Run Background Checks on Guests? A Guide for Hosts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autohost" />
+                                </span>
+                                <a href='https://www.autohost.ai/wp-content/uploads/2023/05/hotel-checking-warrants.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Do Background Checks On Employees">
+                                <img itemprop="contentUrl url" src='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/6.jpg' alt='Do Hotels Do Background Checks On Employees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Hotels Do Background Checks On Employees">
+                                <img itemprop="contentUrl url" src='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/2.jpg' alt='Do Hotels Do Background Checks On Employees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-hotels-do-background-checks-on-employees.govbackgroundchecks.com/screenshots/do-hotels-do-background-checks-on-employees/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

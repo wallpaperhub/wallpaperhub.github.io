@@ -1,0 +1,129 @@
+<title>Charming Bluey Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover delightful Bluey wallpapers for your iPhone! Enhance your device's look with colorful designs featuring Bluey and friends. Perfect for fans seeking a playful and stylish touch. Download now for a daily dose of joy!">
+                    <meta name="keywords" content="bluey wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/bluey-wallpaper-iphone">
+                            <span itemprop="name">bluey wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Bluey Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with adorable Bluey wallpaper! Perfect for fans of the beloved children's show, these vibrant designs bring fun and joy to your home screen. Choose from a variety of characters and scenes that capture the spirit of Bluey and her family. Discover the perfect wallpaper that brightens your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/e1/95/1ee195d0d2ea612b7d1f4e397a7b92dd.jpg' alt='Bluey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="1317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/e1/95/1ee195d0d2ea612b7d1f4e397a7b92dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - Here's some Bluey home screens for your phone   ... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452794515534678' alt='Bluey - Here's some Bluey home screens for your phone   ... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452794515534678' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy some Bluey wallpapers I designed! : r/bluey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/enjoy-some-bluey-wallpapers-i-designed-v0-amgwl6q21kna1.jpg?width=1170&format=pjpg&auto=webp&s=e9cc1b8448cef724118500d826ef4aef888cce28' alt='Enjoy some Bluey wallpapers I designed! : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/enjoy-some-bluey-wallpapers-i-designed-v0-amgwl6q21kna1.jpg?width=1170&format=pjpg&auto=webp&s=e9cc1b8448cef724118500d826ef4aef888cce28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - Here's some Bluey home screens for your phone   ... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452795185534611' alt='Bluey - Here's some Bluey home screens for your phone   ... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1018">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=452795185534611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a couple of Bluey phone wallpapers, hope you like them ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-couple-of-bluey-phone-wallpapers-hope-you-like-them-v0-1dvzaq9kkk8a1.jpg?width=640&crop=smart&auto=webp&s=6fa7d94f62dca83379d4d6e14e0dfa0700557364' alt='Made a couple of Bluey phone wallpapers, hope you like them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-couple-of-bluey-phone-wallpapers-hope-you-like-them-v0-1dvzaq9kkk8a1.jpg?width=640&crop=smart&auto=webp&s=6fa7d94f62dca83379d4d6e14e0dfa0700557364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Bluey Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/01/Fancy-Ladies.png' alt='New Bluey Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/01/Fancy-Ladies.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a couple of Bluey phone wallpapers, hope you like them ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-couple-of-bluey-phone-wallpapers-hope-you-like-them-v0-zedc8o9kkk8a1.jpg?width=640&crop=smart&auto=webp&s=4b70d0ea023b0cbbae73609d589ee21ca6747829' alt='Made a couple of Bluey phone wallpapers, hope you like them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-couple-of-bluey-phone-wallpapers-hope-you-like-them-v0-zedc8o9kkk8a1.jpg?width=640&crop=smart&auto=webp&s=4b70d0ea023b0cbbae73609d589ee21ca6747829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Bluey ideas | bingo funny, cute cartoon wallpapers, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8b/56/50/8b565090319ffade8a72bc2d4252d4b4.jpg' alt='42 Bluey ideas | bingo funny, cute cartoon wallpapers, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8b/56/50/8b565090319ffade8a72bc2d4252d4b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Bluey Phone Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/01/Cubby-1-576x1024.png' alt='New Bluey Phone Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/01/Cubby-1-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out kkrusienski's Shuffles #bluey #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/bb/21/17/bb2117139a73a273fa8ea9d400a26ba4.jpg' alt='Check out kkrusienski's Shuffles #bluey #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/bb/21/17/bb2117139a73a273fa8ea9d400a26ba4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

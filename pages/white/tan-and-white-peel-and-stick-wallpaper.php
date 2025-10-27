@@ -1,0 +1,129 @@
+<title>Chic Tan & White Peel and Stick Wallpaper for a Stylish Update</title>
+                    <meta name="description" content="Discover the ease of tan and white peel and stick wallpaper! Perfect for a modern touch, this wallpaper is easy to apply, reposition, and remove, making it ideal for any room. Elevate your décor and create a fresh new look with minimal effort. Perfect for renters and DIY enthusiasts!">
+                    <meta name="keywords" content="tan and white peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/tan-and-white-peel-and-stick-wallpaper">
+                            <span itemprop="name">tan and white peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Tan & White Peel and Stick Wallpaper for a Stylish Update</h1>
+                <p>Transform your space effortlessly with tan and white peel and stick wallpaper. Perfect for adding a touch of elegance, this versatile wallpaper offers a stylish background that complements any décor. Easily removable and repositionable, it's ideal for renters or those looking to refresh their home aesthetics without the mess of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Tan And White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3526">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3476418795_r6np_b3068b82-928b-4aab-8513-e1af209e0c48.jpg' alt='Removable Wallpaper Tan And White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3526'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3476418795_r6np_b3068b82-928b-4aab-8513-e1af209e0c48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige and White Boho Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C681">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C681_07.png?v=1731636327&width=1946' alt='Beige and White Boho Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C681'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C681_07.png?v=1731636327&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742708250_5zbq.jpg?v=1650427361&width=3000' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742708250_5zbq.jpg?v=1650427361&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Tan and White Peel and Stick Wallpaper Country Farmhouse Style  Removable Wall Paper Roll Self Adhesive Contact Paper Decorative Twigs Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81NQg+s9lSL.jpg' alt='ReWallpaper Tan and White Peel and Stick Wallpaper Country Farmhouse Style  Removable Wall Paper Roll Self Adhesive Contact Paper Decorative Twigs Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81NQg+s9lSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige & White Floral Wallpaper W050">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/files/zoom_1_e87eb75a-b4db-436e-adaa-3afdfe3fcced.jpg?v=1687434008' alt='Beige & White Floral Wallpaper W050'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/files/zoom_1_e87eb75a-b4db-436e-adaa-3afdfe3fcced.jpg?v=1687434008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Herringbone White Tan Vinyl Peel & Stick Repositionable Wallpaper  Roll (Covers 28.18 Sq. Ft.) RMK11453WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4c8e4cf5-f910-46e0-9029-9d528d1fe574/svn/roommates-wallpaper-rolls-rmk11453wp-31_600.jpg' alt='RoomMates Herringbone White Tan Vinyl Peel & Stick Repositionable Wallpaper  Roll (Covers 28.18 Sq. Ft.) RMK11453WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4c8e4cf5-f910-46e0-9029-9d528d1fe574/svn/roommates-wallpaper-rolls-rmk11453wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CatCoq Herringbone Peel & Stick Wallpaper - Tan & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RMK11388RL-CatCoq-Herringbone-Peel-and-Stick-Wallpaper-tan-white_75277072-4b30-4adf-a1f1-2fe841585320.jpg?v=1572373182' alt='CatCoq Herringbone Peel & Stick Wallpaper - Tan & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RMK11388RL-CatCoq-Herringbone-Peel-and-Stick-Wallpaper-tan-white_75277072-4b30-4adf-a1f1-2fe841585320.jpg?v=1572373182' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige & White Floral Wallpaper W050">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/01_1_e3c951e6-cd5a-4dfe-b4ed-611ba87036c1_1080x.jpg?v=1687434008' alt='Beige & White Floral Wallpaper W050'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/01_1_e3c951e6-cd5a-4dfe-b4ed-611ba87036c1_1080x.jpg?v=1687434008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3873'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2330">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3742707932_3vg4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theper Beige Modern Striped Peel and Stick Wallpaper Boho 17.3"×197" Self  Adhesive Removable Wallpaper for Bedroom Waterproof White and Gold Contact  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IH5Jd7UHL.jpg' alt='Theper Beige Modern Striped Peel and Stick Wallpaper Boho 17.3"×197" Self  Adhesive Removable Wallpaper for Bedroom Waterproof White and Gold Contact  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IH5Jd7UHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

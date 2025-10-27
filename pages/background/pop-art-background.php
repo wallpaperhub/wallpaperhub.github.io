@@ -1,0 +1,129 @@
+<title>Discover the Vibrant World of Pop Art</title>
+                    <meta name="description" content="Explore the lively essence of pop art, a movement that blends popular culture with artistic creativity. Dive into its vibrant colors and bold themes that reflect consumerism and mass media. Perfect for art enthusiasts looking to appreciate a unique blend of tradition and modernity!">
+                    <meta name="keywords" content="pop art background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pop-art-background">
+                            <span itemprop="name">pop art background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Vibrant World of Pop Art</h1>
+                <p>Pop art emerged in the 1950s and is characterized by vibrant colors, bold lines, and imagery from popular culture. It celebrates mass media, consumerism, and everyday objects, transforming them into art. Artists like Andy Warhol and Roy Lichtenstein pushed boundaries, making art accessible and reflective of contemporary life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Red Background Stock Illustrations – 45,442 Pop Art Red ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pop-art-retro-comic-yellow-red-background-lightning-blast-halftone-dots-cartoon-superhero-vector-illustration-121187392.jpg' alt='Pop Art Red Background Stock Illustrations – 45,442 Pop Art Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pop-art-retro-comic-yellow-red-background-lightning-blast-halftone-dots-cartoon-superhero-vector-illustration-121187392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L21vdGFybzdfaWxsdXN0cmF0aW9uX29mX2NvbWljX3JldHJvX2JvcmRlcl9lZmZlY3RfZW1wdHlfYmFja2dyb181NTNiMDJmZS1jNTIzLTRiMWMtOWFkNS0zMWQxMGY5ZDcwYTZfMi5wbmc.png' alt='Pop Art Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L21vdGFybzdfaWxsdXN0cmF0aW9uX29mX2NvbWljX3JldHJvX2JvcmRlcl9lZmZlY3RfZW1wdHlfYmFja2dyb181NTNiMDJmZS1jNTIzLTRiMWMtOWFkNS0zMWQxMGY5ZDcwYTZfMi5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-comic-style-wallpaper_23-2148816310.jpg?semt=ais_hybrid' alt='Pop Art Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-comic-style-wallpaper_23-2148816310.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Pop Art Background Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/71693/vecteezypop-art-background-revan0522_generated.jpg' alt='Yellow Pop Art Background Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/71693/vecteezypop-art-background-revan0522_generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pop Art Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-585263-f3VQOn9M35-high_0000.jpg?w=660&q=60&fit=max&auto=format' alt='Pink Pop Art Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-585263-f3VQOn9M35-high_0000.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/953/022/small_2x/pop-art-rainbow-background-concept-free-vector.jpg' alt='Pop Art Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/953/022/small_2x/pop-art-rainbow-background-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pop Art Background Stock Illustrations – 267,821 Retro Pop ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/retro-pop-art-background-halftone-dots-starburst-rays-banner-comic-book-superhero-flat-vector-illustration-145516038.jpg' alt='Retro Pop Art Background Stock Illustrations – 267,821 Retro Pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/retro-pop-art-background-halftone-dots-starburst-rays-banner-comic-book-superhero-flat-vector-illustration-145516038.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop art 2025 background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/233/494/non_2x/pop-art-comic-doodle-speech-bubble-background-free-vector.jpg' alt='Pop art 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/233/494/non_2x/pop-art-comic-doodle-speech-bubble-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Background 8622670 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/622/670/non_2x/pop-art-background-free-vector.jpg' alt='Pop Art Background 8622670 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/622/670/non_2x/pop-art-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Vs Pink Pop Art Background Comic Style Retro Vector Graphic ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20220617/bg/2ae5394d39ffe.jpg!sw800' alt='Green Vs Pink Pop Art Background Comic Style Retro Vector Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20220617/bg/2ae5394d39ffe.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

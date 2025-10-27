@@ -1,0 +1,129 @@
+<title>Fiddler on the Roof: A Timeless Tale of Tradition and Change</title>
+                    <meta name="description" content="Discover Fiddler on the Roof, a classic musical that explores the clash of tradition and modernity through the story of Tevye, a Jewish milkman. This heartfelt tale resonates with audiences, showcasing love, family, and the struggles of adapting to change in a rapidly evolving world.">
+                    <meta name="keywords" content="fiddler on the roof">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fiddler-on-the-roof">
+                            <span itemprop="name">fiddler on the roof</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fiddler on the Roof: A Timeless Tale of Tradition and Change</h1>
+                <p>Fiddler on the Roof is a beloved musical that tells the story of Tevye, a Jewish milkman in Tsarist Russia, navigating tradition and change. Faced with modern challenges, Tevye struggles to balance faith, family, and the love of his daughters who seek their own paths. This poignant tale highlights the complexities of cultural shifts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof (film) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/5e/Fiddler_on_the_roof.jpg' alt='Fiddler on the Roof (film) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="254">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/5e/Fiddler_on_the_roof.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof (1971) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzYyYjJmMjctNzk3Yi00NmRhLWE5ZmQtZTNlZjU3MDMxNTBhXkEyXkFqcGc@._V1_.jpg' alt='Fiddler on the Roof (1971) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2736">
+                                <meta itemprop="height" content="4194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzYyYjJmMjctNzk3Yi00NmRhLWE5ZmQtZTNlZjU3MDMxNTBhXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studying Broadway Musicals: Fiddler on the Roof | MusicalWriters.com">
+                                <img itemprop="contentUrl url" src='https://www.musicalwriters.com/wp-content/uploads/2018/09/Fiddler-on-the-Roof.jpg' alt='Studying Broadway Musicals: Fiddler on the Roof | MusicalWriters.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusicalWriters.com" />
+                                </span>
+                                <a href='https://www.musicalwriters.com/wp-content/uploads/2018/09/Fiddler-on-the-Roof.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FIDDLER ON THE ROOF: 50th ANNIVERSARY REMASTERED LIMITED EDITION (3-CD SET)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-lj8wphc2lt/products/619/images/1558/FiddlerOnTheRoof_Cover__66276.1638241950.1280.1280.jpg?c=2&_gl=1*9cns7w*_ga*MTc0NTMwNDc1MS4xNjM0Mzk2NDI0*_ga_WS2VZYPC6G*MTYzODI0MDUxNi4zMS4xLjE2MzgyNDIxMDYuNjA.' alt='FIDDLER ON THE ROOF: 50th ANNIVERSARY REMASTERED LIMITED EDITION (3-CD SET)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La-La Land Records" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-lj8wphc2lt/products/619/images/1558/FiddlerOnTheRoof_Cover__66276.1638241950.1280.1280.jpg?c=2&_gl=1*9cns7w*_ga*MTc0NTMwNDc1MS4xNjM0Mzk2NDI0*_ga_WS2VZYPC6G*MTYzODI0MDUxNi4zMS4xLjE2MzgyNDIxMDYuNjA.' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof | Broadway, Film, Themes, & Songs | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/09/255009-050-4631D0D7/Topol-Fiddler-on-the-roof-London-1994-musical.jpg' alt='Fiddler on the Roof | Broadway, Film, Themes, & Songs | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/09/255009-050-4631D0D7/Topol-Fiddler-on-the-roof-London-1994-musical.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof" Gives a Fresh Take on Tradition - Word on Fire">
+                                <img itemprop="contentUrl url" src='https://woforgmedia.wordonfire.org/wp-content/uploads/2021/11/15101656/B_F_fiddler.png' alt='Fiddler on the Roof" Gives a Fresh Take on Tradition - Word on Fire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Word on Fire" />
+                                </span>
+                                <a href='https://woforgmedia.wordonfire.org/wp-content/uploads/2021/11/15101656/B_F_fiddler.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof (1971) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODA2NDQyMjgyMF5BMl5BanBnXkFtZTcwMTQzNzYzNA@@._V1_.jpg' alt='Fiddler on the Roof (1971) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODA2NDQyMjgyMF5BMl5BanBnXkFtZTcwMTQzNzYzNA@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof (1971) - Turner Classic Movies">
+                                <img itemprop="contentUrl url" src='https://prod-images.tcm.com/Master-Profile-Images/fiddlerontheroof1971.22940.jpg' alt='Fiddler on the Roof (1971) - Turner Classic Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TCM" />
+                                </span>
+                                <a href='https://prod-images.tcm.com/Master-Profile-Images/fiddlerontheroof1971.22940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof – Boise Music Week">
+                                <img itemprop="contentUrl url" src='https://boisemusicweek.org/wp-content/uploads/Fiddler-On-The-Roof-Color.jpg' alt='Fiddler on the Roof – Boise Music Week'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boise Music Week" />
+                                </span>
+                                <a href='https://boisemusicweek.org/wp-content/uploads/Fiddler-On-The-Roof-Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiddler on the Roof' Is the Base of My Jewish Identity – Kveller">
+                                <img itemprop="contentUrl url" src='https://www.kveller.com/wp-content/uploads/2020/02/fiddler1-1.jpg' alt='Fiddler on the Roof' Is the Base of My Jewish Identity – Kveller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5940">
+                                <meta itemprop="height" content="3960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kveller" />
+                                </span>
+                                <a href='https://www.kveller.com/wp-content/uploads/2020/02/fiddler1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

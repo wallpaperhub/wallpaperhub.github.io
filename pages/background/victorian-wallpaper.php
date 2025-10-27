@@ -1,0 +1,129 @@
+<title>Victorian Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Discover the beauty of Victorian wallpaper with intricate designs and rich colors, perfect for adding elegance to any space. Explore how these timeless patterns can enhance your home decor while celebrating historic charm. Ideal for modern interiors seeking a touch of classic sophistication.">
+                    <meta name="keywords" content="victorian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/victorian-wallpaper">
+                            <span itemprop="name">victorian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Victorian Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Victorian wallpaper, a hallmark of the 19th century, showcases intricate patterns and rich colors that reflect the opulence of the era. With designs ranging from floral motifs to damask, these wallpapers transformed interiors into lavish spaces. Today, they inspire modern decor while preserving a sense of historic charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Victorian Gothic Wallpaper – Mayflower Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/files/moody-strawberry-thief-arts-crafts-wallpaper-ac41110-473509.jpg?v=1733174644&width=600' alt='High Victorian Gothic Wallpaper – Mayflower Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/files/moody-strawberry-thief-arts-crafts-wallpaper-ac41110-473509.jpg?v=1733174644&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Floral Wallpaper • Victoria • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Ivory-1.jpg' alt='Victorian Floral Wallpaper • Victoria • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Ivory-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Damask Wallpaper Removable Vintage Peel and Stick Victorian Gold Design  Digital Vinyl - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1Jh2Ad9sJL.jpg' alt='Red Damask Wallpaper Removable Vintage Peel and Stick Victorian Gold Design  Digital Vinyl - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1Jh2Ad9sJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Garden by NextWall - Navy Blue - Wallpaper : Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/201660orig.jpg' alt='Victorian Garden by NextWall - Navy Blue - Wallpaper : Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/201660orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Vintage Victorian Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D076">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5017129553_smyc.jpg?v=1706924365&width=1946' alt='Dark Vintage Victorian Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D076'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5017129553_smyc.jpg?v=1706924365&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morrissey Reproduction Victorian Wallpaper Peel and Stick MFW41104">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/reproduction-victorian-wallpaper-313666.jpg?v=1679977281' alt='Morrissey Reproduction Victorian Wallpaper Peel and Stick MFW41104'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/reproduction-victorian-wallpaper-313666.jpg?v=1679977281' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Garden Floral Vintage Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/files/EP10102-B_1000x1000.jpg?v=1711424770' alt='Victorian Garden Floral Vintage Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/files/EP10102-B_1000x1000.jpg?v=1711424770' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Wallpaper, Gothic Wallpaper, Peacock Wallpaper, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/31412c/4003538720/il_570xN.4003538720_g83o.jpg' alt='Victorian Wallpaper, Gothic Wallpaper, Peacock Wallpaper, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/31412c/4003538720/il_570xN.4003538720_g83o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Embossed Wallpaper European Victorian Damask Wallcovering (5.3 ㎡)">
+                                <img itemprop="contentUrl url" src='http://www.bvm-home.com/cdn/shop/products/Wall-coverings-Modern-Embossed-Wallpaper-Beige-Blue-European-Victorian-Damask-3D-Texture-Wall-Paper-For-Bedrom_1200x1200.jpg?v=1582242403' alt='Modern Embossed Wallpaper European Victorian Damask Wallcovering (5.3 ㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='http://www.bvm-home.com/cdn/shop/products/Wall-coverings-Modern-Embossed-Wallpaper-Beige-Blue-European-Victorian-Damask-3D-Texture-Wall-Paper-For-Bedrom_1200x1200.jpg?v=1582242403' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flora - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' alt='Victorian Flora - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

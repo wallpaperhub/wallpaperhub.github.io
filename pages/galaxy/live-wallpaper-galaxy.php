@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking galaxy live wallpapers that illuminate your screen with vivid colors and cosmic wonders. Perfect for personalizing your device, these stunning visuals bring the beauty of the universe to life! Explore now and transform your mobile aesthetic effortlessly.">
+                    <meta name="keywords" content="live wallpaper galaxy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/live-wallpaper-galaxy">
+                            <span itemprop="name">live wallpaper galaxy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Live Wallpapers for Your Device</h1>
+                <p>Transform your device with mesmerizing live wallpaper galaxy designs! Experience endless cosmic beauty as stars twinkle and colorful nebulae swirl across your screen. Enhance your phone or tablet's aesthetic with stunning visuals that bring the universe to your fingertips. Dive into the galaxy and make your device truly unique!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/galaxy-live-1sppb5dq6qbm818b.jpg' alt='100+] Galaxy Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/galaxy-live-1sppb5dq6qbm818b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' alt='Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Moon And Galaxy Live Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-moon-and-galaxy-live-ycfjc86ydi2luvx7.jpg' alt='The Moon And Galaxy Live Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-moon-and-galaxy-live-ycfjc86ydi2luvx7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/UbZMxdLeK9SPe1NSuecE_Kp23KVZr3JAmwI-x_ETwzNtsFsIdSRez_L9QVEeuwlRpg' alt='Galaxy Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/UbZMxdLeK9SPe1NSuecE_Kp23KVZr3JAmwI-x_ETwzNtsFsIdSRez_L9QVEeuwlRpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Live Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/9eVtaFbrcBEI1b54uMkqhkYma4QH-pmowhsUgL3Jc1ZizNKtyrqdpBH24YbpwPtlVQ' alt='Galaxy Live Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/9eVtaFbrcBEI1b54uMkqhkYma4QH-pmowhsUgL3Jc1ZizNKtyrqdpBH24YbpwPtlVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' alt='Moving nebulas space travel hyperlapse floating through galaxy stars planet  universe cosmic travel outer space timelapse journey exploration nebula  infinity colorful motion futuristic sci'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/697/344/small_2x/moving-nebulas-space-travel-hyperlapse-floating-through-galaxy-stars-planet-universe-cosmic-travel-outer-space-timelapse-journey-exploration-nebula-infinity-colorful-motion-futuristic-sci-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets Galaxy Live Wallpapers HD 3D - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71964ZP3utL.jpg' alt='Planets Galaxy Live Wallpapers HD 3D - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71964ZP3utL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Space Live Wallpaper APK for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/15ec948b-1c98-4091-943e-c28c22bd6a42/3138369450/galaxy-space-live-wallpaper-screenshot.png' alt='Galaxy Space Live Wallpaper APK for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="galaxy-space-live-wallpaper.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/15ec948b-1c98-4091-943e-c28c22bd6a42/3138369450/galaxy-space-live-wallpaper-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy live 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-galaxy-live-ih08fr5hinz2ayk8.jpg' alt='Galaxy live 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-galaxy-live-ih08fr5hinz2ayk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy | LIVE Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/92/9f/8d929f876a1cf70a413e5dffb488b9ba.jpg' alt='Galaxy | LIVE Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/92/9f/8d929f876a1cf70a413e5dffb488b9ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

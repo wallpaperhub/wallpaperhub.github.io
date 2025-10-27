@@ -1,0 +1,129 @@
+<title>Beautiful Fall Background Patterns for Every Design</title>
+                    <meta name="description" content="Explore stunning fall background patterns that capture the essence of autumn! Perfect for crafts, digital designs, and seasonal decor, our collection features warm colors and nature-inspired elements. Embrace the flavors of fall and enhance your projects effortlessly!">
+                    <meta name="keywords" content="fall background pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-background-pattern">
+                            <span itemprop="name">fall background pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Fall Background Patterns for Every Design</h1>
+                <p>As autumn approaches, vibrant hues take center stage, creating captivating fall background patterns. Imagine a tapestry of warm reds, burnt oranges, and golden yellows, interspersed with falling leaves and pumpkin silhouettes. These seasonal patterns offer a cozy ambiance, perfect for invitations, décor, and digital designs, evoking the spirit of harvest.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-pattern-design-fall-season_23-2150643081.jpg' alt='Autumn Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-pattern-design-fall-season_23-2150643081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,216,900+ Fall Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1167625658/vector/seamless-pattern-of-autumn-leaves-vector-illustration.jpg?s=612x612&w=0&k=20&c=gaYtWoNl3TmSLCIdWeBLfkywLBKE3HyVzsofw_8zuoM=' alt='1,216,900+ Fall Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1167625658/vector/seamless-pattern-of-autumn-leaves-vector-illustration.jpg?s=612x612&w=0&k=20&c=gaYtWoNl3TmSLCIdWeBLfkywLBKE3HyVzsofw_8zuoM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Background Pattern Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/972/715/non_2x/seamless-pattern-with-autumn-leaves-hand-drawn-in-simple-flat-style-on-dark-green-background-cute-foliage-illustration-fall-sesonal-dark-backdrop-design-thanksgiving-autumn-sale-vector.jpg' alt='Fall Background Pattern Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1763">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/972/715/non_2x/seamless-pattern-with-autumn-leaves-hand-drawn-in-simple-flat-style-on-dark-green-background-cute-foliage-illustration-fall-sesonal-dark-backdrop-design-thanksgiving-autumn-sale-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,216,900+ Fall Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411815730/vector/seamless-pattern-with-autumn-leaves-and-acorns-vector-graphics.jpg?s=612x612&w=0&k=20&c=IXvgVqFhG_ZGm1W5puSDn5Fq3WbqKuMs7mMOvcqabFI=' alt='1,216,900+ Fall Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411815730/vector/seamless-pattern-with-autumn-leaves-and-acorns-vector-graphics.jpg?s=612x612&w=0&k=20&c=IXvgVqFhG_ZGm1W5puSDn5Fq3WbqKuMs7mMOvcqabFI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn pattern design for fall season">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-pattern-design-fall-season_23-2150654519.jpg' alt='Free Vector | Hand drawn pattern design for fall season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-pattern-design-fall-season_23-2150654519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute seamless autumn pattern background. Autumn wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/6300554/30245/v/1600/depositphotos_302454372-stock-illustration-cute-seamless-autumn-pattern-background.jpg' alt='Cute seamless autumn pattern background. Autumn wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/6300554/30245/v/1600/depositphotos_302454372-stock-illustration-cute-seamless-autumn-pattern-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/058/235/small_2x/seamless-pattern-autumn-leaves-of-a-maple-oak-birch-tree-fall-yellow-orange-red-leaf-texture-on-the-brown-background-foliage-backdrop-design-for-autumn-sale-template-for-banner-or-textile-free-vector.jpg' alt='Fall Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/058/235/small_2x/seamless-pattern-autumn-leaves-of-a-maple-oak-birch-tree-fall-yellow-orange-red-leaf-texture-on-the-brown-background-foliage-backdrop-design-for-autumn-sale-template-for-banner-or-textile-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Fall Pattern Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-fall-pattern-vwua0n8q53whdcj2.jpg' alt='100+] Cute Fall Pattern Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-fall-pattern-vwua0n8q53whdcj2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves Seamless Pattern, Fall Background, Autumn Digital Paper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23207112/r/il/381e9b/4118986275/il_570xN.4118986275_1xf9.jpg' alt='Autumn Leaves Seamless Pattern, Fall Background, Autumn Digital Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23207112/r/il/381e9b/4118986275/il_570xN.4118986275_1xf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fall Leaves Seamless Pattern - Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion_array/1711787/Cute_Fall_Leaves_Seamless_Pattern_high_resolution_preview_1711787.jpg?Expires=2037547195156&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=DlEPa89gfQRJs5QaF44eCNORpyOvSc3ZCqv7clda-5wPdRPXekDzN5HsiijcnbQkMVqPK~v07cLHVOhOd0Vh7u0Uf0wGt~-5ZEZzB5Qbh-WYeQSB-YahJukDK9ZD~-wAp-q1Rpu2s~XB595jBXCUeuBZd6l21J9~CnECHFS1AvyKU-YxrqbaDMJVN5wb9LfKjJijJIAQjlY9f8SVEJ66Uk~bJSLqi0HvqFvr3Z4FKgSdfYIv1gzFtAJOL~TyftIsPDZl9gcvE0ok50hbcPaZ3qUgYg43zTVJ9BmlbkCKEJUpgotjPe8J7UTOJUWED82cD9o1gMzzFixUs4pAi8d4cA__' alt='Cute Fall Leaves Seamless Pattern - Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion_array/1711787/Cute_Fall_Leaves_Seamless_Pattern_high_resolution_preview_1711787.jpg?Expires=2037547195156&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=DlEPa89gfQRJs5QaF44eCNORpyOvSc3ZCqv7clda-5wPdRPXekDzN5HsiijcnbQkMVqPK~v07cLHVOhOd0Vh7u0Uf0wGt~-5ZEZzB5Qbh-WYeQSB-YahJukDK9ZD~-wAp-q1Rpu2s~XB595jBXCUeuBZd6l21J9~CnECHFS1AvyKU-YxrqbaDMJVN5wb9LfKjJijJIAQjlY9f8SVEJ66Uk~bJSLqi0HvqFvr3Z4FKgSdfYIv1gzFtAJOL~TyftIsPDZl9gcvE0ok50hbcPaZ3qUgYg43zTVJ9BmlbkCKEJUpgotjPe8J7UTOJUWED82cD9o1gMzzFixUs4pAi8d4cA__' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

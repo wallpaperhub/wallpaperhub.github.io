@@ -1,0 +1,129 @@
+<title>Discover Stephen Sanchez: Rising Star of Modern Music</title>
+                    <meta name="description" content="Explore the captivating music of Stephen Sanchez, a rising star known for his heartfelt lyrics and captivating melodies. Join the journey of this talented singer-songwriter as he makes waves in the music industry. Don't miss out on his unique sound and emotional storytelling.">
+                    <meta name="keywords" content="stephen sanchez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stephen-sanchez">
+                            <span itemprop="name">stephen sanchez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stephen Sanchez: Rising Star of Modern Music</h1>
+                <p>Stephen Sanchez is an emerging singer-songwriter renowned for his heartfelt lyrics and soulful melodies. With a unique blend of pop and acoustic influences, he captures the essence of youthful love and vulnerability. His breakout single has resonated with audiences, establishing him as a compelling new voice in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Steven_Sanchez_%40_The_Wiltern_11_03_2023_%2853423444291%29_%28cropped%29.jpg/800px-Steven_Sanchez_%40_The_Wiltern_11_03_2023_%2853423444291%29_%28cropped%29.jpg' alt='Stephen Sanchez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Steven_Sanchez_%40_The_Wiltern_11_03_2023_%2853423444291%29_%28cropped%29.jpg/800px-Steven_Sanchez_%40_The_Wiltern_11_03_2023_%2853423444291%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/0J979A2VpBhyourw3rbrT4MEmSOfYWkjw2MuWTCTrsoMkYUv90KE9bEEmwvyoAAHpLb9p5yykw=s900-c-k-c0x00ffffff-no-rj' alt='Stephen Sanchez - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/0J979A2VpBhyourw3rbrT4MEmSOfYWkjw2MuWTCTrsoMkYUv90KE9bEEmwvyoAAHpLb9p5yykw=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez's 'Until I Found You': Singer on Hot 100 Success">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/12/stephen-sanchez-credit-meredith-truax-2022-billboard-1548.jpg' alt='Stephen Sanchez's 'Until I Found You': Singer on Hot 100 Success'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/12/stephen-sanchez-credit-meredith-truax-2022-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6726c3f8ac71b705075839b0/0x0.jpg?format=jpg&crop=1901,1901,x782,y8,safe&height=416&width=416&fit=bounds' alt='Stephen Sanchez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6726c3f8ac71b705075839b0/0x0.jpg?format=jpg&crop=1901,1901,x782,y8,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez: albums, songs, playlists | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/artist/acce3669f0944595429798cba0672645/1900x1900-000000-80-0-0.jpg' alt='Stephen Sanchez: albums, songs, playlists | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/artist/acce3669f0944595429798cba0672645/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet pop heartthrob Stephen Sanchez, a retro-loving romantic with ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/d/a3/da3a4fde-6eb8-11ee-8010-d700fc7b31fc/653188d6f2f9e.image.jpg?crop=1725%2C906%2C0%2C148&resize=1200%2C630&order=crop%2Cresize' alt='Meet pop heartthrob Stephen Sanchez, a retro-loving romantic with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Winston-Salem Journal" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/d/a3/da3a4fde-6eb8-11ee-8010-d700fc7b31fc/653188d6f2f9e.image.jpg?crop=1725%2C906%2C0%2C148&resize=1200%2C630&order=crop%2Cresize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez Reveals Lyric Swap at Sofia Richie's Wedding That ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/_GVDSEI7AeQ8nwu0lxINhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/1f0f19297a375861f00ec3da48a2cce5' alt='Stephen Sanchez Reveals Lyric Swap at Sofia Richie's Wedding That ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Lifestyle Canada" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/_GVDSEI7AeQ8nwu0lxINhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/1f0f19297a375861f00ec3da48a2cce5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez made a Spotify playlist of his influences | WNXP ...">
+                                <img itemprop="contentUrl url" src='https://wnxp.org/wp-content/uploads/2023/10/Stephen-Sanchez-960x640.jpg' alt='Stephen Sanchez made a Spotify playlist of his influences | WNXP ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WNXP" />
+                                </span>
+                                <a href='https://wnxp.org/wp-content/uploads/2023/10/Stephen-Sanchez-960x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Sanchez conjures jukeboxes and early rock n' roll on debut ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/83ddd04/2147483647/strip/false/crop/8200x6155+0+0/resize/1486x1115!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Ff2%2F678b8470dfc5f915cf6478b077d1%2Fe6dc25f6737f42d3a1b9654a1994d111' alt='Stephen Sanchez conjures jukeboxes and early rock n' roll on debut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="1115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/83ddd04/2147483647/strip/false/crop/8200x6155+0+0/resize/1486x1115!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Ff2%2F678b8470dfc5f915cf6478b077d1%2Fe6dc25f6737f42d3a1b9654a1994d111' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STEPHEN SANCHEZ — VESTAL">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/597b8104a5790a749435c296/1702883050039-U07MC5YSFI4M56Q27KMC/Stephen+Sanchez+20.jpg' alt='STEPHEN SANCHEZ — VESTAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.vestalmag.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/597b8104a5790a749435c296/1702883050039-U07MC5YSFI4M56Q27KMC/Stephen+Sanchez+20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

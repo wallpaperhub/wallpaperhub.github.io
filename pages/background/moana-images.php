@@ -1,0 +1,129 @@
+<title>Stunning Moana Images: Dive into the Adventure</title>
+                    <meta name="description" content="Discover beautiful Moana images that bring to life the enchanting world of Disney's classic film. Perfect for fans and enthusiasts, these visuals showcase captivating landscapes and beloved characters. Explore the adventure today!">
+                    <meta name="keywords" content="moana images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moana-images">
+                            <span itemprop="name">moana images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moana Images: Dive into the Adventure</h1>
+                <p>Explore stunning Moana images showcasing the breathtaking landscapes, vibrant characters, and enchanting moments from Disney's beloved film. Dive into visual wonders of the ocean, culture, and adventure as Moana embarks on her quest. Perfect for fans seeking inspiration and a glimpse into this animated world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Trends International Disney Moana - Ocean Floor Wall Poster,  34L x 22.4W, Premium Unframed Version: Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rjqvHFtkL.jpg' alt='Amazon.com: Trends International Disney Moana - Ocean Floor Wall Poster,  34L x 22.4W, Premium Unframed Version: Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rjqvHFtkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/56/Moana_%28character%29.png' alt='Moana (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="216">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/56/Moana_%28character%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest/scale-to-width-down/1200?cb=20240530203852' alt='Moana | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest/scale-to-width-down/1200?cb=20240530203852' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana: Gorgeous Animation, Expansive Mythology and a Captivating ...">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/cornellsun.com/wp-content/uploads/2016/11/moana.jpg?fit=950%2C613&ssl=1' alt='Moana: Gorgeous Animation, Expansive Mythology and a Captivating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cornell Daily Sun" />
+                                </span>
+                                <a href='https://i2.wp.com/cornellsun.com/wp-content/uploads/2016/11/moana.jpg?fit=950%2C613&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life-size Moana from Moana Cardboard Cutout">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1107/1833/2239_Moana_34__31741.1612890988.jpg?c=2' alt='Life-size Moana from Moana Cardboard Cutout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Advanced Graphics" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1107/1833/2239_Moana_34__31741.1612890988.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana | Disney Movies">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/p_moana_20530_214883e3.jpeg?region=0%2C0%2C540%2C810' alt='Moana | Disney Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Movies" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/p_moana_20530_214883e3.jpeg?region=0%2C0%2C540%2C810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Concept Art for the Moana Attraction at Disney World ...">
+                                <img itemprop="contentUrl url" src='https://www.kennythepirate.com/wp-content/uploads/2022/05/New-Plans-for-the-Moana-Attraction-at-Disney-World-480x270.jpg' alt='New Concept Art for the Moana Attraction at Disney World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KennythePirate.com" />
+                                </span>
+                                <a href='https://www.kennythepirate.com/wp-content/uploads/2022/05/New-Plans-for-the-Moana-Attraction-at-Disney-World-480x270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana 2: Moana & Simea Standee">
+                                <img itemprop="contentUrl url" src='https://amctheatresshop.com/cdn/shop/files/MNA2-MAS_5441_MF2_1445x.jpg?v=1732710627' alt='Moana 2: Moana & Simea Standee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AMC Theatres | The Shop" />
+                                </span>
+                                <a href='https://amctheatresshop.com/cdn/shop/files/MNA2-MAS_5441_MF2_1445x.jpg?v=1732710627' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trends International Disney Moana 2 - One Sheet Wall Poster, 34L x 22.4W,  Unframed Version">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rJElYBxPL._AC_UF894,1000_QL80_.jpg' alt='Trends International Disney Moana 2 - One Sheet Wall Poster, 34L x 22.4W,  Unframed Version'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rJElYBxPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Moana Characters That Left a Lasting Impression on Fans ...">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/12/moana-custom-image-1.jpg' alt='The Best Moana Characters That Left a Lasting Impression on Fans ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/12/moana-custom-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

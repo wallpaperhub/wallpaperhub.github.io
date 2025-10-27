@@ -1,0 +1,129 @@
+<title>Epic League of Legends Birthday Party Backdrop Ideas</title>
+                    <meta name="description" content="Discover stunning League of Legends birthday party backdrop ideas that set the stage for an unforgettable celebration! Perfect for gamers, our tips will help you create a vibrant atmosphere that captures the magic of LoL. Get ready to party in style with your favorite champions and stunning visuals!">
+                    <meta name="keywords" content="backdrop lol birthday party">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/backdrop-lol-birthday-party">
+                            <span itemprop="name">backdrop lol birthday party</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic League of Legends Birthday Party Backdrop Ideas</h1>
+                <p>Celebrate your birthday in style with a vibrant League of Legends (LoL) themed backdrop! Transform your party space into the summoner's rift with bold colors, iconic champions, and fun gaming motifs. Whether it's for kids or adult fans, an LoL backdrop sets the perfect scene for an epic celebration filled with friends, games, and memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surprise lol dolls Birthday Banner Personalized Party Backdrop Decoration  60x42 Inches - 5x3 Feet">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iyIkyqpTS._AC_UF894,1000_QL80_.jpg' alt='Surprise lol dolls Birthday Banner Personalized Party Backdrop Decoration  60x42 Inches - 5x3 Feet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iyIkyqpTS._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our dusty pink shimmer wall with added balloons && LOL dolls WHAT ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2573039228211765109' alt='Our dusty pink shimmer wall with added balloons && LOL dolls WHAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2573039228211765109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Backdrop Step & Repeat |The Brat Shack">
+                                <img itemprop="contentUrl url" src='https://thebratshack.com/wp-content/uploads/2021/08/backkdrop-516actual.jpg' alt='LOL Surprise Backdrop Step & Repeat |The Brat Shack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brat Shack" />
+                                </span>
+                                <a href='https://thebratshack.com/wp-content/uploads/2021/08/backkdrop-516actual.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Doll GirlBackdrop Banner Party Supplies Poster Movie Theme Background  for Photography Kids Birthday Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/32db6d52-9289-41ac-a109-1244ac8441d8.c3dc513992eafa8b619cbb05191892e0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='LOL Doll GirlBackdrop Banner Party Supplies Poster Movie Theme Background  for Photography Kids Birthday Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/32db6d52-9289-41ac-a109-1244ac8441d8.c3dc513992eafa8b619cbb05191892e0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocsicka LOL Surprise Background Happy Birthday Party Backdrops">
+                                <img itemprop="contentUrl url" src='http://www.mocsicka.com/cdn/shop/products/QQ-345.jpg?v=1690779005' alt='Mocsicka LOL Surprise Background Happy Birthday Party Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mocsicka Party" />
+                                </span>
+                                <a href='http://www.mocsicka.com/cdn/shop/products/QQ-345.jpg?v=1690779005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Dolls Birthday Party | Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/4d/b8/da4db8c861bb3fd61532696b4dce5dd5.jpg' alt='LOL Surprise Dolls Birthday Party | Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/4d/b8/da4db8c861bb3fd61532696b4dce5dd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Surprise Photo Backdrop Lol Glitter Pink Girls Birthday Party  Photography Background">
+                                <img itemprop="contentUrl url" src='http://www.dreamybackdrop.com/cdn/shop/products/1_503e8000-c0de-437e-95f9-bd3c7b8382b3_1024x.jpg?v=1676022658' alt='Customize Surprise Photo Backdrop Lol Glitter Pink Girls Birthday Party  Photography Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='http://www.dreamybackdrop.com/cdn/shop/products/1_503e8000-c0de-437e-95f9-bd3c7b8382b3_1024x.jpg?v=1676022658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Birthday Party Decorations For Home| Lofaris Backdrop Review">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/j64zaKtmfIE/maxresdefault.jpg' alt='LOL Birthday Party Decorations For Home| Lofaris Backdrop Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/j64zaKtmfIE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL 5ft Circle Backdrop - Event Rentals">
+                                <img itemprop="contentUrl url" src='https://eventrentalsja.com/wp-content/uploads/2020/11/IMG_20201115_164357_258.jpg' alt='LOL 5ft Circle Backdrop - Event Rentals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Event Rentals" />
+                                </span>
+                                <a href='https://eventrentalsja.com/wp-content/uploads/2020/11/IMG_20201115_164357_258.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Backdrop Step & Repeat |The Brat Shack">
+                                <img itemprop="contentUrl url" src='https://thebratshack.com/wp-content/uploads/2021/08/backkdrop-516ls.jpg' alt='LOL Surprise Backdrop Step & Repeat |The Brat Shack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1869">
+                                <meta itemprop="height" content="1623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brat Shack" />
+                                </span>
+                                <a href='https://thebratshack.com/wp-content/uploads/2021/08/backkdrop-516ls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

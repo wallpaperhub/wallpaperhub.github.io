@@ -1,0 +1,129 @@
+<title>Epic Fortnite Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a collection of amazing Fortnite wallpapers for your phone! Perfect for fans, our vibrant and dynamic designs showcase characters and landscapes from the game. Personalize your device with epic visuals that bring your gaming passion to life. Download now for a fresh look!">
+                    <meta name="keywords" content="fortnite wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/fortnite-wallpaper-for-phone">
+                            <span itemprop="name">fortnite wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Wallpapers for Your Phone</h1>
+                <p>Elevate your phone's aesthetic with stunning Fortnite wallpapers! Dive into a world of vibrant characters and epic landscapes that capture the essence of your favorite game. Whether you love the iconic Battle Royale scenes or want to showcase your favorite skins, there's a perfect wallpaper for every fan. Upgrade your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper] : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6nbbo314xl811.jpg' alt='Phone Wallpaper] : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6nbbo314xl811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite wallpaper for phone, Fortnite background HD 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/fd/94/b5fd9408abae0f1c36b7b6e7c1c6236c.jpg' alt='Fortnite wallpaper for phone, Fortnite background HD 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/fd/94/b5fd9408abae0f1c36b7b6e7c1c6236c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I was bored and wanted a phone wallpaper for Fortnite, figured I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6z6gzcn03ajz.jpg' alt='I was bored and wanted a phone wallpaper for Fortnite, figured I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6z6gzcn03ajz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite phone wallpapers - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspA50jjsCRrInmsMaiCsBQucuE0I0qCHkVTonrgMam2CzUnDgHNBeUdU_NfKiT0I_L7be7cq3BWirphaIizJku9dscEZ4bexXFr70QvzmhuTMIfXSsVYiihU7m9NAfbwYOsvkVQbnaZDQ/w1205-d-h2608/fortnite_live_event.jpg' alt='Fortnite phone wallpapers - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspA50jjsCRrInmsMaiCsBQucuE0I0qCHkVTonrgMam2CzUnDgHNBeUdU_NfKiT0I_L7be7cq3BWirphaIizJku9dscEZ4bexXFr70QvzmhuTMIfXSsVYiihU7m9NAfbwYOsvkVQbnaZDQ/w1205-d-h2608/fortnite_live_event.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1004632.jpg' alt='Fortnite Battle Royale Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1004632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-iphone-45uhlnxv2kuuc7e1.jpg' alt='100+] Fortnite Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-iphone-45uhlnxv2kuuc7e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite phone wallpapers - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqy7m7WHPztWcY0qh0dVGtf3K1NZ_nAe9_nUEB5lWUHy9P1MmacxBGqYcR2NE1Jx9mooZgVF3ZIWxei0Aw-uu3KLvFl5CxC3tSWKfg3jxZhuxkmhRTpFUbOvvI5z1os3e2AAXEHdvYDg0/w1205-d-h2608/FORTNITE+PHONE+WALLPAPER+HEROSCREEN+%25284%2529.jpg' alt='Fortnite phone wallpapers - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqy7m7WHPztWcY0qh0dVGtf3K1NZ_nAe9_nUEB5lWUHy9P1MmacxBGqYcR2NE1Jx9mooZgVF3ZIWxei0Aw-uu3KLvFl5CxC3tSWKfg3jxZhuxkmhRTpFUbOvvI5z1os3e2AAXEHdvYDg0/w1205-d-h2608/FORTNITE+PHONE+WALLPAPER+HEROSCREEN+%25284%2529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="520 Fortnite ideas | fortnite, best gaming wallpapers, skin images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4b/32/a3/4b32a376bb5a0d1fd2d526f791ff8663.jpg' alt='520 Fortnite ideas | fortnite, best gaming wallpapers, skin images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4b/32/a3/4b32a376bb5a0d1fd2d526f791ff8663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/e/9/88919-2160x3840-mobile-4k-fortnite-background-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/e/9/88919-2160x3840-mobile-4k-fortnite-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-phone-dxquczr5haah3iug.jpg' alt='100+] Fortnite Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-phone-dxquczr5haah3iug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

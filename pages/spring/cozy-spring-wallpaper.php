@@ -1,0 +1,129 @@
+<title>Cozy Spring Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Explore our cozy spring wallpaper collection, featuring floral prints and soft pastels. Perfect for refreshing your home decor, these designs bring the warmth and charm of spring indoors. Shop now and brighten your space with beautiful, nature-inspired wallpapers!">
+                    <meta name="keywords" content="cozy spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/cozy-spring-wallpaper">
+                            <span itemprop="name">cozy spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Spring Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with cozy spring wallpaper that brings warmth and charm to any room. Choose from floral patterns, soft pastels, and nature-inspired designs that evoke the beauty of springtime. Perfect for creating a peaceful atmosphere, our collection effortlessly enhances your home decor for a refreshing vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,295 Cozy Spring Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cozy-easter-spring-still-life-scene-cup-coffee-opened-notebook-pink-knitted-plaid-windowsill-vintage-feminine-styled-photo-136548054.jpg' alt='72,295 Cozy Spring Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cozy-easter-spring-still-life-scene-cup-coffee-opened-notebook-pink-knitted-plaid-windowsill-vintage-feminine-styled-photo-136548054.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy spring aesthetic wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/7c/f0/f67cf07126870280dd66e967b039c60b.jpg' alt='Cozy spring aesthetic wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/7c/f0/f67cf07126870280dd66e967b039c60b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shabby Spring Cozy Spring Flowers Spring Stock Photo 1036923376 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1036923376/display_1500/stock-photo-shabby-spring-cozy-spring-flowers-spring-rustic-wallpaper-with-small-purple-flowers-in-vase-1036923376.jpg' alt='Shabby Spring Cozy Spring Flowers Spring Stock Photo 1036923376 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1036923376/display_1500/stock-photo-shabby-spring-cozy-spring-flowers-spring-rustic-wallpaper-with-small-purple-flowers-in-vase-1036923376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,295 Cozy Spring Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cozy-spring-still-life-cup-hot-tea-bouquet-flowers-vintage-windowsill-pink-marshmallow-apartment-144449117.jpg' alt='72,295 Cozy Spring Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cozy-spring-still-life-cup-hot-tea-bouquet-flowers-vintage-windowsill-pink-marshmallow-apartment-144449117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Cozy spring atmosphere at home with lilac, book ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cozy-spring-atmosphere-home-with-lilac-book-candle-blooming-lilac-time_125565-160.jpg' alt='Premium Photo | Cozy spring atmosphere at home with lilac, book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cozy-spring-atmosphere-home-with-lilac-book-candle-blooming-lilac-time_125565-160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Spring Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11838700.jpg' alt='Cozy Spring Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1798">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11838700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy The Beauty And Freshness Of Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/enjoy-the-beauty-and-freshness-of-spring-0lrm2nsslj6t5gtl.jpg' alt='Enjoy The Beauty And Freshness Of Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/enjoy-the-beauty-and-freshness-of-spring-0lrm2nsslj6t5gtl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/ac/5f/e2ac5fcfbee97b544cde3aa144cee6ae.jpg' alt='35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/ac/5f/e2ac5fcfbee97b544cde3aa144cee6ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers in the window, pretty, rural, cozy, lovely, window, home ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/536/730/HD-wallpaper-flowers-in-the-window-pretty-rural-cozy-lovely-window-home-beautiful-spring-daisies-still-life-bouquet-flowers.jpg' alt='Flowers in the window, pretty, rural, cozy, lovely, window, home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/536/730/HD-wallpaper-flowers-in-the-window-pretty-rural-cozy-lovely-window-home-beautiful-spring-daisies-still-life-bouquet-flowers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Spring Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11838658.jpg' alt='Cozy Spring Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11838658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

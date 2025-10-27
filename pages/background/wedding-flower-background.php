@@ -1,0 +1,129 @@
+<title>Stunning Wedding Flower Backgrounds for Your Perfect Day</title>
+                    <meta name="description" content="Discover the beauty of wedding flower backgrounds, perfect for your special day. Enhance your ceremony with stunning floral arrangements that create dreamy backdrops and memorable photo opportunities. Make your wedding unforgettable with the elegance and charm of nature's finest blooms.">
+                    <meta name="keywords" content="wedding flower background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wedding-flower-background">
+                            <span itemprop="name">wedding flower background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wedding Flower Backgrounds for Your Perfect Day</h1>
+                <p>A wedding flower background adds a romantic touch to any ceremony, featuring beautiful blooms that enhance the overall ambiance. From lush bouquets to elegant floral archways, these arrangements create stunning backdrops for ceremonies and photos. Embrace nature's beauty, making your special day truly unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Flowers Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/769/837/non_2x/beautiful-pink-rose-flower-frame-with-watercolor-for-wedding-birthday-card-background-invitation-wallpaper-sticker-decoration-etc-vector.jpg' alt='Wedding Flowers Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/769/837/non_2x/beautiful-pink-rose-flower-frame-with-watercolor-for-wedding-birthday-card-background-invitation-wallpaper-sticker-decoration-etc-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White wedding flower background and decoration Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H0JARG/white-wedding-flower-background-and-decoration-2H0JARG.jpg' alt='White wedding flower background and decoration Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H0JARG/white-wedding-flower-background-and-decoration-2H0JARG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haoyiyi 7x5ft Wedding Bakcdrop White Flower Floral Green Grass Leaves Wall  Spring Photography Background Bridal Shower Valentine's Day Reception ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/718pz-6ySGL._AC_UF894,1000_QL80_.jpg' alt='Haoyiyi 7x5ft Wedding Bakcdrop White Flower Floral Green Grass Leaves Wall  Spring Photography Background Bridal Shower Valentine's Day Reception ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/718pz-6ySGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding invitation flower background with watercolor Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/44/56/21/1000_F_444562126_J0Mhj68fzqF5sId0r3FPYRhQnLVbYaXl.jpg' alt='Wedding invitation flower background with watercolor Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/44/56/21/1000_F_444562126_J0Mhj68fzqF5sId0r3FPYRhQnLVbYaXl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Flower Backdrop for Photography Decoration D1044">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/D1044-fang-1.jpg?v=1673495377&width=850' alt='Wedding Flower Backdrop for Photography Decoration D1044'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/D1044-fang-1.jpg?v=1673495377&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Flower Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210716/pngtree-wedding-watercolor-flowers-wedding-celebration-flowers-image_742540.jpg' alt='Wedding Flower Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210716/pngtree-wedding-watercolor-flowers-wedding-celebration-flowers-image_742540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Flowers Background Images – Browse 4,588,894 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/46/02/55/360_F_946025518_0cBkMZoQfzqx1dVbFNjJwAdeTJMmuLzR.jpg' alt='Wedding Flowers Background Images – Browse 4,588,894 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/46/02/55/360_F_946025518_0cBkMZoQfzqx1dVbFNjJwAdeTJMmuLzR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Wedding flower backdrop background, colorful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/ca/ce/f7caced2792d3509e22066109a5c1a33.jpg' alt='Premium Photo | Wedding flower backdrop background, colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/ca/ce/f7caced2792d3509e22066109a5c1a33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor floral wedding Autumn summer overlay background animation video.  Valentine's Day, Mother's Day, Weddings, and Women's Day background loop  video animation">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/023/429/662/large/watercolor-floral-wedding-autumn-summer-overlay-background-animation-valentine-s-day-mother-s-day-weddings-and-women-s-day-background-loop-animation-video.jpg' alt='Watercolor floral wedding Autumn summer overlay background animation video.  Valentine's Day, Mother's Day, Weddings, and Women's Day background loop  video animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/023/429/662/large/watercolor-floral-wedding-autumn-summer-overlay-background-animation-valentine-s-day-mother-s-day-weddings-and-women-s-day-background-loop-animation-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding flower arch hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TB041E/backdrop-wedding-flower-arch-decoration-beautiful-flowers-bouqet-white-and-yellow-wedding-background-chrysanthemum-and-orchid-on-brick-wall-TB041E.jpg' alt='Wedding flower arch hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TB041E/backdrop-wedding-flower-arch-decoration-beautiful-flowers-bouqet-white-and-yellow-wedding-background-chrysanthemum-and-orchid-on-brick-wall-TB041E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

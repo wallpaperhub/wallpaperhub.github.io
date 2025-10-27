@@ -1,0 +1,129 @@
+<title>Do Youthful Offenders Appear on Background Checks?</title>
+                    <meta name="description" content="Discover if youthful offenders show up on background checks. Learn about juvenile record protections, sealing, and expungement laws that impact legal visibility. Understand the nuances that could affect investigations.">
+                    <meta name="keywords" content="does youthful offender show background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-youthful-offender-show-background-check">
+                            <span itemprop="name">does youthful offender show background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Youthful Offenders Appear on Background Checks?</h1>
+                <p>A youthful offender may have certain legal protections that can affect background checks. Typically, juvenile records are sealed or expunged, meaning they won't show up in standard background checks. However, specific exceptions exist, particularly for serious offenses. It's important to know local laws concerning juvenile records.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Background Checks See Juvenile Records? - ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://www.scoutlogicscreening.com/wp-content/uploads/2024/06/CTA-Transparent-Destop-Option-2.png' alt='Can Background Checks See Juvenile Records? - ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="964">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScoutLogic" />
+                                </span>
+                                <a href='https://www.scoutlogicscreening.com/wp-content/uploads/2024/06/CTA-Transparent-Destop-Option-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Juvenile Records Show Up On FBI Background Checks? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PvEUJ5R0SVQ/hqdefault.jpg' alt='Do Juvenile Records Show Up On FBI Background Checks? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PvEUJ5R0SVQ/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arrest Records on Background Checks | Evan E. Zelig">
+                                <img itemprop="contentUrl url" src='https://eezlaw.com/wp-content/uploads/2020/10/Types-of-Background-Checks-in-California.jpg' alt='Arrest Records on Background Checks | Evan E. Zelig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Santa Rosa Criminal Defense Attorney" />
+                                </span>
+                                <a href='https://eezlaw.com/wp-content/uploads/2020/10/Types-of-Background-Checks-in-California.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Juvenile Record Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2023/11/how-to-remove-criminal-background-check.webp' alt='Will a Juvenile Record Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2023/11/how-to-remove-criminal-background-check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks: Georgia Law – The Blackacre Times">
+                                <img itemprop="contentUrl url" src='https://theblackacretimes.com/wp-content/uploads/2017/10/employment.jpg' alt='Criminal Background Checks: Georgia Law – The Blackacre Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Blackacre Times" />
+                                </span>
+                                <a href='https://theblackacretimes.com/wp-content/uploads/2017/10/employment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Juvenile Felony Show Up On A Background Check? | Felony ...">
+                                <img itemprop="contentUrl url" src='https://www.felonyrecordhub.com/ezoimgfmt/149792144.v2.pressablecdn.com/wp-content/uploads/2017/03/Will-a-juvenile-felony-show-up-on-a-background-che.png?ezimgfmt=rs:364x405/rscb1/ngcb1/notWebP' alt='Will A Juvenile Felony Show Up On A Background Check? | Felony ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felony Record Hub" />
+                                </span>
+                                <a href='https://www.felonyrecordhub.com/ezoimgfmt/149792144.v2.pressablecdn.com/wp-content/uploads/2017/03/Will-a-juvenile-felony-show-up-on-a-background-che.png?ezimgfmt=rs:364x405/rscb1/ngcb1/notWebP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Crimes Committed Before the Age of 18 Show Up on a Background ...">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/www.trustedemployees.com/wp-content/uploads/sites/4/2019/02/Will-crimes-from-before-the-age-of-18-show-up-on-a-background-check_feature-image.jpg?fit=4526%2C3333&ssl=1' alt='Will Crimes Committed Before the Age of 18 Show Up on a Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4526">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trusted Employees" />
+                                </span>
+                                <a href='https://i1.wp.com/www.trustedemployees.com/wp-content/uploads/sites/4/2019/02/Will-crimes-from-before-the-age-of-18-show-up-on-a-background-check_feature-image.jpg?fit=4526%2C3333&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Juvenile Record Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2024/12/juvenile-meaning-florida-1024x576.webp' alt='Will a Juvenile Record Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2024/12/juvenile-meaning-florida-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Juvenile Record Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2024/12/juvenile-classifications-1024x576.webp' alt='Will a Juvenile Record Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2024/12/juvenile-classifications-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

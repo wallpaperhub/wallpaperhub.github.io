@@ -1,0 +1,129 @@
+<title>Uzlabojiet miegu ar bre tiesiem: komforta un stila apvienojums</title>
+                    <meta name="description" content="Atklājiet bre tiesus - ideālu spilventiņu risinājumu, kas nodrošina komfortu un kvalitāti katru nakti. Izvēlieties no plašas krāsu un izmēru izvēles, kas pielāgosies jūsu guļamistabas stilam. Gūstiet labāku miegu ar mūsu bre tiesiem - jūsu miega kvalitāte ir svarīga!">
+                    <meta name="keywords" content="bre tiesi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bre-tiesi">
+                            <span itemprop="name">bre tiesi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uzlabojiet miegu ar bre tiesiem: komforta un stila apvienojums</h1>
+                <p>Bre tiesi ir populārs spilventiņu veids, kas sniedz komfortu un atbalstu guļot. Tie ir izgatavoti no mīkstām un elpojošām auduma šķiedrām, kas veicina labāku miega kvalitāti. Bre tiesi ir pieejami dažādās krāsās un izmēros, lai katrs varētu atrast sev piemērotu variantu. Gūstiet mierīgu miegu ar bre tiesiem!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SO much to be thankful for this year! As if we weren't blessed ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3512235665361119416' alt='SO much to be thankful for this year! As if we weren't blessed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3512235665361119416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjZkYjQ1NzYtZmU2Ny00MDg5LWFhYWEtYjQ0YThhOTU2M2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Bre Tiesi - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjZkYjQ1NzYtZmU2Ny00MDg5LWFhYWEtYjQ0YThhOTU2M2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi (@bre_tiesi) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565864685751074427' alt='Bre Tiesi (@bre_tiesi) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565864685751074427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi and Johnny Manziel's Relationship Timeline | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/05/Bre-Tiesi-and-Johnny-Manziel-s-Relationship-Timeline-5.jpg?quality=55&strip=all' alt='Bre Tiesi and Johnny Manziel's Relationship Timeline | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1377">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/05/Bre-Tiesi-and-Johnny-Manziel-s-Relationship-Timeline-5.jpg?quality=55&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi on 'Selling Sunset' Season 8 and Where the Cast Stand Now">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bre-tiesi-on-selling-sunset-season-8-and-where-the-cast-stand-now-66e03bb6cf3c5.jpg?crop=0.563xw:1.00xh;0.220xw,0&resize=1200:*' alt='Bre Tiesi on 'Selling Sunset' Season 8 and Where the Cast Stand Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmopolitan" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bre-tiesi-on-selling-sunset-season-8-and-where-the-cast-stand-now-66e03bb6cf3c5.jpg?crop=0.563xw:1.00xh;0.220xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nick Cannon: Bre Tiesi Explains Their "Open" Relationship (Video)">
+                                <img itemprop="contentUrl url" src='https://theshaderoom.com/wp-content/uploads/2024/12/Whew-Social-Media-Goes-OFF-After-Bre-Tiesi-Explains-Open-Relationship-With-Nick-Cannon-WATCH-675x675.jpg' alt='Nick Cannon: Bre Tiesi Explains Their "Open" Relationship (Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Shade Room" />
+                                </span>
+                                <a href='https://theshaderoom.com/wp-content/uploads/2024/12/Whew-Social-Media-Goes-OFF-After-Bre-Tiesi-Explains-Open-Relationship-With-Nick-Cannon-WATCH-675x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Bre Tiesi? All About the 'Selling Sunset' Cast Member">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/y8bdJa80dGFbkqdXn2R5TwZx-d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bre-tiesi-1-bf4349828897489fa0091f537148cd95.jpg' alt='Who Is Bre Tiesi? All About the 'Selling Sunset' Cast Member'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/y8bdJa80dGFbkqdXn2R5TwZx-d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bre-tiesi-1-bf4349828897489fa0091f537148cd95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi | This dress speaks its own language    What are your ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3151987329498464668' alt='Bre Tiesi | This dress speaks its own language    What are your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3151987329498464668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bre Tiesi had the most insane transformation : r/SellingSunset">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bre-tiesi-had-the-most-insane-transformation-v0-711ylh2kcu1b1.jpg?width=640&format=pjpg&auto=webp&s=0bfad2f173f589c9cb6770e61138b6b0643d11d0' alt='Bre Tiesi had the most insane transformation : r/SellingSunset'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bre-tiesi-had-the-most-insane-transformation-v0-711ylh2kcu1b1.jpg?width=640&format=pjpg&auto=webp&s=0bfad2f173f589c9cb6770e61138b6b0643d11d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Draw me like one of your French girls">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2695377110117075031' alt='Draw me like one of your French girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2695377110117075031' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

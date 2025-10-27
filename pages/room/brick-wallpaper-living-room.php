@@ -1,0 +1,129 @@
+<title>Upgrade Your Living Room with Stylish Brick Wallpaper</title>
+                    <meta name="description" content="Discover how brick wallpaper can elevate your living room decor! From rustic charm to modern elegance, our guide helps you choose the perfect design. Transform your space effortlessly and create a warm, inviting atmosphere in just a few simple steps!">
+                    <meta name="keywords" content="brick wallpaper living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/brick-wallpaper-living-room">
+                            <span itemprop="name">brick wallpaper living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Upgrade Your Living Room with Stylish Brick Wallpaper</h1>
+                <p>Transform your living room with stylish brick wallpaper! This trendy option adds texture and depth, creating a cozy ambiance. Whether you choose classic red brick or modern grey tones, brick wallpaper can easily enhance your space, making it feel both contemporary and inviting. Perfect for accent walls or a full-room makeover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battersea Brick Wallpaper in Neutral">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/3-BatterseaBrickWallEffect_Neutral_ILW3400_Roomset-Detail_WEB.webp?v=1705592858' alt='Battersea Brick Wallpaper in Neutral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/3-BatterseaBrickWallEffect_Neutral_ILW3400_Roomset-Detail_WEB.webp?v=1705592858' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' alt='STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QIHANG Red Brick Wall Modern Wallpaper Textured Bricks PVC Wallpaper 0.53m  x 10m=5.3㎡ - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Kcg-18fgL.jpg' alt='QIHANG Red Brick Wall Modern Wallpaper Textured Bricks PVC Wallpaper 0.53m  x 10m=5.3㎡ - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Kcg-18fgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Wall">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/19987/pr22/1/1280/brick-wall-red-brick-wallpaper.jpg' alt='Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/19987/pr22/1/1280/brick-wall-red-brick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bricks Clay">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1643798134/articles/R18514_interior1.jpg' alt='Bricks Clay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1799">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1643798134/articles/R18514_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Wallpaper, Textured, Removable and Waterproof for Home Design and  Room Decoration, Super Large Size 10m x 0.53m / 393.7'' x 21''">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Brick-Wallpaper-Textured-Removable-and-Waterproof-for-Home-Design-and-Room-Decoration-Super-Large-Size-10m-x-0-53m-393-7-x-21_c804ea73-88e9-4492-a254-7712a459bf2e.cb7874b40975e7d301fc1e4fe5e02bed.jpeg' alt='Brick Wallpaper, Textured, Removable and Waterproof for Home Design and  Room Decoration, Super Large Size 10m x 0.53m / 393.7'' x 21'''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Brick-Wallpaper-Textured-Removable-and-Waterproof-for-Home-Design-and-Room-Decoration-Super-Large-Size-10m-x-0-53m-393-7-x-21_c804ea73-88e9-4492-a254-7712a459bf2e.cb7874b40975e7d301fc1e4fe5e02bed.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Brick Design Living Room L1882 Commercial Removable Wallpaper Self  Adhesive Wallpaper Peel & Stick Wallpaper Wallpaper Mural AJSTOREArt">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33607814/r/il/6c89e6/3659520052/il_570xN.3659520052_js91.jpg' alt='3D Brick Design Living Room L1882 Commercial Removable Wallpaper Self  Adhesive Wallpaper Peel & Stick Wallpaper Wallpaper Mural AJSTOREArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33607814/r/il/6c89e6/3659520052/il_570xN.3659520052_js91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Brick Wall Stone Wallpaper Living Room TV Sofa Background Paper Covering">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/UoQAAOSw9pVjQ9qd/s-l1200.jpg' alt='3D Brick Wall Stone Wallpaper Living Room TV Sofa Background Paper Covering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/UoQAAOSw9pVjQ9qd/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STICKEEP Brown Brick Wallpaper Peel and Stick Faux Brick Contact Paper for  Walls Removable Peel and Stick Brick Wallpaper for Bedroom Living Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MjgILpA+L.jpg' alt='STICKEEP Brown Brick Wallpaper Peel and Stick Faux Brick Contact Paper for  Walls Removable Peel and Stick Brick Wallpaper for Bedroom Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MjgILpA+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

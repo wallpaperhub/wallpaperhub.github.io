@@ -1,0 +1,129 @@
+<title>Adorable Baby Highland Cows: The Cutest Calves</title>
+                    <meta name="description" content="Explore the charm of baby Highland cows! Discover why these fluffy, playful calves are taking the internet by storm. Their endearing nature and unique looks make them a favorite among animal lovers. Dive into the world of Highland cows and witness the cuteness that captivates hearts! Perfect for all ages!">
+                    <meta name="keywords" content="cute baby highland cow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-baby-highland-cow">
+                            <span itemprop="name">cute baby highland cow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Baby Highland Cows: The Cutest Calves</h1>
+                <p>Meet the adorable baby Highland cow, also known as a "critter with charm!" With their fluffy, long hair and gentle nature, these little calves are an instant mood lifter. In lush green pastures, their playful antics bring joy to onlookers. Discover the cuteness of Highland calves and find out why they steal hearts everywhere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Photo Friday: Scottish Highland Calves - S.M. Stevens">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/authorsmstevens.com/wp-content/uploads/2019/11/highland-calf-3.jpg?fit=648%2C648&ssl=1' alt='Fun Photo Friday: Scottish Highland Calves - S.M. Stevens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="S.M. Stevens" />
+                                </span>
+                                <a href='https://i0.wp.com/authorsmstevens.com/wp-content/uploads/2019/11/highland-calf-3.jpg?fit=648%2C648&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Highland Cow in the Palm of Your Hand (digital Print) - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43239411/r/il/a85fe1/6025140170/il_570xN.6025140170_p846.jpg' alt='Baby Highland Cow in the Palm of Your Hand (digital Print) - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43239411/r/il/a85fe1/6025140170/il_570xN.6025140170_p846.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bestest Smile of Fred - Mini Cows and Highland Cows Video">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7332653292285201707&location=0&aid=1988' alt='The Bestest Smile of Fred - Mini Cows and Highland Cows Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7332653292285201707&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Highland Cow Yellow Flowers Sitting in Planter Paws ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/03/03/Cute-Baby-Highland-Cow-Yellow-Flowers-Sitting-In-Planter-Paws-63035898-1.png' alt='Cute Baby Highland Cow Yellow Flowers Sitting in Planter Paws ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/03/03/Cute-Baby-Highland-Cow-Yellow-Flowers-Sitting-In-Planter-Paws-63035898-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This cutie is called a highland cow! Highland cows babies are ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hv35mpa8z8a51.jpg?width=640&crop=smart&auto=webp&s=73867ba52769a3a3982f8124d4b071de426a234b' alt='This cutie is called a highland cow! Highland cows babies are ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hv35mpa8z8a51.jpg?width=640&crop=smart&auto=webp&s=73867ba52769a3a3982f8124d4b071de426a234b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Mini Highland Cow on a Farm">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434024309061995818&location=0&aid=1988' alt='Adorable Mini Highland Cow on a Farm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434024309061995818&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spoiled' Mini Highland Cow That Acts Like a Dog Is Just Too Cute">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/m6MxfO8W0W4nqhFXbQt8fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOQ--/https://media.zenfs.com/en/pethelpful_915/461c9be2c4c556949354d54f072a085c' alt='Spoiled' Mini Highland Cow That Acts Like a Dog Is Just Too Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/m6MxfO8W0W4nqhFXbQt8fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOQ--/https://media.zenfs.com/en/pethelpful_915/461c9be2c4c556949354d54f072a085c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If You Ever Feel Sad, These 50 Highland Cattle Calves Will Make ...">
+                                <img itemprop="contentUrl url" src='https://static.boredpanda.com/blog/wp-content/uploads/2017/10/cute-baby-highland-cattle-calves-fb8.png' alt='If You Ever Feel Sad, These 50 Highland Cattle Calves Will Make ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://static.boredpanda.com/blog/wp-content/uploads/2017/10/cute-baby-highland-cattle-calves-fb8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XDTIOPIMY Wild Animal Wall Art Decor Cute Baby Highland Cow Eating Wildlife  Wall Art Poster Best Gift for Yourself And Friends Modern Family bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71V3wts5S2L._AC_UF894,1000_QL80_.jpg' alt='XDTIOPIMY Wild Animal Wall Art Decor Cute Baby Highland Cow Eating Wildlife  Wall Art Poster Best Gift for Yourself And Friends Modern Family bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71V3wts5S2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Highland Cow loves affection | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=782646843157599&get_thumbnail=1' alt='Cute Baby Highland Cow loves affection | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=782646843157599&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

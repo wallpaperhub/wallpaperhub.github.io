@@ -1,0 +1,129 @@
+<title>Exciting LOL Coloring Pages for Creative Fun</title>
+                    <meta name="description" content="Explore a collection of fun and engaging LOL coloring pages! Perfect for all ages, these printable designs inspire creativity and provide hours of enjoyment. Download now and start bringing your favorite LOL characters to life with vibrant colors!">
+                    <meta name="keywords" content="lol coloring pages">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lol-coloring-pages">
+                            <span itemprop="name">lol coloring pages</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting LOL Coloring Pages for Creative Fun</h1>
+                <p>Unleash your creativity with LOL coloring pages featuring your favorite characters! Perfect for kids and adults alike, these fun pages provide hours of entertainment. From vibrant outfits to whimsical backgrounds, each page invites you to bring the LOL Surprise world to life. Grab your colors and start creating today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="L.O.L. Surprise! Coloring Pages | CultureFly">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0022/8543/6973/files/LOL_November2022_ColoringPage_3.jpg?v=1667918782' alt='L.O.L. Surprise! Coloring Pages | CultureFly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CultureFly" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0022/8543/6973/files/LOL_November2022_ColoringPage_3.jpg?v=1667918782' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Free Printable LOL Doll Coloring Pages for Kids ...">
+                                <img itemprop="contentUrl url" src='https://jerwoodvisualarts.org/wp-content/uploads/2024/12/magical_unicorn_coloring_page-2.jpg' alt='12 Free Printable LOL Doll Coloring Pages for Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jerwood Visual Arts" />
+                                </span>
+                                <a href='https://jerwoodvisualarts.org/wp-content/uploads/2024/12/magical_unicorn_coloring_page-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Doll Coloring Pages for kid">
+                                <img itemprop="contentUrl url" src='x-raw-image:///c59177578cd7d77ff64622f0cc41a322152b10313e69dc6b823fc88fb4ec835e' alt='LOL Surprise Doll Coloring Pages for kid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UW Career & Internship Center" />
+                                </span>
+                                <a href='x-raw-image:///c59177578cd7d77ff64622f0cc41a322152b10313e69dc6b823fc88fb4ec835e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 L.O.L. Surprise Coloring Pages (FREE Printable PDF)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc_vaCMjTjn8S5d4d-toq8ESZkEWcJNtZ8WE4g5N_Ir7hVFX-Wv-ox0BJ8SLMYzhOIWPGuiFwkefdYkw7ShlDWCKD0VOmrM6M9wRLsMMlhLxIUClgAHIFgXN-rwXZOyVxW5ihmEPhivFaePMoGvN4iZ9yRik3k2jEGcTD6FXVmGj8NIADDWGZKPz_jK0js/w300-rw/two-lol-surprise-dolls-coloring-page.png' alt='28 L.O.L. Surprise Coloring Pages (FREE Printable PDF)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coloring8" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc_vaCMjTjn8S5d4d-toq8ESZkEWcJNtZ8WE4g5N_Ir7hVFX-Wv-ox0BJ8SLMYzhOIWPGuiFwkefdYkw7ShlDWCKD0VOmrM6M9wRLsMMlhLxIUClgAHIFgXN-rwXZOyVxW5ihmEPhivFaePMoGvN4iZ9yRik3k2jEGcTD6FXVmGj8NIADDWGZKPz_jK0js/w300-rw/two-lol-surprise-dolls-coloring-page.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable L.O.L Coloring Pages For Kids">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/ba/c4/dcbac4705e311c9c7ade182422f732be.jpg' alt='Free Printable L.O.L Coloring Pages For Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/ba/c4/dcbac4705e311c9c7ade182422f732be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Free Printable - Coloringpagesonly.com - Download and print ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=896931612472948' alt='All Free Printable - Coloringpagesonly.com - Download and print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1101">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=896931612472948' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL Surprise Unicorn Coloring Page">
+                                <img itemprop="contentUrl url" src='https://coloringoo.com/wp-content/uploads/2020/02/lol-surprise-unicorn-coloring-page.png' alt='LOL Surprise Unicorn Coloring Page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coloringoo.com" />
+                                </span>
+                                <a href='https://coloringoo.com/wp-content/uploads/2020/02/lol-surprise-unicorn-coloring-page.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOL OMG Coloring Pages | Free to Print">
+                                <img itemprop="contentUrl url" src='https://coloringsmile.com/wp-content/uploads/2024/09/9917-1317-lol-omg-big-sister-twilight.jpg' alt='LOL OMG Coloring Pages | Free to Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColoringSmile.com" />
+                                </span>
+                                <a href='https://coloringsmile.com/wp-content/uploads/2024/09/9917-1317-lol-omg-big-sister-twilight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="L.O.L. Surprise! Coloring Pages | CultureFly">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0022/8543/6973/files/LOL_June2022_ColoringPages_1-2.jpg?v=1655424803' alt='L.O.L. Surprise! Coloring Pages | CultureFly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CultureFly" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0022/8543/6973/files/LOL_June2022_ColoringPages_1-2.jpg?v=1655424803' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lol Baby Coloring Pages to Print - Free Printable Coloring Pages">
+                                <img itemprop="contentUrl url" src='https://lang.just-coloring-pages.com/inc/assets/colorings/lol-baby-coloring-pages-39-1.webp' alt='Lol Baby Coloring Pages to Print - Free Printable Coloring Pages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Coloring Pages" />
+                                </span>
+                                <a href='https://lang.just-coloring-pages.com/inc/assets/colorings/lol-baby-coloring-pages-39-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

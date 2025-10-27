@@ -1,0 +1,129 @@
+<title>Stunning Black Tiger Photos: Capturing Nature's Shadow</title>
+                    <meta name="description" content="Explore breathtaking black tiger photos that highlight the beauty and rarity of these elusive big cats. Perfect for wildlife lovers and photography enthusiasts, our collection showcases their striking features and unique habitat. Discover the wonder of black tigers in stunning detail!">
+                    <meta name="keywords" content="black tiger photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-tiger-photo">
+                            <span itemprop="name">black tiger photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Tiger Photos: Capturing Nature's Shadow</h1>
+                <p>Discover the majestic beauty of the black tiger through stunning photographs. These rare and elusive big cats captivate with their striking coat and powerful presence. Each image showcases their unique features and habitat, captivating wildlife enthusiasts and photographers alike. Explore the world of black tigers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A striking photograph of a Rare black... - Nature and Animals ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=422887240335169' alt='A striking photograph of a Rare black... - Nature and Animals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=422887240335169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secrets of Ultrarare Black Tigers Revealed | Scientific American">
+                                <img itemprop="contentUrl url" src='https://static.scientificamerican.com/sciam/cache/file/5E25DF24-DD8D-4A2F-9F1B1ACBE0C8F5CD_source.jpg?w=1200' alt='Secrets of Ultrarare Black Tigers Revealed | Scientific American'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific American" />
+                                </span>
+                                <a href='https://static.scientificamerican.com/sciam/cache/file/5E25DF24-DD8D-4A2F-9F1B1ACBE0C8F5CD_source.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShukerNature: THE BLACK TIGER – A VERITABLE BÊTE NOIRE OF MYSTERY CATS">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYB9PhExvlOKMBMaQuh2Sl2-xEfKu-9e_0izZ5F5kp-v8p6XlG1YkgGKyCjB-Gv_A6K1uEcVjW1F6aqN41gIHCcMyiYOSR7uGwLEr-WfTAuelA8ZqYt_LO64-dTaZpAwGi-mx9ZGikL9g/s1600/BlackTiger%252Ccomputer-generated.jpg' alt='ShukerNature: THE BLACK TIGER – A VERITABLE BÊTE NOIRE OF MYSTERY CATS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShukerNature" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYB9PhExvlOKMBMaQuh2Sl2-xEfKu-9e_0izZ5F5kp-v8p6XlG1YkgGKyCjB-Gv_A6K1uEcVjW1F6aqN41gIHCcMyiYOSR7uGwLEr-WfTAuelA8ZqYt_LO64-dTaZpAwGi-mx9ZGikL9g/s1600/BlackTiger%252Ccomputer-generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Tiger Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/723/802/small/ai-generated-cute-feline-looking-at-camera-black-and-white-generated-by-ai-photo.jpg' alt='Black Tiger Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/723/802/small/ai-generated-cute-feline-looking-at-camera-black-and-white-generated-by-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Shot of Rare Black Tiger Among National Geographic's ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/jbi8vAKQx-7vXoNRHklvpZABIfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/national-geographic-pictures-of-the-year-1-112724-2d28e3322c504e59b01ddac3576d28bd.jpg' alt='Stunning Shot of Rare Black Tiger Among National Geographic's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/jbi8vAKQx-7vXoNRHklvpZABIfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/national-geographic-pictures-of-the-year-1-112724-2d28e3322c504e59b01ddac3576d28bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Tigers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/f5/d8/6f/f5d86f3c5a348713f9fa023916256794.jpg' alt='Black Tigers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/f5/d8/6f/f5d86f3c5a348713f9fa023916256794.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,200+ Black Tiger Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307015364/photo/animal-photo.jpg?s=612x612&w=0&k=20&c=XRERfkjk_VsXEF0SFH_g9e8jqAkwtdHs6Jb0qrZox4g=' alt='29,200+ Black Tiger Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307015364/photo/animal-photo.jpg?s=612x612&w=0&k=20&c=XRERfkjk_VsXEF0SFH_g9e8jqAkwtdHs6Jb0qrZox4g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rare Black Tiger Spotted In Odisha">
+                                <img itemprop="contentUrl url" src='https://im.indiatimes.in/content/2023/Dec/Rare-Black-Tiger-Discovery-In-Odisha_65894506be496.png?w=1200&h=900&cc=1&webp=1&q=75' alt='Rare Black Tiger Spotted In Odisha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiatimes" />
+                                </span>
+                                <a href='https://im.indiatimes.in/content/2023/Dec/Rare-Black-Tiger-Discovery-In-Odisha_65894506be496.png?w=1200&h=900&cc=1&webp=1&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,200+ Black Tiger Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/531467588/photo/black-jaguar-walking-towards-viewer.jpg?s=612x612&w=0&k=20&c=dPEqSbFF3TyroEoxxb4-1S6CAr9Qw8VBrdpwbyDLeE8=' alt='29,200+ Black Tiger Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/531467588/photo/black-jaguar-walking-towards-viewer.jpg?s=612x612&w=0&k=20&c=dPEqSbFF3TyroEoxxb4-1S6CAr9Qw8VBrdpwbyDLeE8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Tiger Images – Browse 472,548 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/65/68/76/360_F_565687665_7U8pn7TGEUCc6yExYYwd3xney8M5RB4Q.jpg' alt='Black Tiger Images – Browse 472,548 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/65/68/76/360_F_565687665_7U8pn7TGEUCc6yExYYwd3xney8M5RB4Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Lowe's History: From Local Hardware Store to Home Improvement Giant</title>
+                    <meta name="description" content="Discover the fascinating history of Lowe's, from its humble beginnings as a local hardware store to becoming a leading home improvement retailer across the U.S. Learn how it evolved over the decades and shaped the industry.">
+                    <meta name="keywords" content="lowes history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lowes-history">
+                            <span itemprop="name">lowes history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lowe's History: From Local Hardware Store to Home Improvement Giant</h1>
+                <p>Founded in 1946 by Lucius Smith Lowe in North Wilkesboro, North Carolina, Lowe's began as a small hardware store. Over the decades, it expanded into a major home improvement retailer. By 1985, Lowe's was publicly traded, and today, it operates over 2,000 stores across the U.S., serving millions with quality products and services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | Lowe's Corporate">
+                                <img itemprop="contentUrl url" src='https://corporate.lowes.com/sites/lowes-corp/files/images/1921.png' alt='Our History | Lowe's Corporate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's Corporate" />
+                                </span>
+                                <a href='https://corporate.lowes.com/sites/lowes-corp/files/images/1921.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | Lowe's Corporate">
+                                <img itemprop="contentUrl url" src='https://corporate.lowes.com/sites/lowes-corp/files/Our-history/1949.jpg' alt='Our History | Lowe's Corporate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1593">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's Corporate" />
+                                </span>
+                                <a href='https://corporate.lowes.com/sites/lowes-corp/files/Our-history/1949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | Lowe's Corporate">
+                                <img itemprop="contentUrl url" src='https://corporate.lowes.com/sites/lowes-corp/files/images/1958.jpg' alt='Our History | Lowe's Corporate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's Corporate" />
+                                </span>
+                                <a href='https://corporate.lowes.com/sites/lowes-corp/files/images/1958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Lowe's Looked Like When the Home-Improvement Retailer Opened ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5e304a9324306a32bd4884c5?width=800&format=jpeg&auto=webp' alt='What Lowe's Looked Like When the Home-Improvement Retailer Opened ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5e304a9324306a32bd4884c5?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Lowe's Looked Like When the Home-Improvement Retailer Opened ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5e2eecff5bc79c40bc21e30a?width=800&format=jpeg&auto=webp' alt='What Lowe's Looked Like When the Home-Improvement Retailer Opened ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5e2eecff5bc79c40bc21e30a?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Construction Mogul - The Lowes Story">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MwafZMQNGTM/maxresdefault.jpg' alt='A Construction Mogul - The Lowes Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MwafZMQNGTM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Lowe's Looked Like When the Home-Improvement Retailer Opened ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5e304bad24306a348d3130b3?width=800&format=jpeg&auto=webp' alt='What Lowe's Looked Like When the Home-Improvement Retailer Opened ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5e304bad24306a348d3130b3?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Lowe's Looked Like When the Home-Improvement Retailer Opened ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5e304b145bc79c397105e2c6?width=1200&format=jpeg' alt='What Lowe's Looked Like When the Home-Improvement Retailer Opened ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5e304b145bc79c397105e2c6?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lowe's Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/03/Lowes-Logo-history.png' alt='Lowe's Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/03/Lowes-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See what Lowe's looked like when the home-improvement giant first ...">
+                                <img itemprop="contentUrl url" src='https://staticbiassets.in/thumb/msid-73707430,width-700,height-525,imgsize-576484/that-business-was-a-precursor-to-the-modern-day-home-improvement-chain-.jpg' alt='See what Lowe's looked like when the home-improvement giant first ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://staticbiassets.in/thumb/msid-73707430,width-700,height-525,imgsize-576484/that-business-was-a-precursor-to-the-modern-day-home-improvement-chain-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

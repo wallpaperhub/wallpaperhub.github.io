@@ -1,0 +1,129 @@
+<title>Adorable Beauty and the Beast Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a delightful collection of cute Beauty and the Beast wallpapers! Perfect for mobile, these enchanting designs capture the magic of this timeless tale, adding charm to your screen every day. Download your favorites now and let the adventure begin!">
+                    <meta name="keywords" content="cute beauty and the beast wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-beauty-and-the-beast-wallpaper">
+                            <span itemprop="name">cute beauty and the beast wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Beauty and the Beast Wallpapers for Your Device</h1>
+                <p>Cute Beauty and the Beast wallpapers bring the enchanting tale to your screens with charming illustrations and vibrant colors. Perfect for fans of all ages, these wallpapers feature beloved characters in whimsical settings, promising to brighten your day while celebrating romance and adventure. Transform your device with these magical visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty and the beast wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/2a/cd/8d2acd6a52fc467ea37727b58d6178f4.jpg' alt='Beauty and the beast wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/2a/cd/8d2acd6a52fc467ea37727b58d6178f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty and the Beast Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/7/c/178151-1440x2960-mobile-hd-beauty-and-the-beast-wallpaper-image.jpg' alt='Beauty and the Beast Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/7/c/178151-1440x2960-mobile-hd-beauty-and-the-beast-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beauty And The Beast Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beauty-and-the-beast-taxeaex0hpp948ib.jpg' alt='100+] Beauty And The Beast Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beauty-and-the-beast-taxeaex0hpp948ib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Disney's Beauty and the Beast Wallpapers ideas | beast ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/74/5a/94/745a949698d3ec5a7f4cf59a1a82e422.jpg' alt='23 Disney's Beauty and the Beast Wallpapers ideas | beast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/74/5a/94/745a949698d3ec5a7f4cf59a1a82e422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty And The Beast Rainbow Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/beauty-and-the-beast-rainbow-cfi8jgntt8b9a4ma.jpg' alt='Beauty And The Beast Rainbow Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/beauty-and-the-beast-rainbow-cfi8jgntt8b9a4ma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty And The Beast Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/walt-disney-beauty-and-the-beast-sl2kzehp9qselsv4.jpg' alt='Beauty And The Beast Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1593">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/walt-disney-beauty-and-the-beast-sl2kzehp9qselsv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Beauty n the beast ideas | beauty and the beast, beast, disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/b9/25/5cb9251965b9da176a5fe3bb7f23c371.jpg' alt='35 Beauty n the beast ideas | beauty and the beast, beast, disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/b9/25/5cb9251965b9da176a5fe3bb7f23c371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty and the Beast, beast, beauty, belle, castle, chip ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/259/724/HD-wallpaper-beauty-and-the-beast-beast-beauty-belle-castle-chip-cogsworth-dance-dress-thumbnail.jpg' alt='Beauty and the Beast, beast, beauty, belle, castle, chip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/259/724/HD-wallpaper-beauty-and-the-beast-beast-beauty-belle-castle-chip-cogsworth-dance-dress-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/d2/d0/6bd2d019c03d9f3fd4342069e0d9b33b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/d2/d0/6bd2d019c03d9f3fd4342069e0d9b33b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Disney Beauty and the Beast 368x254 cm 12x8 ft wall ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/In4AAOSwCrBc47Yt/s-l400.jpg' alt='Wallpaper Disney Beauty and the Beast 368x254 cm 12x8 ft wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/In4AAOSwCrBc47Yt/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

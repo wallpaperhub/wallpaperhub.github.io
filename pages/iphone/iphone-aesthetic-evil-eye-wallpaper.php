@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Evil Eye Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect aesthetic evil eye wallpaper for your iPhone! Elevate your phone's look with unique designs that symbolize protection and style. Explore a variety of vibrant colors and patterns to find the one that resonates with you. Download now to make your iPhone stand out!">
+                    <meta name="keywords" content="iphone aesthetic evil eye wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-aesthetic-evil-eye-wallpaper">
+                            <span itemprop="name">iphone aesthetic evil eye wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Evil Eye Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with captivating aesthetic evil eye wallpapers! These enchanting designs not only add a touch of mystique to your screen but also symbolize protection against negativity. Choose from a range of styles and colors to reflect your unique vibe and personality. Elevate your smartphone aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nazar Amulet iPhone Wallpaper | 828 x 1792px">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/35/5c/58/355c58d787c726e8cbe95265947de0d4.jpg' alt='Nazar Amulet iPhone Wallpaper | 828 x 1792px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/35/5c/58/355c58d787c726e8cbe95265947de0d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="evil eye phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1c/c3/46/1cc3467b6ab452e2637b7f9bb085d8f1.jpg' alt='evil eye phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1c/c3/46/1cc3467b6ab452e2637b7f9bb085d8f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper, Evil Eye Flower, PNG File, Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37455351/r/il/b481e7/5066448279/il_1080xN.5066448279_saxc.jpg' alt='Phone Wallpaper, Evil Eye Flower, PNG File, Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37455351/r/il/b481e7/5066448279/il_1080xN.5066448279_saxc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper | Eyes wallpaper, Evil eye art, Iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/05/b3/4505b3c78236b0992ff8a9aa983a3748.jpg' alt='wallpaper | Eyes wallpaper, Evil eye art, Iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/05/b3/4505b3c78236b0992ff8a9aa983a3748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Evil Eye Pendants iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/evil-eye-iphone-06v2o30tjbh17fc5.jpg' alt='Download Evil Eye Pendants iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/evil-eye-iphone-06v2o30tjbh17fc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper, Evil Eye, PNG File, Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37455351/r/il/6bbe9f/5018190848/il_1080xN.5018190848_qpwu.jpg' alt='Phone Wallpaper, Evil Eye, PNG File, Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37455351/r/il/6bbe9f/5018190848/il_1080xN.5018190848_qpwu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper,wallpaper,phone wallpaper, Lockscreen,iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/1a/52/201a529cd2546c7326cd619a58ef45a4.jpg' alt='iPhone wallpaper,wallpaper,phone wallpaper, Lockscreen,iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/1a/52/201a529cd2546c7326cd619a58ef45a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Alexandria343's Shuffles Iphone wallpaper/ evil eye ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/da/51/dc/da51dc8a9089394d5e8667bb31812e29.jpg' alt='Check out Alexandria343's Shuffles Iphone wallpaper/ evil eye ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/da/51/dc/da51dc8a9089394d5e8667bb31812e29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/d3/14/b9d314f7a2a7248f322f6aa5cffa1a32.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/d3/14/b9d314f7a2a7248f322f6aa5cffa1a32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Evil Eye Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-evil-eye-pattern-a5s39a5neicg0wke.jpg' alt='100+] Pink Evil Eye Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-evil-eye-pattern-a5s39a5neicg0wke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

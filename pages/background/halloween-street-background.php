@@ -1,0 +1,129 @@
+<title>Spooky Halloween Street Backgrounds: Create the Perfect Atmosphere</title>
+                    <meta name="description" content="Explore the enchanting Halloween street backgrounds that set the mood for an unforgettable night. From eerie decorations to festive lights, discover how to capture the spirit of Halloween in your visuals. Ideal for themed events, parties, or social media posts. Create a memorable atmosphere today!">
+                    <meta name="keywords" content="halloween street background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-street-background">
+                            <span itemprop="name">halloween street background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Street Backgrounds: Create the Perfect Atmosphere</h1>
+                <p>As Halloween approaches, the streets transform into a whimsical world of fright and delight. Ghastly decorations, flickering jack-o'-lanterns, and cobweb-covered houses create a spooky ambiance. Costumed characters roam along the sidewalks, and the air is filled with the sounds of laughter and eerie music, making it a memorable night for all!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,700+ Halloween Street Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/182900794/photo/halloween-in-boston.jpg?s=612x612&w=0&k=20&c=ojFHUa6jeJXEKYgDWWQ1Ambr4EQsJj5F7gRCQlo6ZJk=' alt='10,700+ Halloween Street Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/182900794/photo/halloween-in-boston.jpg?s=612x612&w=0&k=20&c=ojFHUa6jeJXEKYgDWWQ1Ambr4EQsJj5F7gRCQlo6ZJk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Illustration Of A Halloween Concept Background Of Realistic ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/jickaro/jickaro2209/jickaro220900041/190943156-3d-illustration-of-a-halloween-concept-background-of-realistic-horror-house-and-creepy-street-with.jpg' alt='3D Illustration Of A Halloween Concept Background Of Realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/jickaro/jickaro2209/jickaro220900041/190943156-3d-illustration-of-a-halloween-concept-background-of-realistic-horror-house-and-creepy-street-with.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Halloween nighr party on a street background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/halloween-nighr-party-street-background_208536-482.jpg' alt='Premium Vector | Halloween nighr party on a street background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/halloween-nighr-party-street-background_208536-482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Halloween Street Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1058502674/vector/halloween-house.jpg?s=612x612&w=0&k=20&c=fDjNfCqG9VVn753TSvr0Gd8uurBRvQi8E-0TkpcXRSU=' alt='1,500+ Halloween Street Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1058502674/vector/halloween-house.jpg?s=612x612&w=0&k=20&c=fDjNfCqG9VVn753TSvr0Gd8uurBRvQi8E-0TkpcXRSU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DHXXSC 10X8FT Halloween Pumpkin Backdrop Night Street Backdrop  Travel Happy Halloween Party Vinyl Banner Birthday Party Decoration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MeH-if2YL.jpg' alt='Amazon.com : DHXXSC 10X8FT Halloween Pumpkin Backdrop Night Street Backdrop  Travel Happy Halloween Party Vinyl Banner Birthday Party Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MeH-if2YL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Street House Night Jack-o'-lantern Holiday Halloween HD ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/745/745491.jpg' alt='Download Street House Night Jack-o'-lantern Holiday Halloween HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/745/745491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Night Background Road Stock Illustrations – 3,266 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-night-background-road-37051991.jpg' alt='Halloween Night Background Road Stock Illustrations – 3,266 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-night-background-road-37051991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Dark Street Images – Browse 49,672 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/71/95/86/360_F_971958671_3BVBSoyYSa3Y3BuwYDmKIh2MinAChtFV.jpg' alt='Halloween Dark Street Images – Browse 49,672 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/71/95/86/360_F_971958671_3BVBSoyYSa3Y3BuwYDmKIh2MinAChtFV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick or Treat    Halloween Street Ambience    Ghosts Night Sounds with the  Best Halloween Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fQAbFUPfeSc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAonPxrcVfTizz3rxaxN43bkgBsRw' alt='Trick or Treat    Halloween Street Ambience    Ghosts Night Sounds with the  Best Halloween Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fQAbFUPfeSc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAonPxrcVfTizz3rxaxN43bkgBsRw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Backdrop - Surreal Halloween Party Street Trick or Treat  - Haunted Houses - Quirky Fun Halloween Scene - JPG File - Halloween ...">
+                                <img itemprop="contentUrl url" src='https://d2j6dbq0eux0bg.cloudfront.net/images/16814293/3198921895.jpg' alt='Halloween Digital Backdrop - Surreal Halloween Party Street Trick or Treat  - Haunted Houses - Quirky Fun Halloween Scene - JPG File - Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tara Mapes" />
+                                </span>
+                                <a href='https://d2j6dbq0eux0bg.cloudfront.net/images/16814293/3198921895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

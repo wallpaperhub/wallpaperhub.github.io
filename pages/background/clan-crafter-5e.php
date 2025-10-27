@@ -1,0 +1,129 @@
+<title>Exploring the Clan Crafter Background in D&D 5E</title>
+                    <meta name="description" content="Discover the Clan Crafter background in D&D 5E! Perfect for characters with strong clan ties, this background offers unique skills in crafting and leadership. Unleash your creativity and delve into your character's heritage with this enriching option in tabletop roleplay.">
+                    <meta name="keywords" content="clan crafter 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/clan-crafter-5e">
+                            <span itemprop="name">clan crafter 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Clan Crafter Background in D&D 5E</h1>
+                <p>Clan Crafter is a unique background for Dungeons & Dragons 5th Edition, ideal for characters with deep ties to their clans. This background provides features such as proficiency in artisan tools, clan-related lore, and a sense of community. Players can explore their character’s history while gaining valuable skills in crafting and leadership.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clan Crafter · Commander Legends: Battle for Baldur's Gate (CLB ...">
+                                <img itemprop="contentUrl url" src='https://cards.scryfall.io/png/front/3/e/3e82f96f-bd2b-4672-b729-c44c943fcac9.png?1674140712' alt='Clan Crafter · Commander Legends: Battle for Baldur's Gate (CLB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="745">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scryfall" />
+                                </span>
+                                <a href='https://cards.scryfall.io/png/front/3/e/3e82f96f-bd2b-4672-b729-c44c943fcac9.png?1674140712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Community Forums: Clan crafter background crashes charactermancer ...">
+                                <img itemprop="contentUrl url" src='https://files.d20.io/images/221847195/9jsvBrui-DOPrv9FKQ7egQ/original.PNG?1620848278' alt='Community Forums: Clan crafter background crashes charactermancer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roll20" />
+                                </span>
+                                <a href='https://files.d20.io/images/221847195/9jsvBrui-DOPrv9FKQ7egQ/original.PNG?1620848278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clan Crafter 5e: Background Review — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/369d77ce-118a-4c45-9388-cba9cf5ea942/dave+feast2.png' alt='Clan Crafter 5e: Background Review — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/369d77ce-118a-4c45-9388-cba9cf5ea942/dave+feast2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #10: Clan Crafter (DnD 5E)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tCwz9AptXnw/maxresdefault.jpg' alt='Background #10: Clan Crafter (DnD 5E)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tCwz9AptXnw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CLB] Clan Crafter : r/magicTCG">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ofqnwfwxnn291.jpg' alt='CLB] Clan Crafter : r/magicTCG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ofqnwfwxnn291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Community Forums: Clan crafter background crashes charactermancer ...">
+                                <img itemprop="contentUrl url" src='https://files.d20.io/images/221847297/Qzk-qSZaXBeO9QmWt5sWuA/original.PNG?1620848303' alt='Community Forums: Clan crafter background crashes charactermancer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roll20" />
+                                </span>
+                                <a href='https://files.d20.io/images/221847297/Qzk-qSZaXBeO9QmWt5sWuA/original.PNG?1620848303' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clan Crafter (Extended Art) [Commander Legends: Battle for ...">
+                                <img itemprop="contentUrl url" src='https://grognardgamesbatavia.com/cdn/shop/products/684fb856-7238-51fc-8a0d-1cf8b0016cfa_f804acf6-c1e1-430f-991b-89c4d50249fc.jpg?v=1709312659' alt='Clan Crafter (Extended Art) [Commander Legends: Battle for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grognard Games Batavia" />
+                                </span>
+                                <a href='https://grognardgamesbatavia.com/cdn/shop/products/684fb856-7238-51fc-8a0d-1cf8b0016cfa_f804acf6-c1e1-430f-991b-89c4d50249fc.jpg?v=1709312659' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clan Crafter Hralding (CHralding@) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1030622953975631872/9_5309Om_400x400.jpg' alt='Clan Crafter Hralding (CHralding@) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1030622953975631872/9_5309Om_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CLAN CRAFTER BACKGROUND (DND 5E ) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7MCYRvXoWWY/maxresdefault.jpg' alt='CLAN CRAFTER BACKGROUND (DND 5E ) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7MCYRvXoWWY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arms Training Manual (Fantasy Grounds) - Dungeon Masters Guild |  Dungeon Masters Guild">
+                                <img itemprop="contentUrl url" src='https://www.dmsguild.com/images/8957/250136.jpg' alt='Martial Arms Training Manual (Fantasy Grounds) - Dungeon Masters Guild |  Dungeon Masters Guild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeon Masters Guild -" />
+                                </span>
+                                <a href='https://www.dmsguild.com/images/8957/250136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

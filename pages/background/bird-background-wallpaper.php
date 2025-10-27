@@ -1,0 +1,129 @@
+<title>Stunning Bird Background Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover beautiful bird background wallpapers that bring nature to your screen! From colorful parrots to soaring eagles, find the perfect design to enhance your device. Download now for an easy way to showcase your love for birds and nature!">
+                    <meta name="keywords" content="bird background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bird-background-wallpaper">
+                            <span itemprop="name">bird background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bird Background Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning bird background wallpapers! Explore a vibrant collection featuring colorful species and serene landscapes. Whether you love majestic eagles, delicate hummingbirds, or playful parrots, these wallpapers add a touch of nature's beauty to your screens. Perfect for bird enthusiasts and nature lovers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds and Beetles - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0265_1s_Birds-and-Beetles-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718273' alt='Birds and Beetles - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0265_1s_Birds-and-Beetles-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718273' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colourful-bird-high-definition-wallpaper-for-desktop-background ...">
+                                <img itemprop="contentUrl url" src='https://indianaaudubon.org/wp-content/uploads/2016/02/colourful-bird-high-definition-wallpaper-for-desktop-background-download-free.jpg' alt='colourful-bird-high-definition-wallpaper-for-desktop-background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana Audubon" />
+                                </span>
+                                <a href='https://indianaaudubon.org/wp-content/uploads/2016/02/colourful-bird-high-definition-wallpaper-for-desktop-background-download-free.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Stork & Exotic Birds Tropical Wallpaper RM2094">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/files/BlueStork_ExoticBirdsTropicalWallpaperRM2094.jpg?v=1736260394&width=1024' alt='Blue Stork & Exotic Birds Tropical Wallpaper RM2094'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/files/BlueStork_ExoticBirdsTropicalWallpaperRM2094.jpg?v=1736260394&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Birds iPhone Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/phone-backgrounds/free-birds.png' alt='Free Birds iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/phone-backgrounds/free-birds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Bird Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1591055749071-927e6ddffc82?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJpcmR8ZW58MHx8MHx8fDA%3D' alt='500+ Bird Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1591055749071-927e6ddffc82?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJpcmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bird wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4QY04Vq0/1/0/450w/canva-simple-beige-background-sparrow-illustration-for-bird-lovers-phone-wallpaper-w6--qfu_rQk.jpg' alt='Free and customizable bird wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4QY04Vq0/1/0/450w/canva-simple-beige-background-sparrow-illustration-for-bird-lovers-phone-wallpaper-w6--qfu_rQk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds Beige Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/DEKO.TAP_.079_50x280-ptaszki-jasny-bez-950x950-1_4be566c5-340b-4f90-8a1f-7a788d4a436a.jpg?v=1705876908' alt='Birds Beige Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/DEKO.TAP_.079_50x280-ptaszki-jasny-bez-950x950-1_4be566c5-340b-4f90-8a1f-7a788d4a436a.jpg?v=1705876908' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_570xN.6182127339_7u39.jpg' alt='Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_570xN.6182127339_7u39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17.5"X118" Dark Parrot Floral Wallpaper Peel and Stick Bird Vintage  Wallpaper Self Adhesive Colorful Parrots Birds Contact Paper for Cabinets  and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Q9I5gLhZL._AC_UF894,1000_QL80_.jpg' alt='17.5"X118" Dark Parrot Floral Wallpaper Peel and Stick Bird Vintage  Wallpaper Self Adhesive Colorful Parrots Birds Contact Paper for Cabinets  and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Q9I5gLhZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,000+ Best Bird Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/33101/new-wing-emergency-at-the-moment.jpg?cs=srgb&dl=pexels-pixabay-33101.jpg&fm=jpg' alt='70,000+ Best Bird Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/33101/new-wing-emergency-at-the-moment.jpg?cs=srgb&dl=pexels-pixabay-33101.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

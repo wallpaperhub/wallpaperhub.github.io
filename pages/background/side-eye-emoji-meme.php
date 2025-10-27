@@ -1,0 +1,129 @@
+<title>"Understanding the Side Eye Emoji Meme: Humor and Skepticism"</title>
+                    <meta name="description" content="Explore the side eye emoji meme, a playful expression of skepticism and humor. Discover how it's used in various contexts to convey disbelief or teasing, making it a favorite among social media users. Unlock the charm of this iconic emoji and learn to use it in your conversations!">
+                    <meta name="keywords" content="side eye emoji meme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/side-eye-emoji-meme">
+                            <span itemprop="name">side eye emoji meme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding the Side Eye Emoji Meme: Humor and Skepticism"</h1>
+                <p>The side eye emoji meme captures the essence of skepticism and disbelief. Often used in humorous contexts, this meme reflects the act of questioning someone's motives or actions. The iconic sideways glance resonates with users, making it a go-to for shade, teasing, or simply expressing mild judgment in a light-hearted manner.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side eye emoji request for iPhone - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/620de0a1-9718-4890-b83c-22dc8a5913e4' alt='Side eye emoji request for iPhone - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/620de0a1-9718-4890-b83c-22dc8a5913e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side eye emoji meme" Sticker for Sale by avyxia | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5316599261.5053/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Side eye emoji meme" Sticker for Sale by avyxia | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5316599261.5053/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side Eye Emoji GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/fVbbshsyjdDFRCc4wM/source.gif' alt='Side Eye Emoji GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/fVbbshsyjdDFRCc4wM/source.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side Eye Emoji GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/tNru8Rfd-FcAAAAM/side-eye-alexish8ithere.gif' alt='Side Eye Emoji GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/tNru8Rfd-FcAAAAM/side-eye-alexish8ithere.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giving that side eye" Sticker for Sale by WaywardThunder | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4362271446.0369/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Giving that side eye" Sticker for Sale by WaywardThunder | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4362271446.0369/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bombastic Side Eye Meme Emoji Sticker Sticker by She Designs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/ea/bb/16eabbd20e062a2d9a4b93a7dd110e4e.jpg' alt='Bombastic Side Eye Meme Emoji Sticker Sticker by She Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/ea/bb/16eabbd20e062a2d9a4b93a7dd110e4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We need this new side eye emoji rn : r/Emoji">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ofe3ak64qvbc1.jpeg' alt='We need this new side eye emoji rn : r/Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ofe3ak64qvbc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Face Emojis Side Eye | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7338627266953481515&location=0&aid=1988' alt='Face Emojis Side Eye | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7338627266953481515&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side eye face emoticon icon hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TCX6HC/annoyed-emoji-emoticon-icon-cartoon-character-TCX6HC.jpg' alt='Side eye face emoticon icon hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TCX6HC/annoyed-emoji-emoticon-icon-cartoon-character-TCX6HC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bombastic Side Eye Emoji Sticker" Sticker for Sale by aeskayla ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5205161118.6187/sh,small,507x507-pad,600x600,f8f8f8.webp' alt='Bombastic Side Eye Emoji Sticker" Sticker for Sale by aeskayla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5205161118.6187/sh,small,507x507-pad,600x600,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

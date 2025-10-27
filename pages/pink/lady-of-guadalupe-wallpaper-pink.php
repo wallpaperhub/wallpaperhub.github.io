@@ -1,0 +1,129 @@
+<title>Elegant Pink Lady of Guadalupe Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover beautiful Lady of Guadalupe wallpaper in pink! Perfect for adding a spiritual touch to your decor, this elegant wallpaper is ideal for homes and offices. Embrace heritage and style with this stunning design that captivates and inspires.">
+                    <meta name="keywords" content="lady of guadalupe wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/lady-of-guadalupe-wallpaper-pink">
+                            <span itemprop="name">lady of guadalupe wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Lady of Guadalupe Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning Lady of Guadalupe wallpaper in soft pink hues. Perfect for adding a touch of elegance and spirituality to your decor, these wallpapers celebrate the beloved figure while enhancing your room's aesthetic. Ideal for homes, offices, or places of worship, it's a beautiful way to honor heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our lady of Guadalupe/Virgin de Guadalupe   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/93/83/19938359c0fbc15a165230f9fdcdb2fb.jpg' alt='Our lady of Guadalupe/Virgin de Guadalupe   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/93/83/19938359c0fbc15a165230f9fdcdb2fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/da/97/86da97c771bf5b73b65eb93e06636adc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/da/97/86da97c771bf5b73b65eb93e06636adc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady Guadalupe Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/234788/Our-Lady-Guadalupe-Mural-Wallpaper.jpg?v=638165376901630000' alt='Our Lady Guadalupe Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2545">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/234788/Our-Lady-Guadalupe-Mural-Wallpaper.jpg?v=638165376901630000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Guadalupana">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/cb/88/d1cb8829f766d7096b42261ed096c8f2.jpg' alt='La Guadalupana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/cb/88/d1cb8829f766d7096b42261ed096c8f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Lady of Guadalupe iPhone backgrounds ideas in 2025 | virgin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/62/de/cc/62decc6fa6cb96376847fbfcdc0ffb2d.jpg' alt='240 Lady of Guadalupe iPhone backgrounds ideas in 2025 | virgin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/62/de/cc/62decc6fa6cb96376847fbfcdc0ffb2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe | Roses | Art Print">
+                                <img itemprop="contentUrl url" src='https://www.novenacards.com/cdn/shop/products/our-lady-guadalupe-roses-art-print-8x10_2048x.jpg?v=1638652411' alt='Our Lady of Guadalupe | Roses | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Novena Cards" />
+                                </span>
+                                <a href='https://www.novenacards.com/cdn/shop/products/our-lady-guadalupe-roses-art-print-8x10_2048x.jpg?v=1638652411' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6d/14/dc/6d14dc732ec587578a8ee260f976fc84.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6d/14/dc/6d14dc732ec587578a8ee260f976fc84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady Of Guadalupe Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13326365/p/f/m/UArQ4ryoWYlOVPkiU-wkyrhV5_HUkH14qxt-91k2c6A_vkm3iVWFDZaKWCil/Our%20Lady%20of%20Guadalupe%20Pink%20Background.jpg' alt='Our Lady Of Guadalupe Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13326365/p/f/m/UArQ4ryoWYlOVPkiU-wkyrhV5_HUkH14qxt-91k2c6A_vkm3iVWFDZaKWCil/Our%20Lady%20of%20Guadalupe%20Pink%20Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guadalupe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/e1/b4/b5e1b45c13b81fbb378b478be6ca1793.jpg' alt='Guadalupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/e1/b4/b5e1b45c13b81fbb378b478be6ca1793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Lady of Guadalupe Mexican Virgin Mary Mexico | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3420393634.0049/raf,360x360,075,t,fafafa:ca443f4786.u8.jpg' alt='Our Lady of Guadalupe Mexican Virgin Mary Mexico | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3420393634.0049/raf,360x360,075,t,fafafa:ca443f4786.u8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Your PC</title>
+                    <meta name="description" content="Explore an amazing collection of cool 4K wallpapers for your PC. Elevate your desktop with high-quality visuals that cater to every taste, from nature scenes to modern art. Download your favorites and give your workspace a fresh, vibrant look effortlessly!">
+                    <meta name="keywords" content="cool wallpaper 4k for pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/cool-wallpaper-4k-for-pc">
+                            <span itemprop="name">cool wallpaper 4k for pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Your PC</h1>
+                <p>Transform your PC with stunning 4K wallpapers that bring your screen to life! Discover a variety of cool designs, from breathtaking landscapes to intricate abstract art. Perfect for any aesthetic, these high-resolution wallpapers ensure crisp, vibrant visuals that enhance your desktop experience. Upgrade your workspace today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Desktop wallpaper. : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c3uhsgo1vx541.jpg' alt='4K Desktop wallpaper. : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c3uhsgo1vx541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Facets Megatron Dark Wallpaper Desktop Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/87/b3/6687b33729cc73dd1d34c22d1af5c74c.jpg' alt='   Free download Facets Megatron Dark Wallpaper Desktop Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/87/b3/6687b33729cc73dd1d34c22d1af5c74c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular 4K Best Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/mac/dark-mode-night-mode-abstract-artwork-of-blackhole-viewed-from-earth-colorful-best-most-popular-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638236-hd-wallpaper.png' alt='Most Popular 4K Best Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/mac/dark-mode-night-mode-abstract-artwork-of-blackhole-viewed-from-earth-colorful-best-most-popular-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638236-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Best Cool wallpapers 4k ideas | cool wallpaper, cool wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/a2/e0/79/a2e079cd185dc83163b8dd19ac8a95a2.jpg' alt='26 Best Cool wallpapers 4k ideas | cool wallpaper, cool wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/a2/e0/79/a2e079cd185dc83163b8dd19ac8a95a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL DESKTOP WALLPAPER [1920X1080] 4K AND 8K AVALIABLE : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m4h2hhjze8w71.png' alt='COOL DESKTOP WALLPAPER [1920X1080] 4K AND 8K AVALIABLE : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m4h2hhjze8w71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PC WALLPAPER 4K - COOL ABSTRACT DESIGN - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhcKwI-zoO6Gb1kDJ3E6DgZpcDdilvJQBgGJDQK9XXHkOJUH4jyb2acHNMR2aECkWHqn2RP8K2Uii5IKkV7S2eYNO0FCL-3DNdGvLyoPrNULqNrhVhlhVBQMDX8SUChrJdPT9g89caLFWLRI0vGYaGHbVY6SXHT2QdqeT4IzWdoaKIX6kAlU9Lsc0zMXu0=s16000' alt='PC WALLPAPER 4K - COOL ABSTRACT DESIGN - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5688">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhcKwI-zoO6Gb1kDJ3E6DgZpcDdilvJQBgGJDQK9XXHkOJUH4jyb2acHNMR2aECkWHqn2RP8K2Uii5IKkV7S2eYNO0FCL-3DNdGvLyoPrNULqNrhVhlhVBQMDX8SUChrJdPT9g89caLFWLRI0vGYaGHbVY6SXHT2QdqeT4IzWdoaKIX6kAlU9Lsc0zMXu0=s16000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Tech Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-tech-ulcajgzzc25jlrgi.jpg' alt='100+] 4k Tech Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-tech-ulcajgzzc25jlrgi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DB Super Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/db-super-chromebook-wallpaper.jpg' alt='DB Super Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/db-super-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+] Cool Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/1/d/5815532-3840x2160-desktop-hd-4k-wallpaper-image.jpg' alt='50+] Cool Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/1/d/5815532-3840x2160-desktop-hd-4k-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper for PC: Cool Urban Style Pattern - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8q70ZONF516fm1zJT9_6p3gNN2v2ugm_yTSUJZxJZZEO4wYgGiwGL9-WZUx2ok57m5tX2dQUTuEfvXJG12s7sSxb8vW260LxT5AhZxuPSnjZ6Q2Wdf3HfDgK1hTUmmhYWY8yrsiITCgdA2GhpOQlJdIZr03p43RTHjWNSdf1-1mL8MVgmFSTq6EvrQ/s0/COOL_PATTERN1142023D.png' alt='4K Wallpaper for PC: Cool Urban Style Pattern - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8q70ZONF516fm1zJT9_6p3gNN2v2ugm_yTSUJZxJZZEO4wYgGiwGL9-WZUx2ok57m5tX2dQUTuEfvXJG12s7sSxb8vW260LxT5AhZxuPSnjZ6Q2Wdf3HfDgK1hTUmmhYWY8yrsiITCgdA2GhpOQlJdIZr03p43RTHjWNSdf1-1mL8MVgmFSTq6EvrQ/s0/COOL_PATTERN1142023D.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Pokimane's Race and Heritage</title>
+                    <meta name="description" content="Explore the cultural background of Pokimane, the famous streamer. Learn how her Moroccan heritage influences her journey in gaming and content creation, and discover the importance of representation and inclusivity in the online community. Dive into her story that resonates with fans globally!">
+                    <meta name="keywords" content="pokimane race">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pokimane-race">
+                            <span itemprop="name">pokimane race</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pokimane's Race and Heritage</h1>
+                <p>Pokimane, a popular streamer and content creator, has Moroccan roots. Her background has sparked discussions among her fans about the diverse representation in gaming and streaming communities. With her engaging personality and influence, she promotes inclusivity and celebrates her heritage, inspiring others to embrace their identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane ethnicity, real name, nationality, birthplace, parents ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tuko.co.ke/images/1120/3acf775104eff2bd.jpeg?v=1' alt='Pokimane ethnicity, real name, nationality, birthplace, parents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tuko News" />
+                                </span>
+                                <a href='https://cdn.tuko.co.ke/images/1120/3acf775104eff2bd.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Pokimane Asian? I take a DNA test!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zlMVZI-0-oU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2UTW3h4pquu5CNLl7DyiqZ7ZVCw' alt='Is Pokimane Asian? I take a DNA test!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zlMVZI-0-oU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2UTW3h4pquu5CNLl7DyiqZ7ZVCw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane ethnicity, real name, nationality, birthplace, parents ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tuko.co.ke/images/1120/0c488d2d601acde6.jpeg?v=1' alt='Pokimane ethnicity, real name, nationality, birthplace, parents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tuko News" />
+                                </span>
+                                <a href='https://cdn.tuko.co.ke/images/1120/0c488d2d601acde6.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane DNA Test Results (ft. @pokimane )">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rLq9_Lu4D2E/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIACgA-KAgwIABABGGUgVyhEMA8=&rs=AOn4CLDmZ8Jc-jTN8KzOHbqSDhV1dQvIiA' alt='Pokimane DNA Test Results (ft. @pokimane )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rLq9_Lu4D2E/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIACgA-KAgwIABABGGUgVyhEMA8=&rs=AOn4CLDmZ8Jc-jTN8KzOHbqSDhV1dQvIiA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane hits back after cooking video sparks “frustrating” debate ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/11/21/pokimane-hits-back-critics-race-moroccan.jpg?width=1200&quality=60&format=auto' alt='Pokimane hits back after cooking video sparks “frustrating” debate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/11/21/pokimane-hits-back-critics-race-moroccan.jpg?width=1200&quality=60&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clarifying My Heritage | Moroccan Pokimane Explains | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7409743900308557099&location=0&aid=1988' alt='Clarifying My Heritage | Moroccan Pokimane Explains | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7409743900308557099&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poki Reacts to a Question About Her Race">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jWFa25KtgyE/hqdefault.jpg' alt='Poki Reacts to a Question About Her Race'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jWFa25KtgyE/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane Nationality: Moroccan-Canadian Streamer's Background Revealed">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7281342414504234286&location=0&aid=1988' alt='Pokimane Nationality: Moroccan-Canadian Streamer's Background Revealed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7281342414504234286&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane to step back from the “rat race” of Twitch streaming">
+                                <img itemprop="contentUrl url" src='https://www.nme.com/wp-content/uploads/2022/09/Pokimane-2022.jpg' alt='Pokimane to step back from the “rat race” of Twitch streaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NME" />
+                                </span>
+                                <a href='https://www.nme.com/wp-content/uploads/2022/09/Pokimane-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokimane is starting a talent management company for streamers">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/uIn3YnDXuPXYFJrPaaU2dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/b623e8c0-372f-11ec-b7f3-a5b9045875bc' alt='Pokimane is starting a talent management company for streamers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/uIn3YnDXuPXYFJrPaaU2dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/b623e8c0-372f-11ec-b7f3-a5b9045875bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

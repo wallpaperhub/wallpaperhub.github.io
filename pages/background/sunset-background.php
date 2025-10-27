@@ -1,0 +1,129 @@
+<title>Stunning Sunset Backgrounds for Your Perfect View</title>
+                    <meta name="description" content="Discover breathtaking sunset backgrounds that captivate the senses. Perfect for photography, design, or simply enjoying nature's beauty, our collection showcases the vibrant colors and serene moments of sunset. Elevate your visuals with these stunning scenes that evoke peace and inspiration.">
+                    <meta name="keywords" content="sunset background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunset-background">
+                            <span itemprop="name">sunset background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sunset Backgrounds for Your Perfect View</h1>
+                <p>As the day draws to a close, a sunset background creates a mesmerizing spectacle. The sky transforms into a canvas painted with vibrant hues of red, orange, and purple, casting a warm glow over the landscape. Whether viewed from a beach, mountain, or cityscape, sunsets inspire tranquility and reflection, inviting moments of peace and beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Background - High-quality Free Backgrounds">
+                                <img itemprop="contentUrl url" src='https://pics.freeartbackgrounds.com/fullhd/Beautiful_Sunset_Background-1366.jpg' alt='Beautiful Sunset Background - High-quality Free Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgrounds" />
+                                </span>
+                                <a href='https://pics.freeartbackgrounds.com/fullhd/Beautiful_Sunset_Background-1366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Background" Images – Browse 37,029 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/19/69/84/360_F_519698492_uDw3H7wj41Ad3q1k5C0guaBc4IlJeVG0.jpg' alt='Sunset Background" Images – Browse 37,029 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/19/69/84/360_F_519698492_uDw3H7wj41Ad3q1k5C0guaBc4IlJeVG0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70,000+ Best Sunset Pictures · 100% Free Download · Pexels Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?cs=srgb&dl=pexels-no-name-14543-66997.jpg&fm=jpg' alt='70,000+ Best Sunset Pictures · 100% Free Download · Pexels Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?cs=srgb&dl=pexels-no-name-14543-66997.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="520+ Pink Sunset Beach Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1041472994/photo/scenic-tropical-beach-with-palm-trees-at-sunset-background-sri-lanka.jpg?s=612x612&w=0&k=20&c=yb_ra5ksXeTFlxaTR2QSf6YCS8uYaz-Ju__LvTe_SEU=' alt='520+ Pink Sunset Beach Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1041472994/photo/scenic-tropical-beach-with-palm-trees-at-sunset-background-sri-lanka.jpg?s=612x612&w=0&k=20&c=yb_ra5ksXeTFlxaTR2QSf6YCS8uYaz-Ju__LvTe_SEU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Background - High-quality Free Backgrounds">
+                                <img itemprop="contentUrl url" src='https://pics.freeartbackgrounds.com/4k/idownload-image.php?file=Beautiful_Sunset_Background-798.jpg' alt='Beautiful Sunset Background - High-quality Free Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgrounds" />
+                                </span>
+                                <a href='https://pics.freeartbackgrounds.com/4k/idownload-image.php?file=Beautiful_Sunset_Background-798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Sunset Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/286/249/small_2x/deep-purple-and-orange-sunset-calm-ocean-reflecting-the-vibrant-sky-photo.jpg' alt='Pretty Sunset Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/286/249/small_2x/deep-purple-and-orange-sunset-calm-ocean-reflecting-the-vibrant-sky-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Sunset Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1490735891913-40897cdaafd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' alt='900+ Sunset Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1490735891913-40897cdaafd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Background Images – Browse 8,468,595 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/56/47/90/360_F_956479024_GkuoiaZIYAzsvam8EWkFJ2GIdsvx6wfZ.jpg' alt='Sunset Background Images – Browse 8,468,595 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/56/47/90/360_F_956479024_GkuoiaZIYAzsvam8EWkFJ2GIdsvx6wfZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Sunset Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Vuc2V0JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Beautiful Sky and clouds sunset background, blue sky with  colorful clouds, 50x21.9 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/27/04/87/1000_F_527048753_LwwnBapBgDsbJR4cPuxE5J1xgAHUQocF.jpg' alt='Poster, Print Beautiful Sky and clouds sunset background, blue sky with  colorful clouds, 50x21.9 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/27/04/87/1000_F_527048753_LwwnBapBgDsbJR4cPuxE5J1xgAHUQocF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

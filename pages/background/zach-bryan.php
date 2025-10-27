@@ -1,0 +1,129 @@
+<title>Zach Bryan: Rising Star of American Music</title>
+                    <meta name="description" content="Discover Zach Bryan, the talented singer-songwriter captivating audiences with his heartfelt music. Explore his unique blend of genres and the storytelling that sets him apart in the thriving music landscape. Join the growing community of fans and experience the emotion behind his work!">
+                    <meta name="keywords" content="zach bryan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zach-bryan">
+                            <span itemprop="name">zach bryan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Zach Bryan: Rising Star of American Music</h1>
+                <p>Zach Bryan is an emerging American singer-songwriter who has quickly gained attention for his raw, emotive lyrics and captivating melodies. His blend of country, folk, and rock resonates deeply with fans, showcasing stories of life, love, and loss. With a dedicated following, Bryan is making a significant impact in the music scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zach Bryan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/07/Zach_Bryan_performing_at_Crypto.com_Arena_on_23_Aug_2023_%28cropped%29.jpg' alt='Zach Bryan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/07/Zach_Bryan_performing_at_Crypto.com_Arena_on_23_Aug_2023_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Country Star Zach Bryan? — Age, Navy, Military History">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/musician-zach-bryan-performs-onstage-during-the-american-news-photo-1684249021.jpg?crop=0.675xw:1.00xh;0.216xw,0&resize=1200:*' alt='Who Is Country Star Zach Bryan? — Age, Navy, Military History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/musician-zach-bryan-performs-onstage-during-the-american-news-photo-1684249021.jpg?crop=0.675xw:1.00xh;0.216xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On Zach Bryan's 'The Great American Bar Scene,' the Past is ...">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/07/NEW-review-zach-bryan.jpg' alt='On Zach Bryan's 'The Great American Bar Scene,' the Past is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/07/NEW-review-zach-bryan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Facts About Zach Bryan's Military Service - OhMyFacts">
+                                <img itemprop="contentUrl url" src='https://ohmyfacts.com/wp-content/uploads/2024/04/11-facts-about-zach-bryans-military-service-1714483880.jpg' alt='11 Facts About Zach Bryan's Military Service - OhMyFacts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OhMyFacts" />
+                                </span>
+                                <a href='https://ohmyfacts.com/wp-content/uploads/2024/04/11-facts-about-zach-bryans-military-service-1714483880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zach Bryan's latest album flops – Beacon">
+                                <img itemprop="contentUrl url" src='https://beacon.nwciowa.edu/wp-content/uploads/2024/09/Arts-and-culture-zach-bryan--683x1024.jpg' alt='Zach Bryan's latest album flops – Beacon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beacon - Northwestern College" />
+                                </span>
+                                <a href='https://beacon.nwciowa.edu/wp-content/uploads/2024/09/Arts-and-culture-zach-bryan--683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zach Bryan Won't Be Your Jukebox Hero | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/668452bcbaa556227593dfa6/1:1/w_1500,h_1500,c_limit/zb.jpg' alt='Zach Bryan Won't Be Your Jukebox Hero | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/668452bcbaa556227593dfa6/1:1/w_1500,h_1500,c_limit/zb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zach Bryan Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab676161000051744fd54df35bfcfa0fc9fc2da7' alt='Zach Bryan Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab676161000051744fd54df35bfcfa0fc9fc2da7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zach Bryan's New Album 'American Heartbreak' Slated For May ...">
+                                <img itemprop="contentUrl url" src='https://music-row-website-assets.s3.amazonaws.com/wp-content/uploads/2022/02/07000224/unnamed-24-9.jpg' alt='Zach Bryan's New Album 'American Heartbreak' Slated For May ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MusicRow.com" />
+                                </span>
+                                <a href='https://music-row-website-assets.s3.amazonaws.com/wp-content/uploads/2022/02/07000224/unnamed-24-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Discussion: Zach Bryan – 'American Heartbreak' – The Musical ...">
+                                <img itemprop="contentUrl url" src='https://themusicaldivide.com/wp-content/uploads/2022/06/zach-bryan-american-heartbreak-strings-and-spurs.jpeg?w=900' alt='Album Discussion: Zach Bryan – 'American Heartbreak' – The Musical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Musical Divide" />
+                                </span>
+                                <a href='https://themusicaldivide.com/wp-content/uploads/2022/06/zach-bryan-american-heartbreak-strings-and-spurs.jpeg?w=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Former WA Navy man Zach Bryan returns a bona fide folk ...">
+                                <img itemprop="contentUrl url" src='https://images.seattletimes.com/wp-content/uploads/2022/10/10252022_Zach_Bryan_154259.jpg?d=1560x2340' alt='Review: Former WA Navy man Zach Bryan returns a bona fide folk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://images.seattletimes.com/wp-content/uploads/2022/10/10252022_Zach_Bryan_154259.jpg?d=1560x2340' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

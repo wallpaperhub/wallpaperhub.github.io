@@ -1,0 +1,129 @@
+<title>4K NYC Wallpapers for iPhone: Stunning Cityscapes</title>
+                    <meta name="description" content="Discover a collection of vibrant 4K NYC wallpapers for your iPhone. Featuring breathtaking city views and iconic landmarks, these high-quality images will transform your device's aesthetic. Perfect for any New York City lover looking to bring a slice of the Big Apple to their home screen!">
+                    <meta name="keywords" content="nyc wallpaper 4k iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/nyc-wallpaper-4k-iphone">
+                            <span itemprop="name">nyc wallpaper 4k iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K NYC Wallpapers for iPhone: Stunning Cityscapes</h1>
+                <p>Enhance your iPhone experience with stunning NYC wallpaper in 4K. Discover vibrant cityscapes, iconic landmarks, and breathtaking skyline views, all designed to elevate your device's aesthetic. Perfectly optimized for mobile displays, these wallpapers will showcase the magic of New York City right on your home screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72 NYC iPhone Wallpaper ideas | nyc, city, city photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8c/2f/c4/8c2fc4b3770d885b96aa2f4313ea1ef9.jpg' alt='72 NYC iPhone Wallpaper ideas | nyc, city, city photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8c/2f/c4/8c2fc4b3770d885b96aa2f4313ea1ef9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1541336032412-2048a678540d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1541336032412-2048a678540d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500,000+ Best New York City Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1400249/pexels-photo-1400249.jpeg?cs=srgb&dl=pexels-vlasceanu-1400249.jpg&fm=jpg' alt='500,000+ Best New York City Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2268">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1400249/pexels-photo-1400249.jpeg?cs=srgb&dl=pexels-vlasceanu-1400249.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Magical Things To Do In New York City At Christmas (2024)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/47/ab/fb47ab09ba7243248e19025a81e302d1.jpg' alt='25 Magical Things To Do In New York City At Christmas (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/47/ab/fb47ab09ba7243248e19025a81e302d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New York City Night Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-york-city-night-iphone-06l20xe2peti4haf.jpg' alt='100+] New York City Night Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-york-city-night-iphone-06l20xe2peti4haf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Night In New York Skyline Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lively-night-in-new-york-skyline-iphone-ng0ca6pznrgq7qpa.jpg' alt='Lively Night In New York Skyline Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lively-night-in-new-york-skyline-iphone-ng0ca6pznrgq7qpa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper new york 2025 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/de/69/5e/de695ede6baa04437b94a537eacb445f.jpg' alt='Wallpaper new york 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/de/69/5e/de695ede6baa04437b94a537eacb445f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City — Jetson Creative">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437416077-2RJIM6ZTL9VJ8U8GOPQE/sunrise1.jpg?format=1000w' alt='New York City — Jetson Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetson Creative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437416077-2RJIM6ZTL9VJ8U8GOPQE/sunrise1.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Gorgeous New York City Aesthetic For Your iPhone! - Prada & Pearls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/3a/d1/423ad1e24a3f8a31bde11d5f7110db8c.jpg' alt='30+ Gorgeous New York City Aesthetic For Your iPhone! - Prada & Pearls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/3a/d1/423ad1e24a3f8a31bde11d5f7110db8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

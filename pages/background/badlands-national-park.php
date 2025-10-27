@@ -1,0 +1,129 @@
+<title>Discover Badlands National Park: Nature's Masterpiece</title>
+                    <meta name="description" content="Explore Badlands National Park in South Dakota, where breathtaking landscapes, unique fossils, and diverse wildlife await. Perfect for hiking and photography, this stunning park offers rich history and stunning views. Plan your visit today to experience nature in its finest form!">
+                    <meta name="keywords" content="badlands national park">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/badlands-national-park">
+                            <span itemprop="name">badlands national park</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Badlands National Park: Nature's Masterpiece</h1>
+                <p>Badlands National Park, located in South Dakota, offers stunning landscapes characterized by rugged terrain, sharp peaks, and colorful rock formations. Visitors can explore unique fossil beds, diverse wildlife, and numerous hiking trails. The park also showcases rich Native American history and breathtaking sunsets, making it a must-visit destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Badlands National Park - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b9/MK00609_Badlands.jpg' alt='Badlands National Park - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2539">
+                                <meta itemprop="height" content="1693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b9/MK00609_Badlands.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Things to Do at Badlands National Park">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/travel/Domestic/2020/07/1140-badlands-sunset.jpg' alt='The Top Things to Do at Badlands National Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/travel/Domestic/2020/07/1140-badlands-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Badlands National Park">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_640,q_65,w_640,x_928,y_396/v1/clients/swat/BadlandsNP1_e09a2247-e94a-4ea8-87b6-abf24b301df4.jpg' alt='Badlands National Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southwest Adventure Tours" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_640,q_65,w_640,x_928,y_396/v1/clients/swat/BadlandsNP1_e09a2247-e94a-4ea8-87b6-abf24b301df4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Visit Badlands National Park in One Weekend">
+                                <img itemprop="contentUrl url" src='https://theloverspassport.com/wp-content/uploads/2023/03/Badlands-National-Park-01.jpg' alt='How to Visit Badlands National Park in One Weekend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lovers Passport" />
+                                </span>
+                                <a href='https://theloverspassport.com/wp-content/uploads/2023/03/Badlands-National-Park-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Badlands National Park">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/rapidcitysd/Badlands-National-Park_1D72F428-B926-8EC7-9B0C0F2FE36D7125-1d72f23acc8eec9_1d72fec1-d19b-ed57-a40f249caabe230f.jpg' alt='Badlands National Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rapid City, South Dakota" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/rapidcitysd/Badlands-National-Park_1D72F428-B926-8EC7-9B0C0F2FE36D7125-1d72f23acc8eec9_1d72fec1-d19b-ed57-a40f249caabe230f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Ways to Love Your Badlands National Park Trip Even More">
+                                <img itemprop="contentUrl url" src='https://www.midwestliving.com/thmb/fk7zL8nU1zD-RVmAv_M3ltsYYRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BadlandsNationalPark0001-8b0da46ef58846c7a3e69105bd5b4b8e.jpg' alt='6 Ways to Love Your Badlands National Park Trip Even More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Midwest Living" />
+                                </span>
+                                <a href='https://www.midwestliving.com/thmb/fk7zL8nU1zD-RVmAv_M3ltsYYRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BadlandsNationalPark0001-8b0da46ef58846c7a3e69105bd5b4b8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WATCH THIS BEFORE YOU GO TO BADLANDS NATIONAL PARK | Badlands ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tn6qauMt_N8/sddefault.jpg' alt='WATCH THIS BEFORE YOU GO TO BADLANDS NATIONAL PARK | Badlands ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tn6qauMt_N8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things to Do in Badlands National Park">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/SOe-UXF4eMYFuJdFa8KUKX75XaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/badlands-national-park-south-dakota-BADLANDS1101-38db889a5c894bc495ac6501554683d6.jpg' alt='Things to Do in Badlands National Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/SOe-UXF4eMYFuJdFa8KUKX75XaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/badlands-national-park-south-dakota-BADLANDS1101-38db889a5c894bc495ac6501554683d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Things to Do at Badlands National Park">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/travel/Domestic/2020/07/1140-badlands-mountains.jpg' alt='The Top Things to Do at Badlands National Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/travel/Domestic/2020/07/1140-badlands-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Reasons You Should Visit Badlands National Park – My Nature ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0510/7472/8113/files/Badlands_National_Park_4_1024x1024.jpg?v=1646194634' alt='10 Reasons You Should Visit Badlands National Park – My Nature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nature Book Adventures" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0510/7472/8113/files/Badlands_National_Park_4_1024x1024.jpg?v=1646194634' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

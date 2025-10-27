@@ -1,0 +1,129 @@
+<title>Kawaii Strawberry Wallpaper: Adorable Decor for Every Room</title>
+                    <meta name="description" content="Brighten your walls with our kawaii strawberry wallpaper! Perfect for adding a playful touch to any room, this cute design features colorful strawberries and whimsical characters. Ideal for kids' spaces or anyone who loves a bit of sweetness in their decor. Shop now for a delightful upgrade!">
+                    <meta name="keywords" content="kawaii strawberry wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-strawberry-wallpaper">
+                            <span itemprop="name">kawaii strawberry wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Strawberry Wallpaper: Adorable Decor for Every Room</h1>
+                <p>Transform your space with cute kawaii strawberry wallpaper! This delightful design features vibrant strawberries, sweet pastel colors, and adorable cartoon characters. Perfect for nurseries, bedrooms, or craft rooms, it adds a cheerful touch to any environment. Bring sweetness and fun to your walls with this charming decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Strawberry Kawaii iPhone Lock Screen Pink Aesthetic Wallpaper -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' alt='Cute Pink Strawberry Kawaii iPhone Lock Screen Pink Aesthetic Wallpaper -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_1080xN.4171085007_juv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Food Wallpapers: Discover The Strawberry Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/files/molang_fraise_fonddecran_desktopV2_1024x640.jpg?v=1692893339' alt='Molang Food Wallpapers: Discover The Strawberry Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/files/molang_fraise_fonddecran_desktopV2_1024x640.jpg?v=1692893339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/2f/9f/972f9f5381f3b07f2d42981347c843db.jpg' alt='Strawberry wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/2f/9f/972f9f5381f3b07f2d42981347c843db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Kawaii Wallpapers: Discover The Strawberry Gummies Wallpaper">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/files/molang_gummies_fonddecran_mobile_1200x2597.jpg?v=1698681435' alt='Molang Kawaii Wallpapers: Discover The Strawberry Gummies Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/files/molang_gummies_fonddecran_mobile_1200x2597.jpg?v=1698681435' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Strawberry Wallpapers - Top Free Cute Strawberry Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/21/2e/87212e45703c663893e9d0aeff48bfca.jpg' alt='Cute Strawberry Wallpapers - Top Free Cute Strawberry Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/21/2e/87212e45703c663893e9d0aeff48bfca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Aesthetic Strawberry Desktop Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-aesthetic-strawberry-desktop-mlnfwdx8dayv5zct.jpg' alt='Download Cute Aesthetic Strawberry Desktop Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6667">
+                                <meta itemprop="height" content="4167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-aesthetic-strawberry-desktop-mlnfwdx8dayv5zct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Cute Strawberry Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-sheep-pastel-cute-strawberry-qed3ysfclsai09jm.jpg' alt='100+] Pastel Cute Strawberry Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-sheep-pastel-cute-strawberry-qed3ysfclsai09jm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Red Strawberries Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8840388/p/f/m/okwkYg9IeUF8zIGk2zlJ33tVNw-9oJof9IGrr7WqrkYNmayJTbm4Tw/Strawberry%20Daydream.jpg' alt='Kawaii Red Strawberries Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8840388/p/f/m/okwkYg9IeUF8zIGk2zlJ33tVNw-9oJof9IGrr7WqrkYNmayJTbm4Tw/Strawberry%20Daydream.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Strawberry Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-strawberry-pattern-pastel-background_53876-114637.jpg' alt='Kawaii Strawberry Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-strawberry-pattern-pastel-background_53876-114637.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Aesthetic Strawberry Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-pink-aesthetic-strawberry-desktop-7dsg62ivqfgck1bk.jpg' alt='Cute Pink Aesthetic Strawberry Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-pink-aesthetic-strawberry-desktop-7dsg62ivqfgck1bk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

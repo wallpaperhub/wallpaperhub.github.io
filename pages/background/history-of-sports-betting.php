@@ -1,0 +1,129 @@
+<title>Unveiling the History of Sports Betting</title>
+                    <meta name="description" content="Explore the fascinating evolution of sports betting from ancient civilizations to the digital age. Learn how it transformed into a global phenomenon, influencing culture, economy, and legality in the world of gambling. Discover the past, present, and future of sports wagering today!">
+                    <meta name="keywords" content="history of sports betting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-sports-betting">
+                            <span itemprop="name">history of sports betting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the History of Sports Betting</h1>
+                <p>Sports betting has ancient origins, dating back to the Greeks and Romans who wagered on athletic contests. Over centuries, it evolved with the establishment of formal betting systems and regulations. The rise of online betting platforms in the late 20th century revolutionized the industry, making it accessible globally, while also sparking debates on legality and ethics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sports Betting in the USA | Borgata Sports Online">
+                                <img itemprop="contentUrl url" src='https://roarcdn.fitting-solutions.at/borgata/sports/en/blog/wp-content/uploads/2020/07/29114241/Original-Header-Image-387x221.jpg?strip=all&lossy=1&ssl=1' alt='The History of Sports Betting in the USA | Borgata Sports Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Borgata Online" />
+                                </span>
+                                <a href='https://roarcdn.fitting-solutions.at/borgata/sports/en/blog/wp-content/uploads/2020/07/29114241/Original-Header-Image-387x221.jpg?strip=all&lossy=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Behind Sports Betting - Unwinnable | Unwinnable">
+                                <img itemprop="contentUrl url" src='https://unwinnable.com/wp-content/uploads/2022/08/word-image-87708-1.jpeg' alt='The History Behind Sports Betting - Unwinnable | Unwinnable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unwinnable" />
+                                </span>
+                                <a href='https://unwinnable.com/wp-content/uploads/2022/08/word-image-87708-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sports Betting Legislation in the USA (Part I)">
+                                <img itemprop="contentUrl url" src='https://www.sportsbettingdime.com/app/uploads/history-of-sports-betting-one.jpg' alt='The History of Sports Betting Legislation in the USA (Part I)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Betting Dime" />
+                                </span>
+                                <a href='https://www.sportsbettingdime.com/app/uploads/history-of-sports-betting-one.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Sports Betting In The USA #infographic - Visualistan">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtTPoramgdCvB1O8udwwkH_AWl26gy17Bu3PeD_vhLoFi7hluAafLDsojnXigFxw0zyt9w_NwrDB7oW0fkFRocpzsVOkAIvgfO8noQALkeYJj2AcGFLxyNqk5U1qAh9QZmRKWq9yhLFVjJ/s0/history-of-sports-betting-in-the-usa-infographic.png' alt='History of Sports Betting In The USA #infographic - Visualistan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visualistan" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtTPoramgdCvB1O8udwwkH_AWl26gy17Bu3PeD_vhLoFi7hluAafLDsojnXigFxw0zyt9w_NwrDB7oW0fkFRocpzsVOkAIvgfO8noQALkeYJj2AcGFLxyNqk5U1qAh9QZmRKWq9yhLFVjJ/s0/history-of-sports-betting-in-the-usa-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sports Betting: From Antiquity to 2024 – Delasport">
+                                <img itemprop="contentUrl url" src='https://www.delasport.com/wp-content/uploads/2024/02/the_history_of_sports_betting_2024_850x450px.jpg' alt='The History of Sports Betting: From Antiquity to 2024 – Delasport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delasport" />
+                                </span>
+                                <a href='https://www.delasport.com/wp-content/uploads/2024/02/the_history_of_sports_betting_2024_850x450px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of sport betting. The First Bookmaker Betting is older ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:796/1*cY2bMSXvWNvrumOqVhL_jw.png' alt='The history of sport betting. The First Bookmaker Betting is older ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="796">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:796/1*cY2bMSXvWNvrumOqVhL_jw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Sports Betting Legislation in the USA (Part I)">
+                                <img itemprop="contentUrl url" src='https://www.sportsbettingdime.com/app/uploads/origins-of-sports-betting-racing.jpg' alt='The History of Sports Betting Legislation in the USA (Part I)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Betting Dime" />
+                                </span>
+                                <a href='https://www.sportsbettingdime.com/app/uploads/origins-of-sports-betting-racing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of sports betting and it's evolution">
+                                <img itemprop="contentUrl url" src='https://playtoday.co/wp-content/uploads/2023/06/history-of-sports-betting-1160x765.png' alt='History of sports betting and it's evolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayToday.co" />
+                                </span>
+                                <a href='https://playtoday.co/wp-content/uploads/2023/06/history-of-sports-betting-1160x765.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports betting - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Las_Vegas_sportsbook.jpg/1200px-Las_Vegas_sportsbook.jpg' alt='Sports betting - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Las_Vegas_sportsbook.jpg/1200px-Las_Vegas_sportsbook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why is sports gambling illegal? The centuries-old United States ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/yDjWVOzVZYqPDob9Q9P6_U9c9WA=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10839471/932568568.jpg.jpg' alt='Why is sports gambling illegal? The centuries-old United States ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SBNation.com" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/yDjWVOzVZYqPDob9Q9P6_U9c9WA=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10839471/932568568.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

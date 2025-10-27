@@ -1,0 +1,129 @@
+<title>Charming Pastel Mint Green & Pink Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the perfect pastel mint green and pink wallpaper to elevate your space. Ideal for nurseries and bedrooms, this trendy wallpaper offers a soothing ambiance and whimsical charm. Easy to apply and remove, it's perfect for any decor style. Transform your home effortlessly!">
+                    <meta name="keywords" content="pastel mint green and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pastel-mint-green-and-pink-wallpaper">
+                            <span itemprop="name">pastel mint green and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Mint Green & Pink Wallpaper for Your Home</h1>
+                <p>Pastel mint green and pink wallpaper brings a refreshing and playful vibe to any space. Perfect for nurseries, bedrooms, or playrooms, these soft colors create a calming ambiance while adding a touch of whimsy. Easy to apply and remove, this wallpaper choice complements various decor styles, making it a trendy option for modern interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' alt='Mint Green Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Paper Background Mint Green Pink Stock Photo 1414819139 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pastel-paper-background-mint-green-260nw-1414819139.jpg' alt='Pastel Paper Background Mint Green Pink Stock Photo 1414819139 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pastel-paper-background-mint-green-260nw-1414819139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint green and pink chevron http://htctokok-infinity.hu , http ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/92/e3/7d92e3b12d5d0f71a4d6cb5768a516f8.jpg' alt='Mint green and pink chevron http://htctokok-infinity.hu , http ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/92/e3/7d92e3b12d5d0f71a4d6cb5768a516f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Watercolor Print, Pastel Prints, Mint Green And Pink Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/b3/b5/81b3b51d1b4d1773ad2b38f1ad5a3492.jpg' alt='Pastel Watercolor Print, Pastel Prints, Mint Green And Pink Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/b3/b5/81b3b51d1b4d1773ad2b38f1ad5a3492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Mint Pastel Colors Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-pink-green-background_23-2150264663.jpg' alt='Pink Mint Pastel Colors Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-pink-green-background_23-2150264663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink stripes mint green dots spots iphone phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/be/59/2cbe595b5305a66da8a971696d1b5b75.jpg' alt='Pastel pink stripes mint green dots spots iphone phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/be/59/2cbe595b5305a66da8a971696d1b5b75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Jolene' Wallpaper by Wallshoppe - Mint With Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Jolene_product_MintwPink_forWEB_detail_1af24239-40b2-4b06-a126-e6116c59803a_720x.jpg?v=1633379124' alt=''Jolene' Wallpaper by Wallshoppe - Mint With Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Jolene_product_MintwPink_forWEB_detail_1af24239-40b2-4b06-a126-e6116c59803a_720x.jpg?v=1633379124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract. Colorful Pastels Pink ,mint Green Geometric Shape ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-colorful-pastels-pink-mint-green-geometric-shape-overlap-background-paper-art-style-light-shadow-vector-144098921.jpg' alt='Abstract. Colorful Pastels Pink ,mint Green Geometric Shape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-colorful-pastels-pink-mint-green-geometric-shape-overlap-background-paper-art-style-light-shadow-vector-144098921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Pastel pink and green tiles textured ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/fd/5f/b8fd5f338af93083dbce9be8c7c3f252.jpg' alt='Download free image of Pastel pink and green tiles textured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/fd/5f/b8fd5f338af93083dbce9be8c7c3f252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Pastel Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/red-and-pastel-green-aesthetic-pxens82zhfh8z704.jpg' alt='Red And Pastel Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/red-and-pastel-green-aesthetic-pxens82zhfh8z704.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

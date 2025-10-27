@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Light Blue Bathroom Wallpaper</title>
+                    <meta name="description" content="Transform your bathroom with light blue wallpaper that offers a calming aesthetic. Discover stylish patterns and textures that elevate your decor while ensuring durability. Explore the perfect blend of comfort and style for a serene bathroom retreat.">
+                    <meta name="keywords" content="light blue bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-bathroom-wallpaper">
+                            <span itemprop="name">light blue bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Light Blue Bathroom Wallpaper</h1>
+                <p>Light blue bathroom wallpaper brings a serene and refreshing vibe to your space. Perfect for creating a calming atmosphere, this color pairs beautifully with white fixtures and natural wood accents. Choose patterns or textures that complement your decor. Easy to clean and durable, it's a stylish choice for any restroom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Annapolis Light Blue Crustation Blue Wallpaper Sample  3120-13644SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bdeefc25-8b0a-440e-b745-e9cd07bbf723/svn/chesapeake-wallpaper-samples-3120-13644sam-1f_600.jpg' alt='Chesapeake Annapolis Light Blue Crustation Blue Wallpaper Sample  3120-13644SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bdeefc25-8b0a-440e-b745-e9cd07bbf723/svn/chesapeake-wallpaper-samples-3120-13644sam-1f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster 8 in. x 10 in. Elegans Light Blue Crane Toile Wallpaper Sample  2766-24698SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a71dc1da-6134-4616-842d-6ea3ff0406cb/svn/brewster-wallpaper-samples-2766-24698sam-c3_600.jpg' alt='Brewster 8 in. x 10 in. Elegans Light Blue Crane Toile Wallpaper Sample  2766-24698SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a71dc1da-6134-4616-842d-6ea3ff0406cb/svn/brewster-wallpaper-samples-2766-24698sam-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Home Fashions Chesapeake Thoreau Damask Light Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6796288032814_2.jpg?v=1657696830' alt='Brewster Home Fashions Chesapeake Thoreau Damask Light Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6796288032814_2.jpg?v=1657696830' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SG10912 Stacy Garcia Home Ditto Peel & Stick Wallpaper - Light ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SG10912-C.jpg?v=1632851969&width=1445' alt='SG10912 Stacy Garcia Home Ditto Peel & Stick Wallpaper - Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SG10912-C.jpg?v=1632851969&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall One O'Clock Light Blue Floral Vinyl Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0b2faf7c-367e-435a-8dc9-fa012763998e/svn/nextwall-wallpaper-rolls-nw36012-c3_600.jpg' alt='NextWall One O'Clock Light Blue Floral Vinyl Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0b2faf7c-367e-435a-8dc9-fa012763998e/svn/nextwall-wallpaper-rolls-nw36012-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue White Wallpaper Light Blue Floral Peel and Stick Wallpaper Boho  Contact Paper Modern Removable Wall Paper Vinyl Film for Cabinets Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tejSZY5iL._AC_UF894,1000_QL80_.jpg' alt='Blue White Wallpaper Light Blue Floral Peel and Stick Wallpaper Boho  Contact Paper Modern Removable Wall Paper Vinyl Film for Cabinets Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tejSZY5iL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Blue bathroom ideas - light blue bathrooms, blue and white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/a7/90/b6a790bebdb7b4a0dfee743fa5b05166.jpg' alt='35+ Blue bathroom ideas - light blue bathrooms, blue and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/a7/90/b6a790bebdb7b4a0dfee743fa5b05166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Haze Wallpaper - Sky Blue by Milola Design">
+                                <img itemprop="contentUrl url" src='https://miloladesign.com/cdn/shop/products/Coral_Haze_Wallpaper_Sky_blue_Bathroom.jpg?v=1717683841&width=1080' alt='Coral Haze Wallpaper - Sky Blue by Milola Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milola Design" />
+                                </span>
+                                <a href='https://miloladesign.com/cdn/shop/products/Coral_Haze_Wallpaper_Sky_blue_Bathroom.jpg?v=1717683841&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palisades in Light Blue Wallpaper | Premium Designer Wallpapers">
+                                <img itemprop="contentUrl url" src='http://oliveetoriel.com/cdn/shop/files/Palisades-Light-Blue-Bathroom-Wallpaper.jpg?v=1723348659' alt='Palisades in Light Blue Wallpaper | Premium Designer Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='http://oliveetoriel.com/cdn/shop/files/Palisades-Light-Blue-Bathroom-Wallpaper.jpg?v=1723348659' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

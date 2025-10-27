@@ -1,0 +1,129 @@
+<title>Light Blue PFP: The Trending Choice for Your Profile Picture</title>
+                    <meta name="description" content="Discover the perfect light blue pfp to elevate your online presence. Explore trends, meanings, and tips for selecting a calming and vibrant profile picture that stands out on any platform. Embrace a fresh look today!">
+                    <meta name="keywords" content="light blue pfp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-blue-pfp">
+                            <span itemprop="name">light blue pfp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Blue PFP: The Trending Choice for Your Profile Picture</h1>
+                <p>Light blue profile pictures (pfps) are a fresh, calming choice for social media users looking to express their personality. This versatile color can evoke feelings of tranquility and trust, making it ideal for personal branding. Whether you're on Instagram, Twitter, or Discord, a light blue pfp can enhance your online presence and make a memorable impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light blue bear pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/1b/c2/f51bc24a9976f45601991a563944a687.jpg' alt='light blue bear pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/1b/c2/f51bc24a9976f45601991a563944a687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/d1/86/24d18648d0214803d54fa2844a9febfb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/d1/86/24d18648d0214803d54fa2844a9febfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Anime Aesthetic Profile Pictures">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7152500051397414150&location=0&aid=1988' alt='Blue Anime Aesthetic Profile Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7152500051397414150&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sky blue blank pfp icon ☁️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/d0/39/25d0397a0725d90f8eaa7afbc367d8cf.jpg' alt='sky blue blank pfp icon ☁️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/d0/39/25d0397a0725d90f8eaa7afbc367d8cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blank Aesthetic Baby Blue Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blank-aesthetic-baby-blue-d96rl6znedooufh3.jpg' alt='Download Blank Aesthetic Baby Blue Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blank-aesthetic-baby-blue-d96rl6znedooufh3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✩">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/cc/37/2bcc37ac3a89a747c75f3c9387513db6.jpg' alt='✩'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/cc/37/2bcc37ac3a89a747c75f3c9387513db6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flannel Solids Light Blue – Pintuck & Purl">
+                                <img itemprop="contentUrl url" src='https://pintuckandpurl.com/cdn/shop/products/flannel_solid-F019-1200-ltblue_550x.jpg?v=1598546465' alt='Flannel Solids Light Blue – Pintuck & Purl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pintuck & Purl" />
+                                </span>
+                                <a href='https://pintuckandpurl.com/cdn/shop/products/flannel_solid-F019-1200-ltblue_550x.jpg?v=1598546465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue manga icon by me">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d2/2c/3d/d22c3dabf3d5ba9a41f7001b0c555764.jpg' alt='blue manga icon by me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d2/2c/3d/d22c3dabf3d5ba9a41f7001b0c555764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue pfp/light icon | free pfps (and some matching pfps) | Quotev">
+                                <img itemprop="contentUrl url" src='https://i.quotev.com/uxyr22xfmwkq.jpg' alt='Blue pfp/light icon | free pfps (and some matching pfps) | Quotev'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quotev" />
+                                </span>
+                                <a href='https://i.quotev.com/uxyr22xfmwkq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Best baby blue aesthetic ideas | blue aesthetic, baby blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/eb/46/c0/eb46c00b4dbd38b03caa1eaa517841d5.jpg' alt='110 Best baby blue aesthetic ideas | blue aesthetic, baby blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/eb/46/c0/eb46c00b4dbd38b03caa1eaa517841d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

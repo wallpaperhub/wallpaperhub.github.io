@@ -1,0 +1,129 @@
+<title>Bright and Breezy Kitchen Inspiration</title>
+                    <meta name="description" content="Discover the charm of a light kitchen! Our article explores airy designs that enhance creativity and warmth, featuring soft hues and natural elements. Transform your cooking space into a vibrant oasis that inspires joy and functionality. Perfect for those seeking a fresh kitchen makeover!">
+                    <meta name="keywords" content="light kitchen image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-kitchen-image">
+                            <span itemprop="name">light kitchen image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright and Breezy Kitchen Inspiration</h1>
+                <p>Illuminate your culinary space with a light kitchen image, showcasing airy designs and vibrant aesthetics. A light-filled kitchen creates warmth, enhances creativity, and transforms meal prep into a delightful experience. Featuring soft hues, sleek surfaces, and natural elements, this kitchen design inspires joy and functionality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitchen Design and Remodeling Lighting Plan and Guide">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a0d88b3d55b415e4b725ff8/1582815349426-ZY0YZLFJHHTTCJVPUFL3/Kitchen%2BRemodeling%2BBirmingham%2BAlabama.jpg' alt='Kitchen Design and Remodeling Lighting Plan and Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toulmin Cabinetry" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a0d88b3d55b415e4b725ff8/1582815349426-ZY0YZLFJHHTTCJVPUFL3/Kitchen%2BRemodeling%2BBirmingham%2BAlabama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Chic Kitchen Lighting Ideas and Modern Light Fixtures">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/best-kitchen-lighting-ideas-1663854457.png' alt='55 Chic Kitchen Lighting Ideas and Modern Light Fixtures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/best-kitchen-lighting-ideas-1663854457.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Ideas for the Ultimate Entertaining Kitchen">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/kitchen-island-lighting-ideas-1670454039.jpeg?crop=1.00xw:0.751xh;0,0.0312xh&resize=1200:*' alt='Design Ideas for the Ultimate Entertaining Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/kitchen-island-lighting-ideas-1670454039.jpeg?crop=1.00xw:0.751xh;0,0.0312xh&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Modern Kitchen Lighting Ideas | R&D Marble, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.rdmarble.com/site/wp-content/uploads/2021/02/shutterstock_325910156.jpg' alt='6 Modern Kitchen Lighting Ideas | R&D Marble, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="R&D Marble" />
+                                </span>
+                                <a href='https://www.rdmarble.com/site/wp-content/uploads/2021/02/shutterstock_325910156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Kitchen Lighting Ideas That'll Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/-T8HUOYJnzw_UKPN47EyvR5yfWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27378_Kay_ChattanoogaLookOutMtn__0149-2193c71c1b0c4f74953206d5b07c868f-06978445e8004921b3b8d53946cbeefb.jpg' alt='56 Kitchen Lighting Ideas That'll Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/-T8HUOYJnzw_UKPN47EyvR5yfWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27378_Kay_ChattanoogaLookOutMtn__0149-2193c71c1b0c4f74953206d5b07c868f-06978445e8004921b3b8d53946cbeefb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Kitchen Lighting Ideas for Your Home - Petersen Electric">
+                                <img itemprop="contentUrl url" src='https://cbpetersenelectric.com/wp-content/uploads/2018/11/kitchen-lighting-ideas-1024x684-1024x585.jpeg' alt='5 Kitchen Lighting Ideas for Your Home - Petersen Electric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Petersen Electric" />
+                                </span>
+                                <a href='https://cbpetersenelectric.com/wp-content/uploads/2018/11/kitchen-lighting-ideas-1024x684-1024x585.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Kitchen Lighting Ideas That Make a Statement">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/1Qho5FDmFiV07vFJG4FsxOq4IqQ=/4239x0/filters:no_upscale():strip_icc()/7007951_JD_14669_preview-84c22fb79b61453f9dbf911b019a4435.jpg' alt='26 Kitchen Lighting Ideas That Make a Statement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4239">
+                                <meta itemprop="height" content="5584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/1Qho5FDmFiV07vFJG4FsxOq4IqQ=/4239x0/filters:no_upscale():strip_icc()/7007951_JD_14669_preview-84c22fb79b61453f9dbf911b019a4435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Types of Kitchen Light Fixtures | Compelling Homes">
+                                <img itemprop="contentUrl url" src='https://www.compellinghomes.com/hs-fs/hubfs/Blog%20Images/6%20Types%20of%20Kitchen%20Light%20Fixtures%20to%20Transform%20Your%20Space/image%20(2).jpg?width=960&height=640&name=image%20(2).jpg' alt='6 Types of Kitchen Light Fixtures | Compelling Homes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compelling Homes" />
+                                </span>
+                                <a href='https://www.compellinghomes.com/hs-fs/hubfs/Blog%20Images/6%20Types%20of%20Kitchen%20Light%20Fixtures%20to%20Transform%20Your%20Space/image%20(2).jpg?width=960&height=640&name=image%20(2).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Guide to Placing Recessed Lighting In A Kitchen">
+                                <img itemprop="contentUrl url" src='https://blog.1800lighting.com/wp-content/uploads/2022/10/Capitol-banner-1680-x-1600-px-31-1024x975.png' alt='Ultimate Guide to Placing Recessed Lighting In A Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capitol Lighting" />
+                                </span>
+                                <a href='https://blog.1800lighting.com/wp-content/uploads/2022/10/Capitol-banner-1680-x-1600-px-31-1024x975.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitchen lighting ideas: 45 lights designs to set the scene | Homes ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/xn85UkUYDGLmuTzkNeiboR-1280-80.jpg' alt='Kitchen lighting ideas: 45 lights designs to set the scene | Homes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homes & Gardens" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/xn85UkUYDGLmuTzkNeiboR-1280-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Purple Skull Wallpaper: Edgy Decor for a Unique Space</title>
+                    <meta name="description" content="Discover the allure of purple skull wallpaper, designed to elevate your interior with its unique style. Perfect for adding a bold statement to your home, this wallpaper combines elegance with an edgy twist. Ideal for all spaces, transform your decor effortlessly with our stunning designs!">
+                    <meta name="keywords" content="purple skull wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-skull-wallpaper">
+                            <span itemprop="name">purple skull wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Skull Wallpaper: Edgy Decor for a Unique Space</h1>
+                <p>Transform your space with our striking purple skull wallpaper, perfect for those who adore unique and edgy designs. This bold wallpaper features intricate skull motifs in rich purple hues, making a statement in any room. Ideal for bedrooms, offices, or game rooms, it adds a touch of personality and style to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Dark Skull HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/877/thumb-1920-87739.jpg' alt='Purple Dark Skull HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/877/thumb-1920-87739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HALLOWEEN PURPLE SKULLS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/cb/95/c7cb95703010e2e67d452aab31118b3b.jpg' alt='HALLOWEEN PURPLE SKULLS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/cb/95/c7cb95703010e2e67d452aab31118b3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD skull purple wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/19/570/HD-wallpaper-skull-hand-purple.jpg' alt='HD skull purple wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/19/570/HD-wallpaper-skull-hand-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple skull Ringtones and Wallpapers - Free by ZEDGE™">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/bc/84/46/bc844671c1c6d12fc138bd1925206c6b.jpg' alt='purple skull Ringtones and Wallpapers - Free by ZEDGE™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/bc/84/46/bc844671c1c6d12fc138bd1925206c6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Black And Purple Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skull-black-and-purple-phone-hnwf96y02wgbz9o6.jpg' alt='Skull Black And Purple Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skull-black-and-purple-phone-hnwf96y02wgbz9o6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Skull II, colourful, light, neon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/660/780/HD-wallpaper-purple-skull-ii-colourful-light-neon.jpg' alt='Purple Skull II, colourful, light, neon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/660/780/HD-wallpaper-purple-skull-ii-colourful-light-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Purple Skull With Flames On A Black Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fire-skull-77g6pp80glpvwizh.jpg' alt='Download A Purple Skull With Flames On A Black Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fire-skull-77g6pp80glpvwizh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Skull Wallpaper | Happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' alt='Witchy Skull Wallpaper | Happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Skull Art - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/dark-purple-skull-art.webp' alt='Dark Purple Skull Art - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/dark-purple-skull-art.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Skull With Purple Smoke On It Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/flaming-skull-wwglcdukj222lnb1.jpg' alt='Download A Skull With Purple Smoke On It Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/flaming-skull-wwglcdukj222lnb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Avatar iPhone Wallpapers for a Unique Look</title>
+                    <meta name="description" content="Discover a collection of vibrant Avatar iPhone wallpapers to personalize your device. Choose from stunning designs that capture the essence of the Avatar universe, adding a unique flair to your iPhone. Perfect for fans wanting to express their love for this captivating world!">
+                    <meta name="keywords" content="avatar iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/avatar-iphone-wallpaper">
+                            <span itemprop="name">avatar iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Avatar iPhone Wallpapers for a Unique Look</h1>
+                <p>Transform your iPhone with vibrant Avatar wallpapers that reflect your personality! Explore an array of stunning designs inspired by the world of Avatar, perfect for making your device standout. Whether you prefer serene landscapes or action-packed scenes, find the perfect wallpaper to match your mood and style. Upgrade your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="avatar 5k iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/f3/9b/11f39b7bdc79a2477cc7d065deee8260.jpg' alt='avatar 5k iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/f3/9b/11f39b7bdc79a2477cc7d065deee8260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My avatar wallpaper for my phone : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oyny45yhmeta1.jpg' alt='My avatar wallpaper for my phone : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oyny45yhmeta1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/avatar-pandora-43eeaftpvndmclsx.jpg' alt='Avatar iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/avatar-pandora-43eeaftpvndmclsx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Avatar Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/avatar-na-vi-archer-moonlight-jh2pm9ps2ke19uqb.jpg' alt='100+] Avatar Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/avatar-na-vi-archer-moonlight-jh2pm9ps2ke19uqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/e8/2a/38e82aed7a4816a4bac7e8d950231c74.jpg' alt='   iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/e8/2a/38e82aed7a4816a4bac7e8d950231c74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My avatar wallpaper for my phone : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-bocdytdybmta1.jpeg?width=1080&format=pjpg&auto=webp&s=2173fa20b85235363b59f2f0477faa7b4dca4998' alt='My avatar wallpaper for my phone : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-bocdytdybmta1.jpeg?width=1080&format=pjpg&auto=webp&s=2173fa20b85235363b59f2f0477faa7b4dca4998' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My avatar wallpaper for my phone : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-92lhzwwbqjta1.jpeg?width=2592&format=pjpg&auto=webp&s=c3c48f44b809e31eb1fab9b512e930267e709f43' alt='My avatar wallpaper for my phone : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-92lhzwwbqjta1.jpeg?width=2592&format=pjpg&auto=webp&s=c3c48f44b809e31eb1fab9b512e930267e709f43' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2 HD Backgrounds iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/f5/01/4ff501ed5374e1deee2c288075835ca1.jpg' alt='Avatar 2 HD Backgrounds iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/f5/01/4ff501ed5374e1deee2c288075835ca1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/3/1/33209-1183x2560-iphone-hd-avatar-wallpaper-photo.jpg' alt='Avatar Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/3/1/33209-1183x2560-iphone-hd-avatar-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Avatar wallpaper setup : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=640&crop=smart&auto=webp&s=aeb3077f63cd5a4fa8b533bbf3191c1b3ca68147' alt='My Avatar wallpaper setup : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=640&crop=smart&auto=webp&s=aeb3077f63cd5a4fa8b533bbf3191c1b3ca68147' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

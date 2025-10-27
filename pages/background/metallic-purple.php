@@ -1,0 +1,129 @@
+<title>Shimmering Elegance: Discover Metallic Purple</title>
+                    <meta name="description" content="Explore the allure of metallic purple! This vibrant hue combines sophistication with a modern twist, making it ideal for fashion and design. Dive into creative uses and inspiration for this stunning color, perfect for adding a touch of luxury to your style and surroundings.">
+                    <meta name="keywords" content="metallic purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metallic-purple">
+                            <span itemprop="name">metallic purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmering Elegance: Discover Metallic Purple</h1>
+                <p>Metallic purple is a striking color that effortlessly blends elegance with modernity. Often associated with royalty and luxury, this luminous hue shines brilliantly under light, creating captivating visuals. It’s a versatile shade, perfect for fashion, interior design, and art, adding a unique flair to any aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Gloss Paint Metallic Plum Purple">
+                                <img itemprop="contentUrl url" src='https://www.auravinyl.com/cdn/shop/products/ultra-gloss-paint-metallic-plum-purple-490061.jpg?v=1701205071&width=1445' alt='Ultra Gloss Paint Metallic Plum Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aura Vinyl" />
+                                </span>
+                                <a href='https://www.auravinyl.com/cdn/shop/products/ultra-gloss-paint-metallic-plum-purple-490061.jpg?v=1701205071&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Purple Images – Browse 302,806 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/32/97/15/360_F_132971593_GblwGgNc5XbvkE5CgA6oG7QCDYvBrrjy.jpg' alt='Metallic Purple Images – Browse 302,806 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/32/97/15/360_F_132971593_GblwGgNc5XbvkE5CgA6oG7QCDYvBrrjy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MSG025 - Metallic Midnight Purple – Inozetek USA">
+                                <img itemprop="contentUrl url" src='https://inozetekusa.com/cdn/shop/files/Snapinsta.app_80772938_134925674645028_3849310148377345529_n_1080.jpg?v=1724362213' alt='MSG025 - Metallic Midnight Purple – Inozetek USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inozetek USA" />
+                                </span>
+                                <a href='https://inozetekusa.com/cdn/shop/files/Snapinsta.app_80772938_134925674645028_3849310148377345529_n_1080.jpg?v=1724362213' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avery Dennison SW900 Matte Purple Metallic Vinyl Wrap | SW900-565-M">
+                                <img itemprop="contentUrl url" src='https://metrorestyling.com/cdn/shop/products/SW900-565-M-7_91a7175a-2b27-4efd-8e52-bbc1419dee14_1024x.jpg?v=1689801355' alt='Avery Dennison SW900 Matte Purple Metallic Vinyl Wrap | SW900-565-M'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metro Restyling" />
+                                </span>
+                                <a href='https://metrorestyling.com/cdn/shop/products/SW900-565-M-7_91a7175a-2b27-4efd-8e52-bbc1419dee14_1024x.jpg?v=1689801355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bulk Mat'l - Solid, Metallic, Pearl, & Fluorescent — Tapeworks Graphics">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fad69d0cf3726491f5efae4/1634393545118-3P6S2FNCB2KM6EBR98OY/6108+Metallic+Purple.jpg?format=750w' alt='Bulk Mat'l - Solid, Metallic, Pearl, & Fluorescent — Tapeworks Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tapeworks Graphics" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fad69d0cf3726491f5efae4/1634393545118-3P6S2FNCB2KM6EBR98OY/6108+Metallic+Purple.jpg?format=750w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poseidon Paint: Deep Violet Metallic - gallon">
+                                <img itemprop="contentUrl url" src='https://watertransferprinting.com/wp-content/uploads/2018/11/Deep-Violet-Metallic-Poseidon-Paint.jpg' alt='Poseidon Paint: Deep Violet Metallic - gallon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TWN Industries" />
+                                </span>
+                                <a href='https://watertransferprinting.com/wp-content/uploads/2018/11/Deep-Violet-Metallic-Poseidon-Paint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="167,400+ Metallic Purple Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/679472426/photo/purple-violet-foil-background-metal-texture.jpg?s=612x612&w=0&k=20&c=xWa-auOm3XVc9rlCD6e9FFR5D_YqD-teEo6BdIzoNVU=' alt='167,400+ Metallic Purple Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/679472426/photo/purple-violet-foil-background-metal-texture.jpg?s=612x612&w=0&k=20&c=xWa-auOm3XVc9rlCD6e9FFR5D_YqD-teEo6BdIzoNVU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: DGAGA Metallic Acrylic Paint,Metallic Purple Paint,1.69  OZ/Jar,Chalk Paste Paint Metallic,Metallic Paint for Crafts Color-shifting  Glass ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713Vl3nJ0NL.jpg' alt='Amazon.com: DGAGA Metallic Acrylic Paint,Metallic Purple Paint,1.69  OZ/Jar,Chalk Paste Paint Metallic,Metallic Paint for Crafts Color-shifting  Glass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713Vl3nJ0NL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,318 Metallic Purple Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2149594405/photo/purple-glitter-surface-background.jpg?s=612x612&w=gi&k=20&c=n-tg-FjM6QW91doSKp0309RRJgg3ZSx7SfLtrWkKYqg=' alt='47,318 Metallic Purple Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2149594405/photo/purple-glitter-surface-background.jpg?s=612x612&w=gi&k=20&c=n-tg-FjM6QW91doSKp0309RRJgg3ZSx7SfLtrWkKYqg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy Metal Purple Metallic Basecoat Quart (Basecoat Only) Kit">
+                                <img itemprop="contentUrl url" src='http://autopainthq.com/cdn/shop/files/heavy_metal_purple.png?v=1728323795' alt='Heavy Metal Purple Metallic Basecoat Quart (Basecoat Only) Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Auto Paint HQ" />
+                                </span>
+                                <a href='http://autopainthq.com/cdn/shop/files/heavy_metal_purple.png?v=1728323795' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

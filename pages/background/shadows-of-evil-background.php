@@ -1,0 +1,129 @@
+<title>Unveiling Shadows of Evil: A Haunting Background</title>
+                    <meta name="description" content="Explore the eerie backdrop of "Shadows of Evil." Delve into its dark history, uncover hidden secrets, and face terrifying challenges in this gripping environment that blends horror and adventure.">
+                    <meta name="keywords" content="shadows of evil background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shadows-of-evil-background">
+                            <span itemprop="name">shadows of evil background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling Shadows of Evil: A Haunting Background</h1>
+                <p>In the ominous world of "Shadows of Evil," players find themselves in a nightmarish landscape filled with ancient curses and sinister entities. Set in a decaying city with a rich history of darkness and despair, this background serves as a haunting reminder of the past. Players must confront their fears as they uncover hidden secrets and battle against malevolent forces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All maps aside, Shadows Of Evil is a masterpiece, because of the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6bfwf486n4r21.png?auto=webp&s=2ba18795f1aaac062c04b6ee33436caff88479da' alt='All maps aside, Shadows Of Evil is a masterpiece, because of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6bfwf486n4r21.png?auto=webp&s=2ba18795f1aaac062c04b6ee33436caff88479da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows Of Evil wallpaper pack : r/CODZombies">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/MsORODEV8xq4I6Cg2yFvpzze8nF24Gd4fC84lRu5rH8.jpg?auto=webp&s=e049675d44c6dd88e5b97ac743adfde0ba7ede33' alt='Shadows Of Evil wallpaper pack : r/CODZombies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/MsORODEV8xq4I6Cg2yFvpzze8nF24Gd4fC84lRu5rH8.jpg?auto=webp&s=e049675d44c6dd88e5b97ac743adfde0ba7ede33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::COD Zombies: Shadows of Evil Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/960843216545654453/279E26CF122EE450D806E9F9ED095B97ED2EC8CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::COD Zombies: Shadows of Evil Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/960843216545654453/279E26CF122EE450D806E9F9ED095B97ED2EC8CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows of Evil Canal District : r/CODZombies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dhz06iwbm2r51.jpg?auto=webp&s=47eeafab5b074e4dc6a1d465ef3115971b4b11b4' alt='Shadows of Evil Canal District : r/CODZombies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dhz06iwbm2r51.jpg?auto=webp&s=47eeafab5b074e4dc6a1d465ef3115971b4b11b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows of Evil - Black Ops 3, Zombies - Call of Duty Maps">
+                                <img itemprop="contentUrl url" src='https://callofdutymaps.com/wp-content/uploads/shadowsofevil1-1024x576.jpg' alt='Shadows of Evil - Black Ops 3, Zombies - Call of Duty Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call of Duty Maps" />
+                                </span>
+                                <a href='https://callofdutymaps.com/wp-content/uploads/shadowsofevil1-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows of Evil - Black Ops III - Drop Cycle Tracker - Zombacus">
+                                <img itemprop="contentUrl url" src='https://www.zombacus.com/images/bo3/shadows-of-evil.webp' alt='Shadows of Evil - Black Ops III - Drop Cycle Tracker - Zombacus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zombacus" />
+                                </span>
+                                <a href='https://www.zombacus.com/images/bo3/shadows-of-evil.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Shadows of Evil - Morg City Zombies Theme [BO3]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1773825431540645416/8184E852474C988CBA370E1F0E7FB8B101BBFCA5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Shadows of Evil - Morg City Zombies Theme [BO3]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1773825431540645416/8184E852474C988CBA370E1F0E7FB8B101BBFCA5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows of Evil Animated Wallpaper [Redone]">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/KFwYtsi6ALMTg-iGmuQHJQyWd4QZbixqoOWY6fiFm0g.jpg?format=pjpg&auto=webp&s=1c4863dd8699573ea64acfdae050279853ca9bf9' alt='Shadows of Evil Animated Wallpaper [Redone]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/KFwYtsi6ALMTg-iGmuQHJQyWd4QZbixqoOWY6fiFm0g.jpg?format=pjpg&auto=webp&s=1c4863dd8699573ea64acfdae050279853ca9bf9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rushin on X: "Hi twitter Shadows of Evil is the best COD Zombies ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EzRu8p2VUAYnFsp.jpg:large' alt='Rushin on X: "Hi twitter Shadows of Evil is the best COD Zombies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EzRu8p2VUAYnFsp.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadows Of Evil Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/41/2a/fc412ad51b7f3efe4d4d382a89e3921d.jpg' alt='Shadows Of Evil Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/41/2a/fc412ad51b7f3efe4d4d382a89e3921d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

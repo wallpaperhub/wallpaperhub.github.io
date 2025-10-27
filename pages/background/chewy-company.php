@@ -1,0 +1,129 @@
+<title>Chewy Company: Your Pet’s Best Online Store</title>
+                    <meta name="description" content="Discover Chewy, the premier online destination for pet supplies! Enjoy fast shipping, top brands, and exceptional customer service. Explore a wide range of products to keep your furry friends happy and healthy. Shop now for all your pet needs at Chewy!">
+                    <meta name="keywords" content="chewy company">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chewy-company">
+                            <span itemprop="name">chewy company</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chewy Company: Your Pet’s Best Online Store</h1>
+                <p>Chewy, Inc. is a leading online retailer specializing in pet food and products. Founded in 2011, it connects pet parents with top-quality supplies and offers convenient home delivery. With a strong commitment to customer service, Chewy provides an array of pet care resources, ensuring pets are happy and healthy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy (company) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chewy_pet_food_logo.svg/1200px-Chewy_pet_food_logo.svg.png' alt='Chewy (company) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chewy_pet_food_logo.svg/1200px-Chewy_pet_food_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Careers at Chewy, Inc. | Chewy, Inc. jobs">
+                                <img itemprop="contentUrl url" src='https://cdn.phenompeople.com/CareerConnectResources/CHINUS/images/Untitled-5-1630600385953.jpg' alt='Careers at Chewy, Inc. | Chewy, Inc. jobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://cdn.phenompeople.com/CareerConnectResources/CHINUS/images/Untitled-5-1630600385953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy IPO: 5 things to know about the 'pet humanization' products ...">
+                                <img itemprop="contentUrl url" src='https://s.marketwatch.com/public/resources/images/MW-HI743_ChewyI_ZH_20190502145745.jpg' alt='Chewy IPO: 5 things to know about the 'pet humanization' products ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MarketWatch" />
+                                </span>
+                                <a href='https://s.marketwatch.com/public/resources/images/MW-HI743_ChewyI_ZH_20190502145745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy Opens Its First Veterinary Practice with Launch of Chewy Vet ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1_hz7oIM-foxXK1bFrHi5NdMS2L7t6N4eeZVvqWPuNmC_j2zTA84DNNyVP7IV_OSeflMrzD_B7P9wma_7OkLF-Os42_S5tFgvHQe4iSUwrC5RGcRJU8BSTwh7zAjcle8xCR2bF6-HPDN3-pN1JlJcb2jNNtH-tvjfAqeZdOkGdcyHTJi4J53EGyTKbxdv/w1200-h630-p-k-no-nu/Chewy-Vet-Care-Atlanta.jpg' alt='Chewy Opens Its First Veterinary Practice with Launch of Chewy Vet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Florida Tech Hub" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1_hz7oIM-foxXK1bFrHi5NdMS2L7t6N4eeZVvqWPuNmC_j2zTA84DNNyVP7IV_OSeflMrzD_B7P9wma_7OkLF-Os42_S5tFgvHQe4iSUwrC5RGcRJU8BSTwh7zAjcle8xCR2bF6-HPDN3-pN1JlJcb2jNNtH-tvjfAqeZdOkGdcyHTJi4J53EGyTKbxdv/w1200-h630-p-k-no-nu/Chewy-Vet-Care-Atlanta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Chewy, the pet products website 'Roaring Kitty' is ...">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/PG2WO3AZ6FKGBABVZUMKN5PYG4.jpg?auth=bae29ae0ded7c4eb897865cfa6126a0a08fc8268e7c857ba56ffe7285846980e&width=6197&quality=80' alt='What is Chewy, the pet products website 'Roaring Kitty' is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/PG2WO3AZ6FKGBABVZUMKN5PYG4.jpg?auth=bae29ae0ded7c4eb897865cfa6126a0a08fc8268e7c857ba56ffe7285846980e&width=6197&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy Jobs and Company Culture">
+                                <img itemprop="contentUrl url" src='https://assets.themuse.com/uploaded/companies/12231/about_modules/100249/bbed0a45-fbed-47e9-9729-a3e89240cda3.jpg?v=dce68c096e6468784c14a082c207e5efbe0602d041afee5d2830e7f166c33800' alt='Chewy Jobs and Company Culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Muse" />
+                                </span>
+                                <a href='https://assets.themuse.com/uploaded/companies/12231/about_modules/100249/bbed0a45-fbed-47e9-9729-a3e89240cda3.jpg?v=dce68c096e6468784c14a082c207e5efbe0602d041afee5d2830e7f166c33800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pet Food, Products, Supplies at Low Prices - Free Shipping | Chewy.com">
+                                <img itemprop="contentUrl url" src='https://image.chewy.com/catalog/cms/images/2023-08-P49-Content-Card-RESIZED-Image3_85-original._SY320__V1712351168_.jpeg' alt='Pet Food, Products, Supplies at Low Prices - Free Shipping | Chewy.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.chewy.com" />
+                                </span>
+                                <a href='https://image.chewy.com/catalog/cms/images/2023-08-P49-Content-Card-RESIZED-Image3_85-original._SY320__V1712351168_.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Locations | Chewy, Inc. Careers">
+                                <img itemprop="contentUrl url" src='https://cdn.phenompeople.com/CareerConnectResources/CHINUS/images/lewisberry-1630440607539.jpg' alt='Our Locations | Chewy, Inc. Careers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Careers at Chewy, Inc. - Chewy.com" />
+                                </span>
+                                <a href='https://cdn.phenompeople.com/CareerConnectResources/CHINUS/images/lewisberry-1630440607539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy, Inc. (CHWY) Company Profile & Overview - Stock Analysis">
+                                <img itemprop="contentUrl url" src='https://logos.stockanalysis.com/chwy.svg' alt='Chewy, Inc. (CHWY) Company Profile & Overview - Stock Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock Analysis" />
+                                </span>
+                                <a href='https://logos.stockanalysis.com/chwy.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewy Turns 10: How the Online Retailer Has Impacted the Pet ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/petproductnews.com/content/tncms/assets/v3/editorial/6/85/685fd3a6-2e8e-11eb-b936-d78c021ba2dd/5fbd65fcbd027.image.png?resize=400%2C243' alt='Chewy Turns 10: How the Online Retailer Has Impacted the Pet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pet Product News" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/petproductnews.com/content/tncms/assets/v3/editorial/6/85/685fd3a6-2e8e-11eb-b936-d78c021ba2dd/5fbd65fcbd027.image.png?resize=400%2C243' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

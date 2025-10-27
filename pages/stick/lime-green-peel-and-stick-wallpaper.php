@@ -1,0 +1,129 @@
+<title>Lime Green Peel and Stick Wallpaper: Easy, Stylish Makeover</title>
+                    <meta name="description" content="Revitalize your home with lime green peel and stick wallpaper! This easy-to-apply wallpaper offers a chic burst of color and modern aesthetic while being removable and renter-friendly. Perfect for any room, it’s an instant way to refresh your space without the commitment.">
+                    <meta name="keywords" content="lime green peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/lime-green-peel-and-stick-wallpaper">
+                            <span itemprop="name">lime green peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lime Green Peel and Stick Wallpaper: Easy, Stylish Makeover</h1>
+                <p>Transform your space with vibrant lime green peel and stick wallpaper! Perfect for adding a pop of color, this stylish option is easy to apply and remove, making it ideal for renters or those wanting a quick design update. Create a fresh, modern look in any room effortlessly with this trendy wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Peony Lime Green Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-LimeGreen-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/50aa1aba-020b-4ee9-9c6c-966eb2ee89b8/svn/wallpaper-rolls-w9131-vinyl-limegreen-216-4f_600.jpg' alt='Unbranded Peony Lime Green Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-LimeGreen-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/50aa1aba-020b-4ee9-9c6c-966eb2ee89b8/svn/wallpaper-rolls-w9131-vinyl-limegreen-216-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZYMECH Wall Peel and Stick Wallpaper Lime Green Peel and Stick Contact  Paper Home Decor Easy to Clean (W) 137.8Inch X(H) 110Inch - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61pDNgjMAZL.jpg' alt='ZYMECH Wall Peel and Stick Wallpaper Lime Green Peel and Stick Contact  Paper Home Decor Easy to Clean (W) 137.8Inch X(H) 110Inch - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61pDNgjMAZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Peony Lime Green Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-LimeGreen-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a51040a7-8b80-49f8-926b-d45e8972b16b/svn/wallpaper-rolls-w9131-vinyl-limegreen-216-64_600.jpg' alt='Unbranded Peony Lime Green Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-LimeGreen-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a51040a7-8b80-49f8-926b-d45e8972b16b/svn/wallpaper-rolls-w9131-vinyl-limegreen-216-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Bright Green Plant Distribution L7473 Removable Wallpaper Self Adhesive  Wallpaper Peel & Stick Wallpaper Wallpaper Mural AJSTOREArt">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33607814/r/il/801ecb/3778621508/il_570xN.3778621508_6n2j.jpg' alt='3D Bright Green Plant Distribution L7473 Removable Wallpaper Self Adhesive  Wallpaper Peel & Stick Wallpaper Wallpaper Mural AJSTOREArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33607814/r/il/801ecb/3778621508/il_570xN.3778621508_6n2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Consine Light Green Peel and Stick Wallpaper, 15.7 X 157 inches Renter  Friendly Wallpaper, Vinyl PVC Removable Wall Paper, Self-Adhesive Wall  Sticker ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CRocrWGCL.jpg' alt='Consine Light Green Peel and Stick Wallpaper, 15.7 X 157 inches Renter  Friendly Wallpaper, Vinyl PVC Removable Wall Paper, Self-Adhesive Wall  Sticker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CRocrWGCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimoon 78.7"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Decorative Thicken Waterproof Retro Light Green Flower Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' alt='Dimoon 78.7"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Decorative Thicken Waterproof Retro Light Green Flower Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LACHEERY Lime Green Wallpaper Stick and Peel Textured Peel and Stick  Wallpaper Solid Color Self Adhesive Removable Wallpaper Matte Green Contact  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+thL0B7WL._AC_UF894,1000_QL80_.jpg' alt='LACHEERY Lime Green Wallpaper Stick and Peel Textured Peel and Stick  Wallpaper Solid Color Self Adhesive Removable Wallpaper Matte Green Contact  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+thL0B7WL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Vintage Victorian Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - D224">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5113699197_oz51.jpg?v=1725097290&width=1946' alt='Light Green Vintage Victorian Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - D224'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5113699197_oz51.jpg?v=1725097290&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lime Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D430">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5268192493_qcx8.jpg?v=1725057437&width=1946' alt='Lime Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D430'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5268192493_qcx8.jpg?v=1725057437&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lime Green Wallpaper With Floral Motive in Art Deco Style, Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25404343/r/il/fdcac2/3833187630/il_570xN.3833187630_j6wv.jpg' alt='Lime Green Wallpaper With Floral Motive in Art Deco Style, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25404343/r/il/fdcac2/3833187630/il_570xN.3833187630_j6wv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

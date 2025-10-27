@@ -1,0 +1,129 @@
+<title>Cool First Responder Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning cool first responder wallpapers that honor the heroes of our communities. Perfect for phones and tablets, these unique designs bring inspiration and support to your screen. Download now and showcase your appreciation for firefighters, EMTs, and police with vibrant imagery!">
+                    <meta name="keywords" content="cool first responder wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-first-responder-wallpaper">
+                            <span itemprop="name">cool first responder wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool First Responder Wallpapers for Your Device</h1>
+                <p>Enhance your device's aesthetic with cool first responder wallpaper! Featuring vibrant images of firefighters, EMTs, and police in action, these wallpapers celebrate the bravery and dedication of first responders. Perfect for inspired motivation or showing appreciation for their heroic work, choose a wallpaper that resonates with your support.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Responder Images – Browse 56,396 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/56/68/66/360_F_256686651_AQ8i3TS1HQ913jWZcvyr4DF7dz2uYFsY.jpg' alt='First Responder Images – Browse 56,396 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/56/68/66/360_F_256686651_AQ8i3TS1HQ913jWZcvyr4DF7dz2uYFsY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Responder Logo Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2437299907/display_1500/stock-vector-national-first-responders-flag-i-support-first-responders-flag-distressed-american-flag-ems-2437299907.jpg' alt='First Responder Logo Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2437299907/display_1500/stock-vector-national-first-responders-flag-i-support-first-responders-flag-distressed-american-flag-ems-2437299907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,800+ First Responders Silhouette Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1322104867/photo/usa-firefighter-with-nation-flag-greeting-card-for-firefighters-day-patriot-day-independence.jpg?s=612x612&w=0&k=20&c=9oXoWa833ploExqEMWRVgLtdQ2EQXsjHwom0ks2wcX0=' alt='17,800+ First Responders Silhouette Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1322104867/photo/usa-firefighter-with-nation-flag-greeting-card-for-firefighters-day-patriot-day-independence.jpg?s=612x612&w=0&k=20&c=9oXoWa833ploExqEMWRVgLtdQ2EQXsjHwom0ks2wcX0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,400+ First Responders American Flag Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/540977062/photo/police-crime-scene-with-lights-and-raindrops-and-american-flag.jpg?s=612x612&w=0&k=20&c=BpLRrO4M4gpt-XN827b72Eu4YD6u6J66F5jnWwuuCwA=' alt='4,400+ First Responders American Flag Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/540977062/photo/police-crime-scene-with-lights-and-raindrops-and-american-flag.jpg?s=612x612&w=0&k=20&c=BpLRrO4M4gpt-XN827b72Eu4YD6u6J66F5jnWwuuCwA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "valiant First Responders Standing United" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/valiant-first-responders-standing-united-hid94k63vtl5lg1i.jpg' alt='Download "valiant First Responders Standing United" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/valiant-first-responders-standing-united-hid94k63vtl5lg1i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefighter, first responder, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/367/212/HD-wallpaper-firefighter-first-responder.jpg' alt='Firefighter, first responder, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/367/212/HD-wallpaper-firefighter-first-responder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ems Police Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1959390820/display_1500/stock-vector-first-responder-american-flag-with-awareness-colors-in-stars-and-stripes-1959390820.jpg' alt='Best Ems Police Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1496">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1959390820/display_1500/stock-vector-first-responder-american-flag-with-awareness-colors-in-stars-and-stripes-1959390820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefighters, tribute, heroes, first responder, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/539/463/HD-wallpaper-firefighters-tribute-heroes-first-responder.jpg' alt='Firefighters, tribute, heroes, first responder, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/539/463/HD-wallpaper-firefighters-tribute-heroes-first-responder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Responder Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10278460.png' alt='First Responder Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10278460.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/7d/ac/507dac117f906a8ae29fd27704239965.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/7d/ac/507dac117f906a8ae29fd27704239965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

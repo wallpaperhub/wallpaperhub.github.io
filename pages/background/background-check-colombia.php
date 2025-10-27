@@ -1,0 +1,129 @@
+<title>Essential Guide to Background Checks in Colombia</title>
+                    <meta name="description" content="Your go-to resource for understanding background checks in Colombia. Discover why they are crucial for safety and how they help verify identity, employment, and criminal history. Ensure peace of mind with comprehensive screening solutions tailored for businesses and individuals alike.">
+                    <meta name="keywords" content="background check colombia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-colombia">
+                            <span itemprop="name">background check colombia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Background Checks in Colombia</h1>
+                <p>Background checks in Colombia are essential for ensuring the safety and security of personal and business relations. These checks typically include verification of criminal records, employment history, and educational credentials. With increasing demand for transparency, many organizations now rely on reliable background screening services to mitigate risks and make informed decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI background check from abroad | Colombia">
+                                <img itemprop="contentUrl url" src='https://expatgroup.co/english/wp-content/uploads/2024/06/FBI-Background-Check.webp' alt='FBI background check from abroad | Colombia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expatgroup.co" />
+                                </span>
+                                <a href='https://expatgroup.co/english/wp-content/uploads/2024/06/FBI-Background-Check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Background Check - Colombia I">
+                                <img itemprop="contentUrl url" src='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Police-Background-Check-Colombia.jpg' alt='Police Background Check - Colombia I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tranlanguage" />
+                                </span>
+                                <a href='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Police-Background-Check-Colombia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Obtain the FBI Background Check for a Colombia Visa ...">
+                                <img itemprop="contentUrl url" src='https://medellinguru.com/wp-content/uploads/2024/06/How-to-Obtain-the-FBI-Background-Check-for-a-Colombia-Visa-light-1.jpg' alt='How to Obtain the FBI Background Check for a Colombia Visa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medellin Guru" />
+                                </span>
+                                <a href='https://medellinguru.com/wp-content/uploads/2024/06/How-to-Obtain-the-FBI-Background-Check-for-a-Colombia-Visa-light-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Background Check is Being REQUIRED for Colombia Visa Applications">
+                                <img itemprop="contentUrl url" src='https://expatgroup.co/english/wp-content/uploads/2025/01/The-Background-Check-is-Being-Required-for-Colombia-Visa-Applications.webp' alt='The Background Check is Being REQUIRED for Colombia Visa Applications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expatgroup.co" />
+                                </span>
+                                <a href='https://expatgroup.co/english/wp-content/uploads/2025/01/The-Background-Check-is-Being-Required-for-Colombia-Visa-Applications.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police Background Check - Colombia II">
+                                <img itemprop="contentUrl url" src='https://www.tranlanguage.com/wp-content/uploads/Background-Check-Colombia-II.jpg' alt='Police Background Check - Colombia II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tranlanguage" />
+                                </span>
+                                <a href='https://www.tranlanguage.com/wp-content/uploads/Background-Check-Colombia-II.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Criminal Background Report • Colombia Visas">
+                                <img itemprop="contentUrl url" src='https://www.colombiavisas.com/wp-content/uploads/2022/11/Criminal-record-from-a-CITY-police-department-and-from-a-STATE-police-agency.jpg' alt='USA Criminal Background Report • Colombia Visas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colombia Visas" />
+                                </span>
+                                <a href='https://www.colombiavisas.com/wp-content/uploads/2022/11/Criminal-record-from-a-CITY-police-department-and-from-a-STATE-police-agency.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step by Step to Get the FBI Background Check from Colombia">
+                                <img itemprop="contentUrl url" src='https://expatgroup.co/english/wp-content/uploads/2024/07/Step-by-Step-to-Get-the-FBI-Background-Check-from-Colombia.webp' alt='Step by Step to Get the FBI Background Check from Colombia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expatgroup.co" />
+                                </span>
+                                <a href='https://expatgroup.co/english/wp-content/uploads/2024/07/Step-by-Step-to-Get-the-FBI-Background-Check-from-Colombia.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check While Living in Colombia">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQEpzB0WfZUalw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732197062848?e=2147483647&v=beta&t=iaTXBJ9PF7qhtgCSN5tOBReaACkdXTppoQp8XEPD77M' alt='FBI Background Check While Living in Colombia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQEpzB0WfZUalw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732197062848?e=2147483647&v=beta&t=iaTXBJ9PF7qhtgCSN5tOBReaACkdXTppoQp8XEPD77M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colombian Criminal Background Check | Lawyers Colombia">
+                                <img itemprop="contentUrl url" src='https://lawyerscolombia.com/wp-content/uploads/2023/09/lawyers-colombia-6.jpg' alt='Colombian Criminal Background Check | Lawyers Colombia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lawyers Colombia" />
+                                </span>
+                                <a href='https://lawyerscolombia.com/wp-content/uploads/2023/09/lawyers-colombia-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get the US FBI background check certificate">
+                                <img itemprop="contentUrl url" src='https://expatgroup.co/english/wp-content/uploads/2022/10/FBI-CHECK-732x1024.jpg' alt='How to get the US FBI background check certificate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expatgroup.co" />
+                                </span>
+                                <a href='https://expatgroup.co/english/wp-content/uploads/2022/10/FBI-CHECK-732x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Festive Christmas Floral Wallpaper for Holiday Decor</title>
+                    <meta name="description" content="Elevate your holiday decor with beautiful Christmas floral wallpaper. Perfect for creating a festive atmosphere, these designs bring warmth and cheer to your home. Discover a variety of patterns that complement your seasonal style and transform your space this Christmas!">
+                    <meta name="keywords" content="christmas floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/christmas-floral-wallpaper">
+                            <span itemprop="name">christmas floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Floral Wallpaper for Holiday Decor</h1>
+                <p>Transform your space this holiday season with Christmas floral wallpaper! Featuring vibrant colors and enchanting designs, it adds a festive touch to any room. Perfect for creating a cozy atmosphere, these wallpapers effortlessly blend tradition with modern aesthetics. Elevate your decor and spread holiday cheer with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="weiseni Floral Peel and Stick Wallpaper Christmas Wall Decals 17.7"x118"  Leaf Contact Paper Self Adhesive Removable Boho Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Xcb0P7dtL.jpg' alt='weiseni Floral Peel and Stick Wallpaper Christmas Wall Decals 17.7"x118"  Leaf Contact Paper Self Adhesive Removable Boho Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Xcb0P7dtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Watercolor christmas floral background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-christmas-floral-background_79603-2287.jpg' alt='Free Vector | Watercolor christmas floral background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-christmas-floral-background_79603-2287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Berries Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6858114/p/f/l/R-AJQ2srh1_eaV0TFqJDRLmELleEUI-a1gAZnPBTHJNNaumw9MV9tQ/Vintage%20Christmas%20Floral%20Hunter%20Green.jpg' alt='Holiday Berries Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6858114/p/f/l/R-AJQ2srh1_eaV0TFqJDRLmELleEUI-a1gAZnPBTHJNNaumw9MV9tQ/Vintage%20Christmas%20Floral%20Hunter%20Green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas floral seamless pattern with decorative bouquets ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/62/19/69/1000_F_462196940_1ZumAT9lsSAkL9oundccZ57Dze5ryPwI.jpg' alt='Christmas floral seamless pattern with decorative bouquets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/62/19/69/1000_F_462196940_1ZumAT9lsSAkL9oundccZ57Dze5ryPwI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73,000+ Christmas Floral Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1279947955/vector/seamless-christmas-pattern.jpg?s=612x612&w=0&k=20&c=gpZ0UJ3qRFZe-gHPykDCEyOunr8GCwihnAXPXezA3N8=' alt='73,000+ Christmas Floral Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1279947955/vector/seamless-christmas-pattern.jpg?s=612x612&w=0&k=20&c=gpZ0UJ3qRFZe-gHPykDCEyOunr8GCwihnAXPXezA3N8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Watercolor christmas floral background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/watercolor-christmas-floral-background_79603-2284.jpg' alt='Premium Vector | Watercolor christmas floral background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/watercolor-christmas-floral-background_79603-2284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8211391/p/f/m/hScv_lAvt11jW5VUNrrNWJaBJnMD7IOZC0ahL9rxiTbi0e1IUJk/Merry%20Christmas.jpg' alt='Christmas Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8211391/p/f/m/hScv_lAvt11jW5VUNrrNWJaBJnMD7IOZC0ahL9rxiTbi0e1IUJk/Merry%20Christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Floral Pattern - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/70016/vintage-christmas-floral-pattern-roll.jpg?w=1400&auto=format&q=40' alt='Vintage Christmas Floral Pattern - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/70016/vintage-christmas-floral-pattern-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Floral Seamless Pattern With Seasonal Design Festive ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20231127/pngtree-christmas-floral-seamless-pattern-with-seasonal-design-festive-background-winter-wallpaper-image_15350236.jpg' alt='Christmas Floral Seamless Pattern With Seasonal Design Festive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20231127/pngtree-christmas-floral-seamless-pattern-with-seasonal-design-festive-background-winter-wallpaper-image_15350236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas floral seamless pattern with flower, leaf, berries. Hand ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2D10369/christmas-floral-seamless-pattern-with-flower-leaf-berries-hand-drawn-style-illustration-winter-holiday-background-for-wallpaper-textile-fabric-design-2D10369.jpg' alt='Christmas floral seamless pattern with flower, leaf, berries. Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2D10369/christmas-floral-seamless-pattern-with-flower-leaf-berries-hand-drawn-style-illustration-winter-holiday-background-for-wallpaper-textile-fabric-design-2D10369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

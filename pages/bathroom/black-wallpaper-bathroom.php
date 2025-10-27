@@ -1,0 +1,129 @@
+<title>Chic Black Wallpaper Ideas for Your Bathroom</title>
+                    <meta name="description" content="Explore stylish black wallpaper designs for your bathroom! Discover how dark shades can elevate your space, offering a modern, dramatic touch. Perfectly suited for any decor style, black wallpaper creates a luxurious ambiance while remaining functional and easy to maintain. Transform your bathroom today!">
+                    <meta name="keywords" content="black wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/black-wallpaper-bathroom">
+                            <span itemprop="name">black wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black Wallpaper Ideas for Your Bathroom</h1>
+                <p>Transform your bathroom with stunning black wallpaper that adds elegance and sophistication. Dark hues create a modern look while enhancing a sense of depth and space. Pair with metallic accents for a chic vibe. Perfect for creating a dramatic backdrop, black wallpaper offers versatility in design, making your bathroom a unique retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' alt='Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Candy: 10 Bathrooms That Have Gone To The Dark Side">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b2/fa/d8/b2fad8bc8d0cc27c11ee4c7f09d2a4cd.jpg' alt='Eye Candy: 10 Bathrooms That Have Gone To The Dark Side'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b2/fa/d8/b2fad8bc8d0cc27c11ee4c7f09d2a4cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mazes | Black - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1690900595462-55HGSLL9ECBVUU1WRF64/wallpaper+lines+organic+custom.png?format=1000w' alt='Mazes | Black - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1690900595462-55HGSLL9ECBVUU1WRF64/wallpaper+lines+organic+custom.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Bathroom Wallpaper Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/E8SXZ9Hr1NWP006qQ6MzBXf9ZoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0-8747b9e9a8974a459bb6e3f0219712dd.jpg' alt='39 Bathroom Wallpaper Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/E8SXZ9Hr1NWP006qQ6MzBXf9ZoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0-8747b9e9a8974a459bb6e3f0219712dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper, Floral Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/7bf0f9/4098422425/il_570xN.4098422425_subp.jpg' alt='Black and White Wallpaper, Floral Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/7bf0f9/4098422425/il_570xN.4098422425_subp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' alt='Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Bathroom Wallpaper Ideas That Will Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' alt='32 Bathroom Wallpaper Ideas That Will Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blog - Moody and Timeless Black Bathroom Ideas | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/articles/tempaper-Palm-black-bathroom.jpg?v=1668780952' alt='Blog - Moody and Timeless Black Bathroom Ideas | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="631">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/articles/tempaper-Palm-black-bathroom.jpg?v=1668780952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' alt='DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Aesthetic Abode" />
+                                </span>
+                                <a href='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chiseled - Black Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/products/Chiseled_1800x1800.png?v=1643257289' alt='Chiseled - Black Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/products/Chiseled_1800x1800.png?v=1643257289' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

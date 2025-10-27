@@ -1,0 +1,129 @@
+<title>Elegant Pink Goyard Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Add a touch of luxury to your home with our pink Goyard wallpaper. Perfect for fashion lovers, this stylish decor enhances any space with elegance and personality, making it an ideal choice for trendy interiors.">
+                    <meta name="keywords" content="pink goyard wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-goyard-wallpaper">
+                            <span itemprop="name">pink goyard wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Goyard Wallpaper for Chic Interiors</h1>
+                <p>Transform your space with chic pink Goyard wallpaper, infusing elegance and style into any room. This luxurious design features the iconic Goyard pattern, perfect for fashion enthusiasts and trendsetters. Elevate your home decor with a touch of sophistication that showcases a playful yet refined aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Goyard Xs Max Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/64/77/e9/6477e94e8571aeca71553b14d67be6c5.jpg' alt='Pink Goyard Xs Max Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/64/77/e9/6477e94e8571aeca71553b14d67be6c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/25/6c/51/256c516f3194f4bdd439fd1cf2c08011.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/25/6c/51/256c516f3194f4bdd439fd1cf2c08011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goyard wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9mVcYJxqn2/4/image.jpg' alt='goyard wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9mVcYJxqn2/4/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goyard fuchsia | Wallpaper achtergronden, Iphone achtergrond ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/06/d2/c006d2fd5680a45c43f8486b042590cf.jpg' alt='goyard fuchsia | Wallpaper achtergronden, Iphone achtergrond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/06/d2/c006d2fd5680a45c43f8486b042590cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goyard Archives">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b4/88/24/b48824c568b50b6bd5c5cc0fccf4cc71.jpg' alt='Goyard Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b4/88/24/b48824c568b50b6bd5c5cc0fccf4cc71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOYARD Goyardine Saint Jeanne MM Bowler Pink 79342 | FASHIONPHILE">
+                                <img itemprop="contentUrl url" src='https://prod-images.fashionphile.com/large/55d4aeecacd6f999017cf7b9f02c2452/9b4eb4ac099b5db678397c06cb4d6d7b.jpg' alt='GOYARD Goyardine Saint Jeanne MM Bowler Pink 79342 | FASHIONPHILE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fashionphile" />
+                                </span>
+                                <a href='https://prod-images.fashionphile.com/large/55d4aeecacd6f999017cf7b9f02c2452/9b4eb4ac099b5db678397c06cb4d6d7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="laptop wall paper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6c/81/af/6c81af85491ec1c82b0c6f53de909e73.jpg' alt='laptop wall paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="234">
+                                <meta itemprop="height" content="153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6c/81/af/6c81af85491ec1c82b0c6f53de909e73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Goyard Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2536100901/display_1500/stock-vector-seamless-pattern-background-goyard-pattern-with-batik-motive-for-textile-wall-decor-wallpaper-2536100901.jpg' alt='25 Goyard Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2536100901/display_1500/stock-vector-seamless-pattern-background-goyard-pattern-with-batik-motive-for-textile-wall-decor-wallpaper-2536100901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goyard wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBOeMbSpEZb/2/image.jpg' alt='goyard wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBOeMbSpEZb/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goyardine Tote Reversible Bag">
+                                <img itemprop="contentUrl url" src='https://cinderellastores.com/cdn/shop/files/goyardine-tote-reversible-bag-320134.jpg?v=1718324738&width=1500' alt='Goyardine Tote Reversible Bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cinderella Clothing" />
+                                </span>
+                                <a href='https://cinderellastores.com/cdn/shop/files/goyardine-tote-reversible-bag-320134.jpg?v=1718324738&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

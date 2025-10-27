@@ -1,0 +1,129 @@
+<title>Capturing the Essence of Liberty: A Visual Journey</title>
+                    <meta name="description" content="Discover the powerful imagery of liberty that inspires freedom and justice. Explore iconic symbols and their significance in the fight for human rights. Join the visual journey that celebrates the essence of independence and equality in our society.">
+                    <meta name="keywords" content="liberty image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/liberty-image">
+                            <span itemprop="name">liberty image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capturing the Essence of Liberty: A Visual Journey</h1>
+                <p>The image of liberty often evokes feelings of freedom, justice, and empowerment. It symbolizes the pursuit of human rights and encourages individuals to express themselves. This powerful icon serves as a reminder of historical struggles for independence and the ongoing quest for equality, reinforcing the values that underpin democratic societies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/3d/Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg' alt='Statue of Liberty - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2498">
+                                <meta itemprop="height" content="5492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/3d/Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty history: A beacon of freedom | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/181122102925-statue-of-liberty-crown.jpg?q=w_1600,h_900,x_0,y_0,c_fill' alt='Statue of Liberty history: A beacon of freedom | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/181122102925-statue-of-liberty-crown.jpg?q=w_1600,h_900,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty 135 | Statue of Liberty & Ellis Island">
+                                <img itemprop="contentUrl url" src='https://www.statueofliberty.org/wp-content/uploads/2021/09/Statue-e1635102860590.jpg' alt='Liberty 135 | Statue of Liberty & Ellis Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellis Island Foundation" />
+                                </span>
+                                <a href='https://www.statueofliberty.org/wp-content/uploads/2021/09/Statue-e1635102860590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty ‑ Height, Location & Timeline | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/12/topic-statue-of-liberty-gettyimages-960610006-feature.jpg' alt='Statue of Liberty ‑ Height, Location & Timeline | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5104">
+                                <meta itemprop="height" content="2320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/12/topic-statue-of-liberty-gettyimages-960610006-feature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty | History, Information, Height, Poem, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/31/94231-050-C6B60B89/Statue-of-Liberty-Island-Upper-New-York.jpg' alt='Statue of Liberty | History, Information, Height, Poem, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/31/94231-050-C6B60B89/Statue-of-Liberty-Island-Upper-New-York.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty arrives in New York Harbor, June 17, 1885 - POLITICO">
+                                <img itemprop="contentUrl url" src='https://static.politico.com/capny/sites/default/files/a-Statue%20of%20Liberty_0.png' alt='Statue of Liberty arrives in New York Harbor, June 17, 1885 - POLITICO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://static.politico.com/capny/sites/default/files/a-Statue%20of%20Liberty_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to Use and Reuse: Statue of Liberty | Library of Congress ...">
+                                <img itemprop="contentUrl url" src='http://www.loc.gov/static/portals/free-to-use/public-domain/statue-of-liberty/statue-of-liberty-1.jpg' alt='Free to Use and Reuse: Statue of Liberty | Library of Congress ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress" />
+                                </span>
+                                <a href='http://www.loc.gov/static/portals/free-to-use/public-domain/statue-of-liberty/statue-of-liberty-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/611a7aa1-57b3-4884-a2f6-2e0857c02257/united-states-statue-of-liberty-vertical.jpg' alt='Statue of Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2195">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/611a7aa1-57b3-4884-a2f6-2e0857c02257/united-states-statue-of-liberty-vertical.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,319 Statue Of Liberty Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1469671422/photo/statue-of-liberty.jpg?s=612x612&w=gi&k=20&c=j4RMlFQkw3gNz2WrRJA9_1kjtYb2RMQCrRtFxdxJCSI=' alt='25,319 Statue Of Liberty Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1469671422/photo/statue-of-liberty.jpg?s=612x612&w=gi&k=20&c=j4RMlFQkw3gNz2WrRJA9_1kjtYb2RMQCrRtFxdxJCSI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home Page - Project Liberty">
+                                <img itemprop="contentUrl url" src='https://www.projectliberty.io/wp-content/uploads/2025/02/pexels-pixabay-290386-scaled-e1739367851487.jpg' alt='Home Page - Project Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.projectliberty.io" />
+                                </span>
+                                <a href='https://www.projectliberty.io/wp-content/uploads/2025/02/pexels-pixabay-290386-scaled-e1739367851487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

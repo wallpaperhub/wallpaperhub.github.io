@@ -1,0 +1,129 @@
+<title>Understanding the Regency Background: A Historical Overview</title>
+                    <meta name="description" content="Explore the intriguing Regency background, a pivotal period in British history marked by cultural, artistic, and social transformations. Learn about the influences that shaped this era and its lasting impact on modern society in a concise overview. Discover the essence of Regency history today!">
+                    <meta name="keywords" content="regency background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/regency-background">
+                            <span itemprop="name">regency background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Regency Background: A Historical Overview</h1>
+                <p>Regency background refers to the period in British history from 1811 to 1820 when George IV served as Prince Regent. This era is characterized by significant societal changes, arts, and literature flourishing, and distinctive fashion styles. The Regency period also saw advances in architecture and design, impacting modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100113-Serenity-Pink-Parfait-and-Vintage-Cream_Thumbnail_WEB_350x.jpg?v=1701275327' alt='Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucie Annabel" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100113-Serenity-Pink-Parfait-and-Vintage-Cream_Thumbnail_WEB_350x.jpg?v=1701275327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpaperyourworld.com/cdn/shop/products/LC7114_640x.jpg?v=1599073062' alt='Regency Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Your World" />
+                                </span>
+                                <a href='https://wallpaperyourworld.com/cdn/shop/products/LC7114_640x.jpg?v=1599073062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100105-Beaumont-Shades-of-Blue-and-Ecru_Thumbnail_WEB_350x.jpg?v=1701272614' alt='Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucie Annabel" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100105-Beaumont-Shades-of-Blue-and-Ecru_Thumbnail_WEB_350x.jpg?v=1701272614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Wenches: Georgian and Regency Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wordwenches.typepad.com/.a/6a00d8341c84c753ef017d41add51f970c-600wi' alt='Word Wenches: Georgian and Regency Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Word Wenches - TypePad" />
+                                </span>
+                                <a href='https://wordwenches.typepad.com/.a/6a00d8341c84c753ef017d41add51f970c-600wi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100020-Bridgerton-Damask-in-French-Pink_Thumbnail_WEB_350x.jpg?v=1701272950' alt='Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucie Annabel" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100020-Bridgerton-Damask-in-French-Pink_Thumbnail_WEB_350x.jpg?v=1701272950' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Word Wenches: Georgian and Regency Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wordwenches.typepad.com/.a/6a00d8341c84c753ef017d41add626970c-600wi' alt='Word Wenches: Georgian and Regency Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Word Wenches - TypePad" />
+                                </span>
+                                <a href='https://wordwenches.typepad.com/.a/6a00d8341c84c753ef017d41add626970c-600wi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Views">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/935/829/WB_-_RV_-_Room__18458.1710169002.jpg?c=1' alt='Regency Views'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="996">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Source" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-38b5p3hx3w/images/stencil/1280x1280/products/935/829/WB_-_RV_-_Room__18458.1710169002.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100102-Opheilia-Dusky-Pink_-Ochre-and-Teal_Thumbnail_WEB_350x.jpg?v=1701274202' alt='Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucie Annabel" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100102-Opheilia-Dusky-Pink_-Ochre-and-Teal_Thumbnail_WEB_350x.jpg?v=1701274202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bridgerton inspired wallpaper ideas">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/httpgrtportal4.web11.indzine.jpg' alt='bridgerton inspired wallpaper ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/httpgrtportal4.web11.indzine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100017-Bridgerton-Damask-in-Wedgwood-Blue_Thumbnail_WEB_350x.jpg?v=1701273011' alt='Regency Wallpaper | 19th Century Wallpaper | Lucie Annabel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucie Annabel" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0617/6325/6514/files/LAN100017-Bridgerton-Damask-in-Wedgwood-Blue_Thumbnail_WEB_350x.jpg?v=1701273011' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

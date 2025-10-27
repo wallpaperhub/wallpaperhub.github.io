@@ -1,0 +1,129 @@
+<title>High-Quality Birds PNG Images for Designers</title>
+                    <meta name="description" content="Explore a unique selection of birds PNG images for all your design needs. Perfect for websites, presentations, and creative projects. Download stunning, high-quality images with transparent backgrounds for easy use. Ideal for graphic designers seeking to elevate their work!">
+                    <meta name="keywords" content="birds png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birds-png">
+                            <span itemprop="name">birds png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Birds PNG Images for Designers</h1>
+                <p>Discover a vast collection of stunning birds PNG images perfect for your design projects! From tropical parrots to elegant swans, our high-quality PNGs ensure a transparent background, making it easy to incorporate these beautiful birds into any artwork or presentation. Explore today and bring your ideas to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird PNG Images, Download 43000+ Bird PNG Resources with ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220628/ourmid/pngtree-flock-of-birds-silhouettes-flying-birds-clipart-png-image_5371927.png' alt='Bird PNG Images, Download 43000+ Bird PNG Resources with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220628/ourmid/pngtree-flock-of-birds-silhouettes-flying-birds-clipart-png-image_5371927.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird PNG transparent image download, size: 800x520px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/birds_PNG97.png' alt='Bird PNG transparent image download, size: 800x520px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/birds_PNG97.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Flying Bird PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3N0YXJ0dXBpbWFnZXNfYV9ncm91cF9vZl9kb3Zlc19mbHlpbmdfaW5fdGhlX3NreV9pc29sYXRlZF9pbl93aF9mNTkxN2ZjOC1lNzVkLTQ2NWEtYmQ0NS1iMDA2MThlYmRkZjMucG5n.png' alt='Sky Flying Bird PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3N0YXJ0dXBpbWFnZXNfYV9ncm91cF9vZl9kb3Zlc19mbHlpbmdfaW5fdGhlX3NreV9pc29sYXRlZF9pbl93aF9mNTkxN2ZjOC1lNzVkLTQ2NWEtYmQ0NS1iMDA2MThlYmRkZjMucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bird PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230221/ourmid/pngtree-flock-flying-birds-silhouette-vector-png-image_6611910.png' alt='The Bird PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230221/ourmid/pngtree-flock-flying-birds-silhouette-vector-png-image_6611910.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird PNG by kooyooss on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acb5cb15-636b-4bd5-a06e-a62420c5fb7f/dbap0u2-6d471e50-93a0-4ad4-b21d-24a8d1228e97.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjYjVjYjE1LTYzNmItNGJkNS1hMDZlLWE2MjQyMGM1ZmI3ZlwvZGJhcDB1Mi02ZDQ3MWU1MC05M2EwLTRhZDQtYjIxZC0yNGE4ZDEyMjhlOTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xpsziSJxzKMHoI4Ja5B_7Ax6mZgYmE-EgOSPA3Y2Ok8' alt='Bird PNG by kooyooss on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acb5cb15-636b-4bd5-a06e-a62420c5fb7f/dbap0u2-6d471e50-93a0-4ad4-b21d-24a8d1228e97.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjYjVjYjE1LTYzNmItNGJkNS1hMDZlLWE2MjQyMGM1ZmI3ZlwvZGJhcDB1Mi02ZDQ3MWU1MC05M2EwLTRhZDQtYjIxZC0yNGE4ZDEyMjhlOTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xpsziSJxzKMHoI4Ja5B_7Ax6mZgYmE-EgOSPA3Y2Ok8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BIRDS png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/511/92/png-clipart-bird-flight-bird-flight-flying-bird-hd-angle-white-thumbnail.png' alt='BIRDS png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/511/92/png-clipart-bird-flight-bird-flight-flying-bird-hd-angle-white-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying Birds 04 PNG Stock by Roy3D on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8334576a-95a0-4f59-870c-449c3444f913/d6wmlj2-5f66e05b-84da-4355-8f25-86bafbfa365d.png/v1/fill/w_1024,h_768/flying_birds_04_png_stock_by_roy3d_d6wmlj2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvODMzNDU3NmEtOTVhMC00ZjU5LTg3MGMtNDQ5YzM0NDRmOTEzXC9kNndtbGoyLTVmNjZlMDViLTg0ZGEtNDM1NS04ZjI1LTg2YmFmYmZhMzY1ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ir3KA9va-VJPRIaBT5FPySHYaXgbFZDMmLzhjsJ1QL0' alt='Flying Birds 04 PNG Stock by Roy3D on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8334576a-95a0-4f59-870c-449c3444f913/d6wmlj2-5f66e05b-84da-4355-8f25-86bafbfa365d.png/v1/fill/w_1024,h_768/flying_birds_04_png_stock_by_roy3d_d6wmlj2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvODMzNDU3NmEtOTVhMC00ZjU5LTg3MGMtNDQ5YzM0NDRmOTEzXC9kNndtbGoyLTVmNjZlMDViLTg0ZGEtNDM1NS04ZjI1LTg2YmFmYmZhMzY1ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ir3KA9va-VJPRIaBT5FPySHYaXgbFZDMmLzhjsJ1QL0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds, animal, birds png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/38/820/png-clipart-birds-animal-birds.png' alt='Birds, animal, birds png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/38/820/png-clipart-birds-animal-birds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,469 Birds Png Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/many-birds-flying-on-sky-600nw-2416851125.jpg' alt='5,469 Birds Png Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/many-birds-flying-on-sky-600nw-2416851125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying Birds Png - Free Transparent PNG Clipart Images Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/7b/f3/b27bf3ffed3058cad64d6a9f631b997b.jpg' alt='Flying Birds Png - Free Transparent PNG Clipart Images Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/7b/f3/b27bf3ffed3058cad64d6a9f631b997b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

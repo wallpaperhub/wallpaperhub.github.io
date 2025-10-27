@@ -1,0 +1,129 @@
+<title>KFC Employment Opportunities for Felons</title>
+                    <meta name="description" content="Discover whether KFC hires felons and learn about their hiring policies. Explore your chances of employment at KFC and how they support second chances for individuals with criminal records. Get insights into the eligibility criteria and application process today!">
+                    <meta name="keywords" content="does kfc hire felons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-kfc-hire-felons">
+                            <span itemprop="name">does kfc hire felons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>KFC Employment Opportunities for Felons</h1>
+                <p>Yes, KFC does hire felons, but the decision is often based on individual circumstances and the nature of the offense. Each applicant's record is reviewed carefully, and many locations emphasize second chances. It's advisable for felons to check local store policies for specific hiring practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-kfc-hire-felons.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-kfc-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-benefits-does-kfc-offer.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-benefits-does-kfc-offer.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-kfc.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-kfc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/who-owns-kfc.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/who-owns-kfc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC Hire Felons">
+                                <img itemprop="contentUrl url" src='https://felonhome.com/wp-content/uploads/2024/05/Does-KFC-Hire-Felons-1024x768.jpg' alt='Does KFC Hire Felons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Institutions that hire felons" />
+                                </span>
+                                <a href='https://felonhome.com/wp-content/uploads/2024/05/Does-KFC-Hire-Felons-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-do-you-write-a-cover-letter-for-a-job-at-kfc.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-do-you-write-a-cover-letter-for-a-job-at-kfc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://nmgprod.s3.amazonaws.com/media/files/96/d8/96d8c9aacfe42383313c447cc4ff779a/cover_image_1588165688.jpg.640x360_q85_crop.jpg' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://nmgprod.s3.amazonaws.com/media/files/96/d8/96d8c9aacfe42383313c447cc4ff779a/cover_image_1588165688.jpg.640x360_q85_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Kentucky Fried Chicken Hire Felons in 2021? - Relaunch Pad">
+                                <img itemprop="contentUrl url" src='https://therelaunchpad.com/wp-content/uploads/2019/03/kfcfeature-1.jpg' alt='Does Kentucky Fried Chicken Hire Felons in 2021? - Relaunch Pad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Relaunch Pad" />
+                                </span>
+                                <a href='https://therelaunchpad.com/wp-content/uploads/2019/03/kfcfeature-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/35/935ac338-2aeb-5f41-a72c-87905bea8d8b/5e6aa29320783.image.jpg?resize=1200%2C900' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/35/935ac338-2aeb-5f41-a72c-87905bea8d8b/5e6aa29320783.image.jpg?resize=1200%2C900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does KFC hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-dress-code-at-kfc.webp' alt='Does KFC hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-dress-code-at-kfc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

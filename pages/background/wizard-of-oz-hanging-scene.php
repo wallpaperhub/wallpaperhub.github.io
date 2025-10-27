@@ -1,0 +1,129 @@
+<title>The Haunting Hanging Scene from The Wizard of Oz</title>
+                    <meta name="description" content="Explore the chilling hanging scene in "The Wizard of Oz," where the Wicked Witch’s fate unfolds in a moment of surreal tension. Discover the significance of this iconic moment that blends drama with fantasy, representing the epic struggle between good and evil in this classic tale.">
+                    <meta name="keywords" content="wizard of oz hanging scene">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wizard-of-oz-hanging-scene">
+                            <span itemprop="name">wizard of oz hanging scene</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Haunting Hanging Scene from The Wizard of Oz</h1>
+                <p>In "The Wizard of Oz," a haunting scene unfolds as the Wicked Witch of the West appears, seeking revenge on Dorothy. The dramatic moment when the witch hangs from the gallows creates a surreal tension, juxtaposed against the vibrant, whimsical landscape of Oz. This pivotal scene captures the battle between good and evil in a captivating, unforgettable way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unpacking the myth of The Wizard of Oz's hanging Munchkin">
+                                <img itemprop="contentUrl url" src='https://lwlies.com/wp-content/uploads/2019/06/the-wizard-of-oz-tin-woodsmna-sequence.jpg' alt='Unpacking the myth of The Wizard of Oz's hanging Munchkin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little White Lies" />
+                                </span>
+                                <a href='https://lwlies.com/wp-content/uploads/2019/06/the-wizard-of-oz-tin-woodsmna-sequence.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HANGING MUNCHKIN in The Wizard Of Oz: Original VHS Proof">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0npYeTW-ixI/hqdefault.jpg' alt='HANGING MUNCHKIN in The Wizard Of Oz: Original VHS Proof'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0npYeTW-ixI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Of Oz's Secret Dead Munchkin Myth Explained">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2016/10/wizard-of-oz-hanging-munchkin.jpg' alt='Wizard Of Oz's Secret Dead Munchkin Myth Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2016/10/wizard-of-oz-hanging-munchkin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fake News: TheWizard of Oz Hanging Munchkin | by Rochelle Curr ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*ol1KGCZp2hiKafQOPKE-nA.jpeg' alt='Fake News: TheWizard of Oz Hanging Munchkin | by Rochelle Curr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*ol1KGCZp2hiKafQOPKE-nA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The original hanging munchkin scene from "The Wizard of Oz"">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5wBjmPfhsvM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGDogZShjMA8=&rs=AOn4CLAsCbKsva_U--4vBVBbEBiUAOuepA' alt='The original hanging munchkin scene from "The Wizard of Oz"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5wBjmPfhsvM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGDogZShjMA8=&rs=AOn4CLAsCbKsva_U--4vBVBbEBiUAOuepA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hanging Munchkin | Urban Legends Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/urbanlegend/images/6/60/Hanging_1.jpg/revision/latest?cb=20111116105230' alt='The Hanging Munchkin | Urban Legends Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban Legends Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/urbanlegend/images/6/60/Hanging_1.jpg/revision/latest?cb=20111116105230' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have you ever noticed the 'DEAD hanging Munchkin' in THIS Wizard ...">
+                                <img itemprop="contentUrl url" src='https://i2-prod.mirror.co.uk/incoming/article6729378.ece/ALTERNATES/s1200d/Main--oz.jpg' alt='Have you ever noticed the 'DEAD hanging Munchkin' in THIS Wizard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mirror" />
+                                </span>
+                                <a href='https://i2-prod.mirror.co.uk/incoming/article6729378.ece/ALTERNATES/s1200d/Main--oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wizard of Oz 1939 Remastered Version | Debunking Hanging Munchkin Myths">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7236459159032663342&location=0&aid=1988' alt='The Wizard of Oz 1939 Remastered Version | Debunking Hanging Munchkin Myths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="342">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7236459159032663342&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Myths: 'Wizard of Oz' Munchkin Death">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/442/files/2012/11/Wizard-of-Oz.jpg' alt='Movie Myths: 'Wizard of Oz' Munchkin Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScreenCrush" />
+                                </span>
+                                <a href='https://townsquare.media/site/442/files/2012/11/Wizard-of-Oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Of Oz Myths – True Or False?">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/wb9jyvFEatm11y9K8cIu9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/http://magazines.zenfs.com/resizer/original/sjATl0I4cF9tjN5iAZ1NKyM0uCg' alt='Wizard Of Oz Myths – True Or False?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Movies UK" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/wb9jyvFEatm11y9K8cIu9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/http://magazines.zenfs.com/resizer/original/sjATl0I4cF9tjN5iAZ1NKyM0uCg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

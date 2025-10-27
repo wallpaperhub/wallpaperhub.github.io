@@ -1,0 +1,129 @@
+<title>Vibrant Purple Kush Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a collection of eye-catching Purple Kush wallpapers for your iPhone. Perfect for cannabis enthusiasts, these vibrant designs bring a touch of nature to your device. Explore now and elevate your background with stunning visuals that represent your style!">
+                    <meta name="keywords" content="iphone purple kush wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-purple-kush-wallpaper">
+                            <span itemprop="name">iphone purple kush wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Kush Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning Purple Kush wallpapers that showcase the beauty of this iconic cannabis strain. Featuring vibrant hues of deep purple and lush greens, these backgrounds not only enhance your device's aesthetic but also reflect your love for cannabis culture. Download now and enjoy a unique look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Weed Leaf Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-weed-leaf-background-a4u9aen7vbpg63od.jpg' alt='Purple Weed Leaf Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-weed-leaf-background-a4u9aen7vbpg63od.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Kush Images – Browse 1,216 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/28/89/06/360_F_428890602_oRQP97Tj4l4mKMeQdnI1V6B0oZpmv8UZ.jpg' alt='Purple Kush Images – Browse 1,216 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/28/89/06/360_F_428890602_oRQP97Tj4l4mKMeQdnI1V6B0oZpmv8UZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple kush wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/470/753/HD-wallpaper-pink-kush-happy-nature-natural-beautiful-cannabis-marijuana-purple-thumbnail.jpg' alt='HD purple kush wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/470/753/HD-wallpaper-pink-kush-happy-nature-natural-beautiful-cannabis-marijuana-purple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Kush Images – Browse 1,216 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/58/14/53/360_F_558145303_fTlJRBnNVLxvxB03bp90L6NDUflkb0np.jpg' alt='Purple Kush Images – Browse 1,216 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/58/14/53/360_F_558145303_fTlJRBnNVLxvxB03bp90L6NDUflkb0np.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Weed Leaves Plants Weed, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/889/34/HD-wallpaper-purple-weed-leaves-plants-weed.jpg' alt='Purple Weed Leaves Plants Weed, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/889/34/HD-wallpaper-purple-weed-leaves-plants-weed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Weed Supreme For Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/violet-weed-supreme-for-iphone-2k1imuch9m7xzvqk.jpg' alt='Violet Weed Supreme For Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/violet-weed-supreme-for-iphone-2k1imuch9m7xzvqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Purple Kush Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1313357511/photo/purple-cannabis-plant-marijuana-artistic-vibrant-background.jpg?s=612x612&w=0&k=20&c=Bt--g5doOPwfc0QUIKPC3sC_83m5M8uTKROBTMrbdBU=' alt='260+ Purple Kush Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1313357511/photo/purple-cannabis-plant-marijuana-artistic-vibrant-background.jpg?s=612x612&w=0&k=20&c=Bt--g5doOPwfc0QUIKPC3sC_83m5M8uTKROBTMrbdBU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marijuana Live Wallpaper - Pur 5.0 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/marijuana-live-wallpaper-purple-haze/00/00/0F/QW/00000FQWUM/pad_screenshot_1.jpg' alt='Marijuana Live Wallpaper - Pur 5.0 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/marijuana-live-wallpaper-purple-haze/00/00/0F/QW/00000FQWUM/pad_screenshot_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Weed Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9395413.jpg' alt='Purple Weed Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9395413.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The origins of 4/20, marijuana's high holiday">
+                                <img itemprop="contentUrl url" src='https://wjla.com/resources/media/d48507b4-ad04-4e1b-a80e-ea138f669c1e-large1x1_marijuana.jpg?1492694659900' alt='The origins of 4/20, marijuana's high holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WJLA" />
+                                </span>
+                                <a href='https://wjla.com/resources/media/d48507b4-ad04-4e1b-a80e-ea138f669c1e-large1x1_marijuana.jpg?1492694659900' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

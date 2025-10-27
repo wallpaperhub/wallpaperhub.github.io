@@ -1,0 +1,129 @@
+<title>Boost Your Photos with Image Enhancer Tools</title>
+                    <meta name="description" content="Discover how image enhancers can transform your photos with stunning visual upgrades. From enhancing colors to improving details and clarity, these tools are perfect for photographers looking to elevate their work. Unlock the potential of every image effortlessly with cutting-edge image enhancement technology.">
+                    <meta name="keywords" content="image enhancer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/image-enhancer">
+                            <span itemprop="name">image enhancer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boost Your Photos with Image Enhancer Tools</h1>
+                <p>Image enhancers are powerful tools designed to improve the quality and detail of photographs. These advanced software solutions utilize AI algorithms to sharpen images, adjust brightness, and enhance colors, making your visuals pop. Whether for personal use or professional photography, image enhancers transform ordinary pictures into stunning masterpieces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Photo Enhancer: Enhance photo quality for free | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/b0f55584-0317-4951-bb06-a4ef69cdc4d7/feature_ai-image-enhancer_promo-showcase_014x.jpg' alt='AI Photo Enhancer: Enhance photo quality for free | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/b0f55584-0317-4951-bb06-a4ef69cdc4d7/feature_ai-image-enhancer_promo-showcase_014x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Photo Enhancer: Enhance and Sharpen Images Online">
+                                <img itemprop="contentUrl url" src='https://photoeditor.ai/_ipx/s_1116x1342/images/tool-hero/unblur.webp' alt='Free AI Photo Enhancer: Enhance and Sharpen Images Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free AI Photo Editor" />
+                                </span>
+                                <a href='https://photoeditor.ai/_ipx/s_1116x1342/images/tool-hero/unblur.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover the 6 Best AI Image Enhancer You Must Try In 2025">
+                                <img itemprop="contentUrl url" src='https://4ddig.tenorshare.com/images/photo-tips/best-ai-image-enhancer.png?w=750&h=394' alt='Discover the 6 Best AI Image Enhancer You Must Try In 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenorshare 4DDiG" />
+                                </span>
+                                <a href='https://4ddig.tenorshare.com/images/photo-tips/best-ai-image-enhancer.png?w=750&h=394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UpFoto - AI Photo Enhancer - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/sHuMRDW14AdvrdpGFAO7UszjsVR9rZKrGAAh4MW8fbZ9p0Z1jfcQ-wVTXxl3Ul-buA' alt='UpFoto - AI Photo Enhancer - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/sHuMRDW14AdvrdpGFAO7UszjsVR9rZKrGAAh4MW8fbZ9p0Z1jfcQ-wVTXxl3Ul-buA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image Resolution Enhancer | Increase Image Resolution for Your ...">
+                                <img itemprop="contentUrl url" src='https://p16-capcut-va.ibyteimg.com/tos-maliva-i-6rr7idwo9f-us/05e6938ade8f4954b2eb18afa30c1538~tplv-6rr7idwo9f-image.image' alt='Image Resolution Enhancer | Increase Image Resolution for Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CapCut" />
+                                </span>
+                                <a href='https://p16-capcut-va.ibyteimg.com/tos-maliva-i-6rr7idwo9f-us/05e6938ade8f4954b2eb18afa30c1538~tplv-6rr7idwo9f-image.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Enhancer AI - Enhance Image Quality & Resolution | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/share/enhance-photo-quality-color-and-clarity-instantly-with-Fotor-free-photo-enhancer.jpg' alt='Photo Enhancer AI - Enhance Image Quality & Resolution | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/share/enhance-photo-quality-color-and-clarity-instantly-with-Fotor-free-photo-enhancer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Photo Enhancer: Enhance Image Quality Instantly">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/8459f571-70a7-4e38-979d-0a1bcd4a11ab_ai-photo-editing-mobile-hero.png?auto=avif,webp&format=jpg&width=529' alt='Online Photo Enhancer: Enhance Image Quality Instantly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/8459f571-70a7-4e38-979d-0a1bcd4a11ab_ai-photo-editing-mobile-hero.png?auto=avif,webp&format=jpg&width=529' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Tested 7 Free AI Photo Enhancers and Here's The Result | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-12-20/b2f3c375-ec56-4267-b2fa-c172c25f6c3e.jpg' alt='I Tested 7 Free AI Photo Enhancers and Here's The Result | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-12-20/b2f3c375-ec56-4267-b2fa-c172c25f6c3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Portrait Enhancer: BeFunky - Enhance Portraits With One Click">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/43d1d0ec-bd26-4bf0-ad85-f0982e447ff4_hero-ai-portrait-enhancer-2.jpg?auto=avif,webp&format=jpg&width=896' alt='AI Portrait Enhancer: BeFunky - Enhance Portraits With One Click'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/43d1d0ec-bd26-4bf0-ad85-f0982e447ff4_hero-ai-portrait-enhancer-2.jpg?auto=avif,webp&format=jpg&width=896' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VeryUtils AI Photo Enhancer is an AI-powered photo tool for ...">
+                                <img itemprop="contentUrl url" src='https://veryutils.com/blog/wp-content/uploads/2023/06/image_thumb-23.png' alt='VeryUtils AI Photo Enhancer is an AI-powered photo tool for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1361">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VeryUtils" />
+                                </span>
+                                <a href='https://veryutils.com/blog/wp-content/uploads/2023/06/image_thumb-23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

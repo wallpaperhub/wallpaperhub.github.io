@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="90s cartoon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/90s-cartoon">
+                            <span itemprop="name">90s cartoon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your favorite cartoon to come out of the 1990s? : r/90s">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vc7wl1skycgb1.jpg' alt='What is your favorite cartoon to come out of the 1990s? : r/90s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vc7wl1skycgb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 27 Best '90s Cartoons, Ranked - PureWow">
+                                <img itemprop="contentUrl url" src='https://publish.purewow.net/wp-content/uploads/sites/2/2020/09/90s-cartoons.jpg' alt='The 27 Best '90s Cartoons, Ranked - PureWow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PureWow" />
+                                </span>
+                                <a href='https://publish.purewow.net/wp-content/uploads/sites/2/2020/09/90s-cartoons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things About 90s Cartoon Shows That Would Never Fly Today">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/ren-stimpy-beavis-butthead-90s-cartoons-aged-poorly-featured.jpg' alt='10 Things About 90s Cartoon Shows That Would Never Fly Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/ren-stimpy-beavis-butthead-90s-cartoons-aged-poorly-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Name These Cartoon Classics From The '90s And 2000s?">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/cartoon-network-90s-cartoons.jpg' alt='Can You Name These Cartoon Classics From The '90s And 2000s?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/cartoon-network-90s-cartoons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Cartoons of the '90s | Den of Geek">
+                                <img itemprop="contentUrl url" src='https://www.denofgeek.com/wp-content/uploads/2023/08/Best-Cartoons-of-the-90s.jpg?resize=768%2C432' alt='The Best Cartoons of the '90s | Den of Geek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Den of Geek" />
+                                </span>
+                                <a href='https://www.denofgeek.com/wp-content/uploads/2023/08/Best-Cartoons-of-the-90s.jpg?resize=768%2C432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Fun Facts You Never Knew About Your Favorite '90s Cartoons ...">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDk1MTU4NDc2MjE5NzUy/fun-facts-you-never-knew-about-your-favorite-90s-cartoons.jpg' alt='30 Fun Facts You Never Knew About Your Favorite '90s Cartoons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDk1MTU4NDc2MjE5NzUy/fun-facts-you-never-knew-about-your-favorite-90s-cartoons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Kid Cartoons: You can only choose 3! : r/Retro">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/90s-kid-cartoons-you-can-only-choose-3-v0-c27fymitzaic1.jpeg?width=640&crop=smart&auto=webp&s=444c6bdb50fbfcffb0ac0b1c567ec864b356a97e' alt='90s Kid Cartoons: You can only choose 3! : r/Retro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/90s-kid-cartoons-you-can-only-choose-3-v0-c27fymitzaic1.jpeg?width=640&crop=smart&auto=webp&s=444c6bdb50fbfcffb0ac0b1c567ec864b356a97e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are some of the Best Cartoons of the 90s: A Nostalgic Journey ...">
+                                <img itemprop="contentUrl url" src='https://www.incredimate.com/wp-content/uploads/2024/04/Feature-image-Best-Cartoons-of-the-90s.jpg' alt='What are some of the Best Cartoons of the 90s: A Nostalgic Journey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Incredimate" />
+                                </span>
+                                <a href='https://www.incredimate.com/wp-content/uploads/2024/04/Feature-image-Best-Cartoons-of-the-90s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best '90s Cartoon Shows: Rugrats, Daria, and More | Glamour">
+                                <img itemprop="contentUrl url" src='http://media.glamour.com/photos/5e6b972422a7990009a56a56/master/pass/TSDDARI_EC007.jpg' alt='Best '90s Cartoon Shows: Rugrats, Daria, and More | Glamour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3326">
+                                <meta itemprop="height" content="2385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='http://media.glamour.com/photos/5e6b972422a7990009a56a56/master/pass/TSDDARI_EC007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 90s Cartoons We Really Miss – Pop Decades">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/popdecades.com/wp-content/uploads/2020/10/freakazoid_1995_photo_hero-1920x1080-1.jpg?resize=1200%2C635&ssl=1' alt='The 90s Cartoons We Really Miss – Pop Decades'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pop Decades" />
+                                </span>
+                                <a href='https://i0.wp.com/popdecades.com/wp-content/uploads/2020/10/freakazoid_1995_photo_hero-1920x1080-1.jpg?resize=1200%2C635&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

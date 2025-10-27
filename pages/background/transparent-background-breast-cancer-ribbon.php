@@ -1,0 +1,129 @@
+<title>Transparent Background Breast Cancer Ribbon Design</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="transparent background breast cancer ribbon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-breast-cancer-ribbon">
+                            <span itemprop="name">transparent background breast cancer ribbon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Background Breast Cancer Ribbon Design</h1>
+                <p>A transparent background breast cancer ribbon symbolizes hope and solidarity in the fight against breast cancer. Its iconic pink hue serves as a reminder of awareness and support for those affected. This versatile design can be used in various projects, from promotional materials to personal expressions, making it a meaningful symbol for raising awareness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awareness Ribbon Png Images – Browse 32,025 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/45/98/46/360_F_645984616_LjQ1RjvNcQl8EXufRXJ3NOJkCrmRZ2OE.jpg' alt='Awareness Ribbon Png Images – Browse 32,025 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/45/98/46/360_F_645984616_LjQ1RjvNcQl8EXufRXJ3NOJkCrmRZ2OE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast-Cancer-Ribbon-PNG-Image - Southwest Virginia Community ...">
+                                <img itemprop="contentUrl url" src='https://www.svchs.com/wp-content/uploads/2019/10/Breast-Cancer-Ribbon-PNG-Image.png' alt='Breast-Cancer-Ribbon-PNG-Image - Southwest Virginia Community ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southwest Virginia Community Health Systems" />
+                                </span>
+                                <a href='https://www.svchs.com/wp-content/uploads/2019/10/Breast-Cancer-Ribbon-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Symbol Pink Ribbon, Breast Cancer Awareness Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/symbol-pink-ribbon-breast-cancer-awareness-symbol-pink-ribbon-breast-cancer-awareness-icon-transparent-background-llustration-100773168.jpg' alt='Symbol Pink Ribbon, Breast Cancer Awareness Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/symbol-pink-ribbon-breast-cancer-awareness-symbol-pink-ribbon-breast-cancer-awareness-icon-transparent-background-llustration-100773168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Awareness Ribbon On Transparent Png - SimilarPNG">
+                                <img itemprop="contentUrl url" src='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/08/Breast-cancer-awareness-ribbon-on-transparent-PNG.png' alt='Breast Cancer Awareness Ribbon On Transparent Png - SimilarPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Similar PNG" />
+                                </span>
+                                <a href='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/08/Breast-cancer-awareness-ribbon-on-transparent-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Ribbon PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-breast-cancer-ribbon-vector-png-image_9236207.png' alt='Breast Cancer Ribbon PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-breast-cancer-ribbon-vector-png-image_9236207.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Awareness Breast Cancer Ribbon Illustration Design PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-awareness-breast-cancer-ribbon-illustration-design-png-701751694602188cgu2cp7zjl.png' alt='HD Awareness Breast Cancer Ribbon Illustration Design PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-awareness-breast-cancer-ribbon-illustration-design-png-701751694602188cgu2cp7zjl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Ribbon Png Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bound_53876-25486.jpg' alt='Breast Cancer Ribbon Png Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bound_53876-25486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancer Ribbon PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20191021/ourmid/pngtree-hope-pink-ribbon-october-breast-cancer-awareness-month-png-image_1779427.jpg' alt='Cancer Ribbon PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20191021/ourmid/pngtree-hope-pink-ribbon-october-breast-cancer-awareness-month-png-image_1779427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink ribbon isolated on transparent background. Breast cancer ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/665/854/non_2x/pink-ribbon-isolated-on-transparent-background-breast-cancer-awareness-month-concept-vector.jpg' alt='Pink ribbon isolated on transparent background. Breast cancer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/665/854/non_2x/pink-ribbon-isolated-on-transparent-background-breast-cancer-awareness-month-concept-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancer Awareness Ribbon, Pink Breast Cancer Awareness Ribbons ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26950043/r/il/7eb88b/4783237095/il_570xN.4783237095_3dlj.jpg' alt='Cancer Awareness Ribbon, Pink Breast Cancer Awareness Ribbons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26950043/r/il/7eb88b/4783237095/il_570xN.4783237095_3dlj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

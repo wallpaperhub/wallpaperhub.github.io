@@ -1,0 +1,129 @@
+<title>Stunning Autumn Leaves Desktop Wallpaper for Fall Vibes</title>
+                    <meta name="description" content="Enhance your desktop experience with beautiful autumn leaves wallpaper. Discover vibrant, high-resolution images that capture the essence of fall. Perfect for adding a seasonal touch to your workspace while keeping your screen fresh and inviting!">
+                    <meta name="keywords" content="autumn leaves desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/autumn-leaves-desktop-wallpaper">
+                            <span itemprop="name">autumn leaves desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Autumn Leaves Desktop Wallpaper for Fall Vibes</h1>
+                <p>Transform your desktop with stunning autumn leaves wallpaper! Embrace the vivid hues of orange, red, and gold that adorn the trees during fall. Our collection offers high-resolution images capturing the beauty of nature, perfect for personalizing your workspace. Celebrate the season and bring warmth to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE AUTUMN LEAF WALLPAPER FOR YOUR DESKTOP OR PHONE. — Gathering ...">
+                                <img itemprop="contentUrl url" src='https://www.gatheringbeauty.com/s/free-autumn-fall-leaf-desktop-phone-ipad-wallpaper-peach.jpg' alt='FREE AUTUMN LEAF WALLPAPER FOR YOUR DESKTOP OR PHONE. — Gathering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2878">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gathering Beauty" />
+                                </span>
+                                <a href='https://www.gatheringbeauty.com/s/free-autumn-fall-leaf-desktop-phone-ipad-wallpaper-peach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Autumn Wallpapers That Will Take Your Breath Away">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/94/d0/f994d06ac7981e8e43750113a093861d.jpg' alt='39 Autumn Wallpapers That Will Take Your Breath Away'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/94/d0/f994d06ac7981e8e43750113a093861d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1459478309853-2c33a60058e7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGF1dHVtbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1459478309853-2c33a60058e7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGF1dHVtbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper autumn, leaves, the sun, branches, nature, river, photo ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/2/75/osen-reka-klen-yu-vetki.webp' alt='Wallpaper autumn, leaves, the sun, branches, nature, river, photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/2/75/osen-reka-klen-yu-vetki.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn leaves Wallpaper 4K, Foliage, Fallen Leaves">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/autumn-leaves-foliage-on-the-ground-fallen-leaves-leaf-2048x2048-3544.jpg' alt='Autumn leaves Wallpaper 4K, Foliage, Fallen Leaves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/autumn-leaves-foliage-on-the-ground-fallen-leaves-leaf-2048x2048-3544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Autumn, Fall, Foliage, Autumn, Falling leaves, Leaves ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/36/osen-listva-listopad-autumn-fall-leaves.webp' alt='Wallpaper Autumn, Fall, Foliage, Autumn, Falling leaves, Leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/36/osen-listva-listopad-autumn-fall-leaves.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3150553/pexels-photo-3150553.jpeg?cs=srgb&dl=pexels-lilartsy-3150553.jpg&fm=jpg' alt='Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3150553/pexels-photo-3150553.jpeg?cs=srgb&dl=pexels-lilartsy-3150553.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves, autumn, leaves, nature, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/25/902/HD-wallpaper-autumn-leaves-autumn-leaves-nature.jpg' alt='Autumn Leaves, autumn, leaves, nature, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/25/902/HD-wallpaper-autumn-leaves-autumn-leaves-nature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple tree Wallpaper 4K, Autumn leaves, Foliage">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/maple-tree-autumn-leaves-foliage-fallen-leaves-landscape-2560x1440-4342.jpg' alt='Maple tree Wallpaper 4K, Autumn leaves, Foliage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/maple-tree-autumn-leaves-foliage-fallen-leaves-landscape-2560x1440-4342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+] Fall Weather Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/137/thumb-1920-1371671.png' alt='10+] Fall Weather Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/137/thumb-1920-1371671.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

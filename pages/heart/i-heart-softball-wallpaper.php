@@ -1,0 +1,129 @@
+<title>I Heart Softball Wallpaper: Love the Game!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="i heart softball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-heart-softball-wallpaper">
+                            <span itemprop="name">i heart softball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Heart Softball Wallpaper: Love the Game!</h1>
+                <p>I heart softball wallpaper captures the spirit of the game, combining vibrant colors and dynamic designs to showcase your passion for softball. Perfect for fans, players, or anyone who loves the sport! Transform your devices with high-quality images that inspire you to hit home runs and cheer for your team every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love softball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9a/8a/4d/9a8a4dde8903964c7372d99d89130730.jpg' alt='I love softball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9a/8a/4d/9a8a4dde8903964c7372d99d89130730.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love softball   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/4e/b6/9d4eb63bfccf8a83cfec477eafdf68df.jpg' alt='I love softball   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/4e/b6/9d4eb63bfccf8a83cfec477eafdf68df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""I Love Softball" Art Board Print for Sale by Eindoz81">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2195651703.1623/gbrf,8x10,f,540x540-pad,450x450,f8f8f8.jpg' alt='"I Love Softball" Art Board Print for Sale by Eindoz81'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2195651703.1623/gbrf,8x10,f,540x540-pad,450x450,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Heart Softball Title scrapbook cut file cute clipart files for ...">
+                                <img itemprop="contentUrl url" src='https://www.misskatecuttables.com/uploads/shopping_cart/10544/large_i-heart-softball-title.png' alt='I Heart Softball Title scrapbook cut file cute clipart files for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Kate Cuttables" />
+                                </span>
+                                <a href='https://www.misskatecuttables.com/uploads/shopping_cart/10544/large_i-heart-softball-title.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love Softball icon Stock Vector by ©miceking 139307828">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/8639728/13930/v/450/depositphotos_139307840-stock-illustration-i-love-softball.jpg' alt='I love Softball icon Stock Vector by ©miceking 139307828'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/8639728/13930/v/450/depositphotos_139307840-stock-illustration-i-love-softball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love softball Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RJMCCJ/i-love-softball-vector-illustrated-comic-book-style-phrase-on-abstract-background-RJMCCJ.jpg' alt='I love softball Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RJMCCJ/i-love-softball-vector-illustrated-comic-book-style-phrase-on-abstract-background-RJMCCJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Heart Softball Men's Hoodie">
+                                <img itemprop="contentUrl url" src='https://image.spreadshirtmedia.com/image-server/v1/compositions/T111A1PA4247PT17X49Y24D12064113W25000H20000/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/i-heart-softball-mens-hoodie.jpg' alt='I Heart Softball Men's Hoodie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spreadshirt" />
+                                </span>
+                                <a href='https://image.spreadshirtmedia.com/image-server/v1/compositions/T111A1PA4247PT17X49Y24D12064113W25000H20000/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/i-heart-softball-mens-hoodie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Softball Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7884146/p/f/m/7Ri4625cM8T7V7KQxRXsV17xGZQeQuhXRUVbSIUrOkaN60876_7XtA/I%20Love%20Softball.jpg' alt='I Love Softball Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7884146/p/f/m/7Ri4625cM8T7V7KQxRXsV17xGZQeQuhXRUVbSIUrOkaN60876_7XtA/I%20Love%20Softball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5in x 3.5in Oval I Love Softball Sticker – StickerTalk®">
+                                <img itemprop="contentUrl url" src='https://www.stickertalk.com/wp-content/uploads/2019/05/D-20-120.jpg' alt='5in x 3.5in Oval I Love Softball Sticker – StickerTalk®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickerTalk" />
+                                </span>
+                                <a href='https://www.stickertalk.com/wp-content/uploads/2019/05/D-20-120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Softball | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1155033962.4735/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='I Love Softball | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1155033962.4735/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

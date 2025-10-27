@@ -1,0 +1,129 @@
+<title>Vibrant Purple Butterfly Wallpaper for Your Home Décor</title>
+                    <meta name="description" content="Discover stunning butterfly wallpapers featuring rich purple backgrounds. Perfect for adding a unique touch to your rooms, these designs bring a serene and vibrant atmosphere to any space. Elevate your interior with beautiful and eye-catching butterfly art today!">
+                    <meta name="keywords" content="butterfly:kujuugknnns= purple background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/butterflykujuugknnns-purple-background-wallpaper">
+                            <span itemprop="name">butterfly:kujuugknnns= purple background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Butterfly Wallpaper for Your Home Décor</h1>
+                <p>Transform your space with captivating butterfly wallpapers against vibrant purple backgrounds. Embrace nature's beauty and the serenity of butterflies fluttering in rich hues. Ideal for adding a creative touch to any room, these wallpapers will inspire and elevate your home décor with charm and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-colorful-butterfly-background_23-2150127744.jpg' alt='Purple Butterfly Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-colorful-butterfly-background_23-2150127744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6c/ba/3a/6cba3a34b3a7dba3733df9e026bd2ef5.jpg' alt='52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6c/ba/3a/6cba3a34b3a7dba3733df9e026bd2ef5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/80/78/b5/8078b542f9fcfa19e615a174908b8b01.jpg' alt='52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/80/78/b5/8078b542f9fcfa19e615a174908b8b01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Backgrounds - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/dd/25/59dd25f8ff95e62bd0b84da1464a7c8b.jpg' alt='Purple Butterfly Backgrounds - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/dd/25/59dd25f8ff95e62bd0b84da1464a7c8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Magic Wallpaper [8f53eaa3b33f45ce9778] by ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/e9d7c1fe6df92883d6c6e2fd3ad62536/XoavZzjeQhkJUfdm50Ac.jpg?q=70&w=500' alt='Purple Butterfly Magic Wallpaper [8f53eaa3b33f45ce9778] by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/e9d7c1fe6df92883d6c6e2fd3ad62536/XoavZzjeQhkJUfdm50Ac.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterflies Set Against a Purple Background | Premium AI-generated ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/butterflies-set-against-purple-background_961875-74213.jpg' alt='Butterflies Set Against a Purple Background | Premium AI-generated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/butterflies-set-against-purple-background_961875-74213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic purple cloud desktop butterflies wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/bd/42/95bd42f6c3bf0d2717524de0f26d1893.jpg' alt='Aesthetic purple cloud desktop butterflies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/bd/42/95bd42f6c3bf0d2717524de0f26d1893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Purple Butterfly Background, Dream, Purple, Butterfly ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220716/original/pngtree-dream-purple-butterfly-background-picture-image_1629342.jpg' alt='Dream Purple Butterfly Background, Dream, Purple, Butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220716/original/pngtree-dream-purple-butterfly-background-picture-image_1629342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/48/5f/b6485f19fc1f7c4cf0f6e2e24d1830a1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/48/5f/b6485f19fc1f7c4cf0f6e2e24d1830a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Butterflyes Thrasher Sfondi Farfalle In 2020 In 2021 2C">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e5/72/2c/e5722ce4a7b1b865e3d07bc60b23f2a2.jpg' alt='Wallpaper Butterflyes Thrasher Sfondi Farfalle In 2020 In 2021 2C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e5/72/2c/e5722ce4a7b1b865e3d07bc60b23f2a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

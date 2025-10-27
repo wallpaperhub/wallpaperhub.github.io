@@ -1,0 +1,129 @@
+<title>Perfect Passport Photos: Your Guide to Compliance</title>
+                    <meta name="description" content="Discover how to take a compliant passport photo with our quick guide. Learn about size requirements, background, and other essential tips to avoid common mistakes. Get ready for your next adventure with a hassle-free photo that meets all regulations!">
+                    <meta name="keywords" content="passport photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/passport-photo">
+                            <span itemprop="name">passport photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Passport Photos: Your Guide to Compliance</h1>
+                <p>A passport photo is an essential requirement for passport applications and travel documents. It must adhere to specific guidelines, such as size, background color, and facial expression. Proper lighting and focus are crucial to ensure clarity. Often, professional services can help you achieve the perfect photograph, saving you time and hassle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Is The Secret To Getting A Passport Photo You'll Love For The ...">
+                                <img itemprop="contentUrl url" src='http://assets.vogue.com/photos/6527e58585b213102cef776d/master/pass/Passport-Opener.jpg' alt='This Is The Secret To Getting A Passport Photo You'll Love For The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='http://assets.vogue.com/photos/6527e58585b213102cef776d/master/pass/Passport-Opener.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passport Photo in Skokie | Duron Studio Photography">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/525c51fbe4b076bd2b7576fd/1608580521510-BMZY56DKM0H5CSHIHGPU/passport+photo+specifications+iraq+ireland+poland+romania+zambia+greece+china+belarus+germany+usa' alt='Passport Photo in Skokie | Duron Studio Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duron Studio Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/525c51fbe4b076bd2b7576fd/1608580521510-BMZY56DKM0H5CSHIHGPU/passport+photo+specifications+iraq+ireland+poland+romania+zambia+greece+china+belarus+germany+usa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,792 Man Passport Picture Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/passport-photo-portrait-young-man-600w-2437772333.jpg' alt='1,792 Man Passport Picture Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/passport-photo-portrait-young-man-600w-2437772333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Passport Photo Requirements Guide | Travel Docs">
+                                <img itemprop="contentUrl url" src='https://www.traveldocs.com/cmsimages/0/TravelerServices/photosvc/us-photo-diagram.jpg' alt='U.S. Passport Photo Requirements Guide | Travel Docs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Document Systems" />
+                                </span>
+                                <a href='https://www.traveldocs.com/cmsimages/0/TravelerServices/photosvc/us-photo-diagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passport Photos – BruinLife Photo Studio">
+                                <img itemprop="contentUrl url" src='https://studio.bruinlife.com/wp-content/uploads/2024/09/2B8_5802.jpg' alt='Passport Photos – BruinLife Photo Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1004">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BruinLife Photo Studio" />
+                                </span>
+                                <a href='https://studio.bruinlife.com/wp-content/uploads/2024/09/2B8_5802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Take Your Own Passport Photos at Home">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7328593760772820267&location=0&aid=1988' alt='How to Take Your Own Passport Photos at Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7328593760772820267&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passport Photo Maker - Get Passport Photos Online - Editor & App">
+                                <img itemprop="contentUrl url" src='https://epassportphoto.com/_optimized/howToPrepare3.582775a7-opt-1920.WEBP' alt='Passport Photo Maker - Get Passport Photos Online - Editor & App'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="epassportphoto.com" />
+                                </span>
+                                <a href='https://epassportphoto.com/_optimized/howToPrepare3.582775a7-opt-1920.WEBP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Take a Passport Photo with Android [Detailed Guide]">
+                                <img itemprop="contentUrl url" src='https://passport-photo.online/blog/wp-content/uploads/2023/08/correct-passport-photo.png' alt='How to Take a Passport Photo with Android [Detailed Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Passport-Photo.Online" />
+                                </span>
+                                <a href='https://passport-photo.online/blog/wp-content/uploads/2023/08/correct-passport-photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passport photo, collage. Woman on white background, set of photos ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2X11TM1/passport-photo-collage-woman-on-white-background-set-of-photos-2X11TM1.jpg' alt='Passport photo, collage. Woman on white background, set of photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2X11TM1/passport-photo-collage-woman-on-white-background-set-of-photos-2X11TM1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russian Visa And Passport Photo Requirements - RUSSIAN AGENCY">
+                                <img itemprop="contentUrl url" src='https://russianagency.com/wp-content/uploads/2020/01/Russian-Visa-Passport-photo-requirements-1024x602.png' alt='Russian Visa And Passport Photo Requirements - RUSSIAN AGENCY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="russian agency" />
+                                </span>
+                                <a href='https://russianagency.com/wp-content/uploads/2020/01/Russian-Visa-Passport-photo-requirements-1024x602.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Miller v. California: Understanding the Obscenity Test</title>
+                    <meta name="description" content="Explore the pivotal Supreme Court case Miller v. California (1973) that shaped the standards for defining obscene material. Learn about the Miller test's implications on free speech and its impact on art and media regulations.">
+                    <meta name="keywords" content="miller v california">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/miller-v-california">
+                            <span itemprop="name">miller v california</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Miller v. California: Understanding the Obscenity Test</h1>
+                <p>Miller v. California (1973) was a landmark Supreme Court case that established the Miller test for determining what constitutes obscene material not protected by the First Amendment. The case involved Marvin Miller, who was convicted for distributing sexually explicit materials. The ruling emphasized community standards and considered whether the work lacked serious artistic, literary, political, or scientific value.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v. California Case Brief Summary | Law Case Explained">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Su0FPOCw17k/maxresdefault.jpg' alt='Miller v. California Case Brief Summary | Law Case Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Su0FPOCw17k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v. California (1973) | The First Amendment Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/obscenity_0.jpg' alt='Miller v. California (1973) | The First Amendment Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/obscenity_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obscenity Case Files: Miller v. California – Comic Book Legal ...">
+                                <img itemprop="contentUrl url" src='https://cbldf.org/wp-content/uploads/2013/07/FE_DA_130122court-72.jpg' alt='Obscenity Case Files: Miller v. California – Comic Book Legal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comic Book Legal Defense Fund" />
+                                </span>
+                                <a href='https://cbldf.org/wp-content/uploads/2013/07/FE_DA_130122court-72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v. California | Teaching American History">
+                                <img itemprop="contentUrl url" src='https://teachingamericanhistory.org/content/uploads/2021/07/426px-US_Chief_Justice_Warren_Burger_-_1971_official_portrait-e1619649525789-2.jpg' alt='Miller v. California | Teaching American History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teaching American History" />
+                                </span>
+                                <a href='https://teachingamericanhistory.org/content/uploads/2021/07/426px-US_Chief_Justice_Warren_Burger_-_1971_official_portrait-e1619649525789-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v. California (1973)">
+                                <img itemprop="contentUrl url" src='https://www.csus.edu/indiv/b/burnettn/coms147/mar23/img003.GIF' alt='Miller v. California (1973)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.csus.edu" />
+                                </span>
+                                <a href='https://www.csus.edu/indiv/b/burnettn/coms147/mar23/img003.GIF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Amendment Coalition on X: "Today marks the 45th anniversary ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DgOytwaXUAEmUsh.jpg' alt='First Amendment Coalition on X: "Today marks the 45th anniversary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DgOytwaXUAEmUsh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v. California">
+                                <img itemprop="contentUrl url" src='https://stus.com/assets/images/default/products/con0053.gif' alt='Miller v. California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stu's Views" />
+                                </span>
+                                <a href='https://stus.com/assets/images/default/products/con0053.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REGULATING THE RAUNCHY? FREE SPEECH AND OBSCENITY UNDER MILLER V ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/028df9_cd91f4467ab64c65b96e2f7408138f18~mv2.webp/v1/fill/w_500,h_428,al_c,lg_1,q_80/028df9_cd91f4467ab64c65b96e2f7408138f18~mv2.webp' alt='REGULATING THE RAUNCHY? FREE SPEECH AND OBSCENITY UNDER MILLER V ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelsey Farish" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/028df9_cd91f4467ab64c65b96e2f7408138f18~mv2.webp/v1/fill/w_500,h_428,al_c,lg_1,q_80/028df9_cd91f4467ab64c65b96e2f7408138f18~mv2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miller v The State of California, 1973 and now, 2024. Both worthy ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468558159230639145' alt='Miller v The State of California, 1973 and now, 2024. Both worthy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468558159230639145' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What the Supreme Court Considers to Be Obscene - The New York Times">
+                                <img itemprop="contentUrl url" src='https://s1.nyt.com/timesmachine/pages/1/1990/04/08/200090_360W.png?quality=75&auto=webp&disable=upscale' alt='What the Supreme Court Considers to Be Obscene - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://s1.nyt.com/timesmachine/pages/1/1990/04/08/200090_360W.png?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

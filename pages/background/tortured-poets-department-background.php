@@ -1,0 +1,129 @@
+<title>Unraveling the Roots of Tortured Poets</title>
+                    <meta name="description" content="Explore the fascinating world of tortured poets, who transform personal suffering into impactful poetry. Discover their unique backgrounds, struggles, and how these experiences shaped their creative voices in literature. Join us on this journey through the lives of poets who faced their demons through the art of words.">
+                    <meta name="keywords" content="tortured poets department background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tortured-poets-department-background">
+                            <span itemprop="name">tortured poets department background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling the Roots of Tortured Poets</h1>
+                <p>The "Tortured Poets Department" delves into the lives of poets who have faced extreme emotional and psychological struggles. Often characterized by themes of despair, love, and existential angst, these poets channel their pain into profound works. This niche explores the intersection of creativity and suffering, highlighting their unique contributions to literature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tortured Poets Department - Desktop Wallpaper (Made this for ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-tortured-poets-department-desktop-wallpaper-made-this-v0-9k66phmmoovc1.png?auto=webp&s=ed3047f1c5442c8b82790945cbfa9fcafb9c025b' alt='The Tortured Poets Department - Desktop Wallpaper (Made this for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-tortured-poets-department-desktop-wallpaper-made-this-v0-9k66phmmoovc1.png?auto=webp&s=ed3047f1c5442c8b82790945cbfa9fcafb9c025b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tortured Poets Department" is filled with hidden depth - The ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thecypressonline.com/wp-content/uploads/2024/05/T-Swift-Graphic.png?fit=1200%2C897&ssl=1' alt='The Tortured Poets Department" is filled with hidden depth - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cypress" />
+                                </span>
+                                <a href='https://i0.wp.com/thecypressonline.com/wp-content/uploads/2024/05/T-Swift-Graphic.png?fit=1200%2C897&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the tortured poets department">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b2/10/6c/b2106c7ee415c6482a9d29802142c643.jpg' alt='the tortured poets department'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b2/10/6c/b2106c7ee415c6482a9d29802142c643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - The Tortured Poets Department (Official Lyric Video)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RQMz4JDbtmI/maxresdefault.jpg' alt='Taylor Swift - The Tortured Poets Department (Official Lyric Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RQMz4JDbtmI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Taylor Swift's “The Tortured Poets Department” – The Flor-Ala">
+                                <img itemprop="contentUrl url" src='https://theflorala.com/wp-content/uploads/2024/04/Taylor_Swift_graphic.png' alt='Review: Taylor Swift's “The Tortured Poets Department” – The Flor-Ala'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Flor-Ala" />
+                                </span>
+                                <a href='https://theflorala.com/wp-content/uploads/2024/04/Taylor_Swift_graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Tortured Poets Department wallpaper! | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7397243563404624389&index=0&sign=4a35ca3ceacf533b18d2c453b3981285' alt='Taylor Swift Tortured Poets Department wallpaper! | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7397243563404624389&index=0&sign=4a35ca3ceacf533b18d2c453b3981285' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tortured Poets Department' is the “miracle move on drug” we ...">
+                                <img itemprop="contentUrl url" src='https://berkeleybeacon.com/wp-content/uploads/2024/04/IMG_8985.jpg' alt='The Tortured Poets Department' is the “miracle move on drug” we ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Berkeley Beacon" />
+                                </span>
+                                <a href='https://berkeleybeacon.com/wp-content/uploads/2024/04/IMG_8985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now that we have the back cover for The Tortured Poets Department ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hctts4krc2hc1.jpeg' alt='Now that we have the back cover for The Tortured Poets Department ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1195">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hctts4krc2hc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuba on X: "  The Tortured Poets Department - The Bolter ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GGdPpRzWcAARDlG?format=jpg&name=large' alt='Kuba on X: "  The Tortured Poets Department - The Bolter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GGdPpRzWcAARDlG?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tortured Poets Department” was torturous – BVNWnews">
+                                <img itemprop="contentUrl url" src='https://bvnwnews.com/wp-content/uploads/2024/05/tswiftnew-01.jpg' alt='The Tortured Poets Department” was torturous – BVNWnews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVNWnews" />
+                                </span>
+                                <a href='https://bvnwnews.com/wp-content/uploads/2024/05/tswiftnew-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

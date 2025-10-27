@@ -1,0 +1,129 @@
+<title>Vintage Blue Retro Backgrounds for Stylish Designs</title>
+                    <meta name="description" content="Explore captivating blue retro backgrounds that infuse nostalgia into your designs. Perfect for websites and social media, these timeless backgrounds enhance visuals with a vintage charm and soothing aura. Elevate your projects with the perfect retro touch today!">
+                    <meta name="keywords" content="blue retro background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-retro-background">
+                            <span itemprop="name">blue retro background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Blue Retro Backgrounds for Stylish Designs</h1>
+                <p>A blue retro background evokes a sense of nostalgia, combining shades of azure and teal that create a peaceful vibe. Perfect for designs, it adds a vintage charm to websites and social media posts. This timeless palette works beautifully with retro fonts and graphics, bringing warmth and a sense of comfort to any project!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1305347109/vector/blue-comic-star-burst-textured-background.jpg?s=612x612&w=0&k=20&c=wyDTg3UFeQL-905GFTufF_fDhZmkgeoJnQuiT9YD8Gs=' alt='19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1305347109/vector/blue-comic-star-burst-textured-background.jpg?s=612x612&w=0&k=20&c=wyDTg3UFeQL-905GFTufF_fDhZmkgeoJnQuiT9YD8Gs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vintage blue ray retro burst background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vintage-blue-ray-retro-burst-background_92086-446.jpg' alt='Premium Vector | Vintage blue ray retro burst background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vintage-blue-ray-retro-burst-background_92086-446.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1415462253/vector/bright-blue-gradient-strips-in-dark-blue-background.jpg?s=612x612&w=0&k=20&c=1d3-VonrI2v3Z-wgqxs9Zec5i1c5miuji0GS5EHlgxk=' alt='19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1415462253/vector/bright-blue-gradient-strips-in-dark-blue-background.jpg?s=612x612&w=0&k=20&c=1d3-VonrI2v3Z-wgqxs9Zec5i1c5miuji0GS5EHlgxk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Retro Background Images – Browse 3,520,027 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/08/91/38/360_F_508913808_PmSANRGbwO3RZG9GTOx7oWtuUCUVF5tz.jpg' alt='Blue Retro Background Images – Browse 3,520,027 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/08/91/38/360_F_508913808_PmSANRGbwO3RZG9GTOx7oWtuUCUVF5tz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro wavy burst blue winter vintage background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/75/00/8575001fb02a73b643c329701a3f1db8.jpg' alt='Premium Vector | Retro wavy burst blue winter vintage background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/75/00/8575001fb02a73b643c329701a3f1db8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Retro Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-comic-background-retro-vector-illustration_1142-11123.jpg' alt='Blue Retro Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-comic-background-retro-vector-illustration_1142-11123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple blue background. Spiral stripes in retro pop art style ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/41/22/61/1000_F_241226121_CxgAPbY7knA9cqoShZkRUwb9jpPwwK0y.jpg' alt='Simple blue background. Spiral stripes in retro pop art style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/41/22/61/1000_F_241226121_CxgAPbY7knA9cqoShZkRUwb9jpPwwK0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418795592/vector/blue-grid-pattern-background.jpg?s=612x612&w=0&k=20&c=hUgk-o0ocI44FwJdFvVZvolbfS0QnPGNs0rtyrnWrKQ=' alt='19,700+ Vintage Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418795592/vector/blue-grid-pattern-background.jpg?s=612x612&w=0&k=20&c=hUgk-o0ocI44FwJdFvVZvolbfS0QnPGNs0rtyrnWrKQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Blue vintage background with lines">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/blue-vintage-background-with-lines_721791-683.jpg' alt='Premium Vector | Blue vintage background with lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/blue-vintage-background-with-lines_721791-683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Blue Retro Star-burst Background Wallpaper Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/cool-blue-retro-starburst-background-260nw-327594761.jpg' alt='Cool Blue Retro Star-burst Background Wallpaper Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/cool-blue-retro-starburst-background-260nw-327594761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

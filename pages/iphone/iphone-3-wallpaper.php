@@ -1,0 +1,129 @@
+<title>Stunning iPhone 3 Wallpapers for Personalization</title>
+                    <meta name="description" content="Explore our curated collection of beautiful iPhone 3 wallpapers. Perfect for showcasing your style, these wallpapers feature various themes and designs. Download today to give your iPhone 3 a fresh look and express your personality in a vibrant way!">
+                    <meta name="keywords" content="iphone 3 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-3-wallpaper">
+                            <span itemprop="name">iphone 3 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 3 Wallpapers for Personalization</h1>
+                <p>Discover a stunning collection of iPhone 3 wallpapers to personalize your device. Whether you prefer nature, abstract art, or minimalist designs, our diverse selection caters to every taste. Download and elevate your iPhone 3 with exquisite wallpapers that reflect your unique style. Explore the beauty today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 3 Wallpaper Bundle by CptnEclectic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/66/e7/4b66e72250241710444df96a9666013a.jpg' alt='IOS 3 Wallpaper Bundle by CptnEclectic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/66/e7/4b66e72250241710444df96a9666013a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clownfish For Ios 3 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/clownfish-for-ios-3-kvotxw757nbkcor5.jpg' alt='Clownfish For Ios 3 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/clownfish-for-ios-3-kvotxw757nbkcor5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-7-for-iPhone-X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 3 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-3-no1vjy53ybko64ho.jpg' alt='100+] Iphone 3 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-3-no1vjy53ybko64ho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebbles By The Shore For Ios 3 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pebbles-by-the-shore-for-ios-3-rctftnivnuj1cmw7.jpg' alt='Pebbles By The Shore For Ios 3 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pebbles-by-the-shore-for-ios-3-rctftnivnuj1cmw7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ready To Take On The World With Your Iphone 3 Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-3-unqqe3hd47isnqfy.jpg' alt='Download Ready To Take On The World With Your Iphone 3 Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-3-unqqe3hd47isnqfy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular iPhone 3GS iOS Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/serene-water-iphone-3gs-ios-3-stock-default-18-10-2024-1729297722-hd-wallpaper.jpg' alt='Most Popular iPhone 3GS iOS Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/serene-water-iphone-3gs-ios-3-stock-default-18-10-2024-1729297722-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The iconic Iphone 3 with its sophisticated design ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-3-c8m1ehsvg5djqeri.jpg' alt='Download The iconic Iphone 3 with its sophisticated design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-3-c8m1ehsvg5djqeri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper] Theme based on old iPhones : r/iOSthemes">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-theme-based-on-old-iphones-v0-0t1ov4kz1t8c1.jpg?width=640&crop=smart&auto=webp&s=d46cc6dc1b33abd6a211338d9ddce4c3e82acd90' alt='Wallpaper] Theme based on old iPhones : r/iOSthemes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-theme-based-on-old-iphones-v0-0t1ov4kz1t8c1.jpg?width=640&crop=smart&auto=webp&s=d46cc6dc1b33abd6a211338d9ddce4c3e82acd90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE (3rd Gen) Stock Wallpaper - Spectrum Black - Light ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/ispazio-20-1280x2770.jpg' alt='iPhone SE (3rd Gen) Stock Wallpaper - Spectrum Black - Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/03/ispazio-20-1280x2770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

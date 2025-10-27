@@ -1,0 +1,129 @@
+<title>Stunning Goku Black GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover mesmerizing Goku Black GIF wallpapers that elevate your devices' aesthetic. Perfect for Dragon Ball fans, these dynamic wallpapers will showcase your love for the series. Download and transform your screen with animated art that truly stands out!">
+                    <meta name="keywords" content="goku black gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-black-gif-wallpaper">
+                            <span itemprop="name">goku black gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Goku Black GIF Wallpapers for Your Device</h1>
+                <p>Goku Black GIF wallpapers bring the fierce and captivating essence of Dragon Ball Super to your device. With stunning animations showcasing Goku Black in action, these wallpapers are perfect for fans who want to express their passion for the series. Download now and enjoy a dynamic look that stands out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/LkO4Dov673u80qEjz3/giphy.gif?cid=6c09b9522qv7u83p9f28v1rag81ckarmlm8sja3wl0yo3o4y&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Goku Black GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/LkO4Dov673u80qEjz3/giphy.gif?cid=6c09b9522qv7u83p9f28v1rag81ckarmlm8sja3wl0yo3o4y&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Rose GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/d7LYFiZZcQ0AAAAM/dragon-ball-super-black-gokou.gif' alt='Goku Black Rose GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/d7LYFiZZcQ0AAAAM/dragon-ball-super-black-gokou.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/1395' alt='Goku Black Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/1395' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="96edd5baccf59bafa3e837d669e5f0cb8255845c_hq.gif (500×281)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/50/13/3b/50133b89229632a762d322701f00079b.gif' alt='96edd5baccf59bafa3e837d669e5f0cb8255845c_hq.gif (500×281)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/50/13/3b/50133b89229632a762d322701f00079b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Banner Gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/08/de/1e/08de1e2701e8880c89d599ec4c317481.gif' alt='Goku Black Banner Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/08/de/1e/08de1e2701e8880c89d599ec4c317481.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/goku-black-zamasu-exploding-attack-zzu0dghq4kd4t28b.gif' alt='Goku Black GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/goku-black-zamasu-exploding-attack-zzu0dghq4kd4t28b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/PufXpxTacTQAAAAM/goku-black-dragon-ball-super.gif' alt='Goku Black GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/PufXpxTacTQAAAAM/goku-black-dragon-ball-super.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black Dragon Ball GIF - Goku Black Dragon Ball - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/93/61/bf/9361bfc10737843b1d7d64672f1035f8.gif' alt='Goku Black Dragon Ball GIF - Goku Black Dragon Ball - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/93/61/bf/9361bfc10737843b1d7d64672f1035f8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Super Saiyan Rose Goku Black">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1709665678319097736/62CFA009FC0D20B9C3E7D269134CA0725DA3C68E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Super Saiyan Rose Goku Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1709665678319097736/62CFA009FC0D20B9C3E7D269134CA0725DA3C68E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/4Ds8A3wAsYAAAAAM/goku-black.gif' alt='Goku Black GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/4Ds8A3wAsYAAAAAM/goku-black.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

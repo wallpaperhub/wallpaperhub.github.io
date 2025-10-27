@@ -1,0 +1,129 @@
+<title>The Meaning of Titus in the Bible Explained</title>
+                    <meta name="description" content="Discover the meaning of Titus in the Bible, exploring his role as a companion of Paul and a leader in the early church. Learn about the significance of his name and the lessons from the Epistle of Titus that emphasize faith and good works.">
+                    <meta name="keywords" content="titus meaning in bible">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/titus-meaning-in-bible">
+                            <span itemprop="name">titus meaning in bible</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Meaning of Titus in the Bible Explained</h1>
+                <p>Titus is a significant figure in the New Testament, known as a companion of Paul and a trusted leader in the early Christian church. The name Titus means "title of honor" or "defender." He is best known for his work in Crete and the Epistle of Titus, which emphasizes sound doctrine and good deeds among believers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus Name Meaning, Origin, Popularity, Boy Names Like Titus ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/boys/t/titus-name-meaning-baby-boy-h.gif' alt='Titus Name Meaning, Origin, Popularity, Boy Names Like Titus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/boys/t/titus-name-meaning-baby-boy-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus Custom Name Meaning,proverbs 29 23,titan Giant,first Name Wall  Art,blue Mountain,given Name Sign,personalized Gift,biblical Nursery - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12663148/r/il/c648bc/3178028315/il_1080xN.3178028315_fq2s.jpg' alt='Titus Custom Name Meaning,proverbs 29 23,titan Giant,first Name Wall  Art,blue Mountain,given Name Sign,personalized Gift,biblical Nursery - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12663148/r/il/c648bc/3178028315/il_1080xN.3178028315_fq2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions">
+                                <img itemprop="contentUrl url" src='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus.jpg' alt='Titus - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joyful Expressions" />
+                                </span>
+                                <a href='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus 3 - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions">
+                                <img itemprop="contentUrl url" src='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus3.jpg' alt='Titus 3 - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joyful Expressions" />
+                                </span>
+                                <a href='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus Name Meaning, Origin, History, And Popularity">
+                                <img itemprop="contentUrl url" src='https://www.momjunction.com/wp-content/uploads/2022/12/Titus.jpg.webp' alt='Titus Name Meaning, Origin, History, And Popularity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MomJunction" />
+                                </span>
+                                <a href='https://www.momjunction.com/wp-content/uploads/2022/12/Titus.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was Titus in the Bible?">
+                                <img itemprop="contentUrl url" src='https://i.swncdn.com/media/950w/via/images/2022/09/08/27286-gettyimages-466556225_source_file.jpg' alt='Who Was Titus in the Bible?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christianity.com" />
+                                </span>
+                                <a href='https://i.swncdn.com/media/950w/via/images/2022/09/08/27286-gettyimages-466556225_source_file.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus Name Meaning - Titus name Origin, Name Titus, Meaning of the ...">
+                                <img itemprop="contentUrl url" src='https://cardsimages.info-tuparada.com/643/6073-1-titus.jpg' alt='Titus Name Meaning - Titus name Origin, Name Titus, Meaning of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ecards, birthday ecards, greeting cards - TuParada.com" />
+                                </span>
+                                <a href='https://cardsimages.info-tuparada.com/643/6073-1-titus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Titus: A Counter-Cultural Gospel for Cretans">
+                                <img itemprop="contentUrl url" src='https://ik.imagekit.io/bpweb1/web/media/Blog%20Posts/RS_62_Titus_Thumbnail.jpg?tr=q-65' alt='The Book of Titus: A Counter-Cultural Gospel for Cretans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bible Project" />
+                                </span>
+                                <a href='https://ik.imagekit.io/bpweb1/web/media/Blog%20Posts/RS_62_Titus_Thumbnail.jpg?tr=q-65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titus - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions">
+                                <img itemprop="contentUrl url" src='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus2.jpg' alt='Titus - Name Blessings Personalized Cross Stitch Design from Joyful  Expressions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joyful Expressions" />
+                                </span>
+                                <a href='https://www.joyfulexpressions.us/HTML/NameBlessingsPDF/Titus2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book of Titus Overview - Insight for Living Ministries">
+                                <img itemprop="contentUrl url" src='https://insightforliving.swncdn.com/pdf/bible-charts/tn/Titus-tn.jpg' alt='Book of Titus Overview - Insight for Living Ministries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insight for Living" />
+                                </span>
+                                <a href='https://insightforliving.swncdn.com/pdf/bible-charts/tn/Titus-tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

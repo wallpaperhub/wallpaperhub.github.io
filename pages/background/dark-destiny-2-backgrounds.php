@@ -1,0 +1,129 @@
+<title>Dark Destiny 2 Backgrounds: Captivating Gamer Aesthetics</title>
+                    <meta name="description" content="Explore our collection of dark Destiny 2 backgrounds that bring the game's intense atmosphere to life. Perfect for customizing your devices and expressing your passion for gaming in a visually stunning way. Download now for high-quality images that resonate with gamers everywhere!">
+                    <meta name="keywords" content="dark destiny 2 backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-destiny-2-backgrounds">
+                            <span itemprop="name">dark destiny 2 backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Destiny 2 Backgrounds: Captivating Gamer Aesthetics</h1>
+                <p>Discover the captivating world of Destiny 2 with a collection of dark backgrounds that embody the game's mysterious and thrilling atmosphere. These high-quality images feature haunting landscapes, shadowy figures, and the iconic Guardians battling against sinister forces. Perfect for gamers seeking to enhance their devices with striking visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpapers for Destiny 2 : r/destiny2">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sycph2sl6dkz.jpg' alt='4k Wallpapers for Destiny 2 : r/destiny2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sycph2sl6dkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkness Zone wallpaper : r/DestinyTheGame">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/0gR2scK.jpg' alt='Darkness Zone wallpaper : r/DestinyTheGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/0gR2scK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Saint, dark, destiny 2, titan, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/575/175/HD-wallpaper-the-saint-dark-destiny-2-titan.jpg' alt='The Saint, dark, destiny 2, titan, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/575/175/HD-wallpaper-the-saint-dark-destiny-2-titan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Dark Image Of A Pyramid And A Spaceship Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/destiny-2-beyond-light-di7di7060153br11.jpg' alt='Download A Dark Image Of A Pyramid And A Spaceship Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/destiny-2-beyond-light-di7di7060153br11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2 Warlock Dawnblade 4k Wallpaper by base113 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9fd14b5-bf26-48aa-a737-d989f5cd8f74/dbmvghb-654f47f4-98a4-4623-a6e4-5af203185f6a.png/v1/fill/w_1280,h_720,q_80,strp/destiny_2_warlock_dawnblade_4k_wallpaper_by_base113_dbmvghb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDlmZDE0YjUtYmYyNi00OGFhLWE3MzctZDk4OWY1Y2Q4Zjc0XC9kYm12Z2hiLTY1NGY0N2Y0LTk4YTQtNDYyMy1hNmU0LTVhZjIwMzE4NWY2YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1h7NnBe2tFpEuMf6jOK_AFjs9-X8DtQH8GfTxUu_G-s' alt='Destiny 2 Warlock Dawnblade 4k Wallpaper by base113 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9fd14b5-bf26-48aa-a737-d989f5cd8f74/dbmvghb-654f47f4-98a4-4623-a6e4-5af203185f6a.png/v1/fill/w_1280,h_720,q_80,strp/destiny_2_warlock_dawnblade_4k_wallpaper_by_base113_dbmvghb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDlmZDE0YjUtYmYyNi00OGFhLWE3MzctZDk4OWY1Y2Q4Zjc0XC9kYm12Z2hiLTY1NGY0N2Y0LTk4YTQtNDYyMy1hNmU0LTVhZjIwMzE4NWY2YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1h7NnBe2tFpEuMf6jOK_AFjs9-X8DtQH8GfTxUu_G-s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Destiny 2 Darkness">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1690500494278192210/E3E622D9187F1B44ED99733311FAC5D4C447EF95/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Destiny 2 Darkness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1690500494278192210/E3E622D9187F1B44ED99733311FAC5D4C447EF95/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24+ Destiny Backgrounds, Wallpapers, Images, Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/dc/3f/47dc3f9ae58947209d97f4fc91fbeb00.jpg' alt='24+ Destiny Backgrounds, Wallpapers, Images, Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/dc/3f/47dc3f9ae58947209d97f4fc91fbeb00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Destiny 2 Hunter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/destiny-2-hunter-38r357opv6wu0jib.jpg' alt='100+] Destiny 2 Hunter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1877">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/destiny-2-hunter-38r357opv6wu0jib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destiny 2, smoke, space, dark, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/169/226/HD-wallpaper-destiny-2-smoke-space-dark.jpg' alt='Destiny 2, smoke, space, dark, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/169/226/HD-wallpaper-destiny-2-smoke-space-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkness Zone wallpaper : r/DestinyTheGame">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/0QIVFCB.gif' alt='Darkness Zone wallpaper : r/DestinyTheGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/0QIVFCB.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

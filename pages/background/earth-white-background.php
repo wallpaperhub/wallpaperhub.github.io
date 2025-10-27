@@ -1,0 +1,129 @@
+<title>Earth Against White: Stunning Visuals of Our Planet</title>
+                    <meta name="description" content="Discover the breathtaking beauty of Earth showcased against a white background. Explore the contrast of vibrant colors and serene landscapes, highlighting our planet's unique ecosystems in a fresh, minimalistic design. Perfect for nature lovers and anyone captivated by our Earth.">
+                    <meta name="keywords" content="earth white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/earth-white-background">
+                            <span itemprop="name">earth white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Earth Against White: Stunning Visuals of Our Planet</h1>
+                <p>The Earth, with its stunning blue oceans and lush green landscapes, looks magnificent against a pure white background. This contrast highlights the planet's beauty, drawing attention to its diverse ecosystems and vibrant life. The white backdrop also symbolizes peace and purity, providing a striking canvas for our home planet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:The Earth seen from Apollo 17 with white background.jpg ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Earth_seen_from_Apollo_17_with_white_background.jpg/1200px-The_Earth_seen_from_Apollo_17_with_white_background.jpg' alt='File:The Earth seen from Apollo 17 with white background.jpg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Earth_seen_from_Apollo_17_with_white_background.jpg/1200px-The_Earth_seen_from_Apollo_17_with_white_background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,000+ Planet Earth On White Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/172177355/photo/europe-view.jpg?s=612x612&w=0&k=20&c=B2MnnUO0l9-A_b2ZaVbt0EfKZVndcFZ5GTI3PunRWkE=' alt='36,000+ Planet Earth On White Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/172177355/photo/europe-view.jpg?s=612x612&w=0&k=20&c=B2MnnUO0l9-A_b2ZaVbt0EfKZVndcFZ5GTI3PunRWkE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,400+ Planet Earth White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1390066370/vector/earth-globe-atlantic.jpg?s=612x612&w=0&k=20&c=OSgS4jV5cCOBgk8jv0AUoqawzGhRS6hpBJ496ICELoA=' alt='21,400+ Planet Earth White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1390066370/vector/earth-globe-atlantic.jpg?s=612x612&w=0&k=20&c=OSgS4jV5cCOBgk8jv0AUoqawzGhRS6hpBJ496ICELoA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="186,443 Earth White Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/planet-earth-white-background-elements-image-were-furnished-nasa-high-quality-photo-209294551.jpg' alt='186,443 Earth White Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/planet-earth-white-background-elements-image-were-furnished-nasa-high-quality-photo-209294551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Resolution Planet Earth White Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/high-resolution-planet-earth-white-background-elements-image-furnished-nasa-31231807.jpg' alt='High Resolution Planet Earth White Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/high-resolution-planet-earth-white-background-elements-image-furnished-nasa-31231807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,802 Planet Earth White Background High Res Illustrations - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165564397/vector/africa-artwork.jpg?s=612x612&w=gi&k=20&c=HDHMZwkSbc3kQEPACFiaNFj2g6Vl50Rjg8-QxT75osE=' alt='3,802 Planet Earth White Background High Res Illustrations - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165564397/vector/africa-artwork.jpg?s=612x612&w=gi&k=20&c=HDHMZwkSbc3kQEPACFiaNFj2g6Vl50Rjg8-QxT75osE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Earth On White Background View Stock Photo 1245735736 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/planet-earth-on-white-background-260nw-1245735736.jpg' alt='Planet Earth On White Background View Stock Photo 1245735736 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/planet-earth-on-white-background-260nw-1245735736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Earth globe isolated on white background. Elements ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/earth-globe-isolated-white-background-elements-this-image-furnished-by-nasa_180633-2976.jpg' alt='Premium Photo | Earth globe isolated on white background. Elements ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/earth-globe-isolated-white-background-elements-this-image-furnished-by-nasa_180633-2976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Earth Globe Isolated on White Background. Blue and Green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/08/1d/c0081da4099dce36e38c2272d614fd47.jpg' alt='Planet Earth Globe Isolated on White Background. Blue and Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/08/1d/c0081da4099dce36e38c2272d614fd47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet earth rotating on white background. Loopable">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/planet-earth-rotating-white-background-000664857_prevstill.jpeg' alt='Planet earth rotating on white background. Loopable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/planet-earth-rotating-white-background-000664857_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

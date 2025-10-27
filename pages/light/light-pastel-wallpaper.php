@@ -1,0 +1,129 @@
+<title>Transform Your Space with Light Pastel Wallpaper</title>
+                    <meta name="description" content="Discover the charm of light pastel wallpaper to elevate your home decor. With soft, calming colors, create an inviting atmosphere perfect for any room. Explore a variety of designs that blend elegance with tranquility. Choose light pastel wallpaper for a stylish and serene living space!">
+                    <meta name="keywords" content="light pastel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-pastel-wallpaper">
+                            <span itemprop="name">light pastel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Light Pastel Wallpaper</h1>
+                <p>Light pastel wallpaper effortlessly transforms any space, creating a serene and soothing atmosphere. Ideal for bedrooms, living rooms, or nurseries, these gentle hues—like soft pinks, mint greens, and light blues—add a touch of elegance while promoting relaxation. Elevate your interior design with lovely light pastel wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pastel Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vibrant-pink-watercolor-painting-background_53876-139893.jpg' alt='Light Pastel Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vibrant-pink-watercolor-painting-background_53876-139893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Light Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' alt='Pastel Light Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pastel Blurred Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/ef/59/1fef592fd75331a990db13737d474c47.jpg' alt='Light Pastel Blurred Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/ef/59/1fef592fd75331a990db13737d474c47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sn88-light-soft-pastel-blur-gradation-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sn88-light-soft-pastel-blur-gradation-41-iphone-wallpaper.jpg' alt='sn88-light-soft-pastel-blur-gradation-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sn88-light-soft-pastel-blur-gradation-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Colors Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ed/9f/a5ed9f2c53fc833aeebf156c182a2b7c.jpg' alt='Pastel Colors Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ed/9f/a5ed9f2c53fc833aeebf156c182a2b7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+ Sky Blue Pastel Color Painted Wooden Texture Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1177687036/vector/horizontal-vector-illustration-of-an-empty-light-blue-grungy-wooden-textured-background.jpg?s=612x612&w=0&k=20&c=BMCKpywlDd-QS4y_NLvchnd1CaVgJ4Ko2dP1hWYFLtc=' alt='80+ Sky Blue Pastel Color Painted Wooden Texture Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1177687036/vector/horizontal-vector-illustration-of-an-empty-light-blue-grungy-wooden-textured-background.jpg?s=612x612&w=0&k=20&c=BMCKpywlDd-QS4y_NLvchnd1CaVgJ4Ko2dP1hWYFLtc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Gradient Background Images – Browse 1,754,664 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/63/11/67/360_F_363116733_vYEbDiX4BqA0oAStHh8ucULYKKu1Wt9H.jpg' alt='Pastel Gradient Background Images – Browse 1,754,664 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/63/11/67/360_F_363116733_vYEbDiX4BqA0oAStHh8ucULYKKu1Wt9H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink, Pastel, , . onimasi.id, Light Pastel, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/125/740/HD-wallpaper-pink-pastel-onimasi-id-light-pastel-thumbnail.jpg' alt='Pink, Pastel, , . onimasi.id, Light Pastel, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/125/740/HD-wallpaper-pink-pastel-onimasi-id-light-pastel-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky-blue Pastel Color Painted Wooden Texture, Wallpaper, Background Photo  (121172) - YouWorkForThem">
+                                <img itemprop="contentUrl url" src='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/121172/121172_00_2x.jpg?20170515031019' alt='Sky-blue Pastel Color Painted Wooden Texture, Wallpaper, Background Photo  (121172) - YouWorkForThem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouWorkForThem" />
+                                </span>
+                                <a href='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/121172/121172_00_2x.jpg?20170515031019' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1400x1050 Light Pastel Purple Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1400x1050/1400x1050-light-pastel-purple-solid-color-background.jpg' alt='1400x1050 Light Pastel Purple Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1400x1050/1400x1050-light-pastel-purple-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

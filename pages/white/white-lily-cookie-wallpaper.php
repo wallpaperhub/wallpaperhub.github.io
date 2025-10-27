@@ -1,0 +1,129 @@
+<title>Elegant White Lily Cookie Wallpaper for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="white lily cookie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-lily-cookie-wallpaper">
+                            <span itemprop="name">white lily cookie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Lily Cookie Wallpaper for Your Device</h1>
+                <p>Transform your device with our stunning white lily cookie wallpaper, featuring delicate floral designs that bring a touch of elegance and charm. The soft pastel colors and intricate details create a soothing backdrop, perfect for any home screen. Embrace nature's beauty while enjoying a sweet aesthetic in your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White lilly cookie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/30/b1/6130b142423c9a0a5177841e2c311666.jpg' alt='White lilly cookie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/30/b1/6130b142423c9a0a5177841e2c311666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily cookie wallpaper [cookie run kingdom]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/a8/92/24a8922c2df7c26d907867fdac396d22.jpg' alt='White Lily cookie wallpaper [cookie run kingdom]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/a8/92/24a8922c2df7c26d907867fdac396d22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie - Cookie Run: Kingdom - Wallpaper by PDB ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/White.Lily.Cookie.full.3939977.jpg' alt='White Lily Cookie - Cookie Run: Kingdom - Wallpaper by PDB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/White.Lily.Cookie.full.3939977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White lily wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/63/04/1e630409748782527a3503c726ac060c.jpg' alt='White lily wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/63/04/1e630409748782527a3503c726ac060c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                      ❤︎">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/20/05/2320050f170117d3ec9028a7492d5031.jpg' alt='                                      ❤︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/20/05/2320050f170117d3ec9028a7492d5031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie - Cookie Run: Kingdom - Mobile Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://s1.zerochan.net/White.Lily.Cookie.600.3313953.jpg' alt='White Lily Cookie - Cookie Run: Kingdom - Mobile Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://s1.zerochan.net/White.Lily.Cookie.600.3313953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Dragon_hill_cutscene_1.png/revision/latest?cb=20210519162345' alt='White Lily Cookie | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Dragon_hill_cutscene_1.png/revision/latest?cb=20210519162345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie Running In Cookie Run Game Adventure Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-lily-cookie-running-in-cookie-run-game-adventure-bos4dymyqqltbn26.jpg' alt='White Lily Cookie Running In Cookie Run Game Adventure Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-lily-cookie-running-in-cookie-run-game-adventure-bos4dymyqqltbn26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie, Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/PureLily.full.3649010.jpg' alt='White Lily Cookie, Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/PureLily.full.3649010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Lily Cookie - Cookie Run: Kingdom - Wallpaper by Jaime ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/White.Lily.Cookie.full.3815091.jpg' alt='White Lily Cookie - Cookie Run: Kingdom - Wallpaper by Jaime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/White.Lily.Cookie.full.3815091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

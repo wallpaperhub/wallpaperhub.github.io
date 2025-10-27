@@ -1,0 +1,129 @@
+<title>Discover the Iconic Legacy of Johnny Cash</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="johnny cash">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/johnny-cash">
+                            <span itemprop="name">johnny cash</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Iconic Legacy of Johnny Cash</h1>
+                <p>Johnny Cash, known as the "Man in Black," was an iconic American singer-songwriter who profoundly impacted country music. With hits like "Ring of Fire" and "Folsom Prison Blues," he explored themes of sorrow, redemption, and love. His deep baritone voice and rebellious spirit resonated with millions, making him a timeless legend.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg' alt='Johnny Cash - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash: Biography, Country Musician, Grammy Winner">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517322650.jpg' alt='Johnny Cash: Biography, Country Musician, Grammy Winner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-517322650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash - Country Music Hall of Fame and Museum">
+                                <img itemprop="contentUrl url" src='https://cmhof.imgix.net/wp-content/uploads/2022/06/27141706/johnny-cash-bio-1080x1080-1.png?fit=crop&crop=focalpoint&fp-x=0.55&fp-y=0.51&q=70&auto=format&or=0&fm=jpeg&w=412&h=412' alt='Johnny Cash - Country Music Hall of Fame and Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="412">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Country Music Hall of Fame and Museum" />
+                                </span>
+                                <a href='https://cmhof.imgix.net/wp-content/uploads/2022/06/27141706/johnny-cash-bio-1080x1080-1.png?fit=crop&crop=focalpoint&fp-x=0.55&fp-y=0.51&q=70&auto=format&or=0&fm=jpeg&w=412&h=412' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235' alt='Johnny Cash Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash | Sun Records">
+                                <img itemprop="contentUrl url" src='https://sunrecords.com/wp-content/uploads/2021/09/Cash_SunStudio.jpeg' alt='Johnny Cash | Sun Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sun Records" />
+                                </span>
+                                <a href='https://sunrecords.com/wp-content/uploads/2021/09/Cash_SunStudio.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash | Biography, Songs, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/16/158516-050-B811B101/Johnny-Cash-June-Carter.jpg' alt='Johnny Cash | Biography, Songs, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/16/158516-050-B811B101/Johnny-Cash-June-Carter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash Flipping the Bird at San Quentin">
+                                <img itemprop="contentUrl url" src='https://pmamagazine.org/wp-content/uploads/2023/08/johnny-cash-bird.webp' alt='Johnny Cash Flipping the Bird at San Quentin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PMA Magazine" />
+                                </span>
+                                <a href='https://pmamagazine.org/wp-content/uploads/2023/08/johnny-cash-bird.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash on The Ed Sullivan Show - 1959 - Ed Sullivan Show">
+                                <img itemprop="contentUrl url" src='http://www.edsullivan.com/files/2011/07/Johnny-cash-on-Ed-Sullivan-202x300.jpg' alt='Johnny Cash on The Ed Sullivan Show - 1959 - Ed Sullivan Show'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ed Sullivan Show" />
+                                </span>
+                                <a href='http://www.edsullivan.com/files/2011/07/Johnny-cash-on-Ed-Sullivan-202x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnny Cash's Gospel | The New Yorker">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/5e3f2e5d0376280008835140/master/pass/Cep-JohnnyCash.jpg' alt='Johnny Cash's Gospel | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1954">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/5e3f2e5d0376280008835140/master/pass/Cep-JohnnyCash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look at the First Book to Collect Johnny Cash's Song Lyrics ...">
+                                <img itemprop="contentUrl url" src='https://gardenandgun.com/wp-content/uploads/2023/11/Cash_JohnnyCash_HC_9780316503105-918x1200.png' alt='A Look at the First Book to Collect Johnny Cash's Song Lyrics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Garden & Gun" />
+                                </span>
+                                <a href='https://gardenandgun.com/wp-content/uploads/2023/11/Cash_JohnnyCash_HC_9780316503105-918x1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

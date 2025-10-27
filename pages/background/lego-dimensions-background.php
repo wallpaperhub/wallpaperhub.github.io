@@ -1,0 +1,129 @@
+<title>Lego Dimensions: Explore Iconic Universes</title>
+                    <meta name="description" content="Discover Lego Dimensions, the innovative toys-to-life game that combines physical Lego with digital adventure. Dive into beloved universes, solve puzzles, and customize your gaming experience with iconic characters and vehicles. Join the fun today!">
+                    <meta name="keywords" content="lego dimensions background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lego-dimensions-background">
+                            <span itemprop="name">lego dimensions background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lego Dimensions: Explore Iconic Universes</h1>
+                <p>Lego Dimensions is a toys-to-life game that blends physical Lego minifigures and vehicles with digital gameplay, allowing players to explore various universes. Launched in 2015, it features iconic franchises like DC Comics, The Lord of the Rings, and more. Players can build, customize, and solve puzzles across platforms, creating a rich gaming experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game LEGO Dimensions HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/663/thumb-1920-663790.jpg' alt='Download Video Game LEGO Dimensions HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/663/thumb-1920-663790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Dimensions rift background by samthehulk43 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1eb0239-ffa3-498a-8635-a9701407f1c6/desdegl-638b431c-ceb3-49e9-9a76-6c59e29fe7fa.jpg/v1/fill/w_1280,h_720,q_75,strp/lego_dimensions_rift_background_by_samthehulk43_desdegl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTFlYjAyMzktZmZhMy00OThhLTg2MzUtYTk3MDE0MDdmMWM2XC9kZXNkZWdsLTYzOGI0MzFjLWNlYjMtNDllOS05YTc2LTZjNTllMjlmZTdmYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7Anc4PpQ4oaNCfifFMDNyiZ2WlaO14ONGV_Ra_iWi44' alt='Lego Dimensions rift background by samthehulk43 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1eb0239-ffa3-498a-8635-a9701407f1c6/desdegl-638b431c-ceb3-49e9-9a76-6c59e29fe7fa.jpg/v1/fill/w_1280,h_720,q_75,strp/lego_dimensions_rift_background_by_samthehulk43_desdegl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTFlYjAyMzktZmZhMy00OThhLTg2MzUtYTk3MDE0MDdmMWM2XC9kZXNkZWdsLTYzOGI0MzFjLWNlYjMtNDllOS05YTc2LTZjNTllMjlmZTdmYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7Anc4PpQ4oaNCfifFMDNyiZ2WlaO14ONGV_Ra_iWi44' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brilliant 4k Picture Showcasing Vibrant Lego Dimensions Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brilliant-4k-picture-showcasing-vibrant-lego-dimensions-5vm6ygn68sfq5xfe.jpg' alt='Brilliant 4k Picture Showcasing Vibrant Lego Dimensions Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brilliant-4k-picture-showcasing-vibrant-lego-dimensions-5vm6ygn68sfq5xfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Multiverse (CJDM1999) | LEGO Dimensions Customs Community | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/lego-dimensions-customs/images/7/7e/LEGO_Dimensions_wallpaper.jpg/revision/latest?cb=20210101010636' alt='The Multiverse (CJDM1999) | LEGO Dimensions Customs Community | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO Dimensions Customs Community - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/lego-dimensions-customs/images/7/7e/LEGO_Dimensions_wallpaper.jpg/revision/latest?cb=20210101010636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO Dimensions Review - IGN">
+                                <img itemprop="contentUrl url" src='https://assets1.ignimgs.com/thumbs/userUploaded/2015/9/25/20823568lego2-1443205666702.jpg' alt='LEGO Dimensions Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets1.ignimgs.com/thumbs/userUploaded/2015/9/25/20823568lego2-1443205666702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO IDEAS - Create a Custom Background for Video Calls - Lego ...">
+                                <img itemprop="contentUrl url" src='https://ideascdn.lego.com/media/generate/lego_ci/f504f8da-b05c-4d24-9523-7116c4796ade/resize:950:633/legacy' alt='LEGO IDEAS - Create a Custom Background for Video Calls - Lego ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO Ideas" />
+                                </span>
+                                <a href='https://ideascdn.lego.com/media/generate/lego_ci/f504f8da-b05c-4d24-9523-7116c4796ade/resize:950:633/legacy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vorton | LEGO Dimensions Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/lego-dimensions/images/4/41/Artwork_13.jpg/revision/latest/scale-to-width-down/1200?cb=20160825214253' alt='Vorton | LEGO Dimensions Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO Dimensions Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/lego-dimensions/images/4/41/Artwork_13.jpg/revision/latest/scale-to-width-down/1200?cb=20160825214253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO Dimensions — HellardCreative">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f20bbbc1bcef7002a3d04b5/1596069623641-IMMYB4BCJNC0RNL05F8B/header_lego_01.png' alt='LEGO Dimensions — HellardCreative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HellardCreative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f20bbbc1bcef7002a3d04b5/1596069623641-IMMYB4BCJNC0RNL05F8B/header_lego_01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vorton BG by LionGuardKujenga on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acd0af54-9009-4fff-ae56-95d7b397ef79/del1bpv-b4a4c5af-8e34-4fe9-8f88-409a47f0eb3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjZDBhZjU0LTkwMDktNGZmZi1hZTU2LTk1ZDdiMzk3ZWY3OVwvZGVsMWJwdi1iNGE0YzVhZi04ZTM0LTRmZTktOGY4OC00MDlhNDdmMGViM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zUpMxK9f2ahZVvUQJVD5gitDEumtuGObWlTrQbJ_NfE' alt='Vorton BG by LionGuardKujenga on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acd0af54-9009-4fff-ae56-95d7b397ef79/del1bpv-b4a4c5af-8e34-4fe9-8f88-409a47f0eb3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjZDBhZjU0LTkwMDktNGZmZi1hZTU2LTk1ZDdiMzk3ZWY3OVwvZGVsMWJwdi1iNGE0YzVhZi04ZTM0LTRmZTktOGY4OC00MDlhNDdmMGViM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zUpMxK9f2ahZVvUQJVD5gitDEumtuGObWlTrQbJ_NfE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO Dimensions blank template 1 by wjones215 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e38f3775-a82b-477f-a56f-2c5ccfc231cc/dej44ex-99b64fa5-a5e9-4113-a2c1-bc4a640b9533.jpg/v1/fill/w_1024,h_608,q_75,strp/lego_dimensions_blank_template_1_by_wjones215_dej44ex-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjA4IiwicGF0aCI6IlwvZlwvZTM4ZjM3NzUtYTgyYi00NzdmLWE1NmYtMmM1Y2NmYzIzMWNjXC9kZWo0NGV4LTk5YjY0ZmE1LWE1ZTktNDExMy1hMmMxLWJjNGE2NDBiOTUzMy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.t6a3hSK8TvanyML_nwazn8mu5yDlQm-LgfB4WIfQmZE' alt='LEGO Dimensions blank template 1 by wjones215 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e38f3775-a82b-477f-a56f-2c5ccfc231cc/dej44ex-99b64fa5-a5e9-4113-a2c1-bc4a640b9533.jpg/v1/fill/w_1024,h_608,q_75,strp/lego_dimensions_blank_template_1_by_wjones215_dej44ex-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjA4IiwicGF0aCI6IlwvZlwvZTM4ZjM3NzUtYTgyYi00NzdmLWE1NmYtMmM1Y2NmYzIzMWNjXC9kZWo0NGV4LTk5YjY0ZmE1LWE1ZTktNDExMy1hMmMxLWJjNGE2NDBiOTUzMy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.t6a3hSK8TvanyML_nwazn8mu5yDlQm-LgfB4WIfQmZE' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

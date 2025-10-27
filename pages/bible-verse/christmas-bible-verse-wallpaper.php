@@ -1,0 +1,129 @@
+<title>Inspirational Christmas Bible Verse Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our collection of Christmas Bible verse wallpapers that inspire and uplift. Perfect for personalizing your devices, these designs bring the spirit of the season into your daily life. Download now and keep the message of hope and joy close at hand all Christmas long!">
+                    <meta name="keywords" content="christmas bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/christmas-bible-verse-wallpaper">
+                            <span itemprop="name">christmas bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational Christmas Bible Verse Wallpapers for Your Devices</h1>
+                <p>Transform your digital spaces this holiday season with our Christmas Bible verse wallpaper collection. Each design beautifully features uplifting scriptures that remind us of the true meaning of Christmas. Perfect for phones or desktops, these wallpapers inspire joy and reflection throughout the season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Scripture Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' alt='100+] Christmas Scripture Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/aa/fc/1eaafc04a40c8e8d74211da9864cae54.jpg' alt='Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/aa/fc/1eaafc04a40c8e8d74211da9864cae54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Scripture Phone Backgrounds — Cafe 1040">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/570287e6859fd052a949f564/1574197885691-29MZ969GZQMQHOHKX381/Christmas+lockscreen+1+%282%29.jpg' alt='Christmas Scripture Phone Backgrounds — Cafe 1040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1002">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cafe 1040" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/570287e6859fd052a949f564/1574197885691-29MZ969GZQMQHOHKX381/Christmas+lockscreen+1+%282%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/29/e4/77/29e477fa2f655b931175266ee54c6e91.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/29/e4/77/29e477fa2f655b931175266ee54c6e91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas bible new arrivals verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' alt='Christmas bible new arrivals verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bvcr.edu.in" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Presents Acts 20:35 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' alt='Christmas Presents Acts 20:35 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The true meaning of Christmas can be found in the Bible ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' alt='Download The true meaning of Christmas can be found in the Bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Christmas Bible Verse Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/49/7f/b5497f6cbcabd20558b963fd617e19b9.jpg' alt='Download Christmas Bible Verse Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/49/7f/b5497f6cbcabd20558b963fd617e19b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpapers for Your Phone - Natalie Hilton">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/12/ChristmasWallpaper09.png?resize=576%2C1024&ssl=1' alt='Christmas Wallpapers for Your Phone - Natalie Hilton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natalie Hilton" />
+                                </span>
+                                <a href='https://i0.wp.com/nataliehilton.com/wp-content/uploads/2020/12/ChristmasWallpaper09.png?resize=576%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Christmas Images – Browse 1,976 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/40/23/99/360_F_540239949_FEfyOBl7GrQPm96lJUHzXlaQiV06a43H.jpg' alt='Bible Verse Christmas Images – Browse 1,976 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/40/23/99/360_F_540239949_FEfyOBl7GrQPm96lJUHzXlaQiV06a43H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

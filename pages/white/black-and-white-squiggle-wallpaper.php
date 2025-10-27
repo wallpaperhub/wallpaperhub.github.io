@@ -1,0 +1,129 @@
+<title>Trendy Black and White Squiggle Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Discover chic black and white squiggle wallpaper that redefines your living space. Perfect for adding a contemporary touch to any room, this stylish design is easy to apply and create an inviting atmosphere. Elevate your interior decor with a pattern that balances elegance and creativity effortlessly.">
+                    <meta name="keywords" content="black and white squiggle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-squiggle-wallpaper">
+                            <span itemprop="name">black and white squiggle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Black and White Squiggle Wallpaper for Modern Interiors</h1>
+                <p>Transform your space with black and white squiggle wallpaper, offering a stylish blend of minimalist design and dynamic patterns. Perfect for modern interiors, this wallpaper adds a touch of creativity to any room. Its versatile design complements various decor styles, making it an ideal choice for enhancing your home or office aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle by Albany - Black / White - Wallpaper - 13360">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/199447/tiled/albany-squiggle-black-white-wallpaper-tiled-199447.jpg?v=1692616598' alt='Squiggle by Albany - Black / White - Wallpaper - 13360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/199447/tiled/albany-squiggle-black-white-wallpaper-tiled-199447.jpg?v=1692616598' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle by Albany - Black / White - Wallpaper - 13360">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/199447_2_orig.jpg?v=1692616598' alt='Squiggle by Albany - Black / White - Wallpaper - 13360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/199447_2_orig.jpg?v=1692616598' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle Contemporary Doodle Effect Wallpaper Playroom Boy's Bedroom  Nursery Wall Decor Monochrome Black/White Holden 13360">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MVFL-PHqL._AC_UF894,1000_QL80_.jpg' alt='Squiggle Contemporary Doodle Effect Wallpaper Playroom Boy's Bedroom  Nursery Wall Decor Monochrome Black/White Holden 13360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MVFL-PHqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle Dot Black & White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0345/7361/5236/products/SquiggleDotBlack_WhiteWallpaper.jpg?v=1661912054' alt='Squiggle Dot Black & White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEMPLE STUDIO" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0345/7361/5236/products/SquiggleDotBlack_WhiteWallpaper.jpg?v=1661912054' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,182 Black White Squiggles Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/fun-black-white-abstract-line-600nw-2235770499.jpg' alt='15,182 Black White Squiggles Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/fun-black-white-abstract-line-600nw-2235770499.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun black and white line doodle seamless pattern. Creative ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/81/18/11/1000_F_581181132_y3p2mZhHchytVSnj0wMsFzZME9Ewpfx9.jpg' alt='Fun black and white line doodle seamless pattern. Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/81/18/11/1000_F_581181132_y3p2mZhHchytVSnj0wMsFzZME9Ewpfx9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,800+ Abstract Black And White Colored Curved Lines Background ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1331291706/vector/seamless-abstract-pattern-with-curved-lines-a-maze.jpg?s=612x612&w=0&k=20&c=7J94OYKxgzRSu561m_xzjwm6fbWpPoObG_p3OOMS1oQ=' alt='15,800+ Abstract Black And White Colored Curved Lines Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1331291706/vector/seamless-abstract-pattern-with-curved-lines-a-maze.jpg?s=612x612&w=0&k=20&c=7J94OYKxgzRSu561m_xzjwm6fbWpPoObG_p3OOMS1oQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twirl">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1716286864/articles/AB0112BW03R_interior1.jpg' alt='Twirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1716286864/articles/AB0112BW03R_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,182 Black White Squiggles Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-organic-bold-lines-seamless-600nw-2292698453.jpg' alt='15,182 Black White Squiggles Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-organic-bold-lines-seamless-600nw-2292698453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle Contemporary Doodle Effect Wallpaper Playroom Boy’s Bedroom  Nursery Wall Decor Monochrome Black/White Holden 13360 - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81sD4AUyLIL.jpg' alt='Squiggle Contemporary Doodle Effect Wallpaper Playroom Boy’s Bedroom  Nursery Wall Decor Monochrome Black/White Holden 13360 - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81sD4AUyLIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Inspirational Bible Verses Wallpaper Collection</title>
+                    <meta name="description" content="Explore our curated collection of Bible verses designed as wallpaper. Perfect for daily inspiration, each verse serves as a reminder of faith and hope. Ideal for uplifting your space and spirit, discover the power of scripture in a visually stunning format.">
+                    <meta name="keywords" content="wallpaper:5p62xj5gsgg= bible verses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/wallpaper5p62xj5gsgg-bible-verses">
+                            <span itemprop="name">wallpaper:5p62xj5gsgg= bible verses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational Bible Verses Wallpaper Collection</h1>
+                <p>Discover a collection of inspiring Bible verses for your wallpaper theme "5p62xj5gsgg." These verses provide spiritual encouragement, peace, and motivation, resonating with believers and seekers alike. Transform your space with these uplifting words, reminding you of faith and strength every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Desktop Wallpapers | Christian Desktop HD-Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Lamentations-3-25-KJV-Christian-Bible-Verse-Desktop-Wallpaper-9.jpg?w=640&ssl=1' alt='Bible Verse Desktop Wallpapers | Christian Desktop HD-Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Lamentations-3-25-KJV-Christian-Bible-Verse-Desktop-Wallpaper-9.jpg?w=640&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Desktop Wallpapers | Christian Desktop HD-Backgrounds">
+                                <img itemprop="contentUrl url" src='https://top-bibleverses.com/wp-content/uploads/2021/12/Psalm-32-8-ESV-Christian-Bible-Verse-Desktop-Wallpaper-6.jpg' alt='Bible Verse Desktop Wallpapers | Christian Desktop HD-Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://top-bibleverses.com/wp-content/uploads/2021/12/Psalm-32-8-ESV-Christian-Bible-Verse-Desktop-Wallpaper-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bible verse wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/850/HD-wallpaper-2-timothy-1-7-bible-bible-verse-god-jesus.jpg' alt='HD bible verse wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/850/HD-wallpaper-2-timothy-1-7-bible-bible-verse-god-jesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/bible-verse-phone-1peb3jg5i0e0fuip.jpg' alt='100+] Bible Verse Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/bible-verse-phone-1peb3jg5i0e0fuip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 62:5 #TheMendedHeart by Suzie Eller {thank you Proverbs 31 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/c8/60/0ac8606d65b622090693da43edb35fb5.jpg' alt='Psalm 62:5 #TheMendedHeart by Suzie Eller {thank you Proverbs 31 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/c8/60/0ac8606d65b622090693da43edb35fb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bible verse wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/427/943/HD-wallpaper-courage-black-bible-bible-verse-christian-god-inspirational-sayings-spiritual-verse-thumbnail.jpg' alt='HD bible verse wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/427/943/HD-wallpaper-courage-black-bible-bible-verse-christian-god-inspirational-sayings-spiritual-verse-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Laptop Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mark-1-17-bible-verse-laptop-unczkyhenhaveido.jpg' alt='100+] Bible Verse Laptop Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mark-1-17-bible-verse-laptop-unczkyhenhaveido.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_340x270.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_340x270.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bible verses">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/43/66/af4366bf9dd27fd7363944574ad1a55f.jpg' alt='bible verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/43/66/af4366bf9dd27fd7363944574ad1a55f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

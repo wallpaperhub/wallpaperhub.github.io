@@ -1,0 +1,129 @@
+<title>Cottagecore Phone Wallpapers: Nature's Aesthetic on Your Screen</title>
+                    <meta name="description" content="Discover enchanting cottagecore phone wallpapers that capture the essence of nature and rustic charm. Elevate your mobile experience with serene designs, perfect for lovers of whimsical and cozy aesthetics. Browse our collection and bring a touch of the countryside to your device!">
+                    <meta name="keywords" content="cottage core phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cottage-core-phone-wallpaper">
+                            <span itemprop="name">cottage core phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cottagecore Phone Wallpapers: Nature's Aesthetic on Your Screen</h1>
+                <p>Embrace the cozy charm of cottagecore with beautiful phone wallpapers that bring the serene beauty of nature to your screen. Featuring soft florals, rustic landscapes, and whimsical illustrations, these wallpapers create a peaceful aesthetic, perfect for those who love the simplicity of country life. Transform your phone into a serene escape!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thank you, Love Nikki, giver of phone wallpapers    : r/cottagecore">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thank-you-love-nikki-giver-of-phone-wallpapers-v0-2lo4bkos53ua1.jpg?width=640&crop=smart&auto=webp&s=110cb4c70c8715e98ef1cb9d53b9d628056dcf0b' alt='Thank you, Love Nikki, giver of phone wallpapers    : r/cottagecore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thank-you-love-nikki-giver-of-phone-wallpapers-v0-2lo4bkos53ua1.jpg?width=640&crop=smart&auto=webp&s=110cb4c70c8715e98ef1cb9d53b9d628056dcf0b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful CottageCore Wallpaper Options For Your iPhone (with ...">
+                                <img itemprop="contentUrl url" src='https://amysadlerdesigns.com/wp-content/uploads/33.png' alt='Beautiful CottageCore Wallpaper Options For Your iPhone (with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amy Sadler Designs" />
+                                </span>
+                                <a href='https://amysadlerdesigns.com/wp-content/uploads/33.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore aesthetic \\ cottage core">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/e4/8e/a3e48e596ebef8de8081c13165f790a9.jpg' alt='Cottagecore aesthetic \\ cottage core'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/e4/8e/a3e48e596ebef8de8081c13165f790a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cottagecore Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cottagecore-phone-5pd06m1u6phsy1qm.jpg' alt='100+] Cottagecore Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cottagecore-phone-5pd06m1u6phsy1qm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made my phone a cottage core vibey wallpaper    : r/cottagecore">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6rz9uszqgdl71.jpg' alt='Made my phone a cottage core vibey wallpaper    : r/cottagecore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="2192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6rz9uszqgdl71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/ee/c3/55eec37b02203ac7a573088acbb4ceb2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/ee/c3/55eec37b02203ac7a573088acbb4ceb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Cottagecore Wallpapers for Phone - Wallpapers Clan">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/04/cute-aesthetic-cottagecore-wallpaper-1-scaled.jpg' alt='Cute Aesthetic Cottagecore Wallpapers for Phone - Wallpapers Clan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/04/cute-aesthetic-cottagecore-wallpaper-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Phone Wallpaper Outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/outfits/a9b47c6a-97c8-403a-b47d-50342e662629.jpeg' alt='Cottagecore Phone Wallpaper Outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/outfits/a9b47c6a-97c8-403a-b47d-50342e662629.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="898 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2363312875/display_1500/stock-vector-seamless-vector-pattern-with-abstract-wild-flowers-and-fairy-teapot-cute-country-style-floral-2363312875.jpg' alt='898 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2363312875/display_1500/stock-vector-seamless-vector-pattern-with-abstract-wild-flowers-and-fairy-teapot-cute-country-style-floral-2363312875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

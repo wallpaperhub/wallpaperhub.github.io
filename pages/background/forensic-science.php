@@ -1,0 +1,129 @@
+<title>Unraveling Mysteries: The Power of Forensic Science</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="forensic science">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/forensic-science">
+                            <span itemprop="name">forensic science</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling Mysteries: The Power of Forensic Science</h1>
+                <p>Forensic science blends multiple disciplines—biology, chemistry, and physics—to solve crimes and provide justice. This scientific method applies to crime scene investigation, evidence analysis, and legal proceedings. By examining everything from fingerprints to DNA, forensic experts help uncover the truth and ensure accountability in society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Forensic Science? | American Academy of Forensic Sciences">
+                                <img itemprop="contentUrl url" src='https://www.aafs.org/sites/default/files/styles/fifty_fifty/public/media/images/AdobeStock_334068669.jpeg?itok=bE5E3TCC' alt='What is Forensic Science? | American Academy of Forensic Sciences'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Academy of Forensic Sciences" />
+                                </span>
+                                <a href='https://www.aafs.org/sites/default/files/styles/fifty_fifty/public/media/images/AdobeStock_334068669.jpeg?itok=bE5E3TCC' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MS in Forensic Science | John Jay College of Criminal Justice">
+                                <img itemprop="contentUrl url" src='https://www.jjay.cuny.edu/sites/default/files/2024-06/forensic%20science%20societies%20picture.jpg' alt='MS in Forensic Science | John Jay College of Criminal Justice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Jay College - CUNY" />
+                                </span>
+                                <a href='https://www.jjay.cuny.edu/sites/default/files/2024-06/forensic%20science%20societies%20picture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Forensic Science Course | Distance Learning Centre">
+                                <img itemprop="contentUrl url" src='https://djgeqya1wekbj.cloudfront.net/product-images/600-600/Introduction-to-Forensic-Science-L3-1200x600.jpg' alt='Introduction to Forensic Science Course | Distance Learning Centre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Distance-learning-centre.co.uk" />
+                                </span>
+                                <a href='https://djgeqya1wekbj.cloudfront.net/product-images/600-600/Introduction-to-Forensic-Science-L3-1200x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Forensic Science? | American Academy of Forensic Sciences">
+                                <img itemprop="contentUrl url" src='https://www.aafs.org/sites/default/files/styles/og_image/public/media/images/Stock-Fingerprint-Forensics-AAFS.jpeg?itok=GtnUI2Om' alt='What is Forensic Science? | American Academy of Forensic Sciences'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Academy of Forensic Sciences" />
+                                </span>
+                                <a href='https://www.aafs.org/sites/default/files/styles/og_image/public/media/images/Stock-Fingerprint-Forensics-AAFS.jpeg?itok=GtnUI2Om' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's learn about forensic science">
+                                <img itemprop="contentUrl url" src='https://www.snexplores.org/wp-content/uploads/2020/05/1030_LL_Forensic_Science-1028x579.png' alt='Let's learn about forensic science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science News Explores" />
+                                </span>
+                                <a href='https://www.snexplores.org/wp-content/uploads/2020/05/1030_LL_Forensic_Science-1028x579.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breakthrough Fingerprint Analysis Transforms Forensics">
+                                <img itemprop="contentUrl url" src='https://cdn-ilbjbhl.nitrocdn.com/FyaMYitqUPNTCnovJEDCVNCvhqDiYUgo/assets/images/optimized/rev-fa1b7fc/simplyforensic.com/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-05-00.34.11-Create-a-high-resolution-landscape-oriented-image-representing-forensic-science-and-soil-analysis.-The-background-should-depict-a-forensic-laboratory.png' alt='Breakthrough Fingerprint Analysis Transforms Forensics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Forensic" />
+                                </span>
+                                <a href='https://cdn-ilbjbhl.nitrocdn.com/FyaMYitqUPNTCnovJEDCVNCvhqDiYUgo/assets/images/optimized/rev-fa1b7fc/simplyforensic.com/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-05-00.34.11-Create-a-high-resolution-landscape-oriented-image-representing-forensic-science-and-soil-analysis.-The-background-should-depict-a-forensic-laboratory.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Forensic Science & What Does a Forensic Scientists Do?">
+                                <img itemprop="contentUrl url" src='https://www.allcriminaljusticeschools.com/wp-content/uploads/2021/12/forensic-scientist-career-and-duties-750x350-min1.jpg' alt='What Is Forensic Science & What Does a Forensic Scientists Do?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Criminal Justice Schools" />
+                                </span>
+                                <a href='https://www.allcriminaljusticeschools.com/wp-content/uploads/2021/12/forensic-scientist-career-and-duties-750x350-min1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forensic Science | Tiffin University">
+                                <img itemprop="contentUrl url" src='https://www.tiffin.edu/wp-content/uploads/2022/01/forensics-lab-scaled.jpg' alt='Forensic Science | Tiffin University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiffin University" />
+                                </span>
+                                <a href='https://www.tiffin.edu/wp-content/uploads/2022/01/forensics-lab-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to Know the Different Types of Forensic Scientists - Center ...">
+                                <img itemprop="contentUrl url" src='https://forensicstats.org/wp-content/uploads/2017/11/forenisc-scientist-in-lab.jpg' alt='Get to Know the Different Types of Forensic Scientists - Center ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSAFE" />
+                                </span>
+                                <a href='https://forensicstats.org/wp-content/uploads/2017/11/forenisc-scientist-in-lab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Forensic Sciences Mentoring Institute">
+                                <img itemprop="contentUrl url" src='https://www.cfsre.org/images/stem_2.jpg' alt='The Forensic Sciences Mentoring Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Center for Forensic Science Research & Education" />
+                                </span>
+                                <a href='https://www.cfsre.org/images/stem_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

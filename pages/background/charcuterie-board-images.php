@@ -1,0 +1,129 @@
+<title>Stunning Charcuterie Board Images for Your Next Gathering</title>
+                    <meta name="description" content="Discover a collection of beautiful charcuterie board images, perfect for inspiring your next gathering. From elegant arrangements to creative themes, our selection showcases the art of charcuterie, making entertaining easy and stylish. Explore delicious ideas to impress your guests!">
+                    <meta name="keywords" content="charcuterie board images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charcuterie-board-images">
+                            <span itemprop="name">charcuterie board images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Charcuterie Board Images for Your Next Gathering</h1>
+                <p>Charcuterie board images showcase an artistic arrangement of cured meats, cheeses, fruits, and accompaniments, perfect for gatherings. These visually appealing boards invite creativity and sharing while offering a delightful tasting experience. Explore unique designs and inspiration to elevate your next culinary presentation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://tastesbetterfromscratch.com/wp-content/uploads/2021/12/Charcuterie-Board24-1-1.jpg' alt='Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tastes Better From Scratch" />
+                                </span>
+                                <a href='https://tastesbetterfromscratch.com/wp-content/uploads/2021/12/Charcuterie-Board24-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create the Perfect Summer Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://pinkowlkitchen.com/wp-content/uploads/2021/06/summer-charcuterie-board-2.jpg' alt='How to Create the Perfect Summer Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pink Owl Kitchen" />
+                                </span>
+                                <a href='https://pinkowlkitchen.com/wp-content/uploads/2021/06/summer-charcuterie-board-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://www.thecookierookie.com/wp-content/uploads/2023/08/featured-how-to-make-a-charcuterie-board-recipe.jpg' alt='How to Make a Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cookie Rookie" />
+                                </span>
+                                <a href='https://www.thecookierookie.com/wp-content/uploads/2023/08/featured-how-to-make-a-charcuterie-board-recipe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italian Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://www.modernhoney.com/wp-content/uploads/2021/11/Italian-Charcuterie-Board-4-scaled.jpg' alt='Italian Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Honey" />
+                                </span>
+                                <a href='https://www.modernhoney.com/wp-content/uploads/2021/11/Italian-Charcuterie-Board-4-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dessert Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://midwestfoodieblog.com/wp-content/uploads/2022/09/FINAL-dessert-charcuterie-1-1200x1800.jpg' alt='Dessert Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Midwest Foodie" />
+                                </span>
+                                <a href='https://midwestfoodieblog.com/wp-content/uploads/2022/09/FINAL-dessert-charcuterie-1-1200x1800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcuterie Board Recipe">
+                                <img itemprop="contentUrl url" src='https://natashaskitchen.com/wp-content/uploads/2020/12/Charcuterie-Board-1.jpg' alt='Charcuterie Board Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natasha's Kitchen" />
+                                </span>
+                                <a href='https://natashaskitchen.com/wp-content/uploads/2020/12/Charcuterie-Board-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcuterie Board Recipe">
+                                <img itemprop="contentUrl url" src='https://whiskedawaykitchen.com/wp-content/uploads/2023/12/how-to-make-a-charcuterie-board-10-scaled-225x225.jpg' alt='Charcuterie Board Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whisked Away Kitchen" />
+                                </span>
+                                <a href='https://whiskedawaykitchen.com/wp-content/uploads/2023/12/how-to-make-a-charcuterie-board-10-scaled-225x225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://www.momontimeout.com/wp-content/uploads/2019/05/best-ever-charcuterie-board.jpg' alt='Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mom On Timeout" />
+                                </span>
+                                <a href='https://www.momontimeout.com/wp-content/uploads/2019/05/best-ever-charcuterie-board.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make a Simple Charcuterie Board">
+                                <img itemprop="contentUrl url" src='https://veronikaskitchen.com/wp-content/uploads/2021/11/Charcuterie-Board-1893.jpg' alt='How to make a Simple Charcuterie Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veronika's Kitchen" />
+                                </span>
+                                <a href='https://veronikaskitchen.com/wp-content/uploads/2021/11/Charcuterie-Board-1893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Charcuterie">
+                                <img itemprop="contentUrl url" src='https://therecipecritic.com/wp-content/uploads/2022/10/fruitcharcuterieboard.jpg' alt='Fruit Charcuterie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Recipe Critic" />
+                                </span>
+                                <a href='https://therecipecritic.com/wp-content/uploads/2022/10/fruitcharcuterieboard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

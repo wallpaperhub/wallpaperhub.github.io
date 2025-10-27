@@ -1,0 +1,129 @@
+<title>Stunning Plant Backgrounds for Zoom Calls</title>
+                    <meta name="description" content="Add a touch of nature to your Zoom calls with beautiful plant backgrounds. Perfect for creating a serene and productive atmosphere, these virtual backdrops enhance your video meetings, impressing colleagues or friends. Explore our collection for the ideal green touch to your online gatherings!">
+                    <meta name="keywords" content="zoom background plants">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zoom-background-plants">
+                            <span itemprop="name">zoom background plants</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Plant Backgrounds for Zoom Calls</h1>
+                <p>Enhance your Zoom meetings with lush plant backgrounds that create a calming and refreshing atmosphere. Whether you prefer the elegance of succulents, the vibrancy of tropical foliage, or the classic appeal of leafy greens, incorporating plant-themed virtual backgrounds can elevate your video calls, impressing colleagues and friends alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New zoom background. : r/houseplants">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bpnjd6rmw5t51.jpg' alt='New zoom background. : r/houseplants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3375">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bpnjd6rmw5t51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Lush and Lavish Plant-Inspired Zoom Backgrounds — Plant Care ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a206c4bdc2b4affa2b76f82/1614574648739-QQH0SZSOS0GU9US2UVIL/image-asset.jpeg' alt='5 Lush and Lavish Plant-Inspired Zoom Backgrounds — Plant Care ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ontaweb.org" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a206c4bdc2b4affa2b76f82/1614574648739-QQH0SZSOS0GU9US2UVIL/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Background Plants Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/plant-wall-shelf-with-blank-space_53876-127001.jpg' alt='Zoom Background Plants Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/plant-wall-shelf-with-blank-space_53876-127001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plant Zoom Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3AtNDY3LXBhLTc5MzAtbW9ja3VwLmpwZw.jpg' alt='Plant Zoom Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3AtNDY3LXBhLTc5MzAtbW9ja3VwLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Zoom Background (TWO) | Potted Plant Home Office Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29642605/r/il/98e318/5040840868/il_fullxfull.5040840868_d7ev.jpg' alt='Minimalist Zoom Background (TWO) | Potted Plant Home Office Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29642605/r/il/98e318/5040840868/il_fullxfull.5040840868_d7ev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Lush and Lavish Plant-Inspired Zoom Backgrounds — Plant Care ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a206c4bdc2b4affa2b76f82/1614574796827-72GBOPQ7L52105S2T01D/L%26G_InstantPlantBackground.jpg' alt='5 Lush and Lavish Plant-Inspired Zoom Backgrounds — Plant Care ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Résidence" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a206c4bdc2b4affa2b76f82/1614574796827-72GBOPQ7L52105S2T01D/L%26G_InstantPlantBackground.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potted Flowers near green Wall Online Zoom Background Template ...">
+                                <img itemprop="contentUrl url" src='https://cdn.create.vista.com/downloads/a35266ed-585c-47be-9641-c9c78b5b3f22_1024.jpeg' alt='Potted Flowers near green Wall Online Zoom Background Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VistaCreate" />
+                                </span>
+                                <a href='https://cdn.create.vista.com/downloads/a35266ed-585c-47be-9641-c9c78b5b3f22_1024.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Refreshing Greenery: Lively Zoom Virtual Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22965585/r/il/2c2aff/4376986777/il_fullxfull.4376986777_he1k.jpg' alt='Refreshing Greenery: Lively Zoom Virtual Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22965585/r/il/2c2aff/4376986777/il_fullxfull.4376986777_he1k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indoor Plants Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/small-cacti-with-white-wall-background_53876-133169.jpg' alt='Indoor Plants Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/small-cacti-with-white-wall-background_53876-133169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is your zoom background trauma-informed? | by Jenny H Winfield ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*ENLY8e5Fa6TEHWQer0Vu_w.png' alt='Is your zoom background trauma-informed? | by Jenny H Winfield ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*ENLY8e5Fa6TEHWQer0Vu_w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

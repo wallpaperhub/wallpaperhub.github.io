@@ -1,0 +1,129 @@
+<title>Essential Guide to STA Background Checks</title>
+                    <meta name="description" content="Discover the importance of STA background checks for hiring safe and reliable candidates. Learn how comprehensive evaluations can protect your organization and enhance workplace trust. Perfect for employers seeking informed hiring decisions.">
+                    <meta name="keywords" content="sta background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sta-background-check">
+                            <span itemprop="name">sta background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to STA Background Checks</h1>
+                <p>A STA background check is essential for ensuring the safety and security of any organization. This comprehensive process involves examining an individual's criminal history, employment records, and educational qualifications. By conducting thorough background checks, companies can make informed hiring decisions, mitigate risks, and foster a trustworthy workplace environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Printable background check authorization form doc Templates ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/387/16/387016548.png' alt='18 Printable background check authorization form doc Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/387/16/387016548.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Background Checks | ClearStar">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2022/10/1_Ultimate-Guide-to-Background-Checks--300x158.png' alt='The Ultimate Guide to Background Checks | ClearStar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearStar" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2022/10/1_Ultimate-Guide-to-Background-Checks--300x158.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Printable background check authorization form doc Templates ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/394/742/394742796.png' alt='18 Printable background check authorization form doc Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/394/742/394742796.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Act 34 and Act 151 | Background Check Experience, since 19… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5778/21305331405_43dd287866_n.jpg' alt='Act 34 and Act 151 | Background Check Experience, since 19… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5778/21305331405_43dd287866_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TSA Airport Access Security Requirements - AOPA">
+                                <img itemprop="contentUrl url" src='https://www.aopa.org/-/media/Images/AOPA-Main/Advocacy/Airports-and-Airspace/security-and-borders/tsa-airport-access-security-requirements/TSAAccess2.jpg?h=457&w=600&hash=629573DD0F5C6CC192BB837DB4F9FC7D' alt='TSA Airport Access Security Requirements - AOPA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AOPA" />
+                                </span>
+                                <a href='https://www.aopa.org/-/media/Images/AOPA-Main/Advocacy/Airports-and-Airspace/security-and-borders/tsa-airport-access-security-requirements/TSAAccess2.jpg?h=457&w=600&hash=629573DD0F5C6CC192BB837DB4F9FC7D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sta Form 1 2020 Pdf Download | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/255/631/255631289.png' alt='Sta Form 1 2020 Pdf Download | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/255/631/255631289.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DPS Waives Certain Background Check Fees - Nevada Carry">
+                                <img itemprop="contentUrl url" src='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/background-checks-dps_orig.jpg' alt='DPS Waives Certain Background Check Fees - Nevada Carry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nevada Carry" />
+                                </span>
+                                <a href='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/background-checks-dps_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Sacramento Transportation Authority">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064732597855' alt='Profile for Sacramento Transportation Authority'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1950">
+                                <meta itemprop="height" content="1950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064732597855' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Background Sta Security Checkpoint Body Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/blurred-background-sta-security-checkpoint-260nw-432164875.jpg' alt='Blurred Background Sta Security Checkpoint Body Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/blurred-background-sta-security-checkpoint-260nw-432164875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your Pennsylvania State Background Check">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg' alt='How to Get Your Pennsylvania State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office Of Parviz Malakouti" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_18864df567df407f86aa6a4a26e08b70~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

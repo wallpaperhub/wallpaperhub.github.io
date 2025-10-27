@@ -1,0 +1,129 @@
+<title>Vibrant Honkai Star Rail Clara Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of beautiful Honkai Star Rail Clara wallpapers to elevate your screen's look. Perfect for fans seeking vibrant visuals, these wallpapers will showcase Clara's charm. Download your favorite design today and personalize your device with stunning art from the game!">
+                    <meta name="keywords" content="honkai star rail clara wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/honkai-star-rail-clara-wallpaper">
+                            <span itemprop="name">honkai star rail clara wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Honkai Star Rail Clara Wallpapers for Your Device</h1>
+                <p>Enhance your device's aesthetic with stunning Honkai Star Rail Clara wallpapers! Featuring Clara's captivating design and vibrant colors, these wallpapers will bring life to your screen. Whether you're a fan of this beloved character or just love immersive gaming visuals, find the perfect wallpaper that reflects your passion for Honkai Star Rail.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara (Honkai Star Rail) - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Honkai.Star.Rail.full.3936143.jpg' alt='Clara (Honkai Star Rail) - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="2144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Honkai.Star.Rail.full.3936143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara in 4K UHD - Download Honkai: Star Rail Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/132/1325472.jpeg' alt='Clara in 4K UHD - Download Honkai: Star Rail Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/132/1325472.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara (Honkai Star Rail) - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Clara.%28Honkai.Star.Rail%29.full.3945939.jpg' alt='Clara (Honkai Star Rail) - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Clara.%28Honkai.Star.Rail%29.full.3945939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara (Honkai Star Rail) - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Honkai.Star.Rail.full.3936954.jpg' alt='Clara (Honkai Star Rail) - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2293">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Honkai.Star.Rail.full.3936954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara (Honkai Star Rail) Image by Ye Lan Xing Xuan #3957254 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/43/30/c44330416b1a9726784d1c4a0241780e.jpg' alt='Clara (Honkai Star Rail) Image by Ye Lan Xing Xuan #3957254 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/43/30/c44330416b1a9726784d1c4a0241780e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View and download this 6071×4299 Clara (Honkai Star Rail) image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3e/57/f3/3e57f322027c3763c1fd70bdf705fe09.jpg' alt='View and download this 6071×4299 Clara (Honkai Star Rail) image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6071">
+                                <meta itemprop="height" content="4299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3e/57/f3/3e57f322027c3763c1fd70bdf705fe09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara (Honkai Star Rail) - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Clara.%28Honkai.Star.Rail%29.full.3882100.jpg' alt='Clara (Honkai Star Rail) - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Clara.%28Honkai.Star.Rail%29.full.3882100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Clara's Heroic Stand - Honkai: Star Rail HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/132/1325450.png' alt='Download Clara's Heroic Stand - Honkai: Star Rail HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/132/1325450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara Honkai Star Rail 4K Wallpaper iPhone HD Phone #8831k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/clara-honkai-star-rail-883@1@k-phone-4k.jpg' alt='Clara Honkai Star Rail 4K Wallpaper iPhone HD Phone #8831k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/clara-honkai-star-rail-883@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail wallpaper for mobile and PC">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper-holidays.jpg' alt='Honkai Star Rail wallpaper for mobile and PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper-holidays.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

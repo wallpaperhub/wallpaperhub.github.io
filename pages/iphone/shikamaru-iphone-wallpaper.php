@@ -1,0 +1,129 @@
+<title>Stunning Shikamaru iPhone Wallpapers: Anime Style</title>
+                    <meta name="description" content="Discover the coolest Shikamaru iPhone wallpapers! Perfect for fans of Naruto, these vibrant designs will elevate your device's look. Download now for unique anime-inspired backgrounds that showcase Shikamaru's effortless charm!">
+                    <meta name="keywords" content="shikamaru iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/shikamaru-iphone-wallpaper">
+                            <span itemprop="name">shikamaru iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shikamaru iPhone Wallpapers: Anime Style</h1>
+                <p>Enhance your device with stunning Shikamaru iPhone wallpapers! Celebrate this beloved Naruto character's laid-back genius with high-quality images showcasing his iconic look and clever personality. Perfect for fans who want to express their love for Shikamaru, these wallpapers bring a touch of anime style to your screen. Download now to personalize your iPhone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru iPhone Wallpapers - Top Free Shikamaru iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/94/a9/1794a9f814ef747af7751f23aa12909a.jpg' alt='Shikamaru iPhone Wallpapers - Top Free Shikamaru iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/94/a9/1794a9f814ef747af7751f23aa12909a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru Nara, anime, hunter x hunter, naruto, naruto shippuden ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/921/216/HD-wallpaper-shikamaru-nara-anime-hunter-x-hunter-naruto-naruto-shippuden-naruto-uzumaki-one-piece-sasuke-sky-temari.jpg' alt='Shikamaru Nara, anime, hunter x hunter, naruto, naruto shippuden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/921/216/HD-wallpaper-shikamaru-nara-anime-hunter-x-hunter-naruto-naruto-shippuden-naruto-uzumaki-one-piece-sasuke-sky-temari.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru Wallpaper Mobile : r/NarutoBlazing">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/68z7y5aieei31.png?width=1080&crop=smart&auto=webp&s=ac88cda1cad7aad8600a8f7c65eb755b3510315e' alt='Shikamaru Wallpaper Mobile : r/NarutoBlazing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/68z7y5aieei31.png?width=1080&crop=smart&auto=webp&s=ac88cda1cad7aad8600a8f7c65eb755b3510315e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/09/51/da0951da0450395990cfd2b45e678359.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/09/51/da0951da0450395990cfd2b45e678359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru Nara Wallpaper [mobile] by kawakiart on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36e7b960-557c-4983-8dc5-aac36ef028c1/dg9eyms-3e57ad07-8ae0-436a-93ec-2820b084818e.jpg/v1/fill/w_1280,h_2276,q_75,strp/shikamaru_nara_wallpaper__mobile__by_kawakiart_dg9eyms-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzM2ZTdiOTYwLTU1N2MtNDk4My04ZGM1LWFhYzM2ZWYwMjhjMVwvZGc5ZXltcy0zZTU3YWQwNy04YWUwLTQzNmEtOTNlYy0yODIwYjA4NDgxOGUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-18g9NZYfnOYJ51n8EFQtKJQhJgRp5NjNm1POizWf24' alt='Shikamaru Nara Wallpaper [mobile] by kawakiart on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36e7b960-557c-4983-8dc5-aac36ef028c1/dg9eyms-3e57ad07-8ae0-436a-93ec-2820b084818e.jpg/v1/fill/w_1280,h_2276,q_75,strp/shikamaru_nara_wallpaper__mobile__by_kawakiart_dg9eyms-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzM2ZTdiOTYwLTU1N2MtNDk4My04ZGM1LWFhYzM2ZWYwMjhjMVwvZGc5ZXltcy0zZTU3YWQwNy04YWUwLTQzNmEtOTNlYy0yODIwYjA4NDgxOGUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-18g9NZYfnOYJ51n8EFQtKJQhJgRp5NjNm1POizWf24' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Shikamaru wallpaper : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fj9mrh5bjjj11.jpg' alt='Simple Shikamaru wallpaper : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fj9mrh5bjjj11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru, naruto, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/445/1004/HD-wallpaper-shikamaru-naruto.jpg' alt='Shikamaru, naruto, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/445/1004/HD-wallpaper-shikamaru-naruto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shikamaru">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/b2/00/3db2000fa433538c56553ab344f3c78b.jpg' alt='Shikamaru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/b2/00/3db2000fa433538c56553ab344f3c78b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shikamaru wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9snDE2Ibdc/9/image.jpg' alt='shikamaru wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1153">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C9snDE2Ibdc/9/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Dream it, Do it - Shikamaru Aesthetic" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shikamaru-aesthetic-mz5xbihjdg1wsk15.jpg' alt='Download "Dream it, Do it - Shikamaru Aesthetic" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shikamaru-aesthetic-mz5xbihjdg1wsk15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

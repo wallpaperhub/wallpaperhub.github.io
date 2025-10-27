@@ -1,0 +1,129 @@
+<title>Inspiring Quote Lock Screen Wallpapers for Daily Motivation</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="quote lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/quote-lock-screen-wallpaper">
+                            <span itemprop="name">quote lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Quote Lock Screen Wallpapers for Daily Motivation</h1>
+                <p>Transform your device with inspiring quote lock screen wallpapers! These visuals not only protect your screen but also motivate you daily. Choose from a variety of quotes that resonate with your goals and aspirations. Personalize your device and let your lock screen inspire you every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positive Quote Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' alt='Positive Quote Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/cb/92/01cb9221d2eb132de070ef5643821a6a.jpg' alt='quote, wallpaper, pastel wallpaper, free wallpaper, pastel lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/cb/92/01cb9221d2eb132de070ef5643821a6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Encouraging Quote Aesthetic Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/encouraging-quote-aesthetic-lockscreen-qoc3pvjs79zyyecf.jpg' alt='Encouraging Quote Aesthetic Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/encouraging-quote-aesthetic-lockscreen-qoc3pvjs79zyyecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/ef/9b/04ef9b1112ff0492856217c11b93df8f.jpg' alt='Wallpapers - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/ef/9b/04ef9b1112ff0492856217c11b93df8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic quote, Black, lock screen, motivation, dark, minimalist ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/535/553/HD-wallpaper-aesthetic-quote-black-lock-screen-motivation-dark-minimalist-home-screen-simple-black-inspiration-quotes.jpg' alt='Aesthetic quote, Black, lock screen, motivation, dark, minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/535/553/HD-wallpaper-aesthetic-quote-black-lock-screen-motivation-dark-minimalist-home-screen-simple-black-inspiration-quotes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Quotes Cute Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/inspirational-quotes-cute-iphone-lock-screen-lb8p76slrr0t3k7n.jpg' alt='Inspirational Quotes Cute Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/inspirational-quotes-cute-iphone-lock-screen-lb8p76slrr0t3k7n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motivational quotes, attitude, funny, god, lock, phone, screen ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/18/742/HD-wallpaper-motivational-quotes-attitude-funny-god-lock-phone-screen-sign-tablet-touch-wife.jpg' alt='Motivational quotes, attitude, funny, god, lock, phone, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/18/742/HD-wallpaper-motivational-quotes-attitude-funny-god-lock-phone-screen-sign-tablet-touch-wife.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71 Lock Screen Quotes for Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/02/bc/2102bca6453059680bbb95b1b1299edf.jpg' alt='71 Lock Screen Quotes for Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/02/bc/2102bca6453059680bbb95b1b1299edf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' alt='Aesthetic Lockscreen Motivational Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-lockscreen-motivational-quote-7ul15nka5m2dkdeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mud Run Guide on X: "Just Pinned to Quotes for Mud & Fun ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/D_FX4s9WsAA2m-s.jpg' alt='Mud Run Guide on X: "Just Pinned to Quotes for Mud & Fun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/D_FX4s9WsAA2m-s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

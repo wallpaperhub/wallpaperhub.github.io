@@ -1,0 +1,129 @@
+<title>Importancia de los Antecedentes Laborales en el Empleo</title>
+                    <meta name="description" content="Descubre cómo los antecedentes laborales impactan tu búsqueda de empleo. Aprende sobre su relevancia para recruiters y cómo destacar tu experiencia en un CV efectivo. Encuentra tips para mejorar tu perfil profesional y captar la atención de posibles empleadores.">
+                    <meta name="keywords" content="antecedentes laborales">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/antecedentes-laborales">
+                            <span itemprop="name">antecedentes laborales</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Importancia de los Antecedentes Laborales en el Empleo</h1>
+                <p>Los antecedentes laborales son un conjunto de registros que reflejan la experiencia y desempeño de una persona en sus trabajos anteriores. Incluyen información sobre empleadores, cargos ocupados y duración de la experiencia laboral. Estos antecedentes son fundamentales para reclutadores y empresas al evaluar candidatos y su idoneidad para un puesto.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certificado Antecedentes Laborales y Previsionales | PDF ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/230751670/original/50571607dc/1?v=1' alt='Certificado Antecedentes Laborales y Previsionales | PDF ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/230751670/original/50571607dc/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cómo hacer una verificación de antecedentes laborales?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674399f7f9d6202ddd3c326a_How%20To%20Do%20A%20Background%20Check%20(1).webp' alt='Cómo hacer una verificación de antecedentes laborales?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5411">
+                                <meta itemprop="height" content="5411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674399f7f9d6202ddd3c326a_How%20To%20Do%20A%20Background%20Check%20(1).webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Formato Antecedentes Laborales para Ingreso | PDF">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/142664659/original/3a262e99e6/1?v=1' alt='Formato Antecedentes Laborales para Ingreso | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/142664659/original/3a262e99e6/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La clave de corroborar antecedentes laborales en la contratación ...">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-2.amazonaws.com/palenca/2023/04/Captura-de-Tela-2023-04-25-a-s-14.43.28.png' alt='La clave de corroborar antecedentes laborales en la contratación ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="996">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Palenca: Open Payroll API" />
+                                </span>
+                                <a href='https://s3-us-west-2.amazonaws.com/palenca/2023/04/Captura-de-Tela-2023-04-25-a-s-14.43.28.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verificación Antecedentes Laborales Rev 01 | PDF | Gobierno y ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/501884842/original/2891a06b4e/1?v=1' alt='Verificación Antecedentes Laborales Rev 01 | PDF | Gobierno y ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/501884842/original/2891a06b4e/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cómo hacer una verificación de antecedentes laborales?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/6721092bb444bef2db6bfb5e_AD_4nXcbIO7-puidrdzoMtwu9mqtH57-5NU9wFkO5IvKrpK183RMHGr9cGuPoqCTnUggFcXdaRZK4DpFWsGf0u13xOGeQBZ6vr_YlGIbtxn1WsQGqAWoXKkz8SkwFDV0CVOpFip0Mk2tIqcpuF2UCOpfS-8koL8.png' alt='Cómo hacer una verificación de antecedentes laborales?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/6721092bb444bef2db6bfb5e_AD_4nXcbIO7-puidrdzoMtwu9mqtH57-5NU9wFkO5IvKrpK183RMHGr9cGuPoqCTnUggFcXdaRZK4DpFWsGf0u13xOGeQBZ6vr_YlGIbtxn1WsQGqAWoXKkz8SkwFDV0CVOpFip0Mk2tIqcpuF2UCOpfS-8koL8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Importancia de las Referencias Laborales: Lo que Debes y No ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E12AQH3TICd_PXnVg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693256514097?e=2147483647&v=beta&t=zibHXdi5beSQ_2USeklJQqlA0W9HsXGjY9qxYU1Eo_0' alt='La Importancia de las Referencias Laborales: Lo que Debes y No ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E12AQH3TICd_PXnVg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693256514097?e=2147483647&v=beta&t=zibHXdi5beSQ_2USeklJQqlA0W9HsXGjY9qxYU1Eo_0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antecedentes laborales ejemplos o investigacion laboral (verificación)">
+                                <img itemprop="contentUrl url" src='https://www.rrhh-web.com/wp-content/uploads/2018/06/antecedentes-laborales-263x300.jpg' alt='Antecedentes laborales ejemplos o investigacion laboral (verificación)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recursos humanos (RRHH), empleo y gestion empresarial" />
+                                </span>
+                                <a href='https://www.rrhh-web.com/wp-content/uploads/2018/06/antecedentes-laborales-263x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Por Qué Verificar Antecedentes Laborales Es Importante ...">
+                                <img itemprop="contentUrl url" src='https://www.anticipacionycontrol.com/wp-content/uploads/2022/10/verificar-antecedentes-laborales-importancia.jpg' alt='Por Qué Verificar Antecedentes Laborales Es Importante ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anticipación y Control." />
+                                </span>
+                                <a href='https://www.anticipacionycontrol.com/wp-content/uploads/2022/10/verificar-antecedentes-laborales-importancia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 formas de realizar una investigación de antecedentes">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images_en/thumb/9/96/Do-a-Background-Check-Step-10-Version-2.jpg/v4-460px-Do-a-Background-Check-Step-10-Version-2.jpg.webp' alt='3 formas de realizar una investigación de antecedentes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images_en/thumb/9/96/Do-a-Background-Check-Step-10-Version-2.jpg/v4-460px-Do-a-Background-Check-Step-10-Version-2.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

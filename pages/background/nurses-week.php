@@ -1,0 +1,129 @@
+<title>Celebrate Nurses Week: Honoring Our Healthcare Heroes</title>
+                    <meta name="description" content="Discover how Nurses Week celebrates the invaluable contributions of nurses every year, highlighting their dedication, compassion, and influence on our health. Join us in honoring these healthcare heroes who work tirelessly to care for our communities.">
+                    <meta name="keywords" content="nurses week">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nurses-week">
+                            <span itemprop="name">nurses week</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Nurses Week: Honoring Our Healthcare Heroes</h1>
+                <p>Nurses Week is a special time dedicated to honoring the commitment and compassion of nurses nationwide. This annual celebration shines a light on their vital contributions to healthcare, recognizing the hard work and dedication they show daily. Let us appreciate these heroes who ensure our well-being and health are their top priorities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Know Me Nurse Appreciation Week Banner - Pennant Banners for  Nurses Week Party Decorations - White, 5" x 5" : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CabfQfc9L.jpg' alt='Amazon.com: Know Me Nurse Appreciation Week Banner - Pennant Banners for  Nurses Week Party Decorations - White, 5" x 5" : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CabfQfc9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating "National Nurses Week" With Gratitude For The Special ...">
+                                <img itemprop="contentUrl url" src='https://unicityhealthcare.com/wp-content/uploads/2018/04/shutterstock_1079888564-1024x671.jpg' alt='Celebrating "National Nurses Week" With Gratitude For The Special ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unicity Healthcare" />
+                                </span>
+                                <a href='https://unicityhealthcare.com/wp-content/uploads/2018/04/shutterstock_1079888564-1024x671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nurses Make a Difference: Celebrating Nurses Week 2023 | Maxim ...">
+                                <img itemprop="contentUrl url" src='https://www.maximhealthcare.com/wp-content/uploads/2023/05/YouTube-Banner-2023-01.jpg' alt='Nurses Make a Difference: Celebrating Nurses Week 2023 | Maxim ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maxim Healthcare Services" />
+                                </span>
+                                <a href='https://www.maximhealthcare.com/wp-content/uploads/2023/05/YouTube-Banner-2023-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Nurses Day - Hallmark Corporate">
+                                <img itemprop="contentUrl url" src='https://corporate.hallmark.com/wp-content/uploads/2017/10/Nursesday-410x410.jpg' alt='National Nurses Day - Hallmark Corporate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallmark Corporate" />
+                                </span>
+                                <a href='https://corporate.hallmark.com/wp-content/uploads/2017/10/Nursesday-410x410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nurses Week 2024: Recognizing our Novice Nurses | Maxim Healthcare ...">
+                                <img itemprop="contentUrl url" src='https://www.maximhealthcare.com/wp-content/uploads/2024/05/YouTube-Banner-2024-01-scaled.jpg' alt='Nurses Week 2024: Recognizing our Novice Nurses | Maxim Healthcare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maxim Healthcare" />
+                                </span>
+                                <a href='https://www.maximhealthcare.com/wp-content/uploads/2024/05/YouTube-Banner-2024-01-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Nurses Week Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1218827522/vector/thank-you-nurses-hand-lettering-text-heart-with-cardiogram-of-heartbeat-and-stethoscope.jpg?s=612x612&w=0&k=20&c=z2I67iglaSyZbLm0A8fxMItOpfahwx3hoFprwcOzY88=' alt='2,300+ Nurses Week Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1218827522/vector/thank-you-nurses-hand-lettering-text-heart-with-cardiogram-of-heartbeat-and-stethoscope.jpg?s=612x612&w=0&k=20&c=z2I67iglaSyZbLm0A8fxMItOpfahwx3hoFprwcOzY88=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nurses Week 2024: 15 Ways to Celebrate Your Difference ...">
+                                <img itemprop="contentUrl url" src='https://www.careerstaff.com/wp-content/uploads/2024/04/Nurses-Week-2024-1600-x-963-px-1200x722.png' alt='Nurses Week 2024: 15 Ways to Celebrate Your Difference ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CareerStaff" />
+                                </span>
+                                <a href='https://www.careerstaff.com/wp-content/uploads/2024/04/Nurses-Week-2024-1600-x-963-px-1200x722.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nurse Appreciation Week Card Stock Banner | Nurses Appreciation ...">
+                                <img itemprop="contentUrl url" src='https://www.swankypartybox.com/cdn/shop/products/il_fullxfull.4826586500_c2up_1024x768.jpg?v=1681754817' alt='Nurse Appreciation Week Card Stock Banner | Nurses Appreciation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Swanky Party Box" />
+                                </span>
+                                <a href='https://www.swankypartybox.com/cdn/shop/products/il_fullxfull.4826586500_c2up_1024x768.jpg?v=1681754817' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Nurses Week | Groovy Nurse | Nursing Appreciation | National Nursing  Week | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4858776196.1792/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Happy Nurses Week | Groovy Nurse | Nursing Appreciation | National Nursing  Week | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4858776196.1792/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5' x 3' 2024 Nurses Week Banner - Full-Color Personalization Available">
+                                <img itemprop="contentUrl url" src='https://www.positivepromotions.com/images/1000/OST2446.jpg' alt='5' x 3' 2024 Nurses Week Banner - Full-Color Personalization Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Positive Promotions" />
+                                </span>
+                                <a href='https://www.positivepromotions.com/images/1000/OST2446.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dazzling 4K Dinosaur Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning dinosaur 4K wallpapers that elevate your screen with breathtaking imagery. Perfect for enthusiasts and casual fans alike, these high-quality visuals bring dinosaurs to life, transforming your device into a captivating prehistoric experience. Download now for the ultimate display!">
+                    <meta name="keywords" content="dinosaur 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/dinosaur-4k-wallpaper">
+                            <span itemprop="name">dinosaur 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dazzling 4K Dinosaur Wallpapers for Your Device</h1>
+                <p>Dinosaur 4K wallpaper brings the prehistoric world to life, allowing you to immerse yourself in the vibrant landscapes and majestic creatures that once roamed the Earth. Perfect for any dinosaur enthusiast, these high-resolution images showcase diverse species in stunning detail, enhancing your device's aesthetic while sparking your imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/3/a/277852-3840x2160-desktop-4k-dinosaur-background-photo.jpg' alt='Dinosaur Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/3/a/277852-3840x2160-desktop-4k-dinosaur-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Dinosaur Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dinosaur-5s0v76gstwzrhep2.jpg' alt='500+] Dinosaur Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dinosaur-5s0v76gstwzrhep2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13017869.jpg' alt='Dinosaur Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13017869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Dinosaur 4K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/55/d5/ef55d576cca26bd8f2713b5da8a004e4.jpg' alt='Awesome Dinosaur 4K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/55/d5/ef55d576cca26bd8f2713b5da8a004e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Digital Art Cool 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dinosaur-digital-art-cool-4k-qtl9ypl90zcegwq4.jpg' alt='Dinosaur Digital Art Cool 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dinosaur-digital-art-cool-4k-qtl9ypl90zcegwq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download T-Rex, 4K, dinosaurs, Tyrannosaurus wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/2c/ce/132cceaf6dc3c2f8acd898da5ca26154.jpg' alt='Download T-Rex, 4K, dinosaurs, Tyrannosaurus wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/2c/ce/132cceaf6dc3c2f8acd898da5ca26154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper I made : r/Dinosaurs">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0wg7y7da7k021.jpg?auto=webp&s=471805254e6898c3f933468e024bf4c1f23fb173' alt='4K Wallpaper I made : r/Dinosaurs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0wg7y7da7k021.jpg?auto=webp&s=471805254e6898c3f933468e024bf4c1f23fb173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper dinosaur | Realistic Jurassic Creature — WonderMural">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-creature-jurassique-realiste_4de811a1-b8c6-4f38-a8d0-2292cc00cff5.png?v=1729258083' alt='Mural Wallpaper dinosaur | Realistic Jurassic Creature — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-creature-jurassique-realiste_4de811a1-b8c6-4f38-a8d0-2292cc00cff5.png?v=1729258083' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animal Dinosaur 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/126/1268520.jpg' alt='Download Animal Dinosaur 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4844">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/126/1268520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Carnotaurus Dinosaur Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/hd-carnotaurus-dinosaur-vlank0f4l9fxxlpe.jpg' alt='Hd Carnotaurus Dinosaur Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/hd-carnotaurus-dinosaur-vlank0f4l9fxxlpe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

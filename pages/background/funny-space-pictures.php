@@ -1,0 +1,129 @@
+<title>Funny Space Pictures: Galactic Giggles</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="funny space pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-space-pictures">
+                            <span itemprop="name">funny space pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Space Pictures: Galactic Giggles</h1>
+                <p>Get ready to blast off into laughter with our hilarious space pictures! From goofy aliens struggling with gravity to planets sporting silly expressions, these images prove that the universe has a funny side. Whether it's a quirky robot caught in a cosmic dance or a starship stuck in a traffic jam of asteroids, these amusing visuals will tickle your funny bone and ignite your imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="602,000+ Funny Space Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/898916122/photo/cat-astronaut-in-space-on-background-of-the-globe-elements-of-this-image-furnished-by-nasa.jpg?s=612x612&w=0&k=20&c=2xV100ttHx9pkrYvRitKHllaWFA18SXmVGs0x_JKLq4=' alt='602,000+ Funny Space Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/898916122/photo/cat-astronaut-in-space-on-background-of-the-globe-elements-of-this-image-furnished-by-nasa.jpg?s=612x612&w=0&k=20&c=2xV100ttHx9pkrYvRitKHllaWFA18SXmVGs0x_JKLq4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Wall Art Funny Universe Outer Space Pictures on Canvas Print  Artwork for Kids Boys Bedroom Nursery Wall Decor Framed (Astronaut - 3,  28.00" ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pBJvib0vL._AC_UF894,1000_QL80_.jpg' alt='Astronaut Wall Art Funny Universe Outer Space Pictures on Canvas Print  Artwork for Kids Boys Bedroom Nursery Wall Decor Framed (Astronaut - 3,  28.00" ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pBJvib0vL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Funny Images – Browse 113,806 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/82/33/91/360_F_482339141_NuOwPk2YDBoFQ68IDOxUWYscVwJuJXfN.jpg' alt='Astronaut Funny Images – Browse 113,806 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/82/33/91/360_F_482339141_NuOwPk2YDBoFQ68IDOxUWYscVwJuJXfN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny astronaut with beer">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/1200x857/displate/2020-03-23/9bd0e28dcbe99bdc3d23c76d76e18ca2_1b33bfd7837d2ee5749552c308aea1d4.jpg' alt='Funny astronaut with beer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/1200x857/displate/2020-03-23/9bd0e28dcbe99bdc3d23c76d76e18ca2_1b33bfd7837d2ee5749552c308aea1d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-space-lcq0wfb1fnt7s278.jpg' alt='100+] Funny Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-space-lcq0wfb1fnt7s278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Funny Images – Browse 113,806 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/38/82/27/360_F_138822780_XtT5RrGgYtzU94V1TKAcpH5c8xlIDjGb.jpg' alt='Astronaut Funny Images – Browse 113,806 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/38/82/27/360_F_138822780_XtT5RrGgYtzU94V1TKAcpH5c8xlIDjGb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="91,713 Funny Space Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/103405702/photo/an-astronaut-on-the-moon-sitting-on-a-rock-using-a-laptop.jpg?s=612x612&w=gi&k=20&c=MTtL6DgPdhKd3-59bl3BsAtC6j0KsVPsO4CIWc2pF3c=' alt='91,713 Funny Space Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/103405702/photo/an-astronaut-on-the-moon-sitting-on-a-rock-using-a-laptop.jpg?s=612x612&w=gi&k=20&c=MTtL6DgPdhKd3-59bl3BsAtC6j0KsVPsO4CIWc2pF3c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Astronaut Outer Space Astronaut Floating Space Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/astronaut-enjoying-pepperoni-pizza-floating-outer-space-surrounded-stars-nebulae-astronaut-enjoying-351405971.jpg' alt='Funny Astronaut Outer Space Astronaut Floating Space Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/astronaut-enjoying-pepperoni-pizza-floating-outer-space-surrounded-stars-nebulae-astronaut-enjoying-351405971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="602,000+ Funny Space Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/925171128/photo/dog-in-space-suit-hunts-dog-food-hunt.jpg?s=612x612&w=0&k=20&c=clIIhqizJ9LL1mU4vcbqQLlBg-AKVJEtq-LoSTNVieA=' alt='602,000+ Funny Space Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/925171128/photo/dog-in-space-suit-hunts-dog-food-hunt.jpg?s=612x612&w=0&k=20&c=clIIhqizJ9LL1mU4vcbqQLlBg-AKVJEtq-LoSTNVieA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat in Space Funny Outer Space Cat Poster Funny Wall Posters ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-nq6l4syi/images/stencil/1280x1280/products/20719/2013365/79314-1024__98376.1721535619.jpg?c=2?imbypass=on' alt='Cat in Space Funny Outer Space Cat Poster Funny Wall Posters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poster Foundry" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-nq6l4syi/images/stencil/1280x1280/products/20719/2013365/79314-1024__98376.1721535619.jpg?c=2?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

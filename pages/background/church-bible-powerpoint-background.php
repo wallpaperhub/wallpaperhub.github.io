@@ -1,0 +1,129 @@
+<title>Beautiful Bible PowerPoint Backgrounds for Churches</title>
+                    <meta name="description" content="Discover beautiful Bible PowerPoint backgrounds designed for church presentations. Perfect for sermons and worship events, these templates enhance your message and inspire your congregation. Make your presentations memorable and engaging with these stunning designs!">
+                    <meta name="keywords" content="church bible powerpoint background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/church-bible-powerpoint-background">
+                            <span itemprop="name">church bible powerpoint background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Bible PowerPoint Backgrounds for Churches</h1>
+                <p>Enhance your church presentations with stunning Bible PowerPoint backgrounds. These visually appealing templates are perfect for sermons, Bible studies, and worship events, creating a spiritual atmosphere that resonates with your congregation. Choose from a variety of designs, ensuring your message is both engaging and inspiring.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Bible PowerPoint – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1277322075767_370/slide-32.jpg' alt='ShareFaith Media » Bible PowerPoint – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1277322075767_370/slide-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Holy Bible PowerPoint Template & Presentation Slides">
+                                <img itemprop="contentUrl url" src='https://www.free-power-point-templates.com/wp-content/uploads/2010/05/the-holy-bible-powerpoint.jpg' alt='Free Holy Bible PowerPoint Template & Presentation Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://www.free-power-point-templates.com/wp-content/uploads/2010/05/the-holy-bible-powerpoint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bible PPT Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Words-Bible-PPT-Backgrounds.jpg' alt='bible PPT Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Words-Bible-PPT-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse PowerPoint Collection">
+                                <img itemprop="contentUrl url" src='https://www.envisionworship.com/cdn/shop/files/BibleWorshipPowerPointPresentationforworship.jpg?v=1693433536&width=1920' alt='Bible Verse PowerPoint Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church PowerPoints Envision Worship" />
+                                </span>
+                                <a href='https://www.envisionworship.com/cdn/shop/files/BibleWorshipPowerPointPresentationforworship.jpg?v=1693433536&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Easter Bible Church PowerPoint Template ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1266253958455_2/slide-22.jpg' alt='ShareFaith Media » Easter Bible Church PowerPoint Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1266253958455_2/slide-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Worship Background For Church | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1348076465406_276/img_mouseover3.jpg' alt='Bible Worship Background For Church | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1348076465406_276/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Bible PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/a7/ba/eca7ba0faffb1782f4c337aea6b1c8ae.jpg' alt='Free Bible PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/a7/ba/eca7ba0faffb1782f4c337aea6b1c8ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Cross Church PowerPoint Templates And PowerPoint Themes 0712">
+                                <img itemprop="contentUrl url" src='https://www.slidegeeks.com/media/catalog/product/cache/1280x720/b/i/bible_cross_church_powerpoint_templates_and_powerpoint_themes_0712_title_1.jpg' alt='Bible Cross Church PowerPoint Templates And PowerPoint Themes 0712'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideGeeks" />
+                                </span>
+                                <a href='https://www.slidegeeks.com/media/catalog/product/cache/1280x720/b/i/bible_cross_church_powerpoint_templates_and_powerpoint_themes_0712_title_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Bible PowerPoint – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1277322075767_370/slide-62.jpg' alt='ShareFaith Media » Bible PowerPoint – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1277322075767_370/slide-62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bible Powerpoint Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a8/9d/16/a89d16984a26c4936a731d053ce5e8ac.jpg' alt='The Bible Powerpoint Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a8/9d/16/a89d16984a26c4936a731d053ce5e8ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

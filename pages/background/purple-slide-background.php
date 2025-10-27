@@ -1,0 +1,129 @@
+<title>Stunning Purple Slide Backgrounds for Engaging Presentations</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="purple slide background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-slide-background">
+                            <span itemprop="name">purple slide background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Slide Backgrounds for Engaging Presentations</h1>
+                <p>Purple slide backgrounds add a vibrant touch to presentations, combining creativity with elegance. They can enhance visibility and engagement, making your content stand out. Ideal for themes such as creativity, innovation, or tranquility, the purple tone exudes professionalism and freshness, captivating your audience's attention effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Purple Background Templates">
+                                <img itemprop="contentUrl url" src='https://24slides.com/templates/assets/templates-previews/XiaI5NDJW2b3F9i0NwhPzVP6wV2f6tBrpnwPmqLr.jpg' alt='Free Purple Background Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="24Slides" />
+                                </span>
+                                <a href='https://24slides.com/templates/assets/templates-previews/XiaI5NDJW2b3F9i0NwhPzVP6wV2f6tBrpnwPmqLr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Purple Background Templates">
+                                <img itemprop="contentUrl url" src='https://24slides.com/templates/assets/templates-previews/V1Qrwn8e798EW9NPLVHS8Ph2PVhZyKHdAwRIcvWN.jpg' alt='Free Purple Background Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="24Slides" />
+                                </span>
+                                <a href='https://24slides.com/templates/assets/templates-previews/V1Qrwn8e798EW9NPLVHS8Ph2PVhZyKHdAwRIcvWN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Purple Abstract PPT Background - SlideModel">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/22238-02-purple-abstract-powerpoint-background-16x9-2-870x489.jpg' alt='Editable Purple Abstract PPT Background - SlideModel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/22238-02-purple-abstract-powerpoint-background-16x9-2-870x489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Clouds on Pastel Gradient PPT PowerPoint Background ...">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2023/05/01-9-700x394.jpg.webp' alt='Purple Clouds on Pastel Gradient PPT PowerPoint Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2023/05/01-9-700x394.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Purple PowerPoint Slide Pack – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1296452477661_392.jpg' alt='ShareFaith Media » Purple PowerPoint Slide Pack – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1296452477661_392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Memphis leaves pattern on purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/2b/0e/222b0e85ad637b591b895c64fb150c47.jpg' alt='Download premium image of Memphis leaves pattern on purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/2b/0e/222b0e85ad637b591b895c64fb150c47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papers on Purple Powerpoint Templates - Abstract, Fuchsia ...">
+                                <img itemprop="contentUrl url" src='http://www.freepptbackgrounds.net/wp-content/uploads/2016/06/Papers-on-Purple-PPT-Backgrounds-800x600.jpg' alt='Papers on Purple Powerpoint Templates - Abstract, Fuchsia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='http://www.freepptbackgrounds.net/wp-content/uploads/2016/06/Papers-on-Purple-PPT-Backgrounds-800x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Purple Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/24122357/0-pretty-purple-aesthetic-newsletter.jpg' alt='Free Purple Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/24122357/0-pretty-purple-aesthetic-newsletter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper purpule">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/56/e2/5856e27f54805ba965a4a862c4e79bd0.jpg' alt='wallpaper purpule'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/56/e2/5856e27f54805ba965a4a862c4e79bd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Purple Background Templates">
+                                <img itemprop="contentUrl url" src='https://24slides.com/templates/assets/templates-previews/5B7lArAR3YZsewy0vOginkwrb3TFUDqCdk6DaRhm.jpg' alt='Free Purple Background Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="24Slides" />
+                                </span>
+                                <a href='https://24slides.com/templates/assets/templates-previews/5B7lArAR3YZsewy0vOginkwrb3TFUDqCdk6DaRhm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

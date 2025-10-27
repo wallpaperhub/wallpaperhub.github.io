@@ -1,0 +1,129 @@
+<title>Understanding the Straight Ally Flag: A Symbol of Support</title>
+                    <meta name="description" content="Explore the meaning and significance of the straight ally flag, a powerful emblem of support for the LGBTQ+ community. Learn how this symbol promotes inclusivity and equality, and discover ways to proudly display your allyship.">
+                    <meta name="keywords" content="straight ally flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/straight-ally-flag">
+                            <span itemprop="name">straight ally flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Straight Ally Flag: A Symbol of Support</h1>
+                <p>The straight ally flag is a vibrant symbol that represents solidarity and support for the LGBTQ+ community. Featuring a combination of colors, it highlights the importance of allyship in promoting equality and acceptance. Displaying this flag signifies a commitment to breaking down barriers and fostering inclusivity for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Straight ally - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Straight_Ally_flag.svg/800px-Straight_Ally_flag.svg.png' alt='Straight ally - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Straight_Ally_flag.svg/800px-Straight_Ally_flag.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Flaglink Gay Straight Ally Flag 3x5Fts - Gay Straight Alliance  Rainbow Flags : Patio, Lawn & Garden">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51lwVd6jk5L.jpg' alt='Amazon.com : Flaglink Gay Straight Ally Flag 3x5Fts - Gay Straight Alliance  Rainbow Flags : Patio, Lawn & Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51lwVd6jk5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Flag Guide: Pride Flags and their Meanings | SFGMC">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5755e7c801dbae2c96b40f52/0d4128a7-b768-4a6a-ac6a-87b2d6c2963c/iStock-1321989927+%281%29.jpg' alt='Pride Flag Guide: Pride Flags and their Meanings | SFGMC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1936">
+                                <meta itemprop="height" content="1549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Francisco Gay Men's Chorus" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5755e7c801dbae2c96b40f52/0d4128a7-b768-4a6a-ac6a-87b2d6c2963c/iStock-1321989927+%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Straight Ally Transgender Rainbow Pride Flag Clearly Visible  Metal Information Signage 12x8in : Industrial & Scientific">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51D81XazMkL.jpg' alt='Amazon.com: Straight Ally Transgender Rainbow Pride Flag Clearly Visible  Metal Information Signage 12x8in : Industrial & Scientific'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51D81XazMkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag I made for Christian Straight Allies (aka me) : r/vexillology">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mvjdpdlz8sra1.png' alt='Flag I made for Christian Straight Allies (aka me) : r/vexillology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mvjdpdlz8sra1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Straight Ally Pride Flag (3ft X 5ft) (36in X 60in) - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49424069/r/il/538f6e/6049371907/il_fullxfull.6049371907_bxea.jpg' alt='Creative Straight Ally Pride Flag (3ft X 5ft) (36in X 60in) - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49424069/r/il/538f6e/6049371907/il_fullxfull.6049371907_bxea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3x5FT Flag Straight Ally LGBTQ Straight Alliance Gay Pride Solidarity  Rainbow">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/NzMzWDEyMjA=/z/dvoAAOSw2qNkINP1/$_57.JPG?set_id=880000500F' alt='3x5FT Flag Straight Ally LGBTQ Straight Alliance Gay Pride Solidarity  Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/NzMzWDEyMjA=/z/dvoAAOSw2qNkINP1/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Straight Ally Flag Stock Illustration - Download Image Now - Map ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1308299397/vector/straight-ally-flag.jpg?s=612x612&w=0&k=20&c=ayH5c7EypQX3tnylmMNY5d80bKkBoXHpHMqpgU4PTm8=' alt='Straight Ally Flag Stock Illustration - Download Image Now - Map ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1308299397/vector/straight-ally-flag.jpg?s=612x612&w=0&k=20&c=ayH5c7EypQX3tnylmMNY5d80bKkBoXHpHMqpgU4PTm8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lgbtq Straight Ally Flag Rights Pride Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2042213312/display_1500/stock-vector-lgbtq-straight-ally-flag-for-the-rights-of-pride-and-sexuality-allies-support-of-the-lgbtq-2042213312.jpg' alt='Lgbtq Straight Ally Flag Rights Pride Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2042213312/display_1500/stock-vector-lgbtq-straight-ally-flag-for-the-rights-of-pride-and-sexuality-allies-support-of-the-lgbtq-2042213312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In the LGBTQIA+ Community, The A is Not for Ally">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/d32e71_8bbc25c2f07b4b59ad5a7eb3c0c7a275~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d32e71_8bbc25c2f07b4b59ad5a7eb3c0c7a275~mv2.jpg' alt='In the LGBTQIA+ Community, The A is Not for Ally'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casey Anne Brimmer" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/d32e71_8bbc25c2f07b4b59ad5a7eb3c0c7a275~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d32e71_8bbc25c2f07b4b59ad5a7eb3c0c7a275~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Journey of the Three Wise Men: Gifts of Faith</title>
+                    <meta name="description" content="Discover the inspiring story of the Three Wise Men, who traveled to honor the birth of Jesus with meaningful gifts. Learn about their journey and the symbolism behind their offerings of gold, frankincense, and myrrh. Explore their impact on Christmas traditions and the timeless message of faith and wisdom.">
+                    <meta name="keywords" content="three wise men">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/three-wise-men">
+                            <span itemprop="name">three wise men</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Journey of the Three Wise Men: Gifts of Faith</h1>
+                <p>The Three Wise Men, also known as the Magi, are celebrated figures in the Nativity story of Jesus’ birth. Originating from the East, they followed a shining star to Bethlehem, bringing gifts of gold, frankincense, and myrrh. Their journey symbolizes wisdom, faith, and reverence, exemplifying the recognition of Jesus' significance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What the Three Wise Men Taught Me - Mary Geisen">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/marygeisen.com/wp-content/uploads/2013/12/Three-Kings.jpg' alt='What the Three Wise Men Taught Me - Mary Geisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mary Geisen" />
+                                </span>
+                                <a href='https://i0.wp.com/marygeisen.com/wp-content/uploads/2013/12/Three-Kings.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ISKCON News | Were the Three Wise Man from China? | ISKCON News">
+                                <img itemprop="contentUrl url" src='https://iskconnews.org/media/images/2010/12-Dec/three-wise-men.jpg' alt='ISKCON News | Were the Three Wise Man from China? | ISKCON News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ISKCON News" />
+                                </span>
+                                <a href='https://iskconnews.org/media/images/2010/12-Dec/three-wise-men.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Patient Faith of the Three Wise Men - The Latter-day Liberator">
+                                <img itemprop="contentUrl url" src='https://thelatterdayliberator.com/wp-content/uploads/2022/12/Excerpt-from-Wise-Men-Still-Seek-Him-by-Mark-Missman.jpg' alt='The Patient Faith of the Three Wise Men - The Latter-day Liberator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="898">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Latter-day Liberator" />
+                                </span>
+                                <a href='https://thelatterdayliberator.com/wp-content/uploads/2022/12/Excerpt-from-Wise-Men-Still-Seek-Him-by-Mark-Missman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Wise Men: History or Myth? | by Dwight Longenecker | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:700/1*wAYX7sb2DGwbtn7cgissNw.jpeg' alt='The Three Wise Men: History or Myth? | by Dwight Longenecker | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dwight Longenecker - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:700/1*wAYX7sb2DGwbtn7cgissNw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beneath the mystery of the Three Wise Men lies history | Crux">
+                                <img itemprop="contentUrl url" src='https://cruxnow.com/cdn-cgi/image/width=1920,quality=75/https://wp.cruxnow.com/wp-content/uploads/2021/06/magi.jpg' alt='Beneath the mystery of the Three Wise Men lies history | Crux'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crux Now" />
+                                </span>
+                                <a href='https://cruxnow.com/cdn-cgi/image/width=1920,quality=75/https://wp.cruxnow.com/wp-content/uploads/2021/06/magi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Wise Men Story For Children">
+                                <img itemprop="contentUrl url" src='https://cdn.firstcry.com/education/2022/10/31190357/Three-Wise-Men-Story-for-Kids.jpg' alt='Three Wise Men Story For Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstCry" />
+                                </span>
+                                <a href='https://cdn.firstcry.com/education/2022/10/31190357/Three-Wise-Men-Story-for-Kids.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Wise Men Free Stock Photo - Public Domain Pictures">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/150000/nahled/3-wise-men.jpg' alt='3 Wise Men Free Stock Photo - Public Domain Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/150000/nahled/3-wise-men.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biblical Magi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magi_%281%29.jpg/290px-Magi_%281%29.jpg' alt='Biblical Magi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magi_%281%29.jpg/290px-Magi_%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gifts of the three wise men still valuable today | | tctimes.com">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/d/d1/dd1066ee-fa41-11e8-9b6f-2f4353ce6871/5c0aa79e55541.image.jpg?resize=375%2C500' alt='Gifts of the three wise men still valuable today | | tctimes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tri-County Times" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/d/d1/dd1066ee-fa41-11e8-9b6f-2f4353ce6871/5c0aa79e55541.image.jpg?resize=375%2C500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Were the 3 Wise Men in the Bible?">
+                                <img itemprop="contentUrl url" src='https://www.learnreligions.com/thmb/AwAITocfN-tUPfOylF2I60hF6V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157739547-5671b4a63df78ccc15e2e3e2.jpg' alt='Who Were the 3 Wise Men in the Bible?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Religions" />
+                                </span>
+                                <a href='https://www.learnreligions.com/thmb/AwAITocfN-tUPfOylF2I60hF6V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157739547-5671b4a63df78ccc15e2e3e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

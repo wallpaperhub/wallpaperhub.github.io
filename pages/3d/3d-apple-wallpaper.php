@@ -1,0 +1,129 @@
+<title>Stunning 3D Apple Wallpaper for Your Device</title>
+                    <meta name="description" content="Elevate your device's look with captivating 3D Apple wallpaper! Explore a collection of vibrant designs that enhance your screen's appearance. Perfect for Apple enthusiasts who love style and sophistication. Download now and give your device a fresh, modern touch!">
+                    <meta name="keywords" content="3d apple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-apple-wallpaper">
+                            <span itemprop="name">3d apple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Apple Wallpaper for Your Device</h1>
+                <p>Discover the stunning world of 3D Apple wallpaper! Transform your device with high-quality, visually striking designs that showcase the essence of Apple's aesthetic. Perfect for anyone looking to personalize their screens, these wallpapers bring depth and style, making your device truly stand out. Download your favorite 3D Apple wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="apple logo 3d - Bing images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/4a/cd/6b4acdf1b90ea8bd8fd6490e3e71358c.jpg' alt='apple logo 3d - Bing images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/4a/cd/6b4acdf1b90ea8bd8fd6490e3e71358c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Iphone Black Carbon Apple Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-iphone-black-carbon-apple-logo-8c6snpmhigkos6yj.jpg' alt='3d Iphone Black Carbon Apple Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-iphone-black-carbon-apple-logo-8c6snpmhigkos6yj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Apple Iphone Logo In Glass Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/3d-apple-iphone-logo-in-glass-5qqacw2mdidgff6b.jpg' alt='3d Apple Iphone Logo In Glass Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/3d-apple-iphone-logo-in-glass-5qqacw2mdidgff6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Apple Logo wallpaper | I found some cool Apple logo wallp… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/2546/3788015968_54bfd97170_b.jpg' alt='3D Apple Logo wallpaper | I found some cool Apple logo wallp… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/2546/3788015968_54bfd97170_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="76 Apple 3D! ideas | apple logo, apple, apple wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d5/e3/b1/d5e3b11ed86026f283e679a16b637407.jpg' alt='76 Apple 3D! ideas | apple logo, apple, apple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d5/e3/b1/d5e3b11ed86026f283e679a16b637407.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vivid Apple Logo, 3d, bright icon, iphone, symbol, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/739/881/HD-wallpaper-vivid-apple-logo-3d-bright-icon-iphone-symbol.jpg' alt='Vivid Apple Logo, 3d, bright icon, iphone, symbol, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/739/881/HD-wallpaper-vivid-apple-logo-3d-bright-icon-iphone-symbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floating Black 3d Apple Iphone Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/floating-black-3d-apple-iphone-logo-yiqjwcyb1va0oc0s.jpg' alt='Floating Black 3d Apple Iphone Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/floating-black-3d-apple-iphone-logo-yiqjwcyb1va0oc0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Apple Wallpaper Hd 1080P - Colab">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/855/744/947/computers-apple-wallpaper-preview.jpg' alt='3D Apple Wallpaper Hd 1080P - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colab" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/855/744/947/computers-apple-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="76 Apple 3D! ideas | apple logo, apple, apple wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/bb/ee/fc/bbeefc98ce0cfbaa3989352098fa13eb.jpg' alt='76 Apple 3D! ideas | apple logo, apple, apple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/bb/ee/fc/bbeefc98ce0cfbaa3989352098fa13eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Apple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/3d-apple-logo-light-on-black-w60fr2hj2fdspoy2.jpg' alt='Download Apple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/3d-apple-logo-light-on-black-w60fr2hj2fdspoy2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

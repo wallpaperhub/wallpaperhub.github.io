@@ -1,0 +1,129 @@
+<title>The Joker: The Face of Chaos in Gotham</title>
+                    <meta name="description" content="Explore the enigmatic world of The Joker, DC's most infamous villain. Discover his origins, motivations, and the chaotic impact he has on Gotham and its heroes. Delve into what makes him a timeless symbol of madness and anarchy.">
+                    <meta name="keywords" content="the joker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-joker">
+                            <span itemprop="name">the joker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Joker: The Face of Chaos in Gotham</h1>
+                <p>The Joker, a complex icon from the DC Universe, embodies chaos and unpredictability. With a haunting smile and a dark backstory, he challenges moral boundaries and captivates audiences. Whether in comics or films, his influence shapes perceptions of villainy and heroism, making him an enduring symbol of anarchy and madness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker (The Dark Knight) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png' alt='Joker (The Dark Knight) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/55/Joker_%28DC_Comics_character%29_with_cards.png' alt='Joker (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/55/Joker_%28DC_Comics_character%29_with_cards.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker (2019) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMGQ1ZGZmNTAtM2MyYi00NmZhLTkwYmYtNTNlZDRhMzU2ZTgwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg' alt='Joker (2019) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMGQ1ZGZmNTAtM2MyYi00NmZhLTkwYmYtNTNlZDRhMzU2ZTgwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heath Ledger's Joker: A performance coloured by turmoil - UK ...">
+                                <img itemprop="contentUrl url" src='https://cdn.rehabfiles.com/sites/ukat/wp-content/uploads/2024/01/health-ledger-the-joker.svg' alt='Heath Ledger's Joker: A performance coloured by turmoil - UK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UK Addiction Treatment Centres" />
+                                </span>
+                                <a href='https://cdn.rehabfiles.com/sites/ukat/wp-content/uploads/2024/01/health-ledger-the-joker.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is Joaquin Phoenix's Joker “Not Really The Joker”? : r/batman">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-is-joaquin-phoenixs-joker-not-really-the-joker-v0-qba4x491zqvd1.jpeg?width=640&crop=smart&auto=webp&s=c880ed19380b5aa495ac418b253c07a0e51931ac' alt='Why Is Joaquin Phoenix's Joker “Not Really The Joker”? : r/batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-is-joaquin-phoenixs-joker-not-really-the-joker-v0-qba4x491zqvd1.jpeg?width=640&crop=smart&auto=webp&s=c880ed19380b5aa495ac418b253c07a0e51931ac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker | Batman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marvel_dc/images/5/5d/Doomsday_Clock_Vol_1_5_Textless_Variant.jpg/revision/latest?cb=20180606215837' alt='Joker | Batman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marvel_dc/images/5/5d/Doomsday_Clock_Vol_1_5_Textless_Variant.jpg/revision/latest?cb=20180606215837' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Joker | Character Level Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/character-level/images/f/fb/The_Joker_-_Comics.png/revision/latest/scale-to-width-down/284?cb=20190409143827' alt='The Joker | Character Level Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Level Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/character-level/images/f/fb/The_Joker_-_Comics.png/revision/latest/scale-to-width-down/284?cb=20190409143827' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker | Story, Movies, Actors, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/23/182823-050-4D96DE7E/Cesar-Romero-Joker-Batman-The-Movie-Leslie.jpg' alt='Joker | Story, Movies, Actors, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1269">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/23/182823-050-4D96DE7E/Cesar-Romero-Joker-Batman-The-Movie-Leslie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joker review – Joaquin Phoenix's villain has last laugh in twisted ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/fbb1974c1ebbb6bf4c4beae0bb3d9cb93901953c/80_0_2400_1440/master/2400.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ede2b27f1cea7c3be30b938195c0cc5c' alt='Joker review – Joaquin Phoenix's villain has last laugh in twisted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/fbb1974c1ebbb6bf4c4beae0bb3d9cb93901953c/80_0_2400_1440/master/2400.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ede2b27f1cea7c3be30b938195c0cc5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman, The Dark Knight The Joker Action Figure, 12-inch, 85th Anniversary  Limited Edition Collectible Kids Toys for Boys and Girls Ages 3 and Up">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71YkWN++raL._AC_UF894,1000_QL80_.jpg' alt='Batman, The Dark Knight The Joker Action Figure, 12-inch, 85th Anniversary  Limited Edition Collectible Kids Toys for Boys and Girls Ages 3 and Up'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71YkWN++raL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

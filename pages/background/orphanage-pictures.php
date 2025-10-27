@@ -1,0 +1,129 @@
+<title>Heartwarming Orphanage Pictures: A Glimpse of Hope</title>
+                    <meta name="description" content="Explore touching orphanage pictures that showcase the spirit and strength of children in need. These images tell stories of love, friendship, and the quest for family, inspiring empathy and action to support underprivileged youth. Discover the beauty of hope through these heartfelt visuals.">
+                    <meta name="keywords" content="orphanage pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orphanage-pictures">
+                            <span itemprop="name">orphanage pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartwarming Orphanage Pictures: A Glimpse of Hope</h1>
+                <p>Orphanage pictures capture the innocence and resilience of children who seek love and care. These images reflect their daily lives, highlighting joyful moments and the bonds formed within the institution. Each picture tells a story of hope, dreams, and the ongoing quest for family, reminding us of the need for compassion and support.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Mary's Orpanage Building - Preservation Alliance of Lafayette">
+                                <img itemprop="contentUrl url" src='https://preservinglafayette.org/wp-content/uploads/2020/06/Saint-Marys-Orphanage.png' alt='Saint Mary's Orpanage Building - Preservation Alliance of Lafayette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="812">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Preservation Alliance of Lafayette" />
+                                </span>
+                                <a href='https://preservinglafayette.org/wp-content/uploads/2020/06/Saint-Marys-Orphanage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why You Should Avoid Orphanages While Travelling">
+                                <img itemprop="contentUrl url" src='https://weareworldchallenge.com/wp-content/uploads/2024/01/Orphanages.jpg' alt='Why You Should Avoid Orphanages While Travelling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Challenge" />
+                                </span>
+                                <a href='https://weareworldchallenge.com/wp-content/uploads/2024/01/Orphanages.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volunteers Who Visit Orphanages Are Being Discouraged By Several ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2020/01/03/gettyimages-923739902-10_custom-9e382beba1d0a73fc6cc7d3b05f98239d34c5683.jpg' alt='Volunteers Who Visit Orphanages Are Being Discouraged By Several ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2994">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2020/01/03/gettyimages-923739902-10_custom-9e382beba1d0a73fc6cc7d3b05f98239d34c5683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside orphanage in Ukraine, young children endure war - ABC News">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/orphans-urkraine-5-abc-rc-220308_1646753501734_hpMain_16x9_1600.jpg' alt='Inside orphanage in Ukraine, young children endure war - ABC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/orphans-urkraine-5-abc-rc-220308_1646753501734_hpMain_16x9_1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic Orphanage Becomes Affordable Homes| Housing Finance Magazine">
+                                <img itemprop="contentUrl url" src='https://cdnassets.hw.net/ed/93/bbb91d0142bb907df8ae4620f824/orphanage-after.jpg' alt='Historic Orphanage Becomes Affordable Homes| Housing Finance Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Affordable Housing Finance" />
+                                </span>
+                                <a href='https://cdnassets.hw.net/ed/93/bbb91d0142bb907df8ae4620f824/orphanage-after.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover How You Can Enact Change and Help Orphanages in Africa">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/africanrelief.org/wp-content/uploads/2023/07/BWA-JULY-2023_-Kabwata-Orphan-Image-Ironisitc-scaled.jpeg?fit=2560%2C1707&ssl=1' alt='Discover How You Can Enact Change and Help Orphanages in Africa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bread and Water for Africa" />
+                                </span>
+                                <a href='https://i0.wp.com/africanrelief.org/wp-content/uploads/2023/07/BWA-JULY-2023_-Kabwata-Orphan-Image-Ironisitc-scaled.jpeg?fit=2560%2C1707&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closing African orphanages may be less heartless than it seems">
+                                <img itemprop="contentUrl url" src='https://www.economist.com/sites/default/files/images/print-edition/20170826_MAP003_0.jpg' alt='Closing African orphanages may be less heartless than it seems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Economist" />
+                                </span>
+                                <a href='https://www.economist.com/sites/default/files/images/print-edition/20170826_MAP003_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hands and the Heart of Christ Orphanage Home - Global Ministries">
+                                <img itemprop="contentUrl url" src='https://umcmission.org/wp-content/uploads/2020/10/IMG-20200716-WA0152.jpg' alt='The Hands and the Heart of Christ Orphanage Home - Global Ministries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Ministries" />
+                                </span>
+                                <a href='https://umcmission.org/wp-content/uploads/2020/10/IMG-20200716-WA0152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interstate Orphanage - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/02/Interstate_Orphanage.jpg' alt='Interstate Orphanage - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/02/Interstate_Orphanage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Europa Nostra and EIB Institute mission visits the former Prinkipo ...">
+                                <img itemprop="contentUrl url" src='https://www.europanostra.org/wp-content/uploads/2019/06/2019-05-TR-Prinkipo.jpg' alt='Europa Nostra and EIB Institute mission visits the former Prinkipo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europa Nostra" />
+                                </span>
+                                <a href='https://www.europanostra.org/wp-content/uploads/2019/06/2019-05-TR-Prinkipo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

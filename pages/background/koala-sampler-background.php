@@ -1,0 +1,129 @@
+<title>Discover the Unique Background of Koalas</title>
+                    <meta name="description" content="Explore the fascinating background of koalas, Australia's iconic marsupials. Learn about their habitat, unique diet, and conservation efforts to protect these beloved creatures. Dive into the world of koalas and uncover what makes them so special in Australia's wildlife landscape.">
+                    <meta name="keywords" content="koala sampler background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/koala-sampler-background">
+                            <span itemprop="name">koala sampler background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Unique Background of Koalas</h1>
+                <p>Koalas, iconic marsupials native to Australia, are often found in eucalyptus forests. Their unique adaptation to a leaf-based diet and slow metabolism supports their lazy, tree-dwelling lifestyle. With large, round faces and distinctive fur, they are a beloved symbol of the Australian wildlife conservation efforts that aim to protect their environments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SP404 MK2 background for iPhone 13 Pro Max : r/KoalaSampler">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sp404-mk2-background-for-iphone-13-pro-max-v0-wpb7tqznnaua1.jpg?width=640&crop=smart&auto=webp&s=d5abde996eee4d7b15a420646c3ff6bd9aa263c3' alt='SP404 MK2 background for iPhone 13 Pro Max : r/KoalaSampler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sp404-mk2-background-for-iphone-13-pro-max-v0-wpb7tqznnaua1.jpg?width=640&crop=smart&auto=webp&s=d5abde996eee4d7b15a420646c3ff6bd9aa263c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teenage Engineering KO II background for Koala Sampler : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/teenage-engineering-ko-ii-background-for-koala-sampler-v0-942qivueph6c1.jpeg?auto=webp&s=861d42b716e330569f8aaca3c27be1dad8d44cf7' alt='Teenage Engineering KO II background for Koala Sampler : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1668">
+                                <meta itemprop="height" content="2388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/teenage-engineering-ko-ii-background-for-koala-sampler-v0-942qivueph6c1.jpeg?auto=webp&s=861d42b716e330569f8aaca3c27be1dad8d44cf7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SP404 MK2 background for iPhone 13 Pro Max : r/KoalaSampler">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sp404-mk2-background-for-iphone-13-pro-max-v0-fz2dnoznnaua1.jpg?width=1080&crop=smart&auto=webp&s=4fa20561c614481983fa4bbc76040e45709a2670' alt='SP404 MK2 background for iPhone 13 Pro Max : r/KoalaSampler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sp404-mk2-background-for-iphone-13-pro-max-v0-fz2dnoznnaua1.jpg?width=1080&crop=smart&auto=webp&s=4fa20561c614481983fa4bbc76040e45709a2670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koala Background : r/KoalaSampler">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/koala-background-v0-gcr2nyn5y2td1.jpg?width=1080&crop=smart&auto=webp&s=1f8ed84ceb540b6ab186a40b7487d4373308fa81' alt='Koala Background : r/KoalaSampler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/koala-background-v0-gcr2nyn5y2td1.jpg?width=1080&crop=smart&auto=webp&s=1f8ed84ceb540b6ab186a40b7487d4373308fa81' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PO-33 Background Skin for The Koala Sampler (Free) : r/KoalaSampler">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oj96y03e80g91.jpg?width=4032&format=pjpg&auto=webp&s=9e6f7a7eba2358d5a2a572883c6a93189efebcce' alt='PO-33 Background Skin for The Koala Sampler (Free) : r/KoalaSampler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="1816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oj96y03e80g91.jpg?width=4032&format=pjpg&auto=webp&s=9e6f7a7eba2358d5a2a572883c6a93189efebcce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koala Sampler App - Page 8 - Other Gear - Elektronauts">
+                                <img itemprop="contentUrl url" src='https://eu5.dh-cdn.net/uploads/db8181/original/3X/f/1/f148775dd1d64feefc6fc73b801aea51cfd5994d.jpeg' alt='Koala Sampler App - Page 8 - Other Gear - Elektronauts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elektronauts" />
+                                </span>
+                                <a href='https://eu5.dh-cdn.net/uploads/db8181/original/3X/f/1/f148775dd1d64feefc6fc73b801aea51cfd5994d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skins for Koala Sampler — Loopy Pro Forum">
+                                <img itemprop="contentUrl url" src='https://forum.audiob.us/uploads/editor/bt/p766wp1hdba7.jpeg' alt='Skins for Koala Sampler — Loopy Pro Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loopy Pro Forum" />
+                                </span>
+                                <a href='https://forum.audiob.us/uploads/editor/bt/p766wp1hdba7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skins for Koala Sampler — Loopy Pro Forum">
+                                <img itemprop="contentUrl url" src='https://forum.audiob.us/uploads/editor/xr/4h463is53be0.jpeg' alt='Skins for Koala Sampler — Loopy Pro Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loopy Pro Forum" />
+                                </span>
+                                <a href='https://forum.audiob.us/uploads/editor/xr/4h463is53be0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koala Sampler NP Skins #2 - 4 Pack - 11" iPad – Nervousville">
+                                <img itemprop="contentUrl url" src='https://nervousville.art/cdn/shop/products/SPscreen2.jpg?v=1678818699&width=1445' alt='Koala Sampler NP Skins #2 - 4 Pack - 11" iPad – Nervousville'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nervousville" />
+                                </span>
+                                <a href='https://nervousville.art/cdn/shop/products/SPscreen2.jpg?v=1678818699&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Koala sampler : Digitakt, stickers : r/KoalaSampler">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-koala-sampler-digitakt-stickers-v0-b0ctgjasq4bd1.png?width=1080&format=png&auto=webp&s=09b5db8bd9daa20a871f9f6f58cfdc8e8164b1d2' alt='Background Koala sampler : Digitakt, stickers : r/KoalaSampler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-koala-sampler-digitakt-stickers-v0-b0ctgjasq4bd1.png?width=1080&format=png&auto=webp&s=09b5db8bd9daa20a871f9f6f58cfdc8e8164b1d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

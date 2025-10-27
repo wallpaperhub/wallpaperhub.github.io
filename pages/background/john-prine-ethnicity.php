@@ -1,0 +1,129 @@
+<title>Discovering John Prine's Ethnicity and Musical Influence</title>
+                    <meta name="description" content="Dive into the rich heritage of John Prine, the legendary singer-songwriter. Explore how his Irish ethnicity and Kentucky roots shaped his storytelling and musical style. Perfect for fans and music enthusiasts alike!">
+                    <meta name="keywords" content="john prine ethnicity">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/john-prine-ethnicity">
+                            <span itemprop="name">john prine ethnicity</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering John Prine's Ethnicity and Musical Influence</h1>
+                <p>John Prine was an iconic American singer-songwriter known for his storytelling and poignant lyrics. He was of Irish descent, which influenced much of his music. His heritage, coupled with his Kentucky roots, played a significant role in shaping his unique sound, blending folk, country, and blues, resonating with fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine">
+                                <img itemprop="contentUrl url" src='https://www.nndb.com/people/316/000370203/john-prine-3-sized.jpg' alt='John Prine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="245">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NNDB" />
+                                </span>
+                                <a href='https://www.nndb.com/people/316/000370203/john-prine-3-sized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine: His truths crossed borders and cultures with ease ...">
+                                <img itemprop="contentUrl url" src='https://www.irishtimes.com/resizer/v2/UZFKHC4PGCQEISK4W3NWER2P74.jpg?auth=fd81f3296032c4d0bc2e19c6380ca9cb50da880ecf2e0b4cb8c981f540c6ed67&smart=true&width=1600&height=1600' alt='John Prine: His truths crossed borders and cultures with ease ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Irish Times" />
+                                </span>
+                                <a href='https://www.irishtimes.com/resizer/v2/UZFKHC4PGCQEISK4W3NWER2P74.jpg?auth=fd81f3296032c4d0bc2e19c6380ca9cb50da880ecf2e0b4cb8c981f540c6ed67&smart=true&width=1600&height=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/01/John_Prine_by_Ron_Baker.jpg' alt='John Prine - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/01/John_Prine_by_Ron_Baker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine, US folk and country songwriter, dies aged 73 due to ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/f074d7fc8d931841a86792c4fc0cf34144c7aa38/0_191_2550_1530/master/2550.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b1659ad50718165d9f4e009d02f234ee' alt='John Prine, US folk and country songwriter, dies aged 73 due to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/f074d7fc8d931841a86792c4fc0cf34144c7aa38/0_191_2550_1530/master/2550.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b1659ad50718165d9f4e009d02f234ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine Tells the Stories Behind His Most Loved Songs">
+                                <img itemprop="contentUrl url" src='http://performingsongwriter.com/wp-content/uploads/2011/10/john-prine.jpg' alt='John Prine Tells the Stories Behind His Most Loved Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Performing Songwriter" />
+                                </span>
+                                <a href='http://performingsongwriter.com/wp-content/uploads/2011/10/john-prine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine, One of America's Greatest Songwriters, Dead at 73">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2020/03/john-prine-obit.jpg?w=1600&h=900&crop=1' alt='John Prine, One of America's Greatest Songwriters, Dead at 73'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2020/03/john-prine-obit.jpg?w=1600&h=900&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering John Prine — the Nashville icon who left a mark on ...">
+                                <img itemprop="contentUrl url" src='https://i.cbc.ca/1.4669813.1526674281!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/john-prine.jpg?im=Resize%3D780' alt='Remembering John Prine — the Nashville icon who left a mark on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBC" />
+                                </span>
+                                <a href='https://i.cbc.ca/1.4669813.1526674281!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/john-prine.jpg?im=Resize%3D780' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Prine_%282016%29_%28cropped%29.jpg/220px-John_Prine_%282016%29_%28cropped%29.jpg' alt='John Prine - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Prine_%282016%29_%28cropped%29.jpg/220px-John_Prine_%282016%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrated singer-songwriter John Prine has died at 73 | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/affe8eb/2147483647/strip/true/crop/3000x2044+0+0/resize/599x408!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fdeb45d8efa7a49c0b2557311713aeb50%2F3000.jpeg' alt='Celebrated singer-songwriter John Prine has died at 73 | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/affe8eb/2147483647/strip/true/crop/3000x2044+0+0/resize/599x408!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fdeb45d8efa7a49c0b2557311713aeb50%2F3000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Prine obituary | Music | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/f6fa54a403262224c0f581204b81ca3814b9923f/0_0_2020_3037/master/2020.jpg?width=445&dpr=1&s=none&crop=none' alt='John Prine obituary | Music | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/f6fa54a403262224c0f581204b81ca3814b9923f/0_0_2020_3037/master/2020.jpg?width=445&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

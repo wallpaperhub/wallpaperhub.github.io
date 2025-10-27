@@ -1,0 +1,129 @@
+<title>Vibrant Orange & Blue Peel and Stick Wallpaper for Instant Style</title>
+                    <meta name="description" content="Elevate your decor with our orange and blue peel and stick wallpaper. Easy to apply and remove, it’s perfect for renters looking to refresh their space. Discover endless design possibilities with this eye-catching wallpaper today!">
+                    <meta name="keywords" content="orange and blue peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/orange-and-blue-peel-and-stick-wallpaper">
+                            <span itemprop="name">orange and blue peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange & Blue Peel and Stick Wallpaper for Instant Style</h1>
+                <p>Transform your space with vibrant orange and blue peel and stick wallpaper! Perfect for a quick and stylish update, this wallpaper is easy to apply and remove, making it a great choice for renters or those who love change. Its bold colors and modern patterns will add a fresh feel to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18"x236" Vintage Retro Orange/Blue Flower Birds Peel and Stick Wallpaper  Easy Peel off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716CVnpqtxL._AC_UF894,1000_QL80_.jpg' alt='18"x236" Vintage Retro Orange/Blue Flower Birds Peel and Stick Wallpaper  Easy Peel off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716CVnpqtxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Blue Orange Watercolor Autumn Shapes Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20042948/r/il/df0fde/2033030784/il_fullxfull.2033030784_kjm2.jpg' alt='Removable Wallpaper Blue Orange Watercolor Autumn Shapes Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20042948/r/il/df0fde/2033030784/il_fullxfull.2033030784_kjm2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Orange Blue Coral Leaves Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20042948/r/il/2c8f65/2396482057/il_570xN.2396482057_il09.jpg' alt='Removable Wallpaper Orange Blue Coral Leaves Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20042948/r/il/2c8f65/2396482057/il_570xN.2396482057_il09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pip & Lo 30.75-sq ft Orange Vinyl Novelty Self-adhesive Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/93c84b57-3c60-4ef8-a79d-9e589dfc74b2/47696779.jpg' alt='Pip & Lo 30.75-sq ft Orange Vinyl Novelty Self-adhesive Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/93c84b57-3c60-4ef8-a79d-9e589dfc74b2/47696779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & Orange Floral Peel and Stick Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/63f4a7f637bcb6d42d4424bb08c3c52c_grande.jpg?v=1723298893' alt='Blue & Orange Floral Peel and Stick Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/63f4a7f637bcb6d42d4424bb08c3c52c_grande.jpg?v=1723298893' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 3ft x 2ft - Poppy Flower Blue and Orange ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ODXJfKqWL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 3ft x 2ft - Poppy Flower Blue and Orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ODXJfKqWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Orange Leaf Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2357">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3251813420_al7m_e4c2c94f-3c8e-4564-8ff6-8060e41f0fdc.jpg' alt='Painted Orange Leaf Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2357'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3251813420_al7m_e4c2c94f-3c8e-4564-8ff6-8060e41f0fdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Fruity Situation - Peel and Stick Wall Mural | Lime & Lou">
+                                <img itemprop="contentUrl url" src='https://cdn.limeandlou.com/digital-asset/products/a-fruity-situation-peel-and-stick-wall-mural-3.jpg' alt='A Fruity Situation - Peel and Stick Wall Mural | Lime & Lou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lime & Lou" />
+                                </span>
+                                <a href='https://cdn.limeandlou.com/digital-asset/products/a-fruity-situation-peel-and-stick-wall-mural-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Orange Floral Peel and Stick Removable Wallpaper 9824">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/dd32b478c867052d88cf1b2af546fd18_grande.jpg?v=1723298893' alt='Blue and Orange Floral Peel and Stick Removable Wallpaper 9824'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/dd32b478c867052d88cf1b2af546fd18_grande.jpg?v=1723298893' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18"x236" Vintage Retro Orange/Blue Flower Birds Peel and Stick Wallpaper  Easy Peel off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81PmvHAQ8BL._AC_UF350,350_QL80_.jpg' alt='18"x236" Vintage Retro Orange/Blue Flower Birds Peel and Stick Wallpaper  Easy Peel off Contact Paper Vintage Vinyl Self Adhesive Removable Stick on  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81PmvHAQ8BL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

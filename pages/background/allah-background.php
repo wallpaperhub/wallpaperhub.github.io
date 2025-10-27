@@ -1,0 +1,129 @@
+<title>Understanding Allah: The Essence of Islamic Belief</title>
+                    <meta name="description" content="Explore the profound significance of Allah in Islam. Delve into the attributes, cultural impact, and historical context of the concept of God, shaping the beliefs and practices of millions around the world. Gain insights into the essence of monotheism with concise and engaging content.">
+                    <meta name="keywords" content="allah background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/allah-background">
+                            <span itemprop="name">allah background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Allah: The Essence of Islamic Belief</h1>
+                <p>Allah, the Arabic term for God in Islam, represents the singular, omnipotent deity worshipped by Muslims worldwide. Rooted in monotheism, the concept of Allah encompasses attributes of mercy, compassion, and justice. The extensive cultural and historical significance of Allah has shaped Islamic theology, art, and practice, influencing millions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allah Wallpaper Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golden-islamic-religious-allah-calligraphy-eid-ramadan-background_1017-49894.jpg' alt='Allah Wallpaper Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golden-islamic-religious-allah-calligraphy-eid-ramadan-background_1017-49894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Allah, Background, Icon. Royalty-Free Vector Graphic ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/11/01/02/46/allah-7561183_1280.png' alt='Download Allah, Background, Icon. Royalty-Free Vector Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/11/01/02/46/allah-7561183_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful islamic allah background design Stock Vector Image & Art ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/ENKF1H/beautiful-islamic-allah-background-design-ENKF1H.jpg' alt='beautiful islamic allah background design Stock Vector Image & Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/ENKF1H/beautiful-islamic-allah-background-design-ENKF1H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allah iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/54/68/485468b1ea6cde266386e3e70ffa61b4.jpg' alt='allah iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/54/68/485468b1ea6cde266386e3e70ffa61b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Allah Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/allah-background-1qau2qy1gghj464v.jpg' alt='200+] Allah Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/allah-background-1qau2qy1gghj464v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden arabic allah calligraphy background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/20/20/golden-arabic-allah-calligraphy-background-vector-50802020.jpg' alt='Golden arabic allah calligraphy background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/20/20/golden-arabic-allah-calligraphy-background-vector-50802020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Golden and shiny arabic allah calligraphy background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golden-shiny-arabic-allah-calligraphy-background-with-bokeh-effect_1017-51135.jpg' alt='Free Vector | Golden and shiny arabic allah calligraphy background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golden-shiny-arabic-allah-calligraphy-background-with-bokeh-effect_1017-51135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allah Wallpaper 4K, 3D background, Dark background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/allah-3d-background-1284x2778-15119.jpg' alt='Allah Wallpaper 4K, 3D background, Dark background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/allah-3d-background-1284x2778-15119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allah Above Masjid Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/allah-above-masjid-u55hjyo41ikxeqjv.jpg' alt='Allah Above Masjid Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/allah-above-masjid-u55hjyo41ikxeqjv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so beautiful Allah name wallpaper iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/2f/29/482f29f7c8c4968a7c5f1421b21e3eee.jpg' alt='so beautiful Allah name wallpaper iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/2f/29/482f29f7c8c4968a7c5f1421b21e3eee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

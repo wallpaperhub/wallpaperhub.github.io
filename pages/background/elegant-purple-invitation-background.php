@@ -1,0 +1,129 @@
+<title>Elegant Purple Invitation Background for Special Events</title>
+                    <meta name="description" content="Explore stunning elegant purple invitation backgrounds that add a touch of sophistication to your events. Perfect for weddings, birthdays, and more, these unique designs will captivate your guests and enhance your invitations. Find the perfect backdrop to create lasting memories!">
+                    <meta name="keywords" content="elegant purple invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elegant-purple-invitation-background">
+                            <span itemprop="name">elegant purple invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Invitation Background for Special Events</h1>
+                <p>The elegant purple invitation background exudes sophistication and charm, perfect for any special occasion. The rich hue combined with delicate patterns or floral accents creates a stunning visual appeal. Whether for weddings, birthdays, or formal gatherings, this background sets the tone for an unforgettable event. Invite your guests with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22+ Dark Purple Floral Canva Wedding Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/a0/34/f8a0341a4a82ca61cb378e4f41135e2a.jpg' alt='22+ Dark Purple Floral Canva Wedding Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/a0/34/f8a0341a4a82ca61cb378e4f41135e2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh And Elegant Purple Flowers Texture European Lace Invitation ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20200623/fresh-and-elegant-purple-flowers-texture-european-lace-invitation_2815132.jpg!bwr800' alt='Fresh And Elegant Purple Flowers Texture European Lace Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20200623/fresh-and-elegant-purple-flowers-texture-european-lace-invitation_2815132.jpg!bwr800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Invitation Template Stock Illustrations – 81,057 Purple ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/elegant-purple-floral-invitation-template-sophisticated-features-white-background-adorned-abstract-top-border-331298060.jpg' alt='Purple Invitation Template Stock Illustrations – 81,057 Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/elegant-purple-floral-invitation-template-sophisticated-features-white-background-adorned-abstract-top-border-331298060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vector abstract boho wedding invitation template ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-abstract-boho-wedding-invitation-template-purple-water-lily-background-vector-banner-poster-template_852955-3246.jpg' alt='Premium Vector | Vector abstract boho wedding invitation template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-abstract-boho-wedding-invitation-template-purple-water-lily-background-vector-banner-poster-template_852955-3246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Beautiful Purple Floral And Leaves Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/e5/a2/33e5a282141c1f15303657143b6f4cf9.jpg' alt='10+ Beautiful Purple Floral And Leaves Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/e5/a2/33e5a282141c1f15303657143b6f4cf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Purple Floral and Leaves Invitations + Wedding Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/f7/65/0af76532308a8ac348285e18098559c2.jpg' alt='Royal Purple Floral and Leaves Invitations + Wedding Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/f7/65/0af76532308a8ac348285e18098559c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Arrange purple rose flower decoration and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/arrange-purple-rose-flower-decoration-abstract-background-wedding-invitation-card-template_852955-2682.jpg' alt='Premium Vector | Arrange purple rose flower decoration and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/arrange-purple-rose-flower-decoration-abstract-background-wedding-invitation-card-template_852955-2682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage invitation card with ornate elegant retro abstract floral ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EW4N0F/vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-EW4N0F.jpg' alt='Vintage invitation card with ornate elegant retro abstract floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EW4N0F/vintage-invitation-card-with-ornate-elegant-retro-abstract-floral-EW4N0F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh Literary Invitation Beautiful Purple Floral Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210711/original/pngtree-fresh-literary-invitation-beautiful-purple-floral-background-picture-image_1096217.jpg' alt='Fresh Literary Invitation Beautiful Purple Floral Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210711/original/pngtree-fresh-literary-invitation-beautiful-purple-floral-background-picture-image_1096217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Invitation Letter Fresh And Elegant Advertising Background ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20180730/purple-invitation-letter-fresh-and-elegant-advertising-background_1839057.jpg!w700wp' alt='Purple Invitation Letter Fresh And Elegant Advertising Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20180730/purple-invitation-letter-fresh-and-elegant-advertising-background_1839057.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

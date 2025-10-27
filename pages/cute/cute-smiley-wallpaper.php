@@ -1,0 +1,129 @@
+<title>Cute Smiley Wallpapers: Add Joy to Your Screen!</title>
+                    <meta name="description" content="Discover delightful cute smiley wallpapers that will brighten your day! Perfect for all ages, these cheerful designs add a touch of happiness to your device. Explore a variety of colorful options that reflect your fun personality, making your screen a joyful place to be!">
+                    <meta name="keywords" content="cute smiley wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-smiley-wallpaper">
+                            <span itemprop="name">cute smiley wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Smiley Wallpapers: Add Joy to Your Screen!</h1>
+                <p>Brighten your device with adorable smiley wallpaper! These cheerful designs bring joy and positivity to your screen, making every glance a reminder to smile. From vibrant colors to playful patterns, find the perfect wallpaper that reflects your fun personality. Transform your digital space into a happy place!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cute Smiley Face Wallpapers 1920/1080 Iphone/android Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42824747/r/il/90d86f/4872433587/il_570xN.4872433587_4dut.jpg' alt='10 Cute Smiley Face Wallpapers 1920/1080 Iphone/android Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42824747/r/il/90d86f/4872433587/il_570xN.4872433587_4dut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' alt='Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' alt='smiley face laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' alt='Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Wallpaper Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12737089/p/f/m/dXOgOnNocgaXqaiRNCMOJGm4roN7qjaqZwp6Pd1VUdcFeArF638PNFA/Retro%20Be%20Happy%20Smiles.jpg' alt='Smiley Face Wallpaper Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12737089/p/f/m/dXOgOnNocgaXqaiRNCMOJGm4roN7qjaqZwp6Pd1VUdcFeArF638PNFA/Retro%20Be%20Happy%20Smiles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Smiley Face Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/colorful-smiley-face-wallpaper-8.webp' alt='Colorful Smiley Face Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/colorful-smiley-face-wallpaper-8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/2a/d5/ec2ad550813cc42bcffd6c13420701c8.jpg' alt='smiley face wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/2a/d5/ec2ad550813cc42bcffd6c13420701c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face, yellow, anime, cara, carita, faces, feliz, smiles ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/249/1006/HD-wallpaper-smiley-face-amarillo-anime-cara-carita-faces-feliz-smiles-sonriente-yellow.jpg' alt='Smiley Face, yellow, anime, cara, carita, faces, feliz, smiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/249/1006/HD-wallpaper-smiley-face-amarillo-anime-cara-carita-faces-feliz-smiles-sonriente-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Cute Drawing Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/smiley-face-cute-drawing-uyijwm7oowkrpqun.jpg' alt='Smiley Face Cute Drawing Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/smiley-face-cute-drawing-uyijwm7oowkrpqun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Smiley Face Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/vibrant-smiley-face-wallpaper-10.webp' alt='Vibrant Smiley Face Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/vibrant-smiley-face-wallpaper-10.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

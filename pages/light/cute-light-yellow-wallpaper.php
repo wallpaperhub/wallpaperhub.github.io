@@ -1,0 +1,129 @@
+<title>Cute Light Yellow Wallpaper: Brighten Your Space!</title>
+                    <meta name="description" content="Discover charming light yellow wallpaper that brings a cheerful ambiance to any room. Ideal for creating a cozy, inviting atmosphere, this wallpaper is perfect for homes and nurseries alike. Elevate your decor with this refreshing and vibrant choice that complements various styles effortlessly.">
+                    <meta name="keywords" content="cute light yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/cute-light-yellow-wallpaper">
+                            <span itemprop="name">cute light yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Light Yellow Wallpaper: Brighten Your Space!</h1>
+                <p>Transform your space with adorable light yellow wallpaper that radiates warmth and cheerfulness. Perfect for nurseries, living rooms, or any cozy corner, this delightful hue adds a soft glow to your home while complementing various decor styles. Embrace the charm of light yellow for an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Yellow Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d2/72/fc/d272fcfc65da931f32c3770be62a1fc4.jpg' alt='40+ Yellow Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d2/72/fc/d272fcfc65da931f32c3770be62a1fc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ditsy Daisy Wallpaper in Lemon Yellow">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-DitsyDaisy_LemonYellow_ILW50499_Thumbnail_WEB_6003c06a-f7ed-4593-8279-fe56c8cdbb22.webp?crop=center&height=1024&v=1714473418&width=1024' alt='Ditsy Daisy Wallpaper in Lemon Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-DitsyDaisy_LemonYellow_ILW50499_Thumbnail_WEB_6003c06a-f7ed-4593-8279-fe56c8cdbb22.webp?crop=center&height=1024&v=1714473418&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Radiance of Light Yellow Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-yellow-o3nhak7j5h7gw7pz.jpg' alt='Download The Radiance of Light Yellow Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-yellow-o3nhak7j5h7gw7pz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow cute aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/11/bf/7011bff401a2156d575302e0e284c45d.jpg' alt='Yellow cute aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/11/bf/7011bff401a2156d575302e0e284c45d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Light Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/74/a9/fd74a98e2bda85f7d02c09ad603637cb.jpg' alt='Soft Light Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/74/a9/fd74a98e2bda85f7d02c09ad603637cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Yellow Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bright-and-warm-aesthetic-of-a-golden-yellow-sun-gjgeeh7ofd6po4fn.jpg' alt='Aesthetic Yellow Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bright-and-warm-aesthetic-of-a-golden-yellow-sun-gjgeeh7ofd6po4fn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Daisy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/95/62/af95627383b1546c6f9ff8b49adda096.jpg' alt='Yellow Daisy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/95/62/af95627383b1546c6f9ff8b49adda096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Teddy Bear Light Yellow Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-yellow-gm1vyx03hqyxxmqs.jpg' alt='Download Kawaii Teddy Bear Light Yellow Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-yellow-gm1vyx03hqyxxmqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Yellow Wallpaper Making A Bright And Beautiful Statement ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-yellow-wallpaper-making-a-bright-and-beautiful-statement-ybx6i2tta5vsg0dv.jpg' alt='Aesthetic Yellow Wallpaper Making A Bright And Beautiful Statement ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-yellow-wallpaper-making-a-bright-and-beautiful-statement-ybx6i2tta5vsg0dv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Suns Light Yellow Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/suns-light-yellow-background_78370-2954.jpg' alt='Free Vector | Suns Light Yellow Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/suns-light-yellow-background_78370-2954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

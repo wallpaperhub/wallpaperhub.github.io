@@ -1,0 +1,129 @@
+<title>Minimal iPhone Wallpapers: Simple & Stylish</title>
+                    <meta name="description" content="Explore a stunning collection of minimal iPhone wallpapers designed for a sleek and modern look. Perfect for those who appreciate simplicity, these wallpapers enhance your device's style without overwhelming it. Discover your new favorite background today!">
+                    <meta name="keywords" content="wallpaper iphone minimal">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-minimal">
+                            <span itemprop="name">wallpaper iphone minimal</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimal iPhone Wallpapers: Simple & Stylish</h1>
+                <p>Discover the perfect minimal wallpaper for your iPhone that combines elegance with simplicity. Elevate your device's aesthetic with clean lines and soothing colors. Choose from a curated collection designed to match your style while keeping distractions at bay. Refresh your screen with a touch of minimalism today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Clouds Minimalist Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/artistic-clouds-minimalist-dark-iphone-xwbqy6zbkt3hardd.jpg' alt='Artistic Clouds Minimalist Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/artistic-clouds-minimalist-dark-iphone-xwbqy6zbkt3hardd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Sunset Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/9b/02/1b9b02d97f9d5d4dd0e66a4750dfcdf8.jpg' alt='Minimalist Sunset Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/9b/02/1b9b02d97f9d5d4dd0e66a4750dfcdf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85VKv9UTBKPKNECC_bO2rG2A0Dn41yr40Jd-M7WEHNTRoOFffe2kE9xwZvFiBolvh3hrfd1QCU462Qb8P50sUAXfNJvc47VP40spn-yM0ACtqtFEdm228QjlctkvqPLTuzKg2caO7kGXbVSoa1SvfrTPGv3aExjVrhlWEsl8S5Puv0BGEo6Q0OyJO/s0/AESTHETIC-MINIMAL-SUMMER-110322@2x.png' alt='Minimalist iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85VKv9UTBKPKNECC_bO2rG2A0Dn41yr40Jd-M7WEHNTRoOFffe2kE9xwZvFiBolvh3hrfd1QCU462Qb8P50sUAXfNJvc47VP40spn-yM0ACtqtFEdm228QjlctkvqPLTuzKg2caO7kGXbVSoa1SvfrTPGv3aExjVrhlWEsl8S5Puv0BGEo6Q0OyJO/s0/AESTHETIC-MINIMAL-SUMMER-110322@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/zK6uQiRkBbCcA2UQ4PWc8ZHl8XI.png' alt='Minimalist iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Minimalist" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/zK6uQiRkBbCcA2UQ4PWc8ZHl8XI.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract iPhone Wallpaper Minimalist iPhone Wallpaper Boho Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11238208/r/il/176b92/2475187755/il_fullxfull.2475187755_bsn8.jpg' alt='Abstract iPhone Wallpaper Minimalist iPhone Wallpaper Boho Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11238208/r/il/176b92/2475187755/il_fullxfull.2475187755_bsn8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OLED MINIMALIST WALLPAPER FOR IPHONE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f7/d0/a8/f7d0a82f47b665846fe90f02f1d70ce2.jpg' alt='OLED MINIMALIST WALLPAPER FOR IPHONE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f7/d0/a8/f7d0a82f47b665846fe90f02f1d70ce2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' alt='100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Minimalist wallpaper iPhone by jorgehardt on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dfbtn8q-dd5bf33d-29ef-47a7-92b0-8b5f1c2c1a7d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyMzYzNzZmLTMwNWQtNDJkYS04ZTJkLTQ4NDU1MzYwYTA5MFwvZGZidG44cS1kZDViZjMzZC0yOWVmLTQ3YTctOTJiMC04YjVmMWMyYzFhN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZica-ts9iJ-Hj3AQ_67GeRB5fsWn3jDt4ndqIzXrUs' alt='4K Minimalist wallpaper iPhone by jorgehardt on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dfbtn8q-dd5bf33d-29ef-47a7-92b0-8b5f1c2c1a7d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyMzYzNzZmLTMwNWQtNDJkYS04ZTJkLTQ4NDU1MzYwYTA5MFwvZGZidG44cS1kZDViZjMzZC0yOWVmLTQ3YTctOTJiMC04YjVmMWMyYzFhN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZica-ts9iJ-Hj3AQ_67GeRB5fsWn3jDt4ndqIzXrUs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD Illustration Minimal Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/79725638874690032-61289157422773625.jpg' alt='Free HD Illustration Minimal Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/79725638874690032-61289157422773625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Free Minimalist Neutral iPhone Wallpapers (2023) — minimalgoods">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64e552632c5e18cbf28c973d/64e552642c5e18cbf28cb106_wallpaper22.jpg' alt='28 Free Minimalist Neutral iPhone Wallpapers (2023) — minimalgoods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="minimalgoods" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64e552632c5e18cbf28c973d/64e552642c5e18cbf28cb106_wallpaper22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

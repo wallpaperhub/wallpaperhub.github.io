@@ -1,0 +1,129 @@
+<title>Elegant Black and White Roses Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Discover the beauty of black and white roses wallpaper. Perfect for adding a chic, timeless look to any room. Shop now for stunning designs that enhance your decor effortlessly!">
+                    <meta name="keywords" content="black and white roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-roses-wallpaper">
+                            <span itemprop="name">black and white roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Roses Wallpaper for Modern Decor</h1>
+                <p>Transform your space with our stunning black and white roses wallpaper, perfect for creating a sophisticated ambiance. The elegant contrast of dark petals against a light backdrop adds a touch of timeless beauty to any room. Ideal for both modern and classic decor styles, this wallpaper brings a sense of calm and elegance to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Roses on Black Background">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/61963/white-roses-on-black-background.jpg?h=699&q=85' alt='White Roses on Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/61963/white-roses-on-black-background.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black + White Roses Seamless Digital Paper Background - Monotone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/66dd40/4949659810/il_fullxfull.4949659810_le2n.jpg' alt='Black + White Roses Seamless Digital Paper Background - Monotone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/66dd40/4949659810/il_fullxfull.4949659810_le2n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Tea Rose Wallpaper - Black & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/ME1533-Magnolia-Home-Tea-Rose-Wallpaper-York-Black.jpg?v=1571709017' alt='Magnolia Home Tea Rose Wallpaper - Black & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/ME1533-Magnolia-Home-Tea-Rose-Wallpaper-York-Black.jpg?v=1571709017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses Black and White" Poster for Sale by RIZA PEKER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/27/47/1a/27471ac31b0d9a5d8a23980436088860.jpg' alt='Roses Black and White" Poster for Sale by RIZA PEKER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/27/47/1a/27471ac31b0d9a5d8a23980436088860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="B&W roses">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/ae/af/f5aeafdda19545509d8487915a18600a.jpg' alt='B&W roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="1098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/ae/af/f5aeafdda19545509d8487915a18600a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Heritage Rose Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/black-white-heritage-rose-floral-wallpa-dmwi.jpg' alt='Black & White Heritage Rose Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/black-white-heritage-rose-floral-wallpa-dmwi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white rose 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/d4/90/7dd4904f358d973a01295a6c24fd764d.jpg' alt='Black and white rose 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/d4/90/7dd4904f358d973a01295a6c24fd764d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | A black and white floral pattern with white roses ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-white-floral-pattern-with-white-roses-leaves_44538-11517.jpg' alt='Free Vector | A black and white floral pattern with white roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-white-floral-pattern-with-white-roses-leaves_44538-11517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black And White Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1589482663277-cf24013e21d9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJvc2V8ZW58MHx8MHx8fDA%3D' alt='1000+ Black And White Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1589482663277-cf24013e21d9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJvc2V8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Roses on Black Background – popular wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/61963/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='White Roses on Black Background – popular wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/61963/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

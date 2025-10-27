@@ -1,0 +1,129 @@
+<title>Explore the Legacy of Jack Daniel's Whiskey</title>
+                    <meta name="description" content="Delve into the rich history of Jack Daniel's whiskey, founded in 1866. Discover how this iconic brand has evolved into a global symbol of quality and craftsmanship, featuring its unique production methods and lasting impact on the liquor industry.">
+                    <meta name="keywords" content="jack daniels history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jack-daniels-history">
+                            <span itemprop="name">jack daniels history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Legacy of Jack Daniel's Whiskey</h1>
+                <p>Jack Daniel's history dates back to 1866 when Jasper Newton "Jack" Daniel established his distillery in Lynchburg, Tennessee. It is renowned for its distinctive sour mash whiskey and unique charcoal filtering process known as the Lincoln County Process. Over the decades, Jack Daniel's has become a global icon synonymous with quality and tradition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Secret History of the Slave Behind Jack Daniel's Whiskey ...">
+                                <img itemprop="contentUrl url" src='https://gastropod.com/wp-content/uploads/2019/01/Jack-Daniels.jpg' alt='The Secret History of the Slave Behind Jack Daniel's Whiskey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gastropod" />
+                                </span>
+                                <a href='https://gastropod.com/wp-content/uploads/2019/01/Jack-Daniels.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniel's - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jack-Daniels-1908-ad.jpg/170px-Jack-Daniels-1908-ad.jpg' alt='Jack Daniel's - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jack-Daniels-1908-ad.jpg/170px-Jack-Daniels-1908-ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniels Bonded Series – The Whisky Stock">
+                                <img itemprop="contentUrl url" src='https://thewhiskystock.com/cdn/shop/files/jack-daniels-whiskey-history_700x.jpg?v=1710851370' alt='Jack Daniels Bonded Series – The Whisky Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Whisky Stock" />
+                                </span>
+                                <a href='https://thewhiskystock.com/cdn/shop/files/jack-daniels-whiskey-history_700x.jpg?v=1710851370' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniel - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/92/Jackdaniel.jpg' alt='Jack Daniel - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/92/Jackdaniel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniels Recipe Created by Former Slave - Valdosta Today">
+                                <img itemprop="contentUrl url" src='https://valdostatoday.com/wp-content/uploads/828E0AD0-5038-49D3-A952-5923FBC3E980.jpeg' alt='Jack Daniels Recipe Created by Former Slave - Valdosta Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valdosta Today" />
+                                </span>
+                                <a href='https://valdostatoday.com/wp-content/uploads/828E0AD0-5038-49D3-A952-5923FBC3E980.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniel's Whiskey History Revised - Men's Journal">
+                                <img itemprop="contentUrl url" src='https://www.mensjournal.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM2NDI4MTYwNzU1MjA1/jack-daniels-tennessee-whiskey-4736fad6-94cc-49f8-b6a1-17f3a26c3822.jpg' alt='Jack Daniel's Whiskey History Revised - Men's Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Journal" />
+                                </span>
+                                <a href='https://www.mensjournal.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM2NDI4MTYwNzU1MjA1/jack-daniels-tennessee-whiskey-4736fad6-94cc-49f8-b6a1-17f3a26c3822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Daniels Logo Design – History, Meaning and Evolution | Turbologo">
+                                <img itemprop="contentUrl url" src='https://assets.turbologo.com/blog/en/2020/02/19084639/Jack-Daniels-history.png' alt='Jack Daniels Logo Design – History, Meaning and Evolution | Turbologo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turbologo" />
+                                </span>
+                                <a href='https://assets.turbologo.com/blog/en/2020/02/19084639/Jack-Daniels-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Enslaved Man Who Taught Jack Daniel To Make Whiskey «">
+                                <img itemprop="contentUrl url" src='http://sporkful.s3.amazonaws.com/uploads/2020/10/02181851/JackwCrew_George-Green-on-right-of-Jack-1000x664.jpg' alt='The Enslaved Man Who Taught Jack Daniel To Make Whiskey «'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sporkful" />
+                                </span>
+                                <a href='http://sporkful.s3.amazonaws.com/uploads/2020/10/02181851/JackwCrew_George-Green-on-right-of-Jack-1000x664.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Don't Know Jack Daniel | Modern Drunkard Magazine">
+                                <img itemprop="contentUrl url" src='https://drunkard.com/wp-content/uploads/2005/03/jack-daniels.png' alt='You Don't Know Jack Daniel | Modern Drunkard Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1773">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Drunkard Magazine" />
+                                </span>
+                                <a href='https://drunkard.com/wp-content/uploads/2005/03/jack-daniels.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Slave was behind Jack Daniel's Recipe / SamePassage">
+                                <img itemprop="contentUrl url" src='https://samepassage.org/wp-content/uploads/jack_daniels_main.jpg' alt='A Slave was behind Jack Daniel's Recipe / SamePassage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SamePassage" />
+                                </span>
+                                <a href='https://samepassage.org/wp-content/uploads/jack_daniels_main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

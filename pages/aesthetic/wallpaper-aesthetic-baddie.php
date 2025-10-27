@@ -1,0 +1,129 @@
+<title>Edgy Wallpaper Aesthetic for Baddies: Transform Your Space</title>
+                    <meta name="description" content="Elevate your decor with trendsetting wallpaper aesthetic baddie designs! Explore bold patterns and colors that express confidence and style, perfect for making a statement at home. Discover how to reflect your unique personality through stunning wallpaper choices.">
+                    <meta name="keywords" content="wallpaper aesthetic baddie">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-aesthetic-baddie">
+                            <span itemprop="name">wallpaper aesthetic baddie</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy Wallpaper Aesthetic for Baddies: Transform Your Space</h1>
+                <p>Discover the bold and vibrant world of wallpaper aesthetic baddie! Transform your space with edgy designs that reflect confidence and attitude. From dark florals to neon graphics, these wallpapers create an empowering vibe, perfect for baddies who want their personality to shine. Level up your decor and embrace your inner baddie!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Baddie Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baddie-aesthetic-ehkwotn3x0sr94b8.jpg' alt='200+] Baddie Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baddie-aesthetic-ehkwotn3x0sr94b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Baddie Aesthetic Wallpapers - Wallpaper Cave 237">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b4/f6/68/b4f668a0babc06f56b292f4a88d83a3e.jpg' alt='Pink Baddie Aesthetic Wallpapers - Wallpaper Cave 237'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b4/f6/68/b4f668a0babc06f56b292f4a88d83a3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Baddie Pfp Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-baddie-pfp-dj4477ftt8kozyq1.jpg' alt='Aesthetic Baddie Pfp Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-baddie-pfp-dj4477ftt8kozyq1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic ✨✨ - - - - - wallpapers? - #art #baddie #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2285361185790776094' alt='Aesthetic ✨✨ - - - - - wallpapers? - #art #baddie #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2285361185790776094' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic baddie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' alt='Aesthetic baddie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨️Red Baddie Aesthetic Wallpaper ✨️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/c6/dc/58c6dc3a7863a2bfaa6a3d7895f7257b.jpg' alt='✨️Red Baddie Aesthetic Wallpaper ✨️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/c6/dc/58c6dc3a7863a2bfaa6a3d7895f7257b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Pink Wallpapers - Wallpaper Cave E8B">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dd/0a/ee/dd0aee77130f5e691370eb3f8fed4bcb.jpg' alt='Baddie Pink Wallpapers - Wallpaper Cave E8B'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dd/0a/ee/dd0aee77130f5e691370eb3f8fed4bcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Baddie Red Neon Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-baddie-red-neon-lights-zd471hsakn844fvi.jpg' alt='Iphone Baddie Red Neon Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-baddie-red-neon-lights-zd471hsakn844fvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trippy Aesthetic Baddie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/trippy-aesthetic-baddie-soai4s1ktieeokzc.jpg' alt='100+] Trippy Aesthetic Baddie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/trippy-aesthetic-baddie-soai4s1ktieeokzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD baddies wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie-thumbnail.jpg' alt='HD baddies wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

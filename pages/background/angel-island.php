@@ -1,0 +1,129 @@
+<title>Explore Angel Island: Nature & History in San Francisco Bay</title>
+                    <meta name="description" content="Discover Angel Island, a gem in San Francisco Bay. Enjoy breathtaking views, hiking trails, and a rich history as California's immigration station. Perfect for nature lovers and history buffs alike, Angel Island offers a unique outdoor experience just a ferry ride away.">
+                    <meta name="keywords" content="angel island">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/angel-island">
+                            <span itemprop="name">angel island</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Angel Island: Nature & History in San Francisco Bay</h1>
+                <p>Angel Island, located in San Francisco Bay, is often called the "Ellis Island of the West," serving as an immigration station from 1910 to 1940. Today, it offers beautiful hiking trails, stunning views of the bay, and rich historical significance. Visitors can explore its diverse ecosystems and learn about its storied past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island (California) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/30/Angel_Island_%28California%29.jpg' alt='Angel Island (California) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5464">
+                                <meta itemprop="height" content="3070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/30/Angel_Island_%28California%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island State Park">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f89c2919e6d8e7bb4d21508/1614727049009-J9C6LFK2LF9ZX38D29Q9/Screen+Shot+2021-03-02+at+3.16.52+PM.png?format=2500w' alt='Angel Island State Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2096">
+                                <meta itemprop="height" content="1614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California State Parks - CA.gov" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f89c2919e6d8e7bb4d21508/1614727049009-J9C6LFK2LF9ZX38D29Q9/Screen+Shot+2021-03-02+at+3.16.52+PM.png?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review of Angel Island | Tiburon, California, North America - AFAR">
+                                <img itemprop="contentUrl url" src='https://afar.brightspotcdn.com/dims4/default/00d07b3/2147483647/strip/true/crop/800x400+0+50/resize/1440x720!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe4%2F12%2Ff2ea1eea3626ee6f9987010147ac%2Foriginal-3107296f7983c242c752be3b132f7682.jpg' alt='Review of Angel Island | Tiburon, California, North America - AFAR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.afar.com" />
+                                </span>
+                                <a href='https://afar.brightspotcdn.com/dims4/default/00d07b3/2147483647/strip/true/crop/800x400+0+50/resize/1440x720!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe4%2F12%2Ff2ea1eea3626ee6f9987010147ac%2Foriginal-3107296f7983c242c752be3b132f7682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island - Marin Magazine">
+                                <img itemprop="contentUrl url" src='https://marinmagazine.com/wp-content/uploads/data-import/04c5afbb/Hill-Angel20Island204-15f800px.jpg' alt='Angel Island - Marin Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marin Magazine" />
+                                </span>
+                                <a href='https://marinmagazine.com/wp-content/uploads/data-import/04c5afbb/Hill-Angel20Island204-15f800px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural History « Angel Island Conservancy">
+                                <img itemprop="contentUrl url" src='http://angelisland.org/wp-content/uploads/2010/04/Aerial-of-Island1.jpg' alt='Natural History « Angel Island Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1026">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angel Island Conservancy" />
+                                </span>
+                                <a href='http://angelisland.org/wp-content/uploads/2010/04/Aerial-of-Island1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island State Park - All You Need to Know BEFORE You Go (2025)">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7b/38/9e/views-from-the-top-of.jpg?w=1200&h=1200&s=1' alt='Angel Island State Park - All You Need to Know BEFORE You Go (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7b/38/9e/views-from-the-top-of.jpg?w=1200&h=1200&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History « Angel Island Conservancy">
+                                <img itemprop="contentUrl url" src='http://angelisland.org/wp-content/uploads/2008/06/001.jpg' alt='History « Angel Island Conservancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5282">
+                                <meta itemprop="height" content="3543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angel Island Conservancy" />
+                                </span>
+                                <a href='http://angelisland.org/wp-content/uploads/2008/06/001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island • SF Bay Adventures">
+                                <img itemprop="contentUrl url" src='https://sfbayadventures.com/wp-content/uploads/2019/08/Private_Event.jpg' alt='Angel Island • SF Bay Adventures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SF Bay Adventures" />
+                                </span>
+                                <a href='https://sfbayadventures.com/wp-content/uploads/2019/08/Private_Event.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island Immigration Station | History & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/89/194489-050-134D0646/Angel-Island-Immigration-Station.jpg' alt='Angel Island Immigration Station | History & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/89/194489-050-134D0646/Angel-Island-Immigration-Station.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Island | The Center for Land Use Interpretation">
+                                <img itemprop="contentUrl url" src='https://clui-files.s3.us-east-2.amazonaws.com/s3fs-public/ludb/ca/4808/72_angel_island.jpg' alt='Angel Island | The Center for Land Use Interpretation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Center for Land Use Interpretation" />
+                                </span>
+                                <a href='https://clui-files.s3.us-east-2.amazonaws.com/s3fs-public/ludb/ca/4808/72_angel_island.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

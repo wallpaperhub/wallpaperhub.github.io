@@ -1,0 +1,129 @@
+<title>Stay Inspired with "Our Flag Means Death" Phone Wallpapers</title>
+                    <meta name="description" content="Discover unique "Our Flag Means Death" phone wallpapers to personalize your device. Perfect for fans, these stunning designs celebrate the show's spirit. Download now for a fresh look that reflects your love for the adventure and humor of the series!">
+                    <meta name="keywords" content="our flag means death phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/our-flag-means-death-phone-wallpaper">
+                            <span itemprop="name">our flag means death phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Inspired with "Our Flag Means Death" Phone Wallpapers</h1>
+                <p>Elevate your smartphone with stunning "Our Flag Means Death" phone wallpapers that capture the essence of the show. Featuring unique designs and characters, these wallpapers bring a touch of pirate adventure to your device. Perfect for fans wanting to showcase their love for the series. Download now and personalize your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some OFMD phone wallpapers if anyone's still into that kind ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/985bf8c705985f3007382b1baae73641/307e57ae9517faf4-23/s1280x1920/7ef0970114f47df1381bb90c20c3cd8c20717d0d.jpg' alt='made some OFMD phone wallpapers if anyone's still into that kind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/985bf8c705985f3007382b1baae73641/307e57ae9517faf4-23/s1280x1920/7ef0970114f47df1381bb90c20c3cd8c20717d0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some OFMD phone wallpapers if anyone's still into that kind ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9ec7e9dc143331c42821942d59385392/307e57ae9517faf4-a6/s1280x1920/8ff6437b1b57ab8737633a11b910dff0eee7c5c3.jpg' alt='made some OFMD phone wallpapers if anyone's still into that kind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9ec7e9dc143331c42821942d59385392/307e57ae9517faf4-a6/s1280x1920/8ff6437b1b57ab8737633a11b910dff0eee7c5c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 OFMD ‍☠️ ideas | us flag, flag, blackbeard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/07/92/690792c2599da5dd9a30afb4707b7701.jpg' alt='100 OFMD ‍☠️ ideas | us flag, flag, blackbeard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/07/92/690792c2599da5dd9a30afb4707b7701.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Season 2 Poster wallpaper/lockscreen : r/OurFlagMeansDeath">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/season-2-poster-wallpaper-lockscreen-v0-_lR6Yb-3PmhHy_i84gRm-g2tI83FsVdXQEN4gWFuB-w.png?auto=webp&s=40d4b881c50687a4090e0bc684417f4ef4f9992d' alt='Season 2 Poster wallpaper/lockscreen : r/OurFlagMeansDeath'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="5418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/season-2-poster-wallpaper-lockscreen-v0-_lR6Yb-3PmhHy_i84gRm-g2tI83FsVdXQEN4gWFuB-w.png?auto=webp&s=40d4b881c50687a4090e0bc684417f4ef4f9992d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some OFMD phone wallpapers if anyone's still into that kind ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/abc8436cd7098414ab1a3ee84d4ef16c/307e57ae9517faf4-94/s1280x1920/4f648c3727ca6cd894bbf174a40e7fb7018cf7ad.jpg' alt='made some OFMD phone wallpapers if anyone's still into that kind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/abc8436cd7098414ab1a3ee84d4ef16c/307e57ae9517faf4-94/s1280x1920/4f648c3727ca6cd894bbf174a40e7fb7018cf7ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed and Stede/Ed Phone Backgrounds (NO spoilers - made from S1 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ed-and-stede-ed-phone-backgrounds-no-spoilers-made-from-s1-v0-g7zxqzcv21ub1.jpg?width=640&crop=smart&auto=webp&s=d09fa1689d52cb09efe4a3120630ef5e1f840264' alt='Ed and Stede/Ed Phone Backgrounds (NO spoilers - made from S1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ed-and-stede-ed-phone-backgrounds-no-spoilers-made-from-s1-v0-g7zxqzcv21ub1.jpg?width=640&crop=smart&auto=webp&s=d09fa1689d52cb09efe4a3120630ef5e1f840264' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="you have a kinder heart — made some OFMD phone wallpapers if ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/0f576bab8150339f78d70addd65a0036/307e57ae9517faf4-12/s1280x1920/efbc90bec8168fe7a6f4443cb70e17156a70e014.jpg' alt='you have a kinder heart — made some OFMD phone wallpapers if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@theshiningbeacon on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/0f576bab8150339f78d70addd65a0036/307e57ae9517faf4-12/s1280x1920/efbc90bec8168fe7a6f4443cb70e17156a70e014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed and Stede/Ed Phone Backgrounds (NO spoilers - made from S1 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ed-and-stede-ed-phone-backgrounds-no-spoilers-made-from-s1-v0-zzppehcv21ub1.jpg?width=1000&format=pjpg&auto=webp&s=bd63b8fc91f4faa0b45970223019770fac54e1bf' alt='Ed and Stede/Ed Phone Backgrounds (NO spoilers - made from S1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ed-and-stede-ed-phone-backgrounds-no-spoilers-made-from-s1-v0-zzppehcv21ub1.jpg?width=1000&format=pjpg&auto=webp&s=bd63b8fc91f4faa0b45970223019770fac54e1bf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Flag Means Death Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13129378/p/f/l/WjTW1leujFyjY9a2gaZbBfssTWdKvsfr5jnvrEqc5XIrLCYYhRIDeF2zOA/Our%20Flag%20Means%20Death.jpg' alt='Our Flag Means Death Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13129378/p/f/l/WjTW1leujFyjY9a2gaZbBfssTWdKvsfr5jnvrEqc5XIrLCYYhRIDeF2zOA/Our%20Flag%20Means%20Death.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="you have a kinder heart — made some OFMD phone wallpapers if ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2938bf636e186091cb76154848fbbe7c/307e57ae9517faf4-61/s1280x1920/82a9416844701d1f1e156738fdc8d5a9a3a8ee12.jpg' alt='you have a kinder heart — made some OFMD phone wallpapers if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@theshiningbeacon on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2938bf636e186091cb76154848fbbe7c/307e57ae9517faf4-61/s1280x1920/82a9416844701d1f1e156738fdc8d5a9a3a8ee12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

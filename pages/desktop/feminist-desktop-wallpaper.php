@@ -1,0 +1,129 @@
+<title>Empowering Feminist Desktop Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover powerful feminist desktop wallpapers that inspire and advocate for gender equality. Perfect for personalizing your workspace, these designs feature uplifting quotes and striking imagery, making a bold statement about women's rights. Elevate your screen and promote awareness today!">
+                    <meta name="keywords" content="feminist desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/feminist-desktop-wallpaper">
+                            <span itemprop="name">feminist desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Feminist Desktop Wallpapers for Your Screen</h1>
+                <p>Feminist desktop wallpapers are a vibrant way to showcase your commitment to gender equality and women's rights. Featuring empowering quotes, artwork, and symbols, these wallpapers not only personalize your workspace but also inspire conversations and promote awareness. Adorn your screen with powerful imagery that advocates for a better world!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download feminist wallpaper for your desktop | IWDA">
+                                <img itemprop="contentUrl url" src='https://iwda.org.au/assets/files/well-behaved-women-rarely-make-history-IWDA-feminist-wallpaper-download.jpg' alt='Download feminist wallpaper for your desktop | IWDA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iwda.org.au" />
+                                </span>
+                                <a href='https://iwda.org.au/assets/files/well-behaved-women-rarely-make-history-IWDA-feminist-wallpaper-download.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download feminist wallpaper for your desktop | IWDA">
+                                <img itemprop="contentUrl url" src='https://iwda.org.au/assets/files/we-rise-by-lifting-others-IWDA-feminist-wallpaper-download.jpg' alt='Download feminist wallpaper for your desktop | IWDA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iwda.org.au" />
+                                </span>
+                                <a href='https://iwda.org.au/assets/files/we-rise-by-lifting-others-IWDA-feminist-wallpaper-download.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The feminist Wallpaper - Heidi Lunabba">
+                                <img itemprop="contentUrl url" src='https://www.heidilunabba.com/wp-content/uploads/feministtapet-1100x834.jpg' alt='The feminist Wallpaper - Heidi Lunabba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heidi Lunabba" />
+                                </span>
+                                <a href='https://www.heidilunabba.com/wp-content/uploads/feministtapet-1100x834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminist And Feminine Desktop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6825562.png' alt='Feminist And Feminine Desktop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6825562.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download these exclusive #PovertyIsSexist wallpapers - ONE.org US">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/one.org/images/ONE_IWD2018_2_desktop_1920x1080.jpg' alt='Download these exclusive #PovertyIsSexist wallpapers - ONE.org US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONE Campaign" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/one.org/images/ONE_IWD2018_2_desktop_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper girl feminist">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/9e/86/209e8623be45459b6fb9f056167730c2.jpg' alt='wallpaper girl feminist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/9e/86/209e8623be45459b6fb9f056167730c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper girl feminist #feminist #Girl #Wallpaper #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/04/e1/fc04e1f5208618ad8d2e92cf5a2c4ed2.jpg' alt='wallpaper girl feminist #feminist #Girl #Wallpaper #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/04/e1/fc04e1f5208618ad8d2e92cf5a2c4ed2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download feminist wallpaper for your desktop | IWDA">
+                                <img itemprop="contentUrl url" src='https://iwda.org.au/assets/files/feminism-is-for-everybody-IWDA-feminist-wallpaper-preview.jpg' alt='Download feminist wallpaper for your desktop | IWDA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iwda.org.au" />
+                                </span>
+                                <a href='https://iwda.org.au/assets/files/feminism-is-for-everybody-IWDA-feminist-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Girly Feminist Scrabble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-girly-feminist-scrabble-3lt5srultrxwgrh0.jpg' alt='Aesthetic Girly Feminist Scrabble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-girly-feminist-scrabble-3lt5srultrxwgrh0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminist And Feminine Desktop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6825603.png' alt='Feminist And Feminine Desktop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6825603.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

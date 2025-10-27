@@ -1,0 +1,129 @@
+<title>New Year Aesthetic Wallpapers: Refresh Your Digital Space</title>
+                    <meta name="description" content="Discover captivating New Year wallpaper aesthetics that enhance your digital experience. Explore vibrant designs and refreshing themes perfect for welcoming new beginnings in style. Elevate your screens with beautiful visuals that inspire creativity and positivity this New Year!">
+                    <meta name="keywords" content="new years wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-years-wallpaper-aesthetic">
+                            <span itemprop="name">new years wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>New Year Aesthetic Wallpapers: Refresh Your Digital Space</h1>
+                <p>Embrace the New Year with stunning wallpapers that reflect your aesthetic vibe! From dreamy landscapes to vibrant geometric designs, find the perfect wallpaper to refresh your digital space. Whether you prefer pastel shades or bold colors, these New Year's wallpapers will inspire positivity and creativity as you welcome new beginnings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Aesthetic New Year's Wallpaper & Backgrounds |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/23/e1/e7/23e1e7060b333cb29288f3f7754e45f9.jpg' alt='40+ Aesthetic New Year's Wallpaper & Backgrounds |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/23/e1/e7/23e1e7060b333cb29288f3f7754e45f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 New years aesthetics ideas | newyear, new years eve, new years ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/04/6a/9a/046a9a8b9fb99d426a853234290b8cae.jpg' alt='10 New years aesthetics ideas | newyear, new years eve, new years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/04/6a/9a/046a9a8b9fb99d426a853234290b8cae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtMDA4XzEuanBn.jpg' alt='New Year Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtMDA4XzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year's Eve Sparkler Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/new-year-s-eve-sparkler-aesthetic-2o0txuhkof1h5elz.jpg' alt='New Year's Eve Sparkler Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/new-year-s-eve-sparkler-aesthetic-2o0txuhkof1h5elz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic new year greeting, Facebook | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtYi0xMC14LmpwZw.jpg' alt='Aesthetic new year greeting, Facebook | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtYi0xMC14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January New Year Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/january-new-year-aesthetic-collage-lifdrhaf4bdnnifs.jpg' alt='January New Year Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/january-new-year-aesthetic-collage-lifdrhaf4bdnnifs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Aesthetic New Year's Wallpaper & Backgrounds |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/03/ab/3b03ab49067e447287da7eb6e6674c5a.jpg' alt='40+ Aesthetic New Year's Wallpaper & Backgrounds |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/03/ab/3b03ab49067e447287da7eb6e6674c5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Years Wallpaper iPhone Backgrounds Inspiration Aesthetic">
+                                <img itemprop="contentUrl url" src='https://shaundanecole.com/wp-content/uploads/2020/12/20.jpg' alt='Happy New Years Wallpaper iPhone Backgrounds Inspiration Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shaunda Necole" />
+                                </span>
+                                <a href='https://shaundanecole.com/wp-content/uploads/2020/12/20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year Aesthetic Wallpaper | Aesthetic Simple iPad Wallpapers |  Digital Download Art - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24151985/r/il/7e5cfe/3601718490/il_1080xN.3601718490_n9kz.jpg' alt='Happy New Year Aesthetic Wallpaper | Aesthetic Simple iPad Wallpapers |  Digital Download Art - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24151985/r/il/7e5cfe/3601718490/il_1080xN.3601718490_n9kz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy new year new year wishes new year wallpaper hd wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/5c/49/555c49a3f0a6d0b9f010b76edb1faa06.jpg' alt='Happy new year new year wishes new year wallpaper hd wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/5c/49/555c49a3f0a6d0b9f010b76edb1faa06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

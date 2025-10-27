@@ -1,0 +1,129 @@
+<title>Beautiful Blue Christian Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of blue Christian wallpapers that uplift and inspire. Perfect for desktops and mobiles, these designs feature calming visuals and encouraging scripture. Transform your screen with faith-centered art today!">
+                    <meta name="keywords" content="blue christian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-christian-wallpaper">
+                            <span itemprop="name">blue christian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Blue Christian Wallpapers for Your Device</h1>
+                <p>Discover stunning blue Christian wallpapers that beautifully blend faith and tranquility. Perfect for your desktop or mobile, these wallpapers feature serene designs and uplifting Bible verses that inspire devotion and peace. Transform your digital space and keep your spiritual journey close to your heart with our collection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/6d/da/666ddad84ec59cbe1fd5c9c0b0dd42fa.jpg' alt='Christian Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/6d/da/666ddad84ec59cbe1fd5c9c0b0dd42fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 Blue Christian wallpapers ideas | christian wallpaper, bible ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c3/f8/fd/c3f8fd035c5cca60cf09f0715afb29b0.jpg' alt='44 Blue Christian wallpapers ideas | christian wallpaper, bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c3/f8/fd/c3f8fd035c5cca60cf09f0715afb29b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/9f/01/d49f0182464a204f90998c28cc79f46c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/9f/01/d49f0182464a204f90998c28cc79f46c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue - Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623164825/quotes/en/yzpnlswxqkyixsmutnzj.jpg' alt='Blue - Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623164825/quotes/en/yzpnlswxqkyixsmutnzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/43/60/bc43602488618613194163ffa4a418e3.jpg' alt='blue wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/43/60/bc43602488618613194163ffa4a418e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CLEAN GIRL CHRISTIAN WALLPAPERS | Gallery posted by sarah ann ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7281476697952715270&index=2&sign=d785d1c6611395f754a507b277306cc4' alt='CLEAN GIRL CHRISTIAN WALLPAPERS | Gallery posted by sarah ann ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7281476697952715270&index=2&sign=d785d1c6611395f754a507b277306cc4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Christian Wallpapers    ✨   | Gallery posted by Jacey Mae ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7380385117652697606&index=0&sign=a6b6cf51d5abb7ee077ab64863349b61' alt='Blue Christian Wallpapers    ✨   | Gallery posted by Jacey Mae ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7380385117652697606&index=0&sign=a6b6cf51d5abb7ee077ab64863349b61' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/a0/d4/2fa0d49699a1b0c134af2132ae46f66f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/a0/d4/2fa0d49699a1b0c134af2132ae46f66f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Christian desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFKT-CYXvw/2/0/1600w/canva-blue-bible-verse-two-tone-textured-and-bold-christian-desktop-wallpaper-bb3_f_N0KLg.jpg' alt='Free to edit Christian desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFKT-CYXvw/2/0/1600w/canva-blue-bible-verse-two-tone-textured-and-bold-christian-desktop-wallpaper-bb3_f_N0KLg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is My Beloved, Christian Desktop Wallpaper, Song of Songs Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27946275/r/il/08841e/3642958286/il_570xN.3642958286_814i.jpg' alt='This is My Beloved, Christian Desktop Wallpaper, Song of Songs Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27946275/r/il/08841e/3642958286/il_570xN.3642958286_814i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

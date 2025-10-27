@@ -1,0 +1,129 @@
+<title>What is the Kentucky Derby? | A Brief Overview</title>
+                    <meta name="description" content="Discover the excitement of the Kentucky Derby, the iconic horse racing event held in Louisville every May. Known as "The Run for the Roses," this 1.25-mile race showcases the world's best thoroughbreds and rich traditions. Join millions in celebrating this thrilling spectacle!">
+                    <meta name="keywords" content="what is the kentucky derby">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-kentucky-derby">
+                            <span itemprop="name">what is the kentucky derby</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is the Kentucky Derby? | A Brief Overview</h1>
+                <p>The Kentucky Derby, held annually in Louisville, Kentucky, is one of the most famous horse races in the U.S. Often called "The Run for the Roses," this prestigious race takes place on the first Saturday in May. With a rich history dating back to 1875, it features three-year-old thoroughbreds racing 1.25 miles at Churchill Downs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Kentucky_Derby_race%2C_Louisville%2C_Kentucky.jpg' alt='Kentucky Derby - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/84/Kentucky_Derby_race%2C_Louisville%2C_Kentucky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/220507220710-07-kentucky-derby-winner.jpg?c=original' alt='Kentucky Derby Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2680">
+                                <meta itemprop="height" content="1786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/220507220710-07-kentucky-derby-winner.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come To The Derby | Kentucky Derby">
+                                <img itemprop="contentUrl url" src='https://www.kentuckyderby.com/wp-content/uploads/sites/2/2023/10/come-to-the-derby-hero-1.jpg' alt='Come To The Derby | Kentucky Derby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kentucky Derby" />
+                                </span>
+                                <a href='https://www.kentuckyderby.com/wp-content/uploads/sites/2/2023/10/come-to-the-derby-hero-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby | The Most Prestigious Horse Race in America ...">
+                                <img itemprop="contentUrl url" src='https://www.gotolouisville.com/imager/s3_us-east-1_amazonaws_com/louisville-2019/images/microsite-images/Churchill-Derby-Horses-Jockey-First-Turn-Spires_91852798b59be8b28fc00edfe4aec23a.jpg' alt='Kentucky Derby | The Most Prestigious Horse Race in America ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisville Tourism" />
+                                </span>
+                                <a href='https://www.gotolouisville.com/imager/s3_us-east-1_amazonaws_com/louisville-2019/images/microsite-images/Churchill-Derby-Horses-Jockey-First-Turn-Spires_91852798b59be8b28fc00edfe4aec23a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the super rich experience the Kentucky Derby">
+                                <img itemprop="contentUrl url" src='https://image.cnbcfm.com/api/v1/image/105891981-1556913287052gettyimages-529025324.jpeg?v=1715089149' alt='How the super rich experience the Kentucky Derby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNBC" />
+                                </span>
+                                <a href='https://image.cnbcfm.com/api/v1/image/105891981-1556913287052gettyimages-529025324.jpeg?v=1715089149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby Horses | Kentucky Derby">
+                                <img itemprop="contentUrl url" src='https://www.kentuckyderby.com/wp-content/uploads/sites/2/2024/05/2024DerbyRace-1024x682.jpg' alt='Kentucky Derby Horses | Kentucky Derby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kentucky Derby" />
+                                </span>
+                                <a href='https://www.kentuckyderby.com/wp-content/uploads/sites/2/2024/05/2024DerbyRace-1024x682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby highlights: Mystik Dan wins">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-05/240504-kentucky-derby-travis-kelce-wm-141p-d30c07.jpg' alt='Kentucky Derby highlights: Mystik Dan wins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-05/240504-kentucky-derby-travis-kelce-wm-141p-d30c07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Not Easy Being a Kentucky Derby Princess | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/54cabbd2b624d69105767232/1:1/pass/image.jpg' alt='It's Not Easy Being a Kentucky Derby Princess | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/54cabbd2b624d69105767232/1:1/pass/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Derby | History, Winners, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/39/94639-050-3007FDD3/Barbaro-finish-line-Edgar-Prado-Kentucky-Derby-May-2006.jpg' alt='Kentucky Derby | History, Winners, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/39/94639-050-3007FDD3/Barbaro-finish-line-Edgar-Prado-Kentucky-Derby-May-2006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of The Kentucky Derby + Interesting Facts You May Have ...">
+                                <img itemprop="contentUrl url" src='https://fabulousinfayette.com/wp-content/uploads/2018/04/img_9740__large-1024x682.jpg' alt='The History of The Kentucky Derby + Interesting Facts You May Have ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabulous In Fayette" />
+                                </span>
+                                <a href='https://fabulousinfayette.com/wp-content/uploads/2018/04/img_9740__large-1024x682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Fresh Spring Wallpaper: Free Designs for Your Space</title>
+                    <meta name="description" content="Discover beautiful, free spring wallpapers to enliven your walls! Our collection features vibrant floral designs and serene nature scenes, perfect for refreshing your home or office decor. Download your favorites and embrace the beauty of spring with just a click!">
+                    <meta name="keywords" content="spring free wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spring-free-wallpaper">
+                            <span itemprop="name">spring free wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh Spring Wallpaper: Free Designs for Your Space</h1>
+                <p>Spring brings a fresh wave of colors and feelings. Transform your space with stunning spring-themed wallpapers that evoke the charm of blooming flowers, lush greenery, and bright skies. Perfect for any room, our spring free wallpapers capture the essence of the season, adding vibrancy and warmth to your home or office. Refresh your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Background Images – Browse 25,630,029 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/54/88/80/360_F_254888010_fxJId2pI2hcWszMjzT5tWB6O62CrEQnk.jpg' alt='Spring Background Images – Browse 25,630,029 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/54/88/80/360_F_254888010_fxJId2pI2hcWszMjzT5tWB6O62CrEQnk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable spring desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE9xDNqMSA/1/0/1600w/canva-free-spring-bloom-motivational-desktop-wallpaper-5crzmz0C63M.jpg' alt='Free and customizable spring desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE9xDNqMSA/1/0/1600w/canva-free-spring-bloom-motivational-desktop-wallpaper-5crzmz0C63M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spring-u4tp85fddftksquh.jpg' alt='300+] Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spring-u4tp85fddftksquh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-blurred-spring-background_52683-57042.jpg' alt='Spring Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-blurred-spring-background_52683-57042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Free Spring Wallpapers for Your Desktop - RK Black ...">
+                                <img itemprop="contentUrl url" src='https://www.rkblack.com/blog/uploads/800-1522683341-rk-black-pink-bradford-blossoms-800x283.jpeg' alt='10 Beautiful Free Spring Wallpapers for Your Desktop - RK Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RK Black" />
+                                </span>
+                                <a href='https://www.rkblack.com/blog/uploads/800-1522683341-rk-black-pink-bradford-blossoms-800x283.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free Springtime Wallpapers Downloads on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/16/23/9116237d07599ef1f2707b6efacf57d2.jpg' alt='   Free Springtime Wallpapers Downloads on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/16/23/9116237d07599ef1f2707b6efacf57d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Best Free Spring Backgrounds and Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/Lj62sY6osQPtiSCTRa8mobJafvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spring-daisies-4ab31cb009ad4840837117fb8ed9e21c.jpg' alt='23 Best Free Spring Backgrounds and Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/Lj62sY6osQPtiSCTRa8mobJafvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spring-daisies-4ab31cb009ad4840837117fb8ed9e21c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/copy-space-spring-floral-background-blue-sky_52683-55621.jpg' alt='Spring Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/copy-space-spring-floral-background-blue-sky_52683-55621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Background Photos, Download The BEST Free Spring Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/132474/pexels-photo-132474.jpeg?cs=srgb&dl=pexels-inspiredimages-132474.jpg&fm=jpg' alt='Spring Background Photos, Download The BEST Free Spring Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/132474/pexels-photo-132474.jpeg?cs=srgb&dl=pexels-inspiredimages-132474.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Spring Desktop Wallpapers - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2020/04/apri-10.png' alt='Free Spring Desktop Wallpapers - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2020/04/apri-10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

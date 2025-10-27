@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Baja Blast: Flavor, Availability & More</title>
+                    <meta name="description" content="Discover the delicious world of Baja Blast, the tropical soda sensation! Learn about its unique flavor, seasonal availability, and how to enjoy this fan-favorite drink. Perfect for summer refreshment or as a fun mixer, Baja Blast is your go-to for a vibrant taste experience. Dive in now!">
+                    <meta name="keywords" content="baja blast">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baja-blast">
+                            <span itemprop="name">baja blast</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Baja Blast: Flavor, Availability & More</h1>
+                <p>Baja Blast is a vibrant tropical-flavored soda that first made waves at Taco Bell. With its refreshing blend of pineapple and lime, this limited-edition drink has become a summer favorite for fans. Available in bottles and cans during specific seasons, Baja Blast promises a burst of flavor that keeps thirst at bay. Enjoy it solo or as a mixer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Want a free Baja Blast? Here's how you can get one at Taco Bell">
+                                <img itemprop="contentUrl url" src='https://www.dispatch.com/gcdn/authoring/authoring-images/2024/07/27/NCOD/74569941007-taco-bell-bajaversary-freeze-csd-1810-x-1099.png?crop=1099,1098,x271,y0' alt='Want a free Baja Blast? Here's how you can get one at Taco Bell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1099">
+                                <meta itemprop="height" content="1098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Columbus Dispatch" />
+                                </span>
+                                <a href='https://www.dispatch.com/gcdn/authoring/authoring-images/2024/07/27/NCOD/74569941007-taco-bell-bajaversary-freeze-csd-1810-x-1099.png?crop=1099,1098,x271,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Dew Baja Blast Cans, 12 oz Cans, 12 Count">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818B7tvn14L._AC_UF894,1000_QL80_.jpg' alt='Mountain Dew Baja Blast Cans, 12 oz Cans, 12 Count'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818B7tvn14L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Refresh Your Senses :15s | MTN DEW BAJA BLAST | In Stores Now!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WfZlzWvNlR4/maxresdefault.jpg' alt='Refresh Your Senses :15s | MTN DEW BAJA BLAST | In Stores Now!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WfZlzWvNlR4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Dew Baja Blast 20oz – BevMo!">
+                                <img itemprop="contentUrl url" src='http://bevmo.com/cdn/shop/files/d26b49f7-27e3-4970-9c17-816b24211904.png?v=1718258099' alt='Mountain Dew Baja Blast 20oz – BevMo!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BevMo!" />
+                                </span>
+                                <a href='http://bevmo.com/cdn/shop/files/d26b49f7-27e3-4970-9c17-816b24211904.png?v=1718258099' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's weird how Baja Blast went from a special limited edition ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/its-weird-how-baja-blast-went-from-a-special-limited-v0-es44j180pvdc1.jpeg?width=1080&crop=smart&auto=webp&s=fafcbdede452d03663dfc9955dce7c751412573c' alt='It's weird how Baja Blast went from a special limited edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/its-weird-how-baja-blast-went-from-a-special-limited-v0-es44j180pvdc1.jpeg?width=1080&crop=smart&auto=webp&s=fafcbdede452d03663dfc9955dce7c751412573c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Dew Baja Blast Tropical Lime & Citrus Soda Pop, 12 fl oz 12 Pack  Cans">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/0729f09c-2392-4057-a461-06965ce98344.730bbba0197e228c0bedad3593287210.jpeg' alt='Mountain Dew Baja Blast Tropical Lime & Citrus Soda Pop, 12 fl oz 12 Pack  Cans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/0729f09c-2392-4057-a461-06965ce98344.730bbba0197e228c0bedad3593287210.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baja Blast - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Baja_Blast_logo.svg' alt='Baja Blast - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5827">
+                                <meta itemprop="height" content="4028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4a/Baja_Blast_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taco Bell Is Truly Going All Out For The Baja Blast's 20th Birthday">
+                                <img itemprop="contentUrl url" src='https://www.thedailymeal.com/img/gallery/taco-bell-is-truly-going-all-out-for-the-baja-blasts-20th-birthday/intro-1721857817.jpg' alt='Taco Bell Is Truly Going All Out For The Baja Blast's 20th Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Daily Meal" />
+                                </span>
+                                <a href='https://www.thedailymeal.com/img/gallery/taco-bell-is-truly-going-all-out-for-the-baja-blasts-20th-birthday/intro-1721857817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Dew® Baja Blast™ | Taco Bell Fountain Drinks">
+                                <img itemprop="contentUrl url" src='https://www.tacobell.com/images/1027_mountain_dew_baja_blast_1400x800.jpg' alt='Mountain Dew® Baja Blast™ | Taco Bell Fountain Drinks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taco Bell" />
+                                </span>
+                                <a href='https://www.tacobell.com/images/1027_mountain_dew_baja_blast_1400x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Dew Baja Blast back in stores">
+                                <img itemprop="contentUrl url" src='https://cbs4indy.com/wp-content/uploads/sites/22/2022/06/Baja-Blast.jpg' alt='Mountain Dew Baja Blast back in stores'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBS 4" />
+                                </span>
+                                <a href='https://cbs4indy.com/wp-content/uploads/sites/22/2022/06/Baja-Blast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

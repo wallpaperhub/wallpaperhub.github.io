@@ -1,0 +1,129 @@
+<title>Quick Guide to Cursory Background Checks</title>
+                    <meta name="description" content="Learn how cursory background checks can streamline your hiring process. Discover the key elements to consider, potential red flags, and the importance of these quick reviews in assessing candidates' trustworthiness. Optimize your decisions with this concise guide!">
+                    <meta name="keywords" content="cursory background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cursory-background-check">
+                            <span itemprop="name">cursory background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick Guide to Cursory Background Checks</h1>
+                <p>A cursory background check is a quick review of an individual's history, often used by employers or individuals to assess trustworthiness. It typically includes criminal records, employment history, and education verification. While not comprehensive, it serves as an initial filter for identifying potential red flags in a candidate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Cursory Background Check - Fimfiction">
+                                <img itemprop="contentUrl url" src='https://cdn-img.fimfiction.net/story/du06-1612609359-488430-medium' alt='A Cursory Background Check - Fimfiction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fimfiction" />
+                                </span>
+                                <a href='https://cdn-img.fimfiction.net/story/du06-1612609359-488430-medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Explained | Background Screening | Health Street">
+                                <img itemprop="contentUrl url" src='https://cdn.glasspress.io/assets/background-screening-explained-info-img.jpg' alt='Background Screening Explained | Background Screening | Health Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="6106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health Street" />
+                                </span>
+                                <a href='https://cdn.glasspress.io/assets/background-screening-explained-info-img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Criminal Record Search">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/dcedb0d6-69dd-463b-995c-c3d0cb45c699/CI+NY+Comparison+Chart.jpg' alt='New York Criminal Record Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1389">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIChecked™" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/dcedb0d6-69dd-463b-995c-c3d0cb45c699/CI+NY+Comparison+Chart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Checks - A.O. Consultants, LLC">
+                                <img itemprop="contentUrl url" src='https://www.ao-consultants.com/wp-content/uploads/2014/05/EBC-Partner_Page_1.png' alt='Employee Background Checks - A.O. Consultants, LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AO Consultants" />
+                                </span>
+                                <a href='https://www.ao-consultants.com/wp-content/uploads/2014/05/EBC-Partner_Page_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to Obtaining Volunteer Background Checks">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5fd78b8937945a70a38caed1/64c940a129522832e1478c7d_Blog%20Post%20Images%20(1).png' alt='A Guide to Obtaining Volunteer Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Civic Champs" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5fd78b8937945a70a38caed1/64c940a129522832e1478c7d_Blog%20Post%20Images%20(1).png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Criminal Record Checks are Helping HR Teams in their Hiring ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422c693a93d0754e49764_627bf04471ea9b74b652dc01_How%2520Criminal%2520Record%2520Checks%2520are%2520Helping%2520HR%2520Teams%2520in%2520their%2520Hiring%2520Process.webp' alt='How Criminal Record Checks are Helping HR Teams in their Hiring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422c693a93d0754e49764_627bf04471ea9b74b652dc01_How%2520Criminal%2520Record%2520Checks%2520are%2520Helping%2520HR%2520Teams%2520in%2520their%2520Hiring%2520Process.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotlight: Cursory Indicator New York">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/1626714105874-F4SV7A8ZG30K7HZSM2WO/NY%2BSkyline.png' alt='Spotlight: Cursory Indicator New York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIChecked™" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/1626714105874-F4SV7A8ZG30K7HZSM2WO/NY%2BSkyline.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Criminal Record Search">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/bbb1aae9-83e3-4449-8194-a795cf8f912a/30+percent.png' alt='New York Criminal Record Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIChecked™" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60abca7e3da1d03f4727f533/bbb1aae9-83e3-4449-8194-a795cf8f912a/30+percent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Included in an Employee Background Check | Empire Resume">
+                                <img itemprop="contentUrl url" src='https://empireresume.com/wp-content/uploads/2020/06/What-is-Included-in-an-Employee-Background-Check-1200x675.png' alt='What is Included in an Employee Background Check | Empire Resume'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Empire Resume" />
+                                </span>
+                                <a href='https://empireresume.com/wp-content/uploads/2020/06/What-is-Included-in-an-Employee-Background-Check-1200x675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William J. Long Investigations and Protection">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2865729076837145' alt='William J. Long Investigations and Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2865729076837145' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Funky Aesthetic Wallpaper Ideas to Transform Your Space</title>
+                    <meta name="description" content="Discover funky aesthetic wallpaper that brings energy and creativity to your interiors. From vibrant patterns to retro designs, explore unique options to energize your space and showcase your style. Perfect for any room, find the wallpaper that speaks to you today!">
+                    <meta name="keywords" content="funky aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/funky-aesthetic-wallpaper">
+                            <span itemprop="name">funky aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funky Aesthetic Wallpaper Ideas to Transform Your Space</h1>
+                <p>Transform your space with funky aesthetic wallpaper that bursts with vibrant colors and playful designs! Perfect for those looking to add personality and creativity to any room, these wallpapers feature unique patterns, retro vibes, and artistic touches. Choose funky aesthetic wallpaper to express your style and inspire your surroundings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro cute 70s funky aesthetic phone background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/41/90/dd41909455e68471747df3533bee56a3.jpg' alt='retro cute 70s funky aesthetic phone background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/41/90/dd41909455e68471747df3533bee56a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep It Cool Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-aesthetic-neon-collage-sjxb078jbxpd7lj3.webp' alt='Keep It Cool Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-aesthetic-neon-collage-sjxb078jbxpd7lj3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy liquid floral background. Abstract retro pattern in hippie ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/544/617/non_2x/groovy-liquid-floral-background-abstract-retro-pattern-in-hippie-style-green-and-pink-shapes-and-figures-funky-vintage-aesthetic-wallpaper-vector.jpg' alt='Groovy liquid floral background. Abstract retro pattern in hippie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/544/617/non_2x/groovy-liquid-floral-background-abstract-retro-pattern-in-hippie-style-green-and-pink-shapes-and-figures-funky-vintage-aesthetic-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL AESTHETIC WALLPAPER PHONE - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkd6gk9KUZWAyX3Y1ZRb04pCxYTnGPOIs0UhkVGgu8avGtitmzs9D3ZTP61XSDrwXzIfG7ktLrf_9UJh3WtST1vDAH58gnXyI9QwJXo5ki2fCxiwaTkDgpW2ASrf8Tl5KzR3gRiq6SWK78/w360-h640/aesthetic-wallpaper.jpg' alt='COOL AESTHETIC WALLPAPER PHONE - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkd6gk9KUZWAyX3Y1ZRb04pCxYTnGPOIs0UhkVGgu8avGtitmzs9D3ZTP61XSDrwXzIfG7ktLrf_9UJh3WtST1vDAH58gnXyI9QwJXo5ki2fCxiwaTkDgpW2ASrf8Tl5KzR3gRiq6SWK78/w360-h640/aesthetic-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunkyFridayPrintsCo - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9a/3c/54/9a3c54d3c30ff11d5c14206eaa64984e.jpg' alt='FunkyFridayPrintsCo - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9a/3c/54/9a3c54d3c30ff11d5c14206eaa64984e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Background Images – Browse 954,438 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/85/58/18/360_F_485581800_uIPF1wn7Shu2xkBQa6jDWAV4TI7l86BX.jpg' alt='Funky Background Images – Browse 954,438 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/85/58/18/360_F_485581800_uIPF1wn7Shu2xkBQa6jDWAV4TI7l86BX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Aesthetic Whatever Happens Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-aesthetic-whatever-happens-quote-k5zszjjoujswaxyt.jpg' alt='Cool Aesthetic Whatever Happens Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-aesthetic-whatever-happens-quote-k5zszjjoujswaxyt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cool aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/407/315/HD-wallpaper-aesthetic-cool-for-boys-for-girls-super.jpg' alt='HD cool aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/407/315/HD-wallpaper-aesthetic-cool-for-boys-for-girls-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="funky lil background✨✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/22/37/37223711d171bae573b7364ff618c1fc.jpg' alt='funky lil background✨✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/22/37/37223711d171bae573b7364ff618c1fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Trendy Groovy Smile Seamless Pattern. Funky Positive ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/87/08/62/1000_F_487086210_8voxgtFv5sgCxBeSiEgYps9jX4RSpuiU.jpg' alt='Cool Trendy Groovy Smile Seamless Pattern. Funky Positive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/87/08/62/1000_F_487086210_8voxgtFv5sgCxBeSiEgYps9jX4RSpuiU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

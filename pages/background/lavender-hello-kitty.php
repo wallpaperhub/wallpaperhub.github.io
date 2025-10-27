@@ -1,0 +1,129 @@
+<title>Lavender Hello Kitty: Cute and Calming Decor</title>
+                    <meta name="description" content="Discover the enchanting world of Lavender Hello Kitty! This cute character adds a soothing touch to your decor and is perfect for collectors. Embrace the blend of whimsical charm and calming aesthetics with Lavender Hello Kitty today!">
+                    <meta name="keywords" content="lavender hello kitty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lavender-hello-kitty">
+                            <span itemprop="name">lavender hello kitty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lavender Hello Kitty: Cute and Calming Decor</h1>
+                <p>Embrace the charm of Lavender Hello Kitty, a delightful fusion of whimsical kawaii style and soothing lavender hues. This adorable character, with her signature bow and sweet expressions, brings a calming ambiance to any space. Perfect for fans of all ages, Lavender Hello Kitty is a must-have for collectors and a cozy addition to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Hello Kitty on Lavender">
+                                <img itemprop="contentUrl url" src='https://purpleseamstressfabric.com/wp-content/uploads/2023/02/halloween-hello-kitty-on-lavender.jpg' alt='Halloween Hello Kitty on Lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purpleseamstress Fabric" />
+                                </span>
+                                <a href='https://purpleseamstressfabric.com/wp-content/uploads/2023/02/halloween-hello-kitty-on-lavender.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage 2000 Sanrio,hello Kitty Hokkaido Lavender Plush Doll,stuff ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13312710/r/il/b6d690/5306740730/il_570xN.5306740730_5rz4.jpg' alt='Vintage 2000 Sanrio,hello Kitty Hokkaido Lavender Plush Doll,stuff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13312710/r/il/b6d690/5306740730/il_570xN.5306740730_5rz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/18/fd/6b18fd736d9892133e6249b02268f54c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/18/fd/6b18fd736d9892133e6249b02268f54c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Hello Kitty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-hello-kittyand-teddy-bear-dcwby771sidqnseo.jpg' alt='100+] Purple Hello Kitty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1042">
+                                <meta itemprop="height" content="1853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-hello-kittyand-teddy-bear-dcwby771sidqnseo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lilac Hello Kitty cute face and bow fabric by Kokka">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/a0/93/82a09392b49bdf710b0979b49b047a1c.jpg' alt='lilac Hello Kitty cute face and bow fabric by Kokka'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/a0/93/82a09392b49bdf710b0979b49b047a1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Hello Kitty Hokkaido Limited Lavender Hello Kitty Plush Toy New with  Tags">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/bYEAAOSw8S9m71Qy/s-l1200.jpg' alt='Sanrio Hello Kitty Hokkaido Limited Lavender Hello Kitty Plush Toy New with  Tags'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/bYEAAOSw8S9m71Qy/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Hello Kitty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-hello-kitty-upipv7jvmtgj5tha.jpg' alt='100+] Purple Hello Kitty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-hello-kitty-upipv7jvmtgj5tha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/18/88/5c/18885c6cdeebd8e78563b1d517d260de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/18/88/5c/18885c6cdeebd8e78563b1d517d260de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper Purple by luvphotoshop on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d986aeb2-04e0-4618-af28-d2fd6fc785c7/d2s43ds-27cd015a-239c-4024-b870-bd6d6c9325d9.jpg/v1/fill/w_900,h_600,q_75,strp/hello_kitty_wallpaper_purple_by_luvphotoshop_d2s43ds-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvZDk4NmFlYjItMDRlMC00NjE4LWFmMjgtZDJmZDZmYzc4NWM3XC9kMnM0M2RzLTI3Y2QwMTVhLTIzOWMtNDAyNC1iODcwLWJkNmQ2YzkzMjVkOS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Otw3iHLvAEIcPiyJEqdC_hZvvXfCLjmQ5vshQf10bxk' alt='Hello Kitty Wallpaper Purple by luvphotoshop on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d986aeb2-04e0-4618-af28-d2fd6fc785c7/d2s43ds-27cd015a-239c-4024-b870-bd6d6c9325d9.jpg/v1/fill/w_900,h_600,q_75,strp/hello_kitty_wallpaper_purple_by_luvphotoshop_d2s43ds-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvZDk4NmFlYjItMDRlMC00NjE4LWFmMjgtZDJmZDZmYzc4NWM3XC9kMnM0M2RzLTI3Y2QwMTVhLTIzOWMtNDAyNC1iODcwLWJkNmQ2YzkzMjVkOS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Otw3iHLvAEIcPiyJEqdC_hZvvXfCLjmQ5vshQf10bxk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpapers Pt 3    | Gallery posted by Brit ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7432916278439019014&index=1&sign=8107150858e08604827f0f3cb8dacc4d' alt='Purple Aesthetic Wallpapers Pt 3    | Gallery posted by Brit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7432916278439019014&index=1&sign=8107150858e08604827f0f3cb8dacc4d' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

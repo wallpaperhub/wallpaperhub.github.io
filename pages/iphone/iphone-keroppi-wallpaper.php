@@ -1,0 +1,129 @@
+<title>Adorable Keroppi Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the cutest Keroppi wallpapers for your iPhone! Enhance your device's style with vibrant designs featuring the beloved Sanrio character. Perfect for fans, these wallpapers bring fun and personality to your screen. Browse and download now for a fresh look!">
+                    <meta name="keywords" content="iphone keroppi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-keroppi-wallpaper">
+                            <span itemprop="name">iphone keroppi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Keroppi Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone's look with adorable Keroppi wallpapers! Perfect for fans of the charming Sanrio character, these vibrant designs add a playful touch to your device. Whether you prefer cute patterns or iconic scenes, you'll find the ideal wallpaper to express your personality. Download your favorite Keroppi wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Keroppi Wallpaper Hello Kitty iPhone on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/0c/52/9d0c52eb6c1a23c6dc3ddad748055ad7.jpg' alt='   Free download Keroppi Wallpaper Hello Kitty iPhone on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/0c/52/9d0c52eb6c1a23c6dc3ddad748055ad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2020/04/keroppi_iphone-x.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2020/04/keroppi_iphone-x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio on X: "New month, new #Keroppi phone backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F0x_TjfXsAEsJ73?format=jpg&name=4096x4096' alt='Sanrio on X: "New month, new #Keroppi phone backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="2501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F0x_TjfXsAEsJ73?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Wallpaper: Keroppi ideas | keroppi wallpaper, frog wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/99/45/26/994526f6e67f3f4e8dffd28a0147338b.jpg' alt='9 Wallpaper: Keroppi ideas | keroppi wallpaper, frog wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/99/45/26/994526f6e67f3f4e8dffd28a0147338b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keroppi Cheer, donethat03, frog, green, kawaii, pastel ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/745/343/HD-wallpaper-keroppi-cheer-donethat03-frog-green-kawaii-pastel-pastelkawaii-sanrio.jpg' alt='Keroppi Cheer, donethat03, frog, green, kawaii, pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/745/343/HD-wallpaper-keroppi-cheer-donethat03-frog-green-kawaii-pastel-pastelkawaii-sanrio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keroppi Keep It Green Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/keroppi-all-green-mqnjj4f409fxwg8w.webp' alt='Keroppi Keep It Green Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/keroppi-all-green-mqnjj4f409fxwg8w.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sad Keroppi Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-sad-keroppi-435vp237i4gycjpt.jpg' alt='The Sad Keroppi Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-sad-keroppi-435vp237i4gycjpt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/32/5e/9a325e999f986c751e83d3d0453c6aad.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/32/5e/9a325e999f986c751e83d3d0453c6aad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Keroppi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/keroppi-with-three-potted-plants-lnmfon7z0lthfa4g.jpg' alt='100+] Keroppi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/keroppi-with-three-potted-plants-lnmfon7z0lthfa4g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ciao, Salut">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/d3/48/4ad34891853da9ece5913d02727b7b5c.jpg' alt='Ciao, Salut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/d3/48/4ad34891853da9ece5913d02727b7b5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

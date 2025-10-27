@@ -1,0 +1,129 @@
+<title>Discover the Fascinating Background of Little Einsteins</title>
+                    <meta name="description" content="Explore the origins of Little Einsteins, the beloved animated series that combines music and adventure, inspiring young minds. Learn how this Disney Junior hit promotes creativity and introduces children to art and classical music. Perfect for parents and fans alike!">
+                    <meta name="keywords" content="little einsteins background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/little-einsteins-background">
+                            <span itemprop="name">little einsteins background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating Background of Little Einsteins</h1>
+                <p>Little Einsteins is an educational animated series that premiered in 2005 on Disney Junior. It follows four preschool-aged friends—Leo, Annie, Quincy, and June—who embark on musical adventures in a rocket ship. The show fosters a love for music, art, and exploration, introducing children to classical compositions and famous artworks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Einsteins Background View by JustinProffesional on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/di0htds-7cf86d58-518d-4898-9de7-5c39ed2f53de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzMzBkNWYxLWQ1ZjAtNDY5Ni1hMTgzLTJkOTlmZTFhY2U0YVwvZGkwaHRkcy03Y2Y4NmQ1OC01MThkLTQ4OTgtOWRlNy01YzM5ZWQyZjUzZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iVUQN6ShjVeW1Lj3VFfz4JBdudwuMhOkS2tFdPRU6XU' alt='Little Einsteins Background View by JustinProffesional on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2125">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5330d5f1-d5f0-4696-a183-2d99fe1ace4a/di0htds-7cf86d58-518d-4898-9de7-5c39ed2f53de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzMzBkNWYxLWQ1ZjAtNDY5Ni1hMTgzLTJkOTlmZTFhY2U0YVwvZGkwaHRkcy03Y2Y4NmQ1OC01MThkLTQ4OTgtOWRlNy01YzM5ZWQyZjUzZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iVUQN6ShjVeW1Lj3VFfz4JBdudwuMhOkS2tFdPRU6XU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rocket Room | Little Einsteins Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/littleeinsteinspedia/images/5/56/The_Rocket_Room.jpeg/revision/latest?cb=20220508163407' alt='The Rocket Room | Little Einsteins Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Einsteins Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/littleeinsteinspedia/images/5/56/The_Rocket_Room.jpeg/revision/latest?cb=20220508163407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Einsteins Stage Background by MrMenRaymanFan2001 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a085133-cccf-4e44-9fdb-6747858b2114/ddygkt7-fbc79a8b-1afb-4925-a049-6a79774419cc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhMDg1MTMzLWNjY2YtNGU0NC05ZmRiLTY3NDc4NThiMjExNFwvZGR5Z2t0Ny1mYmM3OWE4Yi0xYWZiLTQ5MjUtYTA0OS02YTc5Nzc0NDE5Y2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Py5ta_K1VLHfqqQ128Na5l54C_aoHQTpzFjDRVHNlUU' alt='Little Einsteins Stage Background by MrMenRaymanFan2001 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1206">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a085133-cccf-4e44-9fdb-6747858b2114/ddygkt7-fbc79a8b-1afb-4925-a049-6a79774419cc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhMDg1MTMzLWNjY2YtNGU0NC05ZmRiLTY3NDc4NThiMjExNFwvZGR5Z2t0Ny1mYmM3OWE4Yi0xYWZiLTQ5MjUtYTA0OS02YTc5Nzc0NDE5Y2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Py5ta_K1VLHfqqQ128Na5l54C_aoHQTpzFjDRVHNlUU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Einsteins - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/9/9e/Little_Einsteins_title_card.png' alt='Little Einsteins - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/9/9e/Little_Einsteins_title_card.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little einsteins hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JD9006/rocket-little-einsteins-our-big-huge-adventure-2005-2JD9006.jpg' alt='Little einsteins hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JD9006/rocket-little-einsteins-our-big-huge-adventure-2005-2JD9006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Einsteins | Disney Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disneyfanon/images/f/f3/Little_Einsteins_Promotional_Poster.jpg/revision/latest?cb=20231016143803' alt='Little Einsteins | Disney Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disneyfanon/images/f/f3/Little_Einsteins_Promotional_Poster.jpg/revision/latest?cb=20231016143803' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hubfanlover678 User Profile | DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd406c3-caa2-4e80-8f45-ee71268c8722/dfficbe-d9567b74-b95d-46e2-81c8-5c5c1472a5bb.png/v1/fill/w_384,h_288,q_80,strp/little_einsteins_stage_with_curtains_open_by_mftondeviantart_dfficbe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg4IiwicGF0aCI6IlwvZlwvMWNkNDA2YzMtY2FhMi00ZTgwLThmNDUtZWU3MTI2OGM4NzIyXC9kZmZpY2JlLWQ5NTY3Yjc0LWI5NWQtNDZlMi04MWM4LTVjNWMxNDcyYTViYi5wbmciLCJ3aWR0aCI6Ijw9Mzg0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hidliDkZu6961mOARXxaoMJpdBELosv5mTlBvp8Di9Y' alt='Hubfanlover678 User Profile | DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hubfanlover678 User Profile | DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd406c3-caa2-4e80-8f45-ee71268c8722/dfficbe-d9567b74-b95d-46e2-81c8-5c5c1472a5bb.png/v1/fill/w_384,h_288,q_80,strp/little_einsteins_stage_with_curtains_open_by_mftondeviantart_dfficbe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg4IiwicGF0aCI6IlwvZlwvMWNkNDA2YzMtY2FhMi00ZTgwLThmNDUtZWU3MTI2OGM4NzIyXC9kZmZpY2JlLWQ5NTY3Yjc0LWI5NWQtNDZlMi04MWM4LTVjNWMxNDcyYTViYi5wbmciLCJ3aWR0aCI6Ijw9Mzg0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hidliDkZu6961mOARXxaoMJpdBELosv5mTlBvp8Di9Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Einsteins (TV Series 2005-2009) - Backdrops — The Movie ...">
+                                <img itemprop="contentUrl url" src='https://image.tmdb.org/t/p/original/eF5NvbBBhKXj4UTWnSqO7MCHkzO.jpg' alt='Little Einsteins (TV Series 2005-2009) - Backdrops — The Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://image.tmdb.org/t/p/original/eF5NvbBBhKXj4UTWnSqO7MCHkzO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="little einsteins background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/e1/03/bae1031a8ad77404e5fedcb615238a66.jpg' alt='little einsteins background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/e1/03/bae1031a8ad77404e5fedcb615238a66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Little Einsteins Action Kids Series, now streaming on ...">
+                                <img itemprop="contentUrl url" src='https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7766/1377766-i-89baf53e33b2' alt='Disney's Little Einsteins Action Kids Series, now streaming on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hotstar" />
+                                </span>
+                                <a href='https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7766/1377766-i-89baf53e33b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

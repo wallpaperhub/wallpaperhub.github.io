@@ -1,0 +1,129 @@
+<title>Vibrant Evangelion Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover captivating Evangelion wallpapers for your iPhone. Transform your device with high-resolution images of beloved characters and scenes from the iconic anime. Perfect for fans looking to personalize their screens and show off their passion for Neon Genesis Evangelion.">
+                    <meta name="keywords" content="iphone:xqulkihcpt4= evangelion wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonexqulkihcpt4-evangelion-wallpaper">
+                            <span itemprop="name">iphone:xqulkihcpt4= evangelion wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Evangelion Wallpapers for iPhone</h1>
+                <p>Enhance your iPhone's style with stunning Evangelion wallpapers. Dive into the vibrant world of this iconic anime with high-quality images that capture your favorite characters and scenes. Perfectly designed for your screen, these wallpapers bring a touch of the animated universe to your device. Customize your iPhone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/143/414/HD-wallpaper-evangelion-eva-01-neon-genesis-evangelion.jpg' alt='Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/143/414/HD-wallpaper-evangelion-eva-01-neon-genesis-evangelion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-g052foj601a748f2.jpg' alt='100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-g052foj601a748f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Evangelion Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/evangelion-phone-900-x-1600-xpl883zq0wz2a76m.jpg' alt='100+] Evangelion Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/evangelion-phone-900-x-1600-xpl883zq0wz2a76m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/614/279/HD-wallpaper-eva-01-in-station-eva-eva01-evangelion-thumbnail.jpg' alt='Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/614/279/HD-wallpaper-eva-01-in-station-eva-eva01-evangelion-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-inxjgx0wmwo5znvv.jpg' alt='100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-inxjgx0wmwo5znvv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-77mcn42ysesns9dr.jpg' alt='100+] Neon Genesis Evangelion Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-genesis-evangelion-iphone-77mcn42ysesns9dr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e4/df/00/e4df0038ca00c40c115ee9e5011915ce.png' alt='Evangelion wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e4/df/00/e4df0038ca00c40c115ee9e5011915ce.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's my NGE wallpaper with the new iOS features : r/evangelion">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/umo4vfn2jto91.jpg?width=1080&crop=smart&auto=webp&s=e7d006b4c92f3befd79eedf6dac594b491c261fc' alt='Here's my NGE wallpaper with the new iOS features : r/evangelion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/umo4vfn2jto91.jpg?width=1080&crop=smart&auto=webp&s=e7d006b4c92f3befd79eedf6dac594b491c261fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion Wallpaper 4K Iphone Trick">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/42/33/174233dda58c29625a27c0b8e6165e2c.jpg' alt='Evangelion Wallpaper 4K Iphone Trick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/42/33/174233dda58c29625a27c0b8e6165e2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get the cool new Neon Genesis Evangelion Iphone and show ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/ea/d3/ccead35e04df65f597d20a9be4de43c5.jpg' alt='Download Get the cool new Neon Genesis Evangelion Iphone and show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/ea/d3/ccead35e04df65f597d20a9be4de43c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

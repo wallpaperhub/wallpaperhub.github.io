@@ -1,0 +1,129 @@
+<title>Free Bible Verse Wallpapers for iPhone: Uplift Your Spirit</title>
+                    <meta name="description" content="Explore our collection of free Bible verse wallpapers for iPhone. Elevate your device’s look with inspirational quotes that bring joy and faith into your daily life. Download now and keep your spirit uplifted with stunning designs right at your fingertips!">
+                    <meta name="keywords" content="bible verse wallpaper iphone free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/bible-verse-wallpaper-iphone-free">
+                            <span itemprop="name">bible verse wallpaper iphone free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Bible Verse Wallpapers for iPhone: Uplift Your Spirit</h1>
+                <p>Enhance your iPhone with inspiring Bible verse wallpapers, available for free! Transform your home and lock screens with uplifting messages that bring daily motivation and peace. Discover a variety of designs that suit your style and keep your faith close wherever you go. Download your favorite wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Bible Verse and Christian Phone Wallpaper - The Arc">
+                                <img itemprop="contentUrl url" src='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/10/Gal-6.9-iphone-wallpaper.jpg' alt='Free Bible Verse and Christian Phone Wallpaper - The Arc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tyndale House Publishers" />
+                                </span>
+                                <a href='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/10/Gal-6.9-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-720-x-1280-rj2ygfri477zevg1.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-720-x-1280-rj2ygfri477zevg1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-1242-x-2208-f2fm1lilh5rojy37.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-1242-x-2208-f2fm1lilh5rojy37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Free Bible Wallpapers - God's fingerprints">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' alt='25 Free Bible Wallpapers - God's fingerprints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="God's fingerprints" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best christian iphone wallpaper ideas | bible verses, bible ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/88/3d/9e883d399e38abf0072eb8d5ee743aa0.jpg' alt='100 Best christian iphone wallpaper ideas | bible verses, bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/88/3d/9e883d399e38abf0072eb8d5ee743aa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian iPhone Wallpapers — A Love Worth Living For">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/82/a3/1482a330d815ebbf30e7923d700bd8b7.jpg' alt='Free Christian iPhone Wallpapers — A Love Worth Living For'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/82/a3/1482a330d815ebbf30e7923d700bd8b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2021/09/Unfruitful-works-of-darkness.jpg' alt='iphone wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2021/09/Unfruitful-works-of-darkness.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scripture iPhone wallpaper Archives - The Ruffled Mango">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.theruffledmango.com/wp-content/uploads/2020/03/Amazing-Grace-iPhone-wallpaper-2-1-scaled.jpg?fit=472%2C1024' alt='scripture iPhone wallpaper Archives - The Ruffled Mango'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ruffled Mango" />
+                                </span>
+                                <a href='https://i0.wp.com/www.theruffledmango.com/wp-content/uploads/2020/03/Amazing-Grace-iPhone-wallpaper-2-1-scaled.jpg?fit=472%2C1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2022/03/Have-mercy-on-me.jpg' alt='iphone wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2022/03/Have-mercy-on-me.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

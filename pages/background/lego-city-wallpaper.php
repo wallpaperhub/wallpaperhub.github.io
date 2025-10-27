@@ -1,0 +1,129 @@
+<title>Colorful LEGO City Wallpaper for Creative Spaces</title>
+                    <meta name="description" content="Discover vibrant LEGO City wallpaper that transforms any room into a playful haven. Perfect for kids and adults alike, these designs inspire creativity with exciting cityscapes. Elevate your home decor with fun and imaginative LEGO-themed walls today!">
+                    <meta name="keywords" content="lego city wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lego-city-wallpaper">
+                            <span itemprop="name">lego city wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful LEGO City Wallpaper for Creative Spaces</h1>
+                <p>Transform your space with vibrant LEGO City wallpaper! Perfect for fans of all ages, these colorful designs bring the excitement of city life right into your home. From bustling streets to iconic structures, create a playful atmosphere that inspires creativity and fun. Ideal for bedrooms, playrooms, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Town wallpaper/PSA : r/lego">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ut6qje1hav381.jpg?auto=webp&s=fa8f9e38fed5b0646e85c1a40bc60421cc10a85e' alt='Town wallpaper/PSA : r/lego'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ut6qje1hav381.jpg?auto=webp&s=fa8f9e38fed5b0646e85c1a40bc60421cc10a85e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego City Wallpapers ·① WallpaperTag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/a7/57/92a757962ec692e8a4d6b4ca83dff429.jpg' alt='Lego City Wallpapers ·① WallpaperTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/a7/57/92a757962ec692e8a4d6b4ca83dff429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Lego City Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1505322033502-1f4385692e6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVnbyUyMGNpdHl8ZW58MHx8MHx8fDA%3D' alt='30k+ Lego City Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1505322033502-1f4385692e6a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVnbyUyMGNpdHl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greetings from my LEGO city : r/lego">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7oel3dxrr3eb1.jpg' alt='Greetings from my LEGO city : r/lego'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7oel3dxrr3eb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Lego City Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1529978755210-7f13333beb13?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVnbyUyMGNpdHl8ZW58MHx8MHx8fDA%3D' alt='30k+ Lego City Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1529978755210-7f13333beb13?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVnbyUyMGNpdHl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego City Wallpapers ·① WallpaperTag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/c8/1b/33c81b7ca90989adefcbe6933194cf1c.jpg' alt='Lego City Wallpapers ·① WallpaperTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/c8/1b/33c81b7ca90989adefcbe6933194cf1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy LEGO City: Undercover Nintendo eShop">
+                                <img itemprop="contentUrl url" src='https://gaming-cdn.com/images/products/12385/orig/lego-city-undercover-switch-game-nintendo-eshop-europe-cover.jpg?v=1730888603' alt='Buy LEGO City: Undercover Nintendo eShop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant-Gaming.com" />
+                                </span>
+                                <a href='https://gaming-cdn.com/images/products/12385/orig/lego-city-undercover-switch-game-nintendo-eshop-europe-cover.jpg?v=1730888603' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO Cityscape HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/293/thumb-1920-293276.jpg' alt='LEGO Cityscape HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/293/thumb-1920-293276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego City">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/69350/lego-city.jpg?h=699&q=85' alt='Lego City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/69350/lego-city.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego City Disney Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lego-city-disney-desktop-3luvlz98fda9j86w.jpg' alt='Lego City Disney Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lego-city-disney-desktop-3luvlz98fda9j86w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

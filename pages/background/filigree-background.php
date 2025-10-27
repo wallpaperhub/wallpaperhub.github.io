@@ -1,0 +1,129 @@
+<title>Stunning Filigree Backgrounds: Elevate Your Design</title>
+                    <meta name="description" content="Discover exquisite filigree backgrounds that add elegance to your designs. Ideal for art, fashion, and more, these intricate patterns enhance visual appeal. Explore creative uses and transform your projects with stunning filigree styles today!">
+                    <meta name="keywords" content="filigree background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/filigree-background">
+                            <span itemprop="name">filigree background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Filigree Backgrounds: Elevate Your Design</h1>
+                <p>Filigree backgrounds are intricate and elegant designs, often featuring delicate patterns of twisting lines and shapes. Perfect for enhancing visual appeal in art, fashion, and decorative items, these backgrounds evoke luxury and craftsmanship. Their versatile nature allows for creative combinations in various projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,700+ Filigree Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1146149707/vector/vintage-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Yntf7r7KLtgFHa4T7YGWr_NBcx_52XF4Ws2zXRbn1qs=' alt='26,700+ Filigree Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1146149707/vector/vintage-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Yntf7r7KLtgFHa4T7YGWr_NBcx_52XF4Ws2zXRbn1qs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/39/88/86/360_F_39888693_uz138XG13zrhNbIxE8TG9vaSPBWphnHS.jpg' alt='Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/39/88/86/360_F_39888693_uz138XG13zrhNbIxE8TG9vaSPBWphnHS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/65/40/47/360_F_265404764_ipyTF8k7smZp2KpswVduA422etJnBdlk.jpg' alt='Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/65/40/47/360_F_265404764_ipyTF8k7smZp2KpswVduA422etJnBdlk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,700+ Filigree Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1032136406/vector/floral-ornate-decorative-seamless-background.jpg?s=612x612&w=0&k=20&c=XUXjLLeMGCzVJNBgy4txIVEAGVCAgW4abPKyjuU0Xk4=' alt='26,700+ Filigree Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1032136406/vector/floral-ornate-decorative-seamless-background.jpg?s=612x612&w=0&k=20&c=XUXjLLeMGCzVJNBgy4txIVEAGVCAgW4abPKyjuU0Xk4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,700+ Filigree Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1217106005/vector/abstract-vector-floral-seamless-pattern-can-be-used-for-cards-invitations-fabrics-wallpapers.jpg?s=612x612&w=0&k=20&c=5p09awLBCJS8SKxm2w13w3BtTZfhGkVqKmcRvfKEkTQ=' alt='26,700+ Filigree Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1217106005/vector/abstract-vector-floral-seamless-pattern-can-be-used-for-cards-invitations-fabrics-wallpapers.jpg?s=612x612&w=0&k=20&c=5p09awLBCJS8SKxm2w13w3BtTZfhGkVqKmcRvfKEkTQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/80/31/20/360_F_680312073_FXLviUIRL4a41Y0wHzpGX6VB22kSwVM8.jpg' alt='Filigree Background Images – Browse 250,235 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/80/31/20/360_F_680312073_FXLviUIRL4a41Y0wHzpGX6VB22kSwVM8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="94 Black Filigree Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2029033903/vector/elegant-gold-victorian-flourish.jpg?s=612x612&w=gi&k=20&c=C2_40f__4dV9tG4RRNWBhII2ZBcTS9Vv2fbyDoLF6r4=' alt='94 Black Filigree Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2029033903/vector/elegant-gold-victorian-flourish.jpg?s=612x612&w=gi&k=20&c=C2_40f__4dV9tG4RRNWBhII2ZBcTS9Vv2fbyDoLF6r4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filigree Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/seamless-background-light-blue-color-damascus-style_1284-47122.jpg' alt='Filigree Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/seamless-background-light-blue-color-damascus-style_1284-47122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filigree Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-golden-irregular-organic-seamless-pattern_1409-4322.jpg' alt='Filigree Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-golden-irregular-organic-seamless-pattern_1409-4322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,000+ Black Filigree Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1138781614/vector/luxury-background-vector-oriental-mandala-royal-pattern-seamless-paisley-for-christmas-party.jpg?s=612x612&w=0&k=20&c=5b_PHwPLLMl4x6VQ1tfAnzxZLxuNo6UZaebo2Nj0IEg=' alt='4,000+ Black Filigree Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1138781614/vector/luxury-background-vector-oriental-mandala-royal-pattern-seamless-paisley-for-christmas-party.jpg?s=612x612&w=0&k=20&c=5b_PHwPLLMl4x6VQ1tfAnzxZLxuNo6UZaebo2Nj0IEg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

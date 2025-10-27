@@ -1,0 +1,129 @@
+<title>Unique Christmas Invitation Backgrounds for Your Festive Gatherings</title>
+                    <meta name="description" content="Discover stunning Christmas invitation backgrounds that elevate your holiday celebrations! Our vibrant designs cater to every festive occasion, ensuring your invitations are as memorable as your events. Perfect for mobile viewing, get ready to spread holiday cheer with style!">
+                    <meta name="keywords" content="christmas invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-invitation-background">
+                            <span itemprop="name">christmas invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unique Christmas Invitation Backgrounds for Your Festive Gatherings</h1>
+                <p>Celebrate the joy of the season with our enchanting Christmas invitation backgrounds! Choose from festive designs featuring snowflakes, holiday ornaments, and cozy winter scenes. Perfect for any event, these vibrant backdrops will set the tone for your holiday gathering. Spread cheer and invite loved ones to join in the festivities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Christmas Invitation Stock Illustrations – 102,385 Elegant ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-christmas-invitation-card-festive-tree-snowflakes-green-luxurious-showcases-art-deco-style-charming-345400896.jpg' alt='Elegant Christmas Invitation Stock Illustrations – 102,385 Elegant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-christmas-invitation-card-festive-tree-snowflakes-green-luxurious-showcases-art-deco-style-charming-345400896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Red, Christmas, Invitation Background Images, Red Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/14/83/b914837c6ea14c1502aa308a7da881e9.jpg' alt='Free Red, Christmas, Invitation Background Images, Red Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/14/83/b914837c6ea14c1502aa308a7da881e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas invitation card background | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-invitation-card-background_398492-15059.jpg' alt='Christmas invitation card background | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-invitation-card-background_398492-15059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas background for 2025 invitation">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/31/86/54/1000_F_231865464_9wEwmECVXlMJTonbRH7yEkgzgu1dNLVN.jpg' alt='Christmas background for 2025 invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/31/86/54/1000_F_231865464_9wEwmECVXlMJTonbRH7yEkgzgu1dNLVN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,479,307 Christmas Invite Background Royalty-Free Photos and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/christmas-tree-bauble-hanging-snowflake-600nw-2532097907.jpg' alt='1,479,307 Christmas Invite Background Royalty-Free Photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/christmas-tree-bauble-hanging-snowflake-600nw-2532097907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Watercolor Christmas Invitation Card On White Background ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/png-images/20241116/elegant-watercolor-christmas-invitation-card-on-white-background-_11096409.png!sw800' alt='Elegant Watercolor Christmas Invitation Card On White Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/png-images/20241116/elegant-watercolor-christmas-invitation-card-on-white-background-_11096409.png!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Party Invitation Images – Browse 865,953 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/81/59/86/360_F_181598605_JK95vKyOoDbxTIAnb9fPfoSN6c9ZISyR.jpg' alt='Christmas Party Invitation Images – Browse 865,953 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/81/59/86/360_F_181598605_JK95vKyOoDbxTIAnb9fPfoSN6c9ZISyR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Party Invitation Background - Invitation Design Blog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/24/05/17/240517711f98a3b9adc3d7442187a3d2.jpg' alt='Christmas Party Invitation Background - Invitation Design Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/24/05/17/240517711f98a3b9adc3d7442187a3d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute invitation background for Christmas menu. Blank paper for ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R3EXNJ/cute-invitation-background-for-christmas-menu-blank-paper-for-text-vintage-kitchen-utensils-santa-and-tree-in-a-magical-atsmofera-R3EXNJ.jpg' alt='Cute invitation background for Christmas menu. Blank paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R3EXNJ/cute-invitation-background-for-christmas-menu-blank-paper-for-text-vintage-kitchen-utensils-santa-and-tree-in-a-magical-atsmofera-R3EXNJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62,300 Christmas Party Invitation Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/christmas-gifts-red-ribbon-bows-decorations-beige-background-xmas-poster-vertical-banner-party-invitation-template-333688655.jpg' alt='62,300 Christmas Party Invitation Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/christmas-gifts-red-ribbon-bows-decorations-beige-background-xmas-poster-vertical-banner-party-invitation-template-333688655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

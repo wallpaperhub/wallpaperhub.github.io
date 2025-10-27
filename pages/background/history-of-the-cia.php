@@ -1,0 +1,129 @@
+<title>"The CIA: A Brief History of America's Intelligence Agency"</title>
+                    <meta name="description" content="Discover the intriguing history of the CIA, from its founding post-WWII to its pivotal role in global intelligence and covert operations. Explore how the agency has shaped national security and the controversies surrounding its methods through the decades.">
+                    <meta name="keywords" content="history of the cia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-the-cia">
+                            <span itemprop="name">history of the cia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The CIA: A Brief History of America's Intelligence Agency"</h1>
+                <p>The CIA, established in 1947, evolved from WWII's OSS. Its primary roles include intelligence gathering, covert operations, and national security. Over decades, it engaged in significant events like the Cold War, the Bay of Pigs invasion, and the War on Terror. The agency's controversial practices have sparked debates on ethics and oversight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of CIA - CIA">
+                                <img itemprop="contentUrl url" src='https://www.cia.gov/static/e675f41c1c4bbd64fc1c00d6184d9965/a4a78/CIA_Family_Tree_revised.jpg' alt='History of CIA - CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIA" />
+                                </span>
+                                <a href='https://www.cia.gov/static/e675f41c1c4bbd64fc1c00d6184d9965/a4a78/CIA_Family_Tree_revised.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of CIA - CIA">
+                                <img itemprop="contentUrl url" src='https://www.cia.gov/static/a7527bccab04635b90298c78ebb39844/4512b/image-1.jpg' alt='History of CIA - CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIA" />
+                                </span>
+                                <a href='https://www.cia.gov/static/a7527bccab04635b90298c78ebb39844/4512b/image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Establishment of the CIA | Harry S. Truman">
+                                <img itemprop="contentUrl url" src='https://www.trumanlibrary.gov/sites/default/files/establishment-of-cia.jpg' alt='Establishment of the CIA | Harry S. Truman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Truman Library" />
+                                </span>
+                                <a href='https://www.trumanlibrary.gov/sites/default/files/establishment-of-cia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of CIA - CIA">
+                                <img itemprop="contentUrl url" src='https://www.cia.gov/static/0427d6a47ffa3b243ad85617103f3178/bd400/image-1-1.jpg' alt='History of CIA - CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIA" />
+                                </span>
+                                <a href='https://www.cia.gov/static/0427d6a47ffa3b243ad85617103f3178/bd400/image-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legacy of Ashes: The History of the CIA">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71d-T2AzruL._AC_UF1000,1000_QL80_.jpg' alt='Legacy of Ashes: The History of the CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71d-T2AzruL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The CIA">
+                                <img itemprop="contentUrl url" src='https://www.hachettebookgroup.com/wp-content/uploads/2023/10/9781541645912.jpg' alt='The CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1677">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hachette Book Group" />
+                                </span>
+                                <a href='https://www.hachettebookgroup.com/wp-content/uploads/2023/10/9781541645912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Inside The CIA: The Editors of History Channel: 9781547862955:  Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61J+kE5GAUL.jpg' alt='History Inside The CIA: The Editors of History Channel: 9781547862955:  Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61J+kE5GAUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Central Intelligence Agency - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/ba/CIA_Memorial_Wall_2021.jpg' alt='History of the Central Intelligence Agency - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/ba/CIA_Memorial_Wall_2021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Agency: A History of the CIA">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51W90XV3pXL._SL500_.jpg' alt='The Agency: A History of the CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audible" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51W90XV3pXL._SL500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secrecy, Democracy, and the Birth of the CIA">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Q4RC4B8A2xk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3lkMm2Xx0d51lXOvZ6NCFtLlOmw' alt='Secrecy, Democracy, and the Birth of the CIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Q4RC4B8A2xk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3lkMm2Xx0d51lXOvZ6NCFtLlOmw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

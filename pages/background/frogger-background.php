@@ -1,0 +1,129 @@
+<title>Classic Frogger Game: Navigate the Busy Road</title>
+                    <meta name="description" content="Explore the iconic Frogger game from 1981! Navigate your frog safely across a busy road and treacherous river, dodging obstacles. Discover tips, strategies, and the game's legacy. Perfect for gamers and nostalgia lovers alike! Get ready to leap back into this classic arcade experience!">
+                    <meta name="keywords" content="frogger background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frogger-background">
+                            <span itemprop="name">frogger background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Frogger Game: Navigate the Busy Road</h1>
+                <p>Frogger is a classic arcade game released by Konami in 1981. Players must navigate a frog across a busy road and hazardous river, avoiding cars, logs, and other obstacles. Its iconic gameplay and vibrant graphics contributed to its popularity, making Frogger a timeless legend in gaming history, also inspiring sequels and adaptations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixilart - Frogger Background by Anonymous">
+                                <img itemprop="contentUrl url" src='https://art.pixilart.com/f3a78cc98592f29.png' alt='Pixilart - Frogger Background by Anonymous'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixilart" />
+                                </span>
+                                <a href='https://art.pixilart.com/f3a78cc98592f29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frogger Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/62/c8/1e62c87298f567c62eb42e413e6047b2.jpg' alt='Frogger Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/62/c8/1e62c87298f567c62eb42e413e6047b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="davis frogger background - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/0Meo6sHg.jpg' alt='davis frogger background - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/0Meo6sHg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Frogger HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/577/577490.jpg' alt='Download Video Game Frogger HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/577/577490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frogger Tutorial part 1">
+                                <img itemprop="contentUrl url" src='x-raw-image:///9e72868ac4e0e86ccef1661967c1b85448a4766d052b498dee1863be03fc02f1' alt='Frogger Tutorial part 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="excamera.com" />
+                                </span>
+                                <a href='x-raw-image:///9e72868ac4e0e86ccef1661967c1b85448a4766d052b498dee1863be03fc02f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frogger">
+                                <img itemprop="contentUrl url" src='https://danielafcarey.github.io/frogger/assets/background.png' alt='Frogger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1098">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub Pages" />
+                                </span>
+                                <a href='https://danielafcarey.github.io/frogger/assets/background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coding Wednesday - Frogger">
+                                <img itemprop="contentUrl url" src='http://codingwednesday.weebly.com/uploads/3/7/5/4/37546767/1106743.png?299' alt='Coding Wednesday - Frogger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='http://codingwednesday.weebly.com/uploads/3/7/5/4/37546767/1106743.png?299' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frogger Wallpaper | Arcade Game Background Images and Artwork">
+                                <img itemprop="contentUrl url" src='https://classicgaming.cc/classics/frogger/images/wallpaper/wallpaper-frogger-screen-sm.jpg' alt='Frogger Wallpaper | Arcade Game Background Images and Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classic Gaming" />
+                                </span>
+                                <a href='https://classicgaming.cc/classics/frogger/images/wallpaper/wallpaper-frogger-screen-sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CS 1110 Fall 2020">
+                                <img itemprop="contentUrl url" src='https://www.cs.cornell.edu/courses/cs1110/2020fa/assignments/a7/images/background-complete.png' alt='CS 1110 Fall 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cornell CS" />
+                                </span>
+                                <a href='https://www.cs.cornell.edu/courses/cs1110/2020fa/assignments/a7/images/background-complete.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frogger game hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2CBNXRG/frogger-atari-5200-editorial-use-only-2CBNXRG.jpg' alt='Frogger game hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2CBNXRG/frogger-atari-5200-editorial-use-only-2CBNXRG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

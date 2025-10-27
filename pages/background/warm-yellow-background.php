@@ -1,0 +1,129 @@
+<title>Vibrant Warm Yellow Background Ideas</title>
+                    <meta name="description" content="Discover the cheerful essence of a warm yellow background! Perfect for designs, interiors, and branding, this vibrant hue inspires positivity and creativity. Explore how to incorporate this uplifting color into your projects for an inviting and joyful atmosphere.">
+                    <meta name="keywords" content="warm yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/warm-yellow-background">
+                            <span itemprop="name">warm yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Warm Yellow Background Ideas</h1>
+                <p>A warm yellow background evokes feelings of happiness, positivity, and energy. It brightens spaces, making them feel inviting and cheerful. Ideal for designs that aim to uplift, it adds warmth and a touch of sunshine. Use it in art, interiors, or branding to create a vibrant atmosphere that encourages creativity and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2874.jpg' alt='Warm Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="warm-yellow-background-1920×1080 – Catch As Catch Can">
+                                <img itemprop="contentUrl url" src='https://oldschoolgrappling.com/wp-content/uploads/2018/08/warm-yellow-background-1920x1080.jpg' alt='warm-yellow-background-1920×1080 – Catch As Catch Can'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old School Grappling" />
+                                </span>
+                                <a href='https://oldschoolgrappling.com/wp-content/uploads/2018/08/warm-yellow-background-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Yellow Backgrounds Images – Browse 1,463,504 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/61/10/63/360_F_961106301_cArI6gtMuyyJTQTmtyEqgaSKDLj8WyMa.jpg' alt='Warm Yellow Backgrounds Images – Browse 1,463,504 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/61/10/63/360_F_961106301_cArI6gtMuyyJTQTmtyEqgaSKDLj8WyMa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic warm yellow background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2d/b3/a2/2db3a2fc09f2f74038f75ac3f77730d5.jpg' alt='Basic warm yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2d/b3/a2/2db3a2fc09f2f74038f75ac3f77730d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract yellow background. Warm color tone background. Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/51/28/86/1000_F_151288615_IFIuB3vHFKcmlrT3FX2eSn1ZWCPpb0Rk.jpg' alt='Abstract yellow background. Warm color tone background. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/51/28/86/1000_F_151288615_IFIuB3vHFKcmlrT3FX2eSn1ZWCPpb0Rk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Yellow Walls Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-luxury-clear-yellow-wall-well-use-as-backdrop-background-layout_1258-207.jpg' alt='Warm Yellow Walls Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-luxury-clear-yellow-wall-well-use-as-backdrop-background-layout_1258-207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Texture Yellow Wallpaper Background Stock Photo 1162412644 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/yellow-texture-wallpaper-background-260nw-1162412644.jpg' alt='Yellow Texture Yellow Wallpaper Background Stock Photo 1162412644 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="395">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/yellow-texture-wallpaper-background-260nw-1162412644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Small Fresh Warm Yellow Watercolor Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220216/pngtree-simple-small-fresh-warm-yellow-watercolor-background-image_939287.jpg' alt='Simple Small Fresh Warm Yellow Watercolor Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220216/pngtree-simple-small-fresh-warm-yellow-watercolor-background-image_939287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Yellow Background Images – Browse 10,452,402 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/77/75/68/360_F_277756808_lXAWmLV1n92cviyTrC1H4Tvyabum7d7j.jpg' alt='Bright Yellow Background Images – Browse 10,452,402 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/77/75/68/360_F_277756808_lXAWmLV1n92cviyTrC1H4Tvyabum7d7j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Yellow Light - Stock Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-1011863-1572549297749-high_0004.jpg?w=660&q=60&fit=max&auto=format' alt='Warm Yellow Light - Stock Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-1011863-1572549297749-high_0004.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

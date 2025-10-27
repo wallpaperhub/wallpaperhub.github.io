@@ -1,0 +1,129 @@
+<title>Read Across America: Celebrate Literacy and Learning</title>
+                    <meta name="description" content="Join the Read Across America movement to inspire a love for reading in children! This annual celebration promotes literacy through engaging activities and community involvement, making reading fun and accessible for all ages. Embrace the joy of books and encourage young minds to explore new adventures through literature.">
+                    <meta name="keywords" content="read across america">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/read-across-america">
+                            <span itemprop="name">read across america</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Read Across America: Celebrate Literacy and Learning</h1>
+                <p>Read Across America is an annual celebration that encourages children to read and fosters a love for literature. Launched by the National Education Association, this event emphasizes the importance of reading in developing critical thinking skills and imagination. Schools and communities across the nation host various activities, engaging students with books and authors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America to Celebrate Literacy and Dr. Seuss | LitReactor">
+                                <img itemprop="contentUrl url" src='https://cdn.litreactor.com/admin/featured_image/3017/seuss-read-across-america-4d8b96.webp' alt='Read Across America to Celebrate Literacy and Dr. Seuss | LitReactor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitReactor" />
+                                </span>
+                                <a href='https://cdn.litreactor.com/admin/featured_image/3017/seuss-read-across-america-4d8b96.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America Metal Button | SchoolLife.com">
+                                <img itemprop="contentUrl url" src='https://www.schoollife.com/media/catalog/product/cache/2/image/1800x/040ec09b1e35df139433887a97daa66f/b/u/but-met-raa-1.jpg' alt='Read Across America Metal Button | SchoolLife.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brag Tags" />
+                                </span>
+                                <a href='https://www.schoollife.com/media/catalog/product/cache/2/image/1800x/040ec09b1e35df139433887a97daa66f/b/u/but-met-raa-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America Week - 2022 | Auburn Elementary School">
+                                <img itemprop="contentUrl url" src='https://campussuite-storage.s3.amazonaws.com/prod/1558774/0fe95a24-a31d-11e9-aabe-12253009c2da/2377553/b5cad262-904e-11ec-a21d-0e07ff07e5f3/optimizations/512' alt='Read Across America Week - 2022 | Auburn Elementary School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.barrow.k12.ga.us" />
+                                </span>
+                                <a href='https://campussuite-storage.s3.amazonaws.com/prod/1558774/0fe95a24-a31d-11e9-aabe-12253009c2da/2377553/b5cad262-904e-11ec-a21d-0e07ff07e5f3/optimizations/512' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEA's Read Across America: Approved Logos | NEA">
+                                <img itemprop="contentUrl url" src='https://www.nea.org/sites/default/files/2021-01/RAA%20LOGO_MAP_BLUE_fullsize.png' alt='NEA's Read Across America: Approved Logos | NEA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2471">
+                                <meta itemprop="height" content="1657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Education Association" />
+                                </span>
+                                <a href='https://www.nea.org/sites/default/files/2021-01/RAA%20LOGO_MAP_BLUE_fullsize.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America - EBR Schools">
+                                <img itemprop="contentUrl url" src='https://ebrschools.org/wp-content/uploads/2024/03/MEL-read-across-america-1024x768.webp' alt='Read Across America - EBR Schools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EBR Schools" />
+                                </span>
+                                <a href='https://ebrschools.org/wp-content/uploads/2024/03/MEL-read-across-america-1024x768.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ketron Celebrates Read Across America Week | Ketron Elementary">
+                                <img itemprop="contentUrl url" src='http://www.sullivank12.net/kes/wp-content/uploads/sites/16/2018/02/Readacrossamerica.png' alt='Ketron Celebrates Read Across America Week | Ketron Elementary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sullivan County Schools |" />
+                                </span>
+                                <a href='http://www.sullivank12.net/kes/wp-content/uploads/sites/16/2018/02/Readacrossamerica.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bookmark with Red Tassel - Read Across America (Stripes ...">
+                                <img itemprop="contentUrl url" src='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/b/m/bmk-reg-17_1.jpg' alt='Bookmark with Red Tassel - Read Across America (Stripes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brag Tags" />
+                                </span>
+                                <a href='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/b/m/bmk-reg-17_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy "Read Across America Day!" Kick-off by Celebrating Dr. Seuss ...">
+                                <img itemprop="contentUrl url" src='https://www.kumon.com/resources/wp-content/uploads/2017/07/Dr-Seuss-800-x-400-1.jpg' alt='Happy "Read Across America Day!" Kick-off by Celebrating Dr. Seuss ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kumon" />
+                                </span>
+                                <a href='https://www.kumon.com/resources/wp-content/uploads/2017/07/Dr-Seuss-800-x-400-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America Day - 1st Grade Blog">
+                                <img itemprop="contentUrl url" src='https://3broscookies.com/wp-content/uploads/2022/03/raa.jpg' alt='Read Across America Day - 1st Grade Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Summit Preparatory School" />
+                                </span>
+                                <a href='https://3broscookies.com/wp-content/uploads/2022/03/raa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Read Across America Week | Odom Elementary School">
+                                <img itemprop="contentUrl url" src='https://campussuite-storage.s3.amazonaws.com/prod/01e73vqm9r1j96j5m04zmpq86h/01hqnnvcsrae1y3ypvd90j6x1t/medium' alt='Read Across America Week | Odom Elementary School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colquitt County Schools" />
+                                </span>
+                                <a href='https://campussuite-storage.s3.amazonaws.com/prod/01e73vqm9r1j96j5m04zmpq86h/01hqnnvcsrae1y3ypvd90j6x1t/medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

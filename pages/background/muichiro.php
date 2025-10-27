@@ -1,0 +1,129 @@
+<title>Exploring Muichiro Tokito: The Ever-Focused Hashira</title>
+                    <meta name="description" content="Discover Muichiro Tokito, the remarkable Hashira from "Demon Slayer." Known for his incredible sword skills and compelling backstory, Muichiro embodies determination and focus. Dive into the world of this enigmatic character and learn what makes him a fan favorite in the series.">
+                    <meta name="keywords" content="muichiro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/muichiro">
+                            <span itemprop="name">muichiro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Muichiro Tokito: The Ever-Focused Hashira</h1>
+                <p>Muichiro Tokito is a standout character from the popular anime and manga series "Demon Slayer: Kimetsu no Yaiba." As a Hashira, he wields exceptional swordsmanship and a unique fighting style, characterized by his profound focus and speed. Despite his young age, Muichiro's tragic backstory and unwavering determination captivate fans, making him a beloved figure in the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muichiro Tokito | Top-Strongest Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/topstrongest/images/8/8a/Muichiro_Render_Anime_%28KnY%29.png/revision/latest?cb=20220420033817' alt='Muichiro Tokito | Top-Strongest Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top-Strongest Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/topstrongest/images/8/8a/Muichiro_Render_Anime_%28KnY%29.png/revision/latest?cb=20220420033817' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge Reaction to Muichiro Tokito's Smile in "Demon Slayer" - New ...">
+                                <img itemprop="contentUrl url" src='https://us.oricon-group.com/upimg/detail/0/670/img660/ab0b4efe8dc8fe3c333c087e8a6ba438.jpg' alt='Huge Reaction to Muichiro Tokito's Smile in "Demon Slayer" - New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Japan Anime News powered by ORICON NEWS" />
+                                </span>
+                                <a href='https://us.oricon-group.com/upimg/detail/0/670/img660/ab0b4efe8dc8fe3c333c087e8a6ba438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The "Mu" in "Muichiro" stands for "Infinity" ! [Art by me] : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-mu-in-muichiro-stands-for-infinity-art-by-me-v0-um3f4l8dv13b1.png?auto=webp&s=aad0495ae5425883b6c38267566a795fb06b9c8c' alt='The "Mu" in "Muichiro" stands for "Infinity" ! [Art by me] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3551">
+                                <meta itemprop="height" content="4490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-mu-in-muichiro-stands-for-infinity-art-by-me-v0-um3f4l8dv13b1.png?auto=webp&s=aad0495ae5425883b6c38267566a795fb06b9c8c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confused about Muichiro's character : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/confused-about-muichiros-character-v0-4rdenkexz5qd1.png?auto=webp&s=cf013b692bbf841f34c8574744ad5e415b0f8b3c' alt='Confused about Muichiro's character : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/confused-about-muichiros-character-v0-4rdenkexz5qd1.png?auto=webp&s=cf013b692bbf841f34c8574744ad5e415b0f8b3c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Eastern Entertainment Demon Slayer S3 - Muichiro Tokito Throw Blanket  46" W x 60" H">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719XZWSHIDL._AC_UF894,1000_QL80_.jpg' alt='Great Eastern Entertainment Demon Slayer S3 - Muichiro Tokito Throw Blanket  46" W x 60" H'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719XZWSHIDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muichiro Tokito | Near Pure Good Hero Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/near-pure-good-hero/images/3/3c/Muichiro_Tokito_render.webp/revision/latest?cb=20250109005650' alt='Muichiro Tokito | Near Pure Good Hero Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Near Pure Good Hero Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/near-pure-good-hero/images/3/3c/Muichiro_Tokito_render.webp/revision/latest?cb=20250109005650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muichiro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/9d/8c/3c9d8c828424974628ec1373076c6784.jpg' alt='Muichiro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/9d/8c/3c9d8c828424974628ec1373076c6784.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Muichiro Tokito in Demon Slayer? Story, personality | ONE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.oneesports.gg/cdn-data/2023/05/Anime_DemonSlayer_MuichiroTokito_MistHashira_2.webp' alt='Who is Muichiro Tokito in Demon Slayer? Story, personality | ONE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONE Esports" />
+                                </span>
+                                <a href='https://cdn.oneesports.gg/cdn-data/2023/05/Anime_DemonSlayer_MuichiroTokito_MistHashira_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Mist Hashira: Muichiro Tokito – Sugoi Mart by Japan Crate">
+                                <img itemprop="contentUrl url" src='https://images.surferseo.art/13d88d56-b0a0-4776-bec7-0ecb3da72b63.webp' alt='Demon Slayer Mist Hashira: Muichiro Tokito – Sugoi Mart by Japan Crate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sugoi Mart" />
+                                </span>
+                                <a href='https://images.surferseo.art/13d88d56-b0a0-4776-bec7-0ecb3da72b63.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Muichiro Tokito">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100083324210000' alt='Profile for Muichiro Tokito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100083324210000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

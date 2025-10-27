@@ -1,0 +1,129 @@
+<title>Spider-Man: Into the Spider-Verse 2 Wallpaper Collection</title>
+                    <meta name="description" content="Discover a fantastic collection of wallpapers from "Spider-Man: Into the Spider-Verse 2." Perfect for fans wanting to showcase their love for the film on their devices. Download high-quality images and immerse yourself in the thrilling multiverse of Spider-Man today!">
+                    <meta name="keywords" content="spiderman into the spider verse 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman">
+                            <span itemprop="name">Spiderman</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spiderman/spiderman-into-the-spider-verse-2-wallpaper">
+                            <span itemprop="name">spiderman into the spider verse 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spider-Man: Into the Spider-Verse 2 Wallpaper Collection</h1>
+                <p>Explore stunning wallpapers from "Spider-Man: Into the Spider-Verse 2," featuring vibrant artwork and dynamic scenes. Perfect for any fan, these wallpapers capture the essence of the multiverse and the beloved characters. Download your favorite now and bring the excitement of Spider-Man right to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-man Into the Spider-Verse Wallpaper by Thekingblader995 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfylpne-d32e5569-bcbd-4c32-bcd4-bf4f3e2cf9a6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ5bHBuZS1kMzJlNTU2OS1iY2JkLTRjMzItYmNkNC1iZjRmM2UyY2Y5YTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DIJRacdh0jEHndKqjIKWLjI1hELwqOKJvCwC4nQzqP0' alt='Spider-man Into the Spider-Verse Wallpaper by Thekingblader995 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfylpne-d32e5569-bcbd-4c32-bcd4-bf4f3e2cf9a6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ5bHBuZS1kMzJlNTU2OS1iY2JkLTRjMzItYmNkNC1iZjRmM2UyY2Y5YTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DIJRacdh0jEHndKqjIKWLjI1hELwqOKJvCwC4nQzqP0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-man: Across the Spider-Verse Wallpaper by Thekingblader995 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfys4a6-3f67a1bc-8b7e-4716-9818-7ab5d6364fb1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ5czRhNi0zZjY3YTFiYy04YjdlLTQ3MTYtOTgxOC03YWI1ZDYzNjRmYjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KuTyJqVtTs7FGk5RkzH7oZs1Xa7L3v6WRs5PYjXfyFQ' alt='Spider-man: Across the Spider-Verse Wallpaper by Thekingblader995 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfys4a6-3f67a1bc-8b7e-4716-9818-7ab5d6364fb1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ5czRhNi0zZjY3YTFiYy04YjdlLTQ3MTYtOTgxOC03YWI1ZDYzNjRmYjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KuTyJqVtTs7FGk5RkzH7oZs1Xa7L3v6WRs5PYjXfyFQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miles Morales Movie Spider-Man: Across The Spider-Verse ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/129/1298820.jpg' alt='Download Miles Morales Movie Spider-Man: Across The Spider-Verse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="3099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/129/1298820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Spider-Verse 2 Art, HD wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/b2/14/f2b2142e598138e2f881db9806238968.jpg' alt='Into The Spider-Verse 2 Art, HD wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/b2/14/f2b2142e598138e2f881db9806238968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Into The Spider verse awesome wallpaper : r/Spiderman">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/s98f3vxa8r721.jpg?auto=webp&s=d10b9c05d651e014ccad39b6d981536d06375a2b' alt='Spider-Man Into The Spider verse awesome wallpaper : r/Spiderman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/s98f3vxa8r721.jpg?auto=webp&s=d10b9c05d651e014ccad39b6d981536d06375a2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miles Morales Spider Man Movie Spider-Man: Across The ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/119/1195072.jpg' alt='Download Miles Morales Spider Man Movie Spider-Man: Across The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/119/1195072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Across The Spider-Verse 2022, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/492/894/HD-wallpaper-spider-man-across-the-spider-verse-iphone-movie-poster-thumbnail.jpg' alt='Spider-Man Across The Spider-Verse 2022, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/492/894/HD-wallpaper-spider-man-across-the-spider-verse-iphone-movie-poster-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Into the Spider-Verse Wallpaper 4K, Miles Morales">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/spider-man-into-the-spider-verse-miles-morales-spider-man-3440x1440-2948.jpg' alt='Spider-Man: Into the Spider-Verse Wallpaper 4K, Miles Morales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/spider-man-into-the-spider-verse-miles-morales-spider-man-3440x1440-2948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Verse 2, 2099, miles morales, spider man, spider verse ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/644/83/HD-wallpaper-spider-verse-2-2099-miles-morales-spider-man-spider-verse-venom.jpg' alt='Spider Verse 2, 2099, miles morales, spider man, spider verse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/644/83/HD-wallpaper-spider-verse-2-2099-miles-morales-spider-man-spider-verse-venom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Into the Spider-Verse Wallpapers (115 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/3/d/105271-1080x2240-iphone-hd-spider-man-into-the-spider-verse-background.jpg' alt='Spider-Man: Into the Spider-Verse Wallpapers (115 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/3/d/105271-1080x2240-iphone-hd-spider-man-into-the-spider-verse-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

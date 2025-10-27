@@ -1,0 +1,129 @@
+<title>Do Employers Consider Summary Offenses in Hiring?</title>
+                    <meta name="description" content="Explore how summary offenses impact employment opportunities. Learn whether employers take these minor offenses seriously and how they can affect your job application. Get insights into background checks and tips for addressing past issues in interviews.">
+                    <meta name="keywords" content="do employers care about summary offenses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-employers-care-about-summary-offenses">
+                            <span itemprop="name">do employers care about summary offenses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Employers Consider Summary Offenses in Hiring?</h1>
+                <p>Employers do care about summary offenses, as they can provide insight into a candidate's character and reliability. While minor offenses might be overlooked, repeated offenses could raise red flags. Employers often conduct background checks, and being transparent about any past offenses can build trust during the hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com">
+                                <img itemprop="contentUrl url" src='https://www.mcandrewslegal.com/wp-content/uploads/2023/10/jobs-you-may-have-difficulty-getting-hired-for-with-a-summary-offense-record.jpg' alt='PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1475">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PA Criminal Defense and DUI Trial Attorney" />
+                                </span>
+                                <a href='https://www.mcandrewslegal.com/wp-content/uploads/2023/10/jobs-you-may-have-difficulty-getting-hired-for-with-a-summary-offense-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com">
+                                <img itemprop="contentUrl url" src='https://www.mcandrewslegal.com/wp-content/uploads/2025/02/when-can-a-summary-offense-be-expunged.png' alt='PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2370">
+                                <meta itemprop="height" content="2370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PA Criminal Defense and DUI Trial Attorney" />
+                                </span>
+                                <a href='https://www.mcandrewslegal.com/wp-content/uploads/2025/02/when-can-a-summary-offense-be-expunged.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com">
+                                <img itemprop="contentUrl url" src='https://www.mcandrewslegal.com/wp-content/uploads/2022/08/pa-non-traffic-summary-offenses-eligible-for-expungement.png' alt='PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2481">
+                                <meta itemprop="height" content="3010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PA Criminal Defense and DUI Trial Attorney" />
+                                </span>
+                                <a href='https://www.mcandrewslegal.com/wp-content/uploads/2022/08/pa-non-traffic-summary-offenses-eligible-for-expungement.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summary Convictions and Background Searches">
+                                <img itemprop="contentUrl url" src='https://www.mystatecollegelawyer.com/wp-content/uploads/2019/07/criminal_record.jgp_.jpg' alt='Summary Convictions and Background Searches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.mystatecollegelawyer.com" />
+                                </span>
+                                <a href='https://www.mystatecollegelawyer.com/wp-content/uploads/2019/07/criminal_record.jgp_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com">
+                                <img itemprop="contentUrl url" src='https://www.mcandrewslegal.com/wp-content/uploads/2023/12/person-filling-out-job-application-with-criminal-record-check-1024x388.jpg' alt='PA Summary Offense Expungement Lawyer | 2025 | McAndrewslegal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PA Criminal Defense and DUI Trial Attorney" />
+                                </span>
+                                <a href='https://www.mcandrewslegal.com/wp-content/uploads/2023/12/person-filling-out-job-application-with-criminal-record-check-1024x388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Background Report - Edge Information">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' alt='How to Read a Background Report - Edge Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Best Practices for Criminal Background Checks for Employment">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Criminal%201.png?width=650&height=261&name=Criminal%201.png' alt='5 Best Practices for Criminal Background Checks for Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Criminal%201.png?width=650&height=261&name=Criminal%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resetting the Record: The Facts on Hiring People with Criminal ...">
+                                <img itemprop="contentUrl url" src='https://www.rand.org/content/rand/pubs/research_briefs/RBA2968-1/_jcr_content/par/product/par-research-brief/wrapperdiv_678820943/imagewithclass.fit.900x0.svg/1703174025768.svg' alt='Resetting the Record: The Facts on Hiring People with Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RAND" />
+                                </span>
+                                <a href='https://www.rand.org/content/rand/pubs/research_briefs/RBA2968-1/_jcr_content/par/product/par-research-brief/wrapperdiv_678820943/imagewithclass.fit.900x0.svg/1703174025768.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linking People with Criminal Records to Employment in the ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///43001fa5602573e49b03c68edcd8b7fc14c8bd16fdae10f1e065e18f8ab23187' alt='Linking People with Criminal Records to Employment in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1297">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASPE - HHS.gov" />
+                                </span>
+                                <a href='x-raw-image:///43001fa5602573e49b03c68edcd8b7fc14c8bd16fdae10f1e065e18f8ab23187' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

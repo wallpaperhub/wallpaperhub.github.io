@@ -1,0 +1,129 @@
+<title>Spice Girls Live at NEC Arena: CD 1 Wallpaper</title>
+                    <meta name="description" content="Discover the Spice Girls' electrifying performance at the NEC Arena with our exclusive CD 1 wallpaper. Perfect for fans, this vibrant design captures the energy of their live show, bringing a touch of 90s nostalgia to your device. Download now to celebrate this iconic moment in music history.">
+                    <meta name="keywords" content="spice girls live from the nec arena in birmingham (cd 1) wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/spice-girls-live-from-the-nec-arena-in-birmingham-cd-1-wallpaper">
+                            <span itemprop="name">spice girls live from the nec arena in birmingham (cd 1) wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spice Girls Live at NEC Arena: CD 1 Wallpaper</h1>
+                <p>Experience the iconic Spice Girls live at the NEC Arena in Birmingham with our exclusive CD 1 wallpaper. Celebrate their unforgettable performance and relive the magic of the 90s with vibrant visuals that capture the energy and spirit of the group. Perfect for fans and collectors alike, this wallpaper is a must-have for any Spice Girls enthusiast!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/c38a59cdbe706b29c35bf9b120187d65_250x250.jpg' alt='Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/c38a59cdbe706b29c35bf9b120187d65_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live In Arnhem (Live) (CD1) - Spice Girls">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/8badc1055a658e31a8f2d46c099a2bf9_250x250.jpg' alt='Spiceworld Tour Live In Arnhem (Live) (CD1) - Spice Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/8badc1055a658e31a8f2d46c099a2bf9_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spice Girls - Live In Birmingham - 22 - We Are Family">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/v2ygA1V8EpQ/maxresdefault.jpg' alt='Spice Girls - Live In Birmingham - 22 - We Are Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/v2ygA1V8EpQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live In Madrid (Live) (CD1) - Spice Girls">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/5c58abdf362f511a2f8cc2990a0fcdcb_250x250.jpg' alt='Spiceworld Tour Live In Madrid (Live) (CD1) - Spice Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/1cd/295/d35/ec5/295/5d4/5c58abdf362f511a2f8cc2990a0fcdcb_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/40b/32b/8a0/57e/88d/721/dc6424babda6745c938678a0a8000b1d_250x250.jpg' alt='Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/40b/32b/8a0/57e/88d/721/dc6424babda6745c938678a0a8000b1d_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/1cd/295/ab7/3ee/88d/295/f074bd862f451690d04fc9fa2d4df9c6_250x250.jpg' alt='Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/1cd/295/ab7/3ee/88d/295/f074bd862f451690d04fc9fa2d4df9c6_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spice Girls – The Concert / Live In Birmingham – 2 x CD ...">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/EDRpf_h2lm1Zqmci7Be-LmcEJiSxlmsE8JbbsvbgZk8/rs:fit/g:sm/q:90/h:453/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU2/MTEtMTM4MTA4ODE2/NS01OTQyLmpwZWc.jpeg' alt='Spice Girls – The Concert / Live In Birmingham – 2 x CD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/EDRpf_h2lm1Zqmci7Be-LmcEJiSxlmsE8JbbsvbgZk8/rs:fit/g:sm/q:90/h:453/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU2/MTEtMTM4MTA4ODE2/NS01OTQyLmpwZWc.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...">
+                                <img itemprop="contentUrl url" src='https://photos.eruce.com/thumbs/1cd/295/ab7/3ee/88d/295/ea034a8f22d6f61d37f85b2a5b88573d_250x250.jpg' alt='Spiceworld Tour Live From The NEC Arena In Birmingham (Live) (CD1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eruce.com" />
+                                </span>
+                                <a href='https://photos.eruce.com/thumbs/1cd/295/ab7/3ee/88d/295/ea034a8f22d6f61d37f85b2a5b88573d_250x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,402 Spice Girls Concert Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/85363214/photo/united-kingdom-wembley-arena-photo-of-spice-girls-group-performing-live-on-stage-spiceworld.jpg?s=612x612&w=gi&k=20&c=389UW19ECRR_whsjkNP_EMXfXK8_TeKtTQsUIfP775w=' alt='1,402 Spice Girls Concert Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/85363214/photo/united-kingdom-wembley-arena-photo-of-spice-girls-group-performing-live-on-stage-spiceworld.jpg?s=612x612&w=gi&k=20&c=389UW19ECRR_whsjkNP_EMXfXK8_TeKtTQsUIfP775w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spice Girls – The Concert / Live In Birmingham – 2 x CD ...">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/PlqBP5J38iW1Mg_CLEOL8KgdJ4_hBc_Yd54npiRqp84/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY5/NDktMTMzOTE0NzM5/Mi00NzY3LmpwZWc.jpeg' alt='Spice Girls – The Concert / Live In Birmingham – 2 x CD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="293">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/PlqBP5J38iW1Mg_CLEOL8KgdJ4_hBc_Yd54npiRqp84/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY5/NDktMTMzOTE0NzM5/Mi00NzY3LmpwZWc.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

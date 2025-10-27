@@ -1,0 +1,129 @@
+<title>A Brief History of Civil Courts: From Ancient Times to Today</title>
+                    <meta name="description" content="Explore the evolution of civil courts, tracing their origins from ancient magistrates to the modern legal system. Discover how these institutions have shaped the administration of justice and civil rights throughout history.">
+                    <meta name="keywords" content="civil court history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/civil-court-history">
+                            <span itemprop="name">civil court history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A Brief History of Civil Courts: From Ancient Times to Today</h1>
+                <p>The history of civil courts dates back to ancient societies where disputes were settled by local magistrates. Over centuries, civil law evolved, influenced by Roman law, common law, and statutes. Civil courts became more structured in the 19th century, providing a formal mechanism for resolving civil disputes, protecting rights, and ensuring justice for all citizens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient History and the Civil Courts Building">
+                                <img itemprop="contentUrl url" src='https://assets.site-static.com/blogphotos/2912/34230-civilcourts-3.jpg' alt='Ancient History and the Civil Courts Building'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gellman Team" />
+                                </span>
+                                <a href='https://assets.site-static.com/blogphotos/2912/34230-civilcourts-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient History and the Civil Courts Building">
+                                <img itemprop="contentUrl url" src='https://assets.site-static.com/userFiles/2912/image/Blogs_/South_East_View_of_the_Mausoleum_as_Restored_by_James_Fergusson1862.jpg' alt='Ancient History and the Civil Courts Building'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gellman Team" />
+                                </span>
+                                <a href='https://assets.site-static.com/userFiles/2912/image/Blogs_/South_East_View_of_the_Mausoleum_as_Restored_by_James_Fergusson1862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Court - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/Microcosm_of_London_Plate_058_-_Old_Bailey_edited.jpg' alt='Court - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/Microcosm_of_London_Plate_058_-_Old_Bailey_edited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil court cases: Court of Common Pleas - The National Archives">
+                                <img itemprop="contentUrl url" src='https://www.nationalarchives.gov.uk/wp-content/uploads/2024/05/Picture1CP.png' alt='Civil court cases: Court of Common Pleas - The National Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Archives" />
+                                </span>
+                                <a href='https://www.nationalarchives.gov.uk/wp-content/uploads/2024/05/Picture1CP.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Law Library's Home in the Civil Courts Building | Law Library ...">
+                                <img itemprop="contentUrl url" src='https://llastl.org/sites/default/files/styles/large/public/2024-11/upper%20civil%20courts%20building.jpg?itok=JF9IG_a-' alt='The Law Library's Home in the Civil Courts Building | Law Library ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Library Association of St. Louis" />
+                                </span>
+                                <a href='https://llastl.org/sites/default/files/styles/large/public/2024-11/upper%20civil%20courts%20building.jpg?itok=JF9IG_a-' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Search Civil Court Cases Like a Pro – Diligentia Group">
+                                <img itemprop="contentUrl url" src='https://diligentiagroup.com/wp-content/uploads/2019/11/Guide-Search-Civil-Court-Cases.jpg' alt='Guide to Search Civil Court Cases Like a Pro – Diligentia Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diligentia Group" />
+                                </span>
+                                <a href='https://diligentiagroup.com/wp-content/uploads/2019/11/Guide-Search-Civil-Court-Cases.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Courts Building (St. Louis) | National Building Arts Center">
+                                <img itemprop="contentUrl url" src='http://web.nationalbuildingarts.org/wp-content/uploads/2017/07/CivilCourts_1929_p5_print7_07-813x1024.jpg' alt='Civil Courts Building (St. Louis) | National Building Arts Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Building Arts Center" />
+                                </span>
+                                <a href='http://web.nationalbuildingarts.org/wp-content/uploads/2017/07/CivilCourts_1929_p5_print7_07-813x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient History and the Civil Courts Building">
+                                <img itemprop="contentUrl url" src='https://assets.site-static.com/userFiles/2912/image/Blogs_/CivilCourtB/civilcourts_2.jpg' alt='Ancient History and the Civil Courts Building'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gellman Team" />
+                                </span>
+                                <a href='https://assets.site-static.com/userFiles/2912/image/Blogs_/CivilCourtB/civilcourts_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History | Law Library Association of Saint Louis">
+                                <img itemprop="contentUrl url" src='https://llastl.org/sites/default/files/inline-images/LLAbuildingvert_0.jpeg' alt='History | Law Library Association of Saint Louis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2736">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Library Association of St. Louis" />
+                                </span>
+                                <a href='https://llastl.org/sites/default/files/inline-images/LLAbuildingvert_0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overview of Court Records - Rootsweb">
+                                <img itemprop="contentUrl url" src='https://wiki.rootsweb.com/wiki/images/6/67/Colonial-court-system-lores.jpg' alt='Overview of Court Records - Rootsweb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RootsWeb Wiki" />
+                                </span>
+                                <a href='https://wiki.rootsweb.com/wiki/images/6/67/Colonial-court-system-lores.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

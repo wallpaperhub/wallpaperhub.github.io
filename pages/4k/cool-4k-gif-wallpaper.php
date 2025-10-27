@@ -1,0 +1,129 @@
+<title>Stunning Cool 4K GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best cool 4K GIF wallpapers to elevate your device’s appearance. Explore a diverse collection of animated visuals that add a dynamic touch to your screens. Perfect for all styles—find and download your favorites today for a fresh and vibrant look!">
+                    <meta name="keywords" content="cool 4k gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/cool-4k-gif-wallpaper">
+                            <span itemprop="name">cool 4k gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cool 4K GIF Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning cool 4K GIF wallpapers! From mesmerizing nature scenes to vibrant abstract designs, these high-quality animations will breathe life into your screens. Perfect for anyone who loves dynamic visuals, explore a variety of styles and find the perfect GIF to match your personality today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' alt='Gif Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doubly Pyramidal + 4K UHD+ Wallpaper by Admiral Potato on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/21050337/file/original-e5632c0c315eaf08cf7f905e516221a4.gif' alt='Doubly Pyramidal + 4K UHD+ Wallpaper by Admiral Potato on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/21050337/file/original-e5632c0c315eaf08cf7f905e516221a4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RAINBOW CAUSTICS PARTY! + 4K Wallpapers by Admiral Potato on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/21222604/file/original-2a11f419cb89d052598773756935b9a3.gif' alt='RAINBOW CAUSTICS PARTY! + 4K Wallpapers by Admiral Potato on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/21222604/file/original-2a11f419cb89d052598773756935b9a3.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Backgrounds GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/JpScsr53qh6sR6dSeJ/giphy.gif?cid=6c09b952proltyqysn76zvm6cs2b5vfiaqeyk0puf0uohksb&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='4k Backgrounds GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/JpScsr53qh6sR6dSeJ/giphy.gif?cid=6c09b952proltyqysn76zvm6cs2b5vfiaqeyk0puf0uohksb&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIF - Wallpaper - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' alt='Wallpaper GIF - Wallpaper - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crusader Arts "Red Room" Tribute + 4K Wallpaper by Admiral Potato ...">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/21337202/file/original-12999f8ccb1f06dd6f69ed9ef0f16241.gif' alt='Crusader Arts "Red Room" Tribute + 4K Wallpaper by Admiral Potato ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/21337202/file/original-12999f8ccb1f06dd6f69ed9ef0f16241.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif wallpaper hotsell hd">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2510496.gif' alt='Gif wallpaper hotsell hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cala" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2510496.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/200w.gif?cid=6c09b952vd9u538s8acbbds9o8orrg72xpndl341g67ywln1&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Mobile Phone Gif Wallpaper High Resolution Is 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/81/5d/a3815d393a7c6d9e34b2480e8893be1d.gif' alt='Animated Mobile Phone Gif Wallpaper High Resolution Is 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/81/5d/a3815d393a7c6d9e34b2480e8893be1d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

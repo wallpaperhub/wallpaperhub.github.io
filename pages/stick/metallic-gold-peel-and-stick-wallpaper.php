@@ -1,0 +1,129 @@
+<title>Metallic Gold Peel and Stick Wallpaper: Quick Glam for Your Walls</title>
+                    <meta name="description" content="Elevate your decor with metallic gold peel and stick wallpaper. Easy to apply and remove, this stylish wallpaper is perfect for DIY renovations or renters looking to add a touch of elegance to any room. Get a luxurious look without the commitment!">
+                    <meta name="keywords" content="metallic gold peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/metallic-gold-peel-and-stick-wallpaper">
+                            <span itemprop="name">metallic gold peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Metallic Gold Peel and Stick Wallpaper: Quick Glam for Your Walls</h1>
+                <p>Transform your space with stunning metallic gold peel and stick wallpaper! This stylish and easy-to-apply wallpaper adds a touch of luxury to any room. Perfect for renters or a quick home makeover, simply peel off the backing and stick to the wall. Durable and removable, it offers a chic alternative to traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Peel and Stick Wallpaper (24" x 78", Gold) Removable Peel and  Stick Waterproof Contact Paper for Cabinets Bookshelf Drawer Table ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/915NIin9QWL.jpg' alt='Metallic Gold Peel and Stick Wallpaper (24" x 78", Gold) Removable Peel and  Stick Waterproof Contact Paper for Cabinets Bookshelf Drawer Table ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/915NIin9QWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Gold Leaf Distressed Gold Peel And Stick Wallpaper, 56 Sq.  Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899910869038_2.jpg?v=1694156133' alt='Decoratorsbest Gold Leaf Distressed Gold Peel And Stick Wallpaper, 56 Sq.  Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899910869038_2.jpg?v=1694156133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Peel and Stick Wallpaper Morrissey MFW10806">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/gold-peel-and-stick-wallpaper-187269.jpg?v=1682014649&width=500' alt='Gold Peel and Stick Wallpaper Morrissey MFW10806'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/gold-peel-and-stick-wallpaper-187269.jpg?v=1682014649&width=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kushner Metallic Glitter Shinny Peel and Stick Wallpaper Embossed Interior  film Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/78721356/compr-r85/9204/92040258/kushner-metallic-glitter-shinny-peel-and-stick-wallpaper-embossed-interior-film-self-adhesive.jpg' alt='Kushner Metallic Glitter Shinny Peel and Stick Wallpaper Embossed Interior  film Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/78721356/compr-r85/9204/92040258/kushner-metallic-glitter-shinny-peel-and-stick-wallpaper-embossed-interior-film-self-adhesive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Gold Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/distressed-gold-leaf_di543_roll_d42b2a78-c119-402f-85b7-8de644d1669a_1800x1800.jpg?v=1737731116' alt='Distressed Gold Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/distressed-gold-leaf_di543_roll_d42b2a78-c119-402f-85b7-8de644d1669a_1800x1800.jpg?v=1737731116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marrakesh Midnight & Metallic Gold Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://makerandmoss.com/cdn/shop/products/marrakesh-midnight-metallic-gold-peel-and-stick-wallpaper-lifestyle-tempaper-designs-2.jpg?v=1621862684' alt='Marrakesh Midnight & Metallic Gold Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maker & Moss" />
+                                </span>
+                                <a href='https://makerandmoss.com/cdn/shop/products/marrakesh-midnight-metallic-gold-peel-and-stick-wallpaper-lifestyle-tempaper-designs-2.jpg?v=1621862684' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Silversmoke and Metallic Gold Starburst Geo Vinyl Peel ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/56884713-0eaa-4ea0-9817-a9dc7feb1eb5/svn/nextwall-wallpaper-rolls-nw43105-64_600.jpg' alt='NextWall Silversmoke and Metallic Gold Starburst Geo Vinyl Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/56884713-0eaa-4ea0-9817-a9dc7feb1eb5/svn/nextwall-wallpaper-rolls-nw43105-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Birds By Cynthia Rowley Metallic Gold And Black Peel And  Stick Wallpaper, 60 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899912310830.jpg?v=1693660627' alt='Decoratorsbest Birds By Cynthia Rowley Metallic Gold And Black Peel And  Stick Wallpaper, 60 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899912310830.jpg?v=1693660627' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11381WP_RS1_productspecialeffects-calloutex_f865d802-75a7-4fef-a572-525e64c0ca9f.jpg?v=1703798725&width=800' alt='Metallic Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11381WP_RS1_productspecialeffects-calloutex_f865d802-75a7-4fef-a572-525e64c0ca9f.jpg?v=1703798725&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Art  Deco Non-Metallic Gold Wallpaper - A931">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5988388946_fwgn.jpg?v=1722437491&width=1946' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Art  Deco Non-Metallic Gold Wallpaper - A931'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5988388946_fwgn.jpg?v=1722437491&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

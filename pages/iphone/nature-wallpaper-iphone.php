@@ -1,0 +1,129 @@
+<title>Stunning Nature Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore breathtaking nature wallpapers for your iPhone to refresh your screen. Discover scenic views and serene landscapes that bring the beauty of the great outdoors to your device. Perfect for nature lovers seeking inspiration and tranquility, all optimized for mobile display. Download now!">
+                    <meta name="keywords" content="nature wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/nature-wallpaper-iphone">
+                            <span itemprop="name">nature wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nature Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning nature wallpapers that capture the beauty of the outdoors. From serene landscapes and majestic mountains to vibrant forests and calming rivers, these wallpapers can elevate your device's aesthetic. Enjoy a daily dose of tranquility and inspiration right at your fingertips!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Aesthetic | Nature Aesthetic Wallpaper | Nature Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/ca/53/05ca53e71cde12f5a17bae2726c210db.jpg' alt='Nature Aesthetic | Nature Aesthetic Wallpaper | Nature Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/ca/53/05ca53e71cde12f5a17bae2726c210db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature At Dawn 4k Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/colorful-trees-nature-4k-iphone-kf99ymc7u0zhz73n.webp' alt='Nature At Dawn 4k Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/colorful-trees-nature-4k-iphone-kf99ymc7u0zhz73n.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get free Exclusive Ultra HD nature's Wallpaper for iPhone|android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/3e/94/483e94bebca8185159a4506a6cfe9ae7.jpg' alt='Get free Exclusive Ultra HD nature's Wallpaper for iPhone|android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/3e/94/483e94bebca8185159a4506a6cfe9ae7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone nature wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/477/777/HD-wallpaper-iphone-14-pro-max-nature-thumbnail.jpg' alt='HD iphone nature wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/477/777/HD-wallpaper-iphone-14-pro-max-nature-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uncover The Beauty Of Nature - 4k Nature Wallpaper For Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/river-nature-4k-iphone-o5kigq5gok3bne7f.webp' alt='Uncover The Beauty Of Nature - 4k Nature Wallpaper For Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/river-nature-4k-iphone-o5kigq5gok3bne7f.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Nature Wallpapers: Explore Stunning Free Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-nature-wallpapers/ocean-waves-iphone-nature-wallpaper' alt='iPhone Nature Wallpapers: Explore Stunning Free Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-nature-wallpapers/ocean-waves-iphone-nature-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mesmerizing iPhone X Nature Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-x-nature-1125-x-2436-background-1clh6dtdmrr9swnz.jpg' alt='Download Mesmerizing iPhone X Nature Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-x-nature-1125-x-2436-background-1clh6dtdmrr9swnz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ck2kly0xp4551.jpg?width=1080&crop=smart&auto=webp&s=7bbdf7c2cb823c79fa9114704e2966b50afb87d3' alt='Nature : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ck2kly0xp4551.jpg?width=1080&crop=smart&auto=webp&s=7bbdf7c2cb823c79fa9114704e2966b50afb87d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Photography Nature Wallpaper Iphone - 640x1136 Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/03/78/97/037897224e0eb0ba120dbbb22beccdaf.jpg' alt='Nature Photography Nature Wallpaper Iphone - 640x1136 Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/03/78/97/037897224e0eb0ba120dbbb22beccdaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Nature | 66 best free grey, outdoor, plant, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1595160561330-37e8aa3459e7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8MTE0NzEwODh8fGVufDB8fHx8fA%3D%3D' alt='iPhone Wallpaper Nature | 66 best free grey, outdoor, plant, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1595160561330-37e8aa3459e7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8MTE0NzEwODh8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

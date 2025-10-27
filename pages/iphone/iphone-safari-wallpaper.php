@@ -1,0 +1,129 @@
+<title>Stunning iPhone Safari Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore a beautiful collection of iPhone Safari wallpapers to customize your device. With high-quality images spanning various styles, find the perfect backdrop for your home screen or lock screen. Download now to give your iPhone a fresh new look in just a few taps!">
+                    <meta name="keywords" content="iphone safari wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-safari-wallpaper">
+                            <span itemprop="name">iphone safari wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Safari Wallpapers for Every Style</h1>
+                <p>Discover stunning iPhone Safari wallpapers that elevate your device's aesthetics. From serene landscapes to vibrant abstract designs, our collection is tailored to fit your style. Transform your screen into a personalized canvas with high-resolution images perfect for any mood. Download your favorites and make your iPhone shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solo Tree Safari Africa Sunset iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/09/0d/62090dec4a92d3f13a587a8d2c6e1f67.jpg' alt='Solo Tree Safari Africa Sunset iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/09/0d/62090dec4a92d3f13a587a8d2c6e1f67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | A Lion At Sunset | Art Of Safari">
+                                <img itemprop="contentUrl url" src='https://artofsafari.travel/wp-content/uploads/2017/11/Art-Of-Safari_Wallpaper_Nov2017_1440-X-2560.jpg' alt='Wallpaper | A Lion At Sunset | Art Of Safari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art Of Safari" />
+                                </span>
+                                <a href='https://artofsafari.travel/wp-content/uploads/2017/11/Art-Of-Safari_Wallpaper_Nov2017_1440-X-2560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Africa Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/africa-iphone-9a0mbk4v9mnusr42.jpg' alt='100+] Africa Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/africa-iphone-9a0mbk4v9mnusr42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giraffe, animal, safari, horizon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/721/934/HD-wallpaper-giraffe-animal-safari-horizon.jpg' alt='Giraffe, animal, safari, horizon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/721/934/HD-wallpaper-giraffe-animal-safari-horizon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion, animal, big cat, dangerous, king, safari, wild, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/648/994/HD-wallpaper-lion-animal-big-cat-dangerous-king-safari-wild.jpg' alt='Lion, animal, big cat, dangerous, king, safari, wild, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/648/994/HD-wallpaper-lion-animal-big-cat-dangerous-king-safari-wild.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Safari Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10043222.jpg' alt='iPhone Safari Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10043222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone 6 Wallpaper / Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/48/15/674815015c519cf6bc7eda050f99135c.jpg' alt='Free iPhone 6 Wallpaper / Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/48/15/674815015c519cf6bc7eda050f99135c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone have the wallpaper used in the recent iPhone Safari ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anyone-have-the-wallpaper-used-in-the-recent-iphone-safari-v0-ytvte8zpjajd1.jpeg?width=1290&format=pjpg&auto=webp&s=acc6f45a3f55ef56ac0a853e2ef5c72ebe7a3071' alt='Anyone have the wallpaper used in the recent iPhone Safari ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anyone-have-the-wallpaper-used-in-the-recent-iphone-safari-v0-ytvte8zpjajd1.jpeg?width=1290&format=pjpg&auto=webp&s=acc6f45a3f55ef56ac0a853e2ef5c72ebe7a3071' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Safari wallpapers optimized for iPhone, iPad, desktop">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2021/08/Safari-Wallpaper-AR72014-iDownloadBlog-Blue.jpeg' alt='macOS Safari wallpapers optimized for iPhone, iPad, desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2021/08/Safari-Wallpaper-AR72014-iDownloadBlog-Blue.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mf04-solo-tree-safari-day-africa-sunrise - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-mf04-solo-tree-safari-day-africa-sunrise-41-iphone-wallpaper.jpg' alt='mf04-solo-tree-safari-day-africa-sunrise - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-mf04-solo-tree-safari-day-africa-sunrise-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

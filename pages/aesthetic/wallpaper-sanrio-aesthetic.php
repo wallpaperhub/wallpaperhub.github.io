@@ -1,0 +1,129 @@
+<title>Sanrio Aesthetic Wallpapers: Cute Decor Ideas</title>
+                    <meta name="description" content="Explore charming Sanrio aesthetic wallpapers to elevate your home decor! Featuring iconic characters, these designs add a playful touch to any space. Discover the perfect blend of cuteness and style, ideal for fans of pastel colors and whimsical themes. Transform your walls today!">
+                    <meta name="keywords" content="wallpaper sanrio aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-sanrio-aesthetic">
+                            <span itemprop="name">wallpaper sanrio aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sanrio Aesthetic Wallpapers: Cute Decor Ideas</h1>
+                <p>Transform your space with adorable Sanrio aesthetic wallpapers! Featuring beloved characters like Hello Kitty and Cinnamoroll, these cute designs bring joy and charm to any room. Perfect for lovers of pastel colors and whimsical patterns, these wallpapers add a touch of fun and personality to your home decor, making every wall a delight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/59/15/83/591583757aa2907a4727c8635a90f99c.jpg' alt='900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/59/15/83/591583757aa2907a4727c8635a90f99c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty Friends Cinnamoroll Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-friends-cinnamoroll-aesthetic-hcvnsd4y8vawsx14.jpg' alt='Download Hello Kitty Friends Cinnamoroll Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="809">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-friends-cinnamoroll-aesthetic-hcvnsd4y8vawsx14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello kitty, aesthetic, pastel, pink, sanrio, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1001/461/HD-wallpaper-hello-kitty-aesthetic-pastel-pink-sanrio-thumbnail.jpg' alt='Hello kitty, aesthetic, pastel, pink, sanrio, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1001/461/HD-wallpaper-hello-kitty-aesthetic-pastel-pink-sanrio-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio characters wallpapers : r/CinnamorollClub">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sanrio-characters-wallpapers-v0-jvb8ejy7ym5d1.jpg?width=640&crop=smart&auto=webp&s=d51f7a488735bb2a3f1bbd0dc2711e3edd906e2f' alt='Sanrio characters wallpapers : r/CinnamorollClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sanrio-characters-wallpapers-v0-jvb8ejy7ym5d1.jpg?width=640&crop=smart&auto=webp&s=d51f7a488735bb2a3f1bbd0dc2711e3edd906e2f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio wallpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/55/57/b855574bdb93ec65f2dcddc47f252142.jpg' alt='Sanrio wallpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/55/57/b855574bdb93ec65f2dcddc47f252142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Characters At The Door Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sanrio-characters-at-the-door-udqr1qiaespr8x3m.jpg' alt='Sanrio Characters At The Door Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sanrio-characters-at-the-door-udqr1qiaespr8x3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SANRIO WALLPAPERS – @yellow-maiden on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9285598ea82b2b71c319c0042b434b0b/4812e20a3bd13667-6b/s1280x1920/963c431a4e2ca5dc874fe5d51cb4c3ba32c2be34.jpg' alt='SANRIO WALLPAPERS – @yellow-maiden on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9285598ea82b2b71c319c0042b434b0b/4812e20a3bd13667-6b/s1280x1920/963c431a4e2ca5dc874fe5d51cb4c3ba32c2be34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Wallpaper 10.0 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/sanrio-wallpaper/00/00/0H/Q4/00000HQ4CX/pad_screenshot.png' alt='Sanrio Wallpaper 10.0 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/sanrio-wallpaper/00/00/0H/Q4/00000HQ4CX/pad_screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sanrio Characters Pastel Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sanrio-characters-pastel-aesthetic-2yjw7x09x482tmce.jpg' alt='Download Sanrio Characters Pastel Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1011">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sanrio-characters-pastel-aesthetic-2yjw7x09x482tmce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/35/35/97/3535978ed8bcbe2ce0319a1e1c76e4fa.jpg' alt='900+ Sanrio ideas | sanrio, sanrio wallpaper, hello kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/35/35/97/3535978ed8bcbe2ce0319a1e1c76e4fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

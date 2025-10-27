@@ -1,0 +1,129 @@
+<title>Understanding Criminal History: What You Need to Know</title>
+                    <meta name="description" content="Explore essential insights about criminal history, including its implications, legal significance, and the impact on various aspects of life. Stay informed to navigate the complexities of criminal records effectively.">
+                    <meta name="keywords" content="criminal history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-history">
+                            <span itemprop="name">criminal history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Criminal History: What You Need to Know</h1>
+                <p>Criminal history refers to the record of a person's criminal offenses, including arrests, convictions, and sentences. It plays a crucial role in various legal contexts, such as employment screening and background checks. Understanding one's criminal history is essential for rehabilitation and ensuring accountability within society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal record - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6f/Capone%E2%80%99s_criminal_record_in_1932.jpg' alt='Criminal record - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6f/Capone%E2%80%99s_criminal_record_in_1932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW DOES A CRIMINAL RECORD AFFECT AN INDIVIDUAL'S LIFE? — E. M. ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/586c5174d2b85773858e20c0/1514321799545-VP03UY2V1DAJMAP1F6W2/Criminal-Background-Check.jpg' alt='HOW DOES A CRIMINAL RECORD AFFECT AN INDIVIDUAL'S LIFE? — E. M. ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E. M. Curran Legal LLC" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/586c5174d2b85773858e20c0/1514321799545-VP03UY2V1DAJMAP1F6W2/Criminal-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Your Criminal Record Clear After 7 Years? - Law Office of ...">
+                                <img itemprop="contentUrl url" src='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_1174972870-1.jpg' alt='Does Your Criminal Record Clear After 7 Years? - Law Office of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Criminal Defense Lawyer" />
+                                </span>
+                                <a href='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_1174972870-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Criminal History Score? - D.C. Witness">
+                                <img itemprop="contentUrl url" src='https://dcwitness.org/wp-content/uploads/2021/05/Screen-Shot-2018-12-13-at-9.55.48-PM-779x1024.png' alt='What is the Criminal History Score? - D.C. Witness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D.C. Witness" />
+                                </span>
+                                <a href='https://dcwitness.org/wp-content/uploads/2021/05/Screen-Shot-2018-12-13-at-9.55.48-PM-779x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Will a Prior Conviction Affect Your Criminal Case ...">
+                                <img itemprop="contentUrl url" src='https://www.justcriminallaw.com/wp-content/uploads/primary-images/1729-1728.jpg' alt='How Will a Prior Conviction Affect Your Criminal Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Criminal Law" />
+                                </span>
+                                <a href='https://www.justcriminallaw.com/wp-content/uploads/primary-images/1729-1728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Massachusetts Criminal & Arrest Record Lookup: Every MA County">
+                                <img itemprop="contentUrl url" src='https://massachusetts.recordspage.org/wp-content/uploads/sites/22/2023/01/Massachusetts-Arrests-And-Criminal-Records.webp' alt='Free Massachusetts Criminal & Arrest Record Lookup: Every MA County'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Massachusetts Public Record Searches (Access Databases)" />
+                                </span>
+                                <a href='https://massachusetts.recordspage.org/wp-content/uploads/sites/22/2023/01/Massachusetts-Arrests-And-Criminal-Records.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Police Departments Can Benefit from Criminal History ...">
+                                <img itemprop="contentUrl url" src='https://s39569.pcdn.co/wp-content/uploads/2022/12/criminal-records-insurance-form-graphic-concept.jpeg' alt='How Police Departments Can Benefit from Criminal History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CPI OpenFox" />
+                                </span>
+                                <a href='https://s39569.pcdn.co/wp-content/uploads/2022/12/criminal-records-insurance-form-graphic-concept.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Massachusetts Ban the Box 2018: Further Amendments to Criminal ...">
+                                <img itemprop="contentUrl url" src='https://ogletree.com/app/uploads/2023/04/BackgroundChecks_GettyImages-921342970-scaled.jpg' alt='Massachusetts Ban the Box 2018: Further Amendments to Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ogletree Deakins" />
+                                </span>
+                                <a href='https://ogletree.com/app/uploads/2023/04/BackgroundChecks_GettyImages-921342970-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clear Criminal History, What Does It Mean? - Bury Your Past">
+                                <img itemprop="contentUrl url" src='https://buryyourpast.com/wp-content/uploads/2019/04/clear-criminal-history.jpg' alt='Clear Criminal History, What Does It Mean? - Bury Your Past'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oklahoma Expungement Attorneys" />
+                                </span>
+                                <a href='https://buryyourpast.com/wp-content/uploads/2019/04/clear-criminal-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Records in Massachusetts | H. Ernest Stone Attorney, PC">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dce3a2f821dca5a029a4cc/665b58ab8930a4891c83686a_65f251a9eae36af0c7c07efc_Untitled_design.png' alt='Criminal Records in Massachusetts | H. Ernest Stone Attorney, PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="H. Ernest Stone, Attorney PC" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dce3a2f821dca5a029a4cc/665b58ab8930a4891c83686a_65f251a9eae36af0c7c07efc_Untitled_design.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

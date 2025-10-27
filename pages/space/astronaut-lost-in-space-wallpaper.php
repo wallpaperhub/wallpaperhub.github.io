@@ -1,0 +1,129 @@
+<title>Astronaut Lost in Space Wallpaper - Explore the Cosmos</title>
+                    <meta name="description" content="Discover our Astronaut Lost in Space Wallpaper, a stunning visual of an astronaut adrift in the cosmos. Perfect for inspiration and escapism, this wallpaper enhances your device while sparking curiosity about the universe. Dive into the mysteries of space today!">
+                    <meta name="keywords" content="astronaut lost in space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/astronaut-lost-in-space-wallpaper">
+                            <span itemprop="name">astronaut lost in space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Astronaut Lost in Space Wallpaper - Explore the Cosmos</h1>
+                <p>Astronaut Lost in Space Wallpaper captures the awe and mystery of the cosmos. Featuring a lone astronaut floating amidst vibrant galaxies and distant stars, this stunning visual evokes feelings of wonder and solitude. Perfect for your device, this wallpaper invites you to explore the unknown and dream of adventures beyond our planet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Mind, Paul Brennus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/55/0b/0f550b53083676711bc2876e268ea6f2.jpg' alt='Lost In Mind, Paul Brennus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/55/0b/0f550b53083676711bc2876e268ea6f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Lost in Space, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/996/843/HD-wallpaper-astronaut-lost-in-space.jpg' alt='Astronaut Lost in Space, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/996/843/HD-wallpaper-astronaut-lost-in-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Galaxy, Stars, The suit, People, Space, Nebula, Star ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/81/emancipated-antifan-real-by-antifan-real-astronaut-lost-in-s.webp' alt='Wallpaper Galaxy, Stars, The suit, People, Space, Nebula, Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/81/emancipated-antifan-real-by-antifan-real-astronaut-lost-in-s.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost in space wallpaper sales">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpapersafari.com/98/58/5RTs01.jpg' alt='Lost in space wallpaper sales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="npl-project.com" />
+                                </span>
+                                <a href='https://cdn.wallpapersafari.com/98/58/5RTs01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Astronaut Lost In Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-forgotten-astronaut-in-the-lost-in-space-movie-poster-lcvs7kcxlsiwcm09.webp' alt='An Astronaut Lost In Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-forgotten-astronaut-in-the-lost-in-space-movie-poster-lcvs7kcxlsiwcm09.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spaceman lost in space wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/815/161/HD-wallpaper-lost-in-space-v2-lost-tm-astronaut-tmdesigns-cosmic-cosmo-cosmos-galaxy-space-spaceman-universe-thumbnail.jpg' alt='HD spaceman lost in space wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/815/161/HD-wallpaper-lost-in-space-v2-lost-tm-astronaut-tmdesigns-cosmic-cosmo-cosmos-galaxy-space-spaceman-universe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Lost Astronaut Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' alt='Most Popular Lost Astronaut Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::astronaut - lost in space">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1046471375063067166/810D9AAB32F888E88205F3F6B2B45AB43366B914/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::astronaut - lost in space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1046471375063067166/810D9AAB32F888E88205F3F6B2B45AB43366B914/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: space, universe, astronaut, lost in space, nebula ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/b1/95/74b19549e15fe1646dc528000721af4a.jpg' alt='HD wallpaper: space, universe, astronaut, lost in space, nebula ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/b1/95/74b19549e15fe1646dc528000721af4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kindly asking a request - Wallpaper art - EndeavourOS">
+                                <img itemprop="contentUrl url" src='https://forum.endeavouros.com/uploads/default/original/3X/4/5/45c8124f6172a1c5d8de736c44f02196c1349793.jpeg' alt='Kindly asking a request - Wallpaper art - EndeavourOS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EndeavourOS Forum" />
+                                </span>
+                                <a href='https://forum.endeavouros.com/uploads/default/original/3X/4/5/45c8124f6172a1c5d8de736c44f02196c1349793.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

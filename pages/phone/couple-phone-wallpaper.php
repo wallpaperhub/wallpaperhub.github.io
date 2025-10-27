@@ -1,0 +1,129 @@
+<title>Beautiful Couple Phone Wallpapers for Every Love Story</title>
+                    <meta name="description" content="Discover the perfect couple phone wallpapers to express your love! Choose from a variety of romantic designs and themes that reflect your unique bond. Personalize your phone while celebrating your relationship with stunning artwork that makes your screen come alive!">
+                    <meta name="keywords" content="couple phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/couple-phone-wallpaper">
+                            <span itemprop="name">couple phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Couple Phone Wallpapers for Every Love Story</h1>
+                <p>Couple phone wallpaper brings a charming aesthetic to your device while celebrating love and togetherness. Choose from a variety of designs, including romantic couples, matching themes, or minimalist artwork that speaks to your bond. Personalize your phone and remind yourselves of the special moments you share every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper Dark | Cute HD Wallpaper | Android Wallpaper | iPhone  Wallpaper | Lock Screen Wallpaper | Gift - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44537920/r/il/b9c8c8/5117816830/il_1080xN.5117816830_doe1.jpg' alt='Couple Wallpaper Dark | Cute HD Wallpaper | Android Wallpaper | iPhone  Wallpaper | Lock Screen Wallpaper | Gift - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44537920/r/il/b9c8c8/5117816830/il_1080xN.5117816830_doe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2021-09-24/1af204bf-fcb2-494e-8f2f-77f8ce58837c.jpg' alt='Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2021-09-24/1af204bf-fcb2-494e-8f2f-77f8ce58837c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Wallpaper for Couples, Friends, Phone Background , Aesthetic Lock  Screen, Gift for Her, Minimalist , Iphone, Samsung, Instant - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_1080xN.4363038478_r4g5.jpg' alt='Matching Wallpaper for Couples, Friends, Phone Background , Aesthetic Lock  Screen, Gift for Her, Minimalist , Iphone, Samsung, Instant - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_1080xN.4363038478_r4g5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2021-06-18/dac5cc55-3b7d-478f-9bb3-32a10c87c586.jpg' alt='Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2021-06-18/dac5cc55-3b7d-478f-9bb3-32a10c87c586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper couple templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJc6PRHbE/1/0/900w/canva-grey-illustration-couple-phone-wallpaper-zHzeNW7ACvU.jpg' alt='Free and customizable wallpaper couple templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJc6PRHbE/1/0/900w/canva-grey-illustration-couple-phone-wallpaper-zHzeNW7ACvU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 pairs of cute couple phone wallpapers ❤ part-2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c6/15/aa/c615aac3abe6a2e89cf4ff30e5b5a8d1.jpg' alt='50 pairs of cute couple phone wallpapers ❤ part-2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c6/15/aa/c615aac3abe6a2e89cf4ff30e5b5a8d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-couple-mobile-phone-wallpaper-background-picture-image_1439111.jpg' alt='Couple phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-couple-mobile-phone-wallpaper-background-picture-image_1439111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple, korean, pareja, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/481/56/HD-wallpaper-couple-korean-pareja.jpg' alt='Couple, korean, pareja, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/481/56/HD-wallpaper-couple-korean-pareja.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Wallpaper for Couples, Friends, Phone Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38765266/r/il/9846ee/4379004366/il_fullxfull.4379004366_4yfk.jpg' alt='Matching Wallpaper for Couples, Friends, Phone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2670">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38765266/r/il/9846ee/4379004366/il_fullxfull.4379004366_4yfk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper couple templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFds7Hj0X8/1/0/900w/canva-beige-minimalist-romantic-couple-photo-collage-phone-wallpaper-uERsnx5QP5s.jpg' alt='Free and customizable wallpaper couple templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFds7Hj0X8/1/0/900w/canva-beige-minimalist-romantic-couple-photo-collage-phone-wallpaper-uERsnx5QP5s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

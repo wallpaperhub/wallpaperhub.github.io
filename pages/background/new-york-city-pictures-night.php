@@ -1,0 +1,129 @@
+<title>Stunning Nighttime Views of New York City</title>
+                    <meta name="description" content="Explore the enchanting beauty of New York City at night through captivating photos that showcase its iconic skyline and vibrant atmosphere. Discover breathtaking views and the magical charm of the city after dark in this collection of stunning nighttime images.">
+                    <meta name="keywords" content="new york city pictures night">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-york-city-pictures-night">
+                            <span itemprop="name">new york city pictures night</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nighttime Views of New York City</h1>
+                <p>New York City transforms into a dazzling spectacle at night, with iconic landmarks illuminated against the shimmering skyline. Capture the vibrant energy of Times Square, the serene beauty of Central Park under the stars, and the majestic Brooklyn Bridge glowing in the moonlight. Nighttime photos reveal the city's unique charm and allure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="59,400+ New York City At Night Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/178735930/photo/dramatic-sunset-view-highlighting-the-empire-state-building.jpg?s=612x612&w=0&k=20&c=vvpfw74yLA1H3ieZh3ENSkeukxjpeXJ-Q6AJovigIEo=' alt='59,400+ New York City At Night Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/178735930/photo/dramatic-sunset-view-highlighting-the-empire-state-building.jpg?s=612x612&w=0&k=20&c=vvpfw74yLA1H3ieZh3ENSkeukxjpeXJ-Q6AJovigIEo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="59,400+ New York City At Night Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' alt='59,400+ New York City At Night Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Night Photos, Download The BEST Free New York Night Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/534757/pexels-photo-534757.jpeg?cs=srgb&dl=pexels-kaip-534757.jpg&fm=jpg' alt='New York Night Photos, Download The BEST Free New York Night Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/534757/pexels-photo-534757.jpeg?cs=srgb&dl=pexels-kaip-534757.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,100+ New York Night Street Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/523538287/photo/times-square.jpg?s=612x612&w=0&k=20&c=gZMU_YAcKxkwUCurZkkAjYOdZfnxhcA_sZnpHMx703A=' alt='22,100+ New York Night Street Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/523538287/photo/times-square.jpg?s=612x612&w=0&k=20&c=gZMU_YAcKxkwUCurZkkAjYOdZfnxhcA_sZnpHMx703A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,788 New York Skyline Night Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/533998713/photo/empire-state-building-at-night.jpg?s=612x612&w=gi&k=20&c=3DbVKyYa3uHn9NCRCUMasBy4ju4sBsuppHfdE1zTP3s=' alt='13,788 New York Skyline Night Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/533998713/photo/empire-state-building-at-night.jpg?s=612x612&w=gi&k=20&c=3DbVKyYa3uHn9NCRCUMasBy4ju4sBsuppHfdE1zTP3s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ New York City Night Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1663956111757-534bcb550932?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMGNpdHklMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D' alt='1000+ New York City Night Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1663956111757-534bcb550932?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMGNpdHklMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Night on the Town Tour 2025">
+                                <img itemprop="contentUrl url" src='https://media.tacdn.com/media/attractions-splice-spp-674x446/09/1f/f7/af.jpg' alt='New York City Night on the Town Tour 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Viator" />
+                                </span>
+                                <a href='https://media.tacdn.com/media/attractions-splice-spp-674x446/09/1f/f7/af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Night, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/303/186/HD-wallpaper-new-york-night.jpg' alt='New York Night, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/303/186/HD-wallpaper-new-york-night.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Experiencing New York at Night: The Best Evening Activities in ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5856bc666a49634cd55b0ba9/8156edb1-a0c5-4c62-8eef-be5f3af20902/new-york-city-at-night.jpeg' alt='Experiencing New York at Night: The Best Evening Activities in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="travelingmitch" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5856bc666a49634cd55b0ba9/8156edb1-a0c5-4c62-8eef-be5f3af20902/new-york-city-at-night.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New York City At Night Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-york-city-at-night-pictures-ohl2oyexvvm8w2f3.jpg' alt='100+] New York City At Night Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-york-city-at-night-pictures-ohl2oyexvvm8w2f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Allure of Gothic Room Wallpaper: Dark Elegance for Your Space</title>
+                    <meta name="description" content="Discover the perfect gothic room wallpaper to elevate your decor. Embrace dark elegance and unique designs that set a mysterious atmosphere. Explore styles including floral, Victorian, and skull patterns, perfect for any gothic enthusiast looking to transform their space.">
+                    <meta name="keywords" content="gothic room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/gothic-room-wallpaper">
+                            <span itemprop="name">gothic room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Allure of Gothic Room Wallpaper: Dark Elegance for Your Space</h1>
+                <p>Transform your space with gothic room wallpaper that embodies dark elegance and mysterious charm. Featuring intricate designs with rich colors and motifs like skulls, roses, and castles, this wallpaper adds a dramatic flair to any room. Perfect for creating a unique atmosphere that blends comfort with a touch of the macabre.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Damask Flock Cobalt Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/3180/10895/104563_2__92429.1681911974.jpg' alt='Gothic Damask Flock Cobalt Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/3180/10895/104563_2__92429.1681911974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Gothic-inspired Wallpaper for Moody Interiors, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41044735/r/il/e887b2/6650637087/il_fullxfull.6650637087_jurj.jpg' alt='Botanical Gothic-inspired Wallpaper for Moody Interiors, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1791">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41044735/r/il/e887b2/6650637087/il_fullxfull.6650637087_jurj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Dark Orange Damask Mural, Brown Victorian Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18351870/r/il/513ef6/5790896183/il_570xN.5790896183_hm72.jpg' alt='Removable Dark Orange Damask Mural, Brown Victorian Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18351870/r/il/513ef6/5790896183/il_570xN.5790896183_hm72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Peel and Stick Wall Mural Wallpaper Gothic Raven Self Adhesive  Removable Wall Stickers for Living Room Bedroom TV Background 100''x144''">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816iEYWQLKL._AC_UF894,1000_QL80_.jpg' alt='Modern Peel and Stick Wall Mural Wallpaper Gothic Raven Self Adhesive  Removable Wall Stickers for Living Room Bedroom TV Background 100''x144'''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816iEYWQLKL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper Gothic hall interior Indoors Castle Inside Cathedral  Architecture Past Self Adhesive Bedroom Living Room Dormitory Decor Wall  Mural Stick ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61dgAzarwnL._AC_UF894,1000_QL80_.jpg' alt='3D Wallpaper Gothic hall interior Indoors Castle Inside Cathedral  Architecture Past Self Adhesive Bedroom Living Room Dormitory Decor Wall  Mural Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61dgAzarwnL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Arches, Vintage">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829804/articles/R19221_interior2.jpg' alt='Gothic Arches, Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1672829804/articles/R19221_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_10-min.jpg?v=1739231685&width=1500' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Gothic_Black_Floral_Pattern_10-min.jpg?v=1739231685&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Black and Silver Removable ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/290e514e-0b93-42ae-982b-b1b1e33859cd/svn/graham-brown-wallpaper-rolls-104562-31_600.jpg' alt='Graham & Brown Gothic Damask Flock Black and Silver Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/290e514e-0b93-42ae-982b-b1b1e33859cd/svn/graham-brown-wallpaper-rolls-104562-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Wallpaper Dark Green Floral Wallpaper Peel and Stick and ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5659243020_194w.jpg?v=1725060330&width=1946' alt='Gothic Wallpaper Dark Green Floral Wallpaper Peel and Stick and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5659243020_194w.jpg?v=1725060330&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark And Decadent Gothic Living Room Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-and-decadent-gothic-living-room-fiwi2kigrdkf9af9.jpg' alt='Dark And Decadent Gothic Living Room Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1731">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-and-decadent-gothic-living-room-fiwi2kigrdkf9af9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

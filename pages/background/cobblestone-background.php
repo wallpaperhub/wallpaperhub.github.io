@@ -1,0 +1,129 @@
+<title>Stunning Cobblestone Backgrounds for Every Design</title>
+                    <meta name="description" content="Discover beautiful cobblestone backgrounds that add a unique, charming touch to your projects. Perfect for websites, invitations, and more, these textured surfaces evoke a sense of history and elegance. Enhance your designs with the timeless beauty of cobblestones today!">
+                    <meta name="keywords" content="cobblestone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cobblestone-background">
+                            <span itemprop="name">cobblestone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cobblestone Backgrounds for Every Design</h1>
+                <p>A cobblestone background brings a touch of rustic charm and timeless elegance to any design. Its textured, uneven surfaces create a rich visual appeal, perfect for enhancing photos, websites, or invitations. Ideal for evoking a sense of history, cobblestones can transport viewers to quaint streets and picturesque landscapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Cobblestone Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675788307231-0b5c625c03d5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29iYmxlc3RvbmV8ZW58MHx8MHx8fDA%3D' alt='100+ Cobblestone Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675788307231-0b5c625c03d5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29iYmxlc3RvbmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,600+ Cobblestone Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410017441/vector/stone-wall-design-for-pattern-and-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=2IY3PSG90KMqM--wgIK_pEBKBQVR8x0yvYr4mfwuWU4=' alt='3,600+ Cobblestone Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410017441/vector/stone-wall-design-for-pattern-and-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=2IY3PSG90KMqM--wgIK_pEBKBQVR8x0yvYr4mfwuWU4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Cobblestone Background Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233295/Gray-Cobblestone-Background-Wall-Mural.jpg?v=638164498301800000' alt='Gray Cobblestone Background Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2133">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233295/Gray-Cobblestone-Background-Wall-Mural.jpg?v=638164498301800000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Street Dark Night Background Texture Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.backdropsource.com/cdn/shop/products/20OldCobblestoneStreetDarkNightBackgroundTextureBackdrop.jpg?v=1591607295' alt='Cobblestone Street Dark Night Background Texture Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdropsource" />
+                                </span>
+                                <a href='https://www.backdropsource.com/cdn/shop/products/20OldCobblestoneStreetDarkNightBackgroundTextureBackdrop.jpg?v=1591607295' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Path Floor">
+                                <img itemprop="contentUrl url" src='http://backgroundtown.com/cdn/shop/files/cobblestone-path-floor-42x5-fleece-50-x-60-inch-backdrop-573.webp?v=1709057664' alt='Cobblestone Path Floor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1167">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundTown" />
+                                </span>
+                                <a href='http://backgroundtown.com/cdn/shop/files/cobblestone-path-floor-42x5-fleece-50-x-60-inch-backdrop-573.webp?v=1709057664' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73,300+ Cobblestone Wall Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/521079280/photo/stone-wall.jpg?s=612x612&w=0&k=20&c=Y8Q2sY89N0f61x1MhvZRQnUnjJCGrnVZ8UXso76g5Gg=' alt='73,300+ Cobblestone Wall Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/521079280/photo/stone-wall.jpg?s=612x612&w=0&k=20&c=Y8Q2sY89N0f61x1MhvZRQnUnjJCGrnVZ8UXso76g5Gg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Background" Images – Browse 242 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/41/23/99/360_F_1241239952_7kD0eziaaN3y6NP7xI59SnD4tnl03bBg.jpg' alt='Cobblestone Background" Images – Browse 242 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/41/23/99/360_F_1241239952_7kD0eziaaN3y6NP7xI59SnD4tnl03bBg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Background - Stock Photos | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion-array/760833/Cobblestone_Background_high_resolution_preview_760833.jpg?Expires=2036553135325&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=w3zNThkLknkcuPp44KmPnw52XXGdvSQ~QkfgQzdxulpHomK9LjFZ1Kzo3042bN4FaSsjITFIJWA9~eKdei1k633DRhuXMoByWZN6QzhTLT-sIyAAx96qvYgFiOqRAMqqu6fUcAgqPlNhngJrzYwaj4aP~gHXMIzX4VuT0qcc~OpSStnbOt0jtk2X777hGrB3Ij0jkkh9svI8ScdPkjj7VoOEoI0eZ9mZNa0XX6zIroeGyfRa8sX2vowAvHCbne7Q5V0nk1A9PWz66wSVz9FxuWAOTUPzy6wXPLmWg6fjmZ~D-IuUGDJ1C2YF1IXl~mAv2vphBPkeKpkNb1S5otT5fQ__' alt='Cobblestone Background - Stock Photos | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion-array/760833/Cobblestone_Background_high_resolution_preview_760833.jpg?Expires=2036553135325&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=w3zNThkLknkcuPp44KmPnw52XXGdvSQ~QkfgQzdxulpHomK9LjFZ1Kzo3042bN4FaSsjITFIJWA9~eKdei1k633DRhuXMoByWZN6QzhTLT-sIyAAx96qvYgFiOqRAMqqu6fUcAgqPlNhngJrzYwaj4aP~gHXMIzX4VuT0qcc~OpSStnbOt0jtk2X777hGrB3Ij0jkkh9svI8ScdPkjj7VoOEoI0eZ9mZNa0XX6zIroeGyfRa8sX2vowAvHCbne7Q5V0nk1A9PWz66wSVz9FxuWAOTUPzy6wXPLmWg6fjmZ~D-IuUGDJ1C2YF1IXl~mAv2vphBPkeKpkNb1S5otT5fQ__' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Background Of Textured Backgrounds | JPG Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/cobblestone-background-of-textured_9972656.jpg!w700wp' alt='Cobblestone Background Of Textured Backgrounds | JPG Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/cobblestone-background-of-textured_9972656.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Patterned Background Paper">
+                                <img itemprop="contentUrl url" src='https://cdn.andersons.com/-/media/Products/hs/decorations/wall-coverings/flat-paper/a002319-cobblestone-patterned-background-paper-000.ashx' alt='Cobblestone Patterned Background Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anderson's" />
+                                </span>
+                                <a href='https://cdn.andersons.com/-/media/Products/hs/decorations/wall-coverings/flat-paper/a002319-cobblestone-patterned-background-paper-000.ashx' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

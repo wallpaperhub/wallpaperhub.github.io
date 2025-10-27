@@ -1,0 +1,129 @@
+<title>Elegant Black Wallpapers for iPhone Lock Screen</title>
+                    <meta name="description" content="Discover the best black wallpapers for your iPhone lock screen! Our collection offers elegant designs that enhance your device's style while maintaining a minimalistic look. Perfect for anyone seeking a sleek and refined background that stands out without being overwhelming. Upgrade your iPhone today!">
+                    <meta name="keywords" content="lock screen:wrl1xiifrba= black wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screenwrl1xiifrba-black-wallpaper-iphone">
+                            <span itemprop="name">lock screen:wrl1xiifrba= black wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Wallpapers for iPhone Lock Screen</h1>
+                <p>Transform your iPhone's lock screen with stunning black wallpapers! Dive into our curated collection of elegant designs that will enhance your device's aesthetic without overpowering it. Perfect for those who appreciate sleek minimalism, these wallpapers ensure a classy and refined look for your iPhone, all while keeping your screen stylish and unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Lockscreen Wallpaper 4k | iPhone Wallpapers in ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/5f/6a/3b/5f6a3b8ddf9d93e3a15432d60f746512.jpg' alt='Black Aesthetic Lockscreen Wallpaper 4k | iPhone Wallpapers in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/5f/6a/3b/5f6a3b8ddf9d93e3a15432d60f746512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Ivy Cool iPhone Lock Screen">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/black-ivy.png' alt='Black Ivy Cool iPhone Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/black-ivy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juice Wrld, lock, love, phone, rapper, rip, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/697/1016/HD-wallpaper-juice-wrld-lock-love-phone-rapper-rip.jpg' alt='Juice Wrld, lock, love, phone, rapper, rip, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/697/1016/HD-wallpaper-juice-wrld-lock-love-phone-rapper-rip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen, Black Locked, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/876/129/HD-wallpaper-iphone-lock-screen-black-locked.jpg' alt='Iphone Lock Screen, Black Locked, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/876/129/HD-wallpaper-iphone-lock-screen-black-locked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/57/5f/99575f976bfeac74e6774dde3dd583a3.jpg' alt='black wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/57/5f/99575f976bfeac74e6774dde3dd583a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Black Wallpaper iPhone change iPhone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/1f/ab/201fab9f84015bc0ca405611ce15d969.jpg' alt='Cool Black Wallpaper iPhone change iPhone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/1f/ab/201fab9f84015bc0ca405611ce15d969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made these images my phone wallpaper (black white = lock screen ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ro7rd26kamg61.jpg?width=640&crop=smart&auto=webp&s=40cacff33fdc04ba61723ae12ede06c239e88d84' alt='I made these images my phone wallpaper (black white = lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ro7rd26kamg61.jpg?width=640&crop=smart&auto=webp&s=40cacff33fdc04ba61723ae12ede06c239e88d84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Locked Bit*ch, Lock screen, Locked, SwishSwish, black, dark, funny ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/36/669/HD-wallpaper-locked-bit-ch-lock-screen-locked-swishswish-black-dark-funny-lockscreen-screensaver.jpg' alt='Locked Bit*ch, Lock screen, Locked, SwishSwish, black, dark, funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/36/669/HD-wallpaper-locked-bit-ch-lock-screen-locked-swishswish-black-dark-funny-lockscreen-screensaver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="560 Black⚫ ideas | black wallpaper, iphone wallpaper, dark wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4f/d7/6d/4fd76d56dae62a30deecced88bee0567.jpg' alt='560 Black⚫ ideas | black wallpaper, iphone wallpaper, dark wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4f/d7/6d/4fd76d56dae62a30deecced88bee0567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9c/7c/2d/9c7c2d8af3377dfc7f7e85c4d18c75fb.jpg' alt='iphone wallpaper lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9c/7c/2d/9c7c2d8af3377dfc7f7e85c4d18c75fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

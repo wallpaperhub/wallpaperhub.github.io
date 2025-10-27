@@ -1,0 +1,129 @@
+<title>Transform Your Space with Laura Ashley Floral Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of Laura Ashley floral wallpaper. Perfect for enhancing your home's aesthetic, these stunning designs create a serene and inviting atmosphere. Ideal for any room, explore beautiful patterns that bring nature indoors effortlessly. Elevate your decor with timeless charm!">
+                    <meta name="keywords" content="laura ashley floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/laura-ashley-floral-wallpaper">
+                            <span itemprop="name">laura ashley floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Laura Ashley Floral Wallpaper</h1>
+                <p>Laura Ashley floral wallpaper adds a touch of timeless elegance to any room. Known for its beautiful floral patterns and high-quality materials, this wallpaper can transform your living space into a serene escape. Perfect for bedrooms, living areas, or hallways, it brings the beauty of nature indoors, creating a warm and inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Meadow Chalk Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/wild-meadow-chalk-pink-wallpaper-180364.jpg?v=1706722935' alt='Wild Meadow Chalk Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/wild-meadow-chalk-pink-wallpaper-180364.jpg?v=1706722935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Tapestry Floral Slate Grey Non Woven Unpasted Removable  Strippable Wallpaper 113408">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b70712b4-59c8-4ce1-bf11-4479ad052e9c/svn/laura-ashley-wallpaper-rolls-113408-64_600.jpg' alt='Laura Ashley Tapestry Floral Slate Grey Non Woven Unpasted Removable  Strippable Wallpaper 113408'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b70712b4-59c8-4ce1-bf11-4479ad052e9c/svn/laura-ashley-wallpaper-rolls-113408-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosemore by Laura Ashley - Pale Sable - Wallpaper - 114897">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/190426_1_orig.jpg' alt='Rosemore by Laura Ashley - Pale Sable - Wallpaper - 114897'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/190426_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountney Garden Antique Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/mountney-garden-antique-pink-wallpaper-343473.jpg?v=1705420549' alt='Mountney Garden Antique Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/mountney-garden-antique-pink-wallpaper-343473.jpg?v=1705420549' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="119846 | Gilly Multicolor Removable - Laura Ashley Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/files/119846_2.jpg?v=1695829124&width=1946' alt='119846 | Gilly Multicolor Removable - Laura Ashley Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/files/119846_2.jpg?v=1695829124&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley 8-in Hazelnut Non-woven Floral 56-sq ft Unpasted ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/36ea9c5f-ca48-474e-9c4b-baf0ea5758b9/61150276.jpg?size=pdhz' alt='Laura Ashley 8-in Hazelnut Non-woven Floral 56-sq ft Unpasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/36ea9c5f-ca48-474e-9c4b-baf0ea5758b9/61150276.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Gosford Cranberry Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://d27hzkfvkajaap.cloudfront.net/uploads/variant_image/image/516b17e8-18ed-459c-8ac1-299fcf0c55a6/preview_Laura_Ashley_Gosford_Cranberry_Floral_Wallpaper-GB113400-Graham_Brown.jpg' alt='Laura Ashley Gosford Cranberry Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scout & Nimble" />
+                                </span>
+                                <a href='https://d27hzkfvkajaap.cloudfront.net/uploads/variant_image/image/516b17e8-18ed-459c-8ac1-299fcf0c55a6/preview_Laura_Ashley_Gosford_Cranberry_Floral_Wallpaper-GB113400-Graham_Brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Roses Ochre Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/wild-roses-ochre-yellow-wallpaper-811013.jpg?v=1706722935' alt='Wild Roses Ochre Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/wild-roses-ochre-yellow-wallpaper-811013.jpg?v=1706722935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Poppy Meadow Wallpaper | Multi | Laura Ashley">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/11771/23600/127407_ROOMSET_POPPY%2520MEADOW%2520MULTI_01__53091.1719391705.jpg' alt='Laura Ashley Poppy Meadow Wallpaper | Multi | Laura Ashley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1606">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/11771/23600/127407_ROOMSET_POPPY%2520MEADOW%2520MULTI_01__53091.1719391705.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Magnolia Grove Natural Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81OpkVBcGxL.jpg' alt='Laura Ashley Magnolia Grove Natural Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81OpkVBcGxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

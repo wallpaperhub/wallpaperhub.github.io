@@ -1,0 +1,129 @@
+<title>Explore Vibrant Trippy Mushroom Art</title>
+                    <meta name="description" content="Discover captivating trippy mushroom art that transforms your space with vivid colors and surreal designs. Perfect for adding a whimsical touch to any room, our collection inspires creativity and curiosity. Dive into the world of psychedelic mushroom art and let your imagination flourish!">
+                    <meta name="keywords" content="trippy mushroom art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trippy-mushroom-art">
+                            <span itemprop="name">trippy mushroom art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Vibrant Trippy Mushroom Art</h1>
+                <p>Trippy mushroom art combines vibrant colors, surreal patterns, and whimsical designs to create an otherworldly experience. Often inspired by psychedelic culture, these artworks transport viewers to imaginative landscapes filled with oversized mushrooms and fantastical elements. Perfect for enhancing a creative space, they spark joy and curiosity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GUHKLSD Psychedelic Mushroom Canvas Print - Vibrant Wall Art for Home Decor  - Trippy Painting for Living Room or Dorm 12x12-Wood frame">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81N4ggyArSL._AC_UF894,1000_QL80_.jpg' alt='GUHKLSD Psychedelic Mushroom Canvas Print - Vibrant Wall Art for Home Decor  - Trippy Painting for Living Room or Dorm 12x12-Wood frame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81N4ggyArSL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy mushroom">
+                                <img itemprop="contentUrl url" src='http://hausandhues.com/cdn/shop/products/RainbowMushroom.png?v=1657231910' alt='Trippy mushroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1672">
+                                <meta itemprop="height" content="2198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haus and Hues" />
+                                </span>
+                                <a href='http://hausandhues.com/cdn/shop/products/RainbowMushroom.png?v=1657231910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LWOAVKEU Mushroom Wall Decor Trippy Mushroom Poster Canvas Wall Art Trippy  Hippie Posters Abstract Home Wall Art Decorations 14.00"x21.00" Unframed">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RscvIkhQL._AC_UF894,1000_QL80_.jpg' alt='LWOAVKEU Mushroom Wall Decor Trippy Mushroom Poster Canvas Wall Art Trippy  Hippie Posters Abstract Home Wall Art Decorations 14.00"x21.00" Unframed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RscvIkhQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generic Magic Valley Trippy Mushrooms Print Wall Art Home Decor - POSTER  20x30">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/s3MAAOSwsRdi46Un/s-l1200.jpg' alt='Generic Magic Valley Trippy Mushrooms Print Wall Art Home Decor - POSTER  20x30'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/s3MAAOSwsRdi46Un/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Psychedelic Art Greeting Card Glows in Black Light - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5150462/r/il/3e2b80/2884666803/il_fullxfull.2884666803_if85.jpg' alt='Mushroom Psychedelic Art Greeting Card Glows in Black Light - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2788">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5150462/r/il/3e2b80/2884666803/il_fullxfull.2884666803_if85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Trippy Mushroom Pattern Print Wall Art Home Decor - POSTER  20x30 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/r~YAAOSwETZi45ae/s-l400.jpg' alt='Psychedelic Trippy Mushroom Pattern Print Wall Art Home Decor - POSTER  20x30 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/r~YAAOSwETZi45ae/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Psychedelic Mushroom 25 Wall Art">
+                                <img itemprop="contentUrl url" src='https://sensecanvas.com/cdn/shop/products/H_LIVING_53-TRIPPY-PSYCHEDELIC-MUSHROOM-25-3.jpg?v=1672274220' alt='Trippy Psychedelic Mushroom 25 Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sense Canvas" />
+                                </span>
+                                <a href='https://sensecanvas.com/cdn/shop/products/H_LIVING_53-TRIPPY-PSYCHEDELIC-MUSHROOM-25-3.jpg?v=1672274220' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Magic Mushrooms hippie mushroom eyes art | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4612637635.4537/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Colorful Magic Mushrooms hippie mushroom eyes art | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4612637635.4537/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Mushroom Forest | Great Big Canvas">
+                                <img itemprop="contentUrl url" src='https://static.greatbigcanvas.com/images/singlecanvas_thick_none/grateful-licensing-group/psychedelic-mushroom-forest,2977520.jpg?max=500' alt='Psychedelic Mushroom Forest | Great Big Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Big Canvas" />
+                                </span>
+                                <a href='https://static.greatbigcanvas.com/images/singlecanvas_thick_none/grateful-licensing-group/psychedelic-mushroom-forest,2977520.jpg?max=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Drippy Mushroom Painting | Rainbow Mushroom Painting ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41726581/r/il/149298/4805605739/il_fullxfull.4805605739_5wry.jpg' alt='Trippy Drippy Mushroom Painting | Rainbow Mushroom Painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41726581/r/il/149298/4805605739/il_fullxfull.4805605739_5wry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

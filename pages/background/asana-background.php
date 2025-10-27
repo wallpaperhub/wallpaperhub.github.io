@@ -1,0 +1,129 @@
+<title>Discover the Healing Power of Asana: Yoga Postures Explained</title>
+                    <meta name="description" content="Explore the world of asanas, the foundational postures in yoga. Learn how these ancient techniques promote health, flexibility, and mental clarity. Perfect for beginners and seasoned yogis alike! Dive into a journey of self-discovery through yoga's transformative power.">
+                    <meta name="keywords" content="asana background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/asana-background">
+                            <span itemprop="name">asana background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Healing Power of Asana: Yoga Postures Explained</h1>
+                <p>Asana, rooted in ancient Indian traditions, refers to a physical posture or position during yoga practice. The term is derived from the Sanskrit word meaning "seat." Various asanas contribute to physical health, mental clarity, and spiritual growth. They are fundamental in yoga, promoting flexibility, strength, and mindfulness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asana Custom Background | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://userstyles.org/style_screenshots/148330_after.png?r=1732867210' alt='Asana Custom Background | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://userstyles.org/style_screenshots/148330_after.png?r=1732867210' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set different background colors to help differentiate different ...">
+                                <img itemprop="contentUrl url" src='https://us1.discourse-cdn.com/asana/original/3X/5/4/54bd990ef212a39d131f03596cbdb031839576c9.jpeg' alt='Set different background colors to help differentiate different ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1412">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana Forum" />
+                                </span>
+                                <a href='https://us1.discourse-cdn.com/asana/original/3X/5/4/54bd990ef212a39d131f03596cbdb031839576c9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanban background color - Product Feedback - Asana Forum">
+                                <img itemprop="contentUrl url" src='https://us1.discourse-cdn.com/asana/original/3X/4/8/489b0455c95c80c9014d55d6f225c1372ffdbc7e.jpeg' alt='Kanban background color - Product Feedback - Asana Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana Forum" />
+                                </span>
+                                <a href='https://us1.discourse-cdn.com/asana/original/3X/4/8/489b0455c95c80c9014d55d6f225c1372ffdbc7e.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asana Brand Guidelines • Asana">
+                                <img itemprop="contentUrl url" src='https://assets.asana.biz/transform/02868664-cd3f-4622-a5ef-4cb88c498d2b/logo-primary-clearspace' alt='Asana Brand Guidelines • Asana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2348">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana" />
+                                </span>
+                                <a href='https://assets.asana.biz/transform/02868664-cd3f-4622-a5ef-4cb88c498d2b/logo-primary-clearspace' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asana Brand Guidelines • Asana">
+                                <img itemprop="contentUrl url" src='https://assets.asana.biz/transform/89274481-230b-4dba-8a80-5f2423745260/mistake-1' alt='Asana Brand Guidelines • Asana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2348">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana" />
+                                </span>
+                                <a href='https://assets.asana.biz/transform/89274481-230b-4dba-8a80-5f2423745260/mistake-1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kanban layout and design - Tips and Tricks - Asana Forum">
+                                <img itemprop="contentUrl url" src='https://us1.discourse-cdn.com/asana/optimized/3X/e/b/eb348ee11fdc9d31234a2621f0829bd873efad33_2_1024x483.jpeg' alt='Kanban layout and design - Tips and Tricks - Asana Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana Forum" />
+                                </span>
+                                <a href='https://us1.discourse-cdn.com/asana/optimized/3X/e/b/eb348ee11fdc9d31234a2621f0829bd873efad33_2_1024x483.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can't change my background in My Settings - Tips and Tricks ...">
+                                <img itemprop="contentUrl url" src='https://us1.discourse-cdn.com/asana/original/3X/2/2/223d63b1d190ab937484775bcdbf7da59b964ad3.png' alt='Can't change my background in My Settings - Tips and Tricks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asana Forum" />
+                                </span>
+                                <a href='https://us1.discourse-cdn.com/asana/original/3X/2/2/223d63b1d190ab937484775bcdbf7da59b964ad3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Asana Experience. Looking back at my first day at work… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:889/1*toHMeE0rRhwhJsttxtiy2w.png' alt='My Asana Experience. Looking back at my first day at work… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:889/1*toHMeE0rRhwhJsttxtiy2w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Asana and Why Should We Use It? | by Declan Kay | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/0*3RIxSgT9Yboz6eKE.jpg' alt='What is Asana and Why Should We Use It? | by Declan Kay | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Declan Kay - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/0*3RIxSgT9Yboz6eKE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asana - Asana updated their cover photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153458840570669' alt='Asana - Asana updated their cover photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153458840570669' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

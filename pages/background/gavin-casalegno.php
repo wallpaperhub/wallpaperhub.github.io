@@ -1,0 +1,129 @@
+<title>Gavin Casalegno: Rising Star in Hollywood</title>
+                    <meta name="description" content="Discover Gavin Casalegno, the talented young actor making waves in Hollywood. Explore his journey, notable roles, and exciting future projects. Stay updated on this rising star's career milestones and performances. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="gavin casalegno">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gavin-casalegno">
+                            <span itemprop="name">gavin casalegno</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gavin Casalegno: Rising Star in Hollywood</h1>
+                <p>Gavin Casalegno is a rising star in Hollywood, known for his roles in popular series and films. With a strong on-screen presence, he has captivated audiences through his performances. Born in 1999, he began acting at a young age and continues to grow in his career. Keep an eye on this talented actor as he takes on new challenges!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjNiM2VhZjQtNzBjZS00N2VkLWI3MWItNzYyMzU4NWY3NzYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Gavin Casalegno - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjNiM2VhZjQtNzBjZS00N2VkLWI3MWItNzYyMzU4NWY3NzYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise found @novamaldives">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3505929864595502020' alt='Paradise found @novamaldives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3505929864595502020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno (@gavincasalegno) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3352084096115200467' alt='Gavin Casalegno (@gavincasalegno) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3352084096115200467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Gavin Casalegno, fan fave on The Summer I Turned Pretty ...">
+                                <img itemprop="contentUrl url" src='https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2023/08/18/b959688f-04e5-46bd-a9b7-f74db6087eb7_5a2bca95.jpg' alt='Meet Gavin Casalegno, fan fave on The Summer I Turned Pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2023/08/18/b959688f-04e5-46bd-a9b7-f74db6087eb7_5a2bca95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer I Turned Pretty': Gavin Casalegno on Book Moments in Season 2">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2023/07/Gavin-Casalegno-getty-H-2023.jpg?w=1296&h=730&crop=1' alt='Summer I Turned Pretty': Gavin Casalegno on Book Moments in Season 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2023/07/Gavin-Casalegno-getty-H-2023.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I belong near the ocean    ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515831096686805375' alt='I belong near the ocean    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515831096686805375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno - Bio, Age, Net Worth ,Career, and Personal Life ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/65c66d9aede3cf8a571e64b2/673a0f5b6ccbf2bcc1be7fe8_Woke%20Wave%20Magazine%20-%202024-11-17T104420.442.jpg' alt='Gavin Casalegno - Bio, Age, Net Worth ,Career, and Personal Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woke Waves" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/65c66d9aede3cf8a571e64b2/673a0f5b6ccbf2bcc1be7fe8_Woke%20Wave%20Magazine%20-%202024-11-17T104420.442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno (Creator) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/gavincasalegno.jpg' alt='Gavin Casalegno (Creator) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/gavincasalegno.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno (@gavincasalegno) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3383845580678914143' alt='Gavin Casalegno (@gavincasalegno) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3383845580678914143' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Gavin Casalegno's Wife? Cheyanne King's Job & Instagram">
+                                <img itemprop="contentUrl url" src='https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Who-Is-Gavin-Casalegnos-Wife-Cheyanne-Kings-Job-Instagram.jpg' alt='Who Is Gavin Casalegno's Wife? Cheyanne King's Job & Instagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ComingSoon.net" />
+                                </span>
+                                <a href='https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Who-Is-Gavin-Casalegnos-Wife-Cheyanne-Kings-Job-Instagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

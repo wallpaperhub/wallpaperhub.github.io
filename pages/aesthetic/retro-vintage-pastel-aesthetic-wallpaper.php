@@ -1,0 +1,129 @@
+<title>Retro Vintage Pastel Aesthetic Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Transform your space with retro vintage pastel aesthetic wallpaper! Soft hues and delicate designs create a dreamy atmosphere, perfect for chic interiors. Explore our collection for a touch of nostalgia and elegance that brightens up any room. Perfect for home decor lovers who appreciate vintage charm!">
+                    <meta name="keywords" content="retro vintage pastel aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/retro-vintage-pastel-aesthetic-wallpaper">
+                            <span itemprop="name">retro vintage pastel aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Vintage Pastel Aesthetic Wallpaper for Chic Interiors</h1>
+                <p>Discover the charm of retro vintage pastel aesthetic wallpaper! Perfect for adding a soft, nostalgic vibe to any room, these wallpapers feature delicate patterns and muted colors that transport you to a dreamy past. Transform your space with a touch of whimsy and elegance, creating an inviting atmosphere for relaxation and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel vintage wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/f5/88/18f588fc83a57a7fee4515655a309c6a.jpg' alt='pastel vintage wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/f5/88/18f588fc83a57a7fee4515655a309c6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Pastel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-5at0b0oxbfw8f01p.jpg' alt='100+] Vintage Pastel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-5at0b0oxbfw8f01p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vintage #wallpaper #retro #pastel #retrostyle #aesthetic #tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/61/a1/f761a158419d751e5f7d886cb36e1711.jpg' alt='vintage #wallpaper #retro #pastel #retrostyle #aesthetic #tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/61/a1/f761a158419d751e5f7d886cb36e1711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Pastel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-x7akspb9yt1v7cku.jpg' alt='100+] Vintage Pastel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-x7akspb9yt1v7cku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Pastel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-75cqg1trqur96vop.jpg' alt='100+] Vintage Pastel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-75cqg1trqur96vop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Add a touch of sweet nostalgia with vintage pastel ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-136xsrlbctr7dcop.jpg' alt='Download Add a touch of sweet nostalgia with vintage pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-136xsrlbctr7dcop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ellabiesse | Aesthetic iphone wallpaper, Retro wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/57/36/995736189982df43286021e6de652d7a.jpg' alt='ellabiesse | Aesthetic iphone wallpaper, Retro wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/57/36/995736189982df43286021e6de652d7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vintage Pastel Soft Pink Aesthetic Collage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-gdabr4wzqxroetw2.jpg' alt='Download Vintage Pastel Soft Pink Aesthetic Collage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-gdabr4wzqxroetw2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage / // / Background / Lockscreen / / Anonymous asked: Hey I ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/919b3fae13a62737e311d45b6e2ea50e/tumblr_oqjfpzQVKz1w53q7lo1_1280.jpg' alt='Vintage / // / Background / Lockscreen / / Anonymous asked: Hey I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/919b3fae13a62737e311d45b6e2ea50e/tumblr_oqjfpzQVKz1w53q7lo1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Vintage Pastel Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/80s-retro-vintage-pastel-aesthetic-l0id7c51lyymlfx9.jpg' alt='80s Retro Vintage Pastel Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/80s-retro-vintage-pastel-aesthetic-l0id7c51lyymlfx9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

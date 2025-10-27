@@ -1,0 +1,129 @@
+<title>Mbappé Wallpapers for iPhone: Stunning Football Backgrounds</title>
+                    <meta name="description" content="Elevate your iPhone's look with our exclusive Mbappé wallpapers! Featuring high-resolution images of the football sensation, our collection lets you express your love for the game. Perfect for any Mbappé fan, these wallpapers enhance your device's style and showcase iconic moments. Download today!">
+                    <meta name="keywords" content="mbappe wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mbappe-wallpaper-iphone">
+                            <span itemprop="name">mbappe wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mbappé Wallpapers for iPhone: Stunning Football Backgrounds</h1>
+                <p>Discover stunning Mbappé wallpapers for your iPhone! Immerse yourself in the world of football with high-quality images featuring the superstar in action. Whether you prefer dynamic shots or stylish poses, our collection offers a variety of options to showcase your passion for the game. Download your favorite now and personalize your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kylian Mbappé Wallpaper For Android/iPhone 2022 Version One">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/89/44/498944ea9342d4e80f4e4b17c0edf0f8.jpg' alt='Kylian Mbappé Wallpaper For Android/iPhone 2022 Version One'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/89/44/498944ea9342d4e80f4e4b17c0edf0f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kylian Mbappe Wallpapers (26 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/a/4/48168-1080x2280-iphone-hd-kylian-mbappe-wallpaper-photo.jpg' alt='Kylian Mbappe Wallpapers (26 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/a/4/48168-1080x2280-iphone-hd-kylian-mbappe-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Kylian Mbappé Wallpapers for iPhone and Desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.footballdive.com/wp-content/uploads/2024/07/Kylian-Mbappe-celebration-iphone-background-576x1024.webp' alt='The Best Kylian Mbappé Wallpapers for iPhone and Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Footballdive.com" />
+                                </span>
+                                <a href='https://www.footballdive.com/wp-content/uploads/2024/07/Kylian-Mbappe-celebration-iphone-background-576x1024.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mbappe, psg, futbol, mbape, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/548/860/HD-wallpaper-mbappe-psg-futbol-mbape.jpg' alt='Mbappe, psg, futbol, mbape, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/548/860/HD-wallpaper-mbappe-psg-futbol-mbape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kylian mbappe fifa 22 5k iPhone 12 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/b5/41/9ab5416a2f5503d9fc784a06b16c7e0f.jpg' alt='kylian mbappe fifa 22 5k iPhone 12 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/b5/41/9ab5416a2f5503d9fc784a06b16c7e0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mbappe, france, paris, psg, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/316/73/HD-wallpaper-mbappe-france-paris-psg.jpg' alt='Mbappe, france, paris, psg, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/316/73/HD-wallpaper-mbappe-france-paris-psg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Kylian Mbappé Wallpapers for iPhone and Desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.footballdive.com/wp-content/uploads/2024/07/kylian-mbappe-hd-phone-wallpaper-psg-576x1024.jpg' alt='The Best Kylian Mbappé Wallpapers for iPhone and Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Footballdive.com" />
+                                </span>
+                                <a href='https://www.footballdive.com/wp-content/uploads/2024/07/kylian-mbappe-hd-phone-wallpaper-psg-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mbappe Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/8f/5e/4a8f5edd0dc9217aa10174320731916a.jpg' alt='Mbappe Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/8f/5e/4a8f5edd0dc9217aa10174320731916a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mbappe, football, france, psg, soccer, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/209/185/HD-wallpaper-mbappe-football-france-psg-soccer.jpg' alt='Mbappe, football, france, psg, soccer, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/209/185/HD-wallpaper-mbappe-football-france-psg-soccer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Mbappe Art iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/wallpaper-mbappe-art-zuny-wahyu.jpg' alt='Wallpaper Mbappe Art iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/wallpaper-mbappe-art-zuny-wahyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

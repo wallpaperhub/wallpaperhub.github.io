@@ -1,0 +1,129 @@
+<title>Exploring Papyrus: The Iconic Skeleton of Undertale</title>
+                    <meta name="description" content="Discover the world of Papyrus from Undertale! Learn about his charming quirks, aspirations, and impact on the game’s narrative. Delve into the lore surrounding this beloved character and enjoy the unique blend of humor and depth that makes Papyrus unforgettable in the Undertale universe.">
+                    <meta name="keywords" content="papyrus background undertale">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/papyrus-background-undertale">
+                            <span itemprop="name">papyrus background undertale</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Papyrus: The Iconic Skeleton of Undertale</h1>
+                <p>Papyrus, a beloved character from the indie game Undertale, serves as the quirky, spaghetti-loving skeleton who dreams of becoming a member of the Royal Guard. His playful personality contrasts with his serious aspirations. Papyrus is known for his memorable lines and iconic battle style, making him a fan favorite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Papyrus (Undertale) Video Game Undertale 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/972/972684.jpg' alt='Download Papyrus (Undertale) Video Game Undertale 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4856">
+                                <meta itemprop="height" content="3232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/972/972684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Papyrus (Undertale) Video Game Undertale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/972/972967.png' alt='Download Papyrus (Undertale) Video Game Undertale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/972/972967.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Papyrus (Undertale) Sans (Undertale) Video Game Undertale ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/972/972071.png' alt='Download Papyrus (Undertale) Sans (Undertale) Video Game Undertale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4133">
+                                <meta itemprop="height" content="3248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/972/972071.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Papyrus (Undertale) Video Game Undertale HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/28/48/0028488c47835b89e13dc978c393fe0e.jpg' alt='Download Papyrus (Undertale) Video Game Undertale HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/28/48/0028488c47835b89e13dc978c393fe0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Papyrus (Undertale) Frisk (Undertale) Video Game ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/131/1315128.jpeg' alt='Download Papyrus (Undertale) Frisk (Undertale) Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4093">
+                                <meta itemprop="height" content="2894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/131/1315128.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Great Papyrus | Undertale #2">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zcrdjjp7ao0/maxresdefault.jpg' alt='The Great Papyrus | Undertale #2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zcrdjjp7ao0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papyrus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/49/c3/03/49c3033aeb606ab46d3c4b9ae811aa4a.jpg' alt='Papyrus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/49/c3/03/49c3033aeb606ab46d3c4b9ae811aa4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sans And Papyrus Background (Tell me who you want next in the ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/pixpPI6_kf39hS95Mwt3PmPGCf7B3lRB_ZQobkVmJjM.jpg?width=640&crop=smart&auto=webp&s=c8e60a24e934c81a7f58becd730200d483f54453' alt='Sans And Papyrus Background (Tell me who you want next in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/pixpPI6_kf39hS95Mwt3PmPGCf7B3lRB_ZQobkVmJjM.jpg?width=640&crop=smart&auto=webp&s=c8e60a24e934c81a7f58becd730200d483f54453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sans and Papyrus HD Undertale Wallpaper by Eric Proctor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/4c/4f/5d4c4f85f39ccefb0524b998f36fdba2.jpg' alt='Sans and Papyrus HD Undertale Wallpaper by Eric Proctor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/4c/4f/5d4c4f85f39ccefb0524b998f36fdba2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papyrus | Character Profile Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/characterprofile/images/d/d3/Papyrus1.png/revision/latest/scale-to-width-down/148?cb=20230302211047' alt='Papyrus | Character Profile Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Profile Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/characterprofile/images/d/d3/Papyrus1.png/revision/latest/scale-to-width-down/148?cb=20230302211047' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

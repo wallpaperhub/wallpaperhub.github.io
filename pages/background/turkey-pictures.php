@@ -1,0 +1,129 @@
+<title>Stunning Turkey Pictures: Beauty & Diversity of Turkeys</title>
+                    <meta name="description" content="Explore our captivating collection of turkey pictures that highlight their stunning beauty and fascinating features. Perfect for nature enthusiasts and photography lovers. Discover diverse species and breathtaking moments captured in one place! Dive in now!">
+                    <meta name="keywords" content="turkey pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turkey-pictures">
+                            <span itemprop="name">turkey pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Turkey Pictures: Beauty & Diversity of Turkeys</h1>
+                <p>Discover a stunning collection of turkey pictures showcasing their majestic beauty and unique characteristics. From wild turkeys in their natural habitats to farm-raised varieties, our gallery captures the essence of these fascinating birds. Perfect for nature lovers and photographers alike, explore and be inspired by these incredible images!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Wild Facts About Wild Turkeys - Lake Erie Nature & Science Center">
+                                <img itemprop="contentUrl url" src='https://www.lensc.org/wp-content/uploads/2023/11/Turkey-Photo.jpg' alt='8 Wild Facts About Wild Turkeys - Lake Erie Nature & Science Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lake Erie Nature & Science Center" />
+                                </span>
+                                <a href='https://www.lensc.org/wp-content/uploads/2023/11/Turkey-Photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Turkey Identification, All About Birds, Cornell Lab of ...">
+                                <img itemprop="contentUrl url" src='https://www.allaboutbirds.org/guide/assets/photo/311368611-480px.jpg' alt='Wild Turkey Identification, All About Birds, Cornell Lab of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Birds" />
+                                </span>
+                                <a href='https://www.allaboutbirds.org/guide/assets/photo/311368611-480px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep-Fried Turkey">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/11/07/multimedia/-KS-FRIED-TURKEY-rex-tqlg/-KS-FRIED-TURKEY-rex-tqlg-superJumbo.jpg' alt='Deep-Fried Turkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYT Cooking - The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/11/07/multimedia/-KS-FRIED-TURKEY-rex-tqlg/-KS-FRIED-TURKEY-rex-tqlg-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Turkey Fact Sheet | Blog | Nature | PBS">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/wnet/nature/files/2021/07/william-stark-g_eUvcUypDY-unsplash-scaled.jpg' alt='Wild Turkey Fact Sheet | Blog | Nature | PBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/wnet/nature/files/2021/07/william-stark-g_eUvcUypDY-unsplash-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wild Turkey | Finger Lakes Land Trust">
+                                <img itemprop="contentUrl url" src='http://www.fllt.org/wp-content/uploads/2015/09/Wild-Turkeys_Read1.jpg' alt='The Wild Turkey | Finger Lakes Land Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Finger Lakes Land Trust" />
+                                </span>
+                                <a href='http://www.fllt.org/wp-content/uploads/2015/09/Wild-Turkeys_Read1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cajun-Seasoned Turkey">
+                                <img itemprop="contentUrl url" src='https://www.foodandwine.com/thmb/bvlbmRVvoRHONBtv-nM9ZCw7qA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cajun-Turkey-FT-RECIPE0124-a76463d27b7a4920b9707288c43ce0fb.jpg' alt='Cajun-Seasoned Turkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food & Wine" />
+                                </span>
+                                <a href='https://www.foodandwine.com/thmb/bvlbmRVvoRHONBtv-nM9ZCw7qA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cajun-Turkey-FT-RECIPE0124-a76463d27b7a4920b9707288c43ce0fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Secret Lives of Turkeys - Golden Gate Bird Alliance">
+                                <img itemprop="contentUrl url" src='https://goldengatebirdalliance.org/wp-content/uploads/2020/11/Photo-04-Turkeys-Snood-0571.jpg' alt='The Secret Lives of Turkeys - Golden Gate Bird Alliance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golden Gate Bird Alliance" />
+                                </span>
+                                <a href='https://goldengatebirdalliance.org/wp-content/uploads/2020/11/Photo-04-Turkeys-Snood-0571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey myths, debunked">
+                                <img itemprop="contentUrl url" src='https://crosstalk.cell.com/hs-fs/hubfs/Images/Jennifer%20Levine/Turkey%20myths,%20debunked/turkey-featured.jpg?width=1000&name=turkey-featured.jpg' alt='Turkey myths, debunked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cell Mentor - Cell Press" />
+                                </span>
+                                <a href='https://crosstalk.cell.com/hs-fs/hubfs/Images/Jennifer%20Levine/Turkey%20myths,%20debunked/turkey-featured.jpg?width=1000&name=turkey-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juicy Thanksgiving Turkey">
+                                <img itemprop="contentUrl url" src='https://www.allrecipes.com/thmb/cVQL59QQ70ikOvtpcZU3TmQRPkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-166160-juicy-thanksgiving-turkey-VAT-4958-4x3-e9fdc719770d4661b5d831f958e6eb78.jpg' alt='Juicy Thanksgiving Turkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allrecipes" />
+                                </span>
+                                <a href='https://www.allrecipes.com/thmb/cVQL59QQ70ikOvtpcZU3TmQRPkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-166160-juicy-thanksgiving-turkey-VAT-4958-4x3-e9fdc719770d4661b5d831f958e6eb78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Return of the wild turkey, a conservation success story | On the ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/bayjournal.com/content/tncms/assets/v3/editorial/f/3f/f3f9c2f4-62d0-11ee-8615-7b2470c63f1d/651d8f4cb0497.image.jpg?resize=1200%2C783' alt='Return of the wild turkey, a conservation success story | On the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bay Journal" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/bayjournal.com/content/tncms/assets/v3/editorial/f/3f/f3f9c2f4-62d0-11ee-8615-7b2470c63f1d/651d8f4cb0497.image.jpg?resize=1200%2C783' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

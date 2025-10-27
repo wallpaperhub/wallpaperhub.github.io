@@ -1,0 +1,129 @@
+<title>Sterling Drug Tests: Reliable & Fast Results</title>
+                    <meta name="description" content="Discover the benefits of sterling drug tests for accurate substance detection. Ideal for employers and schools, these reliable tests ensure a safe, drug-free environment with quick results. Stay compliant and informed with effective drug screening solutions.">
+                    <meta name="keywords" content="sterling drug test">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sterling-drug-test">
+                            <span itemprop="name">sterling drug test</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sterling Drug Tests: Reliable & Fast Results</h1>
+                <p>A sterling drug test is a reliable method used to detect the presence of substances in an individual's system. Commonly utilized by employers, schools, and rehabilitation centers, these tests ensure safety and compliance with regulations. Fast and accurate, sterling drug tests help maintain a drug-free environment while providing crucial insights into substance use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can Employers Navigate New State Drug Testing Restrictions ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2024/07/image.png' alt='How Can Employers Navigate New State Drug Testing Restrictions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2024/07/image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In-Home Drug Testing Sterling, ID I Instant, Accurate, Convenient">
+                                <img itemprop="contentUrl url" src='https://accrediteddrugtesting.com/assets/images/in-home-drug-testing.jpg' alt='In-Home Drug Testing Sterling, ID I Instant, Accurate, Convenient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="901">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accredited Drug Testing" />
+                                </span>
+                                <a href='https://accrediteddrugtesting.com/assets/images/in-home-drug-testing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SterlingONE – eScreen Drug & Health Screening Overview">
+                                <img itemprop="contentUrl url" src='x-raw-image:///997dfafaa2515267ff33acecf2f05b2dc4d9ffd7f13d679dac5d62ca35901fb8' alt='SterlingONE – eScreen Drug & Health Screening Overview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='x-raw-image:///997dfafaa2515267ff33acecf2f05b2dc4d9ffd7f13d679dac5d62ca35901fb8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In-Home Drug Testing Sterling, UT I Instant, Accurate, Convenient">
+                                <img itemprop="contentUrl url" src='https://accrediteddrugtesting.com/assets/images/10panel-instant.jpg' alt='In-Home Drug Testing Sterling, UT I Instant, Accurate, Convenient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accredited Drug Testing" />
+                                </span>
+                                <a href='https://accrediteddrugtesting.com/assets/images/10panel-instant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' alt='How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Testing - Sterling - USA Mobile Drug Testing">
+                                <img itemprop="contentUrl url" src='https://usamdt.com/wp-content/uploads/2020/05/drug-testing.jpg' alt='Drug Testing - Sterling - USA Mobile Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Mobile Drug Testing" />
+                                </span>
+                                <a href='https://usamdt.com/wp-content/uploads/2020/05/drug-testing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safe Workplace With DOT Testing | Sterling Talent Solutions">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2018/09/new-drug-rules-checkbox-and-pen-for-drug-testing-1588-595x525.jpg' alt='Safe Workplace With DOT Testing | Sterling Talent Solutions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2018/09/new-drug-rules-checkbox-and-pen-for-drug-testing-1588-595x525.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the... - Sterling - Background and Identity Services | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1396951861458491' alt='Is the... - Sterling - Background and Identity Services | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1396951861458491' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SterlingONE – eScreen Drug & Health Screening Overview">
+                                <img itemprop="contentUrl url" src='x-raw-image:///19dd32241ebff3868c472064a923200f2a3c348935772c99efdf4917dc490691' alt='SterlingONE – eScreen Drug & Health Screening Overview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='x-raw-image:///19dd32241ebff3868c472064a923200f2a3c348935772c99efdf4917dc490691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Testing Delays Q&A with Nathan Anderson - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2021/11/the-answers-lie-in-the-evidence.jpg' alt='Drug Testing Delays Q&A with Nathan Anderson - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2021/11/the-answers-lie-in-the-evidence.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

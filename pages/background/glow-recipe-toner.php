@@ -1,0 +1,129 @@
+<title>Revitalize Your Skin: Glow Recipe Toner Review</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="glow recipe toner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/glow-recipe-toner">
+                            <span itemprop="name">glow recipe toner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Skin: Glow Recipe Toner Review</h1>
+                <p>Glow Recipe Toner is a skin-loving formula that hydrates, balances, and enhances your complexion. Infused with natural ingredients like watermelon and calming botanicals, it gently exfoliates, leaving your skin refreshed and glowing. Great for all skin types, this toner prepares your skin for better absorption of serums and moisturizers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow Recipe Watermelon Glow PHA + BHA Pore-Tight Toner">
+                                <img itemprop="contentUrl url" src='https://media.kohlsimg.com/is/image/kohls/9c9b6fe56a5008914a24b91107d5b0f0d1de22fc' alt='Glow Recipe Watermelon Glow PHA + BHA Pore-Tight Toner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kohl's" />
+                                </span>
+                                <a href='https://media.kohlsimg.com/is/image/kohls/9c9b6fe56a5008914a24b91107d5b0f0d1de22fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watermelon Glow PHA+BHA Pore-Tight Toner">
+                                <img itemprop="contentUrl url" src='http://www.glowrecipe.com/cdn/shop/files/PDP_IMAGES_Watermelon-Glow-PHA_BHA-Pore-Tight-Toner-5_8726c95e-05a9-4c53-af63-80a8b9926ae7.jpg?v=1718385438' alt='Watermelon Glow PHA+BHA Pore-Tight Toner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glow Recipe" />
+                                </span>
+                                <a href='http://www.glowrecipe.com/cdn/shop/files/PDP_IMAGES_Watermelon-Glow-PHA_BHA-Pore-Tight-Toner-5_8726c95e-05a9-4c53-af63-80a8b9926ae7.jpg?v=1718385438' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow Recipe PHA + BHA Face Toner - Korean Skin Care Pore Minimizer & Gentle  Facial Exfoliator for Tightening, Hydrating & Exfoliating - Glycerin, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MiDctitHL._AC_UF1000,1000_QL80_.jpg' alt='Glow Recipe PHA + BHA Face Toner - Korean Skin Care Pore Minimizer & Gentle  Facial Exfoliator for Tightening, Hydrating & Exfoliating - Glycerin, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MiDctitHL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudberry Bright Essence Toner™">
+                                <img itemprop="contentUrl url" src='https://www.sephora.com/productimages/sku/s2734606-main-zoom.jpg?imwidth=315' alt='Cloudberry Bright Essence Toner™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sephora" />
+                                </span>
+                                <a href='https://www.sephora.com/productimages/sku/s2734606-main-zoom.jpg?imwidth=315' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watermelon Glow PHA + BHA Pore-Tight Toner">
+                                <img itemprop="contentUrl url" src='https://www.sephora.com/productimages/sku/s2421519-main-zoom.jpg?imwidth=315' alt='Watermelon Glow PHA + BHA Pore-Tight Toner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sephora" />
+                                </span>
+                                <a href='https://www.sephora.com/productimages/sku/s2421519-main-zoom.jpg?imwidth=315' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini Watermelon Glow PHA+BHA Pore-Tight Toner">
+                                <img itemprop="contentUrl url" src='http://www.glowrecipe.com/cdn/shop/files/NEWMINITONER.jpg?v=1718211394' alt='Mini Watermelon Glow PHA+BHA Pore-Tight Toner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glow Recipe" />
+                                </span>
+                                <a href='http://www.glowrecipe.com/cdn/shop/files/NEWMINITONER.jpg?v=1718211394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Up cycling Ideas for Glow Recipe Watermelon Glow PHA+BHA Pore ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/up-cycling-ideas-for-glow-recipe-watermelon-glow-pha-bha-v0-qcl47bcb47gc1.jpg?width=3024&format=pjpg&auto=webp&s=b6cac6b800f0ab65c105c053dfaaba8c4c3e0a98' alt='Up cycling Ideas for Glow Recipe Watermelon Glow PHA+BHA Pore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/up-cycling-ideas-for-glow-recipe-watermelon-glow-pha-bha-v0-qcl47bcb47gc1.jpg?width=3024&format=pjpg&auto=webp&s=b6cac6b800f0ab65c105c053dfaaba8c4c3e0a98' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow Recipe New Watermelon Pore-Tight Toner Review">
+                                <img itemprop="contentUrl url" src='https://www.refinery29.com/images/9715101.jpg?crop=40%3A21' alt='Glow Recipe New Watermelon Pore-Tight Toner Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Refinery29" />
+                                </span>
+                                <a href='https://www.refinery29.com/images/9715101.jpg?crop=40%3A21' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudberry Bright Essence Toner">
+                                <img itemprop="contentUrl url" src='http://www.glowrecipe.com/cdn/shop/files/5_14_24_PDP_CLAIM_REFRESH_CLOUDBERRY-08.jpg?v=1718212429' alt='Cloudberry Bright Essence Toner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glow Recipe" />
+                                </span>
+                                <a href='http://www.glowrecipe.com/cdn/shop/files/5_14_24_PDP_CLAIM_REFRESH_CLOUDBERRY-08.jpg?v=1718212429' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow Recipe Watermelon Glow pha + bha -Pore-tight Toner review ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6405f8765cf5b32d0c96af39/5a6ee2ba-e454-431f-84bb-333df4a9f309/glow+recipe+watermelon+glow+pha+%2B+bha+pore-tight+toner+Review.jpg' alt='Glow Recipe Watermelon Glow pha + bha -Pore-tight Toner review ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alexa Skin" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6405f8765cf5b32d0c96af39/5a6ee2ba-e454-431f-84bb-333df4a9f309/glow+recipe+watermelon+glow+pha+%2B+bha+pore-tight+toner+Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

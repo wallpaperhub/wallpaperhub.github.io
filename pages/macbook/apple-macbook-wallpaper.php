@@ -1,0 +1,129 @@
+<title>Stunning Apple MacBook Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover the perfect Apple MacBook wallpaper to personalize your device. Choose from a variety of stunning designs that reflect your style while enhancing your workspace. Explore high-resolution images to make your MacBook a visual delight!">
+                    <meta name="keywords" content="apple macbook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook">
+                            <span itemprop="name">Macbook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook/apple-macbook-wallpaper">
+                            <span itemprop="name">apple macbook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Apple MacBook Wallpapers for Every Style</h1>
+                <p>Apple MacBook wallpaper enhances your computing experience by adding a personal touch to your device. From stunning landscapes to minimalist designs, there's a plethora of choices to suit your style. High-resolution options ensure vibrant colors and sharp images, making your MacBook not just a tool, but an expression of your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple MacBook Pro Wallpaper 4K, Blue, Stock, 2021">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/apple-macbook-pro-stock-2021-apple-event-2021-dark-mode-6016x5468-6759.jpg' alt='Apple MacBook Pro Wallpaper 4K, Blue, Stock, 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="5468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/apple-macbook-pro-stock-2021-apple-event-2021-dark-mode-6016x5468-6759.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best wallpaper I can find for my Mac in 2021. : r/mac">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e23lnr29h4m71.png?auto=webp&s=87ae9249351c271d27d230362584b89dbd74c1e9' alt='The best wallpaper I can find for my Mac in 2021. : r/mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e23lnr29h4m71.png?auto=webp&s=87ae9249351c271d27d230362584b89dbd74c1e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Stock Wallpapers | 4K & 5K Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/apple-macbook-pro-stock-2021-apple-event-2021-dark-mode--6762.jpg' alt='macOS Stock Wallpapers | 4K & 5K Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="5468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/apple-macbook-pro-stock-2021-apple-event-2021-dark-mode--6762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MacBook Pro 2020 wallpapers - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/e2b39a87-f44c-4213-a66d-bd4ddf5fba48' alt='MacBook Pro 2020 wallpapers - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/e2b39a87-f44c-4213-a66d-bd4ddf5fba48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome MacBook Air 4K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/b1/59/c3b15956226f475b22879a04941ebfe1.jpg' alt='Awesome MacBook Air 4K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/b1/59/c3b15956226f475b22879a04941ebfe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the M2/M3 MacBook Air wallpapers right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/15-inch-macbook-air-wallpaper-1/' alt='Download the M2/M3 MacBook Air wallpapers right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/15-inch-macbook-air-wallpaper-1/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MacBook Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1686515847297-8f25e451fe9c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFjYm9vayUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='MacBook Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1686515847297-8f25e451fe9c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFjYm9vayUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Wallpapers for macOS - Dynamic Wallpaper Club">
+                                <img itemprop="contentUrl url" src='https://dynamicwallpaper.club/landing-vids/1.png' alt='Dynamic Wallpapers for macOS - Dynamic Wallpaper Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dynamicwallpaper.club" />
+                                </span>
+                                <a href='https://dynamicwallpaper.club/landing-vids/1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MacBook Pro Wallpaper 4K, 5K, Apple M1, Multicolor, Pink">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macbook-pro-apple-m1-multicolor-pink-glossy-stock-5k-5120x2880-4039.jpg' alt='MacBook Pro Wallpaper 4K, 5K, Apple M1, Multicolor, Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macbook-pro-apple-m1-multicolor-pink-glossy-stock-5k-5120x2880-4039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Default macOS Wallpaper - in Glorious 6K Resolution — 512 Pixels">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/1e/d8/4d1ed813987c167f38c571c0bd14d961.jpg' alt='Every Default macOS Wallpaper - in Glorious 6K Resolution — 512 Pixels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/1e/d8/4d1ed813987c167f38c571c0bd14d961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

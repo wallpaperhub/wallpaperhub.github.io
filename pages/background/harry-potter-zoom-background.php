@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Zoom Backgrounds for Every Fan</title>
+                    <meta name="description" content="Discover the best Harry Potter Zoom backgrounds to enhance your online meetings. From the Great Hall to Diagon Alley, find the perfect backdrop that showcases your love for the Wizarding World. Ideal for fans of all ages, these vibrant images will make your virtual presence truly magical!">
+                    <meta name="keywords" content="harry potter zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-potter-zoom-background">
+                            <span itemprop="name">harry potter zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Zoom Backgrounds for Every Fan</h1>
+                <p>Transform your virtual meetings with enchanting Harry Potter-themed Zoom backgrounds! Whether you're a Gryffindor, Slytherin, or just a fan of the Wizarding World, these magical backdrops bring a touch of Hogwarts' charm to your screen. Perfect for movie nights, study sessions, or a whimsical touch to your work calls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/FguKzCQXYbXvJMS27FKqZ/5a936f1febc6e5767626c1831ded406a/USH_Hogwarts2_VB.jpg' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/FguKzCQXYbXvJMS27FKqZ/5a936f1febc6e5767626c1831ded406a/USH_Hogwarts2_VB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/6wHncCI874vqZMgEeZUOLk/3f086d8665f06dfa1f9f0af585850d47/UOR_DiagonAlley_VB.jpg' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/6wHncCI874vqZMgEeZUOLk/3f086d8665f06dfa1f9f0af585850d47/UOR_DiagonAlley_VB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="zoom background Harry Potter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/90/29/b5902930256ff9476a34ea8ef50f7994.jpg' alt='zoom background Harry Potter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/90/29/b5902930256ff9476a34ea8ef50f7994.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/7tBebKTKUKG6UtMfT4uIrn/cbe472185e1ae71d07a76982d1d6ca92/USH_Hogwarts_VB.jpg' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/7tBebKTKUKG6UtMfT4uIrn/cbe472185e1ae71d07a76982d1d6ca92/USH_Hogwarts_VB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Harry-Potter-view-of-Hogwarts-Castle-background-at-night-for-zoom-1-1024x576.jpeg' alt='Harry Potter Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Harry-Potter-view-of-Hogwarts-Castle-background-at-night-for-zoom-1-1024x576.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set Your Zoom Background as One of These 10 Awesome TV and Film ...">
+                                <img itemprop="contentUrl url" src='https://thelatch.com.au/wp-content/uploads/2020/04/great-hall-harry-potter.jpg' alt='Set Your Zoom Background as One of These 10 Awesome TV and Film ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Latch" />
+                                </span>
+                                <a href='https://thelatch.com.au/wp-content/uploads/2020/04/great-hall-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/4NDgfXWk5pcrDOA85Qcb3I/d13bbf32dc216f53302e0b3b9c5fadfd/release_1_potions_class.png' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/4NDgfXWk5pcrDOA85Qcb3I/d13bbf32dc216f53302e0b3b9c5fadfd/release_1_potions_class.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bring Some Magic to Your Next Zoom Meeting With These Harry Potter ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/624193-unsplash-hogwarts-castle-0-4bf236ba2280edd9451038fdb773c186.jpg' alt='Bring Some Magic to Your Next Zoom Meeting With These Harry Potter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/624193-unsplash-hogwarts-castle-0-4bf236ba2280edd9451038fdb773c186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/7E0XBZbFixPj7x2m5IrgZr/3ef0922f9260f50ed706df4049ff2112/USH_Wands_VB.jpg' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/7E0XBZbFixPj7x2m5IrgZr/3ef0922f9260f50ed706df4049ff2112/USH_Wands_VB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

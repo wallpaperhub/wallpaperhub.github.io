@@ -1,0 +1,129 @@
+<title>SpongeBob Backdrop: Dive into Bikini Bottom Fun!</title>
+                    <meta name="description" content="Explore the enchanting SpongeBob backdrop ideal for parties and events! Bring your favorite characters and ocean scenes to life in any space. Perfect for memorable photos, this vibrant decoration adds a joyful touch to your celebration. Dive in and create unforgettable moments with SpongeBob!">
+                    <meta name="keywords" content="spongebob backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-backdrop">
+                            <span itemprop="name">spongebob backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SpongeBob Backdrop: Dive into Bikini Bottom Fun!</h1>
+                <p>Transform your space into the whimsical world of Bikini Bottom with a vibrant SpongeBob backdrop! Perfect for parties, photo booths, or simply to bring a splash of fun to any room. Featuring iconic characters and colorful ocean scenes, it’s a delightful way to celebrate your love for SpongeBob SquarePants. Dive into the adventure today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Round Cartoon Kids Birthday Spongebob Backdrop - Lofaris">
+                                <img itemprop="contentUrl url" src='http://www.lofarisbackdrop.com/cdn/shop/products/cartoon-character-round-happy-birthday-backdrop-for-kids-custom-made-free-shipping-118.jpg?v=1715695046' alt='Round Cartoon Kids Birthday Spongebob Backdrop - Lofaris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lofaris" />
+                                </span>
+                                <a href='http://www.lofarisbackdrop.com/cdn/shop/products/cartoon-character-round-happy-birthday-backdrop-for-kids-custom-made-free-shipping-118.jpg?v=1715695046' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mocsickao SpongeBob Theme Double-printed Arch Cover Backdrop for Birthday  Party">
+                                <img itemprop="contentUrl url" src='http://www.mocsicka.com/cdn/shop/files/2024-03-19T105746.800.png?v=1710999133' alt='Mocsickao SpongeBob Theme Double-printed Arch Cover Backdrop for Birthday  Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mocsicka Party" />
+                                </span>
+                                <a href='http://www.mocsicka.com/cdn/shop/files/2024-03-19T105746.800.png?v=1710999133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Birthday Party Decorations, 5x3ft Spongebob Backdrop Happy  Birthday Banner Background Wall Decorations for Kids Girs Baby Shower Party  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/d5fc1d1a-bd83-4409-b3d1-927c8aae001e.6c5ab3eb650b1efa70db7aab7ead3ff5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Spongebob Birthday Party Decorations, 5x3ft Spongebob Backdrop Happy  Birthday Banner Background Wall Decorations for Kids Girs Baby Shower Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/d5fc1d1a-bd83-4409-b3d1-927c8aae001e.6c5ab3eb650b1efa70db7aab7ead3ff5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sponge Bob Birthday Backdrop Personalized Step & Repeat - Designed, Printed  & Shipped!">
+                                <img itemprop="contentUrl url" src='https://bannersbyroz.com/cdn/shop/products/image_94ead2d8-0748-4fd7-a3e7-d35bc0b5520c_grande.jpg?v=1696002062' alt='Sponge Bob Birthday Backdrop Personalized Step & Repeat - Designed, Printed  & Shipped!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banners by Roz" />
+                                </span>
+                                <a href='https://bannersbyroz.com/cdn/shop/products/image_94ead2d8-0748-4fd7-a3e7-d35bc0b5520c_grande.jpg?v=1696002062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bikini Bottom - Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Bikini-Bottom-2.jpg' alt='Bikini Bottom - Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Bikini-Bottom-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Birthday Party Decorations, 5x3ft Spongebob Backdrop Happy  Birthday Banner Background Wall Decorations for Kids Girs Baby Shower Party  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/ba675c0a-01de-4200-91e0-a5a30234cee6.e97bc5237bc799fd47892b3a68020e30.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Spongebob Birthday Party Decorations, 5x3ft Spongebob Backdrop Happy  Birthday Banner Background Wall Decorations for Kids Girs Baby Shower Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/ba675c0a-01de-4200-91e0-a5a30234cee6.e97bc5237bc799fd47892b3a68020e30.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Spongeb Backdrop Digital File Template Instant Download ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/jycR6znpBM/Zyrb98tLH1___DqnbO_v1_compressed.jpg' alt='Printable Spongeb Backdrop Digital File Template Instant Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/jycR6znpBM/Zyrb98tLH1___DqnbO_v1_compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Bikini Bottom Stage Backdrop — UPSTAGE BACKDROPS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d6feba27df27100010d1c13/1715101242730-6VZMS8O7F3RYJ574J41Z/Spongebob_Web.jpg' alt='Spongebob Bikini Bottom Stage Backdrop — UPSTAGE BACKDROPS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UPSTAGE BACKDROPS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d6feba27df27100010d1c13/1715101242730-6VZMS8O7F3RYJ574J41Z/Spongebob_Web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x4 ft Spongebob Birthday Backdrop Decoration">
+                                <img itemprop="contentUrl url" src='http://riahpartysupplies.com/wp-content/uploads/2023/12/RPS-SpongeBoc-SquarePants-Birthday-Backdrop-Decoration-01.png' alt='5x4 ft Spongebob Birthday Backdrop Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riah Party Supplies" />
+                                </span>
+                                <a href='http://riahpartysupplies.com/wp-content/uploads/2023/12/RPS-SpongeBoc-SquarePants-Birthday-Backdrop-Decoration-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Party Backdrop Panel Photography Boy Kids Birthday Decoration  Party Background Baby Shower Photo Banner Decor Gift - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S9134d6a3f5fd4eff809892b2ea5e433dl.jpg' alt='SpongeBob Party Backdrop Panel Photography Boy Kids Birthday Decoration  Party Background Baby Shower Photo Banner Decor Gift - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S9134d6a3f5fd4eff809892b2ea5e433dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

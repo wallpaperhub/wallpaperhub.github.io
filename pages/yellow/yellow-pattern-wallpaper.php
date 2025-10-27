@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Pattern Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="yellow pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-pattern-wallpaper">
+                            <span itemprop="name">yellow pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Pattern Wallpaper</h1>
+                <p>Yellow pattern wallpaper can transform any space into a vibrant and cheerful haven. Its sunny hues and striking designs add warmth and character, making it ideal for nurseries, living rooms, or creative offices. With various patterns available, yellow wallpaper can enhance your decor while brightening your mood. Explore endless possibilities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Yellow Damask Design">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' alt='1960s Vintage Wallpaper Yellow Damask Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Stripe_yellow-yellow_Product_8380654d-9c09-410f-a713-67ee92e380d3_400x.jpg?v=1615485788' alt='Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Stripe_yellow-yellow_Product_8380654d-9c09-410f-a713-67ee92e380d3_400x.jpg?v=1615485788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="That Happy Feeling - 25” wide by 32” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-yellow-diamond-pattern-peel-and-stick-wallpaper-that-happy-feeling-6967514693732.png?v=1619649289' alt='That Happy Feeling - 25” wide by 32” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-yellow-diamond-pattern-peel-and-stick-wallpaper-that-happy-feeling-6967514693732.png?v=1619649289' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/AegeanWaves_Daffodil_design_5d01fd33-a0d7-48ab-8f03-9c8fd1455318_400x.jpg?v=1633380261' alt='Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/AegeanWaves_Daffodil_design_5d01fd33-a0d7-48ab-8f03-9c8fd1455318_400x.jpg?v=1633380261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Yellow Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bf/63/f7/bf63f7542ad8fd5077e5b0403a1a4d48.jpg' alt='40+ Yellow Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bf/63/f7/bf63f7542ad8fd5077e5b0403a1a4d48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' alt='Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bahama Court Lemon Grove Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://madcapcottage.com/cdn/shop/products/4_62f0ac29-6d30-423f-abce-c5f531d3aab5.png?v=1705789128&width=800' alt='Bahama Court Lemon Grove Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madcap Cottage" />
+                                </span>
+                                <a href='https://madcapcottage.com/cdn/shop/products/4_62f0ac29-6d30-423f-abce-c5f531d3aab5.png?v=1705789128&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Mellow Yellow Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.mycutestickons.com/assets/img/design/290363192-mellow-yellow-design-wallpaper.jpg' alt='Buy Mellow Yellow Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteStickons" />
+                                </span>
+                                <a href='https://www.mycutestickons.com/assets/img/design/290363192-mellow-yellow-design-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Citrus_Yellow_design_1279acc2-b29c-4a07-9324-520093635abc_400x.jpg?v=1615484614' alt='Yellow Wallpaper for Walls - Yellow Designer Wallpaper Patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Citrus_Yellow_design_1279acc2-b29c-4a07-9324-520093635abc_400x.jpg?v=1615484614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/2024_WallFlower_HarvestYellow.jpg?v=1728503252&width=1080' alt='Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/2024_WallFlower_HarvestYellow.jpg?v=1728503252&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

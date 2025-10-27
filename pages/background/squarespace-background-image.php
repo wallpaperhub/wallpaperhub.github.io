@@ -1,0 +1,129 @@
+<title>Stunning Background Images for Your Squarespace Website</title>
+                    <meta name="description" content="Discover how to select and optimize background images for your Squarespace site. Create an inviting atmosphere, boost engagement, and showcase your brand with stunning visuals that load quickly and enhance your site's aesthetic appeal.">
+                    <meta name="keywords" content="squarespace background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/squarespace-background-image">
+                            <span itemprop="name">squarespace background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Images for Your Squarespace Website</h1>
+                <p>Enhance your Squarespace website with captivating background images! Choose images that align with your brand, ensuring they are high quality and optimized for quick loading. Adjust the opacity and size for a polished look. A well-chosen background can set the tone, engage visitors, and elevate your overall design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding site-wide background images in version 7.0 – Squarespace ...">
+                                <img itemprop="contentUrl url" src='https://support.squarespace.com/hc/article_attachments/29518193817613' alt='Adding site-wide background images in version 7.0 – Squarespace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3076">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Help Center" />
+                                </span>
+                                <a href='https://support.squarespace.com/hc/article_attachments/29518193817613' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding site-wide background images in version 7.0 – Squarespace ...">
+                                <img itemprop="contentUrl url" src='https://support.squarespace.com/hc/article_attachments/29518239106061' alt='Adding site-wide background images in version 7.0 – Squarespace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Help Center" />
+                                </span>
+                                <a href='https://support.squarespace.com/hc/article_attachments/29518239106061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding a fixed background to your Squarespace site (7.0 & 7.1 ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640015426893-KZQMQNYJ4ZZY4NCTGVV9/image-asset.gif' alt='Adding a fixed background to your Squarespace site (7.0 & 7.1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beatriz Caraballo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640015426893-KZQMQNYJ4ZZY4NCTGVV9/image-asset.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding a background image or color – Squarespace 5">
+                                <img itemprop="contentUrl url" src='https://5help.squarespace.com/hc/article_attachments/360001824387/background-image-example.png' alt='Adding a background image or color – Squarespace 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1966">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace 5" />
+                                </span>
+                                <a href='https://5help.squarespace.com/hc/article_attachments/360001824387/background-image-example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best Squarespace Video Background Templates 2025 - Colorlib">
+                                <img itemprop="contentUrl url" src='https://colorlib.com/wp/wp-content/uploads/sites/2/exurban-squarespace-video-background-template.png' alt='9 Best Squarespace Video Background Templates 2025 - Colorlib'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colorlib" />
+                                </span>
+                                <a href='https://colorlib.com/wp/wp-content/uploads/sites/2/exurban-squarespace-video-background-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding a fixed background to your Squarespace site (7.0 & 7.1 ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640015439387-CVLLO20AQ82T50IMMXTT/image-asset.gif' alt='Adding a fixed background to your Squarespace site (7.0 & 7.1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beatriz Caraballo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640015439387-CVLLO20AQ82T50IMMXTT/image-asset.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a background image to a section on Squarespace">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f53b4dad693da2d34e4e397/90a2d962-37c6-4f21-aff9-c8c3c2a8219f/Screenshot+2023-08-12+at+18.50.03-min.png' alt='How to add a background image to a section on Squarespace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="by Crawford" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f53b4dad693da2d34e4e397/90a2d962-37c6-4f21-aff9-c8c3c2a8219f/Screenshot+2023-08-12+at+18.50.03-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a full background image to Squarespace - including the header &  footer!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QJDU_uUcPrU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDcxbLI6XztVTl0Pl-zJhOnlbUD-w' alt='How to add a full background image to Squarespace - including the header &  footer!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QJDU_uUcPrU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDcxbLI6XztVTl0Pl-zJhOnlbUD-w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Section background art – Squarespace Help Center">
+                                <img itemprop="contentUrl url" src='https://support.squarespace.com/hc/article_attachments/29496911205517' alt='Section background art – Squarespace Help Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1257">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Help Center" />
+                                </span>
+                                <a href='https://support.squarespace.com/hc/article_attachments/29496911205517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Background Image to a Section on Squarespace">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vgfjH9ZO_qE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhLTfT0Vpt4RWgMOSEy9YraxpdRA' alt='How to Add a Background Image to a Section on Squarespace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vgfjH9ZO_qE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhLTfT0Vpt4RWgMOSEy9YraxpdRA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

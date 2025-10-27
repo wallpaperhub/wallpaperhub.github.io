@@ -1,0 +1,129 @@
+<title>Vibrant Strawberry Peel and Stick Wallpaper for Easy Home Updates</title>
+                    <meta name="description" content="Elevate your home decor with our strawberry peel and stick wallpaper. Easy to apply and remove, it brings a playful, vibrant touch to any room. Perfect for a quick and stylish makeover without hassle. Ideal for renters and those looking to refresh their space effortlessly!">
+                    <meta name="keywords" content="strawberry peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/strawberry-peel-and-stick-wallpaper">
+                            <span itemprop="name">strawberry peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Strawberry Peel and Stick Wallpaper for Easy Home Updates</h1>
+                <p>Transform your space with vibrant strawberry peel and stick wallpaper! Ideal for renters, it's easy to apply and remove, offering a delightful pop of color and style. Perfect for kitchens, playrooms, or any area needing a fresh update. Enjoy the fruity charm without the mess of traditional wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GW4071 Very Berry Strawberry Peel & Stick Wallpaper Roll 20.5in W x 18ft L">
+                                <img itemprop="contentUrl url" src='http://graceandgardenia.com/cdn/shop/products/gw4071-sku.jpg?v=1707710818' alt='GW4071 Very Berry Strawberry Peel & Stick Wallpaper Roll 20.5in W x 18ft L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grace & Gardenia Designs" />
+                                </span>
+                                <a href='http://graceandgardenia.com/cdn/shop/products/gw4071-sku.jpg?v=1707710818' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry summer">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/strawberry-summer-removable-wallpaper-in-scandinavian-style-living-room.jpg' alt='Strawberry summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/strawberry-summer-removable-wallpaper-in-scandinavian-style-living-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Cartoon Bright Strawberries Pink Farm  Organic Self Adhesive Farmhouse Floral Wall Mural Removable Vinyl Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eqdD7dW-L.jpg' alt='Amazon.com: Peel and Stick Wallpaper Cartoon Bright Strawberries Pink Farm  Organic Self Adhesive Farmhouse Floral Wall Mural Removable Vinyl Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eqdD7dW-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Plants Removable Wallpaper, Wall Art, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18912800/r/il/6cafaa/2278978920/il_570xN.2278978920_k45n.jpg' alt='Strawberry Plants Removable Wallpaper, Wall Art, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18912800/r/il/6cafaa/2278978920/il_570xN.2278978920_k45n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.urbndata.com/is/image/UrbanOutfitters/66662800_011_b?$xlarge$&fit=constrain&qlt=80&wid=640' alt='Strawberry Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban Outfitters" />
+                                </span>
+                                <a href='https://images.urbndata.com/is/image/UrbanOutfitters/66662800_011_b?$xlarge$&fit=constrain&qlt=80&wid=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Kitchen Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural Wall Decor 3400">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3277770034_h0z2.jpg?v=1668499787' alt='Strawberry Kitchen Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural Wall Decor 3400'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3277770034_h0z2.jpg?v=1668499787' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York Wallcoverings Berry Pink Berry Nice Peel & Stick Wallpaper Approx. 45  sq. ft. PSW1395RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4db1659e-fdd4-459b-a53f-dba1d4d481cc/svn/york-wallcoverings-wallpaper-rolls-psw1395rl-4f_600.jpg' alt='York Wallcoverings Berry Pink Berry Nice Peel & Stick Wallpaper Approx. 45  sq. ft. PSW1395RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4db1659e-fdd4-459b-a53f-dba1d4d481cc/svn/york-wallcoverings-wallpaper-rolls-psw1395rl-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Adhesive 3D Wallpaper Wall Mural Removable Contact Wall Paper Sticker  Strawberry Seamless Food Seamless Strawberry Daisy Seamless Peel and Stick  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71j3UAgRqaL.jpg' alt='Self-Adhesive 3D Wallpaper Wall Mural Removable Contact Wall Paper Sticker  Strawberry Seamless Food Seamless Strawberry Daisy Seamless Peel and Stick  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71j3UAgRqaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Strawberry Is My Jam' Wallpaper by Nathan Turner - Peach">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Strawberry_ismy_Jam_peach_E_9949d5b1-f4c7-4bac-9a42-bfc81693567b.jpg?v=1615485769' alt=''Strawberry Is My Jam' Wallpaper by Nathan Turner - Peach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Strawberry_ismy_Jam_peach_E_9949d5b1-f4c7-4bac-9a42-bfc81693567b.jpg?v=1615485769' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberries Wallpaper Self Adhesive Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/1ee5ba/4988673825/il_570xN.4988673825_sps4.jpg' alt='Strawberries Wallpaper Self Adhesive Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/1ee5ba/4988673825/il_570xN.4988673825_sps4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

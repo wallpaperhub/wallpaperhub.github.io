@@ -1,0 +1,129 @@
+<title>Vernonia School District v. Acton: A Landmark Drug Testing Case</title>
+                    <meta name="description" content="Explore the significance of Vernonia School District v. Acton, where the Supreme Court upheld student drug testing for athletes. Learn how this decision shaped school policies and student privacy rights in the pursuit of a safer educational environment.">
+                    <meta name="keywords" content="vernonia school district v. acton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vernonia-school-district-v-acton">
+                            <span itemprop="name">vernonia school district v. acton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vernonia School District v. Acton: A Landmark Drug Testing Case</h1>
+                <p>Vernonia School District v. Acton (1995) was a landmark Supreme Court case addressing student drug testing. The Court ruled that schools could implement drug testing for student-athletes, emphasizing the importance of maintaining a safe educational environment. This case balanced student privacy rights with the need for school safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Acton v. Vernonia School District 47J | ACLU of Oregon">
+                                <img itemprop="contentUrl url" src='https://www.aclu-or.org/sites/default/files/acton.jpg' alt='Acton v. Vernonia School District 47J | ACLU of Oregon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACLU of Oregon" />
+                                </span>
+                                <a href='https://www.aclu-or.org/sites/default/files/acton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School District V. Acton: Vernonia School District Versus ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51po71qpvRL._AC_UF1000,1000_QL80_.jpg' alt='Vernonia School District V. Acton: Vernonia School District Versus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51po71qpvRL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vernonia School District V. Acton: Drug Testing in ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91FHqAQKIFS._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Vernonia School District V. Acton: Drug Testing in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91FHqAQKIFS._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School District v. Acton by Akash Patel on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/mti2m43v6toqoudhyqswvgcnux6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='Vernonia School District v. Acton by Akash Patel on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/mti2m43v6toqoudhyqswvgcnux6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School District v. Acton (1995) - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/12793834/77/images/2/The+Issue+Vernonia+School+District+had+a+Student+Athlete+Drug+Policy+that+required+random+drug+tests+for+student+athletes..jpg' alt='Vernonia School District v. Acton (1995) - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/12793834/77/images/2/The+Issue+Vernonia+School+District+had+a+Student+Athlete+Drug+Policy+that+required+random+drug+tests+for+student+athletes..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Court Upholds Drug Tests For Some Public School Athletes ...">
+                                <img itemprop="contentUrl url" src='https://s1.nyt.com/timesmachine/pages/1/1995/06/27/413095_360W.png?quality=75&auto=webp&disable=upscale' alt='High Court Upholds Drug Tests For Some Public School Athletes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://s1.nyt.com/timesmachine/pages/1/1995/06/27/413095_360W.png?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School District v. Acton : Deborah A. Persico : Free ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/services/img/vernoniaschooldi00pers/full/pct:200/0/default.jpg' alt='Vernonia School District v. Acton : Deborah A. Persico : Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/services/img/vernoniaschooldi00pers/full/pct:200/0/default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School District v Acton (1995) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M6_AaFFBHC4/mqdefault.jpg' alt='Vernonia School District v Acton (1995) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M6_AaFFBHC4/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vernonia School Dist. 47J v. Acton, 515 U.S. 646 (1995): Case ...">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/af5e44394c949c237ddc7d3cc21d84b447555389.jpg?image_crop_resized=750x422' alt='Vernonia School Dist. 47J v. Acton, 515 U.S. 646 (1995): Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quimbee" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/af5e44394c949c237ddc7d3cc21d84b447555389.jpg?image_crop_resized=750x422' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Acton v. Vernonia School District 47J | ACLU of Oregon">
+                                <img itemprop="contentUrl url" src='https://www.aclu-or.org/sites/default/files/styles/featured_image_mobile_480x319/public/fallback-legislation-scale-square.png?itok=SRfdd01N' alt='Acton v. Vernonia School District 47J | ACLU of Oregon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACLU of Oregon" />
+                                </span>
+                                <a href='https://www.aclu-or.org/sites/default/files/styles/featured_image_mobile_480x319/public/fallback-legislation-scale-square.png?itok=SRfdd01N' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

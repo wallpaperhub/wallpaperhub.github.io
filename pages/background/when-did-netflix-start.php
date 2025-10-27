@@ -1,0 +1,129 @@
+<title>When Did Netflix Start? A Brief History</title>
+                    <meta name="description" content="Discover the fascinating journey of Netflix, from its inception in 1997 as a DVD rental service to a leading streaming platform. Explore how Netflix transformed entertainment consumption and became a household name worldwide.">
+                    <meta name="keywords" content="when did netflix start">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-netflix-start">
+                            <span itemprop="name">when did netflix start</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did Netflix Start? A Brief History</h1>
+                <p>Netflix started its journey on August 29, 1997, founded by Reed Hastings and Marc Randolph in Scotts Valley, California. Initially, it operated as a DVD rental service, allowing customers to rent DVDs online and have them delivered by mail. Over the years, Netflix evolved into a streaming giant, revolutionizing how we consume entertainment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Netflix Became a $100 Billion Company in 20 Years | Product Habits">
+                                <img itemprop="contentUrl url" src='http://producthabits.com/wp-content/uploads/2018/04/Screenshot-2018-03-26-16.08.07.png' alt='How Netflix Became a $100 Billion Company in 20 Years | Product Habits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Product Habits" />
+                                </span>
+                                <a href='http://producthabits.com/wp-content/uploads/2018/04/Screenshot-2018-03-26-16.08.07.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Netflix and How it Took The World By Storm">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6299f2e9711457612f15f77e/62fdb2b5d9ba1f46d944079d_Screenshot%202022-08-18%20113151.png' alt='A Brief History of Netflix and How it Took The World By Storm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big 3 Media" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6299f2e9711457612f15f77e/62fdb2b5d9ba1f46d944079d_Screenshot%202022-08-18%20113151.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Netflixenvelope.jpg/250px-Netflixenvelope.jpg' alt='Netflix - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Netflixenvelope.jpg/250px-Netflixenvelope.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE HISTORY OF NETFLIX. From CDs to streaming | by ADITYA VERMA ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*AXjbBAMe8Yg3VigT3w5EIA.png' alt='THE HISTORY OF NETFLIX. From CDs to streaming | by ADITYA VERMA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*AXjbBAMe8Yg3VigT3w5EIA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Netflix Became a $100 Billion Company in 20 Years | Product Habits">
+                                <img itemprop="contentUrl url" src='https://producthabits.com/wp-content/uploads/2018/04/Screenshot-2018-03-26-16.11.55.png' alt='How Netflix Became a $100 Billion Company in 20 Years | Product Habits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="1404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Product Habits" />
+                                </span>
+                                <a href='https://producthabits.com/wp-content/uploads/2018/04/Screenshot-2018-03-26-16.11.55.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix history: major moments since the site launched in 1998">
+                                <img itemprop="contentUrl url" src='https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/68946fc025657bdb171eaae19e1aabf0.jpg' alt='Netflix history: major moments since the site launched in 1998'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quartz" />
+                                </span>
+                                <a href='https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/68946fc025657bdb171eaae19e1aabf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix Logo Evolution: From Initial Designs to the Iconic "Tudum ...">
+                                <img itemprop="contentUrl url" src='https://cdn.logojoy.com/wp-content/uploads/20231031142854/10-04-23_NetflixLogoEvolution_Infographic-600x417.jpg' alt='Netflix Logo Evolution: From Initial Designs to the Iconic "Tudum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looka" />
+                                </span>
+                                <a href='https://cdn.logojoy.com/wp-content/uploads/20231031142854/10-04-23_NetflixLogoEvolution_Infographic-600x417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/3c/Netflix_UI_for_Web.png' alt='Netflix - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/3c/Netflix_UI_for_Web.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix Celebrates 25 Years - Netflix Tudum">
+                                <img itemprop="contentUrl url" src='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQP640e5Q1WoUcDlqls0ZnhP9qG5DljpmA0pmpECo5UDnQ3pyTrEV9bAFBKji8y3cUTMrVc-lscst_-k-8Z_fAQjD1If8-WAX13_R3wAVQQTjXY1NjznlV36K50P14aJYSA6UNuf8to4k7udFg7gNN2E.jpg?r=343' alt='Netflix Celebrates 25 Years - Netflix Tudum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix" />
+                                </span>
+                                <a href='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQP640e5Q1WoUcDlqls0ZnhP9qG5DljpmA0pmpECo5UDnQ3pyTrEV9bAFBKji8y3cUTMrVc-lscst_-k-8Z_fAQjD1If8-WAX13_R3wAVQQTjXY1NjznlV36K50P14aJYSA6UNuf8to4k7udFg7gNN2E.jpg?r=343' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KUOW - The Story Of Netflix, From One Of Its Co-Founders">
+                                <img itemprop="contentUrl url" src='https://kuow-prod.imgix.net/store/d3a82f6bc1ef6dc87498840f80959a6b.jpg' alt='KUOW - The Story Of Netflix, From One Of Its Co-Founders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUOW" />
+                                </span>
+                                <a href='https://kuow-prod.imgix.net/store/d3a82f6bc1ef6dc87498840f80959a6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

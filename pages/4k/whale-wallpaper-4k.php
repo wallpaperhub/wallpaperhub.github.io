@@ -1,0 +1,129 @@
+<title>Stunning 4K Whale Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore our collection of breathtaking 4K whale wallpaper to elevate your interior design. Perfect for ocean lovers, these stunning visuals provide a serene, calming effect. Download your favorite design today and transform your walls into a vivid marine masterpiece!">
+                    <meta name="keywords" content="whale wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/whale-wallpaper-4k">
+                            <span itemprop="name">whale wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Whale Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning 4K whale wallpaper that captures the majesty of these ocean giants. Featuring vibrant colors and intricate details, our wallpapers bring a piece of the ocean into your home, creating a serene atmosphere. Perfect for any room, dive into a world of beauty and tranquility today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Whale 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/21/c6/e321c652e292f1042b63e336332dbd29.jpg' alt='Giant Whale 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/21/c6/e321c652e292f1042b63e336332dbd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Breaching Whale Animal Humpback Whale 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/641/641174.jpg' alt='Download Breaching Whale Animal Humpback Whale 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4250">
+                                <meta itemprop="height" content="2404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/641/641174.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humpback Whale 4K Wallpaper - Oceanic Aesthetic for PC">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/04/humpback-whale-aesthetic-desktop-wallpaper-preview.jpg' alt='Humpback Whale 4K Wallpaper - Oceanic Aesthetic for PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/04/humpback-whale-aesthetic-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolphin Night Orca Whale Digital Art 4k - Free 4k Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/75/b1/2375b1f97ceaec54e1aab48d885462cb.jpg' alt='Dolphin Night Orca Whale Digital Art 4k - Free 4k Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/75/b1/2375b1f97ceaec54e1aab48d885462cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Whale TV Show A Perfect Planet 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/121/1210599.jpg' alt='Download Whale TV Show A Perfect Planet 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/121/1210599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital watercolor painting of a whale underwater. 4k Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/66/57/20/1000_F_566572098_mnplm6rP1aPZLxjYeq6Ln3Pz0FwWrX1s.jpg' alt='Digital watercolor painting of a whale underwater. 4k Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/66/57/20/1000_F_566572098_mnplm6rP1aPZLxjYeq6Ln3Pz0FwWrX1s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale Wallpaper (Ocean, High resolution) #12586">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/pic_h/12586.jpg' alt='Whale Wallpaper (Ocean, High resolution) #12586'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/pic_h/12586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+ Best Whale Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/34809/loro-park-orca-fish.jpg?cs=srgb&dl=pexels-pixabay-34809.jpg&fm=jpg' alt='600+ Best Whale Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3872">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/34809/loro-park-orca-fish.jpg?cs=srgb&dl=pexels-pixabay-34809.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale Wallpaper (Underwater, Diving) #1235">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/whale-3840x2160-sea-ocean-water-underwater-diving-art-rays-worlds-1235.jpg' alt='Whale Wallpaper (Underwater, Diving) #1235'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/whale-3840x2160-sea-ocean-water-underwater-diving-art-rays-worlds-1235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Whale Wallpapers (43 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/0/d/1037764-2160x3840-samsung-4k-blue-whale-wallpaper.jpg' alt='Blue Whale Wallpapers (43 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/0/d/1037764-2160x3840-samsung-4k-blue-whale-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

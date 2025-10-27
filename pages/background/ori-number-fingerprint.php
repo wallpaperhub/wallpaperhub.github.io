@@ -1,0 +1,129 @@
+<title>"Understanding ORI Numbers in Fingerprinting"</title>
+                    <meta name="description" content="Learn the importance of ORI numbers in fingerprinting. Discover how this unique identifier streamlines background checks and enhances the accuracy of biometric data processing. Essential for law enforcement and compliance, understanding ORI numbers is key for agencies and applicants alike.">
+                    <meta name="keywords" content="ori number fingerprint">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ori-number-fingerprint">
+                            <span itemprop="name">ori number fingerprint</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding ORI Numbers in Fingerprinting"</h1>
+                <p>The ORI (Originating Agency Identifier) number associated with fingerprinting is crucial in identifying law enforcement and government agencies. This unique number ensures that background checks and biometric data are accurately processed. Understanding the ORI number is essential for consistent record-keeping and compliance in various applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What ORI goes on the Form 1 Efile fingerprint cards I have seen 4 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/foazb3bor4f31.jpg' alt='What ORI goes on the Form 1 Efile fingerprint cards I have seen 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="1525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/foazb3bor4f31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is my ORI, OCA or VECHS number? Where Can I Find It? – Denson ...">
+                                <img itemprop="contentUrl url" src='https://densonprotective.com/wp-content/uploads/2018/03/sample-livescan-request-form-300x290.png' alt='What is my ORI, OCA or VECHS number? Where Can I Find It? – Denson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denson Protective Services, Corp" />
+                                </span>
+                                <a href='https://densonprotective.com/wp-content/uploads/2018/03/sample-livescan-request-form-300x290.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finger print cards? : r/NFA">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c3zee8l843521.jpg' alt='Finger print cards? : r/NFA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2355">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c3zee8l843521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is my ORI, OCA or VECHS number? Where Can I Find It? – Denson ...">
+                                <img itemprop="contentUrl url" src='https://densonprotective.com/wp-content/uploads/2018/03/ori-blog-graphic-copy.png' alt='What is my ORI, OCA or VECHS number? Where Can I Find It? – Denson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denson Protective Services, Corp" />
+                                </span>
+                                <a href='https://densonprotective.com/wp-content/uploads/2018/03/ori-blog-graphic-copy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ATF Compliant FD-258 Fingerprint Cards - Walk-Through Guide ...">
+                                <img itemprop="contentUrl url" src='http://www.nationalguntrusts.com/cdn/shop/articles/FD-258-TEMPLATE-ATF-ORI.png?v=1652120402' alt='ATF Compliant FD-258 Fingerprint Cards - Walk-Through Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2612">
+                                <meta itemprop="height" content="2607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Gun Trusts" />
+                                </span>
+                                <a href='http://www.nationalguntrusts.com/cdn/shop/articles/FD-258-TEMPLATE-ATF-ORI.png?v=1652120402' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GUIDE FOR COMPLETING YOUR FD-258 CARD">
+                                <img itemprop="contentUrl url" src='x-raw-image:///a561a6aefa77ca2bc67cc4ae697269678f74c2d9c6e156b8068669fce2710a17' alt='GUIDE FOR COMPLETING YOUR FD-258 CARD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mn.gov" />
+                                </span>
+                                <a href='x-raw-image:///a561a6aefa77ca2bc67cc4ae697269678f74c2d9c6e156b8068669fce2710a17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Card Instructions – Bellevue Fingerprinting Service">
+                                <img itemprop="contentUrl url" src='https://bellevuefingerprintingservice.com/wp-content/uploads/2020/04/Sample-FD-258_Page_1-1024x1024.jpg' alt='Fingerprint Card Instructions – Bellevue Fingerprinting Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bellevue Fingerprinting Service" />
+                                </span>
+                                <a href='https://bellevuefingerprintingservice.com/wp-content/uploads/2020/04/Sample-FD-258_Page_1-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Getting Your Florida ORI Number | Livescan Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://atlanticprints.com/wp-content/uploads/2021/10/yourOriNumber2.svg' alt='Getting Your Florida ORI Number | Livescan Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlantic Prints" />
+                                </span>
+                                <a href='https://atlanticprints.com/wp-content/uploads/2021/10/yourOriNumber2.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ATF Compliant FD-258 Fingerprint Cards - Walk-Through Guide ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1696/0313/files/FD-258-Section1-ORI_1d9518b2-fd30-4ff6-b69a-506a556b6991.jpg?v=1652120487' alt='ATF Compliant FD-258 Fingerprint Cards - Walk-Through Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Gun Trusts" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1696/0313/files/FD-258-Section1-ORI_1d9518b2-fd30-4ff6-b69a-506a556b6991.jpg?v=1652120487' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applicant Record Cards w/ ORI imprint (Set of 100)">
+                                <img itemprop="contentUrl url" src='https://www.sirchie.com/media/catalog/product/cache/953baf6f387fbf7720cf9d81f7c81ec8/f/d/fd-258-110120_-front.jpg' alt='Applicant Record Cards w/ ORI imprint (Set of 100)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sirchie" />
+                                </span>
+                                <a href='https://www.sirchie.com/media/catalog/product/cache/953baf6f387fbf7720cf9d81f7c81ec8/f/d/fd-258-110120_-front.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

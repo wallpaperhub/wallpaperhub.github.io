@@ -1,0 +1,129 @@
+<title>Ouija Board PNG: Ghostly Graphics for Your Creative Projects</title>
+                    <meta name="description" content="Explore a stunning array of Ouija board PNG images designed for creativity and allure. Ideal for Halloween or any mystical project, our high-quality, transparent PNGs are perfect for graphic design. Elevate your work with these enchanting images and let your imagination flow seamlessly!">
+                    <meta name="keywords" content="ouija board png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ouija-board-png">
+                            <span itemprop="name">ouija board png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ouija Board PNG: Ghostly Graphics for Your Creative Projects</h1>
+                <p>Discover a captivating collection of Ouija board PNG images perfect for your creative projects. Whether you’re designing spooky graphics for Halloween, creating invitations, or looking for unique art elements, our high-quality PNGs are transparent, versatile, and ready to use. Unleash your imagination with these mystical designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija Spirit Board Graphic PNG, Ouija Spirit Board Clipart Jpg ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36829583/r/il/760a3c/4356135125/il_fullxfull.4356135125_iwhf.jpg' alt='Ouija Spirit Board Graphic PNG, Ouija Spirit Board Clipart Jpg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36829583/r/il/760a3c/4356135125/il_fullxfull.4356135125_iwhf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija Board PNG Images & PSDs for Download | PixelSquid - S110939769">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/ouija-board-2M02A79-600.jpg' alt='Ouija Board PNG Images & PSDs for Download | PixelSquid - S110939769'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/ouija-board-2M02A79-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Ouija board.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Ouija_board.png' alt='File:Ouija board.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="631">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c3/Ouija_board.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija Board Images – Browse 4,195 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/12/15/00/360_F_212150079_pQYUSIT892zObwFeIprQIsFV7IefzlZf.jpg' alt='Ouija Board Images – Browse 4,195 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/12/15/00/360_F_212150079_pQYUSIT892zObwFeIprQIsFV7IefzlZf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart-shaped Ouija Board PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/324048/isolated/preview/1fe632736fbb19a4e46d9f6494f5deb9-heart-shaped-ouija-board.png' alt='Heart-shaped Ouija Board PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/324048/isolated/preview/1fe632736fbb19a4e46d9f6494f5deb9-heart-shaped-ouija-board.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystic Cat Ouija Spirit Board Graphic PNG, Ouija Spirit Board ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36829583/r/il/e5445f/4436777893/il_570xN.4436777893_s7u4.jpg' alt='Mystic Cat Ouija Spirit Board Graphic PNG, Ouija Spirit Board ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36829583/r/il/e5445f/4436777893/il_570xN.4436777893_s7u4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija board png sticker, vintage | Free PNG - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjczLTAzOS1wLnBuZw.png' alt='Ouija board png sticker, vintage | Free PNG - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjczLTAzOS1wLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija Board SVG, PNG, PDF, Cricut, Silhouette, Cricut, Ouija Game, Ouija  Spirit Board, Spirit board svg, Ouija Svg">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30246936/r/il/ee10b5/3616029677/il_fullxfull.3616029677_as0x.jpg' alt='Ouija Board SVG, PNG, PDF, Cricut, Silhouette, Cricut, Ouija Game, Ouija  Spirit Board, Spirit board svg, Ouija Svg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30246936/r/il/ee10b5/3616029677/il_fullxfull.3616029677_as0x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ouija Board, Ouija Board png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/425/632/png-clipart-ouija-monopoly-board-game-spirit-planchette-ouija-game-text-thumbnail.png' alt='Ouija Board, Ouija Board png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/425/632/png-clipart-ouija-monopoly-board-game-spirit-planchette-ouija-game-text-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ouija Board, Planchette, Occultism. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/10/14/14/59/ouija-board-6709351_640.png' alt='Download Ouija Board, Planchette, Occultism. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/10/14/14/59/ouija-board-6709351_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Sweet Legacy of Tootsie Roll: A Brief History</title>
+                    <meta name="description" content="Discover the fascinating history of Tootsie Roll, an iconic candy loved for over a century! Learn how this chocolate treat became a staple during WWII and continues to bring joy to fans worldwide. Perfect for history buffs and candy lovers alike.">
+                    <meta name="keywords" content="tootsie roll history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tootsie-roll-history">
+                            <span itemprop="name">tootsie roll history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Sweet Legacy of Tootsie Roll: A Brief History</h1>
+                <p>Tootsie Roll, invented in 1896 by Leo Hirschfield, is one of America's oldest confections. Employed as a treat for soldiers during World War II, its chewy texture and rich chocolate flavor have made it a beloved sweet. Named after Hirschfield's daughter, Tootsie, it remains a nostalgic favorite and an iconic candy in popular culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tootsie Roll Tragedy: The Real Leo Hirschfeld Story | Candy Professor">
+                                <img itemprop="contentUrl url" src='https://candyprofessor.wordpress.com/wp-content/uploads/2010/02/1909-conf-jnl-00132.jpg' alt='Tootsie Roll Tragedy: The Real Leo Hirschfeld Story | Candy Professor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2103">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Professor - WordPress.com" />
+                                </span>
+                                <a href='https://candyprofessor.wordpress.com/wp-content/uploads/2010/02/1909-conf-jnl-00132.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - Tootsie">
+                                <img itemprop="contentUrl url" src='https://tootsie.com/app/uploads/2024/10/27-300x300.png' alt='History - Tootsie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tootsie Roll" />
+                                </span>
+                                <a href='https://tootsie.com/app/uploads/2024/10/27-300x300.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Ads: Tootsie Rolls | The Saturday Evening Post">
+                                <img itemprop="contentUrl url" src='https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2020-04-08-tootsie-roll-ad-scaled.jpg' alt='Vintage Ads: Tootsie Rolls | The Saturday Evening Post'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1967">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Saturday Evening Post" />
+                                </span>
+                                <a href='https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2020-04-08-tootsie-roll-ad-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Myth of the Tootsie Roll Airdrop at Chosin - Veterans ...">
+                                <img itemprop="contentUrl url" src='https://veteransbreakfastclub.org/wp-content/uploads/2023/07/tootsie-roll-ad.jpg' alt='The Myth of the Tootsie Roll Airdrop at Chosin - Veterans ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veterans Breakfast Club" />
+                                </span>
+                                <a href='https://veteransbreakfastclub.org/wp-content/uploads/2023/07/tootsie-roll-ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tootsie Roll - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/02/Tootsie-Roll-WU.jpg' alt='Tootsie Roll - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2660">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/02/Tootsie-Roll-WU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - Tootsie">
+                                <img itemprop="contentUrl url" src='https://tootsie.com/app/uploads/2024/10/22-300x300.png' alt='History - Tootsie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tootsie Roll" />
+                                </span>
+                                <a href='https://tootsie.com/app/uploads/2024/10/22-300x300.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today In Pop Culture: 120 Years Of Tootsie Rolls | Popshifter">
+                                <img itemprop="contentUrl url" src='https://popshifter.com/wp-content/uploads/2016/02/tipc-tootsie-roll-header-graphic.jpg' alt='Today In Pop Culture: 120 Years Of Tootsie Rolls | Popshifter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popshifter" />
+                                </span>
+                                <a href='https://popshifter.com/wp-content/uploads/2016/02/tipc-tootsie-roll-header-graphic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Tootsie Rolls, once America's favorite candy (and ...">
+                                <img itemprop="contentUrl url" src='https://clickamericana.com/wp-content/uploads/Vintage-NUT-Tootsie-Roll-candies-from-1919.jpg' alt='The history of Tootsie Rolls, once America's favorite candy (and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1247">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Click Americana" />
+                                </span>
+                                <a href='https://clickamericana.com/wp-content/uploads/Vintage-NUT-Tootsie-Roll-candies-from-1919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tootsie Roll Anniversary: History, Origins, Invented, Name | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2016/02/tootsie-roll-2.jpg' alt='Tootsie Roll Anniversary: History, Origins, Invented, Name | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2016/02/tootsie-roll-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Halloween, let's unwrap a sweet piece of Jewish American ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3226054640352460360' alt='This Halloween, let's unwrap a sweet piece of Jewish American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3226054640352460360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

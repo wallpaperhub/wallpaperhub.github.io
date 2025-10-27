@@ -1,0 +1,129 @@
+<title>Red Carpet Photo Booth: Glamour and Fun for Your Event</title>
+                    <meta name="description" content="Elevate your event with a red carpet photo booth! Ideal for any occasion, it combines style and excitement, allowing guests to capture fun memories with instant prints. Perfect for weddings, parties, or corporate functions. Make your celebration unforgettable with a touch of glamour!">
+                    <meta name="keywords" content="red carpet photo booth">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-carpet-photo-booth">
+                            <span itemprop="name">red carpet photo booth</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red Carpet Photo Booth: Glamour and Fun for Your Event</h1>
+                <p>Capture the glamour of your event with a red carpet photo booth! Perfect for weddings, parties, and corporate events, it adds a touch of luxury. Guests can strike a pose against a stunning backdrop, creating memorable keepsakes. Enhance your event atmosphere with fun props and instant prints, making it unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Carpet Photo Booth Rental | GC Photo Booth">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/4af200_ab3e3a11982b4c2a9b1b6e3fbc99e8ed~mv2.jpg/v1/fill/w_640,h_824,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4af200_ab3e3a11982b4c2a9b1b6e3fbc99e8ed~mv2.jpg' alt='Red Carpet Photo Booth Rental | GC Photo Booth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GC Photo Booth" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/4af200_ab3e3a11982b4c2a9b1b6e3fbc99e8ed~mv2.jpg/v1/fill/w_640,h_824,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4af200_ab3e3a11982b4c2a9b1b6e3fbc99e8ed~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Carpet Photo Booth Rentals | Sure Shot">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/c41984_ceaabd2167174ca2bcacf5aab3d00fd4~mv2.jpg/v1/fill/w_1200,h_640,al_c/c41984_ceaabd2167174ca2bcacf5aab3d00fd4~mv2.jpg' alt='Red Carpet Photo Booth Rentals | Sure Shot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sure Shot Photo Booth" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/c41984_ceaabd2167174ca2bcacf5aab3d00fd4~mv2.jpg/v1/fill/w_1200,h_640,al_c/c41984_ceaabd2167174ca2bcacf5aab3d00fd4~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Carpet Photo Booth — Fat Cat Photo Booths">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d2bb92d3b804900015537b7/1567195147139-EPZ0MZMJEF7FOZZQ3O81/POM-1_05.JPG' alt='Red Carpet Photo Booth — Fat Cat Photo Booths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fat Cat Photo Booths" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d2bb92d3b804900015537b7/1567195147139-EPZ0MZMJEF7FOZZQ3O81/POM-1_05.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10x10ft Red Carpet Vinyl Photography Backdrop Customized Photo Background  Photo Booth Studio Props HXME186">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613n2q8e9ZL._AC_UF894,1000_QL80_.jpg' alt='10x10ft Red Carpet Vinyl Photography Backdrop Customized Photo Background  Photo Booth Studio Props HXME186'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613n2q8e9ZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red-Carpet Inspired Photo Booth | Fort Myers, FL">
+                                <img itemprop="contentUrl url" src='https://completewedo.com/fort-myers/wp-content/uploads/sites/31/2024/04/6440430907_17bce8bdbc-1320537717.jpg' alt='Red-Carpet Inspired Photo Booth | Fort Myers, FL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Complete Weddings + Events" />
+                                </span>
+                                <a href='https://completewedo.com/fort-myers/wp-content/uploads/sites/31/2024/04/6440430907_17bce8bdbc-1320537717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Yeele 10x10ft Photography Backdrop Stage Lights Red Carpet  Background for Photo Shoots Luxury VIP Royals Club Party Event Decoration  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51U5MvmtXGL.jpg' alt='Amazon.com : Yeele 10x10ft Photography Backdrop Stage Lights Red Carpet  Background for Photo Shoots Luxury VIP Royals Club Party Event Decoration  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51U5MvmtXGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Carpet Photo Booth Rental Package | Bucks Photo Booths">
+                                <img itemprop="contentUrl url" src='https://bucksphotobooths.com/wp-content/uploads/2018/08/Red-Carpet-Photo-Booth-Rental-Bucks-Photo-Booths.jpg' alt='Red Carpet Photo Booth Rental Package | Bucks Photo Booths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2352">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bucks photo booth rentals" />
+                                </span>
+                                <a href='https://bucksphotobooths.com/wp-content/uploads/2018/08/Red-Carpet-Photo-Booth-Rental-Bucks-Photo-Booths.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PhotoBoothsWithJ - Photo Booths - Bronx, NY - WeddingWire">
+                                <img itemprop="contentUrl url" src='https://cdn0.weddingwire.com/vendor/792101/3_2/960/jpg/photo-booth-rental5_51_2101297-165730703277431.jpeg' alt='PhotoBoothsWithJ - Photo Booths - Bronx, NY - WeddingWire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeddingWire" />
+                                </span>
+                                <a href='https://cdn0.weddingwire.com/vendor/792101/3_2/960/jpg/photo-booth-rental5_51_2101297-165730703277431.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic Mirror Red Carpet Package">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thecompletedj.com/wp-content/uploads/2021/04/red_carpet_package.jpg?resize=667%2C667&ssl=1' alt='The Magic Mirror Red Carpet Package'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Complete DJ" />
+                                </span>
+                                <a href='https://i0.wp.com/thecompletedj.com/wp-content/uploads/2021/04/red_carpet_package.jpg?resize=667%2C667&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood Party Backdrop,personalized Movie Star Backdrop, Red ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8051774/r/il/425524/2929571739/il_fullxfull.2929571739_306p.jpg' alt='Hollywood Party Backdrop,personalized Movie Star Backdrop, Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8051774/r/il/425524/2929571739/il_fullxfull.2929571739_306p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

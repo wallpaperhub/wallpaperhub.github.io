@@ -1,0 +1,129 @@
+<title>Understanding "In-Eligible for Hire" Explained</title>
+                    <meta name="description" content="Explore the meaning of "in-eligible for hire" and discover what factors can affect employment eligibility. This concise guide helps employers and job seekers understand qualifications necessary for hiring opportunities. Stay informed and enhance your recruitment strategy today!">
+                    <meta name="keywords" content="in-eligible for hire meaning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/in-eligible-for-hire-meaning">
+                            <span itemprop="name">in-eligible for hire meaning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding "In-Eligible for Hire" Explained</h1>
+                <p>"In-eligible for hire" refers to individuals who do not meet the necessary qualifications or criteria for employment. This can arise from various factors such as criminal records, lack of required skills, or failure to pass background checks. Understanding this term is crucial for both employers and job seekers in the recruitment process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stricter Rehire Eligibility - Effective at July 1st : r/AmazonFC">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3ud5q9ipfo771.jpg' alt='Stricter Rehire Eligibility - Effective at July 1st : r/AmazonFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3ud5q9ipfo771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I eligible for rehire? : r/AmazonFC">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/am-i-eligible-for-rehire-v0-e2uquv5cpqdb1.jpeg?width=1284&format=pjpg&auto=webp&s=b199d112bcfe253db8c7844f5f5baefa3782a873' alt='Am I eligible for rehire? : r/AmazonFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1109">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/am-i-eligible-for-rehire-v0-e2uquv5cpqdb1.jpeg?width=1284&format=pjpg&auto=webp&s=b199d112bcfe253db8c7844f5f5baefa3782a873' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is benefits eligible? | HR Glossary - Testlify">
+                                <img itemprop="contentUrl url" src='https://testlify.com/wp-content/uploads/2023/01/What-is-benefits-eligible-1024x576.png' alt='What is benefits eligible? | HR Glossary - Testlify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Testlify" />
+                                </span>
+                                <a href='https://testlify.com/wp-content/uploads/2023/01/What-is-benefits-eligible-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What grants a former employee rehire eligibility? - PeopleSpheres">
+                                <img itemprop="contentUrl url" src='https://peoplespheres.com/wp-content/uploads/2023/04/napkin-selection-55-1.png' alt='What grants a former employee rehire eligibility? - PeopleSpheres'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleSpheres" />
+                                </span>
+                                <a href='https://peoplespheres.com/wp-content/uploads/2023/04/napkin-selection-55-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rehiring Former Employees in 6 Steps [+ Free Policy Template]">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/07/Thumbnail_Rehiring_Former_Employees_Policy_Template.jpg' alt='Rehiring Former Employees in 6 Steps [+ Free Policy Template]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/07/Thumbnail_Rehiring_Former_Employees_Policy_Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Congresswoman Jasmine Crockett - Today, I introduced the HIRE ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=575941035391416' alt='Congresswoman Jasmine Crockett - Today, I introduced the HIRE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=575941035391416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What grants a former employee rehire eligibility? - PeopleSpheres">
+                                <img itemprop="contentUrl url" src='https://peoplespheres.com/wp-content/uploads/2023/04/napkin-selection-57.png' alt='What grants a former employee rehire eligibility? - PeopleSpheres'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeopleSpheres" />
+                                </span>
+                                <a href='https://peoplespheres.com/wp-content/uploads/2023/04/napkin-selection-57.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Restricted Rehire Status – What Does it Mean? | Our Magical Disney ...">
+                                <img itemprop="contentUrl url" src='https://collinsrace1.wordpress.com/wp-content/uploads/2014/12/w2.jpg?w=356&h=488' alt='Restricted Rehire Status – What Does it Mean? | Our Magical Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Magical Disney Moments - WordPress.com" />
+                                </span>
+                                <a href='https://collinsrace1.wordpress.com/wp-content/uploads/2014/12/w2.jpg?w=356&h=488' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Restricted Rehire Status – What Does it Mean? | Our Magical Disney ...">
+                                <img itemprop="contentUrl url" src='https://collinsrace1.wordpress.com/wp-content/uploads/2014/12/costuming.jpg?w=383&h=477' alt='Restricted Rehire Status – What Does it Mean? | Our Magical Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Magical Disney Moments - WordPress.com" />
+                                </span>
+                                <a href='https://collinsrace1.wordpress.com/wp-content/uploads/2014/12/costuming.jpg?w=383&h=477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hire - Definition, Types, Requirements & Process - Riseup Labs">
+                                <img itemprop="contentUrl url" src='https://riseuplabs.com/wp-content/uploads/2022/10/hiring-process-article.webp' alt='Hire - Definition, Types, Requirements & Process - Riseup Labs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riseup Labs" />
+                                </span>
+                                <a href='https://riseuplabs.com/wp-content/uploads/2022/10/hiring-process-article.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Thanksgiving Colors for Your Festive Background</title>
+                    <meta name="description" content="Explore the perfect Thanksgiving colors for your celebration backdrop. Discover rich oranges, earthy browns, and vibrant yellows that evoke the spirit of harvest and gratitude. Transform your space with these warm hues for an inviting and festive atmosphere. Ideal for all your Thanksgiving decorating needs!">
+                    <meta name="keywords" content="thanksgiving colors background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thanksgiving-colors-background">
+                            <span itemprop="name">thanksgiving colors background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Thanksgiving Colors for Your Festive Background</h1>
+                <p>Thanksgiving colors create a warm and inviting backdrop for your festive celebrations. Think rich oranges, earthy browns, vibrant yellows, and deep reds, reminiscent of autumn leaves and harvest bounty. Incorporate these shades into your decorations, table settings, and crafts to enhance the spirit of gratitude and togetherness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,300+ Colorful Thanksgiving Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1339096137/vector/abstract-warm-background-with-orange-yellow-red-colors-with-green-undertone.jpg?s=612x612&w=0&k=20&c=VZw9t43753F5jg3Sxmc6_Jz0urUEUPrZrUETXlUB7Lk=' alt='5,300+ Colorful Thanksgiving Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1339096137/vector/abstract-warm-background-with-orange-yellow-red-colors-with-green-undertone.jpg?s=612x612&w=0&k=20&c=VZw9t43753F5jg3Sxmc6_Jz0urUEUPrZrUETXlUB7Lk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Colors Announceement Background | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1253643213784_24/img_mouseover3.jpg' alt='Thanksgiving Colors Announceement Background | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1253643213784_24/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm Autumn Thanksgiving Background Colors Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/warm-autumn-thanksgiving-background-colors-260nw-291443795.jpg' alt='Warm Autumn Thanksgiving Background Colors Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/warm-autumn-thanksgiving-background-colors-260nw-291443795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Autumn Background Halloween Thanksgiving Color Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/orange-autumn-background-halloween-thanksgiving-260nw-325893227.jpg' alt='Orange Autumn Background Halloween Thanksgiving Color Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/orange-autumn-background-halloween-thanksgiving-260nw-325893227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Happy Thanksgiving background with autumn leaves ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/happy-thanksgiving-background-with-autumn-leaves-vegetables-turkey-orange-colors_444390-2024.jpg' alt='Premium Vector | Happy Thanksgiving background with autumn leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/happy-thanksgiving-background-with-autumn-leaves-vegetables-turkey-orange-colors_444390-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,600+ Thanksgiving Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1634513475/photo/autumn-or-fall-leaves-in-floral-watercolor-background-for-thanksgiving-or-fall-designs-orange.jpg?s=612x612&w=0&k=20&c=fWaLYxRqmnBkTyfvIK6bAiBlm18PclWow-nY0zf3lHw=' alt='14,600+ Thanksgiving Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1634513475/photo/autumn-or-fall-leaves-in-floral-watercolor-background-for-thanksgiving-or-fall-designs-orange.jpg?s=612x612&w=0&k=20&c=fWaLYxRqmnBkTyfvIK6bAiBlm18PclWow-nY0zf3lHw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="autumn background colors in soft warm red gold yellows and orange ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/22/81/05/1000_F_122810549_bKg02zkcvpiiE4XBYeW9fmSvnV7t2I3T.jpg' alt='autumn background colors in soft warm red gold yellows and orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/22/81/05/1000_F_122810549_bKg02zkcvpiiE4XBYeW9fmSvnV7t2I3T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/3e059a07-5a79-443c-94a2-55d4298801f5' alt='35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/3e059a07-5a79-443c-94a2-55d4298801f5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Background Images – Browse 1,422,838 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/27/82/42/360_F_227824212_hluRPu7NzScHtiChul2ScHE7h5stiuxG.jpg' alt='Thanksgiving Background Images – Browse 1,422,838 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/27/82/42/360_F_227824212_hluRPu7NzScHtiChul2ScHE7h5stiuxG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Autumn Colors Backgrounds Space Text Thanksgiving Day ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/9726962/37224/i/1600/depositphotos_372242038-stock-photo-bright-autumn-colors-backgrounds-space.jpg' alt='Bright Autumn Colors Backgrounds Space Text Thanksgiving Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/9726962/37224/i/1600/depositphotos_372242038-stock-photo-bright-autumn-colors-backgrounds-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

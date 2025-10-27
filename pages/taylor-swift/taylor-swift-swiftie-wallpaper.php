@@ -1,0 +1,129 @@
+<title>Stunning Taylor Swift Wallpapers for Every Swiftie</title>
+                    <meta name="description" content="Discover a vibrant collection of Taylor Swift wallpapers perfect for every Swiftie. Browse high-quality images showcasing her iconic style and memorable moments. Elevate your device’s look with the best Taylor Swift wallpaper that celebrates your fandom!">
+                    <meta name="keywords" content="taylor swift swiftie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-swiftie-wallpaper">
+                            <span itemprop="name">taylor swift swiftie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Swift Wallpapers for Every Swiftie</h1>
+                <p>The ultimate Taylor Swift fan deserves the perfect wallpaper! Our collection features stunning images of Swift in various iconic looks and performances. Whether it's from "Fearless" to "Midnights," find your favorite Taylor Swift moments and personalize your devices. Show off your Swiftie pride with unique wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="celebrity #outfitinspo #preppy #homedecor #wallpaper #taylorswift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/5b/cd/4d5bcd3315fc3240e55fe6e8f4f9c17e.jpg' alt='celebrity #outfitinspo #preppy #homedecor #wallpaper #taylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/5b/cd/4d5bcd3315fc3240e55fe6e8f4f9c17e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylorswift #swiftie #preppy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/b1/1c/edb11c07953ac8c9976c23e47fcbb175.jpg' alt='taylorswift #swiftie #preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/b1/1c/edb11c07953ac8c9976c23e47fcbb175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Taylor Swift (yes im a swiftie) ideas | taylor swift, taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/98/49/7a/98497a272279cb38624901b441d5e801.jpg' alt='900+ Taylor Swift (yes im a swiftie) ideas | taylor swift, taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/98/49/7a/98497a272279cb38624901b441d5e801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out TTHETORTUREDPOETSDEPARTMENT's Shuffles Taylor swift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/11/85/68/118568d3d6a45eed078aa5dfa93e13fb.jpg' alt='Check out TTHETORTUREDPOETSDEPARTMENT's Shuffles Taylor swift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/11/85/68/118568d3d6a45eed078aa5dfa93e13fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=3&sign=443fbc0e90d70288c3caa99006181e23' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=3&sign=443fbc0e90d70288c3caa99006181e23' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers for each Eras show : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-wallpapers-for-each-eras-show-v0-wxpq17l2q7wa1.jpg?width=640&crop=smart&auto=webp&s=3dae800a7c2ec665689ceaef1cf36c95a35e82df' alt='Phone wallpapers for each Eras show : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-wallpapers-for-each-eras-show-v0-wxpq17l2q7wa1.jpg?width=640&crop=smart&auto=webp&s=3dae800a7c2ec665689ceaef1cf36c95a35e82df' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/5c/a2/845ca248d07beda8b6b81742c374ad15.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/5c/a2/845ca248d07beda8b6b81742c374ad15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eras Tour Wallpaper #taylorswift #swiftie #theerastour #wallpaper  #livewallpaper #fyp #CapCut">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7213785892081749254&location=0&aid=1988' alt='The Eras Tour Wallpaper #taylorswift #swiftie #theerastour #wallpaper  #livewallpaper #fyp #CapCut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7213785892081749254&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor the eras wallpaper #taylornation #taylorswift #swiftie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/01/f5/9301f56d70c25419006e8e6752d6aca7.jpg' alt='Taylor the eras wallpaper #taylornation #taylorswift #swiftie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/01/f5/9301f56d70c25419006e8e6752d6aca7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

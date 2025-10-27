@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Dark Turquoise Wallpaper</title>
+                    <meta name="description" content="Add a touch of elegance to your home with dark turquoise wallpaper. Perfect for any room, it provides a calming atmosphere while enhancing your decor. Explore our collection to find the perfect shade for a stunning interior transformation.">
+                    <meta name="keywords" content="dark turquoise wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-turquoise-wallpaper">
+                            <span itemprop="name">dark turquoise wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Dark Turquoise Wallpaper</h1>
+                <p>Dark turquoise wallpaper transforms any space with its enchanting hues, offering a blend of tranquility and sophistication. Ideal for living rooms or bedrooms, it complements various decor styles, from modern to coastal. With its unique, rich color, dark turquoise brings depth and personality, making your walls a stunning focal point.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venus Dark Turquoise T85068 by Thibaut Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-kjgue/images/stencil/1280x1280/products/1881377/3331369/T85068__45781.1713756235.jpg?c=2' alt='Venus Dark Turquoise T85068 by Thibaut Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabric Carolina" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-kjgue/images/stencil/1280x1280/products/1881377/3331369/T85068__45781.1713756235.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Turquoise Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/texture-old-dark-blue-paper_113767-2994.jpg?semt=ais_hybrid' alt='Dark Turquoise Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/texture-old-dark-blue-paper_113767-2994.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Turquoise Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14870333/p/f/m/3pVBuezKL_vvVjm1Z4Gt_dDmJI8UyPP_VMT5DKcOuoyi-95N-IB5/BHMN1%20-%20Dark%20Turquoise%20Solid%20%20-%20Hex%200a5e64.jpg' alt='Dark Turquoise Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14870333/p/f/m/3pVBuezKL_vvVjm1Z4Gt_dDmJI8UyPP_VMT5DKcOuoyi-95N-IB5/BHMN1%20-%20Dark%20Turquoise%20Solid%20%20-%20Hex%200a5e64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Turquoise Background Images – Browse 4,789,724 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/64/46/53/360_F_364465371_WtFCtVXB2Yv6Dib2Co4ip2LKKZtDIa6e.jpg' alt='Dark Turquoise Background Images – Browse 4,789,724 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/64/46/53/360_F_364465371_WtFCtVXB2Yv6Dib2Co4ip2LKKZtDIa6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Moss Texture Dark Teal Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/74/8c/8d748c74af10d7172978f52f029dfb9b.jpg' alt='Subtle Moss Texture Dark Teal Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/74/8c/8d748c74af10d7172978f52f029dfb9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Abstract Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor -C936">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C936_02SQUARE_03.png?v=1734707094&width=1946' alt='Turquoise Abstract Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor -C936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C936_02SQUARE_03.png?v=1734707094&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Wallpaper, Dark Turquoise Wallpaper, Repositionable, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19508152/r/il/3ead4c/4289892682/il_570xN.4289892682_t9uw.jpg' alt='Art Deco Wallpaper, Dark Turquoise Wallpaper, Repositionable, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19508152/r/il/3ead4c/4289892682/il_570xN.4289892682_t9uw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Turquoise Background Images – Browse 4,789,724 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/03/15/56/360_F_103155607_aTwidckaAT6EuP5N4r3e1b1DuPxGHmqh.jpg' alt='Dark Turquoise Background Images – Browse 4,789,724 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/03/15/56/360_F_103155607_aTwidckaAT6EuP5N4r3e1b1DuPxGHmqh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Teal Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-teal-iphone-xjnd4rgs5b0scaa9.jpg' alt='100+] Dark Teal Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-teal-iphone-xjnd4rgs5b0scaa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark turquoise color background HD 8K wallpaper Stock Photographic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/dark-turquoise-color-background-hd-8k-wallpaper-stock-photographic-image_890746-40868.jpg' alt='Dark turquoise color background HD 8K wallpaper Stock Photographic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/dark-turquoise-color-background-hd-8k-wallpaper-stock-photographic-image_890746-40868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

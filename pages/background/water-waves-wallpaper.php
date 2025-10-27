@@ -1,0 +1,129 @@
+<title>Stunning Water Waves Wallpaper - Bring Nature Indoors!</title>
+                    <meta name="description" content="Explore our captivating collection of water waves wallpaper. Perfect for enhancing your home with a serene and tranquil vibe, these designs create a calming atmosphere. Shop now to find the perfect pattern and color to complement your decor!">
+                    <meta name="keywords" content="water waves wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/water-waves-wallpaper">
+                            <span itemprop="name">water waves wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Water Waves Wallpaper - Bring Nature Indoors!</h1>
+                <p>Transform your space with stunning water waves wallpaper. These captivating designs evoke tranquility and serenity, perfect for any room. Featuring intricate patterns that mimic the movement of water, they bring nature indoors and create a relaxing atmosphere. Choose from a variety of colors and styles to suit your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg?cs=srgb&dl=pexels-earano-2127969.jpg&fm=jpg' alt='Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2598">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg?cs=srgb&dl=pexels-earano-2127969.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2860705/pexels-photo-2860705.jpeg?cs=srgb&dl=pexels-aulsh99-2860705.jpg&fm=jpg' alt='Ocean Waves Photos, Download The BEST Free Ocean Waves Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2860705/pexels-photo-2860705.jpeg?cs=srgb&dl=pexels-aulsh99-2860705.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,558,100+ Blue Water Waves Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155380802/photo/close-up-view-of-huge-ocean-waves.jpg?s=612x612&w=0&k=20&c=QlyP-ou1nMNO0uaWKr8DN0pH8o9m0MaarvDaMNPgHrg=' alt='1,558,100+ Blue Water Waves Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155380802/photo/close-up-view-of-huge-ocean-waves.jpg?s=612x612&w=0&k=20&c=QlyP-ou1nMNO0uaWKr8DN0pH8o9m0MaarvDaMNPgHrg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Endless Surf - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/m2213_1s_Dark-blue-ocean-water-waves-wall-mural-Endless-Surf_For-Interior-Walls-4a.jpg?v=1734715840' alt='Endless Surf - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/m2213_1s_Dark-blue-ocean-water-waves-wall-mural-Endless-Surf_For-Interior-Walls-4a.jpg?v=1734715840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean waves iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/bb/bc/a2/bbbca21f07fd0c6d2dadea38d19bcf8f.jpg' alt='Ocean waves iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/bb/bc/a2/bbbca21f07fd0c6d2dadea38d19bcf8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Big Ocean Waves Photography Backdrop  Tropical Summer Sea Wave Backdrop Surfing Wave Water Sport Sunset  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81htNdWYxwL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Big Ocean Waves Photography Backdrop  Tropical Summer Sea Wave Backdrop Surfing Wave Water Sport Sunset  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81htNdWYxwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1484387436194-cf7cb70800ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdhdmUlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='Wave Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1484387436194-cf7cb70800ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdhdmUlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/df/04/e6df0445046a36a9c14f5b6f862e935b.jpg' alt='Ocean Waves iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/df/04/e6df0445046a36a9c14f5b6f862e935b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Ocean Wave Pictures [Stunning!] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1559827260-dc66d52bef19?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG9jZWFuJTIwd2F2ZXxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Ocean Wave Pictures [Stunning!] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1559827260-dc66d52bef19?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG9jZWFuJTIwd2F2ZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Ocean Waves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-aesthetic-ocean-waves-v73ygcw8xaion6pb.jpg' alt='Blue Aesthetic Ocean Waves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-aesthetic-ocean-waves-v73ygcw8xaion6pb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

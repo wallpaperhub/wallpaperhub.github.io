@@ -1,0 +1,129 @@
+<title>Reviving Retro: Discover 1989 Wallpaper Trends</title>
+                    <meta name="description" content="Explore the iconic wallpaper styles of 1989, featuring bold patterns, colors, and designs that capture the essence of the decade. Perfect for those looking to add a touch of vintage flair to their interiors. Dive into the nostalgia and find inspiration for your next home project!">
+                    <meta name="keywords" content="1989 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1989-wallpaper">
+                            <span itemprop="name">1989 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reviving Retro: Discover 1989 Wallpaper Trends</h1>
+                <p>In 1989, wallpaper designs underwent a vibrant transformation, reflecting the bold colors and geometric patterns of the era. Stripes, florals, and abstract motifs captured the spirit of the time, enhancing both residential and commercial spaces. Today, vintage 1989 wallpaper is a favorite among retro enthusiasts seeking to infuse nostalgia into modern interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Phone Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?auto=webp&s=1ca3ef235e76565dc323cde06e8964b592ade89b' alt='1989 Phone Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-phone-wallpaper-v0-5zorg3szr9hb1.png?auto=webp&s=1ca3ef235e76565dc323cde06e8964b592ade89b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 1989 Aesthetic vibes and wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/40/8d/15408d19d56f7ed386de363d2dbbd040.jpg' alt='Taylor Swift 1989 Aesthetic vibes and wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/40/8d/15408d19d56f7ed386de363d2dbbd040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Phone Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1989-phone-wallpaper-v0-pvedd9w3zhhb1.png?width=1080&format=png&auto=webp&s=3391e80a1f3490b00b4248097fa58e384a96bd3f' alt='1989 Phone Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1989-phone-wallpaper-v0-pvedd9w3zhhb1.png?width=1080&format=png&auto=webp&s=3391e80a1f3490b00b4248097fa58e384a96bd3f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TS 1989 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/1e/27/b91e271e6fc0efeb957972638e7dd841.jpg' alt='TS 1989 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/1e/27/b91e271e6fc0efeb957972638e7dd841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylor's Version wallpaper for phone and laptop! (made by me ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1989-taylors-version-wallpaper-for-phone-and-laptop-made-by-v0-cuu3qyrozbhb1.png?width=2560&format=png&auto=webp&s=7781ecaea9a77296b5458bebdd0b6732132be03b' alt='1989 Taylor's Version wallpaper for phone and laptop! (made by me ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1989-taylors-version-wallpaper-for-phone-and-laptop-made-by-v0-cuu3qyrozbhb1.png?width=2560&format=png&auto=webp&s=7781ecaea9a77296b5458bebdd0b6732132be03b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out shayerad44's Shuffles 1989 aesthetic, taylor swift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ec/c5/1f/ecc51fdad70762dfd211795d1d1cb18b.jpg' alt='Check out shayerad44's Shuffles 1989 aesthetic, taylor swift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ec/c5/1f/ecc51fdad70762dfd211795d1d1cb18b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylors Version Album Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/1989-taylors-version-album-artwork-i56keaffhkco23ry.webp' alt='1989 Taylors Version Album Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/1989-taylors-version-album-artwork-i56keaffhkco23ry.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Taylor's Version Wallpaper by Virtuoso97 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a802a920-58cb-4c40-8cba-87b1d7dfebeb/dg77ds6-4e7c78aa-7dbe-4526-a552-f205c41de7ef.png/v1/fill/w_1280,h_720/1989_taylor_s_version_wallpaper_by_virtuoso97_dg77ds6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTgwMmE5MjAtNThjYi00YzQwLThjYmEtODdiMWQ3ZGZlYmViXC9kZzc3ZHM2LTRlN2M3OGFhLTdkYmUtNDUyNi1hNTUyLWYyMDVjNDFkZTdlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.20LmDFPklXGXliWkSEnQa4AsU0LG73x_C_7wBVWw7fI' alt='1989 Taylor's Version Wallpaper by Virtuoso97 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a802a920-58cb-4c40-8cba-87b1d7dfebeb/dg77ds6-4e7c78aa-7dbe-4526-a552-f205c41de7ef.png/v1/fill/w_1280,h_720/1989_taylor_s_version_wallpaper_by_virtuoso97_dg77ds6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTgwMmE5MjAtNThjYi00YzQwLThjYmEtODdiMWQ3ZGZlYmViXC9kZzc3ZHM2LTRlN2M3OGFhLTdkYmUtNDUyNi1hNTUyLWYyMDVjNDFkZTdlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.20LmDFPklXGXliWkSEnQa4AsU0LG73x_C_7wBVWw7fI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift in 4k on X: "1989 taylor's version mobile wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F3Ke38lbEAAmaeD?format=jpg&name=4096x4096' alt='Taylor Swift in 4k on X: "1989 taylor's version mobile wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="2184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F3Ke38lbEAAmaeD?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 TS Wallpaper! | Gallery posted by Mia   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7397639476178747910&index=2&sign=3eae0ca7aa90d2f6cd24fc6cf8698cbc' alt='1989 TS Wallpaper! | Gallery posted by Mia   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7397639476178747910&index=2&sign=3eae0ca7aa90d2f6cd24fc6cf8698cbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

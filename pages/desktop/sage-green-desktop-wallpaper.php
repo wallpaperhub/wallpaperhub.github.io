@@ -1,0 +1,129 @@
+<title>Sage Green Desktop Wallpapers for a Calm Workspace</title>
+                    <meta name="description" content="Discover stunning sage green desktop wallpapers to transform your workspace. Enhance your focus and creativity with these soothing designs, perfect for any aesthetic. Browse a variety of styles to create a serene digital environment that inspires productivity. Download your perfect wallpaper today!">
+                    <meta name="keywords" content="sage green desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/sage-green-desktop-wallpaper">
+                            <span itemprop="name">sage green desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sage Green Desktop Wallpapers for a Calm Workspace</h1>
+                <p>Sage green desktop wallpapers provide a serene and refreshing ambiance for your workspace. With their soothing tones, these wallpapers enhance focus and creativity, allowing for a peaceful working environment. Whether you prefer nature-inspired designs or minimalistic patterns, sage green adds a touch of elegance and calmness to your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable sage green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEzoBMJWsc/1/0/1600w/canva-green-organizer-desktop-wallpaper-c34wMWCbOn0.jpg' alt='Free and customizable sage green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEzoBMJWsc/1/0/1600w/canva-green-organizer-desktop-wallpaper-c34wMWCbOn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green desktop wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/2a/18/e92a18e197cb4d3b62dd65ee81329ed3.jpg' alt='sage green desktop wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/2a/18/e92a18e197cb4d3b62dd65ee81329ed3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Sage Green Sage Green, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/334/304/HD-wallpaper-plain-sage-green-sage-green.jpg' alt='Plain Sage Green Sage Green, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/334/304/HD-wallpaper-plain-sage-green-sage-green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaf Sage Sage Green Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/leaf-sage-sage-green-desktop-7t2oigclx9z1wquy.jpg' alt='Leaf Sage Sage Green Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/leaf-sage-sage-green-desktop-7t2oigclx9z1wquy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Sage Green Aesthetic Wallpaper Backgrounds (FREE)">
+                                <img itemprop="contentUrl url" src='http://www.nikkisplate.com/wp-content/uploads/2022/09/Sage-Green-Aesthetic-Wallpaper-2.png' alt='20 Sage Green Aesthetic Wallpaper Backgrounds (FREE)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki's Plate" />
+                                </span>
+                                <a href='http://www.nikkisplate.com/wp-content/uploads/2022/09/Sage-Green-Aesthetic-Wallpaper-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sage Green Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30896388/r/il/20c633/3245004147/il_fullxfull.3245004147_lwfj.jpg' alt='Aesthetic Sage Green Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30896388/r/il/20c633/3245004147/il_fullxfull.3245004147_lwfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sage Green Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sage-green-laptop-wallpaper-zoegb129pehjml3n.jpg' alt='100+] Sage Green Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sage-green-laptop-wallpaper-zoegb129pehjml3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 - Free and customizable green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQRhi3Jnk/1/0/1600w/canva-sage-green-abstract-motivational-quote-desktop-wallpaper-cGrjSaC_8-A.jpg' alt='Page 7 - Free and customizable green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQRhi3Jnk/1/0/1600w/canva-sage-green-abstract-motivational-quote-desktop-wallpaper-cGrjSaC_8-A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Dark Sage Green Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-dark-sage-green-desktop-coprf0gn4saihbdg.jpg' alt='Plain Dark Sage Green Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-dark-sage-green-desktop-coprf0gn4saihbdg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green macbook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/f0/33/0df033a0b1f0577577274eb675be263b.jpg' alt='sage green macbook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/f0/33/0df033a0b1f0577577274eb675be263b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

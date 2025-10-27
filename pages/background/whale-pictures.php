@@ -1,0 +1,129 @@
+<title>Stunning Whale Pictures: Majestic Sea Creatures</title>
+                    <meta name="description" content="Discover breathtaking whale pictures that showcase the beauty and wonder of these magnificent creatures. Perfect for nature lovers and photographers alike, our collection highlights the importance of ocean conservation while celebrating the grace of whales in their natural habitat.">
+                    <meta name="keywords" content="whale pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/whale-pictures">
+                            <span itemprop="name">whale pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Whale Pictures: Majestic Sea Creatures</h1>
+                <p>Whale pictures capture the majesty and awe of these magnificent sea creatures. From breaching humpbacks to serene belugas, every image tells a story of the ocean's beauty and the urgency of conservation. Explore stunning whale photography that inspires admiration and raises awareness for marine life preservation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale | Species | WWF">
+                                <img itemprop="contentUrl url" src='https://files.worldwildlife.org/wwfcmsprod/images/Humpback_Whale_and_Calf_WW2131047/story_full_width/8q90217t58_Humpback_Whale_and_Calf_WW2131047.jpg' alt='Whale | Species | WWF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Wildlife Fund" />
+                                </span>
+                                <a href='https://files.worldwildlife.org/wwfcmsprod/images/Humpback_Whale_and_Calf_WW2131047/story_full_width/8q90217t58_Humpback_Whale_and_Calf_WW2131047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale | Definition, Types, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/75637-050-B425E8F1/Killer-whale.jpg' alt='Whale | Definition, Types, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/75637-050-B425E8F1/Killer-whale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humpback Whale | NOAA Fisheries">
+                                <img itemprop="contentUrl url" src='https://www.fisheries.noaa.gov/s3//dam-migration/2160x1440_humpbackwhale_noaa.jpg' alt='Humpback Whale | NOAA Fisheries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NOAA Fisheries - National Oceanic and Atmospheric Administration" />
+                                </span>
+                                <a href='https://www.fisheries.noaa.gov/s3//dam-migration/2160x1440_humpbackwhale_noaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humpback whale - Whale and Dolphin Conservation">
+                                <img itemprop="contentUrl url" src='https://uk.whales.org/wp-content/uploads/sites/6/2018/06/humpback-whale-vanessa-mignon.jpg' alt='Humpback whale - Whale and Dolphin Conservation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whale and Dolphin Conservation" />
+                                </span>
+                                <a href='https://uk.whales.org/wp-content/uploads/sites/6/2018/06/humpback-whale-vanessa-mignon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg' alt='Whale - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humpback Whale Vintage – Coordonné">
+                                <img itemprop="contentUrl url" src='https://coordonne.com/wp-content/uploads/2022/03/humpback-whale-vintage-mural-coordonne.jpg' alt='Humpback Whale Vintage – Coordonné'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coordonne" />
+                                </span>
+                                <a href='https://coordonne.com/wp-content/uploads/2022/03/humpback-whale-vintage-mural-coordonne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humpback whale – Australian Antarctic Program">
+                                <img itemprop="contentUrl url" src='https://www.antarctica.gov.au/site/assets/files/45693/ia40278.1600x0.jpeg' alt='Humpback whale – Australian Antarctic Program'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Antarctic Program" />
+                                </span>
+                                <a href='https://www.antarctica.gov.au/site/assets/files/45693/ia40278.1600x0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of whales: meet the largest animals in the ocean | IFAW">
+                                <img itemprop="contentUrl url" src='https://d1jyxxz9imt9yb.cloudfront.net/medialib/1319/image/s768x1300/Mignon0W0A3760_reduced.jpg' alt='Types of whales: meet the largest animals in the ocean | IFAW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Fund for Animal Welfare" />
+                                </span>
+                                <a href='https://d1jyxxz9imt9yb.cloudfront.net/medialib/1319/image/s768x1300/Mignon0W0A3760_reduced.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Spot Different Types Of Whales - Spout Identification - Why ...">
+                                <img itemprop="contentUrl url" src='https://nextlevelsailing.com/wp-content/uploads/sites/2044/2019/04/66024759_l.jpg?w=700&h=700&zoom=2' alt='How To Spot Different Types Of Whales - Spout Identification - Why ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Next Level Sailing" />
+                                </span>
+                                <a href='https://nextlevelsailing.com/wp-content/uploads/sites/2044/2019/04/66024759_l.jpg?w=700&h=700&zoom=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The hidden world of whale culture">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/ec6f579a-c031-4889-80fc-3660e0648e55/NGM%20Whale%20Culture-1.jpg' alt='The hidden world of whale culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/ec6f579a-c031-4889-80fc-3660e0648e55/NGM%20Whale%20Culture-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

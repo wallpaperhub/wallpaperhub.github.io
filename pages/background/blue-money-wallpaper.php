@@ -1,0 +1,129 @@
+<title>Blue Money Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the charm of blue money wallpaper! Ideal for adding a luxe touch and a sense of prosperity to your home. This stylish décor element not only enhances your interior design but also brings a sense of calm and abundance. Perfect for any room transformation!">
+                    <meta name="keywords" content="blue money wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-money-wallpaper">
+                            <span itemprop="name">blue money wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Money Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with captivating blue money wallpaper! This stylish design combines elegance and a modern twist, perfect for any room. Whether you're aiming for a calming oasis or a bold statement, blue money wallpaper adds a unique flair while inspiring thoughts of abundance. Elevate your decor now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue 100 Dollar Bills Money Seamless Background preview">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1679543030197-BZDTHO46Y0GQ7Y6OMPJQ/Blue+100s+Money+Seamless+Cover+WM+3Split.jpg?format=1500w' alt='Blue 100 Dollar Bills Money Seamless Background preview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1679543030197-BZDTHO46Y0GQ7Y6OMPJQ/Blue+100s+Money+Seamless+Cover+WM+3Split.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Money Blue Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12262484.jpg' alt='Money Blue Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12262484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Girly Money Dollar Bills Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/girly-money-cfezlxuxcqtxeg7n.jpg' alt='Download Girly Money Dollar Bills Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/girly-money-cfezlxuxcqtxeg7n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue money aesthetic wall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5b/39/a1/5b39a1af3b51888ff2360bcb6a669a82.jpg' alt='blue money aesthetic wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5b/39/a1/5b39a1af3b51888ff2360bcb6a669a82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue money">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/cc/b2/82ccb22844bfce19ca53a36c06106c6b.jpg' alt='blue money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/cc/b2/82ccb22844bfce19ca53a36c06106c6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Money Wallpaper Backgrounds Bundle, Money Digital Paper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36934401/r/il/a5063f/4665126901/il_fullxfull.4665126901_7zn2.jpg' alt='Glitter Money Wallpaper Backgrounds Bundle, Money Digital Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36934401/r/il/a5063f/4665126901/il_fullxfull.4665126901_7zn2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue 100 Dollar Bills Seamless Money Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/6168da6982ef983a80c5d50f/1700026476263/Blue+100s+Money+Seamless+Thumbnail+WM.jpg?format=1500w' alt='Blue 100 Dollar Bills Seamless Money Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/6168da6982ef983a80c5d50f/1700026476263/Blue+100s+Money+Seamless+Thumbnail+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Money Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1655348878625-58c9c54f1596?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMG1vbmV5fGVufDB8fDB8fHww' alt='Dark Money Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1655348878625-58c9c54f1596?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMG1vbmV5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue 100 Dollar Bill Background Image Money Hundred Background Wallpaper  Christmas Wrapping Paper collage Pattern Sublimation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11962113/r/il/b884dd/4827768973/il_570xN.4827768973_m4ba.jpg' alt='Blue 100 Dollar Bill Background Image Money Hundred Background Wallpaper  Christmas Wrapping Paper collage Pattern Sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11962113/r/il/b884dd/4827768973/il_570xN.4827768973_m4ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dollar Money 1 wallpaper by SATVRNAES - Download on ZEDGE™ | 5632">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/98/01/1e98016e9720daa87997c8f656f676f5.jpg' alt='Blue Dollar Money 1 wallpaper by SATVRNAES - Download on ZEDGE™ | 5632'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/98/01/1e98016e9720daa87997c8f656f676f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

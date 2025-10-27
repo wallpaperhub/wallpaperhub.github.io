@@ -1,0 +1,129 @@
+<title>Stunning Red Bandana Designs: Style Essentials</title>
+                    <meta name="description" content="Explore the captivating world of red bandana designs! Discover various styles, including classic paisley and unique custom prints, perfect for adding flair to your wardrobe. Ideal for fashion enthusiasts and trendsetters looking to make a bold statement.">
+                    <meta name="keywords" content="red bandana design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-bandana-design">
+                            <span itemprop="name">red bandana design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Bandana Designs: Style Essentials</h1>
+                <p>Red bandana designs are vibrant, versatile, and rich in history. Traditionally associated with the Wild West and bandit culture, these designs have evolved into a fashion staple. From paisley patterns to custom prints, red bandanas can enhance any outfit, embodying both style and a touch of rebellion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Red Bandana Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/482882749/vector/bandanared.jpg?s=612x612&w=0&k=20&c=qCcbVlKheCWw76seLWQpXZHOEjcq2a5odgLaAmXJ8Wo=' alt='1,400+ Red Bandana Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/482882749/vector/bandanared.jpg?s=612x612&w=0&k=20&c=qCcbVlKheCWw76seLWQpXZHOEjcq2a5odgLaAmXJ8Wo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red + Black Bandana Seamless Background Pattern - Classic Bold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/9a2bd7/4801803208/il_fullxfull.4801803208_o5ft.jpg' alt='Red + Black Bandana Seamless Background Pattern - Classic Bold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/9a2bd7/4801803208/il_fullxfull.4801803208_o5ft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bandana Pattern | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1971519500.0126/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Red Bandana Pattern | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1971519500.0126/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100% Cotton Red Bandana Paisley Design Print on Great Quality of ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14184221/r/il/51acc6/2503003511/il_570xN.2503003511_fw37.jpg' alt='100% Cotton Red Bandana Paisley Design Print on Great Quality of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14184221/r/il/51acc6/2503003511/il_570xN.2503003511_fw37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bandana Print - 840035987842">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/Checker/C1213-RED.jpg' alt='Red Bandana Print - 840035987842'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lost Arts Fabric Store" />
+                                </span>
+                                <a href='https://media.rainpos.com/Checker/C1213-RED.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bandana Paisley Pattern Vinyl 12" x 12"">
+                                <img itemprop="contentUrl url" src='http://thevinylhaus.com/cdn/shop/products/ptn-1841.jpg?v=1652824851' alt='Red Bandana Paisley Pattern Vinyl 12" x 12"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Vinyl Haus" />
+                                </span>
+                                <a href='http://thevinylhaus.com/cdn/shop/products/ptn-1841.jpg?v=1652824851' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bandana Paisley Stock Illustrations – 552 Red Bandana Paisley ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-bandana-10872705.jpg' alt='Red Bandana Paisley Stock Illustrations – 552 Red Bandana Paisley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-bandana-10872705.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Bandana- Red">
+                                <img itemprop="contentUrl url" src='https://abracadana.com/cdn/shop/products/il_fullxfull.3886935175_2d1w_2000x2000.jpg?v=1658114197' alt='Western Bandana- Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abracadana" />
+                                </span>
+                                <a href='https://abracadana.com/cdn/shop/products/il_fullxfull.3886935175_2d1w_2000x2000.jpg?v=1658114197' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Country Brook Design - Red Bandana Grosgrain Ribbon (5 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716pSut41eL.jpg' alt='Amazon.com: Country Brook Design - Red Bandana Grosgrain Ribbon (5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716pSut41eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bandana Print Fabric | OnlineFabricStore">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/BANDRED_1.jpg?quality=100' alt='Red Bandana Print Fabric | OnlineFabricStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/BANDRED_1.jpg?quality=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

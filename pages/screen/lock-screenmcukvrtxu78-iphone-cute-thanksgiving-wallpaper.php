@@ -1,0 +1,129 @@
+<title>Cute Thanksgiving Wallpapers for Your iPhone Lock Screen</title>
+                    <meta name="description" content="Discover adorable Thanksgiving wallpapers perfect for your iPhone lock screen! Celebrate the season with charming designs featuring pumpkins, autumn leaves, and cozy vibes. Customize your device and spread holiday cheer this Thanksgiving with our delightful wallpaper collection!">
+                    <meta name="keywords" content="lock screen:mcukvrtxu78= iphone cute thanksgiving wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screenmcukvrtxu78-iphone-cute-thanksgiving-wallpaper">
+                            <span itemprop="name">lock screen:mcukvrtxu78= iphone cute thanksgiving wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Thanksgiving Wallpapers for Your iPhone Lock Screen</h1>
+                <p>Get into the Thanksgiving spirit with the cutest iPhone lock screen wallpaper! Featuring festive pumpkins, cozy autumn leaves, and warm colors, this wallpaper adds a touch of charm to your device. Perfect for expressing gratitude and holiday cheer, it’s an ideal choice for anyone looking to celebrate Thanksgiving in style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Walls: Thanksgiving">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/34/9d/84349d0edfec21fafe5dcc8e4e7de1ce.jpg' alt='iPhone Walls: Thanksgiving'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/34/9d/84349d0edfec21fafe5dcc8e4e7de1ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e3/b0/62/e3b062320d2b6113a83ce4ec5b2c6e1c.jpg' alt='30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e3/b0/62/e3b062320d2b6113a83ce4ec5b2c6e1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Thanksgiving For iPhone ( ), HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/122/510/HD-wallpaper-cute-thanksgiving-for-iphone.jpg' alt='Cute Thanksgiving For iPhone ( ), HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/122/510/HD-wallpaper-cute-thanksgiving-for-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a8/06/20/a80620918a6e715fc00513db8d6f642f.jpg' alt='30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a8/06/20/a80620918a6e715fc00513db8d6f642f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall/Thanksgiving iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/ce/2f/65ce2f5bdbdcd9e6f6e9f802b30185e1.jpg' alt='Fall/Thanksgiving iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/ce/2f/65ce2f5bdbdcd9e6f6e9f802b30185e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="800 Thanksgiving/ autumn ideas | fall wallpaper, cute fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a9/0f/20/a90f20619e5f732d52a082e0d44777ca.jpg' alt='800 Thanksgiving/ autumn ideas | fall wallpaper, cute fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a9/0f/20/a90f20619e5f732d52a082e0d44777ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving ~ lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/b3/5f/97b35f67308efb80f5043f63ba47bc7f.jpg' alt='Thanksgiving ~ lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/b3/5f/97b35f67308efb80f5043f63ba47bc7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where and How to Get iPhone/Android Thanksgiving Wallpapers?">
+                                <img itemprop="contentUrl url" src='https://mobiletrans.wondershare.com/images/images2023/thanksgiving-wallpapers-update-08.jpg' alt='Where and How to Get iPhone/Android Thanksgiving Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare MobileTrans" />
+                                </span>
+                                <a href='https://mobiletrans.wondershare.com/images/images2023/thanksgiving-wallpapers-update-08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Wallpaper For Phone, Pumpkin Phone Background, Fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/60/6b/76606bd6556255829c90fe283e6cac93.jpg' alt='Thanksgiving Wallpaper For Phone, Pumpkin Phone Background, Fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/60/6b/76606bd6556255829c90fe283e6cac93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thankful fall thanksgiving iPhone wallpaper | Thanksgiving iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/56/90/245690c50aa6ba3fc347d1d3cce3dfc0.jpg' alt='Thankful fall thanksgiving iPhone wallpaper | Thanksgiving iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/56/90/245690c50aa6ba3fc347d1d3cce3dfc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

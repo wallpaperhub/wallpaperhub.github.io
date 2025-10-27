@@ -1,0 +1,129 @@
+<title>Crafting a Compelling Character Background</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="choose your character background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/choose-your-character-background">
+                            <span itemprop="name">choose your character background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Crafting a Compelling Character Background</h1>
+                <p>Choosing your character background is a crucial step in defining who they are. It shapes their motivation, skills, and relationships within your story. Consider their upbringing, key life events, and personal beliefs. A well-crafted background adds depth, allowing players or readers to connect emotionally and invest in the character's journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Character Select Stock Photos and Pictures - 1,724 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/start-new-game-player-selection-260nw-2180552657.jpg' alt='Game Character Select Stock Photos and Pictures - 1,724 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/start-new-game-player-selection-260nw-2180552657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Select Screen Backgrounds (Concept) : r/RogueCompany">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/w3t3m6zjbwr61.jpg?width=640&crop=smart&auto=webp&s=2a1be7d089e64917fa699a40f34a8a004f1b4b22' alt='Character Select Screen Backgrounds (Concept) : r/RogueCompany'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/w3t3m6zjbwr61.jpg?width=640&crop=smart&auto=webp&s=2a1be7d089e64917fa699a40f34a8a004f1b4b22' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose Your Character Overlay「AMV/EDIT」1080 p ||screen black">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xTt97q1MD14/maxresdefault.jpg' alt='Choose Your Character Overlay「AMV/EDIT」1080 p ||screen black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xTt97q1MD14/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose your Character Overlay - Blue Screen - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/h-L0Qur4t_0/maxresdefault.jpg' alt='Choose your Character Overlay - Blue Screen - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/h-L0Qur4t_0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose Your Character :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/max_808/b4f9f0109623061.Y3JvcCw1OTM5LDQ2NDUsMTU0MywyNzk.jpg' alt='Choose Your Character :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/max_808/b4f9f0109623061.Y3JvcCw1OTM5LDQ2NDUsMTU0MywyNzk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation Text Message Select Your Character">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3456153987/thumb/1.jpg?ip=x480' alt='Animation Text Message Select Your Character'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3456153987/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose your Character GUI - Creations Feedback - Developer Forum ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/5/a/7/5a7b718803f7e0afb48394f6b729164d107426e4.png' alt='Choose your Character GUI - Creations Feedback - Developer Forum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2686">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/5/a/7/5a7b718803f7e0afb48394f6b729164d107426e4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose Your Character - song and lyrics by Jim Walter | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2735a445464de2e81d72f915a41' alt='Choose Your Character - song and lyrics by Jim Walter | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2735a445464de2e81d72f915a41' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gonna save you the detail but it took way to long to crop! #anime #crop  #overlayvideo #videogamelover #chooseyourcharacter #animegirls #tiktok  #anime #sad #fyp #greenscreen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7121846999724395781&location=0&aid=1988' alt='Gonna save you the detail but it took way to long to crop! #anime #crop  #overlayvideo #videogamelover #chooseyourcharacter #animegirls #tiktok  #anime #sad #fyp #greenscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7121846999724395781&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Select Screen Backgrounds (Concept) : r/RogueCompany">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f54n9gzjbwr61.jpg?width=640&crop=smart&auto=webp&s=11edb32d7c09a9978f78e6ebdca134cbbd3e71a8' alt='Character Select Screen Backgrounds (Concept) : r/RogueCompany'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f54n9gzjbwr61.jpg?width=640&crop=smart&auto=webp&s=11edb32d7c09a9978f78e6ebdca134cbbd3e71a8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

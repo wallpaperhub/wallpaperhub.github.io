@@ -1,0 +1,129 @@
+<title>Stunning Spider-Man Noir Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the best Spider-Man Noir wallpapers to elevate your screen. Perfect for fans, our collection captures the essence of this unique comic character in captivating designs. Upgrade your digital space with these stylish wallpapers today!">
+                    <meta name="keywords" content="spider man noir wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-noir-wallpaper">
+                            <span itemprop="name">spider man noir wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Spider-Man Noir Wallpapers for Your Devices</h1>
+                <p>Enhance your digital space with stunning Spider-Man Noir wallpapers that blend classic comic artistry with a modern twist. Ideal for fans of the noir aesthetic, these wallpapers bring a mysterious and captivating vibe to your devices. Embrace the dark side of Spider-Man and transform your screens today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Noir Phone Wallpaper by JackTheKnight on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4f2faf-7d57-48f8-8b4e-ea655774db6b/dekawr3-8429d361-3871-4355-954e-26e1a293137d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGYyZmFmLTdkNTctNDhmOC04YjRlLWVhNjU1Nzc0ZGI2YlwvZGVrYXdyMy04NDI5ZDM2MS0zODcxLTQzNTUtOTU0ZS0yNmUxYTI5MzEzN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.43XMB6R5hSQXvmvhg3OFGk5NxhT7kxZgohrUHDOaJjk' alt='Spider-Man Noir Phone Wallpaper by JackTheKnight on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4f2faf-7d57-48f8-8b4e-ea655774db6b/dekawr3-8429d361-3871-4355-954e-26e1a293137d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGYyZmFmLTdkNTctNDhmOC04YjRlLWVhNjU1Nzc0ZGI2YlwvZGVrYXdyMy04NDI5ZDM2MS0zODcxLTQzNTUtOTU0ZS0yNmUxYTI5MzEzN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.43XMB6R5hSQXvmvhg3OFGk5NxhT7kxZgohrUHDOaJjk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Noir Wallpaper by s1nwithm3 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed37229a-c663-4746-971c-50f6ea05eb7b/d80ntsj-f80e2867-f499-48d9-9b23-b7fdcb82d065.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkMzcyMjlhLWM2NjMtNDc0Ni05NzFjLTUwZjZlYTA1ZWI3YlwvZDgwbnRzai1mODBlMjg2Ny1mNDk5LTQ4ZDktOWIyMy1iN2ZkY2I4MmQwNjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZyLiowO5Nh5n4qcwN5MYYhCK_S8Q1xEVVPXn020I2tE' alt='Spider-Man Noir Wallpaper by s1nwithm3 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed37229a-c663-4746-971c-50f6ea05eb7b/d80ntsj-f80e2867-f499-48d9-9b23-b7fdcb82d065.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkMzcyMjlhLWM2NjMtNDc0Ni05NzFjLTUwZjZlYTA1ZWI3YlwvZDgwbnRzai1mODBlMjg2Ny1mNDk5LTQ4ZDktOWIyMy1iN2ZkY2I4MmQwNjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZyLiowO5Nh5n4qcwN5MYYhCK_S8Q1xEVVPXn020I2tE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Noir Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/6d/2a/d66d2a1a2fb3561199364c6f30f0f60f.jpg' alt='Spider-Man Noir Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/6d/2a/d66d2a1a2fb3561199364c6f30f0f60f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider-Man Noir Movie Spider Man HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/485/485206.jpg' alt='Download Spider-Man Noir Movie Spider Man HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/485/485206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider-Man Noir Comic Spider Man 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/109/1095258.jpg' alt='Download Spider-Man Noir Comic Spider Man 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/109/1095258.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out s0me0ne_was_here99's Shuffles #spiderman #spider #noir ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/aa/a2/ff/aaa2ff6888cf2f4693da28893410df0b.jpg' alt='Check out s0me0ne_was_here99's Shuffles #spiderman #spider #noir ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/aa/a2/ff/aaa2ff6888cf2f4693da28893410df0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman noir">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6b/b3/1f/6bb31ffd57c82a7181a8b9a16d3e3812.jpg' alt='Spiderman noir'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6b/b3/1f/6bb31ffd57c82a7181a8b9a16d3e3812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider-Man Noir Comic Spider Man 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/111/1113101.jpg' alt='Download Spider-Man Noir Comic Spider Man 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/111/1113101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Noir Wallpaper 4K, Spider-Man, Dark">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/spider-man-noir-spider-man-dark-black-background-artwork-1284x2778-586.png' alt='Spider-Man Noir Wallpaper 4K, Spider-Man, Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/spider-man-noir-spider-man-dark-black-background-artwork-1284x2778-586.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper shadows of justice, spider-man noir, bw, 2023 desktop ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/large/955648/shadows-of-justice-spider-man-noir-bw.jpg' alt='Wallpaper shadows of justice, spider-man noir, bw, 2023 desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/large/955648/shadows-of-justice-spider-man-noir-bw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

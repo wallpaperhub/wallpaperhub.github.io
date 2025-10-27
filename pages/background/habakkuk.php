@@ -1,0 +1,129 @@
+<title>Understanding Habakkuk: A Prophet’s Dialogue with God</title>
+                    <meta name="description" content="Explore the profound insights of Habakkuk, a key Old Testament prophet. Discover his unique conversations with God on justice, faith, and divine timing. Learn how his message remains relevant today, encouraging trust in God during challenging times.">
+                    <meta name="keywords" content="habakkuk">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/habakkuk">
+                            <span itemprop="name">habakkuk</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Habakkuk: A Prophet’s Dialogue with God</h1>
+                <p>Habakkuk is a unique book in the Old Testament, showcasing the prophet's dialogue with God. Concerned about injustice and the suffering of his people, Habakkuk questions divine timing and plans. God responds, emphasizing faith and the eventual triumph of righteousness. The book ends with a powerful prayer, expressing deep trust in God amidst turmoil.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Habakkuk - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8e/Habakkuk.jpg' alt='Habakkuk - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8e/Habakkuk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book of Habakkuk Summary | Watch an Overview Video">
+                                <img itemprop="contentUrl url" src='https://d1bsmz3sdihplr.cloudfront.net/media/explore-v2/Old%20Testament%20Series/Habakkuk/hab_YT.jpg' alt='Book of Habakkuk Summary | Watch an Overview Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bible Project" />
+                                </span>
+                                <a href='https://d1bsmz3sdihplr.cloudfront.net/media/explore-v2/Old%20Testament%20Series/Habakkuk/hab_YT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Habakkuk 1:12-2:5 | Walking Together Ministries">
+                                <img itemprop="contentUrl url" src='https://www.walkingtogetherministries.com/wp-content/uploads/2018/09/habakkuk-300x262.jpg' alt='Habakkuk 1:12-2:5 | Walking Together Ministries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walking Together Ministries" />
+                                </span>
+                                <a href='https://www.walkingtogetherministries.com/wp-content/uploads/2018/09/habakkuk-300x262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Prophet Habakkuk (detail)">
+                                <img itemprop="contentUrl url" src='https://www.meisterdrucke.us/kunstwerke/1260px/Byzantine_School_-_Le_prophete_Habacuc_%28Habaquq_Habakuk_Habakkuk_Abakouk_Havakuk%29_%287e_siecle_avant_-_%28MeisterDrucke-1318739%29.jpg' alt='The Prophet Habakkuk (detail)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MeisterDrucke" />
+                                </span>
+                                <a href='https://www.meisterdrucke.us/kunstwerke/1260px/Byzantine_School_-_Le_prophete_Habacuc_%28Habaquq_Habakuk_Habakkuk_Abakouk_Havakuk%29_%287e_siecle_avant_-_%28MeisterDrucke-1318739%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faith as a Prerequisite for Salvation, in the Prophet Habakkuk and ...">
+                                <img itemprop="contentUrl url" src='https://pemptousia.com/files/2018/12/avakoum.jpg' alt='Faith as a Prerequisite for Salvation, in the Prophet Habakkuk and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pemptousia" />
+                                </span>
+                                <a href='https://pemptousia.com/files/2018/12/avakoum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lesson of Habakkuk | My Jewish Learning">
+                                <img itemprop="contentUrl url" src='https://www.myjewishlearning.com/wp-content/uploads/2003/05/Wouter_Crabeth_-_The_Prophet_Habakkuk_and_the_Angel.jpg' alt='The Lesson of Habakkuk | My Jewish Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Jewish Learning" />
+                                </span>
+                                <a href='https://www.myjewishlearning.com/wp-content/uploads/2003/05/Wouter_Crabeth_-_The_Prophet_Habakkuk_and_the_Angel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was Habakkuk - History & Things to Know about This Prophet">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/11925-13620-bible-title-habakkuk-sparrowstock.jpg' alt='Who Was Habakkuk - History & Things to Know about This Prophet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosswalk.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/11925-13620-bible-title-habakkuk-sparrowstock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Habakkuk">
+                                <img itemprop="contentUrl url" src='https://www.agapebiblestudy.com/images/habakkuk.jpg' alt='The Book of Habakkuk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agape Bible Study" />
+                                </span>
+                                <a href='https://www.agapebiblestudy.com/images/habakkuk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prophet Habakkuk (Koufos) Icon - S398">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-8npwm6ltcj/images/stencil/1280x1280/products/1383/1675/S398-legacy-icons__36238.1686751224.jpg?c=1&imbypass=on' alt='Prophet Habakkuk (Koufos) Icon - S398'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legacy Icons" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-8npwm6ltcj/images/stencil/1280x1280/products/1383/1675/S398-legacy-icons__36238.1686751224.jpg?c=1&imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Creative “Modernizing” of the Book of Habakkuk–What would its ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.joeledmundanderson.com/wp-content/uploads/2021/10/Habakkuk.jpg' alt='A Creative “Modernizing” of the Book of Habakkuk–What would its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resurrecting Orthodoxy" />
+                                </span>
+                                <a href='https://i0.wp.com/www.joeledmundanderson.com/wp-content/uploads/2021/10/Habakkuk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

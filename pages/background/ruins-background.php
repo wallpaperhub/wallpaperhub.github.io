@@ -1,0 +1,129 @@
+<title>Discover the Allure of Ancient Ruins: A Journey Through History</title>
+                    <meta name="description" content="Explore the captivating world of ancient ruins. Uncover the history, architecture, and stories behind these remarkable remnants of civilization. Perfect for history enthusiasts and travelers alike, our guide will take you on an unforgettable adventure through time.">
+                    <meta name="keywords" content="ruins background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ruins-background">
+                            <span itemprop="name">ruins background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Ancient Ruins: A Journey Through History</h1>
+                <p>Ruins are the remnants of ancient civilizations, serving as windows into the past. They tell stories of architectural brilliance and cultural heritage, inviting exploration and reflection. Whether crumbling stone structures or faded frescoes, these fascinating sites capture the imagination and evoke a sense of wonder about human history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="991,300+ Old Ruin Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175959113/photo/post-apocalyptic-urban-landscape.jpg?s=612x612&w=0&k=20&c=Qt9unvuTvxkP5VD_6uuGOTeNQ7Qg-gm3Zpkq3vHu9_U=' alt='991,300+ Old Ruin Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175959113/photo/post-apocalyptic-urban-landscape.jpg?s=612x612&w=0&k=20&c=Qt9unvuTvxkP5VD_6uuGOTeNQ7Qg-gm3Zpkq3vHu9_U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400,000+ Free The Background Of The Ruins & Ruin Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/10/14/13/01/ruin-3746423_1280.jpg' alt='400,000+ Free The Background Of The Ruins & Ruin Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/10/14/13/01/ruin-3746423_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Forest Ruins HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/134/1346954.png' alt='Enchanted Forest Ruins HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/134/1346954.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="399,389 Ancient Ruins Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/fantasy-full-moon-scene-old-600nw-748066048.jpg' alt='399,389 Ancient Ruins Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/fantasy-full-moon-scene-old-600nw-748066048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,400+ Fantasy Ruins Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1285820919/photo/abstract-futuristic-apocalyptic-background.jpg?s=612x612&w=0&k=20&c=svYNOJC-N0h7FGfW1-zAYIQ2_G3MtmIJ2drzCHpCPqY=' alt='16,400+ Fantasy Ruins Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1285820919/photo/abstract-futuristic-apocalyptic-background.jpg?s=612x612&w=0&k=20&c=svYNOJC-N0h7FGfW1-zAYIQ2_G3MtmIJ2drzCHpCPqY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community Market :: Listings for 351480-Ruins Background">
+                                <img itemprop="contentUrl url" src='https://cdn.steamstatic.com/steamcommunity/public/images/items/351480/7dc2c6c5274944dbe2e31cfb05c0ca717edcc506.jpg' alt='Steam Community Market :: Listings for 351480-Ruins Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://cdn.steamstatic.com/steamcommunity/public/images/items/351480/7dc2c6c5274944dbe2e31cfb05c0ca717edcc506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Ruins Digital Backdrop / Background. by lewis4721 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/delxw3t-1bf6fb0f-6cf7-4397-a8e1-7a6f38ff069b.jpg/v1/fill/w_1280,h_854,q_75,strp/jungle_ruins_digital_backdrop___background__by_lewis4721_delxw3t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVseHczdC0xYmY2ZmIwZi02Y2Y3LTQzOTctYThlMS03YTZmMzhmZjA2OWIuanBnIiwiaGVpZ2h0IjoiPD04NTQiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9jZGJhOTU0Zi1hN2Y1LTQxN2EtOTMzNy04YjcxOTMyNmY2YmVcL2xld2lzNDcyMS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.K7MAhy7O6H4y_3ubheB7rGZCIGUV6V6BBQL83Wn5-V4' alt='Jungle Ruins Digital Backdrop / Background. by lewis4721 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/delxw3t-1bf6fb0f-6cf7-4397-a8e1-7a6f38ff069b.jpg/v1/fill/w_1280,h_854,q_75,strp/jungle_ruins_digital_backdrop___background__by_lewis4721_delxw3t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVseHczdC0xYmY2ZmIwZi02Y2Y3LTQzOTctYThlMS03YTZmMzhmZjA2OWIuanBnIiwiaGVpZ2h0IjoiPD04NTQiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9jZGJhOTU0Zi1hN2Y1LTQxN2EtOTMzNy04YjcxOTMyNmY2YmVcL2xld2lzNDcyMS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.K7MAhy7O6H4y_3ubheB7rGZCIGUV6V6BBQL83Wn5-V4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waterfall Ruins: Sci-Fi Post Apocalyptic HD Wallpaper by Matthew ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/102/thumb-1920-102020.jpg' alt='Waterfall Ruins: Sci-Fi Post Apocalyptic HD Wallpaper by Matthew ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/102/thumb-1920-102020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download War Ruins For 1440p Gaming Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/war-ruins-for-1440p-gaming-background-kuoaqb7qe43tmbvf.jpg' alt='Download War Ruins For 1440p Gaming Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/war-ruins-for-1440p-gaming-background-kuoaqb7qe43tmbvf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle Ruins Fantasy Digital Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10811645/r/il/e19aa4/3549365842/il_570xN.3549365842_lcru.jpg' alt='Castle Ruins Fantasy Digital Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10811645/r/il/e19aa4/3549365842/il_570xN.3549365842_lcru.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

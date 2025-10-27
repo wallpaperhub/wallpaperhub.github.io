@@ -1,0 +1,129 @@
+<title>Explore the Dynamic Backgrounds of Light Dirt 3</title>
+                    <meta name="description" content="Dive into the stunning landscapes of Light Dirt 3, where vibrant environments meet thrilling racing. Experience the perfect blend of realism and excitement with every twist and turn. Join the adventure and discover your ultimate racing playground!">
+                    <meta name="keywords" content="light dirt 3 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-dirt-3-background">
+                            <span itemprop="name">light dirt 3 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Dynamic Backgrounds of Light Dirt 3</h1>
+                <p>Light Dirt 3 offers a captivating backdrop for any racing enthusiast. The game immerses players in vibrant landscapes, blending realism with exhilarating tracks. From stunning mountain vistas to winding country roads, the environments are crafted to enhance the intense racing experience. Perfect for those who love speed and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dirt 3 - A Green Car With Green Lights | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1080p-dirt-3-background-j3vhfjt9fx8sgmxm.jpg' alt='Download Dirt 3 - A Green Car With Green Lights | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1080p-dirt-3-background-j3vhfjt9fx8sgmxm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3 - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/fb6cc6e8-9b32-11e6-ab25-00163ec9f5fa/1183222353/dirt-3-wallpaper-screenshot.jpg' alt='DiRT 3 - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/fb6cc6e8-9b32-11e6-ab25-00163ec9f5fa/1183222353/dirt-3-wallpaper-screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dirt 3 wallpaper 04 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_dirt_3_04_1920x1080.jpg' alt='Dirt 3 wallpaper 04 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_dirt_3_04_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Dirt 3 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-dirt-3-background-kcyx8ro0zyexox3b.jpg' alt='100+] 4k Dirt 3 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-dirt-3-background-kcyx8ro0zyexox3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game DiRT 3 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/337/337357.jpg' alt='Download Video Game DiRT 3 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/337/337357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Dirt 3, Car, Brand, Background, Light, motor vehicle ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/954/572/878/dirt-3-car-brand-background-wallpaper-preview.jpg' alt='HD wallpaper: Dirt 3, Car, Brand, Background, Light, motor vehicle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/954/572/878/dirt-3-car-brand-background-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1080p Dirt 3 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1080p-dirt-3-background-0x8oti9jlbgbwwj6.jpg' alt='100+] 1080p Dirt 3 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1080p-dirt-3-background-0x8oti9jlbgbwwj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game DiRT 3 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/150/150366.jpg' alt='Download Video Game DiRT 3 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/150/150366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DiRT 3: Complete Edition - SteamGridDB">
+                                <img itemprop="contentUrl url" src='https://cdn2.steamgriddb.com/hero/f9b902fc3289af4dd08de5d1de54f68f.jpg' alt='DiRT 3: Complete Edition - SteamGridDB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SteamGridDB" />
+                                </span>
+                                <a href='https://cdn2.steamgriddb.com/hero/f9b902fc3289af4dd08de5d1de54f68f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caption: Thrilling Rally Race In Dirt 3 With A Ferris Wheel In The ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/caption-thrilling-rally-race-in-dirt-3-with-a-ferris-wheel-in-the-background-z75cr9n14ch73p7o.jpg' alt='Caption: Thrilling Rally Race In Dirt 3 With A Ferris Wheel In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/caption-thrilling-rally-race-in-dirt-3-with-a-ferris-wheel-in-the-background-z75cr9n14ch73p7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

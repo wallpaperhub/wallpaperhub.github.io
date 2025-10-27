@@ -1,0 +1,129 @@
+<title>Vibrant Stained Glass Images: An Artistic Journey</title>
+                    <meta name="description" content="Explore the enchanting world of stained glass images! Discover the beauty, history, and craftsmanship behind these stunning artworks that transform spaces with their vibrant colors and intricate designs. Perfect for home décor or inspiration, stained glass continues to celebrate artistry in modern settings.">
+                    <meta name="keywords" content="stained glass images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stained-glass-images">
+                            <span itemprop="name">stained glass images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Stained Glass Images: An Artistic Journey</h1>
+                <p>Stained glass images captivate with their intricate designs and vibrant colors, transforming light into art. Historically used in churches, these stunning artworks now grace homes and public spaces. Each piece tells a story, blending craftsmanship and creativity, making stained glass a timeless medium for expression and beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant ! Hummingbird & Red Roses Leaded Stained Glass Window Panel">
+                                <img itemprop="contentUrl url" src='https://www.stainedglasswindows.com/wp-content/uploads/2015/04/h1aa.jpg' alt='Elegant ! Hummingbird & Red Roses Leaded Stained Glass Window Panel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stained Glass Windows" />
+                                </span>
+                                <a href='https://www.stainedglasswindows.com/wp-content/uploads/2015/04/h1aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stained Glass: The Art of Light and Color ...">
+                                <img itemprop="contentUrl url" src='http://thehouseandhomemagazine.com/downloads/1221/download/FullSizeRender-12.jpg?cb=921da39489b5f2e24f0093b12477c4b3' alt='Stained Glass: The Art of Light and Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The House and Home Magazine" />
+                                </span>
+                                <a href='http://thehouseandhomemagazine.com/downloads/1221/download/FullSizeRender-12.jpg?cb=921da39489b5f2e24f0093b12477c4b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stained Glass 102: Squaring It Up – Melt Glass Art Supply">
+                                <img itemprop="contentUrl url" src='https://www.meltglass.com/cdn/shop/products/20230224_163616.jpg?v=1677285821' alt='Stained Glass 102: Squaring It Up – Melt Glass Art Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2950">
+                                <meta itemprop="height" content="2950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melt Glass Art Supply" />
+                                </span>
+                                <a href='https://www.meltglass.com/cdn/shop/products/20230224_163616.jpg?v=1677285821' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stained glass - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/300px-Chartres_RosetteNord_121_DSC08241.jpg' alt='Stained glass - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chartres_RosetteNord_121_DSC08241.jpg/300px-Chartres_RosetteNord_121_DSC08241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stained glass: getting started - The Handmade Home">
+                                <img itemprop="contentUrl url" src='https://www.thehandmadehome.net/wp-content/uploads/2022/03/stainedglasswindows.jpg' alt='stained glass: getting started - The Handmade Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the handmade home" />
+                                </span>
+                                <a href='https://www.thehandmadehome.net/wp-content/uploads/2022/03/stainedglasswindows.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Stained Glass Window Panel Hangings - Seashore, Flying White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8990707/r/il/e1574b/5656294967/il_fullxfull.5656294967_rdaz.jpg' alt='Angel Stained Glass Window Panel Hangings - Seashore, Flying White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="2381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8990707/r/il/e1574b/5656294967/il_fullxfull.5656294967_rdaz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How One Family Resurrected the Oldest Known Tiffany Window in Texas">
+                                <img itemprop="contentUrl url" src='https://img.texasmonthly.com/2024/04/galveston-stained-glass-window-restoration-tiffany-3.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-3.3.1&q=45&w=1600' alt='How One Family Resurrected the Oldest Known Tiffany Window in Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Monthly" />
+                                </span>
+                                <a href='https://img.texasmonthly.com/2024/04/galveston-stained-glass-window-restoration-tiffany-3.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-3.3.1&q=45&w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why We Love Stained Glass - Coveteur: Inside Closets, Fashion ...">
+                                <img itemprop="contentUrl url" src='https://coveteur.com/media-library/image.png?id=51410999&width=1245&height=700&quality=90&coordinates=0%2C0%2C0%2C0' alt='Why We Love Stained Glass - Coveteur: Inside Closets, Fashion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coveteur" />
+                                </span>
+                                <a href='https://coveteur.com/media-library/image.png?id=51410999&width=1245&height=700&quality=90&coordinates=0%2C0%2C0%2C0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stained Glass Rose">
+                                <img itemprop="contentUrl url" src='http://arbeedesigns.com/cdn/shop/products/scarlet-rose.jpg?v=1641399328' alt='Stained Glass Rose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arbee Designs" />
+                                </span>
+                                <a href='http://arbeedesigns.com/cdn/shop/products/scarlet-rose.jpg?v=1641399328' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extremely colorful stained glass art for windows">
+                                <img itemprop="contentUrl url" src='https://foter.com/photos/419/extremely-colorful-stained-glass-art-for-windows.jpeg?s=lbx' alt='Extremely colorful stained glass art for windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foter" />
+                                </span>
+                                <a href='https://foter.com/photos/419/extremely-colorful-stained-glass-art-for-windows.jpeg?s=lbx' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

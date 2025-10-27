@@ -1,0 +1,129 @@
+<title>Ian Masters: Insights & Analysis on Global Affairs</title>
+                    <meta name="description" content="Explore the latest insights from Ian Masters, a prominent journalist and radio host. Gain a deeper understanding of global affairs through expert analysis and engaging discussions on pressing issues affecting our world today. Stay informed with valuable perspectives that matter.">
+                    <meta name="keywords" content="ian masters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ian-masters">
+                            <span itemprop="name">ian masters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ian Masters: Insights & Analysis on Global Affairs</h1>
+                <p>Ian Masters is a renowned journalist and radio host known for his insightful analysis on global issues. With a career spanning decades, he engages audiences through compelling interviews and deep dives into current affairs. His contributions to the field of media have made him a respected voice in understanding complex international dynamics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Briefing with Ian Masters | Podcast on Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67656300005f1f21c17a2f953542f0a21c017d' alt='Background Briefing with Ian Masters | Podcast on Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67656300005f1f21c17a2f953542f0a21c017d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODNiMGM0NWItYWY4ZC00NTM5LTg5OWYtOGEzOGMyMWQ0NDUxXkEyXkFqcGc@._V1_.jpg' alt='Ian Masters - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODNiMGM0NWItYWY4ZC00NTM5LTg5OWYtOGEzOGMyMWQ0NDUxXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Briefing">
+                                <img itemprop="contentUrl url" src='https://www.backgroundbriefing.org/wp-content/uploads/2020/04/cropped-SITE-ICON.jpg' alt='Background Briefing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.backgroundbriefing.org" />
+                                </span>
+                                <a href='https://www.backgroundbriefing.org/wp-content/uploads/2020/04/cropped-SITE-ICON.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters | Discogs">
+                                <img itemprop="contentUrl url" src='https://i.discogs.com/u2K4gfZpR1KSPGcAAmLNlSUwULU1Ta0Xh2w7cKArt4w/rs:fit/g:sm/q:90/h:187/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5MDE3/My0xMTczNTE3Njc1/LmpwZWc.jpeg' alt='Ian Masters | Discogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discogs" />
+                                </span>
+                                <a href='https://i.discogs.com/u2K4gfZpR1KSPGcAAmLNlSUwULU1Ta0Xh2w7cKArt4w/rs:fit/g:sm/q:90/h:187/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5MDE3/My0xMTczNTE3Njc1/LmpwZWc.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temporal Cove with Pale Saints (Ian Masters) live on NTS Radio for ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3209963120016504154' alt='Temporal Cove with Pale Saints (Ian Masters) live on NTS Radio for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3209963120016504154' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters Songs">
+                                <img itemprop="contentUrl url" src='http://images.genius.com/7032177083a944614a3ef58ba8e90599.249x249x1.jpg' alt='Ian Masters Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genius" />
+                                </span>
+                                <a href='http://images.genius.com/7032177083a944614a3ef58ba8e90599.249x249x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters - Superior Songs">
+                                <img itemprop="contentUrl url" src='https://freight.cargo.site/w/1000/i/9609ab935651d3bdcd8612128d80806336416f157051eb6cf4f01532c43ad8d1/ianmasters2.jpg' alt='Ian Masters - Superior Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Superior Songs" />
+                                </span>
+                                <a href='https://freight.cargo.site/w/1000/i/9609ab935651d3bdcd8612128d80806336416f157051eb6cf4f01532c43ad8d1/ianmasters2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters music, videos, stats, and photos | Last.fm">
+                                <img itemprop="contentUrl url" src='https://lastfm.freetls.fastly.net/i/u/avatar170s/367361f838a84fd18b78b6f8e00b5fe1' alt='Ian Masters music, videos, stats, and photos | Last.fm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Last.fm" />
+                                </span>
+                                <a href='https://lastfm.freetls.fastly.net/i/u/avatar170s/367361f838a84fd18b78b6f8e00b5fe1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ian Masters - While rummaging around the Institute of...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=912744180069566&get_thumbnail=1' alt='Ian Masters - While rummaging around the Institute of...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1174">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=912744180069566&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artist: Ian Masters | SecondHandSongs">
+                                <img itemprop="contentUrl url" src='https://secondhandsongs.com/picture/215610?x=21&y=0&w=355&h=355&c=0' alt='Artist: Ian Masters | SecondHandSongs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecondHandSongs" />
+                                </span>
+                                <a href='https://secondhandsongs.com/picture/215610?x=21&y=0&w=355&h=355&c=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

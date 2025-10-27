@@ -1,0 +1,129 @@
+<title>Transparent Checkr Pricing: Find Your Ideal Background Check Package</title>
+                    <meta name="description" content="Discover the pricing options for Checkr's background check services. Whether you need basic or comprehensive checks, find the right package that fits your business needs. Explore flexible pricing and tailored solutions for seamless hiring processes.">
+                    <meta name="keywords" content="checkr pricing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/checkr-pricing">
+                            <span itemprop="name">checkr pricing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Checkr Pricing: Find Your Ideal Background Check Package</h1>
+                <p>Checkr pricing varies based on the background check services you choose. They offer several packages, including basic checks at lower rates and more comprehensive options that include additional services like driving records or criminal history. Custom pricing is also available for businesses that require tailored solutions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learning about Checkr Pricing">
+                                <img itemprop="contentUrl url" src='https://designccb.s3.amazonaws.com/helpdesk/images/Checkr+Pricing+Image.png' alt='Learning about Checkr Pricing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Center - Pushpay" />
+                                </span>
+                                <a href='https://designccb.s3.amazonaws.com/helpdesk/images/Checkr+Pricing+Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order Background Checks | Planning Center Integrations">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1002845/1756x2106/c628e190ef/checkr-pricing.png/m/' alt='Order Background Checks | Planning Center Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1756">
+                                <meta itemprop="height" content="2106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planning Center" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1002845/1756x2106/c628e190ef/checkr-pricing.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr Review: Pricing, Features & Alternatives">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/03/Screenshot_Checkr_Adjudication_Matrix.jpg' alt='Checkr Review: Pricing, Features & Alternatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/03/Screenshot_Checkr_Adjudication_Matrix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr – Employee Background Screening for Companies">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1017672/559x395/f2d17f3b1e/dashboard_candidate-no-shadow.svg' alt='Checkr – Employee Background Screening for Companies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="checkr.com" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1017672/559x395/f2d17f3b1e/dashboard_candidate-no-shadow.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr Review: Pricing, Features & Alternatives">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/03/Screenshot_Checkr_customer_dashboard.jpg' alt='Checkr Review: Pricing, Features & Alternatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/03/Screenshot_Checkr_customer_dashboard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr Pricing, Alternatives & More 2025 | Capterra">
+                                <img itemprop="contentUrl url" src='https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce805d26-951d-45de-88d5-bf79ca84b29b.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR' alt='Checkr Pricing, Alternatives & More 2025 | Capterra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capterra" />
+                                </span>
+                                <a href='https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce805d26-951d-45de-88d5-bf79ca84b29b.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr vs. Cisive vs. HireRight: 2024 Comparison">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Misc.%20Images/BLOG%20CHART_%20Checkr%20vs.%20Cisive%20vs.%20HireRight_%20Comparison.png?width=6400&height=7392&name=BLOG%20CHART_%20Checkr%20vs.%20Cisive%20vs.%20HireRight_%20Comparison.png' alt='Checkr vs. Cisive vs. HireRight: 2024 Comparison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6400">
+                                <meta itemprop="height" content="7392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Misc.%20Images/BLOG%20CHART_%20Checkr%20vs.%20Cisive%20vs.%20HireRight_%20Comparison.png?width=6400&height=7392&name=BLOG%20CHART_%20Checkr%20vs.%20Cisive%20vs.%20HireRight_%20Comparison.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr Software Reviews, Demo & Pricing - 2025">
+                                <img itemprop="contentUrl url" src='https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductScreenshot%2F0fe6b4d8-2a73-4c85-a62d-ba17b76613f0.png&w=3840&q=75' alt='Checkr Software Reviews, Demo & Pricing - 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Software Advice" />
+                                </span>
+                                <a href='https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductScreenshot%2F0fe6b4d8-2a73-4c85-a62d-ba17b76613f0.png&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr Background Service">
+                                <img itemprop="contentUrl url" src='https://checkr-background-service.govbackgroundchecks.com/screenshots/checkr-background-service/10.jpg' alt='Checkr Background Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://checkr-background-service.govbackgroundchecks.com/screenshots/checkr-background-service/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Your Background Check Provider Right For You? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/d0cf278b6b/checkr-web-article-are-you-using-the-right-bgc-provider-featured-image.png/m/' alt='Is Your Background Check Provider Right For You? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/d0cf278b6b/checkr-web-article-are-you-using-the-right-bgc-provider-featured-image.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

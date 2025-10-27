@@ -1,0 +1,129 @@
+<title>Discover Whimsigoth: Embrace the Whimsical Gothic Aesthetic</title>
+                    <meta name="description" content="Explore the enchanting world of Whimsigoth, where whimsy meets gothic flair. This aesthetic combines pastel hues, vintage touches, and romantic yet eerie motifs, creating a unique expression of creativity and style. Embrace your individuality with this captivating blend!">
+                    <meta name="keywords" content="whimsigoth background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/whimsigoth-background">
+                            <span itemprop="name">whimsigoth background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Whimsigoth: Embrace the Whimsical Gothic Aesthetic</h1>
+                <p>Whimsigoth is a unique aesthetic that blends whimsical elements with gothic influences, creating a captivating style characterized by playful darkness. This background often features elements like pastel colors, lace, vintage accessories, and a mix of romantic and eerie motifs. It's an enchanting fusion that invites creativity and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigoth Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/17/07/991707988dbed4476cf28f6c1b793c9c.jpg' alt='Whimsigoth Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/17/07/991707988dbed4476cf28f6c1b793c9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Whimsigothic ideas | witch aesthetic, dark home decor, goth bedroom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d4/9b/bb/d49bbbf4ecde70a3dd09e13786df54ad.jpg' alt='16 Whimsigothic ideas | witch aesthetic, dark home decor, goth bedroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d4/9b/bb/d49bbbf4ecde70a3dd09e13786df54ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Whimsigoth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/celestial-pattern-fabric-design-c3bh6gu8h83uduhc.jpg' alt='100+] Whimsigoth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/celestial-pattern-fabric-design-c3bh6gu8h83uduhc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigothic black wallpaper">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/files/4206e6aa1396cf8568a09a5c05012765_1e29dcf4-7eed-464c-912d-4116cf6763e0_3600x.jpg?v=1691575780' alt='Whimsigothic black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/files/4206e6aa1396cf8568a09a5c05012765_1e29dcf4-7eed-464c-912d-4116cf6763e0_3600x.jpg?v=1691575780' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Whimsigoth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/celestial-dreams-pattern-auuly2jxms56e5ki.jpg' alt='100+] Whimsigoth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/celestial-dreams-pattern-auuly2jxms56e5ki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigoth Wallpaper | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4898905560.8000/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg' alt='Whimsigoth Wallpaper | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4898905560.8000/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Whimsigoth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/starry-night-inspired-pattern-myop25su1iiyodbu.jpg' alt='100+] Whimsigoth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/starry-night-inspired-pattern-myop25su1iiyodbu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigoth Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14384423/p/f/m/YlA3CKNeunmad793WKdYLrvoRqRWOV9x4Vl4hGURM4zC8b8-bV2o/Art%20Nouveau%20Poppies%20-%20dark%20and%20moody%20damask%20with%20hellebore%2C%20roses%2C%20artichoke%20flower%20and%20milk%20thistle%20-%20olive%20green%2C%20pink%20and%20gold%20-%20extra%20large.jpg' alt='Whimsigoth Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14384423/p/f/m/YlA3CKNeunmad793WKdYLrvoRqRWOV9x4Vl4hGURM4zC8b8-bV2o/Art%20Nouveau%20Poppies%20-%20dark%20and%20moody%20damask%20with%20hellebore%2C%20roses%2C%20artichoke%20flower%20and%20milk%20thistle%20-%20olive%20green%2C%20pink%20and%20gold%20-%20extra%20large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigothwitch — Whimsigoth phone backgrounds">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/88bde31db7cfae4274dd2937ee00ed59/80e24f288d2a258e-9b/s1280x1920/e9a89a5d12c17104644f28b7c0f0c4a74a154da7.jpg' alt='Whimsigothwitch — Whimsigoth phone backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whimsigothwitch - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/88bde31db7cfae4274dd2937ee00ed59/80e24f288d2a258e-9b/s1280x1920/e9a89a5d12c17104644f28b7c0f0c4a74a154da7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Whimsigoth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/celestial-fabric-pattern-ty70d7fcszyk3orb.jpg' alt='100+] Whimsigoth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/celestial-fabric-pattern-ty70d7fcszyk3orb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

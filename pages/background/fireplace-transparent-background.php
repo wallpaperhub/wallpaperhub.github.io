@@ -1,0 +1,129 @@
+<title>Fireplace Transparent Background: Elevate Your Interior Design</title>
+                    <meta name="description" content="Discover how a fireplace with a transparent background can transform your living space. Stylish, modern, and unobtrusive, it adds warmth and elegance to any room. Explore options that perfectly balance functionality and design, making your home cozy and inviting.">
+                    <meta name="keywords" content="fireplace transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fireplace-transparent-background">
+                            <span itemprop="name">fireplace transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fireplace Transparent Background: Elevate Your Interior Design</h1>
+                <p>Illuminate your space with a stunning fireplace design featuring a transparent background that seamlessly blends with any interior. A transparent fireplace not only enhances aesthetics but also provides warmth and comfort without obstructing views. Perfect for modern homes, enjoy the beauty of flames without barriers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | A fireplace on transparent background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/fireplace-transparent-background_812094-688.jpg' alt='Premium PSD | A fireplace on transparent background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/fireplace-transparent-background_812094-688.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireplace Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210329/ourmid/pngtree-deep-gray-fireplace-clip-art-png-image_3046949.jpg' alt='Fireplace Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210329/ourmid/pngtree-deep-gray-fireplace-clip-art-png-image_3046949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exposed Brick Fireplace isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/exposed-brick-fireplace-isolated-transparent-background-generative-ai_936711-7220.jpg' alt='Exposed Brick Fireplace isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/exposed-brick-fireplace-isolated-transparent-background-generative-ai_936711-7220.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireplace PNG transparent image download, size: 2048x1365px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/fireplace_PNG31.png' alt='Fireplace PNG transparent image download, size: 2048x1365px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/fireplace_PNG31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireplace PNG Images">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/lnd/20240521/lfi/axazim4g7.webp' alt='Fireplace PNG Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/lnd/20240521/lfi/axazim4g7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Cartoon Chimney Fireplace PNG Image">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/e8/4a/b5e84a767f027e1f030e92b9c7287ba8.jpg' alt='Vector Cartoon Chimney Fireplace PNG Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/e8/4a/b5e84a767f027e1f030e92b9c7287ba8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fireplace isolated on transparent background | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/fireplace-isolated-transparent-background_84443-5479.jpg' alt='Fireplace isolated on transparent background | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/fireplace-isolated-transparent-background_84443-5479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Fireplace Transparent 13362771 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/362/771/non_2x/christmas-fireplace-transparent-free-png.png' alt='Christmas Fireplace Transparent 13362771 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1342">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/362/771/non_2x/christmas-fireplace-transparent-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Fireplace PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240321/original/pngtree-3d-black-modern-fireplace-isolated-png-image_14639208.png' alt='Modern Fireplace PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240321/original/pngtree-3d-black-modern-fireplace-isolated-png-image_14639208.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Fireplace Transparent Stock Illustrations – 153 Modern ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/please-download-png-file-high-quality-transparent-background-ai-generated-modern-outdoor-fireplace-isolated-344250760.jpg' alt='Modern Fireplace Transparent Stock Illustrations – 153 Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/please-download-png-file-high-quality-transparent-background-ai-generated-modern-outdoor-fireplace-isolated-344250760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

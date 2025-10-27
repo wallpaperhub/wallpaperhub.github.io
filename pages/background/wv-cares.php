@@ -1,0 +1,129 @@
+<title>WV Cares: Empowering West Virginia Residents</title>
+                    <meta name="description" content="Discover how WV Cares supports the West Virginia community through essential services in health, education, and more. Join our mission to uplift and empower residents in need for a brighter, healthier future today!">
+                    <meta name="keywords" content="wv cares">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wv-cares">
+                            <span itemprop="name">wv cares</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WV Cares: Empowering West Virginia Residents</h1>
+                <p>WV Cares is a vital initiative dedicated to improving the well-being of West Virginians. Through community support and resources, WV Cares provides assistance to individuals and families in need. The program focuses on health, education, and social services to foster a stronger, healthier community for all residents.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CARES: Community Autism Resources Education Systems | Building the ...">
+                                <img itemprop="contentUrl url" src='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-logo.png' alt='CARES: Community Autism Resources Education Systems | Building the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wvcaresforautism.org" />
+                                </span>
+                                <a href='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CARES: Community Autism Resources Education Systems | Building the ...">
+                                <img itemprop="contentUrl url" src='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-logo-white.png' alt='CARES: Community Autism Resources Education Systems | Building the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wvcaresforautism.org" />
+                                </span>
+                                <a href='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-logo-white.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COVID-19 Resources - West Virginia Small Business Development Center">
+                                <img itemprop="contentUrl url" src='https://wvsbdc.com/wp-content/uploads/2021/04/WV-SBDC-Cares-logo-NEW-1-page-001-scaled-e1618859984363-700x454.jpg' alt='COVID-19 Resources - West Virginia Small Business Development Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WV Small Business Development Center" />
+                                </span>
+                                <a href='https://wvsbdc.com/wp-content/uploads/2021/04/WV-SBDC-Cares-logo-NEW-1-page-001-scaled-e1618859984363-700x454.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Login">
+                                <img itemprop="contentUrl url" src='https://cares.dhhr.wv.gov/Content/WVDHHR/Images/WV_logo.png' alt='Login'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1516">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WV.gov" />
+                                </span>
+                                <a href='https://cares.dhhr.wv.gov/Content/WVDHHR/Images/WV_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WV Caring | WVU Center for Community Engagement">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4775/agency/50534.jpg?20230808193900' alt='WV Caring | WVU Center for Community Engagement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WVU iServe" />
+                                </span>
+                                <a href='https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4775/agency/50534.jpg?20230808193900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WV Caring | Advanced Illness Care Provider in West Virginia">
+                                <img itemprop="contentUrl url" src='https://www.wvcaring.org/wp-content/uploads/2024/11/2022-WV-Caring-Unit-Logo-1.png' alt='WV Caring | Advanced Illness Care Provider in West Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.wvcaring.org" />
+                                </span>
+                                <a href='https://www.wvcaring.org/wp-content/uploads/2024/11/2022-WV-Caring-Unit-Logo-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CARES: Community Autism Resources Education Systems | Building the ...">
+                                <img itemprop="contentUrl url" src='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-main-2.png' alt='CARES: Community Autism Resources Education Systems | Building the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wvcaresforautism.org" />
+                                </span>
+                                <a href='http://wvcaresforautism.org/wp-content/uploads/2022/08/wv-cares-main-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Navigator program provides help with health coverage">
+                                <img itemprop="contentUrl url" src='https://gray-wsaz-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F12-28-2023%2Ft_dba773a3f4514d36a3838602e4243cdb_name_file_1280x720_2000_v3_1_.jpg?auth=45a62ea97cf98560aea958d57bf9a40c7359a90738561d3090d7d0e729fc62f3&width=1200&height=600&smart=true' alt='West Virginia Navigator program provides help with health coverage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSAZ" />
+                                </span>
+                                <a href='https://gray-wsaz-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F12-28-2023%2Ft_dba773a3f4514d36a3838602e4243cdb_name_file_1280x720_2000_v3_1_.jpg?auth=45a62ea97cf98560aea958d57bf9a40c7359a90738561d3090d7d0e729fc62f3&width=1200&height=600&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Community Autism Resources & Education Systems- CARES">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=883007430517770' alt='Profile for Community Autism Resources & Education Systems- CARES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1596">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=883007430517770' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Community Care of West Virginia receives $500,000 from Biden ...">
+                                <img itemprop="contentUrl url" src='https://www.mybuckhannon.com/wp-content/uploads/2023/01/Community-Care.jpg' alt='Community Care of West Virginia receives $500,000 from Biden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Buckhannon" />
+                                </span>
+                                <a href='https://www.mybuckhannon.com/wp-content/uploads/2023/01/Community-Care.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Custom Award Certificate Templates for Every Occasion</title>
+                    <meta name="description" content="Discover versatile and easy-to-edit award certificate templates perfect for celebrating achievements. Personalize your designs to make every award truly special. Ideal for schools, businesses, and events—elevate your recognition game today!">
+                    <meta name="keywords" content="award certificate template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/award-certificate-template">
+                            <span itemprop="name">award certificate template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Custom Award Certificate Templates for Every Occasion</h1>
+                <p>A customizable award certificate template is the perfect solution for recognizing achievements in schools, businesses, and events. Easily editable, these templates allow you to personalize names, dates, and details, making every accolade special. Print-worthy and visually appealing, they elevate the recognition experience for recipients.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, printable, and customizable award certificate templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFh7cFx9So/5/0/1600w/canva-white-and-gold-certificate-of-appreciation-fE_Brsy8-8E.jpg' alt='Free, printable, and customizable award certificate templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFh7cFx9So/5/0/1600w/canva-white-and-gold-certificate-of-appreciation-fE_Brsy8-8E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Award Certificate">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23383377/r/il/7e92f8/4868914726/il_570xN.4868914726_4lk8.jpg' alt='Blank Award Certificate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23383377/r/il/7e92f8/4868914726/il_570xN.4868914726_4lk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="123 Certificates">
+                                <img itemprop="contentUrl url" src='https://www.123certificates.com/images/award-certificate-template-5L.gif' alt='123 Certificates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.123certificates.com" />
+                                </span>
+                                <a href='https://www.123certificates.com/images/award-certificate-template-5L.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Editable Certificate & Award Templates for Word + Google Docs ...">
+                                <img itemprop="contentUrl url" src='https://designshack.net/wp-content/uploads/Free-Simple-Certificate-Template-for-Google-Docs.jpg' alt='20+ Editable Certificate & Award Templates for Word + Google Docs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Shack" />
+                                </span>
+                                <a href='https://designshack.net/wp-content/uploads/Free-Simple-Certificate-Template-for-Google-Docs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, printable, and customizable award certificate templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZZ3AL_U4/1/0/1600w/canva-gold-and-black-modern-certficate-6m5GloWAMI4.jpg' alt='Free, printable, and customizable award certificate templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZZ3AL_U4/1/0/1600w/canva-gold-and-black-modern-certficate-6m5GloWAMI4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award Certificates With Gold Foil Seal (Excellence)">
+                                <img itemprop="contentUrl url" src='http://www.desktopsupplies.com/cdn/shop/products/11967_1024x1024.jpg?v=1553885609' alt='Award Certificates With Gold Foil Seal (Excellence)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Desktop Publishing Supplies" />
+                                </span>
+                                <a href='http://www.desktopsupplies.com/cdn/shop/products/11967_1024x1024.jpg?v=1553885609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Award Certificate Template | Office Templates Online">
+                                <img itemprop="contentUrl url" src='https://officetemplatesonline.com/wp-content/uploads/2015/04/award-certificate-template.png' alt='Employee Award Certificate Template | Office Templates Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Office Templates Online" />
+                                </span>
+                                <a href='https://officetemplatesonline.com/wp-content/uploads/2015/04/award-certificate-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Award Certificate Template – GraphicsFamily">
+                                <img itemprop="contentUrl url" src='https://graphicsfamily.com/wp-content/uploads/edd/2022/01/Modern-Award-Certificate-Template.jpg' alt='Modern Award Certificate Template – GraphicsFamily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicsFamily" />
+                                </span>
+                                <a href='https://graphicsfamily.com/wp-content/uploads/edd/2022/01/Modern-Award-Certificate-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certificate Template">
+                                <img itemprop="contentUrl url" src='https://www.homemade-gifts-made-easy.com/image-files/certificate-template-wonder-years-640x512.jpg' alt='Certificate Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homemade-Gifts-Made-Easy.com" />
+                                </span>
+                                <a href='https://www.homemade-gifts-made-easy.com/image-files/certificate-template-wonder-years-640x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable employee of the month certificate templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGv9WhSmc/1/0/1600w/canva-blue-and-yellow-minimalist-employee-of-the-month-certificate-jaIc19nYjY4.jpg' alt='Free printable employee of the month certificate templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGv9WhSmc/1/0/1600w/canva-blue-and-yellow-minimalist-employee-of-the-month-certificate-jaIc19nYjY4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

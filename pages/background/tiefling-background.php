@@ -1,0 +1,129 @@
+<title>Exploring Tiefling Backgrounds: Heritage and Identity</title>
+                    <meta name="description" content="Discover the rich backgrounds of tieflings, a unique race defined by their infernal lineage. Explore their challenges, culture, and how they navigate a world filled with prejudice. Uncover the depth of tiefling identities and the resilience that shapes their stories. Ideal for fans and creators alike!">
+                    <meta name="keywords" content="tiefling background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tiefling-background">
+                            <span itemprop="name">tiefling background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Tiefling Backgrounds: Heritage and Identity</h1>
+                <p>Tieflings are a captivating race with infernal heritage, marked by their distinctive features—horns, tails, and vibrant skin tones. Their backgrounds are often steeped in mystery and conflict, shaped by prejudice from other races and their struggle for acceptance. Many tieflings are resourceful and resilient, finding unique paths in both adventuring and everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to Roleplaying Tieflings - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2019/12/Webp.net-resizeimage-2.jpg' alt='A Guide to Roleplaying Tieflings - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2019/12/Webp.net-resizeimage-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] My noble background tiefling bard : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rdig138pysi11.jpg' alt='Art] My noble background tiefling bard : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3508">
+                                <meta itemprop="height" content="4961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rdig138pysi11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Play And Build A Tiefling In D&D">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/noble-background-image-by-noor-rahman-and-tiefling-species-image-by-clint-cearley.jpg' alt='How To Play And Build A Tiefling In D&D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/noble-background-image-by-noor-rahman-and-tiefling-species-image-by-clint-cearley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5E Character Build—Tiefling Druid - The Summoning Grounds">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/summoninggrounds.com/wp-content/uploads/2021/12/5e-character-build-neutral-tiefling.jpg?fit=1129%2C768&ssl=1' alt='5E Character Build—Tiefling Druid - The Summoning Grounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1129">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Summoning Grounds" />
+                                </span>
+                                <a href='https://i0.wp.com/summoninggrounds.com/wp-content/uploads/2021/12/5e-character-build-neutral-tiefling.jpg?fit=1129%2C768&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e: Tips for Role-Playing a Tiefling">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/06/dnd-5e-tiefling-magic.jpg' alt='DnD 5e: Tips for Role-Playing a Tiefling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/06/dnd-5e-tiefling-magic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ria - Tiefling Palading from Dungeons and Dragons — Nicole Cadet">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/59cc2922e45a7c33e3236d8b/1524612964301-UWYJ4GBAU7QY43Q278DK/NCadetRia.jpg' alt='Ria - Tiefling Palading from Dungeons and Dragons — Nicole Cadet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nicole Cadet" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/59cc2922e45a7c33e3236d8b/1524612964301-UWYJ4GBAU7QY43Q278DK/NCadetRia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] [Comm] Tiefling! : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5zv68httdgba1.jpg' alt='Art] [Comm] Tiefling! : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5zv68httdgba1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My tiefling's background is a noblewoman, soo I thinking about how ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lj081z4mht061.jpg' alt='My tiefling's background is a noblewoman, soo I thinking about how ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lj081z4mht061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Tiefling Bloodlines In D&D">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/The-Sundering-Dungeons-Dragons-Wallpaper.jpg' alt='Understanding Tiefling Bloodlines In D&D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/The-Sundering-Dungeons-Dragons-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiefling | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/0/05/Valor_Singer_AFR.jpg/revision/latest/scale-to-width-down/1920?cb=20210710180047' alt='Tiefling | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/0/05/Valor_Singer_AFR.jpg/revision/latest/scale-to-width-down/1920?cb=20210710180047' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

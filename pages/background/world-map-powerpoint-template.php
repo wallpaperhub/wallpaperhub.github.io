@@ -1,0 +1,129 @@
+<title>World Map PowerPoint Template: Elevate Your Presentations</title>
+                    <meta name="description" content="Discover the ideal world map PowerPoint template to elevate your presentations. Easily customizable, professional, and visually striking, it’s perfect for showcasing global data and ideas. Engage your audience effectively with a template that meets your needs, whether for business, education, or travel. Download now!">
+                    <meta name="keywords" content="world map powerpoint template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/world-map-powerpoint-template">
+                            <span itemprop="name">world map powerpoint template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>World Map PowerPoint Template: Elevate Your Presentations</h1>
+                <p>Enhance your presentations with our world map PowerPoint template. This versatile and visually appealing design is perfect for showcasing global data, travel plans, or geography lessons. Featuring editable maps, vibrant colors, and professional layouts, it’s easy to customize for any occasion, making it a valuable tool for educators, business professionals, and travelers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map 6 PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/edd/2020/12/world-map-powerpoint-template-6-768x576.jpg' alt='World Map 6 PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/edd/2020/12/world-map-powerpoint-template-6-768x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map PowerPoint Template | Editable World Maps | World Map PPT">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.kridha.net/wp-content/uploads/2022/07/Slide1-45.jpg?fit=1280%2C720&ssl=1' alt='World Map PowerPoint Template | Editable World Maps | World Map PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kridha.net" />
+                                </span>
+                                <a href='https://i0.wp.com/www.kridha.net/wp-content/uploads/2022/07/Slide1-45.jpg?fit=1280%2C720&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free World Map PowerPoint Templates and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/74024-world-map-powerpoint-template.png' alt='Free World Map PowerPoint Templates and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/74024-world-map-powerpoint-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/cache/1/image/720x540/c96a280f94e22e3ee3823dd0a1a87606/w/o/world-map-slide1.png' alt='World Map Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/cache/1/image/720x540/c96a280f94e22e3ee3823dd0a1a87606/w/o/world-map-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map with Continents for PowerPoint - PresentationGO">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2018/11/World-Map-Continents-PowerPoint.png' alt='World Map with Continents for PowerPoint - PresentationGO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2018/11/World-Map-Continents-PowerPoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free PowerPoint Maps | Editable PowerPoint Maps">
+                                <img itemprop="contentUrl url" src='https://www.pptmaps.com/assets/img/map-images/Editable-outline-map-of-the-world-.png' alt='Download Free PowerPoint Maps | Editable PowerPoint Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.pptmaps.com" />
+                                </span>
+                                <a href='https://www.pptmaps.com/assets/img/map-images/Editable-outline-map-of-the-world-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Creative World Map Slides for PowerPoint & Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/FF0048-01-creative-wordmap-slides-1.jpg' alt='Free Creative World Map Slides for PowerPoint & Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/FF0048-01-creative-wordmap-slides-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map | Free PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://24slides.com/templates/assets/templates-previews/2PublwHw7Ij184TJyNeSFX9EHjqQQXZsIyFxjmBb.jpg' alt='World Map | Free PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="24Slides" />
+                                </span>
+                                <a href='https://24slides.com/templates/assets/templates-previews/2PublwHw7Ij184TJyNeSFX9EHjqQQXZsIyFxjmBb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Country & world maps for PowerPoint (2022) | SlideLizard®">
+                                <img itemprop="contentUrl url" src='https://slidelizard.com/en/img/blog/51-powerpoint-maps/1-summary-all-images.png' alt='Editable Country & world maps for PowerPoint (2022) | SlideLizard®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideLizard" />
+                                </span>
+                                <a href='https://slidelizard.com/en/img/blog/51-powerpoint-maps/1-summary-all-images.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worldwide Offices PowerPoint Worldmap - PresentationGO">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2016/03/Worldmap-Wordwide-Offices-PowerPoint.png' alt='Worldwide Offices PowerPoint Worldmap - PresentationGO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2016/03/Worldmap-Wordwide-Offices-PowerPoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

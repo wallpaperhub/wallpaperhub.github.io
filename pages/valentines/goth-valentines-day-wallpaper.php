@@ -1,0 +1,129 @@
+<title>Gothic Valentine's Day Wallpaper: Dark Romance for Your Space</title>
+                    <meta name="description" content="Explore our unique collection of Gothic Valentine's Day wallpapers that blend romance and dark elegance. Perfect for adding a touch of mysterious charm to any room. Ideal for goth lovers or anyone looking to make a bold decor statement this Valentine's Day!">
+                    <meta name="keywords" content="goth valentines day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines">
+                            <span itemprop="name">Valentines</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines/goth-valentines-day-wallpaper">
+                            <span itemprop="name">goth valentines day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Valentine's Day Wallpaper: Dark Romance for Your Space</h1>
+                <p>Transform your space this Valentine's Day with stunning gothic-inspired wallpapers. Our collection showcases dark romance, skull motifs, and enchanting designs that perfectly capture the essence of a gothic aesthetic. Whether you're a devoted goth or just looking to add an eerie charm to your decor, these wallpapers will set the mood for love and mystery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13701559/p/f/m/4rY7qS8CmXKeC7PZFkM6Ee7D6AjuK9Il7qWiNGAWiwEXRenZ8i_mos4/Goth%20Valentine's%20Day%20Kawaii%20Gothic%20Valentine%20Emo%20Valoween%20Creepy%20Cute.jpg' alt='Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13701559/p/f/m/4rY7qS8CmXKeC7PZFkM6Ee7D6AjuK9Il7qWiNGAWiwEXRenZ8i_mos4/Goth%20Valentine's%20Day%20Kawaii%20Gothic%20Valentine%20Emo%20Valoween%20Creepy%20Cute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="440+ Gothic Valentine Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1707901006/vector/seamless-vector-patern-with-black-pink-checkered-barbed-wire-abstract-hearts.jpg?s=612x612&w=0&k=20&c=D9JBOFejk4CCPFYx7gq9JlzLLKeMGvZw7ZoJryghNmM=' alt='440+ Gothic Valentine Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1707901006/vector/seamless-vector-patern-with-black-pink-checkered-barbed-wire-abstract-hearts.jpg?s=612x612&w=0&k=20&c=D9JBOFejk4CCPFYx7gq9JlzLLKeMGvZw7ZoJryghNmM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13708387/p/f/m/fGXROESVw5yOI1_5RG42iIFWYqoKtE--v-QydvoDrOikq5PCYFrlOhA/Pastel%20Goth%20Valentine's%20Day%20Kawaii%20Alt%20Aesthetic%20Valoween%20Soft%20Goth%20Candy%20Heart.jpg' alt='Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13708387/p/f/m/fGXROESVw5yOI1_5RG42iIFWYqoKtE--v-QydvoDrOikq5PCYFrlOhA/Pastel%20Goth%20Valentine's%20Day%20Kawaii%20Alt%20Aesthetic%20Valoween%20Soft%20Goth%20Candy%20Heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Valentines Day Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/16/16/3f/16163fdec460234b56e4b07588880e0b.jpg' alt='Goth Valentines Day Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/16/16/3f/16163fdec460234b56e4b07588880e0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/cb/51/f7cb51ae95337379153d7947db5478b1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/cb/51/f7cb51ae95337379153d7947db5478b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Valentine Stock Illustrations – 4,364 Gothic Valentine ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gothic-valentine-heart-28416895.jpg' alt='Gothic Valentine Stock Illustrations – 4,364 Gothic Valentine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gothic-valentine-heart-28416895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Spooky Valentine's Day PNG File, Creepy Valentine ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39637301/r/il/ceb17c/5624023023/il_fullxfull.5624023023_it6g.jpg' alt='Pastel Goth Spooky Valentine's Day PNG File, Creepy Valentine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39637301/r/il/ceb17c/5624023023/il_fullxfull.5624023023_it6g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Valentine Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12989309/p/f/m/IYR8ECYn1t4ExnyhD3siGRc-MlZkSZ6hx-8di08ilEvoyQGw3QTweHs/bite%20me%20pink.jpg' alt='Gothic Valentine Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12989309/p/f/m/IYR8ECYn1t4ExnyhD3siGRc-MlZkSZ6hx-8di08ilEvoyQGw3QTweHs/bite%20me%20pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper... By Artist Unknown...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/96/ab/c996ab3b78fad4f38444c66f9b77927b.jpg' alt='Wallpaper... By Artist Unknown...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/96/ab/c996ab3b78fad4f38444c66f9b77927b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15929737/p/f/m/EKBdOmSOfRJuP-MJJUMKdz5DVQLcQH70W98JYGRktOj37l0DLJvfxfc/Gothic%20Black%20Spooky%20Love%20Bats%20on%20Pink.jpg' alt='Goth Valentines Day Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15929737/p/f/m/EKBdOmSOfRJuP-MJJUMKdz5DVQLcQH70W98JYGRktOj37l0DLJvfxfc/Gothic%20Black%20Spooky%20Love%20Bats%20on%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Empowering Mobility: Stunning Wheelchair Pictures</title>
+                    <meta name="description" content="Discover captivating wheelchair pictures showcasing varied designs and features. Our collection emphasizes mobility and independence, highlighting the importance of accessibility in everyday life. Perfect for those seeking inspiration or information, these images celebrate innovation and inclusivity in wheelchair design.">
+                    <meta name="keywords" content="wheelchair picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wheelchair-picture">
+                            <span itemprop="name">wheelchair picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Mobility: Stunning Wheelchair Pictures</h1>
+                <p>Wheelchairs are essential mobility aids for individuals with disabilities, offering independence and freedom. A picture of a wheelchair can capture the various designs, colors, and features that cater to different needs. From manual to electric models, these images highlight innovation, accessibility, and the importance of inclusivity in our society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Featherweight® 13.5 lbs Wheelchair - Feather Chair™">
+                                <img itemprop="contentUrl url" src='https://www.1800wheelchair.com/media/catalog/product/cache/499433b94b126cd34b318bac07b3c488/f/e/feathermanualgray_eb_worldslightestwheelchair_1_1000x1000_1.jpg' alt='Featherweight® 13.5 lbs Wheelchair - Feather Chair™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1800Wheelchair" />
+                                </span>
+                                <a href='https://www.1800wheelchair.com/media/catalog/product/cache/499433b94b126cd34b318bac07b3c488/f/e/feathermanualgray_eb_worldslightestwheelchair_1_1000x1000_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9000 XT Manual Wheelchair (Configurable)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-j1lfie8chf/images/stencil/1280x1280/products/134/1815/Invacare_9000_XT_Ultra-Lightweight_Manual_Wheelchair_9__23308.1710253406.jpg?c=1' alt='9000 XT Manual Wheelchair (Configurable)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aracent Healthcare" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-j1lfie8chf/images/stencil/1280x1280/products/134/1815/Invacare_9000_XT_Ultra-Lightweight_Manual_Wheelchair_9__23308.1710253406.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carex Wheelchair With Large 18” Padded Seat">
+                                <img itemprop="contentUrl url" src='https://carex.com/cdn/shop/products/carexshop-carex-wheelchair-with-large-18-padded-seat-28288407765097.jpg?v=1648078118' alt='Carex Wheelchair With Large 18” Padded Seat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carex Health Brands" />
+                                </span>
+                                <a href='https://carex.com/cdn/shop/products/carexshop-carex-wheelchair-with-large-18-padded-seat-28288407765097.jpg?v=1648078118' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Ultra-Lightweight Wheelchair for Adults with Brake, Folding  Transport Wheelchair with Swing-Away Footrest and Flip Back Backest, 17  Inch ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ORztSRLkL.jpg' alt='Amazon.com: Ultra-Lightweight Wheelchair for Adults with Brake, Folding  Transport Wheelchair with Swing-Away Footrest and Flip Back Backest, 17  Inch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ORztSRLkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medline Comfortable Folding Manual Wheelchair with Swing-Back, Arms &  Elevating Footrests, 16” Seat">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Medline-Comfortable-Folding-Manual-Wheelchair-with-Swing-Back-Arms-Elevating-Footrests-16-Seat_a28f2451-903b-4f43-bef2-ea8d1902c8cd.29508b701f380a392b0278af2bb0b246.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Medline Comfortable Folding Manual Wheelchair with Swing-Back, Arms &  Elevating Footrests, 16” Seat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Medline-Comfortable-Folding-Manual-Wheelchair-with-Swing-Back-Arms-Elevating-Footrests-16-Seat_a28f2451-903b-4f43-bef2-ea8d1902c8cd.29508b701f380a392b0278af2bb0b246.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tuffcare Venture Standard Wheelchair">
+                                <img itemprop="contentUrl url" src='https://www.performancehealth.com/media/catalog/product/i/n/invacare_veranda_wheelchair_18x16_3.jpeg?optimize=low&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700' alt='Tuffcare Venture Standard Wheelchair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Performance Health" />
+                                </span>
+                                <a href='https://www.performancehealth.com/media/catalog/product/i/n/invacare_veranda_wheelchair_18x16_3.jpeg?optimize=low&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drive Medical Blue Streak Lightweight Wheelchair with Swing-Away Footrests  and Flip-Back Arms, Portable Folding Wheelchair for Adults and Seniors, 18  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/9119zW6SD4L._AC_UF1000,1000_QL80_.jpg' alt='Drive Medical Blue Streak Lightweight Wheelchair with Swing-Away Footrests  and Flip-Back Arms, Portable Folding Wheelchair for Adults and Seniors, 18  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="868">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/9119zW6SD4L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190,100+ Wheelchair Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1401937425/vector/handicapped-vector-black-line-symbol-isolated.jpg?s=612x612&w=0&k=20&c=UkEha4_gYoQUJynIuFyLBOvawf5C5Bf_nzR2HW289Ho=' alt='190,100+ Wheelchair Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1401937425/vector/handicapped-vector-black-line-symbol-isolated.jpg?s=612x612&w=0&k=20&c=UkEha4_gYoQUJynIuFyLBOvawf5C5Bf_nzR2HW289Ho=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equate Lightweight Foldable Steel Wheelchair with 18" Seat and Swing-Away  Footrests, 350 lb Capacity">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Equate-Lightweight-Foldable-Steel-Wheelchair-with-18-Seat-and-Swing-Away-Footrests-350-lb-Capacity_1c32808f-3607-4a28-aff3-86d1a2c6c1f1.daab1b584c053281f8254b5803da9b91.jpeg' alt='Equate Lightweight Foldable Steel Wheelchair with 18" Seat and Swing-Away  Footrests, 350 lb Capacity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Equate-Lightweight-Foldable-Steel-Wheelchair-with-18-Seat-and-Swing-Away-Footrests-350-lb-Capacity_1c32808f-3607-4a28-aff3-86d1a2c6c1f1.daab1b584c053281f8254b5803da9b91.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wheelchair - Cleaning Medical Product">
+                                <img itemprop="contentUrl url" src='https://borkarenterprises.com/wp-content/uploads/2023/11/wheelchair.jpg' alt='wheelchair - Cleaning Medical Product'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleaning Medical Product" />
+                                </span>
+                                <a href='https://borkarenterprises.com/wp-content/uploads/2023/11/wheelchair.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

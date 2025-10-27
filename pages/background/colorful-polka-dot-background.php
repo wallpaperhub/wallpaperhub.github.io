@@ -1,0 +1,129 @@
+<title>Vibrant Colorful Polka Dot Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover the charm of colorful polka dot backgrounds! Ideal for crafts, events, and digital designs, these lively patterns add a touch of fun and creativity. Perfect for any age, they brighten up spaces and elevate projects effortlessly. Explore our variety for your next creative adventure!">
+                    <meta name="keywords" content="colorful polka dot background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-polka-dot-background">
+                            <span itemprop="name">colorful polka dot background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Colorful Polka Dot Backgrounds for Every Occasion</h1>
+                <p>Transform your space with a vibrant colorful polka dot background, perfect for adding a fun and playful touch to any design project. Whether used in party decor, fashion, or digital graphics, these lively dots create an eye-catching ambiance. Ideal for both kids and adults, colorful polka dots inspire creativity and joy in every setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Colorful Polka Dot Wallpapers HD: Iphone, Android, Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/49/7a/e4/497ae4a1d44aed64f24f545fffc49d4c.jpg' alt='21 Colorful Polka Dot Wallpapers HD: Iphone, Android, Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="335">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/49/7a/e4/497ae4a1d44aed64f24f545fffc49d4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful, multicolored dots vector. colorful polka dot background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/942/571/non_2x/colorful-multicolored-dots-colorful-polka-dot-background-confetti-parties-textile-vector.jpg' alt='Colorful, multicolored dots vector. colorful polka dot background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/942/571/non_2x/colorful-multicolored-dots-colorful-polka-dot-background-confetti-parties-textile-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Bright Multi Polka Dot Stock Illustrations – 186 Seamless ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/seamless-bright-multi-polka-dot-26105528.jpg' alt='Seamless Bright Multi Polka Dot Stock Illustrations – 186 Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/seamless-bright-multi-polka-dot-26105528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Hand Drawn Colorful Polka Dot Seamless Background Pattern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/264/020/non_2x/free-hand-drawn-colorful-polka-dot-seamless-background-pattern-free-vector.jpg' alt='Free Hand Drawn Colorful Polka Dot Seamless Background Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/264/020/non_2x/free-hand-drawn-colorful-polka-dot-seamless-background-pattern-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Multi Colour Polka Dots Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/multi-colour-polka-dots-background_78370-2250.jpg' alt='Free Vector | Multi Colour Polka Dots Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/multi-colour-polka-dots-background_78370-2250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract bright color polka dot seamless pattern Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn3.vectorstock.com/i/1000x1000/38/22/abstract-bright-color-polka-dot-seamless-pattern-vector-21003822.jpg' alt='Abstract bright color polka dot seamless pattern Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn3.vectorstock.com/i/1000x1000/38/22/abstract-bright-color-polka-dot-seamless-pattern-vector-21003822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Colorful Background With A Lot Of Dots | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dot-pictures-juxqe13c0tg2pbi4.jpg' alt='Download A Colorful Background With A Lot Of Dots | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dot-pictures-juxqe13c0tg2pbi4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dots Colorful Background Free Stock Photo - Public Domain ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/260000/nahled/polka-dots-colorful-background-1529560550OUV.jpg' alt='Polka Dots Colorful Background Free Stock Photo - Public Domain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/260000/nahled/polka-dots-colorful-background-1529560550OUV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Polka Dot Pattern - Colorful Polka Dot Pattern Design ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180318/uiq/av0rq37fy.webp' alt='Colorful Polka Dot Pattern - Colorful Polka Dot Pattern Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180318/uiq/av0rq37fy.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | colorful polka dot background">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/61/61f1c25d1fddbd53f269ebea6670342c_t.jpeg' alt='Free Vectors | colorful polka dot background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/61/61f1c25d1fddbd53f269ebea6670342c_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

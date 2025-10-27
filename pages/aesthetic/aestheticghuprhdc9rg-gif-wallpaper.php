@@ -1,0 +1,129 @@
+<title>Aesthetic GIF Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Explore a collection of aesthetic GIF wallpapers that transform your device. Perfect for personalizing your home or lock screen, these animated backgrounds provide style and flair. Discover vibrant visuals and calming themes that breathe life into your screen. Ideal for anyone seeking unique aesthetics!">
+                    <meta name="keywords" content="aesthetic:ghuprhdc9rg= gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticghuprhdc9rg-gif-wallpaper">
+                            <span itemprop="name">aesthetic:ghuprhdc9rg= gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic GIF Wallpapers: Elevate Your Screen</h1>
+                <p>Discover stunning aesthetic GIF wallpapers that elevate your device's look! From vibrant visuals to soothing themes, these animated backgrounds add a unique touch to your screen. Perfect for personalizing your home or lock screens, these GIF wallpapers transform ordinary displays into eye-catching masterpieces. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/PoHVT5kEyNWcN0CWNj/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/PoHVT5kEyNWcN0CWNj/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/JGrEtZDXJi1mMWkWo4/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/JGrEtZDXJi1mMWkWo4/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for aesthetic gifs tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0f/7b/2a/0f7b2aeaa083ebc49a27f0f02b66fb87.gif' alt='Image result for aesthetic gifs tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0f/7b/2a/0f7b2aeaa083ebc49a27f0f02b66fb87.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/sMLrCy6ktYibzONf54/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/sMLrCy6ktYibzONf54/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/MnIO9NK5QwKRvVvfE7/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/MnIO9NK5QwKRvVvfE7/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif' alt='Gif Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/gFPxNhzEWdFCCRAqf0/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Aesthetic Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/gFPxNhzEWdFCCRAqf0/200w.gif?cid=6c09b9525uiu8wkgxeypwrifkf20pw76cz36nfpjhjwdhh2a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4b/f0/f3/4bf0f35d4a010f8938d2ef67164ce9e2.gif' alt='Aesthetic Wallpaper Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4b/f0/f3/4bf0f35d4a010f8938d2ef67164ce9e2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Gif Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6a/cd/07/6acd0780a4c693b2cf8da52b5c44b18e.gif' alt='Desktop Wallpaper Gif Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6a/cd/07/6acd0780a4c693b2cf8da52b5c44b18e.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d5/1d/0d/d51d0d73232a15dac293942f524d6052.gif' alt='Aesthetic Wallpaper Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d5/1d/0d/d51d0d73232a15dac293942f524d6052.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

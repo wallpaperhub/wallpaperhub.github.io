@@ -1,0 +1,129 @@
+<title>Kirk Franklin's Incredible Background Singers</title>
+                    <meta name="description" content="Discover the amazing background singers who enhance Kirk Franklin's gospel performances. Their powerful harmonies and emotional depth bring his music to life, creating an unforgettable experience. Explore the talents behind the scenes that make each performance extraordinary!">
+                    <meta name="keywords" content="kirk franklin background singers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirk-franklin-background-singers">
+                            <span itemprop="name">kirk franklin background singers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kirk Franklin's Incredible Background Singers</h1>
+                <p>Kirk Franklin, a renowned gospel music artist, often collaborates with talented background singers who elevate his powerful performances. These artists provide rich harmonies and dynamic vocal support, enhancing the emotional depth of Franklin's music. Their contributions create an uplifting and engaging experience, showcasing the beauty of gospel music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Kirk Franklin Is Pushing the Boundaries of Gospel | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/59097d37019dfc3494ea3a55/4:3/w_1907,h_1430,c_limit/170116_r29293.jpg' alt='How Kirk Franklin Is Pushing the Boundaries of Gospel | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1907">
+                                <meta itemprop="height" content="1430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/59097d37019dfc3494ea3a55/4:3/w_1907,h_1430,c_limit/170116_r29293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirk Franklin Calls Clifton Ross III, Jeremiah Hicks & Anthony Brown on  "Intercession."">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Fjwn_SivhbA/maxresdefault.jpg' alt='Kirk Franklin Calls Clifton Ross III, Jeremiah Hicks & Anthony Brown on  "Intercession."'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Fjwn_SivhbA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirk Franklin, Tamela Mann, more take stage at Spectrum Center ...">
+                                <img itemprop="contentUrl url" src='https://qcitymetro.com/wp-content/uploads/2023/10/IMG_7377-scaled.jpg' alt='Kirk Franklin, Tamela Mann, more take stage at Spectrum Center ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QCity Metro" />
+                                </span>
+                                <a href='https://qcitymetro.com/wp-content/uploads/2023/10/IMG_7377-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirk Franklin: Tiny Desk (Home) Concert">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2021/02/24/20210224_tdhc_kirknpr.00_02_08_02.still001-copy_wide-7833b709a78796963e53a4e5ba5573a3c4ce3929.jpg' alt='Kirk Franklin: Tiny Desk (Home) Concert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2685">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2021/02/24/20210224_tdhc_kirknpr.00_02_08_02.still001-copy_wide-7833b709a78796963e53a4e5ba5573a3c4ce3929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gospel Singers Who Went From Singing Background To Going Solo">
+                                <img itemprop="contentUrl url" src='https://praisebaltimore.com/wp-content/uploads/sites/26/2016/09/14635382511858.jpg?quality=80&strip=all&w=450&crop=0%2C0%2C100%2C285px' alt='Gospel Singers Who Went From Singing Background To Going Solo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Praise 106.1" />
+                                </span>
+                                <a href='https://praisebaltimore.com/wp-content/uploads/sites/26/2016/09/14635382511858.jpg?quality=80&strip=all&w=450&crop=0%2C0%2C100%2C285px' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirk Franklin and the Family (1992-2010) •">
+                                <img itemprop="contentUrl url" src='https://www.blackpast.org/wp-content/uploads/Kirk-Franklin-and-the-Family-Christmas-Album.jpg' alt='Kirk Franklin and the Family (1992-2010) •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackPast" />
+                                </span>
+                                <a href='https://www.blackpast.org/wp-content/uploads/Kirk-Franklin-and-the-Family-Christmas-Album.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News: Kirk Franklin Receives Billionaire Honor from Pandora ...">
+                                <img itemprop="contentUrl url" src='https://freeccm.com/wp-content/uploads/2019/08/KFranklin-4-Photo-Ryan-Postas-for-Pandora-1024x683.jpg' alt='News: Kirk Franklin Receives Billionaire Honor from Pandora ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freeccm.com" />
+                                </span>
+                                <a href='https://freeccm.com/wp-content/uploads/2019/08/KFranklin-4-Photo-Ryan-Postas-for-Pandora-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirk Franklin - Some of you have already seen this picture, but I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153517333387026' alt='Kirk Franklin - Some of you have already seen this picture, but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153517333387026' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maverick City Music Shines Alongside Kirk Franklin on D.C. Stop on ...">
+                                <img itemprop="contentUrl url" src='https://popculture.com/wp-content/uploads/sites/5/2022/06/c64c5e87-527b-4a6f-9004-df0287c6205e.jpg' alt='Maverick City Music Shines Alongside Kirk Franklin on D.C. Stop on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PopCulture.com" />
+                                </span>
+                                <a href='https://popculture.com/wp-content/uploads/sites/5/2022/06/c64c5e87-527b-4a6f-9004-df0287c6205e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In The Studio with Kirk Franklin - "I Smile"">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Qvn-ROQFZUA/maxresdefault.jpg' alt='In The Studio with Kirk Franklin - "I Smile"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Qvn-ROQFZUA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

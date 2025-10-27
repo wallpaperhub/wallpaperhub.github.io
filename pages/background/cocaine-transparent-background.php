@@ -1,0 +1,129 @@
+<title>Cocaine: Crystal Clear Insights</title>
+                    <meta name="description" content="Explore the compelling visuals of cocaine set against a transparent background, highlighting its crystalline structure. Learn about its effects, risks, and the stark contrast between allure and danger in drug portrayal.">
+                    <meta name="keywords" content="cocaine transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cocaine-transparent-background">
+                            <span itemprop="name">cocaine transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cocaine: Crystal Clear Insights</h1>
+                <p>Cocaine, a powerful stimulant drug, is often depicted with a transparent background in various media. This allows for a clearer representation of its crystalline form, emphasizing its allure and risks. The imagery serves as a reminder of the dangerous effects of this substance, making its portrayal in art and education impactful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wrap | Cocaine (Crack)">
+                                <img itemprop="contentUrl url" src='https://www.thewrapdhi.org.uk/uploads/Cocaine.png' alt='The Wrap | Cocaine (Crack)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wrap DHI" />
+                                </span>
+                                <a href='https://www.thewrapdhi.org.uk/uploads/Cocaine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line of Cocaine PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='https://atlas-content-cdn.pixelsquid.com/assets_v2/149/1498084890187404584/jpeg-600/G03.jpg' alt='Line of Cocaine PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='https://atlas-content-cdn.pixelsquid.com/assets_v2/149/1498084890187404584/jpeg-600/G03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cocaine Addiction Treatment Tampa: Signs, Withdrawal, & Treatment">
+                                <img itemprop="contentUrl url" src='https://cdn.riveroakstreatment.com/wp-content/uploads/2016/04/coke.png' alt='Cocaine Addiction Treatment Tampa: Signs, Withdrawal, & Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="River Oaks Treatment Center" />
+                                </span>
+                                <a href='https://cdn.riveroakstreatment.com/wp-content/uploads/2016/04/coke.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="$721 Million Cocaine Unloaded in CA | Laguna Treatment Center">
+                                <img itemprop="contentUrl url" src='https://lagunatreatment.com/wp-content/uploads/2016/10/cocaine.jpg' alt='$721 Million Cocaine Unloaded in CA | Laguna Treatment Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laguna Treatment Center" />
+                                </span>
+                                <a href='https://lagunatreatment.com/wp-content/uploads/2016/10/cocaine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cocaine Addiction Facts & Treatment Infomation | The Crossroads ...">
+                                <img itemprop="contentUrl url" src='https://www.thecrossroadsprogram.com/wp-content/uploads/2014/09/cocaine.jpg' alt='Cocaine Addiction Facts & Treatment Infomation | The Crossroads ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Crossroads Program" />
+                                </span>
+                                <a href='https://www.thecrossroadsprogram.com/wp-content/uploads/2014/09/cocaine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,435 Cocaine White Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pile-cocaine-lines-isolated-on-600nw-2083576237.jpg' alt='16,435 Cocaine White Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pile-cocaine-lines-isolated-on-600nw-2083576237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pile of cocaine powder on white background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/40/69/12/1000_F_240691245_xzhM0HhxQfgxI1oRcdh8NfeHdCrujZiX.jpg' alt='Pile of cocaine powder on white background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/40/69/12/1000_F_240691245_xzhM0HhxQfgxI1oRcdh8NfeHdCrujZiX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cocaine/Crack | Southwest Behavioral & Health Services">
+                                <img itemprop="contentUrl url" src='https://www.sbhservices.org/sites/default/files/drugfreeazkids/uploads/cocaine.png' alt='Cocaine/Crack | Southwest Behavioral & Health Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southwest Behavioral & Health Services" />
+                                </span>
+                                <a href='https://www.sbhservices.org/sites/default/files/drugfreeazkids/uploads/cocaine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cocaine in plastic bag on white background, top view Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/45/45/61/1000_F_245456166_9nDm7TZEs32xShfPC82bFxQAJDqfv3gv.jpg' alt='Cocaine in plastic bag on white background, top view Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/45/45/61/1000_F_245456166_9nDm7TZEs32xShfPC82bFxQAJDqfv3gv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pile of Cocaine 3D, Incl. powder & snorting - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-cover-images/d462d4cf-c3d5-42f4-b031-08c4b63c5d22?w=433&cf_fit=scale-down&q=85&format=auto&s=7ff0a7a0cdbcbe684668bd32c1b6973f76c627462ad32c0e086101ff462ffd2b' alt='Pile of Cocaine 3D, Incl. powder & snorting - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-cover-images/d462d4cf-c3d5-42f4-b031-08c4b63c5d22?w=433&cf_fit=scale-down&q=85&format=auto&s=7ff0a7a0cdbcbe684668bd32c1b6973f76c627462ad32c0e086101ff462ffd2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

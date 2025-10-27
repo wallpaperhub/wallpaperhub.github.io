@@ -1,0 +1,129 @@
+<title>Top PS4 Themes to Customize Your Console</title>
+                    <meta name="description" content="Explore the ultimate collection of PS4 themes to revamp your gaming console! From sleek designs to immersive gaming visuals, find the perfect theme that suits your style. Personalize your PS4 effortlessly and enhance your gaming experience with these top picks!">
+                    <meta name="keywords" content="best ps4 themes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-ps4-themes">
+                            <span itemprop="name">best ps4 themes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top PS4 Themes to Customize Your Console</h1>
+                <p>Discover the best PS4 themes that enhance your gaming experience! From vibrant designs to minimalist looks, there's a theme for every taste. Explore options themed around popular games, nature, or abstract art. Personalizing your console not only makes it look great but also reflects your style—unlock your PS4's full potential today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Favorite Ps4 theme? : r/playstation">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/favorite-ps4-theme-v0-9ikvpzgp0kna1.jpg?width=1920&format=pjpg&auto=webp&s=23685029c86410460d03d5552ebe3471fdfb9b1d' alt='Favorite Ps4 theme? : r/playstation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/favorite-ps4-theme-v0-9ikvpzgp0kna1.jpg?width=1920&format=pjpg&auto=webp&s=23685029c86410460d03d5552ebe3471fdfb9b1d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free PS4 Themes | Push Square">
+                                <img itemprop="contentUrl url" src='https://images.pushsquare.com/4bad3f6fded10/the-witcher-3-wild-hunt-monsters-theme.900x.jpg' alt='Best Free PS4 Themes | Push Square'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Push Square" />
+                                </span>
+                                <a href='https://images.pushsquare.com/4bad3f6fded10/the-witcher-3-wild-hunt-monsters-theme.900x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Free PS4 Themes You Totally Missed">
+                                <img itemprop="contentUrl url" src='https://d2thvodm3xyo6j.cloudfront.net/media/2020/06/a84e58205305fc3b-1200x675.jpg' alt='10 Best Free PS4 Themes You Totally Missed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhatCulture.com" />
+                                </span>
+                                <a href='https://d2thvodm3xyo6j.cloudfront.net/media/2020/06/a84e58205305fc3b-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Favorite Ps4 theme? : r/playstation">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/favorite-ps4-theme-v0-5l2h4syo0kna1.jpg?width=1920&format=pjpg&auto=webp&s=dd0358f7d46a4d90ee1236e30d74d397bded464f' alt='Favorite Ps4 theme? : r/playstation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/favorite-ps4-theme-v0-5l2h4syo0kna1.jpg?width=1920&format=pjpg&auto=webp&s=dd0358f7d46a4d90ee1236e30d74d397bded464f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enhance Your PS4 with These Top 10 Free Live Dynamic Themes - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/P_7uxbEg9_s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjCBxX_B8RTeCkWasGw7hCbK5Qtw' alt='Enhance Your PS4 with These Top 10 Free Live Dynamic Themes - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/P_7uxbEg9_s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjCBxX_B8RTeCkWasGw7hCbK5Qtw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best free dynamic themes for PS4 | GamesRadar+">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/XoWiQVfq4d3rTxgHRR58uC.jpg' alt='The best free dynamic themes for PS4 | GamesRadar+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Games Radar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/XoWiQVfq4d3rTxgHRR58uC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best PS4 Dynamic Themes">
+                                <img itemprop="contentUrl url" src='https://www.well-played.com.au/wp-content/uploads/2016/07/large.jpg' alt='The Best PS4 Dynamic Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WellPlayed" />
+                                </span>
+                                <a href='https://www.well-played.com.au/wp-content/uploads/2016/07/large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Best and Free Dynamic Themes for PlayStation 4 in 2021 (Oct) | Best Free  Themes in PS Store 2021">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fYchMV3XmD0/maxresdefault.jpg' alt='12 Best and Free Dynamic Themes for PlayStation 4 in 2021 (Oct) | Best Free  Themes in PS Store 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fYchMV3XmD0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screenshot] Red Moon Samurai Dynamic Theme. The best samurai theme ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/voaxrhtbiel21.jpg?width=640&crop=smart&auto=webp&s=86787d528818b169c9d7a33b2fb46a2f540f76b9' alt='Screenshot] Red Moon Samurai Dynamic Theme. The best samurai theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/voaxrhtbiel21.jpg?width=640&crop=smart&auto=webp&s=86787d528818b169c9d7a33b2fb46a2f540f76b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rarest PS4 Dynamic Theme You Wish You Had">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PZkLa6A4qXw/maxresdefault.jpg' alt='The Rarest PS4 Dynamic Theme You Wish You Had'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PZkLa6A4qXw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

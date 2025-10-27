@@ -1,0 +1,129 @@
+<title>Discover Kelly Cobiella: Renowned Journalist and Reporter</title>
+                    <meta name="description" content="Explore the life and achievements of Kelly Cobiella, a prominent journalist with a flair for international news reporting. Learn about her career milestones, significant contributions, and impact in the field of journalism in this concise overview. Ideal for those seeking insights into her professional journey.">
+                    <meta name="keywords" content="kelly cobiella wikipedia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kelly-cobiella-wikipedia">
+                            <span itemprop="name">kelly cobiella wikipedia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Kelly Cobiella: Renowned Journalist and Reporter</h1>
+                <p>Kelly Cobiella is an accomplished journalist known for her work with major news networks. With a background in international reporting, she has covered significant global events. Her insightful analysis and storytelling have earned her recognition in the media landscape. Discover more about her career and contributions on her Wikipedia page.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZmEwOWMwMTMtOThmYi00ZDAwLWE0YWUtYzI4Yzk3NDIyNTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Kelly Cobiella - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZmEwOWMwMTMtOThmYi00ZDAwLWE0YWUtYzI4Yzk3NDIyNTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella (@KellyCobiella) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/433595013730029568/9Tc8Z1nC_400x400.jpeg' alt='Kelly Cobiella (@KellyCobiella) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/433595013730029568/9Tc8Z1nC_400x400.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella (@KellyCobiella) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CnanLv6WgAILNs0.jpg' alt='Kelly Cobiella (@KellyCobiella) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CnanLv6WgAILNs0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella: ‘Nervousness’ evident on streets of Brussels">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Video/__NEW/tdy_kelly_brussels_streets_160322.jpg' alt='Kelly Cobiella: ‘Nervousness’ evident on streets of Brussels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Video/__NEW/tdy_kelly_brussels_streets_160322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ask CBS News: Has BP Established A Wildlife Fund?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8xX4cmI5Df4/hqdefault.jpg' alt='Ask CBS News: Has BP Established A Wildlife Fund?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8xX4cmI5Df4/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella :: Grabien - The Multimedia Marketplace :: Grabien ...">
+                                <img itemprop="contentUrl url" src='https://storagealpha9.grabien.com/clipsbank/2423/framelarge/2423127.jpg' alt='Kelly Cobiella :: Grabien - The Multimedia Marketplace :: Grabien ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grabien" />
+                                </span>
+                                <a href='https://storagealpha9.grabien.com/clipsbank/2423/framelarge/2423127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella Wikipedia - NewLIFE">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Joanne_Kelly_2014_NBC_Universal_Summer_Press_Day_(cropped).jpg/1200px-Joanne_Kelly_2014_NBC_Universal_Summer_Press_Day_(cropped).jpg' alt='Kelly Cobiella Wikipedia - NewLIFE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="newsite.standardmedia.co.ke" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Joanne_Kelly_2014_NBC_Universal_Summer_Press_Day_(cropped).jpg/1200px-Joanne_Kelly_2014_NBC_Universal_Summer_Press_Day_(cropped).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella on X: "So excited to be joining @NBCNews! Wut woo ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/BuN0NivCMAAoOKI.jpg:large' alt='Kelly Cobiella on X: "So excited to be joining @NBCNews! Wut woo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/BuN0NivCMAAoOKI.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kelly Cobiella :: Grabien - The Multimedia Marketplace :: Grabien ...">
+                                <img itemprop="contentUrl url" src='https://storagealpha10.grabien.com/clipsbank/1240/framelarge/1240935.jpg' alt='Kelly Cobiella :: Grabien - The Multimedia Marketplace :: Grabien ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grabien" />
+                                </span>
+                                <a href='https://storagealpha10.grabien.com/clipsbank/1240/framelarge/1240935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avoiding Airline Fees">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cbcCDU71VPI/mqdefault.jpg' alt='Avoiding Airline Fees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cbcCDU71VPI/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

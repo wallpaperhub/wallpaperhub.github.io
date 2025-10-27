@@ -1,0 +1,129 @@
+<title>Stunning Purple Valentines Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our collection of beautiful purple Valentines wallpapers, perfect for celebrating love. Featuring romantic designs and vibrant colors, these wallpapers will add a touch of elegance to your devices. Download today to express your style and celebrate your loved ones!">
+                    <meta name="keywords" content="purple valentines wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines">
+                            <span itemprop="name">Valentines</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/valentines/purple-valentines-wallpaper">
+                            <span itemprop="name">purple valentines wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Valentines Wallpapers for Your Devices</h1>
+                <p>Transform your device with enchanting purple Valentines wallpaper that beautifully captures the essence of love. These wallpapers feature elegant designs, from romantic florals to playful hearts, making them perfect for celebrating Valentine's Day. Embrace the magic of love with vivid hues of purple to brighten your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Valentine Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-white-heart-balloons-purple-background_206725-150.jpg' alt='Purple Valentine Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-white-heart-balloons-purple-background_206725-150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Valentines Purple Heart Doodles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-valentines-purple-heart-doodles-7cro841srx6og2mr.webp' alt='Cute Valentines Purple Heart Doodles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-valentines-purple-heart-doodles-7cro841srx6og2mr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day purple color background wallpaper banner | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/valentine-s-day-purple-color-background-wallpaper-banner_1000823-177635.jpg' alt='Valentine's Day purple color background wallpaper banner | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/valentine-s-day-purple-color-background-wallpaper-banner_1000823-177635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Purple Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/45/2a/d9452aee64452b2b519a60130a1dabb9.jpg' alt='Valentine's Day Purple Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/45/2a/d9452aee64452b2b519a60130a1dabb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/fc/3a/6a/fc3a6a2994c86bc0d58bf8f698557a0d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/fc/3a/6a/fc3a6a2994c86bc0d58bf8f698557a0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Happy Valentines Day On Purple Background With Many Hearts ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1969667250/vector/happy-valentines-day-elegant-card-3d-glossy-purple-glass-hearts-on-old-rose-paper-background.jpg?s=612x612&w=0&k=20&c=7YajNGxjLhm_3p_d9bfx7-PVuWWSxk-bGtKvAeehAQI=' alt='150+ Happy Valentines Day On Purple Background With Many Hearts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1969667250/vector/happy-valentines-day-elegant-card-3d-glossy-purple-glass-hearts-on-old-rose-paper-background.jpg?s=612x612&w=0&k=20&c=7YajNGxjLhm_3p_d9bfx7-PVuWWSxk-bGtKvAeehAQI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,213 Purple Valentine Heart Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-purple-heart-resting-gracefully-pedestal-set-against-rich-background-symbolizing-love-romance-valentine-s-day-348378163.jpg' alt='25,213 Purple Valentine Heart Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-purple-heart-resting-gracefully-pedestal-set-against-rich-background-symbolizing-love-romance-valentine-s-day-348378163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150+ Happy Valentines Day On Purple Background With Many Hearts ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1765177066/vector/heart-love-layered-background-with-stars.jpg?s=612x612&w=0&k=20&c=AOt34yq6QzAzZWZx2LqHSA2hle12KXtMzfQ6jeVjNdI=' alt='150+ Happy Valentines Day On Purple Background With Many Hearts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1765177066/vector/heart-love-layered-background-with-stars.jpg?s=612x612&w=0&k=20&c=AOt34yq6QzAzZWZx2LqHSA2hle12KXtMzfQ6jeVjNdI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Valentine Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vector-heart-corner-border-geometric-pattern-background_53876-176312.jpg' alt='Purple Valentine Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vector-heart-corner-border-geometric-pattern-background_53876-176312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Day Purple Heart Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/09/dc/e509dc0e30fbd920dc10eac63b91626f.jpg' alt='Valentines Day Purple Heart Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/09/dc/e509dc0e30fbd920dc10eac63b91626f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Moth Wallpaper for iPhone: Nature-Inspired Designs</title>
+                    <meta name="description" content="Discover beautiful moth wallpapers for your iPhone that enhance your device with nature-inspired elegance. Choose from a range of stunning designs to express your style. Perfect for nature lovers seeking unique and captivating backgrounds. Upgrade your phone's look today!">
+                    <meta name="keywords" content="moth wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/moth-wallpaper-iphone">
+                            <span itemprop="name">moth wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moth Wallpaper for iPhone: Nature-Inspired Designs</h1>
+                <p>Transform your iPhone with stunning moth wallpaper that adds a touch of nature and elegance to your device. Explore a variety of designs featuring intricate moth patterns that are perfect for any aesthetic. Whether you prefer subtle tones or vibrant imagery, find the perfect wallpaper to express your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Star Moth Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27887577/r/il/fab76b/3961244601/il_1080xN.3961244601_3ycc.jpg' alt='Sky Star Moth Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27887577/r/il/fab76b/3961244601/il_1080xN.3961244601_3ycc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper // Earthy Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/83/7b/18/837b1845521379673bd2d0211aa7ba93.jpg' alt='Iphone Wallpaper // Earthy Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/83/7b/18/837b1845521379673bd2d0211aa7ba93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystic Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/c6/ce/d5c6cef1051000061fd1dea38f192f05.jpg' alt='Mystic Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/c6/ce/d5c6cef1051000061fd1dea38f192f05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2e/95/a8/2e95a8be36abb8c41159ac263f7c3e28.jpg' alt='Moth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2e/95/a8/2e95a8be36abb8c41159ac263f7c3e28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth Wallpaper- Black-Gold- Snake- Witch- Witchy-phone- Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33611791/r/il/cc28ea/4570005034/il_570xN.4570005034_t5rk.jpg' alt='Moth Wallpaper- Black-Gold- Snake- Witch- Witchy-phone- Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33611791/r/il/cc28ea/4570005034/il_570xN.4570005034_t5rk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gothic Moth Skull Artwork Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gothic-moth-skull-artwork-em8qdc0uvcjqq8mx.jpg' alt='Download Gothic Moth Skull Artwork Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gothic-moth-skull-artwork-em8qdc0uvcjqq8mx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nicole    on X: "Moth wallpapers!!   ✨ please feel free to use ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FJM1lMJVgAAx-T1.jpg:large' alt='Nicole    on X: "Moth wallpapers!!   ✨ please feel free to use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FJM1lMJVgAAx-T1.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death moth, goth, horror, creepy, dark, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/998/698/HD-wallpaper-death-moth-goth-horror-creepy-dark.jpg' alt='Death moth, goth, horror, creepy, dark, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/998/698/HD-wallpaper-death-moth-goth-horror-creepy-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper digital download cute moth cottagecore aesthetic green  downloadable homescreen lockscreen iphone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13921704/r/il/412e90/3711673868/il_570xN.3711673868_kwca.jpg' alt='Phone wallpaper digital download cute moth cottagecore aesthetic green  downloadable homescreen lockscreen iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13921704/r/il/412e90/3711673868/il_570xN.3711673868_kwca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth art, Art prints, Art inspiration">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/22/8b/38228b50873d81975f88b5d2e8218e7a.jpg' alt='Moth art, Art prints, Art inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/22/8b/38228b50873d81975f88b5d2e8218e7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

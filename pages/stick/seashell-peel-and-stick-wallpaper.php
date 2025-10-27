@@ -1,0 +1,129 @@
+<title>Coastal Charm: Seashell Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of coastal decor with our seashell peel and stick wallpaper. Effortlessly transform any space with easy application and removal. Perfect for creating a seaside retreat in your home or office. Upgrade your style today!">
+                    <meta name="keywords" content="seashell peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/seashell-peel-and-stick-wallpaper">
+                            <span itemprop="name">seashell peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coastal Charm: Seashell Peel and Stick Wallpaper</h1>
+                <p>Transform your space with seashell peel and stick wallpaper! Perfect for beach lovers, this wallpaper features stunning seashell designs that bring a coastal vibe to any room. Easy to apply and remove, it's ideal for renters or anyone looking to refresh their decor effortlessly. Create your own seaside sanctuary today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dviolet Peel and Stick Wallpaper White and Light Blue Contact  Paper Coral Wallpaper Coral/Seashell/Starfish Contact Paper Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91cdCKgMhFL.jpg' alt='Amazon.com: Dviolet Peel and Stick Wallpaper White and Light Blue Contact  Paper Coral Wallpaper Coral/Seashell/Starfish Contact Paper Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91cdCKgMhFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Shells Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-sea-shells-peel-and-stick-wallpaper-sea-shells-46705306665276.jpg?v=1716996346' alt='Sea Shells Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1864">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-sea-shells-peel-and-stick-wallpaper-sea-shells-46705306665276.jpg?v=1716996346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Sea Shell Peel and Stick Wallpaper / Nautical Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/9bcc2d/3994896789/il_570xN.3994896789_2ktj.jpg' alt='Gray Sea Shell Peel and Stick Wallpaper / Nautical Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/9bcc2d/3994896789/il_570xN.3994896789_2ktj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Color Shell Wallpaper Seashells, Corals and Starfish Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26864170/r/il/535f68/3080634937/il_fullxfull.3080634937_dsdw.jpg' alt='Custom Color Shell Wallpaper Seashells, Corals and Starfish Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2223">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26864170/r/il/535f68/3080634937/il_fullxfull.3080634937_dsdw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Coastal Wallpaper Peel and Stick 17.3" X 472" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81u+x6MTO-L.jpg' alt='WENMER Coastal Wallpaper Peel and Stick 17.3" X 472" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81u+x6MTO-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Shells Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-sea-shells-peel-and-stick-wallpaper-sea-shells-46705306632508.jpg?v=1716996340' alt='Sea Shells Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-sea-shells-peel-and-stick-wallpaper-sea-shells-46705306632508.jpg?v=1716996340' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Pastel Sea Shells Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/files/1-DREAMYPASTELSEASHELLSWALLPAPER_1f9a9616-f700-4dda-a99f-604ae8f9308e.jpg?v=1695039176' alt='Dreamy Pastel Sea Shells Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/files/1-DREAMYPASTELSEASHELLSWALLPAPER_1f9a9616-f700-4dda-a99f-604ae8f9308e.jpg?v=1695039176' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Seashell Self Adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2023/08/beige_coastal_shell_wallpaper_2.jpg' alt='Beige Seashell Self Adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2023/08/beige_coastal_shell_wallpaper_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seashell">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/seashell-removable-wallpaper-in-scandinavian-style-accent-wall.jpg' alt='Seashell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/seashell-removable-wallpaper-in-scandinavian-style-accent-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shells Reusable Wallcovering | Sea Life Mural & Patterns">
+                                <img itemprop="contentUrl url" src='https://www.casartcoverings.com/wp-content/uploads/2018/09/Natural-Shells-Coral-Sea-Spray-with-White-furniture-curtain_w2.jpg' alt='Shells Reusable Wallcovering | Sea Life Mural & Patterns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casart Coverings" />
+                                </span>
+                                <a href='https://www.casartcoverings.com/wp-content/uploads/2018/09/Natural-Shells-Coral-Sea-Spray-with-White-furniture-curtain_w2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding the Pledge of Allegiance: Words and Meaning</title>
+                    <meta name="description" content="Explore the Pledge of Allegiance's words, their significance, and the values they represent. Learn how this patriotic declaration emphasizes unity, liberty, and justice, fostering a sense of national identity and remembrance of sacrifices made for freedom.">
+                    <meta name="keywords" content="pledge of allegiance words">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pledge-of-allegiance-words">
+                            <span itemprop="name">pledge of allegiance words</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Pledge of Allegiance: Words and Meaning</h1>
+                <p>The Pledge of Allegiance is an expression of loyalty to the United States, recited by millions. It begins with "I pledge allegiance to the flag," emphasizing unity and patriotism. The pledge highlights ideals of liberty and justice, serving as a reminder of the nation's values and the sacrifices made to uphold them.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Pledge of Allegiance Words">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/abf252_04d2c49e343145a5a5df3a501ca170d2~mv2_d_2550_3300_s_4_2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/abf252_04d2c49e343145a5a5df3a501ca170d2~mv2_d_2550_3300_s_4_2.jpg' alt='Printable Pledge of Allegiance Words'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School Assembly Ideas" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/abf252_04d2c49e343145a5a5df3a501ca170d2~mv2_d_2550_3300_s_4_2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/abf252_04d2c49e343145a5a5df3a501ca170d2~mv2_d_2550_3300_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The United States should remove the words “under god” from the ...">
+                                <img itemprop="contentUrl url" src='https://eastside-online.org/wp-content/uploads/2020/02/48127282128_40ab89ce2a_b-900x545.jpg' alt='The United States should remove the words “under god” from the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastside" />
+                                </span>
+                                <a href='https://eastside-online.org/wp-content/uploads/2020/02/48127282128_40ab89ce2a_b-900x545.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pledge of Allegiance to the American Flag - Kids Bible Lessons">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/kids-bible-lessons.org/wp-content/uploads/2020/12/60569-pledge-american-flag.jpg?resize=720%2C928&ssl=1' alt='The Pledge of Allegiance to the American Flag - Kids Bible Lessons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids-Bible-Lessons.org" />
+                                </span>
+                                <a href='https://i0.wp.com/kids-bible-lessons.org/wp-content/uploads/2020/12/60569-pledge-american-flag.jpg?resize=720%2C928&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Pledge Allegiance | The Woodstock Whisperer/Jim Shelley">
+                                <img itemprop="contentUrl url" src='https://woodstockwhisperer.info/wp-content/uploads/2018/01/words-to-pledge.png' alt='United States Pledge Allegiance | The Woodstock Whisperer/Jim Shelley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Woodstock Whisperer/Jim Shelley" />
+                                </span>
+                                <a href='https://woodstockwhisperer.info/wp-content/uploads/2018/01/words-to-pledge.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pledge of Allegiance Words - 20 FREE Printables | Printabulls">
+                                <img itemprop="contentUrl url" src='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-2-791x1024.jpg' alt='Pledge of Allegiance Words - 20 FREE Printables | Printabulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printabulls" />
+                                </span>
+                                <a href='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-2-791x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Pledge of Allegiance Words">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/abf252_1a690cd08ac94660a0e79fdf8af7d428~mv2_d_2550_3300_s_4_2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/abf252_1a690cd08ac94660a0e79fdf8af7d428~mv2_d_2550_3300_s_4_2.jpg' alt='Printable Pledge of Allegiance Words'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School Assembly Ideas" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/abf252_1a690cd08ac94660a0e79fdf8af7d428~mv2_d_2550_3300_s_4_2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/abf252_1a690cd08ac94660a0e79fdf8af7d428~mv2_d_2550_3300_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pledge of Allegiance Words - 20 FREE Printables | Printabulls">
+                                <img itemprop="contentUrl url" src='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-10-1024x791.jpg' alt='Pledge of Allegiance Words - 20 FREE Printables | Printabulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printabulls" />
+                                </span>
+                                <a href='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-10-1024x791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pledge of Allegiance">
+                                <img itemprop="contentUrl url" src='http://www.txlegiondistrict14.org/images/pledge_large.jpg' alt='The Pledge of Allegiance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="District 14" />
+                                </span>
+                                <a href='http://www.txlegiondistrict14.org/images/pledge_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pledge of Allegiance Printable Sign for Classrooms | Student Handouts">
+                                <img itemprop="contentUrl url" src='https://www.studenthandouts.com/00/201701/pledgeofallegianceprintsign.png' alt='Pledge of Allegiance Printable Sign for Classrooms | Student Handouts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Student Handouts" />
+                                </span>
+                                <a href='https://www.studenthandouts.com/00/201701/pledgeofallegianceprintsign.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pledge of Allegiance Words - 20 FREE Printables | Printabulls">
+                                <img itemprop="contentUrl url" src='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-1-791x1024.jpg' alt='Pledge of Allegiance Words - 20 FREE Printables | Printabulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printabulls" />
+                                </span>
+                                <a href='https://www.printabulls.com/wp-content/uploads/2022/06/Pledge-of-Allegiance-Printable-1-791x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

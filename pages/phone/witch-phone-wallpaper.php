@@ -1,0 +1,129 @@
+<title>Magical Witch Phone Wallpapers: Enchant Your Screen</title>
+                    <meta name="description" content="Discover captivating witch phone wallpaper that brings spellbinding charm to your device. Choose from designs featuring mystical elements and enchanting colors. Perfect for adding a touch of magic, these wallpapers transform your phone into a portal of whimsy and wonder. Explore the collection now!">
+                    <meta name="keywords" content="witch phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/witch-phone-wallpaper">
+                            <span itemprop="name">witch phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Witch Phone Wallpapers: Enchant Your Screen</h1>
+                <p>Explore the enchanting world of witch phone wallpaper! From mystical forests to spellbinding potions, these wallpapers capture the allure of witchcraft. Perfect for adding a touch of magic to your device, each design invites you to embrace your inner witch. Dive into a realm of fantasy and transform your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Vibes Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27887577/r/il/d1ae00/3915556268/il_fullxfull.3915556268_otk5.jpg' alt='Witchy Vibes Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27887577/r/il/d1ae00/3915556268/il_fullxfull.3915556268_otk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Witch Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/999/999230.jpg' alt='Download Dark Witch Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/999/999230.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD witch witchy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/810/73/HD-wallpaper-moon-art-iphone-iphone-iphone-in-2022-witchy-witch-phone-nature-witch.jpg' alt='HD witch witchy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/810/73/HD-wallpaper-moon-art-iphone-iphone-iphone-in-2022-witchy-witch-phone-nature-witch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 50+ Best Witchcraft Wallpaper For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/51/73/e8517325d45fea15e73c769e74fa75d4.jpg' alt='The 50+ Best Witchcraft Wallpaper For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/51/73/e8517325d45fea15e73c769e74fa75d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth Wallpaper-Moon- Snake- Witch- Witchy- Pink -Background- Phone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33611791/r/il/2738ad/4618244049/il_570xN.4618244049_qbf1.jpg' alt='Moth Wallpaper-Moon- Snake- Witch- Witchy- Pink -Background- Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33611791/r/il/2738ad/4618244049/il_570xN.4618244049_qbf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84 Best Witchy Wallpaper ideas | witchy wallpaper, wallpaper, witchy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/80/e3/f0/80e3f020af0316d1704c74f8a9d5ca7b.jpg' alt='84 Best Witchy Wallpaper ideas | witchy wallpaper, wallpaper, witchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/80/e3/f0/80e3f020af0316d1704c74f8a9d5ca7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Witch Phone Wallpaper iPhone | Android | iPad">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5233070/r/il/9da218/1667457569/il_570xN.1667457569_h67a.jpg' alt='Nature Witch Phone Wallpaper iPhone | Android | iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5233070/r/il/9da218/1667457569/il_570xN.1667457569_h67a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Occult, pattern, black and white, witchcraft, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/500/57/HD-wallpaper-occult-pattern-black-and-white-witchcraft.jpg' alt='Occult, pattern, black and white, witchcraft, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/500/57/HD-wallpaper-occult-pattern-black-and-white-witchcraft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Witchy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://backyardbanshee.com/wp-content/uploads/2022/11/10-683x1024.jpg' alt='Free Witchy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backyard Banshee" />
+                                </span>
+                                <a href='https://backyardbanshee.com/wp-content/uploads/2022/11/10-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5556257.jpg' alt='Witchy Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5556257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Hello Kitty Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a variety of delightful Hello Kitty phone wallpapers to personalize your device. Perfect for fans, our collection offers cute, colorful, and stylish designs. Download your favorite today and bring a touch of sweetness to your screen! Suitable for all mobile devices.">
+                    <meta name="keywords" content="hello kitty phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/hello-kitty-phone-wallpaper">
+                            <span itemprop="name">hello kitty phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Hello Kitty Phone Wallpapers for Your Device</h1>
+                <p>Elevate your phone's look with adorable Hello Kitty phone wallpapers! Featuring various designs, from cute and colorful to elegant and minimalistic, these wallpapers are perfect for any fan of the iconic character. Download your favorite Hello Kitty wallpaper today and give your phone a charming makeover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Phone-Wallpaper-v1711554781111.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Phone-Wallpaper-v1711554781111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Maia Perez on Hello Kitty | Hello kitty wallpaper, Hello ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/19/46/9c1946a1386fcd9aa8a7c1c6f3169b1f.jpg' alt='Pin by Maia Perez on Hello Kitty | Hello kitty wallpaper, Hello ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/19/46/9c1946a1386fcd9aa8a7c1c6f3169b1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-Sticker_Phone-Wallpaper-v1711554829629.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-Sticker_Phone-Wallpaper-v1711554829629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/8/1/299789-1080x1920-mobile-1080p-hello-kitty-wallpaper.jpg' alt='Hello Kitty Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/8/1/299789-1080x1920-mobile-1080p-hello-kitty-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hello kitty pink phone wallpaper by wickerenthusiast on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/434f30b8-8dd3-48e9-bcc8-83948f106b69/dgt3x3a-b95f0e63-c880-4022-a353-2705e2e33d4a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzNGYzMGI4LThkZDMtNDhlOS1iY2M4LTgzOTQ4ZjEwNmI2OVwvZGd0M3gzYS1iOTVmMGU2My1jODgwLTQwMjItYTM1My0yNzA1ZTJlMzNkNGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wqm15yfM3RiyPpytyzeE2iM-Px76-72FNoKIqfgauZ8' alt='hello kitty pink phone wallpaper by wickerenthusiast on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/434f30b8-8dd3-48e9-bcc8-83948f106b69/dgt3x3a-b95f0e63-c880-4022-a353-2705e2e33d4a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzNGYzMGI4LThkZDMtNDhlOS1iY2M4LTgzOTQ4ZjEwNmI2OVwvZGd0M3gzYS1iOTVmMGU2My1jODgwLTQwMjItYTM1My0yNzA1ZTJlMzNkNGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wqm15yfM3RiyPpytyzeE2iM-Px76-72FNoKIqfgauZ8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d4/76/4d/d4764dab789a46e778768c34854ee1a1.jpg' alt='Hello Kitty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d4/76/4d/d4764dab789a46e778768c34854ee1a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New month, new @HelloKitty phone backgrounds    Visit the link in ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3232377325159404469' alt='New month, new @HelloKitty phone backgrounds    Visit the link in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3232377325159404469' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD hello kitty wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/439/982/HD-wallpaper-sanrio-hello-kitty-thumbnail.jpg' alt='HD hello kitty wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/439/982/HD-wallpaper-sanrio-hello-kitty-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty - New month, new Hello Kitty phone backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=884352613052446' alt='Hello Kitty - New month, new Hello Kitty phone backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=884352613052446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_My-Melody-Pink-Phone-Wallpaper-v1711554809839.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_My-Melody-Pink-Phone-Wallpaper-v1711554809839.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

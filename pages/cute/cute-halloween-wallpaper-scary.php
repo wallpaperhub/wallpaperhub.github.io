@@ -1,0 +1,129 @@
+<title>Adorable Yet Spooky: Cute Halloween Wallpapers</title>
+                    <meta name="description" content="Discover the perfect blend of cute and scary with our Halloween wallpapers! Featuring charming characters and seasonal motifs, these designs bring joy and a hint of spookiness to your screens. Perfect for all ages looking to celebrate Halloween with a smile!">
+                    <meta name="keywords" content="cute halloween wallpaper scary">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-halloween-wallpaper-scary">
+                            <span itemprop="name">cute halloween wallpaper scary</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Yet Spooky: Cute Halloween Wallpapers</h1>
+                <p>Transform your device this Halloween with cute yet spooky wallpapers! Featuring adorable ghosts, charming pumpkins, and friendly monsters, these playful designs bring a fun twist to the holiday. Perfect for setting the mood, these wallpapers balance fright and delight, ensuring your screen looks festive while keeping it cute and cozy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Halloween Pictures That Are So Creepy They Should Be Banned Forever">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/13/78/a9/1378a98858c3b7fe6684ec11d1941bf5.jpg' alt='31 Halloween Pictures That Are So Creepy They Should Be Banned Forever'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/13/78/a9/1378a98858c3b7fe6684ec11d1941bf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Wallpaper With Cute Spooky Ghosts And Scary ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1329149992/vector/happy-halloween-wallpaper-with-cute-spooky-ghosts-and-scary-pumpkin-seamless-pattern.jpg?s=612x612&w=is&k=20&c=5BQx5v7J3UuN9p_6b99iaTk6Vv3VoYo437dIPRCD-bg=' alt='Happy Halloween Wallpaper With Cute Spooky Ghosts And Scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1329149992/vector/happy-halloween-wallpaper-with-cute-spooky-ghosts-and-scary-pumpkin-seamless-pattern.jpg?s=612x612&w=is&k=20&c=5BQx5v7J3UuN9p_6b99iaTk6Vv3VoYo437dIPRCD-bg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640 Halloween and spooky wallpaper ideas in 2025 | halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/21/41/6f/21416f9a73623fc5a8377fffd5933d8e.jpg' alt='640 Halloween and spooky wallpaper ideas in 2025 | halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/21/41/6f/21416f9a73623fc5a8377fffd5933d8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Wallpaper Backgrounds | Hello Halloween | by Hello ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*DAPQ-qlfQk71xMwo.jpg' alt='Free Halloween Wallpaper Backgrounds | Hello Halloween | by Hello ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*DAPQ-qlfQk71xMwo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Scary Pumpkins Cute Halloween Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/scary-pumpkins-cute-halloween-iphone-y2fi879lsqyb9ieh.jpg' alt='Download free Scary Pumpkins Cute Halloween Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/scary-pumpkins-cute-halloween-iphone-y2fi879lsqyb9ieh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Happy Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/scary-happy-halloween-iphone-ypjdrxlhzvpn69an-2.jpg' alt='Scary Happy Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/scary-happy-halloween-iphone-ypjdrxlhzvpn69an-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | HD a creepy halloween wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/256/167/HD-wallpaper-pink-black-halloween-adoxali-october-animal-bat-broomstick-carved-cat-cauldron-celebration-creature-creepy-cute-dark-fun-funny-haunted-holiday-horror-illustration-kawaii-magic-mystery-thumbnail.jpg' alt='Page 3 | HD a creepy halloween wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/256/167/HD-wallpaper-pink-black-halloween-adoxali-october-animal-bat-broomstick-carved-cat-cauldron-celebration-creature-creepy-cute-dark-fun-funny-haunted-holiday-horror-illustration-kawaii-magic-mystery-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haloween wallpapers cropped pt4  #foryou#foryoupage#fyp#halloween#halloweenwallpaper#background#aesthetic#happyhalloween#spooky#pumpkin#ghost#skeleton  #bats#scoobydoo#cats#liloandstitch">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7271823851170860319&location=0&aid=1988' alt='Haloween wallpapers cropped pt4  #foryou#foryoupage#fyp#halloween#halloweenwallpaper#background#aesthetic#happyhalloween#spooky#pumpkin#ghost#skeleton  #bats#scoobydoo#cats#liloandstitch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7271823851170860319&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute & creepy   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/18/0a/da180ac0fd68befd29408059a294b997.jpg' alt='Cute & creepy   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/18/0a/da180ac0fd68befd29408059a294b997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,590 Cute Halloween Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2493596489/display_1500/stock-vector-happy-halloween-party-seamless-pattern-background-with-cute-dachshund-puppy-dog-spooky-pumpkin-and-2493596489.jpg' alt='97,590 Cute Halloween Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2493596489/display_1500/stock-vector-happy-halloween-party-seamless-pattern-background-with-cute-dachshund-puppy-dog-spooky-pumpkin-and-2493596489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Celebrating Hispanic American Heritage: Culture & Contributions</title>
+                    <meta name="description" content="Discover the vibrant Hispanic American community and their remarkable contributions to culture, art, and society in the U.S. Explore their rich heritage and ongoing influence in shaping a more inclusive future. Join us in celebrating diversity and understanding the significance of Hispanic Americans today.">
+                    <meta name="keywords" content="hispanic american people">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hispanic-american-people">
+                            <span itemprop="name">hispanic american people</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrating Hispanic American Heritage: Culture & Contributions</h1>
+                <p>Hispanic American people are a vibrant and diverse community, encompassing a rich tapestry of cultures, traditions, and histories. From contributions in art, music, and cuisine to activism and leadership, they play a crucial role in shaping the social and economic landscape of the United States. Their influence is felt across various sectors, celebrating their heritage while advocating for inclusive progress.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Famous Hispanic People You Need to Know in 2022">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/famous-hispanic-people-lead-1568126167.png' alt='20 Famous Hispanic People You Need to Know in 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oprah Daily" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/famous-hispanic-people-lead-1568126167.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 influential Hispanic Americans in U.S. politics | Constitution ...">
+                                <img itemprop="contentUrl url" src='https://constitutioncenter.org/images/uploads/blog/HispanicAmericans_twitter.jpg' alt='10 influential Hispanic Americans in U.S. politics | Constitution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Constitution Center" />
+                                </span>
+                                <a href='https://constitutioncenter.org/images/uploads/blog/HispanicAmericans_twitter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hispanic Heritage Month: 8 Latinos who influenced American life ...">
+                                <img itemprop="contentUrl url" src='https://media.nbcsandiego.com/2020/09/Tryptich-sep22.jpg?quality=85&strip=all&resize=1200%2C675' alt='Hispanic Heritage Month: 8 Latinos who influenced American life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC 7 San Diego" />
+                                </span>
+                                <a href='https://media.nbcsandiego.com/2020/09/Tryptich-sep22.jpg?quality=85&strip=all&resize=1200%2C675' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unveiling hidden stars: remarkable Latino contributions in the ...">
+                                <img itemprop="contentUrl url" src='https://unidosus.org/wp-content/uploads/2023/09/Unveiling-hidden-stars-featured-image.png' alt='Unveiling hidden stars: remarkable Latino contributions in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UnidosUS" />
+                                </span>
+                                <a href='https://unidosus.org/wp-content/uploads/2023/09/Unveiling-hidden-stars-featured-image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Mosaic, Not a Monolith: A Profile of the U.S. Latino Population ...">
+                                <img itemprop="contentUrl url" src='https://latino.ucla.edu/wp-content/uploads/2022/10/Latino-Population-rajiv-perera-unsplash.jpg' alt='A Mosaic, Not a Monolith: A Profile of the U.S. Latino Population ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Latino Policy and Politics Institute" />
+                                </span>
+                                <a href='https://latino.ucla.edu/wp-content/uploads/2022/10/Latino-Population-rajiv-perera-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hispanic Americans | Definition, History, People, & Population ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/88/245688-138-29272827/what-is-National-Hispanic-Heritage-Month.jpg?w=800&h=450&c=crop' alt='Hispanic Americans | Definition, History, People, & Population ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/88/245688-138-29272827/what-is-National-Hispanic-Heritage-Month.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Behind Hispanic Heritage Month">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gh-famous-latinx-people-1631046697.png?crop=1xw:0.8034043659043659xh;center,top' alt='The History Behind Hispanic Heritage Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2061">
+                                <meta itemprop="height" content="1159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Housekeeping" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gh-famous-latinx-people-1631046697.png?crop=1xw:0.8034043659043659xh;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hispanics in the United States: Celebrating National Hispanic ...">
+                                <img itemprop="contentUrl url" src='https://www.bls.gov/spotlight/2017/hispanics-in-the-united-states-celebrating-national-hispanic-heritage-month/images/cover-image.png' alt='Hispanics in the United States: Celebrating National Hispanic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bureau of Labor Statistics" />
+                                </span>
+                                <a href='https://www.bls.gov/spotlight/2017/hispanics-in-the-united-states-celebrating-national-hispanic-heritage-month/images/cover-image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Hispanic American Trailblazers and Their Firsts​">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/politics/events-and-history/2022/09/1140-hhm-hero.jpg' alt='10 Hispanic American Trailblazers and Their Firsts​'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/politics/events-and-history/2022/09/1140-hhm-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eight Hispanic Groups Each Had a Million or More Population in 2020">
+                                <img itemprop="contentUrl url" src='https://www.census.gov/content/dam/Census/library/stories/2023/09/hispanic-population/hispanic-population.jpg' alt='Eight Hispanic Groups Each Had a Million or More Population in 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Census Bureau" />
+                                </span>
+                                <a href='https://www.census.gov/content/dam/Census/library/stories/2023/09/hispanic-population/hispanic-population.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

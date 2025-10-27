@@ -1,0 +1,129 @@
+<title>Stunning Dark Pink Roses Wallpaper for Elegant Spaces</title>
+                    <meta name="description" content="Add a touch of elegance to your decor with our dark pink roses wallpaper. Perfect for creating a romantic atmosphere, this floral design is ideal for any room. Elevate your interior with vibrant colors and lush patterns that evoke warmth and charm. Shop now for a beautiful transformation!">
+                    <meta name="keywords" content="dark pink roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/dark-pink-roses-wallpaper">
+                            <span itemprop="name">dark pink roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Pink Roses Wallpaper for Elegant Spaces</h1>
+                <p>Transform your space with our stunning dark pink roses wallpaper. Rich, vibrant hues bring a touch of elegance and romance to any room. Perfect for accent walls or complete makeovers, this wallpaper design captures the essence of luxury while adding warmth and charm. Embrace floral beauty today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOT PINK ROSES">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/cc/dd/1dccdd18a7f67f49e5e9b502a4ffd6cb.jpg' alt='HOT PINK ROSES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/cc/dd/1dccdd18a7f67f49e5e9b502a4ffd6cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Pink Rose Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vertical-closeup-shot-pink-rose-with-dew_181624-33424.jpg' alt='Dark Pink Rose Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vertical-closeup-shot-pink-rose-with-dew_181624-33424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Aesthetic Roses Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-pink-aesthetic-roses-boaqtviayflwak9c.jpg' alt='Light Pink Aesthetic Roses Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-pink-aesthetic-roses-boaqtviayflwak9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add a punch of color in those spring pastels with Pink Floyd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/7a/1f/a87a1fb3d60da80eb6b7c4d2a160d837.jpg' alt='Add a punch of color in those spring pastels with Pink Floyd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/7a/1f/a87a1fb3d60da80eb6b7c4d2a160d837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Pink Rose Images – Browse 273,649 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/16/39/60/360_F_316396066_r8cSjHJ9mbCTReAWBLmdxBNPMrdFWjtD.jpg' alt='Dark Pink Rose Images – Browse 273,649 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/16/39/60/360_F_316396066_r8cSjHJ9mbCTReAWBLmdxBNPMrdFWjtD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliet - Hot Pink Rose Flower Wall Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/files/Juliet_Artwork.jpg?v=1740502071' alt='Juliet - Hot Pink Rose Flower Wall Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1666">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/files/Juliet_Artwork.jpg?v=1740502071' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Pink Rose Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vibrant-dark-pink-roses-background-40n3k0f6w2jsn5ux.jpg' alt='100+] Dark Pink Rose Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vibrant-dark-pink-roses-background-40n3k0f6w2jsn5ux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bouquet of pink roses on dark background. Top view 7517914 Stock ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/517/914/large_2x/bouquet-of-pink-roses-on-dark-background-top-view-photo.jpg' alt='Bouquet of pink roses on dark background. Top view 7517914 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2410">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/517/914/large_2x/bouquet-of-pink-roses-on-dark-background-top-view-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big bouquet of beautiful dark pink roses on grey background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/M2N4BH/big-bouquet-of-beautiful-dark-pink-roses-on-grey-background-M2N4BH.jpg' alt='Big bouquet of beautiful dark pink roses on grey background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/M2N4BH/big-bouquet-of-beautiful-dark-pink-roses-on-grey-background-M2N4BH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Rose background by Mike Ledray">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hot-pink-rose-background-michael-ledray.jpg' alt='Hot Pink Rose background by Mike Ledray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hot-pink-rose-background-michael-ledray.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

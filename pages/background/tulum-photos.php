@@ -1,0 +1,129 @@
+<title>Stunning Tulum Photos: Capture Paradise</title>
+                    <meta name="description" content="Discover the beauty of Tulum through stunning photos. From crystal-clear waters and white sand beaches to ancient ruins and lush jungles, explore what makes Tulum a must-visit destination. Perfect for your travel inspiration or social media feeds!">
+                    <meta name="keywords" content="tulum photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tulum-photos">
+                            <span itemprop="name">tulum photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tulum Photos: Capture Paradise</h1>
+                <p>Tulum photos showcase the breathtaking beauty of this Mexican paradise. Capture the stunning turquoise waters, ancient Mayan ruins, and vibrant sunsets that make Tulum a dream destination. From picturesque beaches to lush jungles, every corner offers an Instagram-worthy shot. Discover the magic of Tulum through captivating imagery!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These are the 9 Best Places to Visit in Tulum + Tips! - Travelrebels">
+                                <img itemprop="contentUrl url" src='https://travelrebels.com/wp-content/uploads/2021/01/tulum-art.jpg' alt='These are the 9 Best Places to Visit in Tulum + Tips! - Travelrebels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travelrebels.com" />
+                                </span>
+                                <a href='https://travelrebels.com/wp-content/uploads/2021/01/tulum-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulum travel - Lonely Planet | Mexico, North America">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2019-06/fab6b5f03e66bb144875992631973f01-tulum-ruins.jpg' alt='Tulum travel - Lonely Planet | Mexico, North America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3878">
+                                <meta itemprop="height" content="2597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2019-06/fab6b5f03e66bb144875992631973f01-tulum-ruins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulum - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg' alt='Tulum - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4160">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things to do in Tulum: Complete Travel Guide to Mexico's Bohemian ...">
+                                <img itemprop="contentUrl url" src='https://nytoanywhere.com/wp-content/uploads/ahau-1-of-1-4-scaled.jpg' alt='Things to do in Tulum: Complete Travel Guide to Mexico's Bohemian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York and Beyond Travel Blog" />
+                                </span>
+                                <a href='https://nytoanywhere.com/wp-content/uploads/ahau-1-of-1-4-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 6 Things You Need To Do In Tulum, Mexico">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/blogs-images/emilysiegel/files/2017/02/tulum-1200x750.jpg?format=jpg&height=900&width=1600&fit=bounds' alt='The 6 Things You Need To Do In Tulum, Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/blogs-images/emilysiegel/files/2017/02/tulum-1200x750.jpg?format=jpg&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Traveling Tulum on a Budget | Mexico | The ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thepartyingtraveler.com/wp-content/uploads/2020/11/IMG_3083.jpg?fit=1024%2C768&ssl=1' alt='The Complete Guide to Traveling Tulum on a Budget | Mexico | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Partying Traveler" />
+                                </span>
+                                <a href='https://i0.wp.com/thepartyingtraveler.com/wp-content/uploads/2020/11/IMG_3083.jpg?fit=1024%2C768&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulum: Mayan Ruins, Statue Ven a la luz, and 4 Cenotes Tour ...">
+                                <img itemprop="contentUrl url" src='https://cdn.getyourguide.com/img/tour/62f349af0c801.jpeg/145.jpg' alt='Tulum: Mayan Ruins, Statue Ven a la luz, and 4 Cenotes Tour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GetYourGuide" />
+                                </span>
+                                <a href='https://cdn.getyourguide.com/img/tour/62f349af0c801.jpeg/145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulum - Isla Mujeres Trips">
+                                <img itemprop="contentUrl url" src='https://islamujerestrips.com/wp-content/uploads/2017/03/tour-xelha-tulum-4.jpg' alt='Tulum - Isla Mujeres Trips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Isla Mujeres Trips" />
+                                </span>
+                                <a href='https://islamujerestrips.com/wp-content/uploads/2017/03/tour-xelha-tulum-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE 10 BEST Things to Do in Tulum (2025) - Must-See Attractions">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/28/46/54/caption.jpg?w=1200&h=-1&s=1' alt='THE 10 BEST Things to Do in Tulum (2025) - Must-See Attractions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/28/46/54/caption.jpg?w=1200&h=-1&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Compete Travel Guide To Tulum Mexico - Little Wanderblog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/littlewanderblog.com/wp-content/uploads/2023/11/Tulum-Mexico-Sculpture-Park-2.jpg?resize=1200%2C1499&ssl=1' alt='A Compete Travel Guide To Tulum Mexico - Little Wanderblog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Wanderblog" />
+                                </span>
+                                <a href='https://i0.wp.com/littlewanderblog.com/wp-content/uploads/2023/11/Tulum-Mexico-Sculpture-Park-2.jpg?resize=1200%2C1499&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

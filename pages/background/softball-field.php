@@ -1,0 +1,129 @@
+<title>Essential Guide to Softball Fields: Layout & Design</title>
+                    <meta name="description" content="Discover the key elements of a softball field, including its layout, dimensions, and design features. Whether you're a player or a fan, this guide provides insights into what makes a softball field unique and essential for the sport. Learn more about this exciting game today!">
+                    <meta name="keywords" content="softball field">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/softball-field">
+                            <span itemprop="name">softball field</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Softball Fields: Layout & Design</h1>
+                <p>A softball field is specifically designed for the sport, featuring a diamond layout with bases and a pitcher's mound. The surface usually consists of grass or turf, offering a smooth, safe playing area. Key elements include a 60-foot base path and a 43-foot pitching distance. This iconic layout fosters excitement and teamwork in every game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball Stadium - Facilities - St. Mary's University Athletics">
+                                <img itemprop="contentUrl url" src='https://rattlerathletics.com/images/2017/7/14/Stmarys_58_web.jpg' alt='Softball Stadium - Facilities - St. Mary's University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Mary's University Athletics" />
+                                </span>
+                                <a href='https://rattlerathletics.com/images/2017/7/14/Stmarys_58_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Niemand-Robison Softball Field - Facilities - Cornell University ...">
+                                <img itemprop="contentUrl url" src='https://cornellbigred.com/images/2019/7/25/Niemand_RobisonSoftball_01.JPG' alt='Niemand-Robison Softball Field - Facilities - Cornell University ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cornell Athletics" />
+                                </span>
+                                <a href='https://cornellbigred.com/images/2019/7/25/Niemand_RobisonSoftball_01.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marietta Field - Softball - Facilities - Marietta College Athletics">
+                                <img itemprop="contentUrl url" src='https://pioneers.marietta.edu/images/2019/10/29/Softball_1500x900_04.jpg' alt='Marietta Field - Softball - Facilities - Marietta College Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marietta College Athletics" />
+                                </span>
+                                <a href='https://pioneers.marietta.edu/images/2019/10/29/Softball_1500x900_04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildcat Park - Facilities - Louisiana Christian University Athletics">
+                                <img itemprop="contentUrl url" src='https://lcwildcats.net/images/2020/8/14/IMG_0461.jpg' alt='Wildcat Park - Facilities - Louisiana Christian University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Christian University Athletics" />
+                                </span>
+                                <a href='https://lcwildcats.net/images/2020/8/14/IMG_0461.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanley Butler Softball Field - Facilities - Lee University Athletics">
+                                <img itemprop="contentUrl url" src='https://leeuflames.com/images/2015/11/4/Softball%20Facility%202_038.jpg' alt='Stanley Butler Softball Field - Facilities - Lee University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lee University Athletics" />
+                                </span>
+                                <a href='https://leeuflames.com/images/2015/11/4/Softball%20Facility%202_038.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UC Softball Complex - Facilities - University of the Cumberlands ...">
+                                <img itemprop="contentUrl url" src='https://cumberlandspatriots.com/images/2021/9/29/Softball_slideshow.jpg' alt='UC Softball Complex - Facilities - University of the Cumberlands ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cumberlands Athletics" />
+                                </span>
+                                <a href='https://cumberlandspatriots.com/images/2021/9/29/Softball_slideshow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HORD SOFTBALL FIELD - Facilities - Campbellsville University Athletics">
+                                <img itemprop="contentUrl url" src='https://campbellsvilletigers.com/images/2023/5/31/SID10001.jpg' alt='HORD SOFTBALL FIELD - Facilities - Campbellsville University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campbellsville University Athletics" />
+                                </span>
+                                <a href='https://campbellsvilletigers.com/images/2023/5/31/SID10001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball Field Images – Browse 23,587 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/14/43/35/360_F_914433509_amUOA2uzjr0A7op3fgY7k1a1Mzl62v38.jpg' alt='Softball Field Images – Browse 23,587 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/14/43/35/360_F_914433509_amUOA2uzjr0A7op3fgY7k1a1Mzl62v38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ranger Softball Field - Facilities - Northwest Mississippi ...">
+                                <img itemprop="contentUrl url" src='https://nwccrangers.com/images/2024/4/22/DJI_0123.jpg' alt='Ranger Softball Field - Facilities - Northwest Mississippi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northwest Mississippi Community College Athletics" />
+                                </span>
+                                <a href='https://nwccrangers.com/images/2024/4/22/DJI_0123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball Complex - Facilities - University of Louisiana Monroe ...">
+                                <img itemprop="contentUrl url" src='https://ulmwarhawks.com/images/2023/2/2/01-23-2023_Athletic_Facilities-42.jpg' alt='Softball Complex - Facilities - University of Louisiana Monroe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Monroe Athletics" />
+                                </span>
+                                <a href='https://ulmwarhawks.com/images/2023/2/2/01-23-2023_Athletic_Facilities-42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

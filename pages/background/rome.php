@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Rome: History, Culture & Cuisine</title>
+                    <meta name="description" content="Discover Rome's rich history, iconic landmarks, and delectable cuisine. Experience the magic of this ancient city, where every corner tells a story. Uncover the charm of Rome with our quick guide to its top attractions and hidden gems!">
+                    <meta name="keywords" content="rome">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rome">
+                            <span itemprop="name">rome</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Rome: History, Culture & Cuisine</h1>
+                <p>Rome, the enchanting capital of Italy, is a treasure trove of history and culture. From the majestic Colosseum to the awe-inspiring Vatican City, the city is a blend of ancient ruins and vibrant modern life. Wander through charming streets, indulge in authentic Italian cuisine, and experience the lively atmosphere of piazzas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome | Italy, History, Map, Population, Climate, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/16/99616-050-72CD201A/Colosseum-Rome.jpg' alt='Rome | Italy, History, Map, Population, Climate, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1488">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/16/99616-050-72CD201A/Colosseum-Rome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome city guide: A long weekend in... Rome | British GQ | British GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq-magazine.co.uk/photos/5d13a3a9b6fee91a87c9f87f/16:9/w_2560%2Cc_limit/Rome-hp-GQ-24May16_istock_b.jpg' alt='Rome city guide: A long weekend in... Rome | British GQ | British GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British GQ" />
+                                </span>
+                                <a href='https://media.gq-magazine.co.uk/photos/5d13a3a9b6fee91a87c9f87f/16:9/w_2560%2Cc_limit/Rome-hp-GQ-24May16_istock_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancient Rome facts and history">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/a6c9f195-de20-445d-9d36-745ef56042c5/OG_Colosseum_Ancient-Rome_KIDS_1122_3x2.jpg' alt='Ancient Rome facts and history'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/a6c9f195-de20-445d-9d36-745ef56042c5/OG_Colosseum_Ancient-Rome_KIDS_1122_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1200px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg' alt='Rome - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1200px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome | Italy, History, Map, Population, Climate, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/46/154246-050-7C72E12F/view-Rome.jpg' alt='Rome | Italy, History, Map, Population, Climate, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/46/154246-050-7C72E12F/view-Rome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy Rome">
+                                <img itemprop="contentUrl url" src='https://www.italyperfect.com/g/photos/upload/sml_845543004-1590582528-ip-info-rome.jpg' alt='Enjoy Rome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Italy Perfect" />
+                                </span>
+                                <a href='https://www.italyperfect.com/g/photos/upload/sml_845543004-1590582528-ip-info-rome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome: Attractions to see & Things to do - Italia.it">
+                                <img itemprop="contentUrl url" src='https://www.italia.it/content/dam/tdh/en/interests/lazio/roma/roma-in-48-ore/media/20220127150143-colosseo-roma-lazio-shutterstock-756032350.jpg' alt='Rome: Attractions to see & Things to do - Italia.it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6144">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Italy" />
+                                </span>
+                                <a href='https://www.italia.it/content/dam/tdh/en/interests/lazio/roma/roma-in-48-ore/media/20220127150143-colosseo-roma-lazio-shutterstock-756032350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Informative Map of Rome - Tourist Italy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.touristitaly.com/wp-content/uploads/2023/03/Trevi-Fountain-rome-2-scaled.jpg?fit=4272%2C2848&ssl=1' alt='Informative Map of Rome - Tourist Italy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourist Italy" />
+                                </span>
+                                <a href='https://i0.wp.com/www.touristitaly.com/wp-content/uploads/2023/03/Trevi-Fountain-rome-2-scaled.jpg?fit=4272%2C2848&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome's Top 10 Attractions : Rome : TravelChannel.com | Travel Channel">
+                                <img itemprop="contentUrl url" src='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/10/21/rome-top-10-attractions-vatican.jpg.rend.hgtvcom.1280.1280.suffix/1491581551681.jpeg' alt='Rome's Top 10 Attractions : Rome : TravelChannel.com | Travel Channel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Channel" />
+                                </span>
+                                <a href='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/10/21/rome-top-10-attractions-vatican.jpg.rend.hgtvcom.1280.1280.suffix/1491581551681.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rome in a nutshell | Turismo Roma">
+                                <img itemprop="contentUrl url" src='https://www.turismoroma.it/sites/default/files/Roma%20in%20breve.jpg' alt='Rome in a nutshell | Turismo Roma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turismo Roma" />
+                                </span>
+                                <a href='https://www.turismoroma.it/sites/default/files/Roma%20in%20breve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

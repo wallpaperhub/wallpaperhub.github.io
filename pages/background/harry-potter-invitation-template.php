@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Invitation Template for Parties</title>
+                    <meta name="description" content="Discover our customizable Harry Potter invitation template, ideal for birthdays and wizard-themed parties. Create a magical experience with enchanting designs that thrill young wizards and witches alike. Download now for an easy and fun party invitation solution!">
+                    <meta name="keywords" content="harry potter invitation template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-potter-invitation-template">
+                            <span itemprop="name">harry potter invitation template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Invitation Template for Parties</h1>
+                <p>Celebrate your child's magical journey with our enchanting Harry Potter invitation template! Perfect for birthdays and themed parties, these customizable invites feature iconic elements from the wizarding world. Simply fill in the details, print, and send them off to your fellow witches and wizards for a spellbinding celebration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Invitations (free printables) | Fun Money Mom">
+                                <img itemprop="contentUrl url" src='https://funmoneymom.com/wp-content/uploads/2018/10/Final-Blank-Invitation-5x7.jpg' alt='Harry Potter Invitations (free printables) | Fun Money Mom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fun Money Mom" />
+                                </span>
+                                <a href='https://funmoneymom.com/wp-content/uploads/2018/10/Final-Blank-Invitation-5x7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Harry Potter Wizard Birthday Invitation Instant Download ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/fvcmwhV36V/QBcY7uZRaF___lUDLI_640.webp' alt='Editable Harry Potter Wizard Birthday Invitation Instant Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/fvcmwhV36V/QBcY7uZRaF___lUDLI_640.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Harry Potter Party Invitation - Party Like a Cherry">
+                                <img itemprop="contentUrl url" src='https://www.partylikeacherry.com/wp-content/uploads/2022/11/invitationwithlogo.jpg' alt='Free Harry Potter Party Invitation - Party Like a Cherry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Party Like a Cherry" />
+                                </span>
+                                <a href='https://www.partylikeacherry.com/wp-content/uploads/2022/11/invitationwithlogo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Invitation Template Printable - Wizard Party Invitation">
+                                <img itemprop="contentUrl url" src='https://www.pressprintparty.com/wp-content/uploads/2024/07/wizard-party-invitation-3.jpg' alt='Harry Potter Invitation Template Printable - Wizard Party Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Press Print Party!" />
+                                </span>
+                                <a href='https://www.pressprintparty.com/wp-content/uploads/2024/07/wizard-party-invitation-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Greenvelope.com">
+                                <img itemprop="contentUrl url" src='https://cdn.greenvelope.com/GreenvelopeImages/styles/thumbnails/closed/61877~17@2x.png' alt='Harry Potter | Greenvelope.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenvelope" />
+                                </span>
+                                <a href='https://cdn.greenvelope.com/GreenvelopeImages/styles/thumbnails/closed/61877~17@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Invitation - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/c2/a7/eac2a7647b1040e6021961bcf294399e.jpg' alt='Harry Potter Invitation - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/c2/a7/eac2a7647b1040e6021961bcf294399e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter 2025 invitations">
+                                <img itemprop="contentUrl url" src='https://mumlyfe.com.au/wp-content/uploads/2017/10/Harry-Potter-Party-Invitation-free-printable-to-download.png' alt='Harry potter 2025 invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://mumlyfe.com.au/wp-content/uploads/2017/10/Harry-Potter-Party-Invitation-free-printable-to-download.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make your own Harry Potter Birthday Invitations | Free Printables ...">
+                                <img itemprop="contentUrl url" src='https://superbusymum.net/wp-content/uploads/2018/05/Hogwarts-Express-birthday-invitation-4.jpg' alt='Make your own Harry Potter Birthday Invitations | Free Printables ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="superbusymum.net" />
+                                </span>
+                                <a href='https://superbusymum.net/wp-content/uploads/2018/05/Hogwarts-Express-birthday-invitation-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Invitation Customizable Template Instant Download | Bobotemp">
+                                <img itemprop="contentUrl url" src='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/HfvfCQJc9p/o0YBaHJ4af___tw2SV_640.webp' alt='Hogwarts Invitation Customizable Template Instant Download | Bobotemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobotemp" />
+                                </span>
+                                <a href='https://cdn.tangledigitalprints.com/listings/thumb/5d4d6d3c38dd915a8b4e8145/HfvfCQJc9p/o0YBaHJ4af___tw2SV_640.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Birthday Invitation | Magical Invite">
+                                <img itemprop="contentUrl url" src='https://amazingdesignsus.com/wp-content/uploads/2022/04/Harry-Potter-Birthday-Invitation.jpg' alt='Harry Potter Birthday Invitation | Magical Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazing Designs US" />
+                                </span>
+                                <a href='https://amazingdesignsus.com/wp-content/uploads/2022/04/Harry-Potter-Birthday-Invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

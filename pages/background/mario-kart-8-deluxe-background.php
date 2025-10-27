@@ -1,0 +1,129 @@
+<title>Explore the Colorful Worlds of Mario Kart 8 Deluxe</title>
+                    <meta name="description" content="Dive into the thrilling backgrounds of Mario Kart 8 Deluxe, where racers zoom through whimsical tracks set in iconic locales. Discover how the stunning graphics and immersive environments elevate your racing experience in this popular Nintendo game. Perfect for gamers seeking adventure and excitement!">
+                    <meta name="keywords" content="mario kart 8 deluxe background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-kart-8-deluxe-background">
+                            <span itemprop="name">mario kart 8 deluxe background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful Worlds of Mario Kart 8 Deluxe</h1>
+                <p>Mario Kart 8 Deluxe features a vibrant and dynamic background that transports players to fantastical racetracks filled with colorful landscapes. From the Mushroom Kingdom to futuristic circuits, each backdrop enhances the racing experience. The game's stunning visuals and smooth gameplay make it a beloved title among gamers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Mario Kart 8 Deluxe | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/468c6bc031358d24' alt='Wallpaper - Mario Kart 8 Deluxe | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/468c6bc031358d24' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Mario Kart 8 Deluxe HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/125/thumb-1920-1252315.png' alt='Download Video Game Mario Kart 8 Deluxe HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/125/thumb-1920-1252315.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Received a Mario Kart 8 Deluxe wallpaper in my email as a thanks ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bhgp0k2z02i01.jpg' alt='Received a Mario Kart 8 Deluxe wallpaper in my email as a thanks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bhgp0k2z02i01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Kart 8 Deluxe - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/821/821837.jpg' alt='Mario Kart 8 Deluxe - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/821/821837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I haven't seen anybody grab the new jukebox art without any menu ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jdb0q8rt6zzb1.png' alt='I haven't seen anybody grab the new jukebox art without any menu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2140">
+                                <meta itemprop="height" content="1204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jdb0q8rt6zzb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Kart 8 Deluxe Booster Course Pass - Review">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPECQ7HhUPzwZKHSkkGYMS5ERV0NKxh0YVh4dYzO_vbTW0l07KjGjTBt2Ytt1IyRbQTGngfOOHxALxbrUoPjEMYEVcvzh1Iln_4kze79ig_392QZ4PkFbz8BeuTa58WuStmka2NSjsSBRmNku1FcnJrCk_s4TCxJWt_8sTW4ftMyrM65qUN3ig6vd75vs/s1600/1600px-MK8D_Wii_Rainbow_Road_Scene_4.webp' alt='Mario Kart 8 Deluxe Booster Course Pass - Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Let's Talk About..." />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPECQ7HhUPzwZKHSkkGYMS5ERV0NKxh0YVh4dYzO_vbTW0l07KjGjTBt2Ytt1IyRbQTGngfOOHxALxbrUoPjEMYEVcvzh1Iln_4kze79ig_392QZ4PkFbz8BeuTa58WuStmka2NSjsSBRmNku1FcnJrCk_s4TCxJWt_8sTW4ftMyrM65qUN3ig6vd75vs/s1600/1600px-MK8D_Wii_Rainbow_Road_Scene_4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Kart™ 8 Deluxe for Nintendo Switch™ – Official Site">
+                                <img itemprop="contentUrl url" src='https://mariokart8.nintendo.com/assets/img/courses/mushroom_01-lg.jpg' alt='Mario Kart™ 8 Deluxe for Nintendo Switch™ – Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo" />
+                                </span>
+                                <a href='https://mariokart8.nintendo.com/assets/img/courses/mushroom_01-lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Kart 8 Review – Not the Blue Shell!">
+                                <img itemprop="contentUrl url" src='https://www.theouterhaven.net/wp-content/uploads/2014/08/Mario-Kart-background1.jpg' alt='Mario Kart 8 Review – Not the Blue Shell!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Outerhaven" />
+                                </span>
+                                <a href='https://www.theouterhaven.net/wp-content/uploads/2014/08/Mario-Kart-background1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Switch Mario Kart 8 Deluxe: Definitive Racing Edition ...">
+                                <img itemprop="contentUrl url" src='https://content.syndigo.com/asset/a0f58df7-dbc9-4c47-9996-cdcba60fcee5/960.png' alt='Nintendo Switch Mario Kart 8 Deluxe: Definitive Racing Edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://content.syndigo.com/asset/a0f58df7-dbc9-4c47-9996-cdcba60fcee5/960.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Mario Kart City Tracks In Mario Kart 8, Ranked Worst To Best">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/mario-kart-luigi.jpg' alt='All Mario Kart City Tracks In Mario Kart 8, Ranked Worst To Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/mario-kart-luigi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

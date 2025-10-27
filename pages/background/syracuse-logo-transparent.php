@@ -1,0 +1,129 @@
+<title>Download Transparent Syracuse Logo for Design Use</title>
+                    <meta name="description" content="Discover the Syracuse logo in a transparent format, perfect for your creative projects. This iconic emblem is ideal for digital designs, merchandise, and branding. Easily integrate the Syracuse logo into your work while maintaining its vibrant identity. Download now for seamless application!">
+                    <meta name="keywords" content="syracuse logo transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/syracuse-logo-transparent">
+                            <span itemprop="name">syracuse logo transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Transparent Syracuse Logo for Design Use</h1>
+                <p>Syracuse University’s logo, known for its bold orange color, is a prominent symbol in collegiate athletics. A transparent version of the Syracuse logo allows for versatile usage across various media, blending seamlessly into designs. Ideal for merchandise, graphics, and digital projects, this logo maintains brand integrity while enhancing visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Syracuse Orange logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Syracuse_Orange_logo.svg/1200px-Syracuse_Orange_logo.svg.png' alt='File:Syracuse Orange logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Syracuse_Orange_logo.svg/1200px-Syracuse_Orange_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Orange Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2021/07/Syracuse-Orange-logo.png' alt='Syracuse Orange Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2021/07/Syracuse-Orange-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse University Logo - Syracuse University Logo - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181112/hhj/kisspng-syracuse-clip-art-logo-line-product-5bea06212a86c4.0210684015420636491742.jpg' alt='Syracuse University Logo - Syracuse University Logo - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181112/hhj/kisspng-syracuse-clip-art-logo-line-product-5bea06212a86c4.0210684015420636491742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LogoSource | syracuse logo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fa6e9e246f0314b3ff94cd_syracuse%20logo.png' alt='LogoSource | syracuse logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoSource" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fa6e9e246f0314b3ff94cd_syracuse%20logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Orange Svg, Logo Ncaa Sport Svg, Ncaa Svg, Png, Dxf, Eps ...">
+                                <img itemprop="contentUrl url" src='https://dreamsvg.com/cdn/shop/products/mockup-final-Syracuse-Orange.jpg?crop=center&height=1844&v=1663901060&width=1844' alt='Syracuse Orange Svg, Logo Ncaa Sport Svg, Ncaa Svg, Png, Dxf, Eps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1844">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamsvg" />
+                                </span>
+                                <a href='https://dreamsvg.com/cdn/shop/products/mockup-final-Syracuse-Orange.jpg?crop=center&height=1844&v=1663901060&width=1844' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Orangemen Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/thumbs/2x/syracuse-orangemen-logo.png' alt='Syracuse Orangemen Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/thumbs/2x/syracuse-orangemen-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Orange png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/917/817/png-clipart-syracuse-orange-men-s-basketball-carrier-dome-syracuse-orange-football-otto-the-orange-georgetown-hoyas-men-s-basketball-university-angle-text-thumbnail.png' alt='Syracuse Orange png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/917/817/png-clipart-syracuse-orange-men-s-basketball-carrier-dome-syracuse-orange-football-otto-the-orange-georgetown-hoyas-men-s-basketball-university-angle-text-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Letter S - Orange Letter S Symbol - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180626/ppw/aay4mgrvk.webp' alt='Orange Letter S - Orange Letter S Symbol - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180626/ppw/aay4mgrvk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3 Inch Syracuse Orange S Logo w/Blue Outline ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/31aZq+vV+OL.jpg' alt='Amazon.com: 3 Inch Syracuse Orange S Logo w/Blue Outline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/31aZq+vV+OL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse University Logo PNG Vector (SVG) Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/47/2/syracuse-university-logo-png_seeklogo-474984.png' alt='Syracuse University Logo PNG Vector (SVG) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/47/2/syracuse-university-logo-png_seeklogo-474984.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

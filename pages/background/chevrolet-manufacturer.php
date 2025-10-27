@@ -1,0 +1,129 @@
+<title>Chevrolet: Innovating the Future of Driving</title>
+                    <meta name="description" content="Explore Chevrolet, a leader in the automotive industry since 1911, renowned for its reliable vehicles, including trucks, SUVs, and electric models. Discover how Chevrolet combines innovation and performance to create cars that drivers love. Join the journey towards a technologically advanced and eco-friendly future with Chevrolet.">
+                    <meta name="keywords" content="chevrolet manufacturer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chevrolet-manufacturer">
+                            <span itemprop="name">chevrolet manufacturer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chevrolet: Innovating the Future of Driving</h1>
+                <p>Chevrolet, a division of General Motors, has been a staple in the automotive industry since its founding in 1911. Known for producing reliable vehicles, Chevrolet offers a diverse lineup, including trucks, SUVs, and electric vehicles. With a commitment to innovation and performance, Chevrolet continues to be a favorite among drivers worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chevrolet - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg' alt='Chevrolet - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2243">
+                                <meta itemprop="height" content="1524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Are Chevy Trucks Made?">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/presto/2021/06/15/PDTF/56ef45d3-a369-4e3d-a57b-1e2bf4d92e25-GMFlintSilverado44_5.jpg' alt='Where Are Chevy Trucks Made?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DELLA Chevrolet" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/presto/2021/06/15/PDTF/56ef45d3-a369-4e3d-a57b-1e2bf4d92e25-GMFlintSilverado44_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where is the Chevy Trax Made?">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/presto/2020/02/27/PDTF/12fd2c9a-070a-4a15-9ec9-a77c8e903791-Last_Impala.jpg' alt='Where is the Chevy Trax Made?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christopher Chevrolet" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/presto/2020/02/27/PDTF/12fd2c9a-070a-4a15-9ec9-a77c8e903791-Last_Impala.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Are Chevy Trucks Made?">
+                                <img itemprop="contentUrl url" src='https://image.cnbcfm.com/api/v1/image/106837697-1612883564950-GMFairfax05.jpg' alt='Where Are Chevy Trucks Made?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DELLA Chevrolet" />
+                                </span>
+                                <a href='https://image.cnbcfm.com/api/v1/image/106837697-1612883564950-GMFairfax05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GM Production Status">
+                                <img itemprop="contentUrl url" src='https://gmauthority.com/blog/wp-content/uploads/2021/05/Production-of-the-next-Chevrolet-compact-pickup-at-the-S%C3%A3o-Caetano-do-Sul-plant-Brazil-001.jpg' alt='GM Production Status'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Authority" />
+                                </span>
+                                <a href='https://gmauthority.com/blog/wp-content/uploads/2021/05/Production-of-the-next-Chevrolet-compact-pickup-at-the-S%C3%A3o-Caetano-do-Sul-plant-Brazil-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oakland Assembly - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/74/Oakland_Chevrolet_factory_c.1917.jpg' alt='Oakland Assembly - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2270">
+                                <meta itemprop="height" content="1398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/74/Oakland_Chevrolet_factory_c.1917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GM investing $300 million to build a new electric Chevy in the US ...">
+                                <img itemprop="contentUrl url" src='https://techcrunch.com/wp-content/uploads/2019/03/OrionAssembly02.jpg' alt='GM investing $300 million to build a new electric Chevy in the US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechCrunch" />
+                                </span>
+                                <a href='https://techcrunch.com/wp-content/uploads/2019/03/OrionAssembly02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flint Assembly | Michigan | General Motors">
+                                <img itemprop="contentUrl url" src='https://www.gm.com/content/dam/company/img/us/en/gmcom/facility/flint-assembly/4-GMFlintSilverado55.jpg' alt='Flint Assembly | Michigan | General Motors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="General Motors" />
+                                </span>
+                                <a href='https://www.gm.com/content/dam/company/img/us/en/gmcom/facility/flint-assembly/4-GMFlintSilverado55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Chevrolet Factory Building Best Silverado Trucks from Scratch">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HuhXvaP7omU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBC7TbTz1rF1CaWqMF91U0o01ZbmQ' alt='Inside Chevrolet Factory Building Best Silverado Trucks from Scratch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HuhXvaP7omU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBC7TbTz1rF1CaWqMF91U0o01ZbmQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GM to extend Chevrolet Bolt plant shutdown by three weeks | Reuters">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6GPNOM45KBFDFDMUS4RWSCXQ.jpg' alt='GM to extend Chevrolet Bolt plant shutdown by three weeks | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3594">
+                                <meta itemprop="height" content="2607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6GPNOM45KBFDFDMUS4RWSCXQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

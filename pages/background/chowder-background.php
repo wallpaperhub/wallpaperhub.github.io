@@ -1,0 +1,129 @@
+<title>Delicious Chowder: A Comforting Culinary Experience</title>
+                    <meta name="description" content="Discover the rich history of chowder, a creamy soup that warms hearts and palates. Explore classic New England recipes featuring clams, potatoes, and more. Savor the comforting flavors that have made chowder a beloved dish for generations. Perfect for cozy gatherings and chilly evenings!">
+                    <meta name="keywords" content="chowder background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chowder-background">
+                            <span itemprop="name">chowder background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Chowder: A Comforting Culinary Experience</h1>
+                <p>Chowder, a rich and creamy soup, has deep roots in early American cuisine, particularly in New England. Originating from traditional seafood recipes brought by sailors, chowder features ingredients like clams, potatoes, and cream. Its hearty warmth makes it a beloved comfort food, perfect for chilly days and communal dining.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Chowder Cartoon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/chowder-cartoon-marzipan-city-dlpumoplkbc6wx2j.jpg' alt='100+] Chowder Cartoon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/chowder-cartoon-marzipan-city-dlpumoplkbc6wx2j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COMMISH! Chowder Custom Background by LeagueOfRetiredEvil on ...">
+                                <img itemprop="contentUrl url" src='https://art.ngfiles.com/images/2935000/2935864_leagueofretiredevil_commish-chowder-custom-background.png?f1671601801' alt='COMMISH! Chowder Custom Background by LeagueOfRetiredEvil on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4069">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newgrounds.com" />
+                                </span>
+                                <a href='https://art.ngfiles.com/images/2935000/2935864_leagueofretiredevil_commish-chowder-custom-background.png?f1671601801' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream AppleWormGuy | Listen to Chowder Soundtrack playlist online ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000107456866-h1wopp-t500x500.jpg' alt='Stream AppleWormGuy | Listen to Chowder Soundtrack playlist online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000107456866-h1wopp-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chowder (2007) Picture Background by joseluislobatohumane ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fan-art-fun/images/5/5e/Chowder_%282007%29_Picture_Background_by_joseluislobatohumane.png/revision/latest/scale-to-width-down/296?cb=20230925222332' alt='Chowder (2007) Picture Background by joseluislobatohumane ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fan art Fun Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fan-art-fun/images/5/5e/Chowder_%282007%29_Picture_Background_by_joseluislobatohumane.png/revision/latest/scale-to-width-down/296?cb=20230925222332' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chowder Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/59/7d/87597d5f2966cec2f258cf1b96a9411e.jpg' alt='Chowder Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/59/7d/87597d5f2966cec2f258cf1b96a9411e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Chowder reanimated background by GeeGuy on Newgrounds">
+                                <img itemprop="contentUrl url" src='https://art.ngfiles.com/images/1537000/1537416_discoguyoyeah_my-chowder-reanimated-background.png?f1607533313' alt='My Chowder reanimated background by GeeGuy on Newgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newgrounds.com" />
+                                </span>
+                                <a href='https://art.ngfiles.com/images/1537000/1537416_discoguyoyeah_my-chowder-reanimated-background.png?f1607533313' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chowder Background by Zapzipap on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7739e530-0778-4b9e-8477-dc4dc59a9792/d77h4ij-5b9f7d76-b97a-4e80-a070-8c4663b1e01c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3MzllNTMwLTA3NzgtNGI5ZS04NDc3LWRjNGRjNTlhOTc5MlwvZDc3aDRpai01YjlmN2Q3Ni1iOTdhLTRlODAtYTA3MC04YzQ2NjNiMWUwMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iG4qV89Gk8McHSq52Ps35h6zsTpQv3BsYVGGR3tGK-k' alt='Chowder Background by Zapzipap on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7739e530-0778-4b9e-8477-dc4dc59a9792/d77h4ij-5b9f7d76-b97a-4e80-a070-8c4663b1e01c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3MzllNTMwLTA3NzgtNGI5ZS04NDc3LWRjNGRjNTlhOTc5MlwvZDc3aDRpai01YjlmN2Q3Ni1iOTdhLTRlODAtYTA3MC04YzQ2NjNiMWUwMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iG4qV89Gk8McHSq52Ps35h6zsTpQv3BsYVGGR3tGK-k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which Cartoon Has The Best Background or Set Design in Your ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/which-cartoon-has-the-best-background-or-set-design-in-your-v0-xa0pct47orce1.jpg?width=597&format=pjpg&auto=webp&s=7e9560e6515e75ff5477a6772b985d1e3fa55ceb' alt='Which Cartoon Has The Best Background or Set Design in Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/which-cartoon-has-the-best-background-or-set-design-in-your-v0-xa0pct47orce1.jpg?width=597&format=pjpg&auto=webp&s=7e9560e6515e75ff5477a6772b985d1e3fa55ceb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nerd Armada: Unused Chowder Background">
+                                <img itemprop="contentUrl url" src='http://photos1.blogger.com/blogger/5471/2379/1600/scene006.jpg' alt='Nerd Armada: Unused Chowder Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerd Armada" />
+                                </span>
+                                <a href='http://photos1.blogger.com/blogger/5471/2379/1600/scene006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/df/eb/6fdfeb25bb233d754b3050d526620a40.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/df/eb/6fdfeb25bb233d754b3050d526620a40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

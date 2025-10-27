@@ -1,0 +1,129 @@
+<title>Elevate Your Bathroom with Textured Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of bathroom textured wallpaper! Enhance your space with stylish, water-resistant designs that add depth and personality. Easy to install and maintain, our selection transforms your bathroom into a relaxing retreat. Explore endless patterns to find the perfect match for your decor today!">
+                    <meta name="keywords" content="bathroom textured wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/bathroom-textured-wallpaper">
+                            <span itemprop="name">bathroom textured wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Bathroom with Textured Wallpaper</h1>
+                <p>Transform your bathroom with stunning textured wallpaper that adds depth and character. Available in various patterns and materials, this versatile decor choice can elevate your space while providing water-resistant options for durability. Easy to install and maintain, textured wallpaper enhances aesthetic appeal and creates a cozy oasis.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE 32''x354'' Grey Grasscloth Wallpaper Textured Peel and Stick Faux  Grass Cloth Wallpaper Self Adhesive Grey Fabric Linen Wallpaper Removable  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Qv+kWY5bL.jpg' alt='VEELIKE 32''x354'' Grey Grasscloth Wallpaper Textured Peel and Stick Faux  Grass Cloth Wallpaper Self Adhesive Grey Fabric Linen Wallpaper Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Qv+kWY5bL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua Tree Wallpaper, Peel Stick, Removable Wallpaper for All ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/1afa43/5308010313/il_570xN.5308010313_3zmv.jpg' alt='Joshua Tree Wallpaper, Peel Stick, Removable Wallpaper for All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/1afa43/5308010313/il_570xN.5308010313_3zmv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper for Bathroom Textured Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/f73c55/5359251131/il_570xN.5359251131_r0k1.jpg' alt='Peel and Stick Wallpaper for Bathroom Textured Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/f73c55/5359251131/il_570xN.5359251131_r0k1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 15.8X197 Peel and Stick Grasscloth Wallpaper Textured Neutral  Beige Peel and Stick Wallpaper for Bathroom Bedroom Faux Grass Cloth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dM6Rc47eL.jpg' alt='Livelynine 15.8X197 Peel and Stick Grasscloth Wallpaper Textured Neutral  Beige Peel and Stick Wallpaper for Bathroom Bedroom Faux Grass Cloth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dM6Rc47eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?v=1666799200' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-507916.png?v=1666799200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brixton Light Texture Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/2964-25943_Room_75bc7650-55e5-4621-80a4-809a8b3cc53a.jpg?v=1722371998&width=2400' alt='Brixton Light Texture Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/2964-25943_Room_75bc7650-55e5-4621-80a4-809a8b3cc53a.jpg?v=1722371998&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper Ideas to Enhance Your Space | Robern">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e82c_63470975ff1577612b9725bf_%2540aspenleafinteriors-taper-lever%2520(1).jpeg' alt='Bathroom Wallpaper Ideas to Enhance Your Space | Robern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robern" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e82c_63470975ff1577612b9725bf_%2540aspenleafinteriors-taper-lever%2520(1).jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/dTnzxYz5X-tsmM7-N1iUTc6IMxA=/2335x0/filters:no_upscale():strip_icc()/102748021-a5e65e3fb8054b21a88f5383db0a2ea6.jpg' alt='37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2335">
+                                <meta itemprop="height" content="3560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/dTnzxYz5X-tsmM7-N1iUTc6IMxA=/2335x0/filters:no_upscale():strip_icc()/102748021-a5e65e3fb8054b21a88f5383db0a2ea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRE8TIVE Dark Grey Grasscloth Wallpaper Removable Textured Wallpaper Stick  and Peel Grasscloth Contact Paper for Cabinets Waterproof Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Tmj3GPv1L.jpg' alt='CRE8TIVE Dark Grey Grasscloth Wallpaper Removable Textured Wallpaper Stick  and Peel Grasscloth Contact Paper for Cabinets Waterproof Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Tmj3GPv1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Textured Bathroom Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2020/02/11/m_bathroom-gray-textured-wallpaper.jpg' alt='Teal Textured Bathroom Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2020/02/11/m_bathroom-gray-textured-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

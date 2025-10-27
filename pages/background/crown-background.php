@@ -1,0 +1,129 @@
+<title>"Elegant Crown Backgrounds for a Regal Touch"</title>
+                    <meta name="description" content="Discover stunning crown backgrounds that convey elegance and royalty. Perfect for branding, designs, or artistic projects, these visuals enhance your work with a prestigious touch. Explore our collection for the ideal crown backdrop to elevate your creative projects.">
+                    <meta name="keywords" content="crown background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crown-background">
+                            <span itemprop="name">crown background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Elegant Crown Backgrounds for a Regal Touch"</h1>
+                <p>Crown backgrounds symbolize power, royalty, and elegance. They often feature intricate designs and vibrant colors that capture attention, making them ideal for various uses. Whether for logos, personal branding, or artistic projects, a well-chosen crown background can convey prestige and sophistication, enhancing visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Crown Images – Browse 303,243 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/48/16/00/360_F_948160054_9B1rZdz1VhtefOjSpmSHxPQCGNeVidPD.jpg' alt='Pink Crown Images – Browse 303,243 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/48/16/00/360_F_948160054_9B1rZdz1VhtefOjSpmSHxPQCGNeVidPD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1415415347/vector/golden-seamless-crown-pattern-great-for-wrapping-textile-wallpaper-greeting-card.jpg?s=612x612&w=0&k=20&c=owrZm2MIqf2lX_Hj4UL4NIoYmcHBU-mJTG7UYHo0QGw=' alt='53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1415415347/vector/golden-seamless-crown-pattern-great-for-wrapping-textile-wallpaper-greeting-card.jpg?s=612x612&w=0&k=20&c=owrZm2MIqf2lX_Hj4UL4NIoYmcHBU-mJTG7UYHo0QGw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Blue Crown Stock Illustrations – 27,894 Background Blue ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/immerse-yourself-captivating-abstract-design-inspired-principality-liechtenstein-dynamic-background-showcases-353320522.jpg' alt='Background Blue Crown Stock Illustrations – 27,894 Background Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/immerse-yourself-captivating-abstract-design-inspired-principality-liechtenstein-dynamic-background-showcases-353320522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-crown-background_23-2150962220.jpg' alt='Crown Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-crown-background_23-2150962220.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="78 Prince Crown Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2027526206/vector/seamless-background-with-royal-golden-crowns.jpg?s=612x612&w=gi&k=20&c=sZNLMde3iKD3EJXTz_eIeWdIJXTQhydmDqJ5qiC3MpM=' alt='78 Prince Crown Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2027526206/vector/seamless-background-with-royal-golden-crowns.jpg?s=612x612&w=gi&k=20&c=sZNLMde3iKD3EJXTz_eIeWdIJXTQhydmDqJ5qiC3MpM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1144180728/vector/sketch-crown-pattern-seamless-print-texture-girl-princess-crowns-luxury-royal-corona.jpg?s=612x612&w=0&k=20&c=4_ZvG7n9iw67DSUhYdSbV3PWQfADpOJOq2I7sSttzVs=' alt='53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1144180728/vector/sketch-crown-pattern-seamless-print-texture-girl-princess-crowns-luxury-royal-corona.jpg?s=612x612&w=0&k=20&c=4_ZvG7n9iw67DSUhYdSbV3PWQfADpOJOq2I7sSttzVs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Crown Background Images – Browse 201,454 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/12/87/42/360_F_1012874257_F9vkXtaukP5gCAEnUVFb24tkdKzH6d1i.jpg' alt='Gold Crown Background Images – Browse 201,454 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/12/87/42/360_F_1012874257_F9vkXtaukP5gCAEnUVFb24tkdKzH6d1i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Best Crown background ideas | crown background, queens ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/4d/b0/a54db00edb59cbb772c389e88985281c.jpg' alt='11 Best Crown background ideas | crown background, queens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/4d/b0/a54db00edb59cbb772c389e88985281c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/834314164/vector/seamless-pattern-in-retro-style-with-a-gold-crown-on-a-white-background-can-be-used-for.jpg?s=612x612&w=0&k=20&c=vq7TGIqMAWWrD6c-houJbl9Y59vVeSiwdscrwgQaPU8=' alt='53,300+ Crown Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/834314164/vector/seamless-pattern-in-retro-style-with-a-gold-crown-on-a-white-background-can-be-used-for.jpg?s=612x612&w=0&k=20&c=vq7TGIqMAWWrD6c-houJbl9Y59vVeSiwdscrwgQaPU8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/175/967/small_2x/majestic-crown-background-generate-ai-photo.jpg' alt='Crown Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/175/967/small_2x/majestic-crown-background-generate-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

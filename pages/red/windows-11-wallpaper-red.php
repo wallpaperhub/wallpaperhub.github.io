@@ -1,0 +1,129 @@
+<title>Vibrant Red Wallpapers for Windows 11</title>
+                    <meta name="description" content="Discover a curated collection of vibrant red wallpapers for Windows 11. Perfect for personalizing your desktop, these high-quality images will brighten your workspace and elevate your productivity. Download your favorite red-themed wallpaper today and make your Windows 11 experience stand out!">
+                    <meta name="keywords" content="windows 11 wallpaper red">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/windows-11-wallpaper-red">
+                            <span itemprop="name">windows 11 wallpaper red</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Wallpapers for Windows 11</h1>
+                <p>Transform your digital space with stunning Windows 11 wallpapers in vibrant shades of red. Perfect for adding a pop of color to your desktop, these striking visuals can enhance your productivity and mood. Explore a collection of high-resolution red-themed wallpapers that reflect your personal style and energize your workspace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Red abstract, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-stock-red-abstract-black-background-amoled-2048x2048-9058.jpg' alt='Windows 11 Wallpaper 4K, Red abstract, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-stock-red-abstract-black-background-amoled-2048x2048-9058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Win11 default wallpapers but they're red now : r/Windows11">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/w1r5kd3txtk81.png?width=1080&crop=smart&auto=webp&s=cc26339862dd9531981a4d784e71d505898b9774' alt='Win11 default wallpapers but they're red now : r/Windows11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/w1r5kd3txtk81.png?width=1080&crop=smart&auto=webp&s=cc26339862dd9531981a4d784e71d505898b9774' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Windows 11 Logo Windows 11, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/222/357/HD-wallpaper-red-windows-11-logo-windows-11.jpg' alt='Red Windows 11 Logo Windows 11, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/222/357/HD-wallpaper-red-windows-11-logo-windows-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Windows 11 Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-gradient-windows-11-logo-azjqsl7u8r14o428.jpg' alt='Red Gradient Windows 11 Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-gradient-windows-11-logo-azjqsl7u8r14o428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Dark mode Red and Yellow [3440x1440] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/14073nzpby671.png' alt='Windows 11 Dark mode Red and Yellow [3440x1440] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/14073nzpby671.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a red Windows 11 wallpaper.    : r/Windows11">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-red-windows-11-wallpaper-v0-lcnxc8d6ct9e1.jpeg?width=3840&format=pjpg&auto=webp&s=351c10df2b201983096ed46c61746309724c91e6' alt='I made a red Windows 11 wallpaper.    : r/Windows11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-red-windows-11-wallpaper-v0-lcnxc8d6ct9e1.jpeg?width=3840&format=pjpg&auto=webp&s=351c10df2b201983096ed46c61746309724c91e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/dd/18/8fdd18b1fe2ec2b23f66b8d1d5f10fd2.jpg' alt='Windows 11 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/dd/18/8fdd18b1fe2ec2b23f66b8d1d5f10fd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 4k Red Circuit Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/windows-11-4k-red-circuit-auz63qtegp255mvm.jpg' alt='Windows 11 4k Red Circuit Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/windows-11-4k-red-circuit-auz63qtegp255mvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Ultrawide, Pastel pink">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-3840x1080-10675.png' alt='Windows 11 Wallpaper 4K, Ultrawide, Pastel pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-3840x1080-10675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Abstract Orange Bloom 4K Wallpaper - Download Free 4K ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/wp-content/uploads/2023/05/Windows-11-Abstract-Orange-Bloom-4K-Wallpaper-1081x608.jpg' alt='Windows 11 Abstract Orange Bloom 4K Wallpaper - Download Free 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/wp-content/uploads/2023/05/Windows-11-Abstract-Orange-Bloom-4K-Wallpaper-1081x608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

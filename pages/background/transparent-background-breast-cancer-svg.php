@@ -1,0 +1,129 @@
+<title>Breast Cancer Awareness SVG - Transparent Background Designs</title>
+                    <meta name="description" content="Discover high-quality, transparent background breast cancer SVG files perfect for raising awareness and supporting breast cancer initiatives. Ideal for t-shirts, flyers, and digital projects, these customizable designs help you convey your message with clarity and style.">
+                    <meta name="keywords" content="transparent background breast cancer svg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-breast-cancer-svg">
+                            <span itemprop="name">transparent background breast cancer svg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Breast Cancer Awareness SVG - Transparent Background Designs</h1>
+                <p>Transparent background breast cancer SVG graphics are essential tools for raising awareness and supporting breast cancer initiatives. These versatile images can be used in various design projects like t-shirts, flyers, and digital campaigns. With a transparent background, they seamlessly blend into any design while promoting breast cancer awareness with style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Words Ribbon Symbol PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/183368/isolated/svg/21e38df41a19ecc61abf69c04812bcf1.svg' alt='Breast Cancer Words Ribbon Symbol PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/183368/isolated/svg/21e38df41a19ecc61abf69c04812bcf1.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Survivor SVG, Breast Cancer Awareness PNG, Digital  Download/Cut Files, Sublimation, Clipart (6 svg/dxf/png/jpeg files)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10167696/r/il/75e4e0/5066559886/il_570xN.5066559886_cake.jpg' alt='Breast Cancer Survivor SVG, Breast Cancer Awareness PNG, Digital  Download/Cut Files, Sublimation, Clipart (6 svg/dxf/png/jpeg files)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10167696/r/il/75e4e0/5066559886/il_570xN.5066559886_cake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Think Pink Ribbon PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/188349/isolated/preview/ec1c03e85a02025058fd8c293b48a5b8-breast-cancer-think-pink-ribbon.png' alt='Breast Cancer Think Pink Ribbon PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/188349/isolated/preview/ec1c03e85a02025058fd8c293b48a5b8-breast-cancer-think-pink-ribbon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Pink Ribbon | Breast Cancer SVG Design">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/breast-cancer-ribbon-03-4067ccef5851ac31d96b9b847799bf1e72e683fb9a502970758659cc347dbcd1.jpg' alt='Breast Cancer Pink Ribbon | Breast Cancer SVG Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/breast-cancer-ribbon-03-4067ccef5851ac31d96b9b847799bf1e72e683fb9a502970758659cc347dbcd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stronger Than Cancer - Breast Cancer Awareness SVG">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/stronger-than-cancer-svg-file-094f3be3c059a77f228f69fe6bb3fe91dc1f00aa675c304dad5eb95445d9785e.jpg' alt='Stronger Than Cancer - Breast Cancer Awareness SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/stronger-than-cancer-svg-file-094f3be3c059a77f228f69fe6bb3fe91dc1f00aa675c304dad5eb95445d9785e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back the pink, Breast Cancer Awareness free svg file - SVG Heart">
+                                <img itemprop="contentUrl url" src='https://www.svgheart.com/wp-content/uploads/2023/02/backthepink_620-430-min.png' alt='Back the pink, Breast Cancer Awareness free svg file - SVG Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG Heart" />
+                                </span>
+                                <a href='https://www.svgheart.com/wp-content/uploads/2023/02/backthepink_620-430-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer SVG Bundle | Cancer Awareness Designs">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/plus-preview-breast-cancer2-a1ca5506fe29c177b9bc2bed564511b2a7f79ad7b9aadbfc2998c38588e9cf30.jpg' alt='Breast Cancer SVG Bundle | Cancer Awareness Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/plus-preview-breast-cancer2-a1ca5506fe29c177b9bc2bed564511b2a7f79ad7b9aadbfc2998c38588e9cf30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Survivor Breast Cancer Ribbon SVG, Breast Cancer svg, Cancer Awareness Svg,  Ribbon Svg, Breast Cancer png, Svg cut file to use for Cricut">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29076327/r/il/11fdec/3381717711/il_570xN.3381717711_1eft.jpg' alt='Survivor Breast Cancer Ribbon SVG, Breast Cancer svg, Cancer Awareness Svg,  Ribbon Svg, Breast Cancer png, Svg cut file to use for Cricut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29076327/r/il/11fdec/3381717711/il_570xN.3381717711_1eft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancer Awareness SVG Bundle, Breast Cancer Svg Png By ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4007704_k7hrs9cup8d4c4eync72e9x0ohbj28rrw1fdcigw_cancer-awareness-svg-bundle-breast-cancer-svg-png.jpg' alt='Cancer Awareness SVG Bundle, Breast Cancer Svg Png By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4007704_k7hrs9cup8d4c4eync72e9x0ohbj28rrw1fdcigw_cancer-awareness-svg-bundle-breast-cancer-svg-png.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Awareness Month PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/184678/isolated/preview/d98eb9cb382dc2b156220a21f6333785-breast-cancer-awareness-month.png' alt='Breast Cancer Awareness Month PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/184678/isolated/preview/d98eb9cb382dc2b156220a21f6333785-breast-cancer-awareness-month.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

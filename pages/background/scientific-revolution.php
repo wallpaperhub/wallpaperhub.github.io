@@ -1,0 +1,129 @@
+<title>Understanding the Scientific Revolution: Transformative Ideas</title>
+                    <meta name="description" content="Explore the Scientific Revolution's impact on modern thought. Discover how key figures like Copernicus and Newton reshaped our understanding of the universe through innovation and scientific inquiry. Unlock the significance of this pivotal era in shaping contemporary science and philosophy.">
+                    <meta name="keywords" content="scientific revolution">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scientific-revolution">
+                            <span itemprop="name">scientific revolution</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Scientific Revolution: Transformative Ideas</h1>
+                <p>The Scientific Revolution, spanning the 16th to 18th centuries, transformed the way humanity understood the natural world. Groundbreaking thinkers like Copernicus, Galileo, and Newton challenged traditional beliefs, laying the groundwork for modern science. This era emphasized observation and experimentation, ultimately revolutionizing disciplines such as astronomy, physics, and biology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg' alt='Scientific Revolution - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of science: The crucible of change | Nature">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2F524412a/MediaObjects/41586_2015_Article_BF524412a_Figa_HTML.jpg' alt='History of science: The crucible of change | Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="823">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2F524412a/MediaObjects/41586_2015_Article_BF524412a_Figa_HTML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Scientific Revolution - Historic UK">
+                                <img itemprop="contentUrl url" src='https://www.historic-uk.com/wp-content/uploads/2020/04/scientific-enlightenment-1-scaled.jpg' alt='The Scientific Revolution - Historic UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Historic UK" />
+                                </span>
+                                <a href='https://www.historic-uk.com/wp-content/uploads/2020/04/scientific-enlightenment-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution | Definition, History, Scientists ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/77/136777-050-687FCA21/system-Copernican-engraving-French.jpg' alt='Scientific Revolution | Definition, History, Scientists ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1482">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/77/136777-050-687FCA21/system-Copernican-engraving-French.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honor Galileo and the Heroes of the Scientific Revolution | Gale ...">
+                                <img itemprop="contentUrl url" src='https://blog.gale.com/wp-content/uploads/2023/12/iStock-1456391854.jpg' alt='Honor Galileo and the Heroes of the Scientific Revolution | Gale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gale Blog" />
+                                </span>
+                                <a href='https://blog.gale.com/wp-content/uploads/2023/12/iStock-1456391854.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution | Definition, History, Scientists ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/82/7782-004-831501EF/Engraving-Nicolaus-Copernicus-solar-system-illustration-De.jpg' alt='Scientific Revolution | Definition, History, Scientists ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/82/7782-004-831501EF/Engraving-Nicolaus-Copernicus-solar-system-illustration-De.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/uploads/images/18039.png' alt='Scientific Revolution - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1361">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/uploads/images/18039.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution • Darwin, Then and Now">
+                                <img itemprop="contentUrl url" src='https://www.darwinthenandnow.com/scientific-revolution/galileo-telescope-ii/' alt='Scientific Revolution • Darwin, Then and Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Darwin, Then and Now" />
+                                </span>
+                                <a href='https://www.darwinthenandnow.com/scientific-revolution/galileo-telescope-ii/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scientific Revolution - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1200x900/18023.png' alt='Scientific Revolution - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1200x900/18023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Scientific Revolution | Brief History of the World Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/brief-history-of-the-world/images/8/82/Scientific_revolution.jpg/revision/latest/scale-to-width-down/284?cb=20180110201453' alt='Early Scientific Revolution | Brief History of the World Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brief History of the World Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/brief-history-of-the-world/images/8/82/Scientific_revolution.jpg/revision/latest/scale-to-width-down/284?cb=20180110201453' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

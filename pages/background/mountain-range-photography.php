@@ -1,0 +1,129 @@
+<title>Stunning Mountain Range Photography: Capture Nature's Majesty</title>
+                    <meta name="description" content="Explore the breathtaking world of mountain range photography. Learn tips for capturing stunning landscapes, perfect lighting, and techniques to showcase nature's majesty in your shots. Transform your photography skills and share the beauty of mountains with the world!">
+                    <meta name="keywords" content="mountain range photography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mountain-range-photography">
+                            <span itemprop="name">mountain range photography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mountain Range Photography: Capture Nature's Majesty</h1>
+                <p>Mountain range photography captures the majestic beauty and grandeur of nature. From the rugged peaks to the serene valleys, the interplay of light and shadow adds depth to every shot. Utilizing golden hour for stunning sunsets or misty mornings enhances the mood, creating breathtaking images that showcase the vibrant colors and textures of the mountains.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountains | Fine Art Mountain Photography | Scott Smorra">
+                                <img itemprop="contentUrl url" src='https://www.scottsmorraphotography.com/images/xl/North-Cascades-Sahale-Arm-Autumn-Sunrise.jpg' alt='Mountains | Fine Art Mountain Photography | Scott Smorra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott Smorra" />
+                                </span>
+                                <a href='https://www.scottsmorraphotography.com/images/xl/North-Cascades-Sahale-Arm-Autumn-Sunrise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn How To Take Great Photos of Mountains From a Pro">
+                                <img itemprop="contentUrl url" src='https://media.worldnomads.com/learnimages/2019/newimages/Annapurna_120919-402.jpg' alt='Learn How To Take Great Photos of Mountains From a Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Nomads" />
+                                </span>
+                                <a href='https://media.worldnomads.com/learnimages/2019/newimages/Annapurna_120919-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Mountain Landscape Photography – PhotoPXL">
+                                <img itemprop="contentUrl url" src='https://photopxl.com/pxl-content/uploads/2019/06/1.-Title-Image-22Western-Mountain-Landscape-Photography22.jpg' alt='Western Mountain Landscape Photography – PhotoPXL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoPXL" />
+                                </span>
+                                <a href='https://photopxl.com/pxl-content/uploads/2019/06/1.-Title-Image-22Western-Mountain-Landscape-Photography22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Photography, Fine Art Prints, and Photos | Jess Lee ...">
+                                <img itemprop="contentUrl url" src='https://www.jessleephotos.com/images/640/Cathedral-Group.jpg' alt='Mountain Photography, Fine Art Prints, and Photos | Jess Lee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jess Lee Photography" />
+                                </span>
+                                <a href='https://www.jessleephotos.com/images/640/Cathedral-Group.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Take Better Mountainscape Photographs - Western Hunter">
+                                <img itemprop="contentUrl url" src='https://westernhunter.net/wp-content/smush-webp/2019/04/My-project.jpg.webp' alt='How to Take Better Mountainscape Photographs - Western Hunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Hunter" />
+                                </span>
+                                <a href='https://westernhunter.net/wp-content/smush-webp/2019/04/My-project.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Photography Tips - Part 1 // Photography Tips — Alpine ...">
+                                <img itemprop="contentUrl url" src='https://dzw78fmztbjp3.cloudfront.net/_1900x1400_fit_center-center/MG_6432_1.jpg?mtime=20160118142428' alt='Mountain Photography Tips - Part 1 // Photography Tips — Alpine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpine Exposures" />
+                                </span>
+                                <a href='https://dzw78fmztbjp3.cloudfront.net/_1900x1400_fit_center-center/MG_6432_1.jpg?mtime=20160118142428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountains | Fine Art Mountain Photography | Scott Smorra">
+                                <img itemprop="contentUrl url" src='https://www.scottsmorraphotography.com/images/xl/North-Cascades-Mountain-Ridges-Layers-Sunset.jpg' alt='Mountains | Fine Art Mountain Photography | Scott Smorra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott Smorra" />
+                                </span>
+                                <a href='https://www.scottsmorraphotography.com/images/xl/North-Cascades-Mountain-Ridges-Layers-Sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Mountain Photography Tips for more Impactful Images">
+                                <img itemprop="contentUrl url" src='https://cdn.visualwilderness.com/wp-content/uploads/2019/12/Norway-Landscape-Photography-3.jpg' alt='6 Mountain Photography Tips for more Impactful Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visual Wilderness" />
+                                </span>
+                                <a href='https://cdn.visualwilderness.com/wp-content/uploads/2019/12/Norway-Landscape-Photography-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Photography Gallery of Landscape Pictures - Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.josephfiler.com/images/xl/Canada-Mount-Assinibline-Fall-Color-10218.jpg' alt='Mountain Photography Gallery of Landscape Pictures - Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joseph Filer" />
+                                </span>
+                                <a href='https://www.josephfiler.com/images/xl/Canada-Mount-Assinibline-Fall-Color-10218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pacific Northwest Mountains Gallery — Lucas Cometto | Wilderness ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56900294e0327c6f33e990df/c742dbe2-8c12-4d6c-9b8d-1398fbf182fb/_DSC0601.jpeg' alt='Pacific Northwest Mountains Gallery — Lucas Cometto | Wilderness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lucas Cometto | Wilderness Landscape Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56900294e0327c6f33e990df/c742dbe2-8c12-4d6c-9b8d-1398fbf182fb/_DSC0601.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

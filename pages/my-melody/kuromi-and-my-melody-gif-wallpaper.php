@@ -1,0 +1,129 @@
+<title>Adorable Kuromi & My Melody GIF Wallpapers</title>
+                    <meta name="description" content="Discover charming Kuromi and My Melody GIF wallpapers for your device! Perfect for fans of Sanrio, these fun animated backgrounds elevate your screen with vibrant designs and playful themes. Enjoy the whimsical world of these beloved characters today!">
+                    <meta name="keywords" content="kuromi and my melody gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/kuromi-and-my-melody-gif-wallpaper">
+                            <span itemprop="name">kuromi and my melody gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kuromi & My Melody GIF Wallpapers</h1>
+                <p>Decorate your device with adorable Kuromi and My Melody GIF wallpapers! These charming designs bring a playful mix of Kuromi's mischievous energy and My Melody's sweet charm, perfect for fans of Sanrio. Brighten your screens with animated wallpapers that showcase their friendship and delightful aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio My Melody GIF - Sanrio My Melody Kuromi - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/53/a4/06/53a406980e4004d3df4ec2f708134d2c.gif' alt='Sanrio My Melody GIF - Sanrio My Melody Kuromi - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/53/a4/06/53a406980e4004d3df4ec2f708134d2c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b8/98/25/b898251a1c6bfcc8c1286fdb72e997b8.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b8/98/25/b898251a1c6bfcc8c1286fdb72e997b8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  my melody and kuromi   - Free animated GIF - PicMix">
+                                <img itemprop="contentUrl url" src='https://en.picmix.com/pic/download?picId=10625369&key=fcdf4' alt='  my melody and kuromi   - Free animated GIF - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://en.picmix.com/pic/download?picId=10625369&key=fcdf4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hellokitty Kuromi GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/pHZPKoGjHvYAAAAM/punydoll-dieticia-i.gif' alt='Hellokitty Kuromi GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/pHZPKoGjHvYAAAAM/punydoll-dieticia-i.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kyrz — My Melody And Kuromi">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/a32f3a78caf42702a370c7a3953dee92/7613474c8b0cbdff-5d/s400x600/ab46e4173c74d75492bdbfc3fa5ce43c918976b0.gif' alt='kyrz — My Melody And Kuromi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kyrz - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/a32f3a78caf42702a370c7a3953dee92/7613474c8b0cbdff-5d/s400x600/ab46e4173c74d75492bdbfc3fa5ce43c918976b0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/05/icegif-505.gif' alt='Kuromi Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/05/icegif-505.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody Kuromi sanrio - Free animated GIF - PicMix">
+                                <img itemprop="contentUrl url" src='https://en.picmix.com/pic/download?picId=11996880&key=675eb' alt='My melody Kuromi sanrio - Free animated GIF - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://en.picmix.com/pic/download?picId=11996880&key=675eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi And Melody Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/16/79/06/167906f3036a9f0c7c911498e56ecf18.gif' alt='Kuromi And Melody Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/16/79/06/167906f3036a9f0c7c911498e56ecf18.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody & Kuromi | Hello.Pixel | Flickr">
+                                <img itemprop="contentUrl url" src='https://farm4.static.flickr.com/3082/2766743402_5e96b9e25e_o.gif' alt='My Melody & Kuromi | Hello.Pixel | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://farm4.static.flickr.com/3082/2766743402_5e96b9e25e_o.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi And Melody Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/07/icegif-154.gif' alt='Kuromi And Melody Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/07/icegif-154.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

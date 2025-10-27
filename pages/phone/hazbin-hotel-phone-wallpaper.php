@@ -1,0 +1,129 @@
+<title>Vibrant Hazbin Hotel Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover the best Hazbin Hotel phone wallpapers to personalize your device! Choose from a variety of colorful and dynamic designs featuring beloved characters. Perfect for true fans, these wallpapers will make your phone stand out. Download now and show your love for Hazbin Hotel!">
+                    <meta name="keywords" content="hazbin hotel phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/hazbin-hotel-phone-wallpaper">
+                            <span itemprop="name">hazbin hotel phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hazbin Hotel Phone Wallpapers for Fans</h1>
+                <p>Enhance your phone's look with stunning Hazbin Hotel wallpapers! Dive into the vibrant world of Hell and explore awesome designs featuring your favorite characters like Charlie, Alastor, and Angel Dust. Perfect for fans of the series, these wallpapers bring your screen to life with vivid colors and unique styles. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-ql5p9n0jgigc1.jpg?width=1170&format=pjpg&auto=webp&s=f734aa0e1291303d6cca6b9b12f7a6a481a02d10' alt='Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-ql5p9n0jgigc1.jpg?width=1170&format=pjpg&auto=webp&s=f734aa0e1291303d6cca6b9b12f7a6a481a02d10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-v0-th7jle4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=e78211ccd2976782d51503290875e2bf83cf2e7f' alt='I made some phone wallpapers : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-v0-th7jle4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=e78211ccd2976782d51503290875e2bf83cf2e7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-mg1poqinxigc1.jpeg?width=720&format=pjpg&auto=webp&s=cf99f233cb77de4be7345b671c3d48770fc18477' alt='Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-mg1poqinxigc1.jpeg?width=720&format=pjpg&auto=webp&s=cf99f233cb77de4be7345b671c3d48770fc18477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-v0-chpn2h4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=ecd15f9d33f927d7bcb1fde6cb04fd146b10535e' alt='I made some phone wallpapers : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-v0-chpn2h4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=ecd15f9d33f927d7bcb1fde6cb04fd146b10535e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new wallpaper on my phone. : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qkg1um5b9e861.png' alt='My new wallpaper on my phone. : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1401">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qkg1um5b9e861.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download) Hazbin Hotel Panorama WALLPAPER (pieces are put together ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/92yksa3xpwz31.png' alt='Download) Hazbin Hotel Panorama WALLPAPER (pieces are put together ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/92yksa3xpwz31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finn on X: "Charlie Hazbin Hotel phone wallpaper https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GLOTnbWbEAALFtZ.jpg:large' alt='Finn on X: "Charlie Hazbin Hotel phone wallpaper https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GLOTnbWbEAALFtZ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="we tried, with a friend, to make it usable for a phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hecwd5eitwz31.png' alt='we tried, with a friend, to make it usable for a phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2888">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hecwd5eitwz31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/complete-hazbin-hotel-main-characters-inc9kaieghtexxy0.jpg' alt='Hazbin Hotel Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="832">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/complete-hazbin-hotel-main-characters-inc9kaieghtexxy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor phone wallpaper : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1upi8o25q5n41.png?auto=webp&s=a65800da2559456331a726a7c69c3598af4742eb' alt='Alastor phone wallpaper : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1upi8o25q5n41.png?auto=webp&s=a65800da2559456331a726a7c69c3598af4742eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

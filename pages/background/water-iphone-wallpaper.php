@@ -1,0 +1,129 @@
+<title>Stunning Water iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of breathtaking water iPhone wallpapers that bring tranquility and beauty to your device. Explore various themes, from ocean waves to crystal-clear lakes, and find the perfect wallpaper to match your vibe. Upgrade your screen today with these serene backgrounds!">
+                    <meta name="keywords" content="water iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/water-iphone-wallpaper">
+                            <span itemprop="name">water iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Water iPhone Wallpapers for Every Style</h1>
+                <p>Upgrade your iPhone with stunning water-themed wallpapers! Whether you love serene ocean waves or refreshing waterfalls, find the perfect backdrop to express your style. Dive into a world of calming blues and natural beauty that will make your device stand out while bringing peace to your day. Transform your screen now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 iPhone Wallpapers For Anyone Who Just Really Loves Water">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2018-03/15/0/asset/buzzfeed-prod-web-02/sub-buzz-6381-1521088354-1.jpg' alt='22 iPhone Wallpapers For Anyone Who Just Really Loves Water'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2018-03/15/0/asset/buzzfeed-prod-web-02/sub-buzz-6381-1521088354-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Iphone Water Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1500375592092-40eb2168fd21?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwd2F0ZXJ8ZW58MHx8MHx8fDA%3D' alt='1K+ Iphone Water Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1500375592092-40eb2168fd21?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwd2F0ZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pool Water Wallpaper iPhone 11 | iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/pool-water.png' alt='Pool Water Wallpaper iPhone 11 | iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/pool-water.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Water Hd - Phone Wallpapers 92">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/43/a2/7743a26e1b2bde22e05e67b1536df31b.jpg' alt='Iphone Wallpaper Water Hd - Phone Wallpapers 92'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/43/a2/7743a26e1b2bde22e05e67b1536df31b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 iPhone Wallpapers For Anyone Who Just Really Loves Water">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2018-04/5/23/campaign_images/buzzfeed-prod-web-02/22-iphone-wallpapers-for-anyone-who-just-really-l-2-29816-1522986253-0_dblbig.jpg' alt='22 iPhone Wallpapers For Anyone Who Just Really Loves Water'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2018-04/5/23/campaign_images/buzzfeed-prod-web-02/22-iphone-wallpapers-for-anyone-who-just-really-l-2-29816-1522986253-0_dblbig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Aesthetic Ocean Wallpapers For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/97/3c/be/973cbefda047bd54bd2f7aa380b2baaa.jpg' alt='10 Aesthetic Ocean Wallpapers For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/97/3c/be/973cbefda047bd54bd2f7aa380b2baaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Water iPhone Blue Pool Water Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/water-iphone-hy5ok7ccho0ur1ak.jpg' alt='Download Water iPhone Blue Pool Water Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/water-iphone-hy5ok7ccho0ur1ak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calming water wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/06/Water-droplets-through-glass-iPhone-wallpaper.jpg' alt='Calming water wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="3520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/06/Water-droplets-through-glass-iPhone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water wallpapers for iPhone, iPad, and desktop">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/06/wave-surf-ocean-sea-beach-art-nature-iphone-X.jpg' alt='Water wallpapers for iPhone, iPad, and desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/06/wave-surf-ocean-sea-beach-art-nature-iphone-X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 iPhone Wallpapers For Anyone Who Just Really Loves Water">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2018-03/15/0/asset/buzzfeed-prod-web-06/sub-buzz-9906-1521088334-2.jpg' alt='22 iPhone Wallpapers For Anyone Who Just Really Loves Water'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2018-03/15/0/asset/buzzfeed-prod-web-06/sub-buzz-9906-1521088334-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

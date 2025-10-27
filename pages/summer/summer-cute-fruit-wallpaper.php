@@ -1,0 +1,129 @@
+<title>Summer Fruit Wallpaper: Cute & Colorful Designs</title>
+                    <meta name="description" content="Explore our collection of cute summer fruit wallpapers! Featuring vibrant and playful designs, these wallpapers will add a refreshing touch to your device while celebrating the joy of summer. Perfect for fruit lovers and those looking to brighten their screens! Download your favorite now!">
+                    <meta name="keywords" content="summer cute fruit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-cute-fruit-wallpaper">
+                            <span itemprop="name">summer cute fruit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Summer Fruit Wallpaper: Cute & Colorful Designs</h1>
+                <p>Bring the joy of summer right to your device with our adorable cute fruit wallpaper! Bursting with vibrant colors and playful designs, these wallpapers feature cheerful fruits like juicy watermelons, sweet strawberries, and bright pineapples. Perfect for adding a fresh touch to your phone or tablet, let these fruity wallpapers brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Cute Fruit Wallpaper Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220731/original/pngtree-summer-cute-fruit-wallpaper-background-picture-image_1897537.jpg' alt='Summer Cute Fruit Wallpaper Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220731/original/pngtree-summer-cute-fruit-wallpaper-background-picture-image_1897537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Summer Fruits Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' alt='Cute Summer Fruits Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-summer-fruits-7znehf8pzfkdxty6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun fruit pattern summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/ce/29/3ace295c2cfa191bfceed1b46a1381aa.jpg' alt='Fun fruit pattern summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/ce/29/3ace295c2cfa191bfceed1b46a1381aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_576x1024.jpg?v=1625820003' alt='Molang Food Wallpapers: Discover The Yellow Fruits Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/fruitsummer_wallpaper1_576x1024.jpg?v=1625820003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Fruit iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/9c/db/c99cdb4411ba095cc9d75828638b6eb6.jpg' alt='Summer Fruit iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/9c/db/c99cdb4411ba095cc9d75828638b6eb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cartoon Fruit Vector Background Summer Fruits | AI Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20201112/bg/4ce4fb7b14e36.png!sw800' alt='Cute Cartoon Fruit Vector Background Summer Fruits | AI Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20201112/bg/4ce4fb7b14e36.png!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Wallpaper - WPTunnel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/83/42/f98342bba8c60cd4776ab14d2d5385d3.jpg' alt='Fruit Wallpaper - WPTunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/83/42/f98342bba8c60cd4776ab14d2d5385d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with Cute summer fruit background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-cute-summer-fruit-background_263670-1365.jpg' alt='Premium Vector | Seamless pattern with Cute summer fruit background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-cute-summer-fruit-background_263670-1365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Watercolor Pattern With Fruit Slices And Watermelon ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-summer-phone-zsf8dijthf9kzfp9.jpg' alt='Download A Watercolor Pattern With Fruit Slices And Watermelon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-summer-phone-zsf8dijthf9kzfp9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fruit Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11500450/p/f/m/u7SL3T5ahVCyi1K-XQzirw-NqKYGohbHRJtDhiWanjrPHgn1dt2Kn_M/mini%20micro%20-%20tiny%20summer%20cherries%20-%20pink%20and%20coral.jpg' alt='Cute Fruit Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11500450/p/f/m/u7SL3T5ahVCyi1K-XQzirw-NqKYGohbHRJtDhiWanjrPHgn1dt2Kn_M/mini%20micro%20-%20tiny%20summer%20cherries%20-%20pink%20and%20coral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

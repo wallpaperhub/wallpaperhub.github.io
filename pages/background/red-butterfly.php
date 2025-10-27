@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Red Butterflies</title>
+                    <meta name="description" content="Explore the captivating world of red butterflies! Learn about their vibrant colors, ecological importance, and the joy they bring. Perfect for nature lovers and conservationists alike, this guide delves into their habits and habitats. Uncover the beauty of these stunning creatures today!">
+                    <meta name="keywords" content="red butterfly">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-butterfly">
+                            <span itemprop="name">red butterfly</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Red Butterflies</h1>
+                <p>The red butterfly, a symbol of transformation, captivates with its vibrant wings. Found in diverse habitats, it thrives on nectar-rich flowers, playing a vital role in pollination. Their striking appearance not only enchants but also signals ecological health. Observing these beauties can evoke joy and inspire conservation efforts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Stunning Red Butterflies - Australian Butterfly Sanctuary">
+                                <img itemprop="contentUrl url" src='https://australianbutterflies.com/ab-content/uploads/2019/09/red-lacewing-butterfly-red-butterflies.jpg' alt='5 Stunning Red Butterflies - Australian Butterfly Sanctuary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Butterfly Sanctuary" />
+                                </span>
+                                <a href='https://australianbutterflies.com/ab-content/uploads/2019/09/red-lacewing-butterfly-red-butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Stunning Red Butterflies - Australian Butterfly Sanctuary">
+                                <img itemprop="contentUrl url" src='https://australianbutterflies.com/wp-content/uploads/2019/09/scarlet-peacock-butterfly.jpg' alt='5 Stunning Red Butterflies - Australian Butterfly Sanctuary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Butterfly Sanctuary" />
+                                </span>
+                                <a href='https://australianbutterflies.com/wp-content/uploads/2019/09/scarlet-peacock-butterfly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Stunning Red Butterflies - Australian Butterfly Sanctuary">
+                                <img itemprop="contentUrl url" src='https://australianbutterflies.com/ab-content/uploads/2019/09/peacock-butterfly-red-butterflies.jpg' alt='5 Stunning Red Butterflies - Australian Butterfly Sanctuary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Butterfly Sanctuary" />
+                                </span>
+                                <a href='https://australianbutterflies.com/ab-content/uploads/2019/09/peacock-butterfly-red-butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Stunning Red Butterflies - Australian Butterfly Sanctuary">
+                                <img itemprop="contentUrl url" src='https://australianbutterflies.com/ab-content/uploads/2019/09/postman-butterfly.jpg' alt='5 Stunning Red Butterflies - Australian Butterfly Sanctuary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Butterfly Sanctuary" />
+                                </span>
+                                <a href='https://australianbutterflies.com/ab-content/uploads/2019/09/postman-butterfly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red-bodied swallowtail - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a6/TS001_Pachliopta_hector.jpg' alt='Red-bodied swallowtail - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a6/TS001_Pachliopta_hector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful red butterfly isolated on white background | Colourbox">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX11688829.jpg?width=800&height=800&quality=70' alt='Beautiful red butterfly isolated on white background | Colourbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX11688829.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Butterfly Images – Browse 416,852 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/02/17/30/360_F_402173038_xIy98Kpuj7ZBvhlCZFerbugoWo7UHxV5.jpg' alt='Red Butterfly Images – Browse 416,852 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/02/17/30/360_F_402173038_xIy98Kpuj7ZBvhlCZFerbugoWo7UHxV5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Butterfly on Flower in the Garden by Elaine Plesser">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/red-butterfly-on-flower-in-the-garden-elaine-plesser.jpg' alt='Red Butterfly on Flower in the Garden by Elaine Plesser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/red-butterfly-on-flower-in-the-garden-elaine-plesser.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anartia amathea - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Scarlet_peacock_%28Anartia_amathea%29_male.JPG/800px-Scarlet_peacock_%28Anartia_amathea%29_male.JPG' alt='Anartia amathea - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Scarlet_peacock_%28Anartia_amathea%29_male.JPG/800px-Scarlet_peacock_%28Anartia_amathea%29_male.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rad red butterfly | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1193888139.7177/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='rad red butterfly | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1193888139.7177/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Legacy of Vogue Magazine</title>
+                    <meta name="description" content="Explore the rich history and cultural impact of Vogue Magazine, the iconic fashion publication that has influenced trends and journalism since 1892. Uncover stunning photography and insightful articles that define style and elegance.">
+                    <meta name="keywords" content="vogue magazine background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vogue-magazine-background">
+                            <span itemprop="name">vogue magazine background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legacy of Vogue Magazine</h1>
+                <p>Vogue Magazine, established in 1892, is a leading fashion and lifestyle publication. Renowned for its striking photography and in-depth articles, it showcases the latest trends, influential designers, and cultural commentary. Vogue has played a crucial role in shaping fashion journalism and continues to be a cultural icon today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="080722 Vogue Erotique magazine cover template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/080722-vogue-erotique-magazine-cover-template-design-a2cde1d121cfd1c3aaaf76902b24dc9c_screen.jpg?ts=1698307393' alt='080722 Vogue Erotique magazine cover template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/080722-vogue-erotique-magazine-cover-template-design-a2cde1d121cfd1c3aaaf76902b24dc9c_screen.jpg?ts=1698307393' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A necessary and overdue education': British Vogue dedicates five ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230420084220-04-british-vogue-sinead-burke-disabled-models-aaron-rose-philip.jpg?c=original' alt='A necessary and overdue education': British Vogue dedicates five ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230420084220-04-british-vogue-sinead-burke-disabled-models-aaron-rose-philip.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please follow for more">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/52/d9/3a52d9801748451c9b209f0736113c72.jpg' alt='Please follow for more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/52/d9/3a52d9801748451c9b209f0736113c72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fashion Vogue Magazine Cover Template | FotoJet">
+                                <img itemprop="contentUrl url" src='https://www.fotojet.com/template-imgs/misc/magazine/magazine-05.jpg' alt='Fashion Vogue Magazine Cover Template | FotoJet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FotoJet" />
+                                </span>
+                                <a href='https://www.fotojet.com/template-imgs/misc/magazine/magazine-05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="British Vogue Unveils Blank Cover to Honor Queen Elizabeth's Death">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/yRWvX5rayAvTdf07nxsQDxRXpBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(638x199:640x201)/british-vogue-november-blank-101322-1-cc2db22bde64446cb3208f196a2515d1.jpg' alt='British Vogue Unveils Blank Cover to Honor Queen Elizabeth's Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1453">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/yRWvX5rayAvTdf07nxsQDxRXpBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(638x199:640x201)/british-vogue-november-blank-101322-1-cc2db22bde64446cb3208f196a2515d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE] Vogue Cover Template - MockoFUN">
+                                <img itemprop="contentUrl url" src='https://www.mockofun.com/wp-content/uploads/2020/06/vogue-cover-template-10017.jpg' alt='FREE] Vogue Cover Template - MockoFUN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MockoFUN" />
+                                </span>
+                                <a href='https://www.mockofun.com/wp-content/uploads/2020/06/vogue-cover-template-10017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A New Magazine Template with a Vogue Inspired Editorial Look!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/08/f0/1908f0d73975e36ab56b8e8d93d82c68.jpg' alt='A New Magazine Template with a Vogue Inspired Editorial Look!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/08/f0/1908f0d73975e36ab56b8e8d93d82c68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From the Archives: Oprah Winfrey in Vogue | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/587746735ab2876842232e6b/master/pass/oprah-1998-cover_173133953202.jpg' alt='From the Archives: Oprah Winfrey in Vogue | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/587746735ab2876842232e6b/master/pass/oprah-1998-cover_173133953202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE] Vogue Cover Template - MockoFUN">
+                                <img itemprop="contentUrl url" src='https://www.mockofun.com/wp-content/uploads/2020/06/Vogue-Cover-Template-Transparent.jpg' alt='FREE] Vogue Cover Template - MockoFUN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MockoFUN" />
+                                </span>
+                                <a href='https://www.mockofun.com/wp-content/uploads/2020/06/Vogue-Cover-Template-Transparent.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mighty Rose: The Story Behind Vogue's June/July Cover | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/5ea0d563790bdd0008bbe74d/master/w_2560%2Cc_limit/resizedrose.jpg' alt='The Mighty Rose: The Story Behind Vogue's June/July Cover | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2207">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/5ea0d563790bdd0008bbe74d/master/w_2560%2Cc_limit/resizedrose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Minimalist Fall iPhone Wallpaper: Simple Elegance</title>
+                    <meta name="description" content="Discover stunning minimalist fall iPhone wallpapers that blend elegance and simplicity. Perfect for capturing autumn's essence, these designs enhance your screen without overwhelming it. Transform your device with serene and stylish backgrounds today!">
+                    <meta name="keywords" content="minimalist fall iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minimalist-fall-iphone-wallpaper">
+                            <span itemprop="name">minimalist fall iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist Fall iPhone Wallpaper: Simple Elegance</h1>
+                <p>Embrace the beauty of simplicity this fall with our minimalist iPhone wallpaper collection. Featuring soft autumn colors, subtle leaf designs, and clean lines, these wallpapers are perfect for adding a touch of seasonal elegance to your device. Transform your home screen into a serene expression of fall vibes while keeping it uncluttered.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simplicity Speaks: Minimalist Fall Scenes"">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/5a/19/6a5a19dcc7f41eb2eb345136d0ebacf0.jpg' alt='Simplicity Speaks: Minimalist Fall Scenes"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/5a/19/6a5a19dcc7f41eb2eb345136d0ebacf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaves Aesthetic Fall Lockscreen for iPhone | @thehoneydesignco">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/d9/0f/0ad90f2fcacc61c661c0104fd678dc87.jpg' alt='Leaves Aesthetic Fall Lockscreen for iPhone | @thehoneydesignco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/d9/0f/0ad90f2fcacc61c661c0104fd678dc87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Pfp – Minimalist IOS Fall Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a5/d6/85/a5d685fa942ff6d584478b298959eada.jpg' alt='Autumn Pfp – Minimalist IOS Fall Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="517">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a5/d6/85/a5d685fa942ff6d584478b298959eada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="autumn #harvest Minimal #iphone #wallpaper #art|Design:Pretty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/54/cf/1d54cf938bed7512dbcb6096daf2d120.jpg' alt='autumn #harvest Minimal #iphone #wallpaper #art|Design:Pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/54/cf/1d54cf938bed7512dbcb6096daf2d120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Minimalist Autumn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-autumn-zic80bzts987swsb.jpg' alt='100+] Minimalist Autumn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-autumn-zic80bzts987swsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Fall Wallpapers Pack iPhone Boho Neutral Minimal Aesthetic Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25450190/r/il/0b56d4/2621692831/il_fullxfull.2621692831_4o38.jpg' alt='10 Fall Wallpapers Pack iPhone Boho Neutral Minimal Aesthetic Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25450190/r/il/0b56d4/2621692831/il_fullxfull.2621692831_4o38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Autumn Tree Leaf Illustration Android . Autumn leaves ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/602/663/HD-wallpaper-minimal-autumn-tree-leaf-illustration-android-autumn-leaves-fall-iphone-fall.jpg' alt='Minimal Autumn Tree Leaf Illustration Android . Autumn leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/602/663/HD-wallpaper-minimal-autumn-tree-leaf-illustration-android-autumn-leaves-fall-iphone-fall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Pine-cones-576x1024.jpg' alt='60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Pine-cones-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Rainy-Day-576x1024.jpg' alt='60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Rainy-Day-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

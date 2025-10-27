@@ -1,0 +1,129 @@
+<title>Enchanting Thomas Kinkade Christmas Wallpaper for Your Home</title>
+                    <meta name="description" content="Add a festive touch to your decor with Thomas Kinkade Christmas wallpaper. Featuring stunning seasonal designs, these wallpapers create a warm, inviting atmosphere perfect for celebrating the holidays. Elevate your space with the charm of Kinkade's artwork and embrace the spirit of Christmas year-round!">
+                    <meta name="keywords" content="thomas kinkade christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/thomas-kinkade-christmas-wallpaper">
+                            <span itemprop="name">thomas kinkade christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Thomas Kinkade Christmas Wallpaper for Your Home</h1>
+                <p>Transform your home into a winter wonderland with Thomas Kinkade Christmas wallpaper. Featuring his iconic, heartwarming scenes of festive landscapes, these wallpapers evoke nostalgia and joy. Perfect for creating a cozy atmosphere, they capture the essence of the holiday spirit, making every room feel like a holiday retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Evening - Limited Edition Canvas">
+                                <img itemprop="contentUrl url" src='https://thomaskinkade.com/cdn/shop/products/chreve1.jpg?v=1685464972&width=1445' alt='Christmas Evening - Limited Edition Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='https://thomaskinkade.com/cdn/shop/products/chreve1.jpg?v=1685464972&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Browse Christmas Art – Thomas Kinkade Studios">
+                                <img itemprop="contentUrl url" src='https://thomaskinkade.com/cdn/shop/collections/canvas_tchfst_uf-15_cf07cbef-708e-424b-95da-55697243a407.jpg?v=1689619974&width=1500' alt='Browse Christmas Art – Thomas Kinkade Studios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='https://thomaskinkade.com/cdn/shop/collections/canvas_tchfst_uf-15_cf07cbef-708e-424b-95da-55697243a407.jpg?v=1689619974&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Mickey and Minnie Christmas Lodge – Thomas Kinkade Studios">
+                                <img itemprop="contentUrl url" src='http://thomaskinkade.com/cdn/shop/collections/canvas_mmxmsl_uf-5_6b80cd74-9994-442b-bb4a-d0943c92d45b.jpg?v=1689619968' alt='Disney Mickey and Minnie Christmas Lodge – Thomas Kinkade Studios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='http://thomaskinkade.com/cdn/shop/collections/canvas_mmxmsl_uf-5_6b80cd74-9994-442b-bb4a-d0943c92d45b.jpg?v=1689619968' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone Christmas by Thomas Kinkade - Limited Edition Print on ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/JbQAAOSwMYRfRAdm/s-l1200.jpg' alt='Cobblestone Christmas by Thomas Kinkade - Limited Edition Print on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/JbQAAOSwMYRfRAdm/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hometown christmas memories by thomas kinkade Poster, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://rukminim2.flixcart.com/image/750/900/xif0q/poster/b/c/m/medium-vposter1123258-hometown-christmas-memories-by-thomas-original-imagka7nck8huq7q.jpeg?q=20&crop=false' alt='hometown christmas memories by thomas kinkade Poster, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipkart" />
+                                </span>
+                                <a href='https://rukminim2.flixcart.com/image/750/900/xif0q/poster/b/c/m/medium-vposter1123258-hometown-christmas-memories-by-thomas-original-imagka7nck8huq7q.jpeg?q=20&crop=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lodge - Limited Edition Canvas">
+                                <img itemprop="contentUrl url" src='https://thomaskinkade.com/cdn/shop/products/chrlod1.jpg?v=1685464910&width=1445' alt='Christmas Lodge - Limited Edition Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='https://thomaskinkade.com/cdn/shop/products/chrlod1.jpg?v=1685464910&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Kinkade Cinderella Bringing Home the Tree Christmas P/P on Paper  27x18">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VO0AAOSwz7Bm~K5E/s-l1200.jpg' alt='Thomas Kinkade Cinderella Bringing Home the Tree Christmas P/P on Paper  27x18'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VO0AAOSwz7Bm~K5E/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THOMAS KINKADE - COBBLESTONE CHRISTMAS - 12" X 18" - S/N Giclee Canvas  w/COA | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/O7EAAOSwF9JlXmxV/s-l400.jpg' alt='THOMAS KINKADE - COBBLESTONE CHRISTMAS - 12" X 18" - S/N Giclee Canvas  w/COA | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/O7EAAOSwF9JlXmxV/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="art christmas thomas kinkade stonehearth hutch abstract other hd ...">
+                                <img itemprop="contentUrl url" src='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/k/6/8/medium-vposter1123042-art-christmas-thomas-kinkade-stonehearth-original-imagka7zyejrfdzn.jpeg?q=90&crop=false' alt='art christmas thomas kinkade stonehearth hutch abstract other hd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipkart" />
+                                </span>
+                                <a href='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/k/6/8/medium-vposter1123042-art-christmas-thomas-kinkade-stonehearth-original-imagka7zyejrfdzn.jpeg?q=90&crop=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Browse Christmas Art – Thomas Kinkade Studios">
+                                <img itemprop="contentUrl url" src='https://thomaskinkade.com/cdn/shop/collections/chrbil18_1c788b18-39e5-4a15-916a-6845dea3eb0a.jpg?v=1689619942&width=1500' alt='Browse Christmas Art – Thomas Kinkade Studios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='https://thomaskinkade.com/cdn/shop/collections/chrbil18_1c788b18-39e5-4a15-916a-6845dea3eb0a.jpg?v=1689619942&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

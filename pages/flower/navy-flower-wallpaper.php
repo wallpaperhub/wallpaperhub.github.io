@@ -1,0 +1,129 @@
+<title>Navy Flower Wallpaper: Elegant Designs for Chic Decor</title>
+                    <meta name="description" content="Discover stunning navy flower wallpaper that brings elegance and tranquility to your space. Perfect for any room, our collection combines deep blue hues with beautiful floral patterns to enhance your decor. Transform your home with this chic wallpaper today!">
+                    <meta name="keywords" content="navy flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/navy-flower-wallpaper">
+                            <span itemprop="name">navy flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Flower Wallpaper: Elegant Designs for Chic Decor</h1>
+                <p>Navy flower wallpaper offers a stunning blend of deep blue hues and elegant floral designs, perfect for adding a touch of sophistication to any space. Ideal for bedrooms, living rooms, or offices, this wallpaper enhances your decor while creating a calming atmosphere. Elevate your interiors with this timeless aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW45702_1.jpg?quality=100?width=900' alt='NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW45702_1.jpg?quality=100?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 17.5"x354" Dark Blue Wallpaper Peel and Stick Vintage Floral  Wallpaper for Bedroom Black Blue Floral Contact Paper Peel and Stick Wall  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Z2SDWYTAL.jpg' alt='FunStick 17.5"x354" Dark Blue Wallpaper Peel and Stick Vintage Floral  Wallpaper for Bedroom Black Blue Floral Contact Paper Peel and Stick Wall  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Z2SDWYTAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erin & Ben Co. Heirloom Floral Peel & Stick Wallpaper - Navy Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1516RL_66d376bb-e670-4b38-ab7b-3b1cb1ea1a4a.jpg?v=1678141083' alt='Erin & Ben Co. Heirloom Floral Peel & Stick Wallpaper - Navy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1516RL_66d376bb-e670-4b38-ab7b-3b1cb1ea1a4a.jpg?v=1678141083' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' alt='Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 282112902 Full Bloom Navy Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/214196.jpg' alt='A Street Prints 282112902 Full Bloom Navy Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/214196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Baroque Opulence Navy Blue Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/59683/floral_baroque_opulence_navy_blue_limited.jpg' alt='Floral Baroque Opulence Navy Blue Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/59683/floral_baroque_opulence_navy_blue_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Flowers Wallpaper Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/98878272/compr-r85/1927/192736088/dark-blue-flowers-wallpaper-floral-roll.jpg' alt='Dark Blue Flowers Wallpaper Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/98878272/compr-r85/1927/192736088/dark-blue-flowers-wallpaper-floral-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Gold Floral on Navy Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/164Aria.webp?v=1657617303' alt='Luxury Gold Floral on Navy Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/164Aria.webp?v=1657617303' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Daylight Flowers Navy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6752004735022.jpg?v=1712804879' alt='A-Street Prints Daylight Flowers Navy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6752004735022.jpg?v=1712804879' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAGAFA Floral Wallpaper Peel and Stick Vintage Dark Blue/Gray ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nsBPc2+fL._AC_UF894,1000_QL80_.jpg' alt='MAGAFA Floral Wallpaper Peel and Stick Vintage Dark Blue/Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nsBPc2+fL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

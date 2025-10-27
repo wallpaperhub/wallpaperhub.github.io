@@ -1,0 +1,129 @@
+<title>Discover the Best Anime Pool Scenes: Fun & Fandom</title>
+                    <meta name="description" content="Explore the exciting world of anime pools, where fun meets storytelling! Dive into iconic pool scenes, character moments, and the cultural significance behind these aquatic backdrops. Perfect for anime fans seeking a splash of creativity and entertainment!">
+                    <meta name="keywords" content="anime pool">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-pool">
+                            <span itemprop="name">anime pool</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Best Anime Pool Scenes: Fun & Fandom</h1>
+                <p>Anime pools are a vibrant element of many animated series, providing a backdrop for character interactions, summer fun, and often pivotal plot developments. These aquatic settings reflect a blend of creativity and cultural significance, enhancing storytelling while showcasing beautiful animation and character designs during leisure moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Anime Swim Suits Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/anime-artistic-image-many-students-600w-2528287365.jpg' alt='120 Anime Swim Suits Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="327">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/anime-artistic-image-many-students-600w-2528287365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Swimming pool (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6Q75UX9mo9pQ7htPlN7Z7qHQ67BXYJ_nh0Sq0nhTvTV90lWaC6v38JJq5Tc4rK6vCjtO6qcyxvoJSnRL-0tuihGb2KhHJRQoxN2dKrbmbK0bkZiKdG8u03LGQeD3M5mbJePqAD-sRIE/w1200-h630-p-k-no-nu/bg010a.BMP' alt='Anime Landscape: Swimming pool (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6Q75UX9mo9pQ7htPlN7Z7qHQ67BXYJ_nh0Sq0nhTvTV90lWaC6v38JJq5Tc4rK6vCjtO6qcyxvoJSnRL-0tuihGb2KhHJRQoxN2dKrbmbK0bkZiKdG8u03LGQeD3M5mbJePqAD-sRIE/w1200-h630-p-k-no-nu/bg010a.BMP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Anime Desktop Swimming Pool With Floating Fish ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-anime-desktop-swimming-pool-with-floating-fish-k6kfe2viotwxpr34.jpg' alt='Download Aesthetic Anime Desktop Swimming Pool With Floating Fish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-anime-desktop-swimming-pool-with-floating-fish-k6kfe2viotwxpr34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swimming Pool, Deux Filles | page 2 - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Potg.full.3739779.jpg' alt='Swimming Pool, Deux Filles | page 2 - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Potg.full.3739779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Free! – Iwatobi Swim Club – Anime Bird">
+                                <img itemprop="contentUrl url" src='https://animebird.net/wp-content/uploads/2018/10/free-iwatobi-swim-club-2013-anime-series.jpg?w=1200&h=800&crop=1' alt='Review: Free! – Iwatobi Swim Club – Anime Bird'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Bird" />
+                                </span>
+                                <a href='https://animebird.net/wp-content/uploads/2018/10/free-iwatobi-swim-club-2013-anime-series.jpg?w=1200&h=800&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime girls underwater bikini swimming pool smiling Playmat Game Mat Desk |  eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/OHcAAOSwQ6RlOGDR/s-l400.jpg' alt='Anime girls underwater bikini swimming pool smiling Playmat Game Mat Desk |  eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/OHcAAOSwQ6RlOGDR/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swimming Club | Medaka Box Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/medakabox/images/f/fd/Swimming_Pool.jpg/revision/latest?cb=20130811205210' alt='Swimming Club | Medaka Box Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medaka Box Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/medakabox/images/f/fd/Swimming_Pool.jpg/revision/latest?cb=20130811205210' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Indoor Olympic Swimming Pool (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY5Dp_SNyMzJAJmKaSUV3oWXSbyD0-_sqmTH88zY_pSsFki31TJlYfrli8e0JUzQDg4Wq15UCJ9CCJRZBPNa36EiEsMfDTdQ4poaT27xEjomEz9gv9dOXqQGOMwKyWQD28YslwTPxyTbo/w1200-h630-p-k-no-nu/Sports+%2528Anime+Background%2529+011.jpg' alt='Anime Landscape: Indoor Olympic Swimming Pool (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY5Dp_SNyMzJAJmKaSUV3oWXSbyD0-_sqmTH88zY_pSsFki31TJlYfrli8e0JUzQDg4Wq15UCJ9CCJRZBPNa36EiEsMfDTdQ4poaT27xEjomEz9gv9dOXqQGOMwKyWQD28YslwTPxyTbo/w1200-h630-p-k-no-nu/Sports+%2528Anime+Background%2529+011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime swimming pool water women barefoot artwork legs Playmat ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/msoAAOSwTM1lMHmO/s-l1200.jpg' alt='Anime swimming pool water women barefoot artwork legs Playmat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/msoAAOSwTM1lMHmO/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ANIMATED STREAM BACKGROUND | Summer Pool (loop, 1080p, Stream ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39602350/r/il/8172a0/5768251951/il_fullxfull.5768251951_th6v.jpg' alt='ANIMATED STREAM BACKGROUND | Summer Pool (loop, 1080p, Stream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39602350/r/il/8172a0/5768251951/il_fullxfull.5768251951_th6v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

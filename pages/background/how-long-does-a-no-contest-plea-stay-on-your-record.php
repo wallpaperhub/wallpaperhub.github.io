@@ -1,0 +1,129 @@
+<title>How Long Does a No Contest Plea Affect Your Record?</title>
+                    <meta name="description" content="Discover how long a no contest plea stays on your record and the options for expungement or sealing. Understand the implications and state-specific laws that may affect your situation. Get informed today!">
+                    <meta name="keywords" content="how long does a no contest plea stay on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-does-a-no-contest-plea-stay-on-your-record">
+                            <span itemprop="name">how long does a no contest plea stay on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Does a No Contest Plea Affect Your Record?</h1>
+                <p>A no contest plea typically remains on your criminal record indefinitely, as it is treated similarly to a guilty plea. However, the impact may vary by state. Some jurisdictions allow for expungement or sealing after a specific time, often contingent on fulfilling certain conditions like completing probation. Consult local laws for precise details.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a No Contest Plea Stay on Your Record? (Appeal Trick)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/10/How-Long-Does-A-No-Contest-Plea-Stay-On-Your-Record.png' alt='How Long Does a No Contest Plea Stay on Your Record? (Appeal Trick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/10/How-Long-Does-A-No-Contest-Plea-Stay-On-Your-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are There Consequences To Pleading No Contest (In California)?">
+                                <img itemprop="contentUrl url" src='https://jnlawoffices.com/wp-content/uploads/2017/02/3_plead_no_contest.jpg' alt='Are There Consequences To Pleading No Contest (In California)?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Offices Of Jerry Nicholson" />
+                                </span>
+                                <a href='https://jnlawoffices.com/wp-content/uploads/2017/02/3_plead_no_contest.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pleading "No Contest" Does NOT Keep Your Record Clean - Andrew Flusche">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WwTHW9Ejhzk/maxresdefault.jpg' alt='Pleading "No Contest" Does NOT Keep Your Record Clean - Andrew Flusche'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Flusche" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WwTHW9Ejhzk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nolo Contendere Plea No Contest Not Guilty Alford Standing Mute ...">
+                                <img itemprop="contentUrl url" src='http://www.nolocontendere.org/img/nolo_contendere.png' alt='Nolo Contendere Plea No Contest Not Guilty Alford Standing Mute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.nolocontendere.org" />
+                                </span>
+                                <a href='http://www.nolocontendere.org/img/nolo_contendere.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a No Contest Plea? How Is It Different from a Guilty Plea?">
+                                <img itemprop="contentUrl url" src='https://www.paultolandlaw.com/wp-content/uploads/2023/06/3.jpg' alt='What Is a No Contest Plea? How Is It Different from a Guilty Plea?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toland Law, LLC" />
+                                </span>
+                                <a href='https://www.paultolandlaw.com/wp-content/uploads/2023/06/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does a felony stay on your record in California?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Xc4cZ8-ipfY/maxresdefault.jpg' alt='How long does a felony stay on your record in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shouse Law Group" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Xc4cZ8-ipfY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a No Contest Plea? How Is It Different from a Guilty Plea?">
+                                <img itemprop="contentUrl url" src='https://www.paultolandlaw.com/wp-content/uploads/2023/06/2.jpg' alt='What Is a No Contest Plea? How Is It Different from a Guilty Plea?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toland Law, LLC" />
+                                </span>
+                                <a href='https://www.paultolandlaw.com/wp-content/uploads/2023/06/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Misdemeanor Stay on Your Record in California?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/62d9c9907f1eb181ddc16677/637c91424598890ba25dbfba_MisdemeanorExpungement.ForwardLawGroup.png' alt='How Long Does a Misdemeanor Stay on Your Record in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forward Law Group" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/62d9c9907f1eb181ddc16677/637c91424598890ba25dbfba_MisdemeanorExpungement.ForwardLawGroup.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pros and Cons of a No Contest Plea">
+                                <img itemprop="contentUrl url" src='https://www.kohlerandhart.com/wp-content/uploads/2023/04/No-Contest-Plea.jpg' alt='Pros and Cons of a No Contest Plea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hart Powell, S.C." />
+                                </span>
+                                <a href='https://www.kohlerandhart.com/wp-content/uploads/2023/04/No-Contest-Plea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a No Contest Plea? How Is It Different from a Guilty Plea?">
+                                <img itemprop="contentUrl url" src='https://www.paultolandlaw.com/wp-content/uploads/2023/06/1.jpg' alt='What Is a No Contest Plea? How Is It Different from a Guilty Plea?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toland Law, LLC" />
+                                </span>
+                                <a href='https://www.paultolandlaw.com/wp-content/uploads/2023/06/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Delicious World of Smoothies</title>
+                    <meta name="description" content="Explore the history, benefits, and recipes of smoothies. Learn how to create delicious and nutritious blends for a healthy lifestyle. Perfect for quick breakfasts or refreshing snacks, smoothies are versatile and easy to make! Dive in for tips and inspiration to enjoy smoothie goodness!">
+                    <meta name="keywords" content="smoothie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smoothie-background">
+                            <span itemprop="name">smoothie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Delicious World of Smoothies</h1>
+                <p>Smoothies have evolved from simple blends of fruits and liquids to vibrant, nutrient-packed treats enjoyed worldwide. Their origins can be traced back to the health-conscious movements of the 20th century, promoting raw ingredients and wellness. Today, they're popular for their versatility, appealing flavors, and health benefits.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smoothie Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/260/713/small/space-for-text-on-textured-background-surrounded-by-delicious-smoothies-from-top-view-background-image-ai-generated-photo.jpg' alt='Smoothie Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/260/713/small/space-for-text-on-textured-background-surrounded-by-delicious-smoothies-from-top-view-background-image-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="265,800+ Fresh Fruit Smoothie Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/503704970/photo/fresh-fruit-smoothies.jpg?s=612x612&w=0&k=20&c=lbhlRB41vLqRDNxXJfOFU79Rb2Tje4h0WeQMSDln_yY=' alt='265,800+ Fresh Fruit Smoothie Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/503704970/photo/fresh-fruit-smoothies.jpg?s=612x612&w=0&k=20&c=lbhlRB41vLqRDNxXJfOFU79Rb2Tje4h0WeQMSDln_yY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smoothie Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/037/247/945/small_2x/ai-generated-smoothie-advertisment-background-with-copy-space-free-photo.jpg' alt='Smoothie Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/037/247/945/small_2x/ai-generated-smoothie-advertisment-background-with-copy-space-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="265,800+ Fresh Fruit Smoothie Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/527673038/photo/freshly-blended-fruit-smoothies-of-various-colors-and-tastes.jpg?s=612x612&w=0&k=20&c=G1kf5N8QhQMe-yb9GdKj13YJ-2ZPn6f-myRwxV64I50=' alt='265,800+ Fresh Fruit Smoothie Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/527673038/photo/freshly-blended-fruit-smoothies-of-various-colors-and-tastes.jpg?s=612x612&w=0&k=20&c=G1kf5N8QhQMe-yb9GdKj13YJ-2ZPn6f-myRwxV64I50=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smoothie Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/260/704/small/space-for-text-on-textured-background-surrounded-by-delicious-smoothies-from-top-view-background-image-ai-generated-photo.jpg' alt='Smoothie Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/260/704/small/space-for-text-on-textured-background-surrounded-by-delicious-smoothies-from-top-view-background-image-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless background smoothie and berries Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/67/98/seamless-background-smoothie-and-berries-vector-4256798.jpg' alt='Seamless background smoothie and berries Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/67/98/seamless-background-smoothie-and-berries-vector-4256798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh smoothie drinks placed on wooden planks, blur tropical beach ...">
+                                <img itemprop="contentUrl url" src='https://l450v.alamy.com/450v/2cd32xn/fresh-smoothie-drinks-placed-on-wooden-planks-blur-tropical-beach-on-background-summer-drinks-and-beach-vacation-background-2cd32xn.jpg' alt='Fresh smoothie drinks placed on wooden planks, blur tropical beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://l450v.alamy.com/450v/2cd32xn/fresh-smoothie-drinks-placed-on-wooden-planks-blur-tropical-beach-on-background-summer-drinks-and-beach-vacation-background-2cd32xn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Colorful smoothie and fruit background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/ff/a5/c4ffa5644ab5d60cb5b09605dc7a8e38.jpg' alt='Premium Photo | Colorful smoothie and fruit background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/ff/a5/c4ffa5644ab5d60cb5b09605dc7a8e38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Smoothie Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-strawberry-smoothie-milkshake-promotion-poster-background-template-image_150128.jpg' alt='Strawberry Smoothie Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-strawberry-smoothie-milkshake-promotion-poster-background-template-image_150128.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Smoothie Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/310/571/small/refreshing-raspberry-and-blackberry-smoothie-in-glass-on-pink-background-photo.jpeg' alt='Page 2 | Smoothie Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/310/571/small/refreshing-raspberry-and-blackberry-smoothie-in-glass-on-pink-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

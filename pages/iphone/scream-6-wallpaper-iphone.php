@@ -1,0 +1,129 @@
+<title>Scream 6 iPhone Wallpapers: Spook Your Screen!</title>
+                    <meta name="description" content="Discover the best Scream 6 wallpapers for your iPhone! Elevate your device with haunting images of Ghostface. Download now for a chilling touch that fans will love. Perfect for horror enthusiasts looking to personalize their screens with the latest film's aesthetics!">
+                    <meta name="keywords" content="scream 6 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/scream-6-wallpaper-iphone">
+                            <span itemprop="name">scream 6 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scream 6 iPhone Wallpapers: Spook Your Screen!</h1>
+                <p>Scream 6 wallpaper for iPhone brings the chilling essence of the iconic horror franchise right to your device. Immerse yourself in the terrifying world of Ghostface with stunning visuals that make your screen come alive. Perfect for fans who want to showcase their love for the series. Download your favorite Scream 6 wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made an iPhone wallpaper / lockscreen from the new poster... : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m6kn5c6i7k581.jpg' alt='Made an iPhone wallpaper / lockscreen from the new poster... : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m6kn5c6i7k581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scream 6 concept poster, designed by me : r/Scream">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ymnchl5yuyj91.png' alt='scream 6 concept poster, designed by me : r/Scream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ymnchl5yuyj91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream 6 Ghostface Movie Poster 4K Wallpaper iPhone HD Phone #7301j">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/scream-6-ghostface-movie-poster-730@1@j-phone-4k.jpg' alt='Scream 6 Ghostface Movie Poster 4K Wallpaper iPhone HD Phone #7301j'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/scream-6-ghostface-movie-poster-730@1@j-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Duck Design on X: "SCREAM 6 by me. #horror #art #Scream6 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FU2oec3WIAEmcup?format=jpg&name=4096x4096' alt='Creepy Duck Design on X: "SCREAM 6 by me. #horror #art #Scream6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2816">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FU2oec3WIAEmcup?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream VI Movie 4K Wallpaper iPhone HD Phone #8770h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/scream-6-movie-877@0@h-phone-4k.jpg' alt='Scream VI Movie 4K Wallpaper iPhone HD Phone #8770h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/scream-6-movie-877@0@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream 2022 phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/37/b4/fb/37b4fb0e2f005b002f4eb479197ab8b9.jpg' alt='Scream 2022 phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/37/b4/fb/37b4fb0e2f005b002f4eb479197ab8b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5+ Popular Scream VI HD Wallpapers, Backgrounds and Photos">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/scream-6-movie-poster_bW1uamaUmZqaraWkpJRmbmdlrWZpaWU.jpg' alt='5+ Popular Scream VI HD Wallpapers, Backgrounds and Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/scream-6-movie-poster_bW1uamaUmZqaraWkpJRmbmdlrWZpaWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream, black, logo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/19/486/HD-wallpaper-scream-black-logo-thumbnail.jpg' alt='Scream, black, logo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/19/486/HD-wallpaper-scream-black-logo-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie, Scream VI, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/391/928/HD-wallpaper-movie-scream-vi.jpg' alt='Movie, Scream VI, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/391/928/HD-wallpaper-movie-scream-vi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I would happily let tara kill me #jennaortega #scream6 #tara #fight  #wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7221181538635975942&location=0&aid=1988' alt='I would happily let tara kill me #jennaortega #scream6 #tara #fight  #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7221181538635975942&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

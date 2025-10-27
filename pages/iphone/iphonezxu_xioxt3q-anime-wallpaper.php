@@ -1,0 +1,129 @@
+<title>Best Anime Wallpapers for iPhone: Vibrant Backgrounds for Fans</title>
+                    <meta name="description" content="Explore premium anime wallpapers for your iPhone! Elevate your devices with colorful and dynamic designs that reflect your favorite characters and themes. Perfect for every anime lover looking to personalize their phone with captivating visuals. Download now and make your screen a true reflection of your passion!">
+                    <meta name="keywords" content="iphone:zxu_xioxt3q= anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonezxu_xioxt3q-anime-wallpaper">
+                            <span itemprop="name">iphone:zxu_xioxt3q= anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Anime Wallpapers for iPhone: Vibrant Backgrounds for Fans</h1>
+                <p>Discover stunning iPhone anime wallpapers that bring your favorite characters to life. Choose from a variety of styles and themes, ensuring there's an ideal backdrop for every anime fan. Transform your device and showcase your love for anime with high-quality, vibrant wallpapers that fit perfectly on your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Anime iPhone 11 4k Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/b9/55/eab9550a0ea99d415893d2071b79ccab.jpg' alt='   Anime iPhone 11 4k Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/b9/55/eab9550a0ea99d415893d2071b79ccab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 Anime iphone wallpapers ideas | anime, anime wallpaper, anime art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e1/a6/2a/e1a62abf516a2a91e41c515d4e87dcc0.jpg' alt='220 Anime iphone wallpapers ideas | anime, anime wallpaper, anime art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e1/a6/2a/e1a62abf516a2a91e41c515d4e87dcc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1242x2688 Anime Wallpapers for IPhone XS Max [Super Retina HD]">
+                                <img itemprop="contentUrl url" src='https://img2.wallspic.com/previews/5/8/1/0/7/170185/170185-anime-demon_slayer-giyu_tomioka-demon_slayer_kimetsu_no_yaiba-anime_art-360x780.jpg' alt='1242x2688 Anime Wallpapers for IPhone XS Max [Super Retina HD]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img2.wallspic.com/previews/5/8/1/0/7/170185/170185-anime-demon_slayer-giyu_tomioka-demon_slayer_kimetsu_no_yaiba-anime_art-360x780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 Anime iphone wallpapers ideas | anime, anime wallpaper, anime art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b0/f1/8e/b0f18e20d705773202ea48b71bbb2f64.jpg' alt='220 Anime iphone wallpapers ideas | anime, anime wallpaper, anime art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b0/f1/8e/b0f18e20d705773202ea48b71bbb2f64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1125x2436 Anime Wallpapers for IPhone X / XS [Super Retina HD]">
+                                <img itemprop="contentUrl url" src='https://img3.wallspic.com/previews/3/8/2/7/7/177283/177283-anime-dayz_anime-animated_cartoon-ryomen_sukuna-yuji_itadori-360x780.jpg' alt='1125x2436 Anime Wallpapers for IPhone X / XS [Super Retina HD]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img3.wallspic.com/previews/3/8/2/7/7/177283/177283-anime-dayz_anime-animated_cartoon-ryomen_sukuna-yuji_itadori-360x780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhoneXpapers.com | iPhone X wallpaper | bc54-dragonball-goku-blue ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-bc54-dragonball-goku-blue-art-illustration-anime-41-iphone-wallpaper.jpg' alt='iPhoneXpapers.com | iPhone X wallpaper | bc54-dragonball-goku-blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhoneXpapers" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-bc54-dragonball-goku-blue-art-illustration-anime-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Anime 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11558029.jpg' alt='iPhone X Anime 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11558029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhoneXpapers.com | iPhone X wallpaper | be81-dragonball-red-cyan ...">
+                                <img itemprop="contentUrl url" src='https://iphonexpapers.com/wp-content/uploads/papers.co-be81-dragonball-red-cyan-art-illustration-anime-hero-41-iphone-wallpaper.jpg' alt='iPhoneXpapers.com | iPhone X wallpaper | be81-dragonball-red-cyan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhoneXpapers" />
+                                </span>
+                                <a href='https://iphonexpapers.com/wp-content/uploads/papers.co-be81-dragonball-red-cyan-art-illustration-anime-hero-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime wallpapers iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/11/e1/0c11e127de8df0aa56e0206c3ef79f27.jpg' alt='anime wallpapers iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/11/e1/0c11e127de8df0aa56e0206c3ef79f27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Anime 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9951807.jpg' alt='iPhone X Anime 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9951807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

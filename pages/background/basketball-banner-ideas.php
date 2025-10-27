@@ -1,0 +1,129 @@
+<title>Creative Basketball Banner Ideas for Every Event</title>
+                    <meta name="description" content="Explore innovative basketball banner ideas that capture attention and boost team spirit. From vibrant designs to impactful slogans, create banners that stand out at games, events, or fundraisers. Perfect for teams wanting to enhance their visibility and engagement!">
+                    <meta name="keywords" content="basketball banner ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/basketball-banner-ideas">
+                            <span itemprop="name">basketball banner ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Basketball Banner Ideas for Every Event</h1>
+                <p>Looking to design the perfect basketball banner? Consider using bold colors, dynamic action shots of players, and eye-catching typography to convey your team's spirit. Incorporate motivational quotes or team slogans and ensure your logo is prominent. Think about banners for events, games, or fundraisers to maximize impact!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printed Vinyl Basketball Custom Sports Banner - Basketball Banner - Senior  Sports Banners - Senior Night Gifts ~ Graduation Ideas - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8828646/r/il/4f1d95/4708690684/il_1080xN.4708690684_a0a9.jpg' alt='Printed Vinyl Basketball Custom Sports Banner - Basketball Banner - Senior  Sports Banners - Senior Night Gifts ~ Graduation Ideas - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8828646/r/il/4f1d95/4708690684/il_1080xN.4708690684_a0a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printed Vinyl Basketball Custom Sports Banner - Senior Sports Banners -  Senior Night Gifts ~ Graduation Ideas - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8828646/r/il/77f6a0/2367668414/il_1080xN.2367668414_ne7b.jpg' alt='Printed Vinyl Basketball Custom Sports Banner - Senior Sports Banners -  Senior Night Gifts ~ Graduation Ideas - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8828646/r/il/77f6a0/2367668414/il_1080xN.2367668414_ne7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3'x6' Amped Sports Banner - Powder Blowout Basketball Template For Photoshop">
+                                <img itemprop="contentUrl url" src='https://ashedesign.com/cdn/shop/products/Ashe-Design-3x6-Stadium-Banner-Powder-Blowout-Basketball_1024x1024.jpg?v=1574878730' alt='3'x6' Amped Sports Banner - Powder Blowout Basketball Template For Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AsheDesign" />
+                                </span>
+                                <a href='https://ashedesign.com/cdn/shop/products/Ashe-Design-3x6-Stadium-Banner-Powder-Blowout-Basketball_1024x1024.jpg?v=1574878730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11th Street Design | Custom Sports Banner | Rocked Basketball">
+                                <img itemprop="contentUrl url" src='https://11thstreetdesign.com/cdn/shop/files/11th-Street-Design-Sports-Banner-Rocked-Basketball-3x5_2048x.jpg?v=1700162944' alt='11th Street Design | Custom Sports Banner | Rocked Basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="11th Street Design" />
+                                </span>
+                                <a href='https://11thstreetdesign.com/cdn/shop/files/11th-Street-Design-Sports-Banner-Rocked-Basketball-3x5_2048x.jpg?v=1700162944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2'x3' Sports Banner - Rocked Basketball Template For Photoshop">
+                                <img itemprop="contentUrl url" src='https://ashedesign.com/cdn/shop/products/Ashe-Design-Sports-Banner-Rocked-Basketball-2x3_1024x1024.jpg?v=1571157583' alt='2'x3' Sports Banner - Rocked Basketball Template For Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AsheDesign" />
+                                </span>
+                                <a href='https://ashedesign.com/cdn/shop/products/Ashe-Design-Sports-Banner-Rocked-Basketball-2x3_1024x1024.jpg?v=1571157583' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Player Banner">
+                                <img itemprop="contentUrl url" src='https://bannergoat.com/wp-content/uploads/sites/16/2019/09/97540d23f5fe430cf0a7136aadc37a8b_1.jpg' alt='Basketball Player Banner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banner Goat" />
+                                </span>
+                                <a href='https://bannergoat.com/wp-content/uploads/sites/16/2019/09/97540d23f5fe430cf0a7136aadc37a8b_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Basketball 1,000 points banner - Custom personalized 1000  points banner - 2ft. x 4ft : Office Products">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lAgMWDgsL.jpg' alt='Amazon.com: Basketball 1,000 points banner - Custom personalized 1000  points banner - 2ft. x 4ft : Office Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lAgMWDgsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11th Street Design | Custom Sports Banner | The GOAT Basketball">
+                                <img itemprop="contentUrl url" src='https://11thstreetdesign.com/cdn/shop/files/11th-Street-Design-Sports-Banner-The-Goat-Boys-Basketball-1x2.jpg?v=1700072932' alt='11th Street Design | Custom Sports Banner | The GOAT Basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="11th Street Design" />
+                                </span>
+                                <a href='https://11thstreetdesign.com/cdn/shop/files/11th-Street-Design-Sports-Banner-The-Goat-Boys-Basketball-1x2.jpg?v=1700072932' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Banner Digital Template / Senior Banner Basketball Template /  Template Basketball Poster / Instant Download / High Resolution">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9977862/r/il/e209fd/4301052504/il_fullxfull.4301052504_8ccz.jpg' alt='Sports Banner Digital Template / Senior Banner Basketball Template /  Template Basketball Poster / Instant Download / High Resolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9977862/r/il/e209fd/4301052504/il_fullxfull.4301052504_8ccz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Basketball banners ideas | basketball banners, basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/90/85/8e/90858e78a5152cf657ab377bc0f337d2.jpg' alt='11 Basketball banners ideas | basketball banners, basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/90/85/8e/90858e78a5152cf657ab377bc0f337d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

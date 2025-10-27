@@ -1,0 +1,129 @@
+<title>Cute Neon Wallpaper: Brighten Up Your Space</title>
+                    <meta name="description" content="Explore our collection of cute neon wallpaper that brings fun and vibrancy to your walls. Perfect for kids' spaces or any room needing a lively touch, our wallpapers offer unique designs and bright colors that transform your home decor effortlessly. Refresh your interiors now!">
+                    <meta name="keywords" content="cute neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-neon-wallpaper">
+                            <span itemprop="name">cute neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Neon Wallpaper: Brighten Up Your Space</h1>
+                <p>Brighten up your space with cute neon wallpaper that adds a playful touch to any room! Perfect for creating a vibrant atmosphere, these wallpapers come in a variety of fun patterns and colors. Ideal for kids' rooms, home offices, or any wall that needs a pop of creativity. Transform your interiors with a whimsical flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Neon ideas | neon, neon signs, neon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ca/9a/b8/ca9ab82c12abf745f1891442127b2d1a.jpg' alt='900+ Neon ideas | neon, neon signs, neon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ca/9a/b8/ca9ab82c12abf745f1891442127b2d1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illuminate Your Home With A Modern, Funky Neon Light Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/illuminate-your-home-with-a-modern-funky-neon-light-ethfrswwrqs5fslx.jpg' alt='Illuminate Your Home With A Modern, Funky Neon Light Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/illuminate-your-home-with-a-modern-funky-neon-light-ethfrswwrqs5fslx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Neon Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-neon-pink-yo3n7072qp3cdeiz.jpg' alt='100+] Cute Neon Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-neon-pink-yo3n7072qp3cdeiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Neon Hearts Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-neon-hearts-wallpaper.webp' alt='Cute Neon Hearts Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-neon-hearts-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic neon wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/55/73/0c5573e5450f6c4446a47f3904f187a7.jpg' alt='Aesthetic neon wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/55/73/0c5573e5450f6c4446a47f3904f187a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wiqerst - Cute Neon Background | Neon backgrounds, Pretty phone ...">
+                                <img itemprop="contentUrl url" src='https://dr.savee-cdn.com/image-fallbacks/thumbnail/5/f/8cfdb4efb9fc7add647761.jpg' alt='wiqerst - Cute Neon Background | Neon backgrounds, Pretty phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Savee" />
+                                </span>
+                                <a href='https://dr.savee-cdn.com/image-fallbacks/thumbnail/5/f/8cfdb4efb9fc7add647761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper 4K, Neon sign, Cute cartoon, Glowing">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hello-kitty-neon-sign-cute-glowing-dark-background-night-1080x1920-6603.jpg' alt='Hello Kitty Wallpaper 4K, Neon sign, Cute cartoon, Glowing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hello-kitty-neon-sign-cute-glowing-dark-background-night-1080x1920-6603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon kitty, black, blue, creepy, cute, heart, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/384/573/HD-wallpaper-neon-kitty-black-blue-creepy-cute-heart.jpg' alt='Neon kitty, black, blue, creepy, cute, heart, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/384/573/HD-wallpaper-neon-kitty-black-blue-creepy-cute-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Neon Pink Clouds Globe And Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-neon-pink-z5ak73y77pzcjwx8.jpg' alt='Download Cute Neon Pink Clouds Globe And Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-neon-pink-z5ak73y77pzcjwx8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Pink Neon Sign With A Playful Illustration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bright-pink-neon-sign-with-a-playful-illustration-am2p1xrudkmhjtex.jpg' alt='Bright Pink Neon Sign With A Playful Illustration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bright-pink-neon-sign-with-a-playful-illustration-am2p1xrudkmhjtex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

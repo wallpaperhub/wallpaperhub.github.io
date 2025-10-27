@@ -1,0 +1,129 @@
+<title>Najee Harris: Rising Star Running Back in the NFL</title>
+                    <meta name="description" content="Discover the impressive journey of Najee Harris, the standout NFL running back for the Pittsburgh Steelers. Explore his skills, achievements, and impact on the game, as he continues to make waves in professional football with his remarkable talent and dedication.">
+                    <meta name="keywords" content="najee harris">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/najee-harris">
+                            <span itemprop="name">najee harris</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Najee Harris: Rising Star Running Back in the NFL</h1>
+                <p>Najee Harris is a talented running back in the NFL, known for his powerful running style and agility. Drafted in 2021 by the Pittsburgh Steelers, he quickly became a key player, showcasing his skills through explosive plays and consistent performance. With a strong work ethic, Najee continues to rise as a star in professional football.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Najee Harris - Pittsburgh Steelers Running Back - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241457.png' alt='Najee Harris - Pittsburgh Steelers Running Back - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241457.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL legend takes cheap shot at Najee Harris">
+                                <img itemprop="contentUrl url" src='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/12/01/SMGW/76691600007-76-553868.jpeg?width=660&height=441&fit=crop&format=pjpg&auto=webp' alt='NFL legend takes cheap shot at Najee Harris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steelers Wire - USA Today" />
+                                </span>
+                                <a href='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/12/01/SMGW/76691600007-76-553868.jpeg?width=660&height=441&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers Meet With Najee Harris' Agent">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_5181,h_2914,x_0,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_steelers/01jn44x2ez37c1282mhg.jpg' alt='Steelers Meet With Najee Harris' Agent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC27" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_5181,h_2914,x_0,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_steelers/01jn44x2ez37c1282mhg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Najee Harris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dc/NajeeHarris2022.jpg' alt='Najee Harris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dc/NajeeHarris2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Najee Harris Steelers 2025 | jesseowensmemorialpark.com">
+                                <img itemprop="contentUrl url" src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.pittsburghmagazine.com/content/uploads/2023/10/s/o/2023-hou-1001kr-2872.jpg' alt='Najee Harris Steelers 2025 | jesseowensmemorialpark.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Jesse Owens Memorial Park" />
+                                </span>
+                                <a href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.pittsburghmagazine.com/content/uploads/2023/10/s/o/2023-hou-1001kr-2872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raiders Said to be Interested in Najee Harris - Raiders Beat">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.raidersbeat.com/wp-content/uploads/2025/03/IMG_6957.jpeg?fit=887%2C522&ssl=1' alt='Raiders Said to be Interested in Najee Harris - Raiders Beat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raiders Beat" />
+                                </span>
+                                <a href='https://i0.wp.com/www.raidersbeat.com/wp-content/uploads/2025/03/IMG_6957.jpeg?fit=887%2C522&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Najee Harris Pittsburgh Steelers 2025 | jesseowensmemorialpark.com">
+                                <img itemprop="contentUrl url" src='https://tdalabamamag.com/wp-content/uploads/2021/05/Najee-Harris-Steelers.jpeg' alt='Najee Harris Pittsburgh Steelers 2025 | jesseowensmemorialpark.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jesse Owens Memorial Park" />
+                                </span>
+                                <a href='https://tdalabamamag.com/wp-content/uploads/2021/05/Najee-Harris-Steelers.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers select RB Najee Harris in the 1st round of the 2021 NFL draft">
+                                <img itemprop="contentUrl url" src='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2025/02/26/SSTL/80409190007-76-489118.png?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Steelers select RB Najee Harris in the 1st round of the 2021 NFL draft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steelers Wire - USA Today" />
+                                </span>
+                                <a href='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2025/02/26/SSTL/80409190007-76-489118.png?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers Still In Play To Re-Sign Najee Harris">
+                                <img itemprop="contentUrl url" src='https://cdn.profootballrumors.com/files/2023/08/USATSI_21187862-scaled.jpg' alt='Steelers Still In Play To Re-Sign Najee Harris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1761">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Rumors" />
+                                </span>
+                                <a href='https://cdn.profootballrumors.com/files/2023/08/USATSI_21187862-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Najee Harris' 3 Best Free Agent Fits">
+                                <img itemprop="contentUrl url" src='https://www.thedraftnetwork.com/img/random/usatsi_24189608-1600x900.jpg' alt='Najee Harris' 3 Best Free Agent Fits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Draft Network" />
+                                </span>
+                                <a href='https://www.thedraftnetwork.com/img/random/usatsi_24189608-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

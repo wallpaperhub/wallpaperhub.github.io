@@ -1,0 +1,129 @@
+<title>Revamp Your Fireplace with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the simplicity of peel and stick wallpaper for your fireplace. This user-friendly option allows for an effortless decor update, giving your space a fresh, modern look. Ideal for renters or those seeking a quick change, elevate your home with minimal commitment!">
+                    <meta name="keywords" content="peel and stick wallpaper fireplace">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-fireplace">
+                            <span itemprop="name">peel and stick wallpaper fireplace</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Fireplace with Peel and Stick Wallpaper</h1>
+                <p>Transform your fireplace with stylish peel and stick wallpaper! This easy-to-use decor option adds character and flair without the hassle of traditional wallpaper. Perfect for a quick refresh or seasonal makeover, simply peel, stick, and enjoy a brand-new look. It's an ideal solution for renters and DIY enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Brick Wallpaper Peel and Stick Faux Stone Brick Stick on Wallpaper  23.6" X 118" Thick Removable Wall Paper Contact Paper Self-Adhesive Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hK9zktzuL.jpg' alt='Abyssaly Brick Wallpaper Peel and Stick Faux Stone Brick Stick on Wallpaper  23.6" X 118" Thick Removable Wall Paper Contact Paper Self-Adhesive Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hK9zktzuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fireplace Peel & Stick Wallpaper Removable Self-Adhesive Large  Wallpaper Roll 3D Wall Mural Sticker Home Decor for Living Room Bedroom :  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KrzDAqeGL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Fireplace Peel & Stick Wallpaper Removable Self-Adhesive Large  Wallpaper Roll 3D Wall Mural Sticker Home Decor for Living Room Bedroom :  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KrzDAqeGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 3D Stone Wallpaper Peel and Stick Textured Brick WallPaper for  Fireplace Kitchen Backsplash Living Room Bedroom Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Livelynine 3D Stone Wallpaper Peel and Stick Textured Brick WallPaper for  Fireplace Kitchen Backsplash Living Room Bedroom Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper 3d Murals Fireplace Wall Paper Wall Decor Vinyl 3d ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/c1454e/4498492166/il_570xN.4498492166_tsso.jpg' alt='Wallpaper 3d Murals Fireplace Wall Paper Wall Decor Vinyl 3d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/c1454e/4498492166/il_570xN.4498492166_tsso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Peel and Stick Brick Wallpaper, Grey/White 17.7"" x 393.7 ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/45ee380b-3b3f-42c3-951f-dc48abc0bc13.d588eaa73ac789f57af4983f8b3b8656.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Abyssaly Peel and Stick Brick Wallpaper, Grey/White 17.7"" x 393.7 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/45ee380b-3b3f-42c3-951f-dc48abc0bc13.d588eaa73ac789f57af4983f8b3b8656.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Beige Stone Peel and Stick Wallpaper 17.7" x 394" 3D Brick Wallpaper  Faux Brick Wallpaper Brick Self Adhesive Removable Wallpaper Textured ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8185TxJC8-L._AC_UF894,1000_QL80_.jpg' alt='WENMER Beige Stone Peel and Stick Wallpaper 17.7" x 394" 3D Brick Wallpaper  Faux Brick Wallpaper Brick Self Adhesive Removable Wallpaper Textured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8185TxJC8-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silverdale Starburst Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW43103-A_2000x2000.jpg?v=1637524586' alt='Silverdale Starburst Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW43103-A_2000x2000.jpg?v=1637524586' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Color Stripy leaves removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Soft-boho-design-farmhouse-living-room-with-botanical-removable-wallpaper.jpg?v=1595366124' alt='Sage Color Stripy leaves removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Soft-boho-design-farmhouse-living-room-with-botanical-removable-wallpaper.jpg?v=1595366124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giving our Fireplace Mantel a New Look with Wallpaper - At ...">
+                                <img itemprop="contentUrl url" src='https://atcharlotteshouse.com/wp-content/uploads/2021/07/UPDATING-A-FIREPLACE-MANTEL-WITH-REMOVABLE-WALLPAPER.jpeg' alt='Giving our Fireplace Mantel a New Look with Wallpaper - At ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="At Charlotte's House" />
+                                </span>
+                                <a href='https://atcharlotteshouse.com/wp-content/uploads/2021/07/UPDATING-A-FIREPLACE-MANTEL-WITH-REMOVABLE-WALLPAPER.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Wall Peel and Stick Wallpaper Single Roll">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2020/04/NW30900-Seabrook-Wallcoverings-NextWall-Stone-Wall-Peel-and-Stick-Wallpaper-Grey-Room-Setting.jpg?fit=500%2C500&ssl=1' alt='Stone Wall Peel and Stick Wallpaper Single Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2020/04/NW30900-Seabrook-Wallcoverings-NextWall-Stone-Wall-Peel-and-Stick-Wallpaper-Grey-Room-Setting.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

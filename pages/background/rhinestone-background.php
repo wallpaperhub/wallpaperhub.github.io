@@ -1,0 +1,129 @@
+<title>Stunning Rhinestone Backgrounds for Sparkling Designs</title>
+                    <meta name="description" content="Add a touch of glam to your designs with stunning rhinestone backgrounds. Perfect for events, invitations, and social media, these backgrounds offer a shimmering aesthetic that captivates and enhances your visuals effortlessly. Sparkle your way into unforgettable creations today!">
+                    <meta name="keywords" content="rhinestone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rhinestone-background">
+                            <span itemprop="name">rhinestone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rhinestone Backgrounds for Sparkling Designs</h1>
+                <p>Rhinestone backgrounds add a sparkling touch to any design. These decorative elements feature dazzling gemstones that catch the light, making them perfect for invitations, social media graphics, and party decor. They bring luxury and glamour to your projects, enhancing visual appeal and drawing attention to key elements.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Rhinestone Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1277352711/vector/silver-glitter-texture-silver-sparkling-pattern.jpg?s=612x612&w=0&k=20&c=FkRfcVbQFnRxpE8lrCC6Am5YxRjB6AdFkwCY8wIVmZs=' alt='2,200+ Rhinestone Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1277352711/vector/silver-glitter-texture-silver-sparkling-pattern.jpg?s=612x612&w=0&k=20&c=FkRfcVbQFnRxpE8lrCC6Am5YxRjB6AdFkwCY8wIVmZs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65,438 Rhinestone Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1290361114/photo/silver-rhinestones.jpg?s=612x612&w=gi&k=20&c=WBcWydtvyX_zgiDbl64Ba9cugJpF7iyr6774mi1t9D0=' alt='65,438 Rhinestone Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1290361114/photo/silver-rhinestones.jpg?s=612x612&w=gi&k=20&c=WBcWydtvyX_zgiDbl64Ba9cugJpF7iyr6774mi1t9D0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rhinestone Background Images – Browse 57,331 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/51/50/62/360_F_551506219_cyrEQvbUA7ZGamuPVlwWzX5Tb68yTKST.jpg' alt='Rhinestone Background Images – Browse 57,331 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/51/50/62/360_F_551506219_cyrEQvbUA7ZGamuPVlwWzX5Tb68yTKST.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,304 Rhinestones Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rhinestones-background-close-up-black-dress-all-covered-shiny-white-52380558.jpg' alt='18,304 Rhinestones Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rhinestones-background-close-up-black-dress-all-covered-shiny-white-52380558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rhinestone Background Images – Browse 57,331 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/27/80/82/360_F_127808245_SluCC5zGMrd0uMV3iBKlXGpFkfYXL9fd.jpg' alt='Rhinestone Background Images – Browse 57,331 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/27/80/82/360_F_127808245_SluCC5zGMrd0uMV3iBKlXGpFkfYXL9fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rhinestones Background Images – Browse 55,645 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/24/43/95/360_F_124439542_XWzHDJwgFcFhIc4xhzZrygi8fMj2bhey.jpg' alt='Rhinestones Background Images – Browse 55,645 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/24/43/95/360_F_124439542_XWzHDJwgFcFhIc4xhzZrygi8fMj2bhey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Rhinestone Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/962146634/vector/diamonds-on-light-gray-background.jpg?s=612x612&w=0&k=20&c=ZeREX6Azu-EVdz2Eatf80O6LtWbXwJI3ZDPYB3csj2Y=' alt='2,200+ Rhinestone Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/962146634/vector/diamonds-on-light-gray-background.jpg?s=612x612&w=0&k=20&c=ZeREX6Azu-EVdz2Eatf80O6LtWbXwJI3ZDPYB3csj2Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract rhinestones background. Texture of rhinestones ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2MFET08/abstract-rhinestones-background-texture-of-rhinestones-illuminated-with-multi-colored-light-pink-and-blue-shine-diamonds-close-up-flares-on-glass-2MFET08.jpg' alt='Abstract rhinestones background. Texture of rhinestones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2MFET08/abstract-rhinestones-background-texture-of-rhinestones-illuminated-with-multi-colored-light-pink-and-blue-shine-diamonds-close-up-flares-on-glass-2MFET08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rhinestone Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/photo-ground-texture-pattern_58702-13384.jpg' alt='Rhinestone Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/photo-ground-texture-pattern_58702-13384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Arranged Evenly Sparkles Rhinestones Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rhinestones-background-up1bwqsjibcfki2z.jpg' alt='Download Arranged Evenly Sparkles Rhinestones Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rhinestones-background-up1bwqsjibcfki2z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Black and White Palm Tree Photography</title>
+                    <meta name="description" content="Discover the beauty of palm trees captured in stunning black and white photography. Explore artistic interpretations and minimalist designs that highlight their iconic shapes and textures, perfect for decor and creativity. Enjoy the serene elegance of these tropical icons in a simple yet striking monochrome palette.">
+                    <meta name="keywords" content="palm tree black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/palm-tree-black-and-white">
+                            <span itemprop="name">palm tree black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Palm Tree Photography</h1>
+                <p>The striking silhouette of a palm tree in black and white evokes a sense of tranquility and nostalgia. This timeless subject highlights the elegant lines of the fronds against a contrasting backdrop. Capturing palm trees in monochrome emphasizes their unique form and texture, making them a classic choice for minimalist decor and artistic expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Palm Trees Photo Print. Los Angeles Palm Trees. L.A.  Photograph Print California Photo. Beach Decor, Trees, BW Art, Wall Art">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6772044/r/il/109fdc/2866076707/il_570xN.2866076707_qp3i.jpg' alt='Black and White Palm Trees Photo Print. Los Angeles Palm Trees. L.A.  Photograph Print California Photo. Beach Decor, Trees, BW Art, Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6772044/r/il/109fdc/2866076707/il_570xN.2866076707_qp3i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Black and white palm tree vector">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/black-white-palm-tree-vector_688395-14.jpg' alt='Premium Vector | Black and white palm tree vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/black-white-palm-tree-vector_688395-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""B&W Palms" | California">
+                                <img itemprop="contentUrl url" src='https://latitudesgallery.com/cdn/shop/products/web_bw_palms.jpg?v=1655604479' alt='"B&W Palms" | California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Latitudes Gallery" />
+                                </span>
+                                <a href='https://latitudesgallery.com/cdn/shop/products/web_bw_palms.jpg?v=1655604479' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Palm Tree">
+                                <img itemprop="contentUrl url" src='https://i.icanvas.com/SSE295?d=2&sh=v&t=1734534511' alt='Black Palm Tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCanvas" />
+                                </span>
+                                <a href='https://i.icanvas.com/SSE295?d=2&sh=v&t=1734534511' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,300+ Black And White Palm Tree Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/486569083/photo/black-and-white-photo-of-palm-trees.jpg?s=612x612&w=0&k=20&c=fu4dNJhVrepyVttRPQl2MhA7I893jyeUGHSazyBxiYY=' alt='10,300+ Black And White Palm Tree Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/486569083/photo/black-and-white-photo-of-palm-trees.jpg?s=612x612&w=0&k=20&c=fu4dNJhVrepyVttRPQl2MhA7I893jyeUGHSazyBxiYY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach palm tree in black and white Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/48/28/beach-palm-tree-in-black-and-white-vector-23204828.jpg' alt='Beach palm tree in black and white Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/48/28/beach-palm-tree-in-black-and-white-vector-23204828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm by the Beach Poster">
+                                <img itemprop="contentUrl url" src='https://img.posterstore.com/zoom/5-52807.jpg?auto=compress%2Cformat&fit=max&w=3840' alt='Palm by the Beach Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poster Store" />
+                                </span>
+                                <a href='https://img.posterstore.com/zoom/5-52807.jpg?auto=compress%2Cformat&fit=max&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Trees in Los Angeles, California, Black and White, Palm Tree Photo,  Wall Art, California, L.A. Photography Airbnb Wall Art Home Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6772044/r/il/ab4853/1213904544/il_fullxfull.1213904544_k2sn.jpg' alt='Palm Trees in Los Angeles, California, Black and White, Palm Tree Photo,  Wall Art, California, L.A. Photography Airbnb Wall Art Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6772044/r/il/ab4853/1213904544/il_fullxfull.1213904544_k2sn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Trees Black and White Stock Vector Image & Art - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2R9JAKX/palm-trees-black-and-white-2R9JAKX.jpg' alt='Palm Trees Black and White Stock Vector Image & Art - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2R9JAKX/palm-trees-black-and-white-2R9JAKX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm tree in black and white by Elena Elisseeva">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/palm-tree-elena-elisseeva.jpg' alt='Palm tree in black and white by Elena Elisseeva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/palm-tree-elena-elisseeva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

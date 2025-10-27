@@ -1,0 +1,129 @@
+<title>Celebrate with a Colorful Mexican Fiesta Background</title>
+                    <meta name="description" content="Discover the vibrant elements of a Mexican fiesta background! From colorful banners to lively decorations, create an inviting atmosphere for your celebrations. Perfect for parties, events, or festive gatherings, embrace the rich culture and joy of Mexico in your next fiesta.">
+                    <meta name="keywords" content="mexican fiesta background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mexican-fiesta-background">
+                            <span itemprop="name">mexican fiesta background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate with a Colorful Mexican Fiesta Background</h1>
+                <p>A Mexican fiesta background bursts with vibrant colors, lively patterns, and festive elements celebrating culture and tradition. Think papel picado banners fluttering in the breeze, colorful sarapes draped across tables, and playful piñatas hanging overhead. This atmosphere creates an inviting space for joyful gatherings filled with music, dancing, and delicious cuisine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/062/175/non_2x/cinco-de-mayo-background-free-vector.jpg' alt='Mexican Fiesta Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/062/175/non_2x/cinco-de-mayo-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-cinco-de-mayo-background_52683-84798.jpg' alt='Mexican Fiesta Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-cinco-de-mayo-background_52683-84798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Mexican Fiesta Photography Backdrop Banner Party Decorations  Fiesta Studio Props Kit, Cinco De Mayo Party Decorations, Mexican Photo  Booth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jr77DZjXL.jpg' alt='Amazon.com: Mexican Fiesta Photography Backdrop Banner Party Decorations  Fiesta Studio Props Kit, Cinco De Mayo Party Decorations, Mexican Photo  Booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jr77DZjXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Images – Browse 141,545 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/57/18/36/360_F_257183697_Y8rZTMZT27aftJH18h0zsC7qAWUTERtd.jpg' alt='Mexican Fiesta Images – Browse 141,545 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="879">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/57/18/36/360_F_257183697_Y8rZTMZT27aftJH18h0zsC7qAWUTERtd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Birthday Party Backdrop Mexican Fiesta Theme Party Backdrop  Taco Birthday Party Background Fiesta Luau Party Decoration Festival Party  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BKBBJ8IEL._AC_UF894,1000_QL80_.jpg' alt='Mexican Fiesta Birthday Party Backdrop Mexican Fiesta Theme Party Backdrop  Taco Birthday Party Background Fiesta Luau Party Decoration Festival Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BKBBJ8IEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,100+ Mexican Fiesta Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/938405926/vector/sombrero-maracas-confetti-on-white-wooden-background.jpg?s=612x612&w=0&k=20&c=fVFQPPvaE_iefq_FcRBt38yv1nOcedpy7yYZ_r3l1g8=' alt='6,100+ Mexican Fiesta Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/938405926/vector/sombrero-maracas-confetti-on-white-wooden-background.jpg?s=612x612&w=0&k=20&c=fVFQPPvaE_iefq_FcRBt38yv1nOcedpy7yYZ_r3l1g8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420+ Mexican Fiesta Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1696256720/vector/mexican-dia-de-los-muertos-holiday-background.jpg?s=612x612&w=0&k=20&c=8KL4sE2THYnQqcBWRR-VDiEKG8-RjGZmnS2u8gC7HeU=' alt='420+ Mexican Fiesta Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1696256720/vector/mexican-dia-de-los-muertos-holiday-background.jpg?s=612x612&w=0&k=20&c=8KL4sE2THYnQqcBWRR-VDiEKG8-RjGZmnS2u8gC7HeU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Backgrounds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-background-cinco-de-mayo-celebration_23-2150314965.jpg' alt='Mexican Fiesta Backgrounds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-background-cinco-de-mayo-celebration_23-2150314965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Backdrop | Backdrops Fantastic Australia">
+                                <img itemprop="contentUrl url" src='https://www.backdrops.com.au/wp-content/uploads/2019/02/CA-017-Mexican-Fiesta.jpg' alt='Mexican Fiesta Backdrop | Backdrops Fantastic Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic Australia" />
+                                </span>
+                                <a href='https://www.backdrops.com.au/wp-content/uploads/2019/02/CA-017-Mexican-Fiesta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Fiesta Background Banner Poster Design Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/633990155/display_1500/stock-vector-mexican-fiesta-background-banner-and-poster-design-with-flags-decorations-greeting-card-633990155.jpg' alt='Mexican Fiesta Background Banner Poster Design Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/633990155/display_1500/stock-vector-mexican-fiesta-background-banner-and-poster-design-with-flags-decorations-greeting-card-633990155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

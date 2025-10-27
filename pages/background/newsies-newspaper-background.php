@@ -1,0 +1,129 @@
+<title>Newsies: The Inspiring Story of Young Newspaper Sellers</title>
+                    <meta name="description" content="Explore the gripping history of the Newsies newspaper movement, where young boys fought for fair wages and better conditions in 19th-century New York City. Discover how their activism shaped labor rights and inspired future generations, leaving a lasting legacy on youth empowerment.">
+                    <meta name="keywords" content="newsies newspaper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/newsies-newspaper-background">
+                            <span itemprop="name">newsies newspaper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Newsies: The Inspiring Story of Young Newspaper Sellers</h1>
+                <p>The Newsies newspaper movement, originating in the late 19th century, involved young boys selling newspapers on the streets of New York City. Facing exploitation from publishers, they organized strikes to demand fair wages and better working conditions. Their struggle highlighted labor rights and the impact of youth activism, inspiring future generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newspaper Leg Set – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Resize-Newsies_legs-ES8153-ES8154-1.jpg' alt='Newspaper Leg Set – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Resize-Newsies_legs-ES8153-ES8154-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/media/Resize-Newspaper_backdrop-ES82711.jpg' alt='Newsies – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/media/Resize-Newspaper_backdrop-ES82711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newspaper Montage Projected Backdrops - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/groshdigital/watermark/0044.jpg' alt='Newspaper Montage Projected Backdrops - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/groshdigital/watermark/0044.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies Seize the Day Sticker, Broadway Show, Musical Theater ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22516953/r/il/ba05a1/3418642346/il_570xN.3418642346_6oo4.jpg' alt='Newsies Seize the Day Sticker, Broadway Show, Musical Theater ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22516953/r/il/ba05a1/3418642346/il_570xN.3418642346_6oo4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seize The Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/83/74/bd/8374bdcf00a95cc8f5ed9a15c9c8d5ab.jpg' alt='Seize The Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/83/74/bd/8374bdcf00a95cc8f5ed9a15c9c8d5ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies Newspapers | Prop Papers">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/a5106a_3ed8145127de4fc090c8763668fd5e15~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_250,h_333,al_c,q_90,enc_auto/a5106a_3ed8145127de4fc090c8763668fd5e15~mv2_d_3024_4032_s_4_2.jpg' alt='Newsies Newspapers | Prop Papers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prop Papers" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/a5106a_3ed8145127de4fc090c8763668fd5e15~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_250,h_333,al_c,q_90,enc_auto/a5106a_3ed8145127de4fc090c8763668fd5e15~mv2_d_3024_4032_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 SHS Newsies ideas | newsies, old photos, vintage new york">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/57/ca/a4/57caa4fd01e95852e03ce9a2a10f4ee5.jpg' alt='44 SHS Newsies ideas | newsies, old photos, vintage new york'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/57/ca/a4/57caa4fd01e95852e03ce9a2a10f4ee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies Rentals">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/47/7c/09477c59d5cedfac390930e51b18fd92.jpg' alt='Newsies Rentals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/47/7c/09477c59d5cedfac390930e51b18fd92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies the Musical Promotional Paper the Pape Handed Out at World ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/ac/c8/c6acc8d1edd75a52da57bed1cd309656.jpg' alt='Newsies the Musical Promotional Paper the Pape Handed Out at World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/ac/c8/c6acc8d1edd75a52da57bed1cd309656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsies Newspapers | Prop Papers">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/a5106a_86880c6f4de040bfbb165b7adae2a532~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_250,h_333,al_c,q_90,enc_auto/a5106a_86880c6f4de040bfbb165b7adae2a532~mv2_d_3024_4032_s_4_2.jpg' alt='Newsies Newspapers | Prop Papers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prop Papers" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/a5106a_86880c6f4de040bfbb165b7adae2a532~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_250,h_333,al_c,q_90,enc_auto/a5106a_86880c6f4de040bfbb165b7adae2a532~mv2_d_3024_4032_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

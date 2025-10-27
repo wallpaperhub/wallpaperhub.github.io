@@ -1,0 +1,129 @@
+<title>Emily Ratajkowski: Model, Actress & Feminist Icon</title>
+                    <meta name="description" content="Discover the life and career of Emily Ratajkowski, renowned model, actress, and advocate for women's rights. Explore her impact on fashion, film, and feminism, and get inspired by her journey of self-expression and empowerment.">
+                    <meta name="keywords" content="emily ratajkowski">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emily-ratajkowski">
+                            <span itemprop="name">emily ratajkowski</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Emily Ratajkowski: Model, Actress & Feminist Icon</h1>
+                <p>Emily Ratajkowski is an American model, actress, and author known for her striking beauty and confidence. Rising to fame through her appearances in music videos and films, she advocates for body positivity and women's rights. Beyond her career, she engages in thought-provoking discussions on feminism and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZjliYzIwNzgtYTM3OS00YjBkLTgzYzYtZTA2MTdkNGMwNTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Emily Ratajkowski - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZjliYzIwNzgtYTM3OS00YjBkLTgzYzYtZTA2MTdkNGMwNTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski (@emrata) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3514213904613385882' alt='Emily Ratajkowski (@emrata) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3514213904613385882' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski (@emrata) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3307878287920381302' alt='Emily Ratajkowski (@emrata) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3307878287920381302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/97/Emily_Ratajkowski_at_Emmy_Awards_2016.jpg' alt='Emily Ratajkowski - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/97/Emily_Ratajkowski_at_Emmy_Awards_2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy style lessons we can learn from Emily Ratajkowski | The ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2021/03/03/10/03094438-1a71c8fd-0839-4193-ac92-98777493bf98.jpg' alt='Pregnancy style lessons we can learn from Emily Ratajkowski | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3585">
+                                <meta itemprop="height" content="5568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2021/03/03/10/03094438-1a71c8fd-0839-4193-ac92-98777493bf98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bunch of pictures of a birthday gal in her element ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3388110386601546080' alt='bunch of pictures of a birthday gal in her element ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3388110386601546080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski on New Podcast, TikTok, Britney Spears, Adam Levine">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2022/10/Emily-Ratajowski.jpg' alt='Emily Ratajkowski on New Podcast, TikTok, Britney Spears, Adam Levine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2022/10/Emily-Ratajowski.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski Puts Her 'Famously Not Demure' Style on Display ...">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/66c5dfcdd14efec1c7576c09/master/w_2560%2Cc_limit/GettyImages-2167588908.jpg' alt='Emily Ratajkowski Puts Her 'Famously Not Demure' Style on Display ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/66c5dfcdd14efec1c7576c09/master/w_2560%2Cc_limit/GettyImages-2167588908.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski's Best Style Moments">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1402337889-min-1655198464.jpg?crop=1.00xw:0.834xh;0,0.0318xh&resize=980:*' alt='Emily Ratajkowski's Best Style Moments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1402337889-min-1655198464.jpg?crop=1.00xw:0.834xh;0,0.0318xh&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emily Ratajkowski's Daring Sculptural Dress at the 2024 Oscars ...">
+                                <img itemprop="contentUrl url" src='https://www.instyle.com/thmb/RGiIKqRl1LoGqwU9N1dI5xCs3Dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/emratafull-d01f69c6634348d8b2c1557d13606469.jpg' alt='Emily Ratajkowski's Daring Sculptural Dress at the 2024 Oscars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InStyle" />
+                                </span>
+                                <a href='https://www.instyle.com/thmb/RGiIKqRl1LoGqwU9N1dI5xCs3Dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/emratafull-d01f69c6634348d8b2c1557d13606469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Molly Yeh: Celebrated Chef & Food Writer</title>
+                    <meta name="description" content="Discover Molly Yeh, a dynamic chef and food writer known for her innovative recipes that blend Jewish and Asian flavors. Explore her culinary journey and delicious dishes that inspire home cooks. Join Molly's food adventures and experience her vibrant cooking style today!">
+                    <meta name="keywords" content="molly yeh">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/molly-yeh">
+                            <span itemprop="name">molly yeh</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Molly Yeh: Celebrated Chef & Food Writer</h1>
+                <p>Molly Yeh is a talented chef, food writer, and television personality celebrated for her delicious recipes and vibrant personality. Known for her unique blend of Jewish and Asian cuisines, Molly shares her culinary adventures on her blog and in her cookbook. Her passion for food, family, and culture resonates with fans everywhere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="about mynameisyeh — molly yeh">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/515ecaf0e4b0875140cb8775/35e5efa1-d37f-47e0-a02e-f0379ed63d53/rhubarb+rose+jam_Day3_HIWTEA-1827.jpg' alt='about mynameisyeh — molly yeh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="molly yeh" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/515ecaf0e4b0875140cb8775/35e5efa1-d37f-47e0-a02e-f0379ed63d53/rhubarb+rose+jam_Day3_HIWTEA-1827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="molly yeh">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/515ecaf0e4b0875140cb8775/ca2bd50a-c721-48ef-a3e7-192bf8448208/SweetFarm+cover+FINAL.jpg' alt='molly yeh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="2963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mynameisyeh.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/515ecaf0e4b0875140cb8775/ca2bd50a-c721-48ef-a3e7-192bf8448208/SweetFarm+cover+FINAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molly Yeh - From the Top">
+                                <img itemprop="contentUrl url" src='https://fromthetop.org/wp-content/uploads/mollyyeh-diamondnut-brownies-88.jpg' alt='Molly Yeh - From the Top'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="From the Top" />
+                                </span>
+                                <a href='https://fromthetop.org/wp-content/uploads/mollyyeh-diamondnut-brownies-88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Molly Yeh Became One of the Most Popular Food Bloggers in the ...">
+                                <img itemprop="contentUrl url" src='https://assets.bonappetit.com/photos/57f3ba928814db59579fdf68/16:9/w_2560%2Cc_limit/molly-on-the-range-book.jpg' alt='How Molly Yeh Became One of the Most Popular Food Bloggers in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1391">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bon Appetit" />
+                                </span>
+                                <a href='https://assets.bonappetit.com/photos/57f3ba928814db59579fdf68/16:9/w_2560%2Cc_limit/molly-on-the-range-book.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cookbooks — molly yeh">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/515ecaf0e4b0875140cb8775/t/5d839f3896fc3a2077aa8b66/1722913815839/MollyontheRange_cvr_05.27.16.jpg?format=1500w' alt='cookbooks — molly yeh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="molly yeh" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/515ecaf0e4b0875140cb8775/t/5d839f3896fc3a2077aa8b66/1722913815839/MollyontheRange_cvr_05.27.16.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Food Network Chef Molly Yeh Maintains Her Focus - Thrive Global">
+                                <img itemprop="contentUrl url" src='https://community.thriveglobal.com/wp-content/uploads/2020/03/Molly-Yeh-in-Food-Networks-Girl-Meets-Farm-403-1.jpeg' alt='How Food Network Chef Molly Yeh Maintains Her Focus - Thrive Global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thrive Global" />
+                                </span>
+                                <a href='https://community.thriveglobal.com/wp-content/uploads/2020/03/Molly-Yeh-in-Food-Networks-Girl-Meets-Farm-403-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molly Yeh Wants You to Cook Hotdish This Winter | Great Jones">
+                                <img itemprop="contentUrl url" src='https://greatjonesgoods.com/cdn/shop/articles/61_375x375_crop_center@2x.jpg?v=1649967327' alt='Molly Yeh Wants You to Cook Hotdish This Winter | Great Jones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Jones" />
+                                </span>
+                                <a href='https://greatjonesgoods.com/cdn/shop/articles/61_375x375_crop_center@2x.jpg?v=1649967327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="congratulations, @mollie.douthit and arvid ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3133901396059646752' alt='congratulations, @mollie.douthit and arvid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3133901396059646752' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molly Yeh | King Arthur Baking">
+                                <img itemprop="contentUrl url" src='https://www.kingarthurbaking.com/sites/default/files/styles/scaled_small/public/2022-07/Molly%20Yeh.jpg?itok=IfySxw3Z' alt='Molly Yeh | King Arthur Baking'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="King Arthur Baking" />
+                                </span>
+                                <a href='https://www.kingarthurbaking.com/sites/default/files/styles/scaled_small/public/2022-07/Molly%20Yeh.jpg?itok=IfySxw3Z' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molly Yeh on Cooking with a Baby in Tow – Solly Baby">
+                                <img itemprop="contentUrl url" src='http://sollybaby.com/cdn/shop/articles/Molly_Yeh_Featured.jpg?v=1645548853' alt='Molly Yeh on Cooking with a Baby in Tow – Solly Baby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solly Baby" />
+                                </span>
+                                <a href='http://sollybaby.com/cdn/shop/articles/Molly_Yeh_Featured.jpg?v=1645548853' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

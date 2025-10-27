@@ -1,0 +1,129 @@
+<title>Stunning iPhone Locked Wallpapers for Every Style</title>
+                    <meta name="description" content="Elevate your iPhone experience with our selection of beautiful locked wallpapers. Explore unique designs to match your mood and style. Perfect for personalizing your device while keeping it secure, these wallpapers are easy to download and set. Refresh your screen today!">
+                    <meta name="keywords" content="iphone locked wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-locked-wallpaper">
+                            <span itemprop="name">iphone locked wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Locked Wallpapers for Every Style</h1>
+                <p>Discover the beauty of iPhone locked wallpapers! Transform your device with stunning designs that reflect your personality. From breathtaking landscapes to minimalist art, there's a wallpaper for everyone. Find the perfect image to enhance your screen and keep it fresh. Customize your iPhone and enjoy a new look every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' alt='100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Locked HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/33/a1/2133a1eaa3ef9f20249e3e6f58b4f8dc.jpg' alt='Locked HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/33/a1/2133a1eaa3ef9f20249e3e6f58b4f8dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   My Phone is Locked Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/80/d6/1480d67743126164933f16da1361599e.jpg' alt='   My Phone is Locked Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/80/d6/1480d67743126164933f16da1361599e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist "Locked" Lockscreen - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8d/ef/60/8def60bd977620a499f504abae7a9b31.jpg' alt='Minimalist "Locked" Lockscreen - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8d/ef/60/8def60bd977620a499f504abae7a9b31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone lock screen wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='Iphone lock screen wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen wallpaper won't change - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/3b38f86b-af68-4d13-bf80-8a44644250e6' alt='Lockscreen wallpaper won't change - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/3b38f86b-af68-4d13-bf80-8a44644250e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Locked iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/7a/ce/9a7ace3885c5e03702c99b06a29849c7.jpg' alt='Locked iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/7a/ce/9a7ace3885c5e03702c99b06a29849c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just attempted to make my Desktop wallpaper as the lock screen for ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2zy8-5kxm9m_ydZP6ZQhZxmCIf-_4cRJ2OGvdEsS8ss.jpg?auto=webp&s=3ebaa0669c1e41b5df11248ec4311851edfd6bf1' alt='Just attempted to make my Desktop wallpaper as the lock screen for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2zy8-5kxm9m_ydZP6ZQhZxmCIf-_4cRJ2OGvdEsS8ss.jpg?auto=webp&s=3ebaa0669c1e41b5df11248ec4311851edfd6bf1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Lock screen wallpaper is dimmed - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/1d91af6a-2085-46dc-81e3-0b88c8aa4d81' alt='My Lock screen wallpaper is dimmed - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/1d91af6a-2085-46dc-81e3-0b88c8aa4d81' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ios - Retrieve Current iPhone Lock Screen Live Photo Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/VI5yK.gif' alt='ios - Retrieve Current iPhone Lock Screen Live Photo Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Different - Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/VI5yK.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

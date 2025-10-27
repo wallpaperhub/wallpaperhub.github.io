@@ -1,0 +1,129 @@
+<title>Stunning iPhone 12 Border Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover a collection of eye-catching border wallpapers for your iPhone 12. Perfect for adding a stylish frame to your screen, explore various designs that cater to all tastes. Refresh your device effortlessly with our curated selection, ensuring a unique look for your home and lock screens!">
+                    <meta name="keywords" content="iphone 12 border wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-12-border-wallpaper">
+                            <span itemprop="name">iphone 12 border wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 12 Border Wallpapers for a Fresh Look</h1>
+                <p>Elevate your iPhone 12 display with stunning border wallpapers! These unique designs frame your screen beautifully, enhancing its aesthetic without overpowering your icons. From minimalist patterns to vibrant artwork, find wallpapers that fit your style while keeping your home and lock screens fresh and visually appealing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 12 Rainbow Border and Grey Border : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/l2vxfkcjac171.jpg?width=1170&format=pjpg&auto=webp&s=89b800a06ebccaa4b2b9ddfe0052977ed6bb6da4' alt='Iphone 12 Rainbow Border and Grey Border : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/l2vxfkcjac171.jpg?width=1170&format=pjpg&auto=webp&s=89b800a06ebccaa4b2b9ddfe0052977ed6bb6da4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro Max Border Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/ca/5d/fcca5d69c4c6e915d9e0daf3631f5206.jpg' alt='iPhone 12 Pro Max Border Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/ca/5d/fcca5d69c4c6e915d9e0daf3631f5206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/b9/76/17b97694ec8f971134bb45f63c0cd236.jpg' alt='Apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/b9/76/17b97694ec8f971134bb45f63c0cd236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro Border Trans-Flag Wallpaper (Details in Comments ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vceaztlemz361.png?width=640&crop=smart&auto=webp&s=ae5b0bade0dfcf853222ce5cfd6f3b01796f4828' alt='iPhone 12 Pro Border Trans-Flag Wallpaper (Details in Comments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vceaztlemz361.png?width=640&crop=smart&auto=webp&s=ae5b0bade0dfcf853222ce5cfd6f3b01796f4828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers from iphone 12 pro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/df/4d/61df4d905c3cc9cce147b90d14eca83e.jpg' alt='Wallpapers from iphone 12 pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/df/4d/61df4d905c3cc9cce147b90d14eca83e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Border Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5628289.jpg' alt='iPhone 12 Border Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5628289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Neon frame, frame, glow frame, iphone 12 frame, iphone 12 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/411/916/HD-wallpaper-purple-neon-frame-frame-glow-frame-iphone-12-frame-iphone-12-pro-frame-iphone-12-pro-leave-neon-neon-glow-purple-neon.jpg' alt='Purple Neon frame, frame, glow frame, iphone 12 frame, iphone 12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/411/916/HD-wallpaper-purple-neon-frame-frame-glow-frame-iphone-12-frame-iphone-12-pro-frame-iphone-12-pro-leave-neon-neon-glow-purple-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/57/f1/fb/57f1fb3ab2d3ce3780d869a57dc00db9.jpg' alt='iPhone 12 Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/57/f1/fb/57f1fb3ab2d3ce3780d869a57dc00db9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for iPhone XS Max/11 pro, found a png online and created ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cw3i3nb3kt051.jpg?auto=webp&s=32bae73ede30f8861568a3e5d02fb632f7417003' alt='Wallpaper for iPhone XS Max/11 pro, found a png online and created ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cw3i3nb3kt051.jpg?auto=webp&s=32bae73ede30f8861568a3e5d02fb632f7417003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone RGB Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/cf/69/db/cf69dba5ebc626dfb87346fe0a4c1c70.jpg' alt='iPhone RGB Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/cf/69/db/cf69dba5ebc626dfb87346fe0a4c1c70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

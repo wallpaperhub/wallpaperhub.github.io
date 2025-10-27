@@ -1,0 +1,129 @@
+<title>What is an OFAC Check? Ensure Compliance Today!</title>
+                    <meta name="description" content="Learn the importance of an OFAC check in maintaining compliance with U.S. sanctions. Discover how this essential process protects your organization from engaging with prohibited individuals or entities. Keep your business secure with our comprehensive guide on OFAC verification.">
+                    <meta name="keywords" content="what is an ofac check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-an-ofac-check">
+                            <span itemprop="name">what is an ofac check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is an OFAC Check? Ensure Compliance Today!</h1>
+                <p>An OFAC check, or Office of Foreign Assets Control check, is a financial review process aimed at ensuring compliance with U.S. sanctions. Organizations conduct these checks to verify that clients, partners, or transactions do not involve individuals or entities on the OFAC's Specially Designated Nationals list, helping to avoid legal risks and penalties.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OFAC Screening Requirements: Best Practices for Compliance - Alessa">
+                                <img itemprop="contentUrl url" src='https://alessa.com/wp-content/uploads/2022/05/OFAC-Screening-Infographic-3-1.jpg' alt='OFAC Screening Requirements: Best Practices for Compliance - Alessa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alessa" />
+                                </span>
+                                <a href='https://alessa.com/wp-content/uploads/2022/05/OFAC-Screening-Infographic-3-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is An OFAC Check? - Compliancely">
+                                <img itemprop="contentUrl url" src='https://compliancely.com/blog/wp-content/uploads/2022/03/What-Is-An-OFAC-Check-1024x536.png' alt='What Is An OFAC Check? - Compliancely'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compliancely" />
+                                </span>
+                                <a href='https://compliancely.com/blog/wp-content/uploads/2022/03/What-Is-An-OFAC-Check-1024x536.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is an OFAC Background Check | When Should You Have One">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2020/07/What-is-an-OFAC-Background-Check-and-When-Should-You-Conduct-One.jpg' alt='What is an OFAC Background Check | When Should You Have One'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2020/07/What-is-an-OFAC-Background-Check-and-When-Should-You-Conduct-One.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customers on the Naughty List? Check With OFAC - KPA">
+                                <img itemprop="contentUrl url" src='https://kpa.io/wp-content/uploads/2021/03/ofac-workflow.png' alt='Customers on the Naughty List? Check With OFAC - KPA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2343">
+                                <meta itemprop="height" content="4531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KPA" />
+                                </span>
+                                <a href='https://kpa.io/wp-content/uploads/2021/03/ofac-workflow.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OFAC SDN Search – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/Sample-OFAC-Search-Result.jpg' alt='OFAC SDN Search – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/Sample-OFAC-Search-Result.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run an OFAC Check + 5 OFAC API Tools to Automate It">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63beb0e246123248d33d70ab/67760b8a867ff9f7ddd3a472_66b3759c8b12ee0aef149a8e_645d021718fe626729fc173c_ofac-sort-export-print-results.png' alt='How to Run an OFAC Check + 5 OFAC API Tools to Automate It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Middesk" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63beb0e246123248d33d70ab/67760b8a867ff9f7ddd3a472_66b3759c8b12ee0aef149a8e_645d021718fe626729fc173c_ofac-sort-export-print-results.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is an OFAC Background Check Right for your Candidates? | DISA ...">
+                                <img itemprop="contentUrl url" src='https://crimcheck.net/wp-content/uploads/2019/01/Is-an-OFAC-Background-Check-Right-for-your-Candidates.jpg' alt='Is an OFAC Background Check Right for your Candidates? | DISA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='https://crimcheck.net/wp-content/uploads/2019/01/Is-an-OFAC-Background-Check-Right-for-your-Candidates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions About OFAC | Visual OFAC">
+                                <img itemprop="contentUrl url" src='https://www.visualofac.com/wp-content/uploads/2018/08/OFAC-List-Screening-from-Visual-OFAC.png' alt='Frequently Asked Questions About OFAC | Visual OFAC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visual OFAC" />
+                                </span>
+                                <a href='https://www.visualofac.com/wp-content/uploads/2018/08/OFAC-List-Screening-from-Visual-OFAC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run an OFAC Check + 5 OFAC API Tools to Automate It">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63beb0e246123248d33d70ab/67760b8a867ff9f7ddd3a464_66b3759c8b12ee0aef149a7f_645d0234e3f6bf4a1070165e_ofac-specific-entity-details.png' alt='How to Run an OFAC Check + 5 OFAC API Tools to Automate It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Middesk" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63beb0e246123248d33d70ab/67760b8a867ff9f7ddd3a464_66b3759c8b12ee0aef149a7f_645d0234e3f6bf4a1070165e_ofac-specific-entity-details.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OFAC Check - iSoftpull">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/61e7438b67e97b93ebe88843/63176cec5dadf7e4b1f65a56_OFAC-Check.jpg' alt='OFAC Check - iSoftpull'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iSoftpull" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/61e7438b67e97b93ebe88843/63176cec5dadf7e4b1f65a56_OFAC-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adventures in Bluey’s Backyard: Exploring Fun for Kids</title>
+                    <meta name="description" content="Discover the magic of Bluey’s backyard! It’s a hub of creativity and fun, where adventures come to life. Join Bluey and friends as they explore nature, play games, and learn valuable lessons, all while enjoying the joys of childhood. Perfect for kids and families alike! Find out more now!">
+                    <meta name="keywords" content="bluey backyard">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bluey-backyard">
+                            <span itemprop="name">bluey backyard</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adventures in Bluey’s Backyard: Exploring Fun for Kids</h1>
+                <p>Bluey’s backyard is a vibrant playground filled with adventures and imagination. From games of chase to picnics with friends, each day brings new fun. The garden is a space where Bluey discovers nature, builds friendships, and learns valuable life lessons. It’s a reflection of childhood joy, creativity, and family bonding.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Let's Play! | Backyard Episode | Retro Gaming">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dBevsySRXss/maxresdefault.jpg' alt='Bluey Let's Play! | Backyard Episode | Retro Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dBevsySRXss/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun in the Backyard! | Bluey">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/r7REJkTpjOo/maxresdefault.jpg' alt='Fun in the Backyard! | Bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/r7REJkTpjOo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's Backyard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/35/f4/cc35f433c89433b776f494c4160b634d.jpg' alt='Bluey's Backyard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/35/f4/cc35f433c89433b776f494c4160b634d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XD : r/bluey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zwwhalud43ra1.png' alt='XD : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zwwhalud43ra1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What kind of tree does Bluey have in her front yard? It's an ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hp69piwhxcc81.jpg?width=640&crop=smart&auto=webp&s=a79911e95ac1202c24520fb2c86d2df2e739b1ce' alt='What kind of tree does Bluey have in her front yard? It's an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hp69piwhxcc81.jpg?width=640&crop=smart&auto=webp&s=a79911e95ac1202c24520fb2c86d2df2e739b1ce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Season 3, Episode 2 | Obstacle Course">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/08/Obstacle_Course_Still_3.jpg' alt='Bluey Season 3, Episode 2 | Obstacle Course'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/08/Obstacle_Course_Still_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey: Big Backyard: A Coloring Book">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AMlVlojNL._AC_UF1000,1000_QL80_.jpg' alt='Bluey: Big Backyard: A Coloring Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AMlVlojNL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo - Characters | Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/07/Backyard-Tree-Closeup-scaled.jpg' alt='Bingo - Characters | Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/07/Backyard-Tree-Closeup-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - Some ideas to make your very own backyard obstacle course ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1020878935392897' alt='Bluey - Some ideas to make your very own backyard obstacle course ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1020878935392897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - The Backyard, with Pizza Oven by PorshaCrystal12 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/430c5af3-c7d0-40b4-912a-f67a018fb24b/dg89dd6-2889aa18-aa45-4d80-8f35-4b154d32f963.png/v1/fill/w_1032,h_774,q_70,strp/bluey___the_backyard__with_pizza_oven_by_porshacrystal12_dg89dd6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNDMwYzVhZjMtYzdkMC00MGI0LTkxMmEtZjY3YTAxOGZiMjRiXC9kZzg5ZGQ2LTI4ODlhYTE4LWFhNDUtNGQ4MC04ZjM1LTRiMTU0ZDMyZjk2My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KKYC5fnP4TQBoxg1S5bHYN1y0FnL8i1SUTpCYDfIFt4' alt='Bluey - The Backyard, with Pizza Oven by PorshaCrystal12 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/430c5af3-c7d0-40b4-912a-f67a018fb24b/dg89dd6-2889aa18-aa45-4d80-8f35-4b154d32f963.png/v1/fill/w_1032,h_774,q_70,strp/bluey___the_backyard__with_pizza_oven_by_porshacrystal12_dg89dd6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNDMwYzVhZjMtYzdkMC00MGI0LTkxMmEtZjY3YTAxOGZiMjRiXC9kZzg5ZGQ2LTI4ODlhYTE4LWFhNDUtNGQ4MC04ZjM1LTRiMTU0ZDMyZjk2My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KKYC5fnP4TQBoxg1S5bHYN1y0FnL8i1SUTpCYDfIFt4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

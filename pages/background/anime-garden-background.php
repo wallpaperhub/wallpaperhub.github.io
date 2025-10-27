@@ -1,0 +1,129 @@
+<title>Stunning Anime Garden Backgrounds: Nature Meets Fantasy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="anime garden background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-garden-background">
+                            <span itemprop="name">anime garden background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Garden Backgrounds: Nature Meets Fantasy</h1>
+                <p>Anime garden backgrounds are a vibrant blend of nature and fantasy, perfect for setting the mood in illustrations or animations. These stunning scenes showcase lush greenery, blooming flowers, and serene ponds, often adorned with charming characters. Ideal for evoking emotions and enhancing storytelling, an anime garden offers an escape into whimsical worlds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/f8/b1/99f8b19781775a0654d838fc509b0b61.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/f8/b1/99f8b19781775a0654d838fc509b0b61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime park garden background - Recraft">
+                                <img itemprop="contentUrl url" src='https://img.recraft.ai/pN2Qv4B9miGr6dt1bFr60oyXCl6Iyy-3eHLLj-ukRng/rs:fit:1820:1024:0/q:95/g:no/plain/abs://prod/images/190b249a-8262-48e2-a528-79d3f571e52f@jpg' alt='anime park garden background - Recraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recraft" />
+                                </span>
+                                <a href='https://img.recraft.ai/pN2Qv4B9miGr6dt1bFr60oyXCl6Iyy-3eHLLj-ukRng/rs:fit:1820:1024:0/q:95/g:no/plain/abs://prod/images/190b249a-8262-48e2-a528-79d3f571e52f@jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medusa's Garden by tamiart on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/83/b7/3683b7cde5d419e6256a0695dc790873.jpg' alt='Medusa's Garden by tamiart on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/83/b7/3683b7cde5d419e6256a0695dc790873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime garden, potions, alchemy, lanterns, plants, night, Anime, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/167/758/HD-wallpaper-anime-garden-potions-alchemy-lanterns-plants-night-anime.jpg' alt='Anime garden, potions, alchemy, lanterns, plants, night, Anime, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/167/758/HD-wallpaper-anime-garden-potions-alchemy-lanterns-plants-night-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Garden Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20241231/pngtree-animated-kinder-garden-image_16540717.jpg' alt='Anime Garden Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20241231/pngtree-animated-kinder-garden-image_16540717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese garden. Background for "Love, Money, Rock'n'Roll" visual ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2895834020337091832' alt='Japanese garden. Background for "Love, Money, Rock'n'Roll" visual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2895834020337091832' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Garden Of Words Aesthetic Anime Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-anime-background-ry4uosq5nwintpht.jpg' alt='Download Garden Of Words Aesthetic Anime Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-anime-background-ry4uosq5nwintpht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Japanese Garden (Anime Background) (day, rain ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T4yhQuLqLBrXzD2JBy5H-yBB-4HXYgK3b0aJ5YJe-7bpOdNsN-t7maPPMYSTDIrouxtbNig8EGWDpOYx2W2cJ8PhkqBYoCQFiw7P7ljJH7_s4yJlErjURFBQeUtAD7e9q97GXh1UjhQ/s640/House+%2528Anime+Background%2529+015+N.jpg' alt='Anime Landscape: Japanese Garden (Anime Background) (day, rain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T4yhQuLqLBrXzD2JBy5H-yBB-4HXYgK3b0aJ5YJe-7bpOdNsN-t7maPPMYSTDIrouxtbNig8EGWDpOYx2W2cJ8PhkqBYoCQFiw7P7ljJH7_s4yJlErjURFBQeUtAD7e9q97GXh1UjhQ/s640/House+%2528Anime+Background%2529+015+N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Garden, cg, anime, garden, sunset, no people, scenery ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/34/96/HD-wallpaper-anime-garden-cg-anime-garden-sunset-no-people-scenery-landscape.jpg' alt='Anime Garden, cg, anime, garden, sunset, no people, scenery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/34/96/HD-wallpaper-anime-garden-cg-anime-garden-sunset-no-people-scenery-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Japan Garden Winter">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/050/095/092/large/keiraworks-japanese-park-with-path-res.jpg?1654044948&dl=1' alt='ArtStation - Japan Garden Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/050/095/092/large/keiraworks-japanese-park-with-path-res.jpg?1654044948&dl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

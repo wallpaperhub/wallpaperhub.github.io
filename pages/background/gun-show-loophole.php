@@ -1,0 +1,129 @@
+<title>Understanding the Gun Show Loophole</title>
+                    <meta name="description" content="Explore the gun show loophole, a gap in firearm regulations that allows private sales without background checks, potentially endangering public safety. Discover the implications and the ongoing debate surrounding this controversial issue.">
+                    <meta name="keywords" content="gun show loophole">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gun-show-loophole">
+                            <span itemprop="name">gun show loophole</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Gun Show Loophole</h1>
+                <p>The "gun show loophole" refers to a legal gap that allows private sellers at gun shows to sell firearms without conducting background checks on buyers. This means individuals can purchase guns without the same scrutiny required of licensed dealers, raising concerns about public safety and the potential for firearms to fall into the wrong hands.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What The So-Called Gun Show 'Loophole' Really Looks Like | Texas ...">
+                                <img itemprop="contentUrl url" src='https://www.texasstandard.org/wp-content/uploads/2019/02/gunshow.jpg' alt='What The So-Called Gun Show 'Loophole' Really Looks Like | Texas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Standard" />
+                                </span>
+                                <a href='https://www.texasstandard.org/wp-content/uploads/2019/02/gunshow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Show Loophole Stock Photos and Pictures - 207 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/tulsa-oklahoma-november-9-2019-260nw-1563620482.jpg' alt='Gun Show Loophole Stock Photos and Pictures - 207 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/tulsa-oklahoma-november-9-2019-260nw-1563620482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obama's plan sparks renewed debate over 'gun show loophole'">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/43/07/72/9207457/6/1920x0.jpg' alt='Obama's plan sparks renewed debate over 'gun show loophole''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Chronicle" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/43/07/72/9207457/6/1920x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas trying to block "gun show loophole" closure - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_dZgsyA6jXM/sddefault.jpg' alt='Texas trying to block "gun show loophole" closure - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_dZgsyA6jXM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Show Loophole Stock Photos and Pictures - 207 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/tulsa-oklahoma-november-9-2019-260nw-1563620929.jpg' alt='Gun Show Loophole Stock Photos and Pictures - 207 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/tulsa-oklahoma-november-9-2019-260nw-1563620929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden administration finalizes rule to close 'gun show loophole ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/14645844_041124-wpvi-gun-show-loophole-6a-vo-video--vid.jpg' alt='Biden administration finalizes rule to close 'gun show loophole ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/14645844_041124-wpvi-gun-show-loophole-6a-vo-video--vid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden administration aims to close 'gun show loophole'">
+                                <img itemprop="contentUrl url" src='https://media.khou.com/assets/KHOU/images/c8538969-a344-444e-a94c-4c6395e6c04a/c8538969-a344-444e-a94c-4c6395e6c04a_1920x1080.jpg' alt='Biden administration aims to close 'gun show loophole''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KHOU" />
+                                </span>
+                                <a href='https://media.khou.com/assets/KHOU/images/c8538969-a344-444e-a94c-4c6395e6c04a/c8538969-a344-444e-a94c-4c6395e6c04a_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does 'Gun Show Loophole' Increase Firearm Injuries? | MedPage Today">
+                                <img itemprop="contentUrl url" src='https://clf1.medpagetoday.com/assets/images/gunmap1023.png' alt='Does 'Gun Show Loophole' Increase Firearm Injuries? | MedPage Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MedPage Today" />
+                                </span>
+                                <a href='https://clf1.medpagetoday.com/assets/images/gunmap1023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Judge blocks rule that closes 'gun show loophole' in Texas">
+                                <img itemprop="contentUrl url" src='https://images.radio.com/aiu-media/GettyImages1326757180-2c56986c-023b-4c58-8c2e-8cacbf9a6ec1.jpg?width=800' alt='Judge blocks rule that closes 'gun show loophole' in Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audacy" />
+                                </span>
+                                <a href='https://images.radio.com/aiu-media/GettyImages1326757180-2c56986c-023b-4c58-8c2e-8cacbf9a6ec1.jpg?width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Gun Show Loophole | Is there a Gun Show Loophole in NJ">
+                                <img itemprop="contentUrl url" src='https://www.newjerseygunlawyers.com/wp-content/uploads/2020/04/gun-show-loophole.jpg' alt='What is the Gun Show Loophole | Is there a Gun Show Loophole in NJ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Jersey Gun Lawyers" />
+                                </span>
+                                <a href='https://www.newjerseygunlawyers.com/wp-content/uploads/2020/04/gun-show-loophole.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

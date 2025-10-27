@@ -1,0 +1,129 @@
+<title>Luxury Living Room Wallpaper Ideas for Stylish Homes</title>
+                    <meta name="description" content="Discover exquisite luxury living room wallpaper options that enhance your home. Explore rich textures and stunning patterns designed to elevate your space and reflect your unique style. Turn your living room into a lavish retreat with our curated selection! Perfect for mobile browsing.">
+                    <meta name="keywords" content="luxury living room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/luxury-living-room-wallpaper">
+                            <span itemprop="name">luxury living room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxury Living Room Wallpaper Ideas for Stylish Homes</h1>
+                <p>Elevate your living space with luxury living room wallpaper that exudes sophistication. Choose from opulent textures, elegant patterns, and rich colors to create a stunning focal point. Whether you prefer a classic damask, modern metallics, or lush botanical prints, the right wallpaper can transform your living room into a stylish sanctuary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Three-Dimensional Diamond Embossed Gold Jewelry Flower European ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71E93xbn6XL.jpg' alt='3D Three-Dimensional Diamond Embossed Gold Jewelry Flower European ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71E93xbn6XL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Abstract Gold Marble Wallpaper Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30983923/r/il/571516/5631612735/il_570xN.5631612735_1ctr.jpg' alt='Luxury Abstract Gold Marble Wallpaper Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30983923/r/il/571516/5631612735/il_570xN.5631612735_1ctr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Luxury Wallpaper Gold Strip Wall Design Peel N Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37434702/r/il/54a995/6033001792/il_570xN.6033001792_59yq.jpg' alt='Gold Luxury Wallpaper Gold Strip Wall Design Peel N Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37434702/r/il/54a995/6033001792/il_570xN.6033001792_59yq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls, buy wallpaper living room in UK ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.co.uk/products/43000/43058/u93578pig14r_900.webp' alt='Wallpaper for living room walls, buy wallpaper living room in UK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper and wall murals UK buy online at Uwalls.co.uk" />
+                                </span>
+                                <a href='https://static.uwalls.co.uk/products/43000/43058/u93578pig14r_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D European Style Damascus Luxury Bedroom Living Room PVC Wallpaper 57sq.ft  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/64kAAOSwG8tgP4OE/s-l400.jpg' alt='3D European Style Damascus Luxury Bedroom Living Room PVC Wallpaper 57sq.ft  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/64kAAOSwG8tgP4OE/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom "Beige Splash" Wallpaper Wall Mural 8'T x 218"W - Prepasted">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/Screenshot2024-02-06at11.02.05AM.png?v=1707235673&width=1214' alt='Custom "Beige Splash" Wallpaper Wall Mural 8'T x 218"W - Prepasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/Screenshot2024-02-06at11.02.05AM.png?v=1707235673&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper | 40+ Unique Designer Wallpapers | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1718700328-montpellierlscat.jpg?auto=format&dpr=0.23&w=2200' alt='Luxury Wallpaper | 40+ Unique Designer Wallpapers | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1718700328-montpellierlscat.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Black Gold Jewelry TV Sofa Wall Painting European ...">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g22/M00/CC/C8/rBVaEmKLQq6ATPR7ABMgHGxEgtE985.jpg' alt='Custom 3D Black Gold Jewelry TV Sofa Wall Painting European ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g22/M00/CC/C8/rBVaEmKLQq6ATPR7ABMgHGxEgtE985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro European Style 3D Stereo Golden Rose Flower Diamond Swan ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SnTb8W5dL.jpg' alt='Retro European Style 3D Stereo Golden Rose Flower Diamond Swan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SnTb8W5dL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper Luxury TV Background Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30983923/r/il/42e236/3783029120/il_570xN.3783029120_gkmk.jpg' alt='Marble Wallpaper Luxury TV Background Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30983923/r/il/42e236/3783029120/il_570xN.3783029120_gkmk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

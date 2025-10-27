@@ -1,0 +1,129 @@
+<title>Erling Haaland: The Goal-Scoring Sensation</title>
+                    <meta name="description" content="Discover the brilliance of Erling Haaland, the Norwegian football star making headlines with his phenomenal goal-scoring prowess and unmatched talent. Follow his journey at Manchester City and witness his rise as one of football's most electrifying forward talents. Don’t miss the action!">
+                    <meta name="keywords" content="haaland">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/haaland">
+                            <span itemprop="name">haaland</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Erling Haaland: The Goal-Scoring Sensation</h1>
+                <p>Erling Haaland is a sensational Norwegian footballer known for his incredible goal-scoring ability and athleticism. Currently playing for Manchester City, he has taken the football world by storm with his record-breaking performances. Haaland's skill, speed, and power make him a formidable forward, captivating fans globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ManCity20240722-031_%28cropped%29.jpg/1200px-ManCity20240722-031_%28cropped%29.jpg' alt='Erling Haaland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ManCity20240722-031_%28cropped%29.jpg/1200px-ManCity20240722-031_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland - Profile, News & Videos - Manchester City F.C">
+                                <img itemprop="contentUrl url" src='https://www.mancity.com/meta/media/edspvvtx/erling-haaland.png' alt='Erling Haaland - Profile, News & Videos - Manchester City F.C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manchester City FC" />
+                                </span>
+                                <a href='https://www.mancity.com/meta/media/edspvvtx/erling-haaland.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland: 'The only thing City miss is the Champions League ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/738ce55b0210242ed89525dc7217389fcdd954f6/867_295_3097_1858/master/3097.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=93c023f0b3182e74b5320381712d32d3' alt='Erling Haaland: 'The only thing City miss is the Champions League ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/738ce55b0210242ed89525dc7217389fcdd954f6/867_295_3097_1858/master/3097.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=93c023f0b3182e74b5320381712d32d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland signs monster contract with Man City, reported to ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-01/250117-haaland-mb-1415-c28f15.jpg' alt='Erling Haaland signs monster contract with Man City, reported to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-01/250117-haaland-mb-1415-c28f15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FC Barcelona Knows Haaland Transfer Cost After Talks With City Star">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/661e3c4a4777fb47d9f86daa/Erling-Haaland-wants-to-move-to-a-La-Liga-giants-such-as-Real-Madrid-or-FC-Barcelona-/960x0.jpg?format=jpg&width=960' alt='FC Barcelona Knows Haaland Transfer Cost After Talks With City Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/661e3c4a4777fb47d9f86daa/Erling-Haaland-wants-to-move-to-a-La-Liga-giants-such-as-Real-Madrid-or-FC-Barcelona-/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man City: 'Significant update' on Erling Haaland exit after Euro ...">
+                                <img itemprop="contentUrl url" src='https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2024/05/10184425/Erling-Haaland-2.jpg' alt='Man City: 'Significant update' on Erling Haaland exit after Euro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Football365" />
+                                </span>
+                                <a href='https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2024/05/10184425/Erling-Haaland-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erling_Haaland_2023_%28cropped-v2%29.jpg/170px-Erling_Haaland_2023_%28cropped-v2%29.jpg' alt='Erling Haaland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erling_Haaland_2023_%28cropped-v2%29.jpg/170px-Erling_Haaland_2023_%28cropped-v2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland | Stats | Man City | UEFA Champions League 2024/25 ...">
+                                <img itemprop="contentUrl url" src='https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250103758.webp' alt='Erling Haaland | Stats | Man City | UEFA Champions League 2024/25 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UEFA.com" />
+                                </span>
+                                <a href='https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250103758.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland, a record marksman - FIFPRO World Players' Union">
+                                <img itemprop="contentUrl url" src='https://fifpro.org/media/1i0cxvm4/haaland_ucl.jpg' alt='Erling Haaland, a record marksman - FIFPRO World Players' Union'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FIFPro" />
+                                </span>
+                                <a href='https://fifpro.org/media/1i0cxvm4/haaland_ucl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erling Haaland: Man City striker still a doubt to face Liverpool ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/25/02/2048x1152/skysports-erling-haaland-man-city_6829788.jpg?20250215171006' alt='Erling Haaland: Man City striker still a doubt to face Liverpool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/25/02/2048x1152/skysports-erling-haaland-man-city_6829788.jpg?20250215171006' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

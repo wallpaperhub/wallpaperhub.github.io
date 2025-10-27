@@ -1,0 +1,129 @@
+<title>Revive Your Space with 70's Floral Wallpaper</title>
+                    <meta name="description" content="Explore the charm of 70's floral wallpaper! With bold colors and intricate patterns, these retro designs bring life to any room. Perfect for adding a nostalgic touch, they make a stylish statement in modern decor. Discover how to embrace this vibrant trend in your home today!">
+                    <meta name="keywords" content="70's floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/70s-floral-wallpaper">
+                            <span itemprop="name">70's floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive Your Space with 70's Floral Wallpaper</h1>
+                <p>70's floral wallpaper is a vibrant emblem of retro design, featuring bold colors and intricate patterns deeply inspired by nature. These wallpapers transformed living spaces, evoking a sense of warmth and nostalgia. Perfect for creating statement walls, they add a unique charm and character reminiscent of a playful and dynamic era.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Retro Floral White Vintage 70s Flower Power  Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/617DQkCZEHL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Retro Floral White Vintage 70s Flower Power  Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/617DQkCZEHL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Floral Vinyl Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_9710_832ceda6-9f59-4a93-b424-8f7c9d1b4098.jpg?v=1456865734' alt='1970s Floral Vinyl Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_9710_832ceda6-9f59-4a93-b424-8f7c9d1b4098.jpg?v=1456865734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s floral">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/70s-floral-pattern-repeat-removable-wallpaper-design.jpg' alt='70s floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/70s-floral-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 70s Orange Floral Removable Wallpaper Mid Century Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22722746/r/il/a5ca31/4370711761/il_570xN.4370711761_mrq7.jpg' alt='Retro 70s Orange Floral Removable Wallpaper Mid Century Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22722746/r/il/a5ca31/4370711761/il_570xN.4370711761_mrq7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Floral Wallpaper 70s | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/retro-floral-wallpaper-70s/_1000xAUTO_cover_center-center_line/Retro-Floral-Wallpaper-70s-6.jpeg' alt='Retro Floral Wallpaper 70s | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/retro-floral-wallpaper-70s/_1000xAUTO_cover_center-center_line/Retro-Floral-Wallpaper-70s-6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s Wallpaper Removable Peel and Stick Retro Floral Boho 1970s ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/27c618/3572346934/il_570xN.3572346934_enwn.jpg' alt='70s Wallpaper Removable Peel and Stick Retro Floral Boho 1970s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/27c618/3572346934/il_570xN.3572346934_enwn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro wallpaper 70s floral pattern - orange, yellow, brown">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/80/8e/d5/1738407409/bc0864fb0d9c3c84755b1fdb41356317.webp' alt='Retro wallpaper 70s floral pattern - orange, yellow, brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/80/8e/d5/1738407409/bc0864fb0d9c3c84755b1fdb41356317.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70's Style Large Yellow And Orange Flowers Illustration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/15-8-scaled.jpg' alt='70's Style Large Yellow And Orange Flowers Illustration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/15-8-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s floral wallpaper.">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/products/429737dca8445e958a82c94da88c6b2a_3600x.jpg?v=1688015985' alt='70s floral wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/products/429737dca8445e958a82c94da88c6b2a_3600x.jpg?v=1688015985' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Retro Floral White Vintage 70s ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71C14+m-OkL.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Retro Floral White Vintage 70s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71C14+m-OkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

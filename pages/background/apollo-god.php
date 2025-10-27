@@ -1,0 +1,129 @@
+<title>Discover Apollo: The Greek God of Sun and Harmony</title>
+                    <meta name="description" content="Explore the fascinating world of Apollo, the Greek god of the sun, music, and prophecy. Learn about his influence on art, culture, and mythology in our concise guide, perfect for mobile viewing!">
+                    <meta name="keywords" content="apollo god">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/apollo-god">
+                            <span itemprop="name">apollo god</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Apollo: The Greek God of Sun and Harmony</h1>
+                <p>Apollo, the ancient Greek god of the sun, music, and prophecy, embodies beauty, harmony, and enlightenment. As the son of Zeus, he is often depicted with a lyre and a laurel wreath, symbolizing victory and artistic inspiration. Revered in mythology, Apollo’s wisdom and healing powers continue to captivate audiences today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/220px-Italy-3104_-_Apollo_%285378415112%29.jpg' alt='Apollo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/220px-Italy-3104_-_Apollo_%285378415112%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apollo%2C_God_of_Light%2C_Eloquence%2C_Poetry_and_the_Fine_Arts_with_Urania%2C_Muse_of_Astronomy_-_Charles_Meynier.jpg/220px-Apollo%2C_God_of_Light%2C_Eloquence%2C_Poetry_and_the_Fine_Arts_with_Urania%2C_Muse_of_Astronomy_-_Charles_Meynier.jpg' alt='Apollo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apollo%2C_God_of_Light%2C_Eloquence%2C_Poetry_and_the_Fine_Arts_with_Urania%2C_Muse_of_Astronomy_-_Charles_Meynier.jpg/220px-Apollo%2C_God_of_Light%2C_Eloquence%2C_Poetry_and_the_Fine_Arts_with_Urania%2C_Muse_of_Astronomy_-_Charles_Meynier.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Divine Dance: Apollo, the God of Light, and the Celestial Love ...">
+                                <img itemprop="contentUrl url" src='http://uranialondon.com/cdn/shop/articles/Belvedere_Apollo_Pio-Clementino_Inv1015_n5.jpg?v=1701111424' alt='The Divine Dance: Apollo, the God of Light, and the Celestial Love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urania" />
+                                </span>
+                                <a href='http://uranialondon.com/cdn/shop/articles/Belvedere_Apollo_Pio-Clementino_Inv1015_n5.jpg?v=1701111424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Apollo by TaekwondoNJ on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/453c4da7-f879-4fd2-8390-6343c0520c34/dwydl6-178a8298-59f6-467e-a6c4-03aef4d3bca2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1M2M0ZGE3LWY4NzktNGZkMi04MzkwLTYzNDNjMDUyMGMzNFwvZHd5ZGw2LTE3OGE4Mjk4LTU5ZjYtNDY3ZS1hNmM0LTAzYWVmNGQzYmNhMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.h2dswtiK6wUHIUEeHMntJt3Sp6ek0eJLQDxjzRMt58A' alt='God Apollo by TaekwondoNJ on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/453c4da7-f879-4fd2-8390-6343c0520c34/dwydl6-178a8298-59f6-467e-a6c4-03aef4d3bca2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1M2M0ZGE3LWY4NzktNGZkMi04MzkwLTYzNDNjMDUyMGMzNFwvZHd5ZGw2LTE3OGE4Mjk4LTU5ZjYtNDY3ZS1hNmM0LTAzYWVmNGQzYmNhMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.h2dswtiK6wUHIUEeHMntJt3Sp6ek0eJLQDxjzRMt58A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Apollo or Apollon, information about Greek God Apollo">
+                                <img itemprop="contentUrl url" src='https://www.greekmyths-greekmythology.com/wp-content/uploads/2010/04/greek-god-apollon-02-1280px-500x280.webp' alt='God Apollo or Apollon, information about Greek God Apollo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Myths - Greek Mythology" />
+                                </span>
+                                <a href='https://www.greekmyths-greekmythology.com/wp-content/uploads/2010/04/greek-god-apollon-02-1280px-500x280.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo • Greek God of the Sun - Facts and Information">
+                                <img itemprop="contentUrl url" src='https://greekgodsandgoddesses.net/wp-content/uploads/2014/09/apollo.jpg' alt='Apollo • Greek God of the Sun - Facts and Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="3700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Gods & Goddesses" />
+                                </span>
+                                <a href='https://greekgodsandgoddesses.net/wp-content/uploads/2014/09/apollo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spells and Incantations — Apollo Offerings">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c378964978c234e82a8c29da5a4bb000/2a2a8fff524d4d51-45/s1280x1920/b1df60150390d34d2a1100b9a3f515a7e7141ced.jpg' alt='Spells and Incantations — Apollo Offerings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@twelfthremedy on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c378964978c234e82a8c29da5a4bb000/2a2a8fff524d4d51-45/s1280x1920/b1df60150390d34d2a1100b9a3f515a7e7141ced.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo, god of light and the sun, rider of the golden chariot">
+                                <img itemprop="contentUrl url" src='https://www.greek-gods.org/images/detailimgs/apollo.jpg' alt='Apollo, god of light and the sun, rider of the golden chariot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Gods.Org" />
+                                </span>
+                                <a href='https://www.greek-gods.org/images/detailimgs/apollo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Apollo-WaltersArt.jpg/200px-Apollo-WaltersArt.jpg' alt='Apollo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Apollo-WaltersArt.jpg/200px-Apollo-WaltersArt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollo, the Greek god of manifold function and meaning | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/56/5756-050-39545DB0/Apollo-Belvedere-copy-original-Roman-Leochares-Greek.jpg' alt='Apollo, the Greek god of manifold function and meaning | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/56/5756-050-39545DB0/Apollo-Belvedere-copy-original-Roman-Leochares-Greek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

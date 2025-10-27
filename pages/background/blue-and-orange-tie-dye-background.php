@@ -1,0 +1,129 @@
+<title>Vibrant Blue & Orange Tie Dye Background</title>
+                    <meta name="description" content="Explore our vibrant blue and orange tie dye background, perfect for creative projects and digital designs. This eye-catching pattern brings energy and positivity to your work, making it a fantastic choice for personal and professional use alike. Ideal for social media graphics or DIY crafts!">
+                    <meta name="keywords" content="blue and orange tie dye background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-orange-tie-dye-background">
+                            <span itemprop="name">blue and orange tie dye background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue & Orange Tie Dye Background</h1>
+                <p>Transform your space with a vibrant blue and orange tie dye background! This energetic design blends bold hues, creating a stunning focal point for any project. Perfect for digital artwork, social media graphics, or DIY crafts, the tie dye pattern radiates creativity and positivity, making it ideal for personal or professional use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue + Orange + White Tiedye Swirl Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/61ce01/3756360200/il_fullxfull.3756360200_l2tn.jpg' alt='Blue + Orange + White Tiedye Swirl Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/61ce01/3756360200/il_fullxfull.3756360200_l2tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue + Orange Tiedye Swirl Digital Paper Background Texture - PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/af579e/3547650346/il_570xN.3547650346_plt1.jpg' alt='Blue + Orange Tiedye Swirl Digital Paper Background Texture - PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/af579e/3547650346/il_570xN.3547650346_plt1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Orange Tie Dye Background Distressed Tie Dye Frame ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16036533/r/il/a6c6f2/3432482269/il_570xN.3432482269_6jz9.jpg' alt='Blue and Orange Tie Dye Background Distressed Tie Dye Frame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16036533/r/il/a6c6f2/3432482269/il_570xN.3432482269_6jz9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="teal + orange tiedye background preview">
+                                <img itemprop="contentUrl url" src='https://i.vimeocdn.com/video/1415371898-4d4af48ebe7723220b547c8ff30993548875acd734ddd0cb629e8de395037b06-d?f=webp' alt='teal + orange tiedye background preview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://i.vimeocdn.com/video/1415371898-4d4af48ebe7723220b547c8ff30993548875acd734ddd0cb629e8de395037b06-d?f=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="64,526 Blue Orange Tie Dye Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/close-shot-tie-dye-fabric-260nw-192061100.jpg' alt='64,526 Blue Orange Tie Dye Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/close-shot-tie-dye-fabric-260nw-192061100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,650 Blue Orange Tie Dye Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-abstract-tie-dye-pattern-design-blue-orange-spider-background-wallpaper-colors-110235910.jpg' alt='2,650 Blue Orange Tie Dye Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-abstract-tie-dye-pattern-design-blue-orange-spider-background-wallpaper-colors-110235910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Blue and Bright Orange Tie Dye Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10754645/i/l/9Matc5dU8LbJdDuWoEB9uRcrBuSn_TH3NKMIWNa_QkWD7j6IoFhRGg/10754645-royal-blue-bright-orange-tie-dye-by-rickrackscissorsstudio.jpg' alt='Royal Blue and Bright Orange Tie Dye Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10754645/i/l/9Matc5dU8LbJdDuWoEB9uRcrBuSn_TH3NKMIWNa_QkWD7j6IoFhRGg/10754645-royal-blue-bright-orange-tie-dye-by-rickrackscissorsstudio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue + Orange Tiedye Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/613281f42626e54e4b091c28/1676963466401/Blue+Orange+Tiedye+Thumbnail+WM.jpg?format=1500w' alt='Blue + Orange Tiedye Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/613281f42626e54e4b091c28/1676963466401/Blue+Orange+Tiedye+Thumbnail+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,456 Blue Orange Tie Dye Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/tye-dye-effects-orange-blue-600nw-2301373537.jpg' alt='1,456 Blue Orange Tie Dye Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/tye-dye-effects-orange-blue-600nw-2301373537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="410+ Blue Orange Tie Dye Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184372785/photo/vibrant-tie-dye.jpg?s=612x612&w=0&k=20&c=iYpjkz8v4VcKEr4YDKq1W81IxjX5TRnP52av1d6uOrw=' alt='410+ Blue Orange Tie Dye Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184372785/photo/vibrant-tie-dye.jpg?s=612x612&w=0&k=20&c=iYpjkz8v4VcKEr4YDKq1W81IxjX5TRnP52av1d6uOrw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

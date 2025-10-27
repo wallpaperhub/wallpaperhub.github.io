@@ -1,0 +1,129 @@
+<title>Adorable Poodle Pictures: A Visual Treat</title>
+                    <meta name="description" content="Discover a stunning collection of poodle pictures, featuring these intelligent and elegant dogs in various styles and colors. Perfect for poodle lovers, breeders, and anyone who appreciates canine beauty. Explore adorable snapshots that highlight their charm and personality in an easily accessible format.">
+                    <meta name="keywords" content="pictures of poodles">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-poodles">
+                            <span itemprop="name">pictures of poodles</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Poodle Pictures: A Visual Treat</h1>
+                <p>Pictures of poodles showcase their elegance, intelligence, and playful nature. From standard to miniature sizes, these dogs come in various colors and styles, making them a favorite among pet owners. Poodles excel in dog shows and as loyal companions. Discover beautiful photos that capture their charming personalities and unique features!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24134701/Standard-Poodle-standing-outdoors-at-the-beach.jpg' alt='Poodle Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24134701/Standard-Poodle-standing-outdoors-at-the-beach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f8/Full_attention_%288067543690%29.jpg' alt='Poodle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f8/Full_attention_%288067543690%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Poodle's Purpose: One Breed's Unexpected Versatility – American ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/09141023/Diana-the-Poodle-500x485.jpg' alt='A Poodle's Purpose: One Breed's Unexpected Versatility – American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/09141023/Diana-the-Poodle-500x485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Poodle Dog Breed: Info, Pictures, Traits & Care Guide – Dogster">
+                                <img itemprop="contentUrl url" src='https://www.dogster.com/wp-content/uploads/2023/08/red-toy-poodle-in-the-park_Mykhaylo_Kozelko_Shutterstock.jpg' alt='Toy Poodle Dog Breed: Info, Pictures, Traits & Care Guide – Dogster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dogster" />
+                                </span>
+                                <a href='https://www.dogster.com/wp-content/uploads/2023/08/red-toy-poodle-in-the-park_Mykhaylo_Kozelko_Shutterstock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get To Know the Miniature Poodle | ASPCA® Pet Health Insurance">
+                                <img itemprop="contentUrl url" src='https://d3544la1u8djza.cloudfront.net/APHI/Blog/2023/July/MiniaturePoodle_Hero.jpg' alt='Get To Know the Miniature Poodle | ASPCA® Pet Health Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASPCA Pet Insurance" />
+                                </span>
+                                <a href='https://d3544la1u8djza.cloudfront.net/APHI/Blog/2023/July/MiniaturePoodle_Hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle | Description, Uses, Crossbreeds, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/39/233239-050-50C0C3C5/standard-poodle-dog.jpg' alt='Poodle | Description, Uses, Crossbreeds, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/39/233239-050-50C0C3C5/standard-poodle-dog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 3 Types of Poodles and How They Compare | PetMD">
+                                <img itemprop="contentUrl url" src='https://image.petmd.com/files/inline-images/standard-poodle.jpg?VersionId=1Pjx5emdAPxmImIlwCR0tX3HXxxm_NhT' alt='The 3 Types of Poodles and How They Compare | PetMD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2062">
+                                <meta itemprop="height" content="1454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PetMD" />
+                                </span>
+                                <a href='https://image.petmd.com/files/inline-images/standard-poodle.jpg?VersionId=1Pjx5emdAPxmImIlwCR0tX3HXxxm_NhT' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle (Toy and Miniature) Facts - Wisdom Panel™ Dog Breeds">
+                                <img itemprop="contentUrl url" src='https://breed-assets.wisdompanel.com/dog/poodle-miniature-toy/poodle-miniature-toy1.jpg' alt='Poodle (Toy and Miniature) Facts - Wisdom Panel™ Dog Breeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wisdom Panel" />
+                                </span>
+                                <a href='https://breed-assets.wisdompanel.com/dog/poodle-miniature-toy/poodle-miniature-toy1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Breed Guide: Toy Poodle | Pets Best">
+                                <img itemprop="contentUrl url" src='https://imageserver.petsbest.com/marketing/blog/toy-poodle.jpg' alt='Dog Breed Guide: Toy Poodle | Pets Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pets Best Insurance" />
+                                </span>
+                                <a href='https://imageserver.petsbest.com/marketing/blog/toy-poodle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Standard Poodle Breed Guide | Healthy Paws Pet Insurance">
+                                <img itemprop="contentUrl url" src='https://www.healthypawspetinsurance.com/blog/wp-content/uploads/2022/06/three-dogs-brown-black-and-white-poodles.jpg' alt='Standard Poodle Breed Guide | Healthy Paws Pet Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthy Paws" />
+                                </span>
+                                <a href='https://www.healthypawspetinsurance.com/blog/wp-content/uploads/2022/06/three-dogs-brown-black-and-white-poodles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

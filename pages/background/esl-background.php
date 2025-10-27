@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="esl background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/esl-background">
+                            <span itemprop="name">esl background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customizable Classroom Background - ESL Online Teaching - VIPKid, GogoKid,  Qkids, Magic Ears">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21609523/r/il/3450c6/2186826293/il_fullxfull.2186826293_7wne.jpg' alt='Customizable Classroom Background - ESL Online Teaching - VIPKid, GogoKid,  Qkids, Magic Ears'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21609523/r/il/3450c6/2186826293/il_fullxfull.2186826293_7wne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Virtual Teaching Backgrounds for ESL Teachers - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/71/ad/t-mfl-314-zoom-backgrounds-for-esl-teachers_ver_2.jpg' alt='   Virtual Teaching Backgrounds for ESL Teachers - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/71/ad/t-mfl-314-zoom-backgrounds-for-esl-teachers_ver_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Backgrounds - ESL Online Teaching ideas | online teaching ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/04/c2/e4/04c2e4fc43e9d921e04fc2611a80f1eb.png' alt='8 Backgrounds - ESL Online Teaching ideas | online teaching ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/04/c2/e4/04c2e4fc43e9d921e04fc2611a80f1eb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESL Teacher Fun + Colourful Classroom Background! Online Teacher -  Palfish/Vipkid | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1337074728.9107/fpp,large,metallic,wall_texture,product,750x1000.jpg' alt='ESL Teacher Fun + Colourful Classroom Background! Online Teacher -  Palfish/Vipkid | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1337074728.9107/fpp,large,metallic,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Fun Virtual Teacher Backgrounds for Online Teaching - We Are ...">
+                                <img itemprop="contentUrl url" src='https://www.weareteachers.com/wp-content/uploads/Zoom-Background-Classroom-800x456.png' alt='17 Fun Virtual Teacher Backgrounds for Online Teaching - We Are ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Are Teachers" />
+                                </span>
+                                <a href='https://www.weareteachers.com/wp-content/uploads/Zoom-Background-Classroom-800x456.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create an Online Teaching Background Your Students Will ...">
+                                <img itemprop="contentUrl url" src='https://bridge.edu/tefl/blog/wp-content/uploads/2020/07/TEO-Mari-Background-Decor-768x1024.jpg' alt='How to Create an Online Teaching Background Your Students Will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bridge Education Group" />
+                                </span>
+                                <a href='https://bridge.edu/tefl/blog/wp-content/uploads/2020/07/TEO-Mari-Background-Decor-768x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESL Teacher Fun + Colourful Classroom Background! Online Teacher -  Palfish/Vipkid | Scarf">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1337085757.9107/flat,750x1000,075,t.jpg' alt='ESL Teacher Fun + Colourful Classroom Background! Online Teacher -  Palfish/Vipkid | Scarf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1337085757.9107/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalized Spring Classroom Background - ESL Online Teaching - VIPKid,  GogoKid, Qkids, Magic Ears">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21609523/r/il/f09ca0/2232669847/il_fullxfull.2232669847_8raj.jpg' alt='Personalized Spring Classroom Background - ESL Online Teaching - VIPKid,  GogoKid, Qkids, Magic Ears'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21609523/r/il/f09ca0/2232669847/il_fullxfull.2232669847_8raj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom background by alyannafernandez15 - Raket.PH">
+                                <img itemprop="contentUrl url" src='https://raketcontent.com/1/IMG_4231_84d1edf457.PNG' alt='Classroom background by alyannafernandez15 - Raket.PH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.raket.ph" />
+                                </span>
+                                <a href='https://raketcontent.com/1/IMG_4231_84d1edf457.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decorating my background for ESL | NTT | 51talk - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FoS08Xeg2Js/mqdefault.jpg' alt='Decorating my background for ESL | NTT | 51talk - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FoS08Xeg2Js/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

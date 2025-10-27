@@ -1,0 +1,129 @@
+<title>Stunning Red Floral Peel and Stick Wallpaper for Easy Home Makeover</title>
+                    <meta name="description" content="Add a pop of color to your home with our red floral peel and stick wallpaper. Perfect for any room, this removable wallpaper is simple to apply and leaves no sticky residue. Achieve a fresh, vibrant look effortlessly and transform your space into a floral paradise!">
+                    <meta name="keywords" content="red floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">red floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Floral Peel and Stick Wallpaper for Easy Home Makeover</h1>
+                <p>Transform your space with stunning red floral peel and stick wallpaper. Perfect for creating a bold statement, this easy-to-apply wallpaper lets you enjoy a beautiful floral design without the commitment of traditional wallpaper. Ideal for renters and DIY enthusiasts, it adds a touch of elegance and vibrancy to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Red Wildflower Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 435">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4260564345_3nk5.jpg' alt='Wallpaper Peel and Stick Wallpaper Red Wildflower Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 435'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4260564345_3nk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 17.5"x118" Vintage Floral Peel and Stick Wallpaper Orange Red Wall  Paper Roll Watercolor Self Adhesive Wallpaper Stick on Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91JIFFHYJQL._AC_UF894,1000_QL80_.jpg' alt='FunStick 17.5"x118" Vintage Floral Peel and Stick Wallpaper Orange Red Wall  Paper Roll Watercolor Self Adhesive Wallpaper Stick on Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91JIFFHYJQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Vintage, Red Vintage Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20757291/r/il/4b1e8b/2134840539/il_570xN.2134840539_jo3u.jpg' alt='Removable Wallpaper Vintage, Red Vintage Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20757291/r/il/4b1e8b/2134840539/il_570xN.2134840539_jo3u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Peel&Stick Red Flower Green Leaves Self-Adhesive Prepasted  Wallpaper Wall Mural (Red Floral) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Rghd--3xL.jpg' alt='Blooming Wall Peel&Stick Red Flower Green Leaves Self-Adhesive Prepasted  Wallpaper Wall Mural (Red Floral) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1790">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Rghd--3xL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Floral Peel & Stick Wallpaper Red - Opalhouse™: Removable ...">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_d2efee15-9d06-4e69-932b-f843fb720269' alt='Retro Floral Peel & Stick Wallpaper Red - Opalhouse™: Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_d2efee15-9d06-4e69-932b-f843fb720269' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roommates Poppy Floral Peel & Stick Red Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6756112007214_5b0d60d9-a8c6-422c-aa72-de85453ded69.jpg?v=1657323020' alt='Roommates Poppy Floral Peel & Stick Red Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6756112007214_5b0d60d9-a8c6-422c-aa72-de85453ded69.jpg?v=1657323020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Bold Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C678">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C678_01.png?v=1728747438&width=1946' alt='Coral Bold Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C678'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C678_01.png?v=1728747438&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red poppy">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/red-poppy-floral-removable-wallpaper-in-coastal-style-living-room.jpg' alt='Red poppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/red-poppy-floral-removable-wallpaper-in-coastal-style-living-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poseca Floral Wallpaper Red, Peel and Stick Wallpaper 15.7" * 98.4">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/3ab149c5-0b20-4471-9a8f-357a62c76308.7028ca58bdf98fbe0709084c638ccf4c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Poseca Floral Wallpaper Red, Peel and Stick Wallpaper 15.7" * 98.4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/3ab149c5-0b20-4471-9a8f-357a62c76308.7028ca58bdf98fbe0709084c638ccf4c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Red Wildflower Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 435">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4212906298_m2aq.jpg?v=1668571783&width=3000' alt='Wallpaper Peel and Stick Wallpaper Red Wildflower Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 435'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4212906298_m2aq.jpg?v=1668571783&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

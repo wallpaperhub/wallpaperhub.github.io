@@ -1,0 +1,129 @@
+<title>Discover Thomas Jefferson: Founding Father & President</title>
+                    <meta name="description" content="Explore the life and legacy of Thomas Jefferson, a key figure in American history. Learn about his pivotal role as a founding father, author of the Declaration of Independence, and influence on democracy and individual rights. Uncover the impact of his presidency on modern America.">
+                    <meta name="keywords" content="thomas jefferson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thomas-jefferson">
+                            <span itemprop="name">thomas jefferson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Thomas Jefferson: Founding Father & President</h1>
+                <p>Thomas Jefferson was the third President of the United States and a founding father, renowned for drafting the Declaration of Independence in 1776. A proponent of individual liberties, Jefferson's vision for America emphasized democracy, education, and religious freedom. His legacy continues to influence American society today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg' alt='Thomas Jefferson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2512">
+                                <meta itemprop="height" content="2996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtDash Official United States Presidential Portrait Series: THOMAS  JEFFERSON (8"×10" print)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91zxcRn+9pL._AC_UF894,1000_QL80_.jpg' alt='ArtDash Official United States Presidential Portrait Series: THOMAS  JEFFERSON (8"×10" print)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91zxcRn+9pL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/social_media/public/Thomas%20Jefferson%20-%20Social%20Media.png?h=ba8f3451&itok=gPqxYNMW' alt='Thomas Jefferson | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/social_media/public/Thomas%20Jefferson%20-%20Social%20Media.png?h=ba8f3451&itok=gPqxYNMW' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson: Governor of Virginia, Part II – Pieces of History">
+                                <img itemprop="contentUrl url" src='https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2013/05/thmoas-jefferson.jpg?w=144&h=1024' alt='Thomas Jefferson: Governor of Virginia, Part II – Pieces of History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pieces of History - National Archives" />
+                                </span>
+                                <a href='https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2013/05/thmoas-jefferson.jpg?w=144&h=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson - Biography, Legacies, & Facts | Thomas ...">
+                                <img itemprop="contentUrl url" src='https://monticello-www.s3.amazonaws.com/files/resources/jefferson-by-gilbert-stuart-edgehill-npg-2.jpg' alt='Thomas Jefferson - Biography, Legacies, & Facts | Thomas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2349">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Jefferson's Monticello" />
+                                </span>
+                                <a href='https://monticello-www.s3.amazonaws.com/files/resources/jefferson-by-gilbert-stuart-edgehill-npg-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson - Biography, Legacies, & Facts | Thomas ...">
+                                <img itemprop="contentUrl url" src='https://monticello-www.s3.amazonaws.com/files/images/portrait-full-sml-f-1992-01-01-eow-0018-jefferson-by-mather-brown.jpg' alt='Thomas Jefferson - Biography, Legacies, & Facts | Thomas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Jefferson's Monticello" />
+                                </span>
+                                <a href='https://monticello-www.s3.amazonaws.com/files/images/portrait-full-sml-f-1992-01-01-eow-0018-jefferson-by-mather-brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/040f43ab-2e58-443b-a51b-b93204d8e912/jefferson-portrait_4x3.jpg' alt='Thomas Jefferson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/040f43ab-2e58-443b-a51b-b93204d8e912/jefferson-portrait_4x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revealing the Total Jefferson | Gordon S. Wood | The New York ...">
+                                <img itemprop="contentUrl url" src='https://www.nybooks.com/wp-content/uploads/1993/05/thomas-jefferson_1993-05-13.gif' alt='Revealing the Total Jefferson | Gordon S. Wood | The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Review of Books" />
+                                </span>
+                                <a href='https://www.nybooks.com/wp-content/uploads/1993/05/thomas-jefferson_1993-05-13.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="President Thomas Jefferson and The American Flag Art Print">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/print/8/8/break/images/artworkimages/medium/3/president-thomas-jefferson-and-the-american-flag-war-is-hell-store.jpg' alt='President Thomas Jefferson and The American Flag Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="War Is Hell Store - Pixels" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/print/8/8/break/images/artworkimages/medium/3/president-thomas-jefferson-and-the-american-flag-war-is-hell-store.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson by Print Collector">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/thomas-jefferson-print-collector.jpg' alt='Thomas Jefferson by Print Collector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/thomas-jefferson-print-collector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

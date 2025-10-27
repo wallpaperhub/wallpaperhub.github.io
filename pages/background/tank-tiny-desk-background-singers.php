@@ -1,0 +1,129 @@
+<title>Tank's Tiny Desk Background Singers: A Harmonious Touch</title>
+                    <meta name="description" content="Explore the remarkable contributions of background singers in Tank's Tiny Desk concert. Discover how their harmonies enhance the performance, creating an unforgettable musical experience that showcases the power of collaboration in music.">
+                    <meta name="keywords" content="tank tiny desk background singers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tank-tiny-desk-background-singers">
+                            <span itemprop="name">tank tiny desk background singers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tank's Tiny Desk Background Singers: A Harmonious Touch</h1>
+                <p>In the heart of Tank's Tiny Desk concert, background singers elevate the performance with their soulful harmonies and dynamic presence. Each note they sing intertwines with Tank's powerful voice, creating an intimate atmosphere. Their role is vital, showcasing how essential harmony is in crafting a memorable musical experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank: Tiny Desk Concert">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2023/06/12/tank-6-8ad2160ba53f854ffaac2ccc38b61d8bb3b2f127.jpg' alt='Tank: Tiny Desk Concert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4193">
+                                <meta itemprop="height" content="3141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2023/06/12/tank-6-8ad2160ba53f854ffaac2ccc38b61d8bb3b2f127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank: Tiny Desk Concert - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3eHc0Xz_Hio/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDSARNrX9N8foRta6oxGPkh78aIg' alt='Tank: Tiny Desk Concert - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3eHc0Xz_Hio/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDSARNrX9N8foRta6oxGPkh78aIg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank's 'Tiny Desk' Performance Was A Win-Win: Watch">
+                                <img itemprop="contentUrl url" src='https://www.vibe.com/wp-content/uploads/2023/06/IMG_3224.jpg' alt='Tank's 'Tiny Desk' Performance Was A Win-Win: Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2283">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VIBE.com" />
+                                </span>
+                                <a href='https://www.vibe.com/wp-content/uploads/2023/06/IMG_3224.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babyface, Tank, Charlie Wilson NPR Tiny Desks Black Music Month ...">
+                                <img itemprop="contentUrl url" src='https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/8f757eb77a289a71b63331a741fdf50e.jpg' alt='Babyface, Tank, Charlie Wilson NPR Tiny Desks Black Music Month ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Root" />
+                                </span>
+                                <a href='https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/8f757eb77a289a71b63331a741fdf50e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank Performs for NPR's Tiny Desk Concert Series">
+                                <img itemprop="contentUrl url" src='https://ratedrnb.com/cdn/2023/06/tank-tiny-desk-concert.png' alt='Tank Performs for NPR's Tiny Desk Concert Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rated R&B" />
+                                </span>
+                                <a href='https://ratedrnb.com/cdn/2023/06/tank-tiny-desk-concert.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank And The Bangas: NPR Music Tiny Desk Concert">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QKzobTCIRDw/maxresdefault.jpg' alt='Tank And The Bangas: NPR Music Tiny Desk Concert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QKzobTCIRDw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet NPR Music's 2017 Tiny Desk Contest Winner: Tank And The ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2017/02/27/day_0986-nopp16-gusbennettphotography-b133c53850247984a6c80a87a36bca0403a7ad63.jpg?s=800&c=85&f=jpeg' alt='Meet NPR Music's 2017 Tiny Desk Contest Winner: Tank And The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2017/02/27/day_0986-nopp16-gusbennettphotography-b133c53850247984a6c80a87a36bca0403a7ad63.jpg?s=800&c=85&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank Tiny Desk Performance with Brooke Valentine, Luke James, Lonny Bereal">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7244519332405906731&location=0&aid=1988' alt='Tank Tiny Desk Performance with Brooke Valentine, Luke James, Lonny Bereal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7244519332405906731&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anyone else watchin these NPR tiny desks? this one with Tank was wild">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/anyone-else-watchin-these-npr-tiny-desks-this-one-with-tank-v0-b2VzZWp3Z3Nna3BjMRYAleXbUVwiE45SUnovxhuijC6WTMPw_GPunYbPTh09.png?format=pjpg&auto=webp&s=e7a2f997aeebaf86b34746c02935d150f1ab894e' alt='anyone else watchin these NPR tiny desks? this one with Tank was wild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/anyone-else-watchin-these-npr-tiny-desks-this-one-with-tank-v0-b2VzZWp3Z3Nna3BjMRYAleXbUVwiE45SUnovxhuijC6WTMPw_GPunYbPTh09.png?format=pjpg&auto=webp&s=e7a2f997aeebaf86b34746c02935d150f1ab894e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank stops by NPR Music's "Tiny Desk" with R&B hits and Twitter ...">
+                                <img itemprop="contentUrl url" src='https://media.zenfs.com/en/revolt_articles_463/a94a411ffa1ed2ddda4b41e37c14036c' alt='Tank stops by NPR Music's "Tiny Desk" with R&B hits and Twitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Money" />
+                                </span>
+                                <a href='https://media.zenfs.com/en/revolt_articles_463/a94a411ffa1ed2ddda4b41e37c14036c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

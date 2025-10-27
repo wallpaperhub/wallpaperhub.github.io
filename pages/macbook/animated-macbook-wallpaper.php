@@ -1,0 +1,129 @@
+<title>Stunning Animated MacBook Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of vibrant animated MacBook wallpapers that elevate your digital workspace. Whether you prefer nature, abstract designs, or artistic visuals, find the perfect backdrop to express your personality and enhance your MacBook experience today!">
+                    <meta name="keywords" content="animated macbook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook">
+                            <span itemprop="name">Macbook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook/animated-macbook-wallpaper">
+                            <span itemprop="name">animated macbook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Animated MacBook Wallpapers for Every Style</h1>
+                <p>Enhance your MacBook experience with stunning animated wallpapers! These dynamic backdrops not only breathe life into your screen but also reflect your unique style. From mesmerizing nature scenes to captivating abstract designs, animated wallpapers can transform your workspace into a vibrant digital canvas. Dive into creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Galaxy Mac Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/animated-galaxy-mac-1e3gwv39dzvxfuxl.jpg' alt='Animated Galaxy Mac Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/animated-galaxy-mac-1e3gwv39dzvxfuxl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mac Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Mac Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Galaxy Mac Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/violet-apple-mac-desktop-904l19rouu3uu5mj.webp' alt='Animated Galaxy Mac Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/violet-apple-mac-desktop-904l19rouu3uu5mj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a Live Photo or GIF as a Mac Screen Saver">
+                                <img itemprop="contentUrl url" src='https://eshop.macsales.com/blog/wp-content/uploads/2018/08/giphy.gif' alt='How to Set a Live Photo or GIF as a Mac Screen Saver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacSales.com" />
+                                </span>
+                                <a href='https://eshop.macsales.com/blog/wp-content/uploads/2018/08/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Homer Apple Logo Animated Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-background-azjfxt10wjkpa4th.jpg' alt='Download Homer Apple Logo Animated Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1897">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-background-azjfxt10wjkpa4th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Mac wallpapers: How to use, find, and make your own - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/03/how-to-set-and-make-dynamic-mac-wallpapers.jpg?quality=82&strip=all' alt='Dynamic Mac wallpapers: How to use, find, and make your own - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/03/how-to-set-and-make-dynamic-mac-wallpapers.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1 Mac Pro Live Wallpapers, Animated Wallpapers - MoeWalls">
+                                <img itemprop="contentUrl url" src='https://moewalls.com/wp-content/uploads/2022/03/apple-mac-pro-display-xdr-thumb.jpg' alt='1 Mac Pro Live Wallpapers, Animated Wallpapers - MoeWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MoeWalls" />
+                                </span>
+                                <a href='https://moewalls.com/wp-content/uploads/2022/03/apple-mac-pro-display-xdr-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Wallpapers for macOS - Dynamic Wallpaper Club">
+                                <img itemprop="contentUrl url" src='https://dynamicwallpaper.club/landing-vids/1.png' alt='Dynamic Wallpapers for macOS - Dynamic Wallpaper Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dynamicwallpaper.club" />
+                                </span>
+                                <a href='https://dynamicwallpaper.club/landing-vids/1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Live Wallpaper on Mac | Trend Micro News">
+                                <img itemprop="contentUrl url" src='https://news.trendmicro.com/api/wp-content/uploads/2022/11/How-to-Make-a-Live-Wallpaper-on-Mac_20221119-1024x683.jpg' alt='How to Make a Live Wallpaper on Mac | Trend Micro News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trend Micro News" />
+                                </span>
+                                <a href='https://news.trendmicro.com/api/wp-content/uploads/2022/11/How-to-Make-a-Live-Wallpaper-on-Mac_20221119-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda: Wind Waker Dynamic Wallpaper [Mac OSX] – Matt Vince">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.mattvince.com/wp-content/uploads/2019/11/Outset-Island-animtest7.gif?fit=642%2C361&ssl=1' alt='Zelda: Wind Waker Dynamic Wallpaper [Mac OSX] – Matt Vince'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Matt Vince" />
+                                </span>
+                                <a href='https://i0.wp.com/www.mattvince.com/wp-content/uploads/2019/11/Outset-Island-animtest7.gif?fit=642%2C361&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

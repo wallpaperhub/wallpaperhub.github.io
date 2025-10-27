@@ -1,0 +1,129 @@
+<title>When Did ABA Begin? A Brief History</title>
+                    <meta name="description" content="Discover the origins of Applied Behavior Analysis (ABA), which began in the 1960s and evolved to support countless individuals, especially in autism treatment. Explore its history and significance in modern therapy!">
+                    <meta name="keywords" content="when did aba begin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-aba-begin">
+                            <span itemprop="name">when did aba begin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did ABA Begin? A Brief History</h1>
+                <p>Applied Behavior Analysis (ABA) began in the 1960s, rooted in the principles of behaviorism established by B.F. Skinner. Its application, particularly in treating autism, gained momentum in the 1980s, thanks to pioneers like Ivar Lovaas. Today, ABA remains a prominent and effective approach in behavioral therapy and education.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Behavior Analysis — Behavior Frontiers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/604c66c2ac3c87033f4201df/1615620214211-HAH8M3DSKPNHWURF8U7P/IvanPavlov.png' alt='A Brief History of Behavior Analysis — Behavior Frontiers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behavior Frontiers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/604c66c2ac3c87033f4201df/1615620214211-HAH8M3DSKPNHWURF8U7P/IvanPavlov.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of ABA Therapy: Who Invented ABA Therapy?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43ba8_63b1095010dd5703b037b690_who-invented-aba-therapy.png' alt='History Of ABA Therapy: Who Invented ABA Therapy?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1468">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Treetop ABA Therapy" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43ba8_63b1095010dd5703b037b690_who-invented-aba-therapy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First Thirty Days Of ABA Services - Autism Learning Partners">
+                                <img itemprop="contentUrl url" src='https://autismlearningpartners.com/wp-content/uploads/2024/03/The-First-30-Days-of-ABA-Services-infographic-2.png' alt='The First Thirty Days Of ABA Services - Autism Learning Partners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autism Learning Partners" />
+                                </span>
+                                <a href='https://autismlearningpartners.com/wp-content/uploads/2024/03/The-First-30-Days-of-ABA-Services-infographic-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Behavior Analysis — Behavior Frontiers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/604c66c2ac3c87033f4201df/1615620214215-GP1TLVEJ4YWR9ALF0XYQ/EdwardThorndike.png' alt='A Brief History of Behavior Analysis — Behavior Frontiers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behavior Frontiers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/604c66c2ac3c87033f4201df/1615620214215-GP1TLVEJ4YWR9ALF0XYQ/EdwardThorndike.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of ABA Therapy: Who Invented ABA Therapy?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43ba4_63b1095b3593738a4a4b6a54_history-of-aba-therapy.png' alt='History Of ABA Therapy: Who Invented ABA Therapy?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1468">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Treetop ABA Therapy" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43ba4_63b1095b3593738a4a4b6a54_history-of-aba-therapy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABA Therapy's History: Who Was Its Inventor? | Discovery ABA">
+                                <img itemprop="contentUrl url" src='https://cdn.growtha.dev/6626246eea58e34aef3e19ea/662ba1aaa39499e21a6e4bb6_65412342e493acf81593080e_ABA%2520Therapy%2527s%2520History-%2520Who%2520Was%2520Its%2520Inventor--100.jpeg' alt='ABA Therapy's History: Who Was Its Inventor? | Discovery ABA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discovery ABA" />
+                                </span>
+                                <a href='https://cdn.growtha.dev/6626246eea58e34aef3e19ea/662ba1aaa39499e21a6e4bb6_65412342e493acf81593080e_ABA%2520Therapy%2527s%2520History-%2520Who%2520Was%2520Its%2520Inventor--100.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applied Behavior Analysis (ABA) 101">
+                                <img itemprop="contentUrl url" src='https://join.undivided.io/wp-content/uploads/2023/06/aba-infographic.png' alt='Applied Behavior Analysis (ABA) 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Undivided" />
+                                </span>
+                                <a href='https://join.undivided.io/wp-content/uploads/2023/06/aba-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Did Applied Behavior Analysis (ABA) Start?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6697e11425f1b8b3c5ed50b2_6671e3acd5b1b3dad96300ee_How%2520Did%2520Applied%2520Behavior%2520Analysis%2520(ABA)%2520Start--80.jpeg' alt='How Did Applied Behavior Analysis (ABA) Start?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Treetop ABA Therapy" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6697e11425f1b8b3c5ed50b2_6671e3acd5b1b3dad96300ee_How%2520Did%2520Applied%2520Behavior%2520Analysis%2520(ABA)%2520Start--80.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABA–NBA merger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/30/NBAABAmerger.png' alt='ABA–NBA merger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/30/NBAABAmerger.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of ABA Therapy: Who Invented ABA Therapy?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43bcb_63b108de2c152d970706eea0_ivar_lovaas.jpeg' alt='History Of ABA Therapy: Who Invented ABA Therapy?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Treetop ABA Therapy" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/66390c6e162a2070bfe399de/6647e6052f6a79fe29b43bcb_63b108de2c152d970706eea0_ivar_lovaas.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

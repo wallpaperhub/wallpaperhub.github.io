@@ -1,0 +1,129 @@
+<title>Blue Metal Backgrounds: Modern Elegance for Your Designs</title>
+                    <meta name="description" content="Enhance your projects with stunning blue metal backgrounds. Perfectly crafted to bring a contemporary vibe, these backgrounds add depth and style, making them ideal for websites and presentations. Explore the world of blue metal design for a sophisticated touch to your visuals!">
+                    <meta name="keywords" content="blue metal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-metal-background">
+                            <span itemprop="name">blue metal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Metal Backgrounds: Modern Elegance for Your Designs</h1>
+                <p>Discover the captivating allure of blue metal backgrounds. These striking visuals combine depth and texture, adding a modern touch to various designs. Perfect for websites, presentations, and creative projects, blue metal backgrounds evoke a sense of strength and sophistication, making them an ideal choice for an elegant aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="107,000+ Blue Metal Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/918335468/vector/backgrounds_01_03_00-00_1002_03_ready.jpg?s=612x612&w=0&k=20&c=brjo4YcTGV8jIfzb5rJMBcFD_lab1SQzJr6eEMpkVmI=' alt='107,000+ Blue Metal Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/918335468/vector/backgrounds_01_03_00-00_1002_03_ready.jpg?s=612x612&w=0&k=20&c=brjo4YcTGV8jIfzb5rJMBcFD_lab1SQzJr6eEMpkVmI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Blue Background Images – Browse 935,318 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/05/61/27/360_F_205612759_lYlfHcrd3KnQZLXPxJw1hNSV0pfen9fO.jpg' alt='Metallic Blue Background Images – Browse 935,318 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/05/61/27/360_F_205612759_lYlfHcrd3KnQZLXPxJw1hNSV0pfen9fO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Metal Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/351/321/small_2x/blue-metal-abstract-technology-background-polished-brushed-texture-chrome-silver-steel-aluminum-illustration-vector.jpg' alt='Blue Metal Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/351/321/small_2x/blue-metal-abstract-technology-background-polished-brushed-texture-chrome-silver-steel-aluminum-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue metal wave background Blue 3d wave background, 3d metal ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/120/658/HD-wallpaper-blue-metal-wave-background-blue-3d-wave-background-3d-metal-texture-blue-metal-backgrounds.jpg' alt='Blue metal wave background Blue 3d wave background, 3d metal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/120/658/HD-wallpaper-blue-metal-wave-background-blue-3d-wave-background-3d-metal-texture-blue-metal-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Metallic Metal Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/a7/17/9ba717e6ded00ce7d34d9c5acd483b24.jpg' alt='Blue Metallic Metal Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/a7/17/9ba717e6ded00ce7d34d9c5acd483b24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract blue metallic background with reflection">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-blue-metallic-background-with-reflection_23-2148222850.jpg' alt='Premium Vector | Abstract blue metallic background with reflection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-blue-metallic-background-with-reflection_23-2148222850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="590+ Blue Brushed Metal Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1402274348/vector/metal-blue-texture-background-brushed-metallic-texture.jpg?s=612x612&w=0&k=20&c=ehQvrOyh8AKj--JoIitsHJLPLKRZ5Sf5lXY_wmbC0iE=' alt='590+ Blue Brushed Metal Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1402274348/vector/metal-blue-texture-background-brushed-metallic-texture.jpg?s=612x612&w=0&k=20&c=ehQvrOyh8AKj--JoIitsHJLPLKRZ5Sf5lXY_wmbC0iE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Metal Texture Images – Browse 1,056,194 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/90/58/67/360_F_190586770_qRbJO1vc8fESKJTxgYVZ26iXdoHFFJPw.jpg' alt='Blue Metal Texture Images – Browse 1,056,194 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/90/58/67/360_F_190586770_qRbJO1vc8fESKJTxgYVZ26iXdoHFFJPw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue metal perforated background with brushed Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/70/90/blue-metal-perforated-background-with-brushed-vector-14097090.jpg' alt='Blue metal perforated background with brushed Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/70/90/blue-metal-perforated-background-with-brushed-vector-14097090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract hexagon dark blue metal background. banner poster ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/441/449/non_2x/abstract-hexagon-dark-blue-metal-background-banner-poster-template-design-illustration-vector.jpg' alt='Abstract hexagon dark blue metal background. banner poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/441/449/non_2x/abstract-hexagon-dark-blue-metal-background-banner-poster-template-design-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Engaging Weather GIFs: A Quick Look at Nature's Patterns</title>
+                    <meta name="description" content="Discover the charm of weather GIFs! Explore a collection of animated graphics showcasing everything from sunny skies to snowfalls. Perfect for social media sharing, these engaging visuals bring the weather to life and connect people with nature's changing moods.">
+                    <meta name="keywords" content="weather gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weather-gif">
+                            <span itemprop="name">weather gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Weather GIFs: A Quick Look at Nature's Patterns</h1>
+                <p>Weather GIFs are a fun and dynamic way to share the beauty and mood of changing climates. From sunny days to heavy rain, these animated graphics provide a lively glimpse into the weather, making them perfect for social media, blogs, and messages. Whether you want to brighten someone's day or convey a stormy forecast, weather GIFs make it engaging!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Weather! by noor khlil on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/25398855/file/original-b39f61791073c4efb3ba40bf4167eb31.gif' alt='Crazy Weather! by noor khlil on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/25398855/file/original-b39f61791073c4efb3ba40bf4167eb31.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF] Weather">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif' alt='GIF] Weather'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome animated GIF of a supercell thunderstorm makes severe ...">
+                                <img itemprop="contentUrl url" src='https://grist.org/wp-content/uploads/2013/06/supercell1.gif' alt='Awesome animated GIF of a supercell thunderstorm makes severe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grist" />
+                                </span>
+                                <a href='https://grist.org/wp-content/uploads/2013/06/supercell1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Weather Animated Icon Set">
+                                <img itemprop="contentUrl url" src='https://flat-icons.com/wp-content/uploads/2022/07/weather-animated-icons.gif' alt='45 Weather Animated Icon Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flat Icons" />
+                                </span>
+                                <a href='https://flat-icons.com/wp-content/uploads/2022/07/weather-animated-icons.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubbish Weather GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/xUOwGoNa2uX6M170d2/giphy.gif?cid=6c09b952o192lj2feseyisysq3s55f5kghtmb2vk0aaniaiw&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Rubbish Weather GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/xUOwGoNa2uX6M170d2/giphy.gif?cid=6c09b952o192lj2feseyisysq3s55f5kghtmb2vk0aaniaiw&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathers GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3oEjHGZkrolm9UgvM4/200w.gif?cid=6c09b952eyeilv2pit6ma6lcvt2figk3wyfxagkxih0quyl8&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Weathers GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3oEjHGZkrolm9UgvM4/200w.gif?cid=6c09b952eyeilv2pit6ma6lcvt2figk3wyfxagkxih0quyl8&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/RS5V.gif' alt='Weather GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/RS5V.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather Clipart - weather_clouds_animation_cc">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e3/95/d1/e395d1c64c7f2b7e534923a929e46977.gif' alt='Weather Clipart - weather_clouds_animation_cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e3/95/d1/e395d1c64c7f2b7e534923a929e46977.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather Clipart - sun_rain_cc - Classroom Clipart">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/images/gallery/Animations/Weather/sun_rain_cc.gif' alt='Weather Clipart - sun_rain_cc - Classroom Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/images/gallery/Animations/Weather/sun_rain_cc.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Weather icons - Work in progress - Synfig Forums">
+                                <img itemprop="contentUrl url" src='https://forums.synfig.org/uploads/default/original/2X/3/31d749625faa93271be23874d416f9be755b7cb9.gif' alt='Animated Weather icons - Work in progress - Synfig Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Synfig Forums - Synfig Studio" />
+                                </span>
+                                <a href='https://forums.synfig.org/uploads/default/original/2X/3/31d749625faa93271be23874d416f9be755b7cb9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Black and Red Flower Wallpaper: Bold Style for Your Home</title>
+                    <meta name="description" content="Discover stunning black and red flower wallpaper to elevate your decor. Perfect for creating a dramatic statement in any room, this stylish design combines beauty and sophistication. Shop now for a transformative touch to your walls!">
+                    <meta name="keywords" content="black and red flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/black-and-red-flower-wallpaper">
+                            <span itemprop="name">black and red flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Red Flower Wallpaper: Bold Style for Your Home</h1>
+                <p>Transform your space with elegant black and red flower wallpaper. This striking design brings a bold yet refined aesthetic to any room, combining the beauty of nature with contemporary style. Perfect for feature walls, it creates a dramatic ambiance that enhances your decor while adding depth and vibrancy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black background phone wallpaper with red flowers and swirls ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-background-phone-wallpaper-with-red-flowers-swirls_764067-19.jpg' alt='Black background phone wallpaper with red flowers and swirls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-background-phone-wallpaper-with-red-flowers-swirls_764067-19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Red Rose Floral Wallpaper Vintage Dark Floral Peel and Stick  Wallpaper 17.7''x78.7'' Red Floral Contact Paper for Walls Cabinets Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814Q9jhF88L.jpg' alt='VaryPaper Red Rose Floral Wallpaper Vintage Dark Floral Peel and Stick  Wallpaper 17.7''x78.7'' Red Floral Contact Paper for Walls Cabinets Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814Q9jhF88L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Bright and Fragrant Red Flower Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-flower-aesthetic-mnold3zlr7j9f27s.jpg' alt='Download A Bright and Fragrant Red Flower Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-flower-aesthetic-mnold3zlr7j9f27s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Black Red Flower Wallpaper Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/23836579/display_1500/stock-vector-seamless-black-red-flower-wallpaper-23836579.jpg' alt='Seamless Black Red Flower Wallpaper Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/23836579/display_1500/stock-vector-seamless-black-red-flower-wallpaper-23836579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red flowers on black background (3000x6667) : r/Amoledbackgrounds">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/red-flowers-on-black-background-3000x6667-v0-zpk4vb90e2aa1.jpg?width=1080&crop=smart&auto=webp&s=c237b9cedef8ded2a6eb70878b03a6f8676f0213' alt='Red flowers on black background (3000x6667) : r/Amoledbackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/red-flowers-on-black-background-3000x6667-v0-zpk4vb90e2aa1.jpg?width=1080&crop=smart&auto=webp&s=c237b9cedef8ded2a6eb70878b03a6f8676f0213' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses On A Black Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-roses-on-a-black-background-uyz7xb7h7l3ou2ol.jpg' alt='Red Roses On A Black Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-roses-on-a-black-background-uyz7xb7h7l3ou2ol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angelica Black And Red Wallpaper Floral Flowers">
+                                <img itemprop="contentUrl url" src='https://94bf2239.aerocdn.com/image-factory/b00936651b3c7e831b1d2ea831418ef323a95be3~1050x1050:upscale/images/products/7Baj7m4w4dq9mZUlUPdKb2rp15yu9odVIKvM4bNU.jpg' alt='Angelica Black And Red Wallpaper Floral Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Shop" />
+                                </span>
+                                <a href='https://94bf2239.aerocdn.com/image-factory/b00936651b3c7e831b1d2ea831418ef323a95be3~1050x1050:upscale/images/products/7Baj7m4w4dq9mZUlUPdKb2rp15yu9odVIKvM4bNU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red flower with black background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/d7/39/a9d739194f22bab19eeb847a90bc760d.jpg' alt='Red flower with black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/d7/39/a9d739194f22bab19eeb847a90bc760d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,200+ Red Flower Black Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1354975718/vector/passionate-floral-seamless-pattern-with-red-roses-on-black-background-flowers-are-hand-drawn.jpg?s=612x612&w=0&k=20&c=OZ0pdMt3CFQKLCfiC6tZC3qJE3PwhTT1OIz-wfEv_1w=' alt='1,200+ Red Flower Black Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1354975718/vector/passionate-floral-seamless-pattern-with-red-roses-on-black-background-flowers-are-hand-drawn.jpg?s=612x612&w=0&k=20&c=OZ0pdMt3CFQKLCfiC6tZC3qJE3PwhTT1OIz-wfEv_1w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red flower wallpaper on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_rdgQVS0Ca/0/image.jpg' alt='red flower wallpaper on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_rdgQVS0Ca/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

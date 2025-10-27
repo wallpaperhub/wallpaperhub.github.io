@@ -1,0 +1,129 @@
+<title>Preppy Heart Wallpaper: Blurry Aesthetic for Trendy Spaces</title>
+                    <meta name="description" content="Discover the enchanting preppy heart wallpaper with a soft, blurry design. Perfect for brightening up any room, this wallpaper combines style and comfort, making it an ideal choice for your personal space. Transform your interiors effortlessly with this delightful decor element!">
+                    <meta name="keywords" content="preppy heart wallpaper blurry">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/preppy-heart-wallpaper-blurry">
+                            <span itemprop="name">preppy heart wallpaper blurry</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Heart Wallpaper: Blurry Aesthetic for Trendy Spaces</h1>
+                <p>Explore the charm of preppy heart wallpaper with a dreamy, blurry aesthetic. Perfect for adding a touch of whimsy and warmth to your space, this design features soft hues and playful heart motifs. Ideal for bedrooms, offices, or any place where you want to inspire love and positivity, let this wallpaper transform your surroundings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fe/bd/c2/febdc26ac18e4cad2f89f89982a4c807.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fe/bd/c2/febdc26ac18e4cad2f89f89982a4c807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Blurry Heart Cyber Y2K Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-blurry-heart-cyber-y2k-aesthetic-lazjk6lr3h7arl2y.jpg' alt='Download Pink Blurry Heart Cyber Y2K Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-blurry-heart-cyber-y2k-aesthetic-lazjk6lr3h7arl2y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/01/56/050156cdee5495ceb6869bd3b0433d31.jpg' alt='Background heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/01/56/050156cdee5495ceb6869bd3b0433d31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blurry Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-blurry-heart-szsqtva3phnucvpn.jpg' alt='100+] Blurry Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-blurry-heart-szsqtva3phnucvpn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blurry Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-blurry-heart-background-m9o8b3vxuw4cf0qz.jpg' alt='100+] Blurry Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-blurry-heart-background-m9o8b3vxuw4cf0qz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurry peach heart background gradient | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_400/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Y5NjYtMDVkLmpwZw.jpg' alt='Blurry peach heart background gradient | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_400/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Y5NjYtMDVkLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Abstract Blurry Red Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-blurry-red-heart-3kib8yohjd2s8q50.jpg' alt='Download Abstract Blurry Red Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-blurry-red-heart-3kib8yohjd2s8q50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/57/a1/3e57a17711b4fabc756df06a238f17ea.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/57/a1/3e57a17711b4fabc756df06a238f17ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Color Aura | Iphone wallpaper pattern, Heart iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/42/d7/e2/42d7e2c30b909027f2573fa4f2388c76.jpg' alt='Heart Color Aura | Iphone wallpaper pattern, Heart iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/42/d7/e2/42d7e2c30b909027f2573fa4f2388c76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heart Aesthetic Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/b776ebe0d9f74574a48e8cc619ef1dec_1674083684~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741168800&x-signature=Y5jcQeJx3nEz6Z8%2F4T47EsTPRY4%3D&shp=b59d6b55&shcp=-' alt='Blue Heart Aesthetic Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/b776ebe0d9f74574a48e8cc619ef1dec_1674083684~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741168800&x-signature=Y5jcQeJx3nEz6Z8%2F4T47EsTPRY4%3D&shp=b59d6b55&shcp=-' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

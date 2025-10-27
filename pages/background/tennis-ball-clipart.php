@@ -1,0 +1,129 @@
+<title>Vibrant Tennis Ball Clipart for Your Design Needs</title>
+                    <meta name="description" content="Discover stunning tennis ball clipart to elevate your projects! Our collection offers vibrant, editable images perfect for invitations, flyers, and social media graphics. Bring a sporty flair to your designs effortlessly and capture attention with eye-catching visuals. Explore now!">
+                    <meta name="keywords" content="tennis ball clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tennis-ball-clipart">
+                            <span itemprop="name">tennis ball clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Tennis Ball Clipart for Your Design Needs</h1>
+                <p>Tennis ball clipart is perfect for adding a sporty touch to your projects! Whether you're designing flyers, invitations, or social media graphics, these vibrant and easily editable images can enhance your creativity. Available in various styles and sizes, tennis ball clipart can bring your design ideas to life, making them fun and eye-catching!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Tennis Ball Clipart (PNG file) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2022/04/Tennis-Ball-Clipart-with-outline-WM.png' alt='FREE Tennis Ball Clipart (PNG file) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2022/04/Tennis-Ball-Clipart-with-outline-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball Clipart Images – Browse 199,629 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/95/46/18/360_F_395461888_4VbGNpuxGs5BP1J1uxVRZ7fQDiWmHZmB.jpg' alt='Tennis Ball Clipart Images – Browse 199,629 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/95/46/18/360_F_395461888_4VbGNpuxGs5BP1J1uxVRZ7fQDiWmHZmB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball PNG Clip Art - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Tennis_Ball_PNG_Clip_Art-1352.png' alt='Tennis Ball PNG Clip Art - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="5016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Tennis_Ball_PNG_Clip_Art-1352.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball SVG, Tennis Ball Cut File, dxf, png,eps, svg, Sports SVG,  tennis ball clipart, tennis ball vector, boy svg, TENNIS">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19055396/r/il/b4ae05/1792865165/il_570xN.1792865165_96s5.jpg' alt='Tennis Ball SVG, Tennis Ball Cut File, dxf, png,eps, svg, Sports SVG,  tennis ball clipart, tennis ball vector, boy svg, TENNIS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19055396/r/il/b4ae05/1792865165/il_570xN.1792865165_96s5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball PNG Clipart​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/31522' alt='Tennis Ball PNG Clipart​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="4994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/31522' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Tennis Balls Cartoon Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1225607311/vector/green-tennis-ball-illustration-in-a-white-background-for-assembly-or-creates-teaching.jpg?s=612x612&w=0&k=20&c=P9Dyau4NK_jXG3mh4WaRFMlJpq67LiSwuiOZMtPOlm8=' alt='1,600+ Tennis Balls Cartoon Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1225607311/vector/green-tennis-ball-illustration-in-a-white-background-for-assembly-or-creates-teaching.jpg?s=612x612&w=0&k=20&c=P9Dyau4NK_jXG3mh4WaRFMlJpq67LiSwuiOZMtPOlm8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free clip art "Tennis ball" by Chrisdesign">
+                                <img itemprop="contentUrl url" src='https://d29fhpw069ctt2.cloudfront.net/clipart/117059/preview/Chrisdesign_tennis_ball_preview_dd83.png' alt='Free clip art "Tennis ball" by Chrisdesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stockio" />
+                                </span>
+                                <a href='https://d29fhpw069ctt2.cloudfront.net/clipart/117059/preview/Chrisdesign_tennis_ball_preview_dd83.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Black and White Outline Clipart - tennis_ball_411C ...">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/images/gallery/Clipart/Black_and_White_Clipart/Sports/tennis_ball_411C.jpg' alt='Sports Black and White Outline Clipart - tennis_ball_411C ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/images/gallery/Clipart/Black_and_White_Clipart/Sports/tennis_ball_411C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-cartoon-sports-equipment-green-tennis-ball-png-image_344065.jpg' alt='Tennis Ball PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-cartoon-sports-equipment-green-tennis-ball-png-image_344065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Tennis ball">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/75/75d303b612a48b5f5d966178d7e7ec1f_t.jpeg' alt='Free Vectors | Tennis ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/75/75d303b612a48b5f5d966178d7e7ec1f_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

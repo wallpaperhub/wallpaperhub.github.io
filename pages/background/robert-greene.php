@@ -1,0 +1,129 @@
+<title>Mastering Strategy: Unveiling Robert Greene</title>
+                    <meta name="description" content="Discover the principles of power and human behavior with Robert Greene's insightful works. Explore strategies for influence and success through his bestselling books, blending history and practical wisdom tailored to modern challenges. Ideal for those seeking to navigate life's complexities effectively.">
+                    <meta name="keywords" content="robert greene">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/robert-greene">
+                            <span itemprop="name">robert greene</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Strategy: Unveiling Robert Greene</h1>
+                <p>Robert Greene is a renowned author known for his deep explorations of power, strategy, and human behavior. His bestselling books, such as "The 48 Laws of Power" and "The Art of Seduction," blend historical anecdotes with practical insights, offering readers lessons on manipulation and influence in various aspects of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene (American author) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robert_Greene_B%26W.jpg/1200px-Robert_Greene_B%26W.jpg' alt='Robert Greene (American author) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robert_Greene_B%26W.jpg/1200px-Robert_Greene_B%26W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene (@RobertGreene) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1424080335650758656/hT-EqNke_400x400.jpg' alt='Robert Greene (@RobertGreene) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1424080335650758656/hT-EqNke_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About - Robert Greene">
+                                <img itemprop="contentUrl url" src='https://powerseductionandwar.com/wp-content/uploads/2024/02/RobertGreene.webp' alt='About - Robert Greene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robert Greene" />
+                                </span>
+                                <a href='https://powerseductionandwar.com/wp-content/uploads/2024/02/RobertGreene.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene's Definition of Power - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/54b82d086bb3f76826bd40ed?width=800&format=jpeg' alt='Robert Greene's Definition of Power - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/54b82d086bb3f76826bd40ed?width=800&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Robert Greene: books, biography, latest update">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/amzn-author-media-prod/eaepvmifn1s1moomieu0q7pia7._SX235_CR0%2C0%2C235%2C235_.jpg' alt='Amazon.com: Robert Greene: books, biography, latest update'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/amzn-author-media-prod/eaepvmifn1s1moomieu0q7pia7._SX235_CR0%2C0%2C235%2C235_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene Interview: How to Master What You Love to Be Successful">
+                                <img itemprop="contentUrl url" src='https://nextshark.b-cdn.net/wp-content/uploads/2014/06/MellyLee-RobertGreene-1hr-e1411342654107.jpg?width=1536&auto_optimize=medium&quality=85' alt='Robert Greene Interview: How to Master What You Love to Be Successful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NextShark" />
+                                </span>
+                                <a href='https://nextshark.b-cdn.net/wp-content/uploads/2014/06/MellyLee-RobertGreene-1hr-e1411342654107.jpg?width=1536&auto_optimize=medium&quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene Complete 7 books collection (The 48 Laws of Power; The Laws  of Human Nature; The Art of Seduction; Mastery; The 33 Strategies of War;  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810TqNtmhWL.jpg' alt='Robert Greene Complete 7 books collection (The 48 Laws of Power; The Laws  of Human Nature; The Art of Seduction; Mastery; The 33 Strategies of War;  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810TqNtmhWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene - Big Think">
+                                <img itemprop="contentUrl url" src='https://bigthink.com/wp-content/uploads/2013/10/Robert-Greene-profile-01.jpg?w=512&h=512&crop=1' alt='Robert Greene - Big Think'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Think" />
+                                </span>
+                                <a href='https://bigthink.com/wp-content/uploads/2013/10/Robert-Greene-profile-01.jpg?w=512&h=512&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene | Penguin Random House">
+                                <img itemprop="contentUrl url" src='https://images1.penguinrandomhouse.com/author/243460' alt='Robert Greene | Penguin Random House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Random House" />
+                                </span>
+                                <a href='https://images1.penguinrandomhouse.com/author/243460' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Greene: How to Become the Master of Any Skill">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/blogs-images/danschawbel/files/2012/10/Robert_Greene_sm-214x300.jpg?height=300&width=214&fit=bounds' alt='Robert Greene: How to Become the Master of Any Skill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="214">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/blogs-images/danschawbel/files/2012/10/Robert_Greene_sm-214x300.jpg?height=300&width=214&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

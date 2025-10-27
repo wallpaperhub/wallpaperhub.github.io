@@ -1,0 +1,129 @@
+<title>Jack and Sally iPhone Wallpaper: Enchanting Designs for Fans</title>
+                    <meta name="description" content="Elevate your iPhone aesthetic with stunning Jack and Sally wallpapers! Ideal for "The Nightmare Before Christmas" enthusiasts, these designs bring character and charm to your device. Explore a unique selection of backgrounds that capture the magic of Jack and Sally's love story!">
+                    <meta name="keywords" content="jack and sally wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jack-and-sally-wallpaper-iphone">
+                            <span itemprop="name">jack and sally wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jack and Sally iPhone Wallpaper: Enchanting Designs for Fans</h1>
+                <p>Transform your iPhone with captivating Jack and Sally wallpapers! Perfect for fans of "The Nightmare Before Christmas," these eye-catching designs showcase the enchanting romance between Jack Skellington and Sally. Choose from a variety of styles to express your love for this classic tale and personalize your device beautifully!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Jack and Sally Backgrounds ideas | nightmare before christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/77/57/8d77577940833af11824441c972c2a82.jpg' alt='24 Jack and Sally Backgrounds ideas | nightmare before christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/77/57/8d77577940833af11824441c972c2a82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Sparkling with love, this image portrays Jack and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/60/c9/0a60c91992ba1f6fce22aa0f76c686ac.jpg' alt='Download "Sparkling with love, this image portrays Jack and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/60/c9/0a60c91992ba1f6fce22aa0f76c686ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Skellington And Sally Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/jack-skellington-and-sally-aamy2z485m9frtkr.webp' alt='Jack Skellington And Sally Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/jack-skellington-and-sally-aamy2z485m9frtkr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Sally wallpaper by thehatter2 - Download on ZEDGE™ | 85b3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/94/a4/7294a4cf5900e6af68adc5c401beddfa.jpg' alt='Jack Sally wallpaper by thehatter2 - Download on ZEDGE™ | 85b3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/94/a4/7294a4cf5900e6af68adc5c401beddfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/58/a8/3958a8feddbf101953d0894c6dd06f1e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/58/a8/3958a8feddbf101953d0894c6dd06f1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jack and sally wallpaper      : r/NightmareBeforeXmas">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cgoyt6f7k7441.jpg' alt='jack and sally wallpaper      : r/NightmareBeforeXmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cgoyt6f7k7441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack & Sally Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e9/55/98/e95598481b729af630ba62429289e5ec.jpg' alt='Jack & Sally Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e9/55/98/e95598481b729af630ba62429289e5ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack and sally, christmas, halloween, nightmare, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/422/892/HD-wallpaper-jack-and-sally-christmas-halloween-nightmare.jpg' alt='Jack and sally, christmas, halloween, nightmare, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/422/892/HD-wallpaper-jack-and-sally-christmas-halloween-nightmare.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowy love, movies, skulls, jackskellington, animated, sally ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1006/636/HD-wallpaper-snowy-love-movies-skulls-jackskellington-animated-sally-nightmarebeforechristmas-christmas-jackandsally.jpg' alt='Snowy love, movies, skulls, jackskellington, animated, sally ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1006/636/HD-wallpaper-snowy-love-movies-skulls-jackskellington-animated-sally-nightmarebeforechristmas-christmas-jackandsally.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sally and Jack Skellington: A True Love Fusion">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7468697427542035734&location=0&aid=1988' alt='Sally and Jack Skellington: A True Love Fusion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7468697427542035734&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

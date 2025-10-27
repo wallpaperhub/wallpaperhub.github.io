@@ -1,0 +1,129 @@
+<title>Stunning Hashira Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a collection of breathtaking Hashira wallpapers that bring the world of Demon Slayer to your screens. Perfect for fans, these wallpapers feature stunning visuals and iconic characters. Elevate your device with dynamic designs that showcase the strength and beauty of each Hashira. Download today!">
+                    <meta name="keywords" content="hashira wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hashira-wallpaper">
+                            <span itemprop="name">hashira wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hashira Wallpapers for Every Fan</h1>
+                <p>Transform your screen with stunning Hashira wallpapers! Featuring vibrant designs of your favorite Demon Slayer characters, these wallpapers bring your love for the series to life. Perfect for anime fans, the wallpapers capture the essence of each Hashira, adding a touch of artistry to your devices. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hashira wallpaper : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iwjazhg1xpc81.jpg' alt='Hashira wallpaper : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iwjazhg1xpc81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solve demon-slayer-hashira-wallpaper-2560x1440_51 jigsaw puzzle ...">
+                                <img itemprop="contentUrl url" src='https://d2cbe6qj96hbor.cloudfront.net/puzzles/UB80Y0TUFUWOF5VP.jpg' alt='Solve demon-slayer-hashira-wallpaper-2560x1440_51 jigsaw puzzle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jigidi" />
+                                </span>
+                                <a href='https://d2cbe6qj96hbor.cloudfront.net/puzzles/UB80Y0TUFUWOF5VP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Demon Slayer : Kimetsu no Yaiba - Hashira & More ...">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1792974219414422498/CAE511BEEA191EA0700CCF536D00980B459CAADC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Demon Slayer : Kimetsu no Yaiba - Hashira & More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1792974219414422498/CAE511BEEA191EA0700CCF536D00980B459CAADC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hashira wallpaper from season 2 intro : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9exs4f49l1x71.png' alt='Hashira wallpaper from season 2 intro : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9exs4f49l1x71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer • Hashira Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/5a/95/8e5a95b6f3c1e63fb7caf5117e86ddfb.jpg' alt='Demon Slayer • Hashira Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/5a/95/8e5a95b6f3c1e63fb7caf5117e86ddfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Hashira Gathering - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/136/1362335.jpeg' alt='Demon Slayer: Hashira Gathering - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/136/1362335.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Demon Slayer: Kimetsu No Yaiba Demon Slayer ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/135/1354882.jpeg' alt='Download Anime Demon Slayer: Kimetsu No Yaiba Demon Slayer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1982">
+                                <meta itemprop="height" content="1734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/135/1354882.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hashira Wallpaper : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/utvr3b8w2pg81.jpg' alt='Hashira Wallpaper : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/utvr3b8w2pg81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD water hashira wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/295/764/HD-wallpaper-demon-slayer-flame-hashira-giyu-hashira-insect-hashira-mist-hashira-pillars-rengoku-shinobu-water-hashira.jpg' alt='HD water hashira wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/295/764/HD-wallpaper-demon-slayer-flame-hashira-giyu-hashira-insect-hashira-mist-hashira-pillars-rengoku-shinobu-water-hashira.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Hashira Training Arc 8K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/demon-slayer-2880x1800-17617.jpg' alt='Demon Slayer Hashira Training Arc 8K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/demon-slayer-2880x1800-17617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

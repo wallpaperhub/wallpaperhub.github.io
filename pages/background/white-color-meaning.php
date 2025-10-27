@@ -1,0 +1,129 @@
+<title>The Meaning of the Color White: Purity & Peace</title>
+                    <meta name="description" content="Discover the significance of the color white, from its symbolism of purity and innocence to its spiritual associations. Explore how this versatile hue impacts art, fashion, and design, and learn how it can bring peace and simplicity to your life.">
+                    <meta name="keywords" content="white color meaning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-color-meaning">
+                            <span itemprop="name">white color meaning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Meaning of the Color White: Purity & Peace</h1>
+                <p>The color white symbolizes purity, innocence, and cleanliness. It often represents new beginnings and fresh starts, evoking feelings of peace and simplicity. In various cultures, white is linked to spirituality and enlightenment, making it a versatile and powerful shade in art, fashion, and design. Its brightness can illuminate and expand spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Color Meaning: Symbolism of Purity, Innocence, Perfection ...">
+                                <img itemprop="contentUrl url" src='https://www.color-meanings.com/wp-content/uploads/white-color-meaning-symbolism-infographic.png' alt='White Color Meaning: Symbolism of Purity, Innocence, Perfection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Meanings" />
+                                </span>
+                                <a href='https://www.color-meanings.com/wp-content/uploads/white-color-meaning-symbolism-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meaning of the Color White: Symbolism, Common Uses, & More">
+                                <img itemprop="contentUrl url" src='https://www.colorsexplained.com/wp-content/uploads/2020/05/White-summary-color-meanings.jpg' alt='Meaning of the Color White: Symbolism, Common Uses, & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colors Explained" />
+                                </span>
+                                <a href='https://www.colorsexplained.com/wp-content/uploads/2020/05/White-summary-color-meanings.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Color Meaning and Symbolism | The Astrology Web">
+                                <img itemprop="contentUrl url" src='https://www.theastrologyweb.com/wp-content/uploads/2019/03/White-Meaning-Symbolism-Favorite-Color.jpg' alt='White Color Meaning and Symbolism | The Astrology Web'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Astrology Web" />
+                                </span>
+                                <a href='https://www.theastrologyweb.com/wp-content/uploads/2019/03/White-Meaning-Symbolism-Favorite-Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does the Color White Symbolize? (Meanings of the Color White)">
+                                <img itemprop="contentUrl url" src='https://www.verywellmind.com/thmb/Xv_VKITYhwFOrDvcFmav4zOjydc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/color-psychology-white-2795822-c1ce7cb9ec874904a3b5a7a02f75cbb2.png' alt='What Does the Color White Symbolize? (Meanings of the Color White)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Mind" />
+                                </span>
+                                <a href='https://www.verywellmind.com/thmb/Xv_VKITYhwFOrDvcFmav4zOjydc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/color-psychology-white-2795822-c1ce7cb9ec874904a3b5a7a02f75cbb2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meaning Of White: Color Psychology And Symbolism - Sensational Color">
+                                <img itemprop="contentUrl url" src='https://sensationalcolor.com/wp-content/uploads/2016/09/Meaning-of-White-Words.jpg' alt='Meaning Of White: Color Psychology And Symbolism - Sensational Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sensational Color" />
+                                </span>
+                                <a href='https://sensationalcolor.com/wp-content/uploads/2016/09/Meaning-of-White-Words.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Color White Meaning - Zanet Design Ltd (Conclusive 2019 Guide)">
+                                <img itemprop="contentUrl url" src='https://zanet.co.uk/wp-content/uploads/2019/09/color-white-meanings-1024x576.png' alt='The Color White Meaning - Zanet Design Ltd (Conclusive 2019 Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zanet Design" />
+                                </span>
+                                <a href='https://zanet.co.uk/wp-content/uploads/2019/09/color-white-meanings-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meaning of White - Deepstash">
+                                <img itemprop="contentUrl url" src='https://preview.deepstash.com/i/12117-1624018734.png' alt='Meaning of White - Deepstash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deepstash" />
+                                </span>
+                                <a href='https://preview.deepstash.com/i/12117-1624018734.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meaning of Color White - Symbolism, Psychology & Personality">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ed/5c/36/ed5c36e57586eeb38bf9b1465778ed5e.jpg' alt='Meaning of Color White - Symbolism, Psychology & Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ed/5c/36/ed5c36e57586eeb38bf9b1465778ed5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Meanings: The Power of Color in Branding">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5de2db6d3719a1e2f3e4454c/6524448e0b40989bebf0fa89_9d70a6bf-1ff0-4818-8af8-9388930d881d.webp' alt='Color Meanings: The Power of Color in Branding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arek Dvornechuck" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5de2db6d3719a1e2f3e4454c/6524448e0b40989bebf0fa89_9d70a6bf-1ff0-4818-8af8-9388930d881d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Color Psychology - White Meaning & Personality">
+                                <img itemprop="contentUrl url" src='https://www.colorpsychology.org/wp-content/uploads/2015/02/white-color-psychology.jpg' alt='White Color Psychology - White Meaning & Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Psychology" />
+                                </span>
+                                <a href='https://www.colorpsychology.org/wp-content/uploads/2015/02/white-color-psychology.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

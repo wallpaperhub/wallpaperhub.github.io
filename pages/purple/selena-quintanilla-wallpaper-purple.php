@@ -1,0 +1,129 @@
+<title>Stunning Purple Selena Quintanilla Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a collection of eye-catching purple wallpapers featuring the beloved Selena Quintanilla. Perfect for adding a pop of color and style to your devices while celebrating her iconic legacy. Download your favorites and showcase your love for Selena today!">
+                    <meta name="keywords" content="selena quintanilla wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/selena-quintanilla-wallpaper-purple">
+                            <span itemprop="name">selena quintanilla wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Selena Quintanilla Wallpapers for Fans</h1>
+                <p>Discover stunning Selena Quintanilla wallpapers in purple! Perfect for fans of the Queen of Tejano music, these vibrant designs capture her spirit and legacy. From artistic illustrations to iconic photos, elevate your digital space with a touch of Selena's magic. Ideal for phones, tablets, and desktops!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selena quintanilla Wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/c2/32/f9c2326a69cbb2fd703dc1275b9fefba.jpg' alt='Selena quintanilla Wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/c2/32/f9c2326a69cbb2fd703dc1275b9fefba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salena Quintanilla Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/51/7c/0a517cdaf378469edaf743a6a51bbaf3.jpg' alt='Salena Quintanilla Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/51/7c/0a517cdaf378469edaf743a6a51bbaf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selena Quintanilla Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/5d/57/ee5d578abf6a13d58c5d4c2495ff16d5.jpg' alt='Selena Quintanilla Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/5d/57/ee5d578abf6a13d58c5d4c2495ff16d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selena Quintanilla Purple - Oscar Benero's Art - Paintings ...">
+                                <img itemprop="contentUrl url" src='https://img.artpal.com/779403/1-24-2-6-1-3-47m.jpg' alt='Selena Quintanilla Purple - Oscar Benero's Art - Paintings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtPal" />
+                                </span>
+                                <a href='https://img.artpal.com/779403/1-24-2-6-1-3-47m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selena Wallpapers!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/11/00/38/1100385219e13eb13eb63070564075bb.jpg' alt='Selena Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/11/00/38/1100385219e13eb13eb63070564075bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Selena Quintanilla Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/selena-quintanilla-iphone-tqyln8bzhqv8jqmb.jpg' alt='100+] Selena Quintanilla Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/selena-quintanilla-iphone-tqyln8bzhqv8jqmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="selena quintanilla queen Outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/outfits/e2bf9167-6536-4f7f-a00d-e31bf37b6291.png' alt='selena quintanilla queen Outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/outfits/e2bf9167-6536-4f7f-a00d-e31bf37b6291.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpapers of selena">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/96/a4/f096a42e502bcd7d59349112f9a0917f.jpg' alt='Cute wallpapers of selena'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/96/a4/f096a42e502bcd7d59349112f9a0917f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   - Selena Quintanilla-Perez Fans | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2841957775839883' alt='   - Selena Quintanilla-Perez Fans | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="   - Selena Quintanilla-Perez Fans | Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2841957775839883' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selena Quintanilla La Reina Tex Mex PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35845107/r/il/7cae3c/5686581942/il_fullxfull.5686581942_gppw.jpg' alt='Selena Quintanilla La Reina Tex Mex PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35845107/r/il/7cae3c/5686581942/il_fullxfull.5686581942_gppw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

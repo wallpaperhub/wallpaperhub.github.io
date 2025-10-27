@@ -1,0 +1,129 @@
+<title>Stunning Real Heart Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking real heart wallpapers that beautifully showcase the intricacies of human anatomy. Perfect for any device, these wallpapers enhance your screen while celebrating the beauty of health and art. Transform your background with unique and inspiring visuals today!">
+                    <meta name="keywords" content="real heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/real-heart-wallpaper">
+                            <span itemprop="name">real heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Real Heart Wallpapers for Every Device</h1>
+                <p>Enhance your device's aesthetic with stunning real heart wallpapers! These vibrant images capture the intricate beauty of the human heart, blending art with anatomy. Perfect for health enthusiasts or anyone who appreciates unique visuals. Transform your screens with wallpapers that inspire and evoke emotion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Hearts   ideas | heart wallpaper, heart drawing, human heart art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8d/11/e7/8d11e7babb86d00dd4873cb2ac834507.jpg' alt='7 Hearts   ideas | heart wallpaper, heart drawing, human heart art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8d/11/e7/8d11e7babb86d00dd4873cb2ac834507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medical Heart, Human Heart, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/504/538/HD-wallpaper-medical-heart-human-heart.jpg' alt='Medical Heart, Human Heart, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/504/538/HD-wallpaper-medical-heart-human-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f3/ce/94/f3ce94e3ec0fb4c567c8ec48cc41dcf6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f3/ce/94/f3ce94e3ec0fb4c567c8ec48cc41dcf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Realistic Heart PFP Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/realistic-heart-pfp-zxiksvkan7yvau05.jpg' alt='Download Realistic Heart PFP Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1743">
+                                <meta itemprop="height" content="1743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/realistic-heart-pfp-zxiksvkan7yvau05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Heart" Images – Browse 134 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/19/56/74/360_F_719567487_rJqtXHA2Gkvuh4GmzPHqjP4V9SHFGuuN.jpg' alt='Real Heart" Images – Browse 134 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/19/56/74/360_F_719567487_rJqtXHA2Gkvuh4GmzPHqjP4V9SHFGuuN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Real Heart Black Heart iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/real-heart-black-heart-iphone-79cjq8i8lrc3xqgr.jpg' alt='Download Real Heart Black Heart iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/real-heart-black-heart-iphone-79cjq8i8lrc3xqgr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @vakare light pink    #fyp #heart #to #heart ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194938428339899650&location=0&aid=1988' alt='Replying to @vakare light pink    #fyp #heart #to #heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194938428339899650&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomical Black And White Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anatomical-black-and-white-heart-6pc96zhj4c1usjy8.jpg' alt='Anatomical Black And White Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anatomical-black-and-white-heart-6pc96zhj4c1usjy8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ριntєrєѕt: @Franvx Form the botton of my heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7a/69/af/7a69af29ce6d8104d9f20e22b909a84c.jpg' alt='ριntєrєѕt: @Franvx Form the botton of my heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7a/69/af/7a69af29ce6d8104d9f20e22b909a84c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore the Intricacies of the Human Heart with Captivating Wallpaper Photo">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7206412014049152282&location=0&aid=1988' alt='Explore the Intricacies of the Human Heart with Captivating Wallpaper Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7206412014049152282&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

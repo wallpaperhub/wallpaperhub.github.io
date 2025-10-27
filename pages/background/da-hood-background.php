@@ -1,0 +1,129 @@
+<title>Explore the Exciting World of Da Hood on Roblox</title>
+                    <meta name="description" content="Discover Da Hood, the popular Roblox experience where urban adventures await! Engage with players, explore diverse activities, and dive into a dynamic neighborhood filled with excitement. Join the fun in this vibrant virtual world made for gamers of all ages!">
+                    <meta name="keywords" content="da hood background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/da-hood-background">
+                            <span itemprop="name">da hood background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Exciting World of Da Hood on Roblox</h1>
+                <p>Da Hood is a vibrant and dynamic virtual space within the Roblox platform, known for its urban setting and engaging gameplay. Players can explore the neighborhood, interact with others, and participate in various activities ranging from battling to socializing. Its lively atmosphere and customizability make it a popular choice among gamers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="da brickz: a retro-style da hood type game : r/roblox">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/da-brickz-a-retro-style-da-hood-type-game-v0-2mje7mzwqty91.png?width=1768&format=png&auto=webp&s=fa2d3e5138a390760e8cb4797f3801d0371a4878' alt='da brickz: a retro-style da hood type game : r/roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/da-brickz-a-retro-style-da-hood-type-game-v0-2mje7mzwqty91.png?width=1768&format=png&auto=webp&s=fa2d3e5138a390760e8cb4797f3801d0371a4878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Da Hood | Robloxiapedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/robloxcities/images/e/e6/Da_Hood.jpg/revision/latest?cb=20240410142721' alt='Da Hood | Robloxiapedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robloxiapedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/robloxcities/images/e/e6/Da_Hood.jpg/revision/latest?cb=20240410142721' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Da Hood | Floptok Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/floptok/images/0/04/Da_hood.jpg/revision/latest/scale-to-width-down/1200?cb=20230501002029' alt='Da Hood | Floptok Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Floptok Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/floptok/images/0/04/Da_hood.jpg/revision/latest/scale-to-width-down/1200?cb=20230501002029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Da Hood/Shop and Robbery Facility - NamuWiki">
+                                <img itemprop="contentUrl url" src='https://i.namu.wiki/i/o7kc5bzbWhh6qkD9NobY8CIRZUbFDATPAcJ4MNl7ouNbz3u3WLAuvq6ZSXG-Bo5oejpAyNnygX7Frxur_S74CA.webp' alt='Da Hood/Shop and Robbery Facility - NamuWiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Namuwiki:main door" />
+                                </span>
+                                <a href='https://i.namu.wiki/i/o7kc5bzbWhh6qkD9NobY8CIRZUbFDATPAcJ4MNl7ouNbz3u3WLAuvq6ZSXG-Bo5oejpAyNnygX7Frxur_S74CA.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Da Hood (Roblox) : r/liminalspacesgaming">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/da-hood-roblox-v0-3jdvldmlc33a1.png?width=1640&format=png&auto=webp&s=6f8e37aafdd19ef072d499c7aa6f08516c42c00c' alt='Da Hood (Roblox) : r/liminalspacesgaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/da-hood-roblox-v0-3jdvldmlc33a1.png?width=1640&format=png&auto=webp&s=6f8e37aafdd19ef072d499c7aa6f08516c42c00c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dh background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/da/2c/34da2c9628a02a77a5eb7b17871d69b8.jpg' alt='Dh background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/da/2c/34da2c9628a02a77a5eb7b17871d69b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLEASE TEST + FEEDBACK]: Da Brickz, a retro style da hood game ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/1/a/f/1af3472898760e3418351341d96050d25e3bda57_2_690x450.jpeg' alt='PLEASE TEST + FEEDBACK]: Da Brickz, a retro style da hood game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/1/a/f/1af3472898760e3418351341d96050d25e3bda57_2_690x450.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank | Da Hood Roblox Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/da-hood-roblox/images/4/44/Bank1.png/revision/latest?cb=20241019044400' alt='Bank | Da Hood Roblox Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Da Hood Roblox Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/da-hood-roblox/images/4/44/Bank1.png/revision/latest?cb=20241019044400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLEASE TEST + FEEDBACK]: Da Brickz, a retro style da hood game ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/b/7/6/b7614cdefd7f15462aee6276b9395bf9b84a06f0_2_690x452.jpeg' alt='PLEASE TEST + FEEDBACK]: Da Brickz, a retro style da hood game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/b/7/6/b7614cdefd7f15462aee6276b9395bf9b84a06f0_2_690x452.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SO I MADE DA HOOD WALLPAPERS :D | Da Hood Roblox - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YbQMdwfaDVs/maxresdefault.jpg' alt='SO I MADE DA HOOD WALLPAPERS :D | Da Hood Roblox - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YbQMdwfaDVs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

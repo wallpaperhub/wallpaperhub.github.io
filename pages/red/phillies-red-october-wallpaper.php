@@ -1,0 +1,129 @@
+<title>Phillies Red October: Download Epic Wallpapers</title>
+                    <meta name="description" content="Explore unique Phillies Red October wallpapers! Perfect for showcasing your team spirit, these eye-catching backgrounds will bring the excitement of postseason baseball right to your device. Download yours now and show your support for the Philadelphia Phillies during their playoff journey!">
+                    <meta name="keywords" content="phillies red october wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/phillies-red-october-wallpaper">
+                            <span itemprop="name">phillies red october wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Phillies Red October: Download Epic Wallpapers</h1>
+                <p>Celebrate the Phillies' Red October with stunning wallpapers that capture the spirit and excitement of playoff season! From iconic moments to vibrant team colors, these wallpapers are perfect for showcasing your love for the Phillies. Download one today and let your device reflect the thrill of the game! Go Phils!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday drop: Red... - Philadelphia Phillies | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1081436520008147' alt='Wallpaper Wednesday drop: Red... - Philadelphia Phillies | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1081436520008147' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SPORTSPHOTOSUSA 2023 Philadelphia Phillies Welcome Back to Red  October 8x10 Photo : Sports & Outdoors">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hB6eU1ICL.jpg' alt='Amazon.com: SPORTSPHOTOSUSA 2023 Philadelphia Phillies Welcome Back to Red  October 8x10 Photo : Sports & Outdoors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hB6eU1ICL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies 2022 Red October 15 by 24, 11 by 17 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22143117/r/il/323f40/4413209878/il_1080xN.4413209878_q7nu.jpg' alt='Philadelphia Phillies 2022 Red October 15 by 24, 11 by 17 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22143117/r/il/323f40/4413209878/il_1080xN.4413209878_q7nu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies on X: "#WallpaperWednesday drop: Red October ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GY5TkZTXsAAL_5T?format=jpg&name=4096x4096' alt='Philadelphia Phillies on X: "#WallpaperWednesday drop: Red October ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GY5TkZTXsAAL_5T?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Back to Red October : r/phillies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/welcome-back-to-red-october-v0-aw5hqhr0o2qd1.jpeg?auto=webp&s=2c5f23c49b758dd795c4b5e2d8d55c4e4fd28539' alt='Welcome Back to Red October : r/phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/welcome-back-to-red-october-v0-aw5hqhr0o2qd1.jpeg?auto=webp&s=2c5f23c49b758dd795c4b5e2d8d55c4e4fd28539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies 2023 Red October 15 by 24 or 11 by 17">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22143117/r/il/cea116/5391675251/il_fullxfull.5391675251_i604.jpg' alt='Philadelphia Phillies 2023 Red October 15 by 24 or 11 by 17'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22143117/r/il/cea116/5391675251/il_fullxfull.5391675251_i604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phillies In October We Wear Red Philly Philadelphia Baseball Red October  Champions Digital Download Files Printable Wallpaper SVG PNG Jpg">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37899365/r/il/8b8ce5/5342996734/il_fullxfull.5342996734_k3io.jpg' alt='Phillies In October We Wear Red Philly Philadelphia Baseball Red October  Champions Digital Download Files Printable Wallpaper SVG PNG Jpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1555">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37899365/r/il/8b8ce5/5342996734/il_fullxfull.5342996734_k3io.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies - WE'RE GOING TO THE WORLD SERIES ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10167117725920492' alt='Philadelphia Phillies - WE'RE GOING TO THE WORLD SERIES ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10167117725920492' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RED OCTOBER.   ⚾️ Movie style poster for the loves of my life ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3201371996951034671' alt='RED OCTOBER.   ⚾️ Movie style poster for the loves of my life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3201371996951034671' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/ae/4a/05ae4a3e9f37fe53036d96268e2f7d65.jpg' alt='Philadelphia Phillies on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/ae/4a/05ae4a3e9f37fe53036d96268e2f7d65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

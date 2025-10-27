@@ -1,0 +1,129 @@
+<title>Transform Your Space with Gray Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of gray peel and stick wallpaper, perfect for hassle-free home transformations. Ideal for renters and easy to apply, this wallpaper adds a modern touch to any room. Explore a variety of designs to create your dream space effortlessly!">
+                    <meta name="keywords" content="gray peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/gray-peel-and-stick-wallpaper">
+                            <span itemprop="name">gray peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Gray Peel and Stick Wallpaper</h1>
+                <p>Gray peel and stick wallpaper is a stylish and versatile choice for modern interiors. Perfect for renters and DIY enthusiasts, it offers an easy way to refresh any space without the mess of traditional wallpaper. Available in various patterns and textures, it can seamlessly enhance any room's aesthetic, achieving a chic, contemporary look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural -  Geometric Gray Wallpaper - A553 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21219368/r/il/0126f0/5768135842/il_1080xN.5768135842_q5l0.jpg' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural -  Geometric Gray Wallpaper - A553 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21219368/r/il/0126f0/5768135842/il_1080xN.5768135842_q5l0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8181IrfoAHL.jpg' alt='Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8181IrfoAHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Grey Breezy Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq.  Ft.) NUS3144">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f07a0164-d384-4cd4-8255-25659bcc91b6/svn/nuwallpaper-wallpaper-rolls-nus3144-c3_600.jpg' alt='NuWallpaper Grey Breezy Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq.  Ft.) NUS3144'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f07a0164-d384-4cd4-8255-25659bcc91b6/svn/nuwallpaper-wallpaper-rolls-nus3144-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Grey and White Wallpaper Herringbone Contact Paper Striped Self  Adhesive Wallpaper Gray Peel and Stick Wallpaper DIY Removable Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hkSnemLUL._AC_UF894,1000_QL80_.jpg' alt='Guvana Grey and White Wallpaper Herringbone Contact Paper Striped Self  Adhesive Wallpaper Gray Peel and Stick Wallpaper DIY Removable Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hkSnemLUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Gray White Leaf Wallpaper | Peel And Stick Wallpaper |  Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3530">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3691847119_d5et.jpg' alt='Removable Wallpaper Gray White Leaf Wallpaper | Peel And Stick Wallpaper |  Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3530'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3691847119_d5et.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Waves Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/grey-waves-wallpaper-peel-stick-650538.jpg?v=1666799089' alt='Grey Waves Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/grey-waves-wallpaper-peel-stick-650538.jpg?v=1666799089' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Large Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C872">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C872_02.png?v=1731721038&width=1445' alt='Gray Large Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C872'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C872_02.png?v=1731721038&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-grey.jpg?q=1699648121' alt='Grey Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-grey.jpg?q=1699648121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Alloy Grey Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43908">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2bc28866-8247-4713-9a12-da1a8a3e953b/svn/nextwall-wallpaper-rolls-nw43908-31_600.jpg' alt='NextWall 30.75 sq. ft. Alloy Grey Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43908'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2bc28866-8247-4713-9a12-da1a8a3e953b/svn/nextwall-wallpaper-rolls-nw43908-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Herringbone Tile Peel & Stick Wallpaper Gray - Threshold ...">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_db3478e4-bb01-4385-a4a7-5be6c4cb0cd0' alt='Marble Herringbone Tile Peel & Stick Wallpaper Gray - Threshold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_db3478e4-bb01-4385-a4a7-5be6c4cb0cd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

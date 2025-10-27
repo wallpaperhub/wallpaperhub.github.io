@@ -1,0 +1,129 @@
+<title>Essential Out of State Background Checks for Child Care</title>
+                    <meta name="description" content="Explore the importance of out of state background checks in child care to protect children. Learn how thorough checks help ensure caregiver safety and compliance with legal requirements, making informed decisions for your child's care easier. Stay informed for peace of mind!">
+                    <meta name="keywords" content="out of state background check for child care">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/out-of-state-background-check-for-child-care">
+                            <span itemprop="name">out of state background check for child care</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Out of State Background Checks for Child Care</h1>
+                <p>Conducting an out of state background check for child care is vital to ensure the safety and well-being of children. This process verifies a caregiver's criminal history, child abuse allegations, and other relevant information across state lines. Parents and childcare agencies must adhere to legal requirements for thorough checks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Out of State Background Checks | Job and Family Services">
+                                <img itemprop="contentUrl url" src='https://jfs.ohio.gov/wps/wcm/connect/gov/6bd3cf01-6a7a-41b5-8777-0b57b8d8fc43/out-of-state-background-check.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_JQGCH4S04P41206HNUKVF31000-6bd3cf01-6a7a-41b5-8777-0b57b8d8fc43-oNGdYBG' alt='Out of State Background Checks | Job and Family Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ohio Department of Job and Family Services - Ohio.gov" />
+                                </span>
+                                <a href='https://jfs.ohio.gov/wps/wcm/connect/gov/6bd3cf01-6a7a-41b5-8777-0b57b8d8fc43/out-of-state-background-check.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_JQGCH4S04P41206HNUKVF31000-6bd3cf01-6a7a-41b5-8777-0b57b8d8fc43-oNGdYBG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Child Care Licensing Out of State Background Check Guidance">
+                                <img itemprop="contentUrl url" src='x-raw-image:///1bf310b9d623a72107636a615f1e6de2c2231cefa944baa89f9502a42a2944e9' alt='Child Care Licensing Out of State Background Check Guidance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dphhs" />
+                                </span>
+                                <a href='x-raw-image:///1bf310b9d623a72107636a615f1e6de2c2231cefa944baa89f9502a42a2944e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Request, DCF-F-5296. Child Care Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/464/821/464821409.png' alt='Background Check Request, DCF-F-5296. Child Care Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/464/821/464821409.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comprehensive Background Check Process | Early Childhood Education ...">
+                                <img itemprop="contentUrl url" src='https://www.nmececd.org/wp-content/uploads/2023/08/Centers-1.png' alt='Comprehensive Background Check Process | Early Childhood Education ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Early Childhood Education & Care Department" />
+                                </span>
+                                <a href='https://www.nmececd.org/wp-content/uploads/2023/08/Centers-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States' Status of and Identified Barriers to Implementation of the ...">
+                                <img itemprop="contentUrl url" src='https://acf.gov/sites/default/files/styles/third_screen/public/images/opre/2021_01_11_Child%20Care%20Interstate%20Background%20Checks%20Brief_HiResCover_Final_0.jpg?itok=YPGd1m_1' alt='States' Status of and Identified Barriers to Implementation of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Administration for Children and Families - HHS.gov" />
+                                </span>
+                                <a href='https://acf.gov/sites/default/files/styles/third_screen/public/images/opre/2021_01_11_Child%20Care%20Interstate%20Background%20Checks%20Brief_HiResCover_Final_0.jpg?itok=YPGd1m_1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States are required to background check child care workers. Many ...">
+                                <img itemprop="contentUrl url" src='https://stateline.org/wp-content/uploads/2024/04/19th-daycare-1536x1024.jpg' alt='States are required to background check child care workers. Many ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stateline.org" />
+                                </span>
+                                <a href='https://stateline.org/wp-content/uploads/2024/04/19th-daycare-1536x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States' Status of and Identified Barriers to Implementation of the ...">
+                                <img itemprop="contentUrl url" src='https://acf.gov/sites/default/files/thumbnail_images/opre/States%26%23039%3B%20status%20of%20and%20identified%20barriers_SSG.png' alt='States' Status of and Identified Barriers to Implementation of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Administration for Children and Families - HHS.gov" />
+                                </span>
+                                <a href='https://acf.gov/sites/default/files/thumbnail_images/opre/States%26%23039%3B%20status%20of%20and%20identified%20barriers_SSG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHILD CARE ICENSING REQUEST FOR BACKGROUND CHECK - Fill and Sign ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/463/404/463404854.png' alt='CHILD CARE ICENSING REQUEST FOR BACKGROUND CHECK - Fill and Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/463/404/463404854.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Form 2971: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/684/32/684032693/large.png' alt='Form 2971: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/684/32/684032693/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks for Prospective Foster, Adoptive, and Kinship ...">
+                                <img itemprop="contentUrl url" src='https://cwig-prod-prod-drupal-s3fs-us-east-1.s3.amazonaws.com/public/documents/background.pdf.jpg?VersionId=Fr2BfASdwBQjI4RkU1UGlf0q5MaEDDhL' alt='Background Checks for Prospective Foster, Adoptive, and Kinship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Child Welfare Information Gateway" />
+                                </span>
+                                <a href='https://cwig-prod-prod-drupal-s3fs-us-east-1.s3.amazonaws.com/public/documents/background.pdf.jpg?VersionId=Fr2BfASdwBQjI4RkU1UGlf0q5MaEDDhL' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Survivor Background in D&D 5e: Unleash Your Character's Resilience</title>
+                    <meta name="description" content="Explore the Survivor background in D&D 5e, where characters embody resilience and tenacity. Learn how this background enhances gameplay with unique skills and traits, perfect for adventurers who thrive through adversity. Elevate your character with a rich history of survival!">
+                    <meta name="keywords" content="survivor background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/survivor-background-5e">
+                            <span itemprop="name">survivor background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Survivor Background in D&D 5e: Unleash Your Character's Resilience</h1>
+                <p>In Dungeons & Dragons 5e, a survivor background represents characters who have faced dire circumstances and emerged stronger. This background emphasizes resilience, adaptability, and resourcefulness honed through adversity. Survivors are adept at finding ways to overcome obstacles, showcasing their tenacity and survival skills in both urban and wilderness settings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play a character who has seen the horrors of the Mind Flayers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yzsx8nffgav71.png' alt='Play a character who has seen the horrors of the Mind Flayers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1188">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yzsx8nffgav71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background │ Preserved : r/UnearthedArcana">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0yr08a0m6ol41.jpg' alt='Background │ Preserved : r/UnearthedArcana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5100">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0yr08a0m6ol41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ritual Survivor (5e Background) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7d/1c/9d/7d1c9d6856b815f88aad889dfdd1a6da.jpg' alt='Ritual Survivor (5e Background) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7d/1c/9d/7d1c9d6856b815f88aad889dfdd1a6da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Exile [5e] - Homebrewed a background for an exiled ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ccx2y98t5b151.png?auto=webp&s=452daa4f7d9904d5eaf2ccf6c2e49fe4180613f6' alt='Background Exile [5e] - Homebrewed a background for an exiled ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ccx2y98t5b151.png?auto=webp&s=452daa4f7d9904d5eaf2ccf6c2e49fe4180613f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5e Background: Refugee - Forged by Survival, Strengthened by ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/ab210d_22f8a9b8a5d2471ea05ff15dc12b4a20~mv2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ab210d_22f8a9b8a5d2471ea05ff15dc12b4a20~mv2.jpg' alt='D&D 5e Background: Refugee - Forged by Survival, Strengthened by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MonkeyDM" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/ab210d_22f8a9b8a5d2471ea05ff15dc12b4a20~mv2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ab210d_22f8a9b8a5d2471ea05ff15dc12b4a20~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background: Castaway - Not Just Surviving, But Thriving in ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/background-castaway-not-just-surviving-but-thriving-in-v0-712cjdd8ceob1.jpg?width=2550&format=pjpg&auto=webp&s=2605d62ffd86499b02058ca2b5d3d0126ca1a55f' alt='Background: Castaway - Not Just Surviving, But Thriving in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/background-castaway-not-just-surviving-but-thriving-in-v0-712cjdd8ceob1.jpg?width=2550&format=pjpg&auto=webp&s=2605d62ffd86499b02058ca2b5d3d0126ca1a55f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD24 Backgrounds Cultist & Survivor : r/DnDHomebrew">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dnd24-backgrounds-cultist-survivor-v0-8px4n7k8oqtd1.png?width=1099&format=png&auto=webp&s=c12f28864ccec089919d0637d07dc985a14e04cf' alt='DnD24 Backgrounds Cultist & Survivor : r/DnDHomebrew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1099">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dnd24-backgrounds-cultist-survivor-v0-8px4n7k8oqtd1.png?width=1099&format=png&auto=webp&s=c12f28864ccec089919d0637d07dc985a14e04cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vathak 5e Character Options - Survivor Background - Fat Goblin ...">
+                                <img itemprop="contentUrl url" src='https://www.drivethrucards.com/images/3865/342453.png' alt='Vathak 5e Character Options - Survivor Background - Fat Goblin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DriveThruCards.com" />
+                                </span>
+                                <a href='https://www.drivethrucards.com/images/3865/342453.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sole survivor - New Background Option for D&D 5e - Dungeon Masters ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/d5VAg8ALsp7-6h3pMnj5WyrNiS63RmyUtQ4zNxEt2I0.jpg?width=640&crop=smart&auto=webp&s=8df25451fb3f841aa4d0ce12bc9f248137b1c508' alt='Sole survivor - New Background Option for D&D 5e - Dungeon Masters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/d5VAg8ALsp7-6h3pMnj5WyrNiS63RmyUtQ4zNxEt2I0.jpg?width=640&crop=smart&auto=webp&s=8df25451fb3f841aa4d0ce12bc9f248137b1c508' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant in the Playground Forums">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Bs2SWr3CcAEn4Gt.jpg' alt='Giant in the Playground Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giant in the Playground Forums" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Bs2SWr3CcAEn4Gt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring Undertale's Yellow Wallpaper: Themes & Insights</title>
+                    <meta name="description" content="Discover the fascinating intersection of Undertale and yellow wallpaper. Delve into the themes of mental health and isolation conveyed through this unique visual metaphor. Explore the deeper meanings and artistic choices that elevate Undertale's narrative experience.">
+                    <meta name="keywords" content="undertale yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/undertale-yellow-wallpaper">
+                            <span itemprop="name">undertale yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Undertale's Yellow Wallpaper: Themes & Insights</h1>
+                <p>Undertale Yellow Wallpaper is an intriguing concept that combines the whimsical art style of Undertale with the haunting nature of yellow wallpaper. This blend fosters an immersive experience where players explore themes of mental health and isolation. The wallpaper serves as a visual metaphor, prompting deep reflections within the game world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a new phone wallpaper : r/UndertaleYellow">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-new-phone-wallpaper-v0-poctz8wyu20e1.png?width=640&crop=smart&auto=webp&s=cdaf2248de98275be6b1938fe5a11416e6535329' alt='Made a new phone wallpaper : r/UndertaleYellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-new-phone-wallpaper-v0-poctz8wyu20e1.png?width=640&crop=smart&auto=webp&s=cdaf2248de98275be6b1938fe5a11416e6535329' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Undertale Yellow: Martlet & Clover (@vulkiri)">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2306472444368660534/B8F5BD240D2F6BD8E02725E9DEC2235827DBE70D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Undertale Yellow: Martlet & Clover (@vulkiri)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2306472444368660534/B8F5BD240D2F6BD8E02725E9DEC2235827DBE70D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - UNDERTALE Yellow Fan Illustrations">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/075/868/834/large/gianluca-mascaro-uty-found-family.jpg?1715634579' alt='ArtStation - UNDERTALE Yellow Fan Illustrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/075/868/834/large/gianluca-mascaro-uty-found-family.jpg?1715634579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starlo Undertale Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/59/81/5c598122e835d7baf4bcfb1027c5f5bd.jpg' alt='Starlo Undertale Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/59/81/5c598122e835d7baf4bcfb1027c5f5bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Yellow Fanart/Phone Wallpaper by UndertaleYellowFan on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88a1c9fa-165c-44a0-bc8f-f49297df7c60/dglly5c-04da612f-0b42-4a72-81ea-51f1a32221fa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YTFjOWZhLTE2NWMtNDRhMC1iYzhmLWY0OTI5N2RmN2M2MFwvZGdsbHk1Yy0wNGRhNjEyZi0wYjQyLTRhNzItODFlYS01MWYxYTMyMjIxZmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ByW288aebSCIu3xXS4dPkAD1t8BEvELIgOFILnJe100' alt='Undertale Yellow Fanart/Phone Wallpaper by UndertaleYellowFan on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88a1c9fa-165c-44a0-bc8f-f49297df7c60/dglly5c-04da612f-0b42-4a72-81ea-51f1a32221fa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YTFjOWZhLTE2NWMtNDRhMC1iYzhmLWY0OTI5N2RmN2M2MFwvZGdsbHk1Yy0wNGRhNjEyZi0wYjQyLTRhNzItODFlYS01MWYxYTMyMjIxZmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ByW288aebSCIu3xXS4dPkAD1t8BEvELIgOFILnJe100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is such a cool picture, might make it my phone background ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-such-a-cool-picture-might-make-it-my-phone-v0-lmpkjm1m4kdc1.jpeg?auto=webp&s=1ebde18b62948114d1a130d2f94196af027d5cd1' alt='This is such a cool picture, might make it my phone background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-such-a-cool-picture-might-make-it-my-phone-v0-lmpkjm1m4kdc1.jpeg?auto=webp&s=1ebde18b62948114d1a130d2f94196af027d5cd1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/c4/43/b9c443ff813e6c93bb1eb2e63fecf6ab.jpg' alt='Undertale yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/c4/43/b9c443ff813e6c93bb1eb2e63fecf6ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Yellow - SteamGridDB">
+                                <img itemprop="contentUrl url" src='https://cdn2.steamgriddb.com/hero_thumb/0e6bbb18f209938236c6a3571f0f8fc5.jpg' alt='Undertale Yellow - SteamGridDB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SteamGridDB" />
+                                </span>
+                                <a href='https://cdn2.steamgriddb.com/hero_thumb/0e6bbb18f209938236c6a3571f0f8fc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Yellow on X: "Happy 8th Anniversary, Undertale ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F6FXLWWXMAAJZxS.jpg' alt='Undertale Yellow on X: "Happy 8th Anniversary, Undertale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F6FXLWWXMAAJZxS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Undertale Yellow - Pacifist Finale (Ending + Final Boss)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sh6JreKlO00/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAh5x1Pvg3Oc32cK2q1ILfhLLb62A' alt='Undertale Yellow - Pacifist Finale (Ending + Final Boss)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sh6JreKlO00/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAh5x1Pvg3Oc32cK2q1ILfhLLb62A' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

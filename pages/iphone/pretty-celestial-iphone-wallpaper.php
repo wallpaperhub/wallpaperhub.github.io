@@ -1,0 +1,129 @@
+<title>Stunning Celestial iPhone Wallpapers for Every Star Lover</title>
+                    <meta name="description" content="Explore a collection of breathtaking celestial iPhone wallpapers that will captivate your senses. From shimmering stars to vibrant galaxies, these wallpapers add a touch of cosmic beauty to your device. Perfect for anyone who loves the allure of the night sky! Download now and transform your iPhone.">
+                    <meta name="keywords" content="pretty celestial iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pretty-celestial-iphone-wallpaper">
+                            <span itemprop="name">pretty celestial iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Celestial iPhone Wallpapers for Every Star Lover</h1>
+                <p>Transform your iPhone with stunning celestial wallpapers that bring the beauty of the night sky to your screen. Featuring dreamy starry scenes, colorful galaxies, and ethereal nebulae, these wallpapers not only enhance your device's aesthetic but also inspire a sense of wonder. Discover a universe at your fingertips!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/b5/27/1eb527685adb2f2e82c5953c92b37893.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/b5/27/1eb527685adb2f2e82c5953c92b37893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Super Cute Celestial iPhone Wallpapers - WITCHY VIBES">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/85/b9/b085b9ccba6880a28e8eb0d36498834c.jpg' alt='15 Super Cute Celestial iPhone Wallpapers - WITCHY VIBES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/85/b9/b085b9ccba6880a28e8eb0d36498834c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_fullxfull.3568639508_ksjo.jpg' alt='Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_fullxfull.3568639508_ksjo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/3e/99/7b3e99f863e7c99e3aa2005d09a131ff.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/3e/99/7b3e99f863e7c99e3aa2005d09a131ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 Celestial iPhone Wallpapers to Download for Free - atinydreamer">
+                                <img itemprop="contentUrl url" src='https://www.atinydreamer.com/wp-content/uploads/2022/01/celestial-iPhone-wallpaper1-576x1024.png' alt='38 Celestial iPhone Wallpapers to Download for Free - atinydreamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="atinydreamer" />
+                                </span>
+                                <a href='https://www.atinydreamer.com/wp-content/uploads/2022/01/celestial-iPhone-wallpaper1-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/91/ff/2d/91ff2d48843d438831a53c15f984db6d.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/91/ff/2d/91ff2d48843d438831a53c15f984db6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Super Cute Celestial iPhone Wallpapers – WITCHY VIBES – The ...">
+                                <img itemprop="contentUrl url" src='https://thewildgems.com/wp-content/uploads/2023/10/img_7309-1.jpg?w=576' alt='15 Super Cute Celestial iPhone Wallpapers – WITCHY VIBES – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wild Gems" />
+                                </span>
+                                <a href='https://thewildgems.com/wp-content/uploads/2023/10/img_7309-1.jpg?w=576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free Celestial iPhone Wallpapers - Soul of Stevie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/ae/23/d0ae23e50d6b2b0284b2c0ef6731b46c.jpg' alt='15 Free Celestial iPhone Wallpapers - Soul of Stevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/ae/23/d0ae23e50d6b2b0284b2c0ef6731b46c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper celestial aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/c5/00/fec5005161ab70374df25de973f05c78.jpg' alt='iphone wallpaper celestial aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/c5/00/fec5005161ab70374df25de973f05c78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdmYXFjZHZudnEweTRhbjE5NnFxeGVwci1sazdoOHoxZy5wbmc.png' alt='Aesthetic black celestial iPhone wallpaper | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdmYXFjZHZudnEweTRhbjE5NnFxeGVwci1sazdoOHoxZy5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

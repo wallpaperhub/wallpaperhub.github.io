@@ -1,0 +1,129 @@
+<title>Charming Pink Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="Add a touch of love to your device with our charming pink heart wallpaper! Perfectly designed for a feminine aesthetic, these backgrounds will brighten your day and personalize your screens. Download now to enjoy a delightful splash of color and warmth, right at your fingertips!">
+                    <meta name="keywords" content="background pink heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/background-pink-heart-wallpaper">
+                            <span itemprop="name">background pink heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Heart Wallpapers for Your Device</h1>
+                <p>Background pink heart wallpaper is a delightful way to add a touch of love and warmth to your digital space. Perfect for smartphones and tablets, these wallpapers feature charming pink hearts set against varying soft backgrounds. Ideal for those who want a feminine, romantic aesthetic, they bring joy and a personal touch to your device screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic neon Pink Heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/3a/02/b23a02d5ac05fa3a300e5c552bb387c8.jpg' alt='aesthetic neon Pink Heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/3a/02/b23a02d5ac05fa3a300e5c552bb387c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glittery Pink Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glittery-pink-heart-05twhw24m9ujink6.jpg' alt='Glittery Pink Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glittery-pink-heart-05twhw24m9ujink6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Images – Browse 3,863,914 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/99/72/75/360_F_499727510_sgWAqu3GEUyDkAfRajprbTslFPXfK0Pk.jpg' alt='Pink Heart Images – Browse 3,863,914 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/99/72/75/360_F_499727510_sgWAqu3GEUyDkAfRajprbTslFPXfK0Pk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Heart Pink White Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/awesome-heart-pink-white-0kkaayyxkqjph146.jpg' alt='Awesome Heart Pink White Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/awesome-heart-pink-white-0kkaayyxkqjph146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: love, pink, heart, hearts, background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/d3/e6/8fd3e6c1065904e58b84a7ccf26f9c4b.jpg' alt='HD wallpaper: love, pink, heart, hearts, background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/d3/e6/8fd3e6c1065904e58b84a7ccf26f9c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,500+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' alt='117,500+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cute pink heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/561/249/HD-wallpaper-hearts-cute-pink-thumbnail.jpg' alt='HD cute pink heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/561/249/HD-wallpaper-hearts-cute-pink-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43,323 Pink Heart Wallpaper Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-delicate-pink-heart-wallpaper-intricate-details-set-against-plain-background-creating-charming-330645242.jpg' alt='43,323 Pink Heart Wallpaper Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-delicate-pink-heart-wallpaper-intricate-details-set-against-plain-background-creating-charming-330645242.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Glam Aura Heart Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/73/ce/9773cebf09b81188eb4ea0c9fe498075.jpg' alt='Pink White Glam Aura Heart Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/73/ce/9773cebf09b81188eb4ea0c9fe498075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Abstract pink background with red hearts wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27801.jpg' alt='Premium Photo | Abstract pink background with red hearts wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

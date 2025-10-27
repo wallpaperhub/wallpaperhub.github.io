@@ -1,0 +1,129 @@
+<title>Epic Tanjiro Demon Slayer Mark Wallpapers</title>
+                    <meta name="description" content="Discover captivating Tanjiro Demon Slayer mark wallpapers to personalize your devices! Featuring dynamic designs that embody the spirit of this iconic character, these wallpapers are perfect for any anime enthusiast looking to enhance their screen experience. Download your favorite today!">
+                    <meta name="keywords" content="tanjiro demon slayer mark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/tanjiro-demon-slayer-mark-wallpaper">
+                            <span itemprop="name">tanjiro demon slayer mark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Tanjiro Demon Slayer Mark Wallpapers</h1>
+                <p>Transform your device with stunning Tanjiro Demon Slayer mark wallpapers, showcasing the fierce determination and resilience of this beloved character. These wallpapers capture the essence of Tanjiro’s journey, blending vibrant colors and intricate designs, perfect for anime fans. Elevate your screen aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Demon Slayer: Kimetsu No Yaiba Tanjiro Kamado Anime HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/133/thumb-1920-1337076.png' alt='Download Demon Slayer: Kimetsu No Yaiba Tanjiro Kamado Anime HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/133/thumb-1920-1337076.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro Forehead Mark Demon Slayer Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tanjiro-forehead-mark-demon-slayer-iphone-kg8sfo2exqm5u1gh.jpg' alt='Tanjiro Forehead Mark Demon Slayer Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tanjiro-forehead-mark-demon-slayer-iphone-kg8sfo2exqm5u1gh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Demon slayer mark : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-demon-slayer-mark-v0-jo8kck2b1u9d1.jpg?width=640&crop=smart&auto=webp&s=32aff92e4c32c8544c414ef715f207ead8506d33' alt='The Demon slayer mark : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-demon-slayer-mark-v0-jo8kck2b1u9d1.jpg?width=640&crop=smart&auto=webp&s=32aff92e4c32c8544c414ef715f207ead8506d33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Demon Slayer ideas | slayer, demon, anime demon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2d/73/10/2d731064288a494a63439def705e5d0a.jpg' alt='22 Demon Slayer ideas | slayer, demon, anime demon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="2015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2d/73/10/2d731064288a494a63439def705e5d0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Mark Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12505098.jpg' alt='Demon Slayer Mark Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2559">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12505098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro Pfp Demon Slayer Mark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tanjiro-pfp-demon-slayer-mark-hebls8hxwafc5h3i.jpg' alt='Tanjiro Pfp Demon Slayer Mark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tanjiro-pfp-demon-slayer-mark-hebls8hxwafc5h3i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Mark Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12505104.jpg' alt='Demon Slayer Mark Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12505104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro awakening his mark drawing by XajinkyaX on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb809386-b4f9-4416-9523-652a439b1aa0/df51rrp-28075322-01fb-4876-a982-e4eacd65329b.png/v1/fill/w_815,h_536,q_80,strp/tanjiro_awakening_his_mark_drawing_by_xajinkyax_df51rrp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvZmI4MDkzODYtYjRmOS00NDE2LTk1MjMtNjUyYTQzOWIxYWEwXC9kZjUxcnJwLTI4MDc1MzIyLTAxZmItNDg3Ni1hOTgyLWU0ZWFjZDY1MzI5Yi5wbmciLCJ3aWR0aCI6Ijw9ODE1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ugr1FCHk5sMvfw18yEP6f0XIdUtuKDpJN0iLJsoAJKw' alt='Tanjiro awakening his mark drawing by XajinkyaX on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb809386-b4f9-4416-9523-652a439b1aa0/df51rrp-28075322-01fb-4876-a982-e4eacd65329b.png/v1/fill/w_815,h_536,q_80,strp/tanjiro_awakening_his_mark_drawing_by_xajinkyax_df51rrp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvZmI4MDkzODYtYjRmOS00NDE2LTk1MjMtNjUyYTQzOWIxYWEwXC9kZjUxcnJwLTI4MDc1MzIyLTAxZmItNDg3Ni1hOTgyLWU0ZWFjZDY1MzI5Yi5wbmciLCJ3aWR0aCI6Ijw9ODE1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ugr1FCHk5sMvfw18yEP6f0XIdUtuKDpJN0iLJsoAJKw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro unlocks his Demon Slayer Mark in Demon Slayer The Hinokami  Chronicles">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ikd4s3kd2ZI/sddefault.jpg' alt='Tanjiro unlocks his Demon Slayer Mark in Demon Slayer The Hinokami  Chronicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ikd4s3kd2ZI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPOILER) Tanjiro's Demon Slayer Mark Awakened [Demon Slayer: The ...">
+                                <img itemprop="contentUrl url" src='https://gamebanana.com/mods/embeddables/356805?variant=sd_image' alt='SPOILER) Tanjiro's Demon Slayer Mark Awakened [Demon Slayer: The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://gamebanana.com/mods/embeddables/356805?variant=sd_image' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

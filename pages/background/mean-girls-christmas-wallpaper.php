@@ -1,0 +1,129 @@
+<title>Mean Girls Christmas Wallpaper: Festive & Fun</title>
+                    <meta name="description" content="Discover the best Mean Girls Christmas wallpaper to elevate your holiday spirit! These fun and festive designs capture the essence of the movie while adding a unique twist to your device. Download now and let your love for Mean Girls shine this season!">
+                    <meta name="keywords" content="mean girls christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mean-girls-christmas-wallpaper">
+                            <span itemprop="name">mean girls christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mean Girls Christmas Wallpaper: Festive & Fun</h1>
+                <p>Transform your screen with Mean Girls Christmas wallpaper! Celebrate the holidays with iconic quotes and images from this classic film. Perfect for fans, these designs add a festive touch while showcasing your love for the Mean Girls. Get ready to spread some holiday cheer with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/bb/2e/ccbb2e8f62b583eb8fbd4e3b362423ba.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/bb/2e/ccbb2e8f62b583eb8fbd4e3b362423ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mean girls musical wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/f6/2f/04f62f1b5a41ad24a6e0f3e8806cbecd.jpg' alt='mean girls musical wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/f6/2f/04f62f1b5a41ad24a6e0f3e8806cbecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean Girls Christmas Show Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mean-girls-christmas-show-u3jqdq95ucds61nk.jpg' alt='Mean Girls Christmas Show Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mean-girls-christmas-show-u3jqdq95ucds61nk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jingle Bell Rock/ Mean Girls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/0a/0c/9d/0a0c9da9753347ccbdb3beed30b265d1.jpg' alt='Jingle Bell Rock/ Mean Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/0a/0c/9d/0a0c9da9753347ccbdb3beed30b265d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean Girls Christmas Card">
+                                <img itemprop="contentUrl url" src='https://assets.cardly.net/production/artwork/7/6/6/766c506f-c59e-5e25-b31d-f3116b869d40/detail/mean-girls-christmas-card-p1-r2.webp' alt='Mean Girls Christmas Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cardly" />
+                                </span>
+                                <a href='https://assets.cardly.net/production/artwork/7/6/6/766c506f-c59e-5e25-b31d-f3116b869d40/detail/mean-girls-christmas-card-p1-r2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mean girls background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e0/45/53/e045536511912fdbcf66efccdaad0315.jpg' alt='mean girls background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e0/45/53/e045536511912fdbcf66efccdaad0315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean girls santa sale outfit">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mean-girls-four-teenage-girls-santa-outfit-cjiq34k8wrrm9zdh.jpg' alt='Mean girls santa sale outfit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adidas sale campus womens" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mean-girls-four-teenage-girls-santa-outfit-cjiq34k8wrrm9zdh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Mean Girls Christmas Sticker Bumper Sticker Vinyl Decal 5" :  Automotive">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/512Eq3qQnVL.jpg' alt='Amazon.com: Mean Girls Christmas Sticker Bumper Sticker Vinyl Decal 5" :  Automotive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/512Eq3qQnVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Mean Girls Christmas Jingle Bell Rock screensaver ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468823340275838628' alt='Official Mean Girls Christmas Jingle Bell Rock screensaver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3468823340275838628' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mean Girls Xmas Card — Jillian Ohl">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a0ca5aad0e628cd775142ae/1689012664770-OK8GHZG4ZZTGDRNW4WED/card_12.jpg?format=1000w' alt='Mean Girls Xmas Card — Jillian Ohl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jillian Ohl" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a0ca5aad0e628cd775142ae/1689012664770-OK8GHZG4ZZTGDRNW4WED/card_12.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

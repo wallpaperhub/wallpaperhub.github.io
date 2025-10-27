@@ -1,0 +1,129 @@
+<title>Captivating Light in New York: Stunning Images</title>
+                    <meta name="description" content="Explore breathtaking images of New York illuminated by vibrant light. From iconic landmarks to hidden gems, discover how light shapes the city's beauty and character. Perfectly suited for both locals and tourists, this visual journey showcases the magic of New York through its luminous moments.">
+                    <meta name="keywords" content="light new york images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-new-york-images">
+                            <span itemprop="name">light new york images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Light in New York: Stunning Images</h1>
+                <p>Discover the enchanting allure of light in New York through stunning images that capture the city's vibrant essence. From the glimmering skyline at sunset to the soft glow of street lamps on rainy nights, these visuals showcase New York's unique charm. Experience the magic of light transforming the urban landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/531625878/photo/times-square.jpg?s=612x612&w=0&k=20&c=HVB1MVPGQEOHRML04NbAtfGbaDldRIPUGGwAljBDvi8=' alt='68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/531625878/photo/times-square.jpg?s=612x612&w=0&k=20&c=HVB1MVPGQEOHRML04NbAtfGbaDldRIPUGGwAljBDvi8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Lights And Skyline At by Photography By Steve Kelley ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/new-york-city-lights-and-skyline-at-photography-by-steve-kelley-aka-mudpig.jpg' alt='New York City Lights And Skyline At by Photography By Steve Kelley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/new-york-city-lights-and-skyline-at-photography-by-steve-kelley-aka-mudpig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Atlas Shows Extent of Light Pollution – What Does it Mean for ...">
+                                <img itemprop="contentUrl url" src='https://today.uconn.edu/wp-content/uploads/2016/06/TimesSquareLight_iStock_41351534_XXXLARGE-e1465829343642.jpg' alt='New Atlas Shows Extent of Light Pollution – What Does it Mean for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Today - University of Connecticut" />
+                                </span>
+                                <a href='https://today.uconn.edu/wp-content/uploads/2016/06/TimesSquareLight_iStock_41351534_XXXLARGE-e1465829343642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/533998713/photo/empire-state-building-at-night.jpg?s=612x612&w=0&k=20&c=2fZCcZq3186F9R2WHZ2hEBh4dVsOX7pqgcVRXXn195I=' alt='68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/533998713/photo/empire-state-building-at-night.jpg?s=612x612&w=0&k=20&c=2fZCcZq3186F9R2WHZ2hEBh4dVsOX7pqgcVRXXn195I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is New York City's Skyline Always Lit Up? - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/12/23/nyregion/00nylights1/00nylights1-superJumbo.jpg' alt='Why Is New York City's Skyline Always Lit Up? - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/12/23/nyregion/00nylights1/00nylights1-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City's Best Night Tours | Hotel Beacon NYC Blog">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/traveltripperweb/image/upload/c_limit,f_auto,h_2500,q_auto,w_2500/v1689166376/y4yxkm5uzttcwjxewxdh.jpg' alt='New York City's Best Night Tours | Hotel Beacon NYC Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hotel Beacon NYC" />
+                                </span>
+                                <a href='https://res.cloudinary.com/traveltripperweb/image/upload/c_limit,f_auto,h_2500,q_auto,w_2500/v1689166376/y4yxkm5uzttcwjxewxdh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/502846306/photo/lower-manhattan-skyline.jpg?s=612x612&w=0&k=20&c=RdzbupJ24bBmg9_17nxvOqdpMjhZMw78Pb3QlxgSIV8=' alt='68,300+ New York City Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/502846306/photo/lower-manhattan-skyline.jpg?s=612x612&w=0&k=20&c=RdzbupJ24bBmg9_17nxvOqdpMjhZMw78Pb3QlxgSIV8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York - The City of Lights | Actually, Paris is called "T… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3394/3503948461_1d4b0f61cd_b.jpg' alt='New York - The City of Lights | Actually, Paris is called "T… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3394/3503948461_1d4b0f61cd_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Lights">
+                                <img itemprop="contentUrl url" src='https://cdn.unifiedcommerce.com/content/product/media/large/705988821318-1.jpg' alt='New York City Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puzzle Warehouse" />
+                                </span>
+                                <a href='https://cdn.unifiedcommerce.com/content/product/media/large/705988821318-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NYC landmarks will light up green to honor essential workers in ...">
+                                <img itemprop="contentUrl url" src='https://media.timeout.com/images/105651501/image.jpg' alt='NYC landmarks will light up green to honor essential workers in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1681">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time Out" />
+                                </span>
+                                <a href='https://media.timeout.com/images/105651501/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

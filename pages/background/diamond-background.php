@@ -1,0 +1,129 @@
+<title>Diamond Backgrounds: Luxury Redefined</title>
+                    <meta name="description" content="Discover the elegance of diamond backgrounds! Perfect for branding and digital designs, these visuals embody luxury and sophistication. Enhance your projects with stunning diamond motifs that sparkle and shine, making your content stand out. Ideal for social media, websites, and more!">
+                    <meta name="keywords" content="diamond background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diamond-background">
+                            <span itemprop="name">diamond background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Diamond Backgrounds: Luxury Redefined</h1>
+                <p>A diamond background is a stunning visual that evokes elegance and luxury. Featuring the iconic diamond shape, it often incorporates facets and sparkling effects that catch the eye. Perfect for branding, websites, or social media posts, this background symbolizes beauty, wealth, and sophistication. It adds a touch of glamour to any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Background" Images – Browse 4,829 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/75/95/20/360_F_875952051_DswOTeDn9ophrE0taXVyxRfhWINOXpae.jpg' alt='Diamond Background" Images – Browse 4,829 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/75/95/20/360_F_875952051_DswOTeDn9ophrE0taXVyxRfhWINOXpae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Color Background Images – Browse 959,524 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/81/34/29/360_F_881342920_3tsLwLo8SV0kmOw8v4e5cKrtdqS6YIAC.jpg' alt='Diamond Color Background Images – Browse 959,524 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/81/34/29/360_F_881342920_3tsLwLo8SV0kmOw8v4e5cKrtdqS6YIAC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Crystal Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/604/640/non_2x/dazzling-gem-like-sparkles-shimmering-against-a-soft-transparent-white-background-symbolizing-preciousness-and-luxury-photo.jpeg' alt='Diamond Crystal Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/604/640/non_2x/dazzling-gem-like-sparkles-shimmering-against-a-soft-transparent-white-background-symbolizing-preciousness-and-luxury-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crushed Diamonds Seamless Background Texture - Luxurious Shiny ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/41dae9/3980521384/il_fullxfull.3980521384_1qev.jpg' alt='Crushed Diamonds Seamless Background Texture - Luxurious Shiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/41dae9/3980521384/il_fullxfull.3980521384_1qev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zOV9jbG9zZS11cF9mbGF0X2xheV9vZl9ob2xvZ3JhcGhpY19kaWFtb25kX3RleF9lOWNjNTE4Mi1iYjdiLTQwZDQtOTFjNy00MTI0OWNmOThlZDQucG5n.png' alt='Diamond Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zOV9jbG9zZS11cF9mbGF0X2xheV9vZl9ob2xvZ3JhcGhpY19kaWFtb25kX3RleF9lOWNjNTE4Mi1iYjdiLTQwZDQtOTFjNy00MTI0OWNmOThlZDQucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Background" Images – Browse 4,662 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/75/95/24/360_F_875952468_BZ3srgIj3IIogtAEsGV337qV03c2OF0b.jpg' alt='Diamond Background" Images – Browse 4,662 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/75/95/24/360_F_875952468_BZ3srgIj3IIogtAEsGV337qV03c2OF0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Crystal Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/287/395/small_2x/abstract-blue-diamond-texture-crystal-close-up-background-3d-rendering-photo.jpg' alt='Diamond Crystal Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/287/395/small_2x/abstract-blue-diamond-texture-crystal-close-up-background-3d-rendering-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Diamond Background with a Soft, Glittering Texture of Tiny ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sparkling-diamond-background-countless-diamonds-scattered-across-deep-blue-surface-dazzling-reflections-varying-328838964.jpg' alt='A Diamond Background with a Soft, Glittering Texture of Tiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sparkling-diamond-background-countless-diamonds-scattered-across-deep-blue-surface-dazzling-reflections-varying-328838964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Diamonds Seamless Background Texture - Luxurious Shiny ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/4f8b64/5080851438/il_fullxfull.5080851438_hohq.jpg' alt='Rose Gold Diamonds Seamless Background Texture - Luxurious Shiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/4f8b64/5080851438/il_fullxfull.5080851438_hohq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Background Images – Browse 2,112,226 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/61/68/99/360_F_161689955_EpKC0KL9j377yZPjRrmm4mc1sXxuKG9P.jpg' alt='Diamond Background Images – Browse 2,112,226 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/61/68/99/360_F_161689955_EpKC0KL9j377yZPjRrmm4mc1sXxuKG9P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

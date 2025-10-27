@@ -1,0 +1,129 @@
+<title>Explore Blaze and the Monster Machines: An Adventure of Learning</title>
+                    <meta name="description" content="Dive into the exciting world of Blaze and the Monster Machines! This animated series combines thrilling adventures with STEM education, engaging kids while teaching valuable lessons through the adventures of Blaze and his friends. Perfect for young viewers seeking fun and learning!">
+                    <meta name="keywords" content="blaze and the monster machines background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blaze-and-the-monster-machines-background">
+                            <span itemprop="name">blaze and the monster machines background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Blaze and the Monster Machines: An Adventure of Learning</h1>
+                <p>Blaze and the Monster Machines is an animated children's series that revolves around Blaze, a monster truck, and his friend AJ as they embark on thrilling adventures. Set in a vibrant world, kids learn about science, technology, engineering, and math (STEM) through exciting races, challenges, and problem-solving activities, all while enjoying the fun vehicles and vibrant characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blaze | Blaze and the Monster Machines Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/blaze-and-the-monster-machines/images/4/4b/S4E4_Blaze_projecting_the_robot_model.png/revision/latest?cb=20190413190304' alt='Blaze | Blaze and the Monster Machines Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blaze and the Monster Machines Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/blaze-and-the-monster-machines/images/4/4b/S4E4_Blaze_projecting_the_robot_model.png/revision/latest?cb=20190413190304' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blaze And The Monster Machines Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/blaze-and-the-monster-machines-xnmclwej6ct1om2o.jpg' alt='100+] Blaze And The Monster Machines Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/blaze-and-the-monster-machines-xnmclwej6ct1om2o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Blaze And The Monster Machines Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/4b/fe/844bfef5154ccee005476ca516acba96.jpg' alt='   Blaze And The Monster Machines Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/4b/fe/844bfef5154ccee005476ca516acba96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blaze and the Monster Machines - Watch Movies & TV Shows ...">
+                                <img itemprop="contentUrl url" src='http://musicart.xboxlive.com/7/6f7c5900-0000-0000-0000-000000000002/504/image.jpg?h=1280' alt='Blaze and the Monster Machines - Watch Movies & TV Shows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2276">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='http://musicart.xboxlive.com/7/6f7c5900-0000-0000-0000-000000000002/504/image.jpg?h=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Characters | Blaze and the Monster Machines Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/blaze-and-the-monster-machines/images/c/ce/Blaze_and_the_Monster_Machines_promotional_group_shot.png/revision/latest?cb=20180622032728' alt='Characters | Blaze and the Monster Machines Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blaze and the Monster Machines Wiki Blaze and the Monster Machines ..." />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/blaze-and-the-monster-machines/images/c/ce/Blaze_and_the_Monster_Machines_promotional_group_shot.png/revision/latest?cb=20180622032728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blaze And The Monster Machines Speed Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blaze-and-the-monster-machines-speed-60kug2o02r22xe72.jpg' alt='Blaze And The Monster Machines Speed Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blaze-and-the-monster-machines-speed-60kug2o02r22xe72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blaze and CM31 The Monster Machines Birthday Decorations, Blaze and The  Monster Machines Happy Birthday Banner Backdrop for Blaze and The Monster  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Blaze-CM31-The-Monster-Machines-Birthday-Decorations-Happy-Banner-Backdrop-Party-Supplies-5x3ft_88bd2f28-21a3-4127-b4ad-3c5ce5782311.d7a486e6000cffdcc6bd87e2f7e4499c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Blaze and CM31 The Monster Machines Birthday Decorations, Blaze and The  Monster Machines Happy Birthday Banner Backdrop for Blaze and The Monster  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Blaze-CM31-The-Monster-Machines-Birthday-Decorations-Happy-Banner-Backdrop-Party-Supplies-5x3ft_88bd2f28-21a3-4127-b4ad-3c5ce5782311.d7a486e6000cffdcc6bd87e2f7e4499c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="230 Blaze & The Monster Machines Printables ideas | blaze the ...">
+                                <img itemprop="contentUrl url" src='http://fazendoanossafesta.com.br/wp-content/uploads/2017/06/Convite-Blaze-and-the-Monster-Machines-2.jpg' alt='230 Blaze & The Monster Machines Printables ideas | blaze the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='http://fazendoanossafesta.com.br/wp-content/uploads/2017/06/Convite-Blaze-and-the-Monster-Machines-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Video: Blaze and the Monster Machines Season 4">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/1240f2ecfef91bb1a9a916d83f825836b1a2cc90814b634c9938f7e17b6507e7.jpg' alt='Prime Video: Blaze and the Monster Machines Season 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Video" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/1240f2ecfef91bb1a9a916d83f825836b1a2cc90814b634c9938f7e17b6507e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Blaze and the Monster Machines 15 | Prime Video">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/8713e1f230bda35878426fee7682b252cd35f4819279b4e32141deb695cd80b1.jpg' alt='Watch Blaze and the Monster Machines 15 | Prime Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/8713e1f230bda35878426fee7682b252cd35f4819279b4e32141deb695cd80b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

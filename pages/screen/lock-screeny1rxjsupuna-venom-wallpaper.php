@@ -1,0 +1,129 @@
+<title>Ultimate Venom Wallpaper for Your Lock Screen</title>
+                    <meta name="description" content="Discover the ultimate Venom wallpaper for your lock screen! Featuring stunning designs, this wallpaper enhances your device's aesthetic while showcasing your favorite anti-hero. Download now for a fresh, stylish look every time you unlock your phone!">
+                    <meta name="keywords" content="lock screen:y1rxjsupuna= venom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screeny1rxjsupuna-venom-wallpaper">
+                            <span itemprop="name">lock screen:y1rxjsupuna= venom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Venom Wallpaper for Your Lock Screen</h1>
+                <p>Unlock your screen with style! The venom wallpaper, marked by y1rxjsupuna, is the perfect addition to your device. Dive into the world of bold colors and fierce designs that resonate with the Venom character's energy. Transform your lock screen into a captivating display that showcases your love for this iconic anti-hero!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom LockScreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/3a/93/db3a9314bde0e739f7edc810aec2b313.jpg' alt='Venom LockScreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/3a/93/db3a9314bde0e739f7edc810aec2b313.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom, neon, dark spider, tom, lockscreen, bad, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/949/106/HD-wallpaper-venom-neon-dark-spider-tom-lockscreen-bad.jpg' alt='Venom, neon, dark spider, tom, lockscreen, bad, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/949/106/HD-wallpaper-venom-neon-dark-spider-tom-lockscreen-bad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a lockscreen for Venom : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-a-lockscreen-for-venom-v0-8rwgjdf2y2ab1.jpg?width=828&format=pjpg&auto=webp&s=747f804e3aca1d239b9d1c00e03d9db8042c208f' alt='I made a lockscreen for Venom : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-a-lockscreen-for-venom-v0-8rwgjdf2y2ab1.jpg?width=828&format=pjpg&auto=webp&s=747f804e3aca1d239b9d1c00e03d9db8042c208f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom lock screen, black, dark, lockscreen, mart, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/1004/HD-wallpaper-venom-lock-screen-black-dark-lockscreen-mart.jpg' alt='Venom lock screen, black, dark, lockscreen, mart, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/1004/HD-wallpaper-venom-lock-screen-black-dark-lockscreen-mart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom wallpaper lock screen APK for Android Download">
+                                <img itemprop="contentUrl url" src='https://image.winudf.com/v2/image1/Y29tLmxvY2t5YXNyLnZlbm9tX3NjcmVlbl81XzE1NDEwODUwNDJfMDE0/screen-5.jpg?fakeurl=1&type=.jpg' alt='Venom wallpaper lock screen APK for Android Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="APKPure" />
+                                </span>
+                                <a href='https://image.winudf.com/v2/image1/Y29tLmxvY2t5YXNyLnZlbm9tX3NjcmVlbl81XzE1NDEwODUwNDJfMDE0/screen-5.jpg?fakeurl=1&type=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom Lock Screen Wallpapers in 4K Resolution">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7432772068908879137&location=0&aid=1988' alt='Venom Lock Screen Wallpapers in 4K Resolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7432772068908879137&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Venom Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/ac/60/03ac60294b452f0d62a9a41b51931c64.jpg' alt='Lock Screen Venom Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/ac/60/03ac60294b452f0d62a9a41b51931c64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/b4/0e/6eb40ee1d076172bf383e9196ea938f3.jpg' alt='Venom lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/b4/0e/6eb40ee1d076172bf383e9196ea938f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venom wallpaper by MODTRON - Download on ZEDGE™ | 4335">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/30/f9/2b/30f92b071f2b0c9994dde8b1a7749795.jpg' alt='Venom wallpaper by MODTRON - Download on ZEDGE™ | 4335'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/30/f9/2b/30f92b071f2b0c9994dde8b1a7749795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Stunning Venom Live Wallpapers in 4K">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7443735632104426759&location=0&aid=1988' alt='Explore Stunning Venom Live Wallpapers in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7443735632104426759&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Heart Wallpaper GIFs: Love on Your Screen!</title>
+                    <meta name="description" content="Explore a stunning collection of heart wallpaper GIFs that enliven your screen with love! Perfect for expressing affection, these eye-catching designs cater to all tastes. Download yours now and bring a touch of romance to your mobile device in just a few taps!">
+                    <meta name="keywords" content="heart wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/heart-wallpaper-gif">
+                            <span itemprop="name">heart wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Wallpaper GIFs: Love on Your Screen!</h1>
+                <p>Discover captivating heart wallpaper GIFs that add love and warmth to your device! Whether you're expressing affection or celebrating special moments, these dynamic backgrounds enhance your screen with vibrant animations. Find the perfect heart GIF that resonates with your emotions and style today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Day Heart GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/42/f3/8a/42f38a0fa159c61bc94ab029c8ca03c9.gif' alt='Valentines Day Heart GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/42/f3/8a/42f38a0fa159c61bc94ab029c8ca03c9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58 Heart Gifs ideas | heart wallpaper, heart gif, animated heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ea/4a/89/ea4a89f60ae910b3ff87e76824bcbb71.gif' alt='58 Heart Gifs ideas | heart wallpaper, heart gif, animated heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ea/4a/89/ea4a89f60ae910b3ff87e76824bcbb71.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Background GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/3o6gbeVN2ZPbG2COKA/giphy.gif?cid=6c09b952w3v5ci0vk0vlv8x6528jm2rux9ctvazmy3p5r6k8&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Hearts Background GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/3o6gbeVN2ZPbG2COKA/giphy.gif?cid=6c09b952w3v5ci0vk0vlv8x6528jm2rux9ctvazmy3p5r6k8&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel  Purple Heart Background | Neon Heart Background ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-06-2023/MlldZ-.gif' alt='Heart Tunnel  Purple Heart Background | Neon Heart Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-06-2023/MlldZ-.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                       - The end .">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/89/8a/14/898a14d06c6c0bf27b8ceaf749cecb4c.gif' alt='                       - The end .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/89/8a/14/898a14d06c6c0bf27b8ceaf749cecb4c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="283350663rainbow-heart-gif-4 by RAINBOWTRIX on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a7a89e9-ec51-489f-8bcb-dbed6cbf8979/dg12jp3-05e60557-62db-42d1-af9e-04a7128ffbe9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhN2E4OWU5LWVjNTEtNDg5Zi04YmNiLWRiZWQ2Y2JmODk3OVwvZGcxMmpwMy0wNWU2MDU1Ny02MmRiLTQyZDEtYWY5ZS0wNGE3MTI4ZmZiZTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cOa-usw3-_zXaI6S1yYAddTu4HAR96DdQcW9RvwhZf8' alt='283350663rainbow-heart-gif-4 by RAINBOWTRIX on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a7a89e9-ec51-489f-8bcb-dbed6cbf8979/dg12jp3-05e60557-62db-42d1-af9e-04a7128ffbe9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhN2E4OWU5LWVjNTEtNDg5Zi04YmNiLWRiZWQ2Y2JmODk3OVwvZGcxMmpwMy0wNWU2MDU1Ny02MmRiLTQyZDEtYWY5ZS0wNGE3MTI4ZmZiZTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cOa-usw3-_zXaI6S1yYAddTu4HAR96DdQcW9RvwhZf8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Ppg GIF - Hearts Ppg - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/32/38/0d/32380d43b4c0a4b169359b3df7511e56.gif' alt='Hearts Ppg GIF - Hearts Ppg - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/32/38/0d/32380d43b4c0a4b169359b3df7511e56.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Background GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/c3UJj3xcwWDd0hML3W/200w.gif?cid=6c09b952w3v5ci0vk0vlv8x6528jm2rux9ctvazmy3p5r6k8&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Hearts Background GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/c3UJj3xcwWDd0hML3W/200w.gif?cid=6c09b952w3v5ci0vk0vlv8x6528jm2rux9ctvazmy3p5r6k8&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Background  Pink Heart Tunnel | Animated Background ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/12-18-2023/u43bS1.gif' alt='Heart Background  Pink Heart Tunnel | Animated Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/12-18-2023/u43bS1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Heart GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/V5I96N03eRgAAAAM/rainbow-heart-hearts.gif' alt='Rainbow Heart GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/V5I96N03eRgAAAAM/rainbow-heart-hearts.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

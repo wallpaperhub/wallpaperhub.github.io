@@ -1,0 +1,129 @@
+<title>Anthony Davis: NBA Superstar and Lakers Powerhouse</title>
+                    <meta name="description" content="Explore the incredible journey of Anthony Davis, the NBA superstar and key player for the Los Angeles Lakers. Discover his skills, achievements, and influence on the game, showcasing why he is one of basketball's most exciting talents.">
+                    <meta name="keywords" content="anthony davis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anthony-davis">
+                            <span itemprop="name">anthony davis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anthony Davis: NBA Superstar and Lakers Powerhouse</h1>
+                <p>Anthony Davis, a dominant force in the NBA, plays as a power forward/center for the Los Angeles Lakers. Known for his exceptional shot-blocking, rebounding, and versatility on both ends of the floor, Davis has earned multiple All-Star selections. His impact extends beyond the court, inspiring countless fans with his dedication to the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis' injury status ahead of Hornets-Mavericks bout">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_351,w_6728,h_3784/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/179/01jn3e9px16edhdngfx1.jpg' alt='Anthony Davis' injury status ahead of Hornets-Mavericks bout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Swarm and Sting" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_351,w_6728,h_3784/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/179/01jn3e9px16edhdngfx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis | Forward-Center | Dallas Mavericks | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png' alt='Anthony Davis | Forward-Center | Dallas Mavericks | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg/1200px-Anthony_Davis_pre-game_%28cropped%29.jpg' alt='Anthony Davis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg/1200px-Anthony_Davis_pre-game_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bucks vs Mavericks injury report: Will Anthony Davis play tonight?">
+                                <img itemprop="contentUrl url" src='https://theplayoffs.news/en/wp-content/uploads/2025/03/Anthony-Davis-vs-Bucks-scaled.jpg' alt='Bucks vs Mavericks injury report: Will Anthony Davis play tonight?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Playoffs" />
+                                </span>
+                                <a href='https://theplayoffs.news/en/wp-content/uploads/2025/03/Anthony-Davis-vs-Bucks-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony davis 2025 espn">
+                                <img itemprop="contentUrl url" src='https://a3.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png' alt='Anthony davis 2025 espn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://a3.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sports Report: Anthony Davis talks about his return to Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/02be523/2147483647/strip/true/crop/2634x2073+0+0/resize/1200x944!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2F6f%2F64795fdf40d0afe757b8236c8615%2F1495585-sp-nba-lakers-mavericks-18-ajs.jpg' alt='The Sports Report: Anthony Davis talks about his return to Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/02be523/2147483647/strip/true/crop/2634x2073+0+0/resize/1200x944!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2F6f%2F64795fdf40d0afe757b8236c8615%2F1495585-sp-nba-lakers-mavericks-18-ajs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis - USA Basketball">
+                                <img itemprop="contentUrl url" src='https://www.usab.com/imgproxy/3n6ekaT_2E7FLqeKOZXzdEzQPsW5sE8bvihGzoZe-iQ/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjQvMDcvMDkvMjYzYWZhZjYtMzhkYS00NGI1LThkYmItMmRkYWZhYmQ0YmNiLmpwZw.png' alt='Anthony Davis - USA Basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Basketball" />
+                                </span>
+                                <a href='https://www.usab.com/imgproxy/3n6ekaT_2E7FLqeKOZXzdEzQPsW5sE8bvihGzoZe-iQ/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjQvMDcvMDkvMjYzYWZhZjYtMzhkYS00NGI1LThkYmItMmRkYWZhYmQ0YmNiLmpwZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pondering Anthony Davis, the Lakers' Oddly Enigmatic Star | The ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5f7b3bf6ced6522a3bcb306e/16:9/w_2560,h_1440,c_limit/Thomas-AnthonyDavis.jpg' alt='Pondering Anthony Davis, the Lakers' Oddly Enigmatic Star | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5f7b3bf6ced6522a3bcb306e/16:9/w_2560,h_1440,c_limit/Thomas-AnthonyDavis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis' Injury Status for Kings vs. Mavericks">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_7134,h_4012,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/inside_the_kings/01jnee2hpwvpmeqn228c.jpg' alt='Anthony Davis' Injury Status for Kings vs. Mavericks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_7134,h_4012,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/inside_the_kings/01jnee2hpwvpmeqn228c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Davis, Los Angeles, Power Forward">
+                                <img itemprop="contentUrl url" src='https://s3media.247sports.com/Uploads/Assets/539/529/9529539.jpg' alt='Anthony Davis, Los Angeles, Power Forward'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="247 Sports" />
+                                </span>
+                                <a href='https://s3media.247sports.com/Uploads/Assets/539/529/9529539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

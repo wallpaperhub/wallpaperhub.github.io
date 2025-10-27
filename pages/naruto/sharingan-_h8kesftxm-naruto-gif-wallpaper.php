@@ -1,0 +1,129 @@
+<title>Ultimate Sharingan Naruto GIF Wallpapers</title>
+                    <meta name="description" content="Explore a captivating collection of Sharingan Naruto GIF wallpapers. Perfect for fans looking to enhance their devices with dynamic and colorful ninja art. Download now for an irresistible display that brings the excitement of Naruto to your screen!">
+                    <meta name="keywords" content="sharingan:-_h8kesftxm= naruto gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/sharingan-_h8kesftxm-naruto-gif-wallpaper">
+                            <span itemprop="name">sharingan:-_h8kesftxm= naruto gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Sharingan Naruto GIF Wallpapers</h1>
+                <p>Unlock the power of the Sharingan with stunning Naruto GIF wallpapers! Featuring dynamic visuals of your favorite characters and their ultimate feats, these wallpapers are perfect for fans seeking a unique touch for their devices. Embark on your shinobi journey and showcase your love for Naruto with vibrant, eye-catching designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Sharingan Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/YeM3fMlamBoAAAAM/naruto.gif' alt='Naruto Sharingan Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/YeM3fMlamBoAAAAM/naruto.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Sharingan Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/5aWiwMA0fqkAAAAM/naruto-sharingan.gif' alt='Naruto Sharingan Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/5aWiwMA0fqkAAAAM/naruto-sharingan.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sharingan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/31/66/e1/3166e16d0afbce2c882f1cd906441700.gif' alt='sharingan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/31/66/e1/3166e16d0afbce2c882f1cd906441700.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/72/e5/e5/72e5e5b91f6c0be1fb965a18f6c28e67.gif' alt='Sharingan gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/72/e5/e5/72e5e5b91f6c0be1fb965a18f6c28e67.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sharingan gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/9c/17/449c175588d56442fd162990ac428759.gif' alt='sharingan gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/9c/17/449c175588d56442fd162990ac428759.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Sharingan GIF – Naruto Sharingan Itachi – discover and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/60/77/b5/6077b52a7e742dbe7e85e545f9a453ec.gif' alt='Naruto Sharingan GIF – Naruto Sharingan Itachi – discover and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/60/77/b5/6077b52a7e742dbe7e85e545f9a453ec.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rinnesharingan Gif by fsdsfsf on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c6e6e17-c585-47d5-9a96-844432749979/deff7td-82c9f2e6-ee3e-42e2-bee4-574bfebd1eaf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjNmU2ZTE3LWM1ODUtNDdkNS05YTk2LTg0NDQzMjc0OTk3OVwvZGVmZjd0ZC04MmM5ZjJlNi1lZTNlLTQyZTItYmVlNC01NzRiZmViZDFlYWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O_uSL7S4374eu9VoAAaBrxMJHrh5EXh9Y8Avw9BwHrQ' alt='Rinnesharingan Gif by fsdsfsf on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c6e6e17-c585-47d5-9a96-844432749979/deff7td-82c9f2e6-ee3e-42e2-bee4-574bfebd1eaf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjNmU2ZTE3LWM1ODUtNDdkNS05YTk2LTg0NDQzMjc0OTk3OVwvZGVmZjd0ZC04MmM5ZjJlNi1lZTNlLTQyZTItYmVlNC01NzRiZmViZDFlYWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O_uSL7S4374eu9VoAAaBrxMJHrh5EXh9Y8Avw9BwHrQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto All Sharingan Forms GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/sA3AuKBJexgAAAAM/naruto.gif' alt='Naruto All Sharingan Forms GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/sA3AuKBJexgAAAAM/naruto.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/JZ3sDHgd48Dao/200w.gif?cid=6c09b952082ghqmg975kblkm4z7bhh74q34gmw3co46y6u3k&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Sharingan GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/JZ3sDHgd48Dao/200w.gif?cid=6c09b952082ghqmg975kblkm4z7bhh74q34gmw3co46y6u3k&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/AD9YKaY2vxTXO/200w.gif?cid=6c09b952082ghqmg975kblkm4z7bhh74q34gmw3co46y6u3k&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Sharingan GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/AD9YKaY2vxTXO/200w.gif?cid=6c09b952082ghqmg975kblkm4z7bhh74q34gmw3co46y6u3k&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

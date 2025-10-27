@@ -1,0 +1,129 @@
+<title>Elegant Black and Blue Flower Wallpaper for Chic Home Decor</title>
+                    <meta name="description" content="Discover the beauty of black and blue flower wallpaper, perfect for adding a touch of elegance to your home. Ideal for any room, this stylish design enhances your decor with a modern floral twist. Update your space today!">
+                    <meta name="keywords" content="black and blue flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/black-and-blue-flower-wallpaper">
+                            <span itemprop="name">black and blue flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Blue Flower Wallpaper for Chic Home Decor</h1>
+                <p>Transform your space with stunning black and blue flower wallpaper that adds elegance and depth to any room. Perfect for a bold accent wall or a subtle backdrop, this design merges classic floral motifs with modern color contrasts. Ideal for bedrooms, living rooms, and more, discover how this wallpaper can elevate your decor style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 17.5"x354" Dark Blue Wallpaper Peel and Stick Vintage Floral  Wallpaper for Bedroom Black Blue Floral Contact Paper Peel and Stick Wall  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Z2SDWYTAL.jpg' alt='FunStick 17.5"x354" Dark Blue Wallpaper Peel and Stick Vintage Floral  Wallpaper for Bedroom Black Blue Floral Contact Paper Peel and Stick Wall  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Z2SDWYTAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hardsadness">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/86/7f/ff867f2471ee305d056346dd271cfc99.jpg' alt='hardsadness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/86/7f/ff867f2471ee305d056346dd271cfc99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Meadow | Blue | Floral Wallpaper | Ellie Cashman Design">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/media/catalog/product/6/5/6554bc9ccd9c9.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=437&width=437&canvas=437:437' alt='Moonlight Meadow | Blue | Floral Wallpaper | Ellie Cashman Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/media/catalog/product/6/5/6554bc9ccd9c9.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=437&width=437&canvas=437:437' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Flowers Wallpaper - Apps on Galaxy Store">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ed/fa/56/edfa56833939831ad3c8d965a2a6dc48.jpg' alt='Dark Blue Flowers Wallpaper - Apps on Galaxy Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ed/fa/56/edfa56833939831ad3c8d965a2a6dc48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MIAHOME Black and Gold Floral Vintage Peel and Stick Wallpaper Flower Art  Deco Dark Blue Contact Paper for Cabinets Removable Vinyl Rose Self  Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SRSSkt2BL.jpg' alt='MIAHOME Black and Gold Floral Vintage Peel and Stick Wallpaper Flower Art  Deco Dark Blue Contact Paper for Cabinets Removable Vinyl Rose Self  Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SRSSkt2BL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Flowers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flower-desktop-wallpaper-background-vector_53876-136370.jpg' alt='Dark Blue Flowers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flower-desktop-wallpaper-background-vector_53876-136370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opulent Flowers Dark Midnight Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/69736/opulent_flowers_dark_midnight_blue_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Opulent Flowers Dark Midnight Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/69736/opulent_flowers_dark_midnight_blue_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Flower on Dark Background - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/05/template-iPhone-XS-11-Pro-Max-1.png' alt='Blue Flower on Dark Background - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/05/template-iPhone-XS-11-Pro-Max-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Close Up Photo of Blue Flowers · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/6843705/pexels-photo-6843705.jpeg' alt='Close Up Photo of Blue Flowers · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6400">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/6843705/pexels-photo-6843705.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Large Flower Wallpaper, Floral Wall Decoration, Wall Poster ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46597384/r/il/2b1e0c/5657519449/il_fullxfull.5657519449_19za.jpg' alt='Blue Large Flower Wallpaper, Floral Wall Decoration, Wall Poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46597384/r/il/2b1e0c/5657519449/il_fullxfull.5657519449_19za.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

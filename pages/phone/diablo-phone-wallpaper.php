@@ -1,0 +1,129 @@
+<title>Epic Diablo Phone Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore our collection of Diablo phone wallpapers, perfect for gamers and fans! Transform your device with striking visuals from the iconic series. Browse now for the perfect design to showcase your love for Diablo!">
+                    <meta name="keywords" content="diablo phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/diablo-phone-wallpaper">
+                            <span itemprop="name">diablo phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Diablo Phone Wallpapers for Gamers</h1>
+                <p>Unleash the power of darkness with our stunning Diablo phone wallpapers! Featuring iconic characters, epic battles, and captivating artwork from the beloved franchise, these wallpapers will make your device stand out. Perfect for fans, gamers, and anyone who loves fantasy art. Download your favorite design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo 2: Resurrected Wallpaper (1080x1920 for smartphones) : r/Diablo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e0ioignneti61.png' alt='Diablo 2: Resurrected Wallpaper (1080x1920 for smartphones) : r/Diablo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e0ioignneti61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a quick phone wallpaper with the press kit image. : r/Diablo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-a-quick-phone-wallpaper-with-the-press-kit-image-v0-e3srokvah55a1.png?width=1080&crop=smart&auto=webp&s=6fab03c3b05142368e539686e4cc265df2f07ca0' alt='Made a quick phone wallpaper with the press kit image. : r/Diablo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-a-quick-phone-wallpaper-with-the-press-kit-image-v0-e3srokvah55a1.png?width=1080&crop=smart&auto=webp&s=6fab03c3b05142368e539686e4cc265df2f07ca0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV Fan Mobile Wallpapers | PureDiablo Forums - The Diablo ...">
+                                <img itemprop="contentUrl url" src='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38886-931d9d232d85345c83966c761053be1c.jpg?1705085632' alt='Diablo IV Fan Mobile Wallpapers | PureDiablo Forums - The Diablo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pure Diablo" />
+                                </span>
+                                <a href='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38886-931d9d232d85345c83966c761053be1c.jpg?1705085632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo Wallpapers (94 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/7/1/99766-1440x2960-phone-hd-diablo-wallpaper.jpg' alt='Diablo Wallpapers (94 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/7/1/99766-1440x2960-phone-hd-diablo-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo Wallpapers (94 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/0/e/99550-1080x2160-mobile-hd-diablo-wallpaper-image.jpg' alt='Diablo Wallpapers (94 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/0/e/99550-1080x2160-mobile-hd-diablo-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="diablo mobile wallpapers – @diablo3wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/5c2f8bac5d46c7d7d137b80a85528cfe/9a27462c46ca72db-47/s1280x1920/c8164861d1b691a04c0963e22850feebce336e7e.jpg' alt='diablo mobile wallpapers – @diablo3wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/5c2f8bac5d46c7d7d137b80a85528cfe/9a27462c46ca72db-47/s1280x1920/c8164861d1b691a04c0963e22850feebce336e7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Diablo IV Game Wallpapers ideas | diablo, wallpaper, mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/82/9c/19/829c19f3bcf50b3888815b9305ee58a7.jpg' alt='11 Diablo IV Game Wallpapers ideas | diablo, wallpaper, mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/82/9c/19/829c19f3bcf50b3888815b9305ee58a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/831/831399.jpg' alt='Diablo iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/831/831399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Diablo IV Game Wallpapers ideas | diablo, wallpaper, mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/49/38/74/4938747be97eeb4602adf99ff7704604.jpg' alt='11 Diablo IV Game Wallpapers ideas | diablo, wallpaper, mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/49/38/74/4938747be97eeb4602adf99ff7704604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo Wallpapers (94 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/1/9/99542-1284x2778-mobile-hd-diablo-background-image.jpg' alt='Diablo Wallpapers (94 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/1/9/99542-1284x2778-mobile-hd-diablo-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

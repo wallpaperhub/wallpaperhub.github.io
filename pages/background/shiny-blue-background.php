@@ -1,0 +1,129 @@
+<title>Stunning Shiny Blue Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Discover the allure of shiny blue backgrounds. Perfect for web design and graphics, this vibrant hue brings elegance and tranquility to your projects. Explore innovative ideas and elevate your creations with this captivating color!">
+                    <meta name="keywords" content="shiny blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shiny-blue-background">
+                            <span itemprop="name">shiny blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shiny Blue Backgrounds for Your Creative Projects</h1>
+                <p>A shiny blue background instantly adds a touch of elegance and tranquility to any design. Its vibrant hue evokes feelings of calmness and depth, making it perfect for various applications, from websites to stationery. This captivating shade not only catches the eye but also creates a serene atmosphere, ideal for any creative project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Dark Blue Background Images – Browse 1,521,013 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/40/51/64/360_F_440516443_E7EHpytHh3RW3MH9uEMnZbc1CYbND73c.jpg' alt='Shiny Dark Blue Background Images – Browse 1,521,013 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/40/51/64/360_F_440516443_E7EHpytHh3RW3MH9uEMnZbc1CYbND73c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/189/561/non_2x/shiny-blue-gradient-abstract-background-illustration-vector.jpg' alt='Shiny Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1452">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/189/561/non_2x/shiny-blue-gradient-abstract-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-navy-blue-glitter-background_52683-108179.jpg' alt='Shiny Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-navy-blue-glitter-background_52683-108179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="416,700+ Shiny Blue Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/656948040/photo/blue-foil-texture-background.jpg?s=612x612&w=0&k=20&c=GV60-5jMY_k_GDbiU-VpYUuFpVxC6EQilh81A30bB-M=' alt='416,700+ Shiny Blue Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/656948040/photo/blue-foil-texture-background.jpg?s=612x612&w=0&k=20&c=GV60-5jMY_k_GDbiU-VpYUuFpVxC6EQilh81A30bB-M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,500+ Shiny Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1144992154/vector/bokeh-background.jpg?s=612x612&w=0&k=20&c=8NEtcQyJlD8ImcE_R9bas16mYt1G-uvu58GvvuEF0Ss=' alt='21,500+ Shiny Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1144992154/vector/bokeh-background.jpg?s=612x612&w=0&k=20&c=8NEtcQyJlD8ImcE_R9bas16mYt1G-uvu58GvvuEF0Ss=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/367/445/small/abstract-technology-blue-neon-glowing-energy-light-effect-on-dark-background-vector.jpg' alt='Shiny Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/367/445/small/abstract-technology-blue-neon-glowing-energy-light-effect-on-dark-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/bright-blue-glitter-background_64049-249.jpg' alt='Shiny Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/bright-blue-glitter-background_64049-249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="416,700+ Shiny Blue Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/929380086/vector/blue-metal-texture-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=58lmUVNoVP55htxocKKaQ-bFeo4QjMQ54hIILO4zJBQ=' alt='416,700+ Shiny Blue Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/929380086/vector/blue-metal-texture-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=58lmUVNoVP55htxocKKaQ-bFeo4QjMQ54hIILO4zJBQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/965/575/small/modern-shiny-gradient-blue-banner-background-free-vector.jpg' alt='Shiny Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/965/575/small/modern-shiny-gradient-blue-banner-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny blue glitter background :: Stock Photography Agency :: Pixel ...">
+                                <img itemprop="contentUrl url" src='https://pixel-shot.com/get_image/i-2629487-0.JPG' alt='Shiny blue glitter background :: Stock Photography Agency :: Pixel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel-Shot" />
+                                </span>
+                                <a href='https://pixel-shot.com/get_image/i-2629487-0.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

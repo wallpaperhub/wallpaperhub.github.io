@@ -1,0 +1,129 @@
+<title>CPS Background Check: Ensuring Child Safety</title>
+                    <meta name="description" content="Discover the importance of CPS background checks in safeguarding children. Learn how these checks reveal critical information about a person's history with Child Protective Services, helping organizations and families make informed decisions for child safety.">
+                    <meta name="keywords" content="cps background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cps-background-check">
+                            <span itemprop="name">cps background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CPS Background Check: Ensuring Child Safety</h1>
+                <p>In today's world, a CPS background check is crucial for ensuring the safety of vulnerable individuals, especially children. These checks evaluate an individual's history with Child Protective Services to identify any prior allegations, investigations, or findings of abuse or neglect. Organizations and families can better protect children by leveraging this vital information.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cps background check form: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/5/557/5557626/large.png' alt='Cps background check form: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/5/557/5557626/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CPS Background Check Steps by sitstayread - Issuu">
+                                <img itemprop="contentUrl url" src='https://assets.isu.pub/document-structure/241028201336-6e0e9003a7c02a958bd225598f74c1f3/v1/b7c091436b6451a0a9a4364b9b456532.jpeg' alt='CPS Background Check Steps by sitstayread - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://assets.isu.pub/document-structure/241028201336-6e0e9003a7c02a958bd225598f74c1f3/v1/b7c091436b6451a0a9a4364b9b456532.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cps tb test form: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/482/573/482573313/large.png' alt='Cps tb test form: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/482/573/482573313/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CPS Background Check Steps by sitstayread - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/241028201336-6e0e9003a7c02a958bd225598f74c1f3/jpg/page_1_thumb_large.jpg' alt='CPS Background Check Steps by sitstayread - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/241028201336-6e0e9003a7c02a958bd225598f74c1f3/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Cps Cases Show Up On Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/6.jpg' alt='Do Cps Cases Show Up On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CPS Background Check Steps by sitstayread - Issuu">
+                                <img itemprop="contentUrl url" src='https://assets.isu.pub/document-structure/241028201336-6e0e9003a7c02a958bd225598f74c1f3/v1/35bd6ae5f8684e4bcbd861799668ae93.jpeg' alt='CPS Background Check Steps by sitstayread - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://assets.isu.pub/document-structure/241028201336-6e0e9003a7c02a958bd225598f74c1f3/v1/35bd6ae5f8684e4bcbd861799668ae93.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Cps Cases Show Up On Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/1.jpg' alt='Do Cps Cases Show Up On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-cps-cases-show-up-on-background-checks.govbackgroundchecks.com/screenshots/do-cps-cases-show-up-on-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Connecticut Department of Children and Families AUTHORIZATION FOR ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///7608ad7aad52908ba887d55b8544ba65005e098ac8c89e5625c0d2cd13ba5dc4' alt='Connecticut Department of Children and Families AUTHORIZATION FOR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashford School" />
+                                </span>
+                                <a href='x-raw-image:///7608ad7aad52908ba887d55b8544ba65005e098ac8c89e5625c0d2cd13ba5dc4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CPS Background Check Steps by sitstayread - Issuu">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/241111212033-25b10eb4d9875a57c4c735e483a97532/jpg/page_1_thumb_large.jpg' alt='CPS Background Check Steps by sitstayread - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/241111212033-25b10eb4d9875a57c4c735e483a97532/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My publications - Security Badge Background Check - Page 1 ...">
+                                <img itemprop="contentUrl url" src='https://view.publitas.com/29346/969084/pages/a381669a05c2eefdd8f30560f74dc7d2e7a8a1fe-at2000.jpg' alt='My publications - Security Badge Background Check - Page 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1758">
+                                <meta itemprop="height" content="2275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Publitas" />
+                                </span>
+                                <a href='https://view.publitas.com/29346/969084/pages/a381669a05c2eefdd8f30560f74dc7d2e7a8a1fe-at2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

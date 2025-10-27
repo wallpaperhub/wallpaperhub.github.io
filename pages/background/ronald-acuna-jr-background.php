@@ -1,0 +1,129 @@
+<title>"Discovering the Journey of Ronald Acuña Jr."</title>
+                    <meta name="description" content="Explore the inspiring background of Ronald Acuña Jr., the talented outfielder for the Atlanta Braves. Learn about his rise from Venezuela to MLB stardom, his incredible skills, and his impact on baseball today. Join us in celebrating this young athlete's journey!">
+                    <meta name="keywords" content="ronald acuna jr background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ronald-acuna-jr-background">
+                            <span itemprop="name">ronald acuna jr background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discovering the Journey of Ronald Acuña Jr."</h1>
+                <p>Ronald Acuña Jr. is a Venezuelan professional baseball outfielder for the Atlanta Braves in MLB. Born on December 18, 1997, in La Guaira, Venezuela, he showcased immense talent at a young age. Acuña debuted in 2018 and quickly became known for his powerful hitting, speed on the bases, and dynamic fielding, making him a rising star in baseball.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuna Jr Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/4c/c9/594cc97d11d70054d364889c57848e8d.jpg' alt='Ronald Acuna Jr Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/4c/c9/594cc97d11d70054d364889c57848e8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuña Jr.: Atlanta Braves outfielder becomes the first ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230927234326-01-ronald-acuna-jr-record-092723-restricted.jpg?c=original' alt='Ronald Acuña Jr.: Atlanta Braves outfielder becomes the first ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230927234326-01-ronald-acuna-jr-record-092723-restricted.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuna Jr. Baseball Sports Star Art Poster Wall Art Poster Scroll  Canvas Painting Picture Living Room Decor Home Framed/Unframed ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/616CdFEJPWL._AC_UF894,1000_QL80_.jpg' alt='Ronald Acuna Jr. Baseball Sports Star Art Poster Wall Art Poster Scroll  Canvas Painting Picture Living Room Decor Home Framed/Unframed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/616CdFEJPWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuna, Jr. | Biography, Atlanta Braves, 40-40 Club, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/66/250566-050-FFFA3E17/Ronald-Acuna-Jr-Atlanta-Braves-2023.jpg' alt='Ronald Acuna, Jr. | Biography, Atlanta Braves, 40-40 Club, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/66/250566-050-FFFA3E17/Ronald-Acuna-Jr-Atlanta-Braves-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuna Wallpaper : r/Braves">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6iogunx4qpf11.png' alt='Ronald Acuna Wallpaper : r/Braves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1524">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6iogunx4qpf11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuña Jr Projects :: Photos, videos, logos, illustrations ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/fb2b2d195034249.Y3JvcCwzMzAwLDI1ODEsMCw4MDg.jpg' alt='Ronald Acuña Jr Projects :: Photos, videos, logos, illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/fb2b2d195034249.Y3JvcCwzMzAwLDI1ODEsMCw4MDg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLB - Ronald Acuña Jr.'s power is out of this world. He is ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159450464017451' alt='MLB - Ronald Acuña Jr.'s power is out of this world. He is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159450464017451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronald Acuña Jr. | Atlanta Braves Wallpaper 2023">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/aa/28/90aa2831e31c07c1d91e50147576e31c.jpg' alt='Ronald Acuña Jr. | Atlanta Braves Wallpaper 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/aa/28/90aa2831e31c07c1d91e50147576e31c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLB - Ronald Acuña Jr. is the real deal. | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159562364067451' alt='MLB - Ronald Acuña Jr. is the real deal. | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159562364067451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you want to pitch to Ronald Acuña Jr. - Battery Power">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/ub3BoVH-nHX-PNp988R_ZImCa80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13139661/usa_today_11276391.jpg' alt='So you want to pitch to Ronald Acuña Jr. - Battery Power'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Battery Power" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/ub3BoVH-nHX-PNp988R_ZImCa80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13139661/usa_today_11276391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

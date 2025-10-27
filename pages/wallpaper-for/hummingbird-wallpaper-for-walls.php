@@ -1,0 +1,129 @@
+<title>Vibrant Hummingbird Wallpaper for Your Walls</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="hummingbird wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/hummingbird-wallpaper-for-walls">
+                            <span itemprop="name">hummingbird wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hummingbird Wallpaper for Your Walls</h1>
+                <p>Transform your space with vibrant hummingbird wallpaper! These stunning designs feature colorful, intricate illustrations of hummingbirds in natural settings, ideal for adding a touch of nature to your walls. Perfect for living rooms, bedrooms, or nurseries, they bring life and energy to any room while creating a cheerful atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Hummingbird Wallpaper, Vintage Flowers and Birds, Sparrow ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/577381/4041239172/il_570xN.4041239172_cwg7.jpg' alt='Floral Hummingbird Wallpaper, Vintage Flowers and Birds, Sparrow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/577381/4041239172/il_570xN.4041239172_cwg7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hummingbirds Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2020/02/Wallpaper-Republic-FF-HummingBirds-Blue-3.jpg.optimal.jpg' alt='Hummingbirds Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2020/02/Wallpaper-Republic-FF-HummingBirds-Blue-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hummingbirds & Heliconias Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/02/Wallpaper-ATee-Hummingbirds-Heliconias-Rust-1.jpg.optimal.jpg' alt='Hummingbirds & Heliconias Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/02/Wallpaper-ATee-Hummingbirds-Heliconias-Rust-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Hummingbird Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #470">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/7267cd/2754245881/il_570xN.2754245881_ebcv.jpg' alt='Colorful Hummingbird Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #470'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/7267cd/2754245881/il_570xN.2754245881_ebcv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Hummingbirds Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' alt='Golden Hummingbirds Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3549">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black Pink Hummingbird Floral Peel and Stick Wallpaper Easy Peel  Off Contact Paper Stick on Adhesive Wall Paper for Bathroom Waterproof ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Dg2LrB-7L._AC_UF894,1000_QL80_.jpg' alt='Abstract Black Pink Hummingbird Floral Peel and Stick Wallpaper Easy Peel  Off Contact Paper Stick on Adhesive Wall Paper for Bathroom Waterproof ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Dg2LrB-7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flower Hummingbird Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42857_WP-01.jpg' alt='Pink Flower Hummingbird Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42857_WP-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cole and Son 10014069 Hummingbirds Blue Multi Color Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/132538.jpg' alt='Cole and Son 10014069 Hummingbirds Blue Multi Color Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/132538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hummingbird by Lola Design - Black / White / Stone - Wallpaper - WP-681B-S">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/178548/main/lola-design-hummingbird-black-white-stone-wallpaper-1@lg.webp' alt='Hummingbird by Lola Design - Black / White / Stone - Wallpaper - WP-681B-S'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/178548/main/lola-design-hummingbird-black-white-stone-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hummingbirds and Butterflies Mural - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/231640-825-auto?width=825&height=auto&aspect=true' alt='Hummingbirds and Butterflies Mural - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/231640-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

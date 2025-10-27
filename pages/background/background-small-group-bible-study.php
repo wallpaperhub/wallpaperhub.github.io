@@ -1,0 +1,129 @@
+<title>Empower Your Faith: Small Group Bible Study</title>
+                    <meta name="description" content="Join a small group Bible study to deepen your faith and connect with others. Engage in open discussions, share insights, and grow spiritually in a supportive community. Perfect for anyone seeking a closer relationship with God and fellowship with fellow believers.">
+                    <meta name="keywords" content="background small group bible study">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-small-group-bible-study">
+                            <span itemprop="name">background small group bible study</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empower Your Faith: Small Group Bible Study</h1>
+                <p>Small group Bible study provides an intimate setting for spiritual growth and connection among members. This environment encourages open discussions, fostering deeper understanding of scripture and personal experiences. Participants can share insights, pray together, and support one another in their faith journeys, enhancing community bonds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Small Group Bible Study Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/162358002/photo/women-bow-and-pray.jpg?s=612x612&w=0&k=20&c=gODaJQMKPq6oz-yY-8znUmByZEOO3cTVjR1S-frSBNM=' alt='750+ Small Group Bible Study Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/162358002/photo/women-bow-and-pray.jpg?s=612x612&w=0&k=20&c=gODaJQMKPq6oz-yY-8znUmByZEOO3cTVjR1S-frSBNM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Small Group Bible Study Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1452440885/photo/christian-couple-or-group-reading-study-the-bible-together-and-pray-at-a-home-or-sunday.jpg?s=612x612&w=0&k=20&c=1cqunYiLiM3XaFb2a9EtaAKfp0GuW4rRzxb1IsG4fkU=' alt='750+ Small Group Bible Study Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1452440885/photo/christian-couple-or-group-reading-study-the-bible-together-and-pray-at-a-home-or-sunday.jpg?s=612x612&w=0&k=20&c=1cqunYiLiM3XaFb2a9EtaAKfp0GuW4rRzxb1IsG4fkU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Study Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-people-reading-together_23-2150062127.jpg' alt='Bible Study Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-people-reading-together_23-2150062127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Media - Small Group Bible Study | CreationSwap">
+                                <img itemprop="contentUrl url" src='https://thumbnails.creationswap.com/gallery/120/2/120299_5.jpg' alt='Media - Small Group Bible Study | CreationSwap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CreationSwap" />
+                                </span>
+                                <a href='https://thumbnails.creationswap.com/gallery/120/2/120299_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="476 Bible Study Small Group Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2294027849/display_1500/stock-photo-small-group-of-asian-people-praying-worship-believe-teams-of-friends-worship-together-before-2294027849.jpg' alt='476 Bible Study Small Group Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2294027849/display_1500/stock-photo-small-group-of-asian-people-praying-worship-believe-teams-of-friends-worship-together-before-2294027849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does gender separation impact the Bible study experience at Hope ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/anchor.hope.edu/wp-content/uploads/2020/10/SmallGroupBibleStudy.jpg?fit=1160%2C773&ssl=1' alt='Does gender separation impact the Bible study experience at Hope ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Anchor | Hope College's Student Newspaper - Hope College" />
+                                </span>
+                                <a href='https://i0.wp.com/anchor.hope.edu/wp-content/uploads/2020/10/SmallGroupBibleStudy.jpg?fit=1160%2C773&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Study Group Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/high-angle-people-reading-together_23-2150062128.jpg?semt=ais_hybrid' alt='Bible Study Group Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/high-angle-people-reading-together_23-2150062128.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Bible Study Group Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/956432024/photo/group-bible-study-on-a-white-wood-table.jpg?s=612x612&w=0&k=20&c=8ag4BwXgfnJBiCjjtG7HeeFy9v7cZzmayKFgY0pC01A=' alt='1,900+ Bible Study Group Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/956432024/photo/group-bible-study-on-a-white-wood-table.jpg?s=612x612&w=0&k=20&c=8ag4BwXgfnJBiCjjtG7HeeFy9v7cZzmayKFgY0pC01A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Bible Study Group Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393761568/photo/christians-and-bible-study-concept-christian-family-sitting-around-a-wooden-table-with-open.jpg?s=612x612&w=0&k=20&c=0E1EMXhXRnUvOIK5GzYQvs6uvYuwUp1qoma4pliIho0=' alt='1,900+ Bible Study Group Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393761568/photo/christians-and-bible-study-concept-christian-family-sitting-around-a-wooden-table-with-open.jpg?s=612x612&w=0&k=20&c=0E1EMXhXRnUvOIK5GzYQvs6uvYuwUp1qoma4pliIho0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="345 Small Group Bible Study Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1333641112/photo/bible-study-multi-ethnic-group-multi-ethnic-group-of-friends-meet-for-a-bible-study-group.jpg?s=612x612&w=gi&k=20&c=nWY9V7ZCD8syPgGjv4lFOFwVMUELQa2HJvQLGGdGSIk=' alt='345 Small Group Bible Study Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1333641112/photo/bible-study-multi-ethnic-group-multi-ethnic-group-of-friends-meet-for-a-bible-study-group.jpg?s=612x612&w=gi&k=20&c=nWY9V7ZCD8syPgGjv4lFOFwVMUELQa2HJvQLGGdGSIk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

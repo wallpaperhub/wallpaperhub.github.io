@@ -1,0 +1,129 @@
+<title>Preppy Swiftie Wallpapers: Stylish Designs for Fans</title>
+                    <meta name="description" content="Discover the perfect preppy Swiftie wallpaper to showcase your Taylor Swift fandom! These stylish designs blend classic aesthetics with vibrant visuals and iconic lyrics, making your device feel uniquely yours. Ideal for Swifties looking to elevate their screen while keeping it trendy!">
+                    <meta name="keywords" content="preppy swiftie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-swiftie-wallpaper">
+                            <span itemprop="name">preppy swiftie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Swiftie Wallpapers: Stylish Designs for Fans</h1>
+                <p>Transform your device with a preppy Swiftie wallpaper that reflects your love for Taylor Swift! Featuring vibrant colors and iconic lyrics, these stylish designs combine a classic preppy aesthetic with fan-favorite visuals. Perfect for showing off your Swiftie pride while keeping your screen trendy and fresh!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylorswift #swiftie #preppy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/b1/1c/edb11c07953ac8c9976c23e47fcbb175.jpg' alt='taylorswift #swiftie #preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/b1/1c/edb11c07953ac8c9976c23e47fcbb175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="celebrity #outfitinspo #preppy #homedecor #wallpaper #taylorswift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/5b/cd/4d5bcd3315fc3240e55fe6e8f4f9c17e.jpg' alt='celebrity #outfitinspo #preppy #homedecor #wallpaper #taylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/5b/cd/4d5bcd3315fc3240e55fe6e8f4f9c17e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-collage-preppy-style-8jl50afm5n5nzjpf.jpg' alt='100+] Preppy Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-collage-preppy-style-8jl50afm5n5nzjpf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/bb/63/d2bb63e6a5d0c97d5467720fd1b7d347.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/bb/63/d2bb63e6a5d0c97d5467720fd1b7d347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out noracolgan's Shuffles #taylorswift #lover #preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/59/10/f7/5910f78ef5a29bb47773bcbdfb52dd64.jpg' alt='Check out noracolgan's Shuffles #taylorswift #lover #preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/59/10/f7/5910f78ef5a29bb47773bcbdfb52dd64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy wallpaper taylor swift">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/5e/20/f05e204e37daf4b75087afed3ccf1cba.jpg' alt='preppy wallpaper taylor swift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/5e/20/f05e204e37daf4b75087afed3ccf1cba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-country-pop-collage-35w6w64skmq8dsbf.jpg' alt='100+] Preppy Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-country-pop-collage-35w6w64skmq8dsbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Taylor Swift Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-taylor-swift-collage-8vfpsx84khbh4sxy.jpg' alt='Download Preppy Taylor Swift Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-taylor-swift-collage-8vfpsx84khbh4sxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpapers for swifties   | Gallery posted by Swiftie_girly ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/ogKLICJtA16daCDyBAQFfrm8Ef1EluECjAZytD~tplv-tej9nj120t-origin.webp' alt='Preppy wallpapers for swifties   | Gallery posted by Swiftie_girly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/ogKLICJtA16daCDyBAQFfrm8Ef1EluECjAZytD~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

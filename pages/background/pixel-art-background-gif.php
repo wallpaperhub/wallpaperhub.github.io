@@ -1,0 +1,129 @@
+<title>Stunning Pixel Art Background GIFs for Your Projects</title>
+                    <meta name="description" content="Discover vibrant pixel art background GIFs that enhance your digital projects. Perfect for websites, games, and social media, these animated designs add a touch of nostalgia while ensuring quick load times. Transform your visuals with captivating art that captures attention and boosts engagement.">
+                    <meta name="keywords" content="pixel art background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-art-background-gif">
+                            <span itemprop="name">pixel art background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pixel Art Background GIFs for Your Projects</h1>
+                <p>Pixel art background GIFs bring retro charm to digital spaces, featuring vibrant colors and intricate designs. Perfect for games, websites, and social media, these animated backgrounds create an engaging visual experience. Their low file sizes ensure quick loading, making them ideal for seamless integration in various projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Gif as Desktop Background : r/osx">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/feMxjOm.gif' alt='Pixel Art Gif as Desktop Background : r/osx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/feMxjOm.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic city made in pixel art : r/gifs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1asyzovvrn8a1.gif' alt='Futuristic city made in pixel art : r/gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1asyzovvrn8a1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Pixel-Art Backgrounds | Free by FeonY">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzEzNzczMjU3LmdpZg==/original/W%2Fd8%2BO.gif' alt='Animated Pixel-Art Backgrounds | Free by FeonY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FeonY - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzEzNzczMjU3LmdpZg==/original/W%2Fd8%2BO.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated pixel art that soothes my soul.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif' alt='Animated pixel art that soothes my soul.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif' alt='wallpaper collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelart backgrounds for a squad-based strategy RPG :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/588a44195922117.66168b374ece8.gif' alt='Pixelart backgrounds for a squad-based strategy RPG :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/588a44195922117.66168b374ece8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew this pixel art animated background and called it "celestial ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/31uy8i1ynks91.gif' alt='I drew this pixel art animated background and called it "celestial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/31uy8i1ynks91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Style Pixel Art Landscape (ANIMATED!) by WhyPeopleRage ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64c9ea21-82be-48a3-a6f5-6d1786a3fc7e/d849dwo-0cdfe0ca-4bbe-43d5-b8d4-6c58db906e1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0YzllYTIxLTgyYmUtNDhhMy1hNmY1LTZkMTc4NmEzZmM3ZVwvZDg0OWR3by0wY2RmZTBjYS00YmJlLTQzZDUtYjhkNC02YzU4ZGI5MDZlMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n3jDMgOwazieu5EgWAGyGW4kZSx12Xqbs3BMHPLp6o4' alt='Video Game Style Pixel Art Landscape (ANIMATED!) by WhyPeopleRage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64c9ea21-82be-48a3-a6f5-6d1786a3fc7e/d849dwo-0cdfe0ca-4bbe-43d5-b8d4-6c58db906e1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0YzllYTIxLTgyYmUtNDhhMy1hNmY1LTZkMTc4NmEzZmM3ZVwvZDg0OWR3by0wY2RmZTBjYS00YmJlLTQzZDUtYjhkNC02YzU4ZGI5MDZlMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n3jDMgOwazieu5EgWAGyGW4kZSx12Xqbs3BMHPLp6o4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="minimoss">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/c44d7d4b9325e7d1-16/s1280x1920/1690fe1e95401b094ffa62ae933ff2c038e62814.gifv' alt='minimoss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="minimoss" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/c44d7d4b9325e7d1-16/s1280x1920/1690fe1e95401b094ffa62ae933ff2c038e62814.gifv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PIXEL ART BY @SOFTWARING — process gif! you can also grab this as ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2891ae1ed8e9e75e1b71863218833a06/7ab0732983858d05-6d/s540x810/c33bb28a9aa5ae8f411d766272428d1475526352.gifv' alt='PIXEL ART BY @SOFTWARING — process gif! you can also grab this as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@8pxl on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2891ae1ed8e9e75e1b71863218833a06/7ab0732983858d05-6d/s540x810/c33bb28a9aa5ae8f411d766272428d1475526352.gifv' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

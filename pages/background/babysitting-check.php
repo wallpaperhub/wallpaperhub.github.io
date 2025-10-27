@@ -1,0 +1,129 @@
+<title>Essential Babysitting Checks: Ensuring Child Safety</title>
+                    <meta name="description" content="Learn the importance of babysitting checks to keep your kids safe. From background verifications to clear communication, ensure every sitting experience is secure and comfortable. Get tips on establishing trust and creating guidelines for successful babysitting today!">
+                    <meta name="keywords" content="babysitting check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/babysitting-check">
+                            <span itemprop="name">babysitting check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Babysitting Checks: Ensuring Child Safety</h1>
+                <p>Babysitting checks are an essential part of ensuring the safety and well-being of children in your care. They involve verifying the sitter's qualifications, background checks, and references. Establishing clear guidelines and expectations can help create a secure and trusting environment for both parents and babysitters. Regular check-ins during the sitting period can also maintain reassurance for caregivers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Babysitting Kit (Free Forms, Checklists & Documents)">
+                                <img itemprop="contentUrl url" src='https://cdn.kidsit.com/docs/beach-babysitting-checklist.png' alt='Printable Babysitting Kit (Free Forms, Checklists & Documents)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidsit" />
+                                </span>
+                                <a href='https://cdn.kidsit.com/docs/beach-babysitting-checklist.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Free Printable Checklists">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/ca/7c/2bca7ca79d188096ea6d0e9e82f15110.jpg' alt='25 Free Printable Checklists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/ca/7c/2bca7ca79d188096ea6d0e9e82f15110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babysitter Checklist - iMOM">
+                                <img itemprop="contentUrl url" src='https://www.imom.com/wp-content/uploads/2014/06/babysitter-checklist-long.jpg' alt='Babysitter Checklist - iMOM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iMOM" />
+                                </span>
+                                <a href='https://www.imom.com/wp-content/uploads/2014/06/babysitter-checklist-long.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Babysitting Kit (Free Forms, Checklists & Documents)">
+                                <img itemprop="contentUrl url" src='https://cdn.kidsit.com/docs/babysitting-bath-time-checklist-v3.png' alt='Printable Babysitting Kit (Free Forms, Checklists & Documents)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidsit" />
+                                </span>
+                                <a href='https://cdn.kidsit.com/docs/babysitting-bath-time-checklist-v3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finding the Best Babysitter Checklist">
+                                <img itemprop="contentUrl url" src='http://www.mamachallenge.com/wp-content/uploads/2016/10/BabySitter-Checklist-1-e1476057143262.png' alt='Finding the Best Babysitter Checklist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mamachallenge" />
+                                </span>
+                                <a href='http://www.mamachallenge.com/wp-content/uploads/2016/10/BabySitter-Checklist-1-e1476057143262.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babysitting Information Sheet to Leave for Babysitter Babysitter ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14383503/r/il/6265a0/4381716625/il_570xN.4381716625_dgcl.jpg' alt='Babysitting Information Sheet to Leave for Babysitter Babysitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14383503/r/il/6265a0/4381716625/il_570xN.4381716625_dgcl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Babysitter Notes">
+                                <img itemprop="contentUrl url" src='https://www.thirtyhandmadedays.com/wp-content/uploads/2014/01/babysitternotes.png' alt='Printable Babysitter Notes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thirty Handmade Days" />
+                                </span>
+                                <a href='https://www.thirtyhandmadedays.com/wp-content/uploads/2014/01/babysitternotes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babysitter Checklist - Cache Valley Family Magazine">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/f7/bd/aef7bdd8a9b24043560e6ecfe567a2c6.jpg' alt='Babysitter Checklist - Cache Valley Family Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/f7/bd/aef7bdd8a9b24043560e6ecfe567a2c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babysitters Checklist | Fire Safety For Life">
+                                <img itemprop="contentUrl url" src='https://firesafetyforlife.com/wp-content/uploads/2009/02/pbps12ck.jpg' alt='Babysitters Checklist | Fire Safety For Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fire Safety Education" />
+                                </span>
+                                <a href='https://firesafetyforlife.com/wp-content/uploads/2009/02/pbps12ck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8+ important tips for your first time babysitting">
+                                <img itemprop="contentUrl url" src='https://cdn.babysits.com/content/community/community-resources/en/infographics/checklist-tips-for-your-babysitters-first-day.jpg' alt='8+ important tips for your first time babysitting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Babysits" />
+                                </span>
+                                <a href='https://cdn.babysits.com/content/community/community-resources/en/infographics/checklist-tips-for-your-babysitters-first-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

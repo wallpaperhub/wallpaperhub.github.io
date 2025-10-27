@@ -1,0 +1,129 @@
+<title>Sailor Moon Wallpaper: Magical Designs for Fans</title>
+                    <meta name="description" content="Discover enchanting Sailor Moon wallpaper to elevate your device’s look! Explore a variety of vibrant designs featuring your favorite characters. Perfect for fans wanting to express their love for this iconic series. Download now and transform your screen with magic!">
+                    <meta name="keywords" content="sailor moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sailor-moon-wallpaper">
+                            <span itemprop="name">sailor moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sailor Moon Wallpaper: Magical Designs for Fans</h1>
+                <p>Sailor Moon wallpaper is a must-have for fans of the iconic anime series! Transform your device with vibrant, magical designs featuring Sailor Moon and her friends. Choose from a variety of styles that showcase the beautiful art and themes of friendship, love, and courage. Perfect for creating a whimsical digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/1/2/33116-1920x1080-desktop-1080p-sailor-moon-wallpaper-image.jpg' alt='Sailor Moon Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/1/2/33116-1920x1080-desktop-1080p-sailor-moon-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Squad 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/454/454764.jpg' alt='Sailor Moon Squad 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4616">
+                                <meta itemprop="height" content="3445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/454/454764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon HD Mobile Wallpapers : r/sailormoon">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/smV4jHrOweBCWevnBkuqyN3uUnb2sJWhylAbc3A1v2E.jpg?width=640&crop=smart&auto=webp&s=615d3b2fff3720535a316159fec46e615373f5d8' alt='Sailor Moon HD Mobile Wallpapers : r/sailormoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/smV4jHrOweBCWevnBkuqyN3uUnb2sJWhylAbc3A1v2E.jpg?width=640&crop=smart&auto=webp&s=615d3b2fff3720535a316159fec46e615373f5d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Sailor Moon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sailor-moon-03lluukoy5t3ov3h.jpg' alt='300+] Sailor Moon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sailor-moon-03lluukoy5t3ov3h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor moon ✨  wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCcxevhCLMc/1/image.jpg' alt='Sailor moon ✨  wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCcxevhCLMc/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Anime Cartoon Sailor Moon Theme Hotel Student Dorm ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Os7sZtsSL.jpg' alt='Wallpaper Anime Cartoon Sailor Moon Theme Hotel Student Dorm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Os7sZtsSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SailorMoon | Sailor moon wallpaper, Sailor moon art, Sailor moon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/c1/97/22c19771a7d4f12210086e8e300bfc26.jpg' alt='SailorMoon | Sailor moon wallpaper, Sailor moon art, Sailor moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/c1/97/22c19771a7d4f12210086e8e300bfc26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆ Sailor Moon Wallpapers ☆ | Kawaii Amino Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6174/c0e3eeaa5561374ff547d546dffd4855fc322265_hq.jpg' alt='☆ Sailor Moon Wallpapers ☆ | Kawaii Amino Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6174/c0e3eeaa5561374ff547d546dffd4855fc322265_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Live Wallpaper - Kawaii Cats Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7426737522207690016&location=0&aid=1988' alt='Sailor Moon Live Wallpaper - Kawaii Cats Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7426737522207690016&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/9/a/33113-1440x2560-iphone-hd-sailor-moon-wallpaper.jpg' alt='Sailor Moon Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/9/a/33113-1440x2560-iphone-hd-sailor-moon-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

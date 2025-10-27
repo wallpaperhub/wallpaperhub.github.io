@@ -1,0 +1,129 @@
+<title>Stylish Simple 4K iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a curated selection of simple 4K wallpapers for your iPhone. Ideal for minimalists, our designs add a touch of elegance while keeping your home screen uncluttered. Perfect for enhancing your device's appearance effortlessly. Download your favorite now!">
+                    <meta name="keywords" content="simple iphone wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/simple-iphone-wallpaper-4k">
+                            <span itemprop="name">simple iphone wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Simple 4K iPhone Wallpapers</h1>
+                <p>Elevate your iPhone's aesthetic with our collection of simple 4K wallpapers. Perfect for those who appreciate minimalist designs, these wallpapers bring clarity and elegance to your device without overwhelming the screen. Explore a range of soothing colors and patterns that enhance your user experience while keeping it sleek and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple 4k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3611734.jpg' alt='Simple 4k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3611734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 4K Minimalist ideas iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/d1/1a/d2d11ae08d8a7ead482d1712c2a41007.jpg' alt='110 4K Minimalist ideas iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/d1/1a/d2d11ae08d8a7ead482d1712c2a41007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Sunset Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/9b/02/1b9b02d97f9d5d4dd0e66a4750dfcdf8.jpg' alt='Minimalist Sunset Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/9b/02/1b9b02d97f9d5d4dd0e66a4750dfcdf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIMPLE CLEAR IPHONE WALLPAPER 4K - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhLtyerF8FD-B4UgsA-Dagasgpno6bumhFTQhjhJWcCG5akM9xdEZQJhjgEW5evTm6M_n7-mNRrL8CZraEeJDOvaFt5h9F4hT9PsLPjF_10swH7AR6sjpHMPPPeX4t3ZZr4V8SZ6hkCG3NucCEJzRmsDdzzLezciK3xqjZTYjV2p6Tz5vvKTzfEWsjZ4g=w1600' alt='SIMPLE CLEAR IPHONE WALLPAPER 4K - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhLtyerF8FD-B4UgsA-Dagasgpno6bumhFTQhjhJWcCG5akM9xdEZQJhjgEW5evTm6M_n7-mNRrL8CZraEeJDOvaFt5h9F4hT9PsLPjF_10swH7AR6sjpHMPPPeX4t3ZZr4V8SZ6hkCG3NucCEJzRmsDdzzLezciK3xqjZTYjV2p6Tz5vvKTzfEWsjZ4g=w1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradation Blur Simple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gradation-blur-simple-iphone-efoktecixoqqs9it.jpg' alt='Gradation Blur Simple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gradation-blur-simple-iphone-efoktecixoqqs9it.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85VKv9UTBKPKNECC_bO2rG2A0Dn41yr40Jd-M7WEHNTRoOFffe2kE9xwZvFiBolvh3hrfd1QCU462Qb8P50sUAXfNJvc47VP40spn-yM0ACtqtFEdm228QjlctkvqPLTuzKg2caO7kGXbVSoa1SvfrTPGv3aExjVrhlWEsl8S5Puv0BGEo6Q0OyJO/s0/AESTHETIC-MINIMAL-SUMMER-110322@2x.png' alt='Minimalist iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85VKv9UTBKPKNECC_bO2rG2A0Dn41yr40Jd-M7WEHNTRoOFffe2kE9xwZvFiBolvh3hrfd1QCU462Qb8P50sUAXfNJvc47VP40spn-yM0ACtqtFEdm228QjlctkvqPLTuzKg2caO7kGXbVSoa1SvfrTPGv3aExjVrhlWEsl8S5Puv0BGEo6Q0OyJO/s0/AESTHETIC-MINIMAL-SUMMER-110322@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIMPLE IPHONE WALLPAPER 4K - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMVByVOzW6JXKneoZrGo8DtkCOLpGS7RNICxeYKCQ4FwmZ7slOjA5MSi0VS78ddJZb_es6kBBeB42-q-r452MkmDJGOJ2Xkx2YWaYCRFFMyCiPKp-rqA9nZzM1GhykdJvs6IGXd3BQcub35aajyovdPGTEpZLyEz6USSOTH4cAEr-NdyNkZ8yEQ3PQfg/s1629/WALLPAPER-IPHONE.jpg' alt='SIMPLE IPHONE WALLPAPER 4K - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1629">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMVByVOzW6JXKneoZrGo8DtkCOLpGS7RNICxeYKCQ4FwmZ7slOjA5MSi0VS78ddJZb_es6kBBeB42-q-r452MkmDJGOJ2Xkx2YWaYCRFFMyCiPKp-rqA9nZzM1GhykdJvs6IGXd3BQcub35aajyovdPGTEpZLyEz6USSOTH4cAEr-NdyNkZ8yEQ3PQfg/s1629/WALLPAPER-IPHONE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Simple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sunset-simple-iphone-nu55fsxnd29epxwa.jpg' alt='Sunset Simple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sunset-simple-iphone-nu55fsxnd29epxwa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Minimalist Iphone Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbGlzdCUyMGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Minimalist Iphone Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbGlzdCUyMGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Minimalist wallpaper iPhone - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjch-8USQWKXT5e2ha2jagWY9Xdyve6AUvOzLbB8_9UgND9Of_yeyqyhyOw-4TZIn_WcYTmAbLE8mXdun7k4jSnZImXq0HjdothlStEbXPNWbOLZyGyCoKUW9B8l0ELkFOnCncGt9IVNWOFvBrQ0lvs58kxhKtbK4-_68d4XuxUMLWk4rcBe80UTeQ2DRo' alt='4K Minimalist wallpaper iPhone - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjch-8USQWKXT5e2ha2jagWY9Xdyve6AUvOzLbB8_9UgND9Of_yeyqyhyOw-4TZIn_WcYTmAbLE8mXdun7k4jSnZImXq0HjdothlStEbXPNWbOLZyGyCoKUW9B8l0ELkFOnCncGt9IVNWOFvBrQ0lvs58kxhKtbK4-_68d4XuxUMLWk4rcBe80UTeQ2DRo' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

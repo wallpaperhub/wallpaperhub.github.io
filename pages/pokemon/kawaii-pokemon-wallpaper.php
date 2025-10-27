@@ -1,0 +1,129 @@
+<title>Kawaii Pokémon: Adorable Wallpaper Collection</title>
+                    <meta name="description" content="Discover a delightful collection of kawaii Pokémon wallpapers! Perfect for fans who love all things cute, these vibrant designs will brighten your devices and showcase your favorite Pokémon. Explore now and transform your screens with cuteness!">
+                    <meta name="keywords" content="kawaii pokemon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/kawaii-pokemon-wallpaper">
+                            <span itemprop="name">kawaii pokemon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Pokémon: Adorable Wallpaper Collection</h1>
+                <p>Transform your devices with adorable kawaii Pokémon wallpapers! Embrace your love for these charming creatures with vibrant designs that bring joy and playfulness to your screens. Perfect for fans of all ages, our diverse selection features Pikachu, Eevee, and more. Enjoy a daily dose of cuteness with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/cd/8d/e4cd8da51b95436ddd7b5830e4c5ed48.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/cd/8d/e4cd8da51b95436ddd7b5830e4c5ed48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Cute pokemon wallpaper ideas | cute pokemon, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8e/26/d0/8e26d0560fb54881abf497cf67fb28dc.jpg' alt='900+ Best Cute pokemon wallpaper ideas | cute pokemon, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8e/26/d0/8e26d0560fb54881abf497cf67fb28dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pikachu kawaii wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/166/793/HD-wallpaper-pikachu-kawaii-kawaii-pikachu-screenloker-themes.jpg' alt='HD pikachu kawaii wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/166/793/HD-wallpaper-pikachu-kawaii-kawaii-pikachu-screenloker-themes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute-Pokemon-Wallpaper-cutest-pokemon-39649663-192 by 31-ifisher ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b308e91-1cac-476d-8de8-4798fd29c148/dgagx0y-4dce0b93-4606-4a16-85cb-ed17936786a4.jpg/v1/fill/w_1280,h_720,q_75,strp/cute_pokemon_wallpaper_cutest_pokemon_39649663_192_by_31_ifisher_dgagx0y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIzMDhlOTEtMWNhYy00NzZkLThkZTgtNDc5OGZkMjljMTQ4XC9kZ2FneDB5LTRkY2UwYjkzLTQ2MDYtNGExNi04NWNiLWVkMTc5MzY3ODZhNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hk16rZgYqZcOgFueFmYcbqssRoD5J6aVwe7IJkMYKI0' alt='Cute-Pokemon-Wallpaper-cutest-pokemon-39649663-192 by 31-ifisher ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b308e91-1cac-476d-8de8-4798fd29c148/dgagx0y-4dce0b93-4606-4a16-85cb-ed17936786a4.jpg/v1/fill/w_1280,h_720,q_75,strp/cute_pokemon_wallpaper_cutest_pokemon_39649663_192_by_31_ifisher_dgagx0y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIzMDhlOTEtMWNhYy00NzZkLThkZTgtNDc5OGZkMjljMTQ4XC9kZ2FneDB5LTRkY2UwYjkzLTQ2MDYtNGExNi04NWNiLWVkMTc5MzY3ODZhNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hk16rZgYqZcOgFueFmYcbqssRoD5J6aVwe7IJkMYKI0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute + Pokémon + wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1a/28/b6/1a28b693431f1f5316d80b02789a9da6.jpg' alt='cute + Pokémon + wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1a/28/b6/1a28b693431f1f5316d80b02789a9da6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE HD WALLPAPER - POKEMON - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNb2cOgaVW8xXHTL9xMBdB6d-awkIR7jQaVOFDVSJjacqqVyVbwiO8a3PGR1Zf0_HKsnmzFQBLpzSH1NFFb2oREo8cHVaulUgbNdXDV-r8x5SZuM2s-jUQ29A4dDqM2b1QdPSId89Rrz_ZFl8NvXDqZAGNkdcwbFDRXjC2kABi3UNipPjWxG0-EE8tow/s1920/cute-pokemon-wallpaper-1920x1080.jpg' alt='CUTE HD WALLPAPER - POKEMON - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNb2cOgaVW8xXHTL9xMBdB6d-awkIR7jQaVOFDVSJjacqqVyVbwiO8a3PGR1Zf0_HKsnmzFQBLpzSH1NFFb2oREo8cHVaulUgbNdXDV-r8x5SZuM2s-jUQ29A4dDqM2b1QdPSId89Rrz_ZFl8NvXDqZAGNkdcwbFDRXjC2kABi3UNipPjWxG0-EE8tow/s1920/cute-pokemon-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon aesthetic, cute, kawaii, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/370/406/HD-wallpaper-pokemon-aesthetic-cute-kawaii.jpg' alt='Pokemon aesthetic, cute, kawaii, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/370/406/HD-wallpaper-pokemon-aesthetic-cute-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Kirby Pokemon Party Wallpaper By Suyasuyabi - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-metaknight-wallpaper-artwork-suyasuyabi427-kawaii-hoshi-scaled.jpg' alt='Kawaii Kirby Pokemon Party Wallpaper By Suyasuyabi - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-metaknight-wallpaper-artwork-suyasuyabi427-kawaii-hoshi-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ART] My cute and fluffy team wallpaper! : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/U4bvqwQb7db81DlSWqWLbz-IxCcgWuCiQ4A6kEty1hE.jpg?auto=webp&s=5fc6d5539958e2b74510c4cf34ec0e0c6c407c28' alt='ART] My cute and fluffy team wallpaper! : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/U4bvqwQb7db81DlSWqWLbz-IxCcgWuCiQ4A6kEty1hE.jpg?auto=webp&s=5fc6d5539958e2b74510c4cf34ec0e0c6c407c28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon backgrounds, Pikachu wallpaper, Cute pokemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/83/ef/2a83ef7814bc5ff737caf2f25c9e8a54.jpg' alt='Pokemon backgrounds, Pikachu wallpaper, Cute pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/83/ef/2a83ef7814bc5ff737caf2f25c9e8a54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

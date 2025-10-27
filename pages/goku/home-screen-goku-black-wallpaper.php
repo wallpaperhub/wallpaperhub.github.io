@@ -1,0 +1,129 @@
+<title>Epic Goku Black Wallpaper Collection for Your Home Screen</title>
+                    <meta name="description" content="Discover a collection of striking Goku Black wallpapers to enhance your home screen. Perfect for Dragon Ball enthusiasts, these vibrant designs bring the character to life. Easily download high-quality images that resonate with your fandom and express your style today!">
+                    <meta name="keywords" content="home screen goku black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/home-screen-goku-black-wallpaper">
+                            <span itemprop="name">home screen goku black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Black Wallpaper Collection for Your Home Screen</h1>
+                <p>Transform your device with stunning Goku Black wallpapers! Perfect for fans of Dragon Ball, these high-quality images capture Goku Black's fierce and stylish essence. Elevate your home screen with vibrant colors and dynamic poses that reflect his powerful character. Download now to showcase your love for DBZ!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Black - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/01/2d/c1/012dc12ba1c1773eb5179cbd699d42fa.jpg' alt='Goku Black - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/01/2d/c1/012dc12ba1c1773eb5179cbd699d42fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Goku Black Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/goku-black-iphone-tjqm4xxvspc8atf9.jpg' alt='200+] Goku Black Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/goku-black-iphone-tjqm4xxvspc8atf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Goku Black Linework Wallpaper. You guys asked, I'll deliver ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rose-goku-black-linework-wallpaper-you-guys-asked-ill-v0-zdqmiew27pg81.png?auto=webp&s=9926d9e1ff521367c75630bbc8bce8d8b14419d4' alt='Rose Goku Black Linework Wallpaper. You guys asked, I'll deliver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rose-goku-black-linework-wallpaper-you-guys-asked-ill-v0-zdqmiew27pg81.png?auto=webp&s=9926d9e1ff521367c75630bbc8bce8d8b14419d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73 Goku black ideas | goku black, goku, dragon ball wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/28/21/61/282161814c95dfaf4985726c35d2ebf8.jpg' alt='73 Goku black ideas | goku black, goku, dragon ball wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="3325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/28/21/61/282161814c95dfaf4985726c35d2ebf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku Black Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-black-green-grunge-cover-itohh52143gmkhgh.jpg' alt='Download Goku Black Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-black-green-grunge-cover-itohh52143gmkhgh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD goku black wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/25/277/HD-wallpaper-goku-black-rose-dragon-ball-legends-goku-black-super-saiyan-thumbnail.jpg' alt='HD goku black wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/25/277/HD-wallpaper-goku-black-rose-dragon-ball-legends-goku-black-super-saiyan-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Musculoso Wallpaper 4K, Dragon Ball Z, AMOLED, Minimalist">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-musculoso-dragon-ball-z-amoled-minimal-black-3840x2160-4945.png' alt='Goku Musculoso Wallpaper 4K, Dragon Ball Z, AMOLED, Minimalist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-musculoso-dragon-ball-z-amoled-minimal-black-3840x2160-4945.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Goku Black Wallpapers ideas | goku black, goku, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7c/09/98/7c09985f131238f7b6e2fe9624cd82fd.jpg' alt='45 Goku Black Wallpapers ideas | goku black, goku, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7c/09/98/7c09985f131238f7b6e2fe9624cd82fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku black, goku black, dragon ball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/450/351/HD-wallpaper-goku-black-goku-black-dragon-ball.jpg' alt='Goku black, goku black, dragon ball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/450/351/HD-wallpaper-goku-black-goku-black-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Supercharge your spirit with Goku Black Supreme ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-black-supreme-koa5u84cexc98gyh.jpg' alt='Download "Supercharge your spirit with Goku Black Supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-black-supreme-koa5u84cexc98gyh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Delicious Apple Pie: A Picture-Perfect Dessert</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="apple pie picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/apple-pie-picture">
+                            <span itemprop="name">apple pie picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Apple Pie: A Picture-Perfect Dessert</h1>
+                <p>Indulge in the classic charm of a freshly baked apple pie. The warm, golden crust cradles spiced, sweet apples, creating a mouthwatering delight that's perfect for any occasion. Capture the essence of comfort with a picture of this timeless dessert, inviting you to savor every luscious bite and the cozy memories it brings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Brown Sugar Apple Pie">
+                                <img itemprop="contentUrl url" src='https://chefalina.com/wp-content/uploads/2022/04/Apple-Pie-scaled.jpg' alt='American Brown Sugar Apple Pie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chef Alina" />
+                                </span>
+                                <a href='https://chefalina.com/wp-content/uploads/2022/04/Apple-Pie-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Best-Ever Apple Pie Recipe">
+                                <img itemprop="contentUrl url" src='https://cakesbymk.com/wp-content/uploads/2024/11/Template-Size-for-Blog-5.jpg' alt='My Best-Ever Apple Pie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cakes by MK" />
+                                </span>
+                                <a href='https://cakesbymk.com/wp-content/uploads/2024/11/Template-Size-for-Blog-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Apple Pie We've Ever Made">
+                                <img itemprop="contentUrl url" src='https://www.inspiredtaste.net/wp-content/uploads/2019/11/Homemade-Apple-Pie-From-Scratch-1200.jpg' alt='Best Apple Pie We've Ever Made'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspired Taste" />
+                                </span>
+                                <a href='https://www.inspiredtaste.net/wp-content/uploads/2019/11/Homemade-Apple-Pie-From-Scratch-1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The BEST Apple Pie Recipe">
+                                <img itemprop="contentUrl url" src='https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2023/04/best-apple-pie-from-scratch.jpg' alt='The BEST Apple Pie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="1941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="If You Give a Blonde a Kitchen" />
+                                </span>
+                                <a href='https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2023/04/best-apple-pie-from-scratch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All American Apple Pie">
+                                <img itemprop="contentUrl url" src='https://greateightfriends.com/wp-content/uploads/2019/03/Apple-Pie-v-1-2.jpeg' alt='All American Apple Pie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Eight Friends" />
+                                </span>
+                                <a href='https://greateightfriends.com/wp-content/uploads/2019/03/Apple-Pie-v-1-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Best Apple Pie Recipe">
+                                <img itemprop="contentUrl url" src='https://sallysbakingaddiction.com/wp-content/uploads/2017/07/slice-of-apple-pie-2.jpg' alt='My Best Apple Pie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sally's Baking Addiction" />
+                                </span>
+                                <a href='https://sallysbakingaddiction.com/wp-content/uploads/2017/07/slice-of-apple-pie-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Apple Pie">
+                                <img itemprop="contentUrl url" src='https://www.simplyrecipes.com/thmb/SeOrwAcn5dAuazvh-AhlrDbAd24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Homemade-Apple-Pie-LEAD-04-11db861782aa4ebdb5ef9948125ef0ef.jpg' alt='Homemade Apple Pie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Recipes" />
+                                </span>
+                                <a href='https://www.simplyrecipes.com/thmb/SeOrwAcn5dAuazvh-AhlrDbAd24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Homemade-Apple-Pie-LEAD-04-11db861782aa4ebdb5ef9948125ef0ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Pie Recipe">
+                                <img itemprop="contentUrl url" src='https://shewearsmanyhats.com/wp-content/uploads/2014/11/apple-pie-2.jpg' alt='Apple Pie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="She Wears Many Hats" />
+                                </span>
+                                <a href='https://shewearsmanyhats.com/wp-content/uploads/2014/11/apple-pie-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Apple Pie">
+                                <img itemprop="contentUrl url" src='https://recipe30.com/wp-content/uploads/2020/11/Apple-pie.jpg' alt='Homemade Apple Pie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RECIPE30" />
+                                </span>
+                                <a href='https://recipe30.com/wp-content/uploads/2020/11/Apple-pie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Apple Pie Recipe">
+                                <img itemprop="contentUrl url" src='https://joyfoodsunshine.com/wp-content/uploads/2019/08/best-apple-pie-recipe-from-scratch-8.jpg' alt='Best Apple Pie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JoyFoodSunshine" />
+                                </span>
+                                <a href='https://joyfoodsunshine.com/wp-content/uploads/2019/08/best-apple-pie-recipe-from-scratch-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

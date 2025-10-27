@@ -1,0 +1,129 @@
+<title>Stunning Baddie Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of baddie aesthetic wallpapers that showcase bold designs and vibrant colors. Perfect for those who want to express their edgy style and unique personality. Download now to elevate your device's look instantly!">
+                    <meta name="keywords" content="baddie aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baddie-aesthetic-wallpaper">
+                            <span itemprop="name">baddie aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Baddie Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with captivating baddie aesthetic wallpaper that embodies confidence and style. Featuring bold colors, edgy graphics, and unique designs, these wallpapers capture the essence of modern baddie culture. Elevate your screen with these stunning visuals, perfect for expressing your individuality and fierce vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Baddie wallpapers ideas | aesthetic iphone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/96/d6/9a/96d69ac0c5c7b078e724cc1a425aa34b.jpg' alt='16 Baddie wallpapers ideas | aesthetic iphone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/96/d6/9a/96d69ac0c5c7b078e724cc1a425aa34b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Baddie Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-baddie-aesthetic-collage-ny2077w1ycnycbsb.jpg' alt='Download Pink Baddie Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-baddie-aesthetic-collage-ny2077w1ycnycbsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Baddie Aesthetic Wallpaper - Pink Collage Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38094285/r/il/611ec1/5390612640/il_fullxfull.5390612640_1f63.jpg' alt='Black Girl Baddie Aesthetic Wallpaper - Pink Collage Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2477">
+                                <meta itemprop="height" content="1651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38094285/r/il/611ec1/5390612640/il_fullxfull.5390612640_1f63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink baddie wallpaper!  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' alt='Pink baddie wallpaper!  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Compilation Baddie Aesthetic In Red Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/compilation-baddie-aesthetic-in-red-ix9mtl4prtfaa1e4.jpg' alt='Compilation Baddie Aesthetic In Red Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/compilation-baddie-aesthetic-in-red-ix9mtl4prtfaa1e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie pink 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/queen-baddie-vibes-in-neon-pink-2r2tipwx5dtz5db8.jpg' alt='Baddie pink 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1091">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/queen-baddie-vibes-in-neon-pink-2r2tipwx5dtz5db8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Baddie Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baddie-aesthetic-cosmetic-products-and-accessories-s9dpn0m1eaijc8bk.jpg' alt='200+] Baddie Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baddie-aesthetic-cosmetic-products-and-accessories-s9dpn0m1eaijc8bk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Girly Baddie Aesthetic In Pink Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/0e/25/110e25ce1386506278fda4283432a9fa.jpg' alt='Download Girly Baddie Aesthetic In Pink Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/0e/25/110e25ce1386506278fda4283432a9fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caption: Embrace Your Inner Baddie With This Stylish Iphone Design ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/caption-embrace-your-inner-baddie-with-this-stylish-iphone-design-0oodnbtffn62ld6b.jpg' alt='Caption: Embrace Your Inner Baddie With This Stylish Iphone Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/caption-embrace-your-inner-baddie-with-this-stylish-iphone-design-0oodnbtffn62ld6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic baddie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' alt='Aesthetic baddie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49082479/r/il/c0f001/5653458308/il_570xN.5653458308_lyvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

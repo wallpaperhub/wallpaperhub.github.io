@@ -1,0 +1,129 @@
+<title>Understanding Background Extinction: Nature's Ongoing Process</title>
+                    <meta name="description" content="Explore background extinction—nature's subtle yet significant process of species loss that shapes our planet’s biodiversity. Learn how this gradual phenomenon differs from mass extinctions and understand the factors that contribute to this natural cycle of life.">
+                    <meta name="keywords" content="background extinction">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-extinction">
+                            <span itemprop="name">background extinction</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Background Extinction: Nature's Ongoing Process</h1>
+                <p>Background extinction refers to the normal, ongoing rate of species extinction that occurs due to natural processes, rather than drastic events. This slow, gradual loss of biodiversity is a part of Earth's evolutionary history, shaped by factors such as climate change, habitat loss, and ecological relationships, resulting in the natural turnover of species over time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Background Extinction Rate and How is it Calculated?">
+                                <img itemprop="contentUrl url" src='https://populationeducation.org/wp-content/uploads/2018/12/graph-of-extinction-rates-over-time.gif' alt='What is Background Extinction Rate and How is it Calculated?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Population Education" />
+                                </span>
+                                <a href='https://populationeducation.org/wp-content/uploads/2018/12/graph-of-extinction-rates-over-time.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Background Extinction Rate and How is it Calculated?">
+                                <img itemprop="contentUrl url" src='https://populationeducation.org/wp-content/uploads/2018/12/extinction-rates-114-years-graph.jpg' alt='What is Background Extinction Rate and How is it Calculated?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Population Education" />
+                                </span>
+                                <a href='https://populationeducation.org/wp-content/uploads/2018/12/extinction-rates-114-years-graph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference Between Background Extinction and Mass Extinction">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9iEBcwu3t_Q/maxresdefault.jpg' alt='Difference Between Background Extinction and Mass Extinction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9iEBcwu3t_Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Defining Background Extinction in the Modern Age">
+                                <img itemprop="contentUrl url" src='http://blog.everythingdinosaur.com/wp-content/uploads/2016/04/dinosaur_extinction_asteroid.jpg' alt='Defining Background Extinction in the Modern Age'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everything Dinosaur Blog" />
+                                </span>
+                                <a href='http://blog.everythingdinosaur.com/wp-content/uploads/2016/04/dinosaur_extinction_asteroid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Background Extinction Rate and How is it Calculated?">
+                                <img itemprop="contentUrl url" src='https://populationeducation.org/wp-content/uploads/2022/09/styracosaurus_dinosaur-public-domain.png' alt='What is Background Extinction Rate and How is it Calculated?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Population Education" />
+                                </span>
+                                <a href='https://populationeducation.org/wp-content/uploads/2022/09/styracosaurus_dinosaur-public-domain.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accelerated modern human–induced species losses: Entering the ...">
+                                <img itemprop="contentUrl url" src='https://www.science.org/cms/10.1126/sciadv.1400253/asset/0e397fd8-81cc-492b-af8e-90cd035b3aff/assets/graphic/1400253-f1.jpeg' alt='Accelerated modern human–induced species losses: Entering the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science" />
+                                </span>
+                                <a href='https://www.science.org/cms/10.1126/sciadv.1400253/asset/0e397fd8-81cc-492b-af8e-90cd035b3aff/assets/graphic/1400253-f1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference Between Mass Extinction and Background Extinction ...">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/www.differencebetween.com/wp-content/uploads/2014/09/Mass-Extinction_Difference-Between-Mass-Extinction-and-Background-Extinction.jpg' alt='Difference Between Mass Extinction and Background Extinction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Differencebetween.com" />
+                                </span>
+                                <a href='https://i1.wp.com/www.differencebetween.com/wp-content/uploads/2014/09/Mass-Extinction_Difference-Between-Mass-Extinction-and-Background-Extinction.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background extinction rates | World Biogeography Class Notes ...">
+                                <img itemprop="contentUrl url" src='https://library.fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Natural_vs_anthropogenic_extinction_rates_in_World_Biogeography%253A_causes_impacts_and_comparisons%2522-big_5_mass_extinctions_poster_by_budcharles-da7fk7g.png&w=828&q=75' alt='Background extinction rates | World Biogeography Class Notes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fiveable" />
+                                </span>
+                                <a href='https://library.fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Natural_vs_anthropogenic_extinction_rates_in_World_Biogeography%253A_causes_impacts_and_comparisons%2522-big_5_mass_extinctions_poster_by_budcharles-da7fk7g.png&w=828&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comparison of background extinction rates (1 species per 100 years ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/285807372/figure/fig2/AS:395798031421441@1471377012253/Comparison-of-background-extinction-rates-1-species-per-100-years-per-10-000-species.png' alt='Comparison of background extinction rates (1 species per 100 years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/285807372/figure/fig2/AS:395798031421441@1471377012253/Comparison-of-background-extinction-rates-1-species-per-100-years-per-10-000-species.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference Between Background Extinction and Mass Extinction ...">
+                                <img itemprop="contentUrl url" src='https://www.differencebetween.net/wp-content/uploads/2020/03/Background-Extinction-vs-Mass-Extinction.jpg' alt='Difference Between Background Extinction and Mass Extinction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DifferenceBetween.net" />
+                                </span>
+                                <a href='https://www.differencebetween.net/wp-content/uploads/2020/03/Background-Extinction-vs-Mass-Extinction.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

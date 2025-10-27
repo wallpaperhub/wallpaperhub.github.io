@@ -1,0 +1,129 @@
+<title>Premium Korn Wallpapers for iPhone | Download Now</title>
+                    <meta name="description" content="Discover unique Korn wallpapers for your iPhone! Explore our collection of vivid designs that showcase your favorite band and enhance your device's style. Perfect for every true fan. Download your exclusive wallpaper today and give your phone a fresh, eye-catching look!">
+                    <meta name="keywords" content="korn wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/korn-wallpaper-iphone">
+                            <span itemprop="name">korn wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Premium Korn Wallpapers for iPhone | Download Now</h1>
+                <p>Transform your iPhone with stunning Korn wallpaper that brings your love for the band to life! Choose from an array of vibrant designs featuring iconic album covers and band members. Perfect for true fans, these wallpapers will enhance your device's aesthetic while keeping your screen fresh and unique. Download now to showcase your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanded some album covers to make great phone wallpapers! : r/Korn">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-dezek3p98vtb1.png?width=640&crop=smart&auto=webp&s=32e2a17b36a54b6532774061f0582ab90617b739' alt='Expanded some album covers to make great phone wallpapers! : r/Korn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-dezek3p98vtb1.png?width=640&crop=smart&auto=webp&s=32e2a17b36a54b6532774061f0582ab90617b739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanded some album covers to make great phone wallpapers! : r/Korn">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-kqnkm5p98vtb1.png?width=1080&crop=smart&auto=webp&s=7924065e8642f1e22b191d35d7ea51dc45c28215' alt='Expanded some album covers to make great phone wallpapers! : r/Korn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-kqnkm5p98vtb1.png?width=1080&crop=smart&auto=webp&s=7924065e8642f1e22b191d35d7ea51dc45c28215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korn Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/84/99/bb8499b21f83c31c06f9d6f8fa88e7b8.jpg' alt='Korn Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/84/99/bb8499b21f83c31c06f9d6f8fa88e7b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korn Logo iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/843/137/HD-wallpaper-korn-logo-iphone.jpg' alt='Korn Logo iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/843/137/HD-wallpaper-korn-logo-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korn, rock, band, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/858/333/HD-wallpaper-korn-rock-band.jpg' alt='Korn, rock, band, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/858/333/HD-wallpaper-korn-rock-band.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 iPhone Korn wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/a5/d8/5da5d83c9e8f068a034fe9c642709f53.jpg' alt='iOS 16 iPhone Korn wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/a5/d8/5da5d83c9e8f068a034fe9c642709f53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Korn - 1690 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2011/04/12/www.mobilesmspk.net_korn_1690.jpg' alt='Download Free Mobile Phone Wallpaper Korn - 1690 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2011/04/12/www.mobilesmspk.net_korn_1690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanded some album covers to make great phone wallpapers! : r/Korn">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-ltb7u7p98vtb1.png?width=640&crop=smart&auto=webp&s=619a9681ca34bd8d8f6411a4b9d3d70df71f63a5' alt='Expanded some album covers to make great phone wallpapers! : r/Korn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/expanded-some-album-covers-to-make-great-phone-wallpapers-v0-ltb7u7p98vtb1.png?width=640&crop=smart&auto=webp&s=619a9681ca34bd8d8f6411a4b9d3d70df71f63a5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD korn wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/334/HD-wallpaper-the-nothing-korn-metal-thumbnail.jpg' alt='HD korn wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/334/HD-wallpaper-the-nothing-korn-metal-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korn wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/5d/3d/7c5d3d8d456d25fd59536867058234d0.jpg' alt='Korn wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/5d/3d/7c5d3d8d456d25fd59536867058234d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

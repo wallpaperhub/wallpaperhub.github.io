@@ -1,0 +1,129 @@
+<title>Stunning 4K Anime Wallpaper GIFs for Your Devices</title>
+                    <meta name="description" content="Enhance your device with amazing 4K anime wallpaper GIFs! Explore a vibrant collection of captivating animations that bring your favorite characters to life. Perfect for anime fans seeking dynamic and colorful backgrounds. Discover your ideal wallpaper today!">
+                    <meta name="keywords" content="4k anime wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-anime-wallpaper-gif">
+                            <span itemprop="name">4k anime wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Anime Wallpaper GIFs for Your Devices</h1>
+                <p>Discover stunning 4K anime wallpaper GIFs that bring your favorite characters to life! Perfect for fans looking to add dynamic visuals to their devices, our collection features vibrant colors and mesmerizing animations. Explore endless themes and style options, from action-packed scenes to serene landscapes. Elevate your backdrop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY | Anime wallpaper 1920x1080, Anime guys ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/72/99/2a/72992a41f68ee2816b1961d47df8e353.gif' alt='Find & Share on GIPHY | Anime wallpaper 1920x1080, Anime guys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/72/99/2a/72992a41f68ee2816b1961d47df8e353.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/47/6d/9f/476d9f1fc9bbe0955cb36c507dac9495.gif' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/47/6d/9f/476d9f1fc9bbe0955cb36c507dac9495.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sawunn GIF - Sawunn - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif' alt='Sawunn GIF - Sawunn - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Pc Wallpaper Gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif' alt='Anime Pc Wallpaper Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Dragon Ball Goku GIF Desktop Wallpaper - Anime GIF Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif' alt='   Dragon Ball Goku GIF Desktop Wallpaper - Anime GIF Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/77/d8/eb/77d8ebe7480ec98bc6e430690adfb266.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/77/d8/eb/77d8ebe7480ec98bc6e430690adfb266.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which one of these 3 gif's that I made should I use as a wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lqsxp8yitskb1.gif' alt='Which one of these 3 gif's that I made should I use as a wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lqsxp8yitskb1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live Wallpaper GIF - Anime Live Wallpaper - Discover & Share ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/69/11/d5/6911d58d377a159efeb3e3323e05f1f7.gif' alt='Anime Live Wallpaper GIF - Anime Live Wallpaper - Discover & Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/69/11/d5/6911d58d377a159efeb3e3323e05f1f7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/9-27-2023/MSXb5E.gif' alt='Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/9-27-2023/MSXb5E.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Boy Samurai Live Wallpaper by omayrmrx1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c9c3684-1124-4459-a82b-f1c63f6abf07/dgo05a4-ea8c4633-cf50-40ce-aec6-1f0f8b93e8bc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjOWMzNjg0LTExMjQtNDQ1OS1hODJiLWYxYzYzZjZhYmYwN1wvZGdvMDVhNC1lYThjNDYzMy1jZjUwLTQwY2UtYWVjNi0xZjBmOGI5M2U4YmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lOBaKSdXWWw6ft43cuUQLPLTBcupAvdNbqOWmnHq40c' alt='Anime Boy Samurai Live Wallpaper by omayrmrx1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c9c3684-1124-4459-a82b-f1c63f6abf07/dgo05a4-ea8c4633-cf50-40ce-aec6-1f0f8b93e8bc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjOWMzNjg0LTExMjQtNDQ1OS1hODJiLWYxYzYzZjZhYmYwN1wvZGdvMDVhNC1lYThjNDYzMy1jZjUwLTQwY2UtYWVjNi0xZjBmOGI5M2U4YmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lOBaKSdXWWw6ft43cuUQLPLTBcupAvdNbqOWmnHq40c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Hazbin Hotel Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of eye-catching Hazbin Hotel wallpapers for iPhone. Perfectly designed for fans, these vibrant backgrounds will make your device stand out. Download now for high-quality images featuring your favorite characters and scenes from the beloved series!">
+                    <meta name="keywords" content="hazbin hotel wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hazbin-hotel-wallpaper-iphone">
+                            <span itemprop="name">hazbin hotel wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hazbin Hotel Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone with stunning Hazbin Hotel wallpapers! Immerse yourself in the unique art style of this popular animated series. Choose from a variety of characters and vibrant scenes, perfect for expressing your fandom. These high-quality wallpapers will bring your device to life—download now and showcase your love for Hazbin Hotel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Hazbin hotel wallpaper ideas | hotel, hotel art, vivziepop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/2e/b7/2a2eb739cf8d3b1e16b10137d510c9bb.jpg' alt='21 Hazbin hotel wallpaper ideas | hotel, hotel art, vivziepop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/2e/b7/2a2eb739cf8d3b1e16b10137d510c9bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-ql5p9n0jgigc1.jpg?width=1170&format=pjpg&auto=webp&s=f734aa0e1291303d6cca6b9b12f7a6a481a02d10' alt='Show me your Hazbin Hotel lock screens/wallpapers! : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/show-me-your-hazbin-hotel-lock-screens-wallpapers-v0-ql5p9n0jgigc1.jpg?width=1170&format=pjpg&auto=webp&s=f734aa0e1291303d6cca6b9b12f7a6a481a02d10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-v0-k8nhbt3lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=731ef0aca92f209e94bccd8bbca9f2111cec7d95' alt='I made some phone wallpapers : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-v0-k8nhbt3lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=731ef0aca92f209e94bccd8bbca9f2111cec7d95' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Enchanting Cast of Hazbin Hotel Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/complete-hazbin-hotel-main-characters-inc9kaieghtexxy0.jpg' alt='Download The Enchanting Cast of Hazbin Hotel Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="832">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/complete-hazbin-hotel-main-characters-inc9kaieghtexxy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin hotel, monster, super, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/574/689/HD-wallpaper-hazbin-hotel-monster-super.jpg' alt='Hazbin hotel, monster, super, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/574/689/HD-wallpaper-hazbin-hotel-monster-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ️Hazbin Hotel Aesthetic Wallpaper  ️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/81/b6/4381b698ee780fce02ccf8b1486ffbde.jpg' alt='  ️Hazbin Hotel Aesthetic Wallpaper  ️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/81/b6/4381b698ee780fce02ccf8b1486ffbde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-v0-th7jle4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=e78211ccd2976782d51503290875e2bf83cf2e7f' alt='I made some phone wallpapers : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-v0-th7jle4lcmmc1.jpg?width=1170&format=pjpg&auto=webp&s=e78211ccd2976782d51503290875e2bf83cf2e7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6164883.jpg' alt='Hazbin Hotel iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6164883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enter the vivid world of Hazbin Hotel Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hazbin-hotel-devil-fan-art-hek0qbv6cd3r82yt.jpg' alt='Download Enter the vivid world of Hazbin Hotel Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="977">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hazbin-hotel-devil-fan-art-hek0qbv6cd3r82yt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel Characters 4K Wallpaper iPhone HD Phone #1890j">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/hazbin-hotel-characters-189@0@j-phone-4k.jpg' alt='Hazbin Hotel Characters 4K Wallpaper iPhone HD Phone #1890j'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/hazbin-hotel-characters-189@0@j-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

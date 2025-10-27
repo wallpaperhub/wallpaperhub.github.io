@@ -1,0 +1,129 @@
+<title>Roe v. Wade: Impact on Reproductive Rights</title>
+                    <meta name="description" content="Explore Roe v. Wade, the pivotal Supreme Court case that shaped abortion rights in America. Understand its significance, impact on women's rights, and ongoing relevance in today's legal and political landscape. Stay informed about the evolving discussions surrounding reproductive health and autonomy.">
+                    <meta name="keywords" content="roe v wade">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/roe-v-wade">
+                            <span itemprop="name">roe v wade</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Roe v. Wade: Impact on Reproductive Rights</h1>
+                <p>Roe v. Wade was a landmark 1973 Supreme Court case that established a woman's legal right to have an abortion under the Constitution's right to privacy. This decision intensified debates over reproductive rights and continues to influence American politics and public opinion on women's health and autonomy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roe v. Wade - Landmark Cases of the US Supreme Court">
+                                <img itemprop="contentUrl url" src='https://landmarkcases.org/wp-content/uploads/Roe-v-Wade.jpg' alt='Roe v. Wade - Landmark Cases of the US Supreme Court'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landmark Cases" />
+                                </span>
+                                <a href='https://landmarkcases.org/wp-content/uploads/Roe-v-Wade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Court overturns Roe v. Wade, ending right to abortion ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/06/07/gettyimages-1241142093-3917cf1e43471a125fb29b2ef28acc8033d8cca9.jpg' alt='Supreme Court overturns Roe v. Wade, ending right to abortion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7030">
+                                <meta itemprop="height" content="5272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/06/07/gettyimages-1241142093-3917cf1e43471a125fb29b2ef28acc8033d8cca9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Many Lives of Roe v Wade | BackStory with the American History ...">
+                                <img itemprop="contentUrl url" src='https://backstoryradio.org/wp-content/uploads/sites/12/2019/06/COPYRIGHT-RESTRICTED-AP_711120016-1024x697.jpg' alt='The Many Lives of Roe v Wade | BackStory with the American History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackStory with the American History Guys" />
+                                </span>
+                                <a href='https://backstoryradio.org/wp-content/uploads/sites/12/2019/06/COPYRIGHT-RESTRICTED-AP_711120016-1024x697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berkeley Voices: How Roe v. Wade radically changed American ...">
+                                <img itemprop="contentUrl url" src='https://news.berkeley.edu/wp-content/uploads/2022/06/abortion-is-a-right-750-01.jpg' alt='Berkeley Voices: How Roe v. Wade radically changed American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkeley News" />
+                                </span>
+                                <a href='https://news.berkeley.edu/wp-content/uploads/2022/06/abortion-is-a-right-750-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Roe v. Wade? Everything you need to know">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2018_23/1907051/170218-allred-mccorvey-supreme-court-cb-1619.jpg' alt='What is Roe v. Wade? Everything you need to know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2018_23/1907051/170218-allred-mccorvey-supreme-court-cb-1619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roe v Wade 50th Anniversary: The Past, Present, Future of Abortion ...">
+                                <img itemprop="contentUrl url" src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUi259CXwez0/v1/-1x-1.webp' alt='Roe v Wade 50th Anniversary: The Past, Present, Future of Abortion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg News" />
+                                </span>
+                                <a href='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUi259CXwez0/v1/-1x-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roe v. Wade has been the law of the land for nearly 50 years. Will ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/211129162427-1973-roe-v-wade-protest-minnesota.jpg?q=w_2500,h_1708,x_0,y_0,c_fill' alt='Roe v. Wade has been the law of the land for nearly 50 years. Will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/211129162427-1973-roe-v-wade-protest-minnesota.jpg?q=w_2500,h_1708,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roe v Wade: Supreme Court decision highlights US abortion divide">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2022/06/Roe.jpg?resize=770%2C513&quality=80' alt='Roe v Wade: Supreme Court decision highlights US abortion divide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2022/06/Roe.jpg?resize=770%2C513&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Roe v Wade Means for Human Rights | Human Rights Watch">
+                                <img itemprop="contentUrl url" src='https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2022/05/202205us_womensrights_abortion_protest.jpg?itok=qyD0OhSo' alt='What Roe v Wade Means for Human Rights | Human Rights Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Human Rights Watch" />
+                                </span>
+                                <a href='https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2022/05/202205us_womensrights_abortion_protest.jpg?itok=qyD0OhSo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roe v Wade: What is US Supreme Court ruling on abortion?">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/1024/branded_news/11E04/production/_124402237_roe2.jpg' alt='Roe v Wade: What is US Supreme Court ruling on abortion?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/1024/branded_news/11E04/production/_124402237_roe2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ed Sheeran: The Voice of a Generation</title>
+                    <meta name="description" content="Discover the magic of Ed Sheeran, the British pop sensation known for his soulful melodies and captivating lyrics. From chart-topping hits to live performances, explore his journey and impact on modern music.">
+                    <meta name="keywords" content="ed sheeran">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ed-sheeran">
+                            <span itemprop="name">ed sheeran</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ed Sheeran: The Voice of a Generation</h1>
+                <p>Ed Sheeran is a British singer-songwriter renowned for his soulful voice and heartfelt lyrics. Bursting onto the scene with hits like "Shape of You" and "Perfect," he blends folk, pop, and R&B influences. His storytelling ability and relatable themes have captivated fans worldwide, making him a defining artist of the decade.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/1200px-Ed_Sheeran-6886_%28cropped%29.jpg' alt='Ed Sheeran - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/1200px-Ed_Sheeran-6886_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_FMjpg_UX1000_.jpg' alt='Ed Sheeran - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran | Biography, Songs, Wife, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg' alt='Ed Sheeran | Biography, Songs, Wife, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran | Ed Sheeran Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/edsheeran/images/2/25/Ed_sheeran_billboard.jpg/revision/latest?cb=20190602132135' alt='Ed Sheeran | Ed Sheeran Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ed Sheeran Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/edsheeran/images/2/25/Ed_sheeran_billboard.jpg/revision/latest?cb=20190602132135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran shares very rare look inside eccentric home with ...">
+                                <img itemprop="contentUrl url" src='https://images.hellomagazine.com/horizon/landscape/df341f077f91-ed-sheeran-home-video-t.jpg' alt='Ed Sheeran shares very rare look inside eccentric home with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HELLO! Magazine" />
+                                </span>
+                                <a href='https://images.hellomagazine.com/horizon/landscape/df341f077f91-ed-sheeran-home-video-t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran Releases Sweet New Song After Birth of Newborn Daughter">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/2022427/rs_1200x1200-220527094835-1200-ed_sheeran_cherry_seaborn-gj.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' alt='Ed Sheeran Releases Sweet New Song After Birth of Newborn Daughter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/2022427/rs_1200x1200-220527094835-1200-ed_sheeran_cherry_seaborn-gj.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Ed Sheeran">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044477407527' alt='Profile for Ed Sheeran'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044477407527' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ed Sheeran - Songs, Wife & Age">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ed-sheeran-GettyImages-494227430_1600.jpg?crop=1xw:1.0xh;center,top&resize=1200:*' alt='Ed Sheeran - Songs, Wife & Age'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ed-sheeran-GettyImages-494227430_1600.jpg?crop=1xw:1.0xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Ed Sheeran Really Writes Songs">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/05/ed-sheeran-songwriting.jpg?w=1581&h=1054&crop=1' alt='How Ed Sheeran Really Writes Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/05/ed-sheeran-songwriting.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overall what's your opinion on Ed Sheeran? : r/popculturechat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/overall-whats-your-opinion-on-ed-sheeran-v0-lfj4ky23xnja1.jpg?width=640&crop=smart&auto=webp&s=e6d21aa980c53aca3fa879fac2e6f7c3558a02c4' alt='Overall what's your opinion on Ed Sheeran? : r/popculturechat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/overall-whats-your-opinion-on-ed-sheeran-v0-lfj4ky23xnja1.jpg?width=640&crop=smart&auto=webp&s=e6d21aa980c53aca3fa879fac2e6f7c3558a02c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

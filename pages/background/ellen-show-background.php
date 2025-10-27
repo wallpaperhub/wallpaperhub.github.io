@@ -1,0 +1,129 @@
+<title>The Ellen Show: A Journey Through Laughter and Kindness</title>
+                    <meta name="description" content="Discover the vibrant world of The Ellen Show, a daytime television phenomenon featuring celebrity interviews, uplifting stories, and Ellen DeGeneres' signature humor. Join us as we explore the show's impact on audiences and its legacy of positivity and kindness.">
+                    <meta name="keywords" content="ellen show background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ellen-show-background">
+                            <span itemprop="name">ellen show background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Ellen Show: A Journey Through Laughter and Kindness</h1>
+                <p>The Ellen Show, hosted by Ellen DeGeneres, premiered in 2003 and quickly became a staple of daytime television. Known for its vibrant atmosphere, celebrity interviews, and heartwarming human interest segments, the show fosters positivity and kindness. Ellen's unique humor and relatable personality drew in millions of viewers worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's 'About Time' for Ellen DeGeneres's comeback - The Boston Globe">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TGGQGQIAW6SKZALXOG633Y4VUU.jpg' alt='It's 'About Time' for Ellen DeGeneres's comeback - The Boston Globe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Boston Globe" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TGGQGQIAW6SKZALXOG633Y4VUU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ellen DeGeneres Show', 'The Wendy Williams Show' & 'Rachael ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2020/04/ellen_michael-rozman-warner-bros.jpg?w=1024' alt='The Ellen DeGeneres Show', 'The Wendy Williams Show' & 'Rachael ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2020/04/ellen_michael-rozman-warner-bros.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellen DeGeneres Loses 1 Million Viewers After Apologies for Toxic ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/03/23/business/22ELLEN-DEGENERES-PRINT/merlin_175130352_e0e50312-7d7f-4e07-8356-512560d562c5-videoSixteenByNineJumbo1600.jpg?year=2021&h=899&w=1600&s=050c1675244f65aa896e99daf9eebcac0e637c815cd69d373ddb5bf8da7ac4d0&k=ZQJBKqZ0VN&tw=1' alt='Ellen DeGeneres Loses 1 Million Viewers After Apologies for Toxic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/03/23/business/22ELLEN-DEGENERES-PRINT/merlin_175130352_e0e50312-7d7f-4e07-8356-512560d562c5-videoSixteenByNineJumbo1600.jpg?year=2021&h=899&w=1600&s=050c1675244f65aa896e99daf9eebcac0e637c815cd69d373ddb5bf8da7ac4d0&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Keith Urban's Performance of 'Blue Ain't Your Color' on 'Ellen'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2022/05/Rozman_20220418_19129_0887r.jpg' alt='Watch Keith Urban's Performance of 'Blue Ain't Your Color' on 'Ellen''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2022/05/Rozman_20220418_19129_0887r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ellen DeGeneres Show Broadcast Set Design Gallery">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/uploads/2014/09/ncs_ellen_02.jpg' alt='The Ellen DeGeneres Show Broadcast Set Design Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/uploads/2014/09/ncs_ellen_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellen DeGeneres Explains Why She's Living in Courteney Cox's House ...">
+                                <img itemprop="contentUrl url" src='https://media.ktvb.com/assets/ETONLINE/images/4c8fa874-22c2-4171-a2da-6172e1b92b3e/4c8fa874-22c2-4171-a2da-6172e1b92b3e_750x422.jpg' alt='Ellen DeGeneres Explains Why She's Living in Courteney Cox's House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KTVB" />
+                                </span>
+                                <a href='https://media.ktvb.com/assets/ETONLINE/images/4c8fa874-22c2-4171-a2da-6172e1b92b3e/4c8fa874-22c2-4171-a2da-6172e1b92b3e_750x422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellen Pays Tribute to Her Late Father">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mQdBJGlnQYs/maxresdefault.jpg' alt='Ellen Pays Tribute to Her Late Father'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mQdBJGlnQYs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellen DeGeneres | Biography, TV Shows, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/63/160163-050-3A97ECA6/Michelle-Obama-Ellen-DeGeneres-Show-2012.jpg' alt='Ellen DeGeneres | Biography, TV Shows, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/63/160163-050-3A97ECA6/Michelle-Obama-Ellen-DeGeneres-Show-2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ellen DeGeneres Show Broadcast Set Design Gallery">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/gallery/ellen-season-12/ncs_ellen_04.JPG' alt='The Ellen DeGeneres Show Broadcast Set Design Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/gallery/ellen-season-12/ncs_ellen_04.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellen Attempts to Make Up for Her Failed Anniversary Present to Portia">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6GfWyl-OVsw/maxresdefault.jpg' alt='Ellen Attempts to Make Up for Her Failed Anniversary Present to Portia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6GfWyl-OVsw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

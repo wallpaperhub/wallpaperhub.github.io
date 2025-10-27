@@ -1,0 +1,129 @@
+<title>Anime Cherry Blossom Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of vibrant anime cherry blossom wallpapers designed for your iPhone. These stunning visuals blend the beauty of anime with the elegance of cherry blossoms, perfect for enhancing your device's aesthetic. Download now to bring a unique charm to your screen!">
+                    <meta name="keywords" content="iphone:jfnjjphj9zk= anime cherry blossom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonejfnjjphj9zk-anime-cherry-blossom-wallpaper">
+                            <span itemprop="name">iphone:jfnjjphj9zk= anime cherry blossom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anime Cherry Blossom Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning anime cherry blossom wallpapers that capture the essence of beauty and tranquility. These high-resolution images bring a touch of nostalgia and serenity to your screen, featuring vibrant colors and intricate details. Perfect for anime fans and nature lovers alike, refresh your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Cherry Blossoms Japanese Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-cherry-blossoms-japanese-iphone-oydfs9niiwk9sd1d.jpg' alt='Anime Cherry Blossoms Japanese Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-cherry-blossoms-japanese-iphone-oydfs9niiwk9sd1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/thumb-1920-1009804.png' alt='Cherry Blossom iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/thumb-1920-1009804.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Tree Anime Japanese Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cherry-blossom-tree-anime-japanese-iphone-cyj7pbqwxve74qbt.jpg' alt='Cherry Blossom Tree Anime Japanese Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cherry-blossom-tree-anime-japanese-iphone-cyj7pbqwxve74qbt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom, Nele Diel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/0f/ac/580fac77dcdde1882272420089547bd0.jpg' alt='Cherry Blossom, Nele Diel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/0f/ac/580fac77dcdde1882272420089547bd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Cherry blossoms iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-wallpapers/download/32894/Anime-Dreamy-Girl-Step-iphone-wallpaper-ilikewallpaper_com.jpg' alt='Best Cherry blossoms iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-wallpapers/download/32894/Anime-Dreamy-Girl-Step-iphone-wallpaper-ilikewallpaper_com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Cherry Blossom Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-cherry-blossom-background-yaxsloeuyc5a8hon.jpg' alt='100+] Anime Cherry Blossom Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1109">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-cherry-blossom-background-yaxsloeuyc5a8hon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Fuji Cherry Blossom 4K Wallpaper iPhone HD Phone #6801k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/mount-fuji-cherry-blossom-scenery-anime-art-680@1@k-phone-4k.jpg' alt='Mount Fuji Cherry Blossom 4K Wallpaper iPhone HD Phone #6801k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/mount-fuji-cherry-blossom-scenery-anime-art-680@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/1012071.png' alt='Cherry Blossom iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1632">
+                                <meta itemprop="height" content="2912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/1012071.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese iPhone Wallpaper with Cherry Blossom Trees and Waterfall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/6f/ee/796feeab935b44d0367bc869403ec055.jpg' alt='Japanese iPhone Wallpaper with Cherry Blossom Trees and Waterfall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/6f/ee/796feeab935b44d0367bc869403ec055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime landscape, spring, cherry blossom, sakura bloom, trees, path ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/211/604/HD-wallpaper-sakura-tree-cherry-blossom-tree.jpg' alt='Anime landscape, spring, cherry blossom, sakura bloom, trees, path ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/211/604/HD-wallpaper-sakura-tree-cherry-blossom-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

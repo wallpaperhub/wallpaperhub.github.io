@@ -1,0 +1,129 @@
+<title>High-Quality Rectangular Prism PNG Images for Easy Download</title>
+                    <meta name="description" content="Discover a variety of rectangular prism PNG images with transparent backgrounds. Ideal for designs, education, and presentations. Fast download, high-quality graphics. Perfect for all your creative needs!">
+                    <meta name="keywords" content="rectangular prism png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rectangular-prism-png">
+                            <span itemprop="name">rectangular prism png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Rectangular Prism PNG Images for Easy Download</h1>
+                <p>Explore our collection of high-quality rectangular prism PNG images, perfect for your design projects, educational materials, or presentations. These transparent background images are easy to integrate into various graphics and software, making them ideal for teachers, students, and professionals alike. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rectangular Prism Icons - Free SVG & PNG Rectangular Prism Images ...">
+                                <img itemprop="contentUrl url" src='https://static.thenounproject.com/png/834860-200.png' alt='Rectangular Prism Icons - Free SVG & PNG Rectangular Prism Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Noun Project" />
+                                </span>
+                                <a href='https://static.thenounproject.com/png/834860-200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Rectangular Prism Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/813638668/vector/rectangular-prism-vector.jpg?s=612x612&w=0&k=20&c=OWK51pyqJeWzmB0B_U5IvSgLsOl2qvdBm-OiYso92ko=' alt='1,600+ Rectangular Prism Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/813638668/vector/rectangular-prism-vector.jpg?s=612x612&w=0&k=20&c=OWK51pyqJeWzmB0B_U5IvSgLsOl2qvdBm-OiYso92ko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rectangular Prism - Rectangular Prism Geometric Shape - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180419/vbw/avf7cjlq6.webp' alt='Rectangular Prism - Rectangular Prism Geometric Shape - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180419/vbw/avf7cjlq6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Rectangular Prism, and How Do You Find Its Volume?">
+                                <img itemprop="contentUrl url" src='https://studybay.com/assets/marketing/blog/rectangular-prism/rectangular-prism.png' alt='What Is a Rectangular Prism, and How Do You Find Its Volume?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studybay" />
+                                </span>
+                                <a href='https://studybay.com/assets/marketing/blog/rectangular-prism/rectangular-prism.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Clipart Rectangular Prism | Free Images at Clker.com - vector ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/5/8/d/2/1516384790159118386free-clipart-rectangular-prism.med.png' alt='Free Clipart Rectangular Prism | Free Images at Clker.com - vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/5/8/d/2/1516384790159118386free-clipart-rectangular-prism.med.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Right Rectangular Prism | ClipArt ETC">
+                                <img itemprop="contentUrl url" src='https://etc.usf.edu/clipart/43100/43150/prism-quad20_43150_lg.gif' alt='Right Rectangular Prism | ClipArt ETC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Center for Instructional Technology - University of South ..." />
+                                </span>
+                                <a href='https://etc.usf.edu/clipart/43100/43150/prism-quad20_43150_lg.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rectangular Prism - Definition, Properties, Types, Formulas, Area ...">
+                                <img itemprop="contentUrl url" src='https://cdn1.byjus.com/wp-content/uploads/2021/11/Rectangular-Prism-1.png' alt='Rectangular Prism - Definition, Properties, Types, Formulas, Area ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BYJU'S" />
+                                </span>
+                                <a href='https://cdn1.byjus.com/wp-content/uploads/2021/11/Rectangular-Prism-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic White Rectangular Prism PNG Images & PSDs for Download ...">
+                                <img itemprop="contentUrl url" src='https://atlas-content-cdn.pixelsquid.com/assets_v2/312/3126741201374417972/jpeg-600/G03.jpg?modifiedAt=1' alt='Basic White Rectangular Prism PNG Images & PSDs for Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='https://atlas-content-cdn.pixelsquid.com/assets_v2/312/3126741201374417972/jpeg-600/G03.jpg?modifiedAt=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Rectangular Prism Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1058465616/vector/isolated-rectangular-prism-illustration.jpg?s=612x612&w=0&k=20&c=wKkY2jp671PxE4foDn0v6ctEhyrcuXsY0ObnWJ_6o_Y=' alt='1,600+ Rectangular Prism Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1058465616/vector/isolated-rectangular-prism-illustration.jpg?s=612x612&w=0&k=20&c=wKkY2jp671PxE4foDn0v6ctEhyrcuXsY0ObnWJ_6o_Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rectangular Prism | Definition & Examples - Lesson | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/cuboid_simple.svg2589038986302471197.png' alt='Rectangular Prism | Definition & Examples - Lesson | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/cuboid_simple.svg2589038986302471197.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

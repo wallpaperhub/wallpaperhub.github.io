@@ -1,0 +1,129 @@
+<title>How to Perform Background Checks Without an SSN</title>
+                    <meta name="description" content="Learn effective methods to conduct background checks without a Social Security Number. Discover tips on utilizing public records and online databases while ensuring legal compliance. Get started today with alternative verification methods for accurate and reliable background information!">
+                    <meta name="keywords" content="background check without ssn">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-without-ssn">
+                            <span itemprop="name">background check without ssn</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Perform Background Checks Without an SSN</h1>
+                <p>Conducting a background check without a Social Security Number (SSN) can be challenging, but it is possible. You can utilize alternative methods such as checking public records, utilizing online databases, and obtaining consent for verification from individuals. Always ensure compliance with legal regulations while carrying out these checks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I complete a background check without providing my SSN?">
+                                <img itemprop="contentUrl url" src='https://help.sterlingvolunteers.com/hs-fs/hubfs/VV%20CX-%20Knowledge%20Base/SV%20Rebrand/no%20SSN.png?width=634&name=no%20SSN.png' alt='Can I complete a background check without providing my SSN?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Center - Sterling Volunteers" />
+                                </span>
+                                <a href='https://help.sterlingvolunteers.com/hs-fs/hubfs/VV%20CX-%20Knowledge%20Base/SV%20Rebrand/no%20SSN.png?width=634&name=no%20SSN.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is a background check without a social security number possible?">
+                                <img itemprop="contentUrl url" src='https://www.securecheck360.com/wp-content/uploads/2023/04/Is-a-background-check-without-a-social-security-number-possible.webp' alt='Is a background check without a social security number possible?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecureCheck360" />
+                                </span>
+                                <a href='https://www.securecheck360.com/wp-content/uploads/2023/04/Is-a-background-check-without-a-social-security-number-possible.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening without a Social Security Number | Applycheck">
+                                <img itemprop="contentUrl url" src='https://www.applycheck.com/wp-content/uploads/2017/09/Background-Screening-without-a-Social-Security-Number-Image.jpg' alt='Background Screening without a Social Security Number | Applycheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Applycheck" />
+                                </span>
+                                <a href='https://www.applycheck.com/wp-content/uploads/2017/09/Background-Screening-without-a-Social-Security-Number-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/06/i09_forms-NEW-June-2013-picture.png' alt='Social Security – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/06/i09_forms-NEW-June-2013-picture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Tenant Screening Without Social Security Number Possible?">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2021/08/tenant-screening-without-social-security-number.jpg' alt='Is Tenant Screening Without Social Security Number Possible?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2021/08/tenant-screening-without-social-security-number.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ssn Background Check Free">
+                                <img itemprop="contentUrl url" src='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/0.jpg' alt='Ssn Background Check Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Future: Free Background Check Powered by Checkr — My Money Blog">
+                                <img itemprop="contentUrl url" src='https://www.mymoneyblog.com/wordpress/wp-content/uploads/2020/01/betterfuture2.gif' alt='Better Future: Free Background Check Powered by Checkr — My Money Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Money Blog" />
+                                </span>
+                                <a href='https://www.mymoneyblog.com/wordpress/wp-content/uploads/2020/01/betterfuture2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ssn Background Check Free">
+                                <img itemprop="contentUrl url" src='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/1.jpg' alt='Ssn Background Check Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://ssn-background-check-free.govbackgroundchecks.com/screenshots/ssn-background-check-free/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I Run a Background Check without a Social Security Number?">
+                                <img itemprop="contentUrl url" src='https://www.addictivetips.com/app/uploads/2020/02/SSN-background-check.png' alt='Can I Run a Background Check without a Social Security Number?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AddictiveTips" />
+                                </span>
+                                <a href='https://www.addictivetips.com/app/uploads/2020/02/SSN-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Process | PSI Background Check">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2020/03/xUvn1XBx9YqMDqBfnjUXGyYRDUHAE2fp1582732757.jpg' alt='Background Check Process | PSI Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2020/03/xUvn1XBx9YqMDqBfnjUXGyYRDUHAE2fp1582732757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

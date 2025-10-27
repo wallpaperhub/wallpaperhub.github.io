@@ -1,0 +1,129 @@
+<title>Charming Kirby Wallpaper for iPhone: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover the cutest Kirby wallpapers for your iPhone! Choose from an array of vibrant designs featuring Kirby and friends to personalize your device. Perfect for fans who want to add a touch of fun and nostalgia to their screens with every glance!">
+                    <meta name="keywords" content="kirby wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/kirby-wallpaper-iphone">
+                            <span itemprop="name">kirby wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Kirby Wallpaper for iPhone: Brighten Your Screen!</h1>
+                <p>Transform your iPhone with adorable Kirby wallpaper! Whether you're a long-time fan of the pink puffball or just love his charming adventures, discover a variety of vibrant and playful designs that bring joy to your screen. Enhance your device's aesthetic with whimsical Kirby art and showcase your personality with every unlock!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper if you want it : r/Kirby">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-wallpaper-if-you-want-it-v0-3xzhyopqc43e1.jpeg?width=1080&crop=smart&auto=webp&s=7cf3f6364d464327751cc208e0519b82e7c43561' alt='Phone wallpaper if you want it : r/Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-wallpaper-if-you-want-it-v0-3xzhyopqc43e1.jpeg?width=1080&crop=smart&auto=webp&s=7cf3f6364d464327751cc208e0519b82e7c43561' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/de/81/a2de8103055dbc8b24a6d14b7a9dae1e.jpg' alt='Kirby wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/de/81/a2de8103055dbc8b24a6d14b7a9dae1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Kirby iphone wallpapers | Kirby Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6195/4cbfacab41c5528ac6fb01c9e9b731ffa4add1ca_hq.jpg' alt='Official Kirby iphone wallpapers | Kirby Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6195/4cbfacab41c5528ac6fb01c9e9b731ffa4add1ca_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby's 30th Anniversary Kirby Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/05/kirby-30th-kirby-01-1284x2778-1.jpg' alt='Kirby's 30th Anniversary Kirby Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/05/kirby-30th-kirby-01-1284x2778-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Premium Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kirby-10_63862544126471.7.jpg' alt='Kirby Premium Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kirby-10_63862544126471.7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11273600.png' alt='Kirby iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11273600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f3/8e/86/f38e8695aa6fda8fbab8242939af7e8b.jpg' alt='Kirby wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f3/8e/86/f38e8695aa6fda8fbab8242939af7e8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="POYO! A phone wallpaper i've made, feel free to use it! : r/Kirby">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/owd7ifrkcy561.png' alt='POYO! A phone wallpaper i've made, feel free to use it! : r/Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/owd7ifrkcy561.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kolpaper Wallpaper - Kirby iPhone Wallpaper Download: https://www ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=134050555416088' alt='Kolpaper Wallpaper - Kirby iPhone Wallpaper Download: https://www ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=134050555416088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="az54-kirby-pink-face-cute-illustration-art-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-az54-kirby-pink-face-cute-illustration-art-33-iphone6-wallpaper.jpg' alt='az54-kirby-pink-face-cute-illustration-art-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-az54-kirby-pink-face-cute-illustration-art-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

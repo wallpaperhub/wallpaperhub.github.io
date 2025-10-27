@@ -1,0 +1,129 @@
+<title>Explore the Neon Future: Cyberpunk 2077 Background</title>
+                    <meta name="description" content="Dive into the captivating world of Cyberpunk 2077. Discover the rich background of Night City, a futuristic metropolis filled with danger, advanced technology, and complex characters. Unravel the game's themes of power and identity in a society driven by cybernetic enhancement and corporate greed.">
+                    <meta name="keywords" content="cyberpunk 2077 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cyberpunk-2077-background">
+                            <span itemprop="name">cyberpunk 2077 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Neon Future: Cyberpunk 2077 Background</h1>
+                <p>Cyberpunk 2077 is set in Night City, a sprawling metropolis in a dystopian future where technology and body modification are prevalent. As players navigate this neon-lit world, they encounter conflicts between mega-corporations, street gangs, and diverse factions. The game explores themes of power, identity, and the implications of an advanced tech society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Dynamic Background For Xbox Series X|S! : r/XboxSeriesX">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cyberpunk-2077-dynamic-background-for-xbox-series-x-s-v0-7pqh48g79fdc1.jpeg?width=1080&crop=smart&auto=webp&s=d18411abe53b061e3b2ccb4affd0ca42c87e1191' alt='Cyberpunk 2077 Dynamic Background For Xbox Series X|S! : r/XboxSeriesX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cyberpunk-2077-dynamic-background-for-xbox-series-x-s-v0-7pqh48g79fdc1.jpeg?width=1080&crop=smart&auto=webp&s=d18411abe53b061e3b2ccb4affd0ca42c87e1191' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mdvmefeejg331.jpg' alt='Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mdvmefeejg331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Official Hi-Res Wallpaper Released by CD Projekt ...">
+                                <img itemprop="contentUrl url" src='https://assets1.ignimgs.com/2019/08/27/a-mercenary-on-the-rise-en-1566871767331.jpg' alt='Cyberpunk 2077 Official Hi-Res Wallpaper Released by CD Projekt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets1.ignimgs.com/2019/08/27/a-mercenary-on-the-rise-en-1566871767331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1440p Cyberpunk 2077 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-xalsmxcwj8dpnet9.jpg' alt='100+] 1440p Cyberpunk 2077 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-xalsmxcwj8dpnet9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite cyberpunk wallpaper: Cyberpunk City : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dxkfboy5zotz.jpg?width=640&crop=smart&auto=webp&s=fa6435bd0f8721b759ed977a21aaa7cd425732dd' alt='My favorite cyberpunk wallpaper: Cyberpunk City : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dxkfboy5zotz.jpg?width=640&crop=smart&auto=webp&s=fa6435bd0f8721b759ed977a21aaa7cd425732dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/f/2615-3840x2160-desktop-4k-cyberpunk-2077-wallpaper-image.jpg' alt='Cyberpunk 2077 Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/f/2615-3840x2160-desktop-4k-cyberpunk-2077-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741574591783688/9C6BAD68B0072EBC34EAEE00DEE08662DE28BB27/' alt='Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741574591783688/9C6BAD68B0072EBC34EAEE00DEE08662DE28BB27/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Futuristic City Highway - 4K Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/112/1125856.jpg' alt='Cyberpunk 2077 Futuristic City Highway - 4K Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/112/1125856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Cyberpunk-2077-Sci-fi-city-from-299.jpg' alt='Cyberpunk 2077 | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Cyberpunk-2077-Sci-fi-city-from-299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Geralt Crossover Cosplay 1440p Cyberpunk 2077 Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-1f2dxzzdj20l2385.jpg' alt='Download Geralt Crossover Cosplay 1440p Cyberpunk 2077 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-1f2dxzzdj20l2385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

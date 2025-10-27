@@ -1,0 +1,129 @@
+<title>Goku Basketball Wallpaper: Slam Dunk Your Screen!</title>
+                    <meta name="description" content="Discover the best Goku basketball wallpapers to energize your device! Dive into a fusion of epic anime action and sports flair. Perfect for enthusiasts wanting to showcase their love for Dragon Ball Z and basketball. Download now and elevate your screen experience!">
+                    <meta name="keywords" content="goku basketball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-basketball-wallpaper">
+                            <span itemprop="name">goku basketball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goku Basketball Wallpaper: Slam Dunk Your Screen!</h1>
+                <p>Transform your device with stunning Goku basketball wallpaper that captures the excitement of both basketball and anime. Featuring vibrant colors and dynamic poses, these wallpapers bring your favorite character to life on the court. Perfect for fans of Dragon Ball Z and sports alike, elevate your screens today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/09/2f/9e/092f9e52e1e3728c8c371395e6746f59.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/09/2f/9e/092f9e52e1e3728c8c371395e6746f59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No hay descripción de la foto disponible.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/ee/67/f6ee67a7a86346339ff4fd8cb8d3a591.jpg' alt='No hay descripción de la foto disponible.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/ee/67/f6ee67a7a86346339ff4fd8cb8d3a591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketballer Goku by TicoDrawing on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/fe/78/6dfe7827f2439322be10986d6702c66d.jpg' alt='Basketballer Goku by TicoDrawing on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1097">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/fe/78/6dfe7827f2439322be10986d6702c66d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Playing Basketball #supersaiyan , Which Player Is Goku?     , Credit:  @magichourai , Follow: @basketball_pattern , #dragonballz #goku #bball  #vegeta #fiba #basketball #dragonballsuper #dragonball ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3198588120684496085' alt='Goku Playing Basketball #supersaiyan , Which Player Is Goku?     , Credit:  @magichourai , Follow: @basketball_pattern , #dragonballz #goku #bball  #vegeta #fiba #basketball #dragonballsuper #dragonball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3198588120684496085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9009269.jpg' alt='Goku Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9009269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Super Saiyan God Super Saiyan 2 Swag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/e6/22/68e6227da08cc07590cbb78cff1947a7.jpg' alt='Goku Super Saiyan God Super Saiyan 2 Swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/e6/22/68e6227da08cc07590cbb78cff1947a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball goku Royalty Free Vector Image - VectorStock">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/09/10/basketball-goku-vector-53960910.jpg' alt='Basketball goku Royalty Free Vector Image - VectorStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/09/10/basketball-goku-vector-53960910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The only basketball player in Universe 7 who is undefeated in All ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1110568250731991' alt='The only basketball player in Universe 7 who is undefeated in All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1110568250731991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku with the Magic | Basketball anime, Anime style, Dragon ball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/68/bc/7068bc057c8b2e1d564ad533bdd2574d.jpg' alt='Goku with the Magic | Basketball anime, Anime style, Dragon ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/68/bc/7068bc057c8b2e1d564ad533bdd2574d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Cartoon Goku Wearing Bulls 23 Jersey Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-cartoon-goku-wearing-bulls-23-jersey-pusgcnamdqgmzytz.jpg' alt='Download Anime Cartoon Goku Wearing Bulls 23 Jersey Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1550">
+                                <meta itemprop="height" content="1550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-cartoon-goku-wearing-bulls-23-jersey-pusgcnamdqgmzytz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

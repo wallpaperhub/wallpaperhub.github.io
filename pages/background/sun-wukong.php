@@ -1,0 +1,129 @@
+<title>Discovering Sun Wukong: The Legendary Monkey King</title>
+                    <meta name="description" content="Explore the fascinating world of Sun Wukong, the Monkey King, a legendary figure in Chinese mythology. Learn about his adventures, magical powers, and his role in "Journey to the West." Dive into this enchanting tale that showcases rebellion and the quest for wisdom.">
+                    <meta name="keywords" content="sun wukong">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sun-wukong">
+                            <span itemprop="name">sun wukong</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Sun Wukong: The Legendary Monkey King</h1>
+                <p>Sun Wukong, also known as the Monkey King, is a legendary figure from Chinese mythology and literature, particularly in the classic novel "Journey to the West." Renowned for his incredible strength, agility, and magical powers, he defies the heavens, battles demons, and seeks enlightenment. His character embodies themes of rebellion, loyalty, and the pursuit of knowledge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wukong - Official SMITE Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/smite_gamepedia/images/5/5c/T_SunWukong_Default_Card.png/revision/latest/scale-to-width-down/340?cb=20131023111607' alt='Sun Wukong - Official SMITE Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smite Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/smite_gamepedia/images/5/5c/T_SunWukong_Default_Card.png/revision/latest/scale-to-width-down/340?cb=20131023111607' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wukong | The Demonic Paradise Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-demonic-paradise/images/e/ec/Sage_of_Heaven.jpg/revision/latest?cb=20170113001942' alt='Sun Wukong | The Demonic Paradise Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Demonic Paradise Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-demonic-paradise/images/e/ec/Sage_of_Heaven.jpg/revision/latest?cb=20170113001942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wukong:Monkey King Story In Chinese Mythology – Chinese showcase">
+                                <img itemprop="contentUrl url" src='http://www.chinese-showcase.com/cdn/shop/articles/Sun_Wukong.jpg?v=1724776164' alt='Sun Wukong:Monkey King Story In Chinese Mythology – Chinese showcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chinese showcase" />
+                                </span>
+                                <a href='http://www.chinese-showcase.com/cdn/shop/articles/Sun_Wukong.jpg?v=1724776164' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wukong (Mythology) | Omniversal Battlefield Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/omniversal-battlefield/images/7/73/Sun_Wukong_%28Art%29.jpg/revision/latest/scale-to-width-down/500?cb=20210823031548' alt='Sun Wukong (Mythology) | Omniversal Battlefield Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Omniversal Battlefield Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/omniversal-battlefield/images/7/73/Sun_Wukong_%28Art%29.jpg/revision/latest/scale-to-width-down/500?cb=20210823031548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My first 2 hours with Black Myth: Wukong were a flurry of ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/FCY9PcBrhN3pfoNV7FfFTQ-1200-80.jpg' alt='My first 2 hours with Black Myth: Wukong were a flurry of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/FCY9PcBrhN3pfoNV7FfFTQ-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sun wukong (dbu) by phil-cho : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sun-wukong-dbu-by-phil-cho-v0-kqjc70s0wytb1.jpg?width=792&format=pjpg&auto=webp&s=81ef480ce78ea1fb894e64d495875cbe613aa44a' alt='sun wukong (dbu) by phil-cho : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sun-wukong-dbu-by-phil-cho-v0-kqjc70s0wytb1.jpg?width=792&format=pjpg&auto=webp&s=81ef480ce78ea1fb894e64d495875cbe613aa44a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origins Of Sun Wukong">
+                                <img itemprop="contentUrl url" src='https://gwongzaukungfu.com/wp-content/uploads/2022/01/Rey-Mono-Sun-Wukong.jpg' alt='The Origins Of Sun Wukong'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gwong Zau Kung Fu 廣州功夫" />
+                                </span>
+                                <a href='https://gwongzaukungfu.com/wp-content/uploads/2022/01/Rey-Mono-Sun-Wukong.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The real history behind the legend of Sun Wukong, China's Monkey King">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/4f0d4595-dfb5-4016-88ef-26dcb3672054/DP135893-1_2x3.jpg' alt='The real history behind the legend of Sun Wukong, China's Monkey King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/4f0d4595-dfb5-4016-88ef-26dcb3672054/DP135893-1_2x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wukong by GENZOMAN on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/36/6c/e4366cc9c3cca8d18007acd88c520781.jpg' alt='Sun Wukong by GENZOMAN on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/36/6c/e4366cc9c3cca8d18007acd88c520781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Timeless Appeal of Sun Wukong – Miniwarrior">
+                                <img itemprop="contentUrl url" src='http://mini-warrior.com/cdn/shop/articles/wukong-100.jpg?v=1724398622' alt='The Timeless Appeal of Sun Wukong – Miniwarrior'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mini-Warrior" />
+                                </span>
+                                <a href='http://mini-warrior.com/cdn/shop/articles/wukong-100.jpg?v=1724398622' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

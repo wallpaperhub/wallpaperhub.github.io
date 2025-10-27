@@ -1,0 +1,129 @@
+<title>Discover Wu-Tang Clan: Hip-Hop Legends</title>
+                    <meta name="description" content="Explore the legacy of Wu-Tang Clan, pioneers of hip-hop with their iconic sound and unforgettable albums. Dive into their influential journey from Staten Island to global stardom, shaping the rap genre and culture. Perfect for new fans and long-time followers alike!">
+                    <meta name="keywords" content="wu tang clan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wu-tang-clan">
+                            <span itemprop="name">wu tang clan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Wu-Tang Clan: Hip-Hop Legends</h1>
+                <p>Wu-Tang Clan is a legendary hip-hop group from Staten Island, known for their innovative sound and lyricism. Founded in 1992, their debut album "Enter the Wu-Tang (36 Chambers)" forever changed the genre. The group is renowned for blending East Coast rap with martial arts themes, creating a unique cultural impact that resonates today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wu-Tang Clan | Warwick Beacon">
+                                <img itemprop="contentUrl url" src='https://warwickonline.com/uploads/original/20220718-114659-The%20Wu%20Tang%20Clan.jpg' alt='The Wu-Tang Clan | Warwick Beacon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warwick Beacon" />
+                                </span>
+                                <a href='https://warwickonline.com/uploads/original/20220718-114659-The%20Wu%20Tang%20Clan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wu-Tang Clan | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a' alt='Wu-Tang Clan | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: 'Wu-Tang Clan: Of Mics and Men' captures the group's ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/2108ca8/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F8a%2F0e942f5c6601c008ca24c7865f4f%2Fla-1557453182-5t5tuaueck-snap-image' alt='Review: 'Wu-Tang Clan: Of Mics and Men' captures the group's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/2108ca8/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F8a%2F0e942f5c6601c008ca24c7865f4f%2Fla-1557453182-5t5tuaueck-snap-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wu-Tang Clan's 20-Year Plan : The Record : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2013/04/07/5-fb521805b6213d25d16445ca420b320c96511ff9.jpg?s=1100&c=50&f=jpeg' alt='The Wu-Tang Clan's 20-Year Plan : The Record : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2013/04/07/5-fb521805b6213d25d16445ca420b320c96511ff9.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hoping For A Better Tomorrow: How The Wu-Tang Clan Got It Wrong ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2560/1*klMtz1sjO3-nZD9Omj58xA.png' alt='Hoping For A Better Tomorrow: How The Wu-Tang Clan Got It Wrong ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2560/1*klMtz1sjO3-nZD9Omj58xA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of The Wu-Tang Logo - Logo Design Magazine">
+                                <img itemprop="contentUrl url" src='https://www.logodesign.org/wp-content/uploads/2024/03/image-17.jpeg' alt='The History Of The Wu-Tang Logo - Logo Design Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo Design Magazine" />
+                                </span>
+                                <a href='https://www.logodesign.org/wp-content/uploads/2024/03/image-17.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE IMPROBABLE ADVENTURES OF WU-TANG CLAN">
+                                <img itemprop="contentUrl url" src='https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_1752182298.jpg' alt='THE IMPROBABLE ADVENTURES OF WU-TANG CLAN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hits Daily Double" />
+                                </span>
+                                <a href='https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_1752182298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrities on the rap gods: Wu-Tang Clan at Exit is a feast for ...">
+                                <img itemprop="contentUrl url" src='https://www.exitfest.org/wp-content/uploads/2023/06/klot_Wu-Tang-Clan-1.jpg' alt='Celebrities on the rap gods: Wu-Tang Clan at Exit is a feast for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EXIT" />
+                                </span>
+                                <a href='https://www.exitfest.org/wp-content/uploads/2023/06/klot_Wu-Tang-Clan-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Underlying Politics of The Wu-Tang Clan – The Blue and White">
+                                <img itemprop="contentUrl url" src='https://tbaw.ca/wp-content/uploads/2021/04/wutangclan-feat.jpeg?w=1000' alt='The Underlying Politics of The Wu-Tang Clan – The Blue and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Upper Canada College's Online Publication" />
+                                </span>
+                                <a href='https://tbaw.ca/wp-content/uploads/2021/04/wutangclan-feat.jpeg?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wu-Tang Clan - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HrlHWLPPF0M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAafXHCItHe_A92G-AJc_7eMT7haw' alt='Wu-Tang Clan - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HrlHWLPPF0M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAafXHCItHe_A92G-AJc_7eMT7haw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

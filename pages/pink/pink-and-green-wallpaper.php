@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Pink and Green Wallpaper</title>
+                    <meta name="description" content="Transform your home with stunning pink and green wallpaper options. Perfect for any room, this vibrant duo adds a fresh touch to your décor while being easy to incorporate into various styles. Explore our collection to find the ideal design that breathes life into your space!">
+                    <meta name="keywords" content="pink and green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-green-wallpaper">
+                            <span itemprop="name">pink and green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Pink and Green Wallpaper</h1>
+                <p>Discover the charm of pink and green wallpaper, perfect for adding a fresh, vibrant look to any room. Whether it’s floral patterns or geometric designs, this color combination creates a playful yet sophisticated atmosphere. Ideal for nurseries, living spaces, or accent walls, pink and green wallpaper enhances your decor style effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Paradise Wallpaper in Dusky Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-TropicalParadise-DustyPink_ILW50381_Thumbnail_WEB_2bb63682-1ad5-484a-8721-7bc319a4ef13.webp?crop=center&height=850&v=1705932317&width=850' alt='Tropical Paradise Wallpaper in Dusky Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-TropicalParadise-DustyPink_ILW50381_Thumbnail_WEB_2bb63682-1ad5-484a-8721-7bc319a4ef13.webp?crop=center&height=850&v=1705932317&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' alt='Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliana Floral Wallpaper Pink Belgravia 8485">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' alt='Oliana Floral Wallpaper Pink Belgravia 8485'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Window View - Pink and Green">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65129/window-view-pink-and-green.jpg?h=699&q=85' alt='Window View - Pink and Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65129/window-view-pink-and-green.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura Ashley Eglantine Eau De Nil Non Woven Unpasted Removable Wallpaper  113371">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc3354fb-cdc9-433f-b96d-d306d8958164/svn/laura-ashley-wallpaper-rolls-113371-64_300.jpg' alt='Laura Ashley Eglantine Eau De Nil Non Woven Unpasted Removable Wallpaper  113371'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc3354fb-cdc9-433f-b96d-d306d8958164/svn/laura-ashley-wallpaper-rolls-113371-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Green and pink foliage u79682">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/157/u79682pzv_1200.webp' alt='Wall Mural Photo Wallpaper Green and pink foliage u79682'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/157/u79682pzv_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Pink and Green Wallpapers to Change Your Life | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-07/blobid1658321130540.jpg' alt='8 Pink and Green Wallpapers to Change Your Life | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-07/blobid1658321130540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Fern Pink, Blue & Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/floral-fern-pink-blue-green-wallpaper-yjvc.jpg' alt='Floral Fern Pink, Blue & Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/floral-fern-pink-blue-green-wallpaper-yjvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287520.jpg' alt='Pink Green Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' alt='100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

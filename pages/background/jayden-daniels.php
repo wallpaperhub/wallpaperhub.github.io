@@ -1,0 +1,129 @@
+<title>Jayden Daniels: The Future of College Football</title>
+                    <meta name="description" content="Explore the journey of Jayden Daniels, a remarkable college football quarterback. Discover his skills, achievements, and potential as he aims for greatness on the field. Stay updated with his progress and what makes him a standout player in the world of sports.">
+                    <meta name="keywords" content="jayden daniels">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jayden-daniels">
+                            <span itemprop="name">jayden daniels</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jayden Daniels: The Future of College Football</h1>
+                <p>Jayden Daniels is a rising star in college football, known for his impressive athleticism and strong leadership on the field. Playing as a quarterback, he combines speed with strategic thinking, making him a dual-threat player. His performances have captivated fans and analysts alike, marking him as a key player to watch in the upcoming seasons.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jayden Daniels - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jayden_Daniels_training_camp_2024.jpg/1200px-Jayden_Daniels_training_camp_2024.jpg' alt='Jayden Daniels - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jayden_Daniels_training_camp_2024.jpg/1200px-Jayden_Daniels_training_camp_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Commanders quarterback Jayden Daniels? Get to know the rookie">
+                                <img itemprop="contentUrl url" src='https://www.cincinnati.com/gcdn/authoring/images/smg/2024/09/11/SMGW/75170426007-2170860606.jpeg?crop=4805,4804,x1200,y0' alt='Who is Commanders quarterback Jayden Daniels? Get to know the rookie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4805">
+                                <meta itemprop="height" content="4804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cincinnati Enquirer" />
+                                </span>
+                                <a href='https://www.cincinnati.com/gcdn/authoring/images/smg/2024/09/11/SMGW/75170426007-2170860606.jpeg?crop=4805,4804,x1200,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Football - Vote for Jayden Daniels as the NFL Rookie... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978072034363872' alt='LSU Football - Vote for Jayden Daniels as the NFL Rookie... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1639">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978072034363872' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jayden Daniels - Washington Commanders Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426348.png' alt='Jayden Daniels - Washington Commanders Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426348.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Jayden Daniels Made NFL History vs Arizona Cardinals">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_6000,h_3375,x_0,y_112/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_cardinals/01j91qj9qw87qkrs1j8g.jpg' alt='How Jayden Daniels Made NFL History vs Arizona Cardinals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_6000,h_3375,x_0,y_112/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_cardinals/01j91qj9qw87qkrs1j8g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram photo by Jayden Daniels • Jan 20, 2025 at 3:25 PM">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3550021189942650875' alt='Instagram photo by Jayden Daniels • Jan 20, 2025 at 3:25 PM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3550021189942650875' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best rookie year of all time?' Jayden Daniels has the Commanders a ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/1e4a9b4/2147483647/strip/true/crop/3227x2152+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F7d%2F66d0358b8f4c96bc7ca8356dbaf2%2F31ce0d7333ca4bae83432dce866f0051' alt='Best rookie year of all time?' Jayden Daniels has the Commanders a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/1e4a9b4/2147483647/strip/true/crop/3227x2152+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F7d%2F66d0358b8f4c96bc7ca8356dbaf2%2F31ce0d7333ca4bae83432dce866f0051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jayden Daniels faces enormous expectations head-on: 'Pressure is a ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/athletic/uploads/wp/2024/09/05021752/GettyImages-2168478675-scaled.jpg?width=1200&height=900&fit=cover' alt='Jayden Daniels faces enormous expectations head-on: 'Pressure is a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/athletic/uploads/wp/2024/09/05021752/GettyImages-2168478675-scaled.jpg?width=1200&height=900&fit=cover' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jayden Daniels Named Commanders' Starting QB">
+                                <img itemprop="contentUrl url" src='https://cdn.profootballrumors.com/files/2024/08/USATSI_23965347-scaled.jpg' alt='Jayden Daniels Named Commanders' Starting QB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Rumors" />
+                                </span>
+                                <a href='https://cdn.profootballrumors.com/files/2024/08/USATSI_23965347-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where is Jayden Daniels from? Hometown, high school, and more ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-11/Jayden%20Daniels.jpg?h=469c26a8&itok=51LPUbcH' alt='Where is Jayden Daniels from? Hometown, high school, and more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-11/Jayden%20Daniels.jpg?h=469c26a8&itok=51LPUbcH' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

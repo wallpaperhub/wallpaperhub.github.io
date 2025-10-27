@@ -1,0 +1,129 @@
+<title>Understanding Foreground vs. Background: Key Differences</title>
+                    <meta name="description" content="Explore the essential differences between foreground and background in visual design. Learn how these elements interact to create depth and focus in artworks and photography. Optimize your understanding of composition and enhance your visual storytelling skills.">
+                    <meta name="keywords" content="foreground vs background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/foreground-vs-background">
+                            <span itemprop="name">foreground vs background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Foreground vs. Background: Key Differences</h1>
+                <p>Foreground and background are crucial concepts in visual design and art. The foreground is the part of the scene closest to the viewer, often the main focus, while the background creates context and depth, enhancing the overall composition. Effective use of both elements can evoke emotions and guide viewer attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground, Middle Ground, and Background in Photography">
+                                <img itemprop="contentUrl url" src='https://cloudfront.slrlounge.com/wp-content/uploads/2023/09/foreground-middle-ground-background-1200x800.jpg' alt='Foreground, Middle Ground, and Background in Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLR Lounge" />
+                                </span>
+                                <a href='https://cloudfront.slrlounge.com/wp-content/uploads/2023/09/foreground-middle-ground-background-1200x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground and Background: Learning to see -">
+                                <img itemprop="contentUrl url" src='https://carinagardner.com/wp-content/uploads/2009/01/foreback_a1.jpg' alt='Foreground and Background: Learning to see -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carina Gardner" />
+                                </span>
+                                <a href='https://carinagardner.com/wp-content/uploads/2009/01/foreback_a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soulburn Studios Art Lessons">
+                                <img itemprop="contentUrl url" src='http://www.neilblevins.com/art_lessons/composition_fore_mid_back/3typestogether.jpg' alt='Soulburn Studios Art Lessons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soulburn Studios Art Lessons" />
+                                </span>
+                                <a href='http://www.neilblevins.com/art_lessons/composition_fore_mid_back/3typestogether.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground in Photography: Meaning, Usage & Tips">
+                                <img itemprop="contentUrl url" src='https://fixthephoto.com/images/content/foreground-in-photography-vs-middle-vs-background.jpg' alt='Foreground in Photography: Meaning, Usage & Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photo Retouching Services" />
+                                </span>
+                                <a href='https://fixthephoto.com/images/content/foreground-in-photography-vs-middle-vs-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Defining & Identifying Foreground, Middle Ground, & Background | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/foremidbackgroundpresentation-180210071246-thumbnail.jpg?width=640&height=640&fit=bounds' alt='Defining & Identifying Foreground, Middle Ground, & Background | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/foremidbackgroundpresentation-180210071246-thumbnail.jpg?width=640&height=640&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background and Foreground - Information Literacy for Health ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/libapps/accounts/17527/images/bandf.png' alt='Background and Foreground - Information Literacy for Health ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCSF Guides - University of California, San Francisco" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/libapps/accounts/17527/images/bandf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background & Foreground. Photography is a diverse skill combined ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*lkOH8CUoK-HtYjzru1ezyQ.jpeg' alt='Background & Foreground. Photography is a diverse skill combined ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*lkOH8CUoK-HtYjzru1ezyQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground – Comic Book Glossary">
+                                <img itemprop="contentUrl url" src='https://comicbookglossary.wordpress.com/wp-content/uploads/2015/09/gw417h352.jpeg?w=300&h=253' alt='Foreground – Comic Book Glossary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comic Book Glossary - WordPress.com" />
+                                </span>
+                                <a href='https://comicbookglossary.wordpress.com/wp-content/uploads/2015/09/gw417h352.jpeg?w=300&h=253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Foreground and Background Material? - Greek Letter Me">
+                                <img itemprop="contentUrl url" src='https://www.greekletter.me/product_images/uploaded_images/foreground-and-background-diagram.png' alt='What is the Foreground and Background Material? - Greek Letter Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Letter Me" />
+                                </span>
+                                <a href='https://www.greekletter.me/product_images/uploaded_images/foreground-and-background-diagram.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscapes foreground, middle, background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QPxXnrhb1bA/maxresdefault.jpg' alt='Landscapes foreground, middle, background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QPxXnrhb1bA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

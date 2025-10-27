@@ -1,0 +1,129 @@
+<title>Perfect Wish Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover inspiring wish backgrounds tailored for any event! From birthdays to weddings, find designs that enhance the magic of your special moments. Create an unforgettable experience and set the perfect tone for making wishes. Explore now!">
+                    <meta name="keywords" content="wish background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wish-background">
+                            <span itemprop="name">wish background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Wish Backgrounds for Every Occasion</h1>
+                <p>A wish background can set the perfect tone for any celebration. It evokes emotions and creates an atmosphere that enhances the significance of making wishes, whether for birthdays, weddings, or special events. Consider incorporating vibrant colors, whimsical designs, and meaningful symbols to reflect the essence of your heartfelt wishes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wish' Movie — Disney Revives Its 2D Legacy for Animated Feature">
+                                <img itemprop="contentUrl url" src='https://www.indiewire.com/wp-content/uploads/2023/11/Wish_FirstLook_19.jpg' alt='Wish' Movie — Disney Revives Its 2D Legacy for Animated Feature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="3008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndieWire" />
+                                </span>
+                                <a href='https://www.indiewire.com/wp-content/uploads/2023/11/Wish_FirstLook_19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind-The-Scenes of Disney's WISH: Homage to 100 Years of Disney ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/skywalkingthroughneverland.com/wp-content/uploads/2023/09/WISH-ONLINE-USE-trailer_002.10_0015_2K-1.jpg' alt='Behind-The-Scenes of Disney's WISH: Homage to 100 Years of Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skywalking Through Neverland" />
+                                </span>
+                                <a href='https://i0.wp.com/skywalkingthroughneverland.com/wp-content/uploads/2023/09/WISH-ONLINE-USE-trailer_002.10_0015_2K-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Wish movie HD wallpapers - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2023-10/1698343030_youloveit_com_disney_wish_hd_wallpapers78.jpg' alt='Disney Wish movie HD wallpapers - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2023-10/1698343030_youloveit_com_disney_wish_hd_wallpapers78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wish Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/shiny-turquoise-background_1048-1254.jpg' alt='Wish Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/shiny-turquoise-background_1048-1254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wish 2023 Animated Movie Magical HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/134/1342572.jpeg' alt='Wish 2023 Animated Movie Magical HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/134/1342572.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Wish movie HD wallpapers - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2023-10/1698343066_youloveit_com_disney_wish_hd_wallpapers7744.jpg' alt='Disney Wish movie HD wallpapers - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2023-10/1698343066_youloveit_com_disney_wish_hd_wallpapers7744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Wish movie HD wallpapers - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2023-10/1698342980_youloveit_com_disney_wish_hd_wallpapers710.jpg' alt='Disney Wish movie HD wallpapers - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2023-10/1698342980_youloveit_com_disney_wish_hd_wallpapers710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Wishing Star Abstract Wish Stars Photo Background And ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20220129/pngtree-bright-wishing-star-abstract-wish-stars-photo-image_573304.jpg' alt='Bright Wishing Star Abstract Wish Stars Photo Background And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20220129/pngtree-bright-wishing-star-abstract-wish-stars-photo-image_573304.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wish 2023 Animated Movie HD Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/134/1342571.jpeg' alt='Wish 2023 Animated Movie HD Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/134/1342571.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,068,890 Wish Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/snowglobe-eve-night-wish-concept-260nw-2383930511.jpg' alt='1,068,890 Wish Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/snowglobe-eve-night-wish-concept-260nw-2383930511.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

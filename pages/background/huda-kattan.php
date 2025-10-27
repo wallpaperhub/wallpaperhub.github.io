@@ -1,0 +1,129 @@
+<title>Huda Kattan: The Beauty Mogul Transforming the Industry</title>
+                    <meta name="description" content="Explore Huda Kattan's journey from beauty blogger to global cosmetics entrepreneur. Discover her innovative products and tips that inspire millions in the beauty industry. Stay updated with her latest trends and insights! Perfect for beauty enthusiasts seeking inspiration on-the-go.">
+                    <meta name="keywords" content="huda kattan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/huda-kattan">
+                            <span itemprop="name">huda kattan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Huda Kattan: The Beauty Mogul Transforming the Industry</h1>
+                <p>Huda Kattan is a renowned beauty blogger, entrepreneur, and founder of Huda Beauty, a globally acclaimed cosmetics line. With a passion for makeup and beauty, she has transformed her brand into a multi-million dollar empire. Huda's engaging content and innovative products inspire millions, making her a leading figure in the beauty industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Kattan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Huda_Kattan_-_Vogue_Taiwan.png' alt='Huda Kattan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7e/Huda_Kattan_-_Vogue_Taiwan.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Kattan on Her "Scrappy" Wedding, Overcoming Failure & What's Next For  Her Brand">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MWMcoGEe2aM/maxresdefault.jpg' alt='Huda Kattan on Her "Scrappy" Wedding, Overcoming Failure & What's Next For  Her Brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MWMcoGEe2aM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Beauty - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/mTJcJ1NkRe1rNy9NI06seLJm_yBe23siLOV8-CtaTLZ8hYSGzuoaVKwLLX5HQGpNirE1AGgDfQ=s900-c-k-c0x00ffffff-no-rj' alt='Huda Beauty - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/mTJcJ1NkRe1rNy9NI06seLJm_yBe23siLOV8-CtaTLZ8hYSGzuoaVKwLLX5HQGpNirE1AGgDfQ=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Huda Kattan Gets Her Skin So Good">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/175/37a/616dfc26854d6e59041918d59db3020b0c-huda-kattan.1x.rsquare.w1400.jpg' alt='How Huda Kattan Gets Her Skin So Good'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cut" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/175/37a/616dfc26854d6e59041918d59db3020b0c-huda-kattan.1x.rsquare.w1400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Kattan: The Entrepreneur Behind @hudabeauty - A Global Beauty ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/13b3fd_000690963b3e4e1188b8288b0ea85e77~mv2.webp/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/13b3fd_000690963b3e4e1188b8288b0ea85e77~mv2.webp' alt='Huda Kattan: The Entrepreneur Behind @hudabeauty - A Global Beauty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="icönik" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/13b3fd_000690963b3e4e1188b8288b0ea85e77~mv2.webp/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/13b3fd_000690963b3e4e1188b8288b0ea85e77~mv2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Kattan on How Endometriosis Affects Her Mind and Body | SELF">
+                                <img itemprop="contentUrl url" src='http://media.self.com/photos/5e594102f96c890008e9ac64/master/pass/Huda-Kattan_on_endometriosis.jpg' alt='Huda Kattan on How Endometriosis Affects Her Mind and Body | SELF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.self.com" />
+                                </span>
+                                <a href='http://media.self.com/photos/5e594102f96c890008e9ac64/master/pass/Huda-Kattan_on_endometriosis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Kattan - Most Powerful Businesswomen 2025 - Forbes Lists">
+                                <img itemprop="contentUrl url" src='https://forbesme-prestaging-media.s3.us-east-2.amazonaws.com/lists/uploads/2024/02/13114920/Huda-Kattan-1.jpg' alt='Huda Kattan - Most Powerful Businesswomen 2025 - Forbes Lists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes Middle East" />
+                                </span>
+                                <a href='https://forbesme-prestaging-media.s3.us-east-2.amazonaws.com/lists/uploads/2024/02/13114920/Huda-Kattan-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unfiltered: Huda Beauty's Huda Kattan Tells Us Her Makeup & CEO ...">
+                                <img itemprop="contentUrl url" src='https://cimgr.thebeaulife.co/cimg/f_jpg,w_450,c_fit/img/huda-beauty-huda-kattan-interview.jpg' alt='Unfiltered: Huda Beauty's Huda Kattan Tells Us Her Makeup & CEO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheBeauLife" />
+                                </span>
+                                <a href='https://cimgr.thebeaulife.co/cimg/f_jpg,w_450,c_fit/img/huda-beauty-huda-kattan-interview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huda Beauty Welcomes Huda Kattan Back as CEO, Brand Redesign Incoming">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2024/02/Huda-Press-November-20232355-copy-2.jpg?crop=0px%2C439px%2C2000px%2C1119px&resize=1000%2C563' alt='Huda Beauty Welcomes Huda Kattan Back as CEO, Brand Redesign Incoming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2024/02/Huda-Press-November-20232355-copy-2.jpg?crop=0px%2C439px%2C2000px%2C1119px&resize=1000%2C563' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is cosmetics queen Huda Kattan? 5 things to know about the ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/06/17/4526d41e-af83-11ea-a77b-87dc2115315d_image_hires_103152.jpg?itok=k8swoQmh&v=1592361120' alt='Who is cosmetics queen Huda Kattan? 5 things to know about the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/06/17/4526d41e-af83-11ea-a77b-87dc2115315d_image_hires_103152.jpg?itok=k8swoQmh&v=1592361120' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

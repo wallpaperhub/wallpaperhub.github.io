@@ -1,0 +1,129 @@
+<title>Lana Del Rey Aesthetic Wallpapers for Dreamy Screens</title>
+                    <meta name="description" content="Discover stunning Lana Del Rey aesthetic wallpapers that embody nostalgia and vintage charm. Transform your devices with ethereal designs inspired by her iconic style. Perfect for fans seeking a touch of dreamy elegance in their digital spaces!">
+                    <meta name="keywords" content="lana del rey aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/lana-del-rey-aesthetic-wallpaper">
+                            <span itemprop="name">lana del rey aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lana Del Rey Aesthetic Wallpapers for Dreamy Screens</h1>
+                <p>Lana Del Rey aesthetic wallpapers capture the essence of dreamy nostalgia and vintage glamor. Featuring soft pastels, melancholic landscapes, and iconic imagery from her music videos, these wallpapers transform your screen into a surreal haven. Perfect for fans of her ethereal style, they evoke a sense of longing and beauty with every glance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown aesthetic LDR wallpaper I made for yall :) : r/lanadelrey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cmf9vt5cwvp71.jpg' alt='Brown aesthetic LDR wallpaper I made for yall :) : r/lanadelrey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cmf9vt5cwvp71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana del rey aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/20/c2/7c20c2902fe5dfe49e0fbe0dbb6efb4b.jpg' alt='Lana del rey aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/20/c2/7c20c2902fe5dfe49e0fbe0dbb6efb4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana Del Rey Pink Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/39/6c/95396c9e271f5378a8366282a302c19f.jpg' alt='Lana Del Rey Pink Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/39/6c/95396c9e271f5378a8366282a302c19f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lana Del Rey Vintage Collage Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lana-del-rey-vintage-collage-aesthetic-54hshk1d08pv89f4.jpg' alt='Download Lana Del Rey Vintage Collage Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lana-del-rey-vintage-collage-aesthetic-54hshk1d08pv89f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana beige aesthetics wallpaper✨ Made by me    : r/lanadelrey">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thzlysqha0i51.jpg?width=640&crop=smart&auto=webp&s=6277c73b458f81a1bd4d4ad4cbdd338896fd0a31' alt='Lana beige aesthetics wallpaper✨ Made by me    : r/lanadelrey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thzlysqha0i51.jpg?width=640&crop=smart&auto=webp&s=6277c73b458f81a1bd4d4ad4cbdd338896fd0a31' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lana Del Rey Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lana-del-rey-aesthetic-collage-ewyevj6xw9d7ykdl.jpg' alt='Download Lana Del Rey Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lana-del-rey-aesthetic-collage-ewyevj6xw9d7ykdl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana Del Rey Aesthetic Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/d8/83/4cd8834c666ddd2056f68c0249a27d6b.jpg' alt='Lana Del Rey Aesthetic Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/d8/83/4cd8834c666ddd2056f68c0249a27d6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whats your phone wallpaper? Myn is: : r/lanadelrey">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/whats-your-phone-wallpaper-myn-is-v0-rpuobtxlo2nb1.jpg?width=1080&crop=smart&auto=webp&s=4a15a648fc47c895d1c4ba138fe5dacdd313f44d' alt='Whats your phone wallpaper? Myn is: : r/lanadelrey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/whats-your-phone-wallpaper-myn-is-v0-rpuobtxlo2nb1.jpg?width=1080&crop=smart&auto=webp&s=4a15a648fc47c895d1c4ba138fe5dacdd313f44d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lana Del Rey Summertime Sadness Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lana-del-rey-summertime-sadness-aesthetic-6gbad0hqdxqdtcmy.jpg' alt='Download Lana Del Rey Summertime Sadness Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lana-del-rey-summertime-sadness-aesthetic-6gbad0hqdxqdtcmy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana Del Rey Wallpapers (60 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/d/1/195709-3840x2160-desktop-4k-lana-del-rey-background.jpg' alt='Lana Del Rey Wallpapers (60 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/d/1/195709-3840x2160-desktop-4k-lana-del-rey-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

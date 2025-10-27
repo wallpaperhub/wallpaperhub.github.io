@@ -1,0 +1,129 @@
+<title>Super Kitties: Feline Heroes in Action</title>
+                    <meta name="description" content="Explore the enchanting world of Super Kitties, where adorable cats become brave heroes! Discover their thrilling adventures, unique abilities, and valuable life lessons about friendship and teamwork in this captivating narrative perfect for all ages. Join the fun with these spirited feline champions!">
+                    <meta name="keywords" content="super kitties background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/super-kitties-background">
+                            <span itemprop="name">super kitties background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Super Kitties: Feline Heroes in Action</h1>
+                <p>Super Kitties are a delightful blend of feline charm and superhero capabilities, often depicted in various media. These fictional cats, adorned with capes and unique powers, embody bravery and friendship. Their adventures inspire young audiences, combining humor and heartwarming moments while promoting kindness and teamwork among characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 1Pcs Super Kitties Party Decoration Banner ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lHe1fzikL.jpg' alt='Amazon.com : 1Pcs Super Kitties Party Decoration Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lHe1fzikL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hero Kitties Super Cats Blue Seamless Pattern - Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21030435/r/il/8bceed/4516913750/il_570xN.4516913750_1ysc.jpg' alt='Hero Kitties Super Cats Blue Seamless Pattern - Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21030435/r/il/8bceed/4516913750/il_570xN.4516913750_1ysc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Trends International Disney Junior Super Kitties - Group Wall  Poster, 34L x 22.4W, Premium Unframed Version : Trends International">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nnH5suvyL.jpg' alt='Amazon.com: Trends International Disney Junior Super Kitties - Group Wall  Poster, 34L x 22.4W, Premium Unframed Version : Trends International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nnH5suvyL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 1Pcs Super Kitties Party Decoration Banner ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71AP0f4lDpL.jpg' alt='Amazon.com : 1Pcs Super Kitties Party Decoration Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71AP0f4lDpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Kitties Backdrop Banner Party Supplies Poster Movie Theme Background  for Photography Kids Birthday Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/6488217d-c89e-4170-9565-3b9c9076ed97.4114c6a0b65699848d88e07ce2aa84f0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Super Kitties Backdrop Banner Party Supplies Poster Movie Theme Background  for Photography Kids Birthday Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/6488217d-c89e-4170-9565-3b9c9076ed97.4114c6a0b65699848d88e07ce2aa84f0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch SuperKitties | Full Episodes | Disney+">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/64/b1/3164b1510f17c5d9de21eb26c60afe44.jpg' alt='Watch SuperKitties | Full Episodes | Disney+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/64/b1/3164b1510f17c5d9de21eb26c60afe44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="superkitties by jr851137 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4bd2e9-366d-4cac-b31d-1b8efe4705af/dfxixdr-a9fb2e0a-a8b7-4c4e-9b99-8862c7993b8e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGJkMmU5LTM2NmQtNGNhYy1iMzFkLTFiOGVmZTQ3MDVhZlwvZGZ4aXhkci1hOWZiMmUwYS1hOGI3LTRjNGUtOWI5OS04ODYyYzc5OTNiOGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yh_dWnTZUNPsnIZ6ntmQIvoLTAcT8QDoS0YGPqrcsoc' alt='superkitties by jr851137 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4bd2e9-366d-4cac-b31d-1b8efe4705af/dfxixdr-a9fb2e0a-a8b7-4c4e-9b99-8862c7993b8e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGJkMmU5LTM2NmQtNGNhYy1iMzFkLTFiOGVmZTQ3MDVhZlwvZGZ4aXhkci1hOWZiMmUwYS1hOGI3LTRjNGUtOWI5OS04ODYyYzc5OTNiOGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yh_dWnTZUNPsnIZ6ntmQIvoLTAcT8QDoS0YGPqrcsoc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SP Wallpaper 1 by Stacey-11 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c93603a6-d500-4e13-bcf0-97f54aa4b018/dgytwsc-0f384434-89f9-4103-9418-df21d1896430.jpg/v1/fill/w_1280,h_960,q_75,strp/sp_wallpaper_1_by_stacey_11_dgytwsc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYzkzNjAzYTYtZDUwMC00ZTEzLWJjZjAtOTdmNTRhYTRiMDE4XC9kZ3l0d3NjLTBmMzg0NDM0LTg5ZjktNDEwMy05NDE4LWRmMjFkMTg5NjQzMC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.16HSAGJU7_WssWZkFo5yLQD-2W7LnUKWKK2mkI0Tfg4' alt='SP Wallpaper 1 by Stacey-11 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c93603a6-d500-4e13-bcf0-97f54aa4b018/dgytwsc-0f384434-89f9-4103-9418-df21d1896430.jpg/v1/fill/w_1280,h_960,q_75,strp/sp_wallpaper_1_by_stacey_11_dgytwsc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYzkzNjAzYTYtZDUwMC00ZTEzLWJjZjAtOTdmNTRhYTRiMDE4XC9kZ3l0d3NjLTBmMzg0NDM0LTg5ZjktNDEwMy05NDE4LWRmMjFkMTg5NjQzMC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.16HSAGJU7_WssWZkFo5yLQD-2W7LnUKWKK2mkI0Tfg4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SuperKitties by maalmondthevyonder on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef678f48-1502-4c60-8c8e-c20007ec8a31/dfvyt7h-d19bd668-67da-4935-a6b1-1d7e5c4cda58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmNjc4ZjQ4LTE1MDItNGM2MC04YzhlLWMyMDAwN2VjOGEzMVwvZGZ2eXQ3aC1kMTliZDY2OC02N2RhLTQ5MzUtYTZiMS0xZDdlNWM0Y2RhNTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5NSa0agEAYfOeHRc3P-_lZB0DX3qHsKAnqHNpJl9a7E' alt='SuperKitties by maalmondthevyonder on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef678f48-1502-4c60-8c8e-c20007ec8a31/dfvyt7h-d19bd668-67da-4935-a6b1-1d7e5c4cda58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmNjc4ZjQ4LTE1MDItNGM2MC04YzhlLWMyMDAwN2VjOGEzMVwvZGZ2eXQ3aC1kMTliZDY2OC02N2RhLTQ5MzUtYTZiMS0xZDdlNWM0Y2RhNTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5NSa0agEAYfOeHRc3P-_lZB0DX3qHsKAnqHNpJl9a7E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SuperKitties Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/bc/09/0abc090473536e28de07687556ffb390.jpg' alt='SuperKitties Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/bc/09/0abc090473536e28de07687556ffb390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

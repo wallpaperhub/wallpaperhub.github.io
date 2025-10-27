@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Purple Wallpaper for Your Screen</title>
+                    <meta name="description" content="Explore the mesmerizing galaxy:qfw6umixvgo= purple wallpaper! Ideal for personalizing your devices with a touch of cosmic elegance. Download now for free and elevate your screen's aesthetic with vibrant colors and dreamy designs. Perfect for all fans of space art!">
+                    <meta name="keywords" content="galaxy:qfw6umixvgo= purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxyqfw6umixvgo-purple-wallpaper">
+                            <span itemprop="name">galaxy:qfw6umixvgo= purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Purple Wallpaper for Your Screen</h1>
+                <p>Transform your device with our stunning galaxy:qfw6umixvgo= purple wallpaper! Featuring a blend of vibrant hues and celestial motifs, this unique design brings a touch of cosmic beauty to your screen. Perfect for personalizing your phone or desktop, it's a must-have for space and color lovers alike. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract splashed purple galaxy wall murals for teenage bedrooms">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/photomural/preview/69610.png' alt='Abstract splashed purple galaxy wall murals for teenage bedrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/photomural/preview/69610.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13723589/p/f/m/30jlOENBUsZm8-1fn9r5prt9frOWjZh_bGv4JNiOBeWa6do5od3GPCs/Extra%20Bright%20Radiant%20Purple%20Galaxy%2C%20Jumbo.jpg' alt='Purple Galaxy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13723589/p/f/m/30jlOENBUsZm8-1fn9r5prt9frOWjZh_bGv4JNiOBeWa6do5od3GPCs/Extra%20Bright%20Radiant%20Purple%20Galaxy%2C%20Jumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple galaxy wallpapers">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-galaxy-wallpapers_693644-135.jpg' alt='Premium Photo | Purple galaxy wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-galaxy-wallpapers_693644-135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the Purple Galaxy￼ | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-galaxy-4480-x-2520-background-lxipyh33fvaz1per.jpg' alt='Download Explore the Purple Galaxy￼ | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-galaxy-4480-x-2520-background-lxipyh33fvaz1per.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple galaxy wallpapers that will make you want ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-galaxy-wallpapers-that-will-make-you-want-see-universe_868041-4.jpg' alt='Premium Photo | Purple galaxy wallpapers that will make you want ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-galaxy-wallpapers-that-will-make-you-want-see-universe_868041-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/71/ba/b2/71bab29dd12ba6c8710a625d8903a11b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/71/ba/b2/71bab29dd12ba6c8710a625d8903a11b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing wallpaper for your phone :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/92/1b/9b921b538150ba602a6c9d38eae2a681.jpg' alt='Amazing wallpaper for your phone :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/92/1b/9b921b538150ba602a6c9d38eae2a681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Wallpapers | Download 59 images for Free | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/0893f2547261558cb1bba52cb636fe32/813ceece72d66389c2a47de2d0616ed9.jpg?q=70&w=500' alt='Purple Galaxy Wallpapers | Download 59 images for Free | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/0893f2547261558cb1bba52cb636fe32/813ceece72d66389c2a47de2d0616ed9.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Purple Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-purple-galaxy-xt8l1bqupasiklqw.jpg' alt='100+] Pink And Purple Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-purple-galaxy-xt8l1bqupasiklqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Peel and Stick Wallpaper Purple / Purple Galaxy Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14738248/r/il/4abcf7/5986867589/il_340x270.5986867589_k1kj.jpg' alt='Galaxy Peel and Stick Wallpaper Purple / Purple Galaxy Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14738248/r/il/4abcf7/5986867589/il_340x270.5986867589_k1kj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
